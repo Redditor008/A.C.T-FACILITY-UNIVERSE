@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Medical Quarantine, Security, Limited Containment Support |
 | OPERATIONAL STATUS | ACTIVE / INTERIM COLD-STORAGE USE |
 | RISK STATUS | OVERSTAY / SUPPRESSION FAILURE / TRANSFER DELAY RISK |
-| CLEARANCE REQUIRED | Level 3 for routine holding; Level 4 for closure, silent removal, parent-station override, or<br>failed suppression |
+| CLEARANCE REQUIRED | Level 3 for routine holding; Level 4 for closure, silent removal, parent-station override, or failed suppression |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Interim Cryogenic Technology Record |
-| DISTRIBUTION | Frost Hollow Depot / White Grave Station / Medical Quarantine / Security / Limited<br>Containment Support |
+| DISTRIBUTION | Frost Hollow Depot / White Grave Station / Medical Quarantine / Security / Limited Containment Support |
 | AUTHORITY | F-1 Holding Officer, Sub-Site Chief, White Grave Site Command, and Central Archive |
 
 #### Archive Note
@@ -312,6 +312,6 @@ delay.
 - **Created:** 1995-10-16
 - **Author Desk:** F-1 Holding Officer / Medical Quarantine Lead / Central Archive
 - **Review Status:** Active interim cryogenic record; live unit maps, suppression thresholds, and silent
-  removal authorizations censored
+ removal authorizations censored
 - **Next Review:** After any overstay, suppression failure, F-1 closure, transfer delay, seasonal
-  pressure surge, or White Grave disposition dispute
+ pressure surge, or White Grave disposition dispute

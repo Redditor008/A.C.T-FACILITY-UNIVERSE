@@ -15,17 +15,17 @@
 | SECRECY RISK | EXPOSURE-ACTIVE |
 | A.C.T POSTURE | INFILTRATE / MISDIRECT / CONTAIN / DISMANTLE |
 | KNOWN LEADERSHIP | Meridian Governors, Custody Marshals, Iron Magistrates, Zone Commandants, and chartered security boards |
-| KNOWN MEMBERSHIP | Paramilitary containment staff, prison engineers, former soldiers, emergency-law lawyers,<br>contractors, interrogators, and coerced technical personnel |
-| PRIMARY ACTIVE REGION | Disputed quarantine zones, failed state corridors, private detention sites, sealed mines, border<br>camps, and black roads |
-| KNOWN ASSETS | Meridian fences, iron warrants, custody trains, suppression collars, prison towers, survey guns,<br>black ledgers, and mobile tribunals |
-| KNOWN HOLDINGS | Detention corridors, extraction yards, fortified hospitals, forced-work containment sites, tribunal<br>rooms, and armories |
-| IDEOLOGY | Anomalous danger creates permanent emergency jurisdiction; people inside that jurisdiction become<br>assets, hazards, or labor until the Authority declares otherwise |
-| HISTORY WITH A.C.T | Repeated hostile contact through unlawful containment, witness seizure, forced labor, site<br>interference, and attempts to claim A.C.T custody authority |
-| ANOMALY CROSS-REFERENCE | Restricted detention, quarantine, forced labor, hostile containment, prisoner subject, weaponized<br>custody, and emergency-law case chains |
+| KNOWN MEMBERSHIP | Paramilitary containment staff, prison engineers, former soldiers, emergency-law lawyers, contractors, interrogators, and coerced technical personnel |
+| PRIMARY ACTIVE REGION | Disputed quarantine zones, failed state corridors, private detention sites, sealed mines, border camps, and black roads |
+| KNOWN ASSETS | Meridian fences, iron warrants, custody trains, suppression collars, prison towers, survey guns, black ledgers, and mobile tribunals |
+| KNOWN HOLDINGS | Detention corridors, extraction yards, fortified hospitals, forced-work containment sites, tribunal rooms, and armories |
+| IDEOLOGY | Anomalous danger creates permanent emergency jurisdiction; people inside that jurisdiction become assets, hazards, or labor until the Authority declares otherwise |
+| HISTORY WITH A.C.T | Repeated hostile contact through unlawful containment, witness seizure, forced labor, site interference, and attempts to claim A.C.T custody authority |
+| ANOMALY CROSS-REFERENCE | Restricted detention, quarantine, forced labor, hostile containment, prisoner subject, weaponized custody, and emergency-law case chains |
 | CURRENT STATUS | ACTIVE - hostile containment authority under dismantlement |
 | PRIMARY FILE AUTHORITY | Intelligence Division / Containment / Legal / Civil Covert |
 | SITE JURISDICTION | Central Command with Site 01, Site 02, Site 03, and field command attachment |
-| CLEARANCE REQUIRED | Level 4; Level 5 for prisoner lists, suppression devices, charter states, tribunal recordings, and<br>A.C.T penetrations |
+| CLEARANCE REQUIRED | Level 4; Level 5 for prisoner lists, suppression devices, charter states, tribunal recordings, and A.C.T penetrations |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -224,8 +224,8 @@ strongly assessed capabilities include:
 - perimeter fences that resist some route-folding and spatial trespass;
 - suppression collars that dampen limited manifestation events while causing pain or identity numbness;
 - custody trains modified for anomalous prisoner transport;
-  survey guns that mark boundaries visible to some entities and invisible to most
-  civilians;
+ survey guns that mark boundaries visible to some entities and invisible to most
+ civilians;
 - tribunal rooms that pressure witnesses toward Authority classifications;
 - restraint doors that lock according to hazard label rather than physical key alone;
 - black ledgers that preserve prisoner categories after public records are altered;
@@ -456,8 +456,8 @@ naming its abuse.
 
 ### Confirmed Operational Facts
 
-  Iron Meridian Authority is an outside hostile containment institution and not an A.C.T
-  branch.
+ Iron Meridian Authority is an outside hostile containment institution and not an A.C.T
+ branch.
 — It claims emergency jurisdiction over anomalous zones and exposed persons.
 — It maintains detention sites, tribunals, transport systems, and suppression devices.
 — It has used altered civilians and survivors as forced labor or classified assets.
@@ -483,20 +483,20 @@ separate ordinary corruption, human-rights abuse, and anomalous evidence with ca
 
 ### Persistent Questions
 
-  Does the Prime Meridian Seat exist, or is it only a symbolic authority
-  used
-  by local Governors?
+ Does the Prime Meridian Seat exist, or is it only a symbolic authority
+ used
+ by local Governors?
 — Which governments, corporations, or emergency ministries have signed actual Meridian charters?
 — How many detention corridors remain unknown to A.C.T?
 — Can suppression collars be removed safely after long-term use?
-  Are black ledgers anomalous, or are they hardened record systems designed to survive
-  normalcy
-  alteration?
+ Are black ledgers anomalous, or are they hardened record systems designed to survive
+ normalcy
+ alteration?
 — How many A.C.T cover entities have been approached by Meridian charter lawyers?
 — Has Iron Meridian captured or copied technology from Mercy Lock Institute?
-  Do some entities prefer Meridian custody because it concentrates fear, pain, or names
-  inside
-  a line?
+ Do some entities prefer Meridian custody because it concentrates fear, pain, or names
+ inside
+ a line?
 
 ### Intelligence Confidence
 
@@ -531,7 +531,7 @@ or recovered-document files. This GOI dossier must not replace captive recovery 
 - Complete Designation and Class Reference, Archive Record
 - Standing Field Units and Cross-Containment Interaction Protocol, Archive Record
 - Restricted detention, quarantine, forced labor, hostile containment, prisoner subject, emergency-law, and device
-  recovery files held under Central Archive routing.
+ recovery files held under Central Archive routing.
 
 ### Dual Filing
 
@@ -550,11 +550,11 @@ public-cover actions.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            19/11/1999
-FILE LAST UPDATED:       16/04/2015
-FILE AUTHOR:             Intelligence Division / Containment / Legal / Field Command Joint Desk
-REVIEWED BY:             Central Archive
-FILE STATUS:             ACTIVE / RESTRICTED
-DESIGNATION HISTORY:     GOI-HY-X-072 assigned at creation for Iron Meridian Authority
-RECORD CONDITION:        OPERATIONAL
+FILE CREATED: 19/11/1999
+FILE LAST UPDATED: 16/04/2015
+FILE AUTHOR: Intelligence Division / Containment / Legal / Field Command Joint Desk
+REVIEWED BY: Central Archive
+FILE STATUS: ACTIVE / RESTRICTED
+DESIGNATION HISTORY: GOI-HY-X-072 assigned at creation for Iron Meridian Authority
+RECORD CONDITION: OPERATIONAL
 ```

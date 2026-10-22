@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | O5 Liaison, Info-Hazard, Site-03 Archive, Engineering |
 | OPERATIONAL STATUS | ACTIVE / RESTRICTED / O5-LEVEL LOG MATERIAL |
 | RISK STATUS | CONTROLLED / HAZARDOUS IF FORGED, SPILLED, OR MISSEALED |
-| CLEARANCE REQUIRED | Level 4 for use; Level 5 for formula, particle source, O5 log stock, and<br>shift-resistant witness record handling |
+| CLEARANCE REQUIRED | Level 4 for use; Level 5 for formula, particle source, O5 log stock, and shift-resistant witness record handling |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -336,4 +336,4 @@ Standing reminder: RRI is not truth. It is stubbornness given liquid form.
 - **Author Desk:** Archive Division / Materials Custody Desk / O5 Liaison / Central Archive
 - **Review Status:** Active restricted record; particle source and formula censored
 - **Next Review:** After any forged-batch recovery, violet smear event, Refracted One state shift, or O5
-  log discrepancy
+ log discrepancy

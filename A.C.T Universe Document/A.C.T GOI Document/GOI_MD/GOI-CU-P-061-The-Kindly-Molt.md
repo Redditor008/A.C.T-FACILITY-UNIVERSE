@@ -17,20 +17,20 @@
 | KNOWN LEADERSHIP | House Mothers, Shed Fathers, and Molt Witnesses; no central prophet confirmed |
 | KNOWN MEMBERSHIP | Transformed survivors, caregivers, ritual nurses, altered families, refuge escorts, and sympathetic physicians |
 | PRIMARY ACTIVE REGION | Regional refuge houses, back-room chapels, survivor homes, rural clinics, city shelters, and transformation routes |
-| KNOWN ASSETS | Molt houses, comfort rites, skin ledgers, acceptance vows, safe bedding, body maps, concealment<br>garments, and escorts |
-| KNOWN HOLDINGS | Refuge rooms, hidden chapels, care kitchens, locked baths, garment stores, patient ledgers, and<br>family meeting rooms |
-| IDEOLOGY | A changed body is not proof that the person inside has ended, failed, or<br>become unworthy of care |
+| KNOWN ASSETS | Molt houses, comfort rites, skin ledgers, acceptance vows, safe bedding, body maps, concealment garments, and escorts |
+| KNOWN HOLDINGS | Refuge rooms, hidden chapels, care kitchens, locked baths, garment stores, patient ledgers, and family meeting rooms |
+| IDEOLOGY | A changed body is not proof that the person inside has ended, failed, or become unworthy of care |
 | HISTORY WITH A.C.T | Repeated contact during transformation aftercare, survivor refusal, E-Class review adjacency, and altered-body shelter |
 | ANOMALY CROSS-REFERENCE | Restricted transformation, altered-body, refuge, witness, medical aftercare, and family-continuance case chains |
 | CURRENT STATUS | ACTIVE - positive cultic survivor-care network under review |
 | PRIMARY FILE AUTHORITY | Subject Care Division / Intelligence Division / Medical |
 | SITE JURISDICTION | Central Command with Site 04 and Site-specific care review |
-| CLEARANCE REQUIRED | Level 4; Level 5 for refuge locations, child members, active transformation rites, and E-Class<br>linked cases |
+| CLEARANCE REQUIRED | Level 4; Level 5 for refuge locations, child members, active transformation rites, and E-Class linked cases |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Restricted Record |
-| DISTRIBUTION | Subject Care / Medical / Intelligence / Recovery / Civil Covert / Containment /<br>Command |
+| DISTRIBUTION | Subject Care / Medical / Intelligence / Recovery / Civil Covert / Containment / Command |
 | AUTHORITY | Subject Care Division, Medical Division, Intelligence Division, and Central Archive |
 
 #### Archive Note
@@ -144,11 +144,11 @@ A.C.T assessment identifies these functional layers:
 - garment workers who adapt clothing, masks, gloves, braces, and concealment layers;
 - hunger stewards who manage new dietary needs without shame or public exposure;
 - quiet escorts who move members between clinics, shelters, chapels, and homes;
-  red-bath reviewers who decide when a body condition is too dangerous for refuge
-  alone;
-  memory callers who help survivors keep names, pronouns, family ties, and preferred body
-  language
-  intact.
+ red-bath reviewers who decide when a body condition is too dangerous for refuge
+ alone;
+ memory callers who help survivors keep names, pronouns, family ties, and preferred body
+ language
+ intact.
 
 This structure distinguishes the Kindly Molt from a vague cult label. It is organized
 care, belief, and practical
@@ -474,11 +474,11 @@ automatic loss of personhood.
 
 ### Confirmed Operational Facts
 
-  The Kindly Molt is an outside cultic survivor-care network and not an A.C.T
-  program.
-  The group maintains refuge houses, care roles, rites, body maps, skin ledgers, and
-  altered-family
-  support practices.
+ The Kindly Molt is an outside cultic survivor-care network and not an A.C.T
+ program.
+ The group maintains refuge houses, care roles, rites, body maps, skin ledgers, and
+ altered-family
+ support practices.
 — Several interventions have reduced harm to transformed survivors.
 — The group can delay A.C.T custody, medical review, or containment transfer.
 — No confirmed evidence currently shows the group deliberately inducing transformation for recruitment.
@@ -500,24 +500,24 @@ care.
 
 ### Persistent Questions
 
-  Did the Kindly Molt begin as a religious tradition, survivor network, medical refuge,
-  or
-  response to one catastrophic
-  transformation event?
-  Are House Mothers and Shed Fathers elected, inherited, trained, or chosen by successful
-  care
-  outcomes?
+ Did the Kindly Molt begin as a religious tradition, survivor network, medical refuge,
+ or
+ response to one catastrophic
+ transformation event?
+ Are House Mothers and Shed Fathers elected, inherited, trained, or chosen by successful
+ care
+ outcomes?
 — Which rites are psychologically supportive, and which produce measurable anomalous effects?
 — How many Molt houses exist outside current A.C.T awareness?
-  Has the group ever sheltered a person who later caused a breach because
-  A.C.T
-  was not notified?
-  Do any members maintain contact with Saint-Vera Restoration Concern, Lullaby Works, or Office
-  for
-  Witness Continuance?
-  What does the group do when a survivor wants reversal but the local
-  house
-  believes the new body should remain?
+ Has the group ever sheltered a person who later caused a breach because
+ A.C.T
+ was not notified?
+ Do any members maintain contact with Saint-Vera Restoration Concern, Lullaby Works, or Office
+ for
+ Witness Continuance?
+ What does the group do when a survivor wants reversal but the local
+ house
+ believes the new body should remain?
 — Are altered children protected differently from altered adults inside Molt doctrine?
 
 ### Intelligence Confidence
@@ -553,7 +553,7 @@ determinations.
 - WITNESS STATEMENT AND TESTIMONY FORM, Operational Form
 - AMNESTIC ADMINISTRATION AND MEMORY-AFTERCARE REVIEW FORM, Operational Form
 - Restricted transformation, altered-body, refuge, witness, medical aftercare, and family-continuance case chains held
-  under Central Archive routing.
+ under Central Archive routing.
 
 ### Dual Filing
 
@@ -570,11 +570,11 @@ after leaving the Molt house.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            19/09/1961
-FILE LAST UPDATED:       25/01/1964
-FILE AUTHOR:             Subject Care / Medical / Intelligence Joint Desk
-REVIEWED BY:             Central Archive
-FILE STATUS:             ACTIVE / RESTRICTED
-DESIGNATION HISTORY:     GOI-CU-P-061 assigned at creation for The Kindly Molt
-RECORD CONDITION:        OPERATIONAL
+FILE CREATED: 19/09/1961
+FILE LAST UPDATED: 25/01/1964
+FILE AUTHOR: Subject Care / Medical / Intelligence Joint Desk
+REVIEWED BY: Central Archive
+FILE STATUS: ACTIVE / RESTRICTED
+DESIGNATION HISTORY: GOI-CU-P-061 assigned at creation for The Kindly Molt
+RECORD CONDITION: OPERATIONAL
 ```

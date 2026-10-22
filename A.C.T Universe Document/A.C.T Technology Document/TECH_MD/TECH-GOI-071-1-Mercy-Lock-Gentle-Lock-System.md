@@ -13,9 +13,9 @@
 | ATTACHED DIVISIONS | Medical / Containment / Subject Care / Engineering / Legal |
 | OPERATIONAL STATUS | ACTIVE IN GOI WARDS / RESTRICTED A.C.T FIELD REVIEW |
 | RISK STATUS | CONTROLLED / HOSTILE-USE IF MODIFIED |
-| PRIMARY USE | Patient-specific restraint of harmful manifestations while preserving communication, breath,<br>dignity, and emergency release capability |
-| KNOWN VARIANTS | Blue Lock, White Lock, Green Lock, Grey Lock, Black Lock, and Red Lock failure-review<br>configurations |
-| CLEARANCE REQUIRED | Level 4; Level 5 for living patient tuning, override language, ward maps, and failed<br>lock construction notes |
+| PRIMARY USE | Patient-specific restraint of harmful manifestations while preserving communication, breath, dignity, and emergency release capability |
+| KNOWN VARIANTS | Blue Lock, White Lock, Green Lock, Grey Lock, Black Lock, and Red Lock failure-review configurations |
+| CLEARANCE REQUIRED | Level 4; Level 5 for living patient tuning, override language, ward maps, and failed lock construction notes |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -144,25 +144,25 @@ risk and diplomatic breach.
 Observed gentle lock installations include the following repeated components:
 
 - a soft-faced interior plate, usually polymer, treated wood, cloth-backed ceramic, or padded metal;
-  a concealed hard latch inside the wall rather than on the visible door
-  face;
-  a patient-side contact point that can be pushed, held, tapped, warmed, or spoken
-  to
-  without opening the door;
-  a staff-side keyway hidden behind a sliding medical label rather than a prison-style
-  keyhole;
-  a manifestation buffer strip along the hinge, threshold, handle, window, or vent, depending
-  on
-  patient risk;
-  a consent marker slot where voluntary, substitute, emergency, and disputed custody states can
-  be
-  displayed;
-  an emergency release path requiring two staff roles or one staff role plus
-  patient-specific
-  safe action;
-  a patient bell interface that can override silence protocols when the resident can
-  still
-  signal distress.
+ a concealed hard latch inside the wall rather than on the visible door
+ face;
+ a patient-side contact point that can be pushed, held, tapped, warmed, or spoken
+ to
+ without opening the door;
+ a staff-side keyway hidden behind a sliding medical label rather than a prison-style
+ keyhole;
+ a manifestation buffer strip along the hinge, threshold, handle, window, or vent, depending
+ on
+ patient risk;
+ a consent marker slot where voluntary, substitute, emergency, and disputed custody states can
+ be
+ displayed;
+ an emergency release path requiring two staff roles or one staff role plus
+ patient-specific
+ safe action;
+ a patient bell interface that can override silence protocols when the resident can
+ still
+ signal distress.
 
 Not every lock contains every component. Mercy Lock tunes each installation to the resident.
 
@@ -504,10 +504,10 @@ used without consent review may become unlawful detention even if it is technica
 - ACT-MASTER-INDEX-50-SYSTEMS-AND-MATERIALS, Archive Record
 - Comprehensive Visual and Mechanical Specifications for Asset Index 50, Archive Record
 - Standing Field Units and Cross-Containment Interaction Protocol, Archive Record
-  Restricted Mercy Lock transfer notes, Red Key incident fragments, patient care files, and
-  Site
-  02 medical-wing
-  transfer records held under Central Archive routing.
+ Restricted Mercy Lock transfer notes, Red Key incident fragments, patient care files, and
+ Site
+ 02 medical-wing
+ transfer records held under Central Archive routing.
 
 ### Dual Filing
 
@@ -553,12 +553,12 @@ and useful, but not fully understood.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            13/11/1939
-FILE LAST UPDATED:       16/08/1950
-FILE AUTHOR:             Medical Division / Containment / Engineering / Legal Joint Desk
-REVIEWED BY:             Central Archive
-FILE STATUS:             ACTIVE / RESTRICTED
+FILE CREATED: 13/11/1939
+FILE LAST UPDATED: 16/08/1950
+FILE AUTHOR: Medical Division / Containment / Engineering / Legal Joint Desk
+REVIEWED BY: Central Archive
+FILE STATUS: ACTIVE / RESTRICTED
 DESIGNATION HISTORY: TECH-GOI-071-1 assigned for Mercy Lock Institute first registered technology under GOI-linked
 technology numbering
-RECORD CONDITION:        OPERATIONAL / PARTIAL SCHEMATIC ACCESS
+RECORD CONDITION: OPERATIONAL / PARTIAL SCHEMATIC ACCESS
 ```

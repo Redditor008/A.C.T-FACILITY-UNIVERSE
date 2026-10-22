@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Seismic Analysis, Research, Security, Site Command |
 | OPERATIONAL STATUS | ACTIVE / CONTINUOUS SEISMIC RECORD PRESERVATION |
 | RISK STATUS | RECORD LOSS / MISFILED EVENT / BASELINE CORRUPTION RISK |
-| CLEARANCE REQUIRED | Level 3 for ordinary seismic archive maintenance; Level 4 for deep observation sets or<br>sensitivity reclassification |
+| CLEARANCE REQUIRED | Level 3 for ordinary seismic archive maintenance; Level 4 for deep observation sets or sensitivity reclassification |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -311,6 +311,6 @@ years to repeat itself.
 - **Created:** 1953-08-14
 - **Author Desk:** Archive Division / Records and Monitoring Chief / Central Archive
 - **Review Status:** Active records-vault technology; storage maps, baseline sets, and reclassification
-  ledgers censored
+ ledgers censored
 - **Next Review:** After any missing record, baseline dispute, sensor-health mismatch, reclassification
-  event, environmental vault fault, or unauthorized comparison request
+ event, environmental vault fault, or unauthorized comparison request

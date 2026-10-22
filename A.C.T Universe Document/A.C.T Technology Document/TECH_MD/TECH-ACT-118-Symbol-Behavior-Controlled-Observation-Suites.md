@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Researcher, Archive, Intelligence, Medical, Security |
 | OPERATIONAL STATUS | ACTIVE / CONTROLLED SYMBOL RESEARCH |
 | RISK STATUS | VISUAL EXPOSURE / PROPAGATION ERROR / STUDY OVERREACH |
-| CLEARANCE REQUIRED | Level 4 for symbol-study duty; Level 5 for Dread EYE restriction-set modification or full-effect<br>review |
+| CLEARANCE REQUIRED | Level 4 for symbol-study duty; Level 5 for Dread EYE restriction-set modification or full-effect review |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -295,15 +295,15 @@ learned to blink for the researcher.
 ## OPEN QUESTIONS
 
 - Can a symbol's behavior be understood without ever seeing enough of it to be
-  harmed?
+ harmed?
 - Should skilled pattern analysts be barred from partial-symbol work because they complete forms too
-  quickly?
+ quickly?
 - How much derivative imagery is still the original symbol for containment purposes?
 - Can a failed observation become a new symbol behavior if repeated in the same
-  way?
+ way?
 - Should Intelligence receive behavior descriptions if those descriptions may carry activation structure?
 - When does refusing to look become insufficient because the symbol has learned the refusal
-  pattern?
+ pattern?
 - What aperture is narrow enough to prevent completion?
 - How should delayed display be calibrated per symbol class?
 - When must an analyst be withdrawn from study entirely?
@@ -315,6 +315,6 @@ learned to blink for the researcher.
 - **Created:** 2021-11-23
 - **Author Desk:** Symbol Behavior Study Lead / Floor Research Chief / Central Archive
 - **Review Status:** Active symbol-study technology record; source images, live restriction sets,
-  observer names, and Dread EYE session details censored
+ observer names, and Dread EYE session details censored
 - **Next Review:** After any visual exposure incident, derivative propagation, Medical termination,
-  symbol migration, unauthorized sketch, or Dread EYE-linked study change
+ symbol migration, unauthorized sketch, or Dread EYE-linked study change

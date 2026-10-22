@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Transformation Review, Site Command, Subject Care, Archive, Intelligence, Legal, Field Command, and Memory Review |
 | OPERATIONAL STATUS | ACTIVE / RESTRICTED / CONTROLLED PHARMACEUTICAL LINEAGE |
 | RISK STATUS | HAZARDOUS / CONTINUITY-INVASIVE IF MISUSED |
-| CLEARANCE REQUIRED | Level 4 for grade review and administration; Level 5 for 004-A through 004-D, raw<br>sap handling, refinement tables, and<br>institutional misconduct review |
+| CLEARANCE REQUIRED | Level 4 for grade review and administration; Level 5 for 004-A through 004-D, raw sap handling, refinement tables, and institutional misconduct review |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Restricted Technology Record |
-| DISTRIBUTION | Medical Care / Civil Covert / Transformation Review / Subject Care / Archive /<br>Site Command / Command |
+| DISTRIBUTION | Medical Care / Civil Covert / Transformation Review / Subject Care / Archive / Site Command / Command |
 | AUTHORITY | Medical Care Division, Civil Covert Division, Transformation Review Board, Memory Review, and Central Archive |
 
 #### Archive Note
@@ -86,8 +86,8 @@ The 004-series appears in five major roles:
 - medical and cognitive intervention where a remembered hazard continues to harm the person;
 - field personnel stabilization after exposure, with aftercare and repeated-use review;
 - containment of memetic, dream, temporal, identity, or recovered-document contamination;
-  secrecy preservation when public knowledge would spread panic, hostile recruitment, or further anomaly
-  activation.
+ secrecy preservation when public knowledge would spread panic, hostile recruitment, or further anomaly
+ activation.
 
 004 use must be paired with aftercare. A.C.T doctrine states that amnestics are a
 normalcy tool, not a universal
@@ -188,8 +188,8 @@ grade selected determines whether the outcome is a blur or an organ injury.
 - No false memory insertion without separate justification.
 - Never erase a memory anchor required for safety.
 - No use that makes personnel available for the same exposure again without Medical
-  Care and Personnel Review
-  approval.
+ Care and Personnel Review
+ approval.
 - No use that hides A.C.T misconduct.
 
 The review form must identify person category, exposure condition, memory target, estimated range, anchors
@@ -261,12 +261,12 @@ Administration sequence, Medical Care with Civil Covert.
 2. Identify person category and exposure condition.
 3. Define the memory target and estimated range.
 4. List anchors to preserve, anchors to remove, and anchors that must not be
-   touched.
+ touched.
 5. Assess replacement story pressure and consent condition.
 6. Record override authority and expected side effects.
 7. Write the aftercare plan.
 8. Obtain Level 4 Medical and Civil Covert review, or Level 5 where a
-   restricted condition applies.
+ restricted condition applies.
 9. Assign the administration state.
 10. Deliver the retained packet where 004-WHITE applies.
 
@@ -347,7 +347,7 @@ tracking are all NOT MEASURED in this record.
 | High-grade or emergency use | 004-RED | Command and Medical authority |
 | Aftercare reconstruction active | 004-WHITE | post-treatment self must receive the retained packet |
 | Misuse, unauthorized administration, or continuity collapse suspected | 004-BLACK | immediate Archive, Medical, Legal, and Command notification |
-| Requested grade far exceeds the memory range | over-grade risk | 004-C Field Overgrade corrective: severity of panic is not the size of the memory<br>range |
+| Requested grade far exceeds the memory range | over-grade risk | 004-C Field Overgrade corrective: severity of panic is not the size of the memory range |
 | Emotional misbinding, duty confusion, inability to explain scars without old packets | cumulative repeated use | Personnel Review; suspend return to repeated exposure work |
 
 
@@ -478,8 +478,8 @@ The 004-series interacts with, but is distinct from:
 - Anti Reality Mesh System, which reduces attention before exposure hardens;
 - Reality Stabilization Anchor System, which stabilizes rooms and sites rather than memory;
 - Refined NEMNOLIA Sap, the active material lineage used inside the compound system;
-  Neural Lacing Type 004-MOD, which provides an internal auto-forget filter rather than administered
-  treatment;
+ Neural Lacing Type 004-MOD, which provides an internal auto-forget filter rather than administered
+ treatment;
 - Banalist White-Noise Broadcast, which disrupts narrative scripting through acoustic systems.
 
 Each system requires its own individual technology record. This file covers the 004-Series Amnestic
@@ -490,38 +490,38 @@ an A.C.T-controlled technology lineage.
 
 ## OPEN ENGINEERING, MEDICAL, AND ETHICS QUESTIONS
 
-  Can any 004-grade be made safer without hiding the NEMNOLIA provenance that keeps
-  staff
-  cautious?
+ Can any 004-grade be made safer without hiding the NEMNOLIA provenance that keeps
+ staff
+ cautious?
 — How many repeated short-window administrations equal one severe continuity injury?
 — Can partial truth shards be standardized, or must every shard remain case-specific?
-  Do QNB-preserved contradictions worsen distress in treated personnel who later read their own
-  pre-treatment
-  records?
+ Do QNB-preserved contradictions worsen distress in treated personnel who later read their own
+ pre-treatment
+ records?
 — Can 004 use aggravate Namewright-style identity instability or Missing 404 record absence?
 — What long-term biological cost exists for people exposed only to stabilized low-grade compounds?
-  Is full reversal possible after 004-E or higher, or only reconstruction through records
-  and
-  testimony?
-  What failure mode appears if 004 treatment occurs during ARM-WHITE public dulling and
-  RSA-WHITE
-  hard anchoring?
+ Is full reversal possible after 004-E or higher, or only reconstruction through records
+ and
+ testimony?
+ What failure mode appears if 004 treatment occurs during ARM-WHITE public dulling and
+ RSA-WHITE
+ hard anchoring?
 
 ---
 
 - No shelf life, storage condition, or dose-by-category table is recorded outside Level 5.
 - No batch or stock tracking exists in this record, so supply cannot be
-  audited from it.
+ audited from it.
 - No measured relationship exists between grade and reversibility.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            05/01/2026
-FILE LAST UPDATED:       14/10/2026
-FILE AUTHOR:             Medical Care Division / Civil Covert Division / Transformation Review Joint Desk
-REVIEWED BY:             Central Archive / Memory Review / Site Command Technical Board
-FILE STATUS:             ACTIVE / RESTRICTED
+FILE CREATED: 05/01/2026
+FILE LAST UPDATED: 14/10/2026
+FILE AUTHOR: Medical Care Division / Civil Covert Division / Transformation Review Joint Desk
+REVIEWED BY: Central Archive / Memory Review / Site Command Technical Board
+FILE STATUS: ACTIVE / RESTRICTED
 DESIGNATION HISTORY: TECH-ACT-004 assigned for individual 004-Series Amnestic Compound System expansion under
 A.C.T-owned technology numbering
-RECORD CONDITION:        OPERATIONAL / MAIN A.C.T TECHNOLOGY RECORD
+RECORD CONDITION: OPERATIONAL / MAIN A.C.T TECHNOLOGY RECORD
 ```

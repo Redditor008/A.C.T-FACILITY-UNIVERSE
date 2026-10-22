@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Medical, Security, Limited Archive, Recovery Support |
 | OPERATIONAL STATUS | ACTIVE / CONTROLLED WITNESS WORK |
 | RISK STATUS | MEMORY HARM / NARRATIVE MISMATCH / FACILITY EXPOSURE RISK |
-| CLEARANCE REQUIRED | Level 3 for suite operation; Level 4 for amnestic approval, assimilation decision, or parent-site<br>policy exception |
+| CLEARANCE REQUIRED | Level 3 for suite operation; Level 4 for amnestic approval, assimilation decision, or parent-site policy exception |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Witness Processing Technology Record |
-| DISTRIBUTION | Glass Orchard Relay / Redwood Veil Complex / Medical / Security / Limited Archive<br>/ Recovery Support |
+| DISTRIBUTION | Glass Orchard Relay / Redwood Veil Complex / Medical / Security / Limited Archive / Recovery Support |
 | AUTHORITY | Processing Officer, Medical Lead, Sub-Site Chief, Redwood Veil Site Command, and Central Archive |
 
 #### Archive Note
@@ -300,9 +300,9 @@ story given back to them.
 - Can repeated regional witness narratives create detectable patterning?
 - When does sanitation become medical harm rather than secrecy protection?
 - How should the relay handle witnesses who saw the cover campus and the buried
-  relay together?
+ relay together?
 - What level of aftercare is owed when the witness never learns why they need
-  it?
+ it?
 - Which procedure class should be presumed when evidence is thin?
 - How long must recovery last before release is considered safe?
 - When does a preserved true account serve better than a replacement?
@@ -314,6 +314,6 @@ story given back to them.
 - **Created:** 1950-01-28
 - **Author Desk:** Processing Officer / Medical Lead / Central Archive
 - **Review Status:** Active witness processing record; live witness identities, dosage tables, release
-  narratives, and assimilation referrals censored
+ narratives, and assimilation referrals censored
 - **Next Review:** After any witness harm event, release contradiction, parent-site exposure, amnestic
-  complication, assimilation dispute, or archive file failure
+ complication, assimilation dispute, or archive file failure

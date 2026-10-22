@@ -19,8 +19,8 @@
 | PRIMARY ACTIVE REGION | Missing-location clusters, dead-address networks, wilderness disappearance routes, and vanished records |
 | KNOWN ASSETS | Watch towers, signal ledgers, missing-person registers, null-coordinate maps, archived dead links, and rescue bells |
 | KNOWN HOLDINGS | Distributed tower posts, hidden listening rooms, sealed paper archives, relay stations, and route-observation cells |
-| IDEOLOGY | Absence is evidence; missing persons, places, and files must remain watched until found, recovered,<br>or named dead |
-| HISTORY WITH A.C.T | Repeated cooperative contact during cases where people, sites, coordinates, records, or signals<br>returned not found |
+| IDEOLOGY | Absence is evidence; missing persons, places, and files must remain watched until found, recovered, or named dead |
+| HISTORY WITH A.C.T | Repeated cooperative contact during cases where people, sites, coordinates, records, or signals returned not found |
 | ANOMALY CROSS-REFERENCE | Restricted missing-person, vanished-site, dead-link, and inaccessible-location case chains |
 | CURRENT STATUS | ACTIVE - cooperative but independent observation network |
 | PRIMARY FILE AUTHORITY | Intelligence Division / Recovery Division / Central Archive |
@@ -126,14 +126,14 @@ A.C.T assessment divides the organization into several functional layers:
 
 - tower watchers who monitor visual, signal, and route anomalies;
 - dead-address clerks who preserve locations after public systems fail;
-  absence cartographers who compare old maps, emergency routes, missing trail records, and impossible
-  coordinates;
+ absence cartographers who compare old maps, emergency routes, missing trail records, and impossible
+ coordinates;
 - signal keepers who preserve radio, phone, web, and emergency-call traces;
 - field relays who guide recovery crews without always entering the hazard area;
 - witness continuance officers who make sure missing persons remain legally and socially named;
 - archive bell operators who issue alerts when a case enters Missing 404 patterning;
 - locked-ledger custodians who protect sensitive absence records from accidental deletion or deliberate normalcy
-  cleanup.
+ cleanup.
 
 This structure is why the group qualifies as a GOI rather than a rumor,
 website, or single search party. It has
@@ -448,26 +448,26 @@ partner for cases where normal search, archive, and map logic fail.
 
 ### Persistent Questions
 
-  Does Missing 404 Watch Tower possess one central archive, or do multiple towers
-  share
-  records through nonstandard
-  signal exchange?
-  Can the group prevent a person from being erased, or does it only
-  notice
-  erasure early enough to respond?
-  Why do bells, paper maps, carved signs, and analog photographs survive some Missing
-  404
-  effects better than digital
-  systems?
-  Has the Tower ever hidden a recovered person from A.C.T to keep them
-  from
-  becoming administratively dead inside
-  containment?
+ Does Missing 404 Watch Tower possess one central archive, or do multiple towers
+ share
+ records through nonstandard
+ signal exchange?
+ Can the group prevent a person from being erased, or does it only
+ notice
+ erasure early enough to respond?
+ Why do bells, paper maps, carved signs, and analog photographs survive some Missing
+ 404
+ effects better than digital
+ systems?
+ Has the Tower ever hidden a recovered person from A.C.T to keep them
+ from
+ becoming administratively dead inside
+ containment?
 — Are any Tower posts built inside places that are already missing?
-  Does the phrase **404** originate from digital error language, an older tower code
-  later
-  mapped onto digital absence,
-  or a coincidence exploited by the group?
+ Does the phrase **404** originate from digital error language, an older tower code
+ later
+ mapped onto digital absence,
+ or a coincidence exploited by the group?
 
 ### Intelligence Confidence
 
@@ -517,11 +517,11 @@ organization must not be treated as identical to every Missing 404 case.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            21/01/1927
-FILE LAST UPDATED:       23/11/1938
-FILE AUTHOR:             Intelligence Division / Recovery Division Joint Desk
-REVIEWED BY:             Central Archive
-FILE STATUS:             ACTIVE / RESTRICTED
-DESIGNATION HISTORY:     GOI-HY-W-053 assigned at creation for Missing 404 Watch Tower
-RECORD CONDITION:        OPERATIONAL
+FILE CREATED: 21/01/1927
+FILE LAST UPDATED: 23/11/1938
+FILE AUTHOR: Intelligence Division / Recovery Division Joint Desk
+REVIEWED BY: Central Archive
+FILE STATUS: ACTIVE / RESTRICTED
+DESIGNATION HISTORY: GOI-HY-W-053 assigned at creation for Missing 404 Watch Tower
+RECORD CONDITION: OPERATIONAL
 ```

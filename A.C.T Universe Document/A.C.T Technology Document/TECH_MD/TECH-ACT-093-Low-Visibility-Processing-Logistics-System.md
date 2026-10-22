@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Security, Campus Administration, Recovery Support, Archive |
 | OPERATIONAL STATUS | ACTIVE / CONCEALED TRAFFIC SUPPORT |
 | RISK STATUS | PATTERN EXPOSURE / TRANSITION BREACH / DELIVERY MISMATCH |
-| CLEARANCE REQUIRED | Level 3 for boundary logistics; Level 4 for concealed transition scheduling or emergency surface<br>sealing |
+| CLEARANCE REQUIRED | Level 3 for boundary logistics; Level 4 for concealed transition scheduling or emergency surface sealing |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Cover Logistics Technology Record |
-| DISTRIBUTION | Glass Orchard Relay / Redwood Veil Complex / Security / Campus Administration / Recovery<br>Support / Limited Archive |
+| DISTRIBUTION | Glass Orchard Relay / Redwood Veil Complex / Security / Campus Administration / Recovery Support / Limited Archive |
 | AUTHORITY | Campus Manager, Security Boundary Lead, Sub-Site Chief, Redwood Veil Site Command, and Central Archive |
 
 #### Archive Note
@@ -311,6 +311,6 @@ around it also holds.
 - **Created:** 2026-05-21
 - **Author Desk:** Campus Manager / Security Boundary Lead / Central Archive
 - **Review Status:** Active low-visibility logistics record; live route maps, vehicle timings, cargo
-  covers, and transition schedules censored
+ covers, and transition schedules censored
 - **Next Review:** After any delivery mismatch, transition challenge, visitor observation, cargo
-  contradiction, repeated vehicle pattern, or surface sealing event
+ contradiction, repeated vehicle pattern, or surface sealing event

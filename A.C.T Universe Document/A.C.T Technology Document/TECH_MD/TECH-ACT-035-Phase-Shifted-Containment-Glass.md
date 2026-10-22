@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Subject Care, Biological Containment, Security, Site Command |
 | OPERATIONAL STATUS | ACTIVE / OBSERVATION-PANE / SUITE-INTEGRATED |
 | RISK STATUS | CONTROLLED / PHASE-MISALIGNMENT HAZARD |
-| CLEARANCE REQUIRED | Level 3 for observation use; Level 4 for phase adjustment; Level 5 for desynchronized-subject<br>interface override |
+| CLEARANCE REQUIRED | Level 3 for observation use; Level 4 for phase adjustment; Level 5 for desynchronized-subject interface override |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Observation Safety Technology Record |
-| DISTRIBUTION | Engineering / Observation Safety / Subject Care / Biological Containment / Security / Site<br>Command |
+| DISTRIBUTION | Engineering / Observation Safety / Subject Care / Biological Containment / Security / Site Command |
 | AUTHORITY | Engineering Division, Observation Safety Desk, and Central Archive |
 
 #### Archive Note
@@ -328,7 +328,7 @@ reach you.
 ## OPEN QUESTIONS
 
 - What phase offset range does the slider actually cover, and who calibrates it per
-  suite?
+ suite?
 - How is fidelity reduction scaled against a known visual-trigger hazard?
 - What did the 2026 visor delay conflict change about paired PPE procedure?
 
@@ -339,6 +339,6 @@ reach you.
 - **Created:** 2026-04-01
 - **Author Desk:** Engineering Division / Observation Safety Desk / Central Archive
 - **Review Status:** Active observation-safety record; phase medium and desynchronization settings
-  censored
+ censored
 - **Next Review:** After any visual breach, phase-slider drift, opacity failure, or combined PPE
-  calibration conflict
+ calibration conflict

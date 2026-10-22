@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Environmental Containment, Research Support, Limited Security |
 | OPERATIONAL STATUS | ACTIVE / LOW-INTRUSION FIELD OBSERVATION USE |
 | RISK STATUS | SENSOR VISIBILITY / OBSERVATION DISTURBANCE / DATA GAP RISK |
-| CLEARANCE REQUIRED | Level 3 for field station duty; Level 4 for resident data, sensor placement, or<br>parent-reserve research override |
+| CLEARANCE REQUIRED | Level 3 for field station duty; Level 4 for resident data, sensor placement, or parent-reserve research override |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Field Monitoring Technology Record |
-| DISTRIBUTION | Hollow Canopy Enclosure / Verde Null Bio-Reserve / Environmental Containment / Research Support /<br>Limited Security |
+| DISTRIBUTION | Hollow Canopy Enclosure / Verde Null Bio-Reserve / Environmental Containment / Research Support / Limited Security |
 | AUTHORITY | Archive |
 
 #### Archive Note
@@ -303,6 +303,6 @@ the field changes.
 - **Created:** 1961-08-01
 - **Author Desk:** Environmental Containment Lead / Research Support Lead / Central Archive
 - **Review Status:** Active field station monitoring record; live station maps, sensor placements,
-  resident data, and route schedules censored
+ resident data, and route schedules censored
 - **Next Review:** After any data gap, sensor visibility event, station discovery, root-zone
-  disturbance, resident behavior shift, or parent-reserve research dispute
+ disturbance, resident behavior shift, or parent-reserve research dispute

@@ -5,7 +5,7 @@
 |---|---|
 | COMMON NAME | Liberty Freedoms |
 | SHORT NAME | L.F. (rendered LF in seized working drafts) |
-| KNOWN ALIASES | The Freedoms; the Open Hand (leaflet alias); name variants under which early material circulated<br>are restricted |
+| KNOWN ALIASES | The Freedoms; the Open Hand (leaflet alias); name variants under which early material circulated are restricted |
 | NATURE CLASS | MILITANT |
 | ALIGNMENT CLASS | NEGATIVE |
 | REACH CLASS | TRANSNATIONAL |
@@ -13,17 +13,17 @@
 | THREAT LEVEL | 4 |
 | SECRECY RISK | EXPOSURE-ACTIVE |
 | A.C.T POSTURE | CONTAIN / DISMANTLE / INFILTRATE |
-| KNOWN LEADERSHIP | Assessed rotating council of founding defectors and regional commanders; individual identities<br>compartmented and unresolved |
-| KNOWN MEMBERSHIP | Large decentralized network of former A.C.T personnel, displaced civilians, radical sympathizers,<br>and opportunist cells; live census unresolved |
+| KNOWN LEADERSHIP | Assessed rotating council of founding defectors and regional commanders; individual identities compartmented and unresolved |
+| KNOWN MEMBERSHIP | Large decentralized network of former A.C.T personnel, displaced civilians, radical sympathizers, and opportunist cells; live census unresolved |
 | PRIMARY ACTIVE REGION | Transnational; defector-trace and transport-route analysis held in restricted surveillance records |
-| KNOWN ASSETS | Defector operational knowledge, seized route and schedule records, adapted A.C.T equipment,<br>publication and leak infrastructure, and anomalies assessed to travel with cells |
+| KNOWN ASSETS | Defector operational knowledge, seized route and schedule records, adapted A.C.T equipment, publication and leak infrastructure, and anomalies assessed to travel with cells |
 | KNOWN HOLDINGS | Dispersed safehouses, temporary holding routes, publication relays, and changing forward staging |
-| IDEOLOGY | Liberation of anomalies and of concealed knowledge from A.C.T custody, pursued through deliberate public<br>rupture<br>rather than negotiated reform |
-| HISTORY WITH A.C.T | Coordinated defection-and-leak pattern opened the current record; a single founding event remains<br>unverified and contested |
+| IDEOLOGY | Liberation of anomalies and of concealed knowledge from A.C.T custody, pursued through deliberate public rupture rather than negotiated reform |
+| HISTORY WITH A.C.T | Coordinated defection-and-leak pattern opened the current record; a single founding event remains unverified and contested |
 | ANOMALY CROSS-REFERENCE | No permanent group-wide list; case chains and seized-subject files held restricted |
 | CURRENT STATUS | ACTIVE - dispersed insurgency with confirmed defector, publication, and anomaly-carry operations |
 | PRIMARY FILE AUTHORITY | Intelligence Division, Hostile Networks Desk, with Internal Security liaison |
-| SITE JURISDICTION | Central Command with cross-site incident authority; ACT-SITE-01, ACT-SITE-03, and ACT-SITE-05 lead<br>standing response lanes |
+| SITE JURISDICTION | Central Command with cross-site incident authority; ACT-SITE-01, ACT-SITE-03, and ACT-SITE-05 lead standing response lanes |
 | CLEARANCE REQUIRED | Level 4; Level 5 for defector identity, seized-subject, and leak-source files |
 
 | REGISTRY FIELD | CURRENT VALUE |
@@ -118,27 +118,27 @@ L.F. is assessed as a network of semi-independent cells bound by a shared doctri
 and by a thin strategic layer of
 defector origin. Observed operational functions include:
 
-  **Raid Cells:** locate and strike Facility transport, recovery convoys, temporary holding, and low-security
-  storage
-  where an anomaly can be removed or an operation disrupted;
-  **Carry Cells:** receive, secure, transport, and temporarily tend anomalies that have left containment
-  with
-  L.F.,
-  using handling knowledge that A.C.T assesses as defector-derived;
-  **Gate Cells:** recruit, protect, and vet former A.C.T personnel, contractors, and their families,
-  managing
-  the
-  highest-risk asset the network holds — inside knowledge;
-  **Publication Cells:** prepare, release, and maintain controlled leaks, leaflets, and recordings, treating
-  information
-  as a weapon with its own containment rules;
+ **Raid Cells:** locate and strike Facility transport, recovery convoys, temporary holding, and low-security
+ storage
+ where an anomaly can be removed or an operation disrupted;
+ **Carry Cells:** receive, secure, transport, and temporarily tend anomalies that have left containment
+ with
+ L.F.,
+ using handling knowledge that A.C.T assesses as defector-derived;
+ **Gate Cells:** recruit, protect, and vet former A.C.T personnel, contractors, and their families,
+ managing
+ the
+ highest-risk asset the network holds — inside knowledge;
+ **Publication Cells:** prepare, release, and maintain controlled leaks, leaflets, and recordings, treating
+ information
+ as a weapon with its own containment rules;
 — **Corridor Cells:** move personnel, material, and subjects across jurisdictions through changing routes, safehouses,
-  and transport seams;
-  **Witness Cells:** recruit among civilians harmed by or displaced around contained incidents, converting
-  documented
-  grievance into first commitment;
+ and transport seams;
+ **Witness Cells:** recruit among civilians harmed by or displaced around contained incidents, converting
+ documented
+ grievance into first commitment;
 — **Residual Contacts:** sympathetic workers, frightened intermediaries, former members, and opportunists who assist
-  without full initiation.
+ without full initiation.
 
 These labels describe function, not confirmed internal titles. Seized documents suggest L.F. changes its
 own
@@ -315,17 +315,17 @@ from inside and attacks the parts that move.
 Confirmed and assessed assets include:
 
 - **Defector knowledge:** routes, schedules, formats, procedures, and institutional memory, held by the network's
-  highest-trust members;
+ highest-trust members;
 - **Publication infrastructure:** masthead identities, relay points, encrypted drop systems, and printing or recording
-  capacity;
+ capacity;
 - **Adapted equipment:** seized or diverted A.C.T transport fixtures, restraint systems, monitoring tools, and
-  protective gear;
-  **Carried subjects:** anomalies assessed to travel with L.F. cells, each requiring separate case-chain
-  handling
-  and
-  each representing both an asset and a vulnerability;
+ protective gear;
+ **Carried subjects:** anomalies assessed to travel with L.F. cells, each requiring separate case-chain
+ handling
+ and
+ each representing both an asset and a vulnerability;
 - **Sympathizer network:** drivers, landlords, archivists, and logistics workers providing cover without full
-  initiation.
+ initiation.
 
 Holdings are assessed as dispersed and changeable: safehouses near transport junctions, temporary holding sites
 for
@@ -433,16 +433,16 @@ or drawn response resources toward a decoy corridor.
 - Security Division secures the scene and establishes witness control.
 - Recovery Division stabilizes any subject, transport, or material left behind.
 - Containment Division assesses whether a carried subject was destabilized by the network's handling.
-  Intelligence Division maps the corridor pattern and examines whether the visible action is
-  the
-  real action.
-  Civil Covert Division treats the incident as a leak event from the first
-  minute,
-  assuming publication material exists
-  even if none is found.
-  Military Division is deployed only where hostile force or breach severity exceeds Security
-  and
-  Recovery capacity.
+ Intelligence Division maps the corridor pattern and examines whether the visible action is
+ the
+ real action.
+ Civil Covert Division treats the incident as a leak event from the first
+ minute,
+ assuming publication material exists
+ even if none is found.
+ Military Division is deployed only where hostile force or breach severity exceeds Security
+ and
+ Recovery capacity.
 
 No staff member is to argue with an L.F. member by defending the anomaly's
 containment as kindness. The network's
@@ -453,19 +453,19 @@ civilian protection, and control of the active threat.
 ### Site Responsibilities
 
 - **ACT-SITE-01-US-W / Redwood Veil Complex** leads urban interdiction, transport-seam surveillance, publication-relay
-  tracing, and investigation of market or logistics contacts that may serve L.F. corridors.
-  **ACT-SITE-02-RU-N / White Grave Station** supports remote recovery, severe-environment pursuit, and the handling
-  of
-  carried subjects recovered from cold or isolated conditions.
+ tracing, and investigation of market or logistics contacts that may serve L.F. corridors.
+ **ACT-SITE-02-RU-N / White Grave Station** supports remote recovery, severe-environment pursuit, and the handling
+ of
+ carried subjects recovered from cold or isolated conditions.
 - **ACT-SITE-03-JP-E / Kurokawa Archive Node** leads document-warfare defense: leak forensics, defector communications
-  analysis, publication pre-release detection, and the protection of records that would be most damaging
-  if released.
-  **ACT-SITE-04-BR-C / Verde Null Bio-Reserve** receives biological and environmental subjects that L.F. cells
-  attempted
-  to carry, and reviews whether freed living subjects were harmed by non-specialist handling.
-  **ACT-SITE-05-ID-C / Nusantara Deep Relay** coordinates maritime and coastal corridor response, where L.F.
-  movements
-  between jurisdictions are hardest to trace.
+ analysis, publication pre-release detection, and the protection of records that would be most damaging
+ if released.
+ **ACT-SITE-04-BR-C / Verde Null Bio-Reserve** receives biological and environmental subjects that L.F. cells
+ attempted
+ to carry, and reviews whether freed living subjects were harmed by non-specialist handling.
+ **ACT-SITE-05-ID-C / Nusantara Deep Relay** coordinates maritime and coastal corridor response, where L.F.
+ movements
+ between jurisdictions are hardest to trace.
 
 These responsibilities do not confine a Site to its region. L.F. is transnational, and
 the Site network must act as
@@ -568,44 +568,44 @@ armed certainty.
 
 ### Current Intelligence Priorities
 
-  identify corridor seams shared by more than one cell and the sympathizers who
-  keep
-  them open;
-  determine which publications are assembled from lawful access and which indicate an active
-  insider
-  source;
-  map contact between L.F. and other hostile or market actors without assuming shared
-  allegiance;
+ identify corridor seams shared by more than one cell and the sympathizers who
+ keep
+ them open;
+ determine which publications are assembled from lawful access and which indicate an active
+ insider
+ source;
+ map contact between L.F. and other hostile or market actors without assuming shared
+ allegiance;
 — locate carried subjects and assess their condition before cells move or abandon them;
 — identify gate-cell recruiters who approach current staff, and the vulnerability profiles they exploit;
-  distinguish doctrine from knowledge in recovered L.F. material, so that a captured text
-  is
-  not mistaken for an
-  operations manual;
-  determine whether any L.F. cell has been redirected by another actor toward a
-  target
-  whose removal serves an outside
-  interest.
+ distinguish doctrine from knowledge in recovered L.F. material, so that a captured text
+ is
+ not mistaken for an
+ operations manual;
+ determine whether any L.F. cell has been redirected by another actor toward a
+ target
+ whose removal serves an outside
+ interest.
 
 ### Unresolved Conditions
 
-  Does a founding council exist, or is the network's coherence maintained entirely by
-  shared
-  doctrine and defector
-  culture?
-  Which former personnel left voluntarily, which were recruited after leaving, and which were
-  coerced
-  or deceived by
-  staged truth?
+ Does a founding council exist, or is the network's coherence maintained entirely by
+ shared
+ doctrine and defector
+ culture?
+ Which former personnel left voluntarily, which were recruited after leaving, and which were
+ coerced
+ or deceived by
+ staged truth?
 — How many subjects currently travel with L.F. cells, and how many travel willingly?
-  Has any carried subject influenced or controlled the cell carrying it, and would
-  L.F.
-  recognize that condition if it
-  occurred?
-  Does the network possess a standing capacity to fabricate containment-grade equipment, or does
-  it
-  remain dependent on
-  seizure and diversion?
+ Has any carried subject influenced or controlled the cell carrying it, and would
+ L.F.
+ recognize that condition if it
+ occurred?
+ Does the network possess a standing capacity to fabricate containment-grade equipment, or does
+ it
+ remain dependent on
+ seizure and diversion?
 — What event would push L.F. from controlled rupture toward uncontrolled revelation?
 
 ### Intelligence Confidence
@@ -657,7 +657,7 @@ organizational dossier and any subject file must remain distinct.
 - GOI Registry and External Threat Doctrine Archive — classification and hostile-posture authority;
 - Site Map and Jurisdiction Doctrine — cross-site response assignment and corridor-seam responsibility;
 - Facility Divisions, Personnel Roles, and Operational Life — Security, Recovery, Containment, Intelligence, Military,
-  and Civil Covert responsibilities;
+ and Civil Covert responsibilities;
 - Anomaly Classification Manual Archive — subject, transport, and breach filing;
 - Anomaly Log Categories In-World Explanation — controlled incident, recovery, and leak documentation.
 
@@ -666,15 +666,15 @@ organizational dossier and any subject file must remain distinct.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            13/06/1959
-FILE LAST UPDATED:       21/05/1976
-FILE AUTHOR:             Intelligence Division, Hostile Networks Desk
-REVIEWED BY:             Central Archive / Security Division / Civil Covert
-                          Division / ACT-SITE-03 Document-Warfare Liaison
-FILE STATUS:             Active Restricted Record
-DESIGNATION HISTORY:     GOI-ML-X-050 - initial controlled registry filing
-RECORD CONDITION:        Operational dossier; defector-identity and seized-
-                          subject files restricted
+FILE CREATED: 13/06/1959
+FILE LAST UPDATED: 21/05/1976
+FILE AUTHOR: Intelligence Division, Hostile Networks Desk
+REVIEWED BY: Central Archive / Security Division / Civil Covert
+ Division / ACT-SITE-03 Document-Warfare Liaison
+FILE STATUS: Active Restricted Record
+DESIGNATION HISTORY: GOI-ML-X-050 - initial controlled registry filing
+RECORD CONDITION: Operational dossier; defector-identity and seized-
+ subject files restricted
 ```
 
 ```text

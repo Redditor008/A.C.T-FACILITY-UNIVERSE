@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Archive, Containment, Transformation, Medical |
 | OPERATIONAL STATUS | ACTIVE / 2026 INTAKE STANDARD |
 | RISK STATUS | INSTRUMENT-SENSITIVE / DATA-CONTROLLED |
-| CLEARANCE REQUIRED | Level 3 for routine operation; Level 4 for high-risk anomaly intake, signature disputes, or<br>method changes |
+| CLEARANCE REQUIRED | Level 3 for routine operation; Level 4 for high-risk anomaly intake, signature disputes, or method changes |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -332,6 +332,6 @@ without being touched.
 - **Created:** 2026-05-23
 - **Author Desk:** Research Division / Redwood Veil F-5 / Central Archive
 - **Review Status:** Active Facility instrument record; chamber schematics and pulse-processing method
-  censored
+ censored
 - **Next Review:** After any false baseline, pulse match dispute, exposure incident, method revision, or
-  suite retrofit
+ suite retrofit

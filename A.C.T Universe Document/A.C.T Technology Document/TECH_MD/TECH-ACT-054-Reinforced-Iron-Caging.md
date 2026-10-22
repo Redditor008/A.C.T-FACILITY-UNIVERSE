@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Engineering, Containment, Site Safety, Archive |
 | OPERATIONAL STATUS | RETIRED / HISTORICAL FRAMEWORK / LIMITED LEGACY PRESENCE |
 | RISK STATUS | STRUCTURAL FAILURE / HUMANE-CONTAINMENT REVIEW REQUIRED |
-| CLEARANCE REQUIRED | Level 3 for archive review; Level 4 for surviving cage access, retrofit, or resident-adjacent<br>inspection |
+| CLEARANCE REQUIRED | Level 3 for archive review; Level 4 for surviving cage access, retrofit, or resident-adjacent inspection |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -172,7 +172,7 @@ vocabulary for it.
 ### Review And Personnel Limits
 
 - Do not assign a new anomaly without Level 4 review and a written
-  explanation.
+ explanation.
 - Do not lean equipment against a surviving cage.
 - Do not enter before corrosion and pin inspection.
 - Do not treat a resident as a beast because the structure implies it.
@@ -330,6 +330,6 @@ enough.
 - **Created:** 2024-07-27
 - **Author Desk:** Historical Engineering Archive / Heavy Containment / Central Archive
 - **Review Status:** Retired heavy-containment technology record; earliest resident list and cage
-  location ledgers censored
+ location ledgers censored
 - **Next Review:** After any legacy cage inspection, corrosion finding, resident-adjacent use, retrofit
-  proposal, or Massive Box ancestry audit
+ proposal, or Massive Box ancestry audit

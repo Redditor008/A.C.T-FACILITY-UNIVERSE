@@ -12,7 +12,7 @@
 | PRIMARY A.C.T REVIEW | Medical Division / Subject Care / Containment / Legal |
 | OPERATIONAL STATUS | RESTRICTED CONSULTATION USE / PARTIAL TECHNICAL ACCESS |
 | RISK STATUS | SIGNAL NEGLECT / BELL REMOVAL / HOSTILE REPURPOSING |
-| CLEARANCE REQUIRED | Level 4; Level 5 for patient-linked tuning, living names, ward locations, and failed-bell incident<br>files |
+| CLEARANCE REQUIRED | Level 4; Level 5 for patient-linked tuning, living names, ward locations, and failed-bell incident files |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -296,9 +296,9 @@ wrong.
 
 - GOI-HY-P-071 — Mercy Lock Institute, Group of Interest Registry
 - TECH-GOI-071-1 — Mercy Lock Gentle Lock System, Technology Record
-  Mercy Lock transfer cards, Red Key fragments, patient care files, and Site 02
-  medical-wing
-  transfer notes [restricted]
+ Mercy Lock transfer cards, Red Key fragments, patient care files, and Site 02
+ medical-wing
+ transfer notes [restricted]
 
 ---
 
@@ -307,8 +307,8 @@ wrong.
 - Which bells are mundane, and which use anomalous routing through ward distortion?
 - Does bell vibration communicate with gentle locks directly or only alert staff?
 - Can a bell remain patient-linked after memory, legal name, or body changes?
-  What is the maximum safe staff response time before bell neglect becomes containment
-  failure?
+ What is the maximum safe staff response time before bell neglect becomes containment
+ failure?
 - Has Iron Meridian Authority copied patient bells into punitive restraint systems?
 - Can A.C.T build an equivalent without breaking Mercy Lock trust?
 
@@ -323,12 +323,12 @@ limited by patient-specific tuning, withheld ward schematics, and uncertainty ar
 ## FILE METADATA
 
 ```text
-FILE CREATED:            12/12/2015
-FILE LAST UPDATED:       27/11/2022
-FILE AUTHOR:             Medical Division / Subject Care / Legal / Intelligence Joint Desk
-REVIEWED BY:             Central Archive
-FILE STATUS:             ACTIVE / RESTRICTED
+FILE CREATED: 12/12/2015
+FILE LAST UPDATED: 27/11/2022
+FILE AUTHOR: Medical Division / Subject Care / Legal / Intelligence Joint Desk
+REVIEWED BY: Central Archive
+FILE STATUS: ACTIVE / RESTRICTED
 DESIGNATION HISTORY: TECH-GOI-071-2 assigned for Mercy Lock Institute second registered technology under
 GOI-linked technology numbering
-RECORD CONDITION:        OPERATIONAL / PARTIAL TECHNICAL ACCESS
+RECORD CONDITION: OPERATIONAL / PARTIAL TECHNICAL ACCESS
 ```

@@ -16,21 +16,21 @@
 | A.C.T POSTURE | INFILTRATE / MISDIRECT / CONTAIN |
 | KNOWN LEADERSHIP | Cantors, Name Bearers, Vestry Archivists, and Refrain Mothers; no single high priest confirmed |
 | KNOWN MEMBERSHIP | Singers, memory keepers, survivor relatives, anti-amnestic initiates, grief archivists, and altered-name custodians |
-| PRIMARY ACTIVE REGION | Memorial chapels, family wakes, survivor meetings, old hospitals, dead schools, transit vigils, and<br>hidden choirs |
-| KNOWN ASSETS | Name books, refrain sheets, bell throats, witness hymns, anti-amnestic rites, preserved testimony,<br>and grief choirs |
+| PRIMARY ACTIVE REGION | Memorial chapels, family wakes, survivor meetings, old hospitals, dead schools, transit vigils, and hidden choirs |
+| KNOWN ASSETS | Name books, refrain sheets, bell throats, witness hymns, anti-amnestic rites, preserved testimony, and grief choirs |
 | KNOWN HOLDINGS | Unlisted chapels, soundproof vestries, memorial basements, mobile vigil rooms, name vaults, and recording cupboards |
-| IDEOLOGY | A name erased for safety remains a wound; memory must be sung back before<br>the dead, missing, or altered are lost |
-| HISTORY WITH A.C.T | Repeated conflict over amnestic reversal, witness memory, public memorials, erased casualty names,<br>and testimony rites |
+| IDEOLOGY | A name erased for safety remains a wound; memory must be sung back before the dead, missing, or altered are lost |
+| HISTORY WITH A.C.T | Repeated conflict over amnestic reversal, witness memory, public memorials, erased casualty names, and testimony rites |
 | ANOMALY CROSS-REFERENCE | Restricted amnestic, witness, memory-shard, memorial, missing-person, and post-incident identity case chains |
 | CURRENT STATUS | ACTIVE - negative cultic memory-preservation network |
 | PRIMARY FILE AUTHORITY | Intelligence Division / Civil Covert / Subject Care |
 | SITE JURISDICTION | Central Command with Site 03 primary review |
-| CLEARANCE REQUIRED | Level 4; Level 5 for active refrain texts, child singers, NEMNOLIA-adjacent fragments, and<br>mass-memory cases |
+| CLEARANCE REQUIRED | Level 4; Level 5 for active refrain texts, child singers, NEMNOLIA-adjacent fragments, and mass-memory cases |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Restricted Record |
-| DISTRIBUTION | Intelligence / Civil Covert / Subject Care / Medical / Recovery / Containment /<br>Command |
+| DISTRIBUTION | Intelligence / Civil Covert / Subject Care / Medical / Recovery / Containment / Command |
 | AUTHORITY | Intelligence Division, Civil Covert Division, Subject Care Division, and Central Archive |
 
 #### Archive Note
@@ -448,21 +448,21 @@ The card was left at an A.C.T temporary evidence office. No entry breach recorde
 
 ### Confirmed Operational Facts
 
-  Choir of the Unforgotten Name is an outside cultic network and not an
-  A.C.T
-  body.
-  The Choir preserves and restores names, testimony, and memory fragments removed or damaged
-  by
-  anomaly events and
-  institutional response.
+ Choir of the Unforgotten Name is an outside cultic network and not an
+ A.C.T
+ body.
+ The Choir preserves and restores names, testimony, and memory fragments removed or damaged
+ by
+ anomaly events and
+ institutional response.
 — Its rites can partially undo amnestic softening or restore sealed incident memory.
-  Its members include grieving civilians and trained cultic practitioners; the two categories must
-  not
-  be collapsed.
-  The Choir's operational relationship to A.C.T is negative because it deliberately compromises memory
-  control
-  and
-  normalcy closure.
+ Its members include grieving civilians and trained cultic practitioners; the two categories must
+ not
+ be collapsed.
+ The Choir's operational relationship to A.C.T is negative because it deliberately compromises memory
+ control
+ and
+ normalcy closure.
 
 ### Active Intelligence Assessment
 
@@ -480,23 +480,23 @@ aftercare, protected memorial options, safer truth handling, and interruption of
 
 ### Persistent Questions
 
-  Did the Choir begin after an A.C.T amnestic failure, another containment authority's coverup,
-  or
-  an older religious
-  memory tradition?
-  Are active refrains anomalous by wording, melody, number of singers, grief state, or
-  presence
-  of a true name?
+ Did the Choir begin after an A.C.T amnestic failure, another containment authority's coverup,
+ or
+ an older religious
+ memory tradition?
+ Are active refrains anomalous by wording, melody, number of singers, grief state, or
+ presence
+ of a true name?
 — How many Name Bearers carry A.C.T-restricted victim names orally with no written copy?
-  Can the Choir restore memories removed by 004-series amnestics, or only memories softened
-  by
-  later public narratives?
-  Are NEMNOLIA-adjacent fragments genuinely present in Choir material, or is the similarity caused
-  by
-  common memory
-  damage language?
-  Has the Choir ever intentionally triggered a dangerous memory in order to expose
-  A.C.T?
+ Can the Choir restore memories removed by 004-series amnestics, or only memories softened
+ by
+ later public narratives?
+ Are NEMNOLIA-adjacent fragments genuinely present in Choir material, or is the similarity caused
+ by
+ common memory
+ damage language?
+ Has the Choir ever intentionally triggered a dangerous memory in order to expose
+ A.C.T?
 — Can A.C.T create protected memorial records that reduce recruitment without increasing public exposure?
 
 ### Intelligence Confidence
@@ -532,7 +532,7 @@ aftercare or family-notification review.
 - WITNESS STATEMENT AND TESTIMONY FORM, Operational Form
 - Normalcy Management and Public Narrative Doctrine, Archive Record
 - Restricted amnestic, witness, memory-shard, memorial, missing-person, and post-incident identity case chains held
-  under Central Archive routing.
+ under Central Archive routing.
 
 ### Dual Filing
 
@@ -548,11 +548,11 @@ containment order.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            14/02/1922
-FILE LAST UPDATED:       16/08/1932
-FILE AUTHOR:             Intelligence Division / Civil Covert / Subject Care Joint Desk
-REVIEWED BY:             Site 03 Review and Central Archive
-FILE STATUS:             ACTIVE / RESTRICTED
-DESIGNATION HISTORY:     GOI-CU-X-062 assigned at creation for Choir of the Unforgotten Name
-RECORD CONDITION:        OPERATIONAL
+FILE CREATED: 14/02/1922
+FILE LAST UPDATED: 16/08/1932
+FILE AUTHOR: Intelligence Division / Civil Covert / Subject Care Joint Desk
+REVIEWED BY: Site 03 Review and Central Archive
+FILE STATUS: ACTIVE / RESTRICTED
+DESIGNATION HISTORY: GOI-CU-X-062 assigned at creation for Choir of the Unforgotten Name
+RECORD CONDITION: OPERATIONAL
 ```

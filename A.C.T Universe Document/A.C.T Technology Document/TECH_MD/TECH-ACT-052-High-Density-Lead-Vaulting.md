@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Engineering, Artifact Storage, Site Safety, Archive |
 | OPERATIONAL STATUS | LEGACY-ACTIVE / RESTRICTED RETROFIT |
 | RISK STATUS | TOXIC MATERIAL / PASSIVE SHIELDING LIMIT |
-| CLEARANCE REQUIRED | Level 2 for inherited vault access; Level 4 for opening, cutting, melting, or refitting<br>historical lead shielding |
+| CLEARANCE REQUIRED | Level 2 for inherited vault access; Level 4 for opening, cutting, melting, or refitting historical lead shielding |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -333,4 +333,4 @@ many ways a threat can be light.
 - **Author Desk:** Historical Engineering Archive / Materials Custody / Central Archive
 - **Review Status:** Legacy-active foundational technology record; founding artifact list censored
 - **Next Review:** After any lead exposure, vault opening, retrofit proposal, seam residue event, or
-  founding-ledger release
+ founding-ledger release

@@ -13,7 +13,7 @@
 | ATTACHED DIVISIONS | Medical, Containment, Materials Custody, Transformation Review, Archive |
 | OPERATIONAL STATUS | ACTIVE / RESTRICTED / FITTED-OPERATOR ONLY |
 | RISK STATUS | HAZARDOUS / PERMANENT IMPLANT / NERVE-INTERFACE INJURY PROFILE |
-| CLEARANCE REQUIRED | Level 4 for issue and inspection; Level 5 for fitment, bio-feed work, and provenance<br>material |
+| CLEARANCE REQUIRED | Level 4 for issue and inspection; Level 5 for fitment, bio-feed work, and provenance material |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -96,13 +96,13 @@ What Engineering has established:
 
 - the carbon-tungsten spur body can be manufactured to specification using A.C.T metallurgy;
 - the **High-Speed Pneumatic Pistons** can be manufactured, serviced, and replaced;
-  the **Bio-Feed Connector** cannot be manufactured from first principles. It is reproduced by
-  copying
-  recovered
-  geometry, and Engineering cannot explain why the copied geometry works;
-  no A.C.T-built connector has ever been fitted without a recovered reference unit present
-  during
-  calibration.
+ the **Bio-Feed Connector** cannot be manufactured from first principles. It is reproduced by
+ copying
+ recovered
+ geometry, and Engineering cannot explain why the copied geometry works;
+ no A.C.T-built connector has ever been fitted without a recovered reference unit present
+ during
+ calibration.
 
 That last point is the operational bottleneck. A.C.T can build spurs. A.C.T cannot build
 the interface that makes them
@@ -120,18 +120,18 @@ reverse.
 
 Components:
 
-  **spur bodies**, carbon-tungsten, replaceable, wear visibly and are retired on measurement rather than
-  on
-  schedule;
-  **High-Speed Pneumatic Pistons**, one per spur, serviceable by Engineering, the only fully understood
-  part
-  of the
-  system;
+ **spur bodies**, carbon-tungsten, replaceable, wear visibly and are retired on measurement rather than
+ on
+ schedule;
+ **High-Speed Pneumatic Pistons**, one per spur, serviceable by Engineering, the only fully understood
+ part
+ of the
+ system;
 — **Bio-Feed Connector**, seated against the sacral nerve group, the sole control path;
 — **pelvic frame**, adjustable, load-bearing, transfers stroke recoil into the operator's core;
-  **manual disconnect**, present on every fitted unit, which severs the bio-feed but does
-  not
-  remove the implant.
+ **manual disconnect**, present on every fitted unit, which severs the bio-feed but does
+ not
+ remove the implant.
 
 The connector has no readable output, no indicator, and no diagnostic port. An operator
 knows the spurs are live by
@@ -368,10 +368,10 @@ entry exists for them.
 
 - What is the displaced source, and when does it come from?
 - Are A.C.T's spurs derived from Guild Item-M2, or do both derive from the same
-  source independently?
+ source independently?
 - Why does a copied Bio-Feed Connector require a recovered reference to calibrate?
 - What does the connector actually read from the sacral nerve group, and what does
-  it send back?
+ it send back?
 - Why do retired spur bodies differ in mass from their issue weight?
 - Can the implant ever be removed, and at what cost to the operator?
 - Does the matte-black finish serve a function, and why does polishing damage it?
@@ -388,6 +388,6 @@ entry exists for them.
 - **Created:** 2025-07-15
 - **Author Desk:** Field Command / Engineering Division / Medical Division / Central Archive
 - **Review Status:** Active restricted tactical technology record; provenance and connector derivation
-  unresolved
+ unresolved
 - **Next Review:** After any Guild Item-M2 recovery, any connector manufacturing breakthrough, or any
-  mass-drift explanation
+ mass-drift explanation

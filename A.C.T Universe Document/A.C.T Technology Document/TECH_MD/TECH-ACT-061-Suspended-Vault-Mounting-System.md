@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Security, Deep-Hold Command, Medical, Archive |
 | OPERATIONAL STATUS | ACTIVE / RESIDENT-SPECIFIC / HIGH-INVIOLABILITY USE |
 | RISK STATUS | STRUCTURAL SUSPENSION HAZARD / VAULT-DROP FAILURE RISK |
-| CLEARANCE REQUIRED | Level 4 for inspection; Level 5 for mount replacement, vault lowering, resident transfer, or<br>shaft redesign |
+| CLEARANCE REQUIRED | Level 4 for inspection; Level 5 for mount replacement, vault lowering, resident transfer, or shaft redesign |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -318,6 +318,6 @@ it holds.
 - **Created:** 1966-07-20
 - **Author Desk:** Deep-Hold Command / Engineering Division / Central Archive
 - **Review Status:** Active deep vault architecture record; resident vault schematics and mount
-  tolerances censored
+ tolerances censored
 - **Next Review:** After any mount drift, shaft resonance, closure conflict, service-flex strain, or F-1
-  vault retrofit
+ vault retrofit

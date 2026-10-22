@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Intelligence, Research, Security, Medical Cognitive Care |
 | OPERATIONAL STATUS | ACTIVE / CONTROLLED-READING CELL INFRASTRUCTURE |
 | RISK STATUS | COGNITIVE EXPOSURE / FILTER FAILURE RISK |
-| CLEARANCE REQUIRED | Level 3 for controlled-reading support; Level 4 for filter design, failure review, or restricted<br>document release |
+| CLEARANCE REQUIRED | Level 3 for controlled-reading support; Level 4 for filter design, failure review, or restricted document release |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Archive Safety Technology Record |
-| DISTRIBUTION | Archiver Division / Kurokawa Archive Node / Intelligence / Research / Security / Medical<br>Cognitive Care |
+| DISTRIBUTION | Archiver Division / Kurokawa Archive Node / Intelligence / Research / Security / Medical Cognitive Care |
 | AUTHORITY | Kurokawa Redaction Chief, Archiver Division, and Central Archive |
 
 #### Archive Note
@@ -329,6 +329,6 @@ A mask can slip.
 - **Created:** 2026-08-18
 - **Author Desk:** Kurokawa Redaction Chief / Archiver Division / Central Archive
 - **Review Status:** Active archive safety technology record; cell schematics and filter algorithms
-  censored
+ censored
 - **Next Review:** After any filtering failure, reader exposure event, unauthorized reading attempt,
-  release dispute, or filter-setting revision
+ release dispute, or filter-setting revision

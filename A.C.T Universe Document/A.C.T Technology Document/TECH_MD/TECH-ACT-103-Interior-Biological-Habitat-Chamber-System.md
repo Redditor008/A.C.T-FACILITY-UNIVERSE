@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Research, Environmental Containment, Medical, Security |
 | OPERATIONAL STATUS | ACTIVE / INTERIOR BIOLOGICAL HOLDING USE |
 | RISK STATUS | HABITAT MISMATCH / TRANSFER INSTABILITY / ENVIRONMENT RISK |
-| CLEARANCE REQUIRED | Level 3 for chamber duty; Level 4 for habitat redesign, downward escalation, open-sector transfer,<br>or resident move |
+| CLEARANCE REQUIRED | Level 3 for chamber duty; Level 4 for habitat redesign, downward escalation, open-sector transfer, or resident move |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -309,6 +309,6 @@ life.
 - **Created:** 1952-11-06
 - **Author Desk:** F-2 Holding Officer / Environmental Containment Liaison / Central Archive
 - **Review Status:** Active biological habitat record; live chamber maps, resident identities, and
-  environmental thresholds censored
+ environmental thresholds censored
 - **Next Review:** After any habitat mismatch, transfer instability, chamber breach, resident stress
-  event, open-sector transfer, or F-1 escalation
+ event, open-sector transfer, or F-1 escalation

@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Administration, Archive, Security, Research, Medical, Command |
 | OPERATIONAL STATUS | ACTIVE / CONTROLLED TRAINING AND DOCTRINE PREPARATION |
 | RISK STATUS | PREPARATION FAILURE / DOCTRINE MISUSE / EXPOSURE BY TRAINING |
-| CLEARANCE REQUIRED | Level 3 for training participation; Level 4 for operational archive instructor duty or doctrine<br>alteration |
+| CLEARANCE REQUIRED | Level 3 for training participation; Level 4 for operational archive instructor duty or doctrine alteration |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -307,11 +307,11 @@ OATDPS doctrine holds that a trained hesitation is stronger than a brave mistake
 - How realistic may training simulations become before they create avoidable exposure risk?
 - Should failed controlled-reading drills remove a person from public preservation duties?
 - Can ordinary archive excellence predict operational archive readiness, or does it sometimes predict the
-  opposite?
+ opposite?
 - How much doctrine should provisional personnel learn before final clearance is granted?
 - Should training records include fear responses when fear may be a useful safety behavior?
 - When does repeated training make personnel too curious about files they are not cleared
-  to see?
+ to see?
 - How realistic may a simulation become before it is a hazard?
 - Which failures should bar public preservation duties?
 - What doctrine may provisional personnel learn early?
@@ -323,6 +323,6 @@ OATDPS doctrine holds that a trained hesitation is stronger than a brave mistake
 - **Created:** 1976-04-23
 - **Author Desk:** Training Office / Node Administration / Central Archive
 - **Review Status:** Active training technology record; live training materials, failed-drill names,
-  instructor notes, and staged simulation contents censored
+ instructor notes, and staged simulation contents censored
 - **Next Review:** After any training contamination, certification error, operational first-duty
-  incident, exposure reporting failure, overdisclosure event, or doctrine module revision
+ incident, exposure reporting failure, overdisclosure event, or doctrine module revision

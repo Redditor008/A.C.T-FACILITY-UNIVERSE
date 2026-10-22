@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Security, Recovery Support, Medical Liaison, Archive Relay |
 | OPERATIONAL STATUS | ACTIVE / LOW-THREAT TRANSIENT HOLDING USE |
 | RISK STATUS | OVERSTAY / THREAT-MISCLASSIFICATION / CUSTODY DRIFT RISK |
-| CLEARANCE REQUIRED | Level 3 for holding duty; Level 4 for closure, escalation, transfer override, or high-threat<br>rejection |
+| CLEARANCE REQUIRED | Level 3 for holding duty; Level 4 for closure, escalation, transfer override, or high-threat rejection |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Provisional Holding Technology Record |
-| DISTRIBUTION | Glass Orchard Relay / Redwood Veil Complex / Security / Recovery Support / Medical<br>Liaison / Archive Relay |
+| DISTRIBUTION | Glass Orchard Relay / Redwood Veil Complex / Security / Recovery Support / Medical Liaison / Archive Relay |
 | AUTHORITY | Sub-Site Chief, F-1 Vault Officer, Redwood Veil Site Command, and Central Archive |
 
 #### Archive Note
@@ -293,7 +293,7 @@ temporary.
 ## OPEN QUESTIONS
 
 - How many transfer delays can occur before parent command must remove material by emergency
-  route?
+ route?
 - Which low-threat signs most often precede reclassification?
 - Can a stable holding unit create false confidence in relay authority?
 - Should witness-adjacent material ever share F-1 custody with object anomalies?
@@ -310,6 +310,6 @@ temporary.
 - **Created:** 1993-08-05
 - **Author Desk:** F-1 Vault Officer / Sub-Site Chief / Central Archive
 - **Review Status:** Active provisional holding record; live unit maps, custody clocks, and parent-site
-  transfer schedules censored
+ transfer schedules censored
 - **Next Review:** After any overstay, high-threat rejection, transfer delay, F-1 closure, custody drift
-  event, or parent-site overflow dispute
+ event, or parent-site overflow dispute

@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Engineering, Archive, Research, Artifact Storage |
 | OPERATIONAL STATUS | RETIRED / STUDY-ONLY / LIMITED DISPLAY UNDER SEAL |
 | RISK STATUS | TEMPORAL MISALIGNMENT / MECHANICAL FAILURE RISK |
-| CLEARANCE REQUIRED | Level 3 for archive review; Level 4 for mechanism access; Level 5 for winding,<br>reconstruction, or live testing |
+| CLEARANCE REQUIRED | Level 3 for archive review; Level 4 for mechanism access; Level 5 for winding, reconstruction, or live testing |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -324,4 +324,4 @@ you check the clock.
 - **Author Desk:** Historical Engineering Archive / Temporal Review Desk / Central Archive
 - **Review Status:** Retired legacy temporal technology record; live winding procedures censored
 - **Next Review:** After any tick event, stored-tension finding, sequence anomaly, restoration request,
-  or RSA ancestry audit
+ or RSA ancestry audit

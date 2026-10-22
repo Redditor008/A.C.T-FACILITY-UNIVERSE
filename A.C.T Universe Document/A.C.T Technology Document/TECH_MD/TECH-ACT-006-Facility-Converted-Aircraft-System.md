@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Engineering, Containment, Site Command, Civil Covert, Medical Care, Field Command, and Intelligence |
 | OPERATIONAL STATUS | ACTIVE / RESTRICTED / HIGH-PRIORITY TRANSPORT |
 | RISK STATUS | CONTROLLED / HAZARDOUS IF MASS, RSA, OR COVER FAILS |
-| CLEARANCE REQUIRED | Level 4 for mission planning; Level 5 for route masking, cargo-weight stabilizer access, RSA-rail<br>calibration, and world-scale sample movement |
+| CLEARANCE REQUIRED | Level 4 for mission planning; Level 5 for route masking, cargo-weight stabilizer access, RSA-rail calibration, and world-scale sample movement |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Restricted Technology Record |
-| DISTRIBUTION | Logistics / Recovery / Engineering / Containment / Site Command / Civil Covert /<br>Command |
+| DISTRIBUTION | Logistics / Recovery / Engineering / Containment / Site Command / Civil Covert / Command |
 | AUTHORITY | Logistics Division, Recovery Division, Engineering Division, Containment Division, and Central Archive |
 
 #### Archive Note
@@ -80,15 +80,15 @@ fragile, or too politically exposed.
 FCA appears in five major roles:
 
 - oversized anomaly transport where RSA-equipped ground containers cannot maintain mass or geometry;
-  high-priority biological material movement to and from White Grave, Verde Null, and other
-  specialized
-  sites;
-  long-range recovery support when field teams must carry containment equipment into remote or
-  unstable
-  territory;
+ high-priority biological material movement to and from White Grave, Verde Null, and other
+ specialized
+ sites;
+ long-range recovery support when field teams must carry containment equipment into remote or
+ unstable
+ territory;
 - emergency evacuation of contained material from compromised facilities;
-  covert trans-regional logistics where public aviation records, customs, or road routes would create
-  exposure.
+ covert trans-regional logistics where public aviation records, customs, or road routes would create
+ exposure.
 
 Core mission rule:
 
@@ -489,44 +489,44 @@ System.
 
 ## OPEN ENGINEERING AND INTELLIGENCE QUESTIONS
 
-  How much Cargo-Weight Stabilizer use changes landing consequence rather than true mass remains
-  under
-  study.
-  Can hostile GOIs identify FCA routes by tracking impossible weather gaps or boring
-  radar
-  behavior?
-  What happens if ARM skin fails while RSA rails remain active over a
-  populated
-  area?
-  Can FCA safely move anomalies that define themselves by route, destination, or ownership
-  chain?
+ How much Cargo-Weight Stabilizer use changes landing consequence rather than true mass remains
+ under
+ study.
+ Can hostile GOIs identify FCA routes by tracking impossible weather gaps or boring
+ radar
+ behavior?
+ What happens if ARM skin fails while RSA rails remain active over a
+ populated
+ area?
+ Can FCA safely move anomalies that define themselves by route, destination, or ownership
+ chain?
 - How many remote airfield nodes are still safe after repeated use?
 - Does biological cargo adapt to FCA climate if transfer takes longer than planned?
-  Can QNB flight recorders preserve evidence if the aircraft arrives before it departed
-  according
-  to public logs?
-  Should A.C.T develop smaller FCA profiles, or does downscaling create too many visible
-  flights?
+ Can QNB flight recorders preserve evidence if the aircraft arrives before it departed
+ according
+ to public logs?
+ Should A.C.T develop smaller FCA profiles, or does downscaling create too many visible
+ flights?
 
 - What is the certified maximum takeoff mass, and what is the certified Magnetic
-  RSA-Rail load for each
-  variant?
+ RSA-Rail load for each
+ variant?
 - What stabilizer band was exceeded in the FCA-1995 drift event, and what band
-  replaced it?
+ replaced it?
 - Which cover configuration failed at the Pacific Coast airfield, and what was issued
-  afterwards?
+ afterwards?
 
 ---
 
 ## FILE METADATA
 
 ```text
-FILE CREATED:            09/07/2026
-FILE LAST UPDATED:       19/11/2026
-FILE AUTHOR:             Logistics Division / Recovery Division / Engineering Division Joint Desk
-REVIEWED BY:             Central Archive / Site Command Technical Board / Civil Covert
-FILE STATUS:             ACTIVE / RESTRICTED
+FILE CREATED: 09/07/2026
+FILE LAST UPDATED: 19/11/2026
+FILE AUTHOR: Logistics Division / Recovery Division / Engineering Division Joint Desk
+REVIEWED BY: Central Archive / Site Command Technical Board / Civil Covert
+FILE STATUS: ACTIVE / RESTRICTED
 DESIGNATION HISTORY: TECH-ACT-006 assigned for individual Facility Converted Aircraft system expansion under
 A.C.T-owned technology numbering
-RECORD CONDITION:        OPERATIONAL / MAIN A.C.T TECHNOLOGY RECORD
+RECORD CONDITION: OPERATIONAL / MAIN A.C.T TECHNOLOGY RECORD
 ```

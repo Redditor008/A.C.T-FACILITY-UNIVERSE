@@ -6,7 +6,7 @@
 | GOI DESIGNATION | GOI-CU-W-066 |
 | COMMON NAME | Archivists of the Final Dawn |
 | SHORT NAME | AFDN |
-| KNOWN ALIASES | Final Dawn Archive; Dawn Archivists; Last Ledger Order; First Morning Scribes; [CENSOR: PRESERVATION<br>HOUSE NAME] |
+| KNOWN ALIASES | Final Dawn Archive; Dawn Archivists; Last Ledger Order; First Morning Scribes; [CENSOR: PRESERVATION HOUSE NAME] |
 | NATURE CLASS | CULTIC |
 | ALIGNMENT CLASS | WORK |
 | REACH CLASS | TRANSNATIONAL |
@@ -17,15 +17,15 @@
 | KNOWN LEADERSHIP | Dawn Curators, Ledger Priors, Last-Word Conservators, and an unverified office called the First Shelf |
 | KNOWN MEMBERSHIP | Archivists, oral historians, disaster scribes, linguists, witness clerks, family recorders, map keepers, and mourners |
 | PRIMARY ACTIVE REGION | Transnational archives, disaster zones, erased towns, refugee routes, post-breach shelters, and dying communities |
-| KNOWN ASSETS | Last ledgers, dawn copies, witness boxes, song cylinders, family-history rolls, language cards, map<br>skins, and seals |
+| KNOWN ASSETS | Last ledgers, dawn copies, witness boxes, song cylinders, family-history rolls, language cards, map skins, and seals |
 | KNOWN HOLDINGS | Preservation houses, hidden reading rooms, mobile archives, vault caravans, sealed basements, and post-disaster stacks |
-| IDEOLOGY | If an ending comes, someone must still be able to prove who lived, what<br>was loved, and what was lost |
-| HISTORY WITH A.C.T | Repeated limited cooperation over missing identities, lost towns, witness recovery, erased records,<br>and disaster lists |
+| IDEOLOGY | If an ending comes, someone must still be able to prove who lived, what was loved, and what was lost |
+| HISTORY WITH A.C.T | Repeated limited cooperation over missing identities, lost towns, witness recovery, erased records, and disaster lists |
 | ANOMALY CROSS-REFERENCE | Restricted apocalypse, archive, witness, missing-person, erased-town, language-loss, and final-record case chains |
 | CURRENT STATUS | ACTIVE - working apocalypse-preservation order under review |
 | PRIMARY FILE AUTHORITY | Central Archive / Intelligence Division / Civil Covert |
 | SITE JURISDICTION | Central Command with Site 03 primary archive review |
-| CLEARANCE REQUIRED | Level 4; Level 5 for active dawn copies, child last-words, sealed town ledgers, and<br>archive rooms that remember back |
+| CLEARANCE REQUIRED | Level 4; Level 5 for active dawn copies, child last-words, sealed town ledgers, and archive rooms that remember back |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -145,16 +145,16 @@ mobile vaults, and oral chains in specific regions.
 A.C.T assessment identifies these functional layers:
 
 - dawn curators who select communities, incidents, or records at risk of ending;
-  ledger priors who classify whether a record is safe, sealed, living, false, or
-  too
-  late;
+ ledger priors who classify whether a record is safe, sealed, living, false, or
+ too
+ late;
 - last-word conservators who gather final messages and protect them from public misuse;
-  language wardens who preserve endangered words that may describe anomaly conditions no formal
-  system
-  names;
-  map keepers who copy roads, rooms, coastlines, wells, and shelters before they vanish
-  or
-  change;
+ language wardens who preserve endangered words that may describe anomaly conditions no formal
+ system
+ names;
+ map keepers who copy roads, rooms, coastlines, wells, and shelters before they vanish
+ or
+ change;
 - witness-box clerks who store small civilian proofs when full testimony is unsafe;
 - fire copyists who make duplicates designed to survive destruction of the original;
 - dawn couriers who move sealed boxes through disaster routes;
@@ -471,19 +471,19 @@ transcription.
 
 ### Confirmed Operational Facts
 
-  Archivists of the Final Dawn is an outside cultic preservation order and not
-  an
-  A.C.T archive branch.
-  The order collects and protects records from communities, witnesses, and locations at risk
-  of
-  ending or erasure.
+ Archivists of the Final Dawn is an outside cultic preservation order and not
+ an
+ A.C.T archive branch.
+ The order collects and protects records from communities, witnesses, and locations at risk
+ of
+ ending or erasure.
 — Its materials have assisted A.C.T in missing-person identification, erased-town reconstruction, and record
-  reconciliation.
+ reconciliation.
 — Some preserved materials contain active hazard details and cannot circulate without review.
-  The order's relationship to A.C.T is Work because practical cooperation exists but destruction
-  of
-  records remains
-  unacceptable to the Archivists.
+ The order's relationship to A.C.T is Work because practical cooperation exists but destruction
+ of
+ records remains
+ unacceptable to the Archivists.
 
 ### Active Intelligence Assessment
 
@@ -505,26 +505,26 @@ still be able to read the names.
 
 ### Persistent Questions
 
-  What is the First Shelf: person, room, council, founding ledger, or anomalous archive
-  condition?
-  Can dawn copies preserve records against 004-series amnestic effects, or only against civic
-  deletion
-  and public
-  narrative collapse?
+ What is the First Shelf: person, room, council, founding ledger, or anomalous archive
+ condition?
+ Can dawn copies preserve records against 004-series amnestic effects, or only against civic
+ deletion
+ and public
+ narrative collapse?
 — How many preservation houses hold A.C.T-restricted material without declared custody?
-  Does opening a witness box change the memory of the reader, the record,
-  or
-  both?
-  Has the order ever preserved a complete map of a place A.C.T successfully
-  erased
-  from public access?
-  Are any Archivists former members of Choir of the Unforgotten Name, Missing 404
-  Watch
-  Tower, or public disaster
-  agencies?
+ Does opening a witness box change the memory of the reader, the record,
+ or
+ both?
+ Has the order ever preserved a complete map of a place A.C.T successfully
+ erased
+ from public access?
+ Are any Archivists former members of Choir of the Unforgotten Name, Missing 404
+ Watch
+ Tower, or public disaster
+ agencies?
 — What does the ledger category too late mean?
-  Can hostile market groups purchase or steal dawn copies for leverage over survivor
-  families?
+ Can hostile market groups purchase or steal dawn copies for leverage over survivor
+ families?
 
 ### Intelligence Confidence
 
@@ -559,9 +559,9 @@ not replace hazard review of specific records.
 - GOI-CU-X-062 — Choir of the Unforgotten Name, Group of Interest Registry
 - Normalcy Management and Public Narrative Doctrine, Archive Record
 - WITNESS STATEMENT AND TESTIMONY FORM, Operational Form
-  Restricted apocalypse, archive, witness, missing-person, erased-town, language-loss, and final-record case chains
-  held
-  under Central Archive routing.
+ Restricted apocalypse, archive, witness, missing-person, erased-town, language-loss, and final-record case chains
+ held
+ under Central Archive routing.
 
 ### Dual Filing
 
@@ -577,11 +577,11 @@ destruction of all ordinary copies.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            09/03/2019
-FILE LAST UPDATED:       09/05/2026
-FILE AUTHOR:             Central Archive / Intelligence Division / Civil Covert Joint Desk
-REVIEWED BY:             Site 03 Review and Central Archive
-FILE STATUS:             ACTIVE / RESTRICTED
-DESIGNATION HISTORY:     GOI-CU-W-066 assigned at creation for Archivists of the Final Dawn
-RECORD CONDITION:        OPERATIONAL
+FILE CREATED: 09/03/2019
+FILE LAST UPDATED: 09/05/2026
+FILE AUTHOR: Central Archive / Intelligence Division / Civil Covert Joint Desk
+REVIEWED BY: Site 03 Review and Central Archive
+FILE STATUS: ACTIVE / RESTRICTED
+DESIGNATION HISTORY: GOI-CU-W-066 assigned at creation for Archivists of the Final Dawn
+RECORD CONDITION: OPERATIONAL
 ```

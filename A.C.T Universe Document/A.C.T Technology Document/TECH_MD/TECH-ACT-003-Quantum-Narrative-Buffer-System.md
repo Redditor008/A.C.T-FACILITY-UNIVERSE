@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Containment, Site Command, Intelligence, Memory Review, Recovery, Digital Systems, and Transformation Review |
 | OPERATIONAL STATUS | ACTIVE / RESTRICTED / ARCHIVE-CRITICAL |
 | RISK STATUS | CONTROLLED / HAZARDOUS IF MIS-ETCHED OR MIS-RESTORED |
-| CLEARANCE REQUIRED | Level 4 for archive use; Level 5 for crystal canister replacement, drift override, sub-atomic<br>etching tables, and<br>timeline restoration authority |
+| CLEARANCE REQUIRED | Level 4 for archive use; Level 5 for crystal canister replacement, drift override, sub-atomic etching tables, and timeline restoration authority |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Restricted Technology Record |
-| DISTRIBUTION | Archive / Engineering / Containment / Site Command / Intelligence / Memory Review /<br>Command |
+| DISTRIBUTION | Archive / Engineering / Containment / Site Command / Intelligence / Memory Review / Command |
 | AUTHORITY | Archive Division, Engineering Division, Site Command, Memory Review, and Central Archive |
 
 #### Archive Note
@@ -77,12 +77,12 @@ Archive that change occurred rather than silently accepting the new version.
 
 QNB appears in five major roles:
 
-  central archive hardening for anomaly files, GOI records, technology records, site logs, and
-  command
-  minutes;
-  floor and site structural hardening, especially F-7 Central Archive and Site 03 Kurokawa
-  Archive
-  Node;
+ central archive hardening for anomaly files, GOI records, technology records, site logs, and
+ command
+ minutes;
+ floor and site structural hardening, especially F-7 Central Archive and Site 03 Kurokawa
+ Archive
+ Node;
 — field evidence capture through portable or head-mounted buffers used in unstable locations;
 — recovered-document quarantine for texts that rewrite themselves or their readers' memory of them;
 — restoration review after temporal, causal, narrative, or public-record disturbance.
@@ -248,7 +248,7 @@ could detect it.
 - Do not read a hazardous document aloud during buffer ingest.
 - Do not overwrite a QNB-preserved contradiction because the current file looks cleaner.
 - Do not restore to an earlier version without checking whether it contained hostile
-  content.
+ content.
 - Field buffers are weaker than rack hardening and must be reconciled after recovery.
 - Do not assume a record is true because it survived.
 
@@ -271,8 +271,8 @@ Accession, Level 4 Archive or Engineering.
 7. Verify division authority.
 8. Etch into the assigned canister sequence.
 9. Confirm content and metadata are logged separately, so a content change and a
-   custody change register as different
-   failures.
+ custody change register as different
+ failures.
 
 Manual crank reset during an active causal wipe is Level 5. Accepting a QNB-preserved
 version over current public
@@ -355,7 +355,7 @@ recovered documents must be compared against QNB title memory before any downgra
 | Hostile or hazardous rewrite pressure | QNB-RED | freeze edits and notify Archive Command |
 | File clean in ordinary storage but drifts when etched | recovered document carrying prior titles | quarantine; compare against QNB title memory before downgrade |
 | Restoration review active | QNB-WHITE | preserved version may supersede current; Level 5 acceptance |
-| Buffer integrity unknown | QNB-BLACK | dual review of both files; the preservation system may itself be part of the<br>contradiction |
+| Buffer integrity unknown | QNB-BLACK | dual review of both files; the preservation system may itself be part of the contradiction |
 | Field headset buffering lags | field variant limitation | reconcile against rack hardening after recovery |
 
 
@@ -502,40 +502,40 @@ Narrative Buffer System.
 
 ## OPEN ENGINEERING AND INTELLIGENCE QUESTIONS
 
-  Can QNB preserve a record if the decision to write that record is
-  erased
-  before accession?
+ Can QNB preserve a record if the decision to write that record is
+ erased
+ before accession?
 — How many QNB-preserved contradictions represent hostile alteration rather than ordinary human error?
-  Can hostile actors poison a buffer by inserting false records before a known
-  reset?
-  Do Ninefold Ark memory banks preserve continuity by similar means or by unrelated
-  preservation
-  doctrine?
+ Can hostile actors poison a buffer by inserting false records before a known
+ reset?
+ Do Ninefold Ark memory banks preserve continuity by similar means or by unrelated
+ preservation
+ doctrine?
 — Can prolonged reliance on QNB make staff distrust living witnesses too quickly?
-  What combined failure mode appears when QNB restoration, ARM public dulling, RSA hard
-  anchor,
-  and NEMNOLIA-derived
-  amnestic treatment overlap?
+ What combined failure mode appears when QNB restoration, ARM public dulling, RSA hard
+ anchor,
+ and NEMNOLIA-derived
+ amnestic treatment overlap?
 — Are [BLANK] crystal canisters finite in supply, reusable, or slowly accumulating narrative fatigue?
-  What does QNB-BLACK mean if both current history and preserved history contain matching
-  evidence
-  of tampering?
+ What does QNB-BLACK mean if both current history and preserved history contain matching
+ evidence
+ of tampering?
 
 ---
 
 - Canister capacity and rack power draw have never been recorded.
 - No canister service life or replacement interval exists, despite canisters being a consumable
-  in practice.
+ in practice.
 - No measured drift threshold separates ordinary edit history from QNB-YELLOW.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            10/07/2026
-FILE LAST UPDATED:       19/11/2026
-FILE AUTHOR:             Archive Division / Engineering Division Joint Desk
-REVIEWED BY:             Central Archive / Site Command Technical Board / Memory Review
-FILE STATUS:             ACTIVE / RESTRICTED
+FILE CREATED: 10/07/2026
+FILE LAST UPDATED: 19/11/2026
+FILE AUTHOR: Archive Division / Engineering Division Joint Desk
+REVIEWED BY: Central Archive / Site Command Technical Board / Memory Review
+FILE STATUS: ACTIVE / RESTRICTED
 DESIGNATION HISTORY: TECH-ACT-003 assigned for individual Quantum Narrative Buffer system expansion under
 A.C.T-owned technology numbering
-RECORD CONDITION:        OPERATIONAL / MAIN A.C.T TECHNOLOGY RECORD
+RECORD CONDITION: OPERATIONAL / MAIN A.C.T TECHNOLOGY RECORD
 ```

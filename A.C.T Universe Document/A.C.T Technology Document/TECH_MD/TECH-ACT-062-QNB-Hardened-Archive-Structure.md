@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Site Command, Containment, Recovery, Medical, Digital |
 | OPERATIONAL STATUS | ACTIVE / ARCHIVE-CRITICAL / STRUCTURAL HARDENING |
 | RISK STATUS | RECORD-IDENTITY HAZARD / FALSE CONTINUITY RISK |
-| CLEARANCE REQUIRED | Level 4 for maintenance or audit; Level 5 for hardening redesign, restoration authority, or<br>causal conflict review |
+| CLEARANCE REQUIRED | Level 4 for maintenance or audit; Level 5 for hardening redesign, restoration authority, or causal conflict review |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Archival Infrastructure Technology Record |
-| DISTRIBUTION | Archive / Engineering / Site Command / Containment / Recovery / Medical / Digital<br>Systems |
+| DISTRIBUTION | Archive / Engineering / Site Command / Containment / Recovery / Medical / Digital Systems |
 | AUTHORITY | Archive Division, Engineering Division, and Central Archive |
 
 #### Archive Note
@@ -322,6 +322,6 @@ to quietly replace.
 - **Created:** 2007-03-13
 - **Author Desk:** Archive Division / Engineering Division / Central Archive
 - **Review Status:** Active archival infrastructure record; structural hardening diagrams and
-  restoration thresholds censored
+ restoration thresholds censored
 - **Next Review:** After any causal mismatch, restoration dispute, overhardening event, quarantine
-  conflict, or F-7 archive retrofit
+ conflict, or F-7 archive retrofit

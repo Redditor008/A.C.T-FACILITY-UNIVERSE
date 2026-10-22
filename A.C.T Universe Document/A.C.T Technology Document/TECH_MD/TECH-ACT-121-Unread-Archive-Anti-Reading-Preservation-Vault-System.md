@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Archive, Security, Intelligence, Medical, Command |
 | OPERATIONAL STATUS | ACTIVE / MAXIMUM-SECURITY UNREADABLE ARCHIVE VAULTING |
 | RISK STATUS | UNCONTROLLED READING / PRESERVATION BREACH / ACCESS FAILURE |
-| CLEARANCE REQUIRED | Level 5 for vault access; Site Director or above for release, restriction change, or<br>direct content exposure |
+| CLEARANCE REQUIRED | Level 5 for vault access; Site Director or above for release, restriction change, or direct content exposure |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -301,9 +301,9 @@ UAARPV doctrine holds that the deepest archive is successful when it remembers w
 - Should personnel be rotated before curiosity appears or only after Medical identifies fixation?
 - Can preservation failure justify direct reading if direct reading is the breach condition?
 - How much of an F-1 incident may be written before the incident record becomes
-  a second hazard?
+ a second hazard?
 - Does the archive protect the world by not knowing, or does it only postpone
-  the day someone must know?
+ the day someone must know?
 - How is preservation verified without inspection at all?
 - What register language is safe to write down?
 - When must an unreadable item be destroyed rather than held?
@@ -315,6 +315,6 @@ UAARPV doctrine holds that the deepest archive is successful when it remembers w
 - **Created:** 2013-03-23
 - **Author Desk:** Unread Archive Chief / Deep-Archive Command / Central Archive
 - **Review Status:** Active anti-reading preservation technology record; vault map, holding identities,
-  restriction reasons, and unreadable register entries censored
+ restriction reasons, and unreadable register entries censored
 - **Next Review:** After any content-line exposure, preservation failure, unreadable register
-  correction, F-1 closure, blind maintenance deviation, or personnel curiosity incident
+ correction, F-1 closure, blind maintenance deviation, or personnel curiosity incident

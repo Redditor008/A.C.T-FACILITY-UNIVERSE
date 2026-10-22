@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Containment, Archive, Intelligence, Civil Covert, Site Command |
 | OPERATIONAL STATUS | PARTIALLY RECOVERED / 3 UNITS IN CUSTODY / 14 UNITS LEFT IN SERVICE |
 | RISK STATUS | PROTECTIVE IN SERVICE / HAZARDOUS IF DISASSEMBLED, TAMPERED, OR ABRUPTLY REMOVED |
-| CLEARANCE REQUIRED | Level 3 for instruction handling; Level 4 for inspection; Level 5 for disassembly, lot<br>tracing, or manufacturer<br>contact |
+| CLEARANCE REQUIRED | Level 3 for instruction handling; Level 4 for inspection; Level 5 for disassembly, lot tracing, or manufacturer contact |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -130,29 +130,29 @@ visible fastener pattern consistent with a commercial product line.
 
 Known external features:
 
-  a screw-secured **moon element** forming the primary light aperture, which recovered instruction explicitly
-  forbids
-  removing while children are sleeping;
-  a **fabric or paper shade** surrounding the aperture, the only component known to
-  produce
-  sound;
-  a **battery plate** at the base or rear, behind which a production tag
-  may
-  be stitched or adhered;
+ a screw-secured **moon element** forming the primary light aperture, which recovered instruction explicitly
+ forbids
+ removing while children are sleeping;
+ a **fabric or paper shade** surrounding the aperture, the only component known to
+ produce
+ sound;
+ a **battery plate** at the base or rear, behind which a production tag
+ may
+ be stitched or adhered;
 - an **instruction slip** stored beneath the battery cover, printed rather than handwritten;
-  a **shell casing** that remains structurally complete after the active components are removed,
-  and
-  that A.C.T has
-  confirmed retains comforting value to a child even when inert.
+ a **shell casing** that remains structurally complete after the active components are removed,
+ and
+ that A.C.T has
+ confirmed retains comforting value to a child even when inert.
 
 Known marking and packaging features:
 
 - the product recovery label **LW / NIGHTLIGHT LOT SLEEP-SAFE-7**;
 - a stitched **half-moon** mark, shared across the Lullaby Works product range;
 - a warranty line promising **three quiet nights**;
-  a printed instruction stating that no adult should open the object unless the
-  child
-  gives permission.
+ a printed instruction stating that no adult should open the object unless the
+ child
+ gives permission.
 
 Inspection results on the three recovered units are consistent and unhelpful. No sensor array,
 no wiring loom, no
@@ -402,26 +402,26 @@ and does not intend to.
 
 ## OPEN QUESTIONS
 
-  What component inside the unit performs detection, and where is it located, given
-  that
-  internal volume does not
-  account for the observed function?
+ What component inside the unit performs detection, and where is it located, given
+ that
+ internal volume does not
+ account for the observed function?
 - What powers a unit that shows no identifiable cell matching its observed runtime?
-  What condition distinguishes a steady state from a blue shift, and does the
-  device
-  distinguish between threat types?
+ What condition distinguishes a steady state from a blue shift, and does the
+ device
+ distinguish between threat types?
 - What triggers the shade hum, and why has it never occurred under inspection?
-  What does the device mean by an unregistered presence, and against what register
-  is
-  registration measured?
-  How does a unit enumerate occupants, and where does the count of eighteen
-  come
-  from?
+ What does the device mean by an unregistered presence, and against what register
+ is
+ registration measured?
+ How does a unit enumerate occupants, and where does the count of eighteen
+ come
+ from?
 - Does lot SLEEP-SAFE-7 differ from earlier or later lots in construction or behaviour?
 - Can a unit be built or repaired by anyone other than Lullaby Works?
-  Does a unit continue to function after the child it was placed for
-  has
-  left the room permanently?
+ Does a unit continue to function after the child it was placed for
+ has
+ left the room permanently?
 
 ---
 
@@ -430,6 +430,6 @@ and does not intend to.
 - **Created:** 2019-04-20
 - **Author Desk:** Subject Care Division / Engineering Division / Central Archive
 - **Review Status:** Active restricted GOI technology record; manufacturer identity and lot source
-  censored
+ censored
 - **Next Review:** After any new unit recovery, any confirmed intensification or blue-shift observation,
-  or any Lullaby Works contact event
+ or any Lullaby Works contact event

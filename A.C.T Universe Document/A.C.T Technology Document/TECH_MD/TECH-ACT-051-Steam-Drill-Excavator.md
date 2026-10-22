@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Engineering, History, Materials Custody, Site Archives |
 | OPERATIONAL STATUS | RETIRED / PRESERVED / DOCTRINAL REFERENCE |
 | RISK STATUS | HISTORICAL HAZARD / PRESSURE AND THERMAL FAILURE RISK |
-| CLEARANCE REQUIRED | Level 3 for archive study; Level 4 for component access; Level 5 for any<br>reconstruction proposal |
+| CLEARANCE REQUIRED | Level 3 for archive study; Level 4 for component access; Level 5 for any reconstruction proposal |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -318,7 +318,7 @@ A.C.T.
 
 - What bore diameter and descent rate did the platform actually achieve?
 - How deep did the First Descent reach, and what does the descent map plate
-  omit?
+ omit?
 - Which preserved components still carry measurable pressure or heat memory?
 
 ---
@@ -328,6 +328,6 @@ A.C.T.
 - **Created:** 1938-01-04
 - **Author Desk:** Historical Engineering Archive / Abyss Engineering / Central Archive
 - **Review Status:** Retired historical technology record; reconstruction data and descent-route ledgers
-  censored
+ censored
 - **Next Review:** After any component handling, route-map discovery, deep-access proposal, or First
-  Descent archive release
+ Descent archive release

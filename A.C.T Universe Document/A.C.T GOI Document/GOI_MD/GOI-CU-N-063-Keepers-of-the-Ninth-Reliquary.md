@@ -19,13 +19,13 @@
 | PRIMARY ACTIVE REGION | Regional shrine houses, hidden reliquaries, museum-adjacent stores, sealed chapels, rural processions, and old roads |
 | KNOWN ASSETS | Nine-class relic ledgers, lamp rites, offering schedules, reliquary keys, saint-cloth wrappings, and custody vows |
 | KNOWN HOLDINGS | Active reliquary rooms, votive kitchens, sealed carts, bone-lamp cupboards, procession routes, and shrine archives |
-| IDEOLOGY | Some objects are not property, trophies, evidence, or tools; they are obligations that must<br>be tended in the right<br>manner |
-| HISTORY WITH A.C.T | Repeated limited cooperation and dispute over relic seizure, shrine custody, museum transfer, and<br>unsafe handling |
+| IDEOLOGY | Some objects are not property, trophies, evidence, or tools; they are obligations that must be tended in the right manner |
+| HISTORY WITH A.C.T | Repeated limited cooperation and dispute over relic seizure, shrine custody, museum transfer, and unsafe handling |
 | ANOMALY CROSS-REFERENCE | Restricted relic, shrine, offering, procession, museum, caretaker, and object-custody case chains |
 | CURRENT STATUS | ACTIVE - neutral cultic relic-custody order under monitor |
 | PRIMARY FILE AUTHORITY | Intelligence Division / Recovery Division / Central Archive |
 | SITE JURISDICTION | Central Command with Site 01 and Site-specific object review |
-| CLEARANCE REQUIRED | Level 4; Level 5 for active reliquary inventory, child attendants, Ninth Custodian identity, and<br>feeding rites |
+| CLEARANCE REQUIRED | Level 4; Level 5 for active reliquary inventory, child attendants, Ninth Custodian identity, and feeding rites |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -140,9 +140,9 @@ A.C.T assessment identifies these functional layers:
 - reliquary abbots who supervise shrine rooms and approve opening conditions;
 - lamp-bearers who carry bone lamps during object movement and night watches;
 - bone notaries who record custody, offerings, injuries, refusals, and transfer language;
-  offering clerks who prepare food, water, smoke, silence, heat, apology, music, or other
-  required
-  tending conditions;
+ offering clerks who prepare food, water, smoke, silence, heat, apology, music, or other
+ required
+ tending conditions;
 - procession guards who protect movement routes and prevent spectators from touching covered carts;
 - shrine nurses who treat handlers, witnesses, and civilians affected by relic contact;
 - quiet auditors who inspect museums, estates, churches, and private collections for mistended relics;
@@ -444,9 +444,9 @@ sequence data.
 
 ### Confirmed Operational Facts
 
-  Keepers of the Ninth Reliquary is an outside cultic relic-custody order and not
-  an
-  A.C.T body.
+ Keepers of the Ninth Reliquary is an outside cultic relic-custody order and not
+ an
+ A.C.T body.
 — The order maintains reliquary rooms, ledgers, offerings, processions, and trained handlers.
 — Several Keeper practices have reduced hazardous relic activity during A.C.T cases.
 — The order withholds complete inventory, active site locations, and the Ninth Custodian's identity.
@@ -470,16 +470,16 @@ may appear in the same relic dispute, but they are not the same institution.
 
 ### Persistent Questions
 
-  What are the first eight reliquaries, and does the Ninth Reliquary imply a
-  sequence,
-  rank, catastrophe, or missing
-  archive?
+ What are the first eight reliquaries, and does the Ninth Reliquary imply a
+ sequence,
+ rank, catastrophe, or missing
+ archive?
 — Is the Ninth Custodian a person, relic, office, room, or rotating condition?
 — Which offering practices are symbolically useful, and which produce measurable anomalous suppression?
 — How many child attendants exist, and what protections govern their participation?
-  Has the order ever allowed a relic to harm an owner in order
-  to
-  preserve broader dormancy?
+ Has the order ever allowed a relic to harm an owner in order
+ to
+ preserve broader dormancy?
 — Do any Keeper ledgers contain object histories predating A.C.T's earliest custody records?
 — Are market GOIs attempting to infiltrate reliquary sites for inventory intelligence?
 — Can A.C.T reproduce a Keeper tending condition without a trained Keeper present?
@@ -514,9 +514,9 @@ specific object classification.
 - GOI-CU-P-061 — The Kindly Molt, Group of Interest Registry
 - GOI-GV-N-058 — Crown Office of Ash Keys, Group of Interest Registry
 - Normalcy Management and Public Narrative Doctrine, Archive Record
-  Restricted relic, shrine, offering, procession, museum, caretaker, and object-custody case chains held under
-  Central
-  Archive routing.
+ Restricted relic, shrine, offering, procession, museum, caretaker, and object-custody case chains held under
+ Central
+ Archive routing.
 
 ### Dual Filing
 
@@ -531,11 +531,11 @@ creates a room condition, requires live offerings, or remains hazardous outside 
 ## FILE METADATA
 
 ```text
-FILE CREATED:            24/04/1907
-FILE LAST UPDATED:       28/08/1911
-FILE AUTHOR:             Intelligence Division / Recovery Division / Central Archive Joint Desk
-REVIEWED BY:             Central Archive and Site-specific Object Custody Review
-FILE STATUS:             ACTIVE / RESTRICTED
-DESIGNATION HISTORY:     GOI-CU-N-063 assigned at creation for Keepers of the Ninth Reliquary
-RECORD CONDITION:        OPERATIONAL
+FILE CREATED: 24/04/1907
+FILE LAST UPDATED: 28/08/1911
+FILE AUTHOR: Intelligence Division / Recovery Division / Central Archive Joint Desk
+REVIEWED BY: Central Archive and Site-specific Object Custody Review
+FILE STATUS: ACTIVE / RESTRICTED
+DESIGNATION HISTORY: GOI-CU-N-063 assigned at creation for Keepers of the Ninth Reliquary
+RECORD CONDITION: OPERATIONAL
 ```

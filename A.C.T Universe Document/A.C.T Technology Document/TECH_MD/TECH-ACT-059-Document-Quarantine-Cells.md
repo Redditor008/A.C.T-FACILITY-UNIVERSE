@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Containment, Security, Recovery, Medical, Administration |
 | OPERATIONAL STATUS | ACTIVE / QNB-HARDENED / RESTRICTED ACCESS |
 | RISK STATUS | INFORMATION-BORNE HAZARD / READER AND RECORD RISK |
-| CLEARANCE REQUIRED | Level 3 for custody support; Level 4 for cell opening, reading preparation, relocation, or<br>quarantine release |
+| CLEARANCE REQUIRED | Level 3 for custody support; Level 4 for cell opening, reading preparation, relocation, or quarantine release |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -319,4 +319,4 @@ it can act.
 - **Author Desk:** Archive Division / Redwood Veil F-7 / Central Archive
 - **Review Status:** Active archive containment record; cell maps and resident-document list censored
 - **Next Review:** After any access violation, self-rewrite event, QNB mismatch, unauthorized copy, or
-  quarantine release request
+ quarantine release request

@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Security, Administration, Recovery, Containment, Research |
 | OPERATIONAL STATUS | ACTIVE / SITE COMMAND USE |
 | RISK STATUS | COMMAND DELAY / MISROUTED ORDER / COMMUNICATION EXPOSURE |
-| CLEARANCE REQUIRED | Level 4 for live command routing, external network links, emergency broadcast, or sealed operational<br>channel access |
+| CLEARANCE REQUIRED | Level 4 for live command routing, external network links, emergency broadcast, or sealed operational channel access |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -317,6 +317,6 @@ through channels that can be verified.
 - **Created:** 1978-02-28
 - **Author Desk:** Command Support / Nusantara Site Command / Central Archive
 - **Review Status:** Active command communications record; live channels, authentication keys, and
-  external network routes censored
+ external network routes censored
 - **Next Review:** After any misrouted order, command dropout, platform communication failure, F-1
-  closure command, protected circuit fault, or emergency broadcast dispute
+ closure command, protected circuit fault, or emergency broadcast dispute

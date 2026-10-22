@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Security, Research, Campus Administration, Port Operations, Recovery, Command |
 | OPERATIONAL STATUS | ACTIVE / SURFACE GATEWAY AND COVER TRANSITION |
 | RISK STATUS | TRANSITION EXPOSURE / PORT OVERLAP / COVER ROUTE FAILURE |
-| CLEARANCE REQUIRED | Level 3 for transition oversight; Level 4 for concealed recovery routing, port separation, or<br>surface seal action |
+| CLEARANCE REQUIRED | Level 3 for transition oversight; Level 4 for concealed recovery routing, port separation, or surface seal action |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Nusantara Surface-Transition Technology Record |
-| DISTRIBUTION | Nusantara Deep Relay / Security / Research / Campus Administration / Port Operations /<br>Recovery / Command |
+| DISTRIBUTION | Nusantara Deep Relay / Security / Research / Campus Administration / Port Operations / Recovery / Command |
 | AUTHORITY | Campus Director, Security Boundary Command, Site Director's Office, and Central Archive |
 
 #### Archive Note
@@ -305,12 +305,12 @@ ordinary shadow.
 
 - How many concealed transitions can occur in one day before campus movement becomes patterned?
 - Should recovered material ever move through F-6 while external collaborators are present on the
-  island?
+ island?
 - Can port separation remain credible during high-tempo maritime recovery?
 - What ordinary campus reason best supports a sudden surface seal without creating curiosity?
 - Should Security prioritize stopping observation or preserving the observer's belief that nothing unusual occurred?
 - When does a legitimate research schedule become too useful as cover and therefore too
-  dangerous to keep using?
+ dangerous to keep using?
 - What separation interval keeps two traffic classes unrelated?
 - Which recovered material should never cross the surface?
 - How should the gateway operate during a port surge?
@@ -322,6 +322,6 @@ ordinary shadow.
 - **Created:** 1981-12-17
 - **Author Desk:** Security Boundary Command / Campus Director / Central Archive
 - **Review Status:** Active surface-transition technology record; concealed routes, port schedules, seal
-  triggers, and cover phrases censored
+ triggers, and cover phrases censored
 - **Next Review:** After any transition exposure, port overlap, concealed route observation, surface
-  seal action, public-program conflict, or recovered-material movement under cover pressure
+ seal action, public-program conflict, or recovered-material movement under cover pressure

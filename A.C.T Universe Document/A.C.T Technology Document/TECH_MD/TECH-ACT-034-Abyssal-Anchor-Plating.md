@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Abyss Floor, Site Command, Logistics, World-Scale Recovery |
 | OPERATIONAL STATUS | ACTIVE / HEAVY STRUCTURAL / MASSIVE BOX DEPLOYMENT |
 | RISK STATUS | CONTROLLED / LOAD-ANCHOR AND RESONANCE HAZARD |
-| CLEARANCE REQUIRED | Level 4 for installation; Level 5 for Massive Box design, tungsten-lattice layout, and anchor-load<br>override |
+| CLEARANCE REQUIRED | Level 4 for installation; Level 5 for Massive Box design, tungsten-lattice layout, and anchor-load override |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Heavy Containment Technology Record |
-| DISTRIBUTION | Engineering / Heavy Containment / Abyss Floor / Site Command / Logistics / World-Scale<br>Recovery |
+| DISTRIBUTION | Engineering / Heavy Containment / Abyss Floor / Site Command / Logistics / World-Scale Recovery |
 | AUTHORITY | Engineering Division, Heavy Containment Structural Desk, and Central Archive |
 
 #### Archive Note
@@ -333,7 +333,7 @@ optional.
 ## OPEN QUESTIONS
 
 - What certified load does one tile hold, and how does the grid derate at
-  the seams?
+ the seams?
 - What is the thermal-sink capacity, and how is saturation detected early?
 - What was decided in the 2026 quiet wall dispute about trusting acoustic calm?
 
@@ -345,4 +345,4 @@ optional.
 - **Author Desk:** Engineering Division / Heavy Containment Structural Desk / Central Archive
 - **Review Status:** Active heavy-containment record; tungsten lattice and anchor-grid details censored
 - **Next Review:** After any Massive Box movement event, seam ringing, thermal-sink saturation, or
-  world-scale enclosure redesign
+ world-scale enclosure redesign

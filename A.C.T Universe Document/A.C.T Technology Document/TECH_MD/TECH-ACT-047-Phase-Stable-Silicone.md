@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Artificial Cognition, Medical, Subject Care, Materials |
 | OPERATIONAL STATUS | ACTIVE / FABRICATION-STOCK / CASE-RESTRICTED |
 | RISK STATUS | CONTROLLED / PHASE-MISALIGNMENT AND HOSTING HAZARD |
-| CLEARANCE REQUIRED | Level 3 for fabrication stock; Level 4 for surgical use; Level 5 for digital-hosting<br>chassis or high-phase exposure |
+| CLEARANCE REQUIRED | Level 3 for fabrication stock; Level 4 for surgical use; Level 5 for digital-hosting chassis or high-phase exposure |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Synthetic Polymer Technology Record |
-| DISTRIBUTION | Engineering / Medical Fabrication / Artificial Cognition / Medical / Subject Care / Materials<br>Custody |
+| DISTRIBUTION | Engineering / Medical Fabrication / Artificial Cognition / Medical / Subject Care / Materials Custody |
 | AUTHORITY | Engineering Division, Medical Fabrication Desk, and Central Archive |
 
 #### Archive Note
@@ -331,6 +331,6 @@ let usefulness become permission.
 - **Created:** 2026-02-27
 - **Author Desk:** Engineering Division / Medical Fabrication Desk / Central Archive
 - **Review Status:** Active synthetic polymer record; phase-thread composition and digital-hosting
-  bonding methods censored
+ bonding methods censored
 - **Next Review:** After any phase slippage, chassis refusal, thermal misread, surgical adverse event,
-  or exposed-fragment data echo
+ or exposed-fragment data echo

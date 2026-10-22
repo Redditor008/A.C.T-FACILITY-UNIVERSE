@@ -6,7 +6,7 @@
 | GOI DESIGNATION | GOI-HY-N-074 |
 | COMMON NAME | Ninefold Ark |
 | SHORT NAME | NFA |
-| KNOWN ALIASES | The Ark of Nine; Nine Arks; Ninth Vessel Society; Folded Ark Continuance; [CENSOR: VESSEL<br>HOLD NAME] |
+| KNOWN ALIASES | The Ark of Nine; Nine Arks; Ninth Vessel Society; Folded Ark Continuance; [CENSOR: VESSEL HOLD NAME] |
 | NATURE CLASS | HYBRID |
 | ALIGNMENT CLASS | NEUTRAL |
 | REACH CLASS | TRANSNATIONAL |
@@ -15,17 +15,17 @@
 | SECRECY RISK | VEILED |
 | A.C.T POSTURE | MONITOR / MISDIRECT / COOPERATED / APPROPRIATE |
 | KNOWN LEADERSHIP | Ark Stewards, Fold Captains, Continuance Trustees, Vessel Curators, and unknown Ninth Hold auditors |
-| KNOWN MEMBERSHIP | Continuity planners, containment engineers, seed-bank officers, archivists, vault crews, biosphere<br>technicians, legal trustees, pilots, and preservation guards |
-| PRIMARY ACTIVE REGION | Mobile vaults, sealed ships, mountain stores, island conservatories, orbital claims, desert domes,<br>and hidden continuity shelters |
-| KNOWN ASSETS | Ark holds, fold vaults, species ledgers, memory banks, seed rooms, sample coffers, cold cradles,<br>covenant keys, and<br>evacuation lotteries |
-| KNOWN HOLDINGS | Nine confirmed or suspected vessel classes, protected vault sites, mobile containment holds,<br>selection offices, and sealed continuity archives |
-| IDEOLOGY | Continuance requires selecting what survives before panic, politics, mercy, or public grief makes<br>selection impossible |
-| HISTORY WITH A.C.T | Repeated tense contact through preservation seizures, evacuation priority disputes, sample custody,<br>ark-space denial, and temporary cooperation during extinction threats |
+| KNOWN MEMBERSHIP | Continuity planners, containment engineers, seed-bank officers, archivists, vault crews, biosphere technicians, legal trustees, pilots, and preservation guards |
+| PRIMARY ACTIVE REGION | Mobile vaults, sealed ships, mountain stores, island conservatories, orbital claims, desert domes, and hidden continuity shelters |
+| KNOWN ASSETS | Ark holds, fold vaults, species ledgers, memory banks, seed rooms, sample coffers, cold cradles, covenant keys, and evacuation lotteries |
+| KNOWN HOLDINGS | Nine confirmed or suspected vessel classes, protected vault sites, mobile containment holds, selection offices, and sealed continuity archives |
+| IDEOLOGY | Continuance requires selecting what survives before panic, politics, mercy, or public grief makes selection impossible |
+| HISTORY WITH A.C.T | Repeated tense contact through preservation seizures, evacuation priority disputes, sample custody, ark-space denial, and temporary cooperation during extinction threats |
 | ANOMALY CROSS-REFERENCE | Restricted continuity, extinction, seed-bank, sample, biosphere, evacuation, memory archive, and vault files |
 | CURRENT STATUS | ACTIVE - neutral continuance containment network monitored |
 | PRIMARY FILE AUTHORITY | Intelligence Division / Containment / Recovery / Command |
 | SITE JURISDICTION | Central Command with Site 02, Site 03, and extinction planning review |
-| CLEARANCE REQUIRED | Level 4; Level 5 for selection lists, ark coordinates, living samples, Ninth Hold references,<br>and A.C.T denied<br>evacuation requests |
+| CLEARANCE REQUIRED | Level 4; Level 5 for selection lists, ark coordinates, living samples, Ninth Hold references, and A.C.T denied evacuation requests |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -280,9 +280,9 @@ ownership.
 
 Known or assessed assets include:
 
-  ark holds divided by living, seed, memory, tool, medical, animal, culture, containment, and
-  unknown
-  categories;
+ ark holds divided by living, seed, memory, tool, medical, animal, culture, containment, and
+ unknown
+ categories;
 — fold vaults with inconsistent external dimensions;
 — species ledgers and denied-species registers;
 — cold cradles for viable tissue, seed, eggs, blood, spores, and unknown samples;
@@ -495,21 +495,21 @@ seats than names.
 ### Persistent Questions
 
 - What is the Ninth Hold: category, room, vessel, council, anomaly, or censored failure?
-  Do fold vaults physically enlarge space, alter inventory memory, or use undisclosed mundane
-  architecture?
-  How many Ark vessels are real, and how many are decoys meant to
-  draw
-  raiders away?
+ Do fold vaults physically enlarge space, alter inventory memory, or use undisclosed mundane
+ architecture?
+ How many Ark vessels are real, and how many are decoys meant to
+ draw
+ raiders away?
 - Has the Ark copied A.C.T containment restart protocols from current facilities?
 - Do selection ledgers change after a future outcome becomes more or less likely?
-  How many people have been denied boarding while their songs, languages, or genetic
-  material
-  were accepted?
+ How many people have been denied boarding while their songs, languages, or genetic
+ material
+ were accepted?
 - Would the Ark sabotage an evacuation if panic boarding threatened a critical vessel?
-  Can A.C.T create ethical continuity protocols strong enough to negotiate with or replace
-  Ark
-  decisions during mass
-  failure?
+ Can A.C.T create ethical continuity protocols strong enough to negotiate with or replace
+ Ark
+ decisions during mass
+ failure?
 
 ### Intelligence Confidence
 
@@ -543,7 +543,7 @@ files. This GOI dossier must not replace vessel-specific or sample-specific cust
 - Complete Designation and Class Reference, Archive Record
 - Standing Field Units and Cross-Containment Interaction Protocol, Archive Record
 - Restricted continuity, extinction, seed-bank, sample, biosphere, evacuation, memory archive, and vault files held
-  under Central Archive routing.
+ under Central Archive routing.
 
 ### Dual Filing
 
@@ -560,11 +560,11 @@ Command filing is mandatory when selection decisions intersect A.C.T evacuation 
 ## FILE METADATA
 
 ```text
-FILE CREATED:            04/04/1917
-FILE LAST UPDATED:       09/01/1932
-FILE AUTHOR:             Intelligence Division / Containment / Recovery / Command Joint Desk
-REVIEWED BY:             Central Archive
-FILE STATUS:             ACTIVE / RESTRICTED
-DESIGNATION HISTORY:     GOI-HY-N-074 assigned at creation for Ninefold Ark
-RECORD CONDITION:        OPERATIONAL
+FILE CREATED: 04/04/1917
+FILE LAST UPDATED: 09/01/1932
+FILE AUTHOR: Intelligence Division / Containment / Recovery / Command Joint Desk
+REVIEWED BY: Central Archive
+FILE STATUS: ACTIVE / RESTRICTED
+DESIGNATION HISTORY: GOI-HY-N-074 assigned at creation for Ninefold Ark
+RECORD CONDITION: OPERATIONAL
 ```

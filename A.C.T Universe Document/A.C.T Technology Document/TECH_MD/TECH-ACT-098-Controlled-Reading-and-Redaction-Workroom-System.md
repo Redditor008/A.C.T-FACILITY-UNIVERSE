@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Archive, Intelligence, Limited Medical Cognitive Staff |
 | OPERATIONAL STATUS | ACTIVE / SUPERVISED REVIEW USE |
 | RISK STATUS | SOLO EXPOSURE / BAD REDACTION / REVIEW CONTAMINATION RISK |
-| CLEARANCE REQUIRED | Level 3 for controlled review; Level 4 for active memetic cycle work, redaction release,<br>or parent-node exception |
+| CLEARANCE REQUIRED | Level 3 for controlled review; Level 4 for active memetic cycle work, redaction release, or parent-node exception |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -305,6 +305,6 @@ CRRWS doctrine holds that reading is never private when the text can read back.
 - **Created:** 1975-06-17
 - **Author Desk:** Review Officer / Redaction Lead / Central Archive
 - **Review Status:** Active controlled review record; live exposure limits, redaction keys, and
-  hazardous layouts censored
+ hazardous layouts censored
 - **Next Review:** After any solo exposure, contaminated review note, bad redaction, aftercare failure,
-  release dispute, or parent-node format challenge
+ release dispute, or parent-node format challenge

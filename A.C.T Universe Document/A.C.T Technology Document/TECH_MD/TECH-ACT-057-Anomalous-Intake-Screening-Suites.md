@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Intelligence, Research, Security, Redaction, Containment |
 | OPERATIONAL STATUS | ACTIVE / TRIAGE-GATED / DUAL-ROUTE |
 | RISK STATUS | ANOMALOUS MEDIA EXPOSURE / ROUTING ERROR RISK |
-| CLEARANCE REQUIRED | Level 2 for routine intake support; Level 3 for screening; Level 4 for anomalous-media<br>triage or route override |
+| CLEARANCE REQUIRED | Level 2 for routine intake support; Level 3 for screening; Level 4 for anomalous-media triage or route override |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Archive Intake Technology Record |
-| DISTRIBUTION | Archiver Division / Kurokawa Archive Node / Intelligence / Research / Security / Redaction<br>/ Containment |
+| DISTRIBUTION | Archiver Division / Kurokawa Archive Node / Intelligence / Research / Security / Redaction / Containment |
 | AUTHORITY | Kurokawa Intake Chief, Archiver Division, and Central Archive |
 
 #### Archive Note
@@ -325,6 +325,6 @@ becomes.
 - **Created:** 2026-06-04
 - **Author Desk:** Kurokawa Intake Chief / Archiver Division / Central Archive
 - **Review Status:** Active archive intake technology record; route-lock control maps and screening
-  thresholds censored
+ thresholds censored
 - **Next Review:** After any false clearance, route delay, chain-of-custody break, unauthorized deep
-  reading, or screening-suite retrofit
+ reading, or screening-suite retrofit

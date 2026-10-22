@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Containment, Logistics, Site Command, Dark World Survey |
 | OPERATIONAL STATUS | ACTIVE / RESTRICTED / HIGH-LOAD FIELD USE |
 | RISK STATUS | CONTROLLED / HAZARDOUS IF OVERLOADED, PHASED, OR CUT |
-| CLEARANCE REQUIRED | Level 3 for supervised field use; Level 4 for phase-lock calibration, stretched-space deployment,<br>and recovery rigs |
+| CLEARANCE REQUIRED | Level 3 for supervised field use; Level 4 for phase-lock calibration, stretched-space deployment, and recovery rigs |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -191,7 +191,7 @@ run instead of sitting only at the ends.
 - Do not stand inside loops or cross two active cables without Engineering approval.
 - Do not judge load by sight; the eye is not a load gauge.
 - Do not reuse a Dark World threshold line for ordinary site work without
-  review.
+ review.
 - Withdraw if the cable sings, flickers white, sweats coolant, or reports negative drag.
 - Weakest against contradictory anchors and hostile phase shifts.
 - Weakest against objects that change what they are attached to while attached.
@@ -348,9 +348,9 @@ protect the cable more than the cargo.
 ## OPEN QUESTIONS
 
 - What is the rated physical load, and how is it derated when ontological drag
-  is present?
+ is present?
 - What coolant does the jacket carry, and how is relationship heat told apart from
-  friction heat?
+ friction heat?
 - How is cable memory detected before a line is reissued to another site?
 
 ---
@@ -361,4 +361,4 @@ protect the cable more than the cargo.
 - **Author Desk:** Engineering Division / Recovery Division / Central Archive
 - **Review Status:** Active restricted record; phase-lock geometry censored
 - **Next Review:** After any line snap, negative-drag reading, threshold recovery, or post-use cable
-  memory event
+ memory event

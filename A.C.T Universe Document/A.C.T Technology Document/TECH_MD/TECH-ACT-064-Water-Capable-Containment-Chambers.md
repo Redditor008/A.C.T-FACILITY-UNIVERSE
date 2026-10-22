@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Recovery, Research, Medical, Security, Seismic Analysis |
 | OPERATIONAL STATUS | ACTIVE / WATER-DEPENDENT RESIDENT USE |
 | RISK STATUS | AQUATIC BREACH / ENVIRONMENTAL COLLAPSE RISK |
-| CLEARANCE REQUIRED | Level 3 for routine chamber support; Level 4 for resident access, transfer, environmental<br>alteration, or breach use |
+| CLEARANCE REQUIRED | Level 3 for routine chamber support; Level 4 for resident access, transfer, environmental alteration, or breach use |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -317,9 +317,9 @@ made accountable.
 - Can chamber water become part of an anomaly's body over long containment periods?
 - How much source-water chemistry must be preserved during transfer?
 - Can a resident use pump rhythm, current, or acoustic reflection as a route to
-  influence staff?
+ influence staff?
 - When should a maritime anomaly remain in vessel containment instead of being moved to
-  F-3?
+ F-3?
 - Can WCCC systems safely hold residents whose source environment is both oceanic and abyss-linked?
 - What volume and circulation rate does a standard chamber hold?
 - What salinity band can the loop maintain across a long hold?
@@ -332,6 +332,6 @@ made accountable.
 - **Created:** 2022-06-20
 - **Author Desk:** Maritime-Hold Command / Nusantara Deep Relay / Central Archive
 - **Review Status:** Active maritime containment record; chamber schematics and resident-specific water
-  formulas censored
+ formulas censored
 - **Next Review:** After any aquatic breach, chemistry drift, resident transfer, pressure mismatch, port
-  handoff incident, or Abyssal Aquarium retrofit
+ handoff incident, or Abyssal Aquarium retrofit

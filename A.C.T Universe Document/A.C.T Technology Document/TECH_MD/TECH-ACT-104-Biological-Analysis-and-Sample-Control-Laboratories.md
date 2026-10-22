@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Research, Medical, Environmental Containment, Archive |
 | OPERATIONAL STATUS | ACTIVE / CONTROLLED BIOLOGICAL STUDY USE |
 | RISK STATUS | SAMPLE DRIFT / CROSS-CONTAMINATION / DATA-CUSTODY RISK |
-| CLEARANCE REQUIRED | Level 3 for routine sample processing; Level 4 for resident samples, containment research, or<br>medical-subject<br>crossover |
+| CLEARANCE REQUIRED | Level 3 for routine sample processing; Level 4 for resident samples, containment research, or medical-subject crossover |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -312,6 +312,6 @@ contained with it.
 - **Created:** 1907-09-01
 - **Author Desk:** Laboratory and Medical Chief / Research Division / Central Archive
 - **Review Status:** Active biological laboratory record; live sample chains, resident identities,
-  analysis protocols, and medical crossover files censored
+ analysis protocols, and medical crossover files censored
 - **Next Review:** After any sample drift, context-loss event, cross-contamination, chain break,
-  disposal dispute, or field-condition change based on lab findings
+ disposal dispute, or field-condition change based on lab findings

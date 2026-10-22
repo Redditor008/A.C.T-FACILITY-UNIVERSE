@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Researcher, Intelligence, Archive, Security, Medical |
 | OPERATIONAL STATUS | ACTIVE / PROPAGATION TRACKING AND RESPONSE SUPPORT |
 | RISK STATUS | REPLICATION ESCAPE / MISROUTED WARNING / DATA CONTAMINATION |
-| CLEARANCE REQUIRED | Level 4 for propagation tracking; Level 5 for public-media intervention orders or unrestricted<br>pattern export |
+| CLEARANCE REQUIRED | Level 4 for propagation tracking; Level 5 for public-media intervention orders or unrestricted pattern export |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -296,7 +296,7 @@ understanding the path the copies want to take next.
 ## OPEN QUESTIONS
 
 - When does a derivative stop being the same anomalous media and become a new
-  object?
+ object?
 - Can public removal ever be more dangerous than leaving a weak copy unnoticed?
 - Should harmless discussion of dangerous media be tracked as propagation?
 - How many screenshots equal a breach when none of them individually activates?
@@ -313,6 +313,6 @@ understanding the path the copies want to take next.
 - **Created:** 1928-02-19
 - **Author Desk:** Media Propagation Lead / Floor Research Chief / Central Archive
 - **Review Status:** Active media-propagation technology record; live public-watch channels, media
-  samples, response routes, and copy-chain maps censored
+ samples, response routes, and copy-chain maps censored
 - **Next Review:** After any replication escape, false derivative ruling, analyst exposure, public
-  intervention, Intelligence warning delay, or copy-chain map contamination
+ intervention, Intelligence warning delay, or copy-chain map contamination

@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Subject Care, Engineering, Narrative Analysis, Site Command |
 | OPERATIONAL STATUS | ACTIVE / CASE-RESTRICTED / CONSCIOUSNESS-ADJACENT |
 | RISK STATUS | HAZARDOUS / CONTROLLED ONLY UNDER PROXIMITY DISCIPLINE |
-| CLEARANCE REQUIRED | Level 4 for monitoring; Level 5 for anchor adjustment, acoustic bridge integration, and<br>pendant-distance override |
+| CLEARANCE REQUIRED | Level 4 for monitoring; Level 5 for anchor adjustment, acoustic bridge integration, and pendant-distance override |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Case-Restricted Medical Technology Record |
-| DISTRIBUTION | Medical / White Grave / Subject Care / Engineering / Narrative Analysis / Site<br>Command |
+| DISTRIBUTION | Medical / White Grave / Subject Care / Engineering / Narrative Analysis / Site Command |
 | AUTHORITY | Medical Division, White Grave Stasis Desk, Engineering Division, and Central Archive |
 
 #### Archive Note
@@ -336,6 +336,6 @@ Standing reminder: if the anchor contains a person, every maintenance action has
 - **Created:** 2024-10-10
 - **Author Desk:** Medical Division / White Grave Stasis Desk / Engineering Division / Central Archive
 - **Review Status:** Active case-restricted record; anchor-proximity and acoustic bridge details
-  censored
+ censored
 - **Next Review:** After any resonance drift, transfer event, glass stress alarm, or acoustic bridge
-  distress report
+ distress report

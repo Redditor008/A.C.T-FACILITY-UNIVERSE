@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Containment, Recovery, Research, Medical, Security |
 | OPERATIONAL STATUS | ACTIVE / MARITIME RECOVERY RECEIPT AND TRANSFER |
 | RISK STATUS | TRANSFER FAILURE / ENVIRONMENTAL MISMATCH / CUSTODY DRIFT |
-| CLEARANCE REQUIRED | Level 3 for intake duty; Level 4 for downward transfer, vessel transfer, or deep-sensitivity<br>routing |
+| CLEARANCE REQUIRED | Level 3 for intake duty; Level 4 for downward transfer, vessel transfer, or deep-sensitivity routing |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -308,13 +308,13 @@ moving.
 ## OPEN QUESTIONS
 
 - Should all sea-recovered material pass through pressure-preserving transfer even when depth sensitivity is
-  unconfirmed?
+ unconfirmed?
 - How long may Research observe an intake before it becomes an unauthorized study?
 - Can vessel containment remain the preferred destination if land-based holding is technically available?
 - Should island-recovered material use the same custody clock as deep-sea material?
 - How much Recovery context must remain attached when a resident becomes a long-term holding?
 - When does a failed transfer count as a recovery incident rather than an F-3
-  holding incident?
+ holding incident?
 - What custody clock should island-recovered material run on?
 - How long may research observe an intake before it becomes study?
 - Which recoveries should go to a vessel rather than a chamber?
@@ -326,6 +326,6 @@ moving.
 - **Created:** 1924-12-06
 - **Author Desk:** Maritime-Hold Command / Floor Holding Chief / Central Archive
 - **Review Status:** Active intake-transfer technology record; live transfer maps, vessel interfaces,
-  resident names, and route timings censored
+ resident names, and route timings censored
 - **Next Review:** After any transfer failure, environmental mismatch, custody break, pressure incident,
-  route exposure, vessel handoff dispute, or research-transfer override
+ route exposure, vessel handoff dispute, or research-transfer override

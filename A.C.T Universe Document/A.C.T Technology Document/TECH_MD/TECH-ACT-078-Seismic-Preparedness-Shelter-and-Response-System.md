@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Medical, Command, Engineering, Seismic Analysis |
 | OPERATIONAL STATUS | ACTIVE / PERSONNEL PROTECTION USE |
 | RISK STATUS | TECTONIC INCIDENT / EVACUATION CONFLICT / SHELTER FAILURE |
-| CLEARANCE REQUIRED | Level 2 for personnel drill participation; Level 4 for response control, shelter override, or<br>route reprioritizing |
+| CLEARANCE REQUIRED | Level 2 for personnel drill participation; Level 4 for response control, shelter override, or route reprioritizing |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -313,6 +313,6 @@ cannot keep watching.
 - **Created:** 1970-03-20
 - **Author Desk:** Security Division / Relay Administration / Central Archive
 - **Review Status:** Active personnel safety record; shelter maps, route priorities, and live roster
-  systems censored
+ systems censored
 - **Next Review:** After any large tectonic event, shelter drill failure, route conflict, false
-  all-clear, command link fault, or anomalous ground-motion escalation
+ all-clear, command link fault, or anomalous ground-motion escalation

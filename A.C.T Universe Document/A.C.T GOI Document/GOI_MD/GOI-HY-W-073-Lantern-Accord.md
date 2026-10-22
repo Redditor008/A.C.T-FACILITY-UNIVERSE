@@ -6,7 +6,7 @@
 | GOI DESIGNATION | GOI-HY-W-073 |
 | COMMON NAME | Lantern Accord |
 | SHORT NAME | LTA |
-| KNOWN ALIASES | The Lantern Table; Accord of Lit Doors; Yellow Signal Compact; Last Lantern Conference; [CENSOR:<br>SIGNATORY SEAT] |
+| KNOWN ALIASES | The Lantern Table; Accord of Lit Doors; Yellow Signal Compact; Last Lantern Conference; [CENSOR: SIGNATORY SEAT] |
 | NATURE CLASS | HYBRID |
 | ALIGNMENT CLASS | WORK |
 | REACH CLASS | TRANSNATIONAL |
@@ -15,17 +15,17 @@
 | SECRECY RISK | LEAKING |
 | A.C.T POSTURE | COOPERATED / MONITOR / MISDIRECT / APPROPRIATE |
 | KNOWN LEADERSHIP | Signatory Seats, Lantern Marshals, Accord Clerks, Safe-Line arbiters, and crisis delegates |
-| KNOWN MEMBERSHIP | Independent containment houses, municipal response cells, hospital wards, border teams, retired<br>field officers, technical custodians, and treaty witnesses |
+| KNOWN MEMBERSHIP | Independent containment houses, municipal response cells, hospital wards, border teams, retired field officers, technical custodians, and treaty witnesses |
 | PRIMARY ACTIVE REGION | Transnational crisis corridors, temporary safe lines, signatory rooms, emergency warehouses, and neutral depots |
-| KNOWN ASSETS | Lantern beacons, yellow-line warrants, accord seals, neutral keys, safe-line maps, crisis rooms, and<br>ceasefire ledgers |
-| KNOWN HOLDINGS | Signatory depots, neutral handover rooms, beacon towers, mobile accord tents, locked map cabinets,<br>and relay vans |
-| IDEOLOGY | When abnormal danger crosses jurisdictions, rival keepers must hold the line first and argue<br>ownership after lives are<br>no longer burning |
-| HISTORY WITH A.C.T | Repeated work contact through temporary ceasefires, joint evacuations, handover disputes, breach<br>signaling, and multi-GOI corridor control |
-| ANOMALY CROSS-REFERENCE | Restricted breach, evacuation, multi-agency containment, beacon, neutral corridor, handover, and<br>temporary accord case chains |
+| KNOWN ASSETS | Lantern beacons, yellow-line warrants, accord seals, neutral keys, safe-line maps, crisis rooms, and ceasefire ledgers |
+| KNOWN HOLDINGS | Signatory depots, neutral handover rooms, beacon towers, mobile accord tents, locked map cabinets, and relay vans |
+| IDEOLOGY | When abnormal danger crosses jurisdictions, rival keepers must hold the line first and argue ownership after lives are no longer burning |
+| HISTORY WITH A.C.T | Repeated work contact through temporary ceasefires, joint evacuations, handover disputes, breach signaling, and multi-GOI corridor control |
+| ANOMALY CROSS-REFERENCE | Restricted breach, evacuation, multi-agency containment, beacon, neutral corridor, handover, and temporary accord case chains |
 | CURRENT STATUS | ACTIVE - work relationship containment accord under review |
 | PRIMARY FILE AUTHORITY | Intelligence Division / Containment / Legal / Field Command |
 | SITE JURISDICTION | Central Command with Site 01, Site 02, Site 03, and crisis command attachment |
-| CLEARANCE REQUIRED | Level 4; Level 5 for signatory lists, beacon codes, neutral line maps, accord violations,<br>and A.C.T crisis concessions |
+| CLEARANCE REQUIRED | Level 4; Level 5 for signatory lists, beacon codes, neutral line maps, accord violations, and A.C.T crisis concessions |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -142,14 +142,14 @@ redirect entire evacuations.
 A.C.T identifies these functional layers:
 
 - Signatory Seats who hold recognition within the Accord and speak for member institutions;
-  Lantern Marshals who physically mark safe lines, triage zones, handover rooms, and crossing
-  limits;
+ Lantern Marshals who physically mark safe lines, triage zones, handover rooms, and crossing
+ limits;
 - Accord Clerks who write terms, violations, witness signatures, and unresolved custody claims;
 - Safe-Line Arbiters who decide whether seizure, recruitment, sale, or force violates the line;
 - Beacon Keepers who maintain lamps, codes, colored shutters, and relay timing;
-  Neutral Key Holders who open handover rooms and depots usable by hostile or
-  rival
-  groups under escort;
+ Neutral Key Holders who open handover rooms and depots usable by hostile or
+ rival
+ groups under escort;
 - Corridor Guards who protect civilians and staff without advancing one signatory's claim;
 - Violation Witnesses who preserve evidence when the line is broken.
 
@@ -474,8 +474,8 @@ groups learn to counterfeit it better than we can read it.
 
 - Lantern Accord is an outside containment compact and not an A.C.T treaty office.
 - It establishes temporary safe lines and handover rules during multi-actor abnormal crises.
-  It has cooperated with A.C.T in evacuations, medical transfer, breach deconfliction, and hostile-seizure
-  prevention.
+ It has cooperated with A.C.T in evacuations, medical transfer, breach deconfliction, and hostile-seizure
+ prevention.
 - It has also limited A.C.T unilateral action and protected signatories from immediate custody.
 - Its beacons, seals, keys, warrants, maps, and ledgers may have active anomalous relevance.
 - Iron Meridian Authority has attempted to exploit or enter Accord structures.
@@ -500,19 +500,19 @@ as a humanitarian mechanism.
 
 ### Persistent Questions
 
-  Does the First Lantern Table exist as a physical room, founding meeting, or
-  activation
-  threshold?
+ Does the First Lantern Table exist as a physical room, founding meeting, or
+ activation
+ threshold?
 — Which Signatory Seats are recognized, suspended, disputed, or counterfeit?
-  Are lantern beacons anomalous, or do they combine mundane light discipline with prearranged
-  code?
+ Are lantern beacons anomalous, or do they combine mundane light discipline with prearranged
+ code?
 — Why do some hostile actors hesitate before crossing yellow-line warrants?
 — Can violation ledgers resist memory alteration, or are they copied through human redundancy?
-  Has A.C.T ever been marked as a line breaker in records not yet
-  recovered?
+ Has A.C.T ever been marked as a line breaker in records not yet
+ recovered?
 — How often does the Accord shield offenders after a crisis ends?
-  Can Iron Meridian counterfeit a lantern line convincingly enough to redirect civilians into
-  custody?
+ Can Iron Meridian counterfeit a lantern line convincingly enough to redirect civilians into
+ custody?
 
 ### Intelligence Confidence
 
@@ -546,7 +546,7 @@ dossier must not replace incident-specific command review.
 - Standing Field Units and Cross-Containment Interaction Protocol, Archive Record
 - ACCESS AND EGRESS LEDGER FORM, Operational Form
 - Restricted breach, evacuation, multi-agency containment, beacon, neutral corridor, handover, and temporary accord
-  files held under Central Archive routing.
+ files held under Central Archive routing.
 
 ### Dual Filing
 
@@ -562,11 +562,11 @@ mandatory for any accord minute that limits A.C.T command authority.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            14/12/1943
-FILE LAST UPDATED:       18/02/1962
-FILE AUTHOR:             Intelligence Division / Containment / Legal / Field Command Joint Desk
-REVIEWED BY:             Central Archive
-FILE STATUS:             ACTIVE / RESTRICTED
-DESIGNATION HISTORY:     GOI-HY-W-073 assigned at creation for Lantern Accord
-RECORD CONDITION:        OPERATIONAL
+FILE CREATED: 14/12/1943
+FILE LAST UPDATED: 18/02/1962
+FILE AUTHOR: Intelligence Division / Containment / Legal / Field Command Joint Desk
+REVIEWED BY: Central Archive
+FILE STATUS: ACTIVE / RESTRICTED
+DESIGNATION HISTORY: GOI-HY-W-073 assigned at creation for Lantern Accord
+RECORD CONDITION: OPERATIONAL
 ```

@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Research, Security, Port Operations, Cover, Site Command |
 | OPERATIONAL STATUS | ACTIVE / PUBLIC AND SEMI-PUBLIC COVER USE |
 | RISK STATUS | COVER FAILURE / PUBLIC SCRUTINY / BOUNDARY EXPOSURE RISK |
-| CLEARANCE REQUIRED | Level 2 for ordinary campus support; Level 4 for cover alteration, concealed-transition control, or<br>exposure event |
+| CLEARANCE REQUIRED | Level 2 for ordinary campus support; Level 4 for cover alteration, concealed-transition control, or exposure event |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -301,6 +301,6 @@ SCRC doctrine holds that normalcy is strongest when it has real weight behind it
 - **Created:** 1964-02-19
 - **Author Desk:** Campus Director / Relay Administration / Central Archive
 - **Review Status:** Active surface-cover record; live cover identities, public partners,
-  transition-adjacent zones, and exposure incident files censored
+ transition-adjacent zones, and exposure incident files censored
 - **Next Review:** After any public audit, contractor route change, publication dispute, surface
-  exposure event, port scrutiny incident, or concealed-transition alarm
+ exposure event, port scrutiny incident, or concealed-transition alarm

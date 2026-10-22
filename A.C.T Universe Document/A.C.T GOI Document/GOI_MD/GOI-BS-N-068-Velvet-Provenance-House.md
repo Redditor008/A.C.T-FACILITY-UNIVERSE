@@ -6,7 +6,7 @@
 | GOI DESIGNATION | GOI-BS-N-068 |
 | COMMON NAME | Velvet Provenance House |
 | SHORT NAME | VPH |
-| KNOWN ALIASES | The Velvet House; Red Room Provenance; House of Receipts; Vellum Velvet; [CENSOR: AUCTION FAMILY<br>NAME] |
+| KNOWN ALIASES | The Velvet House; Red Room Provenance; House of Receipts; Vellum Velvet; [CENSOR: AUCTION FAMILY NAME] |
 | NATURE CLASS | BUSINESS |
 | ALIGNMENT CLASS | NEUTRAL |
 | REACH CLASS | TRANSNATIONAL |
@@ -16,16 +16,16 @@
 | A.C.T POSTURE | MONITOR / MISDIRECT / COOPERATED / APPROPRIATE |
 | KNOWN LEADERSHIP | Provenance Masters, Receipt Factors, Velvet Notaries, Lot Readers, and private-client officers |
 | KNOWN MEMBERSHIP | Appraisers, archivists, auction agents, estate brokers, lawyers, notaries, restorers, transport clerks, and guards |
-| PRIMARY ACTIVE REGION | Private sales, estate rooms, museum back channels, antique fairs, bonded warehouses, and sealed<br>collector networks |
-| KNOWN ASSETS | Provenance ledgers, red velvet lots, seal papers, auction rooms, authenticity tests, courier crates,<br>and buyer books |
+| PRIMARY ACTIVE REGION | Private sales, estate rooms, museum back channels, antique fairs, bonded warehouses, and sealed collector networks |
+| KNOWN ASSETS | Provenance ledgers, red velvet lots, seal papers, auction rooms, authenticity tests, courier crates, and buyer books |
 | KNOWN HOLDINGS | Registered vaults, private viewing rooms, archive desks, unlisted warehouses, and temporary exhibition rooms |
-| IDEOLOGY | Ownership is safer when origin, chain, and liability are recorded, even when the object<br>should not exist publicly |
+| IDEOLOGY | Ownership is safer when origin, chain, and liability are recorded, even when the object should not exist publicly |
 | HISTORY WITH A.C.T | Repeated contact through estate seizures, forged anomaly papers, museum incidents, collector disputes, and returns |
 | ANOMALY CROSS-REFERENCE | Restricted object, estate, auction, restoration, witness, museum, and private-collector case chains |
 | CURRENT STATUS | ACTIVE - neutral provenance market under continuing review |
 | PRIMARY FILE AUTHORITY | Intelligence Division / Legal / Recovery / Civil Covert |
 | SITE JURISDICTION | Central Command with Site 01, Site 02, and regional review |
-| CLEARANCE REQUIRED | Level 4; Level 5 for buyer books, return clauses, living heirs, and A.C.T-adjacent sale<br>interventions |
+| CLEARANCE REQUIRED | Level 4; Level 5 for buyer books, return clauses, living heirs, and A.C.T-adjacent sale interventions |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -133,9 +133,9 @@ procedures more readily when those procedures feel older than the client.
 A.C.T identifies these functional layers:
 
 - Provenance Masters who approve high-value certification and final sale permissions;
-  Receipt Factors who reconstruct custody chains and compare signatures, marks, stains, oral claims,
-  and
-  deaths;
+ Receipt Factors who reconstruct custody chains and compare signatures, marks, stains, oral claims,
+ and
+ deaths;
 - Velvet Notaries who witness transfer language and attach liability clauses;
 - Lot Readers who examine objects for responsive history, false origin, and harmful attachment;
 - Seal Stewards who maintain wax, paper, ink, thread, and locked-case standards;
@@ -447,10 +447,10 @@ The barred-client card confirms the House restricts some buyers for safety, repu
 
 ### Confirmed Operational Facts
 
-  Velvet Provenance House is an outside provenance and private-sale institution, not an A.C.T
-  department.
+ Velvet Provenance House is an outside provenance and private-sale institution, not an A.C.T
+ department.
 — The House authenticates, documents, restricts, and sometimes facilitates transfer of anomalous or anomaly-adjacent
-  objects.
+ objects.
 — Its receipts can preserve information useful to containment and recovery.
 — Its certifications can also legitimize private possession of hazardous items.
 — It has refused some sales and cooperated in some fraud and restitution cases.
@@ -474,17 +474,17 @@ marks accurately, dangerous lots can be intercepted before public incidents.
 
 ### Persistent Questions
 
-  Does the Red Room exist as a physical central archive, or is it
-  a
-  status category?
+ Does the Red Room exist as a physical central archive, or is it
+ a
+ status category?
 — Are velvet inspection cloths anomalous tools, inherited ritual materials, or ordinary stabilizing convention?
 — How many House notaries can detect ownership attachments without instruments?
-  What buyer-book marks are shared with Anstrall Market, Candle-Under Exchange, or other hidden
-  markets?
+ What buyer-book marks are shared with Anstrall Market, Candle-Under Exchange, or other hidden
+ markets?
 — Has the House certified any object currently inside A.C.T custody?
-  Do return clauses reduce anomalous harm, or do they only describe conditions discovered
-  by
-  other means?
+ Do return clauses reduce anomalous harm, or do they only describe conditions discovered
+ by
+ other means?
 — Who pays the House when an object is declared unsaleable?
 — What does the House do with objects whose rightful owners no longer exist?
 
@@ -521,7 +521,7 @@ evidence.
 - GOI-CP-W-055 — Cairn and Lintel, Group of Interest Registry
 - Normalcy Management and Public Narrative Doctrine, Archive Record
 - Restricted object, estate, auction, restoration, museum, legal, transport, and private-collector case chains held
-  under Central Archive routing.
+ under Central Archive routing.
 
 ### Dual Filing
 
@@ -537,11 +537,11 @@ substitution.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            10/10/1902
-FILE LAST UPDATED:       11/11/1905
-FILE AUTHOR:             Intelligence Division / Legal / Recovery / Civil Covert Joint Desk
-REVIEWED BY:             Central Archive
-FILE STATUS:             ACTIVE / RESTRICTED
-DESIGNATION HISTORY:     GOI-BS-N-068 assigned at creation for Velvet Provenance House
-RECORD CONDITION:        OPERATIONAL
+FILE CREATED: 10/10/1902
+FILE LAST UPDATED: 11/11/1905
+FILE AUTHOR: Intelligence Division / Legal / Recovery / Civil Covert Joint Desk
+REVIEWED BY: Central Archive
+FILE STATUS: ACTIVE / RESTRICTED
+DESIGNATION HISTORY: GOI-BS-N-068 assigned at creation for Velvet Provenance House
+RECORD CONDITION: OPERATIONAL
 ```

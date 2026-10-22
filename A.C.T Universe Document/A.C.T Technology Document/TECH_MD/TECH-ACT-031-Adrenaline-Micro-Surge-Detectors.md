@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Biological Containment, Subject Care, Security, Site Command |
 | OPERATIONAL STATUS | ACTIVE / PERSONNEL-ISSUE / SUITE-LINKED |
 | RISK STATUS | CONTROLLED / SEDATIVE-RELEASE HAZARD |
-| CLEARANCE REQUIRED | Level 2 for wear; Level 3 for threshold calibration; Level 4 for containment-suite sedative<br>integration |
+| CLEARANCE REQUIRED | Level 2 for wear; Level 3 for threshold calibration; Level 4 for containment-suite sedative integration |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -175,11 +175,11 @@ than the wearer's own account.
 ### Suite And Personnel Limits
 
 - Do not fit a band to a mannequin, deceased tissue, decoy, or captured
-  subject.
+ subject.
 - Do not remove the detector inside the active radius.
 - Do not pull the auto-release pin because vibration is distracting.
 - Do not read a low surge as calm when a dampener patch is
-  worn.
+ worn.
 - Weakest against anomalies that flatten stress instead of raising it.
 - Weakest where BRD masking interferes with interpretation.
 
@@ -335,4 +335,4 @@ Standing reminder: a calm voice over a rising gauge is not evidence of control.
 - **Author Desk:** Medical Division / Personnel Safety Desk / Central Archive
 - **Review Status:** Active personnel-safety record; sedative mixture details censored
 - **Next Review:** After any suite sedation, compulsion breach, false negative, or dampener-interference
-  event
+ event

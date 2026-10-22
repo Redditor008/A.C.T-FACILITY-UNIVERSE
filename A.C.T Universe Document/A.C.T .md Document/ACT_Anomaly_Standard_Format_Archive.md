@@ -26,82 +26,82 @@ placement, naming convention, designation logic, and record architecture.
 
 ```
 ═══════════════════════════════════════════════════════════════════════
-                    A.C.T FACILITY — ANOMALY FILE
-                     Anomaly Containment Transformation
+ A.C.T FACILITY — ANOMALY FILE
+ Anomaly Containment Transformation
 ═══════════════════════════════════════════════════════════════════════
 
-DESIGNATION:         [UFD-XX-### / AFD-XX-###][ANM-XX-XX-####]
-                     UFD = Unknown Field Designation (provisional)
-                     AFD = Anomaly Field Designation (verified)
-REGISTRY BAND:       [ENTITY Historical / 000 Foundational Reserve /
-                      LEGACY ACCEPTED 001-120 / Modern Registry 121-999 /
-                      ANM Fracture-State / Reserved / Obscured]
-TITLE I:             [Primary Title / N/A]
-TITLE II:            [Secondary Title / Alternate Title / N/A]
+DESIGNATION: [UFD-XX-### / AFD-XX-###][ANM-XX-XX-####]
+ UFD = Unknown Field Designation (provisional)
+ AFD = Anomaly Field Designation (verified)
+REGISTRY BAND: [ENTITY Historical / 000 Foundational Reserve /
+ LEGACY ACCEPTED 001-120 / Modern Registry 121-999 /
+ ANM Fracture-State / Reserved / Obscured]
+TITLE I: [Primary Title / N/A]
+TITLE II: [Secondary Title / Alternate Title / N/A]
 
 FIELD TYPE: [OB / SU / PL / TI / SP / ME /
 IH / CH / NB / ?.H]
-HAZARD TAGS:         [PHYS-____ / BIO-____ / COG-____ / MEM-____ /
-                      INFO-____ / TEMP-____ / SPAT-____ / STR-____ /
-                      COS-____ / SOC-____ / OPR-____ / N/A]
+HAZARD TAGS: [PHYS-____ / BIO-____ / COG-____ / MEM-____ /
+ INFO-____ / TEMP-____ / SPAT-____ / STR-____ /
+ COS-____ / SOC-____ / OPR-____ / N/A]
 
 CLEARANCE REQUIRED: [Non-Access / Level E / Level 0 / Level 1 / Level
 2
-                      / Level 3 / Level 4 / Level 5 / O5 Access]
+ / Level 3 / Level 4 / Level 5 / O5 Access]
 
 ═══════════════════════════════════════════════════════════════════════
-                         CLASSIFICATION
+ CLASSIFICATION
 ═══════════════════════════════════════════════════════════════════════
 
-CONTAINMENT CLASS:   [INERT / RESIDUAL / SPORADIC / UNDISCLOSED /
-                      ENTROPIC / REACTIVE / EXIGENT / INVERTED /
-                      UNENCLOSABLE / INTANGIBLE / TIAMAT / [BLANK]]
+CONTAINMENT CLASS: [INERT / RESIDUAL / SPORADIC / UNDISCLOSED /
+ ENTROPIC / REACTIVE / EXIGENT / INVERTED /
+ UNENCLOSABLE / INTANGIBLE / TIAMAT / [BLANK]]
 
 FRACTURE INDEX —
-CONTAINMENT:         [NONE / QUESTIONED / ABSURD / MUTATED /
-                      UNAUTHORED / SCHRÖDINGER]
+CONTAINMENT: [NONE / QUESTIONED / ABSURD / MUTATED /
+ UNAUTHORED / SCHRÖDINGER]
 
 THREAT LEVEL: [0 / 1 / 2 / 3 / 4 / 5 /
 6 / 7 / 8 / 9 / 10]
 
 FRACTURE INDEX —
-SUB-THREAT:          [NONE / HARMLESS / BENEFICIAL / REVERTED /
-                      ABSENT / NULLIFIED]
+SUB-THREAT: [NONE / HARMLESS / BENEFICIAL / REVERTED /
+ ABSENT / NULLIFIED]
 
 TRANSFORMATION
-VIABILITY:           [INVIOLABLE / NEUTRAL / CONTAINED-STUDY /
-                      STABILIZED / NEUTRALIZED / REPURPOSED /
-                      INTEGRATED]
-LIFECYCLE STATE:     [PROVISIONAL / ACTIVE-CONTAINED /
-                      ACTIVE-UNCONTAINED / UNDER REVIEW /
-                      TRANSFORMATION-CANDIDATE / INTEGRATED /
-                      RETIRED / ARCHIVED / NEUTRALIZED / EXPLAINED /
-                      LOST / MEMORIALIZED /
-                      PROHIBITED-FROM-TRANSFORMATION]
+VIABILITY: [INVIOLABLE / NEUTRAL / CONTAINED-STUDY /
+ STABILIZED / NEUTRALIZED / REPURPOSED /
+ INTEGRATED]
+LIFECYCLE STATE: [PROVISIONAL / ACTIVE-CONTAINED /
+ ACTIVE-UNCONTAINED / UNDER REVIEW /
+ TRANSFORMATION-CANDIDATE / INTEGRATED /
+ RETIRED / ARCHIVED / NEUTRALIZED / EXPLAINED /
+ LOST / MEMORIALIZED /
+ PROHIBITED-FROM-TRANSFORMATION]
 
 ═══════════════════════════════════════════════════════════════════════
-                          DISCOVERY
+ DISCOVERY
 ═══════════════════════════════════════════════════════════════════════
 
-DATE OF DETECTION:   [DD/MM/YYYY]
-VERIFICATION DATE:   [DD/MM/YYYY or PENDING]
-LOCATION:            [City, Country / Coordinates / Unknown /
-                      Anomalous Origin]
-DISCOVERY METHOD:    [Civilian Report / Sensor Detection / Intelligence
-                      Channel / A.C.T Patrol / Anomaly-Triggered Event
-                      / Minor Pause Correlation / Other: _______]
+DATE OF DETECTION: [DD/MM/YYYY]
+VERIFICATION DATE: [DD/MM/YYYY or PENDING]
+LOCATION: [City, Country / Coordinates / Unknown /
+ Anomalous Origin]
+DISCOVERY METHOD: [Civilian Report / Sensor Detection / Intelligence
+ Channel / A.C.T Patrol / Anomaly-Triggered Event
+ / Minor Pause Correlation / Other: _______]
 
 INITIAL RESPONSE
-OPERATION:           [Operation Designation or N/A]
-RESPONDING UNIT:     [Division / Task Force Name or N/A]
+OPERATION: [Operation Designation or N/A]
+RESPONDING UNIT: [Division / Task Force Name or N/A]
 RESPONDING FIELD
-OPERATOR:            [Name, Rank or N/A]
-CIVILIAN EXPOSURE:   [None / Minimal / Moderate / Severe / Full]
-AMNESTIC DEPLOYED:   [Yes / No — If yes, specify class and scope]
-NARRATIVE STATUS:    [Controlled / Partial / Compromised / Collapsed]
+OPERATOR: [Name, Rank or N/A]
+CIVILIAN EXPOSURE: [None / Minimal / Moderate / Severe / Full]
+AMNESTIC DEPLOYED: [Yes / No — If yes, specify class and scope]
+NARRATIVE STATUS: [Controlled / Partial / Compromised / Collapsed]
 
 ═══════════════════════════════════════════════════════════════════════
-                         DESCRIPTION
+ DESCRIPTION
 ═══════════════════════════════════════════════════════════════════════
 
 [Full narrative description of the anomaly's appearance, behavior,
@@ -114,37 +114,37 @@ categorization failures, and any conditions under which the anomaly
 changed its ontological status.]
 
 ═══════════════════════════════════════════════════════════════════════
-                     ANOMALOUS PROPERTIES
+ ANOMALOUS PROPERTIES
 ═══════════════════════════════════════════════════════════════════════
 
-PRIMARY EFFECT:      [Description of the anomaly's core anomalous
-                      function or influence on reality, matter,
-                      time, mind, biology, or structural law]
+PRIMARY EFFECT: [Description of the anomaly's core anomalous
+ function or influence on reality, matter,
+ time, mind, biology, or structural law]
 
-SECONDARY EFFECT:    [Description of peripheral, conditional, or
-                      secondary anomalous behaviors.
-                      Write N/A if none observed]
+SECONDARY EFFECT: [Description of peripheral, conditional, or
+ secondary anomalous behaviors.
+ Write N/A if none observed]
 
-TRIGGER CONDITION:   [What causes the anomaly to activate or manifest.
-                      Write SPONTANEOUS if no trigger is identified.
-                      Write MINOR PAUSE CORRELATION if linked to
-                      Cosmic Timer iteration]
+TRIGGER CONDITION: [What causes the anomaly to activate or manifest.
+ Write SPONTANEOUS if no trigger is identified.
+ Write MINOR PAUSE CORRELATION if linked to
+ Cosmic Timer iteration]
 
 RANGE / AREA OF
-INFLUENCE:           [Meters / Kilometers / Variable / Unlimited /
-                      Non-Spatial (memetic, temporal, informational) /
-                      Unknown]
+INFLUENCE: [Meters / Kilometers / Variable / Unlimited /
+ Non-Spatial (memetic, temporal, informational) /
+ Unknown]
 
-TEMPORAL BEHAVIOR:   [Constant / Intermittent / Cyclic /
-                      Event-Triggered / Minor Pause-Synced / Unknown]
+TEMPORAL BEHAVIOR: [Constant / Intermittent / Cyclic /
+ Event-Triggered / Minor Pause-Synced / Unknown]
 
 REALITY INTERACTION: [None / Local Distortion / Regional Distortion /
-                      Causal Violation / Structural Weakening /
-                      Void Collapse Trajectory / Reality Reset
-                      Trajectory / Unknown]
+ Causal Violation / Structural Weakening /
+ Void Collapse Trajectory / Reality Reset
+ Trajectory / Unknown]
 
 ═══════════════════════════════════════════════════════════════════════
-                     CONTAINMENT PROCEDURES
+ CONTAINMENT PROCEDURES
 ═══════════════════════════════════════════════════════════════════════
 
 [Detailed containment protocol. Specify physical requirements,
@@ -156,36 +156,36 @@ For [BLANK]-class anomalies: do not write containment procedures.
 File should contain only the classification header and a single line:
 "ENGAGEMENT PROHIBITED. NO PROCEDURE AUTHORIZED."]
 
-CONTAINMENT SITE:        [Site Designation / Mobile / Surface
-                          Anomaly Containment (Central) / N/A]
-CONTAINING DIVISION:     [Division Name]
-REQUIRED PERSONNEL:      [Number and qualification]
-MONITORING FREQUENCY:    [Continuous / Hourly / Daily / Weekly /
-                          Monthly / As Needed]
-MAINTENANCE CYCLE:       [Continuous / Daily / Weekly / Monthly /
-                          Quarterly / Annual / N/A]
+CONTAINMENT SITE: [Site Designation / Mobile / Surface
+ Anomaly Containment (Central) / N/A]
+CONTAINING DIVISION: [Division Name]
+REQUIRED PERSONNEL: [Number and qualification]
+MONITORING FREQUENCY: [Continuous / Hourly / Daily / Weekly /
+ Monthly / As Needed]
+MAINTENANCE CYCLE: [Continuous / Daily / Weekly / Monthly /
+ Quarterly / Annual / N/A]
 
-BREACH PROTOCOL:         [Procedure designation or reference number]
+BREACH PROTOCOL: [Procedure designation or reference number]
 
 BREACH CONDITIONS —
 THIS ANOMALY IS CONSIDERED
-IN BREACH IF IT:         [Check all that apply]
-   [ ] Breaks formal containment
-   [ ] Endangers public normalcy
-   [ ] Causes distortion in reality, Earth, time, or cosmic law
-   [ ] Spreads memetic, informational, or biological contamination
-   [ ] Resists classification and escalates beyond predicted behavior
-   [ ] Transforms its environment into an anomalous zone
-   [ ] Other: _______
+IN BREACH IF IT: [Check all that apply]
+ [ ] Breaks formal containment
+ [ ] Endangers public normalcy
+ [ ] Causes distortion in reality, Earth, time, or cosmic law
+ [ ] Spreads memetic, informational, or biological contamination
+ [ ] Resists classification and escalates beyond predicted behavior
+ [ ] Transforms its environment into an anomalous zone
+ [ ] Other: _______
 
 ═══════════════════════════════════════════════════════════════════════
-                     RESEARCH LOG — SUMMARY
+ RESEARCH LOG — SUMMARY
 ═══════════════════════════════════════════════════════════════════════
 
-LEAD RESEARCHER:         [Name, Rank]
-CURRENT RESEARCH PHASE:  [Observation / Experimentation / Analysis /
-                          Theoretical Modeling / Transformation Trial /
-                          Suspended / N/A]
+LEAD RESEARCHER: [Name, Rank]
+CURRENT RESEARCH PHASE: [Observation / Experimentation / Analysis /
+ Theoretical Modeling / Transformation Trial /
+ Suspended / N/A]
 
 SUMMARY OF FINDINGS:
 [Brief summary of research progress, key discoveries, and current
@@ -195,16 +195,16 @@ If applicable, note any correlation to Minor Pause events,
 Structural Reality stress, or Cosmic Timer iteration data.]
 
 ═══════════════════════════════════════════════════════════════════════
-                     TRANSFORMATION STATUS
+ TRANSFORMATION STATUS
 ═══════════════════════════════════════════════════════════════════════
 
-CURRENT VIABILITY:       [INVIOLABLE / NEUTRAL / CONTAINED-STUDY /
-                          STABILIZED / NEUTRALIZED / REPURPOSED /
-                          INTEGRATED]
+CURRENT VIABILITY: [INVIOLABLE / NEUTRAL / CONTAINED-STUDY /
+ STABILIZED / NEUTRALIZED / REPURPOSED /
+ INTEGRATED]
 
 TRANSFORMATION ATTEMPT
-HISTORY:                 [Number of attempts: ___]
-                         [Result of most recent attempt: _______]
+HISTORY: [Number of attempts: ___]
+ [Result of most recent attempt: _______]
 
 TRANSFORMATION NOTES:
 [Summary of transformation attempts, outcomes, and current
@@ -215,13 +215,13 @@ within A.C.T infrastructure, operations, or doctrine.
 Write N/A if INVIOLABLE or NEUTRAL.]
 
 ═══════════════════════════════════════════════════════════════════════
-                     INCIDENT LOG — SUMMARY
+ INCIDENT LOG — SUMMARY
 ═══════════════════════════════════════════════════════════════════════
 
-TOTAL INCIDENTS:         [Number]
-LAST INCIDENT DATE:      [DD/MM/YYYY or N/A]
-HIGHEST SEVERITY:        [Minor / Moderate / Major / Critical /
-                          Catastrophic]
+TOTAL INCIDENTS: [Number]
+LAST INCIDENT DATE: [DD/MM/YYYY or N/A]
+HIGHEST SEVERITY: [Minor / Moderate / Major / Critical /
+ Catastrophic]
 
 NOTABLE INCIDENTS:
 [Brief summaries of significant breach events, containment failures,
@@ -233,41 +233,41 @@ A.C.T breach conditions, and whether Structural Reality stability
 was affected.]
 
 ═══════════════════════════════════════════════════════════════════════
-                     PERSONNEL RECORD
+ PERSONNEL RECORD
 ═══════════════════════════════════════════════════════════════════════
 
-ASSIGNED PERSONNEL:      [List of currently assigned personnel,
-                          name and rank]
-PREVIOUSLY ASSIGNED:     [List of personnel who have been reassigned,
-                          retired, or lost. Note reason for departure.]
-CASUALTIES:              [Number of personnel lost due to direct
-                          anomaly contact]
-AMNESTIC-ADMINISTERED:   [Number of personnel who received amnestic
-                          treatment following exposure]
-E-CLASS ASSIGNED:        [Yes / No — If yes, number and purpose]
+ASSIGNED PERSONNEL: [List of currently assigned personnel,
+ name and rank]
+PREVIOUSLY ASSIGNED: [List of personnel who have been reassigned,
+ retired, or lost. Note reason for departure.]
+CASUALTIES: [Number of personnel lost due to direct
+ anomaly contact]
+AMNESTIC-ADMINISTERED: [Number of personnel who received amnestic
+ treatment following exposure]
+E-CLASS ASSIGNED: [Yes / No — If yes, number and purpose]
 
 ═══════════════════════════════════════════════════════════════════════
-                     REALITY THEORY NOTES
+ REALITY THEORY NOTES
 ═══════════════════════════════════════════════════════════════════════
 
 [Reserved for anomalies that demonstrate correlation with
 Foundational Reality Theory. Complete only if applicable.]
 
 STRUCTURAL REALITY
-IMPACT:                  [None / Minor Stress / Moderate Weakening /
-                          Severe Destabilization / Void Collapse
-                          Trajectory / Reality Reset Trajectory]
+IMPACT: [None / Minor Stress / Moderate Weakening /
+ Severe Destabilization / Void Collapse
+ Trajectory / Reality Reset Trajectory]
 
 MINOR PAUSE
-CORRELATION:             [None / Suspected / Confirmed / Unknown]
+CORRELATION: [None / Suspected / Confirmed / Unknown]
 COSMIC TIMER
-ITERATION LINK:          [Iteration number or N/A]
+ITERATION LINK: [Iteration number or N/A]
 
 REALITY BENDING
-OBSERVED:                [Yes / No — If yes, describe the nature of
-                          the bend: what law shifted, what pressure
-                          caused it, and whether the effect is
-                          ongoing, cyclic, or resolved]
+OBSERVED: [Yes / No — If yes, describe the nature of
+ the bend: what law shifted, what pressure
+ caused it, and whether the effect is
+ ongoing, cyclic, or resolved]
 
 THEORY NOTES:
 [Analysis of how this anomaly relates to the broader cosmological
@@ -277,7 +277,7 @@ theoretical interpretation here. Reference reality theory research
 logs by number.]
 
 ═══════════════════════════════════════════════════════════════════════
-                     ADDITIONAL NOTES
+ ADDITIONAL NOTES
 ═══════════════════════════════════════════════════════════════════════
 
 [Any supplementary information that does not fit the above fields.
@@ -287,25 +287,25 @@ Civil Covert Division involvement, or shell-company connections
 belong here.]
 
 ═══════════════════════════════════════════════════════════════════════
-                      FILE METADATA
+ FILE METADATA
 ═══════════════════════════════════════════════════════════════════════
 
-FILE CREATED:            [DD/MM/YYYY]
-FILE LAST UPDATED:       [DD/MM/YYYY]
-FILE AUTHOR:             [Name, Rank]
-REVIEWED BY:             [Name, Rank or N/A]
-FILE STATUS:             [Active / Archived / Sealed / O5-Restricted
-                          / Destroyed]
+FILE CREATED: [DD/MM/YYYY]
+FILE LAST UPDATED: [DD/MM/YYYY]
+FILE AUTHOR: [Name, Rank]
+REVIEWED BY: [Name, Rank or N/A]
+FILE STATUS: [Active / Archived / Sealed / O5-Restricted
+ / Destroyed]
 
-DESIGNATION HISTORY:     [UFD-XX-### → AFD-XX-###]
-                          If the anomaly was initially filed under
-                          Unknown Field Designation, record the
-                          original UFD code and the date of
-                          verification to AFD status.
+DESIGNATION HISTORY: [UFD-XX-### → AFD-XX-###]
+ If the anomaly was initially filed under
+ Unknown Field Designation, record the
+ original UFD code and the date of
+ verification to AFD status.
 
 ═══════════════════════════════════════════════════════════════════════
-      UNAUTHORIZED ACCESS WILL BE MET WITH IMMEDIATE AMNESTIC
-                          ADMINISTRATION
+ UNAUTHORIZED ACCESS WILL BE MET WITH IMMEDIATE AMNESTIC
+ ADMINISTRATION
 ═══════════════════════════════════════════════════════════════════════
 ```
 
@@ -347,7 +347,7 @@ Example:
 | TI | Time | Anomalous time — temporal distortions, loops, anomalies, or events that violate linear causality |
 | SP | Space | Anomalous space — spatial distortions, dimensional breaches, or areas where geometry no longer applies |
 | ME | Memetic | perceived |
-| IH | Info Hazard | Information hazard — knowledge that is itself dangerous; the act of understanding it causes<br>harm |
+| IH | Info Hazard | Information hazard — knowledge that is itself dangerous; the act of understanding it causes harm |
 | CH | Cosmic Hazard | Cosmic hazard — phenomena originating from or connected to forces beyond terrestrial reality |
 | NB | Non-Natural Bio Hazard | Non-natural biological hazard — anomalous organisms, pathogens, or biological agents that defy natural biology |
 | ?.H | Shifting Hazard | unpredictably |
@@ -381,20 +381,20 @@ transformation viability. It is a filing number — nothing more.
 ### Example Classification Header
 
 ```
-DESIGNATION:         AFD-OB-042
-REGISTRY BAND:       Modern Registry 121-999
-TITLE I:             Example Primary Title
-TITLE II:            Example Secondary Title
-FIELD TYPE:          OB — Object
-HAZARD TAGS:         PHYS-IMPACT / OPR-HANDLING-RISK
-CLEARANCE REQUIRED:  Level 3
+DESIGNATION: AFD-OB-042
+REGISTRY BAND: Modern Registry 121-999
+TITLE I: Example Primary Title
+TITLE II: Example Secondary Title
+FIELD TYPE: OB — Object
+HAZARD TAGS: PHYS-IMPACT / OPR-HANDLING-RISK
+CLEARANCE REQUIRED: Level 3
 
-CONTAINMENT CLASS:   REACTIVE
-FRACTURE (CONT.):    NONE
-THREAT LEVEL:        4
-FRACTURE (SUB-T.):   NONE
-TRANSFORMATION:      CONTAINED-STUDY
-LIFECYCLE STATE:     ACTIVE-CONTAINED
+CONTAINMENT CLASS: REACTIVE
+FRACTURE (CONT.): NONE
+THREAT LEVEL: 4
+FRACTURE (SUB-T.): NONE
+TRANSFORMATION: CONTAINED-STUDY
+LIFECYCLE STATE: ACTIVE-CONTAINED
 ```
 
 *Personnel should be able to read this block and understand the anomaly's type, danger,

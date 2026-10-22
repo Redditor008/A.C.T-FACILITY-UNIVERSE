@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Artifact Storage, Biological Containment, Site Safety |
 | OPERATIONAL STATUS | ACTIVE / SHIELDING FLUID / PIPELINE-CONTROLLED |
 | RISK STATUS | HAZARDOUS / TOXIC AND HIGH-MASS BARRIER MATERIAL |
-| CLEARANCE REQUIRED | Level 3 for monitored use; Level 4 for flow adjustment; Level 5 for restricted-energy<br>shielding configuration |
+| CLEARANCE REQUIRED | Level 3 for monitored use; Level 4 for flow adjustment; Level 5 for restricted-energy shielding configuration |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -338,4 +338,4 @@ Standing reminder: a barrier fluid that has done its job is contaminated by defi
 - **Author Desk:** Engineering Division / Hazardous Materials Desk / Central Archive
 - **Review Status:** Active hazardous-material record; restricted energy absorption profile censored
 - **Next Review:** After any leak alarm, dust saturation, pipe deformation, spill response, or
-  artifact-shielding failure
+ artifact-shielding failure

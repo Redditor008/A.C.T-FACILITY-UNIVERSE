@@ -6,7 +6,7 @@
 | GOI DESIGNATION | GOI-BS-W-070 |
 | COMMON NAME | Saint Morrow Passage |
 | SHORT NAME | SMP |
-| KNOWN ALIASES | Morrow Passage; Saint Morrow Ferry; Tomorrow Gate Office; The White Ticket Desk; [CENSOR:<br>BORDER-ROOM NAME] |
+| KNOWN ALIASES | Morrow Passage; Saint Morrow Ferry; Tomorrow Gate Office; The White Ticket Desk; [CENSOR: BORDER-ROOM NAME] |
 | NATURE CLASS | BUSINESS |
 | ALIGNMENT CLASS | WORK |
 | REACH CLASS | TRANSNATIONAL |
@@ -15,17 +15,17 @@
 | SECRECY RISK | LEAKING |
 | A.C.T POSTURE | COOPERATED / MONITOR / MISDIRECT / APPROPRIATE |
 | KNOWN LEADERSHIP | Passage Wardens, Ticket Saints, White Clerks, Last-Porter crews, and route auditors |
-| KNOWN MEMBERSHIP | Drivers, boat crews, border fixers, shelter hosts, route readers, ferry brokers, hospital discharge<br>agents, and hazard guides |
-| PRIMARY ACTIVE REGION | Borders, ferries, bus terminals, dead roads, closed towns, quarantine rings, evacuation corridors,<br>and liminal routes |
-| KNOWN ASSETS | White tickets, crossing ledgers, route bells, safe vans, ferry rooms, border permits, cold maps,<br>and porter keys |
-| KNOWN HOLDINGS | Ticket desks, road houses, unlisted ferry offices, border rooms, sleeper cars, safe garages, and<br>chapel-like depots |
-| IDEOLOGY | Passage is a trade, but nobody should be left on the wrong side of<br>a closing road only because the official route lies |
-| HISTORY WITH A.C.T | Repeated work contact through evacuation corridors, witness transfer, quarantine exit, false-border<br>incidents, and object courier interception |
+| KNOWN MEMBERSHIP | Drivers, boat crews, border fixers, shelter hosts, route readers, ferry brokers, hospital discharge agents, and hazard guides |
+| PRIMARY ACTIVE REGION | Borders, ferries, bus terminals, dead roads, closed towns, quarantine rings, evacuation corridors, and liminal routes |
+| KNOWN ASSETS | White tickets, crossing ledgers, route bells, safe vans, ferry rooms, border permits, cold maps, and porter keys |
+| KNOWN HOLDINGS | Ticket desks, road houses, unlisted ferry offices, border rooms, sleeper cars, safe garages, and chapel-like depots |
+| IDEOLOGY | Passage is a trade, but nobody should be left on the wrong side of a closing road only because the official route lies |
+| HISTORY WITH A.C.T | Repeated work contact through evacuation corridors, witness transfer, quarantine exit, false-border incidents, and object courier interception |
 | ANOMALY CROSS-REFERENCE | Restricted travel, evacuation, border, false road, witness, quarantine, ferry, and route-shift case chains |
 | CURRENT STATUS | ACTIVE - work relationship passage market under monitoring |
 | PRIMARY FILE AUTHORITY | Intelligence Division / Recovery / Civil Covert / Logistics |
 | SITE JURISDICTION | Central Command with Site 01, Site 02, and regional review |
-| CLEARANCE REQUIRED | Level 4; Level 5 for active crossing ledgers, child routes, quarantine breaches, and A.C.T<br>evacuation substitutions |
+| CLEARANCE REQUIRED | Level 4; Level 5 for active crossing ledgers, child routes, quarantine breaches, and A.C.T evacuation substitutions |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -144,9 +144,9 @@ A.C.T identifies these functional layers:
 - Ticket Saints who witness passenger acceptance and route debt;
 - White Clerks who write crossing ledgers and keep passenger lists separated by risk;
 - Route Readers who interpret maps, bells, weather, shadow direction, and checkpoint behavior;
-  Last-Porter crews who handle late departures, bodies, objects, and people not fully recognized
-  by
-  the route;
+ Last-Porter crews who handle late departures, bodies, objects, and people not fully recognized
+ by
+ the route;
 - Safe-Host operators who shelter passengers before and after crossing;
 - Border Speakers who train clients in phrases acceptable to abnormal checkpoints;
 - Cold Map custodians who preserve routes that cannot be photographed correctly;
@@ -228,8 +228,8 @@ practices that interact with abnormal travel conditions. Confirmed or strongly a
 - identifying roads that repeat, fold, age, misdeliver, or select passengers;
 - issuing ticket language that reduces passenger loss on certain thresholds;
 - maintaining cold maps that remain readable when ordinary maps update incorrectly;
-  using route bells to test whether a vehicle still belongs to its departure
-  point;
+ using route bells to test whether a vehicle still belongs to its departure
+ point;
 - negotiating with nonstandard checkpoints through fixed phrases;
 - moving passengers who have partial identity damage, memory gaps, or false papers;
 - suspending routes after injuries, disappearances, or wrong arrivals;
@@ -467,9 +467,9 @@ harm.
 ### Confirmed Operational Facts
 
 - Saint Morrow Passage is an outside passage market and not an A.C.T unit.
-  The Passage sells and arranges abnormal transit through unstable roads, ferries, borders, and
-  evacuation
-  routes.
+ The Passage sells and arranges abnormal transit through unstable roads, ferries, borders, and
+ evacuation
+ routes.
 - It has saved civilians and witnesses during route failures.
 - It has also broken quarantine and moved persons of interest.
 - Its tickets, bells, cold maps, and ledgers may have active anomalous relevance.
@@ -491,21 +491,21 @@ condition. A.C.T response must therefore be route-specific rather than ideologic
 
 ### Persistent Questions
 
-  Was Saint Morrow a historical person, a route, a ferry, a saint-brand, or
-  a
-  threshold intelligence?
-  Do Ticket Saints hold anomalous authority, or do routes respond to ticket language
-  regardless
-  of speaker?
+ Was Saint Morrow a historical person, a route, a ferry, a saint-brand, or
+ a
+ threshold intelligence?
+ Do Ticket Saints hold anomalous authority, or do routes respond to ticket language
+ regardless
+ of speaker?
 — How many cold maps exist, and do they update when route injuries occur?
 — What happens if a passenger refuses to pay after arrival?
 — Are route debts enforceable through geography, social pressure, or both?
 — Has Namewright Bazaar purchased passage using stolen names?
-  Does Anstrall Market hire Saint Morrow routes for object movement, or only imitate
-  its
-  tickets?
-  Can A.C.T build evacuation exits reliable enough to reduce civilian dependence on the
-  Passage?
+ Does Anstrall Market hire Saint Morrow routes for object movement, or only imitate
+ its
+ tickets?
+ Can A.C.T build evacuation exits reliable enough to reduce civilian dependence on the
+ Passage?
 
 ### Intelligence Confidence
 
@@ -541,7 +541,7 @@ containment review.
 - Normalcy Management and Public Narrative Doctrine, Archive Record
 - ACCESS AND EGRESS LEDGER FORM, Operational Form
 - Restricted travel, evacuation, border, false-road, witness, quarantine, ferry, vehicle, and route-shift case chains
-  held under Central Archive routing.
+ held under Central Archive routing.
 
 ### Dual Filing
 
@@ -557,11 +557,11 @@ or displaced civilians.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            11/05/2005
-FILE LAST UPDATED:       18/02/2010
-FILE AUTHOR:             Intelligence Division / Recovery / Civil Covert / Logistics Joint Desk
-REVIEWED BY:             Central Archive
-FILE STATUS:             ACTIVE / RESTRICTED
-DESIGNATION HISTORY:     GOI-BS-W-070 assigned at creation for Saint Morrow Passage
-RECORD CONDITION:        OPERATIONAL
+FILE CREATED: 11/05/2005
+FILE LAST UPDATED: 18/02/2010
+FILE AUTHOR: Intelligence Division / Recovery / Civil Covert / Logistics Joint Desk
+REVIEWED BY: Central Archive
+FILE STATUS: ACTIVE / RESTRICTED
+DESIGNATION HISTORY: GOI-BS-W-070 assigned at creation for Saint Morrow Passage
+RECORD CONDITION: OPERATIONAL
 ```

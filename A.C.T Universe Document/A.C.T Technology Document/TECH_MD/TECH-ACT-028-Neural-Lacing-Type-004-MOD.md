@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Engineering, Personnel Resilience, Archive, Site Command |
 | OPERATIONAL STATUS | ACTIVE / RESTRICTED / PATIENT-SPECIFIC IMPLANT |
 | RISK STATUS | CONTROLLED / HAZARDOUS IF MISKEYED OR OVERFILTERING |
-| CLEARANCE REQUIRED | Level 4 for implant approval; Level 5 for filter lists, micro-receiver tuning, and permanent<br>memory exclusions |
+| CLEARANCE REQUIRED | Level 4 for implant approval; Level 5 for filter lists, micro-receiver tuning, and permanent memory exclusions |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -179,7 +179,7 @@ personality, or hide institutional misconduct.
 ### Clinical And Personnel Limits
 
 - Do not write a filter around a symbol family when one symbol is
-  the hazard.
+ the hazard.
 - Do not exceed the approved exposure cap in a shift.
 - Do not accept a missing memory as evidence of no exposure.
 - Do not expand a filter without Level 5 review.
@@ -335,4 +335,4 @@ absence.
 - **Author Desk:** Medical Division / Info-Hazard Division / Central Archive
 - **Review Status:** Active restricted record; filter lists and receiver tuning censored
 - **Next Review:** After any overfilter incident, unauthorized expansion request, signal-sink
-  saturation, or implant removal review
+ saturation, or implant removal review

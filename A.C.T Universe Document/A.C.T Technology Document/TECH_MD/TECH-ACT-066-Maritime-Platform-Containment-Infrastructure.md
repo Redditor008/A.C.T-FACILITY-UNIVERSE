@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Containment, Security, Research, Seismic Analysis, Cover |
 | OPERATIONAL STATUS | ACTIVE / VESSEL AND SUBMERSIBLE PLATFORM USE |
 | RISK STATUS | FIELD BREACH / COVER FAILURE / SEA-TRANSFER RISK |
-| CLEARANCE REQUIRED | Level 3 for platform support; Level 4 for anomaly transfer, submersible containment, or hostile<br>maritime response |
+| CLEARANCE REQUIRED | Level 3 for platform support; Level 4 for anomaly transfer, submersible containment, or hostile maritime response |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -172,7 +172,7 @@ interferes, and civilian vessels approach.
 - Do not let crew fatigue stand in for discipline.
 - Weakest where propeller sound, sonar, or engine heat acts as stimulus.
 - Weakest where the sea can hide a breach better than the deck can
-  show one.
+ show one.
 
 Cradle volume, sea state limit, and endurance are NOT MEASURED.
 
@@ -321,12 +321,12 @@ object, crew, platform record, and cover story all arrive intact.
 ## OPEN QUESTIONS
 
 - How long can a vessel remain a containment site before it must be reclassified
-  as a temporary facility?
+ as a temporary facility?
 - Which platform classes can survive resident pursuit after sensory denial?
 - Can Sonar Void regions interfere with MPCI ledger transmission as well as detection?
 - Should every maritime platform carry pressure-rated capability, or only deep-response vessels?
 - How much cover activity is needed to protect anomaly missions without attracting attention through
-  excess presence?
+ excess presence?
 - Can submersible platforms be safely abandoned if a resident attaches to them as territory?
 - What sea state limit does a certified platform carry, and how is it tested?
 - How long can a cradle hold a marine-dependent object before chemistry fails?
@@ -339,6 +339,6 @@ object, crew, platform record, and cover story all arrive intact.
 - **Created:** 1998-07-02
 - **Author Desk:** Maritime Recovery Command / Nusantara Deep Relay / Central Archive
 - **Review Status:** Active maritime platform record; vessel classes, port routes, and live platform
-  names censored
+ names censored
 - **Next Review:** After any sea-bound breach, platform loss, port handoff delay, vessel-cover
-  compromise, Sonar Void pursuit event, or Death Angler-related exercise
+ compromise, Sonar Void pursuit event, or Death Angler-related exercise

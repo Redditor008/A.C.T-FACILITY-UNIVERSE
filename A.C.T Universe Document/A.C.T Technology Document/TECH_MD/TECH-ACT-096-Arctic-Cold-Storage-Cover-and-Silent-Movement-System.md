@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Security, Administration, Medical Quarantine, Logistics |
 | OPERATIONAL STATUS | ACTIVE / COVER AND TRANSITION USE |
 | RISK STATUS | COVER BREACH / RECEIVING-PATTERN EXPOSURE / ROUTE NOISE |
-| CLEARANCE REQUIRED | Level 3 for transition work; Level 4 for silent movement, surface sealing, or hazardous<br>material disappearance action |
+| CLEARANCE REQUIRED | Level 3 for transition work; Level 4 for silent movement, surface sealing, or hazardous material disappearance action |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Arctic Cover Logistics Technology Record |
-| DISTRIBUTION | Frost Hollow Depot / White Grave Station / Security / Administration / Medical Quarantine<br>/ Logistics |
+| DISTRIBUTION | Frost Hollow Depot / White Grave Station / Security / Administration / Medical Quarantine / Logistics |
 | AUTHORITY | Facility Manager, Security Boundary Lead, Sub-Site Chief, White Grave Site Command, and Central Archive |
 
 #### Archive Note
@@ -310,6 +310,6 @@ colder than it looks secret.
 - **Created:** 1907-01-10
 - **Author Desk:** Facility Manager / Security Boundary Lead / Central Archive
 - **Review Status:** Active arctic cover logistics record; live transition points, receiving schedules,
-  disappearance authorizations, and route maps censored
+ disappearance authorizations, and route maps censored
 - **Next Review:** After any receiving anomaly, transition challenge, cover audit, silent movement
-  failure, surface sealing event, or transport-chain discrepancy
+ failure, surface sealing event, or transport-chain discrepancy

@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Security, Banalist Operators, Site-03 Command, Engineering |
 | OPERATIONAL STATUS | ACTIVE / INDIVIDUAL ISSUE / NARRATIVE-STATIC |
 | RISK STATUS | CONTROLLED / COGNITIVE INTERFERENCE HAZARD |
-| CLEARANCE REQUIRED | Level 3 for field issue; Level 4 for logic-anchor tuning; Level 5 for live<br>consensus-hazard deployment override |
+| CLEARANCE REQUIRED | Level 3 for field issue; Level 4 for logic-anchor tuning; Level 5 for live consensus-hazard deployment override |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -340,4 +340,4 @@ back.
 - **Author Desk:** Narrative Hazard Desk / Field Containment Division / Central Archive
 - **Review Status:** Active field gear record; logic-anchor tuning and static profiles censored
 - **Next Review:** After any scripted-state breach, consensus shift, battery failure, or field removal
-  incident
+ incident

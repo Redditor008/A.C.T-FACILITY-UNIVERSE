@@ -17,9 +17,9 @@
 | KNOWN LEADERSHIP | Executive board unconfirmed; product design office uses rotating nursery-title signatures |
 | KNOWN MEMBERSHIP | Designers, toy engineers, sleep clinicians, child-trauma workers, warehouse staff, route volunteers, and caregivers |
 | PRIMARY ACTIVE REGION | Transnational child-care markets, hospital donation chains, disaster shelters, schools, and private homes |
-| KNOWN ASSETS | Protective toys, comfort objects, nursery devices, recalled product lots, donor routes, care<br>instructions, and warranty ledgers |
+| KNOWN ASSETS | Protective toys, comfort objects, nursery devices, recalled product lots, donor routes, care instructions, and warranty ledgers |
 | KNOWN HOLDINGS | Front workshops, storage rooms, mobile repair vans, pediatric-clinic donation lockers, and unlisted catalogues |
-| IDEOLOGY | Children should not be left defenseless because adults cannot name the thing that harmed<br>them |
+| IDEOLOGY | Children should not be left defenseless because adults cannot name the thing that harmed them |
 | HISTORY WITH A.C.T | Repeated recovery of protective child-facing anomalous products from post-incident homes and shelters |
 | ANOMALY CROSS-REFERENCE | Restricted child-witness, nightmare, nursery-object, and post-breach family-care chains |
 | CURRENT STATUS | ACTIVE - monitored cooperative corporate network |
@@ -30,7 +30,7 @@
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Restricted Record |
-| DISTRIBUTION | Intelligence / Subject Care / Recovery / Containment / Medical / Civil Covert /<br>Command |
+| DISTRIBUTION | Intelligence / Subject Care / Recovery / Containment / Medical / Civil Covert / Command |
 | AUTHORITY | Intelligence Division and Subject Care Division, with Central Archive custody |
 
 #### Archive Note
@@ -139,19 +139,19 @@ countries. Its supply chain demonstrates corporate continuity even when its shel
 A.C.T assessment identifies the following probable layers:
 
 - design rooms that create protective object forms around child psychology and domestic concealment;
-  anomalous materials staff who work with thread, wax, paper, music, lullaby recordings, sleep
-  residue,
-  and unknown soft
-  composites;
+ anomalous materials staff who work with thread, wax, paper, music, lullaby recordings, sleep
+ residue,
+ and unknown soft
+ composites;
 - child-trauma consultants or clinicians who shape products around real fear responses;
-  donation coordinators who place items in hospitals, shelters, schools, and homes after abnormal
-  events;
+ donation coordinators who place items in hospitals, shelters, schools, and homes after abnormal
+ events;
 - warranty clerks who receive child drawings, broken toys, whispered reports, and caregiver letters;
 - recall teams who remove products after failure, misuse, or adult tampering;
 - repair van crews who arrive before public authorities can determine who requested them;
-  ethics or safety reviewers whose rules are visible in warnings but whose identities
-  remain
-  sealed.
+ ethics or safety reviewers whose rules are visible in warnings but whose identities
+ remain
+ sealed.
 
 This structure separates Lullaby Works from a lone creator. It behaves like a company
 with departments, production
@@ -460,9 +460,9 @@ understands misuse and unintended injury. Full failure files remain unrecovered.
 
 ### Confirmed Operational Facts
 
-  Lullaby Works is an outside corporate network, not an A.C.T program or internal
-  child-care
-  tool supplier.
+ Lullaby Works is an outside corporate network, not an A.C.T program or internal
+ child-care
+ tool supplier.
 — Its products recur across separate jurisdictions under multiple public-facing brands and donation routes.
 — Several recovered items have protected minors during anomalous events or reduced post-incident harm.
 — The group possesses manufacturing or modification knowledge sufficient for repeatable protective anomalous objects.
@@ -487,24 +487,24 @@ second trauma.
 
 ### Persistent Questions
 
-  Who founded Lullaby Works, and was the founder a survivor, parent, clinician, anomaly,
-  or
-  former containment worker?
-  How does the group identify children at risk before public reports or A.C.T
-  detection
-  in some cases?
-  What material source allows soft toys, paper goods, lamps, and blankets to respond
-  to
-  abnormal threats?
+ Who founded Lullaby Works, and was the founder a survivor, parent, clinician, anomaly,
+ or
+ former containment worker?
+ How does the group identify children at risk before public reports or A.C.T
+ detection
+ in some cases?
+ What material source allows soft toys, paper goods, lamps, and blankets to respond
+ to
+ abnormal threats?
 — How many product failures exist in sealed Lullaby Works records?
-  Does Lullaby Works ever refuse protection to a child, and if so, by
-  what
-  rule?
+ Does Lullaby Works ever refuse protection to a child, and if so, by
+ what
+ rule?
 — Are some items protecting children from threats created by earlier Lullaby Works products?
-  Why do several lullaby recordings contain voices matching missing adults who have no
-  known
-  relation to the purchasing
-  families?
+ Why do several lullaby recordings contain voices matching missing adults who have no
+ known
+ relation to the purchasing
+ families?
 
 ### Intelligence Confidence
 
@@ -535,7 +535,7 @@ files, product-custody sheets, medical aftercare reviews, or family relocation r
 - AMNESTIC ADMINISTRATION AND MEMORY-AFTERCARE REVIEW FORM, Operational Form
 - Personnel Exposure, Excommunicated Class, and Resilience Doctrine, Archive Record
 - Restricted child-witness, nursery-object, product-custody, and shelter-incident chains held under Central Archive
-  routing.
+ routing.
 
 ### Dual Filing
 
@@ -550,11 +550,11 @@ more than one household, or resists safe deactivation.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            16/03/2005
-FILE LAST UPDATED:       13/05/2022
-FILE AUTHOR:             Intelligence Division / Subject Care Division Joint Desk
-REVIEWED BY:             Central Archive
-FILE STATUS:             ACTIVE / RESTRICTED
-DESIGNATION HISTORY:     GOI-CP-P-054 assigned at creation for Lullaby Works
-RECORD CONDITION:        OPERATIONAL
+FILE CREATED: 16/03/2005
+FILE LAST UPDATED: 13/05/2022
+FILE AUTHOR: Intelligence Division / Subject Care Division Joint Desk
+REVIEWED BY: Central Archive
+FILE STATUS: ACTIVE / RESTRICTED
+DESIGNATION HISTORY: GOI-CP-P-054 assigned at creation for Lullaby Works
+RECORD CONDITION: OPERATIONAL
 ```

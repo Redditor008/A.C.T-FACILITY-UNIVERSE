@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Containment, Logistics, Site Command, Archive, Intelligence |
 | OPERATIONAL STATUS | ACTIVE / RESTRICTED / SOURCE-LIMITED |
 | RISK STATUS | CONTROLLED / HAZARDOUS IF FRACTURED, OVERHEATED, OR STOLEN |
-| CLEARANCE REQUIRED | Level 4 for issued cores; Level 5 for source, cutting, four-split geometry, and discarded-shard<br>inventory |
+| CLEARANCE REQUIRED | Level 4 for issued cores; Level 5 for source, cutting, four-split geometry, and discarded-shard inventory |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -197,10 +197,10 @@ carry enough information for someone to rebuild a core from it.
 - Do not hold two unrelated source batches in direct contact.
 - Do not open an issued RSA core out of curiosity.
 - Do not store the crystal near unshielded temporal devices, Causal-Reactive Mercury, or high-output
-  CSG
-  cabinets.
+ CSG
+ cabinets.
 - Do not use an active shard as proof of clearance or as a
-  teaching aid.
+ teaching aid.
 - Weakest where the surrounding system cannot state which baseline it wants.
 
 Shelf life, safe handling duration, and fragment size limits are not recorded in this
@@ -361,11 +361,11 @@ containment systems depend.
 ## OPEN QUESTIONS
 
 - What numeric mass, thermal, and pulse bands does the case label record that this
-  file does not?
+ file does not?
 - How many source batches remain compatible with issued RSA geometry, and how is drift
-  between them detected?
+ between them detected?
 - What quantity of discarded shard material has been unaccounted for since the 1982 waste
-  chip loss?
+ chip loss?
 
 ---
 
@@ -375,4 +375,4 @@ containment systems depend.
 - **Author Desk:** Engineering Division / Materials Custody Desk / Central Archive
 - **Review Status:** Active restricted record; source and cutting details censored
 - **Next Review:** After any RSA-BLACK core quarantine, unregistered violet shard recovery, or
-  source-chain discrepancy
+ source-chain discrepancy

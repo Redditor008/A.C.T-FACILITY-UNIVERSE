@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Environmental Containment, Research Support, Limited Security |
 | OPERATIONAL STATUS | ACTIVE / PLACE-BOUND FLORA CONTAINMENT USE |
 | RISK STATUS | RELOCATION FAILURE / ENVIRONMENTAL DRIFT / ROOT-SHOCK RISK |
-| CLEARANCE REQUIRED | Level 3 for sector duty; Level 4 for resident-field change, transport-denial review, or<br>parent-reserve override |
+| CLEARANCE REQUIRED | Level 3 for sector duty; Level 4 for resident-field change, transport-denial review, or parent-reserve override |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active In-Place Flora Containment Technology Record |
-| DISTRIBUTION | Hollow Canopy Enclosure / Verde Null Bio-Reserve / Environmental Containment / Research Support /<br>Limited Security |
+| DISTRIBUTION | Hollow Canopy Enclosure / Verde Null Bio-Reserve / Environmental Containment / Research Support / Limited Security |
 | AUTHORITY | Enclosure Supervisor, Verde Null Site Command, Environmental Containment Division, and Central Archive |
 
 #### Archive Note
@@ -311,6 +311,6 @@ the place that contains them.
 - **Created:** 1915-12-14
 - **Author Desk:** Enclosure Supervisor / Environmental Containment Lead / Central Archive
 - **Review Status:** Active native containment field record; live sector maps, resident names, and
-  environmental thresholds censored
+ environmental thresholds censored
 - **Next Review:** After any relocation request, field drift, resident condition change, incursion,
-  transport-denial dispute, or parent-reserve sector review
+ transport-denial dispute, or parent-reserve sector review

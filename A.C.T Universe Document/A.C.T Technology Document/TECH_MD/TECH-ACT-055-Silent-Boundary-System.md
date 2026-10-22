@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Recovery, Medical Care, Archiver Division, Site Command |
 | OPERATIONAL STATUS | ACTIVE / STRUCTURAL NORMALCY SUPPORT |
 | RISK STATUS | CIVILIAN REALITY MANAGEMENT / INTERNAL MEMORY RISK |
-| CLEARANCE REQUIRED | Level 3 for local cover operations; Level 4 for regional narrative coordination; Level 5<br>for structural operations |
+| CLEARANCE REQUIRED | Level 3 for local cover operations; Level 4 for regional narrative coordination; Level 5 for structural operations |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Normalcy Infrastructure Technology Record |
-| DISTRIBUTION | Civil Covert / Intelligence / Recovery / Medical Care / Archiver Division / Site<br>Command |
+| DISTRIBUTION | Civil Covert / Intelligence / Recovery / Medical Care / Archiver Division / Site Command |
 | AUTHORITY | Civil Covert Division, Intelligence Division, and Central Archive |
 
 #### Archive Note
@@ -331,6 +331,6 @@ carried carefully.
 - **Created:** 2026-05-15
 - **Author Desk:** Civil Covert Division / Intelligence Division / Central Archive
 - **Review Status:** Active normalcy infrastructure record; front organization lists and N-5 operation
-  procedures censored
+ procedures censored
 - **Next Review:** After any cover-story failure, GOI narrative interference, amnestic cluster
-  recognition, folklore mutation, or structural normalcy operation
+ recognition, folklore mutation, or structural normalcy operation

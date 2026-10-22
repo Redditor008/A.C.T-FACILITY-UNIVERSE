@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Site-05 Command, Recovery, Heavy Containment, Abyss Survey |
 | OPERATIONAL STATUS | ACTIVE / DEEP-DEPLOYMENT / SONAR-ACOUSTIC |
 | RISK STATUS | CONTROLLED / PRESSURE AND FALSE-VOID HAZARD |
-| CLEARANCE REQUIRED | Level 4 for operation; Level 5 for trench-grid mapping, blind-predator targeting, and sub-abyssal<br>depth export |
+| CLEARANCE REQUIRED | Level 4 for operation; Level 5 for trench-grid mapping, blind-predator targeting, and sub-abyssal depth export |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -327,7 +327,7 @@ emptiness is not staring back.
 ## OPEN QUESTIONS
 
 - What depth and pressure rating does the spike array carry, and how was it
-  tested?
+ tested?
 - What distinguishes a false void from a genuine cavity on the analysis board?
 - Which subjects have been shown to read the ping and respond to it?
 
@@ -338,6 +338,6 @@ emptiness is not staring back.
 - **Created:** 2026-05-19
 - **Author Desk:** Maritime Observation Desk / Engineering Division / Central Archive
 - **Review Status:** Active field and monitoring record; restricted depth-rendering and false-void
-  algorithms censored
+ algorithms censored
 - **Next Review:** After any blind-predator breach, lost ROV transmission, spike drift event, or
-  false-void mapping failure
+ false-void mapping failure

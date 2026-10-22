@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Biological Containment, Recovery, Medical, Site Safety |
 | OPERATIONAL STATUS | ACTIVE / SPECIALIZED APPAREL / CASE-ISSUED |
 | RISK STATUS | CONTROLLED / RADIATION AND CONTAMINATION INDICATOR HAZARD |
-| CLEARANCE REQUIRED | Level 3 for wear; Level 4 for tailoring, fiber repair, radiation-counter calibration, and<br>hydrophobic treatment |
+| CLEARANCE REQUIRED | Level 3 for wear; Level 4 for tailoring, fiber repair, radiation-counter calibration, and hydrophobic treatment |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Protective Equipment Technology Record |
-| DISTRIBUTION | Materials Custody / Protective Equipment / Biological Containment / Recovery / Medical / Site<br>Safety |
+| DISTRIBUTION | Materials Custody / Protective Equipment / Biological Containment / Recovery / Medical / Site Safety |
 | AUTHORITY | Materials Custody, Protective Equipment Desk, and Central Archive |
 
 #### Archive Note
@@ -335,4 +335,4 @@ room is dangerous.
 - **Author Desk:** Materials Custody / Protective Equipment Desk / Central Archive
 - **Review Status:** Active protective equipment record; restricted fiber composition censored
 - **Next Review:** After any counter-strip blackening, hydrophobic failure, particulate contact,
-  unauthorized tailoring, or radiation overexposure event
+ unauthorized tailoring, or radiation overexposure event

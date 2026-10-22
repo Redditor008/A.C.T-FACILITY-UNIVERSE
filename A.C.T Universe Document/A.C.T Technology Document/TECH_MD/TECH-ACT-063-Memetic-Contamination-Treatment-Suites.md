@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Containment, Research, Archive, Security |
 | OPERATIONAL STATUS | ACTIVE / CLINICAL / EXPOSURE-LIMITED |
 | RISK STATUS | COGNITIVE CONTAMINATION / TREATMENT-AMPLIFICATION RISK |
-| CLEARANCE REQUIRED | Medical authorization; Level 3 for routine treatment; Level 4 for hostile memetic exposure or<br>containment-linked<br>cognitive effect review |
+| CLEARANCE REQUIRED | Medical authorization; Level 3 for routine treatment; Level 4 for hostile memetic exposure or containment-linked cognitive effect review |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -166,7 +166,7 @@ spreading it through staff, records, or equipment.
 - Do not describe a repeated phrase in detail in general circulation.
 - Do not read symptom underreporting as recovery.
 - Do not treat the suite as the only option: route to AIIS or
-  ward care where correct.
+ ward care where correct.
 - Weakest against dormant effects returning under stress.
 - Weakest against effects that attach to ordinary words after treatment.
 
@@ -323,6 +323,6 @@ follows what care proves.
 - **Created:** 1982-12-03
 - **Author Desk:** Medical Division / Cognitive Care / Central Archive
 - **Review Status:** Active medical cognitive-care record; treatment thresholds and trigger-handling
-  procedures censored
+ procedures censored
 - **Next Review:** After any treatment amplification, clinician contamination, false recovery, unsafe
-  note release, or amnestic-use dispute
+ note release, or amnestic-use dispute

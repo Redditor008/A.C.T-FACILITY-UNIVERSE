@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Recovery Support, Security, Medical, Limited Archive |
 | OPERATIONAL STATUS | ACTIVE / TRANSIENT ROUTING USE |
 | RISK STATUS | MISROUTING / LIMIT FAILURE / UNDOCUMENTED MOVEMENT RISK |
-| CLEARANCE REQUIRED | Level 3 for intake staging; Level 4 for high-threat refusal, emergency transit, or parent-site<br>routing override |
+| CLEARANCE REQUIRED | Level 3 for intake staging; Level 4 for high-threat refusal, emergency transit, or parent-site routing override |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Intake Routing Technology Record |
-| DISTRIBUTION | Glass Orchard Relay / Redwood Veil Complex / Recovery Support / Security / Medical<br>/ Limited Archive |
+| DISTRIBUTION | Glass Orchard Relay / Redwood Veil Complex / Recovery Support / Security / Medical / Limited Archive |
 | AUTHORITY | Processing Officer, Recovery Support Lead, Sub-Site Chief, Redwood Veil Site Command, and Central Archive |
 
 #### Archive Note
@@ -305,7 +305,7 @@ route, not a room.
 
 - Which field signs should force escalation before intake finishes?
 - How long may an item wait in the lane before a route is
-  forced?
+ forced?
 - Should every routing error be treated as a containment failure?
 
 ---
@@ -315,6 +315,6 @@ route, not a room.
 - **Created:** 2002-12-15
 - **Author Desk:** Processing Officer / Recovery Support Lead / Central Archive
 - **Review Status:** Active intake routing record; live route boards, rejection criteria, and
-  parent-site escalation contacts censored
+ parent-site escalation contacts censored
 - **Next Review:** After any misrouting, undocumented movement, high-threat refusal, intake overload,
-  file mismatch, or parent-site routing dispute
+ file mismatch, or parent-site routing dispute

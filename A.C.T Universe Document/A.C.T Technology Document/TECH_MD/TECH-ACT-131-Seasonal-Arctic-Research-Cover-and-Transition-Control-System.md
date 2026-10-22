@@ -17,7 +17,7 @@
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active White Grave Surface Technology Record |
-| DISTRIBUTION | White Grave Station / Research Surface Program / Administration / Logistics / Engineering /<br>Security |
+| DISTRIBUTION | White Grave Station / Research Surface Program / Administration / Logistics / Engineering / Security |
 | AUTHORITY | Surface Chief, Station Administration, Site Director, and Central Archive |
 
 #### Archive Note
@@ -300,13 +300,13 @@ the weather help guard the door.
 ## OPEN QUESTIONS
 
 - How much real science is enough to keep a cover alive through decades of
-  scrutiny?
+ scrutiny?
 - Can a seasonal transport delay become safer than a rushed concealed transition?
 - Should cover personnel be rotated before they learn buried movement rhythms?
 - Does reliance on arctic isolation make the station brittle when the weather changes?
 - How many ordinary logistics excuses can be used before they become a pattern?
 - Is the surface program protecting the buried station, or has the buried station become
-  dependent on the surface program's truth?
+ dependent on the surface program's truth?
 - Can genuine research and genuine cover be told apart from outside?
 - What becomes of the cover when a season is cancelled?
 - Is a visiting scientist a boundary problem or a guest?
@@ -318,7 +318,7 @@ the weather help guard the door.
 - **Created:** 1955-12-24
 - **Author Desk:** Surface Chief / Station Administration / Central Archive
 - **Review Status:** Active surface research cover and seasonal transition technology record; airstrip
-  schedules, transition routes, buried rosters, and cover-maintenance records censored
+ schedules, transition routes, buried rosters, and cover-maintenance records censored
 - **Next Review:** After any cover incident, transport-window failure, transition penetration attempt,
-  convoy irregularity, publication audit, external communication fault, or weather-forced supply
-  deviation
+ convoy irregularity, publication audit, external communication fault, or weather-forced supply
+ deviation

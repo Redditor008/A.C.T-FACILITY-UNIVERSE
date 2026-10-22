@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Site Command, Heavy Containment, Artifact Storage, Archive |
 | OPERATIONAL STATUS | ACTIVE / STRUCTURAL / HIGH-DENSITY DEPLOYMENT |
 | RISK STATUS | CONTROLLED / ITHYOS-RESIDUE MATERIAL |
-| CLEARANCE REQUIRED | Level 3 for installation support; Level 4 for composition data; Level 5 for Abyss<br>Floor core placement |
+| CLEARANCE REQUIRED | Level 3 for installation support; Level 4 for composition data; Level 5 for Abyss Floor core placement |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Structural Material Technology Record |
-| DISTRIBUTION | Engineering / Abyss Floor / Site Command / Heavy Containment / Artifact Storage /<br>Archive |
+| DISTRIBUTION | Engineering / Abyss Floor / Site Command / Heavy Containment / Artifact Storage / Archive |
 | AUTHORITY | Engineering Division, Abyss Floor Structural Desk, and Central Archive |
 
 #### Archive Note
@@ -343,4 +343,4 @@ Standing reminder: if a wall feels quiet, ask what it is carrying.
 - **Author Desk:** Engineering Division / Abyss Floor Structural Desk / Central Archive
 - **Review Status:** Active structural record; residue composition and core design censored
 - **Next Review:** After any core saturation, resonance leak, structural breach, or Abyss Floor seismic
-  event
+ event

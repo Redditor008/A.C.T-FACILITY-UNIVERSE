@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Engineering, Site Command, Archive, Medical, Security |
 | OPERATIONAL STATUS | ACTIVE / SITE-WIDE WHERE INSTALLED / RESTRICTED TUNING |
 | RISK STATUS | CONTROLLED / HAZARDOUS IF OVERLOUD, PATTERNED, OR LEAKING |
-| CLEARANCE REQUIRED | Level 3 for operation; Level 4 for manifest libraries, pattern-randomizer access, and site-wide<br>emergency tuning |
+| CLEARANCE REQUIRED | Level 3 for operation; Level 4 for manifest libraries, pattern-randomizer access, and site-wide emergency tuning |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -351,7 +351,7 @@ broadcast has already done too much.
 ## OPEN QUESTIONS
 
 - What is the coverage radius of a single node, and how is a silent
-  pocket detected automatically?
+ pocket detected automatically?
 - How is the dullness entropy scale defined, and what value counts as green?
 - How often is the manifest fragment library refreshed, and who approves a new fragment?
 
@@ -363,4 +363,4 @@ broadcast has already done too much.
 - **Author Desk:** Containment Division / Civil Covert Division / Engineering Division / Central Archive
 - **Review Status:** Active restricted record; manifest libraries and tuning rules censored
 - **Next Review:** After any phrase-emergence event, dead-air pocket incident, staff dullness-fatigue
-  report, or hostile audio intrusion
+ report, or hostile audio intrusion

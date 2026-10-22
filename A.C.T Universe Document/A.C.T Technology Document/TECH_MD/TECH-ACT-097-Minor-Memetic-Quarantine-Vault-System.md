@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Archive, Intelligence, Limited Medical Cognitive Staff |
 | OPERATIONAL STATUS | ACTIVE / TEMPORARY MEMETIC BUFFER USE |
 | RISK STATUS | SPILLOVER / OVERSTAY / UNSUPERVISED EXPOSURE RISK |
-| CLEARANCE REQUIRED | Level 3 for quarantine duty; Level 4 for closure, exposure, parent-node escalation, or black-archive<br>referral |
+| CLEARANCE REQUIRED | Level 3 for quarantine duty; Level 4 for closure, exposure, parent-node escalation, or black-archive referral |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Memetic Quarantine Technology Record |
-| DISTRIBUTION | Silent Reed Annex / Kurokawa Archive Node / Archive / Intelligence / Limited Medical<br>Cognitive Staff |
+| DISTRIBUTION | Silent Reed Annex / Kurokawa Archive Node / Archive / Intelligence / Limited Medical Cognitive Staff |
 | AUTHORITY | F-1 Quarantine Officer, Sub-Site Chief, Kurokawa Archive Command, and Central Archive |
 
 #### Archive Note
@@ -306,6 +306,6 @@ not a grave.
 - **Created:** 2005-03-15
 - **Author Desk:** F-1 Quarantine Officer / Archive Lead / Central Archive
 - **Review Status:** Active minor memetic quarantine record; live vault maps, hazard extracts, and
-  transfer schedules censored
+ transfer schedules censored
 - **Next Review:** After any spillover event, unauthorized exposure, buffer overstay, F-1 closure,
-  black-archive referral, or parent-node routing dispute
+ black-archive referral, or parent-node routing dispute

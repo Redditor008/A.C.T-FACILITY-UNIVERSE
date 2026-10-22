@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Archive, Administration, Security, Intelligence |
 | OPERATIONAL STATUS | ACTIVE / PUBLIC-FACING STUDIO COVER USE |
 | RISK STATUS | COVER SCRUTINY / CLIENT TRAFFIC / TRANSITION EXPOSURE RISK |
-| CLEARANCE REQUIRED | Level 2 for legitimate studio work; Level 3 for boundary duty; Level 4 for<br>buried-annex transition control |
+| CLEARANCE REQUIRED | Level 2 for legitimate studio work; Level 3 for boundary duty; Level 4 for buried-annex transition control |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Document Cover Technology Record |
-| DISTRIBUTION | Silent Reed Annex / Kurokawa Archive Node / Studio Management / Security / Archive<br>/ Intelligence |
+| DISTRIBUTION | Silent Reed Annex / Kurokawa Archive Node / Studio Management / Security / Archive / Intelligence |
 | AUTHORITY | Studio Manager, Security Boundary Lead, Sub-Site Chief, Kurokawa Archive Command, and Central Archive |
 
 #### Archive Note
@@ -310,6 +310,6 @@ that no one interrupts it.
 - **Created:** 1965-12-25
 - **Author Desk:** Studio Manager / Security Boundary Lead / Central Archive
 - **Review Status:** Active preservation-studio cover record; live client files, transition points, and
-  hidden movement schedules censored
+ hidden movement schedules censored
 - **Next Review:** After any client challenge, cover audit, transition exposure, restricted-area
-  dispute, visible document contamination, or studio paperwork mismatch
+ dispute, visible document contamination, or studio paperwork mismatch

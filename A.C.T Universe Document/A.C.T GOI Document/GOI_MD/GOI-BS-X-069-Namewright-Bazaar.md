@@ -17,15 +17,15 @@
 | KNOWN LEADERSHIP | Namewrights, Mouth Factors, Ledger Mothers, Alias Cutters, Debt Registrars, and unidentified auction callers |
 | KNOWN MEMBERSHIP | Identity brokers, document forgers, ritual scribes, blackmail clerks, stolen-heir agents, and name collectors |
 | PRIMARY ACTIVE REGION | Hidden markets, document districts, refugee routes, court archives, online identity boards, and private ceremonies |
-| KNOWN ASSETS | Name ledgers, alias knives, mouth contracts, stolen birth rolls, seal inks, false families, and<br>identity rooms |
+| KNOWN ASSETS | Name ledgers, alias knives, mouth contracts, stolen birth rolls, seal inks, false families, and identity rooms |
 | KNOWN HOLDINGS | Back-room stalls, paper vaults, witness cages, registry mirrors, mobile document vans, and dead-name cupboards |
-| IDEOLOGY | A person is what can be named, bought, cut, sold, hidden, misfiled, reassigned, or<br>spoken by someone with leverage |
-| HISTORY WITH A.C.T | Repeated hostile contact through missing identities, false witnesses, stolen children, court-record<br>alteration, and post-incident survivor exploitation |
+| IDEOLOGY | A person is what can be named, bought, cut, sold, hidden, misfiled, reassigned, or spoken by someone with leverage |
+| HISTORY WITH A.C.T | Repeated hostile contact through missing identities, false witnesses, stolen children, court-record alteration, and post-incident survivor exploitation |
 | ANOMALY CROSS-REFERENCE | Restricted identity, witness, missing-person, registry, contract, amnestic, court, and survivor-exploitation files |
 | CURRENT STATUS | ACTIVE - hostile identity market under dismantlement order |
 | PRIMARY FILE AUTHORITY | Intelligence Division / Civil Covert / Legal / Recovery |
 | SITE JURISDICTION | Central Command with Site 01, Site 03, and regional review |
-| CLEARANCE REQUIRED | Level 4; Level 5 for child ledgers, true-name instruments, stolen witness identities, and A.C.T<br>record penetrations |
+| CLEARANCE REQUIRED | Level 4; Level 5 for child ledgers, true-name instruments, stolen witness identities, and A.C.T record penetrations |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -476,23 +476,23 @@ supply-chain evidence remains incomplete.
 
 ### Persistent Questions
 
-  Is the Bazaar one institution, or a trade language shared by several hostile
-  identity
-  markets?
-  Are Ledger Mothers human title holders, inherited roles, or living ledgers using human
-  agents?
+ Is the Bazaar one institution, or a trade language shared by several hostile
+ identity
+ markets?
+ Are Ledger Mothers human title holders, inherited roles, or living ledgers using human
+ agents?
 — How many A.C.T cover identities have been tested, priced, or sold?
-  Can a name be fully restored after being cut from family, school, clinic,
-  and
-  legal record at once?
+ Can a name be fully restored after being cut from family, school, clinic,
+ and
+ legal record at once?
 — What does old debt may answer at churches mean in sale warnings?
-  Do non-human attachments, such as pets, houses, graves, or entities, resist name theft
-  more
-  strongly than
-  institutions?
+ Do non-human attachments, such as pets, houses, graves, or entities, resist name theft
+ more
+ strongly than
+ institutions?
 — Can NEMNOLIA-series amnestic protocols worsen name instability if used before identity mapping?
-  What happens to future children bound as payment if the original debtor dies
-  nameless?
+ What happens to future children bound as payment if the original debtor dies
+ nameless?
 
 ### Intelligence Confidence
 
@@ -530,7 +530,7 @@ used as a substitute for victim restoration files.
 - 004-Series Amnestic Compound Reference, Archive Record
 - Normalcy Management and Public Narrative Doctrine, Archive Record
 - Restricted identity, witness, missing-person, registry, contract, amnestic, court, and survivor-exploitation files
-  held under Central Archive routing.
+ held under Central Archive routing.
 
 ### Dual Filing
 
@@ -547,11 +547,11 @@ victims.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            22/08/1917
-FILE LAST UPDATED:       22/10/1920
-FILE AUTHOR:             Intelligence Division / Civil Covert / Legal / Memory Review Joint Desk
-REVIEWED BY:             Central Archive
-FILE STATUS:             ACTIVE / RESTRICTED
-DESIGNATION HISTORY:     GOI-BS-X-069 assigned at creation for Namewright Bazaar
-RECORD CONDITION:        OPERATIONAL
+FILE CREATED: 22/08/1917
+FILE LAST UPDATED: 22/10/1920
+FILE AUTHOR: Intelligence Division / Civil Covert / Legal / Memory Review Joint Desk
+REVIEWED BY: Central Archive
+FILE STATUS: ACTIVE / RESTRICTED
+DESIGNATION HISTORY: GOI-BS-X-069 assigned at creation for Namewright Bazaar
+RECORD CONDITION: OPERATIONAL
 ```

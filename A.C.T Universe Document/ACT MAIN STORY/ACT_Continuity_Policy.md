@@ -6,7 +6,7 @@
 | ARCHIVE STATUS | Active |
 | DISTRIBUTION | Internal / Repository Guidance |
 | AUTHORITY | Central Archive Administration / Narrative Continuity Review |
-| PURPOSE | Define how A.C.T. files should be read when doctrine, archive copies, anomaly records, story<br>material, research notes,<br>and crossover material exist in the same repository. |
+| PURPOSE | Define how A.C.T. files should be read when doctrine, archive copies, anomaly records, story material, research notes, and crossover material exist in the same repository. |
 
 ---
 
@@ -264,7 +264,7 @@ When editing or adding files, use this practical authority order:
 
 1. Current archive directive.
 2. Root What the A.C.T. Universe Is, Archive Record repository rules and current branch/session
-   requirements.
+ requirements.
 3. Core Doctrine Canon.
 4. Complete Designation and Class Reference.
 5. Part series and archive copies.
@@ -317,9 +317,9 @@ Known exceptions remain:
 - the BOOK is Markdown-only;
 - research reports are Markdown-only unless the Central Archive requests otherwise;
 - some legacy records are intentionally text-only;
-  public `docs/` pages do not automatically require text twins unless a docs policy
-  later
-  establishes that rule.
+ public `docs/` pages do not automatically require text twins unless a docs policy
+ later
+ establishes that rule.
 
 ---
 
@@ -368,18 +368,18 @@ Only after those checks should a contradiction be preserved as intentional canon
 
 ## 7. Active Continuity Notes
 
-  `SP` is a valid field type code for Space anomalies and should be
-  included
-  where field type lists are maintained.
+ `SP` is a valid field type code for Space anomalies and should be
+ included
+ where field type lists are maintained.
 — `[ BLANK ]` with spaces is a redaction marker.
 — `[BLANK]` without spaces is a containment class.
 — Floor designations run from F-1 upward to surface level.
 — The ABYSS is not just another numbered floor.
 — GOI expansion remains gated by Central Archive registry order.
 — Crossover stories are preserved but not default core canon.
-  Research files can recommend future doctrine, but canon changes must be implemented in
-  canon
-  files.
+ Research files can recommend future doctrine, but canon changes must be implemented in
+ canon
+ files.
 
 ---
 

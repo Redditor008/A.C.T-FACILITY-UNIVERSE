@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Administration, Logistics, Command, Recovery, Containment |
 | OPERATIONAL STATUS | ACTIVE / PERSONNEL AND MATERIAL TRANSITION USE |
 | RISK STATUS | SURFACE PENETRATION / ROUTE EXPOSURE / UNLOGGED DESCENT |
-| CLEARANCE REQUIRED | Level 3 for assigned transition operation; Level 4 for route alteration, emergency seal, or<br>exposure response |
+| CLEARANCE REQUIRED | Level 3 for assigned transition operation; Level 4 for route alteration, emergency seal, or exposure response |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -306,6 +306,6 @@ threshold.
 - **Created:** 1929-04-09
 - **Author Desk:** Campus Boundary Desk / Security Division / Central Archive
 - **Review Status:** Active concealed-transition record; live route maps, masks, identity checks, and
-  emergency seals censored
+ emergency seals censored
 - **Next Review:** After any unlogged descent, contractor approach, surface exposure event, emergency
-  seal, cargo-route mismatch, or F-5 handoff failure
+ seal, cargo-route mismatch, or F-5 handoff failure

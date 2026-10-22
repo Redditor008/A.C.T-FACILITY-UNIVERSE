@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Recovery Support, Watch Coordination, Security, Intake |
 | OPERATIONAL STATUS | ACTIVE / STANDBY RECOVERY USE |
 | RISK STATUS | PREMATURE LAUNCH / ROUTE CONFUSION / INTAKE OVERLOAD RISK |
-| CLEARANCE REQUIRED | Level 3 for staging duty; Level 4 for active recovery launch, emergency intake handoff,<br>or parent-relay override |
+| CLEARANCE REQUIRED | Level 3 for staging duty; Level 4 for active recovery launch, emergency intake handoff, or parent-relay override |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Recovery Staging Technology Record |
-| DISTRIBUTION | Recovery Support / Watch Staff / Security / Intake / Nusantara Deep Relay /<br>Ash Tide Watchpoint |
+| DISTRIBUTION | Recovery Support / Watch Staff / Security / Intake / Nusantara Deep Relay / Ash Tide Watchpoint |
 | AUTHORITY | Watch Officer, Recovery Support Lead, Intake Officer, Nusantara Site Command, and Central Archive |
 
 #### Archive Note
@@ -311,6 +311,6 @@ claim of ownership.
 - **Created:** 1981-03-14
 - **Author Desk:** Recovery Support Lead / Watch Officer / Central Archive
 - **Review Status:** Active recovery staging record; live route maps, vessel contacts, equipment
-  manifests, and emergency exceptions censored
+ manifests, and emergency exceptions censored
 - **Next Review:** After any premature launch, intake overload, route failure, sea-entry abort,
-  unauthorized recovery movement, or parent-relay authority dispute
+ unauthorized recovery movement, or parent-relay authority dispute

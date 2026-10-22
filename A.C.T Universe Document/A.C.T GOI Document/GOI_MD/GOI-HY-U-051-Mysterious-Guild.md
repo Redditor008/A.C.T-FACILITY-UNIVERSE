@@ -17,10 +17,10 @@
 | KNOWN LEADERSHIP | Unknown; Chief Surgeon Valerius named only as one internal actor in recovered Guild-side material |
 | KNOWN MEMBERSHIP | OMEGA-level operatives, surgeons, archivists, registry clerks, sector handlers, and unknown command authorities |
 | PRIMARY ACTIVE REGION | Unverified sector-based future environment; no present-day headquarters confirmed |
-| KNOWN ASSETS | MNT-092 VESPER records, OMEGA-KERN, Argus KSG-16 data, Feedbacker Shield data, Guild leash<br>references, Ghost Files |
+| KNOWN ASSETS | MNT-092 VESPER records, OMEGA-KERN, Argus KSG-16 data, Feedbacker Shield data, Guild leash references, Ghost Files |
 | KNOWN HOLDINGS | VESPERSYS database fragments, GUILD_WIKI archive structure, Guild Registry maintenance references |
 | IDEOLOGY | Tactical purity, operative conversion, record control, sector clearance, and utility before personhood |
-| HISTORY WITH A.C.T | Known through VESPER evidence, recovered Guild archive PDF, and a separate Guild Registry equipment<br>message |
+| HISTORY WITH A.C.T | Known through VESPER evidence, recovered Guild archive PDF, and a separate Guild Registry equipment message |
 | ANOMALY CROSS-REFERENCE | AFD-SU-020; AFD-OB-312 testing dossier; recovered VESPERSYS Guild Database Archive PDF |
 | CURRENT STATUS | UNKNOWN - disconnected signature / possible future actor |
 | PRIMARY FILE AUTHORITY | Intelligence Division / Temporal Evidence Review Desk |
@@ -127,24 +127,24 @@ Guild charter, oath, payroll, command roster, founding declaration, or surrender
 
 The following internal or associated structures are confirmed or strongly indicated by recovered material:
 
-  **Guild Registry** — a maintenance, indexing, and authority layer tied to equipment messages
-  and
-  operative records.
+ **Guild Registry** — a maintenance, indexing, and authority layer tied to equipment messages
+ and
+ operative records.
 — **GUILD_WIKI / VESPERSYS** — archive and encyclopedia structure containing tactical and clinical records.
 — **Vanguard Division** — named in VESPER-related material and likely attached to OMEGA-level deployment.
 — **MNT Program** — inferred from MNT-092 designation, OMEGA-platform records, and operative conversion language.
 — **Ghost File system** — record erasure condition after high-grade operations.
-  **OMEGA-KERN / Gamification Protocol control layer** — neural operating framework that converts reality
-  into
-  combat
-  interface logic.
-  **Sector operation command** — implied by Jobs 1-5, Sector 7 Purge, Sector 4
-  Purge,
-  Sector 12 Rim collapse, and Node-4
-  mission language.
-  **Swarm Integration / Hive node architecture** — named in Job 4 but not
-  explained
-  in a way A.C.T can safely classify.
+ **OMEGA-KERN / Gamification Protocol control layer** — neural operating framework that converts reality
+ into
+ combat
+ interface logic.
+ **Sector operation command** — implied by Jobs 1-5, Sector 7 Purge, Sector 4
+ Purge,
+ Sector 12 Rim collapse, and Node-4
+ mission language.
+ **Swarm Integration / Hive node architecture** — named in Job 4 but not
+ explained
+ in a way A.C.T can safely classify.
 
 None of these layers have a confirmed present-day office, address, leader, or surviving member.
 The structure may be
@@ -355,8 +355,8 @@ A.C.T will not:
 - force VESPER into Guild combat interface states for testing convenience;
 - activate recovered Guild data-slates on connected systems;
 - publish Guild technical material to outside researchers;
-  assume all PDF claims are true merely because several technical details match contained
-  evidence.
+ assume all PDF claims are true merely because several technical details match contained
+ evidence.
 
 Escalation is required if any message repeats "CONTACT GUILD REGISTRY" outside the AFD-OB-312 context,
 if a device
@@ -371,28 +371,28 @@ live system logs.
 ### Restricted Operational Extract
 
 ```text
-SOURCE:       Recovered PDF / VESPERSYS Guild Database Archive
-EXTRACT:      "Vesper, officially designated MNT-092-OMEGA, is a
-              high-latency solo vanguard-assassin operating under the Guild."
-A.C.T NOTE:   This sentence is the first recovered statement that moves the
-              Guild from background label to command authority.
+SOURCE: Recovered PDF / VESPERSYS Guild Database Archive
+EXTRACT: "Vesper, officially designated MNT-092-OMEGA, is a
+ high-latency solo vanguard-assassin operating under the Guild."
+A.C.T NOTE: This sentence is the first recovered statement that moves the
+ Guild from background label to command authority.
 ```
 
 ```text
-SOURCE:       AFD-OB-312 testing dossier
-EXTRACT:      "MAINTENANCE OVERDUE. CONTACT GUILD REGISTRY."
-A.C.T NOTE:   The message appeared on a future-origin weapons system. It is
-              not known whether the display was calling a real external
-              registry, repeating an obsolete maintenance routine, or attempting
-              to establish contact through A.C.T observation.
+SOURCE: AFD-OB-312 testing dossier
+EXTRACT: "MAINTENANCE OVERDUE. CONTACT GUILD REGISTRY."
+A.C.T NOTE: The message appeared on a future-origin weapons system. It is
+ not known whether the display was calling a real external
+ registry, repeating an obsolete maintenance routine, or attempting
+ to establish contact through A.C.T observation.
 ```
 
 ```text
-SOURCE:       Recovered PDF / Chapter 0.1
-EXTRACT:      "MNT-092 is currently operating without a Guild leash."
-A.C.T NOTE:   The term "leash" is treated as a coercive control marker until
-              proven otherwise. No containment team may use Guild restraint
-              language around AFD-SU-020.
+SOURCE: Recovered PDF / Chapter 0.1
+EXTRACT: "MNT-092 is currently operating without a Guild leash."
+A.C.T NOTE: The term "leash" is treated as a coercive control marker until
+ proven otherwise. No containment team may use Guild restraint
+ language around AFD-SU-020.
 ```
 
 ---
@@ -401,17 +401,17 @@ A.C.T NOTE:   The term "leash" is treated as a coercive control marker until
 
 ### Confirmed Operational Facts
 
-  Recovered VESPER material repeatedly names the Guild, Guild Registry, GUILD_WIKI, VESPERSYS, Vanguard Division,
-  and
-  Ghost File systems.
+ Recovered VESPER material repeatedly names the Guild, Guild Registry, GUILD_WIKI, VESPERSYS, Vanguard Division,
+ and
+ Ghost File systems.
 — The recovered PDF identifies VESPER as MNT-092-OMEGA and as a Guild vanguard-assassin.
 — A separate future-origin equipment test record displayed a Guild Registry maintenance instruction.
-  VESPER's conversion record names Lyra, Chief Surgeon Valerius, the Genesis Event, and multiple
-  body-integrated
-  weapons
-  systems.
+ VESPER's conversion record names Lyra, Chief Surgeon Valerius, the Genesis Event, and multiple
+ body-integrated
+ weapons
+ systems.
 — The Guild archive deliberately excludes post-disconnection domestic/civilian material involving Elara Vance and the
-  Comfy Protocol.
+ Comfy Protocol.
 
 ### Active Intelligence Assessment
 
@@ -427,44 +427,44 @@ cross-linked, and mechanically consistent with other future-origin anomaly trace
 
 ### Persistent Questions
 
-  Is the Guild alive, extinct, future-only, alternate, synthetic, or watching from outside A.C.T
-  baseline?
-  Is "Guild Registry" the same body as the Guild, a department inside it,
-  or
-  an automated maintenance service that
-  survived after command failure?
-  Was Lyra rescued from the Sector 12 Rim collapse, harvested because of it,
-  or
-  was the collapse part of candidate
-  selection?
+ Is the Guild alive, extinct, future-only, alternate, synthetic, or watching from outside A.C.T
+ baseline?
+ Is "Guild Registry" the same body as the Guild, a department inside it,
+ or
+ an automated maintenance service that
+ survived after command failure?
+ Was Lyra rescued from the Sector 12 Rim collapse, harvested because of it,
+ or
+ was the collapse part of candidate
+ selection?
 — Who or what is Chief Surgeon Valerius?
 — Why was VESPER designated MNT-092? What happened to MNT-001 through MNT-091?
 — Are other OMEGA-level vanguards present in A.C.T baseline?
 — What is the Vanguard Division's relationship to the Guild Registry?
 — What is the Swarm Integration, and why did it require Hive node architecture?
-  Did the Swarm collective oppose the Guild, support it, infect it, or become
-  part
-  of its operating system?
+ Did the Swarm collective oppose the Guild, support it, infect it, or become
+ part
+ of its operating system?
 — What happened in the Sector 4 Purge beyond the moment of disconnection?
-  Why did VESPER's GPS uplink go dark exactly when her Guild data-slate was
-  lost?
-  Was Elara Vance random civilian contact, planned recovery bait, or an anomaly the
-  Guild
-  archive refused to include?
+ Why did VESPER's GPS uplink go dark exactly when her Guild data-slate was
+ lost?
+ Was Elara Vance random civilian contact, planned recovery bait, or an anomaly the
+ Guild
+ archive refused to include?
 — Why does civilian domestic contact destabilize the Gamification Protocol?
-  Does the Comfy Protocol heal VESPER, hide her, corrupt Guild systems, or threaten
-  the
-  Guild's definition of control?
-  Is the Guild's sector map physical geography, simulation geography, class geography, or after-disaster
-  administrative
-  language?
-  If the Guild can erase public records into Ghost Files, why did this
-  PDF
-  survive?
+ Does the Comfy Protocol heal VESPER, hide her, corrupt Guild systems, or threaten
+ the
+ Guild's definition of control?
+ Is the Guild's sector map physical geography, simulation geography, class geography, or after-disaster
+ administrative
+ language?
+ If the Guild can erase public records into Ghost Files, why did this
+ PDF
+ survive?
 — If the Guild wanted VESPER back, why has no retrieval action been confirmed?
-  If the Guild did not want VESPER back, why does Guild-linked equipment still
-  request
-  maintenance contact?
+ If the Guild did not want VESPER back, why does Guild-linked equipment still
+ request
+ maintenance contact?
 — Does "CONTACT GUILD REGISTRY" mean contact is possible?
 — Is A.C.T reading a recovered archive, or is the archive reading A.C.T back?
 
@@ -513,11 +513,11 @@ the GOI record.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            11/10/1928
-FILE LAST UPDATED:       13/05/1942
-FILE AUTHOR:             Intelligence Division / Temporal Evidence Review Desk
-REVIEWED BY:             Tactical Review Desk / Subject Care Division Liaison
-FILE STATUS:             ACTIVE / RESTRICTED / UNRESOLVED
-DESIGNATION HISTORY:     GOI-HY-U-051 created from anomaly-linked Guild evidence
-RECORD CONDITION:        OPERATIONAL WITH INTENTIONAL OPEN CONDITIONS
+FILE CREATED: 11/10/1928
+FILE LAST UPDATED: 13/05/1942
+FILE AUTHOR: Intelligence Division / Temporal Evidence Review Desk
+REVIEWED BY: Tactical Review Desk / Subject Care Division Liaison
+FILE STATUS: ACTIVE / RESTRICTED / UNRESOLVED
+DESIGNATION HISTORY: GOI-HY-U-051 created from anomaly-linked Guild evidence
+RECORD CONDITION: OPERATIONAL WITH INTENTIONAL OPEN CONDITIONS
 ```

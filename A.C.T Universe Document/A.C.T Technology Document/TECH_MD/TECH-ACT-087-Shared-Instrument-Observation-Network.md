@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Legitimate Station Staff, Watch Coordination, Security |
 | OPERATIONAL STATUS | ACTIVE / DUAL-USE OBSERVATION USE |
 | RISK STATUS | DATA BLEED / INSTRUMENT CURIOSITY / COVER-CORRELATION RISK |
-| CLEARANCE REQUIRED | Level 2 for public station instrument work; Level 3 for watch-linked feeds; Level 4<br>for concealed routing review |
+| CLEARANCE REQUIRED | Level 2 for public station instrument work; Level 3 for watch-linked feeds; Level 4 for concealed routing review |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Dual-Use Observation Technology Record |
-| DISTRIBUTION | Station Staff / Watch Coordination / Security / Administration / Nusantara Deep Relay /<br>Ash Tide Watchpoint |
+| DISTRIBUTION | Station Staff / Watch Coordination / Security / Administration / Nusantara Deep Relay / Ash Tide Watchpoint |
 | AUTHORITY | Station Manager, Watch Officer, Watch Chief, Nusantara Site Command, and Central Archive |
 
 #### Archive Note
@@ -319,6 +319,6 @@ SION doctrine holds that shared instruments are strongest when neither duty dest
 - **Created:** 1994-06-22
 - **Author Desk:** Station Manager / Watch Officer / Central Archive
 - **Review Status:** Active shared-instrument record; feed routes, calibration exceptions, and sensitive
-  capture logs censored
+ capture logs censored
 - **Next Review:** After any data bleed, public report anomaly, calibration dispute, visitor instrument
-  challenge, concealed routing failure, or watch-linked capture
+ challenge, concealed routing failure, or watch-linked capture

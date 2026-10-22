@@ -17,15 +17,15 @@
 | KNOWN LEADERSHIP | Continuance Commissioner; tribunal chairs and legal protectors confirmed; full ministerial sponsor unresolved |
 | KNOWN MEMBERSHIP | Lawyers, tribunal clerks, witness advocates, record guards, survivor escorts, medical observers, and sealed archivists |
 | PRIMARY ACTIVE REGION | National courts, hospitals, survivor shelters, family notification offices, detention appeals, and public records |
-| KNOWN ASSETS | Continuance writs, protected testimony vaults, injunction channels, survivor ledgers, amnestic<br>challenge forms, and emergency custody stays |
-| KNOWN HOLDINGS | Legal offices, tribunal rooms, witness hostels, sealed transcript stores, hospital liaison desks,<br>and court archives |
-| IDEOLOGY | A witness remains a person after the event and cannot be erased only because<br>truth is operationally inconvenient |
+| KNOWN ASSETS | Continuance writs, protected testimony vaults, injunction channels, survivor ledgers, amnestic challenge forms, and emergency custody stays |
+| KNOWN HOLDINGS | Legal offices, tribunal rooms, witness hostels, sealed transcript stores, hospital liaison desks, and court archives |
+| IDEOLOGY | A witness remains a person after the event and cannot be erased only because truth is operationally inconvenient |
 | HISTORY WITH A.C.T | Repeated legal obstruction, witness extraction, testimony preservation, amnestic challenge, and detention review |
 | ANOMALY CROSS-REFERENCE | Restricted witness, amnestic, survivor-rights, detention, transformed-person, and public accountability chains |
 | CURRENT STATUS | ACTIVE - adversarial legal-state witness authority |
 | PRIMARY FILE AUTHORITY | Intelligence Division / Civil Covert / Legal Liaison |
 | SITE JURISDICTION | Central Command with Site-specific survivor custody review |
-| CLEARANCE REQUIRED | Level 4; Level 5 for protected witness names, tribunal transcripts, and sealed amnestic appeal<br>exhibits |
+| CLEARANCE REQUIRED | Level 4; Level 5 for protected witness names, tribunal transcripts, and sealed amnestic appeal exhibits |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -448,17 +448,17 @@ standard document-cleaning attempt.
 
 ### Confirmed Operational Facts
 
-  The Office for Witness Continuance is an outside government legal authority and not
-  an
-  A.C.T internal review body.
+ The Office for Witness Continuance is an outside government legal authority and not
+ an
+ A.C.T internal review body.
 — The Office repeatedly challenges A.C.T amnestic, detention, witness, and survivor-record procedures.
-  It possesses tribunals, advocates, protected records, and emergency legal instruments with real operational
-  effect.
+ It possesses tribunals, advocates, protected records, and emergency legal instruments with real operational
+ effect.
 — Some Office interventions have preserved evidence and protected witnesses from premature erasure.
-  The Office's active relationship to A.C.T remains negative because it directly obstructs containment
-  secrecy
-  and
-  custody control.
+ The Office's active relationship to A.C.T remains negative because it directly obstructs containment
+ secrecy
+ and
+ custody control.
 
 ### Active Intelligence Assessment
 
@@ -478,19 +478,19 @@ people by preserving truth in the wrong channel at the wrong time.
 ### Persistent Questions
 
 - What incident caused the creation of the Office, and was A.C.T involved?
-  Does [CENSOR: LEGAL ACT NAME] exist in a sealed statute, an anomalous legal
-  archive,
-  or a court record that only
-  appears during continuance disputes?
-  How many protected witness hostels exist, and are all free from hostile GOI
-  infiltration?
-  Do some continuance writs resist alteration because of legal procedure, anomalous ink, or
-  witness
-  memory attachment?
+ Does [CENSOR: LEGAL ACT NAME] exist in a sealed statute, an anomalous legal
+ archive,
+ or a court record that only
+ appears during continuance disputes?
+ How many protected witness hostels exist, and are all free from hostile GOI
+ infiltration?
+ Do some continuance writs resist alteration because of legal procedure, anomalous ink, or
+ witness
+ memory attachment?
 - Has the Office ever knowingly preserved a cognitohazard as testimony?
-  Are tribunal chairs aware of the full anomaly details, or do they rule
-  through
-  procedural symptoms only?
+ Are tribunal chairs aware of the full anomaly details, or do they rule
+ through
+ procedural symptoms only?
 - How many A.C.T public-cover deaths have been reversed by Office action?
 
 ### Intelligence Confidence
@@ -528,7 +528,7 @@ witness statements or memory-aftercare review.
 - Personnel Exposure, Excommunicated Class, and Resilience Doctrine, Archive Record
 - Complete Designation and Class Reference, Archive Record
 - Restricted witness, amnestic, survivor-rights, detention, transformed-person, and public accountability chains held
-  under Central Archive routing.
+ under Central Archive routing.
 
 ### Dual Filing
 
@@ -545,11 +545,11 @@ protected witness through an unregistered route.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            04/02/1982
-FILE LAST UPDATED:       14/02/1987
-FILE AUTHOR:             Intelligence Division / Civil Covert / Legal Liaison Joint Desk
-REVIEWED BY:             Central Archive
-FILE STATUS:             ACTIVE / RESTRICTED
-DESIGNATION HISTORY:     GOI-GV-X-060 assigned at creation for Office for Witness Continuance
-RECORD CONDITION:        OPERATIONAL
+FILE CREATED: 04/02/1982
+FILE LAST UPDATED: 14/02/1987
+FILE AUTHOR: Intelligence Division / Civil Covert / Legal Liaison Joint Desk
+REVIEWED BY: Central Archive
+FILE STATUS: ACTIVE / RESTRICTED
+DESIGNATION HISTORY: GOI-GV-X-060 assigned at creation for Office for Witness Continuance
+RECORD CONDITION: OPERATIONAL
 ```

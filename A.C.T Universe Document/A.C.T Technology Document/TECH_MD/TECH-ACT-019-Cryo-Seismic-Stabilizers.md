@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Containment, Abyss Floor Operations, Logistics, Command |
 | OPERATIONAL STATUS | ACTIVE / HEAVY INSTALLATION / EMERGENCY DEPLOYABLE |
 | RISK STATUS | CONTROLLED / HAZARDOUS IF OVERCOOLED OR MISALIGNED |
-| CLEARANCE REQUIRED | Level 4 for operation; Level 5 for sub-crustal deployment, RSA interval timing, and world-scale<br>event response |
+| CLEARANCE REQUIRED | Level 4 for operation; Level 5 for sub-crustal deployment, RSA interval timing, and world-scale event response |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -321,7 +321,7 @@ wait in a smaller room.
 ## OPEN QUESTIONS
 
 - What is the effective radius of one unit, and how does it change with
-  depth?
+ depth?
 - What does the redacted thermal-cell contain, and who maintains it?
 - How long can suppressed stress stay delayed before rebound becomes the larger event?
 
@@ -333,4 +333,4 @@ wait in a smaller room.
 - **Author Desk:** Engineering Division / Site Infrastructure Command / Central Archive
 - **Review Status:** Active restricted record; RSA interval timing censored
 - **Next Review:** After any rebound event, false-quiet reading, coolant injury, or world-scale tremor
-  response
+ response

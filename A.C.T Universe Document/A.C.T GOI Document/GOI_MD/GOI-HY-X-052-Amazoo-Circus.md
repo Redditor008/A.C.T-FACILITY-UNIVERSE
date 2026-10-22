@@ -18,9 +18,9 @@
 | KNOWN MEMBERSHIP | Unknown performers, handlers, audience plants, animal or humanoid acts, and possible escaped anomalous juveniles |
 | PRIMARY ACTIVE REGION | Traveling fairground routes in and around Poland; prior and future routes unresolved |
 | KNOWN ASSETS | Performance cages, anomalous humanoid attractions, audience conditioning, emotional-siphoning performances |
-| KNOWN HOLDINGS | Former traveling fairground seized during Operation BIG TOP; additional tents, wagons, cages, and<br>routes unconfirmed |
+| KNOWN HOLDINGS | Former traveling fairground seized during Operation BIG TOP; additional tents, wagons, cages, and routes unconfirmed |
 | IDEOLOGY | Exploitation disguised as spectacle; pain converted into entertainment, control, and possible anomalous extraction |
-| HISTORY WITH A.C.T | Targeted in Operation BIG TOP / Broken Ring after discovery of AFD-SU-507 and other<br>circus-linked harms |
+| HISTORY WITH A.C.T | Targeted in Operation BIG TOP / Broken Ring after discovery of AFD-SU-507 and other circus-linked harms |
 | ANOMALY CROSS-REFERENCE | AFD-SU-507; Circus Monster diary dossiers; POI-0507 |
 | CURRENT STATUS | FRAGMENTED - public circus erased; Grand Master uncaptured |
 | PRIMARY FILE AUTHORITY | Intelligence Division / Subject Care Division |
@@ -321,9 +321,9 @@ A.C.T will not:
 - reproduce the chant used against the subject outside sealed analysis;
 - force the subject to sing for acoustic testing;
 - classify escaped child performers as hostile without individual evidence;
-  accept a burned tent, abandoned cage, or dead animal as proof that Grand
-  Master
-  Amazoo is gone.
+ accept a burned tent, abandoned cage, or dead animal as proof that Grand
+ Master
+ Amazoo is gone.
 
 Escalation is required if any traveling fairground advertises a "singing monster," "amazing gift," "silent
 song,"
@@ -336,35 +336,35 @@ song,"
 ### Restricted Operational Extract
 
 ```text
-SOURCE:       AFD-SU-507 primary anomaly file
-EXTRACT:      "Targeted the 'Amazoo Circus,' an unregistered anomalous
-              humanoid collective."
-A.C.T NOTE:   This is the strongest direct basis for GOI filing. The Circus is
-              not an inferred group; it is named in the discovery method.
+SOURCE: AFD-SU-507 primary anomaly file
+EXTRACT: "Targeted the 'Amazoo Circus,' an unregistered anomalous
+ humanoid collective."
+A.C.T NOTE: This is the strongest direct basis for GOI filing. The Circus is
+ not an inferred group; it is named in the discovery method.
 ```
 
 ```text
-SOURCE:       AFD-SU-507 initial response / narrative status
-EXTRACT:      "'Amazoo Circus' publicly erased. Grand Master Amazoo remains
-              uncaptured (POI-0507). Subject was found locked in a reinforced
-              iron cage, abandoned."
-A.C.T NOTE:   Public erasure did not conclude the case. The leader remains at
-              large and the subject was abandoned, not released.
+SOURCE: AFD-SU-507 initial response / narrative status
+EXTRACT: "'Amazoo Circus' publicly erased. Grand Master Amazoo remains
+ uncaptured (POI-0507). Subject was found locked in a reinforced
+ iron cage, abandoned."
+A.C.T NOTE: Public erasure did not conclude the case. The leader remains at
+ large and the subject was abandoned, not released.
 ```
 
 ```text
-SOURCE:       Recovered diary material
-EXTRACT:      "Time is dead and gone. Show must go on."
-A.C.T NOTE:   Phrase is retained as possible motto, command imprint, trauma
-              echo, or anomalous performance anchor.
+SOURCE: Recovered diary material
+EXTRACT: "Time is dead and gone. Show must go on."
+A.C.T NOTE: Phrase is retained as possible motto, command imprint, trauma
+ echo, or anomalous performance anchor.
 ```
 
 ```text
-SOURCE:       Recovered diary material
-EXTRACT:      "Hey, get up you worthless Circus Monster!"
-A.C.T NOTE:   This phrase is restricted from casual quotation around AFD-SU-507.
-              It is evidence of organized verbal degradation by crowd, handler,
-              or both.
+SOURCE: Recovered diary material
+EXTRACT: "Hey, get up you worthless Circus Monster!"
+A.C.T NOTE: This phrase is restricted from casual quotation around AFD-SU-507.
+ It is evidence of organized verbal degradation by crowd, handler,
+ or both.
 ```
 
 ---
@@ -373,18 +373,18 @@ A.C.T NOTE:   This phrase is restricted from casual quotation around AFD-SU-507.
 
 ### Confirmed Operational Facts
 
-  Amazoo Circus was named as an unregistered anomalous humanoid collective in AFD-SU-507's discovery
-  record.
+ Amazoo Circus was named as an unregistered anomalous humanoid collective in AFD-SU-507's discovery
+ record.
 — A.C.T raided the Circus under Operation BIG TOP and Broken Ring response framing.
 — AFD-SU-507 was recovered from a reinforced iron cage.
 — Grand Master Amazoo, POI-0507, remains uncaptured in the primary anomaly file.
-  The subject's trauma triggers include crowds, command posture, loud noise, and memories of
-  Grand
-  Master Amazoo.
-  Recovered diary material repeatedly references an absent partner, a tyrant figure, two young
-  lions,
-  chanting
-  audiences, forced singing, and abandonment.
+ The subject's trauma triggers include crowds, command posture, loud noise, and memories of
+ Grand
+ Master Amazoo.
+ Recovered diary material repeatedly references an absent partner, a tyrant figure, two young
+ lions,
+ chanting
+ audiences, forced singing, and abandonment.
 
 ### Active Intelligence Assessment
 
@@ -401,28 +401,28 @@ its full performer inventory was never confirmed.
 - Is Grand Master Amazoo human, anomalous, transformed, title-bound, or replaced between shows?
 - Why was AFD-SU-507 selected as the singing monster?
 - Were her claws natural, surgically altered, anomalously gifted, or created by Amazoo?
-  What does "The Amazing Gift" originally refer to: claws, partner, curse, stage name,
-  or
-  augmentation?
+ What does "The Amazing Gift" originally refer to: claws, partner, curse, stage name,
+ or
+ augmentation?
 - Who was the person AFD-SU-507 says was "not here"?
-  Did the missing partner escape, die, transform, betray her, or get sold to
-  another
-  act?
-  Who is the "she" in the line "Why did she have to leave
-  it
-  all alone?"
-  Is the "he" in the diary Grand Master Amazoo, a handler, a replacement
-  performer,
-  a hallucinated authority, or a role
-  played by multiple people?
+ Did the missing partner escape, die, transform, betray her, or get sold to
+ another
+ act?
+ Who is the "she" in the line "Why did she have to leave
+ it
+ all alone?"
+ Is the "he" in the diary Grand Master Amazoo, a handler, a replacement
+ performer,
+ a hallucinated authority, or a role
+ played by multiple people?
 - What happened to the two young lions?
-  Were the lions ordinary animals, anomalous entities, transformed children, protective performers, or a
-  failed
-  act?
+ Were the lions ordinary animals, anomalous entities, transformed children, protective performers, or a
+ failed
+ act?
 - Why did the lions "not obey" and who led them astray?
-  Did Operation BIG TOP interrupt the Circus, or did the Circus allow the
-  raid
-  to discard unwanted evidence?
+ Did Operation BIG TOP interrupt the Circus, or did the Circus allow the
+ raid
+ to discard unwanted evidence?
 - Why was AFD-SU-507 abandoned instead of moved with the others?
 - How many other cages were present before A.C.T arrived?
 - How many performers were missing by the time the raid began?
@@ -430,22 +430,22 @@ its full performer inventory was never confirmed.
 - Were audience members customers, victims, worshippers, batteries, or witnesses under influence?
 - Was the chant spontaneous cruelty or a controlled performance mechanism?
 - What did the emotional siphoning feed?
-  Does the phrase "Time is dead and gone" indicate temporal anomaly, show motto,
-  depression,
-  or a dead timekeeper act?
+ Does the phrase "Time is dead and gone" indicate temporal anomaly, show motto,
+ depression,
+ or a dead timekeeper act?
 - Why does the show have to go on after time is dead?
-  Did Amazoo Circus use real circus routes, or did it appear where grief
-  and
-  spectacle were already waiting?
-  What happened to the Circus's money, tickets, animals, wagons, posters, and cages after
-  public
-  erasure?
+ Did Amazoo Circus use real circus routes, or did it appear where grief
+ and
+ spectacle were already waiting?
+ What happened to the Circus's money, tickets, animals, wagons, posters, and cages after
+ public
+ erasure?
 - Are there other Amazoo survivors misfiled as monsters in local folklore?
 - Has Grand Master Amazoo rebuilt under another name?
 - Would AFD-SU-507 recognize Amazoo's voice, or only the command posture?
-  Is the Circus trying to reclaim her, silence her, or leave her as
-  bait
-  for A.C.T?
+ Is the Circus trying to reclaim her, silence her, or leave her as
+ bait
+ for A.C.T?
 
 ### Intelligence Confidence
 
@@ -494,11 +494,11 @@ missing-person files and must not be reduced to circus property.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            15/10/2024
-FILE LAST UPDATED:       05/09/2026
-FILE AUTHOR:             Intelligence Division / Subject Care Division Liaison
-REVIEWED BY:             Regional Command / Tactical Containment
-FILE STATUS:             ACTIVE / RESTRICTED / FRAGMENTED
-DESIGNATION HISTORY:     GOI-HY-X-052 created from Circus Monster anomaly evidence
-RECORD CONDITION:        OPERATIONAL WITH INTENTIONAL OPEN CONDITIONS
+FILE CREATED: 15/10/2024
+FILE LAST UPDATED: 05/09/2026
+FILE AUTHOR: Intelligence Division / Subject Care Division Liaison
+REVIEWED BY: Regional Command / Tactical Containment
+FILE STATUS: ACTIVE / RESTRICTED / FRAGMENTED
+DESIGNATION HISTORY: GOI-HY-X-052 created from Circus Monster anomaly evidence
+RECORD CONDITION: OPERATIONAL WITH INTENTIONAL OPEN CONDITIONS
 ```

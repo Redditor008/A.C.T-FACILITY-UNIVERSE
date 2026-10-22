@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Engineering, Materials Custody, Medical, White Grave |
 | OPERATIONAL STATUS | ACTIVE / RESTRICTED / CERAMIC-JUG STORED |
 | RISK STATUS | HAZARDOUS / CORROSIVE AND DIMENSIONAL CHEMICAL |
-| CLEARANCE REQUIRED | Level 4 for storage and transport; Level 5 for etching, neutralization use, sample exposure,<br>and Dark World export |
+| CLEARANCE REQUIRED | Level 4 for storage and transport; Level 5 for etching, neutralization use, sample exposure, and Dark World export |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Anomalous Chemical Technology Record |
-| DISTRIBUTION | Hazardous Materials / Dark World Survey / Engineering / Materials Custody / Medical /<br>White Grave |
+| DISTRIBUTION | Hazardous Materials / Dark World Survey / Engineering / Materials Custody / Medical / White Grave |
 | AUTHORITY | Hazardous Materials Desk, Dark World Survey, and Central Archive |
 
 #### Archive Note
@@ -336,6 +336,6 @@ the jug is temporary mercy.
 - **Created:** 2026-07-02
 - **Author Desk:** Hazardous Materials Desk / Dark World Survey / Central Archive
 - **Review Status:** Active anomalous chemical record; stabilizer formulation and neutralization tab
-  chemistry censored
+ chemistry censored
 - **Next Review:** After any container etching, tab delay, over-etch, vapor exposure, or new Dark World
-  river sample
+ river sample

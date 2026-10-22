@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Engineering, Dark World Survey, Biological Containment |
 | OPERATIONAL STATUS | ACTIVE / RESTRICTED / BREACH-SEALING DEVELOPMENT |
 | RISK STATUS | HAZARDOUS / HYDRATION-TRIGGER AND BLUE HAZE RISK |
-| CLEARANCE REQUIRED | Level 4 for sealed handling; Level 5 for hydration trigger, occupied-facility deployment, and<br>outgassing suppression |
+| CLEARANCE REQUIRED | Level 4 for sealed handling; Level 5 for hydration trigger, occupied-facility deployment, and outgassing suppression |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -335,6 +335,6 @@ Standing reminder: if the powder touches water, the decision has already been ma
 - **Created:** 2026-03-20
 - **Author Desk:** Materials Custody / Hazardous Materials Desk / Central Archive
 - **Review Status:** Active refined-material record; outgassing suppression and hopper-valve engineering
-  details censored
+ details censored
 - **Next Review:** After any bloom event, hopper humidity alarm, Blue Haze detection, over-seal
-  incident, or field deployment
+ incident, or field deployment

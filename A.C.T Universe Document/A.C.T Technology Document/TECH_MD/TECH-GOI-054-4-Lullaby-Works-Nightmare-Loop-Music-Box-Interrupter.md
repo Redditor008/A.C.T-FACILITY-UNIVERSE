@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Containment, Archive, Intelligence, Civil Covert, Site Command |
 | OPERATIONAL STATUS | PARTIALLY RECOVERED / UNITS REMAIN IN CIVILIAN HOMES |
 | RISK STATUS | PROTECTIVE WHILE CHARGED / INERT AFTER EXHAUSTION / HAZARDOUS IF FORCE-OPENED |
-| CLEARANCE REQUIRED | Level 3 for instruction handling; Level 4 for external inspection and night counting; Level<br>5 for opening, movement<br>work, or lot tracing |
+| CLEARANCE REQUIRED | Level 3 for instruction handling; Level 4 for external inspection and night counting; Level 5 for opening, movement work, or lot tracing |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -103,9 +103,9 @@ the exterior indicates function.
 
 Known external features:
 
-  a **winding key or crank**, present on all recovered parts, whose function A.C.T
-  has
-  not been able to confirm;
+ a **winding key or crank**, present on all recovered parts, whose function A.C.T
+ has
+ not been able to confirm;
 - a **hinged lid** in most variants;
 - a **movement housing** that should contain a cylinder or disc mechanism;
 - a **sewn or adhered label area** under which a production tag may sit;
@@ -113,17 +113,17 @@ Known external features:
 
 Known construction findings:
 
-  the movement housing of recovered parts is **empty or does not contain a
-  mechanism
-  capable of producing the reported
-  output**;
-  no spring, no governor, no comb, and no cylinder have been recovered that
-  correspond
-  to the audible tune;
+ the movement housing of recovered parts is **empty or does not contain a
+ mechanism
+ capable of producing the reported
+ output**;
+ no spring, no governor, no comb, and no cylinder have been recovered that
+ correspond
+ to the audible tune;
 - winding the key produces no resistance and no sound in any recovered part;
-  material samples from the range **remain warm when separated from the item body**,
-  the
-  shared Lullaby Works finding.
+ material samples from the range **remain warm when separated from the item body**,
+ the
+ shared Lullaby Works finding.
 
 The music box carries the **half-moon** mark and the **three quiet nights** line. For
 this product that phrase stops
@@ -201,23 +201,23 @@ or test a service unit.
 Standing rules:
 
 - do not open a service unit at any clearance level;
-  do not wind a service unit. Winding may consume charge, and A.C.T has
-  no
-  way to measure charge remaining;
-  record the night count. Every night the unit is in service is logged,
-  because
-  the service life is finite and no one
-  can tell from the outside how much remains;
-  when a unit stops, do not replace it silently. Notify Medical Division, tell
-  the
-  family plainly that the item has
-  finished, and begin follow-up care, because the end of the unit is not the
-  end of the risk;
+ do not wind a service unit. Winding may consume charge, and A.C.T has
+ no
+ way to measure charge remaining;
+ record the night count. Every night the unit is in service is logged,
+ because
+ the service life is finite and no one
+ can tell from the outside how much remains;
+ when a unit stops, do not replace it silently. Notify Medical Division, tell
+ the
+ family plainly that the item has
+ finished, and begin follow-up care, because the end of the unit is not the
+ end of the risk;
 - do not test the interruption by inducing a nightmare;
-  keep the room singing. Recovered instruction treats continued sound as part of the
-  protocol,
-  and A.C.T follows it
-  during any night on which a unit is active.
+ keep the room singing. Recovered instruction treats continued sound as part of the
+ protocol,
+ and A.C.T follows it
+ during any night on which a unit is active.
 
 If a family reports that the unit has stopped working, treat it as exhausted
 rather than broken until proven
@@ -358,20 +358,20 @@ a device whose only important property is how much of its life is left.
 
 ## OPEN QUESTIONS
 
-  How many nights does a unit last, and is the count fixed per
-  unit
-  or per child?
+ How many nights does a unit last, and is the count fixed per
+ unit
+ or per child?
 - What is consumed as the unit exhausts?
 - Is the winding key functional, and does winding it spend charge?
-  What produces the tune, given that no mechanism has been found in any
-  housing?
+ What produces the tune, given that no mechanism has been found in any
+ housing?
 - Does the language of the lullaby matter to the effect?
-  Can an exhausted unit be restored by the manufacturer, and does the warranty
-  cover
-  it?
-  Does the interruption end the loop permanently or only for the duration of
-  the
-  charge?
+ Can an exhausted unit be restored by the manufacturer, and does the warranty
+ cover
+ it?
+ Does the interruption end the loop permanently or only for the duration of
+ the
+ charge?
 - Does a music box line lot label exist?
 - What does the manufacturer expect a family to do when the box stops?
 
@@ -383,4 +383,4 @@ a device whose only important property is how much of its life is left.
 - **Author Desk:** Subject Care Division / Medical Division / Central Archive
 - **Review Status:** Active restricted GOI technology record; service life and mechanism unresolved
 - **Next Review:** After any night-count completion, any working unit recovery, or any movement
-  identification result
+ identification result

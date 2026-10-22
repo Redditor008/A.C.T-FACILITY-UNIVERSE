@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Research, Administration, Security, Environmental Containment, Command |
 | OPERATIONAL STATUS | ACTIVE / LEGITIMATE CAMPUS COVER INFRASTRUCTURE |
 | RISK STATUS | COVER BREACH / BOUNDARY EXPOSURE / PUBLIC-RESEARCH CONFLICT |
-| CLEARANCE REQUIRED | Level 2 for campus operation; Level 3 for boundary liaison; Level 4 for cover<br>adjustment or concealed access routing |
+| CLEARANCE REQUIRED | Level 2 for campus operation; Level 3 for boundary liaison; Level 4 for cover adjustment or concealed access routing |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -303,16 +303,16 @@ truth with a locked border.
 ## OPEN QUESTIONS
 
 - How much real ecological data can be published before outside researchers begin mapping restricted
-  absence?
+ absence?
 - Should campus staff with no concealed assignment be told that some restrictions are conservation-only
-  even when they are containment-driven?
+ even when they are containment-driven?
 - Can legitimate sample analysis continue safely when anomalous and non-anomalous ecosystems influence the same
-  watershed?
+ watershed?
 - When does cover discipline become scientific distortion?
 - Should the campus invite external collaboration to strengthen legitimacy, or does collaboration increase boundary
-  risk too sharply?
+ risk too sharply?
 - How should SRCCIS respond when a truthful ecological finding points toward a concealed anomaly
-  sector?
+ sector?
 - How much external research strengthens the cover before it endangers it?
 - Which monitoring stations should never be sited near a sector?
 - When should a public programme be refused rather than rerouted?
@@ -324,6 +324,6 @@ truth with a locked border.
 - **Created:** 1946-05-22
 - **Author Desk:** Surface Cover Administration / Campus Director / Central Archive
 - **Review Status:** Active cover-campus technology record; live boundary maps, public-contact lists,
-  concealed routes, and cover incident records censored
+ concealed routes, and cover incident records censored
 - **Next Review:** After any boundary exposure, public-program route error, external researcher
-  pressure, published anomaly risk, concealed access sighting, or cover-language dispute
+ pressure, published anomaly risk, concealed access sighting, or cover-language dispute

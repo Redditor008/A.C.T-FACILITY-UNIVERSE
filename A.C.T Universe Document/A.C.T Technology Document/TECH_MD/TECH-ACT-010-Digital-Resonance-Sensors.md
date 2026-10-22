@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Recovery, Containment, Maritime Observation, Archive |
 | OPERATIONAL STATUS | ACTIVE / STANDARD FIELD ISSUE / RESTRICTED CALIBRATION |
 | RISK STATUS | CONTROLLED / HAZARDOUS IF MISREAD OR SPOOFED |
-| CLEARANCE REQUIRED | Level 2 for operation; Level 4 for calibration libraries, resonance maps, and hostile-signal<br>comparison files |
+| CLEARANCE REQUIRED | Level 2 for operation; Level 4 for calibration libraries, resonance maps, and hostile-signal comparison files |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -199,7 +199,7 @@ display layer; resonance describes what is actually being measured.
 - Do not treat a familiar pulse as a harmless one.
 - Weakest against anomalies that mimic environmental rhythm or sleep until contact.
 - Weakest where heavy RSA fields, CSG output, sonar return, or active QNB equipment
-  distort the reading.
+ distort the reading.
 
 Detection range, threshold bands, and battery runtime are not recorded in this file. Environmental
 envelope:
@@ -353,10 +353,10 @@ sensor for being first.
 ## OPEN QUESTIONS
 
 - What is the measured detection range of the field wand, as distinct from the
-  two-meter tuning-fork array?
+ two-meter tuning-fork array?
 - Which signature libraries are current, and how is a library declared stale?
 - What did the 2024 Sunda Trench survey record for the 10.4-ton signature after the
-  drone returned?
+ drone returned?
 
 ---
 
@@ -366,4 +366,4 @@ sensor for being first.
 - **Author Desk:** Survey Division / Engineering Division / Central Archive
 - **Review Status:** Active restricted record; calibration libraries censored
 - **Next Review:** After any false-clean scan, hostile spoof, Field Type misclassification, or
-  fixed-locker resonance alarm
+ fixed-locker resonance alarm

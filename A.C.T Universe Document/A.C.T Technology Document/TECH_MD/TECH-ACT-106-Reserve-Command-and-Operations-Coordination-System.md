@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Administration, Security, Environmental Containment, Research, Medical, Recovery |
 | OPERATIONAL STATUS | ACTIVE / RESERVE COMMAND INFRASTRUCTURE |
 | RISK STATUS | COMMAND DRIFT / SECTOR DELAY / BOUNDARY RESPONSE FAILURE |
-| CLEARANCE REQUIRED | Level 3 for operations duty; Level 4 for command routing, sector incident control, or<br>cross-site escalation |
+| CLEARANCE REQUIRED | Level 3 for operations duty; Level 4 for command routing, sector incident control, or cross-site escalation |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -310,15 +310,15 @@ are hidden in the forest.
 ## OPEN QUESTIONS
 
 - How much sector automation should RCOCS accept before field staff lose practical understanding of
-  the wilderness?
+ the wilderness?
 - Should public-program campus schedules be visible to all command staff or only to cover-cleared
-  duty officers?
+ duty officers?
 - Can a perimeter event be treated as minor if it repeats across unrelated sectors?
 - When should command override ecological authority during a fast containment event?
 - How many simultaneous biological alerts can the buried command floor process before outside site
-  support is mandatory?
+ support is mandatory?
 - Should RCOCS keep resident behavior patterns in command view, or does that create unnecessary
-  bias against sapient residents?
+ bias against sapient residents?
 - What check-in interval is short enough to be useful outdoors?
 - Which sector alerts must never cross the cross-site relay?
 - How should a floor transition be commanded during a field incident?
@@ -330,6 +330,6 @@ are hidden in the forest.
 - **Created:** 2001-06-25
 - **Author Desk:** Reserve Operations Command / Security Command Center / Central Archive
 - **Review Status:** Active command technology record; live sector maps, communication keys, patrol
-  rosters, and incident routing tables censored
+ rosters, and incident routing tables censored
 - **Next Review:** After any multi-sector incident, concealed boundary alarm, command-channel failure,
-  logistics route loss, cover conflict, or division authority dispute
+ logistics route loss, cover conflict, or division authority dispute

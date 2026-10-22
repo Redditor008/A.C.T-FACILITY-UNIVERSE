@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Site Command, Containment, Intelligence, Archive, Logistics, Recovery, and Normalcy Management |
 | OPERATIONAL STATUS | ACTIVE / RESTRICTED / SITE-CRITICAL |
 | RISK STATUS | CONTROLLED / HAZARDOUS IF OVERLAPPED OR MIS-CALIBRATED |
-| CLEARANCE REQUIRED | Level 4 for mesh operation; Level 5 for aperture-node composition, site-wide reset, and<br>civilian-perception tables |
+| CLEARANCE REQUIRED | Level 4 for mesh operation; Level 5 for aperture-node composition, site-wide reset, and civilian-perception tables |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Restricted Technology Record |
-| DISTRIBUTION | Engineering / Civil Covert / Site Command / Containment / Intelligence / Archive /<br>Command |
+| DISTRIBUTION | Engineering / Civil Covert / Site Command / Containment / Intelligence / Archive / Command |
 | AUTHORITY | Engineering Division, Civil Covert Division, Site Command, Normalcy Management, and Central Archive |
 
 #### Archive Note
@@ -87,14 +87,14 @@ make a hidden facility visible through pattern.
 ARM appears in five major roles:
 
 - fixed site concealment, including surface campuses, service entries, perimeter roads, and exterior facility
-  signatures;
+ signatures;
 - civilian perception management around A.C.T buildings, false companies, and restricted infrastructure;
 - surveillance dampening against ordinary cameras, map services, delivery systems, and casual drone observation;
 - emergency misdirection during breach response, transport arrival, or surface lockdown;
-  post-incident normalcy support when an area must remain publicly boring long enough for
-  Civil
-  Covert to replace the
-  story.
+ post-incident normalcy support when an area must remain publicly boring long enough for
+ Civil
+ Covert to replace the
+ story.
 
 ARM is therefore a normalcy technology as much as a site technology. It is
 one of the reasons A.C.T can exist inside a
@@ -253,11 +253,11 @@ cover weighting together, and neither is published.
 
 - Do not remove a copper node because it looks decorative.
 - Do not paint over node clusters with conductive or reflective coatings without Engineering
-  approval.
+ approval.
 - Do not place public signage that contradicts ARM cover weighting.
 - Calibrate to the cover, not to the operator's fear level; over-masking creates absence
-  and absence attracts
-  attention.
+ and absence attracts
+ attention.
 - Weakest against observers already primed to look for A.C.T infrastructure.
 - Weakest against repeated civilian contact with the same contradiction.
 - Weakest against hostile GOIs using nonstandard attention, ritual sight, or anomaly-assisted mapping.
@@ -513,40 +513,40 @@ Reality Mesh System.
 
 ## OPEN ENGINEERING AND INTELLIGENCE QUESTIONS
 
-  How much long-term ARM exposure changes staff expectations of public attention remains incompletely
-  studied.
+ How much long-term ARM exposure changes staff expectations of public attention remains incompletely
+ studied.
 — Can hostile GOIs map ARM edges by tracking what civilians do not photograph?
 — Do repeated ARM-WHITE activations create civilian memory scars similar to low-grade amnestic aftereffects?
-  Can ARM and RSA overlap cause a location to remain physically stable while
-  becoming
-  narratively suspicious?
-  Are old estate boundary practices embedded in the Siena Alpha lineage still present
-  in
-  modern node behavior?
+ Can ARM and RSA overlap cause a location to remain physically stable while
+ becoming
+ narratively suspicious?
+ Are old estate boundary practices embedded in the Siena Alpha lineage still present
+ in
+ modern node behavior?
 — How many current map-service anomalies are ARM artifacts rather than outside probes?
-  Can social-media swarm behavior overload a local ARM field faster than Civil Covert
-  can
-  redirect narrative?
-  What happens if ARM attempts to make an already famous site unremarkable after
-  exposure
-  has hardened?
+ Can social-media swarm behavior overload a local ARM field faster than Civil Covert
+ can
+ redirect narrative?
+ What happens if ARM attempts to make an already famous site unremarkable after
+ exposure
+ has hardened?
 
 ---
 
 - Node count, spacing standard, and per-node power draw have never been recorded for
-  any site.
+ any site.
 - Backup cell and node service life are unknown, so no replacement interval can
-  be set.
+ be set.
 - No measured relationship exists between node density and masking effectiveness.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            21/03/2026
-FILE LAST UPDATED:       18/04/2026
-FILE AUTHOR:             Engineering Division / Civil Covert Division Joint Desk
-REVIEWED BY:             Central Archive / Site Command Technical Board
-FILE STATUS:             ACTIVE / RESTRICTED
+FILE CREATED: 21/03/2026
+FILE LAST UPDATED: 18/04/2026
+FILE AUTHOR: Engineering Division / Civil Covert Division Joint Desk
+REVIEWED BY: Central Archive / Site Command Technical Board
+FILE STATUS: ACTIVE / RESTRICTED
 DESIGNATION HISTORY: TECH-ACT-002 assigned for individual Anti Reality Mesh system expansion under A.C.T-owned
 technology numbering
-RECORD CONDITION:        OPERATIONAL / MAIN A.C.T TECHNOLOGY RECORD
+RECORD CONDITION: OPERATIONAL / MAIN A.C.T TECHNOLOGY RECORD
 ```

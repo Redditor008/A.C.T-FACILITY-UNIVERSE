@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Human Resources, Artifact Review, White Grave, Site Command |
 | OPERATIONAL STATUS | ACTIVE / SCREENING-GATE / ASSIGNMENT-RESTRICTED |
 | RISK STATUS | CONTROLLED / PSYCHIC DISCLOSURE HAZARD |
-| CLEARANCE REQUIRED | Level 3 for screening operation; Level 4 for full PR-score access; Level 5 for<br>assignment override |
+| CLEARANCE REQUIRED | Level 3 for screening operation; Level 4 for full PR-score access; Level 5 for assignment override |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Personnel Screening Technology Record |
-| DISTRIBUTION | Personnel Screening / Medical / Human Resources / Artifact Review / White Grave /<br>Site Command |
+| DISTRIBUTION | Personnel Screening / Medical / Human Resources / Artifact Review / White Grave / Site Command |
 | AUTHORITY | Personnel Screening Desk, Medical Division, and Central Archive |
 
 #### Archive Note
@@ -333,4 +333,4 @@ to the wrong thing.
 - **Author Desk:** Personnel Screening Desk / Medical Division / Central Archive
 - **Review Status:** Active screening record; sensor composition and PR-score thresholds censored
 - **Next Review:** After any HPP-triggered activation, assignment override, scan contradiction, or score
-  privacy breach
+ privacy breach

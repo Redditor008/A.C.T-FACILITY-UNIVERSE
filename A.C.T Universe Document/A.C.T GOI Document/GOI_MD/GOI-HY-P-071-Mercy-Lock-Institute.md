@@ -17,15 +17,15 @@
 | KNOWN LEADERSHIP | Ward Governors, Lock Physicians, Quiet Engineers, Patient Advocates, and custody chaplains |
 | KNOWN MEMBERSHIP | Doctors, nurses, containment engineers, hospice staff, legal guardians, altered-person advocates, and ward guards |
 | PRIMARY ACTIVE REGION | Private clinics, long-term abnormal care wards, hidden hospices, custody houses, and low-violence containment beds |
-| KNOWN ASSETS | Gentle locks, consent ledgers, quiet rooms, soft restraints, ward keys, patient bells, shielded<br>ambulances, and clinics |
-| KNOWN HOLDINGS | Mercy wards, sealed hospices, patient houses, underground care basements, mobile care units, and<br>legal trust shells |
-| IDEOLOGY | Containment is justified only when it prevents harm while preserving the patient, witness, subject,<br>or resident as a<br>person rather than evidence |
+| KNOWN ASSETS | Gentle locks, consent ledgers, quiet rooms, soft restraints, ward keys, patient bells, shielded ambulances, and clinics |
+| KNOWN HOLDINGS | Mercy wards, sealed hospices, patient houses, underground care basements, mobile care units, and legal trust shells |
+| IDEOLOGY | Containment is justified only when it prevents harm while preserving the patient, witness, subject, or resident as a person rather than evidence |
 | HISTORY WITH A.C.T | Repeated cooperation through patient transfer, nonviolent entity custody, altered-person care, and ward consultation |
 | ANOMALY CROSS-REFERENCE | Restricted medical, hospice, restraint, altered-person, low-risk custody, legal guardianship, and transfer files |
 | CURRENT STATUS | ACTIVE - positive allied containment institution monitored |
 | PRIMARY FILE AUTHORITY | Medical Division / Containment / Subject Care / Legal |
 | SITE JURISDICTION | Central Command with Site 01, Site 02, and medical review |
-| CLEARANCE REQUIRED | Level 4; Level 5 for patient names, ward locations, living anomalies, custody failures, and<br>A.C.T transfer agreements |
+| CLEARANCE REQUIRED | Level 4; Level 5 for patient names, ward locations, living anomalies, custody failures, and A.C.T transfer agreements |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -492,18 +492,18 @@ explained in this dossier because they belong in separate technology or equipmen
 
 ### Persistent Questions
 
-  Does the First Key Table exist as a central board, founding ward, legal
-  trust,
-  or review ritual?
+ Does the First Key Table exist as a central board, founding ward, legal
+ trust,
+ or review ritual?
 — Which gentle locks are engineered devices and which are anomaly-derived artifacts?
 — How many residents are hidden from A.C.T because public exposure would endanger them?
 — Has Mercy Lock ever released a patient whose danger later exceeded its assessment?
 — Do consent ledgers resist NEMNOLIA-series amnestic effects or only ordinary record loss?
 — Which hostile GOIs have attempted to buy resident locations?
 — How many former A.C.T contractors work inside the Institute?
-  Can A.C.T create formal transfer protocols without turning Mercy Lock into an unofficial
-  A.C.T
-  ward system?
+ Can A.C.T create formal transfer protocols without turning Mercy Lock into an unofficial
+ A.C.T
+ ward system?
 
 ### Intelligence Confidence
 
@@ -537,9 +537,9 @@ substitute for resident-specific files.
 - GOI-CU-X-065 — Mercy of the Quiet Sun, Group of Interest Registry
 - Complete Designation and Class Reference, Archive Record
 - Standing Field Units and Cross-Containment Interaction Protocol, Archive Record
-  Restricted medical, hospice, restraint, altered-person, low-risk custody, legal guardianship, and transfer files
-  held
-  under Central Archive routing.
+ Restricted medical, hospice, restraint, altered-person, low-risk custody, legal guardianship, and transfer files
+ held
+ under Central Archive routing.
 
 ### Dual Filing
 
@@ -554,11 +554,11 @@ technology-document phase.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            08/03/2010
-FILE LAST UPDATED:       11/11/2025
-FILE AUTHOR:             Medical Division / Containment / Subject Care / Legal Joint Desk
-REVIEWED BY:             Central Archive
-FILE STATUS:             ACTIVE / RESTRICTED
-DESIGNATION HISTORY:     GOI-HY-P-071 assigned at creation for Mercy Lock Institute
-RECORD CONDITION:        OPERATIONAL
+FILE CREATED: 08/03/2010
+FILE LAST UPDATED: 11/11/2025
+FILE AUTHOR: Medical Division / Containment / Subject Care / Legal Joint Desk
+REVIEWED BY: Central Archive
+FILE STATUS: ACTIVE / RESTRICTED
+DESIGNATION HISTORY: GOI-HY-P-071 assigned at creation for Mercy Lock Institute
+RECORD CONDITION: OPERATIONAL
 ```

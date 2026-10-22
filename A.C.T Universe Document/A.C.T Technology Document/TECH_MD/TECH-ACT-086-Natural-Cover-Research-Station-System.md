@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Administration, Security, Watch Coordination, Research |
 | OPERATIONAL STATUS | ACTIVE / PUBLIC-FACING COVER USE |
 | RISK STATUS | COVER FATIGUE / BOUNDARY PENETRATION / FALSE ROUTINE RISK |
-| CLEARANCE REQUIRED | Level 2 for ordinary station function; Level 3 for boundary staff; Level 4 for<br>concealed-watch integration |
+| CLEARANCE REQUIRED | Level 2 for ordinary station function; Level 3 for boundary staff; Level 4 for concealed-watch integration |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Surface Cover Technology Record |
-| DISTRIBUTION | Station Management / Security / Administration / Watch Staff / Nusantara Deep Relay /<br>Ash Tide Watchpoint |
+| DISTRIBUTION | Station Management / Security / Administration / Watch Staff / Nusantara Deep Relay / Ash Tide Watchpoint |
 | AUTHORITY | Station Manager, Watch Chief, Nusantara Site Command, and Central Archive |
 
 #### Archive Note
@@ -298,7 +298,7 @@ daylight.
 - Which visitors should be redirected, delayed, or permitted under supervision?
 - Can ordinary maintenance contractors notice the same boundary pattern over time?
 - When does a research vessel become too useful to the buried watch to remain
-  ordinary?
+ ordinary?
 - Should public station communications ever carry concealed timing cues?
 - How long can a real station support hidden work without its staff becoming divided?
 - How much published output is needed to keep academic attention satisfied?
@@ -312,6 +312,6 @@ daylight.
 - **Created:** 1906-02-21
 - **Author Desk:** Station Manager / Watch Chief / Central Archive
 - **Review Status:** Active surface cover record; station legal identity, visitor lists, transition
-  schedules, and boundary controls censored
+ schedules, and boundary controls censored
 - **Next Review:** After any cover incident, visitor breach attempt, paperwork mismatch, vessel-pattern
-  concern, boundary exposure, or silent withdrawal event
+ concern, boundary exposure, or silent withdrawal event

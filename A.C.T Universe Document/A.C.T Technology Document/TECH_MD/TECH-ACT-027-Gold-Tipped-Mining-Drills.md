@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Materials Custody, Recovery, Site Infrastructure, Medical |
 | OPERATIONAL STATUS | ACTIVE / RESTRICTED / GOLD-CONSUMING TOOLCHAIN |
 | RISK STATUS | CONTROLLED / HAZARDOUS IF MISALIGNED OR CONTAMINATED |
-| CLEARANCE REQUIRED | Level 4 for operation; Level 5 for Dark World architecture, Pale Wood modification plans,<br>and recovered core samples |
+| CLEARANCE REQUIRED | Level 4 for operation; Level 5 for Dark World architecture, Pale Wood modification plans, and recovered core samples |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -181,7 +181,7 @@ moment anomalous resistance begins.
 - Do not continue on density singing, hollow agreement, childlike knocking, or impossible silence.
 - Do not expose the surrounding structure to unreviewed dust.
 - Do not remove material from Pale Wood without understanding its load or boundary
-  function.
+ function.
 - Do not treat a successful hole as a stable hole.
 - Weakest once the bit loses gold contact.
 - Weakest where Dark World Survey has not approved the target.
@@ -327,7 +327,7 @@ yes.
 ## OPEN QUESTIONS
 
 - How thick is the gold plating, and how many metres of Pale Wood does
-  one bit survive?
+ one bit survive?
 - What does the acoustic disc classify as hollow agreement, and who interprets the tone?
 - How is Pale Wood dust decontaminated once it has settled on ordinary surfaces?
 
@@ -339,4 +339,4 @@ yes.
 - **Author Desk:** Engineering Division / Dark World Survey Desk / Materials Custody / Central Archive
 - **Review Status:** Active restricted record; gold-bit and architecture plans censored
 - **Next Review:** After any gold wear-through, dust leak, hollow agreement reading, or unauthorized
-  Pale Wood modification
+ Pale Wood modification

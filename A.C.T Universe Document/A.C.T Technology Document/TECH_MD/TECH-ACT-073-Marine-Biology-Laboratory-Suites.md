@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Containment, Medical, Recovery, Security |
 | OPERATIONAL STATUS | ACTIVE / MARITIME HOLDING STUDY USE |
 | RISK STATUS | BIOLOGICAL EXPOSURE / SAMPLE ESCAPE / WATER-CONTROL RISK |
-| CLEARANCE REQUIRED | Level 3 for ordinary suite maintenance; Level 4 for live anomaly samples, resident-derived tissues,<br>or void cases |
+| CLEARANCE REQUIRED | Level 3 for ordinary suite maintenance; Level 4 for live anomaly samples, resident-derived tissues, or void cases |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -317,6 +317,6 @@ history.
 - **Created:** 1914-04-04
 - **Author Desk:** Research Division / Floor Research Chief / Central Archive
 - **Review Status:** Active laboratory-suite record; live specimen protocols and resident-specific
-  formulas censored
+ formulas censored
 - **Next Review:** After any sample escape, biological exposure, F-3 regimen change, Sonar Void specimen
-  finding, drainage alarm, or live-resident study event
+ finding, drainage alarm, or live-resident study event

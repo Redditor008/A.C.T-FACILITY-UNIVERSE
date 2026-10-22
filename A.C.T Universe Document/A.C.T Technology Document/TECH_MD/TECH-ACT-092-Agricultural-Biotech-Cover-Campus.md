@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Cover Research Staff, Administration, Security, Medical |
 | OPERATIONAL STATUS | ACTIVE / PUBLIC-FACING COVER USE |
 | RISK STATUS | COVER SCRUTINY / RESEARCH INCONSISTENCY / LOGISTICS RISK |
-| CLEARANCE REQUIRED | Level 2 for legitimate campus work; Level 3 for boundary staff; Level 4 for<br>buried-relay integration |
+| CLEARANCE REQUIRED | Level 2 for legitimate campus work; Level 3 for boundary staff; Level 4 for buried-relay integration |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Cover Campus Technology Record |
-| DISTRIBUTION | Glass Orchard Relay / Redwood Veil Complex / Campus Administration / Security / Cover<br>Research Staff |
+| DISTRIBUTION | Glass Orchard Relay / Redwood Veil Complex / Campus Administration / Security / Cover Research Staff |
 | AUTHORITY | Campus Manager, Sub-Site Chief, Redwood Veil Site Command, and Central Archive |
 
 #### Archive Note
@@ -304,6 +304,6 @@ alive.
 - **Created:** 1995-11-10
 - **Author Desk:** Campus Manager / Sub-Site Chief / Central Archive
 - **Review Status:** Active agricultural cover record; legal identity, vendor lists, crop lines,
-  transition links, and delivery exceptions censored
+ transition links, and delivery exceptions censored
 - **Next Review:** After any cover audit, visitor challenge, crop-record mismatch, delivery anomaly,
-  laboratory scrutiny, or boundary exposure event
+ laboratory scrutiny, or boundary exposure event

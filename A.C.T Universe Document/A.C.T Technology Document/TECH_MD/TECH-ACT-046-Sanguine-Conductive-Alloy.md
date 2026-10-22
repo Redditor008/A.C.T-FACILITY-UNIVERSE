@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Medical, Biological Containment, Data Security, O5 Review |
 | OPERATIONAL STATUS | ACTIVE / RESTRICTED / BLOOD-CONTACT CONTROLLED |
 | RISK STATUS | HAZARDOUS / BIOLOGICAL DATA AND CONTAMINATION HAZARD |
-| CLEARANCE REQUIRED | Level 4 for handling; Level 5 for live-blood interface, subject-linked data transfer, and<br>alloy-network testing |
+| CLEARANCE REQUIRED | Level 4 for handling; Level 5 for live-blood interface, subject-linked data transfer, and alloy-network testing |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Anomalous Material Technology Record |
-| DISTRIBUTION | Materials Custody / Medical Engineering / Medical / Biological Containment / Data Security /<br>O5 Review |
+| DISTRIBUTION | Materials Custody / Medical Engineering / Medical / Biological Containment / Data Security / O5 Review |
 | AUTHORITY | Materials Custody, Medical Engineering Desk, and Central Archive |
 
 #### Archive Note
@@ -332,6 +332,6 @@ result anonymous.
 - **Created:** 2026-04-12
 - **Author Desk:** Materials Custody / Medical Engineering Desk / Central Archive
 - **Review Status:** Active anomalous material record; micro-vein composition and biological decoding
-  methods censored
+ methods censored
 - **Next Review:** After any cross-sample contamination, LED anomaly, anchor-adjacent denial appeal, or
-  unauthorized data bridge discovery
+ unauthorized data bridge discovery

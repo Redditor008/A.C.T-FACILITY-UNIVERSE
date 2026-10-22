@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Recovery, Field Command, Medical, Training, Security |
 | OPERATIONAL STATUS | ACTIVE / RESTRICTED ISSUE / OPERATOR-BONDED |
 | RISK STATUS | CONTROLLED / HAZARDOUS IF TIMING, FEEDBACK, OR USER FAILS |
-| CLEARANCE REQUIRED | Level 3 for bonded operators; Level 4 for capacitor tuning, combat deployment, and anomaly-contact<br>parry authorization |
+| CLEARANCE REQUIRED | Level 3 for bonded operators; Level 4 for capacitor tuning, combat deployment, and anomaly-contact parry authorization |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -190,7 +190,7 @@ survive the transferred stress.
 - Do not rely on the success ding alone after a high-force event.
 - Weakest against sustained crushing, fluid engulfment, heat, acid, infection, and psychic attack.
 - Weakest against attacks with no defined impact, or that split into several weak
-  contacts.
+ contacts.
 - Weakest against entities that learn the operator's rhythm.
 
 Parry window duration, deflection ceiling, and unit mass are not recorded in this file.
@@ -340,10 +340,10 @@ you.
 ## OPEN QUESTIONS
 
 - What is the measured parry window in milliseconds, and does it vary by operator
-  or by threat class?
+ or by threat class?
 - What is the deflection energy ceiling before transferred stress exceeds operator tolerance?
 - How many capacitor cycles are rated, and what replaces the unit at the end
-  of them?
+ of them?
 
 ---
 
@@ -353,4 +353,4 @@ you.
 - **Author Desk:** Tactical Engineering / Medical Prosthetics Desk / Field Command / Central Archive
 - **Review Status:** Active restricted record; capacitor tuning and parry timing censored
 - **Next Review:** After any false success signal, operator feedback injury, anomaly-contact parry, or
-  bonded-unit retirement
+ bonded-unit retirement

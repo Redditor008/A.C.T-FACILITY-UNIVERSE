@@ -12,7 +12,7 @@
 | PRIMARY A.C.T REVIEW | Legal Division / Medical / Subject Care / Intelligence |
 | OPERATIONAL STATUS | RESTRICTED JOINT-TRANSFER USE / PARTIAL ACCESS |
 | RISK STATUS | CONSENT MISREAD / IDENTITY DRIFT / UNLAWFUL DETENTION |
-| CLEARANCE REQUIRED | Level 4; Level 5 for living patient identities, disputed guardianship, ledger anomaly, and ward<br>location links |
+| CLEARANCE REQUIRED | Level 4; Level 5 for living patient identities, disputed guardianship, ledger anomaly, and ward location links |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -297,15 +297,15 @@ only the danger they produce.
 
 ## OPEN QUESTIONS
 
-  Do Mercy Lock consent ledgers resist anomalous memory alteration or only ordinary bureaucratic
-  loss?
-  Does the First Key Table approve disputed custody, or only review it after
-  harm
-  occurs?
+ Do Mercy Lock consent ledgers resist anomalous memory alteration or only ordinary bureaucratic
+ loss?
+ Does the First Key Table approve disputed custody, or only review it after
+ harm
+ occurs?
 - Can A.C.T use ledger status markers without importing Mercy Lock legal doctrine wholesale?
 - How often do forbidden names become containment triggers?
-  Which ledger fields are safe to copy into A.C.T files without exposing ward
-  locations?
+ Which ledger fields are safe to copy into A.C.T files without exposing ward
+ locations?
 - Can hostile GOIs forge a consent ledger convincingly enough to hide private imprisonment?
 
 ### Intelligence Confidence
@@ -320,12 +320,12 @@ variation.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            28/06/1901
-FILE LAST UPDATED:       05/05/1920
-FILE AUTHOR:             Legal Division / Medical / Subject Care / Intelligence Joint Desk
-REVIEWED BY:             Central Archive
-FILE STATUS:             ACTIVE / RESTRICTED
+FILE CREATED: 28/06/1901
+FILE LAST UPDATED: 05/05/1920
+FILE AUTHOR: Legal Division / Medical / Subject Care / Intelligence Joint Desk
+REVIEWED BY: Central Archive
+FILE STATUS: ACTIVE / RESTRICTED
 DESIGNATION HISTORY: TECH-GOI-071-3 assigned for Mercy Lock Institute third registered technology under GOI-linked
 technology numbering
-RECORD CONDITION:        OPERATIONAL / PARTIAL LEDGER ACCESS
+RECORD CONDITION: OPERATIONAL / PARTIAL LEDGER ACCESS
 ```

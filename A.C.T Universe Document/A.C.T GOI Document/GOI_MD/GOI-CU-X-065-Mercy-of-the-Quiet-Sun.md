@@ -17,20 +17,20 @@
 | KNOWN LEADERSHIP | Mercy Readers, Noon Nurses, Quiet Cantors, and an unverified figure called the Warm Witness |
 | KNOWN MEMBERSHIP | End-believers, grief nurses, sedation handlers, hospice volunteers, failed-rescue survivors, and quieting families |
 | PRIMARY ACTIVE REGION | Transnational hospice routes, post-disaster shelters, closed clinics, care homes, survivor wards, and retreat sites |
-| KNOWN ASSETS | Quiet-sun liturgies, sedation teas, noon-room curtains, surrender cards, lull clocks, mercy ledgers,<br>and sleep rites |
+| KNOWN ASSETS | Quiet-sun liturgies, sedation teas, noon-room curtains, surrender cards, lull clocks, mercy ledgers, and sleep rites |
 | KNOWN HOLDINGS | Clinic-chapels, hospice rooms, retreat houses, white vans, sealed medicine cupboards, and quiet-noon wards |
-| IDEOLOGY | If the end cannot be stopped, the final duty is to remove terror, pain,<br>memory panic, and the violence of false hope |
+| IDEOLOGY | If the end cannot be stopped, the final duty is to remove terror, pain, memory panic, and the violence of false hope |
 | HISTORY WITH A.C.T | Repeated conflict over evacuation refusal, mass sedation, survivor disappearance, rescue obstruction, and mercy rites |
 | ANOMALY CROSS-REFERENCE | Restricted apocalypse, sedation, hospice, surrender, post-disaster, amnestic, and survivor-care case chains |
 | CURRENT STATUS | ACTIVE - negative apocalypse-mercy sect under containment |
 | PRIMARY FILE AUTHORITY | Intelligence Division / Medical Division / Subject Care |
 | SITE JURISDICTION | Central Command with Site 03, Site 05, and case Site review |
-| CLEARANCE REQUIRED | Level 4; Level 5 for active quieting formulae, child shelter cases, Warm Witness material,<br>and mass-rite records |
+| CLEARANCE REQUIRED | Level 4; Level 5 for active quieting formulae, child shelter cases, Warm Witness material, and mass-rite records |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Restricted Record |
-| DISTRIBUTION | Intelligence / Medical / Subject Care / Recovery / Containment / Civil Covert /<br>Command |
+| DISTRIBUTION | Intelligence / Medical / Subject Care / Recovery / Containment / Civil Covert / Command |
 | AUTHORITY | Intelligence Division, Medical Division, Subject Care Division, and Central Archive |
 
 #### Archive Note
@@ -133,9 +133,9 @@ Witness mark show stronger recruitment effect and are held at Level 5.
 
 A.C.T assessment identifies these functional layers:
 
-  mercy readers who decide whether a crisis is classified by the sect as
-  avoidable,
-  delayable, or gentle-ending;
+ mercy readers who decide whether a crisis is classified by the sect as
+ avoidable,
+ delayable, or gentle-ending;
 — noon nurses who prepare teas, injections, wraps, and room conditions;
 — quiet cantors who lead sedation chants, breathing sequences, and surrender hymns;
 — sleep wardens who prevent frightened members from leaving before the rite ends;
@@ -448,17 +448,17 @@ resentment toward rescue recovery.
 
 ### Confirmed Operational Facts
 
-  Mercy of the Quiet Sun is an outside cultic apocalypse-mercy sect and not
-  an
-  A.C.T body.
+ Mercy of the Quiet Sun is an outside cultic apocalypse-mercy sect and not
+ an
+ A.C.T body.
 — The sect operates through care, hospice, shelter, and retreat channels.
 — Its rites and substances can reduce panic while undermining evacuation and consent.
-  The group has obstructed A.C.T, Grey Harbor, and other rescue efforts during active
-  danger.
-  The sect's operational relationship to A.C.T is negative because it encourages surrender where
-  containment
-  requires
-  survival action.
+ The group has obstructed A.C.T, Grey Harbor, and other rescue efforts during active
+ danger.
+ The sect's operational relationship to A.C.T is negative because it encourages surrender where
+ containment
+ requires
+ survival action.
 
 ### Active Intelligence Assessment
 
@@ -480,13 +480,13 @@ be merged.
 ### Persistent Questions
 
 - Who or what is the Warm Witness?
-  Are quieting effects produced primarily by substances, hymn cadence, room light, grief state,
-  or
-  combined ritual
-  conditions?
+ Are quieting effects produced primarily by substances, hymn cadence, room light, grief state,
+ or
+ combined ritual
+ conditions?
 - How many clinic-chapels operate under legitimate hospice licenses?
-  Has the sect ever correctly identified a truly nonrecoverable event before A.C.T confirmed
-  it?
+ Has the sect ever correctly identified a truly nonrecoverable event before A.C.T confirmed
+ it?
 - Do Noon Nurses have medical training, anomalous training, or both?
 - What happens to persons listed in mercy ledgers as fully quieted?
 - Has the sect infiltrated public disaster shelters through ordinary volunteer channels?
@@ -523,9 +523,9 @@ survivor medical review or criminal responsibility assessment for active operato
 - Normalcy Management and Public Narrative Doctrine, Archive Record
 - AMNESTIC ADMINISTRATION AND MEMORY-AFTERCARE REVIEW FORM, Operational Form
 - WITNESS STATEMENT AND TESTIMONY FORM, Operational Form
-  Restricted apocalypse, sedation, hospice, surrender, post-disaster, amnestic, and survivor-care case chains held
-  under
-  Central Archive routing.
+ Restricted apocalypse, sedation, hospice, surrender, post-disaster, amnestic, and survivor-care case chains held
+ under
+ Central Archive routing.
 
 ### Dual Filing
 
@@ -541,11 +541,11 @@ remains active after removal from the clinic-chapel environment.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            12/04/2000
-FILE LAST UPDATED:       06/02/2007
-FILE AUTHOR:             Intelligence Division / Medical Division / Subject Care Joint Desk
-REVIEWED BY:             Site 03 Review and Central Archive
-FILE STATUS:             ACTIVE / RESTRICTED
-DESIGNATION HISTORY:     GOI-CU-X-065 assigned at creation for Mercy of the Quiet Sun
-RECORD CONDITION:        OPERATIONAL
+FILE CREATED: 12/04/2000
+FILE LAST UPDATED: 06/02/2007
+FILE AUTHOR: Intelligence Division / Medical Division / Subject Care Joint Desk
+REVIEWED BY: Site 03 Review and Central Archive
+FILE STATUS: ACTIVE / RESTRICTED
+DESIGNATION HISTORY: GOI-CU-X-065 assigned at creation for Mercy of the Quiet Sun
+RECORD CONDITION: OPERATIONAL
 ```

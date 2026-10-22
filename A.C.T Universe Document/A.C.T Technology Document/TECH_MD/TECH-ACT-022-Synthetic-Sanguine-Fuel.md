@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Logistics, Engineering, Transformation, Site Command |
 | OPERATIONAL STATUS | ACTIVE / CONTROLLED STOCK / TEMPERATURE-DEPENDENT |
 | RISK STATUS | CONTROLLED / HAZARDOUS IF CONTAMINATED OR MISFED |
-| CLEARANCE REQUIRED | Level 3 for issue; Level 4 for formula, pump calibration, subject-specific mixture, and blood-fuel<br>dependency review |
+| CLEARANCE REQUIRED | Level 3 for issue; Level 4 for formula, pump calibration, subject-specific mixture, and blood-fuel dependency review |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -174,7 +174,7 @@ event.
 
 - Do not pour manually unless the subject file explicitly allows it.
 - Do not offer fuel as a reward unless the file defines feeding as
-  therapy.
+ therapy.
 - Do not switch to live feed immediately after a refusal.
 - Do not use a line that carried a previous subject.
 - Weakest against subjects requiring a named victim, fear, or a living heartbeat.
@@ -315,7 +315,7 @@ demands a victim, SSF may become a lie it resents.
 
 - What mixture bands exist, and how is a band assigned to a subject class?
 - What is the shelf life of a sealed canister, and what does early microbial
-  bloom look like?
+ bloom look like?
 - Which subject classes require identity in blood rather than biological chemistry?
 
 ---
@@ -326,4 +326,4 @@ demands a victim, SSF may become a lie it resents.
 - **Author Desk:** Medical Division / Biological Containment Division / Central Archive
 - **Review Status:** Active restricted record; formula and subject-mix details censored
 - **Next Review:** After any refusal cluster, contaminated line event, supply-chain failure, or
-  predatory behavior shift
+ predatory behavior shift

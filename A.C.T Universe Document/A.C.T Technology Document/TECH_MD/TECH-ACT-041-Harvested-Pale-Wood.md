@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Engineering, Medical, White Grave, Site Infrastructure |
 | OPERATIONAL STATUS | ACTIVE / HARVEST-RESTRICTED / GOLD-VULNERABLE |
 | RISK STATUS | HAZARDOUS / DIMENSIONAL MATERIAL AND DUST-CUSTODY HAZARD |
-| CLEARANCE REQUIRED | Level 4 for handling; Level 5 for harvest authorization, structural use, and gold-tool modification<br>plans |
+| CLEARANCE REQUIRED | Level 4 for handling; Level 5 for harvest authorization, structural use, and gold-tool modification plans |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Anomalous Material Technology Record |
-| DISTRIBUTION | Materials Custody / Dark World Survey / Engineering / Medical / White Grave /<br>Site Infrastructure |
+| DISTRIBUTION | Materials Custody / Dark World Survey / Engineering / Medical / White Grave / Site Infrastructure |
 | AUTHORITY | Materials Custody, Dark World Survey, Engineering Division, and Central Archive |
 
 #### Archive Note
@@ -179,7 +179,7 @@ contamination events.
 ### Handling And Personnel Limits
 
 - Do not approach the timber with a gold tool before a written plan
-  exists.
+ exists.
 - Do not weigh gold tools only after the cut.
 - Do not allow moisture, open water, or wet cleaning in the work zone.
 - Do not store dust with ordinary waste.
@@ -338,6 +338,6 @@ the tree became a plank.
 - **Created:** 2025-11-06
 - **Author Desk:** Materials Custody / Dark World Survey / Central Archive
 - **Review Status:** Active anomalous material record; harvest map and gold-tool vulnerability details
-  censored
+ censored
 - **Next Review:** After any harvest, dust leak, gold-tool discrepancy, structural installation, or
-  unexplained HPW behavior
+ unexplained HPW behavior

@@ -17,7 +17,7 @@
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Restricted Archive Technology Record |
-| DISTRIBUTION | Central Archive / Seismic Analysis / Security / Nusantara Deep Relay / Restricted Review<br>Chain |
+| DISTRIBUTION | Central Archive / Seismic Analysis / Security / Nusantara Deep Relay / Restricted Review Chain |
 | AUTHORITY | Central Archive, Restricted Review Chain, and Nusantara Site Command |
 
 #### Archive Note
@@ -306,7 +306,7 @@ RRV doctrine holds that secrecy is only useful when it remains accountable.
 - Should emergency openings automatically trigger medical or cognitive aftercare for readers?
 - Can QNB preservation maintain a seal state during causal drift without exposing content?
 - When should a restricted record be treated as a contained resident rather than a
-  file?
+ file?
 - How many files are held under partial seal, and what review do they await?
 - What is the normal review turnaround for a downgrade request?
 - How long may an escorted reading session run before it must close?
@@ -318,6 +318,6 @@ RRV doctrine holds that secrecy is only useful when it remains accountable.
 - **Created:** 1909-05-05
 - **Author Desk:** Central Archive / Restricted Review Chain / Nusantara Deep Relay
 - **Review Status:** Active restricted-vault record; vault maps, live seal states, file names, and
-  authorization keys censored
+ authorization keys censored
 - **Next Review:** After any unauthorized access attempt, partial opening, emergency file release,
-  seal-state mismatch, reclassification action, or QNB custody disagreement
+ seal-state mismatch, reclassification action, or QNB custody disagreement

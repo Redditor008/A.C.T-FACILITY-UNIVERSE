@@ -6,7 +6,7 @@
 | GOI DESIGNATION | GOI-CP-W-055 |
 | COMMON NAME | Cairn & Lintel |
 | SHORT NAME | C&L |
-| KNOWN ALIASES | Cairn and Lintel; C-L Shelterworks; Old Door Relief; The Lintel Company; [CENSOR: MUNICIPAL CONTRACT<br>NAME] |
+| KNOWN ALIASES | Cairn and Lintel; C-L Shelterworks; Old Door Relief; The Lintel Company; [CENSOR: MUNICIPAL CONTRACT NAME] |
 | NATURE CLASS | CORPORATE |
 | ALIGNMENT CLASS | WORK |
 | REACH CLASS | TRANSNATIONAL |
@@ -17,9 +17,9 @@
 | KNOWN LEADERSHIP | Board identity restricted; local projects answer to named Foremen of Threshold and Shelter Wardens |
 | KNOWN MEMBERSHIP | Architects, masons, structural engineers, municipal contractors, shelter keepers, route surveyors, and locksmiths |
 | PRIMARY ACTIVE REGION | Disaster-prone cities, breach-adjacent districts, unstable housing blocks, hospitals, schools, tunnels, and shelters |
-| KNOWN ASSETS | Protected buildings, threshold stones, emergency corridors, impossible rooms, shelter keys,<br>construction records, and sealed floor plans |
-| KNOWN HOLDINGS | Front construction firms, municipal contracts, repair yards, shelter houses, old-work depots, and<br>unregistered stairwells |
-| IDEOLOGY | A door is a promise; shelter must hold even when the map, street, or<br>sky fails |
+| KNOWN ASSETS | Protected buildings, threshold stones, emergency corridors, impossible rooms, shelter keys, construction records, and sealed floor plans |
+| KNOWN HOLDINGS | Front construction firms, municipal contracts, repair yards, shelter houses, old-work depots, and unregistered stairwells |
+| IDEOLOGY | A door is a promise; shelter must hold even when the map, street, or sky fails |
 | HISTORY WITH A.C.T | Repeated field cooperation during spatial collapse, breach evacuation, unsafe housing, and impossible-access incidents |
 | ANOMALY CROSS-REFERENCE | Restricted building, shelter, tunnel, hospital, school, and evacuation-route case chains |
 | CURRENT STATUS | ACTIVE - monitored working infrastructure network |
@@ -134,25 +134,25 @@ Door Ledger offices.
 
 A.C.T identifies several recurring layers:
 
-  threshold architects who design doors, stairwells, and exits able to remain coherent during
-  abnormal
-  spatial stress;
-  stone crews who place cairn markers, anchor blocks, wall bones, and sealed corner
-  weights;
+ threshold architects who design doors, stairwells, and exits able to remain coherent during
+ abnormal
+ spatial stress;
+ stone crews who place cairn markers, anchor blocks, wall bones, and sealed corner
+ weights;
 — shelter wardens who manage inhabited protected spaces and refuse unsafe entry;
-  municipal contract handlers who acquire legal access to roads, schools, tunnels, hospitals, and
-  housing
-  blocks;
-  emergency-key offices that issue keys, knock patterns, or route phrases for one incident
-  only;
+ municipal contract handlers who acquire legal access to roads, schools, tunnels, hospitals, and
+ housing
+ blocks;
+ emergency-key offices that issue keys, knock patterns, or route phrases for one incident
+ only;
 — blueprint keepers who maintain paper plans that disagree with public records;
-  old-work depots that store salvaged doors, hinges, lintels, stair railings, and bricks from
-  prior
-  anomaly sites;
-  red-line reviewers who decide when a building must be closed, abandoned, hidden, or
-  allowed
-  to keep sheltering
-  civilians.
+ old-work depots that store salvaged doors, hinges, lintels, stair railings, and bricks from
+ prior
+ anomaly sites;
+ red-line reviewers who decide when a building must be closed, abandoned, hidden, or
+ allowed
+ to keep sheltering
+ civilians.
 
 This structure establishes the group as a real institution. A single impossible building would
 not be a GOI. A network
@@ -233,8 +233,8 @@ with predictable abnormal properties. Confirmed or strongly assessed capabilitie
 - hospital corridors that preserve route continuity between operating rooms and exits;
 - service doors that open only when an authorized shelter count is incomplete;
 - wall sections that muffle predatory sound phenomena;
-  school safe rooms that disappear from hostile pursuit but remain accessible to listed
-  children;
+ school safe rooms that disappear from hostile pursuit but remain accessible to listed
+ children;
 - tunnel markers that prevent rescue crews from returning to the entrance without evacuees.
 
 The group is not assessed as full Structural capability. It does not appear to
@@ -473,17 +473,17 @@ this view as general policy but allows case-by-case Subject Care review.
 
 ### Confirmed Operational Facts
 
-  Cairn & Lintel is an outside corporate infrastructure network and not an A.C.T
-  engineering
-  program.
-  The group has repeatedly produced or maintained structures that assisted evacuation, shelter, or
-  route
-  stability
-  during abnormal incidents.
+ Cairn & Lintel is an outside corporate infrastructure network and not an A.C.T
+ engineering
+ program.
+ The group has repeatedly produced or maintained structures that assisted evacuation, shelter, or
+ route
+ stability
+ during abnormal incidents.
 — Its marks, contracts, and route instructions appear across separate jurisdictions.
 — The group possesses engineering knowledge sufficient to build localized anomalous structural protections.
-  The group withholds complete plans, leadership identity, and the locations of some occupied
-  shelters.
+ The group withholds complete plans, leadership identity, and the locations of some occupied
+ shelters.
 
 ### Active Intelligence Assessment
 
@@ -500,22 +500,22 @@ belief can save lives and still obstruct A.C.T command.
 
 ### Persistent Questions
 
-  Who controls the central old-work depots, and how many contain materials recovered from
-  prior
-  anomaly sites?
-  Can Cairn & Lintel predict which neighborhoods will require protected architecture, or does
-  it
-  respond to signs
-  already present in the built environment?
+ Who controls the central old-work depots, and how many contain materials recovered from
+ prior
+ anomaly sites?
+ Can Cairn & Lintel predict which neighborhoods will require protected architecture, or does
+ it
+ respond to signs
+ already present in the built environment?
 — Why do some lintels taken from demolished buildings retain route memory after relocation?
-  Has the group ever built a shelter that refused entry to A.C.T personnel
-  while
-  accepting civilians?
+ Has the group ever built a shelter that refused entry to A.C.T personnel
+ while
+ accepting civilians?
 — What does the phrase **ROOM KEPT** mean in post-incident invoices?
 — Are some municipal officials aware that Cairn & Lintel contracts involve anomalous infrastructure?
-  How many occupied shelters are currently hidden from A.C.T because the group considers
-  disclosure
-  unsafe?
+ How many occupied shelters are currently hidden from A.C.T because the group considers
+ disclosure
+ unsafe?
 
 ### Intelligence Confidence
 
@@ -546,9 +546,9 @@ hazard review.
 - Site Map and Jurisdiction Doctrine, Archive Record
 - Site Doctrine, Site Classification, and Installation Structure, Archive Record
 - Normalcy Management and Public Narrative Doctrine, Archive Record
-  Restricted building, shelter, tunnel, hospital, school, and evacuation-route case chains held under Central
-  Archive
-  routing.
+ Restricted building, shelter, tunnel, hospital, school, and evacuation-route case chains held under Central
+ Archive
+ routing.
 
 ### Dual Filing
 
@@ -565,11 +565,11 @@ space not represented on ordinary maps.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            15/06/1952
-FILE LAST UPDATED:       08/12/1968
-FILE AUTHOR:             Intelligence Division / Recovery Division / Civil Covert Joint Desk
-REVIEWED BY:             Central Archive
-FILE STATUS:             ACTIVE / RESTRICTED
-DESIGNATION HISTORY:     GOI-CP-W-055 assigned at creation for Cairn & Lintel
-RECORD CONDITION:        OPERATIONAL
+FILE CREATED: 15/06/1952
+FILE LAST UPDATED: 08/12/1968
+FILE AUTHOR: Intelligence Division / Recovery Division / Civil Covert Joint Desk
+REVIEWED BY: Central Archive
+FILE STATUS: ACTIVE / RESTRICTED
+DESIGNATION HISTORY: GOI-CP-W-055 assigned at creation for Cairn & Lintel
+RECORD CONDITION: OPERATIONAL
 ```

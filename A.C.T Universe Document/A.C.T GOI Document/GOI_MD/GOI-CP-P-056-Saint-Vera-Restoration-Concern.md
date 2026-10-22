@@ -15,22 +15,22 @@
 | SECRECY RISK | LEAKING |
 | A.C.T POSTURE | COOPERATED / MONITOR / HELP / APPROPRIATE |
 | KNOWN LEADERSHIP | Charitable board and surgical directorate unresolved; named physicians use sealed restoration licenses |
-| KNOWN MEMBERSHIP | Surgeons, restoration technicians, trauma nurses, prosthetic makers, record advocates, mobile-clinic<br>drivers, and donors |
+| KNOWN MEMBERSHIP | Surgeons, restoration technicians, trauma nurses, prosthetic makers, record advocates, mobile-clinic drivers, and donors |
 | PRIMARY ACTIVE REGION | Transnational post-incident care routes, blackout clinics, shelters, hospitals, refugee corridors, and private wards |
-| KNOWN ASSETS | Restoration theaters, mobile clinics, memory-sensitive consent forms, living prosthetics, tissue<br>stabilizers, and sealed patient ledgers |
-| KNOWN HOLDINGS | Front clinics, charitable recovery houses, ambulance routes, aftercare hostels, surgical supply<br>caches, and cold ledgers |
+| KNOWN ASSETS | Restoration theaters, mobile clinics, memory-sensitive consent forms, living prosthetics, tissue stabilizers, and sealed patient ledgers |
+| KNOWN HOLDINGS | Front clinics, charitable recovery houses, ambulance routes, aftercare hostels, surgical supply caches, and cold ledgers |
 | IDEOLOGY | Survival should include dignity; a changed body is not automatically failed, contaminated, or disposable |
 | HISTORY WITH A.C.T | Repeated discovery through survivors treated after A.C.T or non-A.C.T anomaly incidents |
 | ANOMALY CROSS-REFERENCE | Restricted transformation, injury-restoration, altered-body, amnestic-aftercare, and E-Class review chains |
 | CURRENT STATUS | ACTIVE - monitored positive medical-corporate network |
 | PRIMARY FILE AUTHORITY | Medical Division / Subject Care Division / Intelligence |
 | SITE JURISDICTION | Central Command with Site-specific medical transfer review |
-| CLEARANCE REQUIRED | Level 4; Level 5 for patient names, surgical source records, failed restorations, and E-Class<br>linked cases |
+| CLEARANCE REQUIRED | Level 4; Level 5 for patient names, surgical source records, failed restorations, and E-Class linked cases |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Restricted Record |
-| DISTRIBUTION | Medical / Subject Care / Intelligence / Recovery / Containment / Civil Covert /<br>Command |
+| DISTRIBUTION | Medical / Subject Care / Intelligence / Recovery / Containment / Civil Covert / Command |
 | AUTHORITY | Medical Division, Subject Care Division, Intelligence Division, and Central Archive |
 
 #### Archive Note
@@ -137,16 +137,16 @@ A.C.T assessment identifies these functional layers:
 - restoration theaters that perform high-risk surgical and anomalous reconstruction;
 - trauma wards that stabilize survivors before identity or classification review;
 - prosthetic studios that build living, remembered, or sensation-bearing replacement devices;
-  consent advocates who document what a patient wants before amnestics, sedation, or custody
-  transfer;
+ consent advocates who document what a patient wants before amnestics, sedation, or custody
+ transfer;
 - mobile clinic routes that reach shelters, rural hospitals, and post-breach neighborhoods;
-  cold ledger offices that preserve names of patients officially recorded as dead or
-  missing;
+ cold ledger offices that preserve names of patients officially recorded as dead or
+ missing;
 - refusal boards that deny procedures considered exploitative, cosmetic, coercive, or unsafe;
-  donor and material channels that acquire tissue, glass, thread, bone substitute, nerve media,
-  and
-  unknown restoration
-  compounds.
+ donor and material channels that acquire tissue, glass, thread, bone substitute, nerve media,
+ and
+ unknown restoration
+ compounds.
 
 This structure separates the Concern from a secret hospital. It is a corporate and
 charitable medical network with
@@ -225,8 +225,8 @@ Saint-Vera is assigned **Engineering** capability because it repeatedly produces
 procedures, and materials not explainable by ordinary medicine. Confirmed or strongly assessed capabilities include:
 
 - prosthetic limbs that restore sensation using memory-linked nerve media;
-  voice grafts for patients whose original speech was consumed or forbidden by anomalous
-  exposure;
+ voice grafts for patients whose original speech was consumed or forbidden by anomalous
+ exposure;
 - glass ocular implants that filter hostile visual residues without full blindness;
 - skin-thread stabilization for symbol burns that reopen under spoken triggers;
 - scar locks that prevent transformation spread past a chosen boundary;
@@ -291,10 +291,10 @@ Known or assessed assets include:
 - rehabilitation houses for patients unable to return home immediately;
 - donor channels for rare tissue substitutes and unknown compounds;
 - sealed failure archives marked **DO NOT CALL THIS MERCY**;
-  patient escorts trained to resist unlawful seizure by police, private collectors, hostile GOIs,
-  and
-  containment
-  rivals.
+ patient escorts trained to resist unlawful seizure by police, private collectors, hostile GOIs,
+ and
+ containment
+ rivals.
 
 A.C.T has recovered small tool kits and incomplete patient cards but no full surgical
 manual. Medical Division warns
@@ -463,17 +463,17 @@ consent-screening method not yet understood by A.C.T.
 
 ### Confirmed Operational Facts
 
-  Saint-Vera Restoration Concern is an outside corporate medical network and not an A.C.T
-  medical
-  division.
+ Saint-Vera Restoration Concern is an outside corporate medical network and not an A.C.T
+ medical
+ division.
 — The Concern has repeatedly treated anomaly survivors across separate jurisdictions.
 — Its procedures produce restoration outcomes beyond conventional medical explanation.
-  The group protects patient dignity and consent but withholds leadership, source materials, route
-  maps,
-  and full
-  failure records.
-  Several Saint-Vera interventions have obstructed A.C.T custody while preventing patient death or severe
-  deterioration.
+ The group protects patient dignity and consent but withholds leadership, source materials, route
+ maps,
+ and full
+ failure records.
+ Several Saint-Vera interventions have obstructed A.C.T custody while preventing patient death or severe
+ deterioration.
 
 ### Active Intelligence Assessment
 
@@ -493,14 +493,14 @@ to distinguish containment from care, custody from protection, and restoration f
 
 - Who or what is First Restorer?
 - What is the source of green-thread stabilizer and glass theatre lighting?
-  How many patients listed in Saint-Vera cold ledgers are officially dead in civic
-  systems?
+ How many patients listed in Saint-Vera cold ledgers are officially dead in civic
+ systems?
 - Has the Concern ever restored a patient whose identity continuity A.C.T would reject?
-  Does Saint-Vera refuse all coercive body alteration, or only cases that violate its
-  own
-  doctrine?
-  Are any donor channels linked to market GOIs, hostile containment institutions, or transformed-person
-  communities?
+ Does Saint-Vera refuse all coercive body alteration, or only cases that violate its
+ own
+ doctrine?
+ Are any donor channels linked to market GOIs, hostile containment institutions, or transformed-person
+ communities?
 - Why do some prosthetics remember movement the patient never learned before the incident?
 - How many Saint-Vera patients later enter Excommunicated Class review?
 
@@ -534,7 +534,7 @@ Patient files must not reduce the organization to a single procedure.
 - AMNESTIC ADMINISTRATION AND MEMORY-AFTERCARE REVIEW FORM, Operational Form
 - Complete Designation and Class Reference, Archive Record
 - Restricted restoration, transformation, patient-aftercare, prosthetic-custody, and E-Class review chains held under
-  Central Archive routing.
+ Central Archive routing.
 
 ### Dual Filing
 
@@ -550,11 +550,11 @@ separation from Saint-Vera personnel.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            05/08/1903
-FILE LAST UPDATED:       13/01/1913
-FILE AUTHOR:             Medical Division / Subject Care Division / Intelligence Joint Desk
-REVIEWED BY:             Central Archive
-FILE STATUS:             ACTIVE / RESTRICTED
-DESIGNATION HISTORY:     GOI-CP-P-056 assigned at creation for Saint-Vera Restoration Concern
-RECORD CONDITION:        OPERATIONAL
+FILE CREATED: 05/08/1903
+FILE LAST UPDATED: 13/01/1913
+FILE AUTHOR: Medical Division / Subject Care Division / Intelligence Joint Desk
+REVIEWED BY: Central Archive
+FILE STATUS: ACTIVE / RESTRICTED
+DESIGNATION HISTORY: GOI-CP-P-056 assigned at creation for Saint-Vera Restoration Concern
+RECORD CONDITION: OPERATIONAL
 ```

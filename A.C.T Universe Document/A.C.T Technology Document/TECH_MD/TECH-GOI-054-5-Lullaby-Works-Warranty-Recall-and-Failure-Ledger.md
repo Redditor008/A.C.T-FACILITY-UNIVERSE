@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Subject Care, Engineering, Containment, Logistics, Civil Covert |
 | OPERATIONAL STATUS | PARTIALLY RECOVERED / MANUFACTURER CONTACT CHANNEL UNCONFIRMED |
 | RISK STATUS | INFORMATION HAZARD IF DISCLOSED TO FAMILIES / NO PHYSICAL HAZARD |
-| CLEARANCE REQUIRED | Level 4 for ledger and recall material; Level 5 for contact attempts, failure crate<br>access, or lot reconciliation |
+| CLEARANCE REQUIRED | Level 4 for ledger and recall material; Level 5 for contact attempts, failure crate access, or lot reconciliation |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -104,23 +104,23 @@ has ever been made, described below.
 The system is documentary and logistical rather than mechanical. Its recovered components are:
 
 - **warranty cards** carrying the three-quiet-nights line and a return route;
-  **a blue card** bearing a telephone number, recovered from shelter staff during the
-  nightlight
-  incident;
+ **a blue card** bearing a telephone number, recovered from shelter staff during the
+ nightlight
+ incident;
 - **warranty ledger pages** storing child drawings and caregiver notes;
 - **recall lists** naming product lots, some unknown to A.C.T;
-  **product catalogues with missing pages**, where the removed pages are presumed to describe
-  items
-  A.C.T has not
-  recovered;
+ **product catalogues with missing pages**, where the removed pages are presumed to describe
+ items
+ A.C.T has not
+ recovered;
 - **sealed failure crates** marked **DO NOT RETURN TO CHILD**;
-  **caregiver instruction cards** written to be understood by a frightened adult, shared across
-  the
-  whole product range;
-  **production tags** stitched under seams or hidden behind battery plates, which are the
-  only
-  per-unit identifiers
-  A.C.T has ever located.
+ **caregiver instruction cards** written to be understood by a frightened adult, shared across
+ the
+ whole product range;
+ **production tags** stitched under seams or hidden behind battery plates, which are the
+ only
+ per-unit identifiers
+ A.C.T has ever located.
 
 The blue card is the only live interface A.C.T has observed. When called, the
 number connected to a recorded lullaby
@@ -358,12 +358,12 @@ entry sits in the GOI series because there was nowhere else to put it.
 - How many product lots exist, and how many have been recalled?
 - What is in the missing catalogue pages?
 - What happens to units placed in failure crates?
-  Is the blue card number a live operator, a recording, or a route
-  to
-  somewhere else?
+ Is the blue card number a live operator, a recording, or a route
+ to
+ somewhere else?
 - Why does the ledger store child drawings, and what is done with them?
-  Does the warranty cover exhaustion, as with the music box, or only physical
-  failure?
+ Does the warranty cover exhaustion, as with the music box, or only physical
+ failure?
 - Can A.C.T reach the manufacturer at all without disclosing itself?
 - Are the recall lists issued to protect children, to retrieve product, or both?
 
@@ -374,6 +374,6 @@ entry sits in the GOI series because there was nowhere else to put it.
 - **Created:** 2005-07-14
 - **Author Desk:** Intelligence Division / Archive Division / Central Archive
 - **Review Status:** Active restricted GOI technology record; manufacturer identity and ledger location
-  unresolved
+ unresolved
 - **Next Review:** After any new fragment recovery, any recall lot reconciliation, or any authorized
-  contact attempt
+ contact attempt

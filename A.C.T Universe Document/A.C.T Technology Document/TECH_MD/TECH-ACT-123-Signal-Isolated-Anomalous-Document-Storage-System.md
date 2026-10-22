@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Archive, Intelligence, Researcher, Security |
 | OPERATIONAL STATUS | ACTIVE / MONITORED ANOMALOUS DOCUMENT HOLDING |
 | RISK STATUS | SIGNAL ESCAPE / STORAGE MISASSIGNMENT / QUARANTINE DRIFT |
-| CLEARANCE REQUIRED | Level 3 for holding duty; Level 4 for signal-isolated access, F-2 transfer, or F-4<br>sample-control release |
+| CLEARANCE REQUIRED | Level 3 for holding duty; Level 4 for signal-isolated access, F-2 transfer, or F-4 sample-control release |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -296,7 +296,7 @@ exits are possible before it trusts the shelf.
 ## OPEN QUESTIONS
 
 - Can a document that stops transmitting be trusted, or has it learned the storage
-  cadence?
+ cadence?
 - How much metadata can be retained before metadata becomes a carrier?
 - Should every signal-isolated holding receive F-4 propagation analysis by default?
 - When does a storage unit become too active for F-3 and require F-2 vaulting?
@@ -313,6 +313,6 @@ exits are possible before it trusts the shelf.
 - **Created:** 1944-06-22
 - **Author Desk:** Floor Holding Archivist / Document-Holding Command / Central Archive
 - **Review Status:** Active signal-isolated storage technology record; live storage maps, holding
-  identities, signal logs, and escalation thresholds censored
+ identities, signal logs, and escalation thresholds censored
 - **Next Review:** After any signal leak, metadata carrier incident, quarantine reassignment, F-2
-  escalation, F-4 sample-control dispute, storage-row cross-talk, or monitoring anomaly
+ escalation, F-4 sample-control dispute, storage-row cross-talk, or monitoring anomaly

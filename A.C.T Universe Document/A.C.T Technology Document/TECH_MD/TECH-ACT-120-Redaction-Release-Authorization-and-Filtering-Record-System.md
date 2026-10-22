@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Archive, Intelligence, Researcher, Security, Medical |
 | OPERATIONAL STATUS | ACTIVE / SAFE-RELEASE REDACTION CONTROL |
 | RISK STATUS | OVERRELEASE / UNDERREDACTION / RECORD DRIFT / READER HARM |
-| CLEARANCE REQUIRED | Level 4 for release authorization; Level 5 for restricted release reversal, minimum-release<br>override, or source return |
+| CLEARANCE REQUIRED | Level 4 for release authorization; Level 5 for restricted release reversal, minimum-release override, or source return |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -306,9 +306,9 @@ prove later.
 - Can overredaction become a hazard by forcing personnel to guess the missing danger?
 - Should every public-compatible version carry a hidden recall marker?
 - When does a redacted document become a new document rather than a safer form
-  of the old one?
+ of the old one?
 - Can a recall succeed if the released copy has already entered memory, training, or
-  quoted procedure?
+ quoted procedure?
 - What makes a release genuinely minimum rather than merely short?
 - How should an objection be resolved without stalling the request?
 - When must a release be recalled on precaution alone?
@@ -320,6 +320,6 @@ prove later.
 - **Created:** 1938-02-23
 - **Author Desk:** Redaction Authority Desk / Archive Division / Central Archive
 - **Review Status:** Active redaction-release technology record; source texts, release identifiers,
-  objection details, and recall routes censored
+ objection details, and recall routes censored
 - **Next Review:** After any unsafe release, recall action, redaction dispute, filtering-history gap,
-  Medical exposure note, Intelligence objection, or minimum-release override
+ Medical exposure note, Intelligence objection, or minimum-release override

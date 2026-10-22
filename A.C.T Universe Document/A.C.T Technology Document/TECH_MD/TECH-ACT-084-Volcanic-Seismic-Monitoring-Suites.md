@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Watch Coordination, Security, Recovery Support, Research |
 | OPERATIONAL STATUS | ACTIVE / COASTAL VOLCANIC WATCH USE |
 | RISK STATUS | FALSE GEOLOGIC READ / SILENT WITHDRAWAL DELAY RISK |
-| CLEARANCE REQUIRED | Level 3 for routine monitoring; Level 4 for irregular volcanic signature, withdrawal alert, or<br>relay escalation |
+| CLEARANCE REQUIRED | Level 3 for routine monitoring; Level 4 for irregular volcanic signature, withdrawal alert, or relay escalation |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Volcanic-Seismic Monitoring Technology Record |
-| DISTRIBUTION | Seismic Monitoring / Watch Staff / Security / Nusantara Deep Relay / Ash Tide<br>Watchpoint |
+| DISTRIBUTION | Seismic Monitoring / Watch Staff / Security / Nusantara Deep Relay / Ash Tide Watchpoint |
 | AUTHORITY | Watch Officer, Seismic Monitoring Staff, Nusantara Site Command, and Central Archive |
 
 #### Archive Note
@@ -301,7 +301,7 @@ volcano behind it.
 - When does local volcanic observation become deep-earth restricted review?
 
 - How many sensors make up the local array, and what threshold do they
-  use?
+ use?
 - How long does instrument backup power endure?
 - What distinguishes ordinary volcanic unrest from an anomalous imitation?
 
@@ -312,6 +312,6 @@ volcano behind it.
 - **Created:** 1900-11-27
 - **Author Desk:** Seismic Monitoring Staff / Watch Officer / Central Archive
 - **Review Status:** Active volcanic-seismic monitoring record; live sensor positions, withdrawal
-  thresholds, and escalation keys censored
+ thresholds, and escalation keys censored
 - **Next Review:** After any irregular volcanic signature, silent withdrawal drill, recovery safety
-  conflict, parent-relay escalation, ash-event anomaly, or local sensor failure
+ conflict, parent-relay escalation, ash-event anomaly, or local sensor failure

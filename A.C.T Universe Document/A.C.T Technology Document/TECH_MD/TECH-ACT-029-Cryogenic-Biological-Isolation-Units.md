@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Biological Containment, Logistics, Site Command, Recovery |
 | OPERATIONAL STATUS | ACTIVE / RESTRICTED / PATIENT AND SAMPLE SPECIFIC |
 | RISK STATUS | CONTROLLED / HAZARDOUS IF THAW, RHYTHM, OR SEAL FAILS |
-| CLEARANCE REQUIRED | Level 4 for patient use, FCA loading, and long-duration stasis; Level 5 for consciousness-adjacent<br>containment |
+| CLEARANCE REQUIRED | Level 4 for patient use, FCA loading, and long-duration stasis; Level 5 for consciousness-adjacent containment |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -333,4 +333,4 @@ Standing reminder: stasis is not an answer. It is a held breath.
 - **Author Desk:** Medical Division / Stasis Technology Desk / Central Archive
 - **Review Status:** Active restricted record; resonant cooling details censored
 - **Next Review:** After any thaw failure, rhythm drift, FCA medical transport incident, or
-  anchor-linked stasis distress
+ anchor-linked stasis distress

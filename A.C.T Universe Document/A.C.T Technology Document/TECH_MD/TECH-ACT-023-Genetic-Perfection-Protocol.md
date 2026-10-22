@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Engineering, Biological Containment, Site Command, Ethics |
 | OPERATIONAL STATUS | ACTIVE / RESTRICTED / PATIENT-SPECIFIC |
 | RISK STATUS | CONTROLLED / HAZARDOUS IF OVERCORRECTIVE OR MISDIAGNOSED |
-| CLEARANCE REQUIRED | Level 4 for use; Level 5 for viral-vector libraries, rapid full-body rewrite response, and<br>irreversible changes |
+| CLEARANCE REQUIRED | Level 4 for use; Level 5 for viral-vector libraries, rapid full-body rewrite response, and irreversible changes |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -330,7 +330,7 @@ Standing reminder: repaired tissue is not automatically restored life. Ask the p
 
 - What is the approved mist concentration band, and who measures it during a cycle?
 - What is held in the viral-vector library, and why is it kept at Level
-  5?
+ 5?
 - How does Medical choose between two lawful baselines before activation?
 
 ---
@@ -341,4 +341,4 @@ Standing reminder: repaired tissue is not automatically restored life. Ask the p
 - **Author Desk:** Medical Division / Transformation Review Board / Central Archive
 - **Review Status:** Active restricted record; viral-vector libraries censored
 - **Next Review:** After any irreversible repair, baseline dispute, scrubber fault, or patient identity
-  distress event
+ distress event

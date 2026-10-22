@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Administration, Security, Archive, Command, Training |
 | OPERATIONAL STATUS | ACTIVE / PUBLIC-OPERATIONAL PERSONNEL SEPARATION |
 | RISK STATUS | IDENTITY BLEED / CLEARANCE DRIFT / BOUNDARY FAILURE |
-| CLEARANCE REQUIRED | Level 3 for clearance processing; Level 4 for boundary override, operational-depth assignment, or<br>denial reversal |
+| CLEARANCE REQUIRED | Level 3 for clearance processing; Level 4 for boundary override, operational-depth assignment, or denial reversal |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -307,11 +307,11 @@ worker is allowed to be.
 ## OPEN QUESTIONS
 
 - How long can public archive staff work near the boundary before curiosity itself becomes
-  a screening factor?
+ a screening factor?
 - Should operational clearance require loss of certain public-facing duties?
 - Can a denied worker remain trusted in the legitimate foundation complex?
 - How much of a denial reason may be shown without exposing the existence of
-  the buried archive?
+ the buried archive?
 - Should repeated supervised transitions count as de facto operational assignment?
 - When does preserving cover require refusing the most qualified document specialist available?
 - What identity continuity is required across a role change?
@@ -325,6 +325,6 @@ worker is allowed to be.
 - **Created:** 1913-05-10
 - **Author Desk:** Personnel and Clearance Office / Node Administration / Central Archive
 - **Review Status:** Active personnel-boundary technology record; individual clearance identities,
-  denial reasons, transition endpoints, and override records censored
+ denial reasons, transition endpoints, and override records censored
 - **Next Review:** After any clearance drift, public-role overreach, transition incident, escort
-  failure, denial reversal, operational slang exposure, or access-core boundary event
+ failure, denial reversal, operational slang exposure, or access-core boundary event

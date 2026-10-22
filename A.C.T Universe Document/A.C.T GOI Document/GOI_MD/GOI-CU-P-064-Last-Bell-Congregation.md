@@ -16,21 +16,21 @@
 | A.C.T POSTURE | MONITOR / HELP / COOPERATED |
 | KNOWN LEADERSHIP | Bellwardens, Alarm Readers, Shelter Deacons, Calendar Mothers, and one unverified First Ringer tradition |
 | KNOWN MEMBERSHIP | End-warning clergy, shelter builders, disaster volunteers, signal watchers, families, lay singers, and route keepers |
-| PRIMARY ACTIVE REGION | Transnational disaster-preparation cells, church basements, bell towers, shelter rooms, coastal<br>towns, and border roads |
-| KNOWN ASSETS | Warning bells, end calendars, shelter ledgers, evacuation hymns, dawn alarms, safe-cellars, route<br>cards, and food stores |
-| KNOWN HOLDINGS | Bell towers, chapel shelters, dry stores, mobile parish wagons, hidden radio rooms, and sealed<br>calendar cupboards |
-| IDEOLOGY | The end must be heard early enough that ordinary people can shelter, confess, reconcile,<br>prepare, and live another<br>dawn |
+| PRIMARY ACTIVE REGION | Transnational disaster-preparation cells, church basements, bell towers, shelter rooms, coastal towns, and border roads |
+| KNOWN ASSETS | Warning bells, end calendars, shelter ledgers, evacuation hymns, dawn alarms, safe-cellars, route cards, and food stores |
+| KNOWN HOLDINGS | Bell towers, chapel shelters, dry stores, mobile parish wagons, hidden radio rooms, and sealed calendar cupboards |
+| IDEOLOGY | The end must be heard early enough that ordinary people can shelter, confess, reconcile, prepare, and live another dawn |
 | HISTORY WITH A.C.T | Repeated contact during predicted breach weather, shelter preparation, public warning rites, and evacuation disputes |
 | ANOMALY CROSS-REFERENCE | Restricted apocalypse, disaster-warning, bell-tone, shelter, prophecy, evacuation, and mass-panic case chains |
 | CURRENT STATUS | ACTIVE - positive apocalypse-warning congregation |
 | PRIMARY FILE AUTHORITY | Intelligence Division / Civil Covert / Recovery Division |
 | SITE JURISDICTION | Central Command with Site 05, Site 01, and Site-specific disaster review |
-| CLEARANCE REQUIRED | Level 4; Level 5 for active end calendars, child shelter rosters, true-bell tones, and<br>failed warning prophecies |
+| CLEARANCE REQUIRED | Level 4; Level 5 for active end calendars, child shelter rosters, true-bell tones, and failed warning prophecies |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Restricted Record |
-| DISTRIBUTION | Intelligence / Civil Covert / Recovery / Subject Care / Containment / Medical /<br>Command |
+| DISTRIBUTION | Intelligence / Civil Covert / Recovery / Subject Care / Containment / Medical / Command |
 | AUTHORITY | Intelligence Division, Civil Covert Division, Recovery Division, and Central Archive |
 
 #### Archive Note
@@ -148,9 +148,9 @@ A.C.T assessment identifies these functional layers:
 - lay singers who teach evacuation hymns and counting songs;
 - reconciliation workers who encourage families to gather before a warning night;
 - false-alarm confessors who review failed predictions and publicly apologize inside the Congregation;
-  child counters who make sure minors are not lost in panic or duplicated
-  in
-  shelter records.
+ child counters who make sure minors are not lost in panic or duplicated
+ in
+ shelter records.
 
 This structure makes the Congregation a real group rather than a vague doomsday label.
 It has roles, correction
@@ -227,9 +227,9 @@ repeatable warning or stabilizing effects beyond ordinary preparedness. Confirme
 include:
 
 - bells ringing before their ropes are pulled during verified incident approach;
-  end calendars marking dates later linked to abnormal weather, route failure, or mass
-  witness
-  events;
+ end calendars marking dates later linked to abnormal weather, route failure, or mass
+ witness
+ events;
 - shelter hymns reducing panic during crowded evacuation;
 - counting songs preserving child rosters when shelter numbers fluctuate;
 - dawn alarms waking households before nonstandard intrusions;
@@ -472,10 +472,10 @@ not treat every failed warning as proof of conspiracy.
 
 ### Confirmed Operational Facts
 
-  Last Bell Congregation is an outside cultic apocalypse-warning network and not an A.C.T
-  body.
-  The Congregation maintains bell roles, shelters, calendars, route cards, food stores, and warning
-  rites.
+ Last Bell Congregation is an outside cultic apocalypse-warning network and not an A.C.T
+ body.
+ The Congregation maintains bell roles, shelters, calendars, route cards, food stores, and warning
+ rites.
 — Several Last Bell warnings have preceded confirmed anomaly-adjacent disasters or local end-state events.
 — The group can reduce civilian casualties while increasing public awareness of hidden danger.
 — The Congregation's objective is survival preparation, not apocalypse creation.
@@ -498,23 +498,23 @@ indicators, with containment of hazardous bell tones or reckless public alarms.
 
 ### Persistent Questions
 
-  Was the First Ringer a founder, a survivor of a local apocalypse, an
-  anomalous
-  bell, or a title for whoever first
-  hears an active warning?
-  Do true-bell tones predict danger, detect danger, or participate in causing the warning
-  condition
-  to stabilize?
+ Was the First Ringer a founder, a survivor of a local apocalypse, an
+ anomalous
+ bell, or a title for whoever first
+ hears an active warning?
+ Do true-bell tones predict danger, detect danger, or participate in causing the warning
+ condition
+ to stabilize?
 — Which end calendar entries are prophecy, pattern analysis, inherited memory, or post-event correction?
-  How many shelters are structurally anomalous, and were any built by Cairn &
-  Lintel
-  or another outside group?
+ How many shelters are structurally anomalous, and were any built by Cairn &
+ Lintel
+ or another outside group?
 — Has Last Bell ever prevented a disaster that A.C.T therefore never detected?
 — Can hostile GOIs manipulate Last Bell warnings to move civilians into controlled routes?
 — Why do failed-warning confession rites appear to reduce false alarms in some cells?
-  Are children hearing bells earlier than adults because of exposure, training, or an
-  unresolved
-  anomaly condition?
+ Are children hearing bells earlier than adults because of exposure, training, or an
+ unresolved
+ anomaly condition?
 
 ### Intelligence Confidence
 
@@ -547,7 +547,7 @@ prophecy-effect review.
 - ACCESS AND EGRESS LEDGER FORM, Operational Form
 - WITNESS STATEMENT AND TESTIMONY FORM, Operational Form
 - Restricted apocalypse, disaster-warning, bell-tone, shelter, prophecy, evacuation, and mass-panic case chains held
-  under Central Archive routing.
+ under Central Archive routing.
 
 ### Dual Filing
 
@@ -564,11 +564,11 @@ warning rite produces measurable cognitive or environmental effect.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            02/11/1947
-FILE LAST UPDATED:       28/08/1960
-FILE AUTHOR:             Intelligence Division / Civil Covert / Recovery Joint Desk
-REVIEWED BY:             Site 05 Review and Central Archive
-FILE STATUS:             ACTIVE / RESTRICTED
-DESIGNATION HISTORY:     GOI-CU-P-064 assigned at creation for Last Bell Congregation
-RECORD CONDITION:        OPERATIONAL
+FILE CREATED: 02/11/1947
+FILE LAST UPDATED: 28/08/1960
+FILE AUTHOR: Intelligence Division / Civil Covert / Recovery Joint Desk
+REVIEWED BY: Site 05 Review and Central Archive
+FILE STATUS: ACTIVE / RESTRICTED
+DESIGNATION HISTORY: GOI-CU-P-064 assigned at creation for Last Bell Congregation
+RECORD CONDITION: OPERATIONAL
 ```

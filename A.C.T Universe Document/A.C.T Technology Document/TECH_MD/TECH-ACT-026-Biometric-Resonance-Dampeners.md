@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Recovery, Biological Containment, Security, Engineering |
 | OPERATIONAL STATUS | ACTIVE / RESTRICTED ISSUE / SHORT-DURATION WEAR |
 | RISK STATUS | CONTROLLED / HAZARDOUS IF OVERWORN OR MASKING FAILS |
-| CLEARANCE REQUIRED | Level 3 for field use; Level 4 for pulse-sync calibration, micro-injector load, and heart-signature<br>predator missions |
+| CLEARANCE REQUIRED | Level 3 for field use; Level 4 for pulse-sync calibration, micro-injector load, and heart-signature predator missions |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -175,7 +175,7 @@ confirmation.
 - Do not activate before the Pulse-Sync Chip has baseline contact.
 - Do not treat a green blink as medical clearance.
 - Do not keep a patch on after mission end to smooth a debrief
-  reading.
+ reading.
 - Do not reuse a patch on a second wearer or a second mission.
 - Do not read masking as a substitute for calm.
 - Weakest against entities that hear the real heart directly.
@@ -318,7 +318,7 @@ honest report of it.
 ## OPEN QUESTIONS
 
 - What is the approved wear duration before dissociation risk rises, and who sets it
-  per mission?
+ per mission?
 - What dose does the micro-injector deliver, and what is its depletion curve?
 - Which predators have been shown to hear the real heart through an active patch?
 
@@ -330,4 +330,4 @@ honest report of it.
 - **Author Desk:** Field Safety Desk / Medical Division / Engineering Division / Central Archive
 - **Review Status:** Active restricted record; pulse-sync and micro-injector details censored
 - **Next Review:** After any false green event, panic overload, cardiac reaction, or unauthorized
-  concealment incident
+ concealment incident

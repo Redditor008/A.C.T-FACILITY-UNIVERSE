@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Biological Containment, Recovery, Engineering, Site Command |
 | OPERATIONAL STATUS | ACTIVE / RESTRICTED / GOLD-VULNERABLE MATERIAL |
 | RISK STATUS | CONTROLLED / HAZARDOUS IF MISUSED OR IMPROPERLY TRACKED |
-| CLEARANCE REQUIRED | Level 3 for prepared surgical use; Level 4 for Dark World source material, laser-tracking<br>calibration, and breach use |
+| CLEARANCE REQUIRED | Level 3 for prepared surgical use; Level 4 for Dark World source material, laser-tracking calibration, and breach use |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -344,4 +344,4 @@ should happen at all.
 - **Author Desk:** Medical Division / Surgical Materials Custody / Central Archive
 - **Review Status:** Active restricted record; signature-tracking details censored
 - **Next Review:** After any signature drift, gold contamination, breach disarticulation, or
-  retired-blade study
+ retired-blade study

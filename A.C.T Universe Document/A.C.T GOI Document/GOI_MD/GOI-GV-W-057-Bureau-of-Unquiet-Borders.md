@@ -17,10 +17,10 @@
 | KNOWN LEADERSHIP | Secretariat council unresolved; field authority held by Crossing Magistrates and Quiet-Line Wardens |
 | KNOWN MEMBERSHIP | Border officers, treaty clerks, customs handlers, translators, custody drivers, map auditors, and station medics |
 | PRIMARY ACTIVE REGION | Cross-border anomaly routes, disputed checkpoints, border towns, ports, airports, mountain passes, and dead corridors |
-| KNOWN ASSETS | Quiet-line stations, sealed crossing ledgers, treaty seals, custody vehicles, false-neutral holding<br>rooms, and route maps |
+| KNOWN ASSETS | Quiet-line stations, sealed crossing ledgers, treaty seals, custody vehicles, false-neutral holding rooms, and route maps |
 | KNOWN HOLDINGS | Border offices, unlisted customs rooms, transit archives, temporary humane holding cells, and treaty-marked corridors |
 | IDEOLOGY | Borders must remain usable even when geography, identity, law, or citizenship becomes unstable |
-| HISTORY WITH A.C.T | Recurring cooperation during cross-border anomaly movement, witness transfer, extradition dispute,<br>and artifact routing |
+| HISTORY WITH A.C.T | Recurring cooperation during cross-border anomaly movement, witness transfer, extradition dispute, and artifact routing |
 | ANOMALY CROSS-REFERENCE | Restricted border-hole, passport, customs, missing-citizen, transit-object, and extradition case chains |
 | CURRENT STATUS | ACTIVE - working foreign and treaty-backed border authority |
 | PRIMARY FILE AUTHORITY | Intelligence Division / Civil Covert / Recovery Division |
@@ -131,15 +131,15 @@ crossing is unstable. Treaty Clerks preserve documents that ordinary government 
 A.C.T assessment identifies these functional layers:
 
 - crossing magistrates who issue temporary rulings when citizenship, jurisdiction, or custody becomes unstable;
-  quiet-line wardens who secure abnormal border points, dead roads, port rooms, and route
-  corridors;
-  treaty clerks who preserve paper agreements, transfer slips, and crossing records when databases
-  fail;
+ quiet-line wardens who secure abnormal border points, dead roads, port rooms, and route
+ corridors;
+ treaty clerks who preserve paper agreements, transfer slips, and crossing records when databases
+ fail;
 - customs handlers who examine anomalous objects disguised as ordinary cargo;
 - passport listeners who interview travelers whose memories or documents contradict geography;
 - transit medics who stabilize persons affected by wrong-border exposure;
-  route auditors who compare public maps, shipping lanes, flight paths, and old border
-  treaties;
+ route auditors who compare public maps, shipping lanes, flight paths, and old border
+ treaties;
 - consular shadows who contact families without revealing the full crossing condition.
 
 This structure distinguishes the Bureau from a normal government department. It has roles built
@@ -454,16 +454,16 @@ ink persists.
 
 ### Confirmed Operational Facts
 
-  The Bureau of Unquiet Borders is an outside government or treaty-backed institution, not
-  an
-  A.C.T branch.
-  The Bureau has repeatedly affected cross-border anomaly movement, witness transfer, artifact custody, and
-  route
-  closure.
-  Its officers use consistent quiet-line seals, hold notices, treaty language, and crossing procedures
-  across
-  separate
-  jurisdictions.
+ The Bureau of Unquiet Borders is an outside government or treaty-backed institution, not
+ an
+ A.C.T branch.
+ The Bureau has repeatedly affected cross-border anomaly movement, witness transfer, artifact custody, and
+ route
+ closure.
+ Its officers use consistent quiet-line seals, hold notices, treaty language, and crossing procedures
+ across
+ separate
+ jurisdictions.
 — The Bureau can cooperate with A.C.T but does not accept A.C.T command authority.
 — Its work can preserve legal identity and custody continuity during anomalous border events.
 
@@ -485,23 +485,23 @@ imply control of the other.
 
 ### Persistent Questions
 
-  Which governments signed the original quiet-line instruments, and are all signatories still aware
-  of
-  the Bureau?
-  Does the Secretariat of Unquiet Lines exist as a physical office, a treaty
-  archive,
-  or a rotating legal fiction?
+ Which governments signed the original quiet-line instruments, and are all signatories still aware
+ of
+ the Bureau?
+ Does the Secretariat of Unquiet Lines exist as a physical office, a treaty
+ archive,
+ or a rotating legal fiction?
 — How many quiet-line stations are active inside ordinary border facilities?
-  Can Bureau seals create temporary legal status, or do they only preserve status
-  that
-  would otherwise fail?
-  Has the Bureau ever returned a person to a country that no longer
-  exists
-  on current maps?
-  Are some border anomalies caused by Bureau procedures becoming too old, damaged, or
-  contradictory?
-  What happens if A.C.T removes an object marked NONARRIVAL PENDING before the hold
-  expires?
+ Can Bureau seals create temporary legal status, or do they only preserve status
+ that
+ would otherwise fail?
+ Has the Bureau ever returned a person to a country that no longer
+ exists
+ on current maps?
+ Are some border anomalies caused by Bureau procedures becoming too old, damaged, or
+ contradictory?
+ What happens if A.C.T removes an object marked NONARRIVAL PENDING before the hold
+ expires?
 
 ### Intelligence Confidence
 
@@ -532,7 +532,7 @@ documentation.
 - Normalcy Management and Public Narrative Doctrine, Archive Record
 - Global Site Registry, Archive Record
 - Restricted border-hole, passport, customs, missing-citizen, transit-object, and extradition case chains held under
-  Central Archive routing.
+ Central Archive routing.
 
 ### Dual Filing
 
@@ -549,11 +549,11 @@ without ordinary entry history.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            04/01/1981
-FILE LAST UPDATED:       05/05/1986
-FILE AUTHOR:             Intelligence Division / Civil Covert / Recovery Joint Desk
-REVIEWED BY:             Central Archive
-FILE STATUS:             ACTIVE / RESTRICTED
-DESIGNATION HISTORY:     GOI-GV-W-057 assigned at creation for Bureau of Unquiet Borders
-RECORD CONDITION:        OPERATIONAL
+FILE CREATED: 04/01/1981
+FILE LAST UPDATED: 05/05/1986
+FILE AUTHOR: Intelligence Division / Civil Covert / Recovery Joint Desk
+REVIEWED BY: Central Archive
+FILE STATUS: ACTIVE / RESTRICTED
+DESIGNATION HISTORY: GOI-GV-W-057 assigned at creation for Bureau of Unquiet Borders
+RECORD CONDITION: OPERATIONAL
 ```

@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Containment, Research, Medical, Recovery, Security |
 | OPERATIONAL STATUS | ACTIVE / ISLAND-RECOVERED MATERIAL HOLDING |
 | RISK STATUS | CLIMATE DRIFT / HABITAT MISMATCH / BIOLOGICAL ESCALATION |
-| CLEARANCE REQUIRED | Level 3 for holding duty; Level 4 for climate-regimen alteration, resident movement, or cross-floor<br>transfer |
+| CLEARANCE REQUIRED | Level 3 for holding duty; Level 4 for climate-regimen alteration, resident movement, or cross-floor transfer |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -321,6 +321,6 @@ land.
 - **Created:** 2015-06-16
 - **Author Desk:** Environmental Holding Staff / Maritime-Hold Command / Central Archive
 - **Review Status:** Active climate-holding technology record; live climate recipes, resident
-  assignments, and native-site coordinates censored
+ assignments, and native-site coordinates censored
 - **Next Review:** After any climate drift, place-bound reclassification, island-transfer failure,
-  habitat mismatch, unit contamination, or climate-regimen override
+ habitat mismatch, unit contamination, or climate-regimen override

@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Research, Transformation, Environmental Containment, Security, Medical |
 | OPERATIONAL STATUS | ACTIVE / RESTRICTED CULTIVATION USE |
 | RISK STATUS | CULTIVATION ESCALATION / ACCESS FAILURE / VAULT BREACH RISK |
-| CLEARANCE REQUIRED | Level 4 for vault duty; Level 5 for cultivation-program alteration, resident access, or closure<br>override |
+| CLEARANCE REQUIRED | Level 4 for vault duty; Level 5 for cultivation-program alteration, resident access, or closure override |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -311,6 +311,6 @@ DCVS doctrine holds that the deepest garden is still a vault.
 - **Created:** 1974-02-14
 - **Author Desk:** Deep-Cultivation Command / F-1 Vault Officer / Central Archive
 - **Review Status:** Active deep cultivation record; live chamber maps, resident names, program ledgers,
-  and transformation authorities censored
+ and transformation authorities censored
 - **Next Review:** After any cultivation escalation, F-1 closure, service-ring contamination,
-  unauthorized program change, medical conflict, or transformation review dispute
+ unauthorized program change, medical conflict, or transformation review dispute

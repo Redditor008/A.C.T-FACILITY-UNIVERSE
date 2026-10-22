@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Recovery, Research, Medical, Engineering, Security |
 | OPERATIONAL STATUS | ACTIVE / DEEP-RECOVERY TRANSFER USE |
 | RISK STATUS | PRESSURE SHOCK / HULL FAILURE / RESIDENT STRESS RISK |
-| CLEARANCE REQUIRED | Level 3 for maintenance; Level 4 for resident transfer, decompression curve changes, or emergency<br>override |
+| CLEARANCE REQUIRED | Level 3 for maintenance; Level 4 for resident transfer, decompression curve changes, or emergency override |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -330,7 +330,7 @@ not reconstructed after damage occurs.
 - Should port vessels maintain PRETS-compatible pressure state even before anomaly classification is complete?
 
 - What pressure range is the transfer lock rated for, and how was it
-  tested?
+ tested?
 - What equalization rate do the standard decompression curves allow?
 - How long does a full deep-to-holding transfer take, including verification?
 
@@ -341,6 +341,6 @@ not reconstructed after damage occurs.
 - **Created:** 1971-05-18
 - **Author Desk:** Maritime-Hold Command / Engineering Desk / Central Archive
 - **Review Status:** Active pressure-management record; schematics, equalization formulas, and named
-  restricted incidents censored
+ restricted incidents censored
 - **Next Review:** After any pressure-lock failure, deep resident transfer, equalization delay, Death
-  Angler audit, or pressure-history recorder discrepancy
+ Angler audit, or pressure-history recorder discrepancy

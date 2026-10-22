@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Recovery, Security, Artifact Storage, Simulation Command |
 | OPERATIONAL STATUS | ACTIVE / ISOLATED / MISSION-PARAMETER LOCKED |
 | RISK STATUS | CONTROLLED / COMBAT-LOGIC CONTAINMENT HAZARD |
-| CLEARANCE REQUIRED | Level 4 for simulation use; Level 5 for live unmanned recovery command and recognition-filter<br>modification |
+| CLEARANCE REQUIRED | Level 4 for simulation use; Level 5 for live unmanned recovery command and recognition-filter modification |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -332,6 +332,6 @@ whether A.C.T deserves to enter.
 - **Created:** 2026-05-28
 - **Author Desk:** Tactical Review Desk / Engineering Division / Central Archive
 - **Review Status:** Active tactical record; recognition filter and future-operative pattern source
-  censored
+ censored
 - **Next Review:** After any mission-scope request, simulation bleed, drone-loss anomaly, or
-  sovereign-site routing failure
+ sovereign-site routing failure

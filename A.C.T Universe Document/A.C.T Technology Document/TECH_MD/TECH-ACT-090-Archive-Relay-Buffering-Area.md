@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Limited Archive, Security, Recovery Support, Medical |
 | OPERATIONAL STATUS | ACTIVE / TEMPORARY ARCHIVE TRANSFER USE |
 | RISK STATUS | RECORD OVERSTAY / CUSTODY LOSS / HAZARD MISROUTING RISK |
-| CLEARANCE REQUIRED | Level 3 for relay custody; Level 4 for restricted record, anomaly-bearing document, or<br>parent-archive exception |
+| CLEARANCE REQUIRED | Level 3 for relay custody; Level 4 for restricted record, anomaly-bearing document, or parent-archive exception |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Archive Relay Technology Record |
-| DISTRIBUTION | Glass Orchard Relay / Redwood Veil Complex / Limited Archive / Security / Recovery<br>Support / Central Archive |
+| DISTRIBUTION | Glass Orchard Relay / Redwood Veil Complex / Limited Archive / Security / Recovery Support / Central Archive |
 | AUTHORITY | Limited Archive Lead, Processing Officer, Sub-Site Chief, Redwood Veil Archive Command, and Central Archive |
 
 #### Archive Note
@@ -315,6 +315,6 @@ ARBA doctrine holds that a relay remembers only long enough to pass memory onwar
 - **Created:** 1916-12-18
 - **Author Desk:** Limited Archive Lead / Processing Officer / Central Archive
 - **Review Status:** Active archive relay record; live witness files, custody ledgers, restricted flags,
-  and transfer schedules censored
+ and transfer schedules censored
 - **Next Review:** After any record overstay, custody-chain mismatch, restricted document misroute,
-  witness file failure, unauthorized reading, or parent-archive receipt dispute
+ witness file failure, unauthorized reading, or parent-archive receipt dispute

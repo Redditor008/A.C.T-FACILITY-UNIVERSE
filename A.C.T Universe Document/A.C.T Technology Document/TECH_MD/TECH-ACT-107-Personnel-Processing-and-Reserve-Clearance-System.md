@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Administration, Security, Medical, Environmental Containment, Research |
 | OPERATIONAL STATUS | ACTIVE / RESERVE PERSONNEL GATEKEEPING |
 | RISK STATUS | CLEARANCE DRIFT / COVER EXPOSURE / BIOLOGICAL DUTY MISMATCH |
-| CLEARANCE REQUIRED | Level 2 for personnel intake handling; Level 3 for reserve clearance assignment; Level 4<br>for denial override |
+| CLEARANCE REQUIRED | Level 2 for personnel intake handling; Level 3 for reserve clearance assignment; Level 4 for denial override |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -299,16 +299,16 @@ permitted to walk through it.
 ## OPEN QUESTIONS
 
 - How often should reserve-duty suitability be retested for personnel who remain in the wilderness
-  for extended cycles?
+ for extended cycles?
 - Can strong ecological skill compensate for weak cover discipline, or must cover failure always
-  remove campus access?
+ remove campus access?
 - Should sapient-resident care bonds create automatic personnel review, or only when procedure is affected?
 - How much Medical detail should be visible to Security when access restriction is based
-  on stress or exposure?
+ on stress or exposure?
 - Can public-program researchers be trained into concealed roles without damaging their external professional
-  credibility?
+ credibility?
 - Should PPRCS deny advancement when a person is valuable in the field but deteriorating
-  in isolation?
+ in isolation?
 - Which duties should never be held by a campus employee?
 - How should a fatigue flag be cleared after a long rotation?
 - What identity continuity is required between the two populations?
@@ -320,6 +320,6 @@ permitted to walk through it.
 - **Created:** 1972-07-06
 - **Author Desk:** Personnel Processing Office / Security Administration / Central Archive
 - **Review Status:** Active personnel-clearance technology record; individual records, medical flags,
-  credential keys, and denial files censored
+ credential keys, and denial files censored
 - **Next Review:** After any clearance misuse, boundary access error, unreported exposure,
-  isolation-fatigue removal, cover-role failure, or denial override
+ isolation-fatigue removal, cover-role failure, or denial override

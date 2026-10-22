@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Recovery, Engineering, Site Command, Archive, Intelligence |
 | OPERATIONAL STATUS | ACTIVE / RESTRICTED / EXPEDITION-CRITICAL |
 | RISK STATUS | CONTROLLED / HAZARDOUS IF MAP, THREAD, OR NORTH IS SPOOFED |
-| CLEARANCE REQUIRED | Level 3 for supervised survey use; Level 4 for Narrative North calibration, Aether-Filter access,<br>and route records |
+| CLEARANCE REQUIRED | Level 3 for supervised survey use; Level 4 for Narrative North calibration, Aether-Filter access, and route records |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Expedition Navigation Technology Record |
-| DISTRIBUTION | Survey / Dark World Expedition Desk / Recovery / Engineering / Site Command /<br>Archive |
+| DISTRIBUTION | Survey / Dark World Expedition Desk / Recovery / Engineering / Site Command / Archive |
 | AUTHORITY | Survey Division, Dark World Expedition Desk, Engineering Division, and Central Archive |
 
 #### Archive Note
@@ -353,4 +353,4 @@ Standing reminder: the compass points toward meaning. Meaning is not always an a
 - **Author Desk:** Survey Division / Dark World Expedition Desk / Engineering Division / Central Archive
 - **Review Status:** Active restricted record; Narrative North calibration censored
 - **Next Review:** After any false north incident, dead-map event, missing-person thread failure, or
-  Dark World route contradiction
+ Dark World route contradiction

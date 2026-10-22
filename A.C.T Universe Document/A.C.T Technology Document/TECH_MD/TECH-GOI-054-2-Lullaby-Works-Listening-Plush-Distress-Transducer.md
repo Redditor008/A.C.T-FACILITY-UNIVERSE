@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Containment, Medical, Archive, Intelligence, Civil Covert |
 | OPERATIONAL STATUS | PARTIALLY RECOVERED / UNITS REMAIN IN CIVILIAN HOMES |
 | RISK STATUS | PROTECTIVE IN SERVICE / HAZARDOUS IF FORCE-OPENED / CONFIRMED BITE INCIDENT |
-| CLEARANCE REQUIRED | Level 3 for instruction handling; Level 4 for external inspection; Level 5 for opening,<br>seam work, or lot tracing |
+| CLEARANCE REQUIRED | Level 3 for instruction handling; Level 4 for external inspection; Level 5 for opening, seam work, or lot tracing |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -120,15 +120,15 @@ about its exterior signals function.
 
 Known external features:
 
-  a **sewn seam line** along the body, under which a production tag may
-  be
-  stitched;
-  a **battery plate** in some variants, behind which a tag may be hidden
-  instead;
+ a **sewn seam line** along the body, under which a production tag may
+ be
+ stitched;
+ a **battery plate** in some variants, behind which a tag may be hidden
+ instead;
 - no visible speaker grille, no switch, no charging contact, and no manufacturer label;
-  a **mouth or jaw region** capable of closing on a hand with enough
-  force
-  to injure an adult.
+ a **mouth or jaw region** capable of closing on a hand with enough
+ force
+ to injure an adult.
 
 Known construction findings:
 
@@ -381,22 +381,22 @@ anything except an empty shell that no longer works.
 
 ## OPEN QUESTIONS
 
-  What produces the vocal relay, given that no driver, coil, membrane, or cell
-  has
-  been located?
+ What produces the vocal relay, given that no driver, coil, membrane, or cell
+ has
+ been located?
 - Whose voice is used, and is it the child's own?
-  What distinguishes a legitimate relay from the bite misfire, and does the unit
-  track
-  who is holding it?
+ What distinguishes a legitimate relay from the bite misfire, and does the unit
+ track
+ who is holding it?
 - Why do separated material samples remain warm, and for how long?
-  What is inside the unit, given that the interior does not match the
-  external
-  volume?
+ What is inside the unit, given that the interior does not match the
+ external
+ volume?
 - Does a plush line lot label exist equivalent to SLEEP-SAFE-7?
 - Can a unit be reactivated after force-opening, or is the loss permanent?
-  Does the manufacturer replace bitten units freely, and what does it do with
-  returned
-  ones?
+ Does the manufacturer replace bitten units freely, and what does it do with
+ returned
+ ones?
 - How many units are in civilian homes?
 
 ---
@@ -406,6 +406,6 @@ anything except an empty shell that no longer works.
 - **Created:** 1940-11-03
 - **Author Desk:** Subject Care Division / Engineering Division / Central Archive
 - **Review Status:** Active restricted GOI technology record; manufacturer identity and lot source
-  censored
+ censored
 - **Next Review:** After any new unit recovery, any further bite incident, or any confirmed vocal relay
-  observation
+ observation

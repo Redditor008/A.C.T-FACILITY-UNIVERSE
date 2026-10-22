@@ -12,7 +12,7 @@
 | PRIMARY A.C.T REVIEW | Medical / Subject Care / Containment / Engineering / Legal |
 | OPERATIONAL STATUS | RESTRICTED DESIGN REVIEW / CONSULTATION USE |
 | RISK STATUS | ROOM-PATIENT MISMATCH / ISOLATION HARM / HOSTILE ADAPTATION |
-| CLEARANCE REQUIRED | Level 4; Level 5 for ward layouts, patient-linked tuning, failed room incidents, and hidden<br>clinic addresses |
+| CLEARANCE REQUIRED | Level 4; Level 5 for ward layouts, patient-linked tuning, failed room incidents, and hidden clinic addresses |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -290,8 +290,8 @@ reacting to harm.
 - GOI-HY-P-071 — Mercy Lock Institute, Group of Interest Registry
 - TECH-GOI-071-1 — Mercy Lock Gentle Lock System, Technology Record
 - TECH-GOI-071-2 — Mercy Lock Patient Bell Distress Signal System, Technology Record
-  Mercy Lock ward inspection notes, quiet-room plans, transfer records, and Red Key files
-  [restricted]
+ Mercy Lock ward inspection notes, quiet-room plans, transfer records, and Red Key files
+ [restricted]
 
 ---
 
@@ -315,12 +315,12 @@ limited by regional variation, withheld ward maps, and patient-specific environm
 ## FILE METADATA
 
 ```text
-FILE CREATED:            09/02/1995
-FILE LAST UPDATED:       03/03/2001
-FILE AUTHOR:             Medical Division / Subject Care / Engineering / Legal Joint Desk
-REVIEWED BY:             Central Archive
-FILE STATUS:             ACTIVE / RESTRICTED
+FILE CREATED: 09/02/1995
+FILE LAST UPDATED: 03/03/2001
+FILE AUTHOR: Medical Division / Subject Care / Engineering / Legal Joint Desk
+REVIEWED BY: Central Archive
+FILE STATUS: ACTIVE / RESTRICTED
 DESIGNATION HISTORY: TECH-GOI-071-4 assigned for Mercy Lock Institute fourth registered technology under
 GOI-linked technology numbering
-RECORD CONDITION:        OPERATIONAL / PARTIAL DESIGN ACCESS
+RECORD CONDITION: OPERATIONAL / PARTIAL DESIGN ACCESS
 ```

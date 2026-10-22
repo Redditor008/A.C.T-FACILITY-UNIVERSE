@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Recovery, Containment, Research, Security, Medical |
 | OPERATIONAL STATUS | ACTIVE / SITE-WIDE SUPPORT USE |
 | RISK STATUS | MISROUTED MATERIAL / PERSONNEL DELAY / CHAIN BREAK RISK |
-| CLEARANCE REQUIRED | Level 3 for routine logistics; Level 4 for restricted transfer, resident support, or deep-floor<br>movement |
+| CLEARANCE REQUIRED | Level 3 for routine logistics; Level 4 for restricted transfer, resident support, or deep-floor movement |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Logistics Infrastructure Technology Record |
-| DISTRIBUTION | Administration / Logistics / Recovery / Containment / Research / Security / Nusantara Deep<br>Relay |
+| DISTRIBUTION | Administration / Logistics / Recovery / Containment / Research / Security / Nusantara Deep Relay |
 | AUTHORITY | Relay Administration, Site Director, and Central Archive |
 
 #### Archive Note
@@ -291,7 +291,7 @@ and alive with movement.
 - Which movement categories should stop automatically during F-1 closure?
 - Can informal tool movement create enough custody loss to trigger review?
 - How should ILCC route personnel when surface transition and deep floors both need evacuation
-  priority?
+ priority?
 - Should port handoff delays automatically freeze laboratory scheduling?
 - Can a resident influence logistics by altering what staff believe is urgent?
 - When does a logistics error become a containment breach?
@@ -306,6 +306,6 @@ and alive with movement.
 - **Created:** 2005-12-16
 - **Author Desk:** Relay Administration / Internal Logistics / Central Archive
 - **Review Status:** Active logistics coordination record; route maps, custody ledgers, and priority
-  tables censored
+ tables censored
 - **Next Review:** After any misrouted material, missing return confirmation, emergency movement freeze,
-  port delay, sample transfer incident, or seismic routing drill
+ port delay, sample transfer incident, or seismic routing drill

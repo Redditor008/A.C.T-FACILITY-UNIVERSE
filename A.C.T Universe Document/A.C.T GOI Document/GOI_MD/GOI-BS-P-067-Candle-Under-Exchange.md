@@ -15,17 +15,17 @@
 | SECRECY RISK | LEAKING |
 | A.C.T POSTURE | MONITOR / HELP / COOPERATED / APPROPRIATE |
 | KNOWN LEADERSHIP | Table Keepers, Candle Clerks, Debt Witnesses, and route moderators; no central proprietor confirmed |
-| KNOWN MEMBERSHIP | Survivors, family brokers, safe-house owners, care runners, barter clerks, field medics, charm<br>handlers, and guides |
+| KNOWN MEMBERSHIP | Survivors, family brokers, safe-house owners, care runners, barter clerks, field medics, charm handlers, and guides |
 | PRIMARY ACTIVE REGION | Survivor neighborhoods, post-incident shelters, clinics, hostels, forums, back rooms, border routes, and kitchens |
-| KNOWN ASSETS | Aid ledgers, candle tokens, safe-room lists, medicine lots, low-risk charms, doctor names, witness<br>advice, and routes |
+| KNOWN ASSETS | Aid ledgers, candle tokens, safe-room lists, medicine lots, low-risk charms, doctor names, witness advice, and routes |
 | KNOWN HOLDINGS | Shelter tables, kitchen exchanges, clinic cupboards, survivor hostels, coded boards, and temporary store rooms |
-| IDEOLOGY | Survivors should not have to buy safety from predators or beg institutions that cannot<br>publicly admit their injuries |
+| IDEOLOGY | Survivors should not have to buy safety from predators or beg institutions that cannot publicly admit their injuries |
 | HISTORY WITH A.C.T | Repeated contact through survivor aid, protective-object movement, witness avoidance, and post-incident barter |
 | ANOMALY CROSS-REFERENCE | Restricted survivor-aid, protective charm, safe-house, medicine, witness, and post-breach family case chains |
 | CURRENT STATUS | ACTIVE - positive survivor-aid market under monitored use |
 | PRIMARY FILE AUTHORITY | Intelligence Division / Subject Care / Civil Covert |
 | SITE JURISDICTION | Central Command with Site 01 and route-specific review |
-| CLEARANCE REQUIRED | Level 4; Level 5 for safe-house lists, child witnesses, medical supplier names, and A.C.T-adjacent<br>aid routes |
+| CLEARANCE REQUIRED | Level 4; Level 5 for safe-house lists, child witnesses, medical supplier names, and A.C.T-adjacent aid routes |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -141,8 +141,8 @@ A.C.T assessment identifies these functional layers:
 - charm handlers who test, label, and restrict low-risk protective objects;
 - medicine runners who move supplies between clinics, shelters, and hidden homes;
 - safe-house owners who provide beds without demanding full testimony;
-  witness advisers who teach survivors how to speak to hospitals, police, A.C.T, or
-  lawyers;
+ witness advisers who teach survivors how to speak to hospitals, police, A.C.T, or
+ lawyers;
 - route moderators who identify safe transport and warn against predatory markets;
 - bad-buyer boards that list collectors, brokers, cult recruiters, and fake doctors.
 
@@ -435,12 +435,12 @@ anomalous markets.
 ### Confirmed Operational Facts
 
 - Candle-Under Exchange is an outside survivor-aid market and not an A.C.T body.
-  The Exchange trades aid, medicine, shelter, advice, routes, and limited protective objects among
-  anomaly
-  survivors.
+ The Exchange trades aid, medicine, shelter, advice, routes, and limited protective objects among
+ anomaly
+ survivors.
 - Its network can protect witnesses and also prevent A.C.T from locating them promptly.
-  The Exchange maintains ethical debt limits and bad-buyer warnings distinct from Anstrall Market
-  behavior.
+ The Exchange maintains ethical debt limits and bad-buyer warnings distinct from Anstrall Market
+ behavior.
 - Some exchanged items may be anomalous and require separate custody review.
 
 ### Active Intelligence Assessment
@@ -460,18 +460,18 @@ that fact belongs in the operational assessment rather than being dismissed as c
 
 ### Persistent Questions
 
-  Is there any central table authority, or is Candle-Under only a shared code
-  among
-  survivor markets?
+ Is there any central table authority, or is Candle-Under only a shared code
+ among
+ survivor markets?
 — Who decides whether a charm is low-risk enough for exchange?
 — How often do Lullaby Works or Saint-Vera items pass through Candle-Under tables?
 — Has Anstrall Market infiltrated any Candle-Under nodes to identify desperate sellers?
-  What happens when a survivor cannot repay a debt and the local Debt
-  Witness
-  is corrupt or absent?
+ What happens when a survivor cannot repay a debt and the local Debt
+ Witness
+ is corrupt or absent?
 — Are coded survivor boards protected by ordinary secrecy, anomalous obfuscation, or both?
-  Can A.C.T build formal aid channels that reduce Exchange dependence without forcing witnesses
-  underground?
+ Can A.C.T build formal aid channels that reduce Exchange dependence without forcing witnesses
+ underground?
 
 ### Intelligence Confidence
 
@@ -508,7 +508,7 @@ Exchange.
 - Normalcy Management and Public Narrative Doctrine, Archive Record
 - WITNESS STATEMENT AND TESTIMONY FORM, Operational Form
 - Restricted survivor-aid, protective charm, safe-house, medicine, witness, and post-breach family case chains held
-  under Central Archive routing.
+ under Central Archive routing.
 
 ### Dual Filing
 
@@ -524,11 +524,11 @@ system.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            04/03/1905
-FILE LAST UPDATED:       22/02/1908
-FILE AUTHOR:             Intelligence Division / Subject Care / Civil Covert Joint Desk
-REVIEWED BY:             Central Archive
-FILE STATUS:             ACTIVE / RESTRICTED
-DESIGNATION HISTORY:     GOI-BS-P-067 assigned at creation for Candle-Under Exchange
-RECORD CONDITION:        OPERATIONAL
+FILE CREATED: 04/03/1905
+FILE LAST UPDATED: 22/02/1908
+FILE AUTHOR: Intelligence Division / Subject Care / Civil Covert Joint Desk
+REVIEWED BY: Central Archive
+FILE STATUS: ACTIVE / RESTRICTED
+DESIGNATION HISTORY: GOI-BS-P-067 assigned at creation for Candle-Under Exchange
+RECORD CONDITION: OPERATIONAL
 ```

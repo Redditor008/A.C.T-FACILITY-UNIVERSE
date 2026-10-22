@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | O5 Liaison, Site Command, Engineering, Archive, Medical |
 | OPERATIONAL STATUS | ACTIVE / RESTRICTED / SENIOR-ACCESS STANDARD |
 | RISK STATUS | CONTROLLED / HAZARDOUS IF SPOOFED, MISKEYED, OR OVERUSED |
-| CLEARANCE REQUIRED | Level 4 for senior-site use; Level 5 for O5 Council pulse libraries, re-interfaced staff<br>records, and override rules |
+| CLEARANCE REQUIRED | Level 4 for senior-site use; Level 5 for O5 Council pulse libraries, re-interfaced staff records, and override rules |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -183,7 +183,7 @@ the situation already smells wrong.
 - Do not rely on the reader alone where coercion is possible.
 - Do not discard receipts in senior corridors.
 - Weakest after severe transformation, temporal displacement, resurrection, or heavy amnestic
-  intervention.
+ intervention.
 - Weakest against forged pulse fields and stolen profile fragments.
 
 Scan duration, accepted band width, and receipt retention period are not recorded in this
@@ -341,10 +341,10 @@ decisions.
 ## OPEN QUESTIONS
 
 - What is the accepted pulse band width, and how was it set for re-interfaced
-  staff?
+ staff?
 - How long are senior-corridor receipts retained, and who may compare them against QNB records?
 - Which denial code was recorded in the 2022 smooth history alarm, and is it
-  still in use?
+ still in use?
 
 ---
 
@@ -354,4 +354,4 @@ decisions.
 - **Author Desk:** Security Division / Identity Control Desk / O5 Liaison / Central Archive
 - **Review Status:** Active restricted record; O5 pulse libraries and override rules censored
 - **Next Review:** After any false acceptance, council denial, lawful transformation mismatch, or
-  pulse-library tamper event
+ pulse-library tamper event

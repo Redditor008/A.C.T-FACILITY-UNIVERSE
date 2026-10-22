@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Object Containment, Tactical Review, Site Command, Security |
 | OPERATIONAL STATUS | ACTIVE / FIXED-INSTALLATION / EMERGENCY FIELD ADAPTABLE |
 | RISK STATUS | CONTROLLED / HAZARDOUS IF LOAD, FIELD, OR SUBJECT SHIFTS |
-| CLEARANCE REQUIRED | Level 3 for operation; Level 4 for frequency dial access, HIGENMARU-KORIN breach use, and<br>mobile rig authorization |
+| CLEARANCE REQUIRED | Level 3 for operation; Level 4 for frequency dial access, HIGENMARU-KORIN breach use, and mobile rig authorization |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -179,9 +179,9 @@ attack.
 - Do not store ordinary tools within a restraint arc.
 - Do not use the rig as a crane, weapon rack, or demonstration magnet.
 - Do not adjust frequency while the subject is learning unless Tactical Review orders
-  it.
+ it.
 - Do not activate as a surprise around unknown personnel unless breach conditions override
-  injury risk.
+ injury risk.
 - Weakest against nonmetallic anomalies and metal that changes identity.
 - Weakest against mass that splits into dust, or motion transferred through nonlocal intent.
 
@@ -327,9 +327,9 @@ Standing reminder: MTR buys control of angle. It does not buy ownership of dange
 ## OPEN QUESTIONS
 
 - What is the certified hold rating for each ring diameter, and how was the
-  twenty-ton figure derived?
+ twenty-ton figure derived?
 - What are the liquid-helium capacity and boil-off rate for a fixed station under continuous
-  lock?
+ lock?
 - What does the redacted frequency dial actually control, and who holds the settings?
 
 ---
@@ -340,4 +340,4 @@ Standing reminder: MTR buys control of angle. It does not buy ownership of dange
 - **Author Desk:** Containment Division / Engineering Division / Tactical Review Desk / Central Archive
 - **Review Status:** Active restricted record; frequency settings censored
 - **Next Review:** After any MTR-RED lock, helium loss event, weapon-class breach, or mobile rig
-  deployment
+ deployment

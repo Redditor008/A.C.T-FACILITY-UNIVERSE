@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Containment, Archive, Intelligence, Civil Covert, Site Command |
 | OPERATIONAL STATUS | PARTIALLY RECOVERED / UNITS REMAIN IN CIVILIAN HOMES |
 | RISK STATUS | PROTECTIVE IN SERVICE / HAZARDOUS IF FORCE-OPENED OR LAUNDERED INCORRECTLY |
-| CLEARANCE REQUIRED | Level 3 for instruction handling; Level 4 for weave and sample inspection; Level 5<br>for cutting, laundering trials, or<br>lot tracing |
+| CLEARANCE REQUIRED | Level 3 for instruction handling; Level 4 for weave and sample inspection; Level 5 for cutting, laundering trials, or lot tracing |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -353,7 +353,7 @@ products. Civil Covert maintains the cover position for families.
 - TECH-GOI-054-4 — Lullaby Works Nightmare-Loop Music Box Interrupter;
 - TECH-GOI-054-5 — Lullaby Works Warranty Recall and Failure Ledger;
 - ACT_Personnel_Exposure_E_Class_and_Resilience_Doctrine — for the contrast between memory suppression and memory
-  tolerance;
+ tolerance;
 - Subject Care Division post-incident recovery guidance [restricted].
 
 A textile whose fibre Engineering cannot identify cannot be specified in the Visual Reference
@@ -366,20 +366,20 @@ recover, not from a filing decision.
 
 ## OPEN QUESTIONS
 
-  What in the weave produces the damping effect, and is the pattern itself
-  functional
-  or only its carrier?
-  What fibre is the blanket made from, and why does it match nothing
-  in
-  the reference set?
+ What in the weave produces the damping effect, and is the pattern itself
+ functional
+ or only its carrier?
+ What fibre is the blanket made from, and why does it match nothing
+ in
+ the reference set?
 - Why do separated samples remain warm, and does warmth correlate with remaining function?
 - What happens when the blanket is washed, dried, or ironed?
 - Over how many nights does the effect accumulate, and does it plateau?
 - Does the effect persist if the blanket is moved to a different child?
 - Does a bedding line lot label exist?
-  Why did the manufacturer choose not to suppress memory, and is that an
-  ethical
-  position or a technical limit?
+ Why did the manufacturer choose not to suppress memory, and is that an
+ ethical
+ position or a technical limit?
 - Does the blanket retain anything of the event it damps?
 
 ---
@@ -389,6 +389,6 @@ recover, not from a filing decision.
 - **Created:** 1981-06-02
 - **Author Desk:** Subject Care Division / Medical Division / Central Archive
 - **Review Status:** Active restricted GOI technology record; manufacturer identity and laundering
-  behaviour unresolved
+ behaviour unresolved
 - **Next Review:** After any laundering observation, any new unit recovery, or any fibre identification
-  result
+ result

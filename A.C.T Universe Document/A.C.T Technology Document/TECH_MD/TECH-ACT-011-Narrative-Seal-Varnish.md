@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Info-Hazard, Containment, Site-03 Archive, Materials Desk |
 | OPERATIONAL STATUS | ACTIVE / RESTRICTED APPLICATION |
 | RISK STATUS | CONTROLLED / HAZARDOUS IF MISAPPLIED TO LIVE TEXT |
-| CLEARANCE REQUIRED | Level 3 for ordinary archive use; Level 4 for info-hazard documents, self-writing artifacts, and<br>reapplication orders |
+| CLEARANCE REQUIRED | Level 3 for ordinary archive use; Level 4 for info-hazard documents, self-writing artifacts, and reapplication orders |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -191,7 +191,7 @@ migrating toward the untreated margin.
 - Do not seal a document before correction review.
 - Do not handle a page until matte finish is confirmed.
 - Do not apply to live self-writing text without Level 4 review and an
-  observer.
+ observer.
 - Weakest against world-level denial, where QNB is the stronger safeguard.
 - Weakest against deliberate rewrite, fire, flood, and theft.
 
@@ -350,10 +350,10 @@ page that must work harder to betray the file.
 ## OPEN QUESTIONS
 
 - What is the measured narrative half-life of a correctly applied seal, and how was
-  the LCD estimate derived?
+ the LCD estimate derived?
 - Which approved synthetic archive sheets have been tested, and which have been rejected?
 - How much of the 2019 glossy batch was used before the quarantine, and where
-  did it go?
+ did it go?
 
 ---
 
@@ -363,4 +363,4 @@ page that must work harder to betray the file.
 - **Author Desk:** Archive Division / Info-Hazard Division / Engineering Division / Central Archive
 - **Review Status:** Active restricted record; formula and reapplication rules censored
 - **Next Review:** After any auto-redaction failure, self-writing artifact response, preserved-error
-  incident, or hostile forged-file recovery
+ incident, or hostile forged-file recovery

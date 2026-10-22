@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Recovery, Medical, Engineering, Site-04 Command |
 | OPERATIONAL STATUS | ACTIVE / FIELD AND HABITAT ISSUE / RESTRICTED HIGH HEAT |
 | RISK STATUS | CONTROLLED / HAZARDOUS IF OVERHEATED OR MISDIRECTED |
-| CLEARANCE REQUIRED | Level 2 for habitat use; Level 3 for recovery deployment; Level 4 for high-output<br>settings and predator routing |
+| CLEARANCE REQUIRED | Level 2 for habitat use; Level 3 for recovery deployment; Level 4 for high-output settings and predator routing |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -316,7 +316,7 @@ the enclosure cannot keep.
 ## OPEN QUESTIONS
 
 - What is the maximum output, and at what distance does the lure stop being
-  directional?
+ directional?
 - What does the redacted-grade cooling unit contain, and who services it?
 - How is overconditioning detected before a subject waits beside cold units?
 
@@ -328,4 +328,4 @@ the enclosure cannot keep.
 - **Author Desk:** Subject Care Division / Biological Containment Division / Central Archive
 - **Review Status:** Active restricted record; high-output settings censored
 - **Next Review:** After any beam scatter event, predator misroute, habitat overheating, or subject
-  conditioning incident
+ conditioning incident

@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Security, Engineering, Site Command, Medical, Archive |
 | OPERATIONAL STATUS | ACTIVE / DRILLED / STANDING OPTION |
 | RISK STATUS | SELF-CONTAINMENT SACRIFICE / ACCESS-SEAL FAILURE RISK |
-| CLEARANCE REQUIRED | Level 4 for drill authority; Level 5 or Site Director seal for live closure<br>activation |
+| CLEARANCE REQUIRED | Level 4 for drill authority; Level 5 or Site Director seal for live closure activation |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -168,7 +168,7 @@ failure mode.
 - Do not activate casually.
 - Do not delay when doctrine requires activation.
 - Do not debate whether a service route counts as outside access during a
-  drill.
+ drill.
 - Do not re-enter without the authorization lock releasing.
 - Weakest against a resident already past the severance line.
 - Weakest where the personnel count inside was not confirmed.
@@ -314,6 +314,6 @@ Standing reminder: F-1 closes so the rest of the site remains a site.
 - **Created:** 1928-11-25
 - **Author Desk:** Deep-Hold Command / Engineering / Central Archive
 - **Review Status:** Active deep containment infrastructure record; closure maps and trigger thresholds
-  censored
+ censored
 - **Next Review:** After any live closure, drill hesitation, service-isolation fault, reentry delay, or
-  Hanging Vault retrofit
+ Hanging Vault retrofit

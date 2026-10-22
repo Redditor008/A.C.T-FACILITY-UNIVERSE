@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Temporal Analysis, Biological Containment, Medical, Archive |
 | OPERATIONAL STATUS | ACTIVE / RESTRICTED / PPE-STANDARD FOR VISUAL HAZARDS |
 | RISK STATUS | CONTROLLED / HAZARDOUS IF DELAY, POWER, OR FILTER FAILS |
-| CLEARANCE REQUIRED | Level 2 for basic issue; Level 3 for visual-trigger hazard work; Level 4 for<br>temporal vault and causal mercury use |
+| CLEARANCE REQUIRED | Level 2 for basic issue; Level 3 for visual-trigger hazard work; Level 4 for temporal vault and causal mercury use |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -76,9 +76,9 @@ Approved uses include:
 - visual-trigger hazard containment and cleaning;
 - biological PPE where color flash, gaze, wing shimmer, or reflective motion causes harm;
 - info-hazard object movement where direct recognition produces permanent knowledge;
-  temporal vault monitoring where a moving part or liquid state may imprint on
-  the
-  viewer;
+ temporal vault monitoring where a moving part or liquid state may imprint on
+ the
+ viewer;
 - training drills for personnel learning delayed observation discipline;
 - archive review of footage that cannot be watched raw.
 
@@ -365,11 +365,11 @@ receives the exact look it wanted.
 ## OPEN QUESTIONS
 
 - What are the numeric limits of the approved delay bands, and who sets them
-  per hazard class?
+ per hazard class?
 - What is the shielded battery runtime under full processing load, and how does cold
-  affect it?
+ affect it?
 - Which hazard classes have been shown to act on the delayed image itself rather
-  than on direct sight?
+ than on direct sight?
 
 ---
 
@@ -379,4 +379,4 @@ receives the exact look it wanted.
 - **Author Desk:** Field Safety Desk / Info-Hazard Division / Temporal Analysis Desk / Central Archive
 - **Review Status:** Active restricted record; delay thresholds and processor logic censored
 - **Next Review:** After any visual imprint, temporal vault visor failure, biological flash incident, or
-  feed contamination event
+ feed contamination event

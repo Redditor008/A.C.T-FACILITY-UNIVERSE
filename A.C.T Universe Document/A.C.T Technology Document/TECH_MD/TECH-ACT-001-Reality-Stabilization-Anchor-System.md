@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Site Command, Recovery, Logistics, Archive, Civil Covert, Field Command, and Transformation Review |
 | OPERATIONAL STATUS | ACTIVE / RESTRICTED / SITE-CRITICAL |
 | RISK STATUS | CONTROLLED / HAZARDOUS IF MIS-CALIBRATED |
-| CLEARANCE REQUIRED | Level 4 for operation; Level 5 for core geometry, crystal sourcing, synchronization tables, and<br>emergency override |
+| CLEARANCE REQUIRED | Level 4 for operation; Level 5 for core geometry, crystal sourcing, synchronization tables, and emergency override |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -88,11 +88,11 @@ RSA support appears in four major roles:
 - fixed facility stabilization, especially F-1 through F-3 object and high-pressure containment levels;
 - transport stabilization inside sealed containers, heavy aircraft, intermodal shipping units, and convoy equipment;
 - breach-response stabilization when a zone is losing geometry, sequence, observation reliability, or containment-room
-  identity;
-  research and transformation support when an anomaly is being evaluated for conversion into
-  system,
-  tool, warning, or
-  institutional doctrine.
+ identity;
+ research and transformation support when an anomaly is being evaluated for conversion into
+ system,
+ tool, warning, or
+ institutional doctrine.
 
 The RSA is one reason A.C.T can develop technologies from anomalies without every experiment
 becoming a new
@@ -256,9 +256,9 @@ disagreement in the room.
 ### Envelope And Personnel Limits
 
 - Do not stand inside the violet sweep pattern during calibration without approved sensor-safe
-  gear.
+ gear.
 - Do not move a tripod unit after grid acceptance unless the field has
-  been stepped down.
+ been stepped down.
 - Do not connect an uncertified tablet to the folding connector.
 - Weakest against effects that are not spatial, causal, or structural.
 - Weakest against intelligent anomalies that learn the anchor rhythm.
@@ -373,7 +373,7 @@ is recorded. Crystal replacement is a Level 5 procedure, not a scheduled part ch
 | Camera timestamps repeating at fixed intervals | RSA-AMBER drift misread as an instrument fault | treat as drift; the Redwood Veil F-2 case began exactly this way |
 | Active reality-fracture pressure | RSA-RED | restrict movement and notify Containment |
 | Observer logs record different door counts | core overload or stress bloom | escalate to Engineering; this is the 1965 prototype signature |
-| Anchor integrity unknown | RSA-BLACK | treat as a site movement hazard; do not trust map, log order, or door<br>identity |
+| Anchor integrity unknown | RSA-BLACK | treat as a site movement hazard; do not trust map, log order, or door identity |
 | Hazardous state pinned in place | over-anchoring | reduce stabilization; review whether controlled drift was required |
 
 
@@ -528,47 +528,47 @@ System.
 
 ## OPEN ENGINEERING AND INTELLIGENCE QUESTIONS
 
-  How long can a split Static-Pulse Crystal core operate after repeated RSA-WHITE events
-  before
-  replacement becomes
-  mandatory?
-  Can hostile actors reproduce partial RSA effects using stolen crystal fragments or Ninefold
-  Ark
-  low-power seal
-  patterns?
+ How long can a split Static-Pulse Crystal core operate after repeated RSA-WHITE events
+ before
+ replacement becomes
+ mandatory?
+ Can hostile actors reproduce partial RSA effects using stolen crystal fragments or Ninefold
+ Ark
+ low-power seal
+ patterns?
 — Does prolonged RSA exposure alter staff tolerance for unanchored spaces?
 — Are some anomalies learning to mimic baseline pulse rather than overpower it?
-  Can RSA calibration hide early warning signs by making a room appear stable
-  while
-  stress accumulates inside the core?
-  How much RSA support is safe in spaces used by transformed or partially
-  anomalous
-  A.C.T personnel?
-  Does coupling RSA, ARM, NEMNOLIA-derived memory control, and Causal Static generation create a
-  combined
-  failure mode
-  not visible in single-system tests?
-  What is the true long-term source limit for Static-Pulse Crystal extracted from the
-  Abyss
-  Floor?
+ Can RSA calibration hide early warning signs by making a room appear stable
+ while
+ stress accumulates inside the core?
+ How much RSA support is safe in spaces used by transformed or partially
+ anomalous
+ A.C.T personnel?
+ Does coupling RSA, ARM, NEMNOLIA-derived memory control, and Causal Static generation create a
+ combined
+ failure mode
+ not visible in single-system tests?
+ What is the true long-term source limit for Static-Pulse Crystal extracted from the
+ Abyss
+ Floor?
 
 ---
 
 - No unit mass, power draw, field radius, or grid spacing standard has ever
-  been recorded for the standard pillar.
+ been recorded for the standard pillar.
 - No environmental envelope - temperature, humidity, altitude, power tolerance - is on file.
 - No calibration interval exists; calibration is purely drift-triggered, and nobody has assessed whether
-  that is
-  sufficient.
+ that is
+ sufficient.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            21/04/2026
-FILE LAST UPDATED:       04/11/2026
-FILE AUTHOR:             Engineering Division / Containment Division Joint Desk
-REVIEWED BY:             Central Archive / Site Command Technical Board
-FILE STATUS:             ACTIVE / RESTRICTED
+FILE CREATED: 21/04/2026
+FILE LAST UPDATED: 04/11/2026
+FILE AUTHOR: Engineering Division / Containment Division Joint Desk
+REVIEWED BY: Central Archive / Site Command Technical Board
+FILE STATUS: ACTIVE / RESTRICTED
 DESIGNATION HISTORY: TECH-ACT-001 assigned for individual RSA system expansion under A.C.T-owned technology
 numbering
-RECORD CONDITION:        OPERATIONAL / MAIN A.C.T TECHNOLOGY RECORD
+RECORD CONDITION: OPERATIONAL / MAIN A.C.T TECHNOLOGY RECORD
 ```

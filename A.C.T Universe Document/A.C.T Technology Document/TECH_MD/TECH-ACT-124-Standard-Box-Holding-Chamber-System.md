@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Containment, Security, Recovery, Archive, Transformation |
 | OPERATIONAL STATUS | ACTIVE / STANDARD RESIDENT OBJECT HOLDING |
 | RISK STATUS | CHAMBER MISASSIGNMENT / MONITORING LOSS / ROUTING FAILURE |
-| CLEARANCE REQUIRED | Standard holding authorization; elevated authorization for transfer to F-2 restricted hold or F-4<br>transformation review |
+| CLEARANCE REQUIRED | Standard holding authorization; elevated authorization for transfer to F-2 restricted hold or F-4 transformation review |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -319,6 +319,6 @@ facility survive its daily work.
 - **Created:** 1902-03-27
 - **Author Desk:** Floor Holding Chief / Containment Division / Central Archive
 - **Review Status:** Active standard object chamber technology record; live Box maps, resident
-  identities, and transfer thresholds censored
+ identities, and transfer thresholds censored
 - **Next Review:** After any chamber misassignment, monitoring interruption, standard-hold breach, F-2
-  transfer delay, F-4 routing dispute, or documentation continuity failure
+ transfer delay, F-4 routing dispute, or documentation continuity failure

@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Archive, Site Command, Civil Covert, Intelligence, Field Command, Recovery, Medical Care, and Kurokawa review |
 | OPERATIONAL STATUS | ACTIVE / RESTRICTED / FIELD-DEPLOYABLE |
 | RISK STATUS | CONTROLLED / HAZARDOUS IF OVER-BROADCAST OR MIS-TUNED |
-| CLEARANCE REQUIRED | Level 4 for deployment; Level 5 for boredom-frequency tuning, narrative starvation tables, and<br>site-wide overlap |
+| CLEARANCE REQUIRED | Level 4 for deployment; Level 5 for boredom-frequency tuning, narrative starvation tables, and site-wide overlap |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Restricted Technology Record |
-| DISTRIBUTION | Engineering / Containment / Archive / Civil Covert / Field Command / Intelligence /<br>Command |
+| DISTRIBUTION | Engineering / Containment / Archive / Civil Covert / Field Command / Intelligence / Command |
 | AUTHORITY | Engineering Division, Containment Division, Archive Division, Site Command, and Central Archive |
 
 #### Archive Note
@@ -82,13 +82,13 @@ Causal Static appears in five major roles:
 
 - fixed containment support for narrative-scripting, song-based, legend-feeding, and role-assignment anomalies;
 - field suppression during recovery operations where events begin repeating dramatic beats;
-  archive quarantine when documents, recordings, or testimony attempt to recruit readers into a
-  story;
+ archive quarantine when documents, recordings, or testimony attempt to recruit readers into a
+ story;
 - Civil Covert support when public narratives are becoming anomalously self-reinforcing;
-  personnel protection when field teams need dull procedural interruption before panic, prophecy, or
-  heroic
-  fixation
-  takes hold.
+ personnel protection when field teams need dull procedural interruption before panic, prophecy, or
+ heroic
+ fixation
+ takes hold.
 
 The system's field rule is:
 
@@ -233,7 +233,7 @@ logging link. Neither is optional and neither is adjustable in the field.
 - Do not combine with amnestic treatment without Memory Review approval.
 - Do not assume staff are safe because they are annoyed rather than afraid.
 - Irritation can be the first sign that attention is being pulled into the
-  static field.
+ static field.
 
 The acoustic signature is a recognition feature and an operational limitation at the same
 time: constant high-volume
@@ -247,13 +247,13 @@ fan whir, plus ionized-air venting at high intensity. This unit cannot be run si
 Deployment, Level 4 Engineering, Containment, Archive, or Civil Covert.
 
 1. Identify the narrative behavior being interrupted: prophecy loop, hero fixation, doom sequence, song
-   recruitment,
-   audience formation, role assignment, repeating dialogue, symbolic escalation, or document scripting.
+ recruitment,
+ audience formation, role assignment, repeating dialogue, symbolic escalation, or document scripting.
 2. Do not tune until the target pattern is identified.
 3. Confirm the deployment context is approved at Level 4.
 4. Escalate to Level 5 for site-wide broadcast, public media injection, high-intensity starvation, use
-   around minors,
-   or use in medical wards.
+ around minors,
+ or use in medical wards.
 5. Set the boredom-frequency tuner.
 6. Fit the Medical pulse and stress monitor for crew exposure.
 7. Monitor for CSG-YELLOW irritation rising.
@@ -467,12 +467,12 @@ The Causal Static Generator System interacts with, but is distinct from:
 
 - Anti Reality Mesh System, which manages attention and concealment;
 - Quantum Narrative Buffer System, which preserves records after or during narrative change;
-  Banalist White-Noise Broadcast, a site-wide acoustic system that disrupts narrative scripting through manifest
-  noise;
+ Banalist White-Noise Broadcast, a site-wide acoustic system that disrupts narrative scripting through manifest
+ noise;
 - Causal Static Earpieces, which provide individual issue protection during narrative-bleed events;
 - Spectral Vibration Sensors, which detect song or script leakage rather than suppress it;
-  004-Series Amnestics, which alter memory after exposure rather than disrupt narrative coherence during
-  exposure.
+ 004-Series Amnestics, which alter memory after exposure rather than disrupt narrative coherence during
+ exposure.
 
 Each system requires its own individual technology record. This file covers only the Causal
 Static Generator System.
@@ -483,18 +483,18 @@ Static Generator System.
 
 - Can long-term low-level static exposure reduce staff ability to recognize real urgency?
 - Which anomalies feed on static itself rather than on narrative coherence?
-  Can a hostile GOI counterfeit Causal Static to flatten A.C.T command response during
-  a
-  breach?
+ Can a hostile GOI counterfeit Causal Static to flatten A.C.T command response during
+ a
+ breach?
 - Does repeated static use leave recognizable memory texture that witnesses can later identify?
-  What failure mode appears when CSG-WHITE overlaps ARM-WHITE and QNB-WHITE during public narrative
-  collapse?
-  Can Causal Static safely protect children or trauma survivors, or does banality worsen
-  dissociation?
-  How often does boring filler become memorable enough to create a secondary public
-  pattern?
+ What failure mode appears when CSG-WHITE overlaps ARM-WHITE and QNB-WHITE during public narrative
+ collapse?
+ Can Causal Static safely protect children or trauma survivors, or does banality worsen
+ dissociation?
+ How often does boring filler become memorable enough to create a secondary public
+ pattern?
 - Can Causal Static suppress beneficial narratives, including survival rituals, evacuation trust, or stabilizing
-  testimony?
+ testimony?
 
 ---
 
@@ -504,12 +504,12 @@ Static Generator System.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            13/08/2026
-FILE LAST UPDATED:       05/11/2026
-FILE AUTHOR:             Engineering Division / Containment Division / Archive Division Joint Desk
-REVIEWED BY:             Central Archive / Site Command Technical Board / Medical Care
-FILE STATUS:             ACTIVE / RESTRICTED
+FILE CREATED: 13/08/2026
+FILE LAST UPDATED: 05/11/2026
+FILE AUTHOR: Engineering Division / Containment Division / Archive Division Joint Desk
+REVIEWED BY: Central Archive / Site Command Technical Board / Medical Care
+FILE STATUS: ACTIVE / RESTRICTED
 DESIGNATION HISTORY: TECH-ACT-005 assigned for individual Causal Static Generator System expansion under
 A.C.T-owned technology numbering
-RECORD CONDITION:        OPERATIONAL / MAIN A.C.T TECHNOLOGY RECORD
+RECORD CONDITION: OPERATIONAL / MAIN A.C.T TECHNOLOGY RECORD
 ```

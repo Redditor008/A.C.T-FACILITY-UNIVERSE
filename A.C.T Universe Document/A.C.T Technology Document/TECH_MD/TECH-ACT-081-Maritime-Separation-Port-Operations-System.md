@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Recovery, Research, Logistics, Cover, Containment |
 | OPERATIONAL STATUS | ACTIVE / DUAL-USE PORT SUPPORT |
 | RISK STATUS | COVER COLLISION / RECOVERY EXPOSURE / HARBOR BREACH RISK |
-| CLEARANCE REQUIRED | Level 3 for surface port support; Level 4 for concealed recovery handoff, vessel retasking,<br>or anomaly offload |
+| CLEARANCE REQUIRED | Level 3 for surface port support; Level 4 for concealed recovery handoff, vessel retasking, or anomaly offload |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -292,13 +292,13 @@ MSPOS doctrine holds that dual use survives only when both uses are disciplined.
 
 - How many restricted arrivals can the port absorb before public patterns change?
 - Should all submersible support remain inside restricted berths, or can ordinary repair explain some
-  work?
+ work?
 - Can a civilian vessel witness a concealed offload without understanding what it saw?
 - When does port delay justify moving containment to the vessel instead of the facility?
 - Should public research schedules ever be altered to cover urgent recovery?
 - How long can a dual-use port remain believable during repeated maritime incidents?
 - What berth capacity does the port hold, and how is it shared with the
-  campus?
+ campus?
 - What offload rate can the concealed point sustain?
 - How much of the harbor do the sightline controls actually cover?
 
@@ -309,6 +309,6 @@ MSPOS doctrine holds that dual use survives only when both uses are disciplined.
 - **Created:** 1908-07-12
 - **Author Desk:** Port Operations / Maritime Recovery Command / Central Archive
 - **Review Status:** Active port separation record; vessel identities, berth maps, public partners, and
-  offload routes censored
+ offload routes censored
 - **Next Review:** After any schedule collision, concealed offload, civilian sightline event,
-  water-capable handoff failure, vessel damage, or harbor exposure incident
+ water-capable handoff failure, vessel damage, or harbor exposure incident

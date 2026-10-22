@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Command, Administration, Security, Recovery, Containment, Research, Medical |
 | OPERATIONAL STATUS | ACTIVE / SITE COMMAND DECISION INFRASTRUCTURE |
 | RISK STATUS | STATUS MISREAD / COMMAND DELAY / OPERATIONAL OVERLAP |
-| CLEARANCE REQUIRED | Level 4 for command-floor duty; Level 5 for site-wide emergency posture or restricted vault<br>decision routing |
+| CLEARANCE REQUIRED | Level 4 for command-floor duty; Level 5 for site-wide emergency posture or restricted vault decision routing |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Nusantara Command Technology Record |
-| DISTRIBUTION | Nusantara Deep Relay / Command / Administration / Security / Recovery / Containment /<br>Research / Medical |
+| DISTRIBUTION | Nusantara Deep Relay / Command / Administration / Security / Recovery / Containment / Research / Medical |
 | AUTHORITY | Site Director, Duty Command Officer, Relay Administration, and Central Archive |
 
 #### Archive Note
@@ -307,14 +307,14 @@ loudest alarm.
 ## OPEN QUESTIONS
 
 - How much restricted deep-monitoring information should appear on a command status wall during ordinary
-  operations?
+ operations?
 - Can a duty officer delay action to improve the whole-relay picture, or does delay
-  become command failure?
+ become command failure?
 - Should personnel readiness be allowed to override an otherwise correct operational plan?
 - How much surface cover status should influence deep containment decisions?
 - Can too many overlays make the command picture less truthful by becoming unreadable?
 - When should command request support from another site before the relay admits loss of
-  capacity?
+ capacity?
 - What decision latency is acceptable during a multi-division event?
 - Which feeds must never be displayed together?
 - How should a watch hand over during an active incident?
@@ -326,6 +326,6 @@ loudest alarm.
 - **Created:** 1919-10-26
 - **Author Desk:** Site Director Command Floor / Duty Command Officer / Central Archive
 - **Review Status:** Active command-floor technology record; live status feeds, duty rosters, authority
-  keys, and decision ledgers censored
+ keys, and decision ledgers censored
 - **Next Review:** After any command delay, handoff error, multi-division event, personnel-readiness
-  misread, emergency posture conflict, or command record dispute
+ misread, emergency posture conflict, or command record dispute

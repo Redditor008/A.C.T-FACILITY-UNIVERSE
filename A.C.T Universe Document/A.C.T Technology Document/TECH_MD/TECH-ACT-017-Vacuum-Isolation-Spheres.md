@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Info-Hazard, Engineering, Site Command, Historical Custody |
 | OPERATIONAL STATUS | ACTIVE / LEGACY DESIGN MODERNIZED / RESTRICTED HANDLING |
 | RISK STATUS | CONTROLLED / HAZARDOUS IF PRESSURE OR ACOUSTIC SEAL FAILS |
-| CLEARANCE REQUIRED | Level 3 for operation; Level 4 for hatch override, legacy units, internal atmosphere cycling,<br>and acoustic evidence |
+| CLEARANCE REQUIRED | Level 3 for operation; Level 4 for hatch override, legacy units, internal atmosphere cycling, and acoustic evidence |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -332,7 +332,7 @@ travel.
 
 - What vacuum level does a modernized sphere reach, and how long does pump-down take?
 - What shell thickness survives the 1748 failure mode, and was the ceramic changed after
-  it?
+ it?
 - How are the six-week name-hearing losses from the 1748 rupture held in Medical history?
 
 ---
@@ -343,4 +343,4 @@ travel.
 - **Author Desk:** Containment Division / Archive Division / Engineering Division / Central Archive
 - **Review Status:** Active restricted record; hatch override and atmosphere cycling rules censored
 - **Next Review:** After any pressure-disc disagreement, acoustic leak, manual opening, or legacy-unit
-  transfer
+ transfer

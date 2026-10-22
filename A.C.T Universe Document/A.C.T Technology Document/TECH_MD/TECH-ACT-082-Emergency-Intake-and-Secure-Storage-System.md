@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Recovery Support, Security, Limited Medical, Logistics |
 | OPERATIONAL STATUS | ACTIVE / TEMPORARY INTAKE USE |
 | RISK STATUS | TRANSIENT HOLDING / INTAKE BREACH / TRANSFER DELAY RISK |
-| CLEARANCE REQUIRED | Level 3 for readiness support; Level 4 for live intake, secure storage override, or<br>F-1 closure authority |
+| CLEARANCE REQUIRED | Level 3 for readiness support; Level 4 for live intake, secure storage override, or F-1 closure authority |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Emergency Intake Technology Record |
-| DISTRIBUTION | Recovery Support / Security / Limited Medical / Nusantara Deep Relay / Ash Tide<br>Watchpoint |
+| DISTRIBUTION | Recovery Support / Security / Limited Medical / Nusantara Deep Relay / Ash Tide Watchpoint |
 | AUTHORITY | Watch Chief, Intake Officer, Nusantara Site Command, and Central Archive |
 
 #### Archive Note
@@ -298,11 +298,11 @@ EISSS doctrine holds that the watchpoint receives what it does not own.
 - How long can Ash Tide safely hold material when weather blocks transfer?
 - Which arrivals require immediate F-1 closure on receipt?
 - Can a rolling manifest become a hazard if the intake object alters its own
-  record?
+ record?
 - Should personnel intake and material intake ever share the same stabilization window?
 - When does transfer delay convert emergency storage into unauthorized containment?
 - How much medical care can occur before the patient must be moved to the
-  parent relay?
+ parent relay?
 - What is the approved transfer clock limit before escalation?
 - How much storage does the compact bay actually hold?
 - What environmental band can the temporary control maintain?
@@ -314,6 +314,6 @@ EISSS doctrine holds that the watchpoint receives what it does not own.
 - **Created:** 1949-06-12
 - **Author Desk:** Watch Chief / Intake Officer / Central Archive
 - **Review Status:** Active emergency intake record; live storage maps, transfer clocks, and intake
-  manifests censored
+ manifests censored
 - **Next Review:** After any intake overrun, F-1 closure, transfer delay, surface exposure event,
-  personnel stabilization failure, or parent-relay handoff dispute
+ personnel stabilization failure, or parent-relay handoff dispute

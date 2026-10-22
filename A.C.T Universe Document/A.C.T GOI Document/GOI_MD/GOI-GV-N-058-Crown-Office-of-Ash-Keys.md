@@ -6,7 +6,7 @@
 | GOI DESIGNATION | GOI-GV-N-058 |
 | COMMON NAME | Crown Office of Ash Keys |
 | SHORT NAME | COAK |
-| KNOWN ALIASES | Ash Keys Office; Crown Key Registry; Office of Burnt Locks; The Ash Office; [CENSOR:<br>DYNASTIC CHARTER NAME] |
+| KNOWN ALIASES | Ash Keys Office; Crown Key Registry; Office of Burnt Locks; The Ash Office; [CENSOR: DYNASTIC CHARTER NAME] |
 | NATURE CLASS | GOVERNMENT |
 | ALIGNMENT CLASS | NEUTRAL |
 | REACH CLASS | REGIONAL |
@@ -15,22 +15,22 @@
 | SECRECY RISK | VEILED |
 | A.C.T POSTURE | MONITOR / MISDIRECT / COOPERATED |
 | KNOWN LEADERSHIP | Lord Clerk of Ash Keys; Keeper-Chancellors; named holders obscured by hereditary and charter restrictions |
-| KNOWN MEMBERSHIP | Charter clerks, vault ushers, oath witnesses, estate stewards, relic notaries, key bearers, and<br>hereditary guards |
-| PRIMARY ACTIVE REGION | Old estates, former royal vaults, charter towns, sealed chapels, inheritance routes, and<br>treaty-marked relic sites |
-| KNOWN ASSETS | Ash keys, burned-lock ledgers, relic charters, oath seals, vault inventories, procession rights, and<br>estate maps |
+| KNOWN MEMBERSHIP | Charter clerks, vault ushers, oath witnesses, estate stewards, relic notaries, key bearers, and hereditary guards |
+| PRIMARY ACTIVE REGION | Old estates, former royal vaults, charter towns, sealed chapels, inheritance routes, and treaty-marked relic sites |
+| KNOWN ASSETS | Ash keys, burned-lock ledgers, relic charters, oath seals, vault inventories, procession rights, and estate maps |
 | KNOWN HOLDINGS | Crown vaults, closed estate rooms, chapel crypts, archive shelves, inherited lockboxes, and oath-protected roads |
-| IDEOLOGY | Old custody remains custody until the oath, lock, heir, and danger are all lawfully<br>answered |
-| HISTORY WITH A.C.T | Recurring dispute and limited cooperation over relic claims, sealed estates, hereditary containment,<br>and old treaty sites |
+| IDEOLOGY | Old custody remains custody until the oath, lock, heir, and danger are all lawfully answered |
+| HISTORY WITH A.C.T | Recurring dispute and limited cooperation over relic claims, sealed estates, hereditary containment, and old treaty sites |
 | ANOMALY CROSS-REFERENCE | Restricted relic, inheritance, estate, sealed-room, old-law, and historical containment case chains |
 | CURRENT STATUS | ACTIVE - old-state custody office with limited modern reach |
 | PRIMARY FILE AUTHORITY | Intelligence Division / Central Archive / Civil Covert |
 | SITE JURISDICTION | Central Command with Site 01 and route-specific Site review |
-| CLEARANCE REQUIRED | Level 4; Level 5 for living heirs, active oath locks, and sealed crown vault<br>inventories |
+| CLEARANCE REQUIRED | Level 4; Level 5 for living heirs, active oath locks, and sealed crown vault inventories |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Restricted Record |
-| DISTRIBUTION | Intelligence / Central Archive / Civil Covert / Recovery / Containment / Legal Liaison<br>/ Command |
+| DISTRIBUTION | Intelligence / Central Archive / Civil Covert / Recovery / Containment / Legal Liaison / Command |
 | AUTHORITY | Intelligence Division, Central Archive, Civil Covert Division, and Legal Liaison |
 
 #### Archive Note
@@ -134,13 +134,13 @@ A.C.T assessment identifies these functional layers:
 - Keeper-Chancellors who control regional vault, estate, or charter clusters;
 - relic notaries who record ownership, nonownership, loan, burden, and inheritance status;
 - vault ushers who open or refuse rooms according to key order;
-  oath witnesses who determine whether a promise, bloodline, estate, or royal seal still
-  binds;
+ oath witnesses who determine whether a promise, bloodline, estate, or royal seal still
+ binds;
 - estate stewards who maintain properties containing sealed rooms or custody architecture;
 - procession guards who move relics only on permitted routes;
 - ash ledger clerks who preserve burned or half-burned inventory books;
-  quiet mourners who attend transfers where a family line ends before the object
-  does.
+ quiet mourners who attend transfers where a family line ends before the object
+ does.
 
 This structure makes the Office more than a noble rumor. It has jobs, procedures,
 custody tools, regional reach, and
@@ -224,8 +224,8 @@ Confirmed or strongly assessed capabilities include:
 - opening rooms that are absent from ordinary estate plans;
 - refusing access through keys that remain cold after fire exposure;
 - preserving partial inventories in burned ledgers readable only during specific custody hearings;
-  recognizing when an heir is being claimed by an object rather than inheriting
-  it;
+ recognizing when an heir is being claimed by an object rather than inheriting
+ it;
 - moving relics along processional routes without triggering known hazards;
 - sealing museum storage drawers through charter language rather than mechanical locks;
 - delaying property sale until a dangerous room has been witnessed;
@@ -460,15 +460,15 @@ smears.
 
 ### Confirmed Operational Facts
 
-  The Crown Office of Ash Keys is an outside old-state government office and
-  not
-  an A.C.T division.
-  The Office maintains custody claims over anomalous relics, rooms, keys, estates, and old
-  obligations.
+ The Crown Office of Ash Keys is an outside old-state government office and
+ not
+ an A.C.T division.
+ The Office maintains custody claims over anomalous relics, rooms, keys, estates, and old
+ obligations.
 — Its officers use consistent ash-key, burned-lock, witness, and charter procedures across separate cases.
 — Some Office interventions have prevented breach or harmful inheritance transfer.
-  The Office can also delay A.C.T action and block immediate seizure under old-law
-  claims.
+ The Office can also delay A.C.T action and block immediate seizure under old-law
+ claims.
 
 ### Active Intelligence Assessment
 
@@ -488,25 +488,25 @@ before A.C.T existed.
 
 ### Persistent Questions
 
-  Does the Lord Clerk of Ash Keys exist as one person, a rotating
-  office,
-  or a legal condition activated by custody
-  disputes?
-  How many crown vaults remain active, and how many are already empty because
-  the
-  contents inherited new holders?
-  What is the source of ash keys that remain cold after exposure to
-  fire?
-  Can an A.C.T Site legally accept a burden without accepting the attached apology
-  or
-  restitution condition?
+ Does the Lord Clerk of Ash Keys exist as one person, a rotating
+ office,
+ or a legal condition activated by custody
+ disputes?
+ How many crown vaults remain active, and how many are already empty because
+ the
+ contents inherited new holders?
+ What is the source of ash keys that remain cold after exposure to
+ fire?
+ Can an A.C.T Site legally accept a burden without accepting the attached apology
+ or
+ restitution condition?
 — Are living heirs protected by the Office, trapped by it, or both?
-  How many public museums hold objects tagged by the Office under names ordinary
-  curators
-  do not understand?
-  Did any founder-era containment records rely on Crown Office ledgers before being absorbed
-  into
-  A.C.T archives?
+ How many public museums hold objects tagged by the Office under names ordinary
+ curators
+ do not understand?
+ Did any founder-era containment records rely on Crown Office ledgers before being absorbed
+ into
+ A.C.T archives?
 
 ### Intelligence Confidence
 
@@ -539,9 +539,9 @@ heir-protection review.
 - Normalcy Management and Public Narrative Doctrine, Archive Record
 - Global Site Registry, Archive Record
 - Title Statement, Archive Record
-  Restricted relic, inheritance, estate, sealed-room, old-law, and historical containment case chains held under
-  Central
-  Archive routing.
+ Restricted relic, inheritance, estate, sealed-room, old-law, and historical containment case chains held under
+ Central
+ Archive routing.
 
 ### Dual Filing
 
@@ -557,11 +557,11 @@ or Sites.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            24/05/1939
-FILE LAST UPDATED:       23/07/1941
-FILE AUTHOR:             Intelligence Division / Central Archive / Civil Covert Joint Desk
-REVIEWED BY:             Legal Liaison and Central Archive
-FILE STATUS:             ACTIVE / RESTRICTED
-DESIGNATION HISTORY:     GOI-GV-N-058 assigned at creation for Crown Office of Ash Keys
-RECORD CONDITION:        OPERATIONAL
+FILE CREATED: 24/05/1939
+FILE LAST UPDATED: 23/07/1941
+FILE AUTHOR: Intelligence Division / Central Archive / Civil Covert Joint Desk
+REVIEWED BY: Legal Liaison and Central Archive
+FILE STATUS: ACTIVE / RESTRICTED
+DESIGNATION HISTORY: GOI-GV-N-058 assigned at creation for Crown Office of Ash Keys
+RECORD CONDITION: OPERATIONAL
 ```

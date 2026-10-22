@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Medical Quarantine, Assessment Laboratory, Security |
 | OPERATIONAL STATUS | ACTIVE / QUARANTINE ASSESSMENT USE |
 | RISK STATUS | FALSE RELEASE / MISCLASSIFICATION / SUPPRESSION ERROR RISK |
-| CLEARANCE REQUIRED | Level 3 for quarantine work; Level 4 for suppression change, parent-station escalation, or failed<br>assessment |
+| CLEARANCE REQUIRED | Level 3 for quarantine work; Level 4 for suppression change, parent-station escalation, or failed assessment |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Quarantine Assessment Technology Record |
-| DISTRIBUTION | Frost Hollow Depot / White Grave Station / Medical Quarantine / Assessment Laboratory /<br>Security |
+| DISTRIBUTION | Frost Hollow Depot / White Grave Station / Medical Quarantine / Assessment Laboratory / Security |
 | AUTHORITY | Medical Quarantine Lead, Assessment Officer, Sub-Site Chief, White Grave Site Command, and Central Archive |
 
 #### Archive Note
@@ -304,6 +304,6 @@ QAMSS doctrine holds that the cold chain begins with a question, not a chamber.
 - **Created:** 1946-08-10
 - **Author Desk:** Medical Quarantine Lead / Assessment Officer / Central Archive
 - **Review Status:** Active quarantine assessment record; live chamber maps, suppression tables,
-  failed-assessment files, and escalation channels censored
+ failed-assessment files, and escalation channels censored
 - **Next Review:** After any false release, suppression error, lab contamination, failed assessment,
-  transfer dispute, or seasonal assessment overload
+ transfer dispute, or seasonal assessment overload

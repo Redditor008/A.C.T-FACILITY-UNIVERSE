@@ -12,12 +12,12 @@
 | ATTACHED DIVISIONS | Limited Security, Environmental Containment, Research Support |
 | OPERATIONAL STATUS | ACTIVE / CONCEALED SECTOR CONTROL USE |
 | RISK STATUS | INCURSION / BOUNDARY DRIFT / PUBLIC DISCOVERY RISK |
-| CLEARANCE REQUIRED | Level 3 for sector patrol; Level 4 for boundary redesign, incursion response, or resident<br>perimeter expansion |
+| CLEARANCE REQUIRED | Level 3 for sector patrol; Level 4 for boundary redesign, incursion response, or resident perimeter expansion |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Concealed Perimeter Technology Record |
-| DISTRIBUTION | Hollow Canopy Enclosure / Verde Null Bio-Reserve / Limited Security / Environmental Containment /<br>Research Support |
+| DISTRIBUTION | Hollow Canopy Enclosure / Verde Null Bio-Reserve / Limited Security / Environmental Containment / Research Support |
 | AUTHORITY | Enclosure Supervisor, Limited Security Lead, Verde Null Site Command, and Central Archive |
 
 #### Archive Note
@@ -306,6 +306,6 @@ made itself.
 - **Created:** 1955-02-09
 - **Author Desk:** Limited Security Lead / Enclosure Supervisor / Central Archive
 - **Review Status:** Active concealed perimeter record; live sector maps, marker codes, routes, and
-  response caches censored
+ response caches censored
 - **Next Review:** After any incursion, marker exposure, boundary drift, resident expansion, staff route
-  discovery, or parent-reserve sector redesign
+ discovery, or parent-reserve sector redesign

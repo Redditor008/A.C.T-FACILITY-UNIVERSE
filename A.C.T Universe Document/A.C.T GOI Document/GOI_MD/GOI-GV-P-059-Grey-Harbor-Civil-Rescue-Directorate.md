@@ -6,7 +6,7 @@
 | GOI DESIGNATION | GOI-GV-P-059 |
 | COMMON NAME | Grey Harbor Civil Rescue Directorate |
 | SHORT NAME | GHCRD |
-| KNOWN ALIASES | Grey Harbor Rescue; Civil Rescue Directorate; Harbor Grey; Directorate Rescue Command; [CENSOR:<br>NATIONAL AGENCY NAME] |
+| KNOWN ALIASES | Grey Harbor Rescue; Civil Rescue Directorate; Harbor Grey; Directorate Rescue Command; [CENSOR: NATIONAL AGENCY NAME] |
 | NATURE CLASS | GOVERNMENT |
 | ALIGNMENT CLASS | POSITIVE |
 | REACH CLASS | NATIONAL |
@@ -17,20 +17,20 @@
 | KNOWN LEADERSHIP | Director-General concealed under civil-disaster authority; regional rescue chiefs and harbor captains confirmed |
 | KNOWN MEMBERSHIP | Rescue officers, medics, evacuation drivers, shelter coordinators, signal staff, search teams, divers, and clerks |
 | PRIMARY ACTIVE REGION | National disaster zones, coastal evacuations, industrial accidents, breach-adjacent cities, shelters, and hospitals |
-| KNOWN ASSETS | Rescue fleets, civil shelters, triage tents, siren towers, evacuation buses, survivor ledgers, and<br>grey-tag kits |
+| KNOWN ASSETS | Rescue fleets, civil shelters, triage tents, siren towers, evacuation buses, survivor ledgers, and grey-tag kits |
 | KNOWN HOLDINGS | Emergency depots, harbor stations, mobile command posts, disaster warehouses, field hospitals, and protected shelters |
-| IDEOLOGY | Rescue begins before the explanation is safe; civilians are not to be abandoned for<br>secrecy alone |
-| HISTORY WITH A.C.T | Repeated cooperation and dispute during civilian evacuation, shelter triage, missing-child recovery,<br>and breach response |
+| IDEOLOGY | Rescue begins before the explanation is safe; civilians are not to be abandoned for secrecy alone |
+| HISTORY WITH A.C.T | Repeated cooperation and dispute during civilian evacuation, shelter triage, missing-child recovery, and breach response |
 | ANOMALY CROSS-REFERENCE | Restricted disaster, evacuation, shelter, maritime, industrial, hospital, and witness-care case chains |
 | CURRENT STATUS | ACTIVE - positive government rescue authority under monitor |
 | PRIMARY FILE AUTHORITY | Civil Covert Division / Recovery Division / Medical |
 | SITE JURISDICTION | Central Command with Site 01 and Site 05 primary review |
-| CLEARANCE REQUIRED | Level 4; Level 5 for uncensored casualty lists, child extraction routes, and sealed rescue<br>recordings |
+| CLEARANCE REQUIRED | Level 4; Level 5 for uncensored casualty lists, child extraction routes, and sealed rescue recordings |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
 | ARCHIVE STATUS | Active Restricted Record |
-| DISTRIBUTION | Civil Covert / Recovery / Medical / Intelligence / Containment / Subject Care /<br>Command |
+| DISTRIBUTION | Civil Covert / Recovery / Medical / Intelligence / Containment / Subject Care / Command |
 | AUTHORITY | Civil Covert Division, Recovery Division, Medical Division, and Central Archive |
 
 #### Archive Note
@@ -139,9 +139,9 @@ A.C.T assessment identifies these functional layers:
 - signal rooms that preserve emergency calls, siren activation logs, and responder radio traffic;
 - family-notification clerks who keep relatives informed without exposing classified causes;
 - grey-tag teams who mark survivors requiring A.C.T review without treating them as prisoners;
-  child extraction teams trained to remove minors from panic zones, shelters, schools, and
-  flooded
-  rooms.
+ child extraction teams trained to remove minors from panic zones, shelters, schools, and
+ flooded
+ rooms.
 
 This structure makes the Directorate a real government GOI. It has command, law, personnel,
 public-facing authority,
@@ -457,15 +457,15 @@ apartment three blocks away.
 
 ### Confirmed Operational Facts
 
-  Grey Harbor Civil Rescue Directorate is an outside government rescue authority and not
-  an
-  A.C.T branch.
+ Grey Harbor Civil Rescue Directorate is an outside government rescue authority and not
+ an
+ A.C.T branch.
 — The Directorate has repeatedly saved civilians during anomaly-adjacent disasters.
 — Its restricted procedures recognize abnormal route, shelter, casualty, and witness conditions.
 — Grey Harbor maintains casualty and survivor records that may contradict A.C.T public-cover narratives.
-  The Directorate can cooperate with A.C.T while refusing orders it considers unsafe for
-  civilians
-  in reach.
+ The Directorate can cooperate with A.C.T while refusing orders it considers unsafe for
+ civilians
+ in reach.
 
 ### Active Intelligence Assessment
 
@@ -487,16 +487,16 @@ wanting control over anomalies.
 
 - How many national officials know the Directorate's restricted anomalous-disaster function?
 - Are grey-tag kits anomalous, symbolic, or both?
-  Who authorizes Grey Harbor responders to override ordinary road closure and shelter orders
-  during
-  A.C.T incidents?
+ Who authorizes Grey Harbor responders to override ordinary road closure and shelter orders
+ during
+ A.C.T incidents?
 - Why do some siren tones reduce panic while increasing witness memory retention?
-  Has Grey Harbor ever hidden a survivor from A.C.T after deciding that containment
-  custody
-  would be unsafe?
-  Do some shelter registrars possess training from another outside GOI such as Cairn
-  &
-  Lintel or Lullaby Works?
+ Has Grey Harbor ever hidden a survivor from A.C.T after deciding that containment
+ custody
+ would be unsafe?
+ Do some shelter registrars possess training from another outside GOI such as Cairn
+ &
+ Lintel or Lullaby Works?
 - How many responder memory-care files contain unreported A.C.T operational failures?
 
 ### Intelligence Confidence
@@ -531,7 +531,7 @@ record must not replace disaster casualty records or survivor care.
 - ACCESS AND EGRESS LEDGER FORM, Operational Form
 - WITNESS STATEMENT AND TESTIMONY FORM, Operational Form
 - Restricted disaster, evacuation, shelter, maritime, industrial, hospital, and witness-care case chains held under
-  Central Archive routing.
+ Central Archive routing.
 
 ### Dual Filing
 
@@ -548,11 +548,11 @@ incident closes.
 ## FILE METADATA
 
 ```text
-FILE CREATED:            06/07/1967
-FILE LAST UPDATED:       13/09/1986
-FILE AUTHOR:             Civil Covert / Recovery / Medical Joint Desk
-REVIEWED BY:             Central Archive
-FILE STATUS:             ACTIVE / RESTRICTED
-DESIGNATION HISTORY:     GOI-GV-P-059 assigned at creation for Grey Harbor Civil Rescue Directorate
-RECORD CONDITION:        OPERATIONAL
+FILE CREATED: 06/07/1967
+FILE LAST UPDATED: 13/09/1986
+FILE AUTHOR: Civil Covert / Recovery / Medical Joint Desk
+REVIEWED BY: Central Archive
+FILE STATUS: ACTIVE / RESTRICTED
+DESIGNATION HISTORY: GOI-GV-P-059 assigned at creation for Grey Harbor Civil Rescue Directorate
+RECORD CONDITION: OPERATIONAL
 ```

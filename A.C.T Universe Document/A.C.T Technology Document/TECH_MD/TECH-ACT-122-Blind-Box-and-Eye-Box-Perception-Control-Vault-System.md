@@ -12,7 +12,7 @@
 | ATTACHED DIVISIONS | Archive, Intelligence, Security, Medical, Researcher |
 | OPERATIONAL STATUS | ACTIVE / RESTRICTED PERCEPTION-CONTROL VAULTING |
 | RISK STATUS | PERCEPTION BREACH / RESTRICTION-SET VIOLATION / EYE EXPOSURE |
-| CLEARANCE REQUIRED | Level 4 for unit maintenance; Level 5 for Eye Box observation, restriction-set alteration, or<br>F-1 transfer |
+| CLEARANCE REQUIRED | Level 4 for unit maintenance; Level 5 for Eye Box observation, restriction-set alteration, or F-1 transfer |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -306,11 +306,11 @@ one measured inch.
 
 - Can disciplined perception remain safe if the holding learns the discipline?
 - When should a Blind Box item be declared unreadable enough for F-1 instead of
-  F-2?
+ F-2?
 - Does denying all perception increase staff curiosity enough to become its own hazard?
 - How much of an Eye Box observation may be described before description becomes exposure?
 - Can a restriction set safely include a holding name if the name is itself
-  informative?
+ informative?
 - Should F-2 ever return material upward after it has required visual denial?
 - What makes a viewing protocol safe rather than merely recorded?
 - Should denial ever be relaxed after long stability?
@@ -323,6 +323,6 @@ one measured inch.
 - **Created:** 1985-10-11
 - **Author Desk:** Floor Vault Chief / Restricted-Vault Command / Central Archive
 - **Review Status:** Active perception-control vault technology record; unit maps, Dread EYE apparatus
-  parameters, restriction sets, and observer records censored
+ parameters, restriction sets, and observer records censored
 - **Next Review:** After any perception breach, Eye Box exposure incident, Blind Box maintenance
-  deviation, restriction-set dispute, F-1 transfer review, or Dread EYE protocol change
+ deviation, restriction-set dispute, F-1 transfer review, or Dread EYE protocol change
