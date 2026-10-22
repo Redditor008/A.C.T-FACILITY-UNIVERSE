@@ -6169,3 +6169,71 @@ edit is superseded by this one.
 
 **The four-set ruling stands at 4 / 5 / 4 / 4 = 17 records.** PARTS II, III and IV of the reference
 doctrine are still unaudited, and records 073-2, -3 and -4 are still unbuilt.
+
+## Prompt End Update — 2026-10-23, Sets 073 and 069 Closed; 070 Opened; AI Folder Created
+
+**Nine technology records built this session, all in both twins, all 14 house chapters, all
+cross-references resolving.**
+
+    SET 073  LANTERN ACCORD        GOI-HY-W-073   HYBRID / WORK      CUSTODY            4 of 4  CLOSED
+      -1  Collapsible Signal Beacon              2,376 words
+      -2  Seal And Temporary Custody Tag         2,241 words
+      -3  Yellow-Line Warrant Fragment           2,163 words
+      -4  Violation Ledger Copy                  2,202 words
+
+    SET 069  NAMEWRIGHT BAZAAR     GOI-BS-X-069   BUSINESS / NEGATIVE  COUNTER-OPERATION  4 of 4  CLOSED
+      -1  Partial Name Ledger                    2,217 words
+      -2  Alias Knife                            2,292 words
+      -3  Counterfeit Court Stamp                2,218 words
+      -4  Dead-Name Cupboard Door                2,309 words
+
+    SET 070  SAINT MORROW PASSAGE  GOI-BS-W-070   BUSINESS / WORK      CUSTODY            1 of 4  OPEN
+      -1  White Ticket                           2,245 words
+      -2  Route Bell                             not built
+      -3  Cold-Map Fragment                      not built
+      -4  Partial Crossing Ledger                not built
+
+    SET 074  NINEFOLD ARK          GOI-HY-N-074   HYBRID / NEUTRAL     ASSESSMENT         0 of 5  NOT SCOPED
+      sample coffers, selection fragments, denial cards, trust paperwork, inspection reports
+
+**Two record shapes are now in use and the difference is deliberate.** A custody set asks what an
+appropriated device does for A.C.T. A counter-operation set asks what the instrument does to a
+person, how to recognise that it has been used, and what follows for the person it was used on.
+073 and 070 are custody; 069 is counter-operation; 074 should be assessment, because the Ark is
+monitored rather than cooperated with and A.C.T does not hold its assets in a working sense.
+
+**One limit is specific to 070 and must not be copied into 069.** Material appropriated from a
+hostile market can be held and studied. Material appropriated from a cooperating partner can be
+held and studied and also has to be accounted for to that partner if the relationship is to
+survive. Whether that holding is understood on both sides is an open question in -1.
+
+**NEW TOP-LEVEL FOLDER `AI OPERATIONS RULES/`** (owner ruling: AI material gets its own folder).
+Holds rules that bind an AI agent and nothing canonical. `Proof_Before_Finding.md` carries four
+gates, each from a real failure this session: prove the instrument against a known case; search a
+splice anchor after the section start; a clean exit code is not a pass, count the lines and
+chapters; and tool output is formatted rather than raw, so `git ls-files` quoting a non-ASCII path
+is punctuation and not a corrupted filename. `ACT_Anomaly_Generation_AI_Guide.md` and
+`ACT_Updated_Anomaly_Generator.md` moved here from `A.C.T Anomaly Creation Rule/`; the generation
+standard stayed behind because the canonical terms it defines are canon.
+
+**Doctrine audit complete.** PART I sound: AFD, UFD, UA, QU, AB, BL documented, all families in
+use documented, none undocumented. PART II sound except II-3, which listed seven alignment markers
+and omitted `W` while six dossiers carry it — fixed in both twins; the same omission had been
+fixed in the GOI registry doctrine two commits earlier and this file was missed. PART III sound:
+ten sites and sub-sites documented, matching the dossier folder. PART IV sound: all twelve log
+categories defined and all twelve named in the corpus.
+
+**Anomaly index corrected.** Code families now carry the designation form beside the count:
+AFD 153 `AFD-XX-000`, UFD 2 `UFD-XX-000`, ANM 4 `ANM-XX-XX-0000`, 15 files with no designation.
+A retraction of the ANM figure was recorded and then withdrawn, because ANM uses a four-segment
+designation and the three-segment pattern that produced the retraction had matched the inner
+`QU-AS-0003` of `ANM-QU-AS-0003`.
+
+**Tracked-tree hygiene.** A compiled `engine.cpython-311.pyc` had been committed by `git add -A`
+for several commits. Removed and `.gitignore` added for `__pycache__/` and `*.pyc`. A full audit of
+tracked files found nothing else: 540 txt, 423 md, 3 in-world PDFs, 4 logo files, `engine.py`,
+`docs/index.html` at 0 bytes by owner ruling, `.gitignore`, `LICENSE`.
+
+**Thirteen silent workspace resets this session.** Every push rejection was one. Recovery is
+always `git fetch` then `git rebase` onto the remote, never force. Two of the rebases conflicted on
+the tracked `.pyc`, which is why it was removed.
