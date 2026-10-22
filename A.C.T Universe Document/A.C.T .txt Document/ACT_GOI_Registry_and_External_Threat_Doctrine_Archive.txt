@@ -107,7 +107,12 @@ glance.
 — U = Unknown
 — T = Trade
 — B = Business
+— W = Work
 — G = Guild
+
+W for Work was issued before this list recorded it and appears on six live dossiers; it is
+listed here so the marker and the registry agree. G for Guild is recommended and has not
+been issued. A recommended marker with no dossiers attached is not a defect.
 
 4.2.4 Example GOI Designations
 — `GOI-GV-P-001`
