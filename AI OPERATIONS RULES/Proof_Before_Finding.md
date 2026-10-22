@@ -82,6 +82,31 @@ After any edit that splices, replaces or rewrites a region, verify the result by
 something the edit should not have changed — total lines, chapter headings, word count — and
 compare against the figure measured before the edit. Report both numbers.
 
+## Tool output is formatted, not raw
+
+A tool that lists paths, counts things or renders text applies its own formatting, and that
+formatting can look like a defect in the data. Read tool output through the tool's own options
+before treating anything in it as a finding.
+
+```
+git ls-files                          # quotes and escapes any path with a non-ASCII character
+git -c core.quotepath=false ls-files  # prints the real filename
+```
+
+This produced a false finding. Two tracked files appeared as:
+
+```
+HIGENMARU-K\305\214RIN-AFD-OB-221.txt"
+```
+
+The trailing quote read as a corrupted filename left by a bad shell command. It was git's closing
+quote, and `\305\214` was the character `Ō` in octal. Re-measured with quoting disabled, the
+filenames were clean and zero files carried a quote character. Nothing needed renaming.
+
+The same trap covers wrapped terminal lines that read as over-length lines, table borders that
+count as data rows, and any census whose tool silently truncates. When a measurement looks wrong,
+change the tool's output settings before changing the data.
+
 ## Related standing gates
 
 - Compare `git rev-parse HEAD` against `git ls-remote origin <branch>` before the first edit of
