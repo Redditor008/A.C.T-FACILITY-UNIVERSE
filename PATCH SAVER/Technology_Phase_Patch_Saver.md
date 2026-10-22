@@ -137,6 +137,35 @@ the `.md` order. The gate is **0 twins out of step** across all 229 records. Thi
 added because a section reorder passed every existing check while leaving all 136 `.txt`
 twins in the old order; only this comparison caught it.
 
+### Standing Guard: Reset Check and Full Re-Validation (added 2026-10-22)
+
+A silent workspace reset has now taken HEAD back to the session base and wiped `.arena/` four
+times. Before the first edit of every batch, run:
+
+```
+git rev-parse HEAD
+git ls-remote origin arena/01a0ab57-a-c-t-facility-universe
+```
+
+The two must agree. If local HEAD is `a17dfd0` or otherwise behind the remote, stop and
+recover before editing anything:
+
+```
+cp <files edited this batch> /tmp/
+git fetch -q origin arena/01a0ab57-a-c-t-facility-universe
+git reset --hard FETCH_HEAD
+cp /tmp/<files> <paths>
+```
+
+Never `git add -A` and commit while HEAD is behind the remote. That produces a squash of the
+entire history onto the session base and a non-fast-forward push, and it is how the 963-file
+commit on 2026-10-22 was created.
+
+After every recovery, re-run the **full** validation suite, not only the gates that pass
+quickly: the standing twin chapter-order comparison across all 229 records, `.md` table count
+against `.txt` box count, `DOCUMENT_COUNT`, `TECH_MD`/`TECH_TXT` parity, widest `.txt` box
+line, multiH1, bad-EOF, odd-fence, and `git diff --check`. Quote the numbers into the log.
+
 ## Immediate Next Work
 Read the next relevant A.C.T in-world source material before drafting. Likely source path to
 examine next:
