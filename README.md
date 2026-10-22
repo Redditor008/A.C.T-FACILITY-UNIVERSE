@@ -81,8 +81,8 @@ anomalies, ethics and mysteries.
 - **`[ BLANK ]` and `[BLANK]` are different things.** The spaced form is a redaction marker.
   The unspaced form is a containment class. They are never interchangeable.
 - **GOIs are not only enemies.** Groups of Interest may be governments, markets, cults,
-  companies, civil networks, rivals, witnesses or allied institutions. Relationship labels
-  are POSITIVE, NEUTRAL, NEGATIVE and WORK.
+  companies, civil networks, rivals, witnesses or allied institutions. Alignment classes
+  run POSITIVE, NEUTRAL, NEGATIVE, WORK, BUSINESS, TRADE and UNKNOWN.
 - **The story layer is archive-adjacent.** Main story files dramatise the institution's
   contradictions, especially memory, origin, ABYSS history, and the cost of official truth.
 
@@ -167,7 +167,10 @@ A.C.T-FACILITY-UNIVERSE/
 - **Anomaly records** live in `Anomaly Modern txt/` and the two `Anomaly Legacy 01` folders.
   Code families are `AFD` (anomaly, filed), `UFD` (unfiled) and `ANM` (anomaly, modern),
   with type codes `OB`, `SU`, `CH`, `NB`, `ME`, `IH`, `PL`, `SP`, `TI` and `.H`.
-- **GOI designation** is `GOI-XX-X-XXX`, where the middle letter is the relationship label.
+- **GOI designation** is `GOI-XX-X-XXX`. The two-letter segment is the **nature class** —
+  `BS` business, `CP` corporate, `CU` cultic, `GV` government, `HY` hybrid, `ML` militant.
+  The single letter is the **alignment class** — `P` positive, `N` neutral, `X` negative,
+  `W` work, `B` business, `T` trade, `U` unknown. The number is the registry sequence.
 - **Technology designation** is `TECH-ACT-000` or `TECH-GOI-000-0`.
 - **Site designation** is `ACT-SITE-01-US-W` or `ACT-SUB-01-US-W` style; regional codes are
   defined by the Global Site Registry.

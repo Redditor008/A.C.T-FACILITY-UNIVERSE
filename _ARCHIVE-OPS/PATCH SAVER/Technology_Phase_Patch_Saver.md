@@ -6054,3 +6054,29 @@ and Memetic, carrying the corpus counts.
 
 Also fixed a trailing double newline this batch's own Patch Saver appends introduced, which put the
 file out on the bad-EOF gate.
+
+## Prompt End Update — 2026-10-22, GOI Designation Grammar Resolved
+
+The root README claimed the GOI middle letter was a relationship label drawn from four values.
+Cross-tabulated across all 30 dossiers, that was wrong in two ways.
+
+**The segment meanings**, confirmed against `ACT_GOI_Registry_and_External_Threat_Doctrine_Archive.md`
+section 4.2.1: the first two letters are the **Nature Class code**, the single letter is the
+**Alignment Class marker**, and the three digits are the registry sequence. The README never
+documented the nature class at all.
+
+**Nature class**, one-to-one across the 30 dossiers: `BS` business 5, `CP` corporate 4,
+`CU` cultic 7, `GV` government 5, `HY` hybrid 7, `ML` militant 2. The doctrine recommends ten
+codes; four recommended ones — `SC`, `CV`, `AN`, `IH` — are unused.
+
+**Alignment class**, also one-to-one: `P` positive 8, `X` negative 9, `W` work 6, `N` neutral 4,
+`B` business 1, `T` trade 1, `U` unknown 1. Seven values, not four.
+
+**A canon gap this does not resolve.** Doctrine section 4.2.3 recommends seven alignment markers:
+N, P, X, U, T, B and **G = Guild**. The corpus uses N, P, X, U, T, B and **W = Work**. `W` appears
+in six dossiers and is not in the doctrine's list; `G` is in the doctrine's list and appears in no
+dossier. Either the doctrine predates the work alignment or the dossiers drifted from it. Correcting
+that is a canon decision, not a formatting one, so it is recorded rather than decided here.
+
+Both the root README and the GOI entry file now state the segment meanings and carry the full
+nature and alignment tables.
