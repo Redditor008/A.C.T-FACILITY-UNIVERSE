@@ -5987,3 +5987,23 @@ AND DEVELOPMENT records before deciding which headings actually say custody.
 **Open, measured this prompt.** 115 `.txt` files still carry `**` bold marks, 1,266 in total, against a twin convention that strips them; worst is `TECH-GOI-054-5` at 48. Five `.txt` files hold real markdown pipe tables where the house wants boxes. One prose line runs 353 characters in `ACT_Divisions_Personnel_and_Operational_Life_Archive.txt`. The reader pass has not reached the creation-rule folder or the technology records. The build queue still holds the 17 off-count H3 records and the four unbuilt sets `073`/`074`/`069`/`070`.
 
 **Guard.** A silent reset fired again at the start of this prompt — HEAD back at session base `a17dfd0` against remote `05a17a4`. The standing guard caught it before any edit. That is the eighth.
+
+## Prompt End Update — 2026-10-22, H3 Count Finding Through `33ca3a6`
+
+**The owner's ruling was to cut the 10 over-count records down to the house 8 H3s. Measured before cutting, the premise turns out to be false, so nothing was deleted.**
+
+The figure of 8 was taken from `TECH-ACT-007-Static-Pulse-Crystal` and treated as a house rule. It is one record's shape. Across the 212 records that sit at 8 there are 1,273 distinct H3 names, and **1,194 of them appear in a single record only**. Exactly one name is universal: `Numbered Operating Sequence`. The other seven slots are record-specific by design — the record's own title, three interface or readout headings named for that technology, and three dated failure entries named for it. `SPC-1967 Core Song Event` can never appear in `TECH-ACT-001`.
+
+So 8 is a slot count, not a cap. All 10 over-count records carry every structural anchor the shape implies:
+
+    record title H3 ......... 10 of 10
+    controls/interface H3 ... 10 of 10
+    readouts H3 .............  7 of 10
+    Numbered Operating Seq .. 10 of 10
+    dated failure entries ... 10 of 10, exactly 3 each
+
+Their extra H3s subsection other chapters — physical description, operating procedure, known limits, division use, cross-references — which the 212-record family keeps as prose inside the chapter.
+
+Cutting `TECH-ACT-001` to 8 would remove roughly 2,500 of its 3,494 words, including `Handling Rules` at 361 words, `Technology Relationship` at 331, `Site Grid and Transport Variants` at 328 and `Practical Function` at 206. That is a content loss against a rule that does not exist.
+
+**Recommendation:** treat the 17 records as conforming and close the item, or normalise only the 3 Mercy-Lock records that lack a readouts heading. The 7 under-count records need the same re-examination before anything is added to them.
