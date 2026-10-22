@@ -170,12 +170,12 @@ line, multiH1, bad-EOF, odd-fence, and `git diff --check`. Quote the numbers int
 Read the next relevant A.C.T in-world source material before drafting. Likely source path to
 examine next:
 
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Site Dossier/ACT-SUB-01-US-W-Glass-Orchard-Relay.md`
-- `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Site Dossier/Floor
+- `A.C.T Universe Document/A.C.T .md Document/Site Dossier/ACT-SUB-01-US-W-Glass-Orchard-Relay.md`
+- `A.C.T Universe Document/A.C.T .md Document/Site Dossier/Floor
   Dossier/ACT-SUB-01-US-W-F-1-Short-Term-Holding-Vault.md`
-— `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Site Dossier/Floor
+— `A.C.T Universe Document/A.C.T .md Document/Site Dossier/Floor
   Dossier/ACT-SUB-01-US-W-F-2-Processing-and-Staging-Level.md`
-— `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/Site Dossier/Floor Dossier/ACT-SUB-01-US-W-F-3-Surface-Cover-Level.md`
+— `A.C.T Universe Document/A.C.T .md Document/Site Dossier/Floor Dossier/ACT-SUB-01-US-W-F-3-Surface-Cover-Level.md`
 
 Do not draft from these until they are read in full.
 
@@ -2268,7 +2268,7 @@ Precaution-file standing instruction reaffirmed:
 ## Prompt End Update — 2026-09-16, GOI Count Answer Logged
 Count check completed during this prompt:
 
-- Active GOI dossier files in `A.C.T_UNIVERSE_DOCUMENT/A.C.T GOI Document/GOI_MD`: `30`.
+- Active GOI dossier files in `A.C.T Universe Document/A.C.T GOI Document/GOI_MD`: `30`.
 - GOI technology sets completed at five records each: `6`.
 - Completed GOI-acquired technology records: `30`.
 - Remaining GOI dossiers that still need five GOI-acquired technology records: `24`.
@@ -3689,11 +3689,11 @@ and --cached --check rc=0. All five txt twins carry all five new sections.
 
 ## Prompt Log — 2026-09-18 15:17 UTC
 
-**Request.** Edit and update CROSS-REFERENCES: every document under A.C.T_UNIVERSE_DOCUMENT
+**Request.** Edit and update CROSS-REFERENCES: every document under A.C.T Universe Document
 must read as a real in-world document, not as a file in a folder.
 
 **What was wrong.** Cross-references were written as filesystem paths
-(A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Technological_Master_Index_50.md), in three
+(A.C.T Universe Document/A.C.T .md Document/ACT_Technological_Master_Index_50.md), in three
 forms: 786 markdown links, 500 backticked paths, and 228 bare paths across 167 files.
 The
 118-character wrap had also split 19 of them across two physical lines, corrupting the
@@ -3705,7 +3705,7 @@ archive would cite it: designation, em dash, title, record type.
 
 | Was | Now |
 |---|---|
-| `A.C.T_UNIVERSE_DOCUMENT/.../GOI-CP-P-056-Saint-Vera-Restoration-Concern.md` | GOI-CP-P-056 — Saint-Vera Restoration Concern, Group of Interest Registry |
+| `A.C.T Universe Document/.../GOI-CP-P-056-Saint-Vera-Restoration-Concern.md` | GOI-CP-P-056 — Saint-Vera Restoration Concern, Group of Interest Registry |
 | `A.C.T .md Document/Site Dossier/ACT-SITE-01-US-W-Redwood-Veil-Complex.md` | ACT-SITE-01-US-W — Redwood Veil Complex, Site Dossier |
 | `A.C.T .md Document/ACT_Technological_Master_Index_50.md` | ACT-MASTER-INDEX-50-SYSTEMS-AND-MATERIALS, Archive Record |
 | `A.C.T .md Document/Site Dossier/` | Site Dossier collection, Central Archive |
@@ -3844,7 +3844,7 @@ before and 297 after, git diff --check rc=0.
 That was a misreading: Random means generate the value, not print the instruction. All 378 blocks
 now carry real generated dates and the placeholder appears nowhere in the repository.
 
-**Rules applied, taken from the A.C.T. ANOMALY CREATION RULE folder, section 14.** 14.1 Date Logic:
+**Rules applied, taken from the A.C.T Anomaly Creation Rule folder, section 14.** 14.1 Date Logic:
 dates must make sense internally, so the created date is never later than the last-updated date and
 both sit after the newest year the record itself mentions. 14.2 Date Spread Rule: dates must not
 cluster in one decade, so the created years run across 91 distinct years from the 2000s to the 2090s

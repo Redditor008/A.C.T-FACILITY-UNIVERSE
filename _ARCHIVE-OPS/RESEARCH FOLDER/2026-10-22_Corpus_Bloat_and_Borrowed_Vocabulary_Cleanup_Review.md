@@ -52,7 +52,7 @@ The SCP object classes are effectively absent from in-world documents. The one i
 
 ### 3.3 Third-party crossover content
 
-**18 files, roughly 78,000 words**, under `A.C.T_UNIVERSE_DOCUMENT/A.C.T Anomaly Document/Anomaly Legacy 01 .txt/STORY/`:
+**18 files, roughly 78,000 words**, under `A.C.T Universe Document/A.C.T Anomaly Document/Anomaly Legacy 01 .txt/STORY/`:
 
 - `LobCorp_x_ACT_Crossover_Chapter_1` through `Chapter_8`, each as `.md` and `.txt` — 16 files
 - `Lobotomy_Corporation_Lore_Research` as `.md` and `.txt` — 2 files

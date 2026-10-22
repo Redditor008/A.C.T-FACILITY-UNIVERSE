@@ -11,7 +11,7 @@
 
 **Owner scope update — 06 September 2026:** The public-facing independent A.C.T. core excludes the
 complete
-`A.C.T_UNIVERSE_DOCUMENT/A.C.T Anomaly Document/Emergent Reality Anomaly/` folder. Its 715-series records, logs,
+`A.C.T Universe Document/A.C.T Anomaly Document/Emergent Reality Anomaly/` folder. Its 715-series records, logs,
 related material, and assets are retained in the repository but are not to be
 migrated, featured, linked, or used as
 core-wiki material. The current visual-asset policy also requires an owner-approved, main-branch asset pool with

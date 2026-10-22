@@ -24,13 +24,13 @@ the door that suits you.
 
 | If you want... | Open this |
 |---|---|
-| A story, read straight through | [`The Facility That Forgot Its First Lie` — Full Manuscript](A.C.T_UNIVERSE_DOCUMENT/ACT%20MAIN%20STORY/The-Facility-That-Forgot-Its-First-Lie-Full-Manuscript.md) |
-| The same story one chapter at a time | [Chapter 1 — Correction Order](A.C.T_UNIVERSE_DOCUMENT/ACT%20MAIN%20STORY/Chapters/Chapter-1-Correction-Order.md) |
-| A guided orientation, gently written | [ACT Orientation Handbook](A.C.T_UNIVERSE_DOCUMENT/Junior%20Handbook/ACT_Orientation_Handbook.md) |
-| The history of the institution | [A History of Anomaly Containment Transformation](A.C.T_UNIVERSE_DOCUMENT/%27A%20History%20of%20Anomaly%20Containment%20Transformation%27%20BOOK.md) |
-| The foundational anomaly file | [ITHYOS — ENTITY-000](A.C.T_UNIVERSE_DOCUMENT/A.C.T%20Anomaly%20Document/ITHYOS%20Document/ITHYOS%20.md) |
-| To browse anomaly records at random | [Anomaly Document](A.C.T_UNIVERSE_DOCUMENT/A.C.T%20Anomaly%20Document/) |
-| To see what the Facility builds | [Technology Document](A.C.T_UNIVERSE_DOCUMENT/A.C.T%20Technology%20Document/) |
+| A story, read straight through | [`The Facility That Forgot Its First Lie` — Full Manuscript](A.C.T%20Universe%20Document/ACT%20MAIN%20STORY/The-Facility-That-Forgot-Its-First-Lie-Full-Manuscript.md) |
+| The same story one chapter at a time | [Chapter 1 — Correction Order](A.C.T%20Universe%20Document/ACT%20MAIN%20STORY/Chapters/Chapter-1-Correction-Order.md) |
+| A guided orientation, gently written | [ACT Orientation Handbook](A.C.T%20Universe%20Document/Junior%20Handbook/ACT_Orientation_Handbook.md) |
+| The history of the institution | [A History of Anomaly Containment Transformation](A.C.T%20Universe%20Document/%27A%20History%20of%20Anomaly%20Containment%20Transformation%27%20BOOK.md) |
+| The foundational anomaly file | [ITHYOS — ENTITY-000](A.C.T%20Universe%20Document/A.C.T%20Anomaly%20Document/ITHYOS%20Document/ITHYOS%20.md) |
+| To browse anomaly records at random | [Anomaly Document](A.C.T%20Universe%20Document/A.C.T%20Anomaly%20Document/) |
+| To see what the Facility builds | [Technology Document](A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/) |
 
 Each major folder now opens with its own `README.md` giving the best first read inside it.
 
@@ -94,10 +94,10 @@ anomalies, ethics and mysteries.
 A.C.T-FACILITY-UNIVERSE/
 ├── README.md                       this index
 ├── LICENSE                         CC BY-SA 4.0
-├── LOGO/                           project logo assets (png / svg / seal)
+├── Logo/                           project logo assets (png / svg / seal)
 ├── docs/                           reserved for future public-facing wiki pages
 │
-├── A.C.T_UNIVERSE_DOCUMENT/        the universe itself
+├── A.C.T Universe Document/        the universe itself
 │   ├── ACT MAIN STORY/             the narrative layer
 │   │   ├── Story-Index.md          read this first
 │   │   ├── Chapters/               13 chapters (md + txt)
@@ -123,7 +123,7 @@ A.C.T-FACILITY-UNIVERSE/
 │   ├── Junior Handbook/            orientation for new junior staff
 │   └── 'A History of …' BOOK.md    the in-universe history, md only
 │
-├── A.C.T. ANOMALY CREATION RULE/   generation standards and writer guides
+├── A.C.T Anomaly Creation Rule/   generation standards and writer guides
 │
 └── _ARCHIVE-OPS/                   backstage, kept apart from the fiction
     ├── PATCH SAVER/                working task-continuation log
@@ -136,7 +136,7 @@ A.C.T-FACILITY-UNIVERSE/
 
 | Family | Path | Contents |
 |---|---|---|
-| Core doctrine (md) | `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/` | 24 doctrine records: classification manual, site doctrine, registries, normalcy management, personnel exposure, transformation review, technology indexes, the NEMNOLIA amnestic archive |
+| Core doctrine (md) | `A.C.T Universe Document/A.C.T .md Document/` | 24 doctrine records: classification manual, site doctrine, registries, normalcy management, personnel exposure, transformation review, technology indexes, the NEMNOLIA amnestic archive |
 | Core doctrine (txt) | `…/A.C.T .txt Document/` | Plain-text twins of all 24, plus 2 legacy-only records |
 | Operational forms | `…/Operational Forms/` (both trees) | Access and egress ledger, amnestic administration and memory aftercare review, witness statement and testimony |
 | Site dossiers | `…/Site Dossier/` (both trees) | 5 `SITE` and 5 `SUB` comprehensive dossiers |
@@ -149,7 +149,7 @@ A.C.T-FACILITY-UNIVERSE/
 | Main story | `…/ACT MAIN STORY/` | Manuscript, 13 chapters, character profiles, outline, archives, continuity policy |
 | Handbook | `…/Junior Handbook/` | Orientation written for junior staff (Level 1–2) |
 | BOOK | `…/'A History of Anomaly Containment Transformation' BOOK.md` | In-universe history, Markdown only |
-| Creation rules | `A.C.T. ANOMALY CREATION RULE/` | Generation standards, writer guides, the 2026 canonical-term update |
+| Creation rules | `A.C.T Anomaly Creation Rule/` | Generation standards, writer guides, the 2026 canonical-term update |
 | Reviews | `_ARCHIVE-OPS/RESEARCH FOLDER/` | Dated consistency and style reviews, audits, provenance notes |
 | Working log | `_ARCHIVE-OPS/PATCH SAVER/` | Task-continuation log; not fiction |
 

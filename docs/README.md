@@ -6,7 +6,7 @@ as web-facing material, not as private scratch notes. The folder may contain sta
 supporting page text, public
 reading-order pages, navigation drafts, and later wiki-ready adaptations of canon documents.
 
-The source of truth remains the archive under `A.C.T_UNIVERSE_DOCUMENT/`. A page in this folder
+The source of truth remains the archive under `A.C.T Universe Document/`. A page in this folder
 should present, adapt,
 or guide readers toward canon; it should not silently replace canon doctrine, anomaly records,
 GOI dossiers, site

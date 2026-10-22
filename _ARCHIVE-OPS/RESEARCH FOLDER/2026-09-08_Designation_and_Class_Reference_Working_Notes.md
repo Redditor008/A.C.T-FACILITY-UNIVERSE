@@ -4,7 +4,7 @@
 |---|---|
 | DATED | 08 September 2026 |
 | TYPE | Working / provenance record — companion to the canonical reference |
-| COMPANION TO | `A.C.T_UNIVERSE_DOCUMENT/A.C.T .md Document/ACT_Complete_Designation_and_Class_Reference.md` and its `.txt` twin |
+| COMPANION TO | `A.C.T Universe Document/A.C.T .md Document/ACT_Complete_Designation_and_Class_Reference.md` and its `.txt` twin |
 | OWNER INSTRUCTION HONORED | together. |
 
 ---

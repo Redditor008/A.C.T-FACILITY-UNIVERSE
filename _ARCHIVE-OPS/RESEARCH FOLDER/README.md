@@ -27,7 +27,7 @@ Use this folder for:
 
 Do not place active anomaly files, GOI dossiers, site dossiers, story chapters, or official
 A.C.T archive forms here.
-Those belong under `A.C.T_UNIVERSE_DOCUMENT/` in the correct family folder. If research later becomes canon,
+Those belong under `A.C.T Universe Document/` in the correct family folder. If research later becomes canon,
 it must
 be rewritten into the proper in-world document format instead of copied as a summary.
 
