@@ -1,12 +1,6 @@
 # Technology Phase Patch Saver
 
 
-### Patch 46 — Reordered TECHNICAL SPECIFICATION and PHYSICAL DESCRIPTION in 136 records (both twins)
-
-136 technology records held TECHNICAL SPECIFICATION before the physical or system description, with INTERFACE AND OPERATING ENVELOPE between the two. The house order puts the physical description first, then the specification, then the interface. Each record now follows it in the .md and in its .txt twin. Whole sections moved; no heading text and no body content changed. Records exactly on the house 14-name order rose from 85 to 109.
-
-**Defect found and fixed in this pass.** The first run reordered the .md files correctly but left every .txt twin untouched except for one stray blank line. The cause was in the section-boundary scan: when the physical description had blank lines before its heading, the scan for "the next chapter after the block start" matched the physical heading itself, so the block came out empty and the write inserted only a separator. The fix compares against the heading's own position rather than the blank-trimmed block start. Both twins are now in step, verified by comparing chapter order across all 229 records: 0 out of step.
-
 ## Purpose
 This file exists because the user ordered a Patch Saver to prevent task-state loss
 when the session starts producing
@@ -5930,3 +5924,13 @@ before counting.
 **Next action.** Reorder TECHNICAL SPECIFICATION and PHYSICAL OR SYSTEM DESCRIPTION in the 122 records
 where they are swapped, rename FUNCTION OUTLINE in 16 and the 4 legacy pairs, and read the 90 ORIGIN
 AND DEVELOPMENT records before deciding which headings actually say custody.
+
+## Prompt End Update — 2026-10-22, Section Reorder Across 136 Records Through `d6719a1`
+
+**What was done.** 136 technology records held `TECHNICAL SPECIFICATION` before the physical or system description, with `INTERFACE AND OPERATING ENVELOPE` between the two. The house order puts the physical description first, then the specification, then the interface. Each record now follows it in the `.md` and in its `.txt` twin. Whole sections moved; no heading text and no body content changed. Records exactly on the house 14-name order rose from 85 to 109.
+
+**Defect found and fixed inside this batch.** The first run (`21e3383`) reordered the `.md` files correctly but left every `.txt` twin in the old order, changing each only by one stray blank line. Cause: the section-boundary scan looked for the next chapter heading after the blank-trimmed block start, and when blank lines preceded the physical description the scan matched that heading itself, so the extracted block was empty and the write inserted only a separator. Fix in `d6719a1`: compare against the heading's own position rather than the trimmed start.
+
+**Validation.** Chapter order compared across all 229 records — 0 `.txt` twins out of step with their `.md`. `md` table count versus `txt` box count mismatches 0. `DOCUMENT_COUNT` 946. `TECH_MD`/`TECH_TXT` 231/231. Widest `.txt` box line 118. multiH1 0, bad-EOF 0, odd-fence 0, `git diff --check` clean. Working tree clean at `d6719a13eadb127ca7954fcfea9e6f1e1b26f17c`.
+
+**Immediate next work.** Owner's accepted queue: read all 98 origin sections and rename selectively where the content is really custody; build sets 073 Lantern Accord, 074 Ninefold Ark, 069 Namewright Bazaar, 070 Saint Morrow Passage (20 records, 40 files); normalise the 17 records carrying 26–27 H3s and the 7 carrying 9 numbered steps onto house 8/8.
