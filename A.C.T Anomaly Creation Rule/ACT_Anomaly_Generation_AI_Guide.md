@@ -218,6 +218,19 @@ Use one of these:
 - **TIAMAT** — beyond normal frame of reference
 - **[BLANK]** — engagement itself is dangerous
 
+#### Do not confuse `[BLANK]` with `[ BLANK ]`
+
+These are two different things and they are never interchangeable.
+
+- **`[BLANK]`**, unspaced, is the containment class listed above. It describes what kind of
+  thing the anomaly is: engagement with it is itself dangerous.
+- **`[ BLANK ]`**, spaced, is a redaction marker. It stands in the place of text that has
+  been removed from the record, and it carries no classification meaning at all.
+
+A record may carry both, and they mean different things in the same sentence. Writing the
+containment class with spaces turns it into a redaction, and writing a redaction without
+spaces turns it into a classification. Neither survives review.
+
 #### Choose carefully
 Do not assign classes randomly. The class should match the anomaly’s operational behavior.
 

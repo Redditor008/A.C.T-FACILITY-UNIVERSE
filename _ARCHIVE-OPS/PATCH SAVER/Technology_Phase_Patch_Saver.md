@@ -6034,3 +6034,23 @@ Run it with:
 The `readouts` ruling is dropped by owner decision. The slot is already filled under the
 family's own naming in TECH-GOI-071-2 and -3.
 
+## Prompt End Update — 2026-10-22, Redaction Marker Added to the Generation Guides
+
+The reader pass found that the root README makes the `[ BLANK ]` versus `[BLANK]` distinction a
+headline rule, while the two guides that govern how new anomalies are written mention the
+containment class and never mention the redaction marker. A writer following the guides would not
+learn the distinction the README warns about.
+
+Measured across the corpus, both forms are live: **100** spaced `[ BLANK ]` redaction markers and
+**74** unspaced `[BLANK]` containment classes.
+
+`ACT_Anomaly_Generation_AI_Guide.md` gains a subsection inside its containment-class chapter, placed
+immediately after the class list where `[BLANK]` is defined, stating that the spaced form is a
+redaction marker carrying no classification meaning and that writing either form with the wrong
+spacing destroys information rather than merely misformatting it.
+
+`ACT_Generation_Standard_2026_Update.md` gains a fourth canonical-term section beside O5, Amnestics
+and Memetic, carrying the corpus counts.
+
+Also fixed a trailing double newline this batch's own Patch Saver appends introduced, which put the
+file out on the bad-EOF gate.

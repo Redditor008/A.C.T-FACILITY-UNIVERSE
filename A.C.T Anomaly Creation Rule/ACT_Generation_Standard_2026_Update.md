@@ -168,3 +168,21 @@ quarantine`, and `memetic filtering`. The term appears 707 times across the corp
 rewritten, replaced, or flagged as foreign vocabulary. Where a record must distinguish a hazard that
 acts through perception from one that acts through contact, `memetic` is the correct word and
 `infohazard` is the narrower one.
+
+## Canonical Term: `[BLANK]` and `[ BLANK ]`
+
+These two forms are both A.C.T canon and they are not variants of each other. Neither may be
+rewritten into the other, and neither may be flagged as a formatting inconsistency.
+
+`[BLANK]`, unspaced, is a **containment class**. It sits in the containment-class list beside
+`UNENCLOSABLE`, `INTANGIBLE` and `TIAMAT`, and it means that engagement with the anomaly is
+itself dangerous. It appears 74 times across the corpus.
+
+`[ BLANK ]`, spaced, is a **redaction marker**. It stands where text has been removed from a
+record and carries no classification meaning whatsoever. It appears 100 times across the corpus.
+
+A single record may legitimately carry both, and they will mean different things in the same
+sentence. Writing the containment class with spaces converts it into a redaction; writing a
+redaction without spaces converts it into a classification. Both errors destroy information
+rather than merely misformatting it, which is why the distinction is stated here rather than
+left to the root README.
