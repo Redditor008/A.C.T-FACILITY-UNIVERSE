@@ -1,0 +1,345 @@
+A.C.T FACILITY ARCHIVE FILE — SAINT MORROW PASSAGE WHITE TICKET
+
+TECHNOLOGY RECORD - SAINT MORROW PASSAGE WHITE TICKET
+-----------------------------------------------------
+
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| TECHNOLOGY DESIGNATION     | TECH-GOI-070-1                                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| TECHNOLOGY NAME            | Saint Morrow Passage White Ticket                                                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| SHORT NAME                 | SMPWT                                                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | RECOVERED ADVERSARY DEVICE / PASSAGE AUTHORITY DOCUMENT / DUAL FILING MANDATORY       |
++----------------------------+---------------------------------------------------------------------------------------+
+| ORIGIN                     | SAINT MORROW PASSAGE (GOI-BS-W-070) / WHITE CLERK ISSUE FROM TICKET BOOK STOCK        |
++----------------------------+---------------------------------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Intelligence Division with Legal and Containment review                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Intelligence, Legal, Containment, Subject Care, Archive                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| OPERATIONAL STATUS         | WHITE TICKETS HELD / NO VALID TICKET ISSUED BY A.C.T / NOT REISSUED                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| RISK STATUS                | INERT IN A.C.T CUSTODY / PASSAGE OBLIGATION IF PRESENTED / MISREAD RISK               |
++----------------------------+---------------------------------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 3 for examination; Level 4 for any handling outside storage                     |
++----------------------------+---------------------------------------------------------------------------------------+
+
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Restricted Recovered Adversary Device Record                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Intelligence, Legal, Containment, Subject Care, Command, Archive                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Intelligence Division with Legal and Containment review, restricted holding           |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Archive Note
+------------
+
+This record covers the white ticket books listed first among Saint Morrow Passage assets,
+described in the dossier as carrying route-specific language. A.C.T holds white tickets recovered
+during work contact with the Passage. The full Saint Morrow route books remain unrecovered.
+
+The Passage is a work relationship rather than a hostile one. Its posture is cooperated, monitor,
+misdirect and appropriate, its threat level is 3, and its status is a passage market under
+monitoring. A.C.T therefore holds these tickets as appropriated material from a cooperating
+partner, which is a different position from a seizure and carries different obligations.
+
+The dossier describes a Passage job beginning with destination, passenger condition, route
+urgency, payment ability and admissibility risk. A Route Reader then checks whether ordinary
+transport is possible. If it is not, a White Clerk assigns a route class and a Ticket Saint reads
+the terms aloud. The ticket is the object that comes out of that sequence.
+
+So a white ticket is not a fare. It is a record that ordinary transport was impossible, that a
+route class was assigned, and that terms were read to a passenger who agreed to them. Holding one
+means holding evidence of a passage that could not happen by ordinary means.
+
+Controlled label: WHITE TICKET PRESENTATION RULE.
+
+Core handling rule:
+
+A WHITE TICKET IS NOT A FARE AND NOT A.C.T AUTHORITY. NEVER PRESENT ONE TO ANY CARRIER,
+BORDER OFFICE OR PASSENGER, AND NEVER ISSUE ONE. HOLD IT AS A RECORD, NOT AS A DOCUMENT.
+
+FUNCTION SUMMARY
+================
+
+A white ticket records an assigned route class for a passenger who could not travel by ordinary
+means. It is issued from ticket book stock by a White Clerk.
+
+- records that ordinary transport was assessed as impossible;
+- carries the route class assigned by a White Clerk;
+- carries route-specific language, which the dossier states and does not explain;
+- has no containment, suppression or hazard function.
+
+The dossier lists crossing ledgers divided by passenger, object, body and unpaid debt, and route
+bells mounted under seats, ferry doors and ambulance rails. The ticket sits between the two: it
+authorises the crossing and the bell marks it, while the ledger records what was carried and what
+is owed.
+
+What the route-specific language says is not recorded. Whether it is a code, a set of conditions,
+or plain instructions written for a particular route is unknown, and the route books that would
+explain it are unrecovered.
+
+ORIGIN AND CUSTODY
+==================
+
+White tickets are White Clerk issue, drawn from ticket book stock. The dossier describes Passage
+holdings including ticket desks, road houses, unlisted ferry offices, border rooms, sleeper cars,
+safe garages and chapel-like depots with white candles and locked map cabinets, which places
+ticket issue inside Passage premises rather than with individual porters.
+
+A.C.T recovered white tickets among one route bell, two cold-map fragments and partial crossing
+ledgers, during work contact with the Passage. The posture of cooperated, monitor, misdirect and
+appropriate means this was appropriation from a cooperating partner rather than seizure from a
+hostile one, and the distinction is maintained throughout this record.
+
+Custody sits with Intelligence, with Legal and Containment reviewing. Examination requires
+Level 3. Handling outside storage requires Level 4. No ticket has been presented to any party and
+none may be.
+
+PHYSICAL OR SYSTEM DESCRIPTION
+==============================
+
+The dossier gives no dimensions, material, printing method or format, and none is inferred. What
+it establishes is that tickets come from books and carry route-specific language.
+
++----------------------------+---------------------------------------------------------------------------------------+
+| FIELD                      | VALUE                                                                                 |
++============================+=======================================================================================+
+| Document type              | Passage ticket, drawn from book stock                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Stock form                 | Book, stated                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Language                   | Route-specific, stated; content not recorded                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Dimensions                 | Not recorded                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Material                   | Not recorded                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Printing or writing method | Not recorded                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Issuing officer            | White Clerk                                                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| Terms read by              | Ticket Saint, a separate Passage role                                                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| Serial or route numbering  | Not recorded                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Route books recovered      | No                                                                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Two rows matter. The ticket comes from a book, which means issued tickets are sequential and a
+gap in a book is evidence of a passage. And the language is route-specific, which means a ticket
+cannot be read generically: it says something about one route and not about the Passage as a
+whole.
+
+TECHNICAL SPECIFICATION
+=======================
+
+The dossier gives no specification. Three points are established by inference and are marked as
+such.
+
+The ticket is a refusal record. It exists because ordinary transport was impossible, so every
+white ticket documents an exception rather than a routine journey. That makes a held ticket
+evidence about why a route was closed to ordinary means.
+
+The ticket is role-dependent. A Route Reader assesses, a White Clerk assigns the class, and a
+Ticket Saint reads the terms aloud. Three roles and no A.C.T equivalent, so a ticket held by
+A.C.T cannot be validated, extended or reissued by anyone here.
+
+The ticket depends on the route books. The dossier states the full Saint Morrow route books are
+unrecovered, and the ticket's route-specific language is presumably defined there. A held ticket
+therefore carries language A.C.T cannot fully read.
+
+INTERFACE AND OPERATING ENVELOPE
+================================
+
+Passage Interface
+-----------------
+
+The ticket is issued by a White Clerk to a passenger whose terms have been read by a Ticket Saint.
+No A.C.T role corresponds to any of the three Passage roles and no A.C.T personnel are authorised
+to act in one.
+
+Carrier Interface
+-----------------
+
+A white ticket is presented to a carrier, a ferry office or a border room to authorise a crossing.
+Presenting a held ticket to any of those would assert a passage A.C.T has not arranged and bind
+A.C.T to terms it has not read. No presentation is authorised at any clearance.
+
+Personnel Limits
+----------------
+
+Examination requires Level 3. Handling outside storage requires Level 4. No ticket is presented,
+endorsed, copied or reissued at any clearance.
+
+Numbered Operating Sequence
+---------------------------
+
+The sequence below is the Passage's, recorded for reference. It is not an A.C.T procedure and must
+not be followed by A.C.T personnel.
+
+1. A job is assessed for destination, condition, urgency, payment and admissibility.
+2. A Route Reader checks whether ordinary transport is possible.
+3. If it is not, a White Clerk assigns a route class.
+4. The White Clerk writes the ticket from book stock.
+5. The ticket carries language specific to the assigned route.
+6. A Ticket Saint reads the terms aloud to the passenger.
+7. The passenger travels the route under the ticket.
+8. The crossing ledger records the passenger, object, body or debt carried.
+
+OPERATING PROCEDURE
+===================
+
+A.C.T does not operate the tickets. The only procedure applying to them is storage, examination
+and presentation control.
+
+The tickets are stored flat and separately from any A.C.T documentary stock so that they cannot be
+mistaken for Facility instruments. Examination is visual and is recorded. No ticket is copied,
+because a copy of a ticket is a ticket.
+
+Where a person presents a white ticket to A.C.T, the response is to record it and refer it to
+Legal, and to attend the person. A passenger holding a Passage ticket has travelled a route that
+ordinary transport could not carry, and that is a Subject Care matter before it is an intelligence
+one.
+
+SERVICING AND CALIBRATION
+=========================
+
+No servicing is performed. The tickets are held as recovered.
+
+No cleaning, flattening or repair is permitted, because physical treatment alters the paper and
+the ink that establish the tickets as genuine Passage stock. No calibration exists: the ticket has
+no measurable output and no reference standard.
+
+FAULT ISOLATION
+===============
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| OBSERVED CONDITION         | ESTABLISHED                               | NOT ESTABLISHED                           |
++============================+===========================================+===========================================+
+| Tickets held               | Confirmed                                 | How many, and whether from one book or    |
+|                            |                                           | several                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| No ticket presented by     | Confirmed                                 | Whether any was presented to A.C.T by a   |
+| A.C.T                      |                                           | passenger                                 |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Route-specific language    | Confirmed by the dossier                  | What the language says                    |
+| present                    |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Route books unrecovered    | Confirmed                                 | Whether the language could be read with   |
+|                            |                                           | them                                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+The first row is deliberately left imprecise. The dossier records that A.C.T recovered white
+tickets in the plural without a count, and this record does not supply one.
+
+KNOWN LIMITS
+============
+
+- a white ticket is not a fare and not A.C.T authority, and must never be presented;
+- the route-specific language cannot be read, because the route books are unrecovered;
+- the ticket is role-dependent, so it cannot be validated or reissued by A.C.T;
+- the count held is not recorded in the dossier and is not supplied here;
+- a ticket documents an exception, so it says nothing about ordinary Passage traffic;
+- the tickets came from a cooperating partner, which carries obligations a seizure would not.
+
+The last limit is the one specific to this set. Material appropriated from a hostile market can be
+held and studied. Material appropriated from a cooperating partner can be held and studied, and
+also has to be accounted for to that partner if the relationship is to survive.
+
+FAILURE HISTORY
+===============
+
+No failure has occurred in A.C.T custody. No ticket has been presented or reissued.
+
+RECOVERY CONDITION - DATE NOT RECORDED
+--------------------------------------
+
+The tickets were recovered during work contact with the Passage. The dossier records neither the
+date nor the count. This entry records the absence rather than filling it.
+
+NO TICKET PRESENTED - STANDING RESTRICTION
+------------------------------------------
+
+No white ticket has been presented to any carrier, ferry office, border room or passenger. This
+entry records the restriction as an event so that its absence from the examination record is not
+read as an oversight.
+
+NO COPY MADE - STANDING RESTRICTION
+-----------------------------------
+
+No ticket has been copied, photographed into a working file or transcribed. This entry exists
+because a copy of a ticket is a ticket, and the restriction is easy to break by accident.
+
+DIVISION USE
+============
+
++----------------------------+---------------------------------------------------------------------------------------+
+| DIVISION                   | USE                                                                                   |
++============================+=======================================================================================+
+| Intelligence               | Holds the tickets; records Passage route practice from the dossier                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Legal                      | Reviews any presentation question; advises on the cooperating relationship            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Containment                | Confirms the tickets carry no containment function                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Subject Care               | Attends any passenger presenting a white ticket to A.C.T                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| Archive                    | Holds this record and the cross-references                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+
+No division presents or reissues tickets. Intelligence is the only division with routine access.
+
+CROSS-REFERENCES
+================
+
+- `GOI-BS-W-070` — Saint Morrow Passage, Group of Interest Dossier
+- `TECH-GOI-070-2` — Saint Morrow Passage Route Bell, Technology Record
+- `TECH-GOI-070-3` — Saint Morrow Passage Cold-Map Fragment, Technology Record
+- `TECH-GOI-070-4` — Saint Morrow Passage Partial Crossing Ledger, Technology Record
+
+The ticket authorises the crossing, the bell marks it in transit, the map carries the route, and
+the ledger records what was carried and what is owed. All four turn on the same three Passage
+roles, and none of the four can be operated by A.C.T.
+
+OPEN QUESTIONS
+==============
+
+- how many tickets are held, and whether they came from one book or several;
+- what the route-specific language says, and whether the route books would explain it;
+- whether issued tickets are sequential, so that a gap in a book evidences a passage;
+- what a route class is, and how many classes the Passage assigns;
+- whether the Passage expects appropriated tickets to be accounted for or returned;
+- what happens to a passenger whose ticket A.C.T holds.
+
+The fifth question is live and specific to this set. The Passage is a cooperating partner under
+monitoring, and A.C.T holds its documents. Whether that holding is understood on both sides has
+not been established, and Legal has not ruled.
+
+FILE METADATA
+=============
+
++----------------------------+---------------------------------------------------------------------------------------+
+| FIELD                      | VALUE                                                                                 |
++============================+=======================================================================================+
+| RECORD TYPE                | Technology Record — Recovered Adversary Device                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| CREATED                    | 08/05/2020                                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| LAST UPDATED               | 30/09/2025                                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| REVIEW CYCLE               | On any change in Passage status or any presentation request                           |
++----------------------------+---------------------------------------------------------------------------------------+
+| SOURCE                     | GOI-BS-W-070` Saint Morrow Passage dossier, Known Assets and Holdings and Operating   |
+|                            | Method                                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| DUAL FILING                | Mandatory — filed under GOI recovery and under passage authority documents            |
++----------------------------+---------------------------------------------------------------------------------------+
+| NEXT REVIEW                | On any change in the Passage relationship currently under monitoring                  |
++----------------------------+---------------------------------------------------------------------------------------+
