@@ -20,6 +20,7 @@ can open any of them cold.
 | `Anomaly Modern txt/` | Modern-era anomaly files and dossiers |
 | `Anomaly Legacy 01 .txt/` | Legacy-era files, with an observation `Log/` |
 | `Anomaly Legacy 01.md/` | A small number of legacy-era files in Markdown |
+| `ANOMALY_RECORD_INDEX.md` | Index of every file in this folder, grouped by code family and type code |
 
 ## Designation codes
 
