@@ -6019,3 +6019,18 @@ Cutting `TECH-ACT-001` to 8 would remove roughly 2,500 of its 3,494 words, inclu
 **Engine hardened.** The box renderer placed the `=` rule one line too low, after the header's trailing rule rather than immediately below the header. Fixed. It now reproduces the `TECH-GOI-055-1` reference twin **byte-identically, 24 lines against 24**. Run across the archive, **1,136 of 1,243 boxes reproduce exactly**. Of the 107 that do not, 104 carry the correct widths and differ only because the readback joins a wrapped cell with a space before re-wrapping it, which is a measurement artifact rather than a renderer fault; the remaining 3 sit in the two files whose box widths were non-standard to begin with.
 
 `.arena/` is untracked by standing rule, so the hardened engine lives only in this workspace and will be wiped by the next silent reset. It has been rebuilt from the shipped output twice now. If it is to survive, it needs a home outside `.arena/`.
+
+## Prompt End Update — 2026-10-22, Engine Tracked Under `_ARCHIVE-OPS/tools/`
+
+The owner ruled that the engine be tracked. It now lives at `_ARCHIVE-OPS/tools/engine.py`
+with a README carrying the house specification it is held to and what it is verified against.
+The `never commit .arena/` rule still applies to `.arena/` itself, which holds scratch
+scripts; anything worth keeping moves to the tracked folder.
+
+Run it with:
+
+    PYTHONPATH=_ARCHIVE-OPS/tools python3 _ARCHIVE-OPS/tools/engine.py
+
+The `readouts` ruling is dropped by owner decision. The slot is already filled under the
+family's own naming in TECH-GOI-071-2 and -3.
+
