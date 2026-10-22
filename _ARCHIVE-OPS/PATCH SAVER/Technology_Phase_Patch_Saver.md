@@ -6007,3 +6007,15 @@ Their extra H3s subsection other chapters — physical description, operating pr
 Cutting `TECH-ACT-001` to 8 would remove roughly 2,500 of its 3,494 words, including `Handling Rules` at 361 words, `Technology Relationship` at 331, `Site Grid and Transport Variants` at 328 and `Practical Function` at 206. That is a content loss against a rule that does not exist.
 
 **Recommendation:** treat the 17 records as conforming and close the item, or normalise only the 3 Mercy-Lock records that lack a readouts heading. The 7 under-count records need the same re-examination before anything is added to them.
+
+## Prompt End Update — 2026-10-22, Under-Count Re-Examination and Engine Hardening
+
+**Re-examination of the 7 under-count records, per the owner's ruling. None is defective.**
+
+`TECH-GOI-071-5` was reported as missing its record title and all three failure entries. It is not incomplete: it carries 2,500 words across 14 chapters under a different naming set — `Functional Identity` for FUNCTION SUMMARY, `Transfer Procedure` for OPERATING PROCEDURE, `Failure Modes` for FAILURE HISTORY, `Restrictions`, `Division Access`, `Censorship and Knowledge Gaps`, `Archive Confidence`. The failure content is there, written as prose and bullets rather than three headed entries. `TECH-ACT-137` is complete at 2,638 words with all three failure entries and uses `PROVENANCE AND REVERSE-ENGINEERING`, `FITMENT AND BIO-FEED INTEGRATION` and `DEPLOYMENT ENVELOPE` as variant chapter names. The five Saint-Vera records are complete at roughly 2,450 words each and carry two failure entries rather than three, which is a content judgement and not a structural fault.
+
+**The `readouts` ruling is recommended against.** `TECH-GOI-071-2` carries `Signal Surface And Response` and `TECH-GOI-071-3` carries `Record Surface And Authority`. Those are the readouts slot under the family's own naming. Adding a heading called readouts would duplicate content that is already present, which is the stamping this repository removed 308 files of.
+
+**Engine hardened.** The box renderer placed the `=` rule one line too low, after the header's trailing rule rather than immediately below the header. Fixed. It now reproduces the `TECH-GOI-055-1` reference twin **byte-identically, 24 lines against 24**. Run across the archive, **1,136 of 1,243 boxes reproduce exactly**. Of the 107 that do not, 104 carry the correct widths and differ only because the readback joins a wrapped cell with a space before re-wrapping it, which is a measurement artifact rather than a renderer fault; the remaining 3 sit in the two files whose box widths were non-standard to begin with.
+
+`.arena/` is untracked by standing rule, so the hardened engine lives only in this workspace and will be wiped by the next silent reset. It has been rebuilt from the shipped output twice now. If it is to survive, it needs a home outside `.arena/`.
