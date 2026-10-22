@@ -70,7 +70,7 @@ floors.
 
 ---
 
-## ORIGIN AND DEVELOPMENT
+## ORIGIN AND CUSTODY
 
 Kurokawa Archive Node grew into the eastern region's archive authority, receiving documents and media
 from field

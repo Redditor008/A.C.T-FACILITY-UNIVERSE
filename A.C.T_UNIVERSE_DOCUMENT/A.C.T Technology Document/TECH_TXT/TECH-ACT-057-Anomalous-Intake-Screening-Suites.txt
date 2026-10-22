@@ -80,7 +80,7 @@ Approved roles include anomalous-media intake, document logging, first-pass haza
 chain-of-custody preservation, screening incident control, and support for Kurokawa's lower research and redaction
 floors.
 
-ORIGIN AND DEVELOPMENT
+ORIGIN AND CUSTODY
 
 Kurokawa Archive Node grew into the eastern region's archive authority, receiving documents and media
 from field

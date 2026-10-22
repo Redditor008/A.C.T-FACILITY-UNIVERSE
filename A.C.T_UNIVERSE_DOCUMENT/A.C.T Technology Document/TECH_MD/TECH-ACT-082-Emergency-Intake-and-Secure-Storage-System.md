@@ -66,7 +66,7 @@ stabilization, transfer preparation, rolling manifest creation, F-1 closure supp
 
 ---
 
-## ORIGIN AND DEVELOPMENT
+## ORIGIN AND CUSTODY
 
 Ash Tide began as a coastal relay watchpoint and became permanently staffed after repeated
 coastal anomaly

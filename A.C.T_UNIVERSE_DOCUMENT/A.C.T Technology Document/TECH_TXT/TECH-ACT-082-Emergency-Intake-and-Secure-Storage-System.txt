@@ -77,7 +77,7 @@ resident claim by a sub-site that has no authority to keep what it receives.
 Approved roles include emergency material reception, personnel intake, temporary secure storage, brief environmental
 stabilization, transfer preparation, rolling manifest creation, F-1 closure support, and parent-relay handoff.
 
-ORIGIN AND DEVELOPMENT
+ORIGIN AND CUSTODY
 
 Ash Tide began as a coastal relay watchpoint and became permanently staffed after repeated
 coastal anomaly
