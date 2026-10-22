@@ -6080,3 +6080,31 @@ that is a canon decision, not a formatting one, so it is recorded rather than de
 
 Both the root README and the GOI entry file now state the segment meanings and carry the full
 nature and alignment tables.
+
+## Prompt End Update — 2026-10-22, WORK Marker Canonised; Set Warrant Measured
+
+`W = Work` is added to doctrine 4.2.3 in both twins. `G = Guild` stays recommended and unissued,
+the way the `SC`, `CV`, `AN` and `IH` nature codes already are. The `.txt` twin needed a second
+pass because its bullets are em-dashes, not hyphens, and the first replacement matched only the
+Markdown edition.
+
+**Warrant measured for the four queued sets. All four pass.** Each dossier runs 3,535 to 3,701
+words, carries a `Known Assets and Holdings` section, and lists `APPROPRIATE` among its A.C.T
+postures, which is the posture under which A.C.T takes possession of a rival's equipment.
+
+    GOI-HY-W-073  Lantern Accord        HYBRID   / WORK     CONTAINMENT   3,663 words
+    GOI-HY-N-074  Ninefold Ark          HYBRID   / NEUTRAL  CONTAINMENT   3,701 words
+    GOI-BS-X-069  Namewright Bazaar     BUSINESS / NEGATIVE PRACTITIONER  3,535 words
+    GOI-BS-W-070  Saint Morrow Passage  BUSINESS / WORK     HANDLER       3,575 words
+
+069 is under a dismantlement order and 074 is monitored rather than cooperated with, so their
+records are counter-operation and assessment records rather than custody records. 073 and 070
+are work relationships, so theirs are custody records for appropriated kit.
+
+**Not built this prompt.** Twenty records and forty files at roughly 2,200 words each is about
+44,000 words of new material and did not fit the remaining context. Build one set at a time,
+073 first, against `TECH-GOI-072-1` as the shape reference.
+
+**A defect noticed while reading the dossiers.** All four use `<br>` inside their `KNOWN ASSETS`
+and `KNOWN HOLDINGS` pipe cells. That wrapper makes a source line longer, never shorter, and was
+the cause of a failed width fix earlier in the session.
