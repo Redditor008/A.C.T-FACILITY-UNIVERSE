@@ -5973,3 +5973,17 @@ AND DEVELOPMENT records before deciding which headings actually say custody.
 **Validation.** Chapter order compared across all 229 records — 0 `.txt` twins out of step with their `.md`. `md` table count versus `txt` box count mismatches 0. `DOCUMENT_COUNT` 946. `TECH_MD`/`TECH_TXT` 231/231. Widest `.txt` box line 118. multiH1 0, bad-EOF 0, odd-fence 0, `git diff --check` clean. Working tree clean at `d6719a13eadb127ca7954fcfea9e6f1e1b26f17c`.
 
 **Immediate next work.** Owner's accepted queue: read all 98 origin sections and rename selectively where the content is really custody; build sets 073 Lantern Accord, 074 Ninefold Ark, 069 Namewright Bazaar, 070 Saint Morrow Passage (20 records, 40 files); normalise the 17 records carrying 26–27 H3s and the 7 carrying 9 numbered steps onto house 8/8.
+
+## Prompt End Update — 2026-10-22, Reader Review Through `4938908`
+
+**Owner rulings taken this prompt.** `p` to proceed. Earlier in the session the owner ruled: rebuild the root README around a reader entry point; add entry files to all five document folders; add CC BY-SA 4.0; fold the two backstage folders under `_ARCHIVE-OPS/`; normalise the three content folder names; add an anomaly browsing index; rebuild `Story-Index`; retitle the BOOK; add contents lists to all 24 doctrine records; append each archive record's own name to its H1; fix the one wide line; leave `docs/index.html` alone until everything else is done.
+
+**Shipped.** `f2c3aed` backstage fold · `f26cba4` licence and five entry files · `e352306` root README rebuilt · `591b27f` folder names normalised · `ee1b608` anomaly index, 176 files · `bd6b4a9` story index, BOOK title, 24 contents lists · `c63e4cf` 344 H1s retitled · `05a17a4` three corrupted README twins restored · `4938908` markdown headings stripped from 15 plain-text twins.
+
+**Defects found and corrected in this batch.** Four, all mine. A twin lookup keyed on a hardcoded folder map reached 2 of 344 twins. A lookup keyed on filename stem then collided on `README`, which every folder has, and overwrote three plain-text READMEs with a fourth folder's title; `c63e4cf` shipped that while claiming `0 out of step` when its own output said 4. Twin pairing is now by folder position. An inline box renderer produced duplicated rule lines and truncated rows and was reverted before commit. And a parity checker that reported `5 pairs` was matching the pre-retitle H1 form; re-run correctly it reports **344 records, 344 in step, 0 mismatches, 0 without a twin**.
+
+**Measured state.** `DOCUMENT_COUNT` 952. Distinct H1 lines 386, most shared 3. Residual markdown headings in `.txt` twins **0**. `.txt` files using ASCII boxes **267**; holding a real markdown pipe table **5**. multiH1 0, bad-EOF 0, odd-fence 0, widest box line 118.
+
+**Open, measured this prompt.** 115 `.txt` files still carry `**` bold marks, 1,266 in total, against a twin convention that strips them; worst is `TECH-GOI-054-5` at 48. Five `.txt` files hold real markdown pipe tables where the house wants boxes. One prose line runs 353 characters in `ACT_Divisions_Personnel_and_Operational_Life_Archive.txt`. The reader pass has not reached the creation-rule folder or the technology records. The build queue still holds the 17 off-count H3 records and the four unbuilt sets `073`/`074`/`069`/`070`.
+
+**Guard.** A silent reset fired again at the start of this prompt — HEAD back at session base `a17dfd0` against remote `05a17a4`. The standing guard caught it before any edit. That is the eighth.
