@@ -47,7 +47,7 @@ All 30 GOI dossiers carry a capability classification. There is no gap.
 | Variant | Records |
 | --- | --- |
 | `ORIGIN AND DEVELOPMENT` in place of `ORIGIN AND CUSTODY` | 90 |
-| `TECHNICAL SPECIFICATION` and `PHYSICAL OR SYSTEM DESCRIPTION` in the opposite order | 122 |
+| `TECHNICAL SPECIFICATION` and `PHYSICAL OR SYSTEM DESCRIPTION` in the opposite order | 136 |
 | `FUNCTION OUTLINE` in place of `FUNCTION SUMMARY` | 16 |
 | `ORIGIN AND DEPLOYMENT` in place of `ORIGIN AND CUSTODY` | 8 |
 | `PHYSICAL AND SYSTEM DESCRIPTION` and `OPEN ENGINEERING AND INTELLIGENCE QUESTIONS` | 4 |
@@ -64,7 +64,7 @@ All 144 are `TECH-ACT` records (137) plus 7 `TECH-GOI` records. The 85 records o
 
 | Finding | Status |
 | --- | --- |
-| 122 records with two sections in the opposite order | Real, safe to fix mechanically |
+| 136 records with two sections in the opposite order | Real, safe to fix mechanically |
 | 90 records whose origin heading may not match its content | Real, needs a per-record read |
 | 16 records using `FUNCTION OUTLINE` | Real, safe to rename |
 | 4 records using two legacy heading names | Real, safe to rename |
@@ -77,3 +77,11 @@ All 144 are `TECH-ACT` records (137) plus 7 `TECH-GOI` records. The 85 records o
 ## 6. Rule taken from this
 
 A checker that counts lines must know which format it is reading. `.md` pipe rows and `.txt` box rules both begin with `|` and mean different things, and conflating them produced two false findings and one impossible fix in a single pass. Any width gate from here on separates the two by file suffix before counting.
+
+## Correction to This Memo's Own Swap Count
+
+This memo reported **122** records holding `TECHNICAL SPECIFICATION` ahead of the physical or
+system description. The correct figure is **136**. The first count matched the heading
+`PHYSICAL OR SYSTEM DESCRIPTION` exactly and therefore missed the older records headed
+`PHYSICAL AND SYSTEM DESCRIPTION`. Matching on the heading prefix instead returns 136, and
+all 136 were reordered in commits `21e3383` and `d6719a1`.

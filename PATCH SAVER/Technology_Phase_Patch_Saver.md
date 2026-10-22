@@ -127,6 +127,16 @@ in-world A.C.T archive document. Next action is to continue the technology phase
 using fully read
 existing A.C.T source documents.
 
+### Standing Gate: Twin Chapter-Order Comparison (added 2026-10-22)
+
+Every batch that touches record structure must compare chapter order between each `.md`
+and its `.txt` twin before committing, across all records rather than a sample. For every
+record: take the ordered `## ` headings from the `.md`, locate each as a bare line preceded
+by a blank line in the `.txt`, sort those by position, and assert the sorted order equals
+the `.md` order. The gate is **0 twins out of step** across all 229 records. This gate was
+added because a section reorder passed every existing check while leaving all 136 `.txt`
+twins in the old order; only this comparison caught it.
+
 ## Immediate Next Work
 Read the next relevant A.C.T in-world source material before drafting. Likely source path to
 examine next:
