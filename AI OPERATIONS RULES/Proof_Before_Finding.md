@@ -1,0 +1,61 @@
+# Proof Before Finding
+
+No finding about this archive ships until the instrument that produced it has been proven against
+a case whose answer is already known. This rule exists because three false findings were shipped
+from unproven instruments, and one of them was a false retraction of a true number.
+
+| FIELD | VALUE |
+|---|---|
+| Rule type | Verification gate |
+| Applies to | Every measurement, audit, count, comparison and retraction |
+| Owner ruling | 2026-10-22 |
+| Status | Binding on any AI agent working in this repository |
+
+## The rule
+
+Before reporting any number, any absence, or any discrepancy:
+
+1. **Prove the instrument.** Run it against at least one case whose correct answer you already
+   know, and show that it returns that answer. A census of designation families must be run
+   against a file you have opened and read.
+2. **Prove it finds what exists.** An instrument that returns zero proves nothing until it has
+   returned non-zero on a case you know is present. Zero is a result, not a verification.
+3. **Read the slice you measured.** Print the character count and the first lines of whatever
+   region the instrument operated on. A search that silently lands in the wrong section produces
+   clean output about the wrong text.
+4. **State the instrument with the finding.** A finding is incomplete without the pattern, path
+   and filter that produced it, so a reader can re-run it.
+
+## Why this rule exists
+
+Three real failures, all shipped as findings before the instrument was checked.
+
+**A chapter slice taken from the contents list.** `ACT_Complete_Designation_and_Class_Reference.md`
+carries a `## Contents` list repeating every chapter title. `s.find("PART I")` matched the
+contents entry and sliced 2,588 characters of front matter instead of the 63,966-character
+chapter. Every extraction against that slice returned nothing, and the emptiness was reported as
+a property of the doctrine.
+
+**A format the chapter does not use.** PART I holds zero table rows; its 9,314 words are prose
+across 17 numbered sections. Table-shaped extractors returned nothing and the nothing was read as
+a gap in the doctrine.
+
+**A three-segment pattern against a four-segment designation.** `ANM` records use
+`ANM-XX-XX-0000`. The pattern looked for `XXX-XX-000`, matched the inner `QU-AS-0003` of
+`ANM-QU-AS-0003`, and reported `QU` as a designation family. `QU` is a type code. The instrument
+then reported `ANM` absent, and a true count of four was retracted on that evidence.
+
+## The sharper lesson
+
+A retraction is a finding like any other and needs the same proof. Retracting a true number on a
+bad instrument leaves the reader holding two wrong statements instead of one. Withdraw the
+retraction in the same place it was recorded, say which statement was false, and give the
+corrected measurement.
+
+## Related standing gates
+
+- Compare `git rev-parse HEAD` against `git ls-remote origin <branch>` before the first edit of
+  any batch. Workspace resets return HEAD to the session base and wipe `.arena/`.
+- A checker must test the post-change form of the text, never the pre-change form.
+- Count records, not files. A recursive census must actually recurse.
+- Never state a number without re-measuring it in the same breath.

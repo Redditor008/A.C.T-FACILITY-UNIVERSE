@@ -124,6 +124,7 @@ A.C.T-FACILITY-UNIVERSE/
 │   └── 'A History of …' BOOK.md    the in-universe history, md only
 │
 ├── A.C.T Anomaly Creation Rule/   generation standards and writer guides
+├── AI OPERATIONS RULES/           rules for AI agents editing this archive
 │
 └── _ARCHIVE-OPS/                   backstage, kept apart from the fiction
     ├── PATCH SAVER/                working task-continuation log
@@ -151,6 +152,7 @@ A.C.T-FACILITY-UNIVERSE/
 | BOOK | `…/'A History of Anomaly Containment Transformation' BOOK.md` | In-universe history, Markdown only |
 | Creation rules | `A.C.T Anomaly Creation Rule/` | Generation standards, writer guides, the 2026 canonical-term update |
 | Reviews | `_ARCHIVE-OPS/RESEARCH FOLDER/` | Dated consistency and style reviews, audits, provenance notes |
+| Agent rules | `AI OPERATIONS RULES/` | Binding verification and reporting gates for AI editors; not canon |
 | Working log | `_ARCHIVE-OPS/PATCH SAVER/` | Task-continuation log; not fiction |
 
 ---
