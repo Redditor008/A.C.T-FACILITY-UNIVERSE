@@ -97,6 +97,33 @@ at its surface.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+Standard custody units are black rocks, slabs, plates, blocks, coffin hull segments, or shield
+panels. All inventoried
+pieces are stored on digital gravimetric scales, marked with mass-shift tolerance ranges, and cross-checked
+against
+floor vibration logs. Pieces intended for containment architecture receive additional edge mapping before
+installation.
+
+Known custody elements include:
+
+- Abyssal Basalt block or shaped plate;
+- structural tracking code with omitted sections;
+- digital gravimetric scale;
+- localized compression log;
+- lift-rated pallet cradle;
+- edge-fracture witness line;
+- mass-shift alarm;
+- installation orientation mark;
+- spatial strain tag;
+- retired-chip evidence vial.
+
+No piece is to be stored on ordinary shelving. No piece is to be
+carried by hand, even when visually small.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's custody description and handling doctrine. 2 figures below are blank:
@@ -125,33 +152,6 @@ part of the argument between a
 chamber and the force trying to occupy it, and it is not interchangeable with
 Abyssal Masonry or Abyssal
 Anchor Plating.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-Standard custody units are black rocks, slabs, plates, blocks, coffin hull segments, or shield
-panels. All inventoried
-pieces are stored on digital gravimetric scales, marked with mass-shift tolerance ranges, and cross-checked
-against
-floor vibration logs. Pieces intended for containment architecture receive additional edge mapping before
-installation.
-
-Known custody elements include:
-
-- Abyssal Basalt block or shaped plate;
-- structural tracking code with omitted sections;
-- digital gravimetric scale;
-- localized compression log;
-- lift-rated pallet cradle;
-- edge-fracture witness line;
-- mass-shift alarm;
-- installation orientation mark;
-- spatial strain tag;
-- retired-chip evidence vial.
-
-No piece is to be stored on ordinary shelving. No piece is to be
-carried by hand, even when visually small.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

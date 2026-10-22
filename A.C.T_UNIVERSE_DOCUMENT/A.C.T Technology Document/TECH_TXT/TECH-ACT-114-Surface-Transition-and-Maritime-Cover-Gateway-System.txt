@@ -97,6 +97,7 @@ ordinary. STMCGS formalizes the concealed transition and maritime cover gateway 
 relay use
 its surface without making surface use suspicious.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and gateway doctrine. Gate throughput, Weekly descents,

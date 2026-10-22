@@ -148,66 +148,6 @@ fallback concepts. No confirmed non-A.C.T actor has reproduced a full RSA unit.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from the Visual Reference Guide entry and this record's component list. 4 figures below are
-blank: Unit mass, Power draw, Field radius per unit, and 1 more. Each is filed under OPEN QUESTIONS.
-
-| PARAMETER | VALUE |
-|---|---|
-| Form factor | hexagonal pillar, 1.5 m tall |
-| Body material | matte-black non-reflective tungsten alloy |
-| Base | heavy-duty tungsten tripod with adjustable leveling feet |
-| Sweep sensor | adjustable laser point dynamic sensor, faint violet beam |
-| Core | four-split Static-Pulse Crystal, quarter-segment load distribution |
-| Core chamber | pressurized stress-release behind the front mechanical hatch |
-| Status display | side-mounted LCD, real-time waveforms of the [REDACTED] synchronization link |
-| Remote interface | folding detachable connector to a Wireless Anti-Shifting Tablet |
-| Grounding | braid tied into site structural mass |
-| Deployment forms | fixed site grid, transport, field breach-response |
-| Unit mass | NOT MEASURED |
-| Power draw | NOT MEASURED |
-| Field radius per unit | NOT MEASURED |
-| Grid spacing standard | NOT MEASURED |
-
-The split core is a consequence, not a preference. Single-core prototypes suffered catastrophic stress
-bloom under
-high distortion. The four-quarter design allows controlled disagreement inside the core instead of uncontrolled
-disagreement in the room.
-
-## INTERFACE AND OPERATING ENVELOPE
-
-### Controls
-
-- front mechanical hatch with manual interlock, opening to the pressurized core
-- folding detachable tablet connector
-- side LCD waveform display
-- manual hatch interlock
-
-### Readouts
-
-- violet sweep pattern from the laser point dynamic sensor
-- LCD waveforms of the synchronization link
-- RSA-GREEN through RSA-BLACK working states
-
-### Envelope And Personnel Limits
-
-- Do not stand inside the violet sweep pattern during calibration without approved sensor-safe
-  gear.
-- Do not move a tripod unit after grid acceptance unless the field has
-  been stepped down.
-- Do not connect an uncertified tablet to the folding connector.
-- Weakest against effects that are not spatial, causal, or structural.
-- Weakest against intelligent anomalies that learn the anchor rhythm.
-- Weakest against entropic conditions degrading support systems faster than the anchor can correct.
-- Weakest against narrative-class pressure that treats stabilization as part of the story.
-- Weakest against memory hazards that alter operator interpretation rather than room geometry.
-
-Temperature, humidity, altitude, and power tolerance limits are not recorded anywhere in this file
-or the source
-catalog. Environmental envelope: NOT MEASURED.
-
-
 ## PHYSICAL AND SYSTEM DESCRIPTION
 
 ### Standard Pillar Unit
@@ -270,6 +210,66 @@ authorized for long-term
 holding unless paired with static site support.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from the Visual Reference Guide entry and this record's component list. 4 figures below are
+blank: Unit mass, Power draw, Field radius per unit, and 1 more. Each is filed under OPEN QUESTIONS.
+
+| PARAMETER | VALUE |
+|---|---|
+| Form factor | hexagonal pillar, 1.5 m tall |
+| Body material | matte-black non-reflective tungsten alloy |
+| Base | heavy-duty tungsten tripod with adjustable leveling feet |
+| Sweep sensor | adjustable laser point dynamic sensor, faint violet beam |
+| Core | four-split Static-Pulse Crystal, quarter-segment load distribution |
+| Core chamber | pressurized stress-release behind the front mechanical hatch |
+| Status display | side-mounted LCD, real-time waveforms of the [REDACTED] synchronization link |
+| Remote interface | folding detachable connector to a Wireless Anti-Shifting Tablet |
+| Grounding | braid tied into site structural mass |
+| Deployment forms | fixed site grid, transport, field breach-response |
+| Unit mass | NOT MEASURED |
+| Power draw | NOT MEASURED |
+| Field radius per unit | NOT MEASURED |
+| Grid spacing standard | NOT MEASURED |
+
+The split core is a consequence, not a preference. Single-core prototypes suffered catastrophic stress
+bloom under
+high distortion. The four-quarter design allows controlled disagreement inside the core instead of uncontrolled
+disagreement in the room.
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Controls
+
+- front mechanical hatch with manual interlock, opening to the pressurized core
+- folding detachable tablet connector
+- side LCD waveform display
+- manual hatch interlock
+
+### Readouts
+
+- violet sweep pattern from the laser point dynamic sensor
+- LCD waveforms of the synchronization link
+- RSA-GREEN through RSA-BLACK working states
+
+### Envelope And Personnel Limits
+
+- Do not stand inside the violet sweep pattern during calibration without approved sensor-safe
+  gear.
+- Do not move a tripod unit after grid acceptance unless the field has
+  been stepped down.
+- Do not connect an uncertified tablet to the folding connector.
+- Weakest against effects that are not spatial, causal, or structural.
+- Weakest against intelligent anomalies that learn the anchor rhythm.
+- Weakest against entropic conditions degrading support systems faster than the anchor can correct.
+- Weakest against narrative-class pressure that treats stabilization as part of the story.
+- Weakest against memory hazards that alter operator interpretation rather than room geometry.
+
+Temperature, humidity, altitude, and power tolerance limits are not recorded anywhere in this file
+or the source
+catalog. Environmental envelope: NOT MEASURED.
+
 
 ## OPERATING PROCEDURE
 

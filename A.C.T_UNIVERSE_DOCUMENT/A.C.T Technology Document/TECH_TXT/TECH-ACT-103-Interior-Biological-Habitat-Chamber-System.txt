@@ -94,6 +94,7 @@ It is environmental authorship. The chamber must provide enough of a world to ke
 the resident stable while
 preventing that world from expanding into the rest of the reserve.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and habitat doctrine. 3 values below are not held by the

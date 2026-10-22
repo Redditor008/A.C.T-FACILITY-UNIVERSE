@@ -97,34 +97,6 @@ A forged record that resists correction can outlive the truth it imitates.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's component list and archive practice. 3 values below are not held by the
-archive: Shelf life, Drying time, Regression resistance limit. They are filed under OPEN QUESTIONS.
-
-| INK PARAMETER | VALUE |
-|---|---|
-| Container | heavy glass inkwell with drip-prevention valve |
-| Appearance | pitch black with violet sparkle under angled light |
-| Viscosity | thicker than ordinary ink, slow to flow |
-| Reservoir | pressurized, holding particle distribution stable |
-| Closure | biometric thumbprint cap with custody tag |
-| Active component | suspended causal-memory particles |
-| Verification | batch light-test strip for violet response |
-| Warning | particle-settling warning band |
-| Waste | used-nib quarantine cup |
-| Handling record | solvent exposure tag |
-| Restricted stock | sealed Council-level log stock where applicable |
-| Particle source | not recorded in this file |
-| Shelf life | NOT MEASURED |
-| Drying time | NOT MEASURED |
-| Regression resistance limit | NOT MEASURED |
-
-The ink is the mark itself. QNB preserves data across larger causal events and
-NSV protects page surface, so
-RRI is never a substitute for either; it is the layer that insists the
-original mark was made.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 RRI is stored in heavy glass inkwells with drip-prevention valves. The liquid is pitch
@@ -153,6 +125,34 @@ Disposable nibs are preferred for
 hazardous anomaly records.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and archive practice. 3 values below are not held by the
+archive: Shelf life, Drying time, Regression resistance limit. They are filed under OPEN QUESTIONS.
+
+| INK PARAMETER | VALUE |
+|---|---|
+| Container | heavy glass inkwell with drip-prevention valve |
+| Appearance | pitch black with violet sparkle under angled light |
+| Viscosity | thicker than ordinary ink, slow to flow |
+| Reservoir | pressurized, holding particle distribution stable |
+| Closure | biometric thumbprint cap with custody tag |
+| Active component | suspended causal-memory particles |
+| Verification | batch light-test strip for violet response |
+| Warning | particle-settling warning band |
+| Waste | used-nib quarantine cup |
+| Handling record | solvent exposure tag |
+| Restricted stock | sealed Council-level log stock where applicable |
+| Particle source | not recorded in this file |
+| Shelf life | NOT MEASURED |
+| Drying time | NOT MEASURED |
+| Regression resistance limit | NOT MEASURED |
+
+The ink is the mark itself. QNB preserves data across larger causal events and
+NSV protects page surface, so
+RRI is never a substitute for either; it is the layer that insists the
+original mark was made.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

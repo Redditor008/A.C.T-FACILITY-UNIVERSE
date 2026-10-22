@@ -100,34 +100,6 @@ than myth.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's component list and screening doctrine. 2 values below are not held by
-the archive: Scan duration, Site static calibration. They are filed under OPEN QUESTIONS.
-
-| GATE PARAMETER | VALUE |
-|---|---|
-| Form | walk-through scanner gateway |
-| Sensing | paired vertical light-pillars with restricted sensor arrays |
-| Readout | PR-Score digital counter, shielded from public display |
-| Comparison | static-pulse comparison board |
-| Clinical link | medical baseline interface |
-| Output | assignment flag module |
-| Privacy | operator privacy shield |
-| Records | scan log buffer |
-| Detection light | deep-violet HPP indication |
-| Standby colour | white pillars |
-| Measured channels | body field, pulse stability, neural timing, static response, psychic weight |
-| PR-score band definitions | held at Level 4 |
-| Scan duration | NOT MEASURED |
-| Site static calibration | NOT MEASURED |
-
-The scanner is not a personality test and not proof of supernatural talent. A
-high score may mean
-sensitivity, danger, suitability, or fragility, and a low score only means the scanner did
-not detect that
-profile on that day.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 The standard HPP-RS is a walk-through gateway. Two vertical light-pillars hold restricted sensor arrays.
@@ -158,6 +130,34 @@ Grave to Verde Null without
 recalibration may produce misleading scores.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and screening doctrine. 2 values below are not held by
+the archive: Scan duration, Site static calibration. They are filed under OPEN QUESTIONS.
+
+| GATE PARAMETER | VALUE |
+|---|---|
+| Form | walk-through scanner gateway |
+| Sensing | paired vertical light-pillars with restricted sensor arrays |
+| Readout | PR-Score digital counter, shielded from public display |
+| Comparison | static-pulse comparison board |
+| Clinical link | medical baseline interface |
+| Output | assignment flag module |
+| Privacy | operator privacy shield |
+| Records | scan log buffer |
+| Detection light | deep-violet HPP indication |
+| Standby colour | white pillars |
+| Measured channels | body field, pulse stability, neural timing, static response, psychic weight |
+| PR-score band definitions | held at Level 4 |
+| Scan duration | NOT MEASURED |
+| Site static calibration | NOT MEASURED |
+
+The scanner is not a personality test and not proof of supernatural talent. A
+high score may mean
+sensitivity, danger, suitability, or fragility, and a low score only means the scanner did
+not detect that
+profile on that day.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

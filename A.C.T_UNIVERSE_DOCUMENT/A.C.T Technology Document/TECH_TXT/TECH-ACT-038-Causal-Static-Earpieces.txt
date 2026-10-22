@@ -103,6 +103,7 @@ Current deployment is mandatory for consensus-sensitive hazards, narrative-bleed
 readings, and any operation where staff are likely to ask what role they are
 meant to play.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and field doctrine. The archive holds no figure for Drift

@@ -99,6 +99,7 @@ evacuation without relying on fragile ordinary communication. CCN grew as the co
 the relay's
 sensor and records systems: if F-1 listens and F-2 remembers, F-5 commands.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and command doctrine. 3 figures below are blank: Channel

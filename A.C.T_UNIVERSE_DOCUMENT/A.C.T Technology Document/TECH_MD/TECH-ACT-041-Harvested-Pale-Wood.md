@@ -103,34 +103,6 @@ use.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's material description and custody doctrine. 3 figures below are blank:
-Plank dimensions, Harvest yield per expedition, Gold loss per cut. Each is filed under OPEN QUESTIONS.
-
-| TIMBER PARAMETER | VALUE |
-|---|---|
-| Body | white or bone-pale timber with no bark |
-| Surface | polished-bone tactile feel, not Earth wood |
-| Optics | low-level pearlescent sheen under angled light |
-| Grain | subtle; visible after cold condensation or ultraviolet inspection |
-| Residue | clear ozone-scented sap |
-| Identity | microscopic restricted ID tag per plank |
-| Marks | harvest-orientation mark |
-| Records | gold-tool modification log and dust-capture seal |
-| Storage | dry storage cradle |
-| Inspection | Dark World residue inspection swab |
-| Workability | workable only under twenty-four karat gold contact |
-| Plank dimensions | NOT MEASURED |
-| Harvest yield per expedition | NOT MEASURED |
-| Gold loss per cut | NOT MEASURED |
-
-The same property that lets A.C.T shape the material lets a careless or hostile
-handler with gold alter what
-ordinary force cannot. Dust is active custody material, not waste, and shared work zones
-are treated as
-contamination events.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 Prepared HPW appears as white or bone-pale timber with no bark. The surface feels
@@ -159,6 +131,34 @@ is sealed and
 tracked.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's material description and custody doctrine. 3 figures below are blank:
+Plank dimensions, Harvest yield per expedition, Gold loss per cut. Each is filed under OPEN QUESTIONS.
+
+| TIMBER PARAMETER | VALUE |
+|---|---|
+| Body | white or bone-pale timber with no bark |
+| Surface | polished-bone tactile feel, not Earth wood |
+| Optics | low-level pearlescent sheen under angled light |
+| Grain | subtle; visible after cold condensation or ultraviolet inspection |
+| Residue | clear ozone-scented sap |
+| Identity | microscopic restricted ID tag per plank |
+| Marks | harvest-orientation mark |
+| Records | gold-tool modification log and dust-capture seal |
+| Storage | dry storage cradle |
+| Inspection | Dark World residue inspection swab |
+| Workability | workable only under twenty-four karat gold contact |
+| Plank dimensions | NOT MEASURED |
+| Harvest yield per expedition | NOT MEASURED |
+| Gold loss per cut | NOT MEASURED |
+
+The same property that lets A.C.T shape the material lets a careless or hostile
+handler with gold alter what
+ordinary force cannot. Dust is active custody material, not waste, and shared work zones
+are treated as
+contamination events.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

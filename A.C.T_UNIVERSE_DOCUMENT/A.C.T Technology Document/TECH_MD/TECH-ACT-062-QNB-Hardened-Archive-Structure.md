@@ -94,6 +94,32 @@ system, not just as a shelf.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A QHAS installation includes QNB-linked repository surfaces, hardened retrieval routes, access-core record locks,
+quarantine-cell continuity checks, preservation sensors, sequence logs, environmental state records, and comparison
+ledgers that monitor whether the archive's physical arrangement still agrees with its documentary memory.
+QNB racks
+remain critical, but they do not carry the whole burden alone.
+
+Known components include:
+
+- QNB-linked repository hall surface;
+- hardened accession log;
+- retrieval sequence register;
+- access authorization continuity lock;
+- quarantine-cell comparison plate;
+- document-position witness mark;
+- causal checksum relay;
+- preservation state recorder;
+- contradiction alert terminal;
+- restoration review seal.
+
+The floor is built so that a changed document has to convince the room,
+not only the page.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and continuity doctrine. Hardening coverage, Checksum
@@ -120,32 +146,6 @@ A normal backup can preserve text while the room around it accepts the new
 history. The system preserves the
 continuity relationship between file, shelf, room, access log, retrieval record, and personnel
 authorization, and it does not prove an original was true.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A QHAS installation includes QNB-linked repository surfaces, hardened retrieval routes, access-core record locks,
-quarantine-cell continuity checks, preservation sensors, sequence logs, environmental state records, and comparison
-ledgers that monitor whether the archive's physical arrangement still agrees with its documentary memory.
-QNB racks
-remain critical, but they do not carry the whole burden alone.
-
-Known components include:
-
-- QNB-linked repository hall surface;
-- hardened accession log;
-- retrieval sequence register;
-- access authorization continuity lock;
-- quarantine-cell comparison plate;
-- document-position witness mark;
-- causal checksum relay;
-- preservation state recorder;
-- contradiction alert terminal;
-- restoration review seal.
-
-The floor is built so that a changed document has to convince the room,
-not only the page.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

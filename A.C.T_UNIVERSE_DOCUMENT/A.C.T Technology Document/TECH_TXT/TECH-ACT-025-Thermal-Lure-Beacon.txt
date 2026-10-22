@@ -104,6 +104,7 @@ High-output settings are restricted because a lure bright enough to redirect an 
 may also cook a room,
 trigger mating behavior, or attract the wrong organism.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and handling procedure. 2 figures below are blank:

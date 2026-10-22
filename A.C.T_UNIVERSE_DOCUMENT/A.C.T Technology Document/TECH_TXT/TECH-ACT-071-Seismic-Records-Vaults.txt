@@ -89,6 +89,7 @@ restricted than abyss-linked vaults but more disciplined than ordinary site arch
 in accumulated
 continuity.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and custody doctrine. 2 values below are not held by the

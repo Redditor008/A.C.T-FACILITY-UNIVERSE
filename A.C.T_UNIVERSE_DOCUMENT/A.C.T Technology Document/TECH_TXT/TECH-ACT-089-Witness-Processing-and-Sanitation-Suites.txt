@@ -98,6 +98,7 @@ leave with a survivable
 story, the archive must keep an accountable record, and the parent site must remain
 unseen.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and processing doctrine. The archive holds no figure for

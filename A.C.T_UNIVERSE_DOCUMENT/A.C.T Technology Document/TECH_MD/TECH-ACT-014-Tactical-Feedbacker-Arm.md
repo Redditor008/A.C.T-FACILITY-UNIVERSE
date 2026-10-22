@@ -108,34 +108,6 @@ replacement are medical events, not equipment checkout.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's component text and doctrine. The archive holds no figure for Parry
-window duration, Deflection energy ceiling, Unit mass, and 2 more. Those 5 gaps are carried in OPEN QUESTIONS.
-
-| PROSTHESIS PARAMETER | VALUE |
-|---|---|
-| Class | bonded cybernetic prosthesis, operator-bonded |
-| Pressure input | palm disc |
-| Timing display | wrist-screen |
-| Output | harmonic fins releasing a tuned counter-vibration |
-| Stress handling | feedback sink absorbing transferred impact |
-| Energy store | capacitor |
-| Success confirmation | visual, haptic, and log confirmation after high-force events |
-| Effective against | defined impacts: lunges, strikes, projectiles, burst-waves, short contact events |
-| Issue basis | Medical and Timing review passed |
-| Parry window duration | NOT MEASURED |
-| Deflection energy ceiling | NOT MEASURED |
-| Unit mass | NOT MEASURED |
-| Capacitor cycle rating | NOT MEASURED |
-| Feedback sink calibration band | NOT MEASURED |
-
-The arm does not make a person invulnerable. It gives a trained operator a
-very small timing window in which
-incoming force can be answered with the correct harmonic disagreement, and the rest of
-the body still has to
-survive the transferred stress.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard TFA appears as a blue-tinted steel prosthetic arm with reinforced joints and
@@ -165,6 +137,34 @@ rejection, or full feedback
 into the user's skeleton.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component text and doctrine. The archive holds no figure for Parry
+window duration, Deflection energy ceiling, Unit mass, and 2 more. Those 5 gaps are carried in OPEN QUESTIONS.
+
+| PROSTHESIS PARAMETER | VALUE |
+|---|---|
+| Class | bonded cybernetic prosthesis, operator-bonded |
+| Pressure input | palm disc |
+| Timing display | wrist-screen |
+| Output | harmonic fins releasing a tuned counter-vibration |
+| Stress handling | feedback sink absorbing transferred impact |
+| Energy store | capacitor |
+| Success confirmation | visual, haptic, and log confirmation after high-force events |
+| Effective against | defined impacts: lunges, strikes, projectiles, burst-waves, short contact events |
+| Issue basis | Medical and Timing review passed |
+| Parry window duration | NOT MEASURED |
+| Deflection energy ceiling | NOT MEASURED |
+| Unit mass | NOT MEASURED |
+| Capacitor cycle rating | NOT MEASURED |
+| Feedback sink calibration band | NOT MEASURED |
+
+The arm does not make a person invulnerable. It gives a trained operator a
+very small timing window in which
+incoming force can be answered with the correct harmonic disagreement, and the rest of
+the body still has to
+survive the transferred stress.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

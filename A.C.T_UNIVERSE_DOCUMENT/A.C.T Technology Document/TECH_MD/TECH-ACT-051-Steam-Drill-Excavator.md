@@ -88,6 +88,34 @@ build the first underground logic that later became the ABYSS Floor.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+No complete active SDE unit remains in service. Preserved components and archive diagrams describe
+a heavy
+steam-driven boring frame, reinforced pressure hull, layered heat shielding, mechanical feed assemblies, water and
+pressure management lines, mineral clearing teeth, and analog depth-state gauges. The system used industrial
+power
+logic because the era had no modern RSA support, no ARM network, no digital
+monitoring, and no safe narrative buffer.
+
+Known preserved elements include:
+
+- primary drill head fragment;
+- pressure-blackened feed gear;
+- thermal shield plate;
+- steam line coupling;
+- mineral clearing tooth;
+- manual brake lever;
+- depth-state gauge casing;
+- descent map plate;
+- operator signal bell;
+- sealed maintenance ledger.
+
+The surviving pieces are treated as historical evidence and engineering warnings, not as museum
+decorations.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's preserved-component list and archive doctrine. The platform
@@ -119,34 +147,6 @@ no ARM network, no digital
 monitoring, and no safe narrative buffer. The surviving pieces are treated as historical evidence
 and
 engineering warnings, not as museum decorations.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-No complete active SDE unit remains in service. Preserved components and archive diagrams describe
-a heavy
-steam-driven boring frame, reinforced pressure hull, layered heat shielding, mechanical feed assemblies, water and
-pressure management lines, mineral clearing teeth, and analog depth-state gauges. The system used industrial
-power
-logic because the era had no modern RSA support, no ARM network, no digital
-monitoring, and no safe narrative buffer.
-
-Known preserved elements include:
-
-- primary drill head fragment;
-- pressure-blackened feed gear;
-- thermal shield plate;
-- steam line coupling;
-- mineral clearing tooth;
-- manual brake lever;
-- depth-state gauge casing;
-- descent map plate;
-- operator signal bell;
-- sealed maintenance ledger.
-
-The surviving pieces are treated as historical evidence and engineering warnings, not as museum
-decorations.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

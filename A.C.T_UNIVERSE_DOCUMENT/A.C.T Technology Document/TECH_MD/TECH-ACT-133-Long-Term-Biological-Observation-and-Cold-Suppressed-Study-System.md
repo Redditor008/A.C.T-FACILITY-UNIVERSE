@@ -86,6 +86,30 @@ itself is an instrument when the subject changes slowly enough.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A LTBOCSS installation includes biological study chambers, cold-capable sample laboratories, long-term observation
+suites, temperature-controlled research cells, atmospheric regulation, observation channels, sample custody docks,
+data-processing offices, Archive mirror links, and emergency return routes to holding floors.
+
+Known components include:
+
+- cold-suppressed biological study chamber;
+- long-term observation suite;
+- sample processing laboratory;
+- resident restriction-set terminal;
+- environmental condition lock;
+- observation stream recorder;
+- sample custody dock;
+- Medical exposure watch channel;
+- Containment return verification gate;
+- Archive research mirror node.
+
+The observation suite is treated as active instrumentation even when nothing visible happens for
+months.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures are restated from this record's study component list and White Grave F-4 research doctrine. The archive holds
@@ -115,30 +139,6 @@ expectation. Cold suppression slows a biological resident enough for observation
 condition lock exists to guarantee that the environment is constant so that stillness can
 be attributed to
 the resident rather than to the chamber drifting.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A LTBOCSS installation includes biological study chambers, cold-capable sample laboratories, long-term observation
-suites, temperature-controlled research cells, atmospheric regulation, observation channels, sample custody docks,
-data-processing offices, Archive mirror links, and emergency return routes to holding floors.
-
-Known components include:
-
-- cold-suppressed biological study chamber;
-- long-term observation suite;
-- sample processing laboratory;
-- resident restriction-set terminal;
-- environmental condition lock;
-- observation stream recorder;
-- sample custody dock;
-- Medical exposure watch channel;
-- Containment return verification gate;
-- Archive research mirror node.
-
-The observation suite is treated as active instrumentation even when nothing visible happens for
-months.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

@@ -83,6 +83,31 @@ locked, recorded, and difficult to cross casually.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A AATSL installation includes evaluation suites, preparation chambers, staging locks, authorization terminals,
+review-office links, chain-of-custody docks, transfer corridor gates, monitoring feeds, floor command controls, and
+documentation stations that bind physical movement to approval records.
+
+Known components include:
+
+- evaluation workshop threshold;
+- staging lock chamber;
+- preparation-state holding mount;
+- ascending authorization terminal;
+- proposed-outcome register;
+- Research finding attachment port;
+- Containment custody receipt gate;
+- Security override denial seal;
+- floor command approval display;
+- transformation refusal return route.
+
+The staging lock is the system's core instrument. It holds the object between what
+it is and what personnel intend it
+to become until authority resolves the boundary.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and staging doctrine. The archive holds no figure for
@@ -112,31 +137,6 @@ friction rather than with judgement. Authority ascends with consequence, evaluat
 separate from preparation, and a refused proposal has its own return route because a
 resident that has been
 prepared and then refused has still been changed by the preparation.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A AATSL installation includes evaluation suites, preparation chambers, staging locks, authorization terminals,
-review-office links, chain-of-custody docks, transfer corridor gates, monitoring feeds, floor command controls, and
-documentation stations that bind physical movement to approval records.
-
-Known components include:
-
-- evaluation workshop threshold;
-- staging lock chamber;
-- preparation-state holding mount;
-- ascending authorization terminal;
-- proposed-outcome register;
-- Research finding attachment port;
-- Containment custody receipt gate;
-- Security override denial seal;
-- floor command approval display;
-- transformation refusal return route.
-
-The staging lock is the system's core instrument. It holds the object between what
-it is and what personnel intend it
-to become until authority resolves the boundary.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

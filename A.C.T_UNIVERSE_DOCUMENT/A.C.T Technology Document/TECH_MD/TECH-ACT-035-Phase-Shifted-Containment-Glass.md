@@ -100,34 +100,6 @@ monitored procedure.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's component list and observation doctrine. Phase offset range, Fidelity
-reduction scale, Panel calibration record are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
-
-| PANEL PARAMETER | VALUE |
-|---|---|
-| Medium | multi-layer transparent phase medium |
-| Signature | faint rainbow oil-slick sheen under angled light |
-| Polarization | polarizing dial adjusting visual fidelity |
-| Phase control | digital phase-slider adjusting observation phase |
-| Frame | reinforced containment frame with power couplers and safety locks |
-| Emergency | opacity circuit |
-| Gaze control | gaze-diffusion laminate |
-| Tangibility | tangibility-offset controller |
-| Status | observation-side status strip |
-| Service | maintenance phase lock |
-| Presets | interview, medical check, visual hazard, spatial phase, emergency opaque |
-| Phase offset range | NOT MEASURED |
-| Fidelity reduction scale | NOT MEASURED |
-| Panel calibration record | NOT MEASURED |
-
-The glass is both pane and filter, and it must be mapped to its
-room: a panel calibrated for one suite can
-produce dangerous distortion in another without a phase survey. In some settings it is
-the room's first line
-of mercy.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A PSCG panel appears almost ordinary from a distance. Close inspection shows a faint
@@ -158,6 +130,34 @@ may produce dangerous distortion if moved to
 another without phase survey.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and observation doctrine. Phase offset range, Fidelity
+reduction scale, Panel calibration record are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
+
+| PANEL PARAMETER | VALUE |
+|---|---|
+| Medium | multi-layer transparent phase medium |
+| Signature | faint rainbow oil-slick sheen under angled light |
+| Polarization | polarizing dial adjusting visual fidelity |
+| Phase control | digital phase-slider adjusting observation phase |
+| Frame | reinforced containment frame with power couplers and safety locks |
+| Emergency | opacity circuit |
+| Gaze control | gaze-diffusion laminate |
+| Tangibility | tangibility-offset controller |
+| Status | observation-side status strip |
+| Service | maintenance phase lock |
+| Presets | interview, medical check, visual hazard, spatial phase, emergency opaque |
+| Phase offset range | NOT MEASURED |
+| Fidelity reduction scale | NOT MEASURED |
+| Panel calibration record | NOT MEASURED |
+
+The glass is both pane and filter, and it must be mapped to its
+room: a panel calibrated for one suite can
+produce dangerous distortion in another without a phase survey. In some settings it is
+the room's first line
+of mercy.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

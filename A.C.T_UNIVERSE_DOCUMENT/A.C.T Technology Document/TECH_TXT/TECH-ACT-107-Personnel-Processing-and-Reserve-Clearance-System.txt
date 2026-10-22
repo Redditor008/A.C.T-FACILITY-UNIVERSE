@@ -96,6 +96,7 @@ clearance technology: a combined record, access, screening, and duty-route syste
 as
 containment infrastructure.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and clearance doctrine. 3 values below are not held by

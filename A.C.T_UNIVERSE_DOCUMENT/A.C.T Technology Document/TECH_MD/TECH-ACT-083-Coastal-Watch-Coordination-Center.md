@@ -87,6 +87,31 @@ CWCC makes local watch accountable to parent command.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A CWCC installation includes observation consoles, coastal feed panels, vessel-tracking boards, watch logs,
+parent-relay reporting terminals, event classification cards, shift boards, escalation indicators, secure
+communication links, and staging request controls. It is placed below the surface cover level
+so observation can
+continue without exposing the concealed watch to visitors or public station traffic.
+
+Known components include:
+
+- coastal observation feed panel;
+- assigned-corridor map;
+- watch shift board;
+- vessel movement ledger;
+- event classification console;
+- parent-relay reporting terminal;
+- recovery staging request control;
+- surface boundary alert line;
+- incident reconstruction drawer;
+- Watch Officer override station.
+
+The center records uncertainty. A report may say unknown without becoming useless.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and watch doctrine. 3 values below are not held by the
@@ -115,31 +140,6 @@ the moment when
 ordinary coastline becomes an anomaly route. A report may state that the observer is
 unsure, and that
 uncertainty is part of the record.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A CWCC installation includes observation consoles, coastal feed panels, vessel-tracking boards, watch logs,
-parent-relay reporting terminals, event classification cards, shift boards, escalation indicators, secure
-communication links, and staging request controls. It is placed below the surface cover level
-so observation can
-continue without exposing the concealed watch to visitors or public station traffic.
-
-Known components include:
-
-- coastal observation feed panel;
-- assigned-corridor map;
-- watch shift board;
-- vessel movement ledger;
-- event classification console;
-- parent-relay reporting terminal;
-- recovery staging request control;
-- surface boundary alert line;
-- incident reconstruction drawer;
-- Watch Officer override station.
-
-The center records uncertainty. A report may say unknown without becoming useless.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

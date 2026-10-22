@@ -103,34 +103,6 @@ moon state, and time since extraction.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's custody description and etching doctrine. 3 values below are not held by
-the archive: Molecular weight, Etch rate per surface, Stabilized shelf life. They are filed under OPEN QUESTIONS.
-
-| ACID PARAMETER | VALUE |
-|---|---|
-| Fluid | stabilized bubbling red acid |
-| Colour | darker than blood, brighter than rust |
-| Signature | low-frequency hum through the container in quiet conditions |
-| Container | reinforced ceramic jug with sealed lid |
-| Shutdown | Neutralization-Tab Slot built into the lid |
-| Transport | carry frame with shock collar |
-| Monitoring | temperature strip, corrosion witness plate, hum monitor |
-| Pouring | sample-pour restrictor |
-| Spill | spill-shadow marker dye |
-| Waste | post-use ceramic waste canister |
-| Source | Red River inside AFD-PL-932 |
-| Prohibited containers | titanium, standard glass, unlined steel, plastic |
-| Molecular weight | NOT MEASURED |
-| Etch rate per surface | NOT MEASURED |
-| Stabilized shelf life | NOT MEASURED |
-
-Stabilization makes the fluid transportable and briefly usable; it does not make it safe.
-The tab slot
-accepts only approved shutdown tabs, and improvised bases, powders, water, or neutralising agents are
-prohibited outright.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 RRA-S appears as bubbling red liquid, usually darker than blood and brighter than rust.
@@ -158,6 +130,34 @@ RRA-S must not be stored in titanium, standard glass, unlined steel, plastic, or
 chemical cabinets.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's custody description and etching doctrine. 3 values below are not held by
+the archive: Molecular weight, Etch rate per surface, Stabilized shelf life. They are filed under OPEN QUESTIONS.
+
+| ACID PARAMETER | VALUE |
+|---|---|
+| Fluid | stabilized bubbling red acid |
+| Colour | darker than blood, brighter than rust |
+| Signature | low-frequency hum through the container in quiet conditions |
+| Container | reinforced ceramic jug with sealed lid |
+| Shutdown | Neutralization-Tab Slot built into the lid |
+| Transport | carry frame with shock collar |
+| Monitoring | temperature strip, corrosion witness plate, hum monitor |
+| Pouring | sample-pour restrictor |
+| Spill | spill-shadow marker dye |
+| Waste | post-use ceramic waste canister |
+| Source | Red River inside AFD-PL-932 |
+| Prohibited containers | titanium, standard glass, unlined steel, plastic |
+| Molecular weight | NOT MEASURED |
+| Etch rate per surface | NOT MEASURED |
+| Stabilized shelf life | NOT MEASURED |
+
+Stabilization makes the fluid transportable and briefly usable; it does not make it safe.
+The tab slot
+accepts only approved shutdown tabs, and improvised bases, powders, water, or neutralising agents are
+prohibited outright.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

@@ -95,6 +95,7 @@ recovery procedure, and confidentiality rules that allow care to occur without c
 unrecorded
 hazards.
 
+
 TECHNICAL SPECIFICATION
 
 Figures are taken from this record's ward component list and F-6 clinical doctrine. Bed count, Median isolation stay,

@@ -102,34 +102,6 @@ a hungry will.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's material description and installation doctrine. 2 figures below are
-blank: Block dimensions, Compression rating. Each is filed under OPEN QUESTIONS.
-
-| BLOCK PARAMETER | VALUE |
-|---|---|
-| Appearance | dark grey-black with a rough volcanic texture |
-| Handling feel | colder and heavier than standard concrete |
-| Aggregate | high-density mineral aggregate |
-| Infusion | ITHYOS-residue infusion layer |
-| Core | internal lead-shielded restricted core |
-| Channel | abyssal echo absorption channel |
-| Matrix | cold-binding structural matrix |
-| Joints | joint-lock grooves |
-| Survey | resonance survey marks |
-| Placement | installation orientation code |
-| Surface | surface abrasion layer |
-| Sampling | maintenance sampling plug |
-| Block dimensions | NOT MEASURED |
-| Compression rating | NOT MEASURED |
-| Composition data | held at Level 4 |
-
-The core does not make the block alive; it gives the masonry something to
-argue with. Orientation matters,
-because a block placed backward still works as mass but may return echo through
-the wrong face.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard ABM block is dark grey-black with a rough volcanic texture. It feels
@@ -160,6 +132,34 @@ where Pale Wood
 or Dark World material is involved, gold-tipped drilling or other specialized interface procedures.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's material description and installation doctrine. 2 figures below are
+blank: Block dimensions, Compression rating. Each is filed under OPEN QUESTIONS.
+
+| BLOCK PARAMETER | VALUE |
+|---|---|
+| Appearance | dark grey-black with a rough volcanic texture |
+| Handling feel | colder and heavier than standard concrete |
+| Aggregate | high-density mineral aggregate |
+| Infusion | ITHYOS-residue infusion layer |
+| Core | internal lead-shielded restricted core |
+| Channel | abyssal echo absorption channel |
+| Matrix | cold-binding structural matrix |
+| Joints | joint-lock grooves |
+| Survey | resonance survey marks |
+| Placement | installation orientation code |
+| Surface | surface abrasion layer |
+| Sampling | maintenance sampling plug |
+| Block dimensions | NOT MEASURED |
+| Compression rating | NOT MEASURED |
+| Composition data | held at Level 4 |
+
+The core does not make the block alive; it gives the masonry something to
+argue with. Orientation matters,
+because a block placed backward still works as mass but may return echo through
+the wrong face.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

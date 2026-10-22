@@ -110,36 +110,6 @@ usable, and cannot verify a new interface against anything except an existing on
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures are restated from the Master Catalog entry, the visual reference, and the Guild
-provenance note. Values A.C.T has not measured are marked NOT MEASURED and filed under
-OPEN QUESTIONS.
-
-| SPUR PARAMETER | VALUE |
-|---|---|
-| Material | matte-black carbon-tungsten |
-| Actuation | high-speed pneumatic piston |
-| Interface | Bio-Feed Connector to sacral nerves |
-| Fitment | permanent surgical implant |
-| Function one | vertical anchoring into a surface |
-| Function two | high-velocity piercing stroke |
-| Recoil path | transmitted through the pelvis |
-| Issue clearance | Level 4 for issue and inspection |
-| Fit clearance | Level 5 for fitment and bio-feed work |
-| Provenance | future-displaced material |
-| Guild relation | Item-M2 Neuro-Mantid Sacral-Scythes |
-| Removal rule | the spurs do not come off |
-| Operators fitted | NOT MEASURED |
-| Anchor depth | NOT MEASURED |
-| Stroke velocity | NOT MEASURED |
-
-The reverse-engineering is complete enough to build the spurs and not complete enough to
-explain them, and the record is written to that limit. Anchoring and piercing are
-the same stroke read two ways, so the system cannot be issued as one
-and not the other; it is loud, it damages the surface it enters, and
-it has never been issued as a stealth asset.
-
 ## PHYSICAL AND SYSTEM DESCRIPTION
 
 Matte-black carbon-tungsten spurs, paired, mounted to a pelvic frame that sits against the sacrum.
@@ -175,6 +145,36 @@ have been observed to differ in mass from their recorded issue weight by amounts
 Engineering cannot account for.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures are restated from the Master Catalog entry, the visual reference, and the Guild
+provenance note. Values A.C.T has not measured are marked NOT MEASURED and filed under
+OPEN QUESTIONS.
+
+| SPUR PARAMETER | VALUE |
+|---|---|
+| Material | matte-black carbon-tungsten |
+| Actuation | high-speed pneumatic piston |
+| Interface | Bio-Feed Connector to sacral nerves |
+| Fitment | permanent surgical implant |
+| Function one | vertical anchoring into a surface |
+| Function two | high-velocity piercing stroke |
+| Recoil path | transmitted through the pelvis |
+| Issue clearance | Level 4 for issue and inspection |
+| Fit clearance | Level 5 for fitment and bio-feed work |
+| Provenance | future-displaced material |
+| Guild relation | Item-M2 Neuro-Mantid Sacral-Scythes |
+| Removal rule | the spurs do not come off |
+| Operators fitted | NOT MEASURED |
+| Anchor depth | NOT MEASURED |
+| Stroke velocity | NOT MEASURED |
+
+The reverse-engineering is complete enough to build the spurs and not complete enough to
+explain them, and the record is written to that limit. Anchoring and piercing are
+the same stroke read two ways, so the system cannot be issued as one
+and not the other; it is loud, it damages the surface it enters, and
+it has never been issued as a stealth asset.
 
 ## FITMENT AND BIO-FEED INTEGRATION
 

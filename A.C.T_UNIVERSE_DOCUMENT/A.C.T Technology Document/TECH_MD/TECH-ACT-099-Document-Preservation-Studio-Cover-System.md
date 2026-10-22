@@ -86,6 +86,31 @@ post.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A DPSCS installation includes restoration workrooms, conservation benches, document drying racks, climate-control
+cabinets, administrative desks, restricted work areas, client receipt tables, preservation supply storage, concealed
+transition controls, low-profile surveillance, and sealed movement drawers leading toward F-2. The visible studio
+must
+remain professionally credible under close but ordinary scrutiny.
+
+Known components include:
+
+- restoration workroom;
+- conservation bench;
+- climate-control cabinet;
+- restricted client-work area;
+- studio administration desk;
+- preservation supply store;
+- document receipt ledger;
+- concealed transition drawer;
+- boundary observation point;
+- cover incident response file.
+
+The system is strongest when visitors remember the studio as competent and unremarkable.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and studio doctrine. 3 values below are not held by the
@@ -116,31 +141,6 @@ scale: a small
 studio can only carry a small number of restricted-work explanations before the pattern of
 refusal becomes
 the noticeable thing.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A DPSCS installation includes restoration workrooms, conservation benches, document drying racks, climate-control
-cabinets, administrative desks, restricted work areas, client receipt tables, preservation supply storage, concealed
-transition controls, low-profile surveillance, and sealed movement drawers leading toward F-2. The visible studio
-must
-remain professionally credible under close but ordinary scrutiny.
-
-Known components include:
-
-- restoration workroom;
-- conservation bench;
-- climate-control cabinet;
-- restricted client-work area;
-- studio administration desk;
-- preservation supply store;
-- document receipt ledger;
-- concealed transition drawer;
-- boundary observation point;
-- cover incident response file.
-
-The system is strongest when visitors remember the studio as competent and unremarkable.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

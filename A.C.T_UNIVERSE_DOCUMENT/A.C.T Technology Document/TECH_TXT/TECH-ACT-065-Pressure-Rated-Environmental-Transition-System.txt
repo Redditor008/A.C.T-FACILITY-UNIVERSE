@@ -104,6 +104,7 @@ taken after uncontrolled decompression may describe staff-caused damage rather t
 The Death Angler's modern holding environment, with pressure-rated deep holding and structural-vibration audits,
 remains a reference case for high-threat pressure management.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and transfer doctrine. The archive holds no figure for

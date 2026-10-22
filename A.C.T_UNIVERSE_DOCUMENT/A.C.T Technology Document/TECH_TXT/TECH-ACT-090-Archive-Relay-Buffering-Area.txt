@@ -98,6 +98,7 @@ archive from becoming a quiet permanent repository. The record passes through; t
 intact; the parent
 archive receives custody.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and custody doctrine. Locker capacity, Median buffer

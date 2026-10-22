@@ -94,6 +94,7 @@ than an empty restricted
 property, a false business, or an over-secured installation. NCRSS therefore makes normal work part
 of security.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and station doctrine. Genuine research share, Visitor

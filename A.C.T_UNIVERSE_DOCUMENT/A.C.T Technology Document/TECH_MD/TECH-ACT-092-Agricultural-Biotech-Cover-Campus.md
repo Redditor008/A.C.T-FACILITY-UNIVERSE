@@ -82,6 +82,30 @@ survive being seen.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+An ABCC installation includes greenhouse ranges, laboratory benches, seed and crop storage, growth chambers,
+restricted growing plots, administrative offices, legitimate research records, climate-control machinery, agricultural
+deliveries, public signage, staff parking, service corridors, and boundary monitoring folded into campus security.
+
+Known components include:
+
+- working glasshouse range;
+- greenhouse climate-control panel;
+- crop-improvement laboratory;
+- seed and sample storage room;
+- restricted growing area;
+- campus administration desk;
+- legitimate research ledger;
+- delivery receiving schedule;
+- public-facing maintenance route;
+- boundary security observation point.
+
+The campus is built to be boring in the correct way. It must reward
+ordinary explanation.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and cover doctrine. 3 figures below are blank: Glasshouse
@@ -112,30 +136,6 @@ water, and nutrients in a
 pattern that appears on the campus panel, so the panel's records are written to
 account for the whole campus
 rather than only its open part.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-An ABCC installation includes greenhouse ranges, laboratory benches, seed and crop storage, growth chambers,
-restricted growing plots, administrative offices, legitimate research records, climate-control machinery, agricultural
-deliveries, public signage, staff parking, service corridors, and boundary monitoring folded into campus security.
-
-Known components include:
-
-- working glasshouse range;
-- greenhouse climate-control panel;
-- crop-improvement laboratory;
-- seed and sample storage room;
-- restricted growing area;
-- campus administration desk;
-- legitimate research ledger;
-- delivery receiving schedule;
-- public-facing maintenance route;
-- boundary security observation point.
-
-The campus is built to be boring in the correct way. It must reward
-ordinary explanation.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

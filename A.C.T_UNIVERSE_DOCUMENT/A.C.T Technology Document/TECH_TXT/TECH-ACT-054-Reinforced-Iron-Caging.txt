@@ -104,6 +104,7 @@ produced psychic effect, altered gravity, carried disease, provoked caretakers, 
 ways that
 worsened containment. RIC became the ancestor of the Massive Box, not its final form.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and legacy-review doctrine. 3 values below are not held

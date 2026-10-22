@@ -94,6 +94,7 @@ treats recovery as a single event. RSSA breaks the event into accountable stages
 that Ash Tide can move quickly
 while still obeying parent-relay command.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and staging doctrine. The archive holds no figure for

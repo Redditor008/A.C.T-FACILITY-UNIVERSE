@@ -100,6 +100,7 @@ RSA interval timing is restricted because a badly timed stabilizer may lock a fa
 a floor, or a containment wall at
 the exact moment it should flex.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and array doctrine. Cooling output, Effective radius per

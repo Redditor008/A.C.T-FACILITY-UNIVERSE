@@ -96,34 +96,6 @@ had rewritten into identity. The PSS program now distinguishes technical suitabi
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's material description and fabrication doctrine. Tear rating, Phase offset
-tolerance, Roll shelf life are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
-
-| POLYMER PARAMETER | VALUE |
-|---|---|
-| Body | translucent flesh-colored polymer |
-| Storage | rolled around a sterile core |
-| Internal | phase-stability threading, faint bands under angled light |
-| Edge gauge | Tear-Resistance Gauge along the outer edge |
-| Thermal | Thermal-Alignment Strip across safe, cold, hot, phase-stress ranges |
-| Surgical | precision surgical backing and medical cut grid |
-| Bonding | phase-bonding primer |
-| Warning | desynchronization stress indicator |
-| Chassis | thicker sheets with embedded mount points |
-| Custody | fabrication custody tag |
-| Cutting | sterile nonreactive tools only |
-| Tear rating | NOT MEASURED |
-| Phase offset tolerance | NOT MEASURED |
-| Roll shelf life | NOT MEASURED |
-
-A patch on a surgical site is not the same proposal as a body
-for a sentient subject, and the two carry
-different ethical controls. The material is deliberately flexible but never casual: it is not
-cosmetic skin,
-novelty covering, or improvised insulation.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 PSS is stored as translucent flesh-colored polymer rolled around a sterile core. It may
@@ -152,6 +124,34 @@ Known components include:
 PSS must not be used as cosmetic skin, novelty covering, or improvised electronics insulation.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's material description and fabrication doctrine. Tear rating, Phase offset
+tolerance, Roll shelf life are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
+
+| POLYMER PARAMETER | VALUE |
+|---|---|
+| Body | translucent flesh-colored polymer |
+| Storage | rolled around a sterile core |
+| Internal | phase-stability threading, faint bands under angled light |
+| Edge gauge | Tear-Resistance Gauge along the outer edge |
+| Thermal | Thermal-Alignment Strip across safe, cold, hot, phase-stress ranges |
+| Surgical | precision surgical backing and medical cut grid |
+| Bonding | phase-bonding primer |
+| Warning | desynchronization stress indicator |
+| Chassis | thicker sheets with embedded mount points |
+| Custody | fabrication custody tag |
+| Cutting | sterile nonreactive tools only |
+| Tear rating | NOT MEASURED |
+| Phase offset tolerance | NOT MEASURED |
+| Roll shelf life | NOT MEASURED |
+
+A patch on a surgical site is not the same proposal as a body
+for a sentient subject, and the two carry
+different ethical controls. The material is deliberately flexible but never casual: it is not
+cosmetic skin,
+novelty covering, or improvised insulation.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

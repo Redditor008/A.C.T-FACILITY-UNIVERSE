@@ -85,6 +85,31 @@ possession under another division's containment authority.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A CSERSCS installation includes sample suites, study suites, analysis laboratories, controlled atmosphere branches,
+electromagnetic regulation, observation feeds, custody docks, return verification stations, data-processing offices,
+Archive mirror links, and incident-response controls tied to Medical and Containment escalation.
+
+Known components include:
+
+- program-gated study suite;
+- sample custody dock;
+- controlled atmosphere regulator;
+- electromagnetic condition panel;
+- observation recording line;
+- restriction-set access terminal;
+- verified return station;
+- Archive mirror data link;
+- Medical exposure alert channel;
+- Containment escalation gate.
+
+The study suite is built so a research condition can be created, measured, ended,
+and proven not to have spread into
+neighboring work.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Values below are restated from this record's component list and F-5 study doctrine. Anything
@@ -116,31 +141,6 @@ transferred to it. The suite regulates
 atmosphere and electromagnetic condition before contact because a measurement is itself contact: the study
 changes what it studies, and the record has to say so while the change
 is still observable.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A CSERSCS installation includes sample suites, study suites, analysis laboratories, controlled atmosphere branches,
-electromagnetic regulation, observation feeds, custody docks, return verification stations, data-processing offices,
-Archive mirror links, and incident-response controls tied to Medical and Containment escalation.
-
-Known components include:
-
-- program-gated study suite;
-- sample custody dock;
-- controlled atmosphere regulator;
-- electromagnetic condition panel;
-- observation recording line;
-- restriction-set access terminal;
-- verified return station;
-- Archive mirror data link;
-- Medical exposure alert channel;
-- Containment escalation gate.
-
-The study suite is built so a research condition can be created, measured, ended,
-and proven not to have spread into
-neighboring work.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

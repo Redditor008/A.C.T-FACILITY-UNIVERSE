@@ -100,34 +100,6 @@ still be part of a speaking system.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's component list and stasis procedure. 4 figures below are blank:
-Operating temperature band, Approved stasis duration, Rhythm baseline definition, and 1 more. Each is filed under OPEN
-QUESTIONS.
-
-| UNIT PARAMETER | VALUE |
-|---|---|
-| Form | horizontal stasis coffin |
-| Body material | Abyssal Basalt for mass, shielding, psychic dampening |
-| Lid | clear glass with anti-crystallization coating |
-| Monitoring | Cellular-Rhythm Monitor at the headboard |
-| Emergency | Manual Hand-Pump for oxygenation |
-| Cooling | resonant cooling coils |
-| Support | emergency oxygenation line |
-| Warning | frost-pattern alarm |
-| Seal | biohazard seal |
-| Transport | cradle locks |
-| Authority | thaw authorization port |
-| Operating temperature band | NOT MEASURED |
-| Approved stasis duration | NOT MEASURED |
-| Rhythm baseline definition | NOT MEASURED |
-| Unit mass | NOT MEASURED |
-
-Resonant cooling is the difference between storage and damage: ordinary ice-crystal formation tears tissue
-apart. The unit should look calm, and if it looks dramatic something has already
-gone wrong.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard CBI unit is a horizontal stasis coffin made of Abyssal Basalt and
@@ -155,6 +127,34 @@ Known components include:
 The unit should look calm. If it looks dramatic, something has already gone wrong.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and stasis procedure. 4 figures below are blank:
+Operating temperature band, Approved stasis duration, Rhythm baseline definition, and 1 more. Each is filed under OPEN
+QUESTIONS.
+
+| UNIT PARAMETER | VALUE |
+|---|---|
+| Form | horizontal stasis coffin |
+| Body material | Abyssal Basalt for mass, shielding, psychic dampening |
+| Lid | clear glass with anti-crystallization coating |
+| Monitoring | Cellular-Rhythm Monitor at the headboard |
+| Emergency | Manual Hand-Pump for oxygenation |
+| Cooling | resonant cooling coils |
+| Support | emergency oxygenation line |
+| Warning | frost-pattern alarm |
+| Seal | biohazard seal |
+| Transport | cradle locks |
+| Authority | thaw authorization port |
+| Operating temperature band | NOT MEASURED |
+| Approved stasis duration | NOT MEASURED |
+| Rhythm baseline definition | NOT MEASURED |
+| Unit mass | NOT MEASURED |
+
+Resonant cooling is the difference between storage and damage: ordinary ice-crystal formation tears tissue
+apart. The unit should look calm, and if it looks dramatic something has already
+gone wrong.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

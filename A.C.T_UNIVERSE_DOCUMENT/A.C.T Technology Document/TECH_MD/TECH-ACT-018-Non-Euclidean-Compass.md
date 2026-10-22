@@ -107,33 +107,6 @@ could build false routes that feel official to the instrument.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's component list and survey doctrine. The archive holds no figure for
-Battery runtime, Density scale definition, Thread-lock range, and 1 more. Those 4 gaps are carried in OPEN QUESTIONS.
-
-| COMPASS PARAMETER | VALUE |
-|---|---|
-| Form | rugged handheld unit, reinforced corners, sealed buttons |
-| Display | circular screen rendering three-dimensional probability maps |
-| Map reading | peaks for high route pressure, valleys for low |
-| Moving bands | temporal fog, repeating corridors, story convergence |
-| Sensing | gyro-stabilized sensor array |
-| Thread lock | retractable focus lens and thread-lock slot |
-| Filter | flip-open Aether-Filter for localized temporal fog |
-| Overlay | Narrative Density overlay |
-| Warnings | route-stress indicator and dead-map alarm |
-| Return aid | return-path marker |
-| Battery runtime | NOT MEASURED |
-| Density scale definition | NOT MEASURED |
-| Thread-lock range | NOT MEASURED |
-| Unit mass | NOT MEASURED |
-
-The device does not ask where north is. It asks which direction the local
-event structure wants movement to
-become meaningful, which is why a strong reading is treated as significance rather than
-as safety.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard NEC resembles a rugged handheld GPS unit with reinforced corners, sealed buttons,
@@ -165,6 +138,33 @@ is changing, not that the device
 is broken.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and survey doctrine. The archive holds no figure for
+Battery runtime, Density scale definition, Thread-lock range, and 1 more. Those 4 gaps are carried in OPEN QUESTIONS.
+
+| COMPASS PARAMETER | VALUE |
+|---|---|
+| Form | rugged handheld unit, reinforced corners, sealed buttons |
+| Display | circular screen rendering three-dimensional probability maps |
+| Map reading | peaks for high route pressure, valleys for low |
+| Moving bands | temporal fog, repeating corridors, story convergence |
+| Sensing | gyro-stabilized sensor array |
+| Thread lock | retractable focus lens and thread-lock slot |
+| Filter | flip-open Aether-Filter for localized temporal fog |
+| Overlay | Narrative Density overlay |
+| Warnings | route-stress indicator and dead-map alarm |
+| Return aid | return-path marker |
+| Battery runtime | NOT MEASURED |
+| Density scale definition | NOT MEASURED |
+| Thread-lock range | NOT MEASURED |
+| Unit mass | NOT MEASURED |
+
+The device does not ask where north is. It asks which direction the local
+event structure wants movement to
+become meaningful, which is why a strong reading is treated as significance rather than
+as safety.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

@@ -101,35 +101,6 @@ attaches during acoustic bridge sessions. Site Command approves any movement out
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's component list and proximity doctrine. The archive holds no figure for
-Approved separation distance, Resonance Stability scale, Glass thickness, and 1 more. Those 4 gaps are carried in OPEN
-QUESTIONS.
-
-| HARNESS PARAMETER | VALUE |
-|---|---|
-| Straps | black leather structural straps |
-| Fastening | silver buckle array |
-| Anchor housing | reinforced metal sternum housing |
-| Shield | thick glass anchor shield |
-| Link | integrated data-link |
-| Cable | shielded fiber-optic cable |
-| Display | wrist-mounted status tablet |
-| Primary readout | Resonance Stability |
-| Alarms | blood-contact alarm and distance drift warning |
-| Fitting | fitted to one host body; not interchangeable without refitting review |
-| Approved separation distance | NOT MEASURED |
-| Resonance Stability scale | NOT MEASURED |
-| Glass thickness | NOT MEASURED |
-| Data-link latency limit | NOT MEASURED |
-
-The harness does not return a soul; it prevents preventable drift. The housing holds
-a fixed and monitored
-relationship above the chest cavity rather than pressing the anchor into tissue, and the
-tablet is not
-decorative.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard SSH uses black leather structural straps, silver buckles, and a reinforced metal
@@ -159,6 +130,35 @@ The harness is fitted to a specific host body. It is not interchangeable without
 refitting review.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and proximity doctrine. The archive holds no figure for
+Approved separation distance, Resonance Stability scale, Glass thickness, and 1 more. Those 4 gaps are carried in OPEN
+QUESTIONS.
+
+| HARNESS PARAMETER | VALUE |
+|---|---|
+| Straps | black leather structural straps |
+| Fastening | silver buckle array |
+| Anchor housing | reinforced metal sternum housing |
+| Shield | thick glass anchor shield |
+| Link | integrated data-link |
+| Cable | shielded fiber-optic cable |
+| Display | wrist-mounted status tablet |
+| Primary readout | Resonance Stability |
+| Alarms | blood-contact alarm and distance drift warning |
+| Fitting | fitted to one host body; not interchangeable without refitting review |
+| Approved separation distance | NOT MEASURED |
+| Resonance Stability scale | NOT MEASURED |
+| Glass thickness | NOT MEASURED |
+| Data-link latency limit | NOT MEASURED |
+
+The harness does not return a soul; it prevents preventable drift. The housing holds
+a fixed and monitored
+relationship above the chest cavity rather than pressing the anchor into tissue, and the
+tablet is not
+decorative.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

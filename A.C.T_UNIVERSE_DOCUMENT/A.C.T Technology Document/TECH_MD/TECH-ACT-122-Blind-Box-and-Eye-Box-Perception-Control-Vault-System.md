@@ -88,6 +88,30 @@ and one named perception protocol.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A BBEBPCVS installation includes Blind Box vaults, Eye Box observation units, perception-interruption boundaries,
+visual-denial screens, controlled viewing apparatus, audio and signal dampening, unit-specific access locks, cognitive
+monitoring ports, restriction-set terminals, and monitoring galleries designed to watch vault condition without
+exposing content.
+
+Known components include:
+
+- Blind Box perception-denial unit;
+- Eye Box disciplined-viewing unit;
+- visual-denial shutter and baffle field;
+- restriction-set authorization terminal;
+- unit-specific access gate;
+- cognitive-care monitoring port;
+- perception-protocol recorder;
+- Dread EYE observation apparatus interface;
+- F-1 transfer review lock;
+- readable-storage reassessment file.
+
+The technology's central distinction is simple: Blind Boxes prevent perception; Eye Boxes ration it.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and perception doctrine. Unit count, Median viewing time,
@@ -120,30 +144,6 @@ is a restriction-set
 decision, and moving an item from Blind to Eye is an escalation that requires
 the same authority as opening
 it.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A BBEBPCVS installation includes Blind Box vaults, Eye Box observation units, perception-interruption boundaries,
-visual-denial screens, controlled viewing apparatus, audio and signal dampening, unit-specific access locks, cognitive
-monitoring ports, restriction-set terminals, and monitoring galleries designed to watch vault condition without
-exposing content.
-
-Known components include:
-
-- Blind Box perception-denial unit;
-- Eye Box disciplined-viewing unit;
-- visual-denial shutter and baffle field;
-- restriction-set authorization terminal;
-- unit-specific access gate;
-- cognitive-care monitoring port;
-- perception-protocol recorder;
-- Dread EYE observation apparatus interface;
-- F-1 transfer review lock;
-- readable-storage reassessment file.
-
-The technology's central distinction is simple: Blind Boxes prevent perception; Eye Boxes ration it.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

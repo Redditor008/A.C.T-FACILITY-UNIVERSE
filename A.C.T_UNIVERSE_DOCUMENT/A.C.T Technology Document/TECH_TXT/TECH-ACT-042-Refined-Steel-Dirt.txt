@@ -106,6 +106,7 @@ clean floor.
 
 Current RSD batches are still restricted and not approved for casual construction.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and deployment doctrine. The archive holds no figure for

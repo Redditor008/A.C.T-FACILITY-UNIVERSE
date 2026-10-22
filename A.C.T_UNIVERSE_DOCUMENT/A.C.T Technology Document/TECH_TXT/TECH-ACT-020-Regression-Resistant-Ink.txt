@@ -98,6 +98,7 @@ Formula and particle origin remain Level 5 because counterfeit RRI would be near
 dangerous as stolen real stock.
 A forged record that resists correction can outlive the truth it imitates.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and archive practice. 3 values below are not held by the

@@ -98,34 +98,6 @@ detectors, or move past anomalies that A.C.T relies on as passive warning system
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's component list and wear procedure. The archive holds no figure for
-Approved wear duration, Injector dose, Detection reduction achieved. Those 3 gaps are carried in OPEN QUESTIONS.
-
-| PATCH PARAMETER | VALUE |
-|---|---|
-| Form | skin-colored adhesive patch |
-| Placement | behind the ear, on clean skin |
-| Smoothing | micro-injector node for short-duration biological smoothing |
-| Controller | Pulse-Sync Chip managing the masking field |
-| Contact | conductive gel layer |
-| Indicator | blinking green status LED |
-| Warnings | dull amber for adhesive failure, pulse overload, injector depletion |
-| Seal | adhesive seal |
-| Timing | short-wear timer |
-| Configuration | subject-profile setting |
-| Disposal | disposal tab; the patch is single-use |
-| Masking modes | background noise, low-interest static, approved decoy profile |
-| Approved wear duration | NOT MEASURED |
-| Injector dose | NOT MEASURED |
-| Detection reduction achieved | NOT MEASURED |
-
-The green LED confirms active masking and does not prove the wearer is medically
-safe. The patch is
-disposable after use, because reuse risks bad readings, skin contamination, and a false green
-confirmation.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard BRD is a skin-colored adhesive patch worn behind the ear. It contains
@@ -153,6 +125,34 @@ The patch is disposable after use. Reuse risks bad readings, skin contamination,
 green confirmation.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and wear procedure. The archive holds no figure for
+Approved wear duration, Injector dose, Detection reduction achieved. Those 3 gaps are carried in OPEN QUESTIONS.
+
+| PATCH PARAMETER | VALUE |
+|---|---|
+| Form | skin-colored adhesive patch |
+| Placement | behind the ear, on clean skin |
+| Smoothing | micro-injector node for short-duration biological smoothing |
+| Controller | Pulse-Sync Chip managing the masking field |
+| Contact | conductive gel layer |
+| Indicator | blinking green status LED |
+| Warnings | dull amber for adhesive failure, pulse overload, injector depletion |
+| Seal | adhesive seal |
+| Timing | short-wear timer |
+| Configuration | subject-profile setting |
+| Disposal | disposal tab; the patch is single-use |
+| Masking modes | background noise, low-interest static, approved decoy profile |
+| Approved wear duration | NOT MEASURED |
+| Injector dose | NOT MEASURED |
+| Detection reduction achieved | NOT MEASURED |
+
+The green LED confirms active masking and does not prove the wearer is medically
+safe. The patch is
+disposable after use, because reuse risks bad readings, skin contamination, and a false green
+confirmation.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

@@ -84,6 +84,31 @@ to every hand that asks.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A QHRRRS installation includes accession bays, processing desks, repository halls, restricted records vaults, document
+quarantine routing gates, reading and retrieval rooms, environmental controls, QNB-hardened structural layers,
+integrity monitors, archival power backup, and record-system terminals that preserve the archive's own activity.
+
+Known components include:
+
+- QNB-hardened repository bay;
+- accession and processing station;
+- retrieval authorization terminal;
+- restricted records vault;
+- reading-room access lock;
+- record integrity monitor;
+- preservation environment branch;
+- quarantine routing gate;
+- archive activity ledger;
+- causal rewrite alarm channel.
+
+The system's defining feature is that its own records are also records. Accession, retrieval,
+denial, quarantine, and
+preservation actions are preserved under the same logic they enforce.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Values are restated from this record's repository component list and F-7 archival doctrine. Anything
@@ -115,31 +140,6 @@ Write-once storage
 means a corrected record and a rewritten record look identical afterwards, which is why
 the integrity
 monitor watches for alteration rather than for loss.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A QHRRRS installation includes accession bays, processing desks, repository halls, restricted records vaults, document
-quarantine routing gates, reading and retrieval rooms, environmental controls, QNB-hardened structural layers,
-integrity monitors, archival power backup, and record-system terminals that preserve the archive's own activity.
-
-Known components include:
-
-- QNB-hardened repository bay;
-- accession and processing station;
-- retrieval authorization terminal;
-- restricted records vault;
-- reading-room access lock;
-- record integrity monitor;
-- preservation environment branch;
-- quarantine routing gate;
-- archive activity ledger;
-- causal rewrite alarm channel.
-
-The system's defining feature is that its own records are also records. Accession, retrieval,
-denial, quarantine, and
-preservation actions are preserved under the same logic they enforce.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

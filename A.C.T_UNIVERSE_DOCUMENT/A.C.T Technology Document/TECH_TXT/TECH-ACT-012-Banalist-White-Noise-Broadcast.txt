@@ -107,6 +107,7 @@ The manifest libraries are restricted because a hostile group with the full set 
 pattern-match site routines,
 identify cover sites, or build counter-broadcasts that ride inside the dullness.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list, library description, and installation text. 4 values

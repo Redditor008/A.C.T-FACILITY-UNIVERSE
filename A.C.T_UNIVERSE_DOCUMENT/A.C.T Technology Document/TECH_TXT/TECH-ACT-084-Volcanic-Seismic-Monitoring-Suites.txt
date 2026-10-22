@@ -96,6 +96,7 @@ cover.
 
 VSMS makes local geology part of watch discipline rather than background noise.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and monitoring doctrine. 3 figures below are blank:

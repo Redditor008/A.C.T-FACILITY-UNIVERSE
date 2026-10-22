@@ -90,6 +90,33 @@ research circulation.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+SVRPI includes acoustic replay chambers, sonar-return comparison engines, void-event archive racks, submersible-loss
+reconstruction tables, indirect display consoles, safe-listening filters, data quarantine slots, field-platform intake
+ports, and cross-correlation links to Seismic Analysis. Live void data is handled with caution
+because some absence
+events are associated with predatory behavior, compulsion-adjacent investigation, or equipment failure that can lead
+crews into unsafe pursuit.
+
+Known components include:
+
+- acoustic replay chamber;
+- sonar-return comparison engine;
+- void-event archive rack;
+- submersible-loss reconstruction table;
+- indirect display console;
+- safe-listening filter;
+- field-platform intake port;
+- Death Angler comparison cabinet;
+- abyss-linked absence flag;
+- research routing ledger.
+
+The system preserves failed returns as positive records. A blank return is filed as
+an event, not discarded as noise.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and research doctrine. 3 values below are not held by the
@@ -117,33 +144,6 @@ Live void data is handled with caution because some absence events are associate
 predatory behaviour,
 compulsion-adjacent investigation, or equipment failure that can lead crews into unsafe pursuit. The program
 studies absence without proving safety.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-SVRPI includes acoustic replay chambers, sonar-return comparison engines, void-event archive racks, submersible-loss
-reconstruction tables, indirect display consoles, safe-listening filters, data quarantine slots, field-platform intake
-ports, and cross-correlation links to Seismic Analysis. Live void data is handled with caution
-because some absence
-events are associated with predatory behavior, compulsion-adjacent investigation, or equipment failure that can lead
-crews into unsafe pursuit.
-
-Known components include:
-
-- acoustic replay chamber;
-- sonar-return comparison engine;
-- void-event archive rack;
-- submersible-loss reconstruction table;
-- indirect display console;
-- safe-listening filter;
-- field-platform intake port;
-- Death Angler comparison cabinet;
-- abyss-linked absence flag;
-- research routing ledger.
-
-The system preserves failed returns as positive records. A blank return is filed as
-an event, not discarded as noise.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

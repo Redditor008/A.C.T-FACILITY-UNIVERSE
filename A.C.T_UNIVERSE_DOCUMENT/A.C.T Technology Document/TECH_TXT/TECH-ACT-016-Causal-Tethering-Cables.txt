@@ -112,6 +112,7 @@ The phase-lock geometry remains restricted because a hostile group could use sto
 to anchor
 contraband through site boundaries or pull A.C.T equipment out of alignment.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and field handling text. 4 values below are not held by

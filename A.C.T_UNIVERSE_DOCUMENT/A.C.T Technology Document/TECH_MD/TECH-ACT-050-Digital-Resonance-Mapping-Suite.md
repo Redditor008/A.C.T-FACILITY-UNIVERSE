@@ -90,6 +90,34 @@ already participating in reality before staff disturb it.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+The DRM Suite is a room-scale instrument environment rather than a handheld device. The
+suite contains instrumented
+chambers, isolation architecture, regulated power, data processing offices, observation feeds, and archive-mirrored
+storage. It operates on isolated power with precision regulation because false noise can become
+a false identity
+reading.
+
+Known components include:
+
+- non-contact causal pulse chamber;
+- regulated sample cradle;
+- environmental isolation shell;
+- observation-denial shutters;
+- electromagnetic quieting grid;
+- data mirror to Archive custody;
+- pulse comparison terminal;
+- intake advisory console;
+- operator authorization lock;
+- post-scan discrepancy ledger.
+
+The suite's most important component is not a sensor head. It is the isolation
+of the measurement environment from the
+artifact's effects.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and intake doctrine. The archive holds no figure for
@@ -118,34 +146,6 @@ of the measurement
 environment from the artifact's effects. False noise can become a false identity reading, which
 is why power
 is regulated rather than merely stable.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-The DRM Suite is a room-scale instrument environment rather than a handheld device. The
-suite contains instrumented
-chambers, isolation architecture, regulated power, data processing offices, observation feeds, and archive-mirrored
-storage. It operates on isolated power with precision regulation because false noise can become
-a false identity
-reading.
-
-Known components include:
-
-- non-contact causal pulse chamber;
-- regulated sample cradle;
-- environmental isolation shell;
-- observation-denial shutters;
-- electromagnetic quieting grid;
-- data mirror to Archive custody;
-- pulse comparison terminal;
-- intake advisory console;
-- operator authorization lock;
-- post-scan discrepancy ledger.
-
-The suite's most important component is not a sensor head. It is the isolation
-of the measurement environment from the
-artifact's effects.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

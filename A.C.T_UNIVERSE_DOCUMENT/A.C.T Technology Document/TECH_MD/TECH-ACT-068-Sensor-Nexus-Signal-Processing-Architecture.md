@@ -88,6 +88,32 @@ deeper A.C.T review standards is not allowed to circulate as ordinary seismic da
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+SNSPA is housed in F-1 sensor galleries and termination rooms. It includes signal intake
+racks, amplification banks,
+vibration isolation frames, baseline comparison engines, analyst consoles, restricted output gates, local record
+buffers, array-health monitors, and hardened communication links to command levels and the restricted review
+chain.
+
+Known components include:
+
+- multi-array intake rack;
+- signal amplifier bank;
+- geological baseline comparison engine;
+- maritime event correlation panel;
+- vault chamber monitor bridge;
+- anomaly-candidate flagging layer;
+- analyst review console;
+- restricted output gate;
+- local preservation buffer;
+- F-1 closure continuity link.
+
+SNSPA does not erase contradictory readings. Contradiction is preserved because contradiction may be the
+signal.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and analysis doctrine. 3 figures below are blank:
@@ -115,32 +141,6 @@ The architecture performs four linked jobs: accept data from sensors below and a
 floor, amplify and
 clean readings without deleting anomaly behaviour, compare against baselines, and route confirmed output. It
 does not erase contradictory readings.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-SNSPA is housed in F-1 sensor galleries and termination rooms. It includes signal intake
-racks, amplification banks,
-vibration isolation frames, baseline comparison engines, analyst consoles, restricted output gates, local record
-buffers, array-health monitors, and hardened communication links to command levels and the restricted review
-chain.
-
-Known components include:
-
-- multi-array intake rack;
-- signal amplifier bank;
-- geological baseline comparison engine;
-- maritime event correlation panel;
-- vault chamber monitor bridge;
-- anomaly-candidate flagging layer;
-- analyst review console;
-- restricted output gate;
-- local preservation buffer;
-- F-1 closure continuity link.
-
-SNSPA does not erase contradictory readings. Contradiction is preserved because contradiction may be the
-signal.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

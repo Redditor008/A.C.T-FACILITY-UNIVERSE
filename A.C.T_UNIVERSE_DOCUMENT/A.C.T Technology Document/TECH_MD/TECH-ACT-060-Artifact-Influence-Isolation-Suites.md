@@ -91,6 +91,33 @@ system fails if they are not cared for.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A standard AIIS unit is a secure patient room with medical-grade isolation, atmospheric separation,
+observation
+architecture, exposure-limited treatment controls, gated access, clinical monitoring, and a documentation channel that
+respects confidentiality while preserving operational knowledge. The suite can scale from routine isolation to
+full
+ward containment if the patient's condition becomes active or unpredictable.
+
+Known components include:
+
+- secure patient room;
+- atmospheric separation system;
+- clinical observation panel;
+- exposure-limited treatment port;
+- patient-status monitor;
+- cognitive-care assessment station;
+- gated medical access lock;
+- containment escalation alarm;
+- confidential record terminal;
+- post-exposure duty review file.
+
+The suite is built to protect both patient and complex. If either side is
+forgotten, the technology is being misused.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and clinical doctrine. 3 figures below are blank:
@@ -119,33 +146,6 @@ different status is
 required. The suite protects the patient from further exposure and the working population from
 influence
 that may be spreading through the patient.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A standard AIIS unit is a secure patient room with medical-grade isolation, atmospheric separation,
-observation
-architecture, exposure-limited treatment controls, gated access, clinical monitoring, and a documentation channel that
-respects confidentiality while preserving operational knowledge. The suite can scale from routine isolation to
-full
-ward containment if the patient's condition becomes active or unpredictable.
-
-Known components include:
-
-- secure patient room;
-- atmospheric separation system;
-- clinical observation panel;
-- exposure-limited treatment port;
-- patient-status monitor;
-- cognitive-care assessment station;
-- gated medical access lock;
-- containment escalation alarm;
-- confidential record terminal;
-- post-exposure duty review file.
-
-The suite is built to protect both patient and complex. If either side is
-forgotten, the technology is being misused.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

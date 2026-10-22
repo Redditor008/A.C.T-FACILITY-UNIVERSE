@@ -96,6 +96,7 @@ holding dangerous things in prepared rooms. It allowed the founders to move towa
 buried truth and forced them to
 build the first underground logic that later became the ABYSS Floor.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's preserved-component list and archive doctrine. The platform

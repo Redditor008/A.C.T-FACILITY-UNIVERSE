@@ -102,6 +102,7 @@ Current deployment is pipe-controlled. Open HDLL use requires Site Safety review
 and
 post-use environmental survey.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and installation doctrine. Density, Absorption capacity

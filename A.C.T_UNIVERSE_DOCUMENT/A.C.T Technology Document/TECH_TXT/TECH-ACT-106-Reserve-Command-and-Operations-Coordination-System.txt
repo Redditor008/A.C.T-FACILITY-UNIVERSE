@@ -99,6 +99,7 @@ functions into one operational system. It developed to prevent the reserve from 
 isolated camps, labs,
 sectors, and patrols.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and command doctrine. Sector count, Mean incident

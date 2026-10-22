@@ -85,6 +85,32 @@ the vault architecture and procedure that keeps such work command-bound.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A DCVS installation includes cultivation vault chambers, reinforced chamber walls, access core checkpoints,
+observation and monitoring gallery, service ring, power and environmental routes, secure archive alcove, command
+post,
+Medical liaison point, Environmental Containment review station, and closure hardware capable of sealing the
+level to
+the outside.
+
+Known components include:
+
+- cultivation chamber;
+- reinforced vault gallery;
+- access checkpoint sequence;
+- observation and monitoring gallery;
+- service ring environmental route;
+- secure archive alcove;
+- transformation review terminal;
+- medical liaison station;
+- F-1 closure control;
+- resident-program authorization ledger.
+
+The vault's architecture assumes that a successful cultivation may still become a containment emergency.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and cultivation doctrine. The archive holds no figure for
@@ -115,32 +141,6 @@ rather than activity:
 any change to a cultivation programme requires a ledger entry at command level, because
 the change is what
 creates the risk.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A DCVS installation includes cultivation vault chambers, reinforced chamber walls, access core checkpoints,
-observation and monitoring gallery, service ring, power and environmental routes, secure archive alcove, command
-post,
-Medical liaison point, Environmental Containment review station, and closure hardware capable of sealing the
-level to
-the outside.
-
-Known components include:
-
-- cultivation chamber;
-- reinforced vault gallery;
-- access checkpoint sequence;
-- observation and monitoring gallery;
-- service ring environmental route;
-- secure archive alcove;
-- transformation review terminal;
-- medical liaison station;
-- F-1 closure control;
-- resident-program authorization ledger.
-
-The vault's architecture assumes that a successful cultivation may still become a containment emergency.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

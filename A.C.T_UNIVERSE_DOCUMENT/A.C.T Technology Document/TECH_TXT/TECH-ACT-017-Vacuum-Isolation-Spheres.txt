@@ -101,6 +101,7 @@ Historical Custody keeps a separate register for pre-modern spheres because olde
 design habits,
 maker marks, or undocumented seals not present in current models.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and legacy history. 3 figures below are blank: Vacuum

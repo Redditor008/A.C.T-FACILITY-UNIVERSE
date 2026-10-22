@@ -113,6 +113,7 @@ DRS calibration libraries are restricted because hostile groups could use them t
 signatures, hide unsafe
 ones, or learn how A.C.T classifies unknown artifacts before contact.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and variant list. The archive holds no figure for

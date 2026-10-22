@@ -95,6 +95,7 @@ F-3's climate-controlled holding units developed as a third category. CCIHUS for
 island-recovered material receives its own containment logic instead of being forced into water-capable or
 standard-object doctrine.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and holding doctrine. Room count, Recipe accuracy,

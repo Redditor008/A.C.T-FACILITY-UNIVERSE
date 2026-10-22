@@ -85,6 +85,32 @@ of security.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+An NCRSS installation includes visible observation decks, instrument housings, administrative rooms, legitimate
+communications, public station signage, staff work schedules, dock routines, maintenance logs, weather and salt
+protection, visitor-facing paperwork, and concealed boundary links to the buried levels. Its surface components
+must
+be clean enough for genuine professional use and ordinary enough to avoid becoming remarkable.
+
+Known components include:
+
+- coastal observation deck;
+- public instrument housing;
+- station administrative office;
+- legitimate communications desk;
+- small research dock;
+- maintenance and supply log;
+- visitor handling register;
+- staff rotation board;
+- boundary security watch point;
+- concealed transition coordination file.
+
+The system fails if the station becomes theatrical. The best cover has no need
+to perform being normal.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and station doctrine. Genuine research share, Visitor
@@ -113,32 +139,6 @@ real station would produce, and
 the visitor who notices is usually a regular. The archive therefore treats research output,
 visitor records,
 and maintenance rhythm as load-bearing components rather than as decoration around the concealed work.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-An NCRSS installation includes visible observation decks, instrument housings, administrative rooms, legitimate
-communications, public station signage, staff work schedules, dock routines, maintenance logs, weather and salt
-protection, visitor-facing paperwork, and concealed boundary links to the buried levels. Its surface components
-must
-be clean enough for genuine professional use and ordinary enough to avoid becoming remarkable.
-
-Known components include:
-
-- coastal observation deck;
-- public instrument housing;
-- station administrative office;
-- legitimate communications desk;
-- small research dock;
-- maintenance and supply log;
-- visitor handling register;
-- staff rotation board;
-- boundary security watch point;
-- concealed transition coordination file.
-
-The system fails if the station becomes theatrical. The best cover has no need
-to perform being normal.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

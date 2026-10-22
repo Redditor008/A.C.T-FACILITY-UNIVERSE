@@ -104,32 +104,6 @@ people in A.C.T.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's reader description and denial history. Scan duration, Accepted pulse
-band width, Receipt retention period, and 2 more are not measured here. Those 5 gaps sit in OPEN QUESTIONS.
-
-| READER PARAMETER | VALUE |
-|---|---|
-| Reader input | palm pad for physical biometric capture |
-| Marker capture | ultraviolet spectrograph recording surface and sub-surface markers |
-| Identity comparison | Static Pulse checked against the stored continuity band |
-| Output | printed access-log receipt plus an event sent to the attached security archive |
-| Deployment | vault and command corridor entry, senior access points |
-| Clearance | Level 4 senior site; Level 5 Council libraries, re-interface, override |
-| Denied subject classes | replicas, puppets, shapeshifters, body thieves, impostors, doubles |
-| Scan duration | NOT MEASURED |
-| Accepted pulse band width | NOT MEASURED |
-| Receipt retention period | NOT MEASURED |
-| False-denial rate | NOT MEASURED |
-| Profile refresh interval | NOT MEASURED |
-
-The reader adds a causal identity check at places where a copied body would
-be catastrophic. It does not
-replace guards, passphrases, command authority, or medical review, and no door should rely on
-it alone when
-the situation already smells wrong.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard SPBID unit is a brushed-aluminum wall scanner mounted beside high-security doors, vault
@@ -158,6 +132,32 @@ The unit is intentionally plain. A scanner that draws attention teaches intruder
 matters most.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's reader description and denial history. Scan duration, Accepted pulse
+band width, Receipt retention period, and 2 more are not measured here. Those 5 gaps sit in OPEN QUESTIONS.
+
+| READER PARAMETER | VALUE |
+|---|---|
+| Reader input | palm pad for physical biometric capture |
+| Marker capture | ultraviolet spectrograph recording surface and sub-surface markers |
+| Identity comparison | Static Pulse checked against the stored continuity band |
+| Output | printed access-log receipt plus an event sent to the attached security archive |
+| Deployment | vault and command corridor entry, senior access points |
+| Clearance | Level 4 senior site; Level 5 Council libraries, re-interface, override |
+| Denied subject classes | replicas, puppets, shapeshifters, body thieves, impostors, doubles |
+| Scan duration | NOT MEASURED |
+| Accepted pulse band width | NOT MEASURED |
+| Receipt retention period | NOT MEASURED |
+| False-denial rate | NOT MEASURED |
+| Profile refresh interval | NOT MEASURED |
+
+The reader adds a causal identity check at places where a copied body would
+be catastrophic. It does not
+replace guards, passphrases, command authority, or medical review, and no door should rely on
+it alone when
+the situation already smells wrong.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

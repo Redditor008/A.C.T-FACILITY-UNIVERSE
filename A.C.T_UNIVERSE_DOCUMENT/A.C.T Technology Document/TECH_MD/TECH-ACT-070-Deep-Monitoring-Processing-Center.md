@@ -86,6 +86,31 @@ should stop being ordinary seismic data and become a partially sealed file.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A DMPC installation includes analyst desks, event classification boards, signal ingest terminals, sensor-health
+panels, baseline comparison stations, routing gates, sealed-session recorders, F-1 communication channels, F-3
+operational notification links, and Central Archive package interfaces. The room is arranged so that
+analysts can
+separate immediate operational alarms from long-pattern review without losing custody of either.
+
+Known components include:
+
+- F-1 observation intake terminal;
+- sensor-health verification board;
+- seismic baseline comparison station;
+- volcanic and maritime correlation panel;
+- event classification console;
+- restricted routing pre-gate;
+- containment notification line;
+- archive package interface;
+- sealed-session recorder;
+- Records Chief override station.
+
+No processed event is considered complete until its routing decision is logged.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and routing doctrine. Watch staffing, Routing decision
@@ -114,31 +139,6 @@ becomes institutional action. It
 sits between raw listening and records custody, so its failures can either bury a
 warning or manufacture
 one.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A DMPC installation includes analyst desks, event classification boards, signal ingest terminals, sensor-health
-panels, baseline comparison stations, routing gates, sealed-session recorders, F-1 communication channels, F-3
-operational notification links, and Central Archive package interfaces. The room is arranged so that
-analysts can
-separate immediate operational alarms from long-pattern review without losing custody of either.
-
-Known components include:
-
-- F-1 observation intake terminal;
-- sensor-health verification board;
-- seismic baseline comparison station;
-- volcanic and maritime correlation panel;
-- event classification console;
-- restricted routing pre-gate;
-- containment notification line;
-- archive package interface;
-- sealed-session recorder;
-- Records Chief override station.
-
-No processed event is considered complete until its routing decision is logged.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

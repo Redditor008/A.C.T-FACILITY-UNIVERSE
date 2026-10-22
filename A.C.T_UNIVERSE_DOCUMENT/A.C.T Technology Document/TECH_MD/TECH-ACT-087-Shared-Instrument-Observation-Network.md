@@ -85,6 +85,33 @@ priorities.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A SION installation includes deck-mounted observation points, instrument housings, sensor mounts, feed division
+hardware, public data terminals, concealed routing trunks, maintenance labels, calibration ledgers, station report
+templates, F-2 watch feed receivers, and security review points. The visible side must remain
+professionally ordinary.
+The concealed side must remain disciplined enough that no public record shows why a
+particular angle, frequency, or
+maintenance priority matters.
+
+Known components include:
+
+- oceanographic monitor housing;
+- volcanic observation camera;
+- wildlife observation point;
+- deck sightline marker;
+- public station data terminal;
+- concealed F-2 feed route;
+- report separation filter;
+- calibration ledger;
+- maintenance cover schedule;
+- Security data-bleed review point.
+
+The network is trusted only while its two reports remain separable.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's instrument list and separation doctrine. 3 values below are not held by
@@ -115,33 +142,6 @@ a given reading may
 enter. Concealment lives in the routing, never in the instrument, because an instrument that
 behaves oddly
 is the first thing a curious visitor examines.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A SION installation includes deck-mounted observation points, instrument housings, sensor mounts, feed division
-hardware, public data terminals, concealed routing trunks, maintenance labels, calibration ledgers, station report
-templates, F-2 watch feed receivers, and security review points. The visible side must remain
-professionally ordinary.
-The concealed side must remain disciplined enough that no public record shows why a
-particular angle, frequency, or
-maintenance priority matters.
-
-Known components include:
-
-- oceanographic monitor housing;
-- volcanic observation camera;
-- wildlife observation point;
-- deck sightline marker;
-- public station data terminal;
-- concealed F-2 feed route;
-- report separation filter;
-- calibration ledger;
-- maintenance cover schedule;
-- Security data-bleed review point.
-
-The network is trusted only while its two reports remain separable.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

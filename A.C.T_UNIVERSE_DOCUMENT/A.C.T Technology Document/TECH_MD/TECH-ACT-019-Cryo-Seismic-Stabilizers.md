@@ -99,34 +99,6 @@ the exact moment it should flex.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's component list and array doctrine. Cooling output, Effective radius per
-unit, Nitrogen capacity and boil-off are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
-
-| UNIT PARAMETER | VALUE |
-|---|---|
-| Form | tripod-mounted industrial canister, field-generator size |
-| Coolant | liquid nitrogen reservoir |
-| Sensing | rotating piston sensor separating tremor from seismic disagreement |
-| Display | Crustal Temperature Index, Tectonic Stress indices, coolant pressure |
-| Synchronization | RSA interval synchronization port |
-| Control | wired remote with calibration sliders |
-| Venting | vapor-release valve, white nitrogen fog when active |
-| Core | internal redacted thermal-cell |
-| Safety | emergency thaw command |
-| Load measure | causal heat load |
-| Cooling output | NOT MEASURED |
-| Effective radius per unit | NOT MEASURED |
-| Nitrogen capacity and boil-off | NOT MEASURED |
-| Thermal-cell specification | REDACTED |
-
-The visible fog is not the containment effect; it is the waste sign of
-a colder argument happening below the
-floor. Engineering describes the intended result as making the crust hesitate long enough for
-containment
-systems to catch up.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard CSS is a tripod-mounted industrial canister roughly the size of a field
@@ -154,6 +126,34 @@ The visible fog is not the containment effect. It is the waste sign of
 a colder argument happening below the floor.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and array doctrine. Cooling output, Effective radius per
+unit, Nitrogen capacity and boil-off are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
+
+| UNIT PARAMETER | VALUE |
+|---|---|
+| Form | tripod-mounted industrial canister, field-generator size |
+| Coolant | liquid nitrogen reservoir |
+| Sensing | rotating piston sensor separating tremor from seismic disagreement |
+| Display | Crustal Temperature Index, Tectonic Stress indices, coolant pressure |
+| Synchronization | RSA interval synchronization port |
+| Control | wired remote with calibration sliders |
+| Venting | vapor-release valve, white nitrogen fog when active |
+| Core | internal redacted thermal-cell |
+| Safety | emergency thaw command |
+| Load measure | causal heat load |
+| Cooling output | NOT MEASURED |
+| Effective radius per unit | NOT MEASURED |
+| Nitrogen capacity and boil-off | NOT MEASURED |
+| Thermal-cell specification | REDACTED |
+
+The visible fog is not the containment effect; it is the waste sign of
+a colder argument happening below the
+floor. Engineering describes the intended result as making the crust hesitate long enough for
+containment
+systems to catch up.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

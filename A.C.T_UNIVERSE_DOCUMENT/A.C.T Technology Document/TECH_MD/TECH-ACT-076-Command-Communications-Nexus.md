@@ -91,6 +91,31 @@ sensor and records systems: if F-1 listens and F-2 remembers, F-5 commands.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A CCN installation includes protected circuit trunks, command consoles, authentication panels, sealed channel
+selectors, emergency broadcast relays, maritime platform links, floor command routing, external network gates, order
+receipt recorders, and communications continuity batteries. Command channels are divided by operational need: general
+site traffic, division command, containment alert, maritime recovery, seismic preparedness, medical support, security
+lockdown, and restricted review contact.
+
+Known components include:
+
+- Site Director command console;
+- division chief routing panel;
+- protected circuit trunk;
+- emergency broadcast relay;
+- sealed channel selector;
+- maritime platform link;
+- floor command post bridge;
+- external Facility network gate;
+- order receipt recorder;
+- continuity power cabinet.
+
+The order receipt recorder is treated as an archive instrument, not a convenience log.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and command doctrine. 3 figures below are blank: Channel
@@ -118,31 +143,6 @@ The nexus does not merely transmit messages; it preserves command identity, chan
 sequence, and receipt. A sent order is not the same thing as an obeyed
 order, and the receipt recorder is
 what keeps the difference visible.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A CCN installation includes protected circuit trunks, command consoles, authentication panels, sealed channel
-selectors, emergency broadcast relays, maritime platform links, floor command routing, external network gates, order
-receipt recorders, and communications continuity batteries. Command channels are divided by operational need: general
-site traffic, division command, containment alert, maritime recovery, seismic preparedness, medical support, security
-lockdown, and restricted review contact.
-
-Known components include:
-
-- Site Director command console;
-- division chief routing panel;
-- protected circuit trunk;
-- emergency broadcast relay;
-- sealed channel selector;
-- maritime platform link;
-- floor command post bridge;
-- external Facility network gate;
-- order receipt recorder;
-- continuity power cabinet.
-
-The order receipt recorder is treated as an archive instrument, not a convenience log.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

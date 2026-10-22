@@ -97,6 +97,7 @@ architecture that lets the foundation remain a true public institution while rou
 before it teaches
 the public floor its rules.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and separation doctrine. The archive holds no figure for

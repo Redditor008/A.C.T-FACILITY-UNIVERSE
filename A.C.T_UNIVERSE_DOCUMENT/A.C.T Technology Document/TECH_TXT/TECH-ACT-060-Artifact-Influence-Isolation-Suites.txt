@@ -98,6 +98,7 @@ The guiding doctrine is explicit in the F-6 record: the complex's people are par
 of its containment system, and the
 system fails if they are not cared for.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and clinical doctrine. 3 figures below are blank:

@@ -99,6 +99,32 @@ from a transformed anomaly, not as a generic pharmaceutical reagent.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+RNS appears as golden syrup, luminous under low light, thicker than water-alcohol carrier and
+capable of clinging to
+vial glass. It is stored in lead-lined vials. Each vial is sealed with a
+molecular-stabilizer cap designed to prevent
+evaporation into airborne memetic hazard. Vials are held inside locked medical-material cases with concentration
+labels, source batch codes, stabilizer expiration dates, and Memory Review audit tags.
+
+Known components and custody elements include:
+
+- refined golden memory-solvent syrup;
+- lead-lined vial body;
+- molecular-stabilizer cap;
+- concentration warning label;
+- source bloom batch code;
+- evaporation alarm strip;
+- dilution authorization tag;
+- Memory Review custody seal;
+- O5 escalation marker for high concentration;
+- post-handling aftercare record.
+
+No RNS vial is opened outside a certified amnestic preparation hood.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's custody description and handling doctrine. 3 figures below are blank:
@@ -126,32 +152,6 @@ The sap does not know which memories A.C.T wants removed; targeting comes from g
 carrier, delivery
 route, medical context, and controlled protocol. This file documents material lineage, while the
 administered compound system is documented separately.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-RNS appears as golden syrup, luminous under low light, thicker than water-alcohol carrier and
-capable of clinging to
-vial glass. It is stored in lead-lined vials. Each vial is sealed with a
-molecular-stabilizer cap designed to prevent
-evaporation into airborne memetic hazard. Vials are held inside locked medical-material cases with concentration
-labels, source batch codes, stabilizer expiration dates, and Memory Review audit tags.
-
-Known components and custody elements include:
-
-- refined golden memory-solvent syrup;
-- lead-lined vial body;
-- molecular-stabilizer cap;
-- concentration warning label;
-- source bloom batch code;
-- evaporation alarm strip;
-- dilution authorization tag;
-- Memory Review custody seal;
-- O5 escalation marker for high concentration;
-- post-handling aftercare record.
-
-No RNS vial is opened outside a certified amnestic preparation hood.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

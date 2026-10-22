@@ -98,6 +98,7 @@ because decision environment, status display, and authority routing are as impor
 communications
 hardware.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and decision doctrine. The archive holds no figure for

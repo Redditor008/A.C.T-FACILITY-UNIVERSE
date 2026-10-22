@@ -96,6 +96,7 @@ some documents under
 resident discipline. Their contents are accessed by restriction set, not by curiosity or ordinary
 clearance alone.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and custody doctrine. 3 values below are not held by the

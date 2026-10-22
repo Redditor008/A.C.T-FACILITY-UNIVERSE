@@ -91,6 +91,7 @@ for command and concealed
 enough for the wilderness cover. Sector lines became managed technology rather than rough field
 knowledge.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and perimeter doctrine. The archive holds no figure for

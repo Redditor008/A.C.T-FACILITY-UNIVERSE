@@ -113,6 +113,7 @@ The visor belongs to the site or kit, not to the operator. Personnel may
 be assigned a fitted face seal, but the
 optical core is logged, patched, inspected, and reclaimed.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list, variant list, and delay text. 3 figures below are blank:

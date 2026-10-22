@@ -93,6 +93,7 @@ architecture: rooms and data streams designed for years, not hours. The system r
 Grave's belief that time
 itself is an instrument when the subject changes slowly enough.
 
+
 TECHNICAL SPECIFICATION
 
 Figures are restated from this record's study component list and White Grave F-4 research doctrine. The archive holds

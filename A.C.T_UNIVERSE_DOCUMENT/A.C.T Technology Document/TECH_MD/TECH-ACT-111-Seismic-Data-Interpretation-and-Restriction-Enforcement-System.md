@@ -86,6 +86,31 @@ structures or the deeper architecture beneath the Primary Facility.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A SDIRES installation includes interpretation workstations, sealed data rooms, access-graded display walls,
+correlation engines, review-chain authorization terminals, Archive export locks, Security denial gates, restricted
+report builders, event-clock comparators, and handoff channels to deep monitoring and records systems.
+
+Known components include:
+
+- seismic interpretation console;
+- deep-earth correlation workstation;
+- restricted pattern library;
+- review-chain authority terminal;
+- access-graded display wall;
+- data refusal gate;
+- controlled report compiler;
+- Archive custody export lock;
+- Seismic Analysis Support liaison channel;
+- abyss-related escalation ledger.
+
+The system's most important component is not speed. It is the ability to stop
+analysis before unauthorized meaning
+forms.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and interpretation doctrine. 3 values below are not held
@@ -118,31 +143,6 @@ A refusal is kept
 as a record rather than as an absence, because an unrecorded refusal is indistinguishable
 from data that was
 never examined.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A SDIRES installation includes interpretation workstations, sealed data rooms, access-graded display walls,
-correlation engines, review-chain authorization terminals, Archive export locks, Security denial gates, restricted
-report builders, event-clock comparators, and handoff channels to deep monitoring and records systems.
-
-Known components include:
-
-- seismic interpretation console;
-- deep-earth correlation workstation;
-- restricted pattern library;
-- review-chain authority terminal;
-- access-graded display wall;
-- data refusal gate;
-- controlled report compiler;
-- Archive custody export lock;
-- Seismic Analysis Support liaison channel;
-- abyss-related escalation ledger.
-
-The system's most important component is not speed. It is the ability to stop
-analysis before unauthorized meaning
-forms.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

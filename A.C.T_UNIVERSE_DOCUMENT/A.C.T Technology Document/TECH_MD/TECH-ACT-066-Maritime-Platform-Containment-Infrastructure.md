@@ -91,6 +91,33 @@ infrastructure can turn the platform itself into prey.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+MPCI installations vary by vessel and mission, but the controlled standard includes modular containment
+cradles,
+water-sealed cargo locks, pressure-rated transfer sleeves, sonar and resonance sensor integration, external lure or
+decoy mounts, emergency flood compartments, quarantine deck zones, marine specimen restraint frames, chemical
+isolation tanks, remote handling rigs, and covered data links to the site watch.
+
+Known components include:
+
+- vessel-mounted containment cradle;
+- submersible pressure interface;
+- sealed deck intake lock;
+- water-transfer sleeve;
+- sensor mast and sonar integration bay;
+- remote handling rig;
+- emergency floodable holding bay;
+- containment transport ledger;
+- port handoff connector;
+- maritime cover package.
+
+A platform is certified only when its containment ledger, port interface, and emergency procedures
+match the class of
+resident or material it may recover.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and certification doctrine. Cradle volume, Sea state
@@ -119,33 +146,6 @@ have all
 been proven. This is field containment, not final containment: a ship moves, a deck
 vibrates, weather
 interferes, and civilian vessels approach.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-MPCI installations vary by vessel and mission, but the controlled standard includes modular containment
-cradles,
-water-sealed cargo locks, pressure-rated transfer sleeves, sonar and resonance sensor integration, external lure or
-decoy mounts, emergency flood compartments, quarantine deck zones, marine specimen restraint frames, chemical
-isolation tanks, remote handling rigs, and covered data links to the site watch.
-
-Known components include:
-
-- vessel-mounted containment cradle;
-- submersible pressure interface;
-- sealed deck intake lock;
-- water-transfer sleeve;
-- sensor mast and sonar integration bay;
-- remote handling rig;
-- emergency floodable holding bay;
-- containment transport ledger;
-- port handoff connector;
-- maritime cover package.
-
-A platform is certified only when its containment ledger, port interface, and emergency procedures
-match the class of
-resident or material it may recover.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

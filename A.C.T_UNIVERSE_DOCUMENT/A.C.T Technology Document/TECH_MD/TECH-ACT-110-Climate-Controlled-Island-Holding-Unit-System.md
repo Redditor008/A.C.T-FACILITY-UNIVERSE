@@ -86,6 +86,30 @@ standard-object doctrine.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A CCIHUS installation includes sealed climate rooms, humidity banks, atmosphere regulators, temperature zoning,
+substrate trays, drainage and brackish-water interfaces, filtered air routes, observation panels, biological
+monitoring feeds, sample pass-throughs, cleaning locks, and transfer doors connecting to F-3 handling corridors.
+
+Known components include:
+
+- climate-regulated holding room;
+- humidity and temperature control bank;
+- atmospheric composition panel;
+- salt-air and brackish-water interface;
+- substrate containment tray;
+- light-cycle regulator;
+- biological monitoring feed;
+- sample pass-through drawer;
+- Medical care access port;
+- climate-regimen ledger.
+
+Each unit is configured as a small artificial island condition rather than a neutral
+chamber.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and holding doctrine. Room count, Recipe accuracy,
@@ -118,30 +142,6 @@ and
 its source, because a regimen built from assumption stabilises the resident in the wrong
 environment and
 reads as success.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A CCIHUS installation includes sealed climate rooms, humidity banks, atmosphere regulators, temperature zoning,
-substrate trays, drainage and brackish-water interfaces, filtered air routes, observation panels, biological
-monitoring feeds, sample pass-throughs, cleaning locks, and transfer doors connecting to F-3 handling corridors.
-
-Known components include:
-
-- climate-regulated holding room;
-- humidity and temperature control bank;
-- atmospheric composition panel;
-- salt-air and brackish-water interface;
-- substrate containment tray;
-- light-cycle regulator;
-- biological monitoring feed;
-- sample pass-through drawer;
-- Medical care access port;
-- climate-regimen ledger.
-
-Each unit is configured as a small artificial island condition rather than a neutral
-chamber.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

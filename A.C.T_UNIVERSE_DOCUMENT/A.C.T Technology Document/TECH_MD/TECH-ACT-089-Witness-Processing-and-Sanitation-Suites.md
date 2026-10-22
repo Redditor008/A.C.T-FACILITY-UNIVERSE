@@ -88,6 +88,30 @@ unseen.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A WPSS installation includes reception rooms, medical assessment bays, interview chambers, observation controls,
+narrative planning stations, amnestic custody cabinets, quiet recovery rooms, release preparation desks, secure
+witness file terminals, and controlled exits. Suite architecture avoids overt containment aesthetics where possible;
+fear can corrupt memory and make sanitation harder.
+
+Known components include:
+
+- witness reception room;
+- medical assessment bay;
+- interview chamber;
+- observation control panel;
+- narrative insertion desk;
+- amnestic custody cabinet;
+- quiet recovery room;
+- release preparation terminal;
+- assimilation referral file;
+- witness archive relay tray.
+
+The suite treats ordinary life as an endpoint that must be rebuilt carefully.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and processing doctrine. The archive holds no figure for
@@ -117,30 +141,6 @@ Every procedure class has a lower-cost alternative available, so the suite must 
 up the list
 rather than down it. The quiet recovery room exists because release immediately after administration
 produces measurably worse outcomes for the witness and worse records for the archive.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A WPSS installation includes reception rooms, medical assessment bays, interview chambers, observation controls,
-narrative planning stations, amnestic custody cabinets, quiet recovery rooms, release preparation desks, secure
-witness file terminals, and controlled exits. Suite architecture avoids overt containment aesthetics where possible;
-fear can corrupt memory and make sanitation harder.
-
-Known components include:
-
-- witness reception room;
-- medical assessment bay;
-- interview chamber;
-- observation control panel;
-- narrative insertion desk;
-- amnestic custody cabinet;
-- quiet recovery room;
-- release preparation terminal;
-- assimilation referral file;
-- witness archive relay tray.
-
-The suite treats ordinary life as an endpoint that must be rebuilt carefully.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

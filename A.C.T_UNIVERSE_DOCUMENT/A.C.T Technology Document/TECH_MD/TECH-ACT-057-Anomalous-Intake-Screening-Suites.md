@@ -92,34 +92,6 @@ a breach waiting for a label.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's component list and triage doctrine. The archive holds no figure for
-First-pass threshold, Screening throughput, Exposure panel rating. Those 3 gaps are carried in OPEN QUESTIONS.
-
-| SUITE PARAMETER | VALUE |
-|---|---|
-| Position | between reception and routing |
-| Entry | reception transfer hatch |
-| Record | intake logging terminal |
-| Surface | controlled screening table |
-| Support | document cradle |
-| Media | isolated media reader |
-| Viewing | low-exposure viewing panel |
-| Signal | triage status light |
-| Routing | cleared-material and anomalous-material route locks |
-| Custody | chain-of-custody printer |
-| Environment | suite-by-suite regulation for suspect material |
-| First-pass threshold | NOT MEASURED |
-| Screening throughput | NOT MEASURED |
-| Exposure panel rating | NOT MEASURED |
-
-The dual routing architecture is part of the technology: one door sends cleared material
-upward or outward,
-the other sends anomalous material deeper. A screening suite is not a room full
-of desks, and screening is
-not interpretation.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 AISS installations sit between reception and routing. A standard suite includes controlled tables, document
@@ -147,6 +119,34 @@ cleared material upward or outward.
 The other sends anomalous material downward under controlled protocol.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and triage doctrine. The archive holds no figure for
+First-pass threshold, Screening throughput, Exposure panel rating. Those 3 gaps are carried in OPEN QUESTIONS.
+
+| SUITE PARAMETER | VALUE |
+|---|---|
+| Position | between reception and routing |
+| Entry | reception transfer hatch |
+| Record | intake logging terminal |
+| Surface | controlled screening table |
+| Support | document cradle |
+| Media | isolated media reader |
+| Viewing | low-exposure viewing panel |
+| Signal | triage status light |
+| Routing | cleared-material and anomalous-material route locks |
+| Custody | chain-of-custody printer |
+| Environment | suite-by-suite regulation for suspect material |
+| First-pass threshold | NOT MEASURED |
+| Screening throughput | NOT MEASURED |
+| Exposure panel rating | NOT MEASURED |
+
+The dual routing architecture is part of the technology: one door sends cleared material
+upward or outward,
+the other sends anomalous material deeper. A screening suite is not a room full
+of desks, and screening is
+not interpretation.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

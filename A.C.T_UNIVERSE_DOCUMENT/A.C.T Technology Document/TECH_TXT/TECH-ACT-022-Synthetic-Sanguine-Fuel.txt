@@ -101,6 +101,7 @@ Formula details remain restricted because hostile groups could use SSF to bait, 
 weaponize blood-fuel
 dependent entities.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and feeding procedure. The archive holds no figure for

@@ -86,6 +86,30 @@ the context that made the sample meaningful.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A BASCL installation includes biological analysis labs, sample processing rooms, containment-compatible work surfaces,
+regulated micro-environments, transfer hatches, specimen lockers, chain-of-custody terminals, data and documentation
+offices, medical crossover benches, decontamination points, and archive-controlled record links.
+
+Known components include:
+
+- regulated biological analysis laboratory;
+- sample processing bench;
+- containment-compatible transfer hatch;
+- specimen custody locker;
+- chain-of-custody terminal;
+- field-origin context file;
+- medical crossover review station;
+- decontamination point;
+- archive data lock;
+- verified return or disposal ledger.
+
+The laboratory treats context as part of the sample because biological anomalies often make
+location into evidence.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and custody doctrine. 3 figures below are blank: Bench
@@ -116,30 +140,6 @@ travels with
 the sample as a required component: a result produced without it is recorded as
 unanchored and cannot be
 cited against the resident.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A BASCL installation includes biological analysis labs, sample processing rooms, containment-compatible work surfaces,
-regulated micro-environments, transfer hatches, specimen lockers, chain-of-custody terminals, data and documentation
-offices, medical crossover benches, decontamination points, and archive-controlled record links.
-
-Known components include:
-
-- regulated biological analysis laboratory;
-- sample processing bench;
-- containment-compatible transfer hatch;
-- specimen custody locker;
-- chain-of-custody terminal;
-- field-origin context file;
-- medical crossover review station;
-- decontamination point;
-- archive data lock;
-- verified return or disposal ledger.
-
-The laboratory treats context as part of the sample because biological anomalies often make
-location into evidence.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

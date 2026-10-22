@@ -101,34 +101,6 @@ outside.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's component list and survey doctrine. 3 figures below are blank: Operating
-depth rating, Ping interval and range, Wireframe resolution. Each is filed under OPEN QUESTIONS.
-
-| SONAR PARAMETER | VALUE |
-|---|---|
-| Console | rugged dual-monitor unit |
-| First screen | real-time acoustic return |
-| Second screen | three-dimensional wireframe of mass, void, pressure flow |
-| Deployment | two-meter acoustic insertion spikes |
-| Alignment | laser-alignment points |
-| Insertion | pneumatic pistons; ROV or remote cradle in deep water |
-| Cabling | pressure-rated cables with insulated connector locks |
-| Interpretation | false-void analysis board |
-| Emitter | low-frequency emitter stack |
-| Buffer | acoustic return buffer |
-| Records | blind-monitoring event recorder |
-| Calibration | sealed calibration weights |
-| Operating depth rating | NOT MEASURED |
-| Ping interval and range | NOT MEASURED |
-| Wireframe resolution | NOT MEASURED |
-
-The system does not rely on silhouette, colour, or visible behaviour; it listens for
-displacement, echo
-refusal, pressure contours, and acoustic return. Readings must be interpreted by trained technicians,
-because a clean map is not an empty room.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard SAS unit uses a rugged dual-monitor console. One screen displays real-time acoustic
@@ -158,6 +130,34 @@ space, echo absorption, subject
 permission, or equipment failure.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and survey doctrine. 3 figures below are blank: Operating
+depth rating, Ping interval and range, Wireframe resolution. Each is filed under OPEN QUESTIONS.
+
+| SONAR PARAMETER | VALUE |
+|---|---|
+| Console | rugged dual-monitor unit |
+| First screen | real-time acoustic return |
+| Second screen | three-dimensional wireframe of mass, void, pressure flow |
+| Deployment | two-meter acoustic insertion spikes |
+| Alignment | laser-alignment points |
+| Insertion | pneumatic pistons; ROV or remote cradle in deep water |
+| Cabling | pressure-rated cables with insulated connector locks |
+| Interpretation | false-void analysis board |
+| Emitter | low-frequency emitter stack |
+| Buffer | acoustic return buffer |
+| Records | blind-monitoring event recorder |
+| Calibration | sealed calibration weights |
+| Operating depth rating | NOT MEASURED |
+| Ping interval and range | NOT MEASURED |
+| Wireframe resolution | NOT MEASURED |
+
+The system does not rely on silhouette, colour, or visible behaviour; it listens for
+displacement, echo
+refusal, pressure contours, and acoustic return. Readings must be interpreted by trained technicians,
+because a clean map is not an empty room.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

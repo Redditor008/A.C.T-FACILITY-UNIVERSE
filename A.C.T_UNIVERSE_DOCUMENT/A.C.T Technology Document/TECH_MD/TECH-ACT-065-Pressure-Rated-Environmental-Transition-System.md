@@ -96,6 +96,32 @@ remains a reference case for high-threat pressure management.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A PRETS installation may include reinforced transfer locks, pressure equalization columns, water-compatible seals,
+structural load sensors, vibration monitors, depth-state controllers, emergency ballast simulation, sample casks,
+internal camera denial options, pressure-rated service arms, and resident-specific decompression curves. It interfaces
+with transport vessels, submersible platforms, F-3 holding chambers, and limited research bays.
+
+Known components include:
+
+- pressure-rated transfer lock;
+- depth-state controller;
+- controlled equalization valve set;
+- water medium exchange manifold;
+- structural strain sensors;
+- acoustic stress monitors;
+- sample and feeding port isolation sleeves;
+- emergency compression reserve;
+- pressure-history recorder;
+- interlock keyed to the resident file.
+
+The pressure-history recorder is treated as part of the containment record. If pressure continuity
+cannot be proven,
+the resident is considered behaviorally unverified until reviewed.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and transfer doctrine. The archive holds no figure for
@@ -124,32 +150,6 @@ transfer. A
 deep-sea resident can be captured at depth, moved through a submersible cradle, received through
 a port
 interface, and placed into holding without losing that history.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A PRETS installation may include reinforced transfer locks, pressure equalization columns, water-compatible seals,
-structural load sensors, vibration monitors, depth-state controllers, emergency ballast simulation, sample casks,
-internal camera denial options, pressure-rated service arms, and resident-specific decompression curves. It interfaces
-with transport vessels, submersible platforms, F-3 holding chambers, and limited research bays.
-
-Known components include:
-
-- pressure-rated transfer lock;
-- depth-state controller;
-- controlled equalization valve set;
-- water medium exchange manifold;
-- structural strain sensors;
-- acoustic stress monitors;
-- sample and feeding port isolation sleeves;
-- emergency compression reserve;
-- pressure-history recorder;
-- interlock keyed to the resident file.
-
-The pressure-history recorder is treated as part of the containment record. If pressure continuity
-cannot be proven,
-the resident is considered behaviorally unverified until reviewed.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

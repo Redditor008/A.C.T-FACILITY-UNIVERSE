@@ -85,6 +85,30 @@ that prevent the tracker from becoming a new distribution point.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A MPTCS installation includes isolated analysis terminals, air-gapped media comparison racks, derivative hash vaults,
+controlled preview filters, propagation maps, source-custody connectors, Intelligence liaison channels, public-risk
+watch boards, secure deletion records, and export locks for response recommendations.
+
+Known components include:
+
+- isolated media analysis terminal;
+- derivative comparison rack;
+- anomalous hash and feature vault;
+- controlled preview filter;
+- propagation map wall;
+- source custody connector;
+- Intelligence warning channel;
+- public-risk watch board;
+- response recommendation compiler;
+- export and deletion audit lock.
+
+The center is designed so that tracking a copy does not create one more
+uncontrolled copy.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and tracking doctrine. 3 values below are not held by the
@@ -115,30 +139,6 @@ most often
 vindicated: an analyst who previews an unfiltered copy to speed a ruling has created
 a second exposure
 inside the facility that is supposed to be counting them.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A MPTCS installation includes isolated analysis terminals, air-gapped media comparison racks, derivative hash vaults,
-controlled preview filters, propagation maps, source-custody connectors, Intelligence liaison channels, public-risk
-watch boards, secure deletion records, and export locks for response recommendations.
-
-Known components include:
-
-- isolated media analysis terminal;
-- derivative comparison rack;
-- anomalous hash and feature vault;
-- controlled preview filter;
-- propagation map wall;
-- source custody connector;
-- Intelligence warning channel;
-- public-risk watch board;
-- response recommendation compiler;
-- export and deletion audit lock.
-
-The center is designed so that tracking a copy does not create one more
-uncontrolled copy.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

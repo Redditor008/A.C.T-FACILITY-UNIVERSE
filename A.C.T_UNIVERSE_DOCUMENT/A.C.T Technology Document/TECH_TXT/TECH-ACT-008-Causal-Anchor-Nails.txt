@@ -111,6 +111,7 @@ returned to a field kit. They enter extraction review, where Engineering decides
 unit is dead,
 contaminated, partially loaded with site stress, or evidence in an incident file.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and field handling text. 5 values below are not held by

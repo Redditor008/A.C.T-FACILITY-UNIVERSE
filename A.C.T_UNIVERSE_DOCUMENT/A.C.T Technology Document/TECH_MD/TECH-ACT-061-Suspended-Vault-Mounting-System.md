@@ -92,33 +92,6 @@ assumed.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's component list and inspection doctrine. The archive holds no figure for
-Mount load rating, Damper travel, Shaft depth. Those 3 gaps are carried in OPEN QUESTIONS.
-
-| MOUNT PARAMETER | VALUE |
-|---|---|
-| Structure | dedicated resident vault shaft |
-| Upper | upper anchor frame |
-| Lower | lower tension frame |
-| Isolation | dampened mounting cluster and vibration isolation pad |
-| Witness | structural witness line |
-| Sensing | shaft pressure sensor and vibration history |
-| Service | service-flex route |
-| Access | floor-side inspection gallery port |
-| Safety | emergency lowering denial lock |
-| Design basis | resident restriction set, expected movement, load, closure behaviour |
-| Purpose | isolate the vault from seismic, building, floor, and neighbour transmission |
-| Mount load rating | NOT MEASURED |
-| Damper travel | NOT MEASURED |
-| Shaft depth | NOT MEASURED |
-
-The system does not make a resident safe; it prevents the building from helping
-the resident by accident.
-The lowering denial lock exists because not every crisis is solved by putting the
-vault down.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard SVMS installation includes a dedicated vault shaft, upper anchor frame, lower tension
@@ -145,6 +118,33 @@ The emergency lowering denial lock exists because not every crisis is solved by 
 the vault on the floor.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and inspection doctrine. The archive holds no figure for
+Mount load rating, Damper travel, Shaft depth. Those 3 gaps are carried in OPEN QUESTIONS.
+
+| MOUNT PARAMETER | VALUE |
+|---|---|
+| Structure | dedicated resident vault shaft |
+| Upper | upper anchor frame |
+| Lower | lower tension frame |
+| Isolation | dampened mounting cluster and vibration isolation pad |
+| Witness | structural witness line |
+| Sensing | shaft pressure sensor and vibration history |
+| Service | service-flex route |
+| Access | floor-side inspection gallery port |
+| Safety | emergency lowering denial lock |
+| Design basis | resident restriction set, expected movement, load, closure behaviour |
+| Purpose | isolate the vault from seismic, building, floor, and neighbour transmission |
+| Mount load rating | NOT MEASURED |
+| Damper travel | NOT MEASURED |
+| Shaft depth | NOT MEASURED |
+
+The system does not make a resident safe; it prevents the building from helping
+the resident by accident.
+The lowering denial lock exists because not every crisis is solved by putting the
+vault down.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

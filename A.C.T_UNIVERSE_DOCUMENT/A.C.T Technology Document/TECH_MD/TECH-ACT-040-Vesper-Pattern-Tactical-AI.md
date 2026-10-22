@@ -99,34 +99,6 @@ parameters entered the cube.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's component list and command doctrine. 3 values below are not held by the
-archive: Model horizon, Concurrent asset count, Uplink latency limit. They are filed under OPEN QUESTIONS.
-
-| CORE PARAMETER | VALUE |
-|---|---|
-| Chassis | armored black cube on a vibration-damped tactical base |
-| Sensing | rotating sensor turret on the top face |
-| Optics | front-facing green recognition eye lens |
-| Board | restricted pattern-recognition board |
-| Input | wired tactical uplink port only |
-| Authority | physical mission key slot |
-| Core | isolated combat-logic core |
-| Output | drone command output bus |
-| Testing | simulation sandbox memory |
-| Safety | emergency logic-seal switch |
-| Deployment | command bench, drone cradle, or sealed simulation rack |
-| Recognition filter contents | held at Level 5 |
-| Model horizon | NOT MEASURED |
-| Concurrent asset count | NOT MEASURED |
-| Uplink latency limit | NOT MEASURED |
-
-The system is intentionally isolated: it is not connected to site intelligence, civilian networks,
-personnel
-files, or open archive records. The green lens stays covered when the core is
-not on an authorised mission.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard VPT-AI core is an armored black cube mounted on a vibration-damped tactical
@@ -156,6 +128,34 @@ The green lens must remain covered when the system is not in active use.
 Idle pattern collection is prohibited.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and command doctrine. 3 values below are not held by the
+archive: Model horizon, Concurrent asset count, Uplink latency limit. They are filed under OPEN QUESTIONS.
+
+| CORE PARAMETER | VALUE |
+|---|---|
+| Chassis | armored black cube on a vibration-damped tactical base |
+| Sensing | rotating sensor turret on the top face |
+| Optics | front-facing green recognition eye lens |
+| Board | restricted pattern-recognition board |
+| Input | wired tactical uplink port only |
+| Authority | physical mission key slot |
+| Core | isolated combat-logic core |
+| Output | drone command output bus |
+| Testing | simulation sandbox memory |
+| Safety | emergency logic-seal switch |
+| Deployment | command bench, drone cradle, or sealed simulation rack |
+| Recognition filter contents | held at Level 5 |
+| Model horizon | NOT MEASURED |
+| Concurrent asset count | NOT MEASURED |
+| Uplink latency limit | NOT MEASURED |
+
+The system is intentionally isolated: it is not connected to site intelligence, civilian networks,
+personnel
+files, or open archive records. The green lens stays covered when the core is
+not on an authorised mission.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

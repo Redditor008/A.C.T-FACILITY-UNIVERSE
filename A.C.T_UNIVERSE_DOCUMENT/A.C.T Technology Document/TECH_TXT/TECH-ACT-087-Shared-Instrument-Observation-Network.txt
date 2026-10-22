@@ -95,6 +95,7 @@ both duties, while using routing discipline to prevent the station's public reco
 watchpoint
 priorities.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's instrument list and separation doctrine. 3 values below are not held by

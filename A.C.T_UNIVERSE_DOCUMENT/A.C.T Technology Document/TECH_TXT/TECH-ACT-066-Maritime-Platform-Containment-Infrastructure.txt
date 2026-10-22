@@ -99,6 +99,7 @@ exploration mission, but the loss of one recovery vessel showed that maritime pu
 sufficient containment
 infrastructure can turn the platform itself into prey.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and certification doctrine. Cradle volume, Sea state

@@ -84,6 +84,31 @@ a visible campus rhythm.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+An LVPLS installation includes delivery receiving points, service corridors, utility access rooms, concealed
+transition controls, staff movement boards, vehicle timing ledgers, agricultural supply manifests, operational cargo
+covers, archive transfer containers, boundary cameras, and emergency seal indicators. The system connects F-3
+to F-2
+without letting the public campus appear connected to a buried processing installation.
+
+Known components include:
+
+- delivery receiving bay;
+- greenhouse service corridor;
+- utility access cover room;
+- concealed transition control;
+- staff arrival board;
+- vehicle timing ledger;
+- agricultural supply manifest;
+- operational cargo cover tag;
+- archive transfer container;
+- boundary monitoring panel.
+
+The system is successful when nothing about movement becomes memorable.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and traffic doctrine. The archive holds no figure for Bay
@@ -114,31 +139,6 @@ That makes
 traffic volume a control parameter: reduce the ordinary traffic and the operational movement becomes
 the
 only movement on the road.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-An LVPLS installation includes delivery receiving points, service corridors, utility access rooms, concealed
-transition controls, staff movement boards, vehicle timing ledgers, agricultural supply manifests, operational cargo
-covers, archive transfer containers, boundary cameras, and emergency seal indicators. The system connects F-3
-to F-2
-without letting the public campus appear connected to a buried processing installation.
-
-Known components include:
-
-- delivery receiving bay;
-- greenhouse service corridor;
-- utility access cover room;
-- concealed transition control;
-- staff arrival board;
-- vehicle timing ledger;
-- agricultural supply manifest;
-- operational cargo cover tag;
-- archive transfer container;
-- boundary monitoring panel.
-
-The system is successful when nothing about movement becomes memorable.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

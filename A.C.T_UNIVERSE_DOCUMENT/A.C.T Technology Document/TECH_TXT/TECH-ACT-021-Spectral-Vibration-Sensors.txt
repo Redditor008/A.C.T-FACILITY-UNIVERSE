@@ -105,6 +105,7 @@ Calibration remains restricted because a hostile song or script could be written
 just below published
 thresholds.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and monitoring doctrine. 4 figures below are blank:

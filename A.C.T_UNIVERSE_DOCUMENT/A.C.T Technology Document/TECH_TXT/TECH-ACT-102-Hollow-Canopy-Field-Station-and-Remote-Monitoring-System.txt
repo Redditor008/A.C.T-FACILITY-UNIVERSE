@@ -93,6 +93,7 @@ coordinated system. The
 Hollow Canopy name reflects this architecture: an ordinary-looking forest canopy hiding observation points, concealed
 clearings, underground posts, and environmental control infrastructure where impossible flora grows.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and observation doctrine. Station count, Feed continuity,

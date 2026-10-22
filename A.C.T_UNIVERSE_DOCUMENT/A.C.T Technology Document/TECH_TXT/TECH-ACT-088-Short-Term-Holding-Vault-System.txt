@@ -93,6 +93,7 @@ residency is not. This doctrine became necessary because short-term infrastructu
 to misuse.
 STHVS therefore makes time, transfer destination, and parent authority part of every holding record.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and holding doctrine. 3 figures below are blank: Unit

@@ -103,6 +103,7 @@ Modification plans remain Level 5 because Dark World architecture is not passive
 walls may remember
 being forest, door, bone, or boundary.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and boring procedure. Bit diameter range, Gold plating

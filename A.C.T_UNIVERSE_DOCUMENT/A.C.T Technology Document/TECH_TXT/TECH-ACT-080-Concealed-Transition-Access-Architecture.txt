@@ -93,6 +93,7 @@ only if its visible purpose
 makes sense and its concealed purpose is logged. The route must be ordinary to
 the surface and exact to A.C.T.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and boundary doctrine. 3 figures below are blank:

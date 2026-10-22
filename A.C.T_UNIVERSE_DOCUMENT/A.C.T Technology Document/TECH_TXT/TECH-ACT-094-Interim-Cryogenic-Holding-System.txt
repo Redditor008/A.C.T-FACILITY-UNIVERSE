@@ -94,6 +94,7 @@ written into ICHS through custody clocks, transfer schedules, suppression monito
 Grave
 disposition control. A stable frozen case is still a transient case.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and interim doctrine. Unit count, Thermal buffer

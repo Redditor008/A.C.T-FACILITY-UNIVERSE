@@ -94,6 +94,7 @@ controlled data
 comparison, derivative tracking, Intelligence liaison, and secrecy response support, all under exposure restrictions
 that prevent the tracker from becoming a new distribution point.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and tracking doctrine. 3 values below are not held by the

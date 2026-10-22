@@ -89,6 +89,33 @@ clearance alone.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A standard DQC is an isolated chamber or sealed records cell with controlled shelf
+mounts, observation-denial panels,
+handling ports, document cradles, environmental regulation, QNB-hardened record surfaces, and continuous integrity
+monitoring. Cells are separately gated from restricted records vaults and general repository halls. Each
+cell
+maintains its own quarantine documentation so that the archive keeps the archive's records.
+
+Known components include:
+
+- isolated document chamber;
+- QNB-hardened inner record surface;
+- observation-denial shutter;
+- restricted handling port;
+- document cradle lock;
+- environmental regulator;
+- quarantine status plate;
+- access authorization reader;
+- self-rewrite comparison ledger;
+- retrieval denial seal.
+
+Cells are designed for documents that must not reach their readers until procedure allows
+it.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and custody doctrine. 3 values below are not held by the
@@ -117,33 +144,6 @@ document. It treats reading as
 an access event, copying as a possible reproduction event, and preservation as evidence rather
 than
 convenience.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A standard DQC is an isolated chamber or sealed records cell with controlled shelf
-mounts, observation-denial panels,
-handling ports, document cradles, environmental regulation, QNB-hardened record surfaces, and continuous integrity
-monitoring. Cells are separately gated from restricted records vaults and general repository halls. Each
-cell
-maintains its own quarantine documentation so that the archive keeps the archive's records.
-
-Known components include:
-
-- isolated document chamber;
-- QNB-hardened inner record surface;
-- observation-denial shutter;
-- restricted handling port;
-- document cradle lock;
-- environmental regulator;
-- quarantine status plate;
-- access authorization reader;
-- self-rewrite comparison ledger;
-- retrieval denial seal.
-
-Cells are designed for documents that must not reach their readers until procedure allows
-it.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

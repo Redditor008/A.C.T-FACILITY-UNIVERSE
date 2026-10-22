@@ -105,6 +105,7 @@ shift a person's accepted pulse range.
 Pulse libraries remain Level 5 because they are identity maps of the most sensitive
 people in A.C.T.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's reader description and denial history. Scan duration, Accepted pulse

@@ -85,6 +85,30 @@ formalizes the engineering and procedure that keep that ordinariness functional.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A UWSBLTS installation includes vehicle screening lanes, delivery intake docks, loading bays, cargo inspection
+stations, boundary control post, concealed sensor runs, ordinary-facing wall surfaces, primary elevator bank,
+transition corridor locks, buried-core seal interfaces, and communication separation panels.
+
+Known components include:
+
+- unmarked wall structural section;
+- concealed boundary sensor route;
+- vehicle screening bay;
+- delivery intake dock;
+- loading bay custody station;
+- primary elevator transition gate;
+- campus-network communication separator;
+- buried-core communication separator;
+- boundary control post;
+- emergency core-seal actuator.
+
+The wall is built to be unnoticed under ordinary campus attention and undeniable under
+Facility authority.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Values are restated from this record's boundary component list and F-9 concealment doctrine. Anything
@@ -117,30 +141,6 @@ process shipments, and route material downward without any of it reading as unus
 the campus side, so
 concealment is a functional requirement of the screening hardware rather than a finish applied
 over it.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A UWSBLTS installation includes vehicle screening lanes, delivery intake docks, loading bays, cargo inspection
-stations, boundary control post, concealed sensor runs, ordinary-facing wall surfaces, primary elevator bank,
-transition corridor locks, buried-core seal interfaces, and communication separation panels.
-
-Known components include:
-
-- unmarked wall structural section;
-- concealed boundary sensor route;
-- vehicle screening bay;
-- delivery intake dock;
-- loading bay custody station;
-- primary elevator transition gate;
-- campus-network communication separator;
-- buried-core communication separator;
-- boundary control post;
-- emergency core-seal actuator.
-
-The wall is built to be unnoticed under ordinary campus attention and undeniable under
-Facility authority.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

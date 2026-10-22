@@ -81,6 +81,31 @@ commanding the relay. In an island installation, personnel support is command su
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+An IPHSS installation includes personnel quarters, bunk and private-room allocation systems, rest-cycle boards, meal
+and supply coordination, environmental controls, medical-support contact points, domestic access logs,
+shared-decompression spaces, emergency muster markers, seismic-readiness fixtures, and connection to F-5's
+administrative offices.
+
+Known components include:
+
+- personnel housing block;
+- duty-cycle rest ledger;
+- quarter assignment terminal;
+- meal and water supply board;
+- domestic environmental control panel;
+- Medical support call point;
+- seismic readiness marker;
+- post-shift decompression room;
+- access-core return log;
+- personnel accounting register.
+
+The system treats the living floor as a maintained operational field rather than background
+space.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and sustainment doctrine. 3 figures below are blank:
@@ -110,31 +135,6 @@ this relay can least afford, and the decompression room exists because a shift e
 at the access core is
 not the same as a shift ended: the person is still counted as on
 duty until the return log closes them out.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-An IPHSS installation includes personnel quarters, bunk and private-room allocation systems, rest-cycle boards, meal
-and supply coordination, environmental controls, medical-support contact points, domestic access logs,
-shared-decompression spaces, emergency muster markers, seismic-readiness fixtures, and connection to F-5's
-administrative offices.
-
-Known components include:
-
-- personnel housing block;
-- duty-cycle rest ledger;
-- quarter assignment terminal;
-- meal and water supply board;
-- domestic environmental control panel;
-- Medical support call point;
-- seismic readiness marker;
-- post-shift decompression room;
-- access-core return log;
-- personnel accounting register.
-
-The system treats the living floor as a maintained operational field rather than background
-space.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

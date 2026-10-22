@@ -103,34 +103,6 @@ whole enclosure starts negotiating with the anomaly.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's component list and installation doctrine. The archive holds no figure
-for Tile dimensions, Certified load per tile, Thermal-sink capacity. Those 3 gaps are carried in OPEN QUESTIONS.
-
-| TILE PARAMETER | VALUE |
-|---|---|
-| Face | interlocking matte-black tile |
-| Groove field | hexagonal reinforcement grooves |
-| Load lattice | internal tungsten reinforcement |
-| Backing | Abyssal Masonry anchor ribs |
-| Thermal | internal thermal-sink layer |
-| Acoustic | absorption face; rooms read smaller after installation |
-| Spread | resonance-spread mesh |
-| Seams | seam-pressure locks |
-| Diagnostics | cold-contact diagnostic strip |
-| Inspection | anchor-load inspection port |
-| Handling | colder than the surrounding wall and quiet under touch |
-| Tile dimensions | NOT MEASURED |
-| Certified load per tile | NOT MEASURED |
-| Thermal-sink capacity | NOT MEASURED |
-
-The plating does not replace walls; it binds them into an anchored shell. Each
-tile shares stress with its
-neighbours through interlocking edges, so a grid that returns stress into the room is
-failing in the one way
-the design was meant to prevent.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard AAP tile is matte black, colder than the surrounding wall, and noticeably
@@ -160,6 +132,34 @@ and post-installation quiet
 testing.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and installation doctrine. The archive holds no figure
+for Tile dimensions, Certified load per tile, Thermal-sink capacity. Those 3 gaps are carried in OPEN QUESTIONS.
+
+| TILE PARAMETER | VALUE |
+|---|---|
+| Face | interlocking matte-black tile |
+| Groove field | hexagonal reinforcement grooves |
+| Load lattice | internal tungsten reinforcement |
+| Backing | Abyssal Masonry anchor ribs |
+| Thermal | internal thermal-sink layer |
+| Acoustic | absorption face; rooms read smaller after installation |
+| Spread | resonance-spread mesh |
+| Seams | seam-pressure locks |
+| Diagnostics | cold-contact diagnostic strip |
+| Inspection | anchor-load inspection port |
+| Handling | colder than the surrounding wall and quiet under touch |
+| Tile dimensions | NOT MEASURED |
+| Certified load per tile | NOT MEASURED |
+| Thermal-sink capacity | NOT MEASURED |
+
+The plating does not replace walls; it binds them into an anchored shell. Each
+tile shares stress with its
+neighbours through interlocking edges, so a grid that returns stress into the room is
+failing in the one way
+the design was meant to prevent.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

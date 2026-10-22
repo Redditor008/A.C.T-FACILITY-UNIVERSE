@@ -81,6 +81,29 @@ of analysis remains a tracked exposure event.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A SBCOS installation includes partitioned observation cells, visual-denial shutters, delayed display screens,
+reflection-safe camera housings, partial occlusion rails, symbol isolation frames, exposure clock panels,
+cognitive-care monitoring ports, archive custody drawers, and secure data terminals for observation notes.
+
+Known components include:
+
+- controlled-observation cell;
+- visual-denial shutter bank;
+- delayed display monitor;
+- partial-symbol isolation frame;
+- reflection suppression panel;
+- exposure clock and reader timer;
+- cognitive-care monitoring port;
+- symbol behavior note terminal;
+- custody pass-through drawer;
+- emergency blind-close control.
+
+The suite's architecture is designed around the assumption that vision is a contact surface.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and observation doctrine. Cell count, Median exposure
@@ -111,29 +134,6 @@ the isolation frame all
 exist to show less. The partial frame carries its own warning, because a mind
 shown part of a symbol tends
 to complete it, and the completed form is the one that was being withheld.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A SBCOS installation includes partitioned observation cells, visual-denial shutters, delayed display screens,
-reflection-safe camera housings, partial occlusion rails, symbol isolation frames, exposure clock panels,
-cognitive-care monitoring ports, archive custody drawers, and secure data terminals for observation notes.
-
-Known components include:
-
-- controlled-observation cell;
-- visual-denial shutter bank;
-- delayed display monitor;
-- partial-symbol isolation frame;
-- reflection suppression panel;
-- exposure clock and reader timer;
-- cognitive-care monitoring port;
-- symbol behavior note terminal;
-- custody pass-through drawer;
-- emergency blind-close control.
-
-The suite's architecture is designed around the assumption that vision is a contact surface.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

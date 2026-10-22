@@ -79,6 +79,32 @@ expanded, the logistics center became a controlled technology rather than cleric
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+An ILCC installation includes movement boards, route authorization consoles, cargo and personnel ledgers, floor
+readiness feeds, escort request stations, emergency supply maps, port handoff trackers, sample custody drawers,
+medical support dispatch links, and incident reconstruction files. It is connected to command communications
+but
+maintains its own custody record so movement history does not vanish inside orders.
+
+Known components include:
+
+- site movement board;
+- floor readiness console;
+- personnel route ledger;
+- material custody ledger;
+- restricted escort scheduler;
+- port handoff tracker;
+- emergency supply map;
+- sample custody drawer;
+- medical support dispatch link;
+- incident movement reconstruction file.
+
+ILCC must know the difference between movement that is convenient and movement that is
+permitted.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and movement doctrine. The archive holds no figure for
@@ -107,32 +133,6 @@ is permitted. It
 stays connected to command communications but keeps its own custody record, so movement history
 never
 vanishes inside an order.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-An ILCC installation includes movement boards, route authorization consoles, cargo and personnel ledgers, floor
-readiness feeds, escort request stations, emergency supply maps, port handoff trackers, sample custody drawers,
-medical support dispatch links, and incident reconstruction files. It is connected to command communications
-but
-maintains its own custody record so movement history does not vanish inside orders.
-
-Known components include:
-
-- site movement board;
-- floor readiness console;
-- personnel route ledger;
-- material custody ledger;
-- restricted escort scheduler;
-- port handoff tracker;
-- emergency supply map;
-- sample custody drawer;
-- medical support dispatch link;
-- incident movement reconstruction file.
-
-ILCC must know the difference between movement that is convenient and movement that is
-permitted.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

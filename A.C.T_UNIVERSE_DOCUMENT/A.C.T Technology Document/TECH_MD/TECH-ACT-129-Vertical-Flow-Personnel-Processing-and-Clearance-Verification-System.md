@@ -90,6 +90,31 @@ as an unaccounted consequence.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A VFPPCVS installation includes access-core gates, personnel processing desks, clearance verification stations,
+training-status terminals, assignment routing boards, staff support counters, command communication links, monitored
+circulation corridors, upward exit checkpoints, and vertical-flow signage embedded into F-8's architecture.
+
+Known components include:
+
+- complex access-core gate;
+- personnel identity verification station;
+- duty-floor clearance terminal;
+- training completion check line;
+- command assignment routing board;
+- descent corridor gate;
+- ascent accountability checkpoint;
+- staff support handoff desk;
+- command-suite communication relay;
+- personnel incident flag ledger.
+
+The technology's visible feature is movement: downward for duty, upward for return. Its hidden
+feature is that every
+passage changes the personnel record.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures are restated from this record's gateway component list and F-8 personnel doctrine. 3 values below are not held
@@ -121,31 +146,6 @@ passage between surface life and contained work a processed transition rather th
 Verification
 covers five things in order, and a person who fails one of them does
 not descend.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A VFPPCVS installation includes access-core gates, personnel processing desks, clearance verification stations,
-training-status terminals, assignment routing boards, staff support counters, command communication links, monitored
-circulation corridors, upward exit checkpoints, and vertical-flow signage embedded into F-8's architecture.
-
-Known components include:
-
-- complex access-core gate;
-- personnel identity verification station;
-- duty-floor clearance terminal;
-- training completion check line;
-- command assignment routing board;
-- descent corridor gate;
-- ascent accountability checkpoint;
-- staff support handoff desk;
-- command-suite communication relay;
-- personnel incident flag ledger.
-
-The technology's visible feature is movement: downward for duty, upward for return. Its hidden
-feature is that every
-passage changes the personnel record.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

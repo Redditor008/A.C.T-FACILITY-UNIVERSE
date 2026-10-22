@@ -89,6 +89,31 @@ sectors, and patrols.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A RCOCS installation includes command rooms, division operations offices, sector-status interfaces, secure
+communications nodes, protected circuits, security command screens, access-core monitoring, internal logistics
+scheduling boards, incident clock systems, cross-site relay stations, and archive terminals for operational record
+capture.
+
+Known components include:
+
+- Site Director command station;
+- division operations routing desk;
+- enclosure sector status board;
+- concealed perimeter alert feed;
+- security command center console;
+- internal logistics movement board;
+- field-team check-in channel;
+- access core transition monitor;
+- incident escalation ledger;
+- cross-site communication relay.
+
+The system is physically buried but operationally wide. Its screens and ledgers represent kilometers
+of wilderness.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and command doctrine. Sector count, Mean incident
@@ -120,31 +145,6 @@ rather than one, a sector status board for what is happening in the field
 and a movement board for what is
 being moved, because a single combined picture cannot be displayed at a clearance the
 whole floor holds.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A RCOCS installation includes command rooms, division operations offices, sector-status interfaces, secure
-communications nodes, protected circuits, security command screens, access-core monitoring, internal logistics
-scheduling boards, incident clock systems, cross-site relay stations, and archive terminals for operational record
-capture.
-
-Known components include:
-
-- Site Director command station;
-- division operations routing desk;
-- enclosure sector status board;
-- concealed perimeter alert feed;
-- security command center console;
-- internal logistics movement board;
-- field-team check-in channel;
-- access core transition monitor;
-- incident escalation ledger;
-- cross-site communication relay.
-
-The system is physically buried but operationally wide. Its screens and ledgers represent kilometers
-of wilderness.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

@@ -90,35 +90,6 @@ could not master it.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's component list and study doctrine. The anchors
-are legacy
-hardware, so live-operation values are marked NOT MEASURED and filed under OPEN QUESTIONS.
-
-| ANCHOR PARAMETER | VALUE |
-|---|---|
-| Form | heavy clock regulator inside an iron anchor frame |
-| Sizes | cabinet-sized or wall-mounted; desk units classed unstable |
-| Gearing | brass gear train |
-| Frame | iron anchor frame |
-| Regulation | weighted escapement |
-| Face | sequence marks, witness ticks, final locking notch; no ordinary hours |
-| Winding | manual winding key |
-| Latch | cause-to-effect latch |
-| Isolation | vibration damping feet |
-| Muting | bell mute lever |
-| Records | ledger synchronization clip |
-| Safety | red stop pin |
-| Range held | NOT MEASURED |
-| Tick tolerance | NOT MEASURED |
-| Winding turns per test | set per test order |
-
-The intended effect was sequence, not full reality stabilization: before before after, cause before
-result,
-opening before contents. Handwritten repair marks from before modern designation rules are preserved as
-evidence and are not polished away.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 Surviving CCAs resemble heavy clock regulators mounted inside iron anchor frames. Most are cabinet-sized
@@ -147,6 +118,35 @@ are preserved as
 evidence and are not to be polished away.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and study doctrine. The anchors
+are legacy
+hardware, so live-operation values are marked NOT MEASURED and filed under OPEN QUESTIONS.
+
+| ANCHOR PARAMETER | VALUE |
+|---|---|
+| Form | heavy clock regulator inside an iron anchor frame |
+| Sizes | cabinet-sized or wall-mounted; desk units classed unstable |
+| Gearing | brass gear train |
+| Frame | iron anchor frame |
+| Regulation | weighted escapement |
+| Face | sequence marks, witness ticks, final locking notch; no ordinary hours |
+| Winding | manual winding key |
+| Latch | cause-to-effect latch |
+| Isolation | vibration damping feet |
+| Muting | bell mute lever |
+| Records | ledger synchronization clip |
+| Safety | red stop pin |
+| Range held | NOT MEASURED |
+| Tick tolerance | NOT MEASURED |
+| Winding turns per test | set per test order |
+
+The intended effect was sequence, not full reality stabilization: before before after, cause before
+result,
+opening before contents. Handwritten repair marks from before modern designation rules are preserved as
+evidence and are not polished away.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

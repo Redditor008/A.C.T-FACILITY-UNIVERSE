@@ -101,6 +101,7 @@ failure did
 not make ABM useless. It proved that a wall can dampen pressure without defeating
 a hungry will.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's material description and installation doctrine. 2 figures below are

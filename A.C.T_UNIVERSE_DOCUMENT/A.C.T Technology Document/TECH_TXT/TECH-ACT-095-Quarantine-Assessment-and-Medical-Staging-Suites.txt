@@ -95,6 +95,7 @@ material may appear stable because it is cold, sedated, dormant, injured, or pre
 exists to separate
 those meanings before the wrong destination is chosen.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and assessment doctrine. 3 values below are not held by

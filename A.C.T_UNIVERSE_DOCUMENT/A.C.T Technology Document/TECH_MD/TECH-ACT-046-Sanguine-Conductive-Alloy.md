@@ -102,34 +102,6 @@ authorizes mixed-sample study.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's component list and testing doctrine. The archive holds no figure for
-Conductivity range, Sample volume per well, Plate reuse limit. Those 3 gaps are carried in OPEN QUESTIONS.
-
-| ALLOY PARAMETER | VALUE |
-|---|---|
-| Stock | blue conductive alloy sheet |
-| Forms | plates, narrow bridge strips, sealed contact pads |
-| Structure | visible or semi-visible micro-vein network |
-| Activation sign | network darkens, brightens, or pulses by sample load |
-| Indicator | Data-Flow Indicator LED blinking during transfer |
-| Contact | sterile blood-contact well |
-| Backing | insulated backing layer |
-| Custody | sample identity tag and chain-of-custody tags |
-| Isolation | removable isolation coupler |
-| Aftercare | post-use residue swab port and biohazard seal strip |
-| Output | non-networked readout connector |
-| Carried signals | pulse identity, metabolic rhythm, genetic fragments, alarm states |
-| Conductivity range | NOT MEASURED |
-| Sample volume per well | NOT MEASURED |
-| Plate reuse limit | NOT MEASURED |
-
-Blood is not a neutral input in A.C.T files. The alloy must never be
-wired into general site networks;
-biological data channels stay air-gapped unless a clearance states otherwise, and plates are single-subject
-by default.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 SCA appears as blue metal sheet stock, usually stored as plates, narrow bridge strips,
@@ -158,6 +130,34 @@ unless a cleared
 protocol explicitly states otherwise.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and testing doctrine. The archive holds no figure for
+Conductivity range, Sample volume per well, Plate reuse limit. Those 3 gaps are carried in OPEN QUESTIONS.
+
+| ALLOY PARAMETER | VALUE |
+|---|---|
+| Stock | blue conductive alloy sheet |
+| Forms | plates, narrow bridge strips, sealed contact pads |
+| Structure | visible or semi-visible micro-vein network |
+| Activation sign | network darkens, brightens, or pulses by sample load |
+| Indicator | Data-Flow Indicator LED blinking during transfer |
+| Contact | sterile blood-contact well |
+| Backing | insulated backing layer |
+| Custody | sample identity tag and chain-of-custody tags |
+| Isolation | removable isolation coupler |
+| Aftercare | post-use residue swab port and biohazard seal strip |
+| Output | non-networked readout connector |
+| Carried signals | pulse identity, metabolic rhythm, genetic fragments, alarm states |
+| Conductivity range | NOT MEASURED |
+| Sample volume per well | NOT MEASURED |
+| Plate reuse limit | NOT MEASURED |
+
+Blood is not a neutral input in A.C.T files. The alloy must never be
+wired into general site networks;
+biological data channels stay air-gapped unless a clearance states otherwise, and plates are single-subject
+by default.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

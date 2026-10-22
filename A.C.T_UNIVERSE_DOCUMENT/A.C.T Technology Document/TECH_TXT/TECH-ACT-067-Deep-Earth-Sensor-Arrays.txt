@@ -91,6 +91,7 @@ DESA development follows the relay's listening doctrine: observation first, inte
 The array is designed to let a signal be preserved before personnel decide what
 it means.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and monitoring doctrine. 3 values below are not held by

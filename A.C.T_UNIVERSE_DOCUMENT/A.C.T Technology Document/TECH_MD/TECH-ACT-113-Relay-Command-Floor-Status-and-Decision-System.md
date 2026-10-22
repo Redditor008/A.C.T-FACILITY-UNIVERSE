@@ -89,6 +89,32 @@ hardware.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A RCFSD installation includes the Site Director's command station, duty command desk, status walls,
+division report
+panels, emergency posture board, personnel-readiness overlay, holding-alert channel, seismic-preparedness indicator,
+maritime operation feed, logistics movement slate, and command record lock.
+
+Known components include:
+
+- Site Director decision station;
+- duty command officer desk;
+- whole-relay status wall;
+- division report reconciliation panel;
+- personnel readiness overlay;
+- maritime recovery activity feed;
+- holding and laboratory alert strip;
+- seismic preparedness board;
+- internal logistics movement slate;
+- command decision ledger.
+
+The system exists beside the people it commands because F-5 doctrine places command among
+the relay's on-site
+population.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and decision doctrine. The archive holds no figure for
@@ -119,32 +145,6 @@ is made from one
 reconciled picture, and the decision ledger records the picture that was actually used rather
 than the
 picture available afterwards.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A RCFSD installation includes the Site Director's command station, duty command desk, status walls,
-division report
-panels, emergency posture board, personnel-readiness overlay, holding-alert channel, seismic-preparedness indicator,
-maritime operation feed, logistics movement slate, and command record lock.
-
-Known components include:
-
-- Site Director decision station;
-- duty command officer desk;
-- whole-relay status wall;
-- division report reconciliation panel;
-- personnel readiness overlay;
-- maritime recovery activity feed;
-- holding and laboratory alert strip;
-- seismic preparedness board;
-- internal logistics movement slate;
-- command decision ledger.
-
-The system exists beside the people it commands because F-5 doctrine places command among
-the relay's on-site
-population.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

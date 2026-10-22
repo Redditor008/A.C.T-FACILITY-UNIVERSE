@@ -100,6 +100,7 @@ rare and require route, floor, and power review before movement.
 Frequency dial data remains Level 4 because the wrong setting may teach a weapon
 how the lock thinks.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and doctrine text. 3 figures below are blank: Certified

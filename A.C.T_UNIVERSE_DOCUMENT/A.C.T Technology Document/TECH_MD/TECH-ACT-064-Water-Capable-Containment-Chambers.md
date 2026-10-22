@@ -95,33 +95,6 @@ beyond one resident.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's component list and holding doctrine. 3 figures below are blank: Volume,
-Salinity band held, Circulation rate. Each is filed under OPEN QUESTIONS.
-
-| CHAMBER PARAMETER | VALUE |
-|---|---|
-| Body | sealed aquatic chamber |
-| Lining | marine-compatible inner lining |
-| Chemistry | salinity and chemistry control loop |
-| Flow | compartmented intake and drain valves |
-| Monitoring | indirect monitoring mount |
-| Interface | pressure interface port |
-| Service | feeding and sample lock |
-| Safety | emergency water isolation gate |
-| Waste | biological waste filter |
-| Command | chamber-status command panel |
-| Pairing | phase glass, sonar, resonance sensors, white noise, anchor plating as required |
-| Volume | NOT MEASURED |
-| Salinity band held | NOT MEASURED |
-| Circulation rate | NOT MEASURED |
-
-Water is treated as structure, atmosphere, evidence, and sometimes part of the resident's behavioural
-field.
-The chamber cannot reproduce the entire sea: current, pressure, darkness, prey behaviour, mineral content,
-and ecological relationship may all be absent.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A WCCC unit contains sealed aquatic volume, marine-compatible wall material, compartmented water circulation, filtered
@@ -148,6 +121,33 @@ Known components include:
 No WCCC chamber is filled, drained, heated, cleaned, or chemically adjusted without resident-specific authorization.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and holding doctrine. 3 figures below are blank: Volume,
+Salinity band held, Circulation rate. Each is filed under OPEN QUESTIONS.
+
+| CHAMBER PARAMETER | VALUE |
+|---|---|
+| Body | sealed aquatic chamber |
+| Lining | marine-compatible inner lining |
+| Chemistry | salinity and chemistry control loop |
+| Flow | compartmented intake and drain valves |
+| Monitoring | indirect monitoring mount |
+| Interface | pressure interface port |
+| Service | feeding and sample lock |
+| Safety | emergency water isolation gate |
+| Waste | biological waste filter |
+| Command | chamber-status command panel |
+| Pairing | phase glass, sonar, resonance sensors, white noise, anchor plating as required |
+| Volume | NOT MEASURED |
+| Salinity band held | NOT MEASURED |
+| Circulation rate | NOT MEASURED |
+
+Water is treated as structure, atmosphere, evidence, and sometimes part of the resident's behavioural
+field.
+The chamber cannot reproduce the entire sea: current, pressure, darkness, prey behaviour, mineral content,
+and ecological relationship may all be absent.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

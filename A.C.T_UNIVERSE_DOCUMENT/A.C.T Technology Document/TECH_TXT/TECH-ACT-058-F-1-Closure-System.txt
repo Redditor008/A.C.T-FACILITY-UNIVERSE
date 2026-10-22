@@ -96,6 +96,7 @@ Air handling is compartmented so one vault atmosphere cannot reach another. The 
 binds these pieces into
 one action: separate the terminal floor from everything above it.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and closure doctrine. Closure time, Emergency plant

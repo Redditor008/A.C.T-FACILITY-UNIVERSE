@@ -83,6 +83,31 @@ clearings, underground posts, and environmental control infrastructure where imp
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+An HCFSRMS installation includes camouflaged observation shelters, buried or terrain-matched sensor nodes, root-safe
+cable routes, canopy microphones or visual feeds where authorized, soil and moisture sensors, resident
+growth markers,
+perimeter relay panels, staff concealment points, emergency supply caches, and secure reporting terminals. Structures
+are small, quiet, and removable where possible.
+
+Known components include:
+
+- concealed field station;
+- remote soil sensor;
+- moisture and canopy feed;
+- resident growth marker;
+- root-safe cable route;
+- observation slit or feed receiver;
+- perimeter relay panel;
+- staff rotation shelter;
+- emergency field cache;
+- parent-reserve reporting terminal.
+
+The system must produce evidence without creating a footprint larger than the evidence itself.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and observation doctrine. Station count, Feed continuity,
@@ -113,31 +138,6 @@ deliberately
 because presence disturbs what is being measured. Physical entry is therefore gated on a
 data gap rather
 than on curiosity.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-An HCFSRMS installation includes camouflaged observation shelters, buried or terrain-matched sensor nodes, root-safe
-cable routes, canopy microphones or visual feeds where authorized, soil and moisture sensors, resident
-growth markers,
-perimeter relay panels, staff concealment points, emergency supply caches, and secure reporting terminals. Structures
-are small, quiet, and removable where possible.
-
-Known components include:
-
-- concealed field station;
-- remote soil sensor;
-- moisture and canopy feed;
-- resident growth marker;
-- root-safe cable route;
-- observation slit or feed receiver;
-- perimeter relay panel;
-- staff rotation shelter;
-- emergency field cache;
-- parent-reserve reporting terminal.
-
-The system must produce evidence without creating a footprint larger than the evidence itself.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

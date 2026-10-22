@@ -88,6 +88,31 @@ archive receives custody.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A standard ARBA installation includes temporary record lockers, transfer trays, custody ledgers, sealed
+evidence-document drawers, witness file terminals, restricted flag stamps, duplicate packet shelves, parent-archive
+schedule boards, document hazard envelopes, and Security observation. It is built for short-term accountability
+rather
+than deep preservation.
+
+Known components include:
+
+- temporary record locker;
+- witness file terminal;
+- recovery packet tray;
+- holding manifest attachment point;
+- chain-of-custody ledger;
+- restricted-record flag drawer;
+- document hazard envelope supply;
+- parent archive schedule board;
+- transfer confirmation terminal;
+- Security observation point.
+
+The area treats a misplaced file as an operational event, not clerical inconvenience.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and custody doctrine. Locker capacity, Median buffer
@@ -118,31 +143,6 @@ read, altered, or lost
 while waiting. Everything else in the area exists to make that claim physically plausible
 rather than merely
 asserted.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A standard ARBA installation includes temporary record lockers, transfer trays, custody ledgers, sealed
-evidence-document drawers, witness file terminals, restricted flag stamps, duplicate packet shelves, parent-archive
-schedule boards, document hazard envelopes, and Security observation. It is built for short-term accountability
-rather
-than deep preservation.
-
-Known components include:
-
-- temporary record locker;
-- witness file terminal;
-- recovery packet tray;
-- holding manifest attachment point;
-- chain-of-custody ledger;
-- restricted-record flag drawer;
-- document hazard envelope supply;
-- parent archive schedule board;
-- transfer confirmation terminal;
-- Security observation point.
-
-The area treats a misplaced file as an operational event, not clerical inconvenience.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

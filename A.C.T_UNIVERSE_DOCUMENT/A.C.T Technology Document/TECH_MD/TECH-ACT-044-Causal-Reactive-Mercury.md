@@ -100,33 +100,6 @@ is rare and requires O5-level review.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's custody description and observation doctrine. 3 values below are not
-held by the archive: Sample volume held, Stasis field draw, Reaction onset time. They are filed under OPEN QUESTIONS.
-
-| MEDIUM PARAMETER | VALUE |
-|---|---|
-| Material | silver causal-reactive liquid metal |
-| Calm state | mercury under glass; surface may ripple before nearby movement |
-| Fluctuation | flows against tilt, curls upward, threads toward an event |
-| Container | magnetic-containment flask with reinforced transparent walls |
-| Field | internal field rings and stasis-field generator |
-| Gauge | reverse-flow orientation gauge |
-| Indicator | temporal ripple indicator |
-| Access | sealed sample neck |
-| Viewing | visor-only observation label |
-| Handling | toxic metal handling shield |
-| Records | regression event log tag |
-| Transfer | Kurokawa vault transfer cradle |
-| Sample volume held | NOT MEASURED |
-| Stasis field draw | NOT MEASURED |
-| Reaction onset time | NOT MEASURED |
-
-Ordinary containers hold where the liquid is, not when the liquid believes it is.
-The flask exists to stop
-the medium falling upward, climbing the cap, or occupying a previous fill state.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 CRM appears as silver liquid metal. In calm state it resembles mercury under glass,
@@ -155,6 +128,33 @@ CRM must never be placed in ordinary thermometers, clocks, syringes, pumps, or d
 glass.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's custody description and observation doctrine. 3 values below are not
+held by the archive: Sample volume held, Stasis field draw, Reaction onset time. They are filed under OPEN QUESTIONS.
+
+| MEDIUM PARAMETER | VALUE |
+|---|---|
+| Material | silver causal-reactive liquid metal |
+| Calm state | mercury under glass; surface may ripple before nearby movement |
+| Fluctuation | flows against tilt, curls upward, threads toward an event |
+| Container | magnetic-containment flask with reinforced transparent walls |
+| Field | internal field rings and stasis-field generator |
+| Gauge | reverse-flow orientation gauge |
+| Indicator | temporal ripple indicator |
+| Access | sealed sample neck |
+| Viewing | visor-only observation label |
+| Handling | toxic metal handling shield |
+| Records | regression event log tag |
+| Transfer | Kurokawa vault transfer cradle |
+| Sample volume held | NOT MEASURED |
+| Stasis field draw | NOT MEASURED |
+| Reaction onset time | NOT MEASURED |
+
+Ordinary containers hold where the liquid is, not when the liquid believes it is.
+The flask exists to stop
+the medium falling upward, climbing the cap, or occupying a previous fill state.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

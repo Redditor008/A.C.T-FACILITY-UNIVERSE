@@ -84,6 +84,33 @@ STHVS therefore makes time, transfer destination, and parent authority part of e
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A standard STHVS installation includes an intake bay, holding unit rows, a monitoring gallery,
+transfer preparation
+area, command post, documentation alcove, access controls, environmental service lines, communication panels, and an
+F-1 closure system. The holding units are sized for low-threat object and subject material,
+not heavy residents or
+high-instability anomalies.
+
+Known components include:
+
+- intake receipt bay;
+- low-threat holding unit row;
+- monitoring gallery;
+- transfer preparation table;
+- documentation alcove;
+- parent-site authorization board;
+- custody clock;
+- environmental support panel;
+- F-1 closure control;
+- escalation rejection file.
+
+The custody clock is a functional component. If time is not tracked, the holding
+has already begun to drift.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and holding doctrine. 3 figures below are blank: Unit
@@ -114,33 +141,6 @@ cannot drift into
 permanent local custody through inertia. Overstay is recorded as a custody failure, not as
 an administrative
 delay.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A standard STHVS installation includes an intake bay, holding unit rows, a monitoring gallery,
-transfer preparation
-area, command post, documentation alcove, access controls, environmental service lines, communication panels, and an
-F-1 closure system. The holding units are sized for low-threat object and subject material,
-not heavy residents or
-high-instability anomalies.
-
-Known components include:
-
-- intake receipt bay;
-- low-threat holding unit row;
-- monitoring gallery;
-- transfer preparation table;
-- documentation alcove;
-- parent-site authorization board;
-- custody clock;
-- environmental support panel;
-- F-1 closure control;
-- escalation rejection file.
-
-The custody clock is a functional component. If time is not tracked, the holding
-has already begun to drift.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

@@ -99,6 +99,7 @@ Modern CRM samples are held in magnetic-containment flasks with stasis-field gen
 flasks
 is rare and requires O5-level review.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's custody description and observation doctrine. 3 values below are not

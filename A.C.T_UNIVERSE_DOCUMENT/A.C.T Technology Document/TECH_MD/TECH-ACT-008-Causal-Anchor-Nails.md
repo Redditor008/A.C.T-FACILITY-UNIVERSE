@@ -108,36 +108,6 @@ contaminated, partially loaded with site stress, or evidence in an incident file
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's component list and field handling text. 5 values below are not held by
-the archive: Hold duration window, Unit mass, Certified hold load, and 2 more. They are filed under OPEN QUESTIONS.
-
-| COMPONENT PARAMETER | VALUE |
-|---|---|
-| Standard unit | thirty-centimeter spike |
-| Body material | violet-tinted alloy |
-| Point | reinforced for concrete, basalt plate, containment flooring, decking, ground anchors |
-| Head | revolving mechanical disc that clicks into a locked state when fully seated |
-| Internal core | heated core preventing temporal and spatial slippage |
-| Grip | bands for insulated gloves |
-| Indicators | depth mark, red extraction warning line, status notch, dead-core strip |
-| Issue class | single-use |
-| Pre-deployment behaviour | magnetically stuck in the hand because the core is already seeking a surface |
-| Hold duration window | NOT MEASURED |
-| Unit mass | NOT MEASURED |
-| Certified hold load | NOT MEASURED |
-| Extraction force required | NOT MEASURED |
-| Internal core temperature | NOT MEASURED |
-| Multi-nail geometry | Level 4 review before deployment |
-
-The nail is single-use by design. A nail that has already refused a position
-has spent its argument, and
-driving it into a second surface produces a lock nobody has tested. The dead-core
-discoloration strip exists
-so a spent nail cannot be mistaken for a fresh one inside a field
-case.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard CAN is a thirty-centimeter spike made of violet-tinted alloy. The point is
@@ -170,6 +140,36 @@ is returned to its case and
 marked for Engineering review.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and field handling text. 5 values below are not held by
+the archive: Hold duration window, Unit mass, Certified hold load, and 2 more. They are filed under OPEN QUESTIONS.
+
+| COMPONENT PARAMETER | VALUE |
+|---|---|
+| Standard unit | thirty-centimeter spike |
+| Body material | violet-tinted alloy |
+| Point | reinforced for concrete, basalt plate, containment flooring, decking, ground anchors |
+| Head | revolving mechanical disc that clicks into a locked state when fully seated |
+| Internal core | heated core preventing temporal and spatial slippage |
+| Grip | bands for insulated gloves |
+| Indicators | depth mark, red extraction warning line, status notch, dead-core strip |
+| Issue class | single-use |
+| Pre-deployment behaviour | magnetically stuck in the hand because the core is already seeking a surface |
+| Hold duration window | NOT MEASURED |
+| Unit mass | NOT MEASURED |
+| Certified hold load | NOT MEASURED |
+| Extraction force required | NOT MEASURED |
+| Internal core temperature | NOT MEASURED |
+| Multi-nail geometry | Level 4 review before deployment |
+
+The nail is single-use by design. A nail that has already refused a position
+has spent its argument, and
+driving it into a second surface produces a lock nobody has tested. The dead-core
+discoloration strip exists
+so a spent nail cannot be mistaken for a fresh one inside a field
+case.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

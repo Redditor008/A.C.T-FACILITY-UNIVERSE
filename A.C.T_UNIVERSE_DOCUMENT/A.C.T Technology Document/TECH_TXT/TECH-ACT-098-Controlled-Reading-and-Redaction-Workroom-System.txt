@@ -92,6 +92,7 @@ This rule is not ceremonial; it exists because a contaminated reader may not kno
 they have been changed quickly
 enough to stop reading.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and review doctrine. Cell count, Median exposure time,

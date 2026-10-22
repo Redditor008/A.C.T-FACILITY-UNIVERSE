@@ -100,35 +100,6 @@ maker marks, or undocumented seals not present in current models.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's component list and legacy history. 3 figures below are blank: Vacuum
-level achieved, Shell thickness, Pump-down time. Each is filed under OPEN QUESTIONS.
-
-| SPHERE PARAMETER | VALUE |
-|---|---|
-| Shell | seamless two-meter sphere |
-| Material | milky-white opaque glass-ceramic |
-| Opacity | deliberate; a sound hazard may also be visual |
-| External sensing | acoustic decibel sensors on shell and cradle |
-| Mechanical check | pressure disc readable without power |
-| Hatch | heavy circular hatch with digital keypad |
-| Override | anti-magnetic brass override wheel |
-| Internal monitor | atmospheric purity monitor |
-| Display | decibel count display |
-| Sealing | shell vibration gasket |
-| Interior fitting | evidence cradle or suspension rack |
-| Lineage | foundational era design, modernized |
-| Vacuum level achieved | NOT MEASURED |
-| Shell thickness | NOT MEASURED |
-| Pump-down time | NOT MEASURED |
-
-Fewer internal surfaces means fewer places for resonance to hide, which is why the
-interior stays plain. The
-2018 request for a transparent shell was refused for the same reason the glass-ceramic
-is opaque in the
-first place.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 The standard VIS is a seamless two-meter sphere of milky-white opaque glass-ceramic. The opacity
@@ -159,6 +130,35 @@ surfaces means fewer places for
 resonance to hide.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and legacy history. 3 figures below are blank: Vacuum
+level achieved, Shell thickness, Pump-down time. Each is filed under OPEN QUESTIONS.
+
+| SPHERE PARAMETER | VALUE |
+|---|---|
+| Shell | seamless two-meter sphere |
+| Material | milky-white opaque glass-ceramic |
+| Opacity | deliberate; a sound hazard may also be visual |
+| External sensing | acoustic decibel sensors on shell and cradle |
+| Mechanical check | pressure disc readable without power |
+| Hatch | heavy circular hatch with digital keypad |
+| Override | anti-magnetic brass override wheel |
+| Internal monitor | atmospheric purity monitor |
+| Display | decibel count display |
+| Sealing | shell vibration gasket |
+| Interior fitting | evidence cradle or suspension rack |
+| Lineage | foundational era design, modernized |
+| Vacuum level achieved | NOT MEASURED |
+| Shell thickness | NOT MEASURED |
+| Pump-down time | NOT MEASURED |
+
+Fewer internal surfaces means fewer places for resonance to hide, which is why the
+interior stays plain. The
+2018 request for a transparent shell was refused for the same reason the glass-ceramic
+is opaque in the
+first place.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

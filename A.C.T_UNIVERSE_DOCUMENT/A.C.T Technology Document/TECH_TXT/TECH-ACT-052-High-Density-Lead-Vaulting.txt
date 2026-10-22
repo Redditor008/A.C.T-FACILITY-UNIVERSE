@@ -105,6 +105,7 @@ and isolate, but it could not monitor. That weakness is why later A.C.T technolo
 developed sensors, flow meters,
 resonance mapping, and active stabilization.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and legacy-vault doctrine. Lead thickness, Attenuation

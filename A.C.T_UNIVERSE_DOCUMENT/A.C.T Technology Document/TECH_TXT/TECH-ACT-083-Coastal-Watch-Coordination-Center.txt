@@ -96,6 +96,7 @@ recovery operation, public exposure, or breach.
 
 CWCC makes local watch accountable to parent command.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and watch doctrine. 3 values below are not held by the

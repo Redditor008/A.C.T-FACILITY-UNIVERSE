@@ -91,6 +91,7 @@ explains vessels and maritime logistics. The stronger the campus becomes as a re
 the less often outsiders
 need to invent questions about what lies below it.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and cover doctrine. 3 values below are not held by the

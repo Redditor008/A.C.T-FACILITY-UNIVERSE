@@ -85,6 +85,31 @@ those meanings before the wrong destination is chosen.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A QAMSS installation includes intake and quarantine bays, sealed quarantine chambers, assessment benches, medical
+staging rooms, suppression administration cabinets, biological monitors, contamination barriers, parent-station
+terminals, rolling manifest stations, and Security access controls. The layout allows material to pass
+from surface
+receiving into assessment, then downward to F-1 or outward to transfer.
+
+Known components include:
+
+- quarantine intake bay;
+- sealed biological assessment chamber;
+- laboratory verification bench;
+- suppression administration station;
+- medical staging suite;
+- rolling manifest terminal;
+- contamination barrier door;
+- parent-station escalation panel;
+- failed-assessment isolation marker;
+- Security observation control.
+
+The suites are built to answer enough, not everything. Complete knowledge belongs elsewhere.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and assessment doctrine. 3 values below are not held by
@@ -115,31 +140,6 @@ trying to interpret. The suites
 therefore record suppressed and unsuppressed observations separately, and a release decision may not rest
 on
 suppressed data alone.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A QAMSS installation includes intake and quarantine bays, sealed quarantine chambers, assessment benches, medical
-staging rooms, suppression administration cabinets, biological monitors, contamination barriers, parent-station
-terminals, rolling manifest stations, and Security access controls. The layout allows material to pass
-from surface
-receiving into assessment, then downward to F-1 or outward to transfer.
-
-Known components include:
-
-- quarantine intake bay;
-- sealed biological assessment chamber;
-- laboratory verification bench;
-- suppression administration station;
-- medical staging suite;
-- rolling manifest terminal;
-- contamination barrier door;
-- parent-station escalation panel;
-- failed-assessment isolation marker;
-- Security observation control.
-
-The suites are built to answer enough, not everything. Complete knowledge belongs elsewhere.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

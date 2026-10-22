@@ -98,6 +98,7 @@ into the buried archive
 is a recorded change of authority rather than an unnoticed continuation of ordinary archive
 work.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and boundary doctrine. 3 values below are not held by the

@@ -85,6 +85,32 @@ preventing that world from expanding into the rest of the reserve.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+An IBHCS installation includes climate-controlled chamber rows, habitat modules, specialized environment chambers,
+intake and assessment bays, monitoring galleries, controlled service corridors, atmospheric separation doors,
+substrate trays, water and humidity systems, biological waste controls, and transfer locks to F-1,
+F-3, or enclosure
+dispatch.
+
+Known components include:
+
+- intake and assessment bay;
+- climate-controlled chamber row;
+- specialized habitat module;
+- atmospheric separation door;
+- humidity and light control panel;
+- substrate and root-zone tray;
+- monitoring gallery;
+- handling and transport corridor;
+- medical access lock;
+- transfer suitability ledger.
+
+Each chamber is a local environment with a lock, not a locked room with
+decorations.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and habitat doctrine. 3 values below are not held by the
@@ -115,32 +141,6 @@ transfer
 suitability ledger records what happened after the last move, and that record governs the
 next one. Interior
 holding is a fallback, never a preference over the native field.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-An IBHCS installation includes climate-controlled chamber rows, habitat modules, specialized environment chambers,
-intake and assessment bays, monitoring galleries, controlled service corridors, atmospheric separation doors,
-substrate trays, water and humidity systems, biological waste controls, and transfer locks to F-1,
-F-3, or enclosure
-dispatch.
-
-Known components include:
-
-- intake and assessment bay;
-- climate-controlled chamber row;
-- specialized habitat module;
-- atmospheric separation door;
-- humidity and light control panel;
-- substrate and root-zone tray;
-- monitoring gallery;
-- handling and transport corridor;
-- medical access lock;
-- transfer suitability ledger.
-
-Each chamber is a local environment with a lock, not a locked room with
-decorations.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

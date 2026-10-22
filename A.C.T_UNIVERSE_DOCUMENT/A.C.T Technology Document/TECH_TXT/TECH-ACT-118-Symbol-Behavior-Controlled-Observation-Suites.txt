@@ -91,6 +91,7 @@ method: more active than sealed storage, stricter than ordinary study, and conne
 monitoring so the act
 of analysis remains a tracked exposure event.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and observation doctrine. Cell count, Median exposure

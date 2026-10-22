@@ -105,34 +105,6 @@ same operation.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's component list and issue doctrine. Gamma attenuation, Strip saturation
-threshold, Treatment service life are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
-
-| TEXTILE PARAMETER | VALUE |
-|---|---|
-| Weave | soft dark purple self-luminous fabric |
-| Fibre | restricted radiation-resistant fibres |
-| Pattern | shifting star-motive thread, not decorative |
-| Indicator | radiation-counter hem strip, violet to black |
-| Treatment | hydrophobic layer, beading water aggressively |
-| Closures | sealed cuff and collar bindings |
-| Seams | contamination-visible seam thread |
-| Low light | fold contrast pattern |
-| Repair | repair patch kit |
-| Records | post-use exposure log tag |
-| Issue | by size, hazard class, and treatment date |
-| Gamma attenuation | NOT MEASURED |
-| Strip saturation threshold | NOT MEASURED |
-| Treatment service life | NOT MEASURED |
-
-The star pattern helps operators read fabric movement, fold stress, and contamination spread in
-low light,
-and it should drift with light rather than pulse with the wearer's heartbeat. The
-hem strip is not a
-suggestion: black means leave.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 GMT appears as soft, dark purple fabric with shifting star-like points across the weave.
@@ -163,6 +135,34 @@ accepted as Crystal Butterfly
 PPE.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and issue doctrine. Gamma attenuation, Strip saturation
+threshold, Treatment service life are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
+
+| TEXTILE PARAMETER | VALUE |
+|---|---|
+| Weave | soft dark purple self-luminous fabric |
+| Fibre | restricted radiation-resistant fibres |
+| Pattern | shifting star-motive thread, not decorative |
+| Indicator | radiation-counter hem strip, violet to black |
+| Treatment | hydrophobic layer, beading water aggressively |
+| Closures | sealed cuff and collar bindings |
+| Seams | contamination-visible seam thread |
+| Low light | fold contrast pattern |
+| Repair | repair patch kit |
+| Records | post-use exposure log tag |
+| Issue | by size, hazard class, and treatment date |
+| Gamma attenuation | NOT MEASURED |
+| Strip saturation threshold | NOT MEASURED |
+| Treatment service life | NOT MEASURED |
+
+The star pattern helps operators read fabric movement, fold stress, and contamination spread in
+low light,
+and it should drift with light rather than pulse with the wearer's heartbeat. The
+hem strip is not a
+suggestion: black means leave.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

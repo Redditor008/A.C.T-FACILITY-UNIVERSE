@@ -104,34 +104,6 @@ Current RSD batches are still restricted and not approved for casual constructio
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's component list and deployment doctrine. The archive holds no figure for
-Hardening time refined, Hopper pressure range, Bloom density. Those 3 gaps are carried in OPEN QUESTIONS.
-
-| SEALANT PARAMETER | VALUE |
-|---|---|
-| Material | vivid blue refined powder |
-| Storage | pressurized dry hopper |
-| Activation | hydration-trigger valve |
-| Gauge | dry-pressure gauge |
-| Seal | humidity exclusion seal |
-| Feed | particulate agitation rotor |
-| Delivery | spray-pattern nozzle |
-| Toxicity | post-bloom toxicity sampler |
-| Warning | Blue Haze warning strip |
-| Disposal | sealed spent-hopper canister |
-| Source behaviour | raw Blue Dirt hardens in about four seconds with a heat spike |
-| Hardening time refined | NOT MEASURED |
-| Hopper pressure range | NOT MEASURED |
-| Bloom density | NOT MEASURED |
-
-Refinement reduces uncontrolled bloom and toxic exposure; it does not erase them. The material
-can create a
-wall faster than a team can correct a mistake, so it is not used
-in uncertain rooms, crowded corridors, or
-patient-care areas.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 RSD appears as vivid blue powder. It is stored in pressurized hoppers designed to
@@ -159,6 +131,34 @@ RSD is never stored near open water, wet cleaning lines, humid biological suites
 unshielded personnel showers.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and deployment doctrine. The archive holds no figure for
+Hardening time refined, Hopper pressure range, Bloom density. Those 3 gaps are carried in OPEN QUESTIONS.
+
+| SEALANT PARAMETER | VALUE |
+|---|---|
+| Material | vivid blue refined powder |
+| Storage | pressurized dry hopper |
+| Activation | hydration-trigger valve |
+| Gauge | dry-pressure gauge |
+| Seal | humidity exclusion seal |
+| Feed | particulate agitation rotor |
+| Delivery | spray-pattern nozzle |
+| Toxicity | post-bloom toxicity sampler |
+| Warning | Blue Haze warning strip |
+| Disposal | sealed spent-hopper canister |
+| Source behaviour | raw Blue Dirt hardens in about four seconds with a heat spike |
+| Hardening time refined | NOT MEASURED |
+| Hopper pressure range | NOT MEASURED |
+| Bloom density | NOT MEASURED |
+
+Refinement reduces uncontrolled bloom and toxic exposure; it does not erase them. The material
+can create a
+wall faster than a team can correct a mistake, so it is not used
+in uncertain rooms, crowded corridors, or
+patient-care areas.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

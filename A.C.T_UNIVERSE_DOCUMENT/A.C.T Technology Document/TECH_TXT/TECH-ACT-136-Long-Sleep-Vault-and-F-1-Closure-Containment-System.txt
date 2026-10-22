@@ -103,6 +103,7 @@ natural end of
 custody. The system exists to preserve a state that may need to last longer
 than personnel, programs, or assumptions.
 
+
 TECHNICAL SPECIFICATION
 
 Figures are restated from this record's vault component list and F-1 deep-hold doctrine. 3 values below are not held

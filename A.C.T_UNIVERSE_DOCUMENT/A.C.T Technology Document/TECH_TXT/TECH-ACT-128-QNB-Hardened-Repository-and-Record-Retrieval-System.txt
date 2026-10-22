@@ -92,6 +92,7 @@ answer to
 dangerous access. The result is an archive built to remember without yielding its memory
 to every hand that asks.
 
+
 TECHNICAL SPECIFICATION
 
 Values are restated from this record's repository component list and F-7 archival doctrine. Anything

@@ -90,6 +90,7 @@ containment to prevent spread, but not enough institutional comfort to become pe
 follows the
 annex's buffer doctrine: nothing here belongs here forever.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and buffer doctrine. The archive holds no figure for Cell

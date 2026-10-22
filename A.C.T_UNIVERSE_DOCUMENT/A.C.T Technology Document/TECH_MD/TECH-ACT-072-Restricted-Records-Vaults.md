@@ -84,6 +84,32 @@ observations must be held closest because the knowledge itself has operational w
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+An RRV installation includes access-gated vault rooms, seal-state panels, review-chain authorization locks, QNB-aware
+file capsules, environmental preservation controls, dual-ledger access recorders, comparison-denial terminals,
+escorted reading stations, and emergency lockout shutters. Physical files, data packages, analyst notes, and
+correlation markers are kept together unless the review chain authorizes separation.
+
+Known components include:
+
+- restricted vault door;
+- review-chain authorization lock;
+- seal-state indicator panel;
+- QNB-aware file capsule;
+- dual-ledger access recorder;
+- escorted reading station;
+- comparison-denial terminal;
+- environmental preservation control;
+- emergency lockout shutter;
+- partial-seal audit tag.
+
+The partial-seal audit tag records whether a file is closed, partially opened, comparison-open, transfer-locked,
+or
+downgraded.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and sealing doctrine. 3 figures below are blank: Holding
@@ -112,32 +138,6 @@ vault
 controls files rather than minds, and it is a safeguard against circulation rather than
 an excuse for
 paralysis.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-An RRV installation includes access-gated vault rooms, seal-state panels, review-chain authorization locks, QNB-aware
-file capsules, environmental preservation controls, dual-ledger access recorders, comparison-denial terminals,
-escorted reading stations, and emergency lockout shutters. Physical files, data packages, analyst notes, and
-correlation markers are kept together unless the review chain authorizes separation.
-
-Known components include:
-
-- restricted vault door;
-- review-chain authorization lock;
-- seal-state indicator panel;
-- QNB-aware file capsule;
-- dual-ledger access recorder;
-- escorted reading station;
-- comparison-denial terminal;
-- environmental preservation control;
-- emergency lockout shutter;
-- partial-seal audit tag.
-
-The partial-seal audit tag records whether a file is closed, partially opened, comparison-open, transfer-locked,
-or
-downgraded.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

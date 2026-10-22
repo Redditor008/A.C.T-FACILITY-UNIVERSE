@@ -89,6 +89,30 @@ work.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+An ABPCS installation includes personnel-processing counters, identity verification stations, clearance terminals,
+access-core credential writers, public-role registries, operational-depth authorization boards, training-readiness
+flags, denial and removal ledgers, command review terminals, and monitoring tied to F-7 transition
+architecture.
+
+Known components include:
+
+- personnel arrival desk;
+- identity-continuity verification station;
+- public-archive role ledger;
+- operational-depth clearance terminal;
+- transition authorization gate;
+- clearance expiry board;
+- training-readiness flag;
+- denial and appeal file;
+- boundary incident notation channel;
+- Site Director review terminal.
+
+The system treats a person's permitted identity as a controlled access material.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and boundary doctrine. 3 values below are not held by the
@@ -119,30 +143,6 @@ because a
 person who changes role must be visibly the same person across the change, and
 a clearance that expires
 silently is a boundary that has already failed while appearing intact.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-An ABPCS installation includes personnel-processing counters, identity verification stations, clearance terminals,
-access-core credential writers, public-role registries, operational-depth authorization boards, training-readiness
-flags, denial and removal ledgers, command review terminals, and monitoring tied to F-7 transition
-architecture.
-
-Known components include:
-
-- personnel arrival desk;
-- identity-continuity verification station;
-- public-archive role ledger;
-- operational-depth clearance terminal;
-- transition authorization gate;
-- clearance expiry board;
-- training-readiness flag;
-- denial and appeal file;
-- boundary incident notation channel;
-- Site Director review terminal.
-
-The system treats a person's permitted identity as a controlled access material.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

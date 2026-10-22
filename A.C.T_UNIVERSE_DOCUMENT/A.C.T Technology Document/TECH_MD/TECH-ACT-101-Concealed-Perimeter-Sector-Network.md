@@ -81,6 +81,32 @@ knowledge.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A CPSN installation includes terrain-matched boundary posts, root-safe anchor points, camouflaged observation markers,
+path misdirection, animal-safe intrusion signals, staff-only route indicators, sector identity ledgers, environmental
+drift sensors, concealed alarm relays, and emergency response caches. Every component must survive weather,
+growth,
+decay, and staff rotation without becoming visible as a constructed perimeter.
+
+Known components include:
+
+- terrain-matched boundary post;
+- canopy-shadow marker;
+- root-safe anchor point;
+- staff-only route tag;
+- camouflaged incursion sensor;
+- sector identity ledger;
+- perimeter drift record;
+- emergency response cache;
+- resident expansion marker;
+- parent-reserve alert relay.
+
+The network must be legible to trained personnel without becoming a trail for the
+unassigned.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and perimeter doctrine. The archive holds no figure for
@@ -111,32 +137,6 @@ must not damage
 the root zone, and markers must be moved often enough to defeat memorisation without
 the movement itself
 becoming a pattern.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A CPSN installation includes terrain-matched boundary posts, root-safe anchor points, camouflaged observation markers,
-path misdirection, animal-safe intrusion signals, staff-only route indicators, sector identity ledgers, environmental
-drift sensors, concealed alarm relays, and emergency response caches. Every component must survive weather,
-growth,
-decay, and staff rotation without becoming visible as a constructed perimeter.
-
-Known components include:
-
-- terrain-matched boundary post;
-- canopy-shadow marker;
-- root-safe anchor point;
-- staff-only route tag;
-- camouflaged incursion sensor;
-- sector identity ledger;
-- perimeter drift record;
-- emergency response cache;
-- resident expansion marker;
-- parent-reserve alert relay.
-
-The network must be legible to trained personnel without becoming a trail for the
-unassigned.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

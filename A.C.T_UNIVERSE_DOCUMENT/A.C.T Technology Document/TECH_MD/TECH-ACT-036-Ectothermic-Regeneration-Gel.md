@@ -101,36 +101,6 @@ burned, or convinced to move.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's component list and application doctrine. 3 values below are not held by
-the archive: Active compound ratio, Approved open-tub time, Shelf life refrigerated. They are filed under OPEN
-QUESTIONS.
-
-| GEL PARAMETER | VALUE |
-|---|---|
-| Form | thick translucent green gel |
-| Scent | medicinal mint antiseptic carrier |
-| Storage | refrigerated tub |
-| Agitation | automated agitator disc in the tub lid |
-| Matrix | translucent green repair matrix |
-| Moisture | moisture-retention layer |
-| Buffer | ectothermic metabolic buffer |
-| Fault sign | separation indicator strip |
-| Application | spatula set, spread thinly at low pressure |
-| Operator kit | temperature-safe glove kit |
-| Aftercare | post-application residue swabs |
-| Records | logged by tub, subject, site, temperature, humidity, time |
-| Active compound ratio | NOT MEASURED |
-| Approved open-tub time | NOT MEASURED |
-| Shelf life refrigerated | NOT MEASURED |
-
-The gel does not overwrite anatomy and does not revert a subject; it supports
-controlled healing inside the
-current body plan. Shared tubs are prohibited, and a tub whose gel has separated
-into clear fluid and opaque
-green strands is not used until Medical clears it.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 ERG is a thick translucent green gel with a medicinal mint scent. It is
@@ -160,6 +130,36 @@ tubs are
 prohibited except during declared emergency triage.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and application doctrine. 3 values below are not held by
+the archive: Active compound ratio, Approved open-tub time, Shelf life refrigerated. They are filed under OPEN
+QUESTIONS.
+
+| GEL PARAMETER | VALUE |
+|---|---|
+| Form | thick translucent green gel |
+| Scent | medicinal mint antiseptic carrier |
+| Storage | refrigerated tub |
+| Agitation | automated agitator disc in the tub lid |
+| Matrix | translucent green repair matrix |
+| Moisture | moisture-retention layer |
+| Buffer | ectothermic metabolic buffer |
+| Fault sign | separation indicator strip |
+| Application | spatula set, spread thinly at low pressure |
+| Operator kit | temperature-safe glove kit |
+| Aftercare | post-application residue swabs |
+| Records | logged by tub, subject, site, temperature, humidity, time |
+| Active compound ratio | NOT MEASURED |
+| Approved open-tub time | NOT MEASURED |
+| Shelf life refrigerated | NOT MEASURED |
+
+The gel does not overwrite anatomy and does not revert a subject; it supports
+controlled healing inside the
+current body plan. Shared tubs are prohibited, and a tub whose gel has separated
+into clear fluid and opaque
+green strands is not used until Medical clears it.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

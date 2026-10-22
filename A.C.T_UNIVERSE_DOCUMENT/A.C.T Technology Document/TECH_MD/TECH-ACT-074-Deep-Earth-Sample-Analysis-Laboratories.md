@@ -82,6 +82,31 @@ become uncontrolled engineering or alarm response.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A DESAL suite may include sealed mineral benches, thermal containment plates, resonance readers, pressure-history
+cabinets, micro-sample drills, dust capture hoods, vibration-isolated scales, geological comparison drawers,
+restricted sample safes, and archive-linked sample ledgers. Equipment is isolated from ordinary facility vibration
+because false resonance can distort both research and seismic interpretation.
+
+Known components include:
+
+- sealed mineral workbench;
+- thermal response plate;
+- resonance comparison reader;
+- pressure-history storage cabinet;
+- micro-sample drill station;
+- dust and ash capture hood;
+- vibration-isolated mass table;
+- geological baseline drawer;
+- restricted sample safe;
+- sample chain-of-custody ledger.
+
+No sample is ground, heated, hydrated, pressurized, or sonically stimulated without a written study
+purpose.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and analysis doctrine. Sample mass limit, Thermal range,
@@ -110,31 +135,6 @@ below
 the facility, or a carrier. False resonance can distort both research and seismic interpretation,
 which is
 why the equipment is isolated.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A DESAL suite may include sealed mineral benches, thermal containment plates, resonance readers, pressure-history
-cabinets, micro-sample drills, dust capture hoods, vibration-isolated scales, geological comparison drawers,
-restricted sample safes, and archive-linked sample ledgers. Equipment is isolated from ordinary facility vibration
-because false resonance can distort both research and seismic interpretation.
-
-Known components include:
-
-- sealed mineral workbench;
-- thermal response plate;
-- resonance comparison reader;
-- pressure-history storage cabinet;
-- micro-sample drill station;
-- dust and ash capture hood;
-- vibration-isolated mass table;
-- geological baseline drawer;
-- restricted sample safe;
-- sample chain-of-custody ledger.
-
-No sample is ground, heated, hydrated, pressurized, or sonically stimulated without a written study
-purpose.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

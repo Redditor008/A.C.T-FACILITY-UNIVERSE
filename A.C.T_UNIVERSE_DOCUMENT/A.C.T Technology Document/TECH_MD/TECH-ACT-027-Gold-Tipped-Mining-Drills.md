@@ -103,34 +103,6 @@ being forest, door, bone, or boundary.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's component list and boring procedure. Bit diameter range, Gold plating
-thickness, Cutting rate in Pale Wood, and 1 more are not measured here. Those 4 gaps sit in OPEN QUESTIONS.
-
-| DRILL PARAMETER | VALUE |
-|---|---|
-| Frame | heavy industrial drill assembly |
-| Cutting interface | 24k gold-plated drill bits |
-| Monitoring | acoustic vibration disc near the bit housing |
-| Cooling | cooled engine housing protecting gold behaviour |
-| Analog check | pressure gauges, retained because digital readings lag |
-| Speed | digital RPM readout with harmonic risk flag |
-| Wear | gold-wear indicator |
-| Containment | dust capture shroud |
-| Sampling | core sample sleeve |
-| Safety | emergency reverse lock |
-| Bit diameter range | NOT MEASURED |
-| Gold plating thickness | NOT MEASURED |
-| Cutting rate in Pale Wood | NOT MEASURED |
-| Engine output | NOT MEASURED |
-
-Gold bits are counted before and after work, and missing gold is treated as
-contaminated material rather
-than lost hardware. The analog gauges stay on the frame because a digital reading
-can lag at exactly the
-moment anomalous resistance begins.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard GTMD is a heavy industrial drill assembly with 24k gold-plated bits. The
@@ -158,6 +130,34 @@ Gold bits are counted before and after work. Missing gold is treated as contamin
 material, not lost hardware.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and boring procedure. Bit diameter range, Gold plating
+thickness, Cutting rate in Pale Wood, and 1 more are not measured here. Those 4 gaps sit in OPEN QUESTIONS.
+
+| DRILL PARAMETER | VALUE |
+|---|---|
+| Frame | heavy industrial drill assembly |
+| Cutting interface | 24k gold-plated drill bits |
+| Monitoring | acoustic vibration disc near the bit housing |
+| Cooling | cooled engine housing protecting gold behaviour |
+| Analog check | pressure gauges, retained because digital readings lag |
+| Speed | digital RPM readout with harmonic risk flag |
+| Wear | gold-wear indicator |
+| Containment | dust capture shroud |
+| Sampling | core sample sleeve |
+| Safety | emergency reverse lock |
+| Bit diameter range | NOT MEASURED |
+| Gold plating thickness | NOT MEASURED |
+| Cutting rate in Pale Wood | NOT MEASURED |
+| Engine output | NOT MEASURED |
+
+Gold bits are counted before and after work, and missing gold is treated as
+contaminated material rather
+than lost hardware. The analog gauges stay on the frame because a digital reading
+can lag at exactly the
+moment anomalous resistance begins.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

@@ -94,6 +94,7 @@ activity below thresholds of concern, while climate-controlled individual units 
 pretending all residents needed the same cold. The system gave White Grave a scalable
 language for cold containment.
 
+
 TECHNICAL SPECIFICATION
 
 Values are restated from this record's holding component list and White Grave F-3 containment

@@ -94,6 +94,7 @@ SRCCIS formalizes the systems that keep that genuine work from crossing into con
 or exposing the built
 levels below.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and campus doctrine. 3 figures below are blank:

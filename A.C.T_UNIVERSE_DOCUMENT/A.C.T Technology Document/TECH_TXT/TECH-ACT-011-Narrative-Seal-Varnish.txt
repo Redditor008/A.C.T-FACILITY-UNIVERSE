@@ -107,6 +107,7 @@ propaganda,
 protect forged anomaly records, or lock infected wording into a document that should have
 been allowed to fade.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and application text. Canister volume, Stated half-life

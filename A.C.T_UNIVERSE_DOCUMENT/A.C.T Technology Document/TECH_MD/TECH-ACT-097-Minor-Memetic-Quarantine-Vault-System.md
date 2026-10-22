@@ -81,6 +81,30 @@ annex's buffer doctrine: nothing here belongs here forever.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+An MMQVS installation includes visually shielded document cells, covered transfer drawers, low-light handling lanes,
+manifest stations, exposure clocks, document hazard tags, quarantine cabinets, cognitive aftercare alert links, F-1
+closure controls, and parent-node routing terminals. The architecture prevents accidental reading, reflection,
+reproduction, or staff familiarity.
+
+Known components include:
+
+- visual-denial storage cabinet;
+- document quarantine cell;
+- covered transfer drawer;
+- exposure clock board;
+- rolling buffer manifest terminal;
+- low-light handling lane;
+- cognitive aftercare alert line;
+- parent-node routing terminal;
+- F-1 closure control;
+- black-archive referral flag.
+
+A quiet document is not assumed safe. Silence can be part of the hazard.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and buffer doctrine. The archive holds no figure for Cell
@@ -111,30 +135,6 @@ together produce a
 local pressure that no single entry predicts. The manifest is deliberately thin for that
 reason, since a
 detailed manifest of many minor hazards is itself a hazard.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-An MMQVS installation includes visually shielded document cells, covered transfer drawers, low-light handling lanes,
-manifest stations, exposure clocks, document hazard tags, quarantine cabinets, cognitive aftercare alert links, F-1
-closure controls, and parent-node routing terminals. The architecture prevents accidental reading, reflection,
-reproduction, or staff familiarity.
-
-Known components include:
-
-- visual-denial storage cabinet;
-- document quarantine cell;
-- covered transfer drawer;
-- exposure clock board;
-- rolling buffer manifest terminal;
-- low-light handling lane;
-- cognitive aftercare alert line;
-- parent-node routing terminal;
-- F-1 closure control;
-- black-archive referral flag.
-
-A quiet document is not assumed safe. Silence can be part of the hazard.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

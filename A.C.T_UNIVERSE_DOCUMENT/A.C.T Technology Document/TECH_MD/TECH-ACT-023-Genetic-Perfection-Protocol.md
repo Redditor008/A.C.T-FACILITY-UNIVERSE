@@ -106,35 +106,6 @@ convenient shape and call the result health.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's component list and clinical procedure. Mist concentration band, Scrubber
-capacity, Pod atmosphere composition are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
-
-| SUITE PARAMETER | VALUE |
-|---|---|
-| Pod | large egg-shaped sealed medical pod |
-| Lid | clear reinforced glass for visual monitoring |
-| Scanning | laser-point bio-scanners mapping DNA and tissue in real time |
-| Atmosphere | pink mist delivery cycle |
-| Scrubbing | biological scrubber array cycling every sixty seconds |
-| Display | Mending Progress, vital signs, baseline confidence |
-| Concentration | bloodstream concentration monitor, value redacted |
-| Safety lock | baseline comparison lock |
-| Emergency | purge system |
-| Authority | patient consent and authority port |
-| Advertised repair window | five minutes for a full emergency rewrite |
-| Mist concentration band | NOT MEASURED |
-| Scrubber capacity | NOT MEASURED |
-| Vector library contents | not recorded at this clearance |
-| Pod atmosphere composition | NOT MEASURED |
-
-The pink mist is not cosmetic vapour; it carries measured correction support while the
-scrubbers remove
-failed vectors and shed residue. The five-minute figure is an advertised capability rather than
-a promise,
-because fast correction raises risk when the machine misreads anomaly influence.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard GPP suite centers on a large egg-shaped pod with a clear glass
@@ -164,6 +135,35 @@ The patient is never alone with the machine as a matter of procedure, even
 when sedated.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and clinical procedure. Mist concentration band, Scrubber
+capacity, Pod atmosphere composition are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
+
+| SUITE PARAMETER | VALUE |
+|---|---|
+| Pod | large egg-shaped sealed medical pod |
+| Lid | clear reinforced glass for visual monitoring |
+| Scanning | laser-point bio-scanners mapping DNA and tissue in real time |
+| Atmosphere | pink mist delivery cycle |
+| Scrubbing | biological scrubber array cycling every sixty seconds |
+| Display | Mending Progress, vital signs, baseline confidence |
+| Concentration | bloodstream concentration monitor, value redacted |
+| Safety lock | baseline comparison lock |
+| Emergency | purge system |
+| Authority | patient consent and authority port |
+| Advertised repair window | five minutes for a full emergency rewrite |
+| Mist concentration band | NOT MEASURED |
+| Scrubber capacity | NOT MEASURED |
+| Vector library contents | not recorded at this clearance |
+| Pod atmosphere composition | NOT MEASURED |
+
+The pink mist is not cosmetic vapour; it carries measured correction support while the
+scrubbers remove
+failed vectors and shed residue. The five-minute figure is an advertised capability rather than
+a promise,
+because fast correction raises risk when the machine misreads anomaly influence.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

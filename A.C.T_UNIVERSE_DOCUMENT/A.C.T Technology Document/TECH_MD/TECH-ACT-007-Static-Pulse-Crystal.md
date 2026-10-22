@@ -111,36 +111,6 @@ discarded chips, and black-market replicas are treated as direct threats to cont
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's material description, packaging list, and processed-form list. Mass band
-values, Thermal band limits, Pulse band values are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
-
-| MATERIAL PARAMETER | VALUE |
-|---|---|
-| Source | controlled extraction, Abyss floor source |
-| Raw form | violet shards with internal pale flashes |
-| Natural features | four stress lines on larger pieces, useful but never trusted without instruments |
-| Thermal behaviour unloaded | feels cooler than the surrounding room |
-| Thermal behaviour loaded | vibration-heat requiring gauge and dampening tracking |
-| Approved processed forms | uncut source shards, quarter-core segments, calibration chips |
-| Non-operational forms | dead reference chips, fracture quarantine pieces |
-| Primary packaging | red or black dampening case with internal suspension foam |
-| Case instrumentation | digital temperature-gauge lid and vibration-heat alarm strip |
-| Custody hardware | shard orientation marks and dual-seal custody locks |
-| Waste handling | insulated capsules for powder, dust, failed slivers, cracked corners |
-| Label fields | designation, mass band, thermal band, pulse band, handler initials, last contact date |
-| Mass band values | NOT MEASURED |
-| Thermal band limits | NOT MEASURED |
-| Pulse band values | NOT MEASURED |
-| Source depth or tunnel | not carried on the case label |
-
-The label deliberately omits source tunnel, source depth, cutting plan, and compatible RSA geometry.
-That
-omission is a custody control rather than an oversight: a case that leaves Materials
-Custody should not
-carry enough information for someone to rebuild a core from it.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 Registered Static-Pulse Crystal appears as raw violet shards with internal pale flashes. Larger pieces
@@ -174,6 +144,36 @@ and last contact date.
 It does not list source tunnel, source depth, cutting plan, or compatible RSA geometry.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's material description, packaging list, and processed-form list. Mass band
+values, Thermal band limits, Pulse band values are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
+
+| MATERIAL PARAMETER | VALUE |
+|---|---|
+| Source | controlled extraction, Abyss floor source |
+| Raw form | violet shards with internal pale flashes |
+| Natural features | four stress lines on larger pieces, useful but never trusted without instruments |
+| Thermal behaviour unloaded | feels cooler than the surrounding room |
+| Thermal behaviour loaded | vibration-heat requiring gauge and dampening tracking |
+| Approved processed forms | uncut source shards, quarter-core segments, calibration chips |
+| Non-operational forms | dead reference chips, fracture quarantine pieces |
+| Primary packaging | red or black dampening case with internal suspension foam |
+| Case instrumentation | digital temperature-gauge lid and vibration-heat alarm strip |
+| Custody hardware | shard orientation marks and dual-seal custody locks |
+| Waste handling | insulated capsules for powder, dust, failed slivers, cracked corners |
+| Label fields | designation, mass band, thermal band, pulse band, handler initials, last contact date |
+| Mass band values | NOT MEASURED |
+| Thermal band limits | NOT MEASURED |
+| Pulse band values | NOT MEASURED |
+| Source depth or tunnel | not carried on the case label |
+
+The label deliberately omits source tunnel, source depth, cutting plan, and compatible RSA geometry.
+That
+omission is a custody control rather than an oversight: a case that leaves Materials
+Custody should not
+carry enough information for someone to rebuild a core from it.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

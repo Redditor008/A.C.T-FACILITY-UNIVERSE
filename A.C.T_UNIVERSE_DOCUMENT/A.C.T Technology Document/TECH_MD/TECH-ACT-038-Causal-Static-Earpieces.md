@@ -103,35 +103,6 @@ meant to play.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's component list and field doctrine. The archive holds no figure for Drift
-trigger thresholds, Battery endurance. Those 2 gaps are carried in OPEN QUESTIONS.
-
-| EARPIECE PARAMETER | VALUE |
-|---|---|
-| Wearable | paired tactical earbuds |
-| Body unit | rugged transceiver box |
-| Chip | internal Logic-Anchor Chip |
-| Alert | ear-canal vibration motor |
-| Signal | controlled static emitter |
-| Sampling | brainwave drift sampler |
-| Cueing | procedural cue bank |
-| Memory | secure mission baseline memory |
-| Power | battery status light |
-| Records | post-exposure log buffer |
-| Link | insulated cable or short-range secure link, by issue model |
-| Design rule | sturdy and unglamorous; bright elements forbidden |
-| Static profile levels | held at Level 4 |
-| Drift trigger thresholds | NOT MEASURED |
-| Battery endurance | NOT MEASURED |
-
-The kit interrupts the first moment when thought begins arranging itself into the shape
-the anomaly prefers.
-It does not make a person immune to memetics, and a loose earpiece may
-keep playing static while failing to
-sample drift.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard CSE kit contains paired tactical earbuds, a rugged transceiver box, insulated cable
@@ -161,6 +132,35 @@ The device must fit correctly. A loose earpiece may still play static while fail
 to deliver vibration warning.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and field doctrine. The archive holds no figure for Drift
+trigger thresholds, Battery endurance. Those 2 gaps are carried in OPEN QUESTIONS.
+
+| EARPIECE PARAMETER | VALUE |
+|---|---|
+| Wearable | paired tactical earbuds |
+| Body unit | rugged transceiver box |
+| Chip | internal Logic-Anchor Chip |
+| Alert | ear-canal vibration motor |
+| Signal | controlled static emitter |
+| Sampling | brainwave drift sampler |
+| Cueing | procedural cue bank |
+| Memory | secure mission baseline memory |
+| Power | battery status light |
+| Records | post-exposure log buffer |
+| Link | insulated cable or short-range secure link, by issue model |
+| Design rule | sturdy and unglamorous; bright elements forbidden |
+| Static profile levels | held at Level 4 |
+| Drift trigger thresholds | NOT MEASURED |
+| Battery endurance | NOT MEASURED |
+
+The kit interrupts the first moment when thought begins arranging itself into the shape
+the anomaly prefers.
+It does not make a person immune to memetics, and a loose earpiece may
+keep playing static while failing to
+sample drift.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

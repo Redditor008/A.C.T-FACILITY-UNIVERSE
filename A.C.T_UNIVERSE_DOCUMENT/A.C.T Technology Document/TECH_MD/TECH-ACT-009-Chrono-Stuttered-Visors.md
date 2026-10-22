@@ -109,36 +109,6 @@ optical core is logged, patched, inspected, and reclaimed.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's component list, variant list, and delay text. 3 figures below are blank:
-Approved delay band range, Battery runtime, Unit mass. Each is filed under OPEN QUESTIONS.
-
-| VISOR PARAMETER | VALUE |
-|---|---|
-| Form | rugged tactical goggles with multi-layer digital lenses |
-| Standard delay | 0.5 seconds between the outside image and wearer perception |
-| Delay adjustment | field supervisors may authorize timing within approved bands |
-| Optics | multi-layer delayed-display lenses |
-| Adjustment | external focus dial setting lens gap and processing depth |
-| Display | integrated HUD |
-| Power | shielded battery pack |
-| Processing | frame-delay processor with flash-dulling circuit |
-| Threat display | threat probability meter |
-| Sealing | face seal or full-face hood mount |
-| Safety hardware | emergency blackout shutter |
-| Records | post-exposure log chip |
-| Variants | full-face biological, temporal vault, archive station |
-| Approved delay band range | NOT MEASURED |
-| Battery runtime | NOT MEASURED |
-| Unit mass | NOT MEASURED |
-
-The frame is thicker than ordinary field eyewear because it carries the processing stack,
-the shielded
-battery housing, the temporal insulation, and the fail-shut relay. None of that is comfort
-engineering.
-Archive station models are heavier again and are not field wearable.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard CSV resembles rugged tactical goggles with multi-layer digital lenses and an integrated
@@ -171,6 +141,36 @@ not field
 wearable.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list, variant list, and delay text. 3 figures below are blank:
+Approved delay band range, Battery runtime, Unit mass. Each is filed under OPEN QUESTIONS.
+
+| VISOR PARAMETER | VALUE |
+|---|---|
+| Form | rugged tactical goggles with multi-layer digital lenses |
+| Standard delay | 0.5 seconds between the outside image and wearer perception |
+| Delay adjustment | field supervisors may authorize timing within approved bands |
+| Optics | multi-layer delayed-display lenses |
+| Adjustment | external focus dial setting lens gap and processing depth |
+| Display | integrated HUD |
+| Power | shielded battery pack |
+| Processing | frame-delay processor with flash-dulling circuit |
+| Threat display | threat probability meter |
+| Sealing | face seal or full-face hood mount |
+| Safety hardware | emergency blackout shutter |
+| Records | post-exposure log chip |
+| Variants | full-face biological, temporal vault, archive station |
+| Approved delay band range | NOT MEASURED |
+| Battery runtime | NOT MEASURED |
+| Unit mass | NOT MEASURED |
+
+The frame is thicker than ordinary field eyewear because it carries the processing stack,
+the shielded
+battery housing, the temporal insulation, and the fail-shut relay. None of that is comfort
+engineering.
+Archive station models are heavier again and are not field wearable.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

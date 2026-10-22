@@ -82,6 +82,31 @@ enough to stop reading.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A CRRWS installation includes controlled-reading cells, redaction desks, shielded copy stands, exposure timers,
+observer stations, review staging trays, redact-safe ink and covers, parent-node format terminals, cognitive condition
+check points, and sealed disposal containers. Workrooms are designed to limit sightlines and prevent
+unplanned
+replication.
+
+Known components include:
+
+- paired controlled-reading cell;
+- observer station;
+- exposure clock;
+- redaction work desk;
+- shielded copy stand;
+- review staging tray;
+- parent-node format terminal;
+- cognitive aftercare alert line;
+- contaminated draft disposal container;
+- redaction release lock.
+
+A finished redaction is treated as a containment product, not clerical polish.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and review doctrine. Cell count, Median exposure time,
@@ -112,31 +137,6 @@ The workroom
 therefore treats a redacted draft as a new hazardous object requiring its own review,
 not as a cleaned
 version of the old one.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A CRRWS installation includes controlled-reading cells, redaction desks, shielded copy stands, exposure timers,
-observer stations, review staging trays, redact-safe ink and covers, parent-node format terminals, cognitive condition
-check points, and sealed disposal containers. Workrooms are designed to limit sightlines and prevent
-unplanned
-replication.
-
-Known components include:
-
-- paired controlled-reading cell;
-- observer station;
-- exposure clock;
-- redaction work desk;
-- shielded copy stand;
-- review staging tray;
-- parent-node format terminal;
-- cognitive aftercare alert line;
-- contaminated draft disposal container;
-- redaction release lock.
-
-A finished redaction is treated as a containment product, not clerical polish.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

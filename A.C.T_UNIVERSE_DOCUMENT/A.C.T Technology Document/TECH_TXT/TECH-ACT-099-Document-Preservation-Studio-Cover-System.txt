@@ -96,6 +96,7 @@ client and conservation records. Security protects restricted routes without tur
 visible guard
 post.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and studio doctrine. 3 values below are not held by the

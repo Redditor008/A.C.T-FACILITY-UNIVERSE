@@ -130,6 +130,59 @@ with communication, testimony, morale, and emergency clarity.
 
 ---
 
+## PHYSICAL AND SYSTEM DESCRIPTION
+
+### Standard Broadcast Unit
+
+The visual reference guide describes the standard Causal Static Generator as a heavy signal-broadcaster
+resembling a
+modern server unit. It features an oscillating signal disc behind reinforced glass and a
+digital tuner for calibrating
+the Boredom Frequency. A retractable cooling chimney vents ionized air during high-intensity narrative suppression.
+Multiple internal cooling fans produce a constant high-volume whirring sound.
+
+Those details are approved for recognition training. They are not sufficient for safe calibration.
+A mis-tuned unit
+can strengthen the wrong pattern by making the static itself feel meaningful.
+
+### Known Components
+
+Known components include:
+
+- reinforced broadcast cabinet;
+- oscillating signal disc;
+- boredom-frequency tuner;
+- entropy seed cartridge;
+- high-volume cooling fans;
+- retractable cooling chimney;
+- ionized-air vent path;
+- direction-limited speaker and data-broadcast array;
+- archive-line injection port;
+- field tripod mount;
+- emergency silence lever;
+- CSG to ARM separation warning;
+- CSG to QNB logging link;
+- Medical pulse and stress monitor attachment for crew exposure.
+
+The boredom-frequency tuner is poorly named for public-facing explanation but accurate in field use.
+It does not make
+people simply bored. It reduces dramatic coherence inside a target environment by flooding available
+attention with
+low-value procedural signal.
+
+### Fixed, Archive, and Field Variants
+
+Fixed generators are installed in selected containment corridors, archive quarantine rooms, media-analysis suites,
+Site 03 narrative emergence monitors, and chambers holding song-based or script-based anomalies. Archive variants
+can
+inject static into read rooms, transcription systems, or isolated document displays. Field variants are
+heavier than
+ordinary portable equipment and must be handled by Recovery or Engineering personnel trained to
+avoid
+over-broadcasting into civilians.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 The boredom-frequency range and output figures have never been published. The unit is described
@@ -186,59 +239,6 @@ The acoustic signature is a recognition feature and an operational limitation at
 time: constant high-volume
 fan whir, plus ionized-air venting at high intensity. This unit cannot be run silently.
 
-
-## PHYSICAL AND SYSTEM DESCRIPTION
-
-### Standard Broadcast Unit
-
-The visual reference guide describes the standard Causal Static Generator as a heavy signal-broadcaster
-resembling a
-modern server unit. It features an oscillating signal disc behind reinforced glass and a
-digital tuner for calibrating
-the Boredom Frequency. A retractable cooling chimney vents ionized air during high-intensity narrative suppression.
-Multiple internal cooling fans produce a constant high-volume whirring sound.
-
-Those details are approved for recognition training. They are not sufficient for safe calibration.
-A mis-tuned unit
-can strengthen the wrong pattern by making the static itself feel meaningful.
-
-### Known Components
-
-Known components include:
-
-- reinforced broadcast cabinet;
-- oscillating signal disc;
-- boredom-frequency tuner;
-- entropy seed cartridge;
-- high-volume cooling fans;
-- retractable cooling chimney;
-- ionized-air vent path;
-- direction-limited speaker and data-broadcast array;
-- archive-line injection port;
-- field tripod mount;
-- emergency silence lever;
-- CSG to ARM separation warning;
-- CSG to QNB logging link;
-- Medical pulse and stress monitor attachment for crew exposure.
-
-The boredom-frequency tuner is poorly named for public-facing explanation but accurate in field use.
-It does not make
-people simply bored. It reduces dramatic coherence inside a target environment by flooding available
-attention with
-low-value procedural signal.
-
-### Fixed, Archive, and Field Variants
-
-Fixed generators are installed in selected containment corridors, archive quarantine rooms, media-analysis suites,
-Site 03 narrative emergence monitors, and chambers holding song-based or script-based anomalies. Archive variants
-can
-inject static into read rooms, transcription systems, or isolated document displays. Field variants are
-heavier than
-ordinary portable equipment and must be handled by Recovery or Engineering personnel trained to
-avoid
-over-broadcasting into civilians.
-
----
 
 ## OPERATING PROCEDURE
 

@@ -109,36 +109,6 @@ contraband through site boundaries or pull A.C.T equipment out of alignment.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's component list and field handling text. 4 values below are not held by
-the archive: Rated physical load, Ontological drag scale, Maximum deployed length, and 1 more. They are filed under
-OPEN QUESTIONS.
-
-| CABLE PARAMETER | VALUE |
-|---|---|
-| Line body | five-centimeter iridescent industrial cable |
-| Reinforcement | visible carbon-fiber weave |
-| Stress indication | surface shifts violet, blue, green, or dull silver |
-| Ends | oversized phase-lock connectors, heavy bolt sound when seated |
-| Cooling | internal liquid-cooling channels |
-| Instrumentation | digital shunt displays every five meters |
-| Readouts | causal tension and ontological drag |
-| Warning | heat warning band |
-| Release | emergency release collar |
-| Records | post-use stress memory tag |
-| Working principle | phase-existent partial hold across the assigned relationship |
-| Rated physical load | NOT MEASURED |
-| Ontological drag scale | NOT MEASURED |
-| Maximum deployed length | NOT MEASURED |
-| Coolant type and volume | NOT MEASURED |
-
-Appearance is not a load gauge. A line that looks slack may carry severe
-ontological drag, and a line that
-looks taut may be physically tense but causally safe, which is why the shunt
-displays are spaced along the
-run instead of sitting only at the ends.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard CTC line is a five-centimeter iridescent industrial cable with visible carbon-fiber reinforcement
@@ -168,6 +138,36 @@ causally safe. Operators are trained to read the shunt displays instead of judgi
 appearance.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and field handling text. 4 values below are not held by
+the archive: Rated physical load, Ontological drag scale, Maximum deployed length, and 1 more. They are filed under
+OPEN QUESTIONS.
+
+| CABLE PARAMETER | VALUE |
+|---|---|
+| Line body | five-centimeter iridescent industrial cable |
+| Reinforcement | visible carbon-fiber weave |
+| Stress indication | surface shifts violet, blue, green, or dull silver |
+| Ends | oversized phase-lock connectors, heavy bolt sound when seated |
+| Cooling | internal liquid-cooling channels |
+| Instrumentation | digital shunt displays every five meters |
+| Readouts | causal tension and ontological drag |
+| Warning | heat warning band |
+| Release | emergency release collar |
+| Records | post-use stress memory tag |
+| Working principle | phase-existent partial hold across the assigned relationship |
+| Rated physical load | NOT MEASURED |
+| Ontological drag scale | NOT MEASURED |
+| Maximum deployed length | NOT MEASURED |
+| Coolant type and volume | NOT MEASURED |
+
+Appearance is not a load gauge. A line that looks slack may carry severe
+ontological drag, and a line that
+looks taut may be physically tense but causally safe, which is why the shunt
+displays are spaced along the
+run instead of sitting only at the ends.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

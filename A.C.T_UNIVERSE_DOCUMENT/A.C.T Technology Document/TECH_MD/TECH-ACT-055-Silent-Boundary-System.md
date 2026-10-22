@@ -97,6 +97,32 @@ is designed to forget.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+SBS has no universal machine body. Its physical form is the set of offices,
+records, front companies, keyed access
+routes, document channels, controlled signage, civilian liaison lines, medical redirection packets, and archive
+contradiction ledgers assigned to a normalcy operation.
+
+Known components include:
+
+- cover-identity file;
+- front-organization shell packet;
+- narrative status field;
+- witness handling plan;
+- medical-compatible explanation;
+- police or municipal contact path;
+- media quieting instruction;
+- amnestic logistics request;
+- contradiction ledger;
+- internal truth lock.
+
+The contradiction ledger is mandatory. It records the real event, the public story, who
+approved the public story, and
+what future harm the cover may cause.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and normalcy doctrine. The system
@@ -127,32 +153,6 @@ approved the public
 story, and what future harm the cover may cause. The system prevents exposure from
 becoming public reality
 without forcing every incident into crude erasure.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-SBS has no universal machine body. Its physical form is the set of offices,
-records, front companies, keyed access
-routes, document channels, controlled signage, civilian liaison lines, medical redirection packets, and archive
-contradiction ledgers assigned to a normalcy operation.
-
-Known components include:
-
-- cover-identity file;
-- front-organization shell packet;
-- narrative status field;
-- witness handling plan;
-- medical-compatible explanation;
-- police or municipal contact path;
-- media quieting instruction;
-- amnestic logistics request;
-- contradiction ledger;
-- internal truth lock.
-
-The contradiction ledger is mandatory. It records the real event, the public story, who
-approved the public story, and
-what future harm the cover may cause.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

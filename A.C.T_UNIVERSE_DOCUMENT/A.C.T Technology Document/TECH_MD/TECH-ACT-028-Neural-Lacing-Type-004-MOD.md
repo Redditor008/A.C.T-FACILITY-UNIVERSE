@@ -101,35 +101,6 @@ what it still allows.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's clinical description and implant doctrine. 4 values below are not held
-by the archive: Signal-sink capacity, Approved exposure cap, Lattice lifespan, and 1 more. They are filed under OPEN
-QUESTIONS.
-
-| IMPLANT PARAMETER | VALUE |
-|---|---|
-| Structure | fine golden neural lattice along approved neural routes |
-| Scan appearance | visible on high-level scans as a distributed lattice |
-| External sign | small scar near the base of the skull |
-| Healing cover | redacted medical patch during early healing or maintenance |
-| Input | micro-receiver resting at a redacted site |
-| Action | routes selected input into an internal signal-sink |
-| Governance | narrow filter list written per patient |
-| Derivation | 004-Series memory-control doctrine |
-| Difference from a dose | prevents memory forming rather than altering it after |
-| Filter list contents | held at Level 5 |
-| Signal-sink capacity | NOT MEASURED |
-| Approved exposure cap | NOT MEASURED |
-| Lattice lifespan | NOT MEASURED |
-| Receiver tuning range | NOT MEASURED |
-
-A dose removes or alters memory after exposure; the lattice tries to stop specific
-dangerous information
-from completing memory formation at all. Broad filters are denied because they can erase
-context, flatten
-personality, or hide institutional misconduct.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 NL-004 appears on high-level scans as a fine golden neural lattice distributed along approved
@@ -159,6 +130,35 @@ is unharmed by what the lattice has
 prevented them from knowing.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's clinical description and implant doctrine. 4 values below are not held
+by the archive: Signal-sink capacity, Approved exposure cap, Lattice lifespan, and 1 more. They are filed under OPEN
+QUESTIONS.
+
+| IMPLANT PARAMETER | VALUE |
+|---|---|
+| Structure | fine golden neural lattice along approved neural routes |
+| Scan appearance | visible on high-level scans as a distributed lattice |
+| External sign | small scar near the base of the skull |
+| Healing cover | redacted medical patch during early healing or maintenance |
+| Input | micro-receiver resting at a redacted site |
+| Action | routes selected input into an internal signal-sink |
+| Governance | narrow filter list written per patient |
+| Derivation | 004-Series memory-control doctrine |
+| Difference from a dose | prevents memory forming rather than altering it after |
+| Filter list contents | held at Level 5 |
+| Signal-sink capacity | NOT MEASURED |
+| Approved exposure cap | NOT MEASURED |
+| Lattice lifespan | NOT MEASURED |
+| Receiver tuning range | NOT MEASURED |
+
+A dose removes or alters memory after exposure; the lattice tries to stop specific
+dangerous information
+from completing memory formation at all. Broad filters are denied because they can erase
+context, flatten
+personality, or hide institutional misconduct.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

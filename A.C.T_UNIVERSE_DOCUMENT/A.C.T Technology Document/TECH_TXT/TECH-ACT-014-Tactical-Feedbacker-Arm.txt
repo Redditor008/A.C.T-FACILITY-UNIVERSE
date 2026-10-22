@@ -111,6 +111,7 @@ The arm remains A.C.T property attached to a living operator under medical agree
 retirement, and
 replacement are medical events, not equipment checkout.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component text and doctrine. The archive holds no figure for Parry

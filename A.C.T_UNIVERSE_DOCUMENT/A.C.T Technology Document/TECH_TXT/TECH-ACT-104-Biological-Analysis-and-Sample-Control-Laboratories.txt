@@ -96,6 +96,7 @@ because the dangerous
 part of a sample is not always its size. Sometimes the danger is losing
 the context that made the sample meaningful.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and custody doctrine. 3 figures below are blank: Bench

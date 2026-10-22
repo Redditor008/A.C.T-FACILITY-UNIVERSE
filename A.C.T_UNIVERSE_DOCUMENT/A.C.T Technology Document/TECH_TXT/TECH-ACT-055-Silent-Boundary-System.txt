@@ -105,6 +105,7 @@ This development created one of A.C.T's most dangerous internal rules: the archi
 what the public file
 is designed to forget.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and normalcy doctrine. The system

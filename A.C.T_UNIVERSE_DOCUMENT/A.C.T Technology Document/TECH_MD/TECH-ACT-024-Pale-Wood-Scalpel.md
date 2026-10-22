@@ -104,6 +104,34 @@ material with very different consequences.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A standard PWS resembles a heavy surgical knife. The blade is a razor-sharp shard
+of white bark-less wood with a
+smooth bone-like finish and faint pearlescent sheen. The spine contains a laser-tracking rail that
+projects or reads
+an approved cut path tied to the subject's signature. The handle is heavy surgical
+steel with vibration-dampening
+padding so that the operator's tremor does not become a jagged instruction.
+
+Known components include:
+
+- white bark-less Pale Wood blade;
+- razor surgical edge;
+- laser-tracking rail;
+- subject signature alignment system;
+- heavy surgical-steel handle;
+- vibration-dampening padding;
+- gold-lined emergency sheath;
+- sterile restraint tray;
+- cut-path log chip;
+- post-use fiber inspection strip.
+
+The blade does not dull in ordinary use. A tool that never dulls must
+be counted more carefully than one that does.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and surgical procedure. 2 values below are not held by
@@ -132,34 +160,6 @@ The gold-lined sheath is an
 emergency stop rather than storage, and the 2014 nick is why contact with it
 during cleaning retires a blade
 from surgery.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A standard PWS resembles a heavy surgical knife. The blade is a razor-sharp shard
-of white bark-less wood with a
-smooth bone-like finish and faint pearlescent sheen. The spine contains a laser-tracking rail that
-projects or reads
-an approved cut path tied to the subject's signature. The handle is heavy surgical
-steel with vibration-dampening
-padding so that the operator's tremor does not become a jagged instruction.
-
-Known components include:
-
-- white bark-less Pale Wood blade;
-- razor surgical edge;
-- laser-tracking rail;
-- subject signature alignment system;
-- heavy surgical-steel handle;
-- vibration-dampening padding;
-- gold-lined emergency sheath;
-- sterile restraint tray;
-- cut-path log chip;
-- post-use fiber inspection strip.
-
-The blade does not dull in ordinary use. A tool that never dulls must
-be counted more carefully than one that does.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

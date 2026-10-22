@@ -112,36 +112,6 @@ ones, or learn how A.C.T classifies unknown artifacts before contact.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's component list and variant list. The archive holds no figure for
-Detection range, Threshold bands, Battery runtime and unit mass. Those 3 gaps are carried in OPEN QUESTIONS.
-
-| SENSOR PARAMETER | VALUE |
-|---|---|
-| Field model | blue polymer wand with a protected handle display |
-| Display | miniaturized spectrogram showing pulse shape, strength, rhythm, comparison warnings |
-| Alerting | vibration intensity trigger above a configured threshold |
-| Proximity array | tuning-fork array at the front of the wand |
-| Acoustic proximity | hums within two meters of a fracture or strong causal pulse |
-| Audio output | mechanical tick speaker where sound is safer than display |
-| Classification aid | field-type suggestion band |
-| Calibration | sealed calibration port |
-| Records | scan-memory chip |
-| Safety hardware | glove-safe lock switch and library mismatch warning light |
-| Fixed variants | wall mounts, pressure-hardened housings, tank brackets, locker wiring |
-| Maritime variant | sonar and deep pressure rig connection |
-| Artifact-vault variant | narrow signatures such as crimson-frequency blade vibration |
-| Detection range | NOT MEASURED |
-| Threshold bands | NOT MEASURED |
-| Battery runtime and unit mass | NOT MEASURED |
-
-The two-meter figure belongs to the tuning-fork array, not to the sensor as a
-whole. Staff who read it as
-the sensor's range close distance on targets that are still far away. Digital describes
-the processing and
-display layer; resonance describes what is actually being measured.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 The common field model is a blue polymer wand with a protected handle display.
@@ -173,6 +143,36 @@ blade
 vibration.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and variant list. The archive holds no figure for
+Detection range, Threshold bands, Battery runtime and unit mass. Those 3 gaps are carried in OPEN QUESTIONS.
+
+| SENSOR PARAMETER | VALUE |
+|---|---|
+| Field model | blue polymer wand with a protected handle display |
+| Display | miniaturized spectrogram showing pulse shape, strength, rhythm, comparison warnings |
+| Alerting | vibration intensity trigger above a configured threshold |
+| Proximity array | tuning-fork array at the front of the wand |
+| Acoustic proximity | hums within two meters of a fracture or strong causal pulse |
+| Audio output | mechanical tick speaker where sound is safer than display |
+| Classification aid | field-type suggestion band |
+| Calibration | sealed calibration port |
+| Records | scan-memory chip |
+| Safety hardware | glove-safe lock switch and library mismatch warning light |
+| Fixed variants | wall mounts, pressure-hardened housings, tank brackets, locker wiring |
+| Maritime variant | sonar and deep pressure rig connection |
+| Artifact-vault variant | narrow signatures such as crimson-frequency blade vibration |
+| Detection range | NOT MEASURED |
+| Threshold bands | NOT MEASURED |
+| Battery runtime and unit mass | NOT MEASURED |
+
+The two-meter figure belongs to the tuning-fork array, not to the sensor as a
+whole. Staff who read it as
+the sensor's range close distance on targets that are still far away. Digital describes
+the processing and
+display layer; resonance describes what is actually being measured.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

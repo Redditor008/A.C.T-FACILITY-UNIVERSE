@@ -98,34 +98,6 @@ entities, reproductive compulsion subjects, and anomalies that use panic as a ta
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's component list and suite doctrine. Threshold values, Canister dose and
-refills, Vibration latency are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
-
-| BAND PARAMETER | VALUE |
-|---|---|
-| Form | sleek silver wristband |
-| Gauge | circular adrenaline gauge showing surge intensity |
-| Display | LCD: baseline state, stress band, suite-link status, canister pressure, alarm route |
-| Sensing | pulse and endocrine response sensors |
-| Local release | refillable sedative canister for micro-release |
-| Room release | handled by the containment suite, not the band |
-| Disable | emergency auto-release pin for sedative release only |
-| Alert | vibration warning motor |
-| Link | suite-link transmitter |
-| Records | post-event stress log buffer |
-| Tuning | micro-surge thresholds, not ordinary stress |
-| Threshold values | NOT MEASURED |
-| Canister dose and refills | NOT MEASURED |
-| Vibration latency | NOT MEASURED |
-
-The detector exists because some anomalies need a breach in judgment rather than in
-walls. An affected
-person may walk normally, speak clearly, and claim procedural control, so the wristband record
-matters more
-than the wearer's own account.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 The standard AMSD appears as a sleek silver wristband. The circular gauge shows surge
@@ -154,6 +126,34 @@ deceased tissue, anomalous decoys, or
 captured civilians without Medical authorization.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and suite doctrine. Threshold values, Canister dose and
+refills, Vibration latency are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
+
+| BAND PARAMETER | VALUE |
+|---|---|
+| Form | sleek silver wristband |
+| Gauge | circular adrenaline gauge showing surge intensity |
+| Display | LCD: baseline state, stress band, suite-link status, canister pressure, alarm route |
+| Sensing | pulse and endocrine response sensors |
+| Local release | refillable sedative canister for micro-release |
+| Room release | handled by the containment suite, not the band |
+| Disable | emergency auto-release pin for sedative release only |
+| Alert | vibration warning motor |
+| Link | suite-link transmitter |
+| Records | post-event stress log buffer |
+| Tuning | micro-surge thresholds, not ordinary stress |
+| Threshold values | NOT MEASURED |
+| Canister dose and refills | NOT MEASURED |
+| Vibration latency | NOT MEASURED |
+
+The detector exists because some anomalies need a breach in judgment rather than in
+walls. An affected
+person may walk normally, speak clearly, and claim procedural control, so the wristband record
+matters more
+than the wearer's own account.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

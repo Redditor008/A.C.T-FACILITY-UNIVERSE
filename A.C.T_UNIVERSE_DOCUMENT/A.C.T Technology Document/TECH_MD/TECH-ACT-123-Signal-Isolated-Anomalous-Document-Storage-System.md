@@ -85,6 +85,31 @@ them as ordinary records.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A SIADSS installation includes signal-isolated storage cabinets, shielded document drawers, media vault racks,
+monitoring sensors, environmental controls, behavior logging panels, quarantine transfer ports, sample-control
+pass-throughs, handling corridor gates, and floor command links.
+
+Known components include:
+
+- signal-isolated storage unit;
+- shielded document drawer;
+- anomalous media rack;
+- behavior monitoring sensor;
+- transmission dampening liner;
+- quarantine transfer port;
+- F-4 sample-control pass-through;
+- F-2 escalation route lock;
+- storage access ledger;
+- floor holding status display.
+
+The system treats each storage position as a containment chamber whose resident happens to
+be a document, recording,
+file, image, or piece of media.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and holding doctrine. 3 values below are not held by the
@@ -115,31 +140,6 @@ than a procedural rule. The
 dampening liner is verified before the drawer closes because a transmitting document inside an
 unverified
 drawer is a transmitting document inside the floor.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A SIADSS installation includes signal-isolated storage cabinets, shielded document drawers, media vault racks,
-monitoring sensors, environmental controls, behavior logging panels, quarantine transfer ports, sample-control
-pass-throughs, handling corridor gates, and floor command links.
-
-Known components include:
-
-- signal-isolated storage unit;
-- shielded document drawer;
-- anomalous media rack;
-- behavior monitoring sensor;
-- transmission dampening liner;
-- quarantine transfer port;
-- F-4 sample-control pass-through;
-- F-2 escalation route lock;
-- storage access ledger;
-- floor holding status display.
-
-The system treats each storage position as a containment chamber whose resident happens to
-be a document, recording,
-file, image, or piece of media.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

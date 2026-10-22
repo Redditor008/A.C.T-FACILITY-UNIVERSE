@@ -97,34 +97,6 @@ resonance mapping, and active stabilization.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's component list and legacy-vault doctrine. Lead thickness, Attenuation
-provided, Seam residue composition are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
-
-| VAULT PARAMETER | VALUE |
-|---|---|
-| Shielding | refined lead panels |
-| Support | layered stone or brick vault backing |
-| Closure | mechanical hinge and bar lock |
-| Sealing | seam wax or pitch residue |
-| Identity | early artifact tag plate, possibly predating modern rules |
-| Records | hand ledger pocket |
-| Later additions | contamination warning label, retrofit sensor clip |
-| Access | inspection hatch plug |
-| Evidence | lift chain scars |
-| Optional | lead-lined glass, iron outer straps, waxed pockets |
-| Modern service | limited; only where legacy artifacts remain seated |
-| Lead thickness | NOT MEASURED |
-| Attenuation provided | NOT MEASURED |
-| Seam residue composition | NOT MEASURED |
-
-No surviving unit is assumed safe because of age. Old lead can crack, creep,
-powder, or conceal
-contamination inside seams, and a scan returning nothing through lead is not proof that
-the compartment is
-empty.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard inherited HDLV installation consists of refined lead panels, layered masonry backing, thick
@@ -153,6 +125,34 @@ creep, powder, or conceal contamination
 inside seams.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and legacy-vault doctrine. Lead thickness, Attenuation
+provided, Seam residue composition are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
+
+| VAULT PARAMETER | VALUE |
+|---|---|
+| Shielding | refined lead panels |
+| Support | layered stone or brick vault backing |
+| Closure | mechanical hinge and bar lock |
+| Sealing | seam wax or pitch residue |
+| Identity | early artifact tag plate, possibly predating modern rules |
+| Records | hand ledger pocket |
+| Later additions | contamination warning label, retrofit sensor clip |
+| Access | inspection hatch plug |
+| Evidence | lift chain scars |
+| Optional | lead-lined glass, iron outer straps, waxed pockets |
+| Modern service | limited; only where legacy artifacts remain seated |
+| Lead thickness | NOT MEASURED |
+| Attenuation provided | NOT MEASURED |
+| Seam residue composition | NOT MEASURED |
+
+No surviving unit is assumed safe because of age. Old lead can crack, creep,
+powder, or conceal
+contamination inside seams, and a scan returning nothing through lead is not proof that
+the compartment is
+empty.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

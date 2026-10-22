@@ -101,6 +101,7 @@ viewing. PSCG does not make the view safe by itself, but it reduces fidelity
 and gaze-lock risk enough to support
 monitored procedure.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and observation doctrine. Phase offset range, Fidelity

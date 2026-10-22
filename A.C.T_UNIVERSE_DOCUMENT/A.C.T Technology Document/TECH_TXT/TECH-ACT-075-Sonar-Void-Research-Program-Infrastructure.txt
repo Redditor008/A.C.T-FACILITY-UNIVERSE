@@ -99,6 +99,7 @@ the equipment
 and record discipline to ask those questions without sending unfiltered void data into ordinary
 research circulation.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and research doctrine. 3 values below are not held by the

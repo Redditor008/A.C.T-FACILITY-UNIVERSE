@@ -97,35 +97,6 @@ how the lock thinks.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's component list and doctrine text. 3 figures below are blank: Certified
-hold rating, Helium capacity and boil-off, Ring diameter and arc. Each is filed under OPEN QUESTIONS.
-
-| RIG PARAMETER | VALUE |
-|---|---|
-| Station form | fixed wall-mounted rings around a target position, cradle, or weapon arc |
-| Ring material | brushed surgical steel |
-| Field | superconducting magnetic array |
-| Cooling | liquid-helium circulation vents |
-| Load handling | gravity-compensation arms adjusting pitch on mass or load-direction change |
-| Console | lockdown levers, redacted frequency dial, load gauge, dump cover |
-| Instrumentation | digital magnetic load gauge, field-balance indicators, field-collapse alarm |
-| Power | conduits with blue pulse indicators |
-| Structure | load-transfer anchors into the supporting bay |
-| Clearance | Level 3 operation; Level 4 for the dial, blade breach, mobile rig |
-| Certified hold rating | doctrine describes a twenty-ton class lock; certified figure NOT MEASURED |
-| Helium capacity and boil-off | NOT MEASURED |
-| Frequency dial settings | REDACTED |
-| Ring diameter and arc | NOT MEASURED |
-
-The rings may look overbuilt and that is intentional. Capacity is also not the
-whole measure: a twenty-ton
-class lock still fails if the subject turns through a causal seam, transfers stress
-into the mount, or
-convinces the field that the dangerous part is not metal at the moment of
-attack.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A fixed MTR station consists of wall-mounted rings of brushed surgical steel surrounding a
@@ -156,6 +127,35 @@ usually underestimating the
 subject.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and doctrine text. 3 figures below are blank: Certified
+hold rating, Helium capacity and boil-off, Ring diameter and arc. Each is filed under OPEN QUESTIONS.
+
+| RIG PARAMETER | VALUE |
+|---|---|
+| Station form | fixed wall-mounted rings around a target position, cradle, or weapon arc |
+| Ring material | brushed surgical steel |
+| Field | superconducting magnetic array |
+| Cooling | liquid-helium circulation vents |
+| Load handling | gravity-compensation arms adjusting pitch on mass or load-direction change |
+| Console | lockdown levers, redacted frequency dial, load gauge, dump cover |
+| Instrumentation | digital magnetic load gauge, field-balance indicators, field-collapse alarm |
+| Power | conduits with blue pulse indicators |
+| Structure | load-transfer anchors into the supporting bay |
+| Clearance | Level 3 operation; Level 4 for the dial, blade breach, mobile rig |
+| Certified hold rating | doctrine describes a twenty-ton class lock; certified figure NOT MEASURED |
+| Helium capacity and boil-off | NOT MEASURED |
+| Frequency dial settings | REDACTED |
+| Ring diameter and arc | NOT MEASURED |
+
+The rings may look overbuilt and that is intentional. Capacity is also not the
+whole measure: a twenty-ton
+class lock still fails if the subject turns through a causal seam, transfers stress
+into the mount, or
+convinces the field that the dangerous part is not metal at the moment of
+attack.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

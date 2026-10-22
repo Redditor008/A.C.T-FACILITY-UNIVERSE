@@ -100,33 +100,6 @@ dependent entities.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's component list and feeding procedure. The archive holds no figure for
-Mixture bands, Viscosity range, Shelf life and storage band. Those 3 gaps are carried in OPEN QUESTIONS.
-
-| FUEL PARAMETER | VALUE |
-|---|---|
-| Container | industrial-grade blue canister |
-| Fluid | deep red, viscous, warm when correctly maintained |
-| Pump | friction-less magnetic pump |
-| Monitoring | digital O2-saturation monitor on the valve |
-| Display | temperature readout on the handle |
-| Thermal control | internal thermal coil |
-| Standard temperature | 37 degrees C unless the subject file says otherwise |
-| Identification | subject-mixture tag |
-| Delivery | sterile line connector with backflow lock |
-| Waste | disposal seal for rejected fuel |
-| Mixture bands | NOT MEASURED |
-| Viscosity range | NOT MEASURED |
-| Shelf life and storage band | NOT MEASURED |
-| Trace mineral formula | not recorded in this file |
-
-Any canister without a readable subject tag is unissued stock and cannot be fed
-to a contained subject. The
-fuel imitates enough biological function to sustain containment without providing a full living prey
-event.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 SSF is stored in industrial-grade blue canisters. The fluid is deep red, viscous, and
@@ -153,6 +126,33 @@ Any canister without a readable subject tag is treated as unissued stock and can
 be fed to a contained subject.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and feeding procedure. The archive holds no figure for
+Mixture bands, Viscosity range, Shelf life and storage band. Those 3 gaps are carried in OPEN QUESTIONS.
+
+| FUEL PARAMETER | VALUE |
+|---|---|
+| Container | industrial-grade blue canister |
+| Fluid | deep red, viscous, warm when correctly maintained |
+| Pump | friction-less magnetic pump |
+| Monitoring | digital O2-saturation monitor on the valve |
+| Display | temperature readout on the handle |
+| Thermal control | internal thermal coil |
+| Standard temperature | 37 degrees C unless the subject file says otherwise |
+| Identification | subject-mixture tag |
+| Delivery | sterile line connector with backflow lock |
+| Waste | disposal seal for rejected fuel |
+| Mixture bands | NOT MEASURED |
+| Viscosity range | NOT MEASURED |
+| Shelf life and storage band | NOT MEASURED |
+| Trace mineral formula | not recorded in this file |
+
+Any canister without a readable subject tag is unissued stock and cannot be fed
+to a contained subject. The
+fuel imitates enough biological function to sustain containment without providing a full living prey
+event.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

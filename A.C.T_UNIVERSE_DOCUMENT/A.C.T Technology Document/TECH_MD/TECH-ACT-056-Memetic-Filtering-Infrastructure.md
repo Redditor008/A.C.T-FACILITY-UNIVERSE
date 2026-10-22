@@ -93,34 +93,6 @@ immediately injure the next mind that touches it.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's component list and reading doctrine. 3 figures below are blank: Exposure
-limit scale, Filter suppression depth, Session duration cap. Each is filed under OPEN QUESTIONS.
-
-| CELL PARAMETER | VALUE |
-|---|---|
-| Environment | controlled-reading cell or redaction workroom |
-| Display | isolated display surfaces with filtered lighting |
-| Filter | memetic filter projector or screen layer |
-| Reveal | timed page-reveal shutter |
-| Contrast | symbol contrast limiter |
-| Acoustic | acoustic muting field and dampening |
-| Reader | reader biometric and exposure monitoring |
-| Escalation | cognitive-care alarm line |
-| Custody | document cradle lock |
-| Output | filtered copy output tray |
-| Authority | release authorization terminal |
-| Exit | seals preventing unfinished exposure leaving the cell |
-| Exposure limit scale | NOT MEASURED |
-| Filter suppression depth | NOT MEASURED |
-| Session duration cap | NOT MEASURED |
-
-The most important component is the protocol binding reader, document, filter setting, and exposure
-limit
-into one recorded event. Research and Intelligence may add questions but do not control
-the filter settings.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 MFI is installed into controlled-reading cells and redaction workrooms. A standard cell includes isolated
@@ -148,6 +120,34 @@ limit into one
 recorded event.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and reading doctrine. 3 figures below are blank: Exposure
+limit scale, Filter suppression depth, Session duration cap. Each is filed under OPEN QUESTIONS.
+
+| CELL PARAMETER | VALUE |
+|---|---|
+| Environment | controlled-reading cell or redaction workroom |
+| Display | isolated display surfaces with filtered lighting |
+| Filter | memetic filter projector or screen layer |
+| Reveal | timed page-reveal shutter |
+| Contrast | symbol contrast limiter |
+| Acoustic | acoustic muting field and dampening |
+| Reader | reader biometric and exposure monitoring |
+| Escalation | cognitive-care alarm line |
+| Custody | document cradle lock |
+| Output | filtered copy output tray |
+| Authority | release authorization terminal |
+| Exit | seals preventing unfinished exposure leaving the cell |
+| Exposure limit scale | NOT MEASURED |
+| Filter suppression depth | NOT MEASURED |
+| Session duration cap | NOT MEASURED |
+
+The most important component is the protocol binding reader, document, filter setting, and exposure
+limit
+into one recorded event. Research and Intelligence may add questions but do not control
+the filter settings.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

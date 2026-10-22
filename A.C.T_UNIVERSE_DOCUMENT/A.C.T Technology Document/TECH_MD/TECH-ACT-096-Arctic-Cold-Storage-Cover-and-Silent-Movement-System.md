@@ -86,6 +86,31 @@ can enter the depot as part of a normal cold chain.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+An ACSCSMS installation includes arctic receiving bays, legitimate cold-storage rooms, quarantine-capable surface
+structures, administrative offices, vehicle approaches, loading equipment, concealed transition controls, boundary
+monitoring, surface communication desks, weather-hardening systems, and emergency seal points. It is designed so
+that
+surface traffic and buried-depot traffic cannot be easily distinguished.
+
+Known components include:
+
+- arctic receiving bay;
+- legitimate cold-storage chamber;
+- quarantine-capable cover room;
+- surface administration office;
+- transport arrival board;
+- loading-equipment cover set;
+- concealed transition control point;
+- boundary monitoring panel;
+- silent movement schedule;
+- surface incident seal indicator.
+
+The system's best evidence is the absence of a memorable story about the facility.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and receiving doctrine. 3 figures below are blank: Bay
@@ -115,31 +140,6 @@ to stop. A receiving bay that goes quiet in winter is normal; a receiving
 bay that stays busy is not. The
 silent movement schedule therefore runs against the transport calendar rather than against operational
 convenience.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-An ACSCSMS installation includes arctic receiving bays, legitimate cold-storage rooms, quarantine-capable surface
-structures, administrative offices, vehicle approaches, loading equipment, concealed transition controls, boundary
-monitoring, surface communication desks, weather-hardening systems, and emergency seal points. It is designed so
-that
-surface traffic and buried-depot traffic cannot be easily distinguished.
-
-Known components include:
-
-- arctic receiving bay;
-- legitimate cold-storage chamber;
-- quarantine-capable cover room;
-- surface administration office;
-- transport arrival board;
-- loading-equipment cover set;
-- concealed transition control point;
-- boundary monitoring panel;
-- silent movement schedule;
-- surface incident seal indicator.
-
-The system's best evidence is the absence of a memorable story about the facility.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

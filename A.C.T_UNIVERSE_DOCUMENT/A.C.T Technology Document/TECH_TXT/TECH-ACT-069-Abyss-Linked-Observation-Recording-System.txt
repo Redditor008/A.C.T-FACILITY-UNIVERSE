@@ -98,6 +98,7 @@ of containment. The
 question is not only whether the signal is true. The question is who becomes
 responsible for knowing it.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and custody doctrine. The archive holds no figure for

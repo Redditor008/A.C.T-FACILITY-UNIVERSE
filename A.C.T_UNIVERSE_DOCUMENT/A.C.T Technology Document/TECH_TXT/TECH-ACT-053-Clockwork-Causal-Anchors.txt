@@ -98,6 +98,7 @@ historically decisive. It taught the Facility to
 view causality as something a machine could interact with, even if the first machines
 could not master it.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and study doctrine. The anchors

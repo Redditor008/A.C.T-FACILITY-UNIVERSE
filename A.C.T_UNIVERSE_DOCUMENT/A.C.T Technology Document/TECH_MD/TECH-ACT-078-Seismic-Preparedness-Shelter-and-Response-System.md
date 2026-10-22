@@ -86,6 +86,31 @@ make immediate upward movement unsafe or unauthorized.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+SPSRS includes reinforced shelter areas, personnel-accountability panels, seismic alert repeaters, emergency route
+boards, protected command links, medical staging cabinets, floor-status lights, evacuation lock controls, supply
+caches, and drill record stations. Shelter locations are distributed so staff do not have
+to cross sensitive command,
+logistics, or access chokepoints during immediate ground motion.
+
+Known components include:
+
+- reinforced personnel shelter bay;
+- seismic alert repeater;
+- floor accountability panel;
+- protected command link;
+- emergency route board;
+- evacuation freeze control;
+- medical staging cabinet;
+- supply cache;
+- post-event status terminal;
+- drill compliance ledger.
+
+Shelter controls are designed to protect personnel without automatically opening paths to restricted floors.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and response doctrine. Shelter capacity, Supply
@@ -113,31 +138,6 @@ This is not a simple earthquake alarm; it is a site survival system for
 a facility whose ordinary
 environment and anomalous mandate both involve movement below the ground. Shelter controls protect personnel
 without opening restricted floors.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-SPSRS includes reinforced shelter areas, personnel-accountability panels, seismic alert repeaters, emergency route
-boards, protected command links, medical staging cabinets, floor-status lights, evacuation lock controls, supply
-caches, and drill record stations. Shelter locations are distributed so staff do not have
-to cross sensitive command,
-logistics, or access chokepoints during immediate ground motion.
-
-Known components include:
-
-- reinforced personnel shelter bay;
-- seismic alert repeater;
-- floor accountability panel;
-- protected command link;
-- emergency route board;
-- evacuation freeze control;
-- medical staging cabinet;
-- supply cache;
-- post-event status terminal;
-- drill compliance ledger.
-
-Shelter controls are designed to protect personnel without automatically opening paths to restricted floors.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

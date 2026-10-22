@@ -101,6 +101,7 @@ reptilian repair must
 fail honestly when confronted with a body that cannot be injured, sampled, frozen, cut,
 burned, or convinced to move.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and application doctrine. 3 values below are not held by

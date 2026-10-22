@@ -106,36 +106,6 @@ been allowed to fade.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's component list and application text. Canister volume, Stated half-life
-figure, Dry time and coverage per canister are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
-
-| PRODUCT PARAMETER | VALUE |
-|---|---|
-| Form | pressurized archival spray canister |
-| Nozzle | digital precision nozzle |
-| Application gauge | surface-tension gauge confirming even spread |
-| Display | LCD showing remaining volume and estimated narrative half-life |
-| Liquid | clear, faint smell of ozone and old paper |
-| Finish | matte invisible under standard archive light |
-| Batch control | batch seal |
-| Nozzle maintenance | anti-clog purge cap |
-| Application marks | distance marks on the canister body |
-| Waste handling | contaminated-tip capsule |
-| Verification | post-seal verification strip |
-| Application method | one controlled pass, top edge to bottom edge |
-| Authority | Level 3 for passive documents; Level 4 with an Info-Hazard observer for active or hazardous text |
-| Canister volume | NOT MEASURED |
-| Stated half-life figure | NOT MEASURED |
-| Dry time and coverage per canister | NOT MEASURED |
-
-The varnish is never poured and is brushed only under restoration-lab exception. Uneven application
-leaves
-sealed and unsealed zones on one page, and text responds to that boundary by
-shearing, duplicating, or
-migrating toward the untreated margin.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 The standard NSV canister is a pressurized archival spray unit with a digital precision
@@ -168,6 +138,36 @@ shear, duplicate, or migrate toward
 untreated margins.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and application text. Canister volume, Stated half-life
+figure, Dry time and coverage per canister are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
+
+| PRODUCT PARAMETER | VALUE |
+|---|---|
+| Form | pressurized archival spray canister |
+| Nozzle | digital precision nozzle |
+| Application gauge | surface-tension gauge confirming even spread |
+| Display | LCD showing remaining volume and estimated narrative half-life |
+| Liquid | clear, faint smell of ozone and old paper |
+| Finish | matte invisible under standard archive light |
+| Batch control | batch seal |
+| Nozzle maintenance | anti-clog purge cap |
+| Application marks | distance marks on the canister body |
+| Waste handling | contaminated-tip capsule |
+| Verification | post-seal verification strip |
+| Application method | one controlled pass, top edge to bottom edge |
+| Authority | Level 3 for passive documents; Level 4 with an Info-Hazard observer for active or hazardous text |
+| Canister volume | NOT MEASURED |
+| Stated half-life figure | NOT MEASURED |
+| Dry time and coverage per canister | NOT MEASURED |
+
+The varnish is never poured and is brushed only under restoration-lab exception. Uneven application
+leaves
+sealed and unsealed zones on one page, and text responds to that boundary by
+shearing, duplicating, or
+migrating toward the untreated margin.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

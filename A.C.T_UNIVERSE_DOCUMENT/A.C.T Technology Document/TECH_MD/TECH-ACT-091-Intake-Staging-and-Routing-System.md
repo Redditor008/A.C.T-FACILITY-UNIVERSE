@@ -89,6 +89,30 @@ custody.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+An ISRS installation includes a receiving lane, intake desk, threat-limit checklist, routing board, transfer
+preparation marker, temporary cell assignment controls, F-1 vault request line, witness diversion indicator, archive
+packet tray, Security observation, and parent-site escalation terminal. The layout keeps arrival movement visible
+without exposing the buried relay to the surface cover.
+
+Known components include:
+
+- field arrival receiving lane;
+- intake identity and object log;
+- relay limit checklist;
+- routing status board;
+- temporary holding cell assignment panel;
+- F-1 vault request terminal;
+- direct transfer preparation marker;
+- witness processing diversion card;
+- archive packet attachment tray;
+- parent-site escalation line.
+
+The system treats uncertainty as a routing condition, not permission to improvise.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and routing doctrine. 3 values below are not held by the
@@ -117,30 +141,6 @@ Once an item is inside a unit or on a
 vehicle the relay has committed resources, staff, and reputation to the earlier judgement. The
 limit
 checklist therefore exists to be read before movement rather than consulted after arrival.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-An ISRS installation includes a receiving lane, intake desk, threat-limit checklist, routing board, transfer
-preparation marker, temporary cell assignment controls, F-1 vault request line, witness diversion indicator, archive
-packet tray, Security observation, and parent-site escalation terminal. The layout keeps arrival movement visible
-without exposing the buried relay to the surface cover.
-
-Known components include:
-
-- field arrival receiving lane;
-- intake identity and object log;
-- relay limit checklist;
-- routing status board;
-- temporary holding cell assignment panel;
-- F-1 vault request terminal;
-- direct transfer preparation marker;
-- witness processing diversion card;
-- archive packet attachment tray;
-- parent-site escalation line.
-
-The system treats uncertainty as a routing condition, not permission to improvise.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

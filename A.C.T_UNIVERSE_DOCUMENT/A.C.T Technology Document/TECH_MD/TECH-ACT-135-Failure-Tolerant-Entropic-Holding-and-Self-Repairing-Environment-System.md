@@ -86,6 +86,32 @@ remain damage instead of becoming breach.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A FTEHSRES installation includes hardened individual units, entropic holding chambers, redundant wall and seal
+layers,
+duplicated power branches, independent emergency generation, self-diagnosing environmental loops, standby
+environmental systems, high-frequency sensor arrays, engineering maintenance galleries, access-core verification
+stages, and lower-route seals connected to F-1 closure procedure.
+
+Known components include:
+
+- entropic holding unit;
+- unstable resident chamber;
+- primary containment layer;
+- secondary containment layer;
+- tertiary containment layer;
+- self-repairing environmental loop;
+- duplicated power feed;
+- high-frequency degradation sensor;
+- engineering maintenance gallery;
+- F-1 Long Sleep escalation review lock.
+
+The system is judged by whether it can continue holding after visible failure has
+already begun.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures are restated from this record's holding component list and White Grave F-2 restricted-hold doctrine. Repair
@@ -116,32 +142,6 @@ keeps
 succeeding is concealing exactly the trend the floor needs to see, so the repair
 count is treated as the
 primary measurement and failure as the late one.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A FTEHSRES installation includes hardened individual units, entropic holding chambers, redundant wall and seal
-layers,
-duplicated power branches, independent emergency generation, self-diagnosing environmental loops, standby
-environmental systems, high-frequency sensor arrays, engineering maintenance galleries, access-core verification
-stages, and lower-route seals connected to F-1 closure procedure.
-
-Known components include:
-
-- entropic holding unit;
-- unstable resident chamber;
-- primary containment layer;
-- secondary containment layer;
-- tertiary containment layer;
-- self-repairing environmental loop;
-- duplicated power feed;
-- high-frequency degradation sensor;
-- engineering maintenance gallery;
-- F-1 Long Sleep escalation review lock.
-
-The system is judged by whether it can continue holding after visible failure has
-already begun.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

@@ -97,6 +97,7 @@ system because training does more than inform personnel. It converts a public ar
 researcher, security
 officer, or administrator into someone who can descend with the correct reflexes.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and training doctrine. 3 figures below are blank: Course

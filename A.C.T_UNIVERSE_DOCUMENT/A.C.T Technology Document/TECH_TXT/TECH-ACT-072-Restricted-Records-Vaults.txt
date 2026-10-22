@@ -93,6 +93,7 @@ becoming available to every analyst who works ordinary seismic data. This matche
 doctrine that some
 observations must be held closest because the knowledge itself has operational weight.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and sealing doctrine. 3 figures below are blank: Holding

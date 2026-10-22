@@ -94,6 +94,7 @@ around it as the room. The earliest fields were simple perimeters. Modern NCFS s
 integrate environmental
 monitoring, concealed staff access, research observation, perimeter discipline, and parent-reserve authority.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and field doctrine. 3 figures below are blank: Sector

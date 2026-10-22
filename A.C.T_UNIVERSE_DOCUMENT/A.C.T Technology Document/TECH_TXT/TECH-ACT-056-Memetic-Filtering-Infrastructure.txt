@@ -101,6 +101,7 @@ process. A filtered document is not raw truth. It is a surviving form of
 truth shaped so it does not immediately
 injure the next mind that touches it.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and reading doctrine. 3 figures below are blank: Exposure

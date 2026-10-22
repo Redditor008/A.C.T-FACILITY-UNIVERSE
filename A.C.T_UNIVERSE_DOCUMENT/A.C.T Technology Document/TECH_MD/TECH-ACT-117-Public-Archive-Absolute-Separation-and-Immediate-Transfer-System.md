@@ -88,6 +88,32 @@ the public floor its rules.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A PAASITS installation includes reading-room interruption controls, preservation-lab refusal stations, digitization
+halt switches, sealed transfer drawers, concealed descent hatches, surface transition ledgers, public service
+explanation cards, Security boundary consoles, material custody tags, temporary clean-box carriers, and
+operational-archive notification links.
+
+Known components include:
+
+- public-floor suspect item trigger;
+- reading-room closure script;
+- preservation-lab transfer drawer;
+- digitization halt control;
+- sealed clean-box carrier;
+- transition custody ledger;
+- concealed descent point;
+- boundary Security console;
+- public explanation card set;
+- operational archive receipt channel.
+
+The system's best work looks like ordinary foundation procedure: a conservation hold, a cataloging
+issue, a temporary
+closure, or a staff-only transfer.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and separation doctrine. The archive holds no figure for
@@ -118,32 +144,6 @@ is not assessed
 in place, not quarantined in place, and not examined in front of a reader.
 It is moved first and assessed
 below, and the reading room closes while that happens.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A PAASITS installation includes reading-room interruption controls, preservation-lab refusal stations, digitization
-halt switches, sealed transfer drawers, concealed descent hatches, surface transition ledgers, public service
-explanation cards, Security boundary consoles, material custody tags, temporary clean-box carriers, and
-operational-archive notification links.
-
-Known components include:
-
-- public-floor suspect item trigger;
-- reading-room closure script;
-- preservation-lab transfer drawer;
-- digitization halt control;
-- sealed clean-box carrier;
-- transition custody ledger;
-- concealed descent point;
-- boundary Security console;
-- public explanation card set;
-- operational archive receipt channel.
-
-The system's best work looks like ordinary foundation procedure: a conservation hold, a cataloging
-issue, a temporary
-closure, or a staff-only transfer.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

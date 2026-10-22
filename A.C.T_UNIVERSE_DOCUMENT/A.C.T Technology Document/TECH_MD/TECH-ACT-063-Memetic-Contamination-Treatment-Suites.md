@@ -92,6 +92,31 @@ from becoming the next breach.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A standard MCTS room includes a low-stimulus treatment bay, controlled lighting, acoustic moderation, symbol-free
+surfaces, filtered note entry, clinical observation panels, patient-status monitors, phrase repetition alarms, sealed
+waste routes, and a confidential record terminal. The suite is built so that staff
+can treat cognition without
+flooding the patient with new patterns.
+
+Known components include:
+
+- low-stimulus treatment bay;
+- symbol-free wall and floor surface;
+- controlled lighting array;
+- acoustic moderation field;
+- filtered clinical note terminal;
+- phrase repetition alarm;
+- patient cognitive-status monitor;
+- exposure-limited interview guide;
+- sealed waste and note disposal path;
+- post-treatment duty review file.
+
+The note terminal is restricted because careless description can become transmission.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and treatment doctrine. 3 values below are not held by
@@ -118,31 +143,6 @@ The note terminal is restricted because careless description can become transmis
 so
 clinicians can observe, question, stabilise, and document without repeating the harmful stimulus or
 spreading it through staff, records, or equipment.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A standard MCTS room includes a low-stimulus treatment bay, controlled lighting, acoustic moderation, symbol-free
-surfaces, filtered note entry, clinical observation panels, patient-status monitors, phrase repetition alarms, sealed
-waste routes, and a confidential record terminal. The suite is built so that staff
-can treat cognition without
-flooding the patient with new patterns.
-
-Known components include:
-
-- low-stimulus treatment bay;
-- symbol-free wall and floor surface;
-- controlled lighting array;
-- acoustic moderation field;
-- filtered clinical note terminal;
-- phrase repetition alarm;
-- patient cognitive-status monitor;
-- exposure-limited interview guide;
-- sealed waste and note disposal path;
-- post-treatment duty review file.
-
-The note terminal is restricted because careless description can become transmission.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

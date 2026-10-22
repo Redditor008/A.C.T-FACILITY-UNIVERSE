@@ -94,6 +94,7 @@ evacuation were rejected because deep floors, sealed records, water-capable cham
 can
 make immediate upward movement unsafe or unauthorized.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and response doctrine. Shelter capacity, Supply

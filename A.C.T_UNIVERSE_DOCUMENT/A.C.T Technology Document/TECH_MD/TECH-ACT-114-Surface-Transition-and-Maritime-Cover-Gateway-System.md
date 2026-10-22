@@ -87,6 +87,30 @@ its surface without making surface use suspicious.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A STMCGS installation includes campus access corridors, disguised descent points, port movement buffers, equipment
+staging rooms, boundary monitors, public-program route boards, recovery receiving masks, administrative cover
+counters, transition ledgers, surface seal controls, and Security watch points concealed inside ordinary campus
+infrastructure.
+
+Known components include:
+
+- concealed descent gate;
+- campus route masking board;
+- port-to-campus movement buffer;
+- recovered-material transition locker;
+- personnel descent ledger;
+- public-program separation schedule;
+- boundary monitoring console;
+- administrative cover counter;
+- Security surface watch point;
+- buried relay seal command link.
+
+The system makes the path downward look like surface work continuing normally.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and gateway doctrine. Gate throughput, Weekly descents,
@@ -117,30 +141,6 @@ component:
 public programmes and descents share routes that are ordinary when used in sequence and
 conspicuous when
 used together.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A STMCGS installation includes campus access corridors, disguised descent points, port movement buffers, equipment
-staging rooms, boundary monitors, public-program route boards, recovery receiving masks, administrative cover
-counters, transition ledgers, surface seal controls, and Security watch points concealed inside ordinary campus
-infrastructure.
-
-Known components include:
-
-- concealed descent gate;
-- campus route masking board;
-- port-to-campus movement buffer;
-- recovered-material transition locker;
-- personnel descent ledger;
-- public-program separation schedule;
-- boundary monitoring console;
-- administrative cover counter;
-- Security surface watch point;
-- buried relay seal command link.
-
-The system makes the path downward look like surface work continuing normally.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

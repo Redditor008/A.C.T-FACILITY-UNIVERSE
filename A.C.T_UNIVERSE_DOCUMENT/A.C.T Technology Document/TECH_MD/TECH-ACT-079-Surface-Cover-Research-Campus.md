@@ -83,6 +83,31 @@ need to invent questions about what lies below it.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+An SCRC installation includes visible research laboratories, administrative offices, monitoring stations, public
+communications, campus signage, professional records, staff schedules, civilian-safe traffic paths, storage spaces,
+visitor-control areas, and controlled connection points to the buried relay. The architecture must appear
+useful
+before it appears secure.
+
+Known components include:
+
+- public research laboratory block;
+- seismology and volcanology monitoring station;
+- marine fieldwork preparation room;
+- campus administration office;
+- legitimate records and publication desk;
+- visitor-facing circulation route;
+- staff identity support file;
+- civilian-safe equipment store;
+- cover communications channel;
+- concealed boundary checkpoint.
+
+The campus is reviewed for believability as often as for secrecy.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and cover doctrine. 3 values below are not held by the
@@ -111,31 +136,6 @@ active institute whose legitimate work
 protects the concealed work beneath it. If the public program becomes too thin the
 cover fails, and if it
 becomes too open the boundaries fail.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-An SCRC installation includes visible research laboratories, administrative offices, monitoring stations, public
-communications, campus signage, professional records, staff schedules, civilian-safe traffic paths, storage spaces,
-visitor-control areas, and controlled connection points to the buried relay. The architecture must appear
-useful
-before it appears secure.
-
-Known components include:
-
-- public research laboratory block;
-- seismology and volcanology monitoring station;
-- marine fieldwork preparation room;
-- campus administration office;
-- legitimate records and publication desk;
-- visitor-facing circulation route;
-- staff identity support file;
-- civilian-safe equipment store;
-- cover communications channel;
-- concealed boundary checkpoint.
-
-The campus is reviewed for believability as often as for secrecy.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

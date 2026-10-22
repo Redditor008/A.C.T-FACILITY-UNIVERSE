@@ -104,33 +104,6 @@ thresholds.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's component list and monitoring doctrine. 4 figures below are blank:
-Frequency range, Needle baseline definition, Amber threshold, and 1 more. Each is filed under OPEN QUESTIONS.
-
-| SENSOR PARAMETER | VALUE |
-|---|---|
-| Form | wall-mounted sensor housing, matte gray or off-white |
-| Adjustment | sensitivity calibrator dial |
-| Primary indicator | bone-white narrative-tempo needle behind a glass pane |
-| Warning | amber digital script-manifestation light |
-| Local alert | internal low metallic clicker |
-| Pickup | vibration pickup plate |
-| Comparison | acoustic-leak comparison chip |
-| Records | event log spool |
-| Output | CSG alert output line |
-| Pairing | remote logs, room microphones, CSG panels, BWB monitors |
-| Frequency range | NOT MEASURED |
-| Needle baseline definition | NOT MEASURED |
-| Amber threshold | NOT MEASURED |
-| Power draw | NOT MEASURED |
-
-The needle can move during silence because the signal is not always audible yet,
-and the amber light marks
-script-manifestation risk rather than confirmed breach. The clicker is deliberately audible: a silent alarm
-preserves calm, but a small click teaches personnel to stop talking and listen.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard SVS is a wall-mounted box with a sensitivity calibrator dial, a bone-white
@@ -159,6 +132,33 @@ but a small click teaches
 personnel to stop talking and listen.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and monitoring doctrine. 4 figures below are blank:
+Frequency range, Needle baseline definition, Amber threshold, and 1 more. Each is filed under OPEN QUESTIONS.
+
+| SENSOR PARAMETER | VALUE |
+|---|---|
+| Form | wall-mounted sensor housing, matte gray or off-white |
+| Adjustment | sensitivity calibrator dial |
+| Primary indicator | bone-white narrative-tempo needle behind a glass pane |
+| Warning | amber digital script-manifestation light |
+| Local alert | internal low metallic clicker |
+| Pickup | vibration pickup plate |
+| Comparison | acoustic-leak comparison chip |
+| Records | event log spool |
+| Output | CSG alert output line |
+| Pairing | remote logs, room microphones, CSG panels, BWB monitors |
+| Frequency range | NOT MEASURED |
+| Needle baseline definition | NOT MEASURED |
+| Amber threshold | NOT MEASURED |
+| Power draw | NOT MEASURED |
+
+The needle can move during silence because the signal is not always audible yet,
+and the amber light marks
+script-manifestation risk rather than confirmed breach. The clicker is deliberately audible: a silent alarm
+preserves calm, but a small click teaches personnel to stop talking and listen.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

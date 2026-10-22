@@ -100,6 +100,7 @@ aircraft, ROV
 deployment, Massive Box inspection, and surveys of terrain that has become larger inside than
 outside.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and survey doctrine. 3 figures below are blank: Operating

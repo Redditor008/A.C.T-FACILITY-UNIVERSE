@@ -85,6 +85,31 @@ gap between them.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A MHITS installation includes intake and assessment bays, wet-transfer locks, pressure cart interfaces, climate
+transition lockers, handling corridors, transfer route gates, monitoring links, resident movement ledgers,
+chain-of-custody terminals, emergency water and atmosphere support, and handoff stations for Research and Medical
+review.
+
+Known components include:
+
+- intake assessment bay;
+- wet-transfer lock;
+- pressure-preserving transport cradle;
+- climate transition locker;
+- handling corridor gate;
+- chamber assignment console;
+- research transfer ledger;
+- downward restricted-route authorization panel;
+- vessel and port transfer interface;
+- Medical and Security handoff station.
+
+The system is designed around continuity. Every route is treated as a temporary containment
+chamber.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and transfer doctrine. The archive holds no figure for
@@ -115,31 +140,6 @@ of the chain rather
 than as a means of moving the chain. A transfer that arrives intact but
 depressurised is a failed transfer
 even when nothing was lost.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A MHITS installation includes intake and assessment bays, wet-transfer locks, pressure cart interfaces, climate
-transition lockers, handling corridors, transfer route gates, monitoring links, resident movement ledgers,
-chain-of-custody terminals, emergency water and atmosphere support, and handoff stations for Research and Medical
-review.
-
-Known components include:
-
-- intake assessment bay;
-- wet-transfer lock;
-- pressure-preserving transport cradle;
-- climate transition locker;
-- handling corridor gate;
-- chamber assignment console;
-- research transfer ledger;
-- downward restricted-route authorization panel;
-- vessel and port transfer interface;
-- Medical and Security handoff station.
-
-The system is designed around continuity. Every route is treated as a temporary containment
-chamber.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

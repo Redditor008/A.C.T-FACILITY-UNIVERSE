@@ -86,6 +86,33 @@ the watchpoint's doctrine that emergency intake is temporary by design.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+An EISSS installation includes concealed receiving doors, stretcher and cargo intake tracks, sealed storage
+lockers,
+monitored temporary cells, environmental controls, transfer crates, personnel stabilization benches, communications
+panels, rolling manifest terminals, and emergency closure seals. It is compact because Ash Tide
+is compact, but every
+component is built around readiness.
+
+Known components include:
+
+- hidden intake bay;
+- time-sensitive secure storage unit;
+- personnel reception and stabilization space;
+- transfer preparation bench;
+- intake condition recorder;
+- rolling manifest terminal;
+- parent-relay communication panel;
+- emergency closure seal;
+- temporary environmental control;
+- Security observation port.
+
+The system is measured by readiness, not occupancy. An empty intake bay is still
+an active containment asset.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and readiness doctrine. Storage capacity, Transfer clock
@@ -113,33 +140,6 @@ The system is measured by readiness, not occupancy: an empty intake bay is a
 working state. Every intake
 carries a transfer clock and a parent-relay destination before storage is accepted, because stable
 conditions tempt staff to extend local holding.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-An EISSS installation includes concealed receiving doors, stretcher and cargo intake tracks, sealed storage
-lockers,
-monitored temporary cells, environmental controls, transfer crates, personnel stabilization benches, communications
-panels, rolling manifest terminals, and emergency closure seals. It is compact because Ash Tide
-is compact, but every
-component is built around readiness.
-
-Known components include:
-
-- hidden intake bay;
-- time-sensitive secure storage unit;
-- personnel reception and stabilization space;
-- transfer preparation bench;
-- intake condition recorder;
-- rolling manifest terminal;
-- parent-relay communication panel;
-- emergency closure seal;
-- temporary environmental control;
-- Security observation port.
-
-The system is measured by readiness, not occupancy. An empty intake bay is still
-an active containment asset.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

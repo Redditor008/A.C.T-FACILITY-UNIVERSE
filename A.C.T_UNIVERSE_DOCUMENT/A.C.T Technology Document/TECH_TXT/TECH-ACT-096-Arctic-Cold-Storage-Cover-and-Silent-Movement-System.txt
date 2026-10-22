@@ -96,6 +96,7 @@ itself. ACSCSMS developed to make that naturalness operational. Receiving bays, 
 paperwork, transport schedules, and concealed transition architecture all function together so that hazardous material
 can enter the depot as part of a normal cold chain.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and receiving doctrine. 3 figures below are blank: Bay

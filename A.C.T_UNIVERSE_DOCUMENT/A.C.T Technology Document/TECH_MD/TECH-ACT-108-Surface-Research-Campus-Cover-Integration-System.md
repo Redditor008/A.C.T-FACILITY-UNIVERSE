@@ -85,6 +85,32 @@ levels below.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A SRCCIS installation includes public-facing research laboratories, ecological monitoring stations, personnel housing,
+administrative offices, campus communications, access architecture to buried levels, boundary route controls, surface
+incident posts, cover record systems, legitimate sample storage, field-equipment inventories, and concealed liaison
+channels to F-4 command.
+
+Known components include:
+
+- public research laboratory suite;
+- ecological monitoring station grid;
+- campus housing registry;
+- administrative cover office;
+- professional communications terminal;
+- fieldwork schedule board;
+- concealed access routing gate;
+- boundary watch interface;
+- Environmental Containment liaison point;
+- surface cover incident ledger.
+
+The system is designed so that a visitor sees a conservation campus and a
+cleared operator sees the containment
+boundary hidden inside the same landscape.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and campus doctrine. 3 figures below are blank:
@@ -117,32 +143,6 @@ real
 results is uninteresting, and a campus publishing nothing invites the questions the boundary exists
 to
 avoid.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A SRCCIS installation includes public-facing research laboratories, ecological monitoring stations, personnel housing,
-administrative offices, campus communications, access architecture to buried levels, boundary route controls, surface
-incident posts, cover record systems, legitimate sample storage, field-equipment inventories, and concealed liaison
-channels to F-4 command.
-
-Known components include:
-
-- public research laboratory suite;
-- ecological monitoring station grid;
-- campus housing registry;
-- administrative cover office;
-- professional communications terminal;
-- fieldwork schedule board;
-- concealed access routing gate;
-- boundary watch interface;
-- Environmental Containment liaison point;
-- surface cover incident ledger.
-
-The system is designed so that a visitor sees a conservation campus and a
-cleared operator sees the containment
-boundary hidden inside the same landscape.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

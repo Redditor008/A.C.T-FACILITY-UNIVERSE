@@ -81,6 +81,33 @@ continuity.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+An SRV installation includes preservation cabinets, sealed data racks, baseline ledgers, sensor-history drawers,
+access-controlled comparison stations, environmental preservation systems, audit seals, and archive handoff ports.
+Records are arranged by time, source, sensor field, event class, and later reclassification history.
+Reclassification
+never deletes the original filing state.
+
+Known components include:
+
+- seismic baseline cabinet;
+- processed observation rack;
+- sensor-health ledger shelf;
+- volcanic comparison file lane;
+- maritime correlation file lane;
+- archive audit station;
+- controlled comparison terminal;
+- event reclassification tag drawer;
+- environmental stability monitor;
+- Records Chief access seal.
+
+The vault's practical design keeps ordinary records available without letting staff treat availability as
+permission
+to speculate beyond clearance.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and custody doctrine. 2 values below are not held by the
@@ -108,33 +135,6 @@ The vaults provide continuity across years of listening; without them each tremo
 without a
 past. The practical design keeps ordinary records available without letting staff treat deep observation
 sets as ordinary files.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-An SRV installation includes preservation cabinets, sealed data racks, baseline ledgers, sensor-history drawers,
-access-controlled comparison stations, environmental preservation systems, audit seals, and archive handoff ports.
-Records are arranged by time, source, sensor field, event class, and later reclassification history.
-Reclassification
-never deletes the original filing state.
-
-Known components include:
-
-- seismic baseline cabinet;
-- processed observation rack;
-- sensor-health ledger shelf;
-- volcanic comparison file lane;
-- maritime correlation file lane;
-- archive audit station;
-- controlled comparison terminal;
-- event reclassification tag drawer;
-- environmental stability monitor;
-- Records Chief access seal.
-
-The vault's practical design keeps ordinary records available without letting staff treat availability as
-permission
-to speculate beyond clearance.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

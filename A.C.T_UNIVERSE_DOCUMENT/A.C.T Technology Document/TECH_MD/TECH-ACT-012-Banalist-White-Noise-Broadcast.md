@@ -103,36 +103,6 @@ identify cover sites, or build counter-broadcasts that ride inside the dullness.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's component list, library description, and installation text. 4 values
-below are not held by the archive: Coverage radius per node, Output level and flood ceiling, Entropy scale definition,
-and 1 more. They are filed under OPEN QUESTIONS.
-
-| NODE PARAMETER | VALUE |
-|---|---|
-| Node | wall-mounted digital speaker with a Banal-Status Monitor |
-| Monitor fields | output health, entropy, pattern risk, volume band, override state, freshness |
-| Pattern control | Pattern-Randomizer Disc selecting, cutting, overlapping, de-emphasizing fragments |
-| Entropy display | dullness entropy meter |
-| Volume control | volume governor |
-| Source library | manifest fragment library |
-| Alarms | dead-air alarm and phrase repetition warning |
-| Service access | local maintenance jack |
-| Emergency settings | emergency mute and emergency flood |
-| Site topology | chained nodes, ceiling speakers, corridor emitters, Site Command control panels |
-| Cover variants | public-address speakers, ventilation rattle, chime boxes, waiting-room noise |
-| Coverage radius per node | NOT MEASURED |
-| Output level and flood ceiling | NOT MEASURED |
-| Entropy scale definition | NOT MEASURED |
-| Library refresh interval | NOT MEASURED |
-
-The library is built from harmless administrative fragments: manifests, inventory tones, hallway air
-movement, copier hum, unimportant route codes, empty schedule language, synthetic footstep smear, and dull
-weather reports. The randomizer disc exists to stop that material becoming a chant, song,
-command, prayer,
-or recognizable message.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard BWB node is a wall-mounted digital speaker with a Banal-Status Monitor. The
@@ -164,6 +134,36 @@ status checks
 during breach response.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list, library description, and installation text. 4 values
+below are not held by the archive: Coverage radius per node, Output level and flood ceiling, Entropy scale definition,
+and 1 more. They are filed under OPEN QUESTIONS.
+
+| NODE PARAMETER | VALUE |
+|---|---|
+| Node | wall-mounted digital speaker with a Banal-Status Monitor |
+| Monitor fields | output health, entropy, pattern risk, volume band, override state, freshness |
+| Pattern control | Pattern-Randomizer Disc selecting, cutting, overlapping, de-emphasizing fragments |
+| Entropy display | dullness entropy meter |
+| Volume control | volume governor |
+| Source library | manifest fragment library |
+| Alarms | dead-air alarm and phrase repetition warning |
+| Service access | local maintenance jack |
+| Emergency settings | emergency mute and emergency flood |
+| Site topology | chained nodes, ceiling speakers, corridor emitters, Site Command control panels |
+| Cover variants | public-address speakers, ventilation rattle, chime boxes, waiting-room noise |
+| Coverage radius per node | NOT MEASURED |
+| Output level and flood ceiling | NOT MEASURED |
+| Entropy scale definition | NOT MEASURED |
+| Library refresh interval | NOT MEASURED |
+
+The library is built from harmless administrative fragments: manifests, inventory tones, hallway air
+movement, copier hum, unimportant route codes, empty schedule language, synthetic footstep smear, and dull
+weather reports. The randomizer disc exists to stop that material becoming a chant, song,
+command, prayer,
+or recognizable message.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

@@ -99,6 +99,7 @@ Current deployment is mandatory in select Subject Care, Biological Containment, 
 may also require AMSD wear during interviews with attraction hazards, fear accelerators, predator-recognition
 entities, reproductive compulsion subjects, and anomalies that use panic as a targeting signature.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and suite doctrine. Threshold values, Canister dose and

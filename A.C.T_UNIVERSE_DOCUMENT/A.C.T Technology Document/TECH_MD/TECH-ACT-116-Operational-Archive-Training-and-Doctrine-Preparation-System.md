@@ -88,6 +88,31 @@ officer, or administrator into someone who can descend with the correct reflexes
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+An OATDPS installation includes doctrine classrooms, mock controlled-reading rooms, document-handling drill tables,
+redaction rehearsal stations, intake simulation desks, boundary-role briefing rooms, emergency response panels,
+training record terminals, instructor observation windows, and Medical/Security debrief points.
+
+Known components include:
+
+- doctrine instruction room;
+- mock controlled-reading station;
+- document quarantine drill table;
+- redaction rehearsal desk;
+- anomalous intake simulation tray;
+- boundary identity briefing room;
+- emergency seal practice panel;
+- exposure reporting terminal;
+- instructor observation station;
+- training certification ledger.
+
+The system uses harmless substitutes, censored procedure sets, and staged failures so personnel encounter
+mistakes
+before real files punish them.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and training doctrine. 3 figures below are blank: Course
@@ -118,31 +143,6 @@ live hazard enters a training
 room: simulations are built from described behaviour rather than from source material, because a
 rehearsal
 that exposes a trainee has produced the exact failure the training exists to prevent.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-An OATDPS installation includes doctrine classrooms, mock controlled-reading rooms, document-handling drill tables,
-redaction rehearsal stations, intake simulation desks, boundary-role briefing rooms, emergency response panels,
-training record terminals, instructor observation windows, and Medical/Security debrief points.
-
-Known components include:
-
-- doctrine instruction room;
-- mock controlled-reading station;
-- document quarantine drill table;
-- redaction rehearsal desk;
-- anomalous intake simulation tray;
-- boundary identity briefing room;
-- emergency seal practice panel;
-- exposure reporting terminal;
-- instructor observation station;
-- training certification ledger.
-
-The system uses harmless substitutes, censored procedure sets, and staged failures so personnel encounter
-mistakes
-before real files punish them.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

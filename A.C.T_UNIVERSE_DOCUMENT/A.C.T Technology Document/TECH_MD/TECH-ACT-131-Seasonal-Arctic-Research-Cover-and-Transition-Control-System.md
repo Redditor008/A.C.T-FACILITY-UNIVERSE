@@ -86,6 +86,31 @@ SARCTCS formalizes the relationship between real surface science and concealed s
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A SARCTCS installation includes surface administrative buildings, conventional research laboratories, airstrip,
+aircraft servicing area, vehicle maintenance bay, power plant, weather protection systems, seasonal cargo processing
+points, concealed vertical transition controls, boundary monitoring stations, external communication panels, and
+buried-network separation nodes.
+
+Known components include:
+
+- conventional arctic research laboratory;
+- surface administration block;
+- seasonal airstrip operations post;
+- vehicle maintenance and convoy bay;
+- surface power plant link;
+- concealed transition control point;
+- transport-window scheduling board;
+- external science communication channel;
+- buried-station secure network separator;
+- arctic boundary monitoring station.
+
+The surface system must be credible to outsiders and precise to insiders at the
+same time.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures are restated from this record's cover component list and White Grave surface doctrine. 3 figures below are
@@ -117,31 +142,6 @@ external channel, which gives the site a real reason to exist, a real reason
 for seasonal traffic, and a
 real reason for scientists to visit without anyone having to explain the buried station
 beneath it.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A SARCTCS installation includes surface administrative buildings, conventional research laboratories, airstrip,
-aircraft servicing area, vehicle maintenance bay, power plant, weather protection systems, seasonal cargo processing
-points, concealed vertical transition controls, boundary monitoring stations, external communication panels, and
-buried-network separation nodes.
-
-Known components include:
-
-- conventional arctic research laboratory;
-- surface administration block;
-- seasonal airstrip operations post;
-- vehicle maintenance and convoy bay;
-- surface power plant link;
-- concealed transition control point;
-- transport-window scheduling board;
-- external science communication channel;
-- buried-station secure network separator;
-- arctic boundary monitoring station.
-
-The surface system must be credible to outsiders and precise to insiders at the
-same time.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

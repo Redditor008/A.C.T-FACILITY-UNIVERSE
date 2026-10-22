@@ -91,6 +91,7 @@ arrangement. The system was built from the recognition that sustaining the relay
 not separate from
 commanding the relay. In an island installation, personnel support is command support.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and sustainment doctrine. 3 figures below are blank:

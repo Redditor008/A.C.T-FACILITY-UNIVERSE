@@ -110,6 +110,7 @@ Narrative North calibration remains restricted because an enemy that knows how A
 pressure
 could build false routes that feel official to the instrument.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and survey doctrine. The archive holds no figure for

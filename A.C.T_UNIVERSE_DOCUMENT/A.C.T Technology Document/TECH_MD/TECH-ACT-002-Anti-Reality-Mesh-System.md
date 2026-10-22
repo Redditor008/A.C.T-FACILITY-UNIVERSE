@@ -145,66 +145,6 @@ deliveries and routes through ARM-treated access points.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Node-level detail below is the identification-training set from the Visual Reference Guide. The aperture
-material,
-field weighting, civilian-perception tables, and lattice handshake remain Level 5 and are not restated
-here.
-
-| PARAMETER | VALUE |
-|---|---|
-| Form factor | coin-sized flat copper node |
-| Mounting | embedded into walls, floors, or ceilings |
-| Active element | microscopic [BLANK] Aperture, pulses dull orange when active |
-| Interconnect | sub-surface data lattice |
-| Monitoring | ruggedized tablet; field visualized as a glowing green geometric web |
-| Failure indication | grid point turns high-contrast red with an acoustic alert |
-| Power | local power taps with isolated backup cells |
-| Data tables | cover-story weighting table; public-camera interpretation table |
-| Node count per site | NOT MEASURED |
-| Node spacing standard | NOT MEASURED |
-| Node power draw | NOT MEASURED |
-| Aperture material | Level 5 restricted |
-| Field weighting | Level 5 restricted |
-| Lattice handshake | Level 5 restricted |
-
-ARM has no single emitter and therefore no single output figure. Its performance is
-a property of node density and
-cover weighting together, and neither is published.
-
-## INTERFACE AND OPERATING ENVELOPE
-
-### Controls
-
-- ruggedized ARM field tablet
-- green web field-visualization interface
-
-### Readouts
-
-- node-failure red alert display
-- acoustic maintenance warning tone
-- ARM-GREEN through ARM-BLACK working states
-
-### Envelope And Personnel Limits
-
-- Do not remove a copper node because it looks decorative.
-- Do not paint over node clusters with conductive or reflective coatings without Engineering
-  approval.
-- Do not place public signage that contradicts ARM cover weighting.
-- Calibrate to the cover, not to the operator's fear level; over-masking creates absence
-  and absence attracts
-  attention.
-- Weakest against observers already primed to look for A.C.T infrastructure.
-- Weakest against repeated civilian contact with the same contradiction.
-- Weakest against hostile GOIs using nonstandard attention, ritual sight, or anomaly-assisted mapping.
-- Weakest against social-media swarm behavior that makes boredom statistically unstable.
-
-ARM must never suppress evacuation signals, medical alarms, fire alarms, or containment warnings. That
-restriction
-outranks every concealment objective.
-
-
 ## PHYSICAL AND SYSTEM DESCRIPTION
 
 ### Mesh Nodes
@@ -267,6 +207,66 @@ pattern attention. Mobile ARM is not authorized for long-term concealment of act
 site support.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Node-level detail below is the identification-training set from the Visual Reference Guide. The aperture
+material,
+field weighting, civilian-perception tables, and lattice handshake remain Level 5 and are not restated
+here.
+
+| PARAMETER | VALUE |
+|---|---|
+| Form factor | coin-sized flat copper node |
+| Mounting | embedded into walls, floors, or ceilings |
+| Active element | microscopic [BLANK] Aperture, pulses dull orange when active |
+| Interconnect | sub-surface data lattice |
+| Monitoring | ruggedized tablet; field visualized as a glowing green geometric web |
+| Failure indication | grid point turns high-contrast red with an acoustic alert |
+| Power | local power taps with isolated backup cells |
+| Data tables | cover-story weighting table; public-camera interpretation table |
+| Node count per site | NOT MEASURED |
+| Node spacing standard | NOT MEASURED |
+| Node power draw | NOT MEASURED |
+| Aperture material | Level 5 restricted |
+| Field weighting | Level 5 restricted |
+| Lattice handshake | Level 5 restricted |
+
+ARM has no single emitter and therefore no single output figure. Its performance is
+a property of node density and
+cover weighting together, and neither is published.
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Controls
+
+- ruggedized ARM field tablet
+- green web field-visualization interface
+
+### Readouts
+
+- node-failure red alert display
+- acoustic maintenance warning tone
+- ARM-GREEN through ARM-BLACK working states
+
+### Envelope And Personnel Limits
+
+- Do not remove a copper node because it looks decorative.
+- Do not paint over node clusters with conductive or reflective coatings without Engineering
+  approval.
+- Do not place public signage that contradicts ARM cover weighting.
+- Calibrate to the cover, not to the operator's fear level; over-masking creates absence
+  and absence attracts
+  attention.
+- Weakest against observers already primed to look for A.C.T infrastructure.
+- Weakest against repeated civilian contact with the same contradiction.
+- Weakest against hostile GOIs using nonstandard attention, ritual sight, or anomaly-assisted mapping.
+- Weakest against social-media swarm behavior that makes boredom statistically unstable.
+
+ARM must never suppress evacuation signals, medical alarms, fire alarms, or containment warnings. That
+restriction
+outranks every concealment objective.
+
 
 ## OPERATING PROCEDURE
 

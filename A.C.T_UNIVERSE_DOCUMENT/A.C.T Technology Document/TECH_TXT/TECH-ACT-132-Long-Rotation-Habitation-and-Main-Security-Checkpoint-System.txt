@@ -96,6 +96,7 @@ that separation, making domestic support part of the station's containment archi
 administrative
 afterthought.
 
+
 TECHNICAL SPECIFICATION
 
 Values are restated from this record's habitation component list and White Grave support doctrine.

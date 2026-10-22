@@ -99,6 +99,7 @@ Pulse-sync settings are restricted because hostile groups could use them to imit
 bypass living
 detectors, or move past anomalies that A.C.T relies on as passive warning systems.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and wear procedure. The archive holds no figure for

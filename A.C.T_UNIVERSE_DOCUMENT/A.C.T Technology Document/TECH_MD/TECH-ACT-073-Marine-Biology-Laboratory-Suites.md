@@ -89,6 +89,33 @@ subordinate to custody.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+An MBLS suite may include sealed aquatic benches, water chemistry cabinets, specimen ports, pressure-compatible
+sample
+sleeves, non-optical observation feeds, refrigerated biological lockers, waste neutralization drains, acoustic
+dampening panels, environmental separation doors, and medical response lockers. Each suite is configured for
+a study
+program rather than general access.
+
+Known components include:
+
+- sealed aquatic workbench;
+- resident-specific water chemistry loop;
+- specimen transfer lock;
+- pressure-compatible sample sleeve;
+- biological containment hood;
+- acoustic exposure monitor;
+- sealed drainage and waste capture;
+- observation feed control;
+- medical exposure response cabinet;
+- sample return ledger.
+
+No specimen is considered harmless because it is small, dead, shed, diluted, or separated
+from the main resident.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and study doctrine. The archive holds no figure for Loop
@@ -116,33 +143,6 @@ No specimen is considered harmless because it is small, dead, shed, diluted, or 
 from its resident.
 The suites are controlled maritime environments, not ordinary wet laboratories, and containment logic stays
 inside the research act.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-An MBLS suite may include sealed aquatic benches, water chemistry cabinets, specimen ports, pressure-compatible
-sample
-sleeves, non-optical observation feeds, refrigerated biological lockers, waste neutralization drains, acoustic
-dampening panels, environmental separation doors, and medical response lockers. Each suite is configured for
-a study
-program rather than general access.
-
-Known components include:
-
-- sealed aquatic workbench;
-- resident-specific water chemistry loop;
-- specimen transfer lock;
-- pressure-compatible sample sleeve;
-- biological containment hood;
-- acoustic exposure monitor;
-- sealed drainage and waste capture;
-- observation feed control;
-- medical exposure response cabinet;
-- sample return ledger.
-
-No specimen is considered harmless because it is small, dead, shed, diluted, or separated
-from the main resident.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

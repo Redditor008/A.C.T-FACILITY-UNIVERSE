@@ -99,6 +99,7 @@ Current deployment remains isolated by hardware. Wired uplink is required so ope
 when and how mission
 parameters entered the cube.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and command doctrine. 3 values below are not held by the

@@ -95,6 +95,7 @@ water. The documentation alcove prevents emergency pressure from erasing chain o
 system follows
 the watchpoint's doctrine that emergency intake is temporary by design.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and readiness doctrine. Storage capacity, Transfer clock

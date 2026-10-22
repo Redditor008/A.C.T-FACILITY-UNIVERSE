@@ -85,6 +85,32 @@ language for cold containment.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A BSCCDIHS installation includes intake and assessment bays, biological suppression chambers, climate-controlled
+individual units, insulated service branches, cold-capable monitoring galleries, handling corridors, floor command
+panels, environmental redundancy, suppression scheduling terminals, and transfer locks leading upward to Research and
+downward to restricted holding.
+
+Known components include:
+
+- biological suppression chamber;
+- climate-controlled holding unit;
+- resident environmental profile terminal;
+- suppression schedule controller;
+- biological activity monitor;
+- handling corridor threshold;
+- monitoring gallery display;
+- F-4 sample-control transfer lock;
+- F-2 restricted-hold escalation gate;
+- long-duration custody record.
+
+The chamber's job is not simply to be cold. It must be cold in
+the exact way the resident requires for as long as the
+resident remains assigned.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Values are restated from this record's holding component list and White Grave F-3 containment
@@ -116,32 +142,6 @@ or
 not anything has gone wrong, so the schedule controller and the profile terminal are
 treated as containment
 hardware rather than as laboratory convenience.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A BSCCDIHS installation includes intake and assessment bays, biological suppression chambers, climate-controlled
-individual units, insulated service branches, cold-capable monitoring galleries, handling corridors, floor command
-panels, environmental redundancy, suppression scheduling terminals, and transfer locks leading upward to Research and
-downward to restricted holding.
-
-Known components include:
-
-- biological suppression chamber;
-- climate-controlled holding unit;
-- resident environmental profile terminal;
-- suppression schedule controller;
-- biological activity monitor;
-- handling corridor threshold;
-- monitoring gallery display;
-- F-4 sample-control transfer lock;
-- F-2 restricted-hold escalation gate;
-- long-duration custody record.
-
-The chamber's job is not simply to be cold. It must be cold in
-the exact way the resident requires for as long as the
-resident remains assigned.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

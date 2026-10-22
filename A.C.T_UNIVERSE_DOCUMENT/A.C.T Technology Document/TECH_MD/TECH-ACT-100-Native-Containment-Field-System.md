@@ -84,6 +84,33 @@ monitoring, concealed staff access, research observation, perimeter discipline, 
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+An NCFS sector includes a resident growth zone, root-protection boundary, soil and moisture monitoring
+points,
+concealed perimeter markers, canopy condition controls, minimal-intrusion paths, environmental sampling posts, remote
+observation fixtures, incursion alarms, and sector condition ledgers. Built structures are secondary and minimized
+to
+avoid disturbing the resident field.
+
+Known components include:
+
+- resident growth zone;
+- root-protection boundary;
+- soil-state sensor point;
+- moisture and canopy condition marker;
+- concealed perimeter post;
+- low-intrusion observation path;
+- environmental sampling station;
+- resident condition ledger;
+- incursion alarm line;
+- transport-denial field tag.
+
+The field is treated as equipment because careless ecological change can be as damaging
+as physical sabotage.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and field doctrine. 3 figures below are blank: Sector
@@ -114,33 +141,6 @@ changes the place the
 resident depends on. That inverts the usual priority: staff intrusion is a containment risk,
 not merely an
 inconvenience.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-An NCFS sector includes a resident growth zone, root-protection boundary, soil and moisture monitoring
-points,
-concealed perimeter markers, canopy condition controls, minimal-intrusion paths, environmental sampling posts, remote
-observation fixtures, incursion alarms, and sector condition ledgers. Built structures are secondary and minimized
-to
-avoid disturbing the resident field.
-
-Known components include:
-
-- resident growth zone;
-- root-protection boundary;
-- soil-state sensor point;
-- moisture and canopy condition marker;
-- concealed perimeter post;
-- low-intrusion observation path;
-- environmental sampling station;
-- resident condition ledger;
-- incursion alarm line;
-- transport-denial field tag.
-
-The field is treated as equipment because careless ecological change can be as damaging
-as physical sabotage.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

@@ -101,6 +101,7 @@ Filter lists remain Level 5 because a hostile actor who knows what the implant
 refuses could route an attack through
 what it still allows.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's clinical description and implant doctrine. 4 values below are not held

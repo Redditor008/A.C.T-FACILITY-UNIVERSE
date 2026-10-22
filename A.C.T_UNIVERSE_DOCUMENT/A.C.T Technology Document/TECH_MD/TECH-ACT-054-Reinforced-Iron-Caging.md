@@ -96,33 +96,6 @@ worsened containment. RIC became the ancestor of the Massive Box, not its final 
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's component list and legacy-review doctrine. 3 values below are not held
-by the archive: Bar spacing standard, Rated load, Floor pin depth. They are filed under OPEN QUESTIONS.
-
-| CAGE PARAMETER | VALUE |
-|---|---|
-| Hull | layered iron hull |
-| Bars | cross-braced containment bars |
-| Skin | riveted outer plate |
-| Locking | external locking beam |
-| Hinges | heavy hinge tree |
-| Anchoring | floor pin socket |
-| Service | feed drawer and service slot |
-| Observation | inspection gallery rail set outside reach |
-| Emergency | drop shutter |
-| Evidence | repair plate ledger mark |
-| Condition | surviving examples show repeated patching and mismatched ironwork |
-| Bar spacing standard | NOT MEASURED |
-| Rated load | NOT MEASURED |
-| Floor pin depth | NOT MEASURED |
-
-No RIC structure is treated as resident-ready without modern review, because iron can preserve
-old force
-while hiding old fatigue. The system did not solve modern containment; it created the
-vocabulary for it.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard RIC installation used multi-layered iron hulls, cross-braced bars, riveted plates, external locking
@@ -151,6 +124,33 @@ force while hiding old
 fatigue.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and legacy-review doctrine. 3 values below are not held
+by the archive: Bar spacing standard, Rated load, Floor pin depth. They are filed under OPEN QUESTIONS.
+
+| CAGE PARAMETER | VALUE |
+|---|---|
+| Hull | layered iron hull |
+| Bars | cross-braced containment bars |
+| Skin | riveted outer plate |
+| Locking | external locking beam |
+| Hinges | heavy hinge tree |
+| Anchoring | floor pin socket |
+| Service | feed drawer and service slot |
+| Observation | inspection gallery rail set outside reach |
+| Emergency | drop shutter |
+| Evidence | repair plate ledger mark |
+| Condition | surviving examples show repeated patching and mismatched ironwork |
+| Bar spacing standard | NOT MEASURED |
+| Rated load | NOT MEASURED |
+| Floor pin depth | NOT MEASURED |
+
+No RIC structure is treated as resident-ready without modern review, because iron can preserve
+old force
+while hiding old fatigue. The system did not solve modern containment; it created the
+vocabulary for it.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

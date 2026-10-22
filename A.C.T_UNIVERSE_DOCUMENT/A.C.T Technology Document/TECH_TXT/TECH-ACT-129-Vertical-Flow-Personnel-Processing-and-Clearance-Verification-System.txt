@@ -99,6 +99,7 @@ so that no
 person enters the working complex as an unverified body and no person leaves it
 as an unaccounted consequence.
 
+
 TECHNICAL SPECIFICATION
 
 Figures are restated from this record's gateway component list and F-8 personnel doctrine. 3 values below are not held

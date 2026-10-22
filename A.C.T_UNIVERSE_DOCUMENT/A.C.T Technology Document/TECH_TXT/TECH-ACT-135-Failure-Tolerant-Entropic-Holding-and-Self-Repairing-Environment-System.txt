@@ -96,6 +96,7 @@ Redundancy became containment, self-repair became environment, and early detecti
 could
 remain damage instead of becoming breach.
 
+
 TECHNICAL SPECIFICATION
 
 Figures are restated from this record's holding component list and White Grave F-2 restricted-hold doctrine. Repair

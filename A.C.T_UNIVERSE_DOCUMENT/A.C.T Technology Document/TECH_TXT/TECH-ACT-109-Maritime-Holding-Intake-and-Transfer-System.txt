@@ -93,6 +93,7 @@ the procedure set that connects Recovery, Containment, Security, Medical, and Re
 undocumented
 gap between them.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and transfer doctrine. The archive holds no figure for

@@ -99,6 +99,7 @@ MCTS therefore carries two duties at once. It must reduce harm to the patient,
 and it must keep the patient's injury
 from becoming the next breach.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and treatment doctrine. 3 values below are not held by

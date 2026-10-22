@@ -87,6 +87,32 @@ VSMS makes local geology part of watch discipline rather than background noise.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A VSMS installation includes seismic sensors, volcanic observation feeds, ash-density logs, tremor comparison panels,
+tide-state correlation boards, local ground-motion alarms, parent-relay reporting terminals, weather and visibility
+inputs, withdrawal readiness indicators, and protected instrument power. The suites are positioned on F-2
+so sensitive
+operational interpretation remains below the public surface station.
+
+Known components include:
+
+- local seismic feed panel;
+- volcanic signature display;
+- ash-density and visibility log;
+- tremor comparison station;
+- tide-state correlation board;
+- ground-motion alarm;
+- recovery safety indicator;
+- silent withdrawal readiness panel;
+- parent-relay escalation terminal;
+- instrument backup power link.
+
+The suites track ordinary geology carefully because ordinary geology is the baseline that lets
+anomaly stand out.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and monitoring doctrine. 3 figures below are blank:
@@ -115,32 +141,6 @@ role is local and
 urgent: maintain a coastal geological picture accurate enough to decide whether the watchpoint stays,
 works,
 or withdraws silently.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A VSMS installation includes seismic sensors, volcanic observation feeds, ash-density logs, tremor comparison panels,
-tide-state correlation boards, local ground-motion alarms, parent-relay reporting terminals, weather and visibility
-inputs, withdrawal readiness indicators, and protected instrument power. The suites are positioned on F-2
-so sensitive
-operational interpretation remains below the public surface station.
-
-Known components include:
-
-- local seismic feed panel;
-- volcanic signature display;
-- ash-density and visibility log;
-- tremor comparison station;
-- tide-state correlation board;
-- ground-motion alarm;
-- recovery safety indicator;
-- silent withdrawal readiness panel;
-- parent-relay escalation terminal;
-- instrument backup power link.
-
-The suites track ordinary geology carefully because ordinary geology is the baseline that lets
-anomaly stand out.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 

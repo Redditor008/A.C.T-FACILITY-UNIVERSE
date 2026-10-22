@@ -103,32 +103,6 @@ trigger mating behavior, or attract the wrong organism.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's component list and handling procedure. 2 figures below are blank:
-Maximum output, Beam angle and throw. Each is filed under OPEN QUESTIONS.
-
-| BEACON PARAMETER | VALUE |
-|---|---|
-| Form | floor-standing industrial lamp on a weighted base |
-| Beam shaping | folding Focus Hood |
-| Output | dark orange when visible, mostly infrared |
-| Control | Digital Heat-Dial for intensity and ramp speed |
-| Cooling | redacted-grade cooling unit in the base |
-| Safety | ramp-speed limiter and emergency shutter |
-| Sensing | thermal spill sensor |
-| Configuration | subject-profile setting tag |
-| Records | post-use heat log |
-| Field fittings | carry handles and locking legs |
-| Habitat fittings | wall or track mounted variants |
-| Maximum output | NOT MEASURED |
-| Beam angle and throw | NOT MEASURED |
-| Cooling unit specification | REDACTED |
-
-A clean beam matters more than a bright one, because scatter creates several false
-targets and confuses the
-subject. The beacon offers a better option; it does not issue a command.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard TLB is a floor-standing industrial lamp on a weighted base. The folding
@@ -157,6 +131,32 @@ A clean beam is more important than a bright beam. Scatter can create several
 false targets and confuse the subject.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and handling procedure. 2 figures below are blank:
+Maximum output, Beam angle and throw. Each is filed under OPEN QUESTIONS.
+
+| BEACON PARAMETER | VALUE |
+|---|---|
+| Form | floor-standing industrial lamp on a weighted base |
+| Beam shaping | folding Focus Hood |
+| Output | dark orange when visible, mostly infrared |
+| Control | Digital Heat-Dial for intensity and ramp speed |
+| Cooling | redacted-grade cooling unit in the base |
+| Safety | ramp-speed limiter and emergency shutter |
+| Sensing | thermal spill sensor |
+| Configuration | subject-profile setting tag |
+| Records | post-use heat log |
+| Field fittings | carry handles and locking legs |
+| Habitat fittings | wall or track mounted variants |
+| Maximum output | NOT MEASURED |
+| Beam angle and throw | NOT MEASURED |
+| Cooling unit specification | REDACTED |
+
+A clean beam matters more than a bright one, because scatter creates several false
+targets and confuses the
+subject. The beacon offers a better option; it does not issue a command.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

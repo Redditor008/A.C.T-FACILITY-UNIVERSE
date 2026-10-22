@@ -94,6 +94,7 @@ node a way to hold transmitting or receiving documents without either overclassi
 F-2 or underestimating
 them as ordinary records.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and holding doctrine. 3 values below are not held by the

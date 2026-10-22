@@ -104,6 +104,7 @@ from Queen chromatic flashes;
 GMT protects skin and body lines from dust contact and gamma-grade contamination in the
 same operation.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and issue doctrine. Gamma attenuation, Strip saturation

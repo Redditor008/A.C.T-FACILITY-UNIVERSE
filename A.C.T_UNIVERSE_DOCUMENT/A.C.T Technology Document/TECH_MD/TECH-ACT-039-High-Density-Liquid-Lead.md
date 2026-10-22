@@ -102,34 +102,6 @@ post-use environmental survey.
 
 ---
 
-## TECHNICAL SPECIFICATION
-
-Figures below are restated from this record's component list and installation doctrine. Density, Absorption capacity
-per litre, Pipe load rating are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
-
-| BARRIER PARAMETER | VALUE |
-|---|---|
-| Fluid | shimmering grey high-density barrier liquid |
-| Behaviour | moves slowly, carries unusual weight, dull mirror under pressure |
-| Plumbing | lead-glass pipe sections for visual confirmation |
-| Flow | digital flow-meter at every joint |
-| Leak | molecular-leak sensor at every joint |
-| Joint | pressure collar |
-| Recovery | recovery sump and floor recovery lips |
-| Flooring | shallow recessed channels with a coating spreader |
-| Sampling | sealed sampling port |
-| Alarm | contamination alarm strip |
-| Disposal | hazardous waste transfer canister |
-| Density | NOT MEASURED |
-| Absorption capacity per litre | NOT MEASURED |
-| Pipe load rating | NOT MEASURED |
-
-The fluid traps and absorbs; it does not dissolve hazards and it does not
-forgive poor containment. It must
-never be improvised into ordinary plumbing, because its weight can rupture systems designed for
-water, oil,
-or coolant.
-
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
 HDLL appears as a shimmering grey liquid. It moves slowly, carries unusual weight, and
@@ -159,6 +131,34 @@ for water, oil, or
 coolant.
 
 ---
+
+## TECHNICAL SPECIFICATION
+
+Figures below are restated from this record's component list and installation doctrine. Density, Absorption capacity
+per litre, Pipe load rating are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
+
+| BARRIER PARAMETER | VALUE |
+|---|---|
+| Fluid | shimmering grey high-density barrier liquid |
+| Behaviour | moves slowly, carries unusual weight, dull mirror under pressure |
+| Plumbing | lead-glass pipe sections for visual confirmation |
+| Flow | digital flow-meter at every joint |
+| Leak | molecular-leak sensor at every joint |
+| Joint | pressure collar |
+| Recovery | recovery sump and floor recovery lips |
+| Flooring | shallow recessed channels with a coating spreader |
+| Sampling | sealed sampling port |
+| Alarm | contamination alarm strip |
+| Disposal | hazardous waste transfer canister |
+| Density | NOT MEASURED |
+| Absorption capacity per litre | NOT MEASURED |
+| Pipe load rating | NOT MEASURED |
+
+The fluid traps and absorbs; it does not dissolve hazards and it does not
+forgive poor containment. It must
+never be improvised into ordinary plumbing, because its weight can rupture systems designed for
+water, oil,
+or coolant.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

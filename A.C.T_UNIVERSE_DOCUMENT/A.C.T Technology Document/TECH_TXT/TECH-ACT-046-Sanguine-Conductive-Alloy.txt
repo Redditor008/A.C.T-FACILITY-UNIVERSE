@@ -102,6 +102,7 @@ bridge for multiple subjects. That is prohibited. Blood-data channels must remai
 Review
 authorizes mixed-sample study.
 
+
 TECHNICAL SPECIFICATION
 
 Figures below are restated from this record's component list and testing doctrine. The archive holds no figure for

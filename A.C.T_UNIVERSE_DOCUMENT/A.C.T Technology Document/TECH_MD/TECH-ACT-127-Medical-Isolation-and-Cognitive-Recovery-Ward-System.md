@@ -87,6 +87,31 @@ hazards.
 
 ---
 
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+A MICRWS installation includes trauma wards, general medical rooms, memetic treatment suites, cognitive recovery
+rooms, artifact-influence isolation suites, clinical laboratories, pharmacy support, patient monitoring stations,
+separated air handling, Medical record terminals, and incident-response links to Containment and Security.
+
+Known components include:
+
+- artifact-influence isolation suite;
+- memetic contamination treatment room;
+- cognitive recovery suite;
+- exposure-limited observation channel;
+- patient-status access gate;
+- clinical monitoring panel;
+- atmospheric separation branch;
+- Medical confidentiality record lock;
+- Containment escalation alarm;
+- return-to-duty assessment station.
+
+The isolation suite is engineered to protect both directions: the patient from the complex
+and the complex from
+whatever may be acting through the patient.
+
+---
+
 ## TECHNICAL SPECIFICATION
 
 Figures are taken from this record's ward component list and F-6 clinical doctrine. Bed count, Median isolation stay,
@@ -117,31 +142,6 @@ by confirmed
 exposure and raised through the escalation alarm rather than being assumed at admission. The
 exposure-limited channel exists to let clinicians observe without adding to the exposure they are
 treating.
-
-## PHYSICAL OR SYSTEM DESCRIPTION
-
-A MICRWS installation includes trauma wards, general medical rooms, memetic treatment suites, cognitive recovery
-rooms, artifact-influence isolation suites, clinical laboratories, pharmacy support, patient monitoring stations,
-separated air handling, Medical record terminals, and incident-response links to Containment and Security.
-
-Known components include:
-
-- artifact-influence isolation suite;
-- memetic contamination treatment room;
-- cognitive recovery suite;
-- exposure-limited observation channel;
-- patient-status access gate;
-- clinical monitoring panel;
-- atmospheric separation branch;
-- Medical confidentiality record lock;
-- Containment escalation alarm;
-- return-to-duty assessment station.
-
-The isolation suite is engineered to protect both directions: the patient from the complex
-and the complex from
-whatever may be acting through the patient.
-
----
 
 ## INTERFACE AND OPERATING ENVELOPE
 
