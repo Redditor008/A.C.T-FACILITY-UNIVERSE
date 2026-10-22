@@ -1,0 +1,279 @@
+# A.C.T FACILITY ARCHIVE FILE — NAMEWRIGHT BAZAAR COUNTERFEIT COURT STAMP
+### TECHNOLOGY RECORD - NAMEWRIGHT BAZAAR COUNTERFEIT COURT STAMP
+
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-069-3 |
+| TECHNOLOGY NAME | Namewright Bazaar Counterfeit Court Stamp |
+| SHORT NAME | NBCS |
+| TECHNOLOGY FAMILY | RECOVERED ADVERSARY DEVICE / DOCUMENTARY FORGERY INSTRUMENT / DUAL FILING MANDATORY |
+| ORIGIN | NAMEWRIGHT BAZAAR (GOI-BS-X-069) / BAZAAR TRADE STOCK |
+| PRIMARY CONTROLLER | Legal Division with Intelligence and Containment review |
+| ATTACHED DIVISIONS | Legal, Intelligence, Containment, Subject Care, Archive |
+| OPERATIONAL STATUS | THREE UNITS HELD UNDER DISMANTLEMENT ORDER / NOT USED / NOT IMPRESSED |
+| RISK STATUS | FORGERY INSTRUMENT / EVIDENCE INTEGRITY / DO NOT OPERATE |
+| CLEARANCE REQUIRED | Level 4 for custody; Level 5 for any handling |
+
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Recovered Adversary Device Record |
+| DISTRIBUTION | Legal, Intelligence, Containment, Subject Care, Command, Archive |
+| AUTHORITY | Legal Division with Intelligence and Containment review, restricted holding |
+
+#### Archive Note
+
+This record covers the court stamp caches listed among Namewright Bazaar assets. A.C.T holds
+three counterfeit court stamps, seized under a dismantlement order against a hostile identity
+market assessed at threat level 4.
+
+The stamps are the step that makes a substitution hold. The Bazaar's trade runs through six kinds
+of recognition — paper, memory, family, legal, spiritual and predatory — and legal recognition is
+the one that a court stamp attacks directly. A name can be cut from a bracelet and bound to a new
+one, but until an official document carries the new name the substitution is informal, and the
+stamp is what closes that gap.
+
+This is a seizure record and not a custody record. A.C.T does not hold the stamps as equipment and
+will not issue them. It holds them as forgery instruments from a market it is dismantling, and the
+record is written for three purposes: what the stamp is for, how to recognise a document bearing
+one, and what the existence of three units says about the trade.
+
+The stamps are counterfeit, which is the whole of the hazard and also the whole of the
+opportunity. A counterfeit stamp leaves an impression that a genuine one does not, and three
+genuine counterfeits are the best available reference for telling a Bazaar document from a real
+one. That makes them an authentication reference whether anyone intends it or not.
+
+Controlled label: **COUNTERFEIT STAMP RULE**.
+
+Core handling rule:
+
+```text
+THESE STAMPS ARE FORGERY INSTRUMENTS AND MUST NEVER BE IMPRESSED ON ANYTHING. NO IMPRESSION
+IS TAKEN FOR ANY PURPOSE, INCLUDING AUTHENTICATION REFERENCE, WITHOUT LEVEL 5 AND LEGAL.
+```
+
+---
+
+## FUNCTION SUMMARY
+
+A counterfeit court stamp produces the impression of a court on a document that no court issued.
+It is Bazaar trade stock rather than a personal tool.
+
+- imprints a court appearance onto a forged document;
+- supports the legal recognition leg of a Bazaar substitution;
+- makes a substituted identity survive contact with official checking;
+- carries no containment function and must never be adopted as A.C.T equipment.
+
+The dossier describes the trade as beginning with a need and running through a Mouth Factor's
+assessment, a Ledger Mother's identification of a source name, and a Namewright's binding through
+documents, speech, signatures, hair, blood, school records, gravesoil and hospital bracelets. The
+stamp is not part of the binding. It comes afterwards, and it works on the document rather than on
+the person.
+
+Three units were seized. The dossier lists court stamp caches among Bazaar assets, in the plural
+and as stock, which places the stamps in trade inventory rather than in individual hands.
+
+## ORIGIN AND CUSTODY
+
+The stamps are Bazaar trade stock. The dossier describes Bazaar holdings including back-room
+stalls, paper vaults, mobile document vans and registry mirrors, which places stamp storage
+inside Bazaar premises and transport.
+
+A.C.T recovered three counterfeit court stamps among partial name ledgers, two alias knives, one
+dead-name cupboard door and multiple victim statements. The full Bazaar books remain unrecovered.
+The stamps were seized rather than appropriated.
+
+Custody sits with Legal, with Intelligence and Containment reviewing. Handling requires Level 5.
+No impression has been taken from any unit and none may be.
+
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+The dossier gives no dimensions, materials, die form or marking, and none is inferred. What it
+establishes is which court the stamps imitate, which it does not: the dossier says court stamps
+and does not name a jurisdiction.
+
+| FIELD | VALUE |
+|---|---|
+| Instrument class | Impression stamp, counterfeit |
+| Court imitated | Not recorded; no jurisdiction is named |
+| Dimensions | Not recorded |
+| Die material | Not recorded |
+| Ink or pad | Not recorded |
+| Whether the three are identical | Not recorded |
+| Whether they share one die | Not established |
+| Units held by A.C.T | Three, seized |
+| Serial or registry marking | Not applicable to a counterfeit |
+
+Two rows matter more than the rest. Whether the three are identical decides whether they came from
+one die or several, and one die indicates a single workshop while several indicate a supply
+network. And the unnamed jurisdiction is itself a finding: a counterfeit that imitates no
+particular court is harder to detect by comparison, because there is no single genuine impression
+to compare it against.
+
+## TECHNICAL SPECIFICATION
+
+The dossier gives no specification. Three points are established by inference and are marked as
+such.
+
+The stamp is a downstream instrument. It works on documents after a binding has been performed,
+which means a seized stamp is evidence of the trade's finishing stage rather than of its central
+mechanism.
+
+The stamp attacks legal recognition specifically. Of the six recognition types the dossier names,
+the stamp addresses the legal one. Whether the Bazaar holds instruments aimed at the other five
+is not recorded, and no inference is drawn here.
+
+Three units indicate stock rather than use. A trader carrying one stamp is equipping themselves.
+Three stamps in a cache is inventory, which suggests the Bazaar supplies stamps to others rather
+than only using them itself.
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Forgery Interface
+
+The stamp is operated by Bazaar traders on forged documents. No A.C.T role corresponds to that and
+no A.C.T personnel are authorised to operate one, for any purpose, including testing and including
+authentication reference.
+
+### Authentication Interface
+
+The stamps are the best available reference for recognising a Bazaar document, and that use is
+genuine. It is also a use that requires an impression, and an impression requires Level 5 with
+Legal approval. The tension is real and is not resolved by this record.
+
+### Personnel Limits
+
+Custody requires Level 4. Handling requires Level 5. No impression is taken at any clearance
+without Legal approval, and no unit leaves restricted storage for demonstration.
+
+### Numbered Operating Sequence
+
+The sequence below is the Bazaar's, recorded for recognition purposes. It is not an A.C.T
+procedure and must never be followed by A.C.T personnel.
+
+```text
+1. A Ledger Mother identifies a source name from the ledger.
+2. The Namewright cuts the carrier attachments.
+3. The binding is performed through the remaining media.
+4. Forged documents are prepared for the substituted identity.
+5. A counterfeit court stamp is impressed onto the documents.
+6. The documents are aged or issued to appear genuine.
+7. The substituted identity survives official checking.
+8. The buyer is recognised under the source name.
+```
+
+## OPERATING PROCEDURE
+
+A.C.T does not operate the stamps. The procedure that applies is seizure handling and document
+referral.
+
+The three units are held inert, separately enclosed, and are not impressed on any material.
+Testing on paper is still operation and the restriction covers it.
+
+Where a document bears an impression matching a Bazaar stamp, the document is referred to Legal
+and is not treated as genuine. Where a person holds such a document in good faith, the referral is
+to Subject Care as well, because a person who believes their own identity is forged is a person
+who needs attending.
+
+## SERVICING AND CALIBRATION
+
+No servicing is performed. The units are held as seized.
+
+No cleaning, re-inking or repair is permitted. Altering a seized forgery instrument compromises it
+as evidence in any proceeding against the Bazaar, and Legal holds that interest.
+
+No calibration exists. The stamp has no measurable output and no reference standard, and a
+counterfeit has no genuine against which to calibrate.
+
+## FAULT ISOLATION
+
+| OBSERVED CONDITION | ESTABLISHED | NOT ESTABLISHED |
+|---|---|---|
+| Three units seized | Confirmed | Whether they came from one die or several |
+| All counterfeit | Confirmed by the dossier | Which court or courts they imitate |
+| No impression taken by A.C.T | Confirmed | Whether any was impressed before seizure |
+| Ink residue on the dies | Not examined | Whether residue would identify prior documents |
+
+Ink residue has not been examined, because examination requires handling at Level 5 and no request
+has been made. The record holds that gap deliberately.
+
+## KNOWN LIMITS
+
+- the stamps must never be impressed on anything at any clearance;
+- the jurisdiction imitated is not recorded, so comparison against a genuine court is not possible;
+- whether the three share one die is unknown, so no attribution to a workshop may be made;
+- ink residue has not been examined and prior use is unknown;
+- authentication use requires an impression and an impression requires Level 5;
+- three units indicate stock and support no conclusion about how widely they were issued.
+
+The second limit is the awkward one. A counterfeit aimed at an unnamed court cannot be detected by
+comparing it against that court's genuine impression, because there is no single genuine to
+compare. Detection therefore depends on the stamps themselves, which depends on an impression,
+which depends on Legal.
+
+## FAILURE HISTORY
+
+No failure has occurred in A.C.T custody. No unit has been impressed.
+
+### SEIZURE CONDITION - DATE NOT RECORDED
+
+All three units were seized under the dismantlement order. The dossier records neither the date
+nor the circumstances. This entry records the absence rather than filling it.
+
+### NO IMPRESSION TAKEN - STANDING RESTRICTION
+
+No impression has been taken from any unit on any material, including paper offered for testing
+and including authentication reference. This entry records the restriction as an event so that its
+absence from the examination record is not read as an oversight.
+
+### NO DIE COMPARISON MADE - STANDING GAP
+
+The three units have never been compared against one another to establish whether they share a
+die. This entry exists because that comparison is the obvious next step and has not been taken.
+
+## DIVISION USE
+
+| DIVISION | USE |
+|---|---|
+| Legal | Holds the units; holds the evidential interest; rules on any impression |
+| Intelligence | Investigates the trade; refers forged documents to Legal |
+| Containment | Confirms the units carry no containment function |
+| Subject Care | Attends any person found holding a forged identity document in good faith |
+| Archive | Holds this record and the cross-references |
+
+No division operates the stamps. Legal holds them and no one impresses them.
+
+## CROSS-REFERENCES
+
+- `GOI-BS-X-069` — Namewright Bazaar, Group of Interest Dossier
+- `TECH-GOI-069-1` — Namewright Bazaar Partial Name Ledger, Technology Record
+- `TECH-GOI-069-2` — Namewright Bazaar Alias Knife, Technology Record
+- `TECH-GOI-069-4` — Namewright Bazaar Dead-Name Cupboard Door, Technology Record
+
+The trade runs in this order. The ledger identifies the source name, the knife cuts the carriers,
+the stamps make the substitution look official, and the cupboard holds what was cut away. The
+stamps are the only one of the four that works on a document rather than on a person.
+
+## OPEN QUESTIONS
+
+- which court or courts the stamps imitate, and how that would be established;
+- whether the three share one die, and whether that comparison can be made without an impression;
+- whether ink residue would identify documents previously stamped;
+- how widely the stamps were issued, given that three were seized from one cache;
+- whether documents already in circulation can be detected without a reference impression;
+- what becomes of a person holding a stamped document who did not know it was forged.
+
+The last question is a Subject Care question and has no answer here. A person whose identity
+documents are forged by a market they may not have chosen is a person who needs attending, and the
+forgery is a fact about the Bazaar rather than about them.
+
+## FILE METADATA
+
+| FIELD | VALUE |
+|---|---|
+| RECORD TYPE | Technology Record — Recovered Adversary Device |
+| CREATED | 27/11/2021 |
+| LAST UPDATED | 08/07/2025 |
+| REVIEW CYCLE | On any change in the dismantlement order or any impression request |
+| SOURCE | `GOI-BS-X-069` Namewright Bazaar dossier, Known Assets and Holdings and Operating Method |
+| DUAL FILING | Mandatory — filed under GOI seizure and under documentary forgery instruments |
+| NEXT REVIEW | On progress of the dismantlement order currently in force |
