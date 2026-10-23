@@ -7752,3 +7752,60 @@ chapter files against RULE 3.3, RULE 3.5 and RULE 4.3.
 No content file was changed by this batch. The re-clone guard fired twice and the tree was recovered
 from origin each time before anything else ran.
 
+## Prompt End Update — 2026-10-24, The Off-Shape Figure Was Wrong: 131 Was Really 42
+
+Owner ruling: list the off-shape records by which house heading they lack.
+
+### The listing, and what it exposed
+
+`ORIGIN AND CUSTODY` was reported missing from **123** of 242 records — more than half the set, which
+should have been the tell. Opening three of them showed the section is present under a different
+name:
+
+| RECORD | THE HEADING IT ACTUALLY CARRIES |
+|---|---|
+| `TECH-ACT-031` | `ORIGIN AND DEPLOYMENT` |
+| `TECH-ACT-032` | `ORIGIN AND DOCTRINE` |
+| `TECH-ACT-033` | `ORIGIN AND DEVELOPMENT` |
+
+The gate matched the exact string, so every variant name counted as a missing section. **A gate that
+tests an exact heading name is testing the wording, not the structure.**
+
+### The correction
+
+Matching on the leading phrase instead of the exact string brings the figure from **131** to **42**.
+
+| MEASURE | FIRST READING | CORRECTED |
+|---|---|---|
+| `TECH_RECORDS_OFF_SHAPE` | 131 | **42** |
+| `TECH_RECORDS_UNDER_1800` | 9 | 9 |
+
+The over-report was **89** records. The previous batch's statement that 131 of 242 records are
+off-shape is withdrawn and replaced by 42. The 9 under the word floor were unaffected and match the
+hand listing exactly.
+
+### The lesson, stated for the next batch
+
+**When a gate reports that more than half a corpus violates a rule, suspect the gate before
+suspecting the corpus.** The first instinct was to plan a 131-record repair; the right move was to
+open three files and look.
+
+### Gates after the correction
+
+| GATE | RESULT |
+|---|---|
+| `TECH_RECORDS_UNDER_1800` | 9 |
+| `TECH_RECORDS_OFF_SHAPE` | 42 |
+| `TECH_RECORDS` | 242 |
+| `TECH_MD_FILES` / `TECH_TXT_FILES` | 244 / 244 |
+| `TECH_UNPAIRED_TWINS` | 0 |
+| `DOCUMENT_COUNT` | 1026 |
+| injection audit | 23 of 23 fire |
+| `PATCH_SAVER_ENTRIES` | 114 |
+
+### Open
+
+The 4 Lantern Accord records to expand to 1,800-2,600 words with `.txt` twins in lockstep,
+`TECH-GOI-074-1` to restructure, the 42 genuinely off-shape records to list by heading, and the 13
+chapter files to judge by hand.
+

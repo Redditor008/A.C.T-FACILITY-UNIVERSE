@@ -279,7 +279,16 @@ def main() -> int:
         if len(body.split()) < 1800:
             r["TECH_RECORDS_UNDER_1800"] += 1
         heads = [h.strip() for h in re.findall(r"^## (.+)$", body, re.M)]
-        if any(h not in heads for h in HOUSE_H2):
+        # Match on the leading phrase, not the exact string. 123 records carry the
+        # origin section as ORIGIN AND DEPLOYMENT, ORIGIN AND DOCTRINE or ORIGIN AND
+        # DEVELOPMENT, and an exact-name test reported all of them as missing a
+        # section they plainly have. The first reading of this gate gave 131
+        # off-shape records when the real count is far lower.
+        def present(want):
+            key = want.split(" AND ")[0].split(" OR ")[0]
+            return any(h == want or h.startswith(key + " ") or h.startswith(key + " AND ")
+                       for h in heads)
+        if any(not present(h) for h in HOUSE_H2):
             r["TECH_RECORDS_OFF_SHAPE"] += 1
 
     r["TECH_UNPAIRED_TWINS"] = len({p.stem for p in tmd} ^ {p.stem for p in ttx})
