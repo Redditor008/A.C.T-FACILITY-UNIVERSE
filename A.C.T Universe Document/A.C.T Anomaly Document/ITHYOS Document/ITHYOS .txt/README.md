@@ -1,13 +1,14 @@
 # ITHYOS .txt
 
-The 7 records in this folder stand alone. ITHYOS records in plain text, twin to the markdown set.
+The plain-text half of the ITHYOS set. Same records, same order, same wording as `../ITHYOS .md`,
+with the markdown stripped and the tables drawn as ASCII boxes.
 
-## Files
+## Why two copies
 
-- `ACT_First_Vault_Document_ENTITY_000_ITHYOS.txt`
-- `ACT_First_Vault_Document_ENTITY_000_ITHYOS_Archive.txt`
-- `ACT_ITHYOS_Modern_Anomaly_File_Standard.txt`
-- `ACT_ITHYOS_Modern_Anomaly_File_Standard_Archive.txt`
-- `ACT_ITHYOS_Unfiled_Intake_Record_UFD-CH-000.txt`
-- `ACT_ITHYOS_Unfiled_Intake_Record_UFD-CH-000_Archive.txt`
-- `ITHYOS-The-Sleep-Beneath-the-First-Stone-Tale.txt`
+The archive keeps every record in both forms and holds them in lockstep. The markdown set is what a
+reader browses on GitHub; the plain-text set is what the in-world archive would actually print. A
+change to one belongs in the other, and the validation suite fails a batch that lets them drift.
+
+## Start with
+
+`ACT_First_Vault_Document_ENTITY_000_ITHYOS_Archive.txt` — the first preserved document, ENTITY-000.

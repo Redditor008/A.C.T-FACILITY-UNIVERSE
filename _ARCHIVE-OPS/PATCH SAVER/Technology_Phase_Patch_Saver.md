@@ -7539,3 +7539,44 @@ README. The suite is **21 gates tested, 21 fired, 0 blind**.
 | `DOCUMENT_COUNT` | 1026, was 1002 |
 | `PATCH_SAVER_ENTRIES` | 109 |
 
+## Prompt End Update — 2026-10-24, READMEs Audited And The Thin Ones Rewritten By Hand
+
+Owner ruling: rewrite the generated READMEs by hand, and check the pre-existing ones for the same
+defects the reader walk found elsewhere.
+
+### The audit
+
+**42** READMEs were tested for the defects the reader walk turned up: no H1, multiple H1s, bold
+markup inside a heading, wide lines, title stacks, out-of-world voice, no sections, and thinness
+under 40 words. **16** had at least one.
+
+Twelve were thin, and all twelve were mine — generated from folder contents with rotating openers,
+which produced a correct shape and nothing to say. Two carried wide lines and two had no sections;
+those four are pre-existing and were left alone, since the wide lines are link rows that cannot wrap
+without breaking the target.
+
+### The rewrite
+
+The 12 thin READMEs were rewritten individually. Each now says what the folder is for, what belongs
+in it, what belongs somewhere else, and where to go next — the ITHYOS set explains why the archive
+keeps two copies and what lockstep means, the Junior Handbook says plainly that it is not a
+classification reference, the story subfolders place themselves between outline and manuscript, and
+the backstage folders say what they are not part of.
+
+Two directories are named with a `.md` or `.txt` suffix, so a first attempt wrote to them as files
+and failed. The target is always the folder plus README, never the path itself.
+
+### Gates after the rewrite
+
+| GATE | RESULT |
+|---|---|
+| `FOLDERS_WITHOUT_README` | 0 |
+| `ROOT_FOLDERS_WITHOUT_README` | 0 |
+| `DOCUMENT_COUNT` | 1026 |
+| `STORY_MANUSCRIPT_LOCKSTEP_FAILURES` | 0 |
+| `STORY_CHAPTERS_TOTAL` / `STORY_CHAPTERS_ACTION_OPEN` | 12 / 12 |
+| `MD_WIDE_PROSE_LINES` / `TXT_WIDE_PROSE_LINES` | 0 / 0 |
+| `TITLE_STACK_DOCUMENTS` / `MD_BOLD_IN_HEADING_LINES` | 0 / 0 |
+| `BOXDRAW_CHARACTERS` / `DOUBLED_RULE_LINES` | 0 / 0 |
+| `PATCH_SAVER_ENTRIES` | 110 |
+

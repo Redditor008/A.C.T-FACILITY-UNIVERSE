@@ -1,10 +1,15 @@
 # _ARCHIVE-OPS
 
-The 4 subfolders in this folder stand alone. Backstage. Nothing in here is part of the fiction.
+Backstage. Nothing in this folder is part of the fiction, and none of it should be cited as an
+in-world document.
 
-## Inside
+## What lives here
 
-- `PATCH SAVER/`
-- `RESEARCH FOLDER/`
-- `STORY WRITING RULE/`
-- `tools/`
+`tools/` holds the validation and rendering code: the archive engine, the corpus measurement script,
+the gate audit, the paragraph re-flow and the batch bootstrap. `PATCH SAVER/` holds the batch ledger.
+`STORY WRITING RULE/` holds the house narrative rules. `RESEARCH FOLDER/` holds the research memos.
+
+## The rule that governs it
+
+Anything a report quotes must be measurable by `tools/corpus_numbers.py`. A figure that script
+cannot produce is not a figure the archive may state.

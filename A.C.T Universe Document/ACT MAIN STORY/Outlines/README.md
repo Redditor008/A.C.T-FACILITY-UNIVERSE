@@ -1,9 +1,14 @@
 # Outlines
 
-Open any of the 2 files below; none of them assumes you read another first. The chapter outline the manuscript was
-built from.
+The chapter outline *The Facility That Forgot Its First Lie* was built from. Two files, one in each
+format.
 
-## Files
+## What an outline carries
 
-- `07-The-Facility-That-Forgot-Its-First-Lie-Chapter-Outline.md`
-- `07-The-Facility-That-Forgot-Its-First-Lie-Chapter-Outline.txt`
+One entry per chapter: what happens, what the reader is meant to believe at that point, and what the
+chapter is withholding. It is a working document, so it is blunter than the prose and spoils
+everything. Read it after the story, not before.
+
+## The finished text
+
+The full manuscript sits one level up, prefixed `01-`.
