@@ -1,0 +1,7 @@
+date,time,reading_c,logged_by,seal_intact,action
+intake,09:12,-4.0,Engineering,unknown,baseline at intake
+week-14,Tuesday,10:05,-3.6,Containment,yes,queried with Engineering
+week-14,Thursday,08:40,-3.1,Containment,yes,no adjustment made
+week-15,Sunday,02:41,-2.4,Switchboard,yes,duty officer called
+week-15,Sunday,02:47,-2.4,Duty officer,yes,unit left alone
+week-15,Sunday,06:00,-2.4,Duty officer,yes,no further movement

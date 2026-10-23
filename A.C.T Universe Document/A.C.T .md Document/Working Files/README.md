@@ -30,3 +30,28 @@ anything filed here.
 | `Working-Note-Lantern-Beacon-Shutter.md` | Working note, superseded |
 | `Superseded-Draft-Coffer-Handling-Rule.md` | Superseded draft |
 | `Telephone-Log-Week-14.md` | Call log, transitory |
+| `Junior-Researcher-Note-Beacon-Colours.md` | Junior researcher's first pass, including what they got wrong |
+| `Researcher-Observation-Dead-Name-Cupboard.md` | Researcher's working observation, not a finding |
+| `Procurement-Query-Site-01-Quarter.md` | Quartermaster's query on three wrong deliveries |
+| `Rota-Change-Containment-Week-15.md` | Duty officer's rota change notice |
+| `Incident-Callout-Log-Entry-14.md` | One night's callout, logged minute by minute |
+| `Duty-Rota-Containment-Site-01.csv` | Duty rota, machine-readable |
+| `Coffer-Temperature-Log.csv` | Temperature readings, machine-readable |
+
+## Not everything here was written by an archivist
+
+A junior writes differently from a researcher and a researcher writes differently from an archivist.
+The junior hedges, records what they got wrong, and asks questions the answer to which is obvious to
+somebody else. The researcher observes without concluding and says so. The quartermaster is annoyed
+about lantern glass and is not writing for a reader at all.
+
+None of these voices belongs in a record. All of them belong in an archive, because an archive is
+where the paperwork of getting the work done ends up.
+
+## Two of these are not documents
+
+`Duty-Rota-Containment-Site-01.csv` and `Coffer-Temperature-Log.csv` are data, not writing. They
+exist because an office that keeps a rota keeps it in a rota and not in prose, and because a
+temperature log that somebody reads off a thermometer at three in the morning is a table of
+numbers. A repository holding only prose is missing the half of institutional life that is
+bookkeeping.
