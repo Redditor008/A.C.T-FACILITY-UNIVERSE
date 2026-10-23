@@ -7491,3 +7491,51 @@ characters against a 118 limit, and a title stack injected into a `.txt` file th
 Every defect the reader walk found is fixed, the story duplication is gone, and the next batch is a
 re-audit of the anti-bloat sweep.
 
+## Prompt End Update — 2026-10-24, A README For Every Folder GitHub Renders
+
+Owner report: some folders need a README for GitHub. GitHub renders a folder's README as its landing
+page, so a folder without one arrives as a bare file list.
+
+### Measured before the fix
+
+**24 folders** had no README. `ROOT_FOLDERS_WITHOUT_README` read **0** the entire time, because it
+only ever tested the top level. The gap was entirely nested folders: the doctrine set and its plain-text
+twin, both Site Dossier trees and both Floor Dossier trees, the legacy and modern anomaly sets and
+their logs, the ITHYOS branches, five story subfolders, the Junior Handbook, and three backstage
+folders.
+
+### What was written
+
+24 READMEs, each built from the folder's own contents rather than stamped from one shape. Openers
+rotate through eight forms, and the body names what the folder actually holds — 26 chapter files, 46
+floor records, 61 modern logs, and so on. Navigation READMEs are exempt from the in-world voice rule
+by standing ruling.
+
+### Two regressions from my own change, both caught by gates
+
+**The lockstep gate broke.** Adding `Chapters/README.md` made it count a thirteenth chapter, and
+`STORY_MANUSCRIPT_LOCKSTEP_FAILURES` went from 0 to 1 on a defect that did not exist. The chapter
+glob now excludes `README.md`. **A gate that globs a folder must exclude the navigation file it is
+about to gain.**
+
+**8 README lines ran past 118 characters.** `MD_WIDE_PROSE_LINES` caught them in the same batch and
+they are wrapped.
+
+### The gate that should have caught this
+
+`FOLDERS_WITHOUT_README` now walks every folder, skipping `.git`, `.arena`, `Logo`, `docs` and
+`node_modules`. It reads **0**, and `gate_audit.py` carries an injection test that deletes a nested
+README. The suite is **21 gates tested, 21 fired, 0 blind**.
+
+### Gates after the fix
+
+| GATE | RESULT |
+|---|---|
+| `FOLDERS_WITHOUT_README` | 0, was 24 |
+| `ROOT_FOLDERS_WITHOUT_README` | 0 |
+| `STORY_MANUSCRIPT_LOCKSTEP_FAILURES` | 0 |
+| `STORY_CHAPTERS_TOTAL` / `STORY_CHAPTERS_ACTION_OPEN` | 12 / 12 |
+| `MD_WIDE_PROSE_LINES` / `TXT_WIDE_PROSE_LINES` | 0 / 0 |
+| `DOCUMENT_COUNT` | 1026, was 1002 |
+| `PATCH_SAVER_ENTRIES` | 109 |
+

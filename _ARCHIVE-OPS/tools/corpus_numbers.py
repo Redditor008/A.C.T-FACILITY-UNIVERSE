@@ -176,6 +176,16 @@ def main() -> int:
         for line in read(p).split("\n")
         if re.match(r"^#{1,6} ", line) and "**" in line
     )
+    # Owner ruling 2026-10-24: GitHub renders a folder's README as its landing page,
+    # so every folder needs one. ROOT_FOLDERS_WITHOUT_README only ever tested the
+    # top level and read 0 while 24 nested folders had nothing.
+    _skip = {".git", ".arena", "Logo", "docs", "node_modules"}
+    r["FOLDERS_WITHOUT_README"] = 0
+    for d in ROOT.rglob("*"):
+        if not d.is_dir() or any(part in _skip for part in d.parts):
+            continue
+        if not any((d / n).exists() for n in ("README.md", "readme.md", "README.txt", "README")):
+            r["FOLDERS_WITHOUT_README"] += 1
     r["DOUBLED_RULE_LINES"] = 0
     for p in files:
         ls = read(p).split("\n")
@@ -287,7 +297,10 @@ def main() -> int:
     chap_files = sorted(
         f
         for f in (STORY / "Chapters").glob("*.md")
-        if f.is_file()
+        # A folder README is navigation, not a chapter. Adding Chapters/README.md
+        # for GitHub made the lockstep gate count it as a thirteenth chapter and
+        # report a failure that was not there.
+        if f.is_file() and f.name != "README.md"
     ) if (STORY / "Chapters").is_dir() else []
     r["STORY_PARTS_UNDER_1500"] = sum(
         1 for f in chap_files if len(read(f).split()) < 1500
