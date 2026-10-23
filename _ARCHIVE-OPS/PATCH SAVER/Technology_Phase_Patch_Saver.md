@@ -7372,3 +7372,36 @@ Nothing was changed. Reporting only.
 **Not delivered.** The doctrine pass was not read and no gate was added. The review consumed the
 turn.
 
+## Prompt End Update — 2026-10-23, Entry File Built; Missing-README Gate Added
+
+Owner rulings: build the entry file for `A.C.T Anomaly Creation Rule`; doctrine pass, biggest records
+first; add a missing-README gate.
+
+### The entry file, and a correction to my own report
+
+`A.C.T Anomaly Creation Rule/README.md` written at 335 words, 0 broken links. It orients a newcomer
+to the generation standard, and states the four canonical-term rulings up front — O5 meaning Overseer
+Five, amnestics, memetic, and the `[BLANK]` containment class against the `[ BLANK ]` redaction
+marker — with the instruction not to rewrite any of them.
+
+**My previous report said the folder holds 4 files. It held 2.** The two AI-facing generation guides
+were moved to `AI OPERATIONS RULES/` several commits ago and I described the folder from memory
+instead of listing it. The entry file points at the guides in their actual location.
+
+### Missing-README gate
+
+`ROOT_FOLDERS_WITHOUT_README` counts any non-backstage root folder that holds documents but has no
+`README.md`. It reads **0** now. It is a count rather than a refusal, because a backstage folder may
+legitimately have no entry point.
+
+| GATE | RESULT |
+|---|---|
+| `DOCUMENT_COUNT` | 1002 |
+| `RECORDS_NOT_ONE_H1` | 0 |
+| `BAD_EOF` | 0 |
+| `ROOT_FOLDERS_WITHOUT_README` | 0 |
+| New entry file words / broken links | 335 / 0 |
+| `PATCH_SAVER_ENTRIES` | 99 |
+
+**Not delivered.** The doctrine pass was not read. The entry file and the gate consumed the turn.
+

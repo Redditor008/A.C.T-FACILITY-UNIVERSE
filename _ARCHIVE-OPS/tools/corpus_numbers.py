@@ -217,6 +217,20 @@ def main() -> int:
             width = max(width, len(line))
     r["WIDEST_LINE_ANY_FILE"] = width
 
+    # A root folder holding documents with no README gives a newcomer a bare file
+    # listing and no orientation. Reported as a count, not a failure, because some
+    # folders are legitimately backstage.
+    r["ROOT_FOLDERS_WITHOUT_README"] = sum(
+        1
+        for d in sorted(ROOT.iterdir())
+        if d.is_dir()
+        and not d.name.startswith((".", "_"))
+        and not (d / "README.md").is_file()
+        and any(
+            f.is_file() and f.suffix in (".md", ".txt") for f in d.rglob("*")
+        )
+    )
+
     r["HISTORY_PARENT_IS_SESSION_BASE"] = history_reset()
 
     for key, value in r.items():
