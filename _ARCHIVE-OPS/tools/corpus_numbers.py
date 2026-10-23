@@ -258,6 +258,30 @@ def main() -> int:
     r["TECH_MD_FILES"] = len(tmd)
     r["TECH_TXT_FILES"] = len(ttx)
     r["TECH_RECORDS"] = len(tmd) - 2
+    # Owner ruling 2026-10-24: the house record shape is 14 named H2s in a fixed
+    # order and 1,800 to 2,600 words. Nine records sat below the floor and one was
+    # off-shape, and both were found by hand-listing rather than by a gate.
+    HOUSE_H2 = [
+        "FUNCTION SUMMARY", "ORIGIN AND CUSTODY", "PHYSICAL OR SYSTEM DESCRIPTION",
+        "TECHNICAL SPECIFICATION", "INTERFACE AND OPERATING ENVELOPE", "OPERATING PROCEDURE",
+        "SERVICING AND CALIBRATION", "FAULT ISOLATION", "KNOWN LIMITS", "FAILURE HISTORY",
+        "DIVISION USE", "CROSS-REFERENCES", "OPEN QUESTIONS", "FILE METADATA",
+    ]
+    r["TECH_RECORDS_UNDER_1800"] = 0
+    r["TECH_RECORDS_OFF_SHAPE"] = 0
+    for f in tmd:
+        # The record template is a scaffold, not a record: it is short by design and
+        # names every section without filling it in. Counting it made both gates
+        # report a defect that is not one.
+        if f.name == "README.md" or f.name.startswith("00_"):
+            continue
+        body = read(f)
+        if len(body.split()) < 1800:
+            r["TECH_RECORDS_UNDER_1800"] += 1
+        heads = [h.strip() for h in re.findall(r"^## (.+)$", body, re.M)]
+        if any(h not in heads for h in HOUSE_H2):
+            r["TECH_RECORDS_OFF_SHAPE"] += 1
+
     r["TECH_UNPAIRED_TWINS"] = len({p.stem for p in tmd} ^ {p.stem for p in ttx})
 
     goi_md = [p for p in GOI.rglob("*") if p.is_file() and p.suffix == ".md"]

@@ -59,6 +59,7 @@ TEXT_TESTS = [
     ("TXT_NARROW_BAR_LINES", TX, "append", "\n+" + "-" * 48 + "+\n" + "x" * 100 + "\n"),
     ("DOUBLED_RULE_LINES", TX, "append", "\n+" + "=" * 48 + "+\n+" + "=" * 48 + "+\n"),
     ("THIN_READMES", "A.C.T Universe Document/ACT MAIN STORY/Outlines/README.md", "thin", None),
+    ("TECH_RECORDS_UNDER_1800", "A.C.T Universe Document/A.C.T Technology Document/TECH_MD/TECH-ACT-001-Reality-Stabilization-Anchor-System.md", "truncate", None),
     ("MD_BOLD_IN_HEADING_LINES", MD, "append", "\n\n## **Bold Heading**\n"),
     ("TITLE_STACK_DOCUMENTS", MD, "stack", None),
     ("STORY_OPENING_REPEATS", "A.C.T Universe Document/ACT MAIN STORY/Chapters/Chapter-01-Correction-Order.md", "repeat", None),
@@ -85,7 +86,10 @@ def main() -> int:
             tgt = repo / rel
             orig = tgt.read_text(encoding="utf-8")
             try:
-                if kind == "thin":
+                if kind == "truncate":
+                    body = orig.split("\n")
+                    tgt.write_text("\n".join(body[:40]), encoding="utf-8")
+                elif kind == "thin":
                     tgt.write_text("# Outlines\n\nToo thin.\n", encoding="utf-8")
                 elif kind == "repeat":
                     body = orig.split("\n\n")
