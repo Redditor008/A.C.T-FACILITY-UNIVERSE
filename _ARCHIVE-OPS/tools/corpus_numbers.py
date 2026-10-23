@@ -113,6 +113,16 @@ def main() -> int:
     # widest collapsed to its 0 default and the comparison could never fire. The
     # injection audit caught it: the gate read 0 against a file holding a
     # 9-character bar over 100 characters of text.
+    # Owner ruling 2026-10-23: two box separators in a row is a defect. 25 of them
+    # sat unnoticed in 4 GOI records until they were counted by hand, which is the
+    # whole argument for a gate: a defect nobody counts stays a defect.
+    r["DOUBLED_RULE_LINES"] = 0
+    for p in files:
+        ls = read(p).split("\n")
+        for a, b in zip(ls, ls[1:]):
+            if (a.strip() and set(a.strip()) <= set("+= ") and "=" in a
+                    and b.strip() and set(b.strip()) <= set("+= ") and "=" in b):
+                r["DOUBLED_RULE_LINES"] += 1
     r["TXT_NARROW_BAR_LINES"] = 0
     rule_chars = set("═+- ")
     for p in tx:

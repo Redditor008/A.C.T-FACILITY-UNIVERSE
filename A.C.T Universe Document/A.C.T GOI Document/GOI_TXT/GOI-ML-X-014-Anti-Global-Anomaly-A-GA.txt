@@ -180,7 +180,6 @@ A-GA personnel may carry deliberately misleading references to draw A.C.T resour
 Recovered material must be treated as both intelligence and a potential routing deception.
 
 ==============================================================================
-==============================================================================
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
 +--------------------------------------------------------------------------------------------------------------------+
@@ -262,7 +261,6 @@ inactive. The period in which a
 cell studies, transports, adapts, or hides a target may be the most dangerous phase
 of its operation.
 
-==============================================================================
 ==============================================================================
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
@@ -351,7 +349,6 @@ actions a structural risk. It can destroy the wrong thing with complete convicti
 leave A.C.T to contain what
 follows.
 
-==============================================================================
 ==============================================================================
 
 HISTORY WITH A.C.T
@@ -477,7 +474,6 @@ O5-level exception. The group's methods are built on unverified destruction logi
 and copying that logic risks importing its failures into Facility doctrine.
 
 ==============================================================================
-==============================================================================
 
 OPERATIONAL RECORDS
 +--------------------------------------------------------------------------------------------------------------------+
@@ -564,7 +560,6 @@ conflict, or secure a temporary intelligence advantage. A-GA's doctrine is built
 distinctions that make responsible containment possible. The Facility must not validate that doctrine by treating a
 protected anomalous condition as expendable political currency.
 
-==============================================================================
 ==============================================================================
 
 CROSS-REFERENCE STATUS

@@ -57,6 +57,7 @@ TEXT_TESTS = [
     # A narrow rule must sit alone to count: flanked by pipe rows it belongs to a
     # box and has to match those cells instead.
     ("TXT_NARROW_BAR_LINES", TX, "append", "\n+" + "-" * 48 + "+\n" + "x" * 100 + "\n"),
+    ("DOUBLED_RULE_LINES", TX, "append", "\n+" + "=" * 48 + "+\n+" + "=" * 48 + "+\n"),
     ("TXT_WIDE_PROSE_LINES", TX, "append", "\n" + WIDE + "\n"),
     ("MD_WIDE_PROSE_LINES", MD, "append", "\n" + WIDE + "\n"),
 ]
