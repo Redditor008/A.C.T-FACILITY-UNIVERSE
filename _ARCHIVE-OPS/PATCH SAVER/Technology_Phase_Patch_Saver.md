@@ -6366,3 +6366,58 @@ on the cold-cradle context instead.
 **The lesson for a future assessment-shaped record.** Where the object is sealed, unknown or
 single, the record should say so once and let the empty chapters stay visibly empty. Padding them
 to house depth manufactures repetition, and repetition is the thing the stamp gate exists to catch.
+
+## Prompt End Update — 2026-10-23, Voice Rules Written; Transitory Material Created; Rebuild Held
+
+**Three new binding rules in `AI OPERATIONS RULES/`.**
+
+`Archivist_Voice.md` — the vocabulary and stance gate, built on measured markers. Occurrences per
+document, owner doctrine against the 229 pre-existing technology records against the 13 generated:
+`not recorded` 0.00 / 0.26 / **8.31**, `this record` 0.08 / 1.44 / **3.31**, `the archive` 1.10 /
+0.71 / **0.00**, `must be` 1.20 / 0.49 / **0.23**, `mandate` 0.30 / 0.08 / **0.00**. The generated
+records are the outlier on every marker. 181 of 242 technology records contain no `not recorded` at
+all and all twelve carrying five or more were generated. AI-tell vocabulary was measured at the
+same time and is not the problem: 3 tells across 29,000 generated words against 42 across the
+owner's 40 doctrine documents.
+
+`Document_Type_Range.md` — the nine institutional classes, the document-versus-record distinction,
+the records lifecycle, the four-type test (official, transitory, non-record, personal), and six
+registers the corpus must be able to carry: governing, fiscal, personnel, legal, records,
+communications. Closes by refusing itself as a target.
+
+`Proof_Before_Finding.md` gained the commit-message rule, from a failure: a message stated 1,177
+words and a drop from eleven to four while the verification block in the same command reported
+1,153 and one.
+
+**The one-H1-per-document rule is RETIRED by owner ruling.** The original doctrine carries 2, 3, 6
+and 14 H1 headings used as part headings, so multiple H1s are correct. `multiH1: 2` is now expected
+and is not a defect.
+
+**Class audit across 957 in-world files.** All nine classes present but 10:1 skewed, Policy 692 to
+Information management 74. The counts are keyword hits rather than class membership and are soft.
+The hard finding: **zero transitory records, zero disposal authorities.** Every file was an official
+record, which the new range rule says is not credible.
+
+**Transitory material created from nothing.** `Working Files/` subfolders, placed beside the work
+they belong to the way the Anomaly Document keeps `Log/` inside itself:
+
+    A.C.T Technology Document/Working Files/   17 files, 4 of them CSV
+    A.C.T .md Document/Working Files/           3 files (Facility-wide only)
+
+Six offices write there and none is writing a record: a junior researcher recording what they got
+wrong, a researcher observing without concluding, a quartermaster annoyed about lantern glass, a
+duty officer, Medical Care writing about the people rather than the object, Legal giving privileged
+advice in progress and saying it is not a ruling, Engineering giving three possibilities without
+choosing, and Site Command writing to everybody about two small things that keep happening.
+
+Five files are not documents: a duty rota, a coffer temperature log, a seized asset inventory
+covering all thirteen recovered objects, a file plan with retention and disposal authority per
+class, and a blank restoration request form that states a completed form is a record and an
+uncompleted one is not.
+
+**Two records rebuilt, eleven held.** `TECH-GOI-074-1` rebuilt in the owner's structure, 2,343 to
+815 words. `TECH-GOI-073-1` rebuilt in structure and voice, 2,388 to 1,153 words, `not recorded`
+from eleven to one, `this record` to zero, `the archive` from zero to three. **The remaining eleven
+rebuilds are outstanding by owner ruling, deferred to a later prompt.**
+
+**DOCUMENT_COUNT 999.** Gates: multiH1 2 (expected), bad-EOF 0, odd-fence 0.
