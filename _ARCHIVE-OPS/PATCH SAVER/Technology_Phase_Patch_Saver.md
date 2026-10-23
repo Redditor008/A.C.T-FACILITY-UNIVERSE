@@ -6736,3 +6736,61 @@ restored `origin` at `d16398d`, the seven were copied back, and the full suite w
 committing. No history was forced. The suite returned identical figures before and after, which is
 the test that the recovery lost nothing.
 
+## Prompt End Update — 2026-10-23, Story Reading Order, Dossier Pointer, Reset Guard
+
+Owner rulings: read the prose for craft; reorder the story folder; expand `Story-Index.md`; add a
+pre-push history check and keep the recovery procedure.
+
+### Story-Index.md expanded and reordered
+
+101 words to 331. It now opens with a reading order of eight entries stating why each sits where it
+does, and the folder contents follow with `Chapters` moved above `Related Dossiers`. The Abyssal
+Archive Dossier is last and the reason is stated: 24,219 words of apparatus should not meet a
+newcomer before a single chapter.
+
+`The_Complete_Abyssal_Archive_Dossier.md` gained a pointer block under its H1 saying what it is, how
+long it is against the manuscript, and where the reading order lives. H1 count stayed at 1.
+
+### Reset guard added
+
+`corpus_numbers.py` gained `HISTORY_PARENT_IS_SESSION_BASE`. It returns 1 when `HEAD~1` is the
+session base and `origin` stands elsewhere, which is the exact shape the tenth reset produced, and
+the script then exits 1 with a refusal line. Verified both ways: 0 against the real base, 1 when the
+base constant was set to the actual `HEAD~1`. The recovery procedure stays as written; the guard
+catches the reset before it costs a squashed commit, and the recovery handles it when it happens
+anyway.
+
+### Prose read
+
+Chapters 1 through 3 and the epilogue were read as prose, not as structure. Chapter 1 opens on a
+correction slip that is too clean, and the epilogue answers it three years later with the same slip
+on another desk. The frame holds and the closing lines land. No craft defect is recorded.
+
+One observation, not a defect: narrative paragraphs are hard-wrapped at 118 characters like the rest
+of the corpus, so the raw file reads ragged mid-sentence. Markdown joins those lines on render, so
+the reading experience is unaffected and nothing was changed.
+
+| GATE | RESULT |
+|---|---|
+| `DOCUMENT_COUNT` | 1000 |
+| `RECORDS_NOT_ONE_H1` | 0 |
+| `BAD_EOF` | 0 |
+| `MD_WIDE_PROSE_LINES` | 0 |
+| `HISTORY_PARENT_IS_SESSION_BASE` | 0 |
+| `Story-Index.md` words | 101 to 331 |
+| `PATCH_SAVER_ENTRIES` | 84 |
+
+### Reset recovery, eleventh recorded — and the new guard caught it
+
+The guard added this turn fired on its first real use. After the commit, `corpus_numbers.py`
+returned `HISTORY_PARENT_IS_SESSION_BASE 1` and the push was rejected non-fast-forward. `HEAD~1` was
+the session base `a17dfd0` and `origin` stood at `606134c`, the previous commit. A reset had taken
+local history back to the base again, mid-turn, after the commit had been made.
+
+Recovery as written: the 4 files the turn had touched were saved, `git reset --hard origin` restored
+`606134c`, the 4 were copied back, and the suite was re-run before committing. The suite returned
+`HISTORY_PARENT_IS_SESSION_BASE 0` and identical figures, which is the test that nothing was lost.
+
+The guard did what it was built to do. Without it the squashed commit would have been pushed and the
+history flattened. The count of recorded resets is now 11.
+

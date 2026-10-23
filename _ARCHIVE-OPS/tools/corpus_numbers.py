@@ -9,7 +9,13 @@ from __future__ import annotations
 import collections
 import pathlib
 import re
+import subprocess
 import sys
+
+# A silent workspace reset takes local history back to this commit and wipes
+# scratch folders. HISTORY_PARENT_IS_SESSION_BASE 1 means the working tree has
+# been reset since the last push and must be recovered before any commit.
+SESSION_BASE = "a17dfd048c8666ce55c1dc2363bc40a0cfa0bf80"
 
 ROOT = pathlib.Path(__file__).resolve().parents[2]
 DOC = ROOT / "A.C.T Universe Document"
@@ -161,9 +167,38 @@ def main() -> int:
             width = max(width, len(line))
     r["WIDEST_LINE_ANY_FILE"] = width
 
+    r["HISTORY_PARENT_IS_SESSION_BASE"] = history_reset()
+
     for key, value in r.items():
         print(f"{key} {value}")
+    bad = r["HISTORY_PARENT_IS_SESSION_BASE"]
+    if bad:
+        print("REFUSED: local HEAD sits on the session base. Recover before committing.")
+        return 1
     return 0
+
+
+def _git(*args: str) -> str:
+    try:
+        return subprocess.run(
+            ["git", *args],
+            cwd=ROOT,
+            capture_output=True,
+            text=True,
+            check=False,
+        ).stdout.strip()
+    except OSError:
+        return ""
+
+
+def history_reset() -> int:
+    """1 when a reset has taken local history back to the session base."""
+    parent = _git("rev-parse", "HEAD~1")
+    if parent != SESSION_BASE:
+        return 0
+    branch = _git("rev-parse", "--abbrev-ref", "HEAD")
+    remote = _git("rev-parse", f"origin/{branch}") if branch else ""
+    return 1 if remote and remote != SESSION_BASE else 0
 
 
 if __name__ == "__main__":

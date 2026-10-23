@@ -1,4 +1,10 @@
 # THE ABYSSAL ARCHIVE DOSSIER
+
+> **What this file is.** A companion dossier to *The Facility That Forgot Its First Lie*, not
+> part of the manuscript. At 24,219 words it is longer than the 24,062-word story it sits
+> beside, so a reader arriving here first should start with the manuscript instead. See
+> `Story-Index.md` for the intended reading order.
+
 ### A.C.T. ORIGIN RECONSTRUCTION — THE FIRST LIE
 #### Complete Narrative Dossier | Compiled from Primary Archive Sources
 | FIELD | VALUE |
