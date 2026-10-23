@@ -79,13 +79,24 @@ def main() -> int:
         if len(line) > 118
         and not line.lstrip().startswith(("|", "+", "-", "*", "#", "=", "`", ">"))
     )
-    r["MD_WIDE_PROSE_LINES"] = sum(
-        1
-        for p in md
-        for line in read(p).split("\n")
-        if len(line) > 118
-        and not line.lstrip().startswith(("|", "+", "-", "*", "#", "=", "`", ">"))
-    )
+    # A wide line carrying a link target is atomic and cannot be wrapped without
+    # breaking the link, so it is counted apart from wide prose. Owner ruling:
+    # links are written as [Short Name](GitHub blob URL) and the URL length is
+    # accepted. Prose over the limit is still a defect.
+    wide_link = 0
+    wide_prose = 0
+    for p in md:
+        for line in read(p).split("\n"):
+            if len(line) <= 118 or line.lstrip().startswith(
+                ("|", "+", "-", "*", "#", "=", "`", ">")
+            ):
+                continue
+            if "](" in line:
+                wide_link += 1
+            else:
+                wide_prose += 1
+    r["MD_WIDE_LINK_LINES"] = wide_link
+    r["MD_WIDE_PROSE_LINES"] = wide_prose
 
     tmd = sorted(p for p in TECH_MD.iterdir() if p.is_file() and p.suffix == ".md")
     ttx = sorted(p for p in TECH_TXT.iterdir() if p.is_file() and p.suffix == ".txt")

@@ -100,7 +100,7 @@ A.C.T-FACILITY-UNIVERSE/
 ├── A.C.T Universe Document/        the universe itself
 │   ├── ACT MAIN STORY/             the narrative layer
 │   │   ├── Story-Index.md          read this first
-│   │   ├── Chapters/               13 chapters (md + txt)
+│   │   ├── Chapters/               12 chapters + epilogue (md + txt)
 │   │   ├── Characters/ Narrative/ Outlines/ Archives/
 │   │   └── …Full-Manuscript.md     the complete story in one file
 │   ├── A.C.T Anomaly Document/     the anomalies themselves
@@ -147,7 +147,7 @@ A.C.T-FACILITY-UNIVERSE/
 | ITHYOS | `…/ITHYOS Document/` | ENTITY-000 first-vault records, modern file standard, log |
 | GOI | `…/A.C.T GOI Document/GOI_MD` ↔ `GOI_TXT` | 30 Group of Interest dossiers, plus recovered-document records |
 | Technology | `…/A.C.T Technology Document/TECH_MD` ↔ `TECH_TXT` | 242 per-system records: `TECH-ACT` (A.C.T developed) and `TECH-GOI` (recovered from or assessed against a GOI) |
-| Main story | `…/ACT MAIN STORY/` | Manuscript, 13 chapters, character profiles, outline, archives, continuity policy |
+| Main story | `…/ACT MAIN STORY/` | Manuscript, 12 chapters and an epilogue, character profiles, outline, archives, continuity policy |
 | Handbook | `…/Junior Handbook/` | Orientation written for junior staff (Level 1–2) |
 | BOOK | `…/'A History of Anomaly Containment Transformation' BOOK.md` | In-universe history, Markdown only |
 | Creation rules | `A.C.T Anomaly Creation Rule/` | Generation standards, writer guides, the 2026 canonical-term update |

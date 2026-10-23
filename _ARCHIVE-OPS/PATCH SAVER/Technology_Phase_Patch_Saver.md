@@ -6682,3 +6682,57 @@ false.
 | `GOI_DOSSIERS` / `GOI_MD_FILES` | 30 / 36 |
 | README relative links | 360 checked, 0 broken |
 | `PATCH_SAVER_ENTRIES` | 82 |
+
+## Prompt End Update — 2026-10-23, Link Convention Applied; Story Reader Pass
+
+Owner rulings: strip the link markup from `TECH_TXT/README.txt`; write links as
+`[Short Name](GitHub blob URL)`; keep `docs/index.html` empty; read the story next.
+
+### Link convention applied
+
+289 links in `TECH_MD/README.md` and 63 in `GOI_MD/README.md` were rewritten to
+`[Short Name](GitHub blob URL)`, where the short name is the designation. 43 of them had been
+broken across two lines by wrapping, which corrupted the link text. All 360 relative links across
+every README still resolve.
+
+`TECH_TXT/README.txt` had its link markup stripped entirely: `TXT_LINK_FILES` 1 to 0 and
+`TXT_WIDE_PROSE_LINES` 10 to 0.
+
+`corpus_numbers.py` now splits `MD_WIDE_LINK_LINES` 292 from `MD_WIDE_PROSE_LINES` 0. A wide line
+carrying a link target is atomic and cannot be wrapped without breaking the link, so the URL length
+is accepted by ruling. Wide prose is still a defect, and it now measures 0.
+
+### Story reader pass
+
+All 21 story `.md` files are structurally clean: one H1 each, no wide prose, no EOF defect.
+
+One claim was wrong and is corrected. The root README said `Chapters/` holds 13 chapters, twice, and
+`Story-Index.md` repeated it. The folder holds 26 files: 12 numbered chapters and one epilogue, each
+in Markdown and plain text. All three claims now read 12 chapters and an epilogue.
+
+**Noted, not changed.** `The_Complete_Abyssal_Archive_Dossier.md` is 24,219 words, larger than the
+manuscript it sits beside at 24,062, and a tourist who opens the story folder finds it before the
+chapters. `Story-Index.md` is 101 words, thin as an index for a 24,000-word manuscript.
+
+| GATE | RESULT |
+|---|---|
+| `DOCUMENT_COUNT` | 1000 |
+| `RECORDS_NOT_ONE_H1` | 0 |
+| `BAD_EOF` | 0 |
+| `TXT_LINK_FILES` / `TXT_WIDE_PROSE_LINES` | 0 / 0 |
+| `MD_WIDE_PROSE_LINES` | 0 |
+| `MD_WIDE_LINK_LINES` | 292, accepted by ruling |
+| README relative links | 360 checked, 0 broken |
+| `PATCH_SAVER_ENTRIES` | 83 |
+
+### Reset recovery, tenth recorded
+
+`git push` was rejected non-fast-forward. Investigation showed HEAD's parent was the session base
+`a17dfd0` while `origin` stood at `d16398d`, the previous turn's commit. A silent reset had taken
+local history back to the base and the turn's commit had squashed the whole tree onto it.
+
+Recovery: the seven files the turn had touched were saved to `/tmp/save`, `git reset --hard`
+restored `origin` at `d16398d`, the seven were copied back, and the full suite was re-run before
+committing. No history was forced. The suite returned identical figures before and after, which is
+the test that the recovery lost nothing.
+

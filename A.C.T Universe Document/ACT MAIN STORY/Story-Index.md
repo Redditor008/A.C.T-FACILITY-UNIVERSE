@@ -37,7 +37,7 @@ Generated from the contents of this folder, so it cannot drift from what is actu
 
 ### Chapters
 
-13 chapters, each in Markdown and plain text.
+12 numbered chapters and one epilogue, each in Markdown and plain text.
 
 - Chapter-1-Correction-Order.md
 - Chapter-2-Wounds-in-the-Archive.md
