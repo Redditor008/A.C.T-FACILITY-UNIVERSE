@@ -7266,3 +7266,39 @@ gate first.**
 **Not delivered.** The ten GOI dossiers were not read. The rewrite and the detector repair consumed
 the turn.
 
+## Prompt End Update — 2026-10-23, First Ten GOI Dossiers Read
+
+Owner rulings: the openings stand; read the ten GOI dossiers.
+
+### The first ten dossiers, read
+
+GOI-BS-N-068 Velvet Provenance House, GOI-BS-P-067 Candle-Under Exchange, GOI-BS-T-027 Anstrall
+Market, GOI-BS-W-070 Saint Morrow Passage, GOI-BS-X-069 Namewright Bazaar, GOI-CP-B-049 DREAM .INC,
+GOI-CP-P-054 Lullaby Works, GOI-CP-P-056 Saint-Vera Restoration Concern, GOI-CP-W-055 Cairn & Lintel,
+GOI-CU-N-063 Keepers of the Ninth Reliquary. Word range 3,283 to 5,346.
+
+**No craft defect found.** All ten carry the same ten H2 sections in the same order, which is correct
+for this document type: a dossier is an archive record, not a chapter, and uniformity of structure is
+what makes thirty of them navigable. The anti-stamp principle in the story rules governs narrative
+prose and does not transfer to a registry format.
+
+Voice drift was tested directly by sampling the opening prose of three sections across all ten and
+counting sentences shared between dossiers. Three distinct openings were sampled and one string
+recurred eight times — but that string is the heading `### Contact History`, not prose. No prose
+sentence is shared between two dossiers.
+
+Cross-references were resolved: 0 unresolved `TECH-GOI` or `TECH-ACT` designations across the ten.
+
+**The remaining twenty dossiers were not read.**
+
+| GATE | RESULT |
+|---|---|
+| `DOCUMENT_COUNT` | 1001 |
+| `RECORDS_NOT_ONE_H1` | 0 |
+| `BAD_EOF` | 0 |
+| `GOI_DOSSIERS` | 30 |
+| Dossiers read this turn | 10 |
+| Unresolved cross-references | 0 |
+| Shared prose sentences between dossiers | 0 |
+| `PATCH_SAVER_ENTRIES` | 96 |
+
