@@ -284,10 +284,13 @@ def main() -> int:
         # DEVELOPMENT, and an exact-name test reported all of them as missing a
         # section they plainly have. The first reading of this gate gave 131
         # off-shape records when the real count is far lower.
+        # Key on the FIRST WORD only. The previous fix keyed on the phrase before
+        # " AND ", which handled ORIGIN AND DEPLOYMENT but still missed FUNCTION
+        # OUTLINE against FUNCTION SUMMARY, leaving 33 records falsely flagged.
+        # A section is present when a heading opens with the same first word.
         def present(want):
-            key = want.split(" AND ")[0].split(" OR ")[0]
-            return any(h == want or h.startswith(key + " ") or h.startswith(key + " AND ")
-                       for h in heads)
+            key = want.split()[0]
+            return any(h.split()[0] == key for h in heads if h.split())
         if any(not present(h) for h in HOUSE_H2):
             r["TECH_RECORDS_OFF_SHAPE"] += 1
 

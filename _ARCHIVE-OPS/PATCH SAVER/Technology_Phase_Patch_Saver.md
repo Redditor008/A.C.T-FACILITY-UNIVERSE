@@ -7809,3 +7809,64 @@ The 4 Lantern Accord records to expand to 1,800-2,600 words with `.txt` twins in
 `TECH-GOI-074-1` to restructure, the 42 genuinely off-shape records to list by heading, and the 13
 chapter files to judge by hand.
 
+## Prompt End Update — 2026-10-24, The Off-Shape Figure Corrected A Second Time: 42 Was Really 21
+
+Owner ruling: list the 42 off-shape records by heading, and audit the other new gates for the same
+exact-match flaw.
+
+### The same flaw, found again
+
+Listing the 42 by heading put `FUNCTION SUMMARY` at the top with **33** records. Opening four of them
+showed the identical mistake as before: they carry `FUNCTION OUTLINE`.
+
+| RECORD | THE HEADING IT ACTUALLY CARRIES |
+|---|---|
+| `TECH-ACT-121` | `FUNCTION OUTLINE` |
+| `TECH-ACT-122` | `FUNCTION OUTLINE` |
+| `TECH-ACT-123` | `FUNCTION OUTLINE` |
+| `TECH-ACT-124` | `FUNCTION OUTLINE` |
+
+The first correction keyed on the phrase before ` AND `, which handled `ORIGIN AND DEPLOYMENT` but
+did nothing for a two-word synonym. Keying on the **first word** instead brings the figure to **21**.
+
+### The figure has now moved three times
+
+| READING | FIGURE | WHY IT WAS WRONG |
+|---|---|---|
+| first | 131 | exact heading name match |
+| second | 42 | keyed on the phrase before `AND`, so synonyms still missed |
+| third | **21** | keyed on the first word |
+
+Both earlier figures are withdrawn. `TECH_RECORDS_UNDER_1800` has read **9** at every reading and
+matches the hand listing, so the word gate was never affected.
+
+### The lesson, sharpened
+
+The previous entry said *when a gate reports that more than half a corpus violates a rule, suspect
+the gate*. That was the right instinct and the wrong threshold — the second reading was 42 of 242,
+about a sixth, and it was still wrong. **A gate that matches a heading name should be tested against
+a record known to be correct, not just against a record known to be broken.** The injection audit
+proves a gate fires; it cannot prove a gate measures the right thing.
+
+### The 21 are not yet verified
+
+This entry does not claim the 21 are real. The same gate was wrong twice, so the listing is the next
+step rather than a repair plan built on the number.
+
+### Gates after the correction
+
+| GATE | RESULT |
+|---|---|
+| `TECH_RECORDS_UNDER_1800` | 9 |
+| `TECH_RECORDS_OFF_SHAPE` | 21, was 42, was 131 |
+| `TECH_RECORDS` | 242 |
+| `TECH_MD_FILES` / `TECH_TXT_FILES` | 244 / 244 |
+| `DOCUMENT_COUNT` | 1026 |
+| injection audit | 23 of 23 fire |
+| `PATCH_SAVER_ENTRIES` | 115 |
+
+### Open
+
+Verify the 21 by listing them and opening samples. Then the 4 Lantern Accord records to expand with
+`.txt` twins in lockstep, `TECH-GOI-074-1` to restructure, and the 13 chapter files to judge by hand.
+
