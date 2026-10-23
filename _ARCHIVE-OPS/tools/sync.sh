@@ -18,6 +18,22 @@ set -e
 cd "$(dirname "$0")/../.."
 
 BRANCH=$(git rev-parse --abbrev-ref HEAD)
+
+# Owner ruling 2026-10-23: hard-refuse when HEAD sits on the session base.
+# That is the exact state a re-clone leaves behind, and it was found mid-batch
+# with 878 dirty entries showing every renamed top-level path as deleted. The
+# pushed work was safe on origin the whole time, but any commit made in that
+# state would have had the session base as its parent and squashed the tree on
+# push. HISTORY_PARENT_IS_SESSION_BASE reports the condition after the fact;
+# this stops before any edit is made.
+SESSION_BASE="a17dfd048c8666ce55c1dc2363bc40a0cfa0bf80"
+if [ "$(git rev-parse HEAD)" = "$SESSION_BASE" ]; then
+    echo "REFUSED: HEAD is the session base $SESSION_BASE."
+    echo "The workspace was re-cloned and local history is absent, not rewound."
+    echo "Recover first, then re-run this script:"
+    echo "  git fetch origin && git reset --hard origin/$BRANCH"
+    exit 1
+fi
 BEFORE=$(git rev-parse HEAD)
 
 git fetch -q origin
