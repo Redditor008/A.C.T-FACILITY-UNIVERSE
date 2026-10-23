@@ -1,10 +1,10 @@
 # A History of Anomaly Containment Transformation
 
-### Title Statement
+## Title Statement
 This volume serves as the integrated master-reference book for the
-A.C.T universe currently compiled from the provided archive materials.
+A.C.T universe, drawn from the archive's own holdings.
 
-### Compiler’s Preface
+## Compiler’s Preface
 This document exists for a practical reason as much as a literary one. The
 A.C.T universe is distributed across many
 separate files, each carrying part of the whole: overview doctrine, internal structure, classification systems, site
@@ -38,7 +38,7 @@ placing it inside a continuous volume.
 
 This book is therefore both a compilation and a reconstruction.
 
-### Reader’s Orientation
+## Reader’s Orientation
 A future reader approaching this dossier should understand four things immediately.
 
 First, this is not a public-facing in-universe pamphlet. It is closer to an internal

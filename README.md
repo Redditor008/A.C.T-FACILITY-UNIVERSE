@@ -25,7 +25,7 @@ You do not need to read anything in order, and nothing here assumes prior knowle
 | A story, read straight through | [`The Facility That Forgot Its First Lie` — Full Manuscript](A.C.T%20Universe%20Document/ACT%20MAIN%20STORY/01-The-Facility-That-Forgot-Its-First-Lie-Full-Manuscript.md) |
 | The same story one chapter at a time | [Chapter 1 — Correction Order](A.C.T%20Universe%20Document/ACT%20MAIN%20STORY/Chapters/Chapter-01-Correction-Order.md) |
 | A guided orientation, gently written | [ACT Orientation Handbook](A.C.T%20Universe%20Document/Junior%20Handbook/ACT_Orientation_Handbook.md) |
-| The history of the institution | [A History of Anomaly Containment Transformation](A.C.T%20Universe%20Document/%27A%20History%20of%20Anomaly%20Containment%20Transformation%27%20BOOK.md) |
+| The history of the institution | [A History of Anomaly Containment Transformation](A.C.T%20Universe%20Document/A%20History%20of%20Anomaly%20Containment%20Transformation%20BOOK.md) |
 | The foundational anomaly file | [ITHYOS — ENTITY-000](A.C.T%20Universe%20Document/A.C.T%20Anomaly%20Document/ITHYOS%20Document/ITHYOS%20.md) |
 | To browse anomaly records at random | [Anomaly Document](A.C.T%20Universe%20Document/A.C.T%20Anomaly%20Document/) |
 | To see what the Facility builds | [Technology Document](A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/) |
@@ -147,7 +147,7 @@ A.C.T-FACILITY-UNIVERSE/
 | Technology | `…/A.C.T Technology Document/TECH_MD` ↔ `TECH_TXT` | 242 per-system records: `TECH-ACT` (A.C.T developed) and `TECH-GOI` (recovered from or assessed against a GOI) |
 | Main story | `…/ACT MAIN STORY/` | Manuscript, 12 chapters and an epilogue, character profiles, outline, archives, continuity policy |
 | Handbook | `…/Junior Handbook/` | Orientation written for junior staff (Level 1–2) |
-| BOOK | `…/'A History of Anomaly Containment Transformation' BOOK.md` | In-universe history, Markdown only |
+| BOOK | `…/A History of Anomaly Containment Transformation BOOK.md` | In-universe history, Markdown only |
 | Creation rules | `A.C.T Anomaly Creation Rule/` | Generation standards, writer guides, the 2026 canonical-term update |
 | Reviews | `_ARCHIVE-OPS/RESEARCH FOLDER/` | Dated consistency and style reviews, audits, provenance notes |
 | Agent rules | `AI OPERATIONS RULES/` | Binding verification and reporting gates for AI editors; not canon |

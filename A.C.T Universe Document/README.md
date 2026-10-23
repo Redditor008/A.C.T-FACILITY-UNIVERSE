@@ -12,7 +12,7 @@ Pick the door that suits you. None of them require you to have read anything fir
 | A story, read straight through | `ACT MAIN STORY/01-The-Facility-That-Forgot-Its-First-Lie-Full-Manuscript.md` |
 | The same story one chapter at a time | `ACT MAIN STORY/Chapters/Chapter-01-Correction-Order.md` |
 | A guided orientation, gently written | `Junior Handbook/ACT_Orientation_Handbook.md` |
-| The history of the institution | `'A History of Anomaly Containment Transformation' BOOK.md` |
+| The history of the institution | `A History of Anomaly Containment Transformation BOOK.md` |
 | To browse the anomalies directly | `A.C.T Anomaly Document/` |
 | To see what the Facility builds | `A.C.T Technology Document/` |
 
