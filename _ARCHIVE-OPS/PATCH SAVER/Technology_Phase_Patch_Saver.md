@@ -6621,3 +6621,35 @@ Quote a figure only in the turn it was measured. Where one must be carried forwa
 | `TECH_MD` / `TECH_TXT` | 244 / 244, 242 records, 0 unpaired |
 | `MD_WIDE_PROSE_LINES` | 80, all markdown link continuations |
 | `PATCH_SAVER_ENTRIES` | 80 |
+
+## Prompt End Update — 2026-10-23, Set 070 Expanded To House Length
+
+Owner ruling: expand. The four set 070 records sat at 1,019 to 1,131 words against a house band of
+1,800 to 2,600. All four were expanded in place.
+
+| RECORD | BEFORE | AFTER |
+|---|---|---|
+| `TECH-GOI-070-1` White Ticket | 1,098 | 1,806 |
+| `TECH-GOI-070-2` Route Bell | 1,019 | 1,861 |
+| `TECH-GOI-070-3` Cold-Map Fragment | 1,078 | 1,833 |
+| `TECH-GOI-070-4` Partial Crossing Ledger | 1,131 | 1,801 |
+
+The expansion added the sections the house shape carries that these records lacked: a storage
+condition, a fault isolation table, a servicing and known-limits statement, and a closing section
+placing each object inside the set. Nothing was invented. Every new sentence draws on a fact the
+dossier already supplies, and where the dossier is silent the record says so and stops.
+
+The generator was patched to strip backticks from cross-reference lines. The earlier pass had
+stripped them from the shipped twins but not from the generator, so regenerating brought them back.
+
+### Full-suite state
+
+| GATE | RESULT |
+|---|---|
+| `DOCUMENT_COUNT` | 1000 |
+| `RECORDS_NOT_ONE_H1` | 0 |
+| `BAD_EOF` | 0 |
+| `ODD_FENCE` | 0 |
+| `TXT_BACKTICK_FILES` | 0 |
+| Set 070 defects after expansion | 0 |
+| `PATCH_SAVER_ENTRIES` | 81 |

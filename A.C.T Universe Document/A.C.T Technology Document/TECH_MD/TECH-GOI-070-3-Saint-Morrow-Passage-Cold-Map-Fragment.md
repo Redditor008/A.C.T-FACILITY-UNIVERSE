@@ -99,6 +99,85 @@ Recorded for reference. It is not a Facility procedure and no personnel may foll
 
 ---
 
+
+## 1.4 What the tube tells the archive
+
+An insulated tube is not a document case. A case protects a document from handling; insulation
+protects it from temperature. The choice of tube over case is a statement that the Passage expects
+its maps to encounter conditions where ordinary storage would fail, and the dossier does not say
+what those conditions are.
+
+Two readings are available and neither is supported. The cold may be preservation, which would mean
+the medium degrades at ordinary temperature. It may be function, which would mean the map does
+something at low temperature that it does not do warm. The archive holds the fragments warm and
+records that it does not know which reading is correct, rather than choosing one and treating the
+consequences as a discovery.
+
+## 1.5 What a fragment cannot establish
+
+A partial route is not a shorter route. Where a fragment ends, the route continues, and the edge of
+the paper says nothing about the edge of the journey. This is the whole reason the reconstruction
+rule exists: two fragments laid together will appear to describe a route whether or not they ever
+belonged to the same map, and an appearance of a route is worse than no route at all because it can
+be cited.
+
+The same limit applies to what a fragment shows. A route shown crossing water does not establish
+that the crossing is made by water, and a route shown ending at a depot does not establish that the
+depot is a terminus.
+
+## 2.4 Storage condition
+
+Held flat, separately, in two enclosures under Intelligence custody. The enclosures are stored apart
+so the fragments cannot be laid together accidentally, and the separation is a custody measure
+rather than a conservation one.
+
+Room temperature, ordinary humidity, no interleaving beyond what the enclosure provides. The
+deviation from the Passage's insulated tube is recorded on both enclosures.
+
+## 2.5 Fault isolation
+
+| OBSERVED CONDITION | READING | ACTION |
+|---|---|---|
+| A fragment shows change since recovery | Warmth may be altering it | Photograph; record; refer to Intelligence; do not cold-store as a response |
+| A fragment is requested for route work | A party wants to read it as a route | Refuse; refer the underlying matter to Legal |
+| A fragment is offered for sale | It left Passage custody | Record the offer; do not buy; refer to Intelligence |
+| A matching fragment appears elsewhere | The two may belong to one map | Record both; do not join them; refer to Legal |
+
+The first row is the one the storage deviation creates. If the fragments are degrading, the cause is
+known and the remedy is not, because the remedy would be to replicate a condition the archive cannot
+explain.
+
+## 2.6 Servicing and known limits
+
+No servicing is authorised. The fragments are not cleaned, pressed, humidified, cold-stored,
+photographed under raking light or otherwise examined by any method that changes their condition.
+Each of those would be a conservation decision taken without knowing what the cold was for, and a
+conservation decision cannot be undone.
+
+The known limits are that the fragments' medium, notation, scale and provenance are all
+unestablished, and that the reason for cold storage is unknown. What is established is that the
+Passage keeps route maps more closely than it keeps tickets or ledgers, in locked cabinets inside
+chapel-like depots, and that the maps are the asset the Passage insulates.
+
+
+## 2.7 The fragments in the set
+
+Of the four objects held, the maps are the only ones the Passage protects more closely than its
+paperwork. Tickets come from books, ledgers come from clerks, and the bell is a fitting. The maps
+come from locked cabinets inside chapel-like depots with white candles, and they are the only
+objects the Passage insulates.
+
+That ordering is the most reliable thing the fragments tell the archive, and it does not depend on
+reading them. Whatever a Passage route map contains, the Passage has decided it is the thing in the
+set most worth keeping cold and locked away.
+
+## 2.8 What the archive would need in order to act
+
+Not a complete map. A notation key. The full route books would say what a line, a mark or an
+interval means on a Passage map, and with that key a fragment becomes readable rather than
+suggestive. Without it the fragments can only be held, and holding them is the correct action
+rather than a failure to do better.
+
 ## DIVISION USE
 
 | DIVISION | USE |

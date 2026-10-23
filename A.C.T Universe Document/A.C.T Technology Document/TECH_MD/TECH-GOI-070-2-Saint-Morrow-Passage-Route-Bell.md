@@ -92,6 +92,90 @@ Recorded for reference. It is not a Facility procedure and no personnel may foll
 
 ---
 
+
+## 1.3 What the mounting positions imply about the object
+
+Three mounting positions and one fitting is a design decision with consequences. A bell made for a
+seat only would be a light instrument. A bell that must also hang under a ferry door has to survive
+spray, and one that must hang under an ambulance rail has to survive the vibration of a vehicle
+carrying a patient at speed. The dossier records the positions and not the construction, but the
+positions alone bound what the object can be.
+
+The dossier also records that the Passage runs sleeper cars for passengers whose names cannot be
+spoken during transit. Sound is therefore already a governed quantity on these routes, and a bell is
+a sound source inside a system that regulates sound. Whether the bell is part of that regulation is
+not established. This file records the adjacency and does not build on it.
+
+## 1.4 What the bell is not
+
+The bell is not a distress signal. The Passage carries its own distress vocabulary through the
+Lantern Accord's line statuses, and none of them is a bell. Reading the bell as an alarm would
+import a Facility assumption into a Passage instrument, and the resulting custody rule would be
+wrong in the direction that matters: it would permit ringing in an emergency when ringing may start
+something.
+
+The bell is also not a fare device and not a departure signal. Nothing in the dossier ties it to
+ticketing or to the moment of leaving.
+
+## 2.4 Storage condition
+
+Held unmounted in its own enclosure, clapper restrained so the bell cannot sound under handling.
+The restraint is a custody measure and not a repair, and it is recorded on the enclosure so that a
+later examiner does not read it as damage.
+
+Whether the clapper was already restrained when the bell was recovered is not established. If the
+Passage ships its bells restrained, the restraint is original and tells the archive something about
+how the Passage itself handles the object. If the Facility applied it, the restraint is ours and
+tells the archive nothing.
+
+## 2.5 The single permitted test
+
+One strike, at Level 3, in a shielded enclosure, recorded with the observer, the time and the
+audible result. The purpose is to establish whether the bell sounds at all.
+
+The test does not establish who hears it, and personnel must not extend it. A second strike is not
+confirmation, it is repetition, and the file that authorises one does not authorise two.
+
+## 2.6 Fault isolation
+
+| OBSERVED CONDITION | READING | ACTION |
+|---|---|---|
+| The bell sounds on the permitted test | It is functional | Record the result; the handling rule is unchanged |
+| The bell does not sound | It may be inert or damaged | Record the result; do not repair it to find out |
+| The bell sounds without being struck | It is not an ordinary bell | Stop handling; refer to Containment at Level 4 |
+| A mounted bell is encountered on joint work | Passage property in service | Record its position; leave it; do not treat its sound as a Facility signal |
+
+The third row is the reason the bell is held at all rather than catalogued and stored. An instrument
+that sounds unstruck is a different object from the one described here, and the file has to say what
+to do when that turns out to be the case.
+
+## 2.7 Servicing and known limits
+
+No servicing is authorised. The bell is not lubricated, not re-struck, not re-mounted and not tuned.
+Freeing the clapper is the first step of mounting and mounting is prohibited, so a maintenance
+action and a prohibited action are the same action here.
+
+The known limits are that the bell's hearer, its function and its condition are all unestablished.
+What is established is narrower and still useful: the Passage fits one bell to three vehicle types,
+which means the bell marks the crossing rather than the vehicle, and it operates during transit
+rather than before or after it.
+
+
+## 2.8 What the bell is worth to the archive
+
+Not as an instrument. As a boundary in the other direction. The bell is the only object in this set
+that operates during a crossing rather than before or after one, which makes it the only one that
+could interfere with a journey in progress. The handling rule is therefore the strictest in the set
+even though the bell is the least understood object in it, and that ordering is deliberate.
+
+
+## 2.9 The bell in the set
+
+The four recovered objects divide by when they operate. The ticket acts before a crossing, the map
+describes the route a crossing will take, the ledger records what a crossing carried, and the bell
+operates while the crossing is under way. Only the bell is live during the event, and only the bell
+can therefore change an outcome rather than describe one. Its custody is set accordingly.
+
 ## DIVISION USE
 
 | DIVISION | USE |

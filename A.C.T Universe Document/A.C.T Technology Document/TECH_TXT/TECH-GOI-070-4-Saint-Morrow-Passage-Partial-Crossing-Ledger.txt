@@ -105,6 +105,82 @@ Recorded for reference. It is not a Facility procedure and no personnel may foll
 7. The crossing ledger records any unpaid debt arising.
 8. A route-audit notebook records any wrong arrival or route injury.
 
+1.4 What the four divisions say about the Passage
+=================================================
+
+The divisions are passenger, object, body and unpaid debt. Read as a list they look like a filing
+scheme. Read as an ordering they are an account of what the Passage considers carryable, and a
+person sits in the same series as a parcel and a corpse.
+
+This is not a moral finding and the archive does not record it as one. It is a structural one. A
+ledger that carries all four in one book does not need to decide which of them is a person, and the
+Passage therefore never has to make that decision in the course of its ordinary work. The Facility
+does have to make it, which is why this file is written as a Subject Care document filed under
+technology.
+
+1.5 What the ledger does not record
+===================================
+
+The dossier describes the ledger and the route-audit notebooks as separate records, and the split is
+meaningful. The ledger records what was carried. The notebook records wrong arrivals and route
+injuries. The Passage therefore keeps a record of what went right and a record of what went wrong,
+and holds them apart.
+
+The archive holds ledgers and not notebooks. Everything this file says about what the Passage
+carried is therefore silent on what the Passage got wrong, and no inference about Passage safety may
+be drawn from a clean ledger.
+
+2.5 Storage condition
+=====================
+
+Held in a single enclosure under Intelligence custody, in the order recovered, with no annotation,
+no index and no pagination added. Reading is logged with reader and purpose. The enclosure is
+labelled with the designation and the disclosure restriction and carries no summary of contents.
+
+No entry has been transcribed into any Facility system, and none may be. A transcription is a copy,
+and a summary carrying entries is a copy of the entries it carries.
+
+2.6 Fault isolation
+===================
+
++----------------------------------------------------+------------------------------------+-----------------------------------------------------------------+
+| OBSERVED CONDITION                                 | READING                            | ACTION                                                          |
++----------------------------------------------------+------------------------------------+-----------------------------------------------------------------+
+| An entry is quoted in a Facility file              | A disclosure has already happened  | Retrieve the file; refer to Legal; record the channel           |
++----------------------------------------------------+------------------------------------+-----------------------------------------------------------------+
+| A person named in an entry contacts the Facility   | They may want to know what is held | Do not confirm or deny; refer to Legal                          |
++----------------------------------------------------+------------------------------------+-----------------------------------------------------------------+
+| A debt entry is cited as settled                   | A party has read the ledger        | Do not correct it in writing without Legal; record the citation |
++----------------------------------------------------+------------------------------------+-----------------------------------------------------------------+
+| A body entry names a person the Facility can reach | A notification question has arisen | Refer to Subject Care and Legal together; do not notify alone   |
++----------------------------------------------------+------------------------------------+-----------------------------------------------------------------+
+
+The second row is the hardest and the most likely. A person who believes the Facility holds a record
+of their crossing will ask, and the correct answer is neither yes nor no, because either answer is a
+disclosure.
+
+2.7 Servicing and known limits
+==============================
+
+No servicing is authorised. The ledgers are not annotated, indexed, transcribed, summarised or
+consolidated, and no recorded debt is pursued, disclosed or written off.
+
+The known limits are that the number of ledgers held is unknown, the proportion of the whole they
+represent is unknown, and whether every ledger carries all four divisions is unknown. What is
+established is that the Passage records passengers, objects, bodies and debts in one book, that the
+archive holds part of that record, and that the part held names people.
+
+2.8 The ledgers in the set
+==========================
+
+The four objects divide by who they name. A ticket names nobody. A map names a route. A bell names
+nothing at all. A ledger names people, and in its debt division it names people who owe the Passage
+something.
+
+That is why this record carries a Level 4 reading restriction where the other three carry Level 3,
+and why its disclosure rule runs to Level 5. The difference is not the sensitivity of the material.
+It is that the other three describe a system and this one describes people inside it.
+
 DIVISION USE
 ------------
 

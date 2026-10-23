@@ -98,6 +98,76 @@ Recorded for reference. It is not a Facility procedure and no personnel may foll
 
 ---
 
+
+## 1.3 What the ticket stock says about scale
+
+The tickets are issued from books, and a book is a print run. A passage market that prints ticket
+books has decided in advance how many crossings it expects to make, and the size of the run is a
+statement about volume that no ledger entry can give. Whether the archive holds pages from one book
+or from several is not established, and the distinction matters: pages from one book describe one
+depot, while pages from several describe a network.
+
+The dossier records that a Route Reader checks ordinary transport before a route class is assigned,
+which means the Passage measures its own exceptions. It knows how many journeys it takes that could
+have gone by ordinary means. That is a statistic the Facility does not have and cannot derive from
+the material held here.
+
+## 1.4 What a ticket does not record
+
+No ticket in the archive carries a passenger name, a fare, a date or a destination legible as such.
+Whether the Passage leaves these off, records them elsewhere, or records them in a form the archive
+has not read is not established, and this file does not treat the absence as either concealment or
+omission.
+
+The absence is nevertheless the reason the tickets cannot be used. A document that carries no
+identifying particular cannot be matched to a person, a journey or a claim, which removes the only
+ordinary purpose a ticket could serve outside the system that issued it.
+
+## 2.4 Storage condition
+
+The tickets are held flat, individually interleaved, in a single enclosure under Containment custody.
+They are not mounted, not displayed and not lent. The enclosure is labelled with the designation and
+the appropriation status and carries no description of contents beyond that.
+
+Whether the tickets were recovered loose or as pages still bound is not established. If they came
+loose, their order is lost and no sequence can be reconstructed. If they came bound, the binding
+should be recorded before the pages are separated further, and that has not been done.
+
+## 2.5 Fault isolation
+
+| OBSERVED CONDITION | READING | ACTION |
+|---|---|---|
+| A ticket surfaces in a Facility file | It was copied or transcribed | Retrieve the copy; treat the original as compromised in that channel |
+| A ticket is offered for sale | It left Passage custody | Record the offer; do not buy; refer to Intelligence |
+| A ticket is presented as A.C.T authority | A party believes it transfers authority | Correct the record in writing; refer to Legal |
+| A passenger produces a ticket at a Facility door | A crossing ended at the Facility | Attend the passenger under Subject Care; do not take the ticket |
+
+The last row is the one most likely to occur and the one personnel are least prepared for. A person
+holding a white ticket has been carried somewhere ordinary transport could not carry them, and what
+they need is attendance rather than processing.
+
+## 2.6 Servicing
+
+There is no servicing. A ticket is a consumable document and the archive does not repair, clean,
+laminate or preserve one beyond flat storage at ordinary conditions. Lamination would seal a surface
+the archive has not finished reading, and cleaning would risk ink the archive has not identified.
+
+## 2.7 Known limits
+
+The tickets cannot be dated, cannot be attributed to a depot, cannot be matched to a passenger, and
+cannot be read as authority. They establish that the Passage issues route classes on stock it prints
+in advance, and that every issue is an exception to ordinary transport. Nothing beyond that is
+supported by the material held.
+
+
+## 2.8 What the tickets are worth to the archive
+
+Not as documents. As a boundary. The tickets are the only material in this set that a third party
+could be shown and understand immediately, which makes them the most likely object in the set to be
+misused by a Facility employee who means well. A person who wants to move someone quickly and cannot
+get authorisation will find a white ticket attractive, and the presentation rule exists for that
+person rather than for anyone acting in bad faith.
+
 ## DIVISION USE
 
 | DIVISION | USE |
