@@ -6848,3 +6848,48 @@ corrected and the link check returned 0 broken afterwards.
 **Not delivered this turn.** Chapters 4 to 12 were not read for prose and the GOI dossiers were not
 opened. The workspace was re-cloned mid-turn and the recovery consumed the turn.
 
+## Prompt End Update — 2026-10-23, Bootstrap Script; Story-Index Verified Clean
+
+Owner rulings: chapters 4 to 12 first; add a bootstrap script; check `Story-Index.md` before changing
+it; keep `docs/index.html` empty.
+
+### `_ARCHIVE-OPS/tools/sync.sh` added
+
+Fetches, refuses if tracked files are modified or deleted, resets onto `origin/<branch>`, prints the
+before and after SHA, and runs the full suite. Untracked files are allowed through, because a new
+tool must not block its own bootstrap; tracked modifications are not, because `reset --hard` would
+eat them. It refused correctly on first use, mid-turn, when a re-clone had left tracked files
+showing as deleted.
+
+### Story-Index.md was checked, and it needs no repair
+
+Measured before any edit: the index lists 23 filenames, **0 of them stale** against the disk after
+the 36-file rename. The 19 names on disk that it does not list are all `.txt` twins plus the index's
+own name, which its section format deliberately omits. Nothing was changed, which is what the ruling
+asked for: check first, and only regenerate if the check says so. It did not.
+
+### Not delivered
+
+**Chapters 4 to 12 were not read for prose.** The workspace was re-cloned a thirteenth time
+mid-turn, the bootstrap script refused as designed, and the recovery consumed the turn. The reading
+stands at chapters 1 to 3 and the epilogue, all clean.
+
+| GATE | RESULT |
+|---|---|
+| `DOCUMENT_COUNT` | 1000 |
+| `RECORDS_NOT_ONE_H1` | 0 |
+| `BAD_EOF` | 0 |
+| `HISTORY_PARENT_IS_SESSION_BASE` | 0 after recovery |
+| Index filenames listed / stale | 23 / 0 |
+| Recorded re-clones | 13 |
+| `PATCH_SAVER_ENTRIES` | 86 |
+
+### The bootstrap destroyed an unpushed commit, and now cannot
+
+`sync.sh` ran after a commit in the same command chain and reset it away, because it resets onto
+`origin/<branch>` unconditionally. The commit was recovered from the reflog at `1b96a99` and nothing
+was lost, but the design was wrong: a bootstrap that can eat local work is worse than no bootstrap.
+
+It now counts `origin/<branch>..HEAD` and refuses when local commits have not been pushed. Run it at
+the **start** of a batch, before any edit and before any commit. Never after.
+
