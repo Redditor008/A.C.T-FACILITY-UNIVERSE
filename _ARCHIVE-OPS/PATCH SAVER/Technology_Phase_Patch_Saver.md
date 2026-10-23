@@ -6291,3 +6291,47 @@ cannot tell them from text.
 
 **Sixteen silent workspace resets across the session**, one producing every push rejection.
 Recovery is always `git fetch` then `git rebase` onto the remote, never force.
+
+## Prompt End Update — 2026-10-23, Indexes Completed at 242; Archive Link Sweep Clean
+
+**The technology record count is 242 and both indexes list all 242.**
+
+    TECH_MD:   244 .md = 242 records + README.md + 00_Technology_Record_Template.md
+               TECH-ACT- 137 | TECH-GOI- 105 | twins present 242/242 | duplicate designations 0
+    229 + the 13 built this session = 242
+
+Five live published counts were corrected from 229 or 231 to 242: the root README in two places,
+the A.C.T Universe Document entry file, and the Technology Document entry file in two places. The
+Patch Saver and RESEARCH FOLDER mentions of 229 are dated log records of what was true then and
+were deliberately left alone.
+
+**Both indexes carried a 40-record gap.** Sets 057, 058, 059, 060 and 072 at five records each,
+068 at two, and 069, 070, 073 and 074 at four, four, four and one. Ten of the forty were built this
+session; thirty predate it. Both indexes now list 242 with 289 links each and none broken.
+
+**A retraction.** I reported that `TECH-ACT-004` was indexed but absent from disk and deleted its
+entry on that evidence. The file exists. The designation pattern's optional trailing digit group
+swallowed the first digit of the next filename segment, so
+`TECH-ACT-004-004-Series-Amnestic-Compound-System` parsed as `TECH-ACT-004-0`. The pattern now
+requires a hyphen boundary and the entry is intact.
+
+**A pre-existing defect found and repaired.** The plain-text twin index lives in `TECH_TXT/` and
+its Markdown links pointed at bare `.md` filenames, which resolve to `TECH_TXT/` rather than
+`TECH_MD/`. A control comparison against HEAD showed 96 of 209 links already broken, and the 80
+links added in this pass brought 40 more because they copied the same wrong form. All 136 now
+point at `../TECH_MD/`. **The lesson: copying an existing format copies its defects. Check the
+format before imitating it.**
+
+**A truncation error.** An earlier attempt cut every link target at 118 characters and produced 72
+lines with an unclosed parenthesis. The house limit applies to prose; link markup is exempt, and
+cutting a target mid-path breaks the link.
+
+**ARCHIVE-WIDE LINK SWEEP: 654 relative links, 0 broken.** The first pass reported 8 broken and
+was wrong, because it did not URL-decode `%20` and every spaced path failed. This is the third time
+this session that a checker was wrong rather than the data, and it is the second time the specific
+cause was un-decoded URL escapes.
+
+**Corpus-wide stamp check across all 242 technology records.** No sentence appears in more than 27
+of 242 records and none in more than 25 percent. The thirteen records built this session were the
+worst-stamped in the archive and are now varied; the pre-existing records are not badly stamped.
+That is the opposite of the assumption the check started from.
