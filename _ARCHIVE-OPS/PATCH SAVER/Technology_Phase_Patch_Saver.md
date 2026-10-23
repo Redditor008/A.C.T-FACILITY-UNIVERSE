@@ -7302,3 +7302,33 @@ Cross-references were resolved: 0 unresolved `TECH-GOI` or `TECH-ACT` designatio
 | Shared prose sentences between dossiers | 0 |
 | `PATCH_SAVER_ENTRIES` | 96 |
 
+## Prompt End Update — 2026-10-23, Remaining Twenty GOI Dossiers Read; Folder Closed
+
+Owner rulings: read the remaining twenty; give a session summary.
+
+### The remaining twenty, read
+
+Word range 2,943 to 5,450, median 3,551. Measured clean on every axis:
+
+| MEASURE | RESULT |
+|---|---|
+| H1 defects | 0 |
+| H2 section count other than 10 | 0 |
+| Banned-list hits | 0 |
+| Unresolved cross-references | 0 |
+| Shared prose strings between dossiers | 0 |
+
+Two strings recurred across dossiers, `### Contact History` 16 times and `### Record Formation and
+Continuing Hostility` twice. Both are headings, not prose. No prose sentence is shared between any
+two of the thirty dossiers.
+
+**The GOI folder is closed as an open item.** All thirty dossiers have been read, none carries a
+defect, and the structural uniformity that would be a fault in a story chapter is the correct
+property for an archive dossier.
+
+| GATE | RESULT |
+|---|---|
+| `DOCUMENT_COUNT` | 1001 |
+| `GOI_DOSSIERS` | 30, all read |
+| `PATCH_SAVER_ENTRIES` | 97 |
+
