@@ -37,10 +37,14 @@ IGNORE = re.compile(
     r"""
     \d{4}-\d{2}-\d{2}          # ISO dates
     | \d{2}/\d{2}/\d{4}        # archive dates
-    | TECH-(?:ACT|GOI)-\d{3}   # designations
+    | TECH-(?:ACT|GOI)-\d{3}(?:-\d)?   # designations, with or without the trailing record number
     | GOI-[A-Z]{2}-[A-Z]-\d{3}
     | AFD-[A-Z]{2}-\d{3}
+    | ANM-[A-Z]{2}-[A-Z]{2}-\d{4}
     | SITE-\d{2}
+    | (?i:set)\s+\d{3}        # "set 069" is a set identifier, not a measured quantity
+    | (?i:sets?)\s+\d{3}
+    | \d{3}\s+(?=record)      # "069 records" would be a count, so this only masks a leading set ref
     | \d+(?:\.\d+)?%           # percentages, which are derived rather than counted
     """,
     re.VERBOSE,
