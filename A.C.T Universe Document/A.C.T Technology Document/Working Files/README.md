@@ -32,14 +32,25 @@ says so.
 | `Coffer-Temperature-Log.csv` | Temperature readings, machine-readable |
 | `Seized-Asset-Inventory.csv` | Seized asset manifest, machine-readable |
 | `Restoration-Request-Form.md` | Blank form, not a record until completed |
+| `Medical-Care-Note-Coffer-Exposure.md` | Medical Care on the people, not the coffer |
+| `Legal-Note-Charter-Obligation-Beacon.md` | Legal advice in progress, privileged, not a ruling |
+| `Engineering-Note-Beacon-Shutter-Drum.md` | Engineering examination note, three possibilities unresolved |
+| `Site-Command-Directive-Working-Files.md` | Site Command on two things going wrong with working files |
+| `File-Plan-Technology-Working.csv` | File plan: class, retention, disposal authority |
 
-## Two voices, and neither is an archivist
+## Six offices write here, and none of them is writing a record
 
 The junior hedges and records what they got wrong. The researcher observes without concluding and
-says so. Neither voice belongs in a technology record, and both belong in the folder beside it.
+says so. Medical Care writes about the people and not the object. Legal writes advice in progress
+and marks it privileged and says plainly that it is not a ruling. Engineering gives three
+possibilities and does not choose between them. Site Command writes to everybody about a small
+thing that keeps happening.
 
-## Four of these are not documents
+Six registers, and a reader should be able to tell them apart without being told who wrote which.
+None of them belongs in a technology record, and all of them belong in the folder beside it.
 
-The three CSV files and the blank form are not writing. They exist because an office that keeps a
+## Five of these are not documents
+
+The four CSV files and the blank form are not writing. They exist because an office that keeps a
 rota keeps it in a rota, because an inventory is a table, and because a form that has not been
 filled in is a form and not a record.

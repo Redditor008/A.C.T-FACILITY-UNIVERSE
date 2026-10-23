@@ -1,0 +1,9 @@
+class,subclass,record_type,retention,disposal_authority,notes
+working,correspondence,transitory,destroy when actioned,transitory,interoffice memoranda
+working,note,transitory,destroy when superseded,transitory,working and observation notes
+working,draft,transitory,destroy on approval of the record,transitory,superseded drafts kept only where the reasoning matters
+working,rota,transitory,destroy at end of month,transitory,duty rota and rota changes
+working,log,transitory,destroy at end of quarter,transitory,telephone and callout logs
+working,inventory,transitory,superseded on next count,transitory,asset inventory
+working,form_blank,non_record,retain while in use,non_record,blank forms are not records
+working,form_completed,official,file with the technology record,schedule per record,a completed form is a record
