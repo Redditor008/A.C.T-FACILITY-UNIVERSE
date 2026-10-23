@@ -119,6 +119,29 @@ def main() -> int:
     # Owner ruling 2026-10-24: a markdown heading is already emphasised, so bold
     # markup inside one is redundant and renders literally in some viewers. 131 of
     # them sat across 13 files, found only because a newcomer read turned up one.
+    # Owner ruling 2026-10-24: an H1 immediately followed by 2 or more sibling H2s
+    # with no prose between makes one document appear in a table of contents as
+    # several separate entries. A newcomer read found one instance by hand; scanning
+    # the shape found 60. The shape is the defect, so the gate tests the shape.
+    r["TITLE_STACK_DOCUMENTS"] = 0
+    for p in md:
+        ls = read(p).split("\n")
+        if not ls or not ls[0].startswith("# "):
+            continue
+        i = 1
+        stack = 0
+        while i < len(ls):
+            s = ls[i].strip()
+            if not s:
+                i += 1
+                continue
+            if s.startswith("## ") and not s.startswith("### "):
+                stack += 1
+                i += 1
+                continue
+            break
+        if stack >= 2:
+            r["TITLE_STACK_DOCUMENTS"] += 1
     r["MD_BOLD_IN_HEADING_LINES"] = sum(
         1
         for p in md

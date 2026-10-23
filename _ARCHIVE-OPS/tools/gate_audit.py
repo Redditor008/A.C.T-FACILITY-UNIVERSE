@@ -59,6 +59,7 @@ TEXT_TESTS = [
     ("TXT_NARROW_BAR_LINES", TX, "append", "\n+" + "-" * 48 + "+\n" + "x" * 100 + "\n"),
     ("DOUBLED_RULE_LINES", TX, "append", "\n+" + "=" * 48 + "+\n+" + "=" * 48 + "+\n"),
     ("MD_BOLD_IN_HEADING_LINES", MD, "append", "\n\n## **Bold Heading**\n"),
+    ("TITLE_STACK_DOCUMENTS", MD, "stack", None),
     ("TXT_WIDE_PROSE_LINES", TX, "append", "\n" + WIDE + "\n"),
     ("MD_WIDE_PROSE_LINES", MD, "append", "\n" + WIDE + "\n"),
 ]
@@ -81,7 +82,13 @@ def main() -> int:
             tgt = repo / rel
             orig = tgt.read_text(encoding="utf-8")
             try:
-                if kind == "append":
+                if kind == "stack":
+                    body = orig.split("\n")
+                    tgt.write_text(
+                        body[0] + "\n\n## Stack A\n\n## Stack B\n\n" + "\n".join(body[1:]),
+                        encoding="utf-8",
+                    )
+                elif kind == "append":
                     tgt.write_text(orig.rstrip("\n") + "\n" + payload, encoding="utf-8")
                 elif kind == "strip_h1":
                     tgt.write_text(
