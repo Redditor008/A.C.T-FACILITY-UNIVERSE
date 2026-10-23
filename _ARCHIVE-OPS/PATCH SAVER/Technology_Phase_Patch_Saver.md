@@ -8063,3 +8063,76 @@ reading it.
 19 records remain off-shape. Next is `TECH-GOI-071-5` at 9 missing sections, then the sets 069, 070
 and 073 at 10 each. The 13 chapter files remain to be judged by hand.
 
+## Prompt End Update — 2026-10-24, TECH-GOI-071-5 Restructured: Nine Sections Restored Without Rewriting It
+
+Owner ruling: `TECH-GOI-071-5` next at 9 missing sections, and track the `.txt` converter as a tool.
+
+### The converter is now a tracked tool
+
+`_ARCHIVE-OPS/tools/md_to_txt.py` carries the cell-cleaning fix permanently, so the next 18 records
+use a tested path instead of regenerating the converter each batch. It selects box widths by column
+count, strips bold, italics, code spans and link markup from every line **including table cells**, and
+exits 1 if any markup survives or any line exceeds 118 characters.
+
+Proof it reproduces what was already committed: re-running it over the `TECH-GOI-074-1` source
+returned 2,322 words, 301 lines, widest 118, 0 markup lines, and `git diff --stat` on the twin came
+back **empty**. The tool generates the committed file byte for byte.
+
+### Structure only, because the words were already there
+
+This record was already 2,500 words, so no expansion was needed and none was written. The work was
+heading surgery, and it preserved every line of the existing content.
+
+| MEASURE | BEFORE | AFTER |
+|---|---|---|
+| Words, `.md` | 2,500 | 2,656 |
+| Words, `.txt` | — | 2,669 |
+| House H2 sections | 5 of 14 | 14 of 14 |
+| Missing sections | 9 | 0 |
+| `TECH_RECORDS_OFF_SHAPE` | 19 | 18 |
+
+The 156 added words are the new `CROSS-REFERENCES` section, which the record did not have at all.
+
+### What was done to the headings
+
+Eight headings were renamed onto house names rather than rewritten: `Functional Identity` to
+`FUNCTION SUMMARY`, `Operating Principle` to `PHYSICAL OR SYSTEM DESCRIPTION`, `A.C.T Acquisition and
+Custody` to `ORIGIN AND CUSTODY`, `Transfer Procedure` to `OPERATING PROCEDURE`, `Failure Modes` to
+`FAILURE HISTORY`, `Restrictions` to `KNOWN LIMITS`, `Division Access` to `DIVISION USE`, and
+`Censorship and Knowledge Gaps` to `OPEN QUESTIONS`.
+
+Three further changes:
+
+- **`Archive Confidence` demoted to H3.** It sat as a second closing H2 where the house has one
+  `OPEN QUESTIONS`. The prose is untouched.
+- **`Vehicle Features And Transfer Notation` moved** out of `INTERFACE AND OPERATING ENVELOPE` and up
+  under `PHYSICAL OR SYSTEM DESCRIPTION`, where an inspection note belongs. The block is unedited.
+- **The question list repaired.** It mixed two-space indents with dashes across five questions; it is
+  now one dash list.
+
+The title moved to house form as well, from `# TECH-GOI-071-5 - ...` to the `A.C.T FACILITY ARCHIVE
+FILE — ` H1 with a `### TECHNOLOGY RECORD - ` line beneath it.
+
+### What was not touched
+
+The registry block keeps its own field names — `COMMON ABBREVIATIONS`, `ACQUISITION STATUS`,
+`CONTROLLING FILES`, `PRIMARY A.C.T INTEREST`, `ARCHIVE HANDLING` — rather than the 10-field house
+registry. Renaming those fields would have meant choosing new values for pre-existing content, and no
+gate covers them. **This variance is recorded as open rather than silently normalised.**
+
+### Validation
+
+`corpus_numbers.py`: `TECH_RECORDS_OFF_SHAPE` 18, `TECH_RECORDS_UNDER_1800` 8, `TECH_UNPAIRED_TWINS`
+0, `TXT_WIDE_PROSE_LINES` 0, `MD_WIDE_PROSE_LINES` 0, `BOXDRAW_CHARACTERS` 0, `RECORDS_NOT_ONE_H1` 0,
+`TITLE_STACK_DOCUMENTS` 0, `BAD_EOF` 0, `ODD_FENCE` 0, `DOCUMENT_COUNT` 1026. Twin is 343 lines,
+widest 118, 0 markup lines.
+
+`gate_audit.py`: gates tested 23, fired 23, blind 0.
+
+`PATCH_SAVER_ENTRIES` 119.
+
+### Open
+
+18 records remain off-shape: the 6 single-heading records, and sets 069, 070 and 073 at 10 sections
+each. The registry-field variance above. The 13 chapter files remain to be judged by hand.
+

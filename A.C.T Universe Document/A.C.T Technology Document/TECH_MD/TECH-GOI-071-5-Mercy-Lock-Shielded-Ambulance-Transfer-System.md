@@ -1,4 +1,5 @@
-# TECH-GOI-071-5 - MERCY LOCK SHIELDED AMBULANCE TRANSFER SYSTEM
+# A.C.T FACILITY ARCHIVE FILE — MERCY LOCK SHIELDED AMBULANCE TRANSFER SYSTEM
+### TECHNOLOGY RECORD - MERCY LOCK SHIELDED AMBULANCE TRANSFER SYSTEM
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|
@@ -11,7 +12,7 @@
 | PRIMARY A.C.T INTEREST | Nonviolent patient transport, medical containment transfer, public-cover movement, low-escalation custody |
 | ARCHIVE HANDLING | MERCY LOCK DISCLOSURE LIMIT / MEDICAL-CUSTODY RESTRICTED |
 
-## Functional Identity
+## FUNCTION SUMMARY
 
 The Mercy Lock Shielded Ambulance Transfer System is a GOI-origin medical transport platform used by Mercy Lock
 Institute to move anomalous residents between hidden wards, public hospitals, hospice structures, court-protected care
@@ -35,7 +36,17 @@ route-curtain rail assembly, recovered a torn curtain segment after an emergency
 and observed one Site 02 medical-wing arrival where the patient remained stable only because the ambulance bay was
 treated as part of the care plan rather than a cage.
 
-## Operating Principle
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+The observed build is recorded here. A.C.T has not stripped a vehicle, so nothing below
+is a build figure; every line is an inspection note or a recovered component.
+
+### Vehicle Features And Transfer Notation
+
+- route curtains conceal the travel path and reduce destination fixation
+- soft restraint points fail toward release rather than cutting skin
+- gentle lock plates mount at the rear, side, or bay threshold
+- the notation block is completed before movement, not after
 
 Mercy Lock shielded ambulances attempt to control the meaning of movement. Most A.C.T transports focus on route
 security, restraints, concealment, and arrival integrity. Mercy Lock adds a second layer: the patient must not
@@ -69,7 +80,7 @@ invisible. It limits the resident's sensory and symbolic relation to the route. 
 graveyards, military checkpoints, running water, emergency-room signage,
 or familiar family streets can be moved without total sedation.
 
-## A.C.T Acquisition and Custody
+## ORIGIN AND CUSTODY
 
 A.C.T access remains partial and cooperative. Mercy Lock has not surrendered a
 complete vehicle because the Institute argues that a shielded ambulance without
@@ -111,13 +122,6 @@ administrative gap into a decision that has to be made before the vehicle moves.
 
 ## INTERFACE AND OPERATING ENVELOPE
 
-### Vehicle Features And Transfer Notation
-
-- route curtains conceal the travel path and reduce destination fixation
-- soft restraint points fail toward release rather than cutting skin
-- gentle lock plates mount at the rear, side, or bay threshold
-- the notation block is completed before movement, not after
-
 ### Escort, Search, And Public Contact Controls
 
 - the bay is not searched in front of the patient unless the card allows it
@@ -136,7 +140,7 @@ administrative gap into a decision that has to be made before the vehicle moves.
 
 Whether soft treatment holds for a resident who exploits it is NOT MEASURED. Both readings of the vehicle can be
 true at once, and which one applies depends on the resident rather than on the vehicle.
-## Transfer Procedure
+## OPERATING PROCEDURE
 
 A.C.T may interact with a Mercy Lock shielded ambulance in five approved contexts: cooperative transfer to an A.C.T
 medical wing, emergency ward evacuation, hostile-GOI extraction where Mercy
@@ -203,7 +207,7 @@ Step 8 is the discipline that prevents the most common misreading. Describing th
 transfer as a soft custody method invites the next team to add restraints, which is
 the change most likely to trigger the manifestation the vehicle was designed to avoid.
 
-## Failure Modes
+## FAILURE HISTORY
 
 The system's main failure is misinterpretation. A.C.T security staff sometimes read the shielded ambulance as a weak
 custody method because it avoids hard restraints and visible force. Mercy Lock reads the same features as containment.
@@ -233,7 +237,7 @@ patient bell, and spoke the preferred name once. The spike receded. The incident
 currently filed as an A.C.T intake
 discipline failure, not Mercy Lock technology failure.
 
-## Restrictions
+## KNOWN LIMITS
 
 A.C.T personnel must not seize a shielded ambulance for general containment transport. A.C.T must not repaint, unmark,
 or duplicate Mercy Lock vehicle identity for covert movement. A.C.T must not use the
@@ -247,7 +251,7 @@ must remain outside the patient's sight line unless Medical and Containment both
 visible force. When public responders are present, Civil Covert must control explanation before police, hospital
 security, or family members reinterpret the transfer as kidnapping.
 
-## Division Access
+## DIVISION USE
 
 Medical Division holds primary authority because the system is a patient-transfer platform. Containment Division
 attaches when the resident is a containment risk during movement. Legal Division attaches for consent, guardianship,
@@ -256,7 +260,20 @@ exposure, and public emergency-service interference. Engineering may inspect ina
 reverse-engineer a complete transfer bay without Command approval. Subject Care must be consulted when the resident's
 distress response, identity state, family contact, or communication method is part of containment.
 
-## Censorship and Knowledge Gaps
+## CROSS-REFERENCES
+
+- `GOI-HY-P-071` — Mercy Lock Institute, Group of Interest Dossier
+- `TECH-GOI-071-1` — Mercy Lock Gentle Lock System, Technology Record
+- `TECH-GOI-071-2` — Mercy Lock Patient Bell Distress Signal System, Technology Record
+- `TECH-GOI-071-3` — Mercy Lock Consent Ledger and Custody Status Record, Technology Record
+- `TECH-GOI-071-4` — Mercy Lock Quiet Room Low-Stimulation Care Area, Technology Record
+
+This file covers the vehicle, the route curtain, the shielded bay, custody-preserving transport and the
+A.C.T transfer interface. It does not replace the gentle lock record, the patient bell record, the
+consent ledger record or the quiet room architecture record, and it holds no individual patient file
+and no Red Key incident file.
+
+## OPEN QUESTIONS
 
 Vehicle registrations, route maps, ward names, patient names, family contact details, and active Mercy Lock drivers
 are censored under MERCY LOCK DISCLOSURE LIMIT. Some route-curtain behavior remains technically unexplained. A.C.T has
@@ -265,14 +282,13 @@ narrative association. Mercy Lock documentation implies all four may occur, depe
 
 Unanswered questions include:
 
-  Can A.C.T safely mount an inactive route curtain in a non-Mercy vehicle for
-  testing?
-- Do route curtains depend on consent-ledger status before they work correctly?
-  Are the ambulances built by Mercy Lock engineers, ordinary medical-vehicle contractors, or a third GOI supplier?
+- can A.C.T safely mount an inactive route curtain in a non-Mercy vehicle for testing;
+- do route curtains depend on consent-ledger status before they work correctly;
+- are the ambulances built by Mercy Lock engineers, ordinary medical-vehicle contractors, or a third GOI supplier;
 - Can hostile groups reproduce the public-facing ambulance marks without the stabilizing interior system?
 - How many Red Key incident files involve ambulance transfer rather than room restraint?
 
-## Archive Confidence
+### Archive Confidence
 
 Confidence is Moderate. A.C.T has observed functioning transfers, handled recovered components, inspected two
 vehicles, and compared ambulance behavior with the Mercy Lock GOI dossier and gentle lock technology record.
