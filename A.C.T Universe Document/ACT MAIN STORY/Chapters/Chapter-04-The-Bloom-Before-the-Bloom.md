@@ -5,13 +5,6 @@ the paper. It should not have been possible across that many years, not through 
 air, sealed sleeves, preservation resin and the layered indifference of time, and yet the
 residue clung to her gloves when she pulled them back.
 
-It should not have been possible for paper to remember scent after that many
-years, not through filtered air, sealed
-sleeves, preservation resin, and the layered indifference of time. Yet when Sera opened the first evidence envelope
-from the pre-classification botanical shelves, a faint trace escaped into the cold archive air—something dry, floral,
-and metallic, as though frost had been steeped in gold and left to rot
-beneath glass.
-
 She froze with the sleeve half-drawn from its case.
 
 Not because the smell was strong.

@@ -5,11 +5,7 @@ worked it three times, and got the same answer three times. Courage never showed
 the time she understood that fully remembering the truth might itself become a route, the
 sums had already decided for her.
 
-It arrived as arithmetic.
-
-By the time Sera understood that fully remembering the truth might itself become a
-route, she had already lost the
-luxury of dramatic choices. There would be no clean exposure, no righteous confrontation in a command chamber, no
+There would be no clean exposure, no righteous confrontation in a command chamber, no
 singular moment where truth, once spoken aloud, would free anyone from what the Facility had done to survive. The
 structure she was inside had been built by people who had already reached the
 end of that path and chosen mutilation
@@ -49,8 +45,7 @@ She built the first fragment around chronology.
 
 Not the truth itself, just the impossibility of the official timeline. The bloom before
 the bloom. AFD-NB-004
-appearing in tissue notes and symptom records before the date of its formal discovery.
-Nothing about ITHYOS. Nothing
+appearing in tissue notes and symptom records before the date of its formal discovery. Nothing about ITHYOS. Nothing
 about the founders’ silence. Only enough to show, if someone patient found it later,
 that history had been forced into
 a false sequence.
@@ -213,8 +208,7 @@ She disassembled it.
 
 Paragraphs broken into separated ciphers. Claims detached from proof. Proof detached from source. Source detached from
 implication. By the end, the file no longer held a structure anyone could read
-in sequence. It held only debris.
-Intelligible pieces, but no architecture.
+in sequence. It held only debris. Intelligible pieces, but no architecture.
 
 She exported those pieces into the twelve false shells, verified the transfers twice, and then burned the master file
 from local memory, buffer, and recovery cache.

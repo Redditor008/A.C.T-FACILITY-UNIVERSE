@@ -123,6 +123,34 @@ def main() -> int:
     # with no prose between makes one document appear in a table of contents as
     # several separate entries. A newcomer read found one instance by hand; scanning
     # the shape found 60. The shape is the defect, so the gate tests the shape.
+    # Owner ruling 2026-10-24: a chapter whose opening tells the same beat twice.
+    # Seven chapters carried a leftover paragraph from the RULE 3.1 opening rewrite,
+    # where the new opening was prepended and the old one never removed. The
+    # manuscript lockstep gate could not see it: the manuscript carried the same
+    # duplication, so the two still agreed.
+    r["STORY_OPENING_REPEATS"] = 0
+    for p in sorted(STORY.glob("Chapters/*.md")):
+        body = re.sub(r"^#.*$", "", read(p), flags=re.M).strip()
+        sents = [
+            re.sub(r"\s+", " ", s).strip()
+            for s in re.split(r"(?<=[.!?])\s+", body)
+            if len(s.strip()) > 40
+        ][:6]
+        found = False
+        for i in range(len(sents)):
+            for j in range(i + 1, len(sents)):
+                for k in range(min(30, len(sents[i]) - 24)):
+                    frag = sents[i][k : k + 24]
+                    if (frag in sents[j][:60]
+                            and not frag.startswith(("the ", "and ", "of the"))):
+                        found = True
+                        break
+                if found:
+                    break
+            if found:
+                break
+        if found:
+            r["STORY_OPENING_REPEATS"] += 1
     r["TITLE_STACK_DOCUMENTS"] = 0
     for p in md:
         ls = read(p).split("\n")

@@ -4,11 +4,7 @@ Sera braced for the pain and it did not come. By then danger in the Facility usu
 announced itself through something measurable: elevated pulse, nausea, the small physical protests
 of a body asked to hold more than it was built for. What came instead was quiet, and it was precise.
 
-Sera had expected pain.
-
-By then, danger inside the Facility usually announced itself through something measurable: elevated pulse, nausea,
-tremor, cold sweat, the pressure behind the eyes that meant a memetic screen had
-thinned somewhere nearby. Even fear
+Even fear
 came with known shapes. She knew the architecture of stress. The body told the
 truth long before the archive did.
 
@@ -18,8 +14,7 @@ A sense of sequence slipping.
 
 The morning after she wrote the sentence—**A.C.T was built to make itself forget what
 really happened in the
-abyss**—she woke already certain that she had forgotten part of a dream. Not unusual.
-Everyone in the Facility lost
+abyss**—she woke already certain that she had forgotten part of a dream. Not unusual. Everyone in the Facility lost
 pieces of sleep. Artificial cycles, underground air, stress
 chemistry, fluorescent hours—all of it made dreams brittle.
 
@@ -29,8 +24,7 @@ Not an image. Not an emotion.
 
 A route.
 
-A route she knew she had seen somewhere, though not with her waking eyes.
-A downward turn, then a narrowing passage,
+A route she knew she had seen somewhere, though not with her waking eyes. A downward turn, then a narrowing passage,
 then a lift branch that should not have existed under the current map. It
 was gone almost immediately, dissolving the
 moment she tried to focus on it, but the certainty remained for several seconds
@@ -48,8 +42,7 @@ Sera stayed still until her breathing stopped sounding wrong.
 
 By the time she reached Archive Administration, she had already decided on the lie
 she would tell herself for the next
-few hours: lack of sleep, pattern overexposure, self-induced continuity stress. All plausible. All human.
-All
+few hours: lack of sleep, pattern overexposure, self-induced continuity stress. All plausible. All human. All
 preferable to the alternative.
 
 The alternative was that Tavian had been right.
@@ -273,8 +266,7 @@ This time the older archivist gave a humorless half-smile. “Now you’re begin
 
 Sera did not smile back.
 
-By the time she left the dead copy room, the Facility felt subtly altered.
-Not externally. The corridors were the same
+By the time she left the dead copy room, the Facility felt subtly altered. Not externally. The corridors were the same
 corridors. The lights remained the same sterile light. The personnel moved according to the same routines, the same
 checkpoint habits, the same buried clockwork. But Sera could no longer experience any of it as neutral.
 
@@ -330,8 +322,7 @@ Instead it made her furious.
 
 Because if they had chosen self-erasure, they had also chosen to leave the generations
 after them inside a machine
-built on absence. Maybe they had been right. Maybe they had saved the world.
-But they had also made everyone who came
+built on absence. Maybe they had been right. Maybe they had saved the world. But they had also made everyone who came
 after them inherit a lie without consent.
 
 Sera lowered her hand.

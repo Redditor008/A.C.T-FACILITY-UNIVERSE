@@ -60,6 +60,7 @@ TEXT_TESTS = [
     ("DOUBLED_RULE_LINES", TX, "append", "\n+" + "=" * 48 + "+\n+" + "=" * 48 + "+\n"),
     ("MD_BOLD_IN_HEADING_LINES", MD, "append", "\n\n## **Bold Heading**\n"),
     ("TITLE_STACK_DOCUMENTS", MD, "stack", None),
+    ("STORY_OPENING_REPEATS", "A.C.T Universe Document/ACT MAIN STORY/Chapters/Chapter-01-Correction-Order.md", "repeat", None),
     ("TXT_WIDE_PROSE_LINES", TX, "append", "\n" + WIDE + "\n"),
     ("MD_WIDE_PROSE_LINES", MD, "append", "\n" + WIDE + "\n"),
 ]
@@ -82,7 +83,12 @@ def main() -> int:
             tgt = repo / rel
             orig = tgt.read_text(encoding="utf-8")
             try:
-                if kind == "stack":
+                if kind == "repeat":
+                    body = orig.split("\n\n")
+                    tgt.write_text(
+                        "\n\n".join(body[:2] + [body[1]] + body[2:]), encoding="utf-8"
+                    )
+                elif kind == "stack":
                     body = orig.split("\n")
                     tgt.write_text(
                         body[0] + "\n\n## Stack A\n\n## Stack B\n\n" + "\n".join(body[1:]),

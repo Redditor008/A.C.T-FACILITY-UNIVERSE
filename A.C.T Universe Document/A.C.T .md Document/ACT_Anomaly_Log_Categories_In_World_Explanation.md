@@ -11,7 +11,8 @@
 - [CATEGORY VII — Recovered Document & Archive Dossier](#category-vii--recovered-document--archive-dossier)
 - [CATEGORY VIII — Behavioral & Observation Dossier](#category-viii--behavioral--observation-dossier)
 - [CATEGORY IX — Transformation & Utilization Dossier](#category-ix--transformation--utilization-dossier)
-- [CATEGORY X — Communication & Internal Correspondence Dossier](#category-x--communication--internal-correspondence-dossier)
+- [CATEGORY X — Communication & Internal Correspondence
+Dossier](#category-x--communication--internal-correspondence-dossier)
 - [CATEGORY XI — Audio / Video / Sensor Dossier](#category-xi--audio--video--sensor-dossier)
 - [CATEGORY XII — Personal & Recovered Journal Dossier](#category-xii--personal--recovered-journal-dossier)
 

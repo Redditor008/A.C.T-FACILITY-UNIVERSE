@@ -5,13 +5,6 @@ been the wrong word for them since Tuesday. History implies distance, a settled 
 can no longer reach up through paper and procedure to touch anyone living, and these files
 had made a liar of that comfortably.
 
-History implied distance. It implied that whatever violence had produced the present had already settled into shape
-and could no longer reach up through paper and procedure to touch the living.
-But the deeper she moved into the ERE
-files, the less they resembled the dead past of the Facility and the more
-they resembled a system still under
-tension—something buried, compressed, and waiting for the wrong pressure to split it open.
-
 The oldest surviving ERE records were housed in a side branch of Lower Archive
 that most people only knew existed
 because its environmental diagnostics occasionally failed and produced maintenance tickets no one wanted. The corridor

@@ -1,7 +1,8 @@
 # A.C.T FACILITY ARCHIVE FILE — Site Doctrine, Site Classification, and Installation Structure
 ## Contents
 
-- [Site Doctrine, Site Classification, and Installation Structure](#site-doctrine-site-classification-and-installation-structure)
+- [Site Doctrine, Site Classification, and Installation
+Structure](#site-doctrine-site-classification-and-installation-structure)
 - [Purpose](#purpose)
 - [1. Definition of a SITE](#1-definition-of-a-site)
 - [2. Criteria Required for SITE Recognition](#2-criteria-required-for-site-recognition)

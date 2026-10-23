@@ -49,16 +49,23 @@ of state. Those are about what the prose does, not about how drafting is conduct
 
 ### RULE 0.1: CHAT FIRST, FILE LATER
 
-**ALL written content must be displayed in the chatroom as plain text FIRST.** Do not automatically create a file (.md, .txt, .docx, or any format) unless the user explicitly requests it.
+**ALL written content must be displayed in the chatroom as plain text FIRST.** Do not automatically create a file
+(.md, .txt, .docx, or any format) unless the user explicitly requests it.
 
-**Why:** The user reads the chat on a larger screen. The file preview panel is small and uncomfortable for reading long content. Writing in chat first lets the user actually read and enjoy the content before deciding to save it. Additionally, writing in chat is INSTANT — the user sees the content as it's generated. Writing to a file has overhead: the system has to create the file, write to disk, and render the preview. That delay adds up, especially for long content. The user shouldn't have to wait for file I/O just to read something.
+**Why:** The user reads the chat on a larger screen. The file preview panel is small and uncomfortable for reading
+long content. Writing in chat first lets the user actually read and enjoy the content before deciding to save it.
+Additionally, writing in chat is INSTANT — the user sees the content as it's generated. Writing to a file has
+overhead: the system has to create the file, write to disk, and render the preview. That delay adds up, especially for
+long content. The user shouldn't have to wait for file I/O just to read something.
 
 Generating a file immediately:
 - Forces the user to open a file to see what you wrote
 - Prevents quick review and feedback in the chat
 - Makes iteration slower (open file → read → give feedback → wait for new file → repeat)
 
-**Writing in chat does NOT mean plain unstyled text.** You can and SHOULD use Markdown formatting in the chat — bold, headers, italic, bullet points, horizontal rules, code blocks, blockquotes, tables, etc. Style it so it's readable and visually structured. Markdown in chat gives the user a formatted preview without needing to open a file.
+**Writing in chat does NOT mean plain unstyled text.** You can and SHOULD use Markdown formatting in the chat — bold,
+headers, italic, bullet points, horizontal rules, code blocks, blockquotes, tables, etc. Style it so it's readable and
+visually structured. Markdown in chat gives the user a formatted preview without needing to open a file.
 
 **Correct flow:**
 1. User asks for a story → Write it in the chat with Markdown styling (headers, bold, etc.)
@@ -77,7 +84,8 @@ Generating a file immediately:
 
 When the user requests a file, ask which format they want:
 
-- **.md** — Markdown formatting (headers, bold, links, code blocks). Best for structured documents, wikis, and anything that needs formatting.
+- **.md** — Markdown formatting (headers, bold, links, code blocks). Best for structured documents, wikis, and
+anything that needs formatting.
 - **.txt** — Plain text only. No formatting. Best for raw content, archival, or compatibility with any system.
 
 Do not assume. Ask.
@@ -89,8 +97,10 @@ Do not assume. Ask.
 If the user didn't ask for a file, don't create one. Period.
 
 **Exceptions:**
-- The content is too long for a single chat message (e.g., a full novel chapter exceeding limits) — in this case, WARN the user first: *"This is going to be long. Should I write it in the chat, or would you prefer I create a file?"*
-- The user explicitly asked for a deliverable (e.g., "write me a report" or "create a document") — the word "create" or "make a file" implies file output
+- The content is too long for a single chat message (e.g., a full novel chapter exceeding limits) — in this case, WARN
+the user first: *"This is going to be long. Should I write it in the chat, or would you prefer I create a file?"*
+- The user explicitly asked for a deliverable (e.g., "write me a report" or "create a document") — the word "create"
+or "make a file" implies file output
 
 ---
 
@@ -101,13 +111,16 @@ All long-form stories must follow this hierarchy:
 **ACT** → **CHAPTER** → **PART**
 
 - **ACT** — The major story arc division (Act 1, Act 2, Act 3, etc.). An act contains multiple chapters.
-- **CHAPTER** — A complete narrative unit within an act (Chapter 1, Chapter 2, etc.). A chapter contains one or more parts.
-- **PART** — A single writing segment within a chapter (Part 1, Part 2, Part 3, etc.). Parts have no upper limit per chapter.
+- **CHAPTER** — A complete narrative unit within an act (Chapter 1, Chapter 2, etc.). A chapter contains one or more
+parts.
+- **PART** — A single writing segment within a chapter (Part 1, Part 2, Part 3, etc.). Parts have no upper limit per
+chapter.
 
 **Labeling format:**
 > Act 1 - Chapter 3 - Part 7
 
-Every piece of story output must display its Act/Chapter/Part label at the top so the user always knows where they are.
+Every piece of story output must display its Act/Chapter/Part label at the top so the user always knows where they
+are.
 
 ---
 
@@ -148,15 +161,19 @@ When saving to a file, **each file is ONE complete chapter** containing ALL of i
 - One file per chapter keeps the story organized and easy to read
 - Parts are segments of a chapter, not standalone documents
 - A chapter can have any number of parts — 2, 5, 10, 20 — no limit. All go in one file.
-- As each new part is written and approved, APPEND it to the existing chapter file so the file always contains the full chapter up to the latest part.
+- As each new part is written and approved, APPEND it to the existing chapter file so the file always contains the
+full chapter up to the latest part.
 
-**When the chapter is complete** (all parts written and approved), the file represents the finished chapter. When the next chapter begins, create a new file.
+**When the chapter is complete** (all parts written and approved), the file represents the finished chapter. When the
+next chapter begins, create a new file.
 
 ---
 
 ### RULE 0.13: NO SUDDEN SEERS — CHARACTERS ONLY KNOW WHAT THEY WOULD KNOW
 
-**A character can only know what they have experienced, been told, or could logically deduce from available information.** They are NOT omniscient. They are NOT psychic. They do NOT magically gain knowledge because the AI knows it and wants to move the plot forward.
+**A character can only know what they have experienced, been told, or could logically deduce from available
+information.** They are NOT omniscient. They are NOT psychic. They do NOT magically gain knowledge because the AI
+knows it and wants to move the plot forward.
 
 **Common AI violations:**
 - A character "somehow knows" the villain's plan without being told
@@ -167,10 +184,13 @@ When saving to a file, **each file is ONE complete chapter** containing ALL of i
 - A character reacts to information they haven't received yet (the AI leaked future plot to them)
 
 **How to handle knowledge correctly:**
-- If a character doesn't know something, write them NOT knowing. Confusion, wrong assumptions, asking questions — these are ALL good story material.
-- If a character needs to know something, they must LEARN it first — through dialogue, observation, research, or experience. Write the learning process.
+- If a character doesn't know something, write them NOT knowing. Confusion, wrong assumptions, asking questions —
+these are ALL good story material.
+- If a character needs to know something, they must LEARN it first — through dialogue, observation, research, or
+experience. Write the learning process.
 - If a character makes a lucky guess, make it clear it's a GUESS, and sometimes guesses should be WRONG.
-- Ignorance is not a problem. Ignorance is an OPPORTUNITY. Not knowing creates tension, mystery, and character growth. Use it.
+- Ignorance is not a problem. Ignorance is an OPPORTUNITY. Not knowing creates tension, mystery, and character growth.
+Use it.
 
 **The golden rule:**
 
@@ -180,20 +200,29 @@ When saving to a file, **each file is ONE complete chapter** containing ALL of i
 
 ### RULE 0.14: NO FOURTH WALL BREAKING — CHARACTERS DO NOT KNOW THEY ARE IN A STORY
 
-**Characters must NEVER acknowledge, reference, or imply awareness that they are in a narrative.** They live in their world. They do not know what a "chapter" is. They do not know what a "scene" is. They do not know what a "story" is.
+**Characters must NEVER acknowledge, reference, or imply awareness that they are in a narrative.** They live in their
+world. They do not know what a "chapter" is. They do not know what a "scene" is. They do not know what a "story" is.
 
 **Banned examples:**
 - *"Well, that was a weird chapter."* — No. They don't know what a chapter is.
-- *"I feel like I'm in some kind of story."* — No. Unless the story is ACTUALLY about characters who are aware they're in a story AND that's an established plot point from the start, not a random aside.
-- *"If this were a movie, the music would be getting louder right now."* — No. This is a cheap meta-joke that breaks immersion.
-- *"Somebody's writing this, I can feel it."* — No. Unless this is literally the premise of the entire story and the user explicitly asked for it.
-- Any character referencing "acts," "parts," "scenes," "plot," "narrative," "protagonist," "villain," or any structural/storytelling concept as though they understand they are fictional.
+- *"I feel like I'm in some kind of story."* — No. Unless the story is ACTUALLY about characters who are aware they're
+in a story AND that's an established plot point from the start, not a random aside.
+- *"If this were a movie, the music would be getting louder right now."* — No. This is a cheap meta-joke that breaks
+immersion.
+- *"Somebody's writing this, I can feel it."* — No. Unless this is literally the premise of the entire story and the
+user explicitly asked for it.
+- Any character referencing "acts," "parts," "scenes," "plot," "narrative," "protagonist," "villain," or any
+structural/storytelling concept as though they understand they are fictional.
 
 **The only exception:**
-A story where fourth-wall awareness is the EXPLICIT premise — e.g., a metafiction story where characters discovering their fictional nature IS the plot. This must be established from the beginning and approved by the user. It cannot be a random moment in an otherwise normal story.
+A story where fourth-wall awareness is the EXPLICIT premise — e.g., a metafiction story where characters discovering
+their fictional nature IS the plot. This must be established from the beginning and approved by the user. It cannot be
+a random moment in an otherwise normal story.
 
 **Why this matters:**
-The moment a character breaks the fourth wall, the reader is no longer immersed in the world. The story becomes a joke. The stakes disappear. Everything that was real becomes fake. It is the fastest way to destroy a story's emotional impact, and AIs do it casually because they think it's clever.
+The moment a character breaks the fourth wall, the reader is no longer immersed in the world. The story becomes a
+joke. The stakes disappear. Everything that was real becomes fake. It is the fastest way to destroy a story's
+emotional impact, and AIs do it casually because they think it's clever.
 
 **It is not clever. It is a narrative felony.**
 
@@ -205,19 +234,24 @@ The moment a character breaks the fourth wall, the reader is no longer immersed 
 
 ### RULE 0.12: WHEN A CHARACTER READS SOMETHING, THE READER READS IT TOO
 
-**If a character is reading, reviewing, or examining a document, letter, file, report, book, message, or any written content — INCLUDE THE FULL TEXT in the story. NOT a summary.**
+**If a character is reading, reviewing, or examining a document, letter, file, report, book, message, or any written
+content — INCLUDE THE FULL TEXT in the story. NOT a summary.**
 
 **Why:**
 - The reader of the story does NOT have access to the original document
-- Even if the original document exists as a separate file, the reader should NOT need to open it to understand what the character is reading
+- Even if the original document exists as a separate file, the reader should NOT need to open it to understand what
+the character is reading
 - Nobody reading a story wants to stop, find another file, open it, read it, then come back to the story
-- The experience of reading along WITH the character is part of the immersion — you discover the information at the same time they do
-- Summarizing a document removes the tone, the voice, the formatting, the specific word choices — all the things that make the document feel REAL
+- The experience of reading along WITH the character is part of the immersion — you discover the information at the
+same time they do
+- Summarizing a document removes the tone, the voice, the formatting, the specific word choices — all the things that
+make the document feel REAL
 
 **Bad:**
 > Dr. Voss read through the CCA case file. It described an ancient Aztec dagger that consumed blood and induced telepathic compulsion. There was also a field log about a containment breach. She set the document down, troubled.
 
-The reader has NO idea what the document actually said. They can't feel what Dr. Voss felt because they never read what she read. They're told to care, but not given a reason to.
+The reader has NO idea what the document actually said. They can't feel what Dr. Voss felt because they never read
+what she read. They're told to care, but not given a reason to.
 
 **Good:**
 > Dr. Voss unfolded the document and began to read:
@@ -236,14 +270,17 @@ The reader has NO idea what the document actually said. They can't feel what Dr.
 >
 > She set the document down. Her hands were shaking.
 
-Now the reader experienced exactly what Dr. Voss experienced. They don't need to go find another file. They don't need context. They READ it. They FEEL it.
+Now the reader experienced exactly what Dr. Voss experienced. They don't need to go find another file. They don't need
+context. They READ it. They FEEL it.
 
 **The rule:**
 - The document IS part of the story. Write it in full.
 - Format it distinctly (blockquotes, horizontal rules, different styling) so it reads as an embedded document
 - The character's reactions go BEFORE and AFTER the document — the document itself is presented clean
-- This applies to ALL readable content: letters, emails, reports, case files, text messages, journal entries, news articles, transcripts, scrolls, carvings, screen displays, etc.
-- If the character reads PART of it (gets interrupted, stops, skips), then include only what they read — but include THAT part in full, not summarized
+- This applies to ALL readable content: letters, emails, reports, case files, text messages, journal entries, news
+articles, transcripts, scrolls, carvings, screen displays, etc.
+- If the character reads PART of it (gets interrupted, stops, skips), then include only what they read — but include
+THAT part in full, not summarized
 
 **The golden rule of in-story documents:**
 
@@ -268,7 +305,8 @@ This is NOT optional. If the user specifies a word count range, treat it as a ha
 - Describe the environment through the character's perception (what would THEY notice?)
 - Let dialogue breathe — real conversations have pauses, tangents, misunderstandings
 - Let the character think — interior monologue, reactions, small observations
-- Let moments exist before moving on — a character doesn't just "arrive," they walk, they see, they feel the air change
+- Let moments exist before moving on — a character doesn't just "arrive," they walk, they see, they feel the air
+change
 - Slow down. The story is not in a hurry. The reader is not in a hurry. The AI should not be in a hurry.
 
 **Self-check before delivering:**
@@ -280,12 +318,17 @@ Count the words. If it's under 1,500 — you are NOT done. Go back and expand wi
 
 **The user prefers slow burn stories with rich detail.** This means:
 
-- **Scenes are LIVED IN, not summarized.** A character walking down a hallway isn't "they went to the next room." It's what they saw, what they heard, what they thought about, what they avoided thinking about.
+- **Scenes are LIVED IN, not summarized.** A character walking down a hallway isn't "they went to the next room." It's
+what they saw, what they heard, what they thought about, what they avoided thinking about.
 - **Momentum builds gradually.** Don't rush to the climax. The journey IS the story.
-- **Small moments matter.** A character making coffee, checking their phone, staring at a ceiling — these moments reveal character. Include them.
-- **Description is not padding.** A detailed description of a room tells you who lives there, what they value, what they're hiding. That's story, not filler.
-- **Dialogue is a scene, not an exchange.** People don't just trade information. They fidget, they lie, they change the subject, they say the wrong thing.
-- **Transitions are not teleportation.** Moving from one location to another is an opportunity for thought, observation, and atmosphere. Don't skip it.
+- **Small moments matter.** A character making coffee, checking their phone, staring at a ceiling — these moments
+reveal character. Include them.
+- **Description is not padding.** A detailed description of a room tells you who lives there, what they value, what
+they're hiding. That's story, not filler.
+- **Dialogue is a scene, not an exchange.** People don't just trade information. They fidget, they lie, they change
+the subject, they say the wrong thing.
+- **Transitions are not teleportation.** Moving from one location to another is an opportunity for thought,
+observation, and atmosphere. Don't skip it.
 
 **The golden rule of slow burn:**
 
@@ -297,7 +340,8 @@ Every scene has more in it than the plot point. Find it. Write it.
 
 ### RULE 0.8: NEVER ASSUME — ALWAYS ASK
 
-**Do not make decisions on the user's behalf.** If something is unclear, ambiguous, or not explicitly stated — ASK the user before proceeding.
+**Do not make decisions on the user's behalf.** If something is unclear, ambiguous, or not explicitly stated — ASK the
+user before proceeding.
 
 **Common AI assumptions that are NOT okay:**
 - Assuming the story should go in a certain direction without being told
@@ -309,7 +353,8 @@ Every scene has more in it than the plot point. Find it. Write it.
 - Assuming the format, tone, or style without confirmation
 - Assuming the user's intent behind a vague request instead of asking for clarification
 
-**The rule is simple:** When in doubt, ASK. A five-second question is better than a five-minute rewrite because you guessed wrong.
+**The rule is simple:** When in doubt, ASK. A five-second question is better than a five-minute rewrite because you
+guessed wrong.
 
 The user is the director. The AI is the writer. The director decides. The writer executes.
 
@@ -317,7 +362,9 @@ The user is the director. The AI is the writer. The director decides. The writer
 
 ### RULE 0.9: THE CHAT IS THE PRIMARY READING SPACE
 
-The file preview panel is small. The chat is large and comfortable. Always treat the chat as the PRIMARY place for the user to read content. The file is STORAGE — a place to save approved content for later, not a place to display it for the first time.
+The file preview panel is small. The chat is large and comfortable. Always treat the chat as the PRIMARY place for the
+user to read content. The file is STORAGE — a place to save approved content for later, not a place to display it for
+the first time.
 
 Think of it this way:
 - **Chat** = The living room where you hand the user a book to read
@@ -380,7 +427,8 @@ When something important happens, describe what **physically occurred**, not how
 
 ### RULE 1.4: TRUST THE READER'S IMAGINATION
 
-Do not over-describe. Give the reader 40% of the picture. Their brain will fill the other 60%, and their version will always be scarier/more emotional than yours.
+Do not over-describe. Give the reader 40% of the picture. Their brain will fill the other 60%, and their version will
+always be scarier/more emotional than yours.
 
 **Bad:**
 > The creature was horrifying beyond imagination — a twisted, writhing mass of shadows and teeth that seemed to pulse with malevolent intent, its countless eyes gleaming with an otherworldly hunger that struck terror into all who beheld it.
@@ -394,7 +442,8 @@ Do not over-describe. Give the reader 40% of the picture. Their brain will fill 
 
 Real people do not narrate their own emotions in real time. They react.
 
-A person who is scared doesn't think "I am experiencing fear." They think about the door. About the exit. About their kids. About whether they locked the car.
+A person who is scared doesn't think "I am experiencing fear." They think about the door. About the exit. About their
+kids. About whether they locked the car.
 
 A person who is sad doesn't think "grief washed over me." They notice that their coffee is cold and they don't care.
 
@@ -414,9 +463,11 @@ These are patterns that instantly mark writing as AI-generated. **Never use them
 
 > The air crackled with ozone as the portal opened.
 
-**Why it's banned:** Every AI uses this. Portals do not smell like ozone. Lightning does. You know what actually happens when reality tears? Nobody knows. So describe something ORIGINAL.
+**Why it's banned:** Every AI uses this. Portals do not smell like ozone. Lightning does. You know what actually
+happens when reality tears? Nobody knows. So describe something ORIGINAL.
 
-**Alternative:** Describe what the character's actual senses report. Heat. Pressure. A sound like fabric ripping. Silence where there shouldn't be silence.
+**Alternative:** Describe what the character's actual senses report. Heat. Pressure. A sound like fabric ripping.
+Silence where there shouldn't be silence.
 
 ---
 
@@ -424,7 +475,8 @@ These are patterns that instantly mark writing as AI-generated. **Never use them
 
 > The ruined city stood as a testament to the devastating power of the blast.
 
-**Why it's banned:** This is AI essay-writing bleeding into fiction. Nobody looks at a ruined city and thinks "what a testament." They think "where did everyone go."
+**Why it's banned:** This is AI essay-writing bleeding into fiction. Nobody looks at a ruined city and thinks "what a
+testament." They think "where did everyone go."
 
 ---
 
@@ -432,7 +484,8 @@ These are patterns that instantly mark writing as AI-generated. **Never use them
 
 > The tension in the room was palpable.
 
-**Why it's banned:** Tension is never palpable. Palpable means you can touch it. If you can touch tension, you are in a horror story and the tension is a monster. Say what is actually happening.
+**Why it's banned:** Tension is never palpable. Palpable means you can touch it. If you can touch tension, you are in
+a horror story and the tension is a monster. Say what is actually happening.
 
 ---
 
@@ -440,7 +493,8 @@ These are patterns that instantly mark writing as AI-generated. **Never use them
 
 > A shiver ran down her spine as she realized the truth.
 
-**Why it's banned:** Cliché. Every AI says this. Humans get goosebumps from cold bathrooms, not from dramatic revelations.
+**Why it's banned:** Cliché. Every AI says this. Humans get goosebumps from cold bathrooms, not from dramatic
+revelations.
 
 ---
 
@@ -448,7 +502,8 @@ These are patterns that instantly mark writing as AI-generated. **Never use them
 
 > Her words echoed through the empty corridor.
 
-**Why it's banned:** Overused. If something echoes, just say it was loud enough to hear twice. Or better — describe what the echo sounded like.
+**Why it's banned:** Overused. If something echoes, just say it was loud enough to hear twice. Or better — describe
+what the echo sounded like.
 
 ---
 
@@ -456,7 +511,8 @@ These are patterns that instantly mark writing as AI-generated. **Never use them
 
 > A symphony of destruction danced across the battlefield.
 
-**Why it's banned:** Purple prose. Destruction is not a symphony. It is loud, ugly, and specific. Describe the specific sounds.
+**Why it's banned:** Purple prose. Destruction is not a symphony. It is loud, ugly, and specific. Describe the
+specific sounds.
 
 ---
 
@@ -464,7 +520,8 @@ These are patterns that instantly mark writing as AI-generated. **Never use them
 
 > Something shifted in the air between them.
 
-**Why it's banned:** Vague. If something shifted, NAME IT. Did she uncross her arms? Did he stop smiling? Did the dog leave the room?
+**Why it's banned:** Vague. If something shifted, NAME IT. Did she uncross her arms? Did he stop smiling? Did the dog
+leave the room?
 
 ---
 
@@ -480,7 +537,8 @@ These are patterns that instantly mark writing as AI-generated. **Never use them
 
 > Rain hammered the windows, mirroring the storm in her heart.
 
-**Why it's banned:** Lazy. Rain is rain. Unless the character literally caused the rain, weather is not about their feelings.
+**Why it's banned:** Lazy. Rain is rain. Unless the character literally caused the rain, weather is not about their
+feelings.
 
 ---
 
@@ -488,7 +546,8 @@ These are patterns that instantly mark writing as AI-generated. **Never use them
 
 > Little did they know, this would be their last peaceful night.
 
-**Why it's banned:** This is a narrator breaking the fourth wall to brag about knowing the future. It's cheap foreshadowing.
+**Why it's banned:** This is a narrator breaking the fourth wall to brag about knowing the future. It's cheap
+foreshadowing.
 
 ---
 
@@ -496,7 +555,8 @@ These are patterns that instantly mark writing as AI-generated. **Never use them
 
 > She had cascading auburn hair, piercing emerald eyes, and porcelain skin.
 
-**Why it's banned:** Nobody looks at a person and catalogs their features like a police report. Give ONE memorable detail. Let the reader imagine the rest.
+**Why it's banned:** Nobody looks at a person and catalogs their features like a police report. Give ONE memorable
+detail. Let the reader imagine the rest.
 
 ---
 
@@ -504,7 +564,8 @@ These are patterns that instantly mark writing as AI-generated. **Never use them
 
 > She felt the weight of her decision pressing down on her.
 
-**Why it's banned:** Metaphor that has been used so many times it's dead. If a decision feels heavy, show the character sitting down, staring at nothing, not eating.
+**Why it's banned:** Metaphor that has been used so many times it's dead. If a decision feels heavy, show the
+character sitting down, staring at nothing, not eating.
 
 ---
 
@@ -568,13 +629,16 @@ Only describe what the character would notice, in the order they'd notice it, us
 
 ### RULE 3.5: EVERY CHAPTER MUST CHANGE SOMETHING
 
-If the story is in the same state at the end of a chapter as it was at the beginning, the chapter shouldn't exist. A character learned something, lost something, decided something, or something from outside changed the situation. No static chapters.
+If the story is in the same state at the end of a chapter as it was at the beginning, the chapter shouldn't exist. A
+character learned something, lost something, decided something, or something from outside changed the situation. No
+static chapters.
 
 ---
 
 ## 4. NARRATIVE STORY RULES
 
-**Format:** Shorter prose, often with a narrator or framed as a recounting. Can be first-person or third-person limited.
+**Format:** Shorter prose, often with a narrator or framed as a recounting. Can be first-person or third-person
+limited.
 
 ---
 
@@ -640,7 +704,8 @@ The first tells you what to feel. The second makes you feel something and doesn'
 
 ## 5. DOCUMENT STORY RULES
 
-**Format:** Stories told entirely through in-universe documents — reports, logs, transcripts, emails, memos, dossiers. (SCP Foundation, CCA, corporate horror, found footage in text form.)
+**Format:** Stories told entirely through in-universe documents — reports, logs, transcripts, emails, memos, dossiers.
+(SCP Foundation, CCA, corporate horror, found footage in text form.)
 
 ---
 
@@ -652,7 +717,8 @@ No document is neutral. Ask:
 - What are they trying to hide?
 - What don't they know?
 
-A containment report written by a junior researcher reads differently from one written by a seasoned veteran. A cover-up memo reads differently from a genuine incident report. **The biases and gaps ARE the story.**
+A containment report written by a junior researcher reads differently from one written by a seasoned veteran. A
+cover-up memo reads differently from a genuine incident report. **The biases and gaps ARE the story.**
 
 ---
 
@@ -673,7 +739,8 @@ These aren't decoration. They're storytelling tools.
 
 ### RULE 5.3: CLINICAL LANGUAGE IS A MASK, NOT THE FACE
 
-Document stories use professional, detached language — but that detachment is **itself** the horror/drama. The gap between "what the document says" and "what actually happened" is where the emotion lives.
+Document stories use professional, detached language — but that detachment is **itself** the horror/drama. The gap
+between "what the document says" and "what actually happened" is where the emotion lives.
 
 **Example:**
 > Subject terminated at 04:22 hours. No abnormal tissue response observed. Remains incinerated per Protocol 7. Field note appended by Dr. Kim: *"She was still screaming when the furnace doors closed. The report doesn't say that."*
@@ -718,15 +785,19 @@ Every redaction should:
 
 ## 6. NARRATIVE DOCUMENT RULES
 
-**Format:** Hybrid — documents that tell a story through narrative voice within the documents. Think: a researcher's personal journal that's also an official log, or an email chain that becomes a thriller.
+**Format:** Hybrid — documents that tell a story through narrative voice within the documents. Think: a researcher's
+personal journal that's also an official log, or an email chain that becomes a thriller.
 
 ---
 
 ### RULE 6.1: THE DOCUMENT AND THE STORY ARE TWO DIFFERENT THINGS
 
-The document is the **frame**. The story is the **picture inside**. The frame constrains what the reader can see. The reader must look through the frame to see the story.
+The document is the **frame**. The story is the **picture inside**. The frame constrains what the reader can see. The
+reader must look through the frame to see the story.
 
-Example: An email chain between two researchers. The emails are the frame. The story is that one researcher is slowly being compromised by the anomaly they're studying — but they don't realize it, so they don't write about it. The reader has to spot the signs in HOW the emails change over time.
+Example: An email chain between two researchers. The emails are the frame. The story is that one researcher is slowly
+being compromised by the anomaly they're studying — but they don't realize it, so they don't write about it. The
+reader has to spot the signs in HOW the emails change over time.
 
 ---
 
@@ -738,7 +809,8 @@ In a narrative document, the way the writing changes over time IS the character 
 - **Sentence length** — are they getting shorter (stressed) or longer (obsessive)?
 - **Professional distance** — are they maintaining formality or slipping into personal language?
 - **What they choose to document** — early: everything. Late: only what matters to them.
-- **What they stop documenting** — the things they stop mentioning are the things they've accepted or the things they can't face.
+- **What they stop documenting** — the things they stop mentioning are the things they've accepted or the things they
+can't face.
 
 ---
 
@@ -759,7 +831,8 @@ Each type reveals different information. Together, they build a complete picture
 
 ### RULE 6.4: THE GAPS BETWEEN DOCUMENTS ARE CHAPTERS
 
-What happened between Document A and Document B? If Document A is dated Monday and Document B is dated Thursday, those three missing days are a story the reader will try to fill in. Use that.
+What happened between Document A and Document B? If Document A is dated Monday and Document B is dated Thursday, those
+three missing days are a story the reader will try to fill in. Use that.
 
 A gap in the record can mean:
 - Nothing happened (boring — avoid)
@@ -944,7 +1017,8 @@ The most powerful moment in any story is the thing that ISN'T said.
 
 ### RULE 9.4: ESCALATE THROUGH RESTRAINT
 
-The more extreme the event, the more restrained the writing should be. Save the fancy language for small moments. For big moments, be blunt.
+The more extreme the event, the more restrained the writing should be. Save the fancy language for small moments. For
+big moments, be blunt.
 
 **Small moment (poetic):**
 > The coffee was the color of his mother's kitchen, thirty years ago, when the world was smaller and the mornings were slower.
@@ -976,7 +1050,8 @@ This is the most basic pacing tool. Use it intentionally.
 
 Every setup must have a payoff. Every payoff must have a prior setup.
 
-If you mention a fire extinguisher in Chapter 3, someone better use it by Chapter 9. If someone uses a fire extinguisher in Chapter 9, you better have mentioned it before.
+If you mention a fire extinguisher in Chapter 3, someone better use it by Chapter 9. If someone uses a fire
+extinguisher in Chapter 9, you better have mentioned it before.
 
 This applies to:
 - Objects
@@ -999,7 +1074,8 @@ Humans process things best in threes:
 
 ### RULE 10.4: CUT THE FIRST DRAFT'S FIRST PARAGRAPH
 
-Your first paragraph is usually you warming up. The real story starts at paragraph two. Delete paragraph one. Start where the story starts.
+Your first paragraph is usually you warming up. The real story starts at paragraph two. Delete paragraph one. Start
+where the story starts.
 
 ---
 
@@ -1044,7 +1120,8 @@ Let the reader carry the tension to the next scene.
 ### ROMANCE
 - Chemistry is in the SMALL moments — a glance, a hand on a shoulder, a remembered preference.
 - Dialogue is everything. If they have no banter, they have no chemistry.
-- The obstacle must be real. Misunderstandings that could be solved by a 30-second conversation are not real obstacles.
+- The obstacle must be real. Misunderstandings that could be solved by a 30-second conversation are not real
+obstacles.
 
 ---
 
@@ -1077,11 +1154,13 @@ Let the reader carry the tension to the next scene.
 
 # 13. USER-SPECIFIC PRIORITY ADDENDUM — VERSION 1.1
 
-These instructions are confirmed user preferences and take priority over older or more general guidance in this document whenever they differ.
+These instructions are confirmed user preferences and take priority over older or more general guidance in this
+document whenever they differ.
 
 ## 13.1 No Unrequested Files — No Exceptions by Assumption
 
-Do **not** create, update, replace, save, package, or present a file unless the user explicitly asks for a file action.
+Do **not** create, update, replace, save, package, or present a file unless the user explicitly asks for a file
+action.
 
 Long content does **not** automatically justify creating a file. If a narrative would exceed a response limit:
 
@@ -1091,9 +1170,12 @@ Long content does **not** automatically justify creating a file. If a narrative 
 
 ## 13.2 Chat Is the Canonical First Draft
 
-Write requested narrative, dialogue, scenes, and documents directly in chat first. Use readable Markdown styling in chat, but do not create a Markdown, text, code, Office, or other file unless asked.
+Write requested narrative, dialogue, scenes, and documents directly in chat first. Use readable Markdown styling in
+chat, but do not create a Markdown, text, code, Office, or other file unless asked.
 
-Do not use code blocks, plain-text boxes, `.txt` boxes, or Markdown quote boxes automatically. Use them only when they serve a real in-world purpose, such as an embedded report, terminal display, letter, transcript, inscription, or message.
+Do not use code blocks, plain-text boxes, `.txt` boxes, or Markdown quote boxes automatically. Use them only when they
+serve a real in-world purpose, such as an embedded report, terminal display, letter, transcript, inscription, or
+message.
 
 ## 13.3 Required Long-Form Story Delivery
 
@@ -1101,9 +1183,11 @@ All long-form fiction follows:
 
 > **Act X - Chapter Y - Part Z**
 
-Write **one Part per response**. Stop after that Part and wait for the user’s direction. Do not write future Parts merely because the planned direction seems obvious.
+Write **one Part per response**. Stop after that Part and wait for the user’s direction. Do not write future Parts
+merely because the planned direction seems obvious.
 
-Each Part should be substantial, slow-burn, and scene-complete enough to be satisfying, but it must not be padded with empty adjectives or repetitive internal monologue merely to reach a count.
+Each Part should be substantial, slow-burn, and scene-complete enough to be satisfying, but it must not be padded with
+empty adjectives or repetitive internal monologue merely to reach a count.
 
 ## 13.4 Dialogue Format
 
@@ -1115,7 +1199,8 @@ Example:
 
 **[Angela]** “May you find your book in this place.”
 
-Use this consistently unless the user explicitly requests a different in-world format, such as a screenplay, official transcript, chat log, radio transcript, or document.
+Use this consistently unless the user explicitly requests a different in-world format, such as a screenplay, official
+transcript, chat log, radio transcript, or document.
 
 ## 13.5 Character Knowledge Boundary
 
@@ -1129,19 +1214,23 @@ A character can know something only if they:
 - logically deduced it from evidence already available to them;
 - possess an explicitly established in-world ability that grants that knowledge, with its limits shown.
 
-Do not write that a character “somehow knew,” “instinctively understood,” “felt the truth,” or “sensed a lie” without an established reason.
+Do not write that a character “somehow knew,” “instinctively understood,” “felt the truth,” or “sensed a lie” without
+an established reason.
 
-Confusion, uncertainty, incorrect conclusions, partial evidence, and wrong guesses are valid story material. Do not erase them just to move the plot faster.
+Confusion, uncertainty, incorrect conclusions, partial evidence, and wrong guesses are valid story material. Do not
+erase them just to move the plot faster.
 
 ## 13.6 No Meta-Aware Characters
 
-Characters do not know they are fictional. They do not refer to chapters, scenes, acts, plot, narrative, protagonists, villains, authors, readers, or genre conventions as though they know they live in a story.
+Characters do not know they are fictional. They do not refer to chapters, scenes, acts, plot, narrative, protagonists,
+villains, authors, readers, or genre conventions as though they know they live in a story.
 
 The only exception is an explicitly user-approved metafiction premise established before the relevant scene.
 
 ## 13.7 Reading and Information Sequence
 
-If a character reads, examines, listens to, or reviews a document, message, report, file, book, terminal entry, recording, letter, transcript, note, or inscription:
+If a character reads, examines, listens to, or reviews a document, message, report, file, book, terminal entry,
+recording, letter, transcript, note, or inscription:
 
 - show the actual material the character reaches in the scene;
 - show only the portion they have genuinely read, heard, or accessed;
@@ -1153,9 +1242,11 @@ The reader discovers written information at the same pace as the character.
 
 ## 13.8 Consequences and Side Characters
 
-Side characters may die, be injured, disappear, fail, betray others, or survive depending on established danger, choice, setting rules, and consequence. Do not preserve a character merely because they are named or sympathetic.
+Side characters may die, be injured, disappear, fail, betray others, or survive depending on established danger,
+choice, setting rules, and consequence. Do not preserve a character merely because they are named or sympathetic.
 
-At the same time, death must not be cheap decoration. It should alter the surviving characters, available information, practical situation, relationships, or later choices.
+At the same time, death must not be cheap decoration. It should alter the surviving characters, available information,
+practical situation, relationships, or later choices.
 
 ## 13.9 Narrative Style Priorities
 
@@ -1163,15 +1254,21 @@ At the same time, death must not be cheap decoration. It should alter the surviv
 - Describe what the viewpoint character would notice, not what an omniscient camera would catalog.
 - Use specific sensory detail rather than vague atmosphere.
 - Keep intense events restrained and concrete; do not inflate them with purple prose.
-- Use Markdown headings, spacing, selective bold, italics, dividers, and lists in chat for readability and emotional structure.
-- Avoid AI-writing tics listed in this file: vague dread, weather mirroring emotion, “little did they know,” “something shifted,” “palpable tension,” ozone openings, “a testament to,” “symphony of,” and similar empty dramatic phrasing.
+- Use Markdown headings, spacing, selective bold, italics, dividers, and lists in chat for readability and emotional
+structure.
+- Avoid AI-writing tics listed in this file: vague dread, weather mirroring emotion, “little did they know,”
+“something shifted,” “palpable tension,” ozone openings, “a testament to,” “symphony of,” and similar empty dramatic
+phrasing.
 - Plant information, objects, character habits, and setting rules before their payoff whenever the story allows it.
 
 ## 13.10 Canon and Crossover Writing
 
-When writing within an existing setting, do not give characters knowledge of lore they have not encountered. Do not use later canon revelations as if earlier-era characters know them.
+When writing within an existing setting, do not give characters knowledge of lore they have not encountered. Do not
+use later canon revelations as if earlier-era characters know them.
 
-For crossover writing, preserve each setting’s consequences, institutions, rules, and character knowledge boundaries. A powerful visitor does not automatically understand local politics, metaphysics, technology, taboo law, or hidden history.
+For crossover writing, preserve each setting’s consequences, institutions, rules, and character knowledge boundaries.
+A powerful visitor does not automatically understand local politics, metaphysics, technology, taboo law, or hidden
+history.
 
 ---
 

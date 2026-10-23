@@ -1,7 +1,7 @@
 # A.C.T FACILITY ARCHIVE FILE — Floor Dossier — F-5, Redaction and Controlled-Reading Laboratory
 
-Floor Dossier — F-5, Redaction and Controlled-Reading Laboratory / ACT-SITE-03-JP-E — Kurokawa Archive Node
-Eastern Japan
+Floor Dossier — F-5, Redaction and Controlled-Reading Laboratory
+/ ACT-SITE-03-JP-E — Kurokawa Archive Node Eastern Japan
 | FIELD | VALUE |
 |---|---|
 | ARCHIVE STATUS | Active |

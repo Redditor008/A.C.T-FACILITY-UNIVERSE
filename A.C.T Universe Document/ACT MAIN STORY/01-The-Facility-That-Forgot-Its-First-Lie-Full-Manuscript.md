@@ -7,11 +7,6 @@
 
 "Pull the 014 request again," Sera said, and heard her own voice go flat the way it did
 
-It waited on the archiver’s desk when the shift lamps rose from their dim red sleep-cycle to a working white, its
-surface already stamped with clearance marks before the room had fully warmed. No messenger. No verbal handoff. No
-security escort. Just a thin black folder laid exactly parallel to the edge of the workstation, as though the desk
-itself had produced it during the night.
-
 That, more than the restricted seal, made Sera Vey pause.
 
 Ordinary archive requests were never elegant. They came with routing errors, half-legible approvals, duplicate
@@ -41,10 +36,10 @@ a route, a form to be signed, and a limit beyond which it became a medical probl
 
 Sera opened the folder anyway.
 
-Inside was a list of archival discrepancies stretching across twelve pages. Old ENTITY files.
-Pre-standard records. Vault references that had never been fully brought into modern AFD
-indexing. Contradictory metadata. Mismatched dates. Duplicate designation histories.
-Cross-reference failures between sealed physical records and later digitized archive structure.
+Inside was a list of archival discrepancies stretching across twelve pages. Old ENTITY files. Pre-standard records.
+Vault references that had never been fully brought into modern AFD
+indexing. Contradictory metadata. Mismatched dates. Duplicate designation histories. Cross-reference failures between
+sealed physical records and later digitized archive structure.
 
 Boring, at first glance.
 
@@ -447,8 +442,8 @@ at content and started looking at signatures.
 People lied. Paper lied. But patterns of handwriting lied differently.
 
 She pulled up scanned ledger margins, transfer initials, review marks, seal notations. At
-first the result looked like noise. Different centuries of pen pressure. Different inks.
-Different levels of fatigue. Then one little inconsistency split open the whole field.
+first the result looked like noise. Different centuries of pen pressure. Different inks. Different levels of fatigue.
+Then one little inconsistency split open the whole field.
 
 A looping capital on a review note in an early abyss transfer record
 matched the hand on a later inventory correction twenty-one years apart.
@@ -489,8 +484,8 @@ A moment later, a secondary line appeared beneath it.
 
 Sera sat very still.
 
-If she escalated, the request would log. If it logged, someone would notice the cluster.
-If someone noticed the cluster, one of two things would happen: they would either decide
+If she escalated, the request would log. If it logged, someone would notice the cluster. If someone noticed the
+cluster, one of two things would happen: they would either decide
 she had found nothing important, or decide she had found exactly the wrong thing.
 
 She closed the prompt without responding.
@@ -786,8 +781,8 @@ Sera stepped into the corridor proper. “What is A.R.R.?”
 
 He went still.
 
-Not visibly enough for anyone walking by to notice. But Sera saw it.
-The tiny pause in the shoulder. The slight tightening of the jaw.
+Not visibly enough for anyone walking by to notice. But Sera saw it. The tiny pause in the shoulder. The slight
+tightening of the jaw.
 
 “You should not know that code.”
 
@@ -1003,11 +998,6 @@ It had been teaching its own people how to live inside what was missing.
 
 Sera opened the evidence envelope and stopped breathing through her nose. Scent came off
 
-It should not have been possible for paper to remember scent after that many years, not through filtered air, sealed
-sleeves, preservation resin, and the layered indifference of time. Yet when Sera opened the first evidence envelope
-from the pre-classification botanical shelves, a faint trace escaped into the cold archive air—something dry, floral,
-and metallic, as though frost had been steeped in gold and left to rot beneath glass.
-
 She froze with the sleeve half-drawn from its case.
 
 Not because the smell was strong.
@@ -1196,8 +1186,8 @@ When she finally answered, she did so with the care people used around high-volt
 
 Sera said nothing.
 
-Mila glanced toward the now-closed door. “She notices what is present. All of it.
-People. Movement. Hidden things. The wrong kind of residue.” Her eyes flicked, briefly,
+Mila glanced toward the now-closed door. “She notices what is present. All of it. People. Movement. Hidden things. The
+wrong kind of residue.” Her eyes flicked, briefly,
 to the envelope on Sera’s desk. “Sometimes she notices what should not be present too.”
 
 That did not calm Sera in the slightest.
@@ -1307,11 +1297,6 @@ doctrine, beneath corrected history, something slept—and something rooted itse
 
 Sera stopped filing the ERE records on the fifth day, and nobody told her to. History had
 
-History implied distance. It implied that whatever violence had produced the present had already settled into shape
-and could no longer reach up through paper and procedure to touch the living. But the deeper she moved into the ERE
-files, the less they resembled the dead past of the Facility and the more they resembled a system still under
-tension—something buried, compressed, and waiting for the wrong pressure to split it open.
-
 The oldest surviving ERE records were housed in a side branch of Lower Archive that most people only knew existed
 because its environmental diagnostics occasionally failed and produced maintenance tickets no one wanted. The corridor
 leading there was narrower than the other archive routes and lined with reinforced glass panels now rendered opaque by
@@ -1412,8 +1397,8 @@ They had not found the route by drilling blind. They had followed something.
 
 She pulled the next carton toward her and opened it with shaking fingers. Inside were map sheets
 layered in protective mesh, each more chaotic than the clean architectural plans used in modern
-Facility archives. Measurements sprawled into margins. Tunnel lines crossed out and redrawn.
-Pressure guesses corrected by hand. And through all of it, in gold pencil now faded almost to
+Facility archives. Measurements sprawled into margins. Tunnel lines crossed out and redrawn. Pressure guesses
+corrected by hand. And through all of it, in gold pencil now faded almost to
 nothing, the same descent path appeared over and over—tightening, correcting, refusing to vanish.
 
 One corner note had been underlined so heavily it had torn the paper fibers.
@@ -1595,8 +1580,6 @@ It had been an answer to a call no one remembered receiving.
 
 Sera wrote the question on the back of a routing slip before she had decided to ask it:
 
-What had they actually found when they got there?
-
 Not the version preserved in the historical summaries. Not the clean doctrine-line later repeated in archive overviews
 and training references. Not the polished truth that said the founders discovered an uncapturable entity below the
 Earth and built the first doctrine around the necessity of keeping it asleep.
@@ -1618,8 +1601,8 @@ the mechanical body of the Facility touched the truth its archive tried not to d
 
 The abyss branch of maintenance history was scattered across unrelated systems—Central lift
 stress logs, coolant deviation reports, anti-reality mesh load balancing, dormant seismic
-buffers, old reinforcement manifests from before the current floor map had finished stabilizing.
-Each record by itself looked meaningless. Together they formed something close to an outline.
+buffers, old reinforcement manifests from before the current floor map had finished stabilizing. Each record by itself
+looked meaningless. Together they formed something close to an outline.
 
 A shape beneath the shape.
 
@@ -1632,8 +1615,8 @@ That was the first clue.
 
 A chamber required doors, locks, pressure, reinforced surfaces, localized controls. This
 system behaved differently. It distributed strain upward through structural lines that
-should have been independent. It fed signal into dormant mesh layers below mapped floors.
-It rerouted support around periods of what the oldest logs called “deep movement response.”
+should have been independent. It fed signal into dormant mesh layers below mapped floors. It rerouted support around
+periods of what the oldest logs called “deep movement response.”
 
 Movement.
 
@@ -1935,8 +1918,8 @@ So instead she did what the archive had taught her.
 She built the truth sideways.
 
 A hidden comparison ledger. Cross-indexed stroke notes. Signature geometry stripped of
-names. Date-line overlays built from dead records and surviving maintenance references.
-No one proof by itself. Only a pattern too coherent to remain accidental once seen whole.
+names. Date-line overlays built from dead records and surviving maintenance references. No one proof by itself. Only a
+pattern too coherent to remain accidental once seen whole.
 
 The founders had not simply vanished into legend and title.
 
@@ -2393,9 +2376,6 @@ It was the operating condition of the present.
 
 "Coincidence," the reviewer said, and turned the page. By the ninth day Sera could not
 
-Not inside the Facility. Not inside the archive. Not in any record that
-bent the same way too many times and expected to be called history.
-
 The pieces were finally close enough to touch one another.
 
 ERE had not found the abyss by accident. The route had arrived first in dreams, in compulsions,
@@ -2624,8 +2604,8 @@ After she left, Sera remained alone in the annex until the wall clock slipped fo
 time. She looked at the shadow file, at the survivor lines, at the rewritten founder signatures, at the
 pharmacological dependency chain, and felt the story converge at last.
 
-ERE was drawn downward. NEMNOLIA came with the abyss. The founders erased themselves.
-The O5 inherited a structure built over self-inflicted forgetting. And the institution
+ERE was drawn downward. NEMNOLIA came with the abyss. The founders erased themselves. The O5 inherited a structure
+built over self-inflicted forgetting. And the institution
 that controlled memory did so because its own memory had become part of containment.
 
 She opened a fresh page and wrote the line she had spent days circling.
@@ -2668,10 +2648,7 @@ had done when it was time to choose between truth and continuity.
 
 Sera braced for the pain and it did not come. By then danger in the Facility usually
 
-Sera had expected pain.
-
-By then, danger inside the Facility usually announced itself through something measurable: elevated pulse, nausea,
-tremor, cold sweat, the pressure behind the eyes that meant a memetic screen had thinned somewhere nearby. Even fear
+Even fear
 came with known shapes. She knew the architecture of stress. The body told the truth long before the archive did.
 
 But what came after the revelation of the first lie was quieter.
@@ -2904,8 +2881,8 @@ By the time she left the dead copy room, the Facility felt subtly altered. Not e
 corridors. The lights remained the same sterile light. The personnel moved according to the same routines, the same
 checkpoint habits, the same buried clockwork. But Sera could no longer experience any of it as neutral.
 
-Every hall was part of a larger agreement. Every silence was a seal.
-Every administrative omission might be mercy in procedural clothing.
+Every hall was part of a larger agreement. Every silence was a seal. Every administrative omission might be mercy in
+procedural clothing.
 
 Halfway back to her station she stopped without meaning to.
 
@@ -2998,10 +2975,7 @@ It was what learning threatened to turn you into.
 
 Sera worked the arithmetic on the back of a form she had no authority to be holding, and
 
-It arrived as arithmetic.
-
-By the time Sera understood that fully remembering the truth might itself become a route, she
-had already lost the luxury of dramatic choices. There would be no clean exposure, no righteous
+There would be no clean exposure, no righteous
 confrontation in a command chamber, no singular moment where truth, once spoken aloud, would
 free anyone from what the Facility had done to survive. The structure she was inside had been
 built by people who had already reached the end of that path and chosen mutilation over clarity.

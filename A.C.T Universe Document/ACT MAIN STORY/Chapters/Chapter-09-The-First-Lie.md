@@ -5,10 +5,6 @@ hear the word without counting. Nothing inside the Facility, nothing inside the 
 nothing in any record that bent the same way too many times and expected to be called
 history.
 
-Not inside the Facility. Not inside the archive. Not in any record that bent
-the same way too many times and expected
-to be called history.
-
 The pieces were finally close enough to touch one another.
 
 ERE had not found the abyss by accident. The route had arrived first in

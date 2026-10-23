@@ -4,8 +4,6 @@ Sera wrote the question on the back of a routing slip before she had decided to 
 *what did they actually find when they got down there.* Not the version in the historical
 summaries. Not the clean doctrine line repeated in every orientation deck since.
 
-What had they actually found when they got there?
-
 Not the version preserved in the historical summaries. Not the clean doctrine-line later repeated in archive overviews
 and training references. Not the polished truth that said the founders discovered an uncapturable entity below the
 Earth and built the first doctrine around the necessity of keeping it asleep.

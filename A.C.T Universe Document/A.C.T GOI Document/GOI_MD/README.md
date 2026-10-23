@@ -48,7 +48,9 @@ grid table. Tables, boxes, and complex structured layouts use portable ASCII cha
 Unicode box-drawing characters are not used. Each dossier also uses the same header-field order,
 archive-control fields, section order, plain-text mirror rule, and in-world A.C.T archive voice.
 
-The controlled form is maintained at [CONTROLLED RECORD FORM](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/00_GOI_Record_Template.md). It is the required
+The controlled form is maintained at [CONTROLLED RECORD
+FORM](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/00_GOI_Record_Template.md).
+It is the required
 starting structure for every future original dossier.
 
 ---
@@ -65,14 +67,20 @@ GOI Registry, Rival Powers, and External Threat Doctrine, Archive Record
 ```
 
 - `GOI-GV-P-001` — Government Anti Anomaly / GAA
-  - [GOI-GV-P-001](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-GV-P-001-Government-Anti-Anomaly-GAA.md)
-  - [GOI-GV-P-001](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-GV-P-001-Government-Anti-Anomaly-GAA.txt)
+-
+[GOI-GV-P-001](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-GV-P-001-Government-Anti-Anomaly-GAA.md)
+-
+[GOI-GV-P-001](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-GV-P-001-Government-Anti-Anomaly-GAA.txt)
 - `GOI-ML-X-014` — Anti-Global Anomaly / A-GA
-  - [GOI-ML-X-014](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-ML-X-014-Anti-Global-Anomaly-A-GA.md)
-  - [GOI-ML-X-014](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-ML-X-014-Anti-Global-Anomaly-A-GA.txt)
+-
+[GOI-ML-X-014](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-ML-X-014-Anti-Global-Anomaly-A-GA.md)
+-
+[GOI-ML-X-014](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-ML-X-014-Anti-Global-Anomaly-A-GA.txt)
 - `GOI-BS-T-027` — Anstrall Market
-  - [GOI-BS-T-027](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-BS-T-027-Anstrall-Market.md)
-  - [GOI-BS-T-027](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-BS-T-027-Anstrall-Market.txt)
+-
+[GOI-BS-T-027](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-BS-T-027-Anstrall-Market.md)
+-
+[GOI-BS-T-027](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-BS-T-027-Anstrall-Market.txt)
 
 Their established designations and classification stacks are retained. Their individual records provide detailed
 in-world A.C.T operational treatment: identity, membership, organization, assets, holdings, jurisdiction, history with
@@ -84,86 +92,139 @@ The following original dossiers were created under separate registry creation or
 twenty provisional roadmap candidates.
 
 - `GOI-CU-X-048` — Children of the Deep / CoTD
-  - [GOI-CU-X-048](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-CU-X-048-Children-of-the-Deep-CoTD.md)
-  - [GOI-CU-X-048](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-CU-X-048-Children-of-the-Deep-CoTD.txt)
+-
+[GOI-CU-X-048](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-CU-X-048-Children-of-the-Deep-CoTD.md)
+-
+[GOI-CU-X-048](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-CU-X-048-Children-of-the-Deep-CoTD.txt)
 - `GOI-CP-B-049` — DREAM .INC / DREAM
-  - [GOI-CP-B-049](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-CP-B-049-DREAM-INC.md)
-  - [GOI-CP-B-049](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-CP-B-049-DREAM-INC.txt)
+-
+[GOI-CP-B-049](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-CP-B-049-DREAM-INC.md)
+-
+[GOI-CP-B-049](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-CP-B-049-DREAM-INC.txt)
 - `GOI-ML-X-050` — Liberty Freedoms / L.F.
-  - [GOI-ML-X-050](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-ML-X-050-Liberty-Freedoms-LF.md)
-  - [GOI-ML-X-050](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-ML-X-050-Liberty-Freedoms-LF.txt)
+-
+[GOI-ML-X-050](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-ML-X-050-Liberty-Freedoms-LF.md)
+-
+[GOI-ML-X-050](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-ML-X-050-Liberty-Freedoms-LF.txt)
 - `GOI-HY-U-051` — Mysterious Guild / The Guild
-  - [GOI-HY-U-051](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-HY-U-051-Mysterious-Guild.md)
-  - [GOI-HY-U-051](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-HY-U-051-Mysterious-Guild.txt)
+-
+[GOI-HY-U-051](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-HY-U-051-Mysterious-Guild.md)
+-
+[GOI-HY-U-051](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-HY-U-051-Mysterious-Guild.txt)
 - `GOI-HY-X-052` — Amazoo Circus / Amazoo
-  - [GOI-HY-X-052](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-HY-X-052-Amazoo-Circus.md)
-  - [GOI-HY-X-052](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-HY-X-052-Amazoo-Circus.txt)
+-
+[GOI-HY-X-052](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-HY-X-052-Amazoo-Circus.md)
+-
+[GOI-HY-X-052](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-HY-X-052-Amazoo-Circus.txt)
 - `GOI-HY-W-053` — Missing 404 Watch Tower / M404-WT
-  - [GOI-HY-W-053](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-HY-W-053-Missing-404-Watch-Tower.md)
-  - [GOI-HY-W-053](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-HY-W-053-Missing-404-Watch-Tower.txt)
+-
+[GOI-HY-W-053](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-HY-W-053-Missing-404-Watch-Tower.md)
+-
+[GOI-HY-W-053](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-HY-W-053-Missing-404-Watch-Tower.txt)
 - `GOI-CP-P-054` — Lullaby Works / LW
-  - [GOI-CP-P-054](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-CP-P-054-Lullaby-Works.md)
-  - [GOI-CP-P-054](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-CP-P-054-Lullaby-Works.txt)
+-
+[GOI-CP-P-054](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-CP-P-054-Lullaby-Works.md)
+-
+[GOI-CP-P-054](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-CP-P-054-Lullaby-Works.txt)
 - `GOI-CP-W-055` — Cairn & Lintel / C&L
-  - [GOI-CP-W-055](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-CP-W-055-Cairn-and-Lintel.md)
-  - [GOI-CP-W-055](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-CP-W-055-Cairn-and-Lintel.txt)
+-
+[GOI-CP-W-055](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-CP-W-055-Cairn-and-Lintel.md)
+-
+[GOI-CP-W-055](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-CP-W-055-Cairn-and-Lintel.txt)
 - `GOI-CP-P-056` — Saint-Vera Restoration Concern / SVRC
-  - [GOI-CP-P-056](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-CP-P-056-Saint-Vera-Restoration-Concern.md)
-  - [GOI-CP-P-056](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-CP-P-056-Saint-Vera-Restoration-Concern.txt)
+-
+[GOI-CP-P-056](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-CP-P-056-Saint-Vera-Restoration-Concern.md)
+-
+[GOI-CP-P-056](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-CP-P-056-Saint-Vera-Restoration-Concern.txt)
 - `GOI-GV-W-057` — Bureau of Unquiet Borders / BUB
-  - [GOI-GV-W-057](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-GV-W-057-Bureau-of-Unquiet-Borders.md)
-  - [GOI-GV-W-057](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-GV-W-057-Bureau-of-Unquiet-Borders.txt)
+-
+[GOI-GV-W-057](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-GV-W-057-Bureau-of-Unquiet-Borders.md)
+-
+[GOI-GV-W-057](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-GV-W-057-Bureau-of-Unquiet-Borders.txt)
 - `GOI-GV-N-058` — Crown Office of Ash Keys / COAK
-  - [GOI-GV-N-058](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-GV-N-058-Crown-Office-of-Ash-Keys.md)
-  - [GOI-GV-N-058](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-GV-N-058-Crown-Office-of-Ash-Keys.txt)
+-
+[GOI-GV-N-058](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-GV-N-058-Crown-Office-of-Ash-Keys.md)
+-
+[GOI-GV-N-058](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-GV-N-058-Crown-Office-of-Ash-Keys.txt)
 - `GOI-GV-P-059` — Grey Harbor Civil Rescue Directorate / GHCRD
-  - [GOI-GV-P-059](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-GV-P-059-Grey-Harbor-Civil-Rescue-Directorate.md)
+-
+[GOI-GV-P-059](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-GV-P-059-Grey-Harbor-Civil-Rescue-Directorate.md)
   - GOI-GV-P-059 — Grey Harbor Civil Rescue Directorate
 - `GOI-GV-X-060` — Office for Witness Continuance / OWC
-  - [GOI-GV-X-060](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-GV-X-060-Office-for-Witness-Continuance.md)
-  - [GOI-GV-X-060](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-GV-X-060-Office-for-Witness-Continuance.txt)
+-
+[GOI-GV-X-060](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-GV-X-060-Office-for-Witness-Continuance.md)
+-
+[GOI-GV-X-060](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-GV-X-060-Office-for-Witness-Continuance.txt)
 - `GOI-CU-P-061` — The Kindly Molt / TKM
-  - [GOI-CU-P-061](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-CU-P-061-The-Kindly-Molt.md)
-  - [GOI-CU-P-061](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-CU-P-061-The-Kindly-Molt.txt)
+-
+[GOI-CU-P-061](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-CU-P-061-The-Kindly-Molt.md)
+-
+[GOI-CU-P-061](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-CU-P-061-The-Kindly-Molt.txt)
 - `GOI-CU-X-062` — Choir of the Unforgotten Name / CUN
-  - [GOI-CU-X-062](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-CU-X-062-Choir-of-the-Unforgotten-Name.md)
-  - [GOI-CU-X-062](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-CU-X-062-Choir-of-the-Unforgotten-Name.txt)
+-
+[GOI-CU-X-062](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-CU-X-062-Choir-of-the-Unforgotten-Name.md)
+-
+[GOI-CU-X-062](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-CU-X-062-Choir-of-the-Unforgotten-Name.txt)
 - `GOI-CU-N-063` — Keepers of the Ninth Reliquary / KNR
-  - [GOI-CU-N-063](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-CU-N-063-Keepers-of-the-Ninth-Reliquary.md)
-  - [GOI-CU-N-063](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-CU-N-063-Keepers-of-the-Ninth-Reliquary.txt)
+-
+[GOI-CU-N-063](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-CU-N-063-Keepers-of-the-Ninth-Reliquary.md)
+-
+[GOI-CU-N-063](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-CU-N-063-Keepers-of-the-Ninth-Reliquary.txt)
 - `GOI-CU-P-064` — Last Bell Congregation / LBC
-  - [GOI-CU-P-064](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-CU-P-064-Last-Bell-Congregation.md)
-  - [GOI-CU-P-064](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-CU-P-064-Last-Bell-Congregation.txt)
+-
+[GOI-CU-P-064](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-CU-P-064-Last-Bell-Congregation.md)
+-
+[GOI-CU-P-064](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-CU-P-064-Last-Bell-Congregation.txt)
 - `GOI-CU-X-065` — Mercy of the Quiet Sun / MQS
-  - [GOI-CU-X-065](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-CU-X-065-Mercy-of-the-Quiet-Sun.md)
-  - [GOI-CU-X-065](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-CU-X-065-Mercy-of-the-Quiet-Sun.txt)
+-
+[GOI-CU-X-065](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-CU-X-065-Mercy-of-the-Quiet-Sun.md)
+-
+[GOI-CU-X-065](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-CU-X-065-Mercy-of-the-Quiet-Sun.txt)
 - `GOI-CU-W-066` — Archivists of the Final Dawn / AFDN
-  - [GOI-CU-W-066](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-CU-W-066-Archivists-of-the-Final-Dawn.md)
-  - [GOI-CU-W-066](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-CU-W-066-Archivists-of-the-Final-Dawn.txt)
+-
+[GOI-CU-W-066](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-CU-W-066-Archivists-of-the-Final-Dawn.md)
+-
+[GOI-CU-W-066](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-CU-W-066-Archivists-of-the-Final-Dawn.txt)
 - `GOI-BS-P-067` — Candle-Under Exchange / CUE
-  - [GOI-BS-P-067](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-BS-P-067-Candle-Under-Exchange.md)
-  - [GOI-BS-P-067](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-BS-P-067-Candle-Under-Exchange.txt)
+-
+[GOI-BS-P-067](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-BS-P-067-Candle-Under-Exchange.md)
+-
+[GOI-BS-P-067](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-BS-P-067-Candle-Under-Exchange.txt)
 - `GOI-BS-N-068` — Velvet Provenance House / VPH
-  - [GOI-BS-N-068](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-BS-N-068-Velvet-Provenance-House.md)
-  - [GOI-BS-N-068](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-BS-N-068-Velvet-Provenance-House.txt)
+-
+[GOI-BS-N-068](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-BS-N-068-Velvet-Provenance-House.md)
+-
+[GOI-BS-N-068](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-BS-N-068-Velvet-Provenance-House.txt)
 - `GOI-BS-X-069` — Namewright Bazaar / NBZ
-  - [GOI-BS-X-069](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-BS-X-069-Namewright-Bazaar.md)
-  - [GOI-BS-X-069](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-BS-X-069-Namewright-Bazaar.txt)
+-
+[GOI-BS-X-069](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-BS-X-069-Namewright-Bazaar.md)
+-
+[GOI-BS-X-069](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-BS-X-069-Namewright-Bazaar.txt)
 - `GOI-BS-W-070` — Saint Morrow Passage / SMP
-  - [GOI-BS-W-070](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-BS-W-070-Saint-Morrow-Passage.md)
-  - [GOI-BS-W-070](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-BS-W-070-Saint-Morrow-Passage.txt)
+-
+[GOI-BS-W-070](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-BS-W-070-Saint-Morrow-Passage.md)
+-
+[GOI-BS-W-070](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-BS-W-070-Saint-Morrow-Passage.txt)
 - `GOI-HY-P-071` — Mercy Lock Institute / MLI
-  - [GOI-HY-P-071](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-HY-P-071-Mercy-Lock-Institute.md)
-  - [GOI-HY-P-071](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-HY-P-071-Mercy-Lock-Institute.txt)
+-
+[GOI-HY-P-071](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-HY-P-071-Mercy-Lock-Institute.md)
+-
+[GOI-HY-P-071](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-HY-P-071-Mercy-Lock-Institute.txt)
 - `GOI-HY-X-072` — Iron Meridian Authority / IMA
-  - [GOI-HY-X-072](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-HY-X-072-Iron-Meridian-Authority.md)
-  - [GOI-HY-X-072](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-HY-X-072-Iron-Meridian-Authority.txt)
+-
+[GOI-HY-X-072](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-HY-X-072-Iron-Meridian-Authority.md)
+-
+[GOI-HY-X-072](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-HY-X-072-Iron-Meridian-Authority.txt)
 - `GOI-HY-W-073` — Lantern Accord / LTA
-  - [GOI-HY-W-073](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-HY-W-073-Lantern-Accord.md)
-  - [GOI-HY-W-073](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-HY-W-073-Lantern-Accord.txt)
+-
+[GOI-HY-W-073](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-HY-W-073-Lantern-Accord.md)
+-
+[GOI-HY-W-073](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-HY-W-073-Lantern-Accord.txt)
 - `GOI-HY-N-074` — Ninefold Ark / NFA
-  - [GOI-HY-N-074](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-HY-N-074-Ninefold-Ark.md)
-  - [GOI-HY-N-074](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-HY-N-074-Ninefold-Ark.txt)
+-
+[GOI-HY-N-074](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/GOI-HY-N-074-Ninefold-Ark.md)
+-
+[GOI-HY-N-074](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_TXT/GOI-HY-N-074-Ninefold-Ark.txt)
 
 Children of the Deep is a Cultic / Negative / Regional / Practitioner group
 assessed at Threat Level 5. Its primary
@@ -404,12 +465,14 @@ dossier pending later registry-integration work.
 - Twenty original core-GOI concepts, prepared for one-at-a-time development — Retained twenty-slot structural scaffold
   for GOI
   category planning; listed names/designations are not approved GOIs.
-- [CONTROLLED RECORD FORM](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/00_GOI_Record_Template.md) — Universal controlled in-world archive form for a future
+- [CONTROLLED RECORD
+FORM](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/00_GOI_Record_Template.md)
+— Universal controlled in-world archive form for a future
   approved original GOI dossier.
   GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE — Controlled in-world format for
   recovered
   or intercepted GOI-origin documents.
-  [Recovered_Document_Records/](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/Recovered_Document_Records)
+[Recovered_Document_Records/](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/Recovered_Document_Records)
   — Holding folder for future recovered GOI document records.
 - What the A.C.T. Universe Is, Archive Record — This folder guide.
 
@@ -500,4 +563,5 @@ approve that specific asset or a
 small bounded set. The wider SVG-first, no-generation, external-art
 prohibition, and phased-review rules remain binding under:
 
-[RESEARCH FOLDER/2026-09-06_A](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/_ARCHIVE-OPS/RESEARCH%20FOLDER/2026-09-06_A.C.T._Wiki_Scope_and_Visual_Asset_Policy.md)
+[RESEARCH
+FOLDER/2026-09-06_A](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/_ARCHIVE-OPS/RESEARCH%20FOLDER/2026-09-06_A.C.T._Wiki_Scope_and_Visual_Asset_Policy.md)

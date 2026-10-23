@@ -3802,7 +3802,9 @@ separately, because a release resting on suppressed data is a decision about the
 
 **Word counts, measured from the records after the run.** 086 1259 to 1998, 087 1248 to 1999, 088
 1184 to 1904, 089 1238 to 1972, 090 1248 to 1968, 091 1250 to 1984, 092 1206 to 1922, 093 1224 to
-1940, 094 1197 to 1910, 095 1177 to 1879. Every record now carries 14 H2 chapters and 6 pipe tables, two of them new: this group entered the upgrade with a single registry block rather than the two the earlier batches carried, so the total is lower even though the same three tables were added.
+1940, 094 1197 to 1910, 095 1177 to 1879. Every record now carries 14 H2 chapters and 6 pipe tables, two of them new:
+this group entered the upgrade with a single registry block rather than the two the earlier batches carried, so the
+total is lower even though the same three tables were added.
 
 **Nine fault-table rows exceeded the row width on the first attempt** and the dry run reported them
 before any document was written. They were shortened and re-checked; the second dry run was clean.
@@ -5541,33 +5543,71 @@ AND DEVELOPMENT records before deciding which headings actually say custody.
 
 ## Prompt End Update — 2026-10-22, Section Reorder Across 136 Records Through `d6719a1`
 
-**What was done.** 136 technology records held `TECHNICAL SPECIFICATION` before the physical or system description, with `INTERFACE AND OPERATING ENVELOPE` between the two. The house order puts the physical description first, then the specification, then the interface. Each record now follows it in the `.md` and in its `.txt` twin. Whole sections moved; no heading text and no body content changed. Records exactly on the house 14-name order rose from 85 to 109.
+**What was done.** 136 technology records held `TECHNICAL SPECIFICATION` before the physical or system description,
+with `INTERFACE AND OPERATING ENVELOPE` between the two. The house order puts the physical description first, then the
+specification, then the interface. Each record now follows it in the `.md` and in its `.txt` twin. Whole sections
+moved; no heading text and no body content changed. Records exactly on the house 14-name order rose from 85 to 109.
 
-**Defect found and fixed inside this batch.** The first run (`21e3383`) reordered the `.md` files correctly but left every `.txt` twin in the old order, changing each only by one stray blank line. Cause: the section-boundary scan looked for the next chapter heading after the blank-trimmed block start, and when blank lines preceded the physical description the scan matched that heading itself, so the extracted block was empty and the write inserted only a separator. Fix in `d6719a1`: compare against the heading's own position rather than the trimmed start.
+**Defect found and fixed inside this batch.** The first run (`21e3383`) reordered the `.md` files correctly but left
+every `.txt` twin in the old order, changing each only by one stray blank line. Cause: the section-boundary scan
+looked for the next chapter heading after the blank-trimmed block start, and when blank lines preceded the physical
+description the scan matched that heading itself, so the extracted block was empty and the write inserted only a
+separator. Fix in `d6719a1`: compare against the heading's own position rather than the trimmed start.
 
-**Validation.** Chapter order compared across all 229 records — 0 `.txt` twins out of step with their `.md`. `md` table count versus `txt` box count mismatches 0. `DOCUMENT_COUNT` 946. `TECH_MD`/`TECH_TXT` 231/231. Widest `.txt` box line 118. multiH1 0, bad-EOF 0, odd-fence 0, `git diff --check` clean. Working tree clean at `d6719a13eadb127ca7954fcfea9e6f1e1b26f17c`.
+**Validation.** Chapter order compared across all 229 records — 0 `.txt` twins out of step with their `.md`. `md`
+table count versus `txt` box count mismatches 0. `DOCUMENT_COUNT` 946. `TECH_MD`/`TECH_TXT` 231/231. Widest `.txt` box
+line 118. multiH1 0, bad-EOF 0, odd-fence 0, `git diff --check` clean. Working tree clean at
+`d6719a13eadb127ca7954fcfea9e6f1e1b26f17c`.
 
-**Immediate next work.** Owner's accepted queue: read all 98 origin sections and rename selectively where the content is really custody; build sets 073 Lantern Accord, 074 Ninefold Ark, 069 Namewright Bazaar, 070 Saint Morrow Passage (20 records, 40 files); normalise the 17 records carrying 26–27 H3s and the 7 carrying 9 numbered steps onto house 8/8.
+**Immediate next work.** Owner's accepted queue: read all 98 origin sections and rename selectively where the content
+is really custody; build sets 073 Lantern Accord, 074 Ninefold Ark, 069 Namewright Bazaar, 070 Saint Morrow Passage
+(20 records, 40 files); normalise the 17 records carrying 26–27 H3s and the 7 carrying 9 numbered steps onto house
+8/8.
 
 ## Prompt End Update — 2026-10-22, Reader Review Through `4938908`
 
-**Owner rulings taken this prompt.** `p` to proceed. Earlier in the session the owner ruled: rebuild the root README around a reader entry point; add entry files to all five document folders; add CC BY-SA 4.0; fold the two backstage folders under `_ARCHIVE-OPS/`; normalise the three content folder names; add an anomaly browsing index; rebuild `Story-Index`; retitle the BOOK; add contents lists to all 24 doctrine records; append each archive record's own name to its H1; fix the one wide line; leave `docs/index.html` alone until everything else is done.
+**Owner rulings taken this prompt.** `p` to proceed. Earlier in the session the owner ruled: rebuild the root README
+around a reader entry point; add entry files to all five document folders; add CC BY-SA 4.0; fold the two backstage
+folders under `_ARCHIVE-OPS/`; normalise the three content folder names; add an anomaly browsing index; rebuild
+`Story-Index`; retitle the BOOK; add contents lists to all 24 doctrine records; append each archive record's own name
+to its H1; fix the one wide line; leave `docs/index.html` alone until everything else is done.
 
-**Shipped.** `f2c3aed` backstage fold · `f26cba4` licence and five entry files · `e352306` root README rebuilt · `591b27f` folder names normalised · `ee1b608` anomaly index, 176 files · `bd6b4a9` story index, BOOK title, 24 contents lists · `c63e4cf` 344 H1s retitled · `05a17a4` three corrupted README twins restored · `4938908` markdown headings stripped from 15 plain-text twins.
+**Shipped.** `f2c3aed` backstage fold · `f26cba4` licence and five entry files · `e352306` root README rebuilt ·
+`591b27f` folder names normalised · `ee1b608` anomaly index, 176 files · `bd6b4a9` story index, BOOK title, 24
+contents lists · `c63e4cf` 344 H1s retitled · `05a17a4` three corrupted README twins restored · `4938908` markdown
+headings stripped from 15 plain-text twins.
 
-**Defects found and corrected in this batch.** Four, all mine. A twin lookup keyed on a hardcoded folder map reached 2 of 344 twins. A lookup keyed on filename stem then collided on `README`, which every folder has, and overwrote three plain-text READMEs with a fourth folder's title; `c63e4cf` shipped that while claiming `0 out of step` when its own output said 4. Twin pairing is now by folder position. An inline box renderer produced duplicated rule lines and truncated rows and was reverted before commit. And a parity checker that reported `5 pairs` was matching the pre-retitle H1 form; re-run correctly it reports **344 records, 344 in step, 0 mismatches, 0 without a twin**.
+**Defects found and corrected in this batch.** Four, all mine. A twin lookup keyed on a hardcoded folder map reached 2
+of 344 twins. A lookup keyed on filename stem then collided on `README`, which every folder has, and overwrote three
+plain-text READMEs with a fourth folder's title; `c63e4cf` shipped that while claiming `0 out of step` when its own
+output said 4. Twin pairing is now by folder position. An inline box renderer produced duplicated rule lines and
+truncated rows and was reverted before commit. And a parity checker that reported `5 pairs` was matching the
+pre-retitle H1 form; re-run correctly it reports **344 records, 344 in step, 0 mismatches, 0 without a twin**.
 
-**Measured state.** `DOCUMENT_COUNT` 952. Distinct H1 lines 386, most shared 3. Residual markdown headings in `.txt` twins **0**. `.txt` files using ASCII boxes **267**; holding a real markdown pipe table **5**. multiH1 0, bad-EOF 0, odd-fence 0, widest box line 118.
+**Measured state.** `DOCUMENT_COUNT` 952. Distinct H1 lines 386, most shared 3. Residual markdown headings in `.txt`
+twins **0**. `.txt` files using ASCII boxes **267**; holding a real markdown pipe table **5**. multiH1 0, bad-EOF 0,
+odd-fence 0, widest box line 118.
 
-**Open, measured this prompt.** 115 `.txt` files still carry `**` bold marks, 1,266 in total, against a twin convention that strips them; worst is `TECH-GOI-054-5` at 48. Five `.txt` files hold real markdown pipe tables where the house wants boxes. One prose line runs 353 characters in `ACT_Divisions_Personnel_and_Operational_Life_Archive.txt`. The reader pass has not reached the creation-rule folder or the technology records. The build queue still holds the 17 off-count H3 records and the four unbuilt sets `073`/`074`/`069`/`070`.
+**Open, measured this prompt.** 115 `.txt` files still carry `**` bold marks, 1,266 in total, against a twin
+convention that strips them; worst is `TECH-GOI-054-5` at 48. Five `.txt` files hold real markdown pipe tables where
+the house wants boxes. One prose line runs 353 characters in
+`ACT_Divisions_Personnel_and_Operational_Life_Archive.txt`. The reader pass has not reached the creation-rule folder
+or the technology records. The build queue still holds the 17 off-count H3 records and the four unbuilt sets
+`073`/`074`/`069`/`070`.
 
-**Guard.** A silent reset fired again at the start of this prompt — HEAD back at session base `a17dfd0` against remote `05a17a4`. The standing guard caught it before any edit. That is the eighth.
+**Guard.** A silent reset fired again at the start of this prompt — HEAD back at session base `a17dfd0` against remote
+`05a17a4`. The standing guard caught it before any edit. That is the eighth.
 
 ## Prompt End Update — 2026-10-22, H3 Count Finding Through `33ca3a6`
 
-**The owner's ruling was to cut the 10 over-count records down to the house 8 H3s. Measured before cutting, the premise turns out to be false, so nothing was deleted.**
+**The owner's ruling was to cut the 10 over-count records down to the house 8 H3s. Measured before cutting, the
+premise turns out to be false, so nothing was deleted.**
 
-The figure of 8 was taken from `TECH-ACT-007-Static-Pulse-Crystal` and treated as a house rule. It is one record's shape. Across the 212 records that sit at 8 there are 1,273 distinct H3 names, and **1,194 of them appear in a single record only**. Exactly one name is universal: `Numbered Operating Sequence`. The other seven slots are record-specific by design — the record's own title, three interface or readout headings named for that technology, and three dated failure entries named for it. `SPC-1967 Core Song Event` can never appear in `TECH-ACT-001`.
+The figure of 8 was taken from `TECH-ACT-007-Static-Pulse-Crystal` and treated as a house rule. It is one record's
+shape. Across the 212 records that sit at 8 there are 1,273 distinct H3 names, and **1,194 of them appear in a single
+record only**. Exactly one name is universal: `Numbered Operating Sequence`. The other seven slots are record-specific
+by design — the record's own title, three interface or readout headings named for that technology, and three dated
+failure entries named for it. `SPC-1967 Core Song Event` can never appear in `TECH-ACT-001`.
 
 So 8 is a slot count, not a cap. All 10 over-count records carry every structural anchor the shape implies:
 
@@ -5577,11 +5617,15 @@ So 8 is a slot count, not a cap. All 10 over-count records carry every structura
     Numbered Operating Seq .. 10 of 10
     dated failure entries ... 10 of 10, exactly 3 each
 
-Their extra H3s subsection other chapters — physical description, operating procedure, known limits, division use, cross-references — which the 212-record family keeps as prose inside the chapter.
+Their extra H3s subsection other chapters — physical description, operating procedure, known limits, division use,
+cross-references — which the 212-record family keeps as prose inside the chapter.
 
-Cutting `TECH-ACT-001` to 8 would remove roughly 2,500 of its 3,494 words, including `Handling Rules` at 361 words, `Technology Relationship` at 331, `Site Grid and Transport Variants` at 328 and `Practical Function` at 206. That is a content loss against a rule that does not exist.
+Cutting `TECH-ACT-001` to 8 would remove roughly 2,500 of its 3,494 words, including `Handling Rules` at 361 words,
+`Technology Relationship` at 331, `Site Grid and Transport Variants` at 328 and `Practical Function` at 206. That is a
+content loss against a rule that does not exist.
 
-**Recommendation:** treat the 17 records as conforming and close the item, or normalise only the 3 Mercy-Lock records that lack a readouts heading. The 7 under-count records need the same re-examination before anything is added to them.
+**Recommendation:** treat the 17 records as conforming and close the item, or normalise only the 3 Mercy-Lock records
+that lack a readouts heading. The 7 under-count records need the same re-examination before anything is added to them.
 
 ## Prompt End Update — 2026-10-22, Under-Count Re-Examination and Engine Hardening
 
@@ -5589,9 +5633,17 @@ Cutting `TECH-ACT-001` to 8 would remove roughly 2,500 of its 3,494 words, inclu
 
 `TECH-GOI-071-5` was reported as missing its record title and all three failure entries. It is not incomplete: it carries 2,500 words across 14 chapters under a different naming set — `Functional Identity` for FUNCTION SUMMARY, `Transfer Procedure` for OPERATING PROCEDURE, `Failure Modes` for FAILURE HISTORY, `Restrictions`, `Division Access`, `Censorship and Knowledge Gaps`, `Archive Confidence`. The failure content is there, written as prose and bullets rather than three headed entries. `TECH-ACT-137` is complete at 2,638 words with all three failure entries and uses `PROVENANCE AND REVERSE-ENGINEERING`, `FITMENT AND BIO-FEED INTEGRATION` and `DEPLOYMENT ENVELOPE` as variant chapter names. The five Saint-Vera records are complete at roughly 2,450 words each and carry two failure entries rather than three, which is a content judgement and not a structural fault.
 
-**The `readouts` ruling is recommended against.** `TECH-GOI-071-2` carries `Signal Surface And Response` and `TECH-GOI-071-3` carries `Record Surface And Authority`. Those are the readouts slot under the family's own naming. Adding a heading called readouts would duplicate content that is already present, which is the stamping this repository removed 308 files of.
+**The `readouts` ruling is recommended against.** `TECH-GOI-071-2` carries `Signal Surface And Response` and
+`TECH-GOI-071-3` carries `Record Surface And Authority`. Those are the readouts slot under the family's own naming.
+Adding a heading called readouts would duplicate content that is already present, which is the stamping this
+repository removed 308 files of.
 
-**Engine hardened.** The box renderer placed the `=` rule one line too low, after the header's trailing rule rather than immediately below the header. Fixed. It now reproduces the `TECH-GOI-055-1` reference twin **byte-identically, 24 lines against 24**. Run across the archive, **1,136 of 1,243 boxes reproduce exactly**. Of the 107 that do not, 104 carry the correct widths and differ only because the readback joins a wrapped cell with a space before re-wrapping it, which is a measurement artifact rather than a renderer fault; the remaining 3 sit in the two files whose box widths were non-standard to begin with.
+**Engine hardened.** The box renderer placed the `=` rule one line too low, after the header's trailing rule rather
+than immediately below the header. Fixed. It now reproduces the `TECH-GOI-055-1` reference twin **byte-identically, 24
+lines against 24**. Run across the archive, **1,136 of 1,243 boxes reproduce exactly**. Of the 107 that do not, 104
+carry the correct widths and differ only because the readback joins a wrapped cell with a space before re-wrapping it,
+which is a measurement artifact rather than a renderer fault; the remaining 3 sit in the two files whose box widths
+were non-standard to begin with.
 
 `.arena/` is untracked by standing rule, so the hardened engine lives only in this workspace and will be wiped by the next silent reset. It has been rebuilt from the shipped output twice now. If it is to survive, it needs a home outside `.arena/`.
 
@@ -7193,9 +7245,8 @@ document family, so unifying them was left to the owner rather than decided here
 
 ## Prompt End Update — 2026-10-23, Separator Unified Onto ASCII At File-Measured Width; Gate Suite Audited
 
-Owner ruling on the open separator fork: unify everything onto the `+---+` form, but count each
-file's own width first so the rule becomes the max character count per row for anything using a text
-table or text box.
+Owner ruling on the open separator fork: unify everything onto the `+---+` form, but count each file's own
+width first so the rule becomes the max character count per row for anything using a text table or text box.
 
 ### The gate audit came first, and it found a blind gate
 
@@ -7205,8 +7256,7 @@ copy of the corpus and confirming the number moves. **13 fired on the first pass
 `TXT_NARROW_BAR_LINES`, added the previous batch, was **blind**. It used `set(x) > set("- ")`, which
 tests proper superset rather than "is not made only of bar characters". Almost no line qualifies, so
 `widest` fell through to its `0` default, `min(0, 118)` made the threshold `0`, and no length could
-ever be less than it. The gate read `0` against a file holding a 9-character bar over 100 characters
-of text.
+ever be less than it. The gate read `0` against a file holding a 9-character bar over 100 characters of text.
 
 **That same bug was in the measurement quoted in the previous report.** The claim that "all 6,050 bars
 are 71 wide and 0 are narrower than their file's widest line" was produced by the blind checker. The
@@ -7239,8 +7289,8 @@ rule spans the text it separates instead of stopping short.
 The 34 distinct widths are the point: a fixed 71 was wrong for most files. 2,559 bars landed at the
 118 cap and 682 at 81, and the rest spread across the range their own content demanded.
 
-The 126 box-drawing characters were `+---+` label frames in three RCT format files, converted to the
-ASCII form with the rest.
+The 126 box-drawing characters were `+---+` label frames in three
+RCT format files, converted to the ASCII form with the rest.
 
 **306 files changed, 0 corpus files whose words changed.** The one file the token comparison flags is
 `corpus_numbers.py` itself, where the code was edited deliberately. The re-flow was re-run afterwards
@@ -7304,18 +7354,17 @@ The tool exists because a gate reading 0 proves nothing on its own. The docstrin
 
 ## Prompt End Update — 2026-10-24, Box Layer Rebuilt, Newcomer Defects Fixed, Gate Suite Grown To 19
 
-This entry closes the batches between the box-drawing purge and now. Every figure below was measured
-in the turn it is quoted.
+This entry closes the batches between the box-drawing purge and
+now. Every figure below was measured in the turn it is quoted.
 
 ### The box layer
 
 The owner ruled to unify the separator onto the ASCII form and to size every rule from the file's own
-width. 6,050 box bars became `+---+` rules at 34 distinct widths from 70 to 118, and 6,042
-box-drawing characters in the markdown half went with them. **0 box-drawing characters remain in the
-corpus.**
+width. 6,050 box bars became `+---+` rules at 34 distinct widths from 70 to 118, and 6,042 box-drawing
+characters in the markdown half went with them. **0 box-drawing characters remain in the corpus.**
 
-The box re-render then took three attempts, and each failure is recorded because each one was a
-different kind of mistake:
+The box re-render then took three attempts, and each failure
+is recorded because each one was a different kind of mistake:
 
 | ATTEMPT | FAILURE | LESSON |
 |---|---|---|
@@ -7358,9 +7407,8 @@ it. The corrected measurement is what stands.
 
 `gate_audit.py` is tracked. It copies the corpus to a scratch directory, injects the defect each gate
 claims to catch, and exits with the count of gates that failed to fire. **19 gates tested, 19 fired, 0
-blind.** Two injection tests were themselves wrong and the audit caught both: a wide-line payload of
-80 characters against a 118 limit, and a title stack injected into a `.txt` file the gate does not
-count.
+blind.** Two injection tests were themselves wrong and the audit caught both: a wide-line payload of 80
+characters against a 118 limit, and a title stack injected into a `.txt` file the gate does not count.
 
 `sync.sh` now hard-refuses when HEAD is the session base. **It fired for real** on a re-clone and
 printed the recovery command instead of letting an edit proceed.
@@ -7373,6 +7421,4 @@ to fire.
 
 ### Still open
 
-4 of the 7 Start Here doors are unread: the full manuscript, Chapter 1, the history book, and the two
-folder indexes.
-
+4 of the 7 Start Here doors are unread: the full manuscript, Chapter 1, the history book, and the two folder indexes.

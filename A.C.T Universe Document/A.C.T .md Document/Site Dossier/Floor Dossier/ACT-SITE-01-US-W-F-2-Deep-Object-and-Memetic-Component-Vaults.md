@@ -1,7 +1,7 @@
 # A.C.T FACILITY ARCHIVE FILE — Floor Dossier — F-2, Deep Object and Memetic-Component Vaults
 
-Floor Dossier — F-2, Deep Object and Memetic-Component Vaults / ACT-SITE-01-US-W — Redwood Veil Complex
-Western United States
+Floor Dossier — F-2, Deep Object and Memetic-Component Vaults /
+ACT-SITE-01-US-W — Redwood Veil Complex Western United States
 | FIELD | VALUE |
 |---|---|
 | ARCHIVE STATUS | Active |

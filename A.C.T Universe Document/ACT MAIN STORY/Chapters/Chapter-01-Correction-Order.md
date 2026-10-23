@@ -5,13 +5,6 @@ when something in the archive refused to line up. The correction slip was alread
 desk when the shift lamps climbed out of sleep-cycle: no messenger, no verbal handoff, no
 escort. Just a thin black folder laid exactly parallel to the edge of the workstation.
 
-It waited on the archiver’s desk when the shift lamps rose from their dim
-red sleep-cycle to a working white, its
-surface already stamped with clearance marks before the room had fully warmed. No messenger. No verbal handoff. No
-security escort. Just a thin black folder laid exactly parallel to the edge of
-the workstation, as though the desk
-itself had produced it during the night.
-
 That, more than the restricted seal, made Sera Vey pause.
 
 Ordinary archive requests were never elegant. They came with routing errors, half-legible approvals, duplicate

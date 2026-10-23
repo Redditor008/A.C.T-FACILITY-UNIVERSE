@@ -25,7 +25,8 @@ labels, test limits, and unresolved engineering questions.
   `TECH-GOI-001-1` — GAA Legal Masking and Task-Bounded Authorization Instrument Set / Legal Masking
   Set
   — TECH-GOI-001-1 — GAA Legal Masking and Task Bounded Authorization Instrument Set
-  — [txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-001-1-GAA-Legal-Masking-and-Task-Bounded-Authorization-Instrument-Set.txt)
+—
+[txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-001-1-GAA-Legal-Masking-and-Task-Bounded-Authorization-Instrument-Set.txt)
 — `TECH-GOI-001-2` — GAA Classified Logistics and Surface Documentation Layer / GAA Logistics Layer
   — TECH-GOI-001-2 — GAA Classified Logistics and Surface Documentation Layer
   — TECH-GOI-001-2 — GAA Classified Logistics and Surface Documentation Layer
@@ -35,62 +36,76 @@ labels, test limits, and unresolved engineering questions.
 — `TECH-GOI-001-4` — GAA Compartmented Awareness and Secure
 Document-Routing Channel System / Compartmented Awareness Set
   — TECH-GOI-001-4 — GAA Compartmented Awareness and Secure Document Routing Channel System
-  — [txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-001-4-GAA-Compartmented-Awareness-and-Secure-Document-Routing-Channel-System.txt)
+—
+[txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-001-4-GAA-Compartmented-Awareness-and-Secure-Document-Routing-Channel-System.txt)
   `TECH-GOI-001-5` — GAA Function-Separated Access Point and Authority Boundary Architecture / Function-Separated
   Access
   Set
   — TECH-GOI-001-5 — GAA Function Separated Access Point and Authority Boundary Architecture
-  — [txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-001-5-GAA-Function-Separated-Access-Point-and-Authority-Boundary-Architecture.txt)
+—
+[txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-001-5-GAA-Function-Separated-Access-Point-and-Authority-Boundary-Architecture.txt)
   `TECH-GOI-014-1` — Anti-Global Anomaly Containment Interference and Chamber Breach Equipment Set / Breach
   Set
   — TECH-GOI-014-1 — Anti Global Anomaly Containment Interference and Chamber Breach Equipment Set
-  — [txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-014-1-Anti-Global-Anomaly-Containment-Interference-and-Chamber-Breach-Equipment-Set.txt)
+—
+[txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-014-1-Anti-Global-Anomaly-Containment-Interference-and-Chamber-Breach-Equipment-Set.txt)
 — `TECH-GOI-014-2` — Anti-Global Anomaly Remote Detonation and Area-Denial Tool Set / Denial Set
   — TECH-GOI-014-2 — Anti Global Anomaly Remote Detonation and Area Denial Tool Set
-  — [txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-014-2-Anti-Global-Anomaly-Remote-Detonation-and-Area-Denial-Tool-Set.txt)
+—
+[txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-014-2-Anti-Global-Anomaly-Remote-Detonation-and-Area-Denial-Tool-Set.txt)
   `TECH-GOI-014-3` — Anti-Global Anomaly Modified Surveillance, Tracking, and Transport Interception Set / Watch
   Set
-    [md](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-014-3-Anti-Global-Anomaly-Modified-Surveillance-Tracking-and-Transport-Interception-Set.md)
-  — [txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-014-3-Anti-Global-Anomaly-Modified-Surveillance-Tracking-and-Transport-Interception-Set.txt)
+[md](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-014-3-Anti-Global-Anomaly-Modified-Surveillance-Tracking-and-Transport-Interception-Set.md)
+—
+[txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-014-3-Anti-Global-Anomaly-Modified-Surveillance-Tracking-and-Transport-Interception-Set.txt)
   `TECH-GOI-014-4` — Anti-Global Anomaly Data Extraction, Document Copying, and Leak Production Set /
   Copy
   Set
   — TECH-GOI-014-4 — Anti Global Anomaly Data Extraction Document Copying and Leak Production Set
-  — [txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-014-4-Anti-Global-Anomaly-Data-Extraction-Document-Copying-and-Leak-Production-Set.txt)
+—
+[txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-014-4-Anti-Global-Anomaly-Data-Extraction-Document-Copying-and-Leak-Production-Set.txt)
   `TECH-GOI-014-5` — Anti-Global Anomaly Low-Visibility Field Workshop and Mundane-Component Procurement System /
   Field
   Workshop
-  — [md](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-014-5-Anti-Global-Anomaly-Low-Visibility-Field-Workshop-and-Mundane-Component-Procurement-System.md)
-  — [txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-014-5-Anti-Global-Anomaly-Low-Visibility-Field-Workshop-and-Mundane-Component-Procurement-System.txt)
+—
+[md](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-014-5-Anti-Global-Anomaly-Low-Visibility-Field-Workshop-and-Mundane-Component-Procurement-System.md)
+—
+[txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-014-5-Anti-Global-Anomaly-Low-Visibility-Field-Workshop-and-Mundane-Component-Procurement-System.txt)
   `TECH-GOI-027-1` — Anstrall Market Broker Claim-Control and Controlled-Description Distribution System / Broker
   Claim
   Control
   — TECH-GOI-027-1 — Anstrall Market Broker Claim Control and Controlled Description System
-  — [txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-027-1-Anstrall-Market-Broker-Claim-Control-and-Controlled-Description-System.txt)
+—
+[txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-027-1-Anstrall-Market-Broker-Claim-Control-and-Controlled-Description-System.txt)
 — `TECH-GOI-027-2` — Anstrall Market Anomalous Object Valuation and Demand-Price Ledger / Demand-Price Ledger
   — TECH-GOI-027-2 — Anstrall Market Anomalous Object Valuation and Demand Price Ledger
-  — [txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-027-2-Anstrall-Market-Anomalous-Object-Valuation-and-Demand-Price-Ledger.txt)
+—
+[txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-027-2-Anstrall-Market-Anomalous-Object-Valuation-and-Demand-Price-Ledger.txt)
   `TECH-GOI-027-3` — Anstrall Market Handler Improvised Custody Rule and Packaging Set / Handler
   Custody
   Set
   — TECH-GOI-027-3 — Anstrall Market Handler Improvised Custody Rule and Packaging Set
-  — [txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-027-3-Anstrall-Market-Handler-Improvised-Custody-Rule-and-Packaging-Set.txt)
+—
+[txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-027-3-Anstrall-Market-Handler-Improvised-Custody-Rule-and-Packaging-Set.txt)
   `TECH-GOI-027-4` — Anstrall Market Concealed Payment and False Provenance Chain System / Concealed
   Payment
   — TECH-GOI-027-4 — Anstrall Market Concealed Payment and False Provenance Chain System
-  — [txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-027-4-Anstrall-Market-Concealed-Payment-and-False-Provenance-Chain-System.txt)
+—
+[txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-027-4-Anstrall-Market-Concealed-Payment-and-False-Provenance-Chain-System.txt)
   `TECH-GOI-027-5` — Anstrall Market Staged Demonstration and Recorded Proof Exposure Set / Market
   Proof
   Set
   — TECH-GOI-027-5 — Anstrall Market Staged Demonstration and Recorded Proof Exposure Set
-  — [txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-027-5-Anstrall-Market-Staged-Demonstration-and-Recorded-Proof-Exposure-Set.txt)
+—
+[txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-027-5-Anstrall-Market-Staged-Demonstration-and-Recorded-Proof-Exposure-Set.txt)
   `TECH-GOI-048-1` — Children of the Deep Low-Frequency Sounding and Timing Apparatus / Sounding
   Apparatus
   — TECH-GOI-048-1 — CoTD Low Frequency Sounding and Timing Apparatus
   — TECH-GOI-048-1 — CoTD Low Frequency Sounding and Timing Apparatus
   `TECH-GOI-048-2` — Children of the Deep Inland Mouth Overlay Map Set / Mouth
   Maps
-  — [TECH-GOI-048-2](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-048-2-CoTD-Inland-Mouth-Overlay-Map-Set.md)
+—
+[TECH-GOI-048-2](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-048-2-CoTD-Inland-Mouth-Overlay-Map-Set.md)
   — TECH-GOI-048-2 — CoTD Inland Mouth Overlay Map Set
   `TECH-GOI-048-3` — Children of the Deep Pressure Ritual Equipment and Sealed Container Set
   /
@@ -99,13 +114,15 @@ Document-Routing Channel System / Compartmented Awareness Set
   — TECH-GOI-048-3 — CoTD Pressure Ritual Equipment and Sealed Container Set
 — `TECH-GOI-048-4` — Children of the Deep Compartmented Devotional Text,
 Distributed Recording, and Synchronized Calendar Set / Sounding Texts
-  — [md](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-048-4-CoTD-Compartmented-Devotional-Text-Distributed-Recording-and-Synchronized-Calendar-Set.md)
-  — [txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-048-4-CoTD-Compartmented-Devotional-Text-Distributed-Recording-and-Synchronized-Calendar-Set.txt)
+—
+[md](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-048-4-CoTD-Compartmented-Devotional-Text-Distributed-Recording-and-Synchronized-Calendar-Set.md)
+—
+[txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-048-4-CoTD-Compartmented-Devotional-Text-Distributed-Recording-and-Synchronized-Calendar-Set.txt)
   `TECH-GOI-048-5` — Children of the Deep Concealed Contribution and Technical Procurement System /
   Dredger
   Procurement
   — TECH-GOI-048-5 — CoTD Concealed Contribution and Technical Procurement System
-    [txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-048-5-CoTD-Concealed-Contribution-and-Technical-Procurement-System.txt)
+[txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-048-5-CoTD-Concealed-Contribution-and-Technical-Procurement-System.txt)
 — `TECH-GOI-049-1` — DREAM .INC Dream Nectar Extraction Apparatus / DNEA
   — TECH-GOI-049-1 — DREAM INC Dream Nectar Extraction Apparatus
   — TECH-GOI-049-1 — DREAM INC Dream Nectar Extraction Apparatus
@@ -124,22 +141,29 @@ Distributed Recording, and Synchronized Calendar Set / Sounding Texts
   `TECH-GOI-050-1` — Liberty Freedoms Adapted Facility Transport Fixture and Restraint Set / Adapted
   Fixtures
   — TECH-GOI-050-1 — Liberty Freedoms Adapted Facility Transport Fixture and Restraint Set
-  — [txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-050-1-Liberty-Freedoms-Adapted-Facility-Transport-Fixture-and-Restraint-Set.txt)
+—
+[txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-050-1-Liberty-Freedoms-Adapted-Facility-Transport-Fixture-and-Restraint-Set.txt)
 — `TECH-GOI-050-2` — Liberty Freedoms Facility-Format Identification and Route Knowledge Set / Format Kit
   — TECH-GOI-050-2 — Liberty Freedoms Facility Format Identification and Route Knowledge Set
-  — [txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-050-2-Liberty-Freedoms-Facility-Format-Identification-and-Route-Knowledge-Set.txt)
+—
+[txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-050-2-Liberty-Freedoms-Facility-Format-Identification-and-Route-Knowledge-Set.txt)
 — `TECH-GOI-050-3` — Liberty Freedoms Carried-Subject Transport and Temporary Care System / Carry System
   — TECH-GOI-050-3 — Liberty Freedoms Carried Subject Transport and Temporary Care System
-  — [txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-050-3-Liberty-Freedoms-Carried-Subject-Transport-and-Temporary-Care-System.txt)
+—
+[txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-050-3-Liberty-Freedoms-Carried-Subject-Transport-and-Temporary-Care-System.txt)
 — `TECH-GOI-050-4` — Liberty Freedoms Fragment-Assembly Publication and Masthead Relay System / Open Hand
   — TECH-GOI-050-4 — Liberty Freedoms Fragment Assembly Publication and Masthead Relay System
-  — [txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-050-4-Liberty-Freedoms-Fragment-Assembly-Publication-and-Masthead-Relay-System.txt)
+—
+[txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-050-4-Liberty-Freedoms-Fragment-Assembly-Publication-and-Masthead-Relay-System.txt)
 — `TECH-GOI-050-5` — Liberty Freedoms Staged-Truth Recruitment Verification and Compartmentation System / Staged Truth
-  — [md](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-050-5-Liberty-Freedoms-Staged-Truth-Recruitment-Verification-and-Compartmentation-System.md)
-  — [txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-050-5-Liberty-Freedoms-Staged-Truth-Recruitment-Verification-and-Compartmentation-System.txt)
+—
+[md](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-050-5-Liberty-Freedoms-Staged-Truth-Recruitment-Verification-and-Compartmentation-System.md)
+—
+[txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-050-5-Liberty-Freedoms-Staged-Truth-Recruitment-Verification-and-Compartmentation-System.txt)
 — `TECH-GOI-051-1` — Mysterious Guild OMEGA-KERN Gamification Protocol Control Layer / OMEGA-KERN
   — TECH-GOI-051-1 — Mysterious Guild OMEGA KERN Gamification Protocol Control Layer
-  — [txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-051-1-Mysterious-Guild-OMEGA-KERN-Gamification-Protocol-Control-Layer.txt)
+—
+[txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-051-1-Mysterious-Guild-OMEGA-KERN-Gamification-Protocol-Control-Layer.txt)
 — `TECH-GOI-051-2` — Mysterious Guild Registry Maintenance Contact System / Guild Registry
   — TECH-GOI-051-2 — Mysterious Guild Registry Maintenance Contact System
   — TECH-GOI-051-2 — Mysterious Guild Registry Maintenance Contact System
@@ -157,7 +181,7 @@ Distributed Recording, and Synchronized Calendar Set / Sounding Texts
   — TECH-GOI-052-1 — Amazoo Circus Reinforced Iron Performance Cage System
 — `TECH-GOI-052-2` — Amazoo Circus Audience Conditioning Performance Environment / ACPE
   — TECH-GOI-052-2 — Amazoo Circus Audience Conditioning Performance Environment
-    [txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-052-2-Amazoo-Circus-Audience-Conditioning-Performance-Environment.txt)
+[txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-052-2-Amazoo-Circus-Audience-Conditioning-Performance-Environment.txt)
 — `TECH-GOI-052-3` — Amazoo Circus Emotional-Siphoning Performance Frame / ESPF
   — TECH-GOI-052-3 — Amazoo Circus Emotional Siphoning Performance Frame
   — TECH-GOI-052-3 — Amazoo Circus Emotional Siphoning Performance Frame
@@ -166,7 +190,8 @@ Distributed Recording, and Synchronized Calendar Set / Sounding Texts
   — TECH-GOI-052-4 — Amazoo Circus Trauma Command and Act Naming System
 — `TECH-GOI-052-5` — Amazoo Circus Fairground Mobility and Route Concealment System / FMRC
   — TECH-GOI-052-5 — Amazoo Circus Fairground Mobility and Route Concealment System
-  — [txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-052-5-Amazoo-Circus-Fairground-Mobility-and-Route-Concealment-System.txt)
+—
+[txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-052-5-Amazoo-Circus-Fairground-Mobility-and-Route-Concealment-System.txt)
 — `TECH-GOI-053-1` — Missing 404 Watch Tower Dead-Address Ledger System / DAL
   — TECH-GOI-053-1 — Missing 404 Watch Tower Dead Address Ledger System
   — TECH-GOI-053-1 — Missing 404 Watch Tower Dead Address Ledger System
@@ -180,11 +205,13 @@ Distributed Recording, and Synchronized Calendar Set / Sounding Texts
   Signal
   Relay
   — TECH-GOI-053-4 — Missing 404 Watch Tower Locked Emergency Phone and Signal Relay
-  — [txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-053-4-Missing-404-Watch-Tower-Locked-Emergency-Phone-and-Signal-Relay.txt)
+—
+[txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-053-4-Missing-404-Watch-Tower-Locked-Emergency-Phone-and-Signal-Relay.txt)
   `TECH-GOI-053-5` — Missing 404 Watch Tower Analog Photograph and Dead-Link Vault / Photo
   Vault
   — TECH-GOI-053-5 — Missing 404 Watch Tower Analog Photograph and Dead Link Vault
-  — [txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-053-5-Missing-404-Watch-Tower-Analog-Photograph-and-Dead-Link-Vault.txt)
+—
+[txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-053-5-Missing-404-Watch-Tower-Analog-Photograph-and-Dead-Link-Vault.txt)
 — `TECH-GOI-054-1` — Lullaby Works Sleep-Safe Nightlight Lot System / Sleep-Safe Nightlight
   — TECH-GOI-054-1 — Lullaby Works Sleep Safe Nightlight Lot System
   — TECH-GOI-054-1 — Lullaby Works Sleep Safe Nightlight Lot System
@@ -230,10 +257,12 @@ Distributed Recording, and Synchronized Calendar Set / Sounding Texts
   — TECH-GOI-056-4 — Saint Vera Living Prosthetic Memory Motion System
 — `TECH-GOI-056-5` — Saint-Vera Cold Ledger and Sealed Patient Continuity Archive / Cold Ledger
   — TECH-GOI-056-5 — Saint Vera Cold Ledger and Sealed Patient Continuity Archive
-    [txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-056-5-Saint-Vera-Cold-Ledger-and-Sealed-Patient-Continuity-Archive.txt)
+[txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-056-5-Saint-Vera-Cold-Ledger-and-Sealed-Patient-Continuity-Archive.txt)
 — `TECH-GOI-071-1` — Mercy Lock Gentle Lock System / ML-GLS
-  — [TECH-GOI-071-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-071-1-Mercy-Lock-Gentle-Lock-System.md)
-  — [TECH-GOI-071-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-071-1-Mercy-Lock-Gentle-Lock-System.txt)
+—
+[TECH-GOI-071-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-071-1-Mercy-Lock-Gentle-Lock-System.md)
+—
+[TECH-GOI-071-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-071-1-Mercy-Lock-Gentle-Lock-System.txt)
 — `TECH-GOI-071-2` — Mercy Lock Patient Bell Distress Signal System / MLPBDSS
   — TECH-GOI-071-2 — Mercy Lock Patient Bell Distress Signal System
   — TECH-GOI-071-2 — Mercy Lock Patient Bell Distress Signal System
@@ -247,196 +276,317 @@ Distributed Recording, and Synchronized Calendar Set / Sounding Texts
   — TECH-GOI-071-5 — Mercy Lock Shielded Ambulance Transfer System
   — TECH-GOI-071-5 — Mercy Lock Shielded Ambulance Transfer System
 — `TECH-ACT-001` — Reality Stabilization Anchor System / RSA
-  — [TECH-ACT-001](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-001-Reality-Stabilization-Anchor-System.md)
+—
+[TECH-ACT-001](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-001-Reality-Stabilization-Anchor-System.md)
   — TECH-ACT-001 — Reality Stabilization Anchor System
 — `TECH-ACT-002` — Anti Reality Mesh System / ARM
-  — [TECH-ACT-002](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-002-Anti-Reality-Mesh-System.md)
-  — [TECH-ACT-002](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-002-Anti-Reality-Mesh-System.txt)
+—
+[TECH-ACT-002](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-002-Anti-Reality-Mesh-System.md)
+—
+[TECH-ACT-002](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-002-Anti-Reality-Mesh-System.txt)
 — `TECH-ACT-003` — Quantum Narrative Buffer System / QNB
-  — [TECH-ACT-003](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-003-Quantum-Narrative-Buffer-System.md)
-  — [TECH-ACT-003](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-003-Quantum-Narrative-Buffer-System.txt)
+—
+[TECH-ACT-003](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-003-Quantum-Narrative-Buffer-System.md)
+—
+[TECH-ACT-003](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-003-Quantum-Narrative-Buffer-System.txt)
 — `TECH-ACT-004` — 004-Series Amnestic Compound System / 004-Series
-  — [TECH-ACT-004](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-004-004-Series-Amnestic-Compound-System.md)
+—
+[TECH-ACT-004](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-004-004-Series-Amnestic-Compound-System.md)
   — TECH-ACT-004 — 004 Series Amnestic Compound System
 — `TECH-ACT-005` — Causal Static Generator System / CSG
-  — [TECH-ACT-005](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-005-Causal-Static-Generator-System.md)
-  — [TECH-ACT-005](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-005-Causal-Static-Generator-System.txt)
+—
+[TECH-ACT-005](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-005-Causal-Static-Generator-System.md)
+—
+[TECH-ACT-005](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-005-Causal-Static-Generator-System.txt)
 — `TECH-ACT-006` — Facility Converted Aircraft System / FCA
-  — [TECH-ACT-006](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-006-Facility-Converted-Aircraft-System.md)
+—
+[TECH-ACT-006](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-006-Facility-Converted-Aircraft-System.md)
   — TECH-ACT-006 — Facility Converted Aircraft System
 — `TECH-ACT-007` — Static-Pulse Crystal / SPC
-  — [TECH-ACT-007](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-007-Static-Pulse-Crystal.md)
-  — [TECH-ACT-007](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-007-Static-Pulse-Crystal.txt)
+—
+[TECH-ACT-007](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-007-Static-Pulse-Crystal.md)
+—
+[TECH-ACT-007](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-007-Static-Pulse-Crystal.txt)
 — `TECH-ACT-008` — Causal Anchor Nails / CAN
-  — [TECH-ACT-008](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-008-Causal-Anchor-Nails.md)
-  — [TECH-ACT-008](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-008-Causal-Anchor-Nails.txt)
+—
+[TECH-ACT-008](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-008-Causal-Anchor-Nails.md)
+—
+[TECH-ACT-008](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-008-Causal-Anchor-Nails.txt)
 — `TECH-ACT-009` — Chrono-Stuttered Visors / CSV
-  — [TECH-ACT-009](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-009-Chrono-Stuttered-Visors.md)
-  — [TECH-ACT-009](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-009-Chrono-Stuttered-Visors.txt)
+—
+[TECH-ACT-009](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-009-Chrono-Stuttered-Visors.md)
+—
+[TECH-ACT-009](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-009-Chrono-Stuttered-Visors.txt)
 — `TECH-ACT-010` — Digital Resonance Sensors / DRS
-  — [TECH-ACT-010](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-010-Digital-Resonance-Sensors.md)
-  — [TECH-ACT-010](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-010-Digital-Resonance-Sensors.txt)
+—
+[TECH-ACT-010](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-010-Digital-Resonance-Sensors.md)
+—
+[TECH-ACT-010](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-010-Digital-Resonance-Sensors.txt)
 — `TECH-ACT-011` — Narrative Seal Varnish / NSV
-  — [TECH-ACT-011](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-011-Narrative-Seal-Varnish.md)
-  — [TECH-ACT-011](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-011-Narrative-Seal-Varnish.txt)
+—
+[TECH-ACT-011](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-011-Narrative-Seal-Varnish.md)
+—
+[TECH-ACT-011](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-011-Narrative-Seal-Varnish.txt)
 — `TECH-ACT-012` — Banalist White-Noise Broadcast / BWB
-  — [TECH-ACT-012](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-012-Banalist-White-Noise-Broadcast.md)
-  — [TECH-ACT-012](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-012-Banalist-White-Noise-Broadcast.txt)
+—
+[TECH-ACT-012](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-012-Banalist-White-Noise-Broadcast.md)
+—
+[TECH-ACT-012](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-012-Banalist-White-Noise-Broadcast.txt)
 — `TECH-ACT-013` — Magnetic Torsion Restraints / MTR
-  — [TECH-ACT-013](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-013-Magnetic-Torsion-Restraints.md)
-  — [TECH-ACT-013](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-013-Magnetic-Torsion-Restraints.txt)
+—
+[TECH-ACT-013](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-013-Magnetic-Torsion-Restraints.md)
+—
+[TECH-ACT-013](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-013-Magnetic-Torsion-Restraints.txt)
 — `TECH-ACT-014` — Tactical Feedbacker Arm / TFA
-  — [TECH-ACT-014](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-014-Tactical-Feedbacker-Arm.md)
-  — [TECH-ACT-014](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-014-Tactical-Feedbacker-Arm.txt)
+—
+[TECH-ACT-014](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-014-Tactical-Feedbacker-Arm.md)
+—
+[TECH-ACT-014](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-014-Tactical-Feedbacker-Arm.txt)
 — `TECH-ACT-015` — Static Pulse Biometric ID / SPBID
-  — [TECH-ACT-015](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-015-Static-Pulse-Biometric-ID.md)
-  — [TECH-ACT-015](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-015-Static-Pulse-Biometric-ID.txt)
+—
+[TECH-ACT-015](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-015-Static-Pulse-Biometric-ID.md)
+—
+[TECH-ACT-015](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-015-Static-Pulse-Biometric-ID.txt)
 — `TECH-ACT-016` — Causal Tethering Cables / CTC
-  — [TECH-ACT-016](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-016-Causal-Tethering-Cables.md)
-  — [TECH-ACT-016](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-016-Causal-Tethering-Cables.txt)
+—
+[TECH-ACT-016](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-016-Causal-Tethering-Cables.md)
+—
+[TECH-ACT-016](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-016-Causal-Tethering-Cables.txt)
 — `TECH-ACT-017` — Vacuum Isolation Spheres / VIS
-  — [TECH-ACT-017](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-017-Vacuum-Isolation-Spheres.md)
-  — [TECH-ACT-017](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-017-Vacuum-Isolation-Spheres.txt)
+—
+[TECH-ACT-017](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-017-Vacuum-Isolation-Spheres.md)
+—
+[TECH-ACT-017](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-017-Vacuum-Isolation-Spheres.txt)
 — `TECH-ACT-018` — Non-Euclidean Compass / NEC
-  — [TECH-ACT-018](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-018-Non-Euclidean-Compass.md)
-  — [TECH-ACT-018](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-018-Non-Euclidean-Compass.txt)
+—
+[TECH-ACT-018](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-018-Non-Euclidean-Compass.md)
+—
+[TECH-ACT-018](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-018-Non-Euclidean-Compass.txt)
 — `TECH-ACT-019` — Cryo-Seismic Stabilizers / CSS
-  — [TECH-ACT-019](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-019-Cryo-Seismic-Stabilizers.md)
-  — [TECH-ACT-019](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-019-Cryo-Seismic-Stabilizers.txt)
+—
+[TECH-ACT-019](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-019-Cryo-Seismic-Stabilizers.md)
+—
+[TECH-ACT-019](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-019-Cryo-Seismic-Stabilizers.txt)
 — `TECH-ACT-020` — Regression-Resistant Ink / RRI
-  — [TECH-ACT-020](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-020-Regression-Resistant-Ink.md)
-  — [TECH-ACT-020](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-020-Regression-Resistant-Ink.txt)
+—
+[TECH-ACT-020](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-020-Regression-Resistant-Ink.md)
+—
+[TECH-ACT-020](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-020-Regression-Resistant-Ink.txt)
 — `TECH-ACT-021` — Spectral Vibration Sensors / SVS
-  — [TECH-ACT-021](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-021-Spectral-Vibration-Sensors.md)
-  — [TECH-ACT-021](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-021-Spectral-Vibration-Sensors.txt)
+—
+[TECH-ACT-021](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-021-Spectral-Vibration-Sensors.md)
+—
+[TECH-ACT-021](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-021-Spectral-Vibration-Sensors.txt)
 — `TECH-ACT-022` — Synthetic Sanguine-Fuel / SSF
-  — [TECH-ACT-022](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-022-Synthetic-Sanguine-Fuel.md)
-  — [TECH-ACT-022](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-022-Synthetic-Sanguine-Fuel.txt)
+—
+[TECH-ACT-022](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-022-Synthetic-Sanguine-Fuel.md)
+—
+[TECH-ACT-022](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-022-Synthetic-Sanguine-Fuel.txt)
 — `TECH-ACT-023` — Genetic Perfection Protocol / GPP
-  — [TECH-ACT-023](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-023-Genetic-Perfection-Protocol.md)
-  — [TECH-ACT-023](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-023-Genetic-Perfection-Protocol.txt)
+—
+[TECH-ACT-023](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-023-Genetic-Perfection-Protocol.md)
+—
+[TECH-ACT-023](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-023-Genetic-Perfection-Protocol.txt)
 — `TECH-ACT-024` — Pale Wood Scalpel / PWS
-  — [TECH-ACT-024](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-024-Pale-Wood-Scalpel.md)
-  — [TECH-ACT-024](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-024-Pale-Wood-Scalpel.txt)
+—
+[TECH-ACT-024](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-024-Pale-Wood-Scalpel.md)
+—
+[TECH-ACT-024](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-024-Pale-Wood-Scalpel.txt)
 — `TECH-ACT-025` — Thermal-Lure Beacon / TLB
-  — [TECH-ACT-025](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-025-Thermal-Lure-Beacon.md)
-  — [TECH-ACT-025](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-025-Thermal-Lure-Beacon.txt)
+—
+[TECH-ACT-025](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-025-Thermal-Lure-Beacon.md)
+—
+[TECH-ACT-025](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-025-Thermal-Lure-Beacon.txt)
 — `TECH-ACT-026` — Biometric Resonance Dampeners / BRD
-  — [TECH-ACT-026](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-026-Biometric-Resonance-Dampeners.md)
-  — [TECH-ACT-026](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-026-Biometric-Resonance-Dampeners.txt)
+—
+[TECH-ACT-026](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-026-Biometric-Resonance-Dampeners.md)
+—
+[TECH-ACT-026](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-026-Biometric-Resonance-Dampeners.txt)
 — `TECH-ACT-027` — Gold-Tipped Mining Drills / GTMD
-  — [TECH-ACT-027](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-027-Gold-Tipped-Mining-Drills.md)
-  — [TECH-ACT-027](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-027-Gold-Tipped-Mining-Drills.txt)
+—
+[TECH-ACT-027](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-027-Gold-Tipped-Mining-Drills.md)
+—
+[TECH-ACT-027](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-027-Gold-Tipped-Mining-Drills.txt)
 — `TECH-ACT-028` — Neural Lacing Type 004-MOD / NL-004
-  — [TECH-ACT-028](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-028-Neural-Lacing-Type-004-MOD.md)
-  — [TECH-ACT-028](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-028-Neural-Lacing-Type-004-MOD.txt)
+—
+[TECH-ACT-028](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-028-Neural-Lacing-Type-004-MOD.md)
+—
+[TECH-ACT-028](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-028-Neural-Lacing-Type-004-MOD.txt)
 — `TECH-ACT-029` — Cryogenic Biological Isolation Units / CBI
-  — [TECH-ACT-029](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-029-Cryogenic-Biological-Isolation-Units.md)
+—
+[TECH-ACT-029](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-029-Cryogenic-Biological-Isolation-Units.md)
   — TECH-ACT-029 — Cryogenic Biological Isolation Units
 — `TECH-ACT-030` — Soul-Stasis Harness / SSH
-  — [TECH-ACT-030](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-030-Soul-Stasis-Harness.md)
-  — [TECH-ACT-030](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-030-Soul-Stasis-Harness.txt)
+—
+[TECH-ACT-030](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-030-Soul-Stasis-Harness.md)
+—
+[TECH-ACT-030](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-030-Soul-Stasis-Harness.txt)
 — `TECH-ACT-031` — Adrenaline Micro-Surge Detectors / AMSD
-  — [TECH-ACT-031](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-031-Adrenaline-Micro-Surge-Detectors.md)
-  — [TECH-ACT-031](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-031-Adrenaline-Micro-Surge-Detectors.txt)
+—
+[TECH-ACT-031](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-031-Adrenaline-Micro-Surge-Detectors.md)
+—
+[TECH-ACT-031](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-031-Adrenaline-Micro-Surge-Detectors.txt)
 — `TECH-ACT-032` — HPP Resonance Scanners / HPP-RS
-  — [TECH-ACT-032](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-032-HPP-Resonance-Scanners.md)
-  — [TECH-ACT-032](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-032-HPP-Resonance-Scanners.txt)
+—
+[TECH-ACT-032](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-032-HPP-Resonance-Scanners.md)
+—
+[TECH-ACT-032](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-032-HPP-Resonance-Scanners.txt)
 — `TECH-ACT-033` — Abyssal Masonry / ABM
-  — [TECH-ACT-033](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-033-Abyssal-Masonry.md)
-  — [TECH-ACT-033](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-033-Abyssal-Masonry.txt)
+—
+[TECH-ACT-033](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-033-Abyssal-Masonry.md)
+—
+[TECH-ACT-033](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-033-Abyssal-Masonry.txt)
 — `TECH-ACT-034` — Abyssal Anchor Plating / AAP
-  — [TECH-ACT-034](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-034-Abyssal-Anchor-Plating.md)
-  — [TECH-ACT-034](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-034-Abyssal-Anchor-Plating.txt)
+—
+[TECH-ACT-034](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-034-Abyssal-Anchor-Plating.md)
+—
+[TECH-ACT-034](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-034-Abyssal-Anchor-Plating.txt)
 — `TECH-ACT-035` — Phase-Shifted Containment Glass / PSCG
-  — [TECH-ACT-035](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-035-Phase-Shifted-Containment-Glass.md)
-  — [TECH-ACT-035](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-035-Phase-Shifted-Containment-Glass.txt)
+—
+[TECH-ACT-035](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-035-Phase-Shifted-Containment-Glass.md)
+—
+[TECH-ACT-035](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-035-Phase-Shifted-Containment-Glass.txt)
 — `TECH-ACT-036` — Ectothermic Regeneration Gel / ERG
-  — [TECH-ACT-036](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-036-Ectothermic-Regeneration-Gel.md)
-  — [TECH-ACT-036](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-036-Ectothermic-Regeneration-Gel.txt)
+—
+[TECH-ACT-036](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-036-Ectothermic-Regeneration-Gel.md)
+—
+[TECH-ACT-036](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-036-Ectothermic-Regeneration-Gel.txt)
 — `TECH-ACT-037` — Sub-Abyssal Sonar / SAS
-  — [TECH-ACT-037](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-037-Sub-Abyssal-Sonar.md)
-  — [TECH-ACT-037](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-037-Sub-Abyssal-Sonar.txt)
+—
+[TECH-ACT-037](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-037-Sub-Abyssal-Sonar.md)
+—
+[TECH-ACT-037](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-037-Sub-Abyssal-Sonar.txt)
 — `TECH-ACT-038` — Causal Static Earpieces / CSE
-  — [TECH-ACT-038](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-038-Causal-Static-Earpieces.md)
-  — [TECH-ACT-038](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-038-Causal-Static-Earpieces.txt)
+—
+[TECH-ACT-038](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-038-Causal-Static-Earpieces.md)
+—
+[TECH-ACT-038](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-038-Causal-Static-Earpieces.txt)
 — `TECH-ACT-039` — High-Density Liquid Lead / HDLL
-  — [TECH-ACT-039](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-039-High-Density-Liquid-Lead.md)
-  — [TECH-ACT-039](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-039-High-Density-Liquid-Lead.txt)
+—
+[TECH-ACT-039](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-039-High-Density-Liquid-Lead.md)
+—
+[TECH-ACT-039](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-039-High-Density-Liquid-Lead.txt)
 — `TECH-ACT-040` — Vesper-Pattern Tactical AI / VPT-AI
-  — [TECH-ACT-040](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-040-Vesper-Pattern-Tactical-AI.md)
-  — [TECH-ACT-040](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-040-Vesper-Pattern-Tactical-AI.txt)
+—
+[TECH-ACT-040](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-040-Vesper-Pattern-Tactical-AI.md)
+—
+[TECH-ACT-040](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-040-Vesper-Pattern-Tactical-AI.txt)
 — `TECH-ACT-041` — Harvested Pale Wood / HPW
-  — [TECH-ACT-041](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-041-Harvested-Pale-Wood.md)
-  — [TECH-ACT-041](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-041-Harvested-Pale-Wood.txt)
+—
+[TECH-ACT-041](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-041-Harvested-Pale-Wood.md)
+—
+[TECH-ACT-041](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-041-Harvested-Pale-Wood.txt)
 — `TECH-ACT-042` — Refined Steel-Dirt / RSD
-  — [TECH-ACT-042](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-042-Refined-Steel-Dirt.md)
-  — [TECH-ACT-042](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-042-Refined-Steel-Dirt.txt)
+—
+[TECH-ACT-042](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-042-Refined-Steel-Dirt.md)
+—
+[TECH-ACT-042](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-042-Refined-Steel-Dirt.txt)
 — `TECH-ACT-043` — Galaxy-Motive Textile / GMT
-  — [TECH-ACT-043](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-043-Galaxy-Motive-Textile.md)
-  — [TECH-ACT-043](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-043-Galaxy-Motive-Textile.txt)
+—
+[TECH-ACT-043](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-043-Galaxy-Motive-Textile.md)
+—
+[TECH-ACT-043](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-043-Galaxy-Motive-Textile.txt)
 — `TECH-ACT-044` — Causal-Reactive Mercury / CRM
-  — [TECH-ACT-044](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-044-Causal-Reactive-Mercury.md)
-  — [TECH-ACT-044](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-044-Causal-Reactive-Mercury.txt)
+—
+[TECH-ACT-044](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-044-Causal-Reactive-Mercury.md)
+—
+[TECH-ACT-044](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-044-Causal-Reactive-Mercury.txt)
 — `TECH-ACT-045` — Refined NEMNOLIA Sap / RNS
-  — [TECH-ACT-045](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-045-Refined-Nemnolia-Sap.md)
-  — [TECH-ACT-045](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-045-Refined-Nemnolia-Sap.txt)
+—
+[TECH-ACT-045](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-045-Refined-Nemnolia-Sap.md)
+—
+[TECH-ACT-045](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-045-Refined-Nemnolia-Sap.txt)
 — `TECH-ACT-046` — Sanguine-Conductive Alloy / SCA
-  — [TECH-ACT-046](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-046-Sanguine-Conductive-Alloy.md)
-  — [TECH-ACT-046](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-046-Sanguine-Conductive-Alloy.txt)
+—
+[TECH-ACT-046](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-046-Sanguine-Conductive-Alloy.md)
+—
+[TECH-ACT-046](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-046-Sanguine-Conductive-Alloy.txt)
 — `TECH-ACT-047` — Phase-Stable Silicone / PSS
-  — [TECH-ACT-047](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-047-Phase-Stable-Silicone.md)
-  — [TECH-ACT-047](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-047-Phase-Stable-Silicone.txt)
+—
+[TECH-ACT-047](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-047-Phase-Stable-Silicone.md)
+—
+[TECH-ACT-047](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-047-Phase-Stable-Silicone.txt)
 — `TECH-ACT-048` — Red-River Acid (Stabilized) / RRA-S
-  — [TECH-ACT-048](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-048-Red-River-Acid-Stabilized.md)
-  — [TECH-ACT-048](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-048-Red-River-Acid-Stabilized.txt)
+—
+[TECH-ACT-048](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-048-Red-River-Acid-Stabilized.md)
+—
+[TECH-ACT-048](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-048-Red-River-Acid-Stabilized.txt)
 — `TECH-ACT-049` — Abyssal Basalt / AB-BAS
-  — [TECH-ACT-049](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-049-Abyssal-Basalt.md)
-  — [TECH-ACT-049](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-049-Abyssal-Basalt.txt)
+—
+[TECH-ACT-049](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-049-Abyssal-Basalt.md)
+—
+[TECH-ACT-049](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-049-Abyssal-Basalt.txt)
 — `TECH-ACT-050` — Digital Resonance Mapping Suite / DRM Suite
-  — [TECH-ACT-050](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-050-Digital-Resonance-Mapping-Suite.md)
-  — [TECH-ACT-050](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-050-Digital-Resonance-Mapping-Suite.txt)
+—
+[TECH-ACT-050](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-050-Digital-Resonance-Mapping-Suite.md)
+—
+[TECH-ACT-050](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-050-Digital-Resonance-Mapping-Suite.txt)
 — `TECH-ACT-051` — Steam-Drill Excavator / SDE
-  — [TECH-ACT-051](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-051-Steam-Drill-Excavator.md)
-  — [TECH-ACT-051](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-051-Steam-Drill-Excavator.txt)
+—
+[TECH-ACT-051](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-051-Steam-Drill-Excavator.md)
+—
+[TECH-ACT-051](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-051-Steam-Drill-Excavator.txt)
 — `TECH-ACT-052` — High-Density Lead Vaulting / HDLV
-  — [TECH-ACT-052](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-052-High-Density-Lead-Vaulting.md)
-  — [TECH-ACT-052](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-052-High-Density-Lead-Vaulting.txt)
+—
+[TECH-ACT-052](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-052-High-Density-Lead-Vaulting.md)
+—
+[TECH-ACT-052](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-052-High-Density-Lead-Vaulting.txt)
 — `TECH-ACT-053` — Clockwork Causal Anchors / CCA
-  — [TECH-ACT-053](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-053-Clockwork-Causal-Anchors.md)
-  — [TECH-ACT-053](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-053-Clockwork-Causal-Anchors.txt)
+—
+[TECH-ACT-053](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-053-Clockwork-Causal-Anchors.md)
+—
+[TECH-ACT-053](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-053-Clockwork-Causal-Anchors.txt)
 — `TECH-ACT-054` — Reinforced Iron Caging / RIC
-  — [TECH-ACT-054](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-054-Reinforced-Iron-Caging.md)
-  — [TECH-ACT-054](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-054-Reinforced-Iron-Caging.txt)
+—
+[TECH-ACT-054](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-054-Reinforced-Iron-Caging.md)
+—
+[TECH-ACT-054](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-054-Reinforced-Iron-Caging.txt)
 — `TECH-ACT-055` — Silent Boundary System / SBS
-  — [TECH-ACT-055](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-055-Silent-Boundary-System.md)
-  — [TECH-ACT-055](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-055-Silent-Boundary-System.txt)
+—
+[TECH-ACT-055](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-055-Silent-Boundary-System.md)
+—
+[TECH-ACT-055](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-055-Silent-Boundary-System.txt)
 — `TECH-ACT-056` — Memetic Filtering Infrastructure / MFI
-  — [TECH-ACT-056](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-056-Memetic-Filtering-Infrastructure.md)
-  — [TECH-ACT-056](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-056-Memetic-Filtering-Infrastructure.txt)
+—
+[TECH-ACT-056](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-056-Memetic-Filtering-Infrastructure.md)
+—
+[TECH-ACT-056](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-056-Memetic-Filtering-Infrastructure.txt)
 — `TECH-ACT-057` — Anomalous Intake Screening Suites / AISS
-  — [TECH-ACT-057](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-057-Anomalous-Intake-Screening-Suites.md)
-  — [TECH-ACT-057](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-057-Anomalous-Intake-Screening-Suites.txt)
+—
+[TECH-ACT-057](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-057-Anomalous-Intake-Screening-Suites.md)
+—
+[TECH-ACT-057](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-057-Anomalous-Intake-Screening-Suites.txt)
 — `TECH-ACT-058` — F-1 Closure System / F1-CS
-  — [TECH-ACT-058](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-058-F-1-Closure-System.md)
-  — [TECH-ACT-058](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-058-F-1-Closure-System.txt)
+—
+[TECH-ACT-058](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-058-F-1-Closure-System.md)
+—
+[TECH-ACT-058](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-058-F-1-Closure-System.txt)
 — `TECH-ACT-059` — Document Quarantine Cells / DQC
-  — [TECH-ACT-059](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-059-Document-Quarantine-Cells.md)
-  — [TECH-ACT-059](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-059-Document-Quarantine-Cells.txt)
+—
+[TECH-ACT-059](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-059-Document-Quarantine-Cells.md)
+—
+[TECH-ACT-059](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-059-Document-Quarantine-Cells.txt)
 — `TECH-ACT-060` — Artifact-Influence Isolation Suites / AIIS
-  — [TECH-ACT-060](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-060-Artifact-Influence-Isolation-Suites.md)
+—
+[TECH-ACT-060](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-060-Artifact-Influence-Isolation-Suites.md)
   — TECH-ACT-060 — Artifact Influence Isolation Suites
 — `TECH-ACT-061` — Suspended Vault Mounting System / SVMS
-  — [TECH-ACT-061](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-061-Suspended-Vault-Mounting-System.md)
-  — [TECH-ACT-061](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-061-Suspended-Vault-Mounting-System.txt)
+—
+[TECH-ACT-061](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-061-Suspended-Vault-Mounting-System.md)
+—
+[TECH-ACT-061](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-061-Suspended-Vault-Mounting-System.txt)
 — `TECH-ACT-062` — QNB-Hardened Archive Structure / QHAS
-  — [TECH-ACT-062](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-062-QNB-Hardened-Archive-Structure.md)
-  — [TECH-ACT-062](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-062-QNB-Hardened-Archive-Structure.txt)
+—
+[TECH-ACT-062](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-062-QNB-Hardened-Archive-Structure.md)
+—
+[TECH-ACT-062](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-062-QNB-Hardened-Archive-Structure.txt)
 — `TECH-ACT-063` — Memetic Contamination Treatment Suites / MCTS
-  — [TECH-ACT-063](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-063-Memetic-Contamination-Treatment-Suites.md)
+—
+[TECH-ACT-063](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-063-Memetic-Contamination-Treatment-Suites.md)
   — TECH-ACT-063 — Memetic Contamination Treatment Suites
 — `TECH-ACT-064` — Water-Capable Containment Chambers / WCCC
-  — [TECH-ACT-064](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-064-Water-Capable-Containment-Chambers.md)
+—
+[TECH-ACT-064](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-064-Water-Capable-Containment-Chambers.md)
   — TECH-ACT-064 — Water Capable Containment Chambers
 — `TECH-ACT-065` — Pressure-Rated Environmental Transition System / PRETS
   — TECH-ACT-065 — Pressure Rated Environmental Transition System
@@ -445,8 +595,10 @@ Distributed Recording, and Synchronized Calendar Set / Sounding Texts
   — TECH-ACT-066 — Maritime Platform Containment Infrastructure
   — TECH-ACT-066 — Maritime Platform Containment Infrastructure
 — `TECH-ACT-067` — Deep-Earth Sensor Arrays / DESA
-  — [TECH-ACT-067](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-067-Deep-Earth-Sensor-Arrays.md)
-  — [TECH-ACT-067](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-067-Deep-Earth-Sensor-Arrays.txt)
+—
+[TECH-ACT-067](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-067-Deep-Earth-Sensor-Arrays.md)
+—
+[TECH-ACT-067](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-067-Deep-Earth-Sensor-Arrays.txt)
 — `TECH-ACT-068` — Sensor Nexus Signal Processing Architecture / SNSPA
   — TECH-ACT-068 — Sensor Nexus Signal Processing Architecture
   — TECH-ACT-068 — Sensor Nexus Signal Processing Architecture
@@ -454,35 +606,49 @@ Distributed Recording, and Synchronized Calendar Set / Sounding Texts
   — TECH-ACT-069 — Abyss Linked Observation Recording System
   — TECH-ACT-069 — Abyss Linked Observation Recording System
 — `TECH-ACT-070` — Deep Monitoring Processing Center / DMPC
-  — [TECH-ACT-070](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-070-Deep-Monitoring-Processing-Center.md)
-  — [TECH-ACT-070](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-070-Deep-Monitoring-Processing-Center.txt)
+—
+[TECH-ACT-070](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-070-Deep-Monitoring-Processing-Center.md)
+—
+[TECH-ACT-070](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-070-Deep-Monitoring-Processing-Center.txt)
 — `TECH-ACT-071` — Seismic Records Vaults / SRV
-  — [TECH-ACT-071](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-071-Seismic-Records-Vaults.md)
-  — [TECH-ACT-071](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-071-Seismic-Records-Vaults.txt)
+—
+[TECH-ACT-071](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-071-Seismic-Records-Vaults.md)
+—
+[TECH-ACT-071](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-071-Seismic-Records-Vaults.txt)
 — `TECH-ACT-072` — Restricted Records Vaults / RRV
-  — [TECH-ACT-072](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-072-Restricted-Records-Vaults.md)
-  — [TECH-ACT-072](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-072-Restricted-Records-Vaults.txt)
+—
+[TECH-ACT-072](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-072-Restricted-Records-Vaults.md)
+—
+[TECH-ACT-072](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-072-Restricted-Records-Vaults.txt)
 — `TECH-ACT-073` — Marine Biology Laboratory Suites / MBLS
-  — [TECH-ACT-073](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-073-Marine-Biology-Laboratory-Suites.md)
-  — [TECH-ACT-073](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-073-Marine-Biology-Laboratory-Suites.txt)
+—
+[TECH-ACT-073](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-073-Marine-Biology-Laboratory-Suites.md)
+—
+[TECH-ACT-073](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-073-Marine-Biology-Laboratory-Suites.txt)
 — `TECH-ACT-074` — Deep-Earth Sample Analysis Laboratories / DESAL
-  — [TECH-ACT-074](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-074-Deep-Earth-Sample-Analysis-Laboratories.md)
+—
+[TECH-ACT-074](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-074-Deep-Earth-Sample-Analysis-Laboratories.md)
   — TECH-ACT-074 — Deep Earth Sample Analysis Laboratories
 — `TECH-ACT-075` — Sonar Void Research Program Infrastructure / SVRPI
   — TECH-ACT-075 — Sonar Void Research Program Infrastructure
   — TECH-ACT-075 — Sonar Void Research Program Infrastructure
 — `TECH-ACT-076` — Command Communications Nexus / CCN
-  — [TECH-ACT-076](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-076-Command-Communications-Nexus.md)
-  — [TECH-ACT-076](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-076-Command-Communications-Nexus.txt)
+—
+[TECH-ACT-076](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-076-Command-Communications-Nexus.md)
+—
+[TECH-ACT-076](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-076-Command-Communications-Nexus.txt)
 — `TECH-ACT-077` — Internal Logistics Coordination Center / ILCC
-  — [TECH-ACT-077](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-077-Internal-Logistics-Coordination-Center.md)
+—
+[TECH-ACT-077](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-077-Internal-Logistics-Coordination-Center.md)
   — TECH-ACT-077 — Internal Logistics Coordination Center
 — `TECH-ACT-078` — Seismic Preparedness Shelter and Response System / SPSRS
   — TECH-ACT-078 — Seismic Preparedness Shelter and Response System
   — TECH-ACT-078 — Seismic Preparedness Shelter and Response System
 — `TECH-ACT-079` — Surface Cover Research Campus / SCRC
-  — [TECH-ACT-079](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-079-Surface-Cover-Research-Campus.md)
-  — [TECH-ACT-079](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-079-Surface-Cover-Research-Campus.txt)
+—
+[TECH-ACT-079](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-079-Surface-Cover-Research-Campus.md)
+—
+[TECH-ACT-079](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-079-Surface-Cover-Research-Campus.txt)
 — `TECH-ACT-080` — Concealed Transition Access Architecture / CTAA
   — TECH-ACT-080 — Concealed Transition Access Architecture
   — TECH-ACT-080 — Concealed Transition Access Architecture
@@ -493,41 +659,58 @@ Distributed Recording, and Synchronized Calendar Set / Sounding Texts
   — TECH-ACT-082 — Emergency Intake and Secure Storage System
   — TECH-ACT-082 — Emergency Intake and Secure Storage System
 — `TECH-ACT-083` — Coastal Watch Coordination Center / CWCC
-  — [TECH-ACT-083](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-083-Coastal-Watch-Coordination-Center.md)
-  — [TECH-ACT-083](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-083-Coastal-Watch-Coordination-Center.txt)
+—
+[TECH-ACT-083](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-083-Coastal-Watch-Coordination-Center.md)
+—
+[TECH-ACT-083](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-083-Coastal-Watch-Coordination-Center.txt)
 — `TECH-ACT-084` — Volcanic-Seismic Monitoring Suites / VSMS
-  — [TECH-ACT-084](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-084-Volcanic-Seismic-Monitoring-Suites.md)
+—
+[TECH-ACT-084](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-084-Volcanic-Seismic-Monitoring-Suites.md)
   — TECH-ACT-084 — Volcanic Seismic Monitoring Suites
 — `TECH-ACT-085` — Recovery Support Staging Area / RSSA
-  — [TECH-ACT-085](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-085-Recovery-Support-Staging-Area.md)
-  — [TECH-ACT-085](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-085-Recovery-Support-Staging-Area.txt)
+—
+[TECH-ACT-085](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-085-Recovery-Support-Staging-Area.md)
+—
+[TECH-ACT-085](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-085-Recovery-Support-Staging-Area.txt)
 — `TECH-ACT-086` — Natural Cover Research Station System / NCRSS
-  — [TECH-ACT-086](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-086-Natural-Cover-Research-Station-System.md)
+—
+[TECH-ACT-086](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-086-Natural-Cover-Research-Station-System.md)
   — TECH-ACT-086 — Natural Cover Research Station System
 — `TECH-ACT-087` — Shared-Instrument Observation Network / SION
-  — [TECH-ACT-087](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-087-Shared-Instrument-Observation-Network.md)
+—
+[TECH-ACT-087](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-087-Shared-Instrument-Observation-Network.md)
   — TECH-ACT-087 — Shared Instrument Observation Network
 — `TECH-ACT-088` — Short-Term Holding Vault System / STHVS
-  — [TECH-ACT-088](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-088-Short-Term-Holding-Vault-System.md)
-  — [TECH-ACT-088](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-088-Short-Term-Holding-Vault-System.txt)
+—
+[TECH-ACT-088](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-088-Short-Term-Holding-Vault-System.md)
+—
+[TECH-ACT-088](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-088-Short-Term-Holding-Vault-System.txt)
 — `TECH-ACT-089` — Witness Processing and Sanitation Suites / WPSS
   — TECH-ACT-089 — Witness Processing and Sanitation Suites
   — TECH-ACT-089 — Witness Processing and Sanitation Suites
 — `TECH-ACT-090` — Archive Relay Buffering Area / ARBA
-  — [TECH-ACT-090](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-090-Archive-Relay-Buffering-Area.md)
-  — [TECH-ACT-090](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-090-Archive-Relay-Buffering-Area.txt)
+—
+[TECH-ACT-090](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-090-Archive-Relay-Buffering-Area.md)
+—
+[TECH-ACT-090](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-090-Archive-Relay-Buffering-Area.txt)
 — `TECH-ACT-091` — Intake Staging and Routing System / ISRS
-  — [TECH-ACT-091](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-091-Intake-Staging-and-Routing-System.md)
-  — [TECH-ACT-091](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-091-Intake-Staging-and-Routing-System.txt)
+—
+[TECH-ACT-091](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-091-Intake-Staging-and-Routing-System.md)
+—
+[TECH-ACT-091](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-091-Intake-Staging-and-Routing-System.txt)
 — `TECH-ACT-092` — Agricultural Biotech Cover Campus / ABCC
-  — [TECH-ACT-092](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-092-Agricultural-Biotech-Cover-Campus.md)
-  — [TECH-ACT-092](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-092-Agricultural-Biotech-Cover-Campus.txt)
+—
+[TECH-ACT-092](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-092-Agricultural-Biotech-Cover-Campus.md)
+—
+[TECH-ACT-092](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-092-Agricultural-Biotech-Cover-Campus.txt)
 — `TECH-ACT-093` — Low-Visibility Processing Logistics System / LVPLS
   — TECH-ACT-093 — Low Visibility Processing Logistics System
   — TECH-ACT-093 — Low Visibility Processing Logistics System
 — `TECH-ACT-094` — Interim Cryogenic Holding System / ICHS
-  — [TECH-ACT-094](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-094-Interim-Cryogenic-Holding-System.md)
-  — [TECH-ACT-094](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-094-Interim-Cryogenic-Holding-System.txt)
+—
+[TECH-ACT-094](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-094-Interim-Cryogenic-Holding-System.md)
+—
+[TECH-ACT-094](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-094-Interim-Cryogenic-Holding-System.txt)
 — `TECH-ACT-095` — Quarantine Assessment and Medical Staging Suites / QAMSS
   — TECH-ACT-095 — Quarantine Assessment and Medical Staging Suites
   — TECH-ACT-095 — Quarantine Assessment and Medical Staging Suites
@@ -535,7 +718,8 @@ Distributed Recording, and Synchronized Calendar Set / Sounding Texts
   — TECH-ACT-096 — Arctic Cold Storage Cover and Silent Movement System
   — TECH-ACT-096 — Arctic Cold Storage Cover and Silent Movement System
 — `TECH-ACT-097` — Minor Memetic Quarantine Vault System / MMQVS
-  — [TECH-ACT-097](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-097-Minor-Memetic-Quarantine-Vault-System.md)
+—
+[TECH-ACT-097](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-097-Minor-Memetic-Quarantine-Vault-System.md)
   — TECH-ACT-097 — Minor Memetic Quarantine Vault System
 — `TECH-ACT-098` — Controlled Reading and Redaction Workroom System / CRRWS
   — TECH-ACT-098 — Controlled Reading and Redaction Workroom System
@@ -544,10 +728,13 @@ Distributed Recording, and Synchronized Calendar Set / Sounding Texts
   — TECH-ACT-099 — Document Preservation Studio Cover System
   — TECH-ACT-099 — Document Preservation Studio Cover System
 — `TECH-ACT-100` — Native Containment Field System / NCFS
-  — [TECH-ACT-100](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-100-Native-Containment-Field-System.md)
-  — [TECH-ACT-100](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-100-Native-Containment-Field-System.txt)
+—
+[TECH-ACT-100](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-100-Native-Containment-Field-System.md)
+—
+[TECH-ACT-100](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-100-Native-Containment-Field-System.txt)
 — `TECH-ACT-101` — Concealed Perimeter Sector Network / CPSN
-  — [TECH-ACT-101](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-101-Concealed-Perimeter-Sector-Network.md)
+—
+[TECH-ACT-101](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-101-Concealed-Perimeter-Sector-Network.md)
   — TECH-ACT-101 — Concealed Perimeter Sector Network
 — `TECH-ACT-102` — Hollow Canopy Field Station and Remote Monitoring System / HCFSRMS
   — TECH-ACT-102 — Hollow Canopy Field Station and Remote Monitoring System
@@ -559,8 +746,10 @@ Distributed Recording, and Synchronized Calendar Set / Sounding Texts
   — TECH-ACT-104 — Biological Analysis and Sample Control Laboratories
   — TECH-ACT-104 — Biological Analysis and Sample Control Laboratories
 — `TECH-ACT-105` — Deep Cultivation Vault System / DCVS
-  — [TECH-ACT-105](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-105-Deep-Cultivation-Vault-System.md)
-  — [TECH-ACT-105](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-105-Deep-Cultivation-Vault-System.txt)
+—
+[TECH-ACT-105](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-105-Deep-Cultivation-Vault-System.md)
+—
+[TECH-ACT-105](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-105-Deep-Cultivation-Vault-System.txt)
 — `TECH-ACT-106` — Reserve Command and Operations Coordination System / RCOCS
   — TECH-ACT-106 — Reserve Command and Operations Coordination System
   — TECH-ACT-106 — Reserve Command and Operations Coordination System
@@ -578,7 +767,7 @@ Distributed Recording, and Synchronized Calendar Set / Sounding Texts
   — TECH-ACT-110 — Climate Controlled Island Holding Unit System
 — `TECH-ACT-111` — Seismic Data Interpretation and Restriction Enforcement System / SDIRES
   — TECH-ACT-111 — Seismic Data Interpretation and Restriction Enforcement System
-    [txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-111-Seismic-Data-Interpretation-and-Restriction-Enforcement-System.txt)
+[txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-111-Seismic-Data-Interpretation-and-Restriction-Enforcement-System.txt)
 — `TECH-ACT-112` — Island Personnel Habitation and Sustainment System / IPHSS
   — TECH-ACT-112 — Island Personnel Habitation and Sustainment System
   — TECH-ACT-112 — Island Personnel Habitation and Sustainment System
@@ -593,10 +782,12 @@ Distributed Recording, and Synchronized Calendar Set / Sounding Texts
   — TECH-ACT-115 — Archive Boundary Personnel Clearance System
 — `TECH-ACT-116` — Operational Archive Training and Doctrine Preparation System / OATDPS
   — TECH-ACT-116 — Operational Archive Training and Doctrine Preparation System
-  — [txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-116-Operational-Archive-Training-and-Doctrine-Preparation-System.txt)
+—
+[txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-116-Operational-Archive-Training-and-Doctrine-Preparation-System.txt)
 — `TECH-ACT-117` — Public Archive Absolute Separation and Immediate Transfer System / PAASITS
   — TECH-ACT-117 — Public Archive Absolute Separation and Immediate Transfer System
-  — [txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-117-Public-Archive-Absolute-Separation-and-Immediate-Transfer-System.txt)
+—
+[txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-117-Public-Archive-Absolute-Separation-and-Immediate-Transfer-System.txt)
 — `TECH-ACT-118` — Symbol Behavior Controlled Observation Suites / SBCOS
   — TECH-ACT-118 — Symbol Behavior Controlled Observation Suites
   — TECH-ACT-118 — Symbol Behavior Controlled Observation Suites
@@ -605,7 +796,8 @@ Distributed Recording, and Synchronized Calendar Set / Sounding Texts
   — TECH-ACT-119 — Media Propagation Tracking Center System
 — `TECH-ACT-120` — Redaction Release Authorization and Filtering Record System / RRAFRS
   — TECH-ACT-120 — Redaction Release Authorization and Filtering Record System
-  — [txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-120-Redaction-Release-Authorization-and-Filtering-Record-System.txt)
+—
+[txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-120-Redaction-Release-Authorization-and-Filtering-Record-System.txt)
 — `TECH-ACT-121` — Unread Archive Anti-Reading Preservation Vault System / UAARPV
   — TECH-ACT-121 — Unread Archive Anti Reading Preservation Vault System
   — TECH-ACT-121 — Unread Archive Anti Reading Preservation Vault System
@@ -616,14 +808,16 @@ Distributed Recording, and Synchronized Calendar Set / Sounding Texts
   — TECH-ACT-123 — Signal Isolated Anomalous Document Storage System
   — TECH-ACT-123 — Signal Isolated Anomalous Document Storage System
 — `TECH-ACT-124` — Standard Box Holding Chamber System / SBHCS
-  — [TECH-ACT-124](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-124-Standard-Box-Holding-Chamber-System.md)
+—
+[TECH-ACT-124](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-124-Standard-Box-Holding-Chamber-System.md)
   — TECH-ACT-124 — Standard Box Holding Chamber System
 — `TECH-ACT-125` — Ascending Authorization Transformation Staging Lock System / AATSL
   — TECH-ACT-125 — Ascending Authorization Transformation Staging Lock System
   — TECH-ACT-125 — Ascending Authorization Transformation Staging Lock System
 — `TECH-ACT-126` — Controlled Study Environment and Research Sample-Custody System / CSERSCS
   — TECH-ACT-126 — Controlled Study Environment and Research Sample Custody System
-  — [txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-126-Controlled-Study-Environment-and-Research-Sample-Custody-System.txt)
+—
+[txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-126-Controlled-Study-Environment-and-Research-Sample-Custody-System.txt)
 — `TECH-ACT-127` — Medical Isolation and Cognitive Recovery Ward System / MICRWS
   — TECH-ACT-127 — Medical Isolation and Cognitive Recovery Ward System
   — TECH-ACT-127 — Medical Isolation and Cognitive Recovery Ward System
@@ -632,152 +826,241 @@ Distributed Recording, and Synchronized Calendar Set / Sounding Texts
   — TECH-ACT-128 — QNB Hardened Repository and Record Retrieval System
 — `TECH-ACT-129` — Vertical-Flow Personnel Processing and Clearance Verification System / VFPPCVS
   — TECH-ACT-129 — Vertical Flow Personnel Processing and Clearance Verification System
-  — [txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-129-Vertical-Flow-Personnel-Processing-and-Clearance-Verification-System.txt)
+—
+[txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-129-Vertical-Flow-Personnel-Processing-and-Clearance-Verification-System.txt)
 — `TECH-ACT-130` — Unmarked Wall Surface Boundary and Loading Transition System / UWSBLTS
   — TECH-ACT-130 — Unmarked Wall Surface Boundary and Loading Transition System
-  — [txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-130-Unmarked-Wall-Surface-Boundary-and-Loading-Transition-System.txt)
+—
+[txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-130-Unmarked-Wall-Surface-Boundary-and-Loading-Transition-System.txt)
 — `TECH-ACT-131` — Seasonal Arctic Research Cover and Transition Control System / SARCTCS
   — TECH-ACT-131 — Seasonal Arctic Research Cover and Transition Control System
-  — [txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-131-Seasonal-Arctic-Research-Cover-and-Transition-Control-System.txt)
+—
+[txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-131-Seasonal-Arctic-Research-Cover-and-Transition-Control-System.txt)
 — `TECH-ACT-132` — Long-Rotation Habitation and Main Security Checkpoint System / LRHMSCS
   — TECH-ACT-132 — Long Rotation Habitation and Main Security Checkpoint System
-  — [txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-132-Long-Rotation-Habitation-and-Main-Security-Checkpoint-System.txt)
+—
+[txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-132-Long-Rotation-Habitation-and-Main-Security-Checkpoint-System.txt)
 — `TECH-ACT-133` — Long-Term Biological Observation and Cold-Suppressed Study System / LTBOCSS
   — TECH-ACT-133 — Long Term Biological Observation and Cold Suppressed Study System
-  — [txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-133-Long-Term-Biological-Observation-and-Cold-Suppressed-Study-System.txt)
+—
+[txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-133-Long-Term-Biological-Observation-and-Cold-Suppressed-Study-System.txt)
 — `TECH-ACT-134` — Biological Suppression Chamber and Climate-Controlled Deep-Isolation Holding System / BSCCDIHS
-    [md](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-134-Biological-Suppression-Chamber-and-Climate-Controlled-Deep-Isolation-Holding-System.md)
-  — [txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-134-Biological-Suppression-Chamber-and-Climate-Controlled-Deep-Isolation-Holding-System.txt)
+[md](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-134-Biological-Suppression-Chamber-and-Climate-Controlled-Deep-Isolation-Holding-System.md)
+—
+[txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-134-Biological-Suppression-Chamber-and-Climate-Controlled-Deep-Isolation-Holding-System.txt)
 — `TECH-ACT-135` — Failure-Tolerant Entropic Holding and Self-Repairing Environment System / FTEHSRES
   — TECH-ACT-135 — Failure Tolerant Entropic Holding and Self Repairing Environment System
-  — [txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-135-Failure-Tolerant-Entropic-Holding-and-Self-Repairing-Environment-System.txt)
+—
+[txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-135-Failure-Tolerant-Entropic-Holding-and-Self-Repairing-Environment-System.txt)
 — `TECH-ACT-136` — Long Sleep Vault and F-1 Closure Containment System / LSVF1CCS
   — TECH-ACT-136 — Long Sleep Vault and F 1 Closure Containment System
   — TECH-ACT-136 — Long Sleep Vault and F 1 Closure Containment System
 — `TECH-ACT-137` — Neuro-Mantid Sacral-Spurs / NMSS
-  — [TECH-ACT-137](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-137-Neuro-Mantid-Sacral-Spurs.md)
-  — [TECH-ACT-137](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-137-Neuro-Mantid-Sacral-Spurs.txt)
+—
+[TECH-ACT-137](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-ACT-137-Neuro-Mantid-Sacral-Spurs.md)
+—
+[TECH-ACT-137](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-ACT-137-Neuro-Mantid-Sacral-Spurs.txt)
 
 — `TECH-GOI-057-1` — BUREAU QUIET-LINE HOLD SEAL AND NONARRIVAL STAMP SET
-  — [TECH-GOI-057-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-057-1-Bureau-Quiet-Line-Hold-Seal-and-Nonarrival-Stamp-Set.md)
-  — [TECH-GOI-057-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-057-1-Bureau-Quiet-Line-Hold-Seal-and-Nonarrival-Stamp-Set.txt)
+—
+[TECH-GOI-057-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-057-1-Bureau-Quiet-Line-Hold-Seal-and-Nonarrival-Stamp-Set.md)
+—
+[TECH-GOI-057-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-057-1-Bureau-Quiet-Line-Hold-Seal-and-Nonarrival-Stamp-Set.txt)
 — `TECH-GOI-057-2` — BUREAU QUIET-LINE STATION AND GREY HOLDING ROOM ARCHITECTURE
-  — [TECH-GOI-057-2](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-057-2-Bureau-Quiet-Line-Station-and-Grey-Holding-Room-Architecture.md)
-  — [TECH-GOI-057-2](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-057-2-Bureau-Quiet-Line-Station-and-Grey-Holding-Room-Architecture.txt)
+—
+[TECH-GOI-057-2](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-057-2-Bureau-Quiet-Line-Station-and-Grey-Holding-Room-Architecture.md)
+—
+[TECH-GOI-057-2](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-057-2-Bureau-Quiet-Line-Station-and-Grey-Holding-Room-Architecture.txt)
 — `TECH-GOI-057-3` — BUREAU SEALED CROSSING LEDGER AND PAPER TRANSFER SLIP SYSTEM
-  — [TECH-GOI-057-3](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-057-3-Bureau-Sealed-Crossing-Ledger-and-Paper-Transfer-Slip-System.md)
-  — [TECH-GOI-057-3](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-057-3-Bureau-Sealed-Crossing-Ledger-and-Paper-Transfer-Slip-System.txt)
+—
+[TECH-GOI-057-3](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-057-3-Bureau-Sealed-Crossing-Ledger-and-Paper-Transfer-Slip-System.md)
+—
+[TECH-GOI-057-3](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-057-3-Bureau-Sealed-Crossing-Ledger-and-Paper-Transfer-Slip-System.txt)
 — `TECH-GOI-057-4` — BUREAU CUSTODY VEHICLE INTERCHANGEABLE STATE PLATE SYSTEM
-  — [TECH-GOI-057-4](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-057-4-Bureau-Custody-Vehicle-Interchangeable-State-Plate-System.md)
-  — [TECH-GOI-057-4](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-057-4-Bureau-Custody-Vehicle-Interchangeable-State-Plate-System.txt)
+—
+[TECH-GOI-057-4](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-057-4-Bureau-Custody-Vehicle-Interchangeable-State-Plate-System.md)
+—
+[TECH-GOI-057-4](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-057-4-Bureau-Custody-Vehicle-Interchangeable-State-Plate-System.txt)
 — `TECH-GOI-057-5` — BUREAU TREATY CORRIDOR ROUTING MAP AND REMOVED-ROAD ATLAS
-  — [TECH-GOI-057-5](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-057-5-Bureau-Treaty-Corridor-Routing-Map-and-Removed-Road-Atlas.md)
-  — [TECH-GOI-057-5](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-057-5-Bureau-Treaty-Corridor-Routing-Map-and-Removed-Road-Atlas.txt)
+—
+[TECH-GOI-057-5](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-057-5-Bureau-Treaty-Corridor-Routing-Map-and-Removed-Road-Atlas.md)
+—
+[TECH-GOI-057-5](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-057-5-Bureau-Treaty-Corridor-Routing-Map-and-Removed-Road-Atlas.txt)
 — `TECH-GOI-058-1` — CROWN OFFICE ASH KEY AND COLD-RESIDUE LOCK SET
-  — [TECH-GOI-058-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-058-1-Crown-Office-Ash-Key-and-Cold-Residue-Lock-Set.md)
-  — [TECH-GOI-058-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-058-1-Crown-Office-Ash-Key-and-Cold-Residue-Lock-Set.txt)
+—
+[TECH-GOI-058-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-058-1-Crown-Office-Ash-Key-and-Cold-Residue-Lock-Set.md)
+—
+[TECH-GOI-058-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-058-1-Crown-Office-Ash-Key-and-Cold-Residue-Lock-Set.txt)
 — `TECH-GOI-058-2` — CROWN OFFICE BURNED-LOCK LEDGER AND CANDLELIGHT INVENTORY SYSTEM
-  — [TECH-GOI-058-2](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-058-2-Crown-Office-Burned-Lock-Ledger-and-Candlelight-Inventory-System.md)
-  — [TECH-GOI-058-2](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-058-2-Crown-Office-Burned-Lock-Ledger-and-Candlelight-Inventory-System.txt)
+—
+[TECH-GOI-058-2](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-058-2-Crown-Office-Burned-Lock-Ledger-and-Candlelight-Inventory-System.md)
+—
+[TECH-GOI-058-2](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-058-2-Crown-Office-Burned-Lock-Ledger-and-Candlelight-Inventory-System.txt)
 — `TECH-GOI-058-3` — CROWN OFFICE ESTATE DUTY-ROOM MARKING SYSTEM
-  — [TECH-GOI-058-3](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-058-3-Crown-Office-Estate-Duty-Room-Marking-System.md)
-  — [TECH-GOI-058-3](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-058-3-Crown-Office-Estate-Duty-Room-Marking-System.txt)
+—
+[TECH-GOI-058-3](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-058-3-Crown-Office-Estate-Duty-Room-Marking-System.md)
+—
+[TECH-GOI-058-3](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-058-3-Crown-Office-Estate-Duty-Room-Marking-System.txt)
 — `TECH-GOI-058-4` — CROWN OFFICE OATH SEAL AND CHARTER LANGUAGE SEALING SYSTEM
-  — [TECH-GOI-058-4](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-058-4-Crown-Office-Oath-Seal-and-Charter-Language-Sealing-System.md)
-  — [TECH-GOI-058-4](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-058-4-Crown-Office-Oath-Seal-and-Charter-Language-Sealing-System.txt)
+—
+[TECH-GOI-058-4](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-058-4-Crown-Office-Oath-Seal-and-Charter-Language-Sealing-System.md)
+—
+[TECH-GOI-058-4](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-058-4-Crown-Office-Oath-Seal-and-Charter-Language-Sealing-System.txt)
 — `TECH-GOI-058-5` — CROWN OFFICE PROCESSIONAL ROUTE AND VAULT USHER PROTOCOL
-  — [TECH-GOI-058-5](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-058-5-Crown-Office-Processional-Route-and-Vault-Usher-Protocol.md)
-  — [TECH-GOI-058-5](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-058-5-Crown-Office-Processional-Route-and-Vault-Usher-Protocol.txt)
+—
+[TECH-GOI-058-5](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-058-5-Crown-Office-Processional-Route-and-Vault-Usher-Protocol.md)
+—
+[TECH-GOI-058-5](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-058-5-Crown-Office-Processional-Route-and-Vault-Usher-Protocol.txt)
 — `TECH-GOI-059-1` — GREY HARBOR GREY-TAG SURVIVOR STATUS MARKING KIT
-  — [TECH-GOI-059-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-059-1-Grey-Harbor-Grey-Tag-Survivor-Status-Marking-Kit.md)
-  — [TECH-GOI-059-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-059-1-Grey-Harbor-Grey-Tag-Survivor-Status-Marking-Kit.txt)
+—
+[TECH-GOI-059-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-059-1-Grey-Harbor-Grey-Tag-Survivor-Status-Marking-Kit.md)
+—
+[TECH-GOI-059-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-059-1-Grey-Harbor-Grey-Tag-Survivor-Status-Marking-Kit.txt)
 — `TECH-GOI-059-2` — GREY HARBOR SHELTER COUNT AND RESTRICTED TRIAGE ARCHITECTURE
-  — [TECH-GOI-059-2](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-059-2-Grey-Harbor-Shelter-Count-and-Restricted-Triage-Architecture.md)
-  — [TECH-GOI-059-2](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-059-2-Grey-Harbor-Shelter-Count-and-Restricted-Triage-Architecture.txt)
+—
+[TECH-GOI-059-2](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-059-2-Grey-Harbor-Shelter-Count-and-Restricted-Triage-Architecture.md)
+—
+[TECH-GOI-059-2](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-059-2-Grey-Harbor-Shelter-Count-and-Restricted-Triage-Architecture.txt)
 — `TECH-GOI-059-3` — GREY HARBOR SIREN TOWER CODED EVACUATION TONE SYSTEM
-  — [TECH-GOI-059-3](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-059-3-Grey-Harbor-Siren-Tower-Coded-Evacuation-Tone-System.md)
-  — [TECH-GOI-059-3](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-059-3-Grey-Harbor-Siren-Tower-Coded-Evacuation-Tone-System.txt)
+—
+[TECH-GOI-059-3](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-059-3-Grey-Harbor-Siren-Tower-Coded-Evacuation-Tone-System.md)
+—
+[TECH-GOI-059-3](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-059-3-Grey-Harbor-Siren-Tower-Coded-Evacuation-Tone-System.txt)
 — `TECH-GOI-059-4` — GREY HARBOR CHILD EXTRACTION BAG AND PAPER IDENTITY CARD SYSTEM
-  — [TECH-GOI-059-4](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-059-4-Grey-Harbor-Child-Extraction-Bag-and-Paper-Identity-Card-System.md)
-  — [TECH-GOI-059-4](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-059-4-Grey-Harbor-Child-Extraction-Bag-and-Paper-Identity-Card-System.txt)
+—
+[TECH-GOI-059-4](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-059-4-Grey-Harbor-Child-Extraction-Bag-and-Paper-Identity-Card-System.md)
+—
+[TECH-GOI-059-4](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-059-4-Grey-Harbor-Child-Extraction-Bag-and-Paper-Identity-Card-System.txt)
 — `TECH-GOI-059-5` — GREY HARBOR BODY AND SURVIVOR LEDGER AND SEALED AUDIO ARCHIVE SYSTEM
-  — [TECH-GOI-059-5](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-059-5-Grey-Harbor-Body-and-Survivor-Ledger-and-Sealed-Audio-Archive-System.md)
-  — [TECH-GOI-059-5](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-059-5-Grey-Harbor-Body-and-Survivor-Ledger-and-Sealed-Audio-Archive-System.txt)
+—
+[TECH-GOI-059-5](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-059-5-Grey-Harbor-Body-and-Survivor-Ledger-and-Sealed-Audio-Archive-System.md)
+—
+[TECH-GOI-059-5](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-059-5-Grey-Harbor-Body-and-Survivor-Ledger-and-Sealed-Audio-Archive-System.txt)
 — `TECH-GOI-060-1` — OFFICE CONTINUANCE WRIT AND EMERGENCY CUSTODY STAY SYSTEM
-  — [TECH-GOI-060-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-060-1-Office-Continuance-Writ-and-Emergency-Custody-Stay-System.md)
-  — [TECH-GOI-060-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-060-1-Office-Continuance-Writ-and-Emergency-Custody-Stay-System.txt)
+—
+[TECH-GOI-060-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-060-1-Office-Continuance-Writ-and-Emergency-Custody-Stay-System.md)
+—
+[TECH-GOI-060-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-060-1-Office-Continuance-Writ-and-Emergency-Custody-Stay-System.txt)
 — `TECH-GOI-060-2` — OFFICE PROTECTED TESTIMONY VAULT AND FIRST-RECORDING SYSTEM
-  — [TECH-GOI-060-2](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-060-2-Office-Protected-Testimony-Vault-and-First-Recording-System.md)
-  — [TECH-GOI-060-2](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-060-2-Office-Protected-Testimony-Vault-and-First-Recording-System.txt)
+—
+[TECH-GOI-060-2](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-060-2-Office-Protected-Testimony-Vault-and-First-Recording-System.md)
+—
+[TECH-GOI-060-2](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-060-2-Office-Protected-Testimony-Vault-and-First-Recording-System.txt)
 — `TECH-GOI-060-3` — OFFICE AMNESTIC CHALLENGE FORM AND CONSENT OBSERVER SYSTEM
-  — [TECH-GOI-060-3](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-060-3-Office-Amnestic-Challenge-Form-and-Consent-Observer-System.md)
-  — [TECH-GOI-060-3](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-060-3-Office-Amnestic-Challenge-Form-and-Consent-Observer-System.txt)
+—
+[TECH-GOI-060-3](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-060-3-Office-Amnestic-Challenge-Form-and-Consent-Observer-System.md)
+—
+[TECH-GOI-060-3](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-060-3-Office-Amnestic-Challenge-Form-and-Consent-Observer-System.txt)
 — `TECH-GOI-060-4` — OFFICE ALTERED-PERSON LEDGER AND DEATH-RECORD REVERSAL SYSTEM
-  — [TECH-GOI-060-4](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-060-4-Office-Altered-Person-Ledger-and-Death-Record-Reversal-System.md)
-  — [TECH-GOI-060-4](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-060-4-Office-Altered-Person-Ledger-and-Death-Record-Reversal-System.txt)
+—
+[TECH-GOI-060-4](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-060-4-Office-Altered-Person-Ledger-and-Death-Record-Reversal-System.md)
+—
+[TECH-GOI-060-4](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-060-4-Office-Altered-Person-Ledger-and-Death-Record-Reversal-System.txt)
 — `TECH-GOI-060-5` — OFFICE RED-STAMP HEARING CARD AND RESISTANT-INK SYSTEM
-  — [TECH-GOI-060-5](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-060-5-Office-Red-Stamp-Hearing-Card-and-Resistant-Ink-System.md)
-  — [TECH-GOI-060-5](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-060-5-Office-Red-Stamp-Hearing-Card-and-Resistant-Ink-System.txt)
+—
+[TECH-GOI-060-5](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-060-5-Office-Red-Stamp-Hearing-Card-and-Resistant-Ink-System.md)
+—
+[TECH-GOI-060-5](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-060-5-Office-Red-Stamp-Hearing-Card-and-Resistant-Ink-System.txt)
 — `TECH-GOI-068-1` — VELVET PROVENANCE HOUSE RECEIPT, SEAL, AND RETURN-CLAUSE INSTRUMENT SET
-  — [TECH-GOI-068-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-068-1-Velvet-Provenance-House-Receipt-Seal-and-Return-Clause-Instrument-Set.md)
-  — [TECH-GOI-068-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-068-1-Velvet-Provenance-House-Receipt-Seal-and-Return-Clause-Instrument-Set.txt)
+—
+[TECH-GOI-068-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-068-1-Velvet-Provenance-House-Receipt-Seal-and-Return-Clause-Instrument-Set.md)
+—
+[TECH-GOI-068-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-068-1-Velvet-Provenance-House-Receipt-Seal-and-Return-Clause-Instrument-Set.txt)
 — `TECH-GOI-068-2` — VELVET PROVENANCE HOUSE BUYER-BOOK PAGE AND BARRED-CLIENT MARK SYSTEM
-  — [TECH-GOI-068-2](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-068-2-Velvet-Provenance-House-Buyer-Book-Page-and-Barred-Client-Mark-System.md)
-  — [TECH-GOI-068-2](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-068-2-Velvet-Provenance-House-Buyer-Book-Page-and-Barred-Client-Mark-System.txt)
+—
+[TECH-GOI-068-2](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-068-2-Velvet-Provenance-House-Buyer-Book-Page-and-Barred-Client-Mark-System.md)
+—
+[TECH-GOI-068-2](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-068-2-Velvet-Provenance-House-Buyer-Book-Page-and-Barred-Client-Mark-System.txt)
 — `TECH-GOI-069-1` — NAMEWRIGHT BAZAAR PARTIAL NAME LEDGER
-  — [TECH-GOI-069-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-069-1-Namewright-Bazaar-Partial-Name-Ledger.md)
-  — [TECH-GOI-069-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-069-1-Namewright-Bazaar-Partial-Name-Ledger.txt)
+—
+[TECH-GOI-069-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-069-1-Namewright-Bazaar-Partial-Name-Ledger.md)
+—
+[TECH-GOI-069-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-069-1-Namewright-Bazaar-Partial-Name-Ledger.txt)
 — `TECH-GOI-069-2` — NAMEWRIGHT BAZAAR ALIAS KNIFE
-  — [TECH-GOI-069-2](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-069-2-Namewright-Bazaar-Alias-Knife.md)
-  — [TECH-GOI-069-2](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-069-2-Namewright-Bazaar-Alias-Knife.txt)
+—
+[TECH-GOI-069-2](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-069-2-Namewright-Bazaar-Alias-Knife.md)
+—
+[TECH-GOI-069-2](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-069-2-Namewright-Bazaar-Alias-Knife.txt)
 — `TECH-GOI-069-3` — NAMEWRIGHT BAZAAR COUNTERFEIT COURT STAMP
-  — [TECH-GOI-069-3](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-069-3-Namewright-Bazaar-Counterfeit-Court-Stamp.md)
-  — [TECH-GOI-069-3](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-069-3-Namewright-Bazaar-Counterfeit-Court-Stamp.txt)
+—
+[TECH-GOI-069-3](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-069-3-Namewright-Bazaar-Counterfeit-Court-Stamp.md)
+—
+[TECH-GOI-069-3](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-069-3-Namewright-Bazaar-Counterfeit-Court-Stamp.txt)
 — `TECH-GOI-069-4` — NAMEWRIGHT BAZAAR DEAD-NAME CUPBOARD DOOR
-  — [TECH-GOI-069-4](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-069-4-Namewright-Bazaar-Dead-Name-Cupboard-Door.md)
-  — [TECH-GOI-069-4](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-069-4-Namewright-Bazaar-Dead-Name-Cupboard-Door.txt)
+—
+[TECH-GOI-069-4](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-069-4-Namewright-Bazaar-Dead-Name-Cupboard-Door.md)
+—
+[TECH-GOI-069-4](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-069-4-Namewright-Bazaar-Dead-Name-Cupboard-Door.txt)
 — `TECH-GOI-070-1` — SAINT MORROW PASSAGE WHITE TICKET
-  — [TECH-GOI-070-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-070-1-Saint-Morrow-Passage-White-Ticket.md)
-  — [TECH-GOI-070-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-070-1-Saint-Morrow-Passage-White-Ticket.txt)
+—
+[TECH-GOI-070-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-070-1-Saint-Morrow-Passage-White-Ticket.md)
+—
+[TECH-GOI-070-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-070-1-Saint-Morrow-Passage-White-Ticket.txt)
 — `TECH-GOI-070-2` — SAINT MORROW PASSAGE ROUTE BELL
-  — [TECH-GOI-070-2](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-070-2-Saint-Morrow-Passage-Route-Bell.md)
-  — [TECH-GOI-070-2](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-070-2-Saint-Morrow-Passage-Route-Bell.txt)
+—
+[TECH-GOI-070-2](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-070-2-Saint-Morrow-Passage-Route-Bell.md)
+—
+[TECH-GOI-070-2](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-070-2-Saint-Morrow-Passage-Route-Bell.txt)
 — `TECH-GOI-070-3` — SAINT MORROW PASSAGE COLD-MAP FRAGMENT
-  — [TECH-GOI-070-3](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-070-3-Saint-Morrow-Passage-Cold-Map-Fragment.md)
-  — [TECH-GOI-070-3](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-070-3-Saint-Morrow-Passage-Cold-Map-Fragment.txt)
+—
+[TECH-GOI-070-3](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-070-3-Saint-Morrow-Passage-Cold-Map-Fragment.md)
+—
+[TECH-GOI-070-3](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-070-3-Saint-Morrow-Passage-Cold-Map-Fragment.txt)
 — `TECH-GOI-070-4` — SAINT MORROW PASSAGE PARTIAL CROSSING LEDGER
-  — [TECH-GOI-070-4](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-070-4-Saint-Morrow-Passage-Partial-Crossing-Ledger.md)
-  — [TECH-GOI-070-4](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-070-4-Saint-Morrow-Passage-Partial-Crossing-Ledger.txt)
+—
+[TECH-GOI-070-4](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-070-4-Saint-Morrow-Passage-Partial-Crossing-Ledger.md)
+—
+[TECH-GOI-070-4](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-070-4-Saint-Morrow-Passage-Partial-Crossing-Ledger.txt)
 — `TECH-GOI-072-1` — IRON MERIDIAN SUPPRESSION COLLAR AND RESTRAINT HARNESS
-  — [TECH-GOI-072-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-072-1-Iron-Meridian-Suppression-Collar-and-Restraint-Harness.md)
-  — [TECH-GOI-072-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-072-1-Iron-Meridian-Suppression-Collar-and-Restraint-Harness.txt)
+—
+[TECH-GOI-072-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-072-1-Iron-Meridian-Suppression-Collar-and-Restraint-Harness.md)
+—
+[TECH-GOI-072-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-072-1-Iron-Meridian-Suppression-Collar-and-Restraint-Harness.txt)
 — `TECH-GOI-072-2` — IRON MERIDIAN SURVEY GUN AND LINE MARKER SYSTEM
-  — [TECH-GOI-072-2](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-072-2-Iron-Meridian-Survey-Gun-and-Line-Marker-System.md)
-  — [TECH-GOI-072-2](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-072-2-Iron-Meridian-Survey-Gun-and-Line-Marker-System.txt)
+—
+[TECH-GOI-072-2](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-072-2-Iron-Meridian-Survey-Gun-and-Line-Marker-System.md)
+—
+[TECH-GOI-072-2](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-072-2-Iron-Meridian-Survey-Gun-and-Line-Marker-System.txt)
 — `TECH-GOI-072-3` — IRON MERIDIAN CUSTODY TRAIN AND SEALED TRANSPORT SYSTEM
-  — [TECH-GOI-072-3](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-072-3-Iron-Meridian-Custody-Train-and-Sealed-Transport-System.md)
-  — [TECH-GOI-072-3](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-072-3-Iron-Meridian-Custody-Train-and-Sealed-Transport-System.txt)
+—
+[TECH-GOI-072-3](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-072-3-Iron-Meridian-Custody-Train-and-Sealed-Transport-System.md)
+—
+[TECH-GOI-072-3](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-072-3-Iron-Meridian-Custody-Train-and-Sealed-Transport-System.txt)
 — `TECH-GOI-072-4` — IRON MERIDIAN BLACK LEDGER PRISONER CATEGORY RECORD
-  — [TECH-GOI-072-4](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-072-4-Iron-Meridian-Black-Ledger-Prisoner-Category-Record.md)
-  — [TECH-GOI-072-4](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-072-4-Iron-Meridian-Black-Ledger-Prisoner-Category-Record.txt)
+—
+[TECH-GOI-072-4](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-072-4-Iron-Meridian-Black-Ledger-Prisoner-Category-Record.md)
+—
+[TECH-GOI-072-4](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-072-4-Iron-Meridian-Black-Ledger-Prisoner-Category-Record.txt)
 — `TECH-GOI-072-5` — IRON MERIDIAN RESTRAINT DOOR AND HAZARD-LABEL LOCKING SYSTEM
-  — [TECH-GOI-072-5](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-072-5-Iron-Meridian-Restraint-Door-and-Hazard-Label-Locking-System.md)
-  — [TECH-GOI-072-5](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-072-5-Iron-Meridian-Restraint-Door-and-Hazard-Label-Locking-System.txt)
+—
+[TECH-GOI-072-5](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-072-5-Iron-Meridian-Restraint-Door-and-Hazard-Label-Locking-System.md)
+—
+[TECH-GOI-072-5](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-072-5-Iron-Meridian-Restraint-Door-and-Hazard-Label-Locking-System.txt)
 — `TECH-GOI-073-1` — LANTERN ACCORD COLLAPSIBLE SIGNAL BEACON
-  — [TECH-GOI-073-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-073-1-Lantern-Accord-Collapsible-Signal-Beacon.md)
-  — [TECH-GOI-073-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-073-1-Lantern-Accord-Collapsible-Signal-Beacon.txt)
+—
+[TECH-GOI-073-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-073-1-Lantern-Accord-Collapsible-Signal-Beacon.md)
+—
+[TECH-GOI-073-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-073-1-Lantern-Accord-Collapsible-Signal-Beacon.txt)
 — `TECH-GOI-073-2` — LANTERN ACCORD SEAL AND TEMPORARY CUSTODY TAG
-  — [TECH-GOI-073-2](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-073-2-Lantern-Accord-Seal-And-Temporary-Custody-Tag.md)
-  — [TECH-GOI-073-2](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-073-2-Lantern-Accord-Seal-And-Temporary-Custody-Tag.txt)
+—
+[TECH-GOI-073-2](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-073-2-Lantern-Accord-Seal-And-Temporary-Custody-Tag.md)
+—
+[TECH-GOI-073-2](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-073-2-Lantern-Accord-Seal-And-Temporary-Custody-Tag.txt)
 — `TECH-GOI-073-3` — LANTERN ACCORD YELLOW-LINE WARRANT FRAGMENT
-  — [TECH-GOI-073-3](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-073-3-Lantern-Accord-Yellow-Line-Warrant-Fragment.md)
-  — [TECH-GOI-073-3](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-073-3-Lantern-Accord-Yellow-Line-Warrant-Fragment.txt)
+—
+[TECH-GOI-073-3](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-073-3-Lantern-Accord-Yellow-Line-Warrant-Fragment.md)
+—
+[TECH-GOI-073-3](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-073-3-Lantern-Accord-Yellow-Line-Warrant-Fragment.txt)
 — `TECH-GOI-073-4` — LANTERN ACCORD VIOLATION LEDGER COPY
-  — [TECH-GOI-073-4](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-073-4-Lantern-Accord-Violation-Ledger-Copy.md)
-  — [TECH-GOI-073-4](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-073-4-Lantern-Accord-Violation-Ledger-Copy.txt)
+—
+[TECH-GOI-073-4](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-073-4-Lantern-Accord-Violation-Ledger-Copy.md)
+—
+[TECH-GOI-073-4](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-073-4-Lantern-Accord-Violation-Ledger-Copy.txt)
 — `TECH-GOI-074-1` — NINEFOLD ARK SEIZED SAMPLE COFFER
-  — [TECH-GOI-074-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-074-1-Ninefold-Ark-Seized-Sample-Coffer.md)
-  — [TECH-GOI-074-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-074-1-Ninefold-Ark-Seized-Sample-Coffer.txt)
+—
+[TECH-GOI-074-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-074-1-Ninefold-Ark-Seized-Sample-Coffer.md)
+—
+[TECH-GOI-074-1](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-074-1-Ninefold-Ark-Seized-Sample-Coffer.txt)
 
 ## Numbering Rule
 
