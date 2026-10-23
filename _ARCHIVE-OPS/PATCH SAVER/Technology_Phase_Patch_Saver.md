@@ -7631,3 +7631,57 @@ The suite is **22 gates tested, 22 fired, 0 blind**.
 
 The story craft pass against the house narrative rules' banned-tic list and craft sections.
 
+## Prompt End Update — 2026-10-24, Story Craft Pass Over All 13 Chapters; Nothing To Fix
+
+Owner ruling: read the whole story against the house narrative rules' banned-tic list and craft
+sections, and fix what the rules forbid.
+
+### What was tested
+
+All 13 chapter files — the 12 chapters and the epilogue — against 12 banned-list patterns drawn from
+section 2 of `Unified-Narrative-Writing-Rules-for-AI-updated.md`: the ozone opening, "a testament
+to", palpable and tangible emotion, shivers down spines, echoed through, symphony and dance of,
+something shifted, in this or that moment, weather as emotion, little did they know, exhaustive
+physical description, and the weight or burden of.
+
+**0 hits.**
+
+Five further craft rules were tested where they are greppable: RULE 0.14 fourth wall, RULE 0.13
+sudden seers, RULE 3.2 thought-tag tics, RULE 3.4 visible transitions, and RULE 4.4 tied-bow
+endings. **1 hit, and it is a false positive.**
+
+### The one hit, and why it stays
+
+Chapter 9, line 96: *"Memory was not passive in this story. Memory was participation."*
+
+The phrase matches a fourth-wall pattern, but it is a character reasoning about memory as narrative
+rather than a reference to the book the reader is holding. Nothing in the sentence acknowledges an
+audience. **A banned-list match is a lead, not a finding, and this one does not survive its
+context.** No edit was made.
+
+### What this means
+
+The story needed no craft repair in this pass. The earlier batches that de-templated the records,
+rewrote the chapter openings to RULE 3.1 and removed the duplicated opening beats had already
+cleared the ground, and `STORY_CHAPTERS_ACTION_OPEN` still reads 12 of 12.
+
+### What this pass could not test
+
+RULE 3.3, RULE 3.5 and RULE 4.3 are judgements about whether description serves the character,
+whether a chapter changes something, and whether pacing matches emotion. None of them is greppable,
+and none was assessed here. **A clean result on the greppable rules is not a clean result on the
+craft as a whole.**
+
+### Gates after the pass
+
+| GATE | RESULT |
+|---|---|
+| `STORY_CHAPTERS_TOTAL` / `STORY_CHAPTERS_ACTION_OPEN` | 12 / 12 |
+| `STORY_OPENING_REPEATS` | 0 |
+| `STORY_MANUSCRIPT_LOCKSTEP_FAILURES` | 0 |
+| `STORY_CHAPTER_MD_FILES` | 14 |
+| `DOCUMENT_COUNT` | 1026 |
+| `PATCH_SAVER_ENTRIES` | 112 |
+
+No story file was changed by this batch.
+
