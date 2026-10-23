@@ -53,7 +53,8 @@ One damaged page is held. The dossier states that buyer books record client reli
 
 Build **two** records:
 
-1. `TECH-GOI-068-1` — Velvet receipt, seal paper, and return-clause instrument set. Covers the six certificates, the two forgeries, the one authentic return clause, the custody acceptance and rejection behaviour, the handling instruction, and the two-writer / three-date anomaly in the recovered fragment.
+1. `TECH-GOI-068-1` — Velvet receipt, seal paper, and return-clause instrument set. Covers the six certificates, the two forgeries, the one authentic return clause, the custody acceptance and rejection behaviour, the handling instruction, and the two-writer
+three-date anomaly in the recovered fragment.
 2. `TECH-GOI-068-2` — Velvet buyer-book page and barred-client mark system. Covers the one damaged page, the mark categories visible on it, handling rules, and the open question of which marks are shared with other hidden markets.
 
 Carry the cloth, the ledger, and the viewing room as **open questions inside those two records** rather than as records of their own. Record the House's authentication capability — detecting forged origin papers through ink, pressure, witness chain and responsive seal behaviour, and identifying ownership attachments that survive sale, theft, inheritance, fire, or amnestic alteration — inside `TECH-GOI-068-1` as assessed rival capability, which is where it is actually useful to a reader.

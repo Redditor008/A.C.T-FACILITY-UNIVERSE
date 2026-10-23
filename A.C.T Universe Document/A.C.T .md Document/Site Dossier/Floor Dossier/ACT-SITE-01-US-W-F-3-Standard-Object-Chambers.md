@@ -1,8 +1,6 @@
 # A.C.T FACILITY ARCHIVE FILE — Floor Dossier — F-3, Standard Object Chambers
-## Floor Dossier — F-3, Standard Object Chambers
-## ACT-SITE-01-US-W — Redwood Veil Complex
-## Western United States
 
+Floor Dossier — F-3, Standard Object Chambers / ACT-SITE-01-US-W — Redwood Veil Complex / Western United States
 | FIELD | VALUE |
 |---|---|
 | ARCHIVE STATUS | Active |

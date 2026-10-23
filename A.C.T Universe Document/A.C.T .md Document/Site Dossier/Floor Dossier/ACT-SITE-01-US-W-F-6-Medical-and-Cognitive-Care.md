@@ -1,8 +1,6 @@
 # A.C.T FACILITY ARCHIVE FILE — Floor Dossier — F-6, Medical and Cognitive Care
-## Floor Dossier — F-6, Medical and Cognitive Care
-## ACT-SITE-01-US-W — Redwood Veil Complex
-## Western United States
 
+Floor Dossier — F-6, Medical and Cognitive Care / ACT-SITE-01-US-W — Redwood Veil Complex / Western United States
 | FIELD | VALUE |
 |---|---|
 | ARCHIVE STATUS | Active |

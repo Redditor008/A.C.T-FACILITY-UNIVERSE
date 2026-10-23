@@ -1,8 +1,6 @@
 # A.C.T FACILITY ARCHIVE FILE — Floor Dossier — F-3, Active Anomalous Document Storage
-## Floor Dossier — F-3, Active Anomalous Document Storage
-## ACT-SITE-03-JP-E — Kurokawa Archive Node
-## Eastern Japan
 
+Floor Dossier — F-3, Active Anomalous Document Storage / ACT-SITE-03-JP-E — Kurokawa Archive Node / Eastern Japan
 | FIELD | VALUE |
 |---|---|
 | ARCHIVE STATUS | Active |

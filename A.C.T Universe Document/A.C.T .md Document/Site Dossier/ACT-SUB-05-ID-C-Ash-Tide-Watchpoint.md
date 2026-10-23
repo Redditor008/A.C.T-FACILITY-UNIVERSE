@@ -1,7 +1,6 @@
 # A.C.T FACILITY ARCHIVE FILE — ACT-SUB-05-ID-C — Ash Tide Watchpoint
-## ACT-SUB-05-ID-C — Ash Tide Watchpoint
-## Sub-Site Dossier — Central Indonesia
 
+ACT-SUB-05-ID-C — Ash Tide Watchpoint / Sub-Site Dossier — Central Indonesia
 | FIELD | VALUE |
 |---|---|
 | ARCHIVE STATUS | Active |

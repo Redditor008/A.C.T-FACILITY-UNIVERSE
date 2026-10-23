@@ -1,8 +1,6 @@
 # A.C.T FACILITY ARCHIVE FILE — Floor Dossier — F-1, Emergency Intake and Secure Storage
-## Floor Dossier — F-1, Emergency Intake and Secure Storage
-## ACT-SUB-05-ID-C — Ash Tide Watchpoint
-## Central Indonesia
 
+Floor Dossier — F-1, Emergency Intake and Secure Storage / ACT-SUB-05-ID-C — Ash Tide Watchpoint / Central Indonesia
 | FIELD | VALUE |
 |---|---|
 | ARCHIVE STATUS | Active |

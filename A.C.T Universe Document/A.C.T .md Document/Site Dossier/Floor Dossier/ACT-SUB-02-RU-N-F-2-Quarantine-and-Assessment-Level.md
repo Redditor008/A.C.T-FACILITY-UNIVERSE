@@ -1,8 +1,6 @@
 # A.C.T FACILITY ARCHIVE FILE — Floor Dossier — F-2, Quarantine and Assessment Level
-## Floor Dossier — F-2, Quarantine and Assessment Level
-## ACT-SUB-02-RU-N — Frost Hollow Depot
-## Northern Russia
 
+Floor Dossier — F-2, Quarantine and Assessment Level / ACT-SUB-02-RU-N — Frost Hollow Depot / Northern Russia
 | FIELD | VALUE |
 |---|---|
 | ARCHIVE STATUS | Active |

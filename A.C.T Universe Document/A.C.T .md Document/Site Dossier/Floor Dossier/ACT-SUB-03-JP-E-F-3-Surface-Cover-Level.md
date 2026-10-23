@@ -1,8 +1,6 @@
 # A.C.T FACILITY ARCHIVE FILE — ACT SUB 03 JP E F 3 Surface Cover Level
-## Floor Dossier — F-3, Surface Cover Level
-## ACT-SUB-03-JP-E — Silent Reed Annex
-## Eastern Japan
 
+Floor Dossier — F-3, Surface Cover Level / ACT-SUB-03-JP-E — Silent Reed Annex / Eastern Japan
 | FIELD | VALUE |
 |---|---|
 | ARCHIVE STATUS | Active |

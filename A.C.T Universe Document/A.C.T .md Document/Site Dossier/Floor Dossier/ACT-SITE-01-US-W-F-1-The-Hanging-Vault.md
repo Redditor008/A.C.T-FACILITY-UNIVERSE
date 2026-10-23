@@ -1,8 +1,6 @@
 # A.C.T FACILITY ARCHIVE FILE — Floor Dossier — F-1, The Hanging Vault
-## Floor Dossier — F-1, The Hanging Vault
-## ACT-SITE-01-US-W — Redwood Veil Complex
-## Western United States
 
+Floor Dossier — F-1, The Hanging Vault / ACT-SITE-01-US-W — Redwood Veil Complex / Western United States
 | FIELD | VALUE |
 |---|---|
 | ARCHIVE STATUS | Active |

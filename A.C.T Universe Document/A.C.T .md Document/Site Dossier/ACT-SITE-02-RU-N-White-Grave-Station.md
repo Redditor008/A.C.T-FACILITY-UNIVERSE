@@ -1,7 +1,6 @@
 # A.C.T FACILITY ARCHIVE FILE — ACT-SITE-02-RU-N — White Grave Station
-## ACT-SITE-02-RU-N — White Grave Station
-## Regional Site Dossier — Northern Russia
 
+ACT-SITE-02-RU-N — White Grave Station / Regional Site Dossier — Northern Russia
 | FIELD | VALUE |
 |---|---|
 | ARCHIVE STATUS | Active |

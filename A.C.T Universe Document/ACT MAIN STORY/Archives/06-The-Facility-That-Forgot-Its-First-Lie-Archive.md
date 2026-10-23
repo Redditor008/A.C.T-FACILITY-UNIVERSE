@@ -1,7 +1,6 @@
 # A.C.T FACILITY ARCHIVE FILE — Primary Narrative Archive
-## Primary Narrative Archive
-## The Facility That Forgot Its First Lie
 
+Primary Narrative Archive / The Facility That Forgot Its First Lie
 | FIELD | VALUE |
 |---|---|
 | ARCHIVE STATUS | Restricted |

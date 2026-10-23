@@ -1,8 +1,6 @@
 # A.C.T FACILITY ARCHIVE FILE — Floor Dossier — F-5, Research and Analysis
-## Floor Dossier — F-5, Research and Analysis
-## ACT-SITE-01-US-W — Redwood Veil Complex
-## Western United States
 
+Floor Dossier — F-5, Research and Analysis / ACT-SITE-01-US-W — Redwood Veil Complex / Western United States
 | FIELD | VALUE |
 |---|---|
 | ARCHIVE STATUS | Active |

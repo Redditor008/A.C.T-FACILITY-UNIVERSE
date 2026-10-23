@@ -1,8 +1,6 @@
 # A.C.T FACILITY ARCHIVE FILE — Floor Dossier — F-2, Operations and Watch Level
-## Floor Dossier — F-2, Operations and Watch Level
-## ACT-SUB-05-ID-C — Ash Tide Watchpoint
-## Central Indonesia
 
+Floor Dossier — F-2, Operations and Watch Level / ACT-SUB-05-ID-C — Ash Tide Watchpoint / Central Indonesia
 | FIELD | VALUE |
 |---|---|
 | ARCHIVE STATUS | Active |

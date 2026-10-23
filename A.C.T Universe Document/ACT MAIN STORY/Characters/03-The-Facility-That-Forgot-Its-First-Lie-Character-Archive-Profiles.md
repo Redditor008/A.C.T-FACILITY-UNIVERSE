@@ -1,7 +1,6 @@
 # A.C.T FACILITY ARCHIVE FILE — Main Story Character Archive Profiles
-## Main Story Character Archive Profiles
-## The Facility That Forgot Its First Lie
 
+Main Story Character Archive Profiles / The Facility That Forgot Its First Lie
 | FIELD | VALUE |
 |---|---|
 | ARCHIVE STATUS | Internal Narrative Use |

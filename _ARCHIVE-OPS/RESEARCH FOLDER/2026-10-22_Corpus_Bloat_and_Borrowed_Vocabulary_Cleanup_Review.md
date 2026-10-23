@@ -104,13 +104,15 @@ Examples of what replaced the shared sentence:
 - `TECH-ACT-040` — 3 values below are not held by the archive: Model horizon, Concurrent asset count, Uplink latency limit.
 - `TECH-GOI-048-2` — 2 values below are not held by the archive: Maps recovered, Confirmed mouth sites.
 
-Ten sentence shapes are used, rotated by record index, so the fix does not become a new stamp. The replacement is wrapped to the same 20-word / 118-character rule as the rest of the paragraph, and the identical wrapped paragraph is written to both twins.
+Ten sentence shapes are used, rotated by record index, so the fix does not become a new stamp. The replacement is wrapped to the same 20-word
+118-character rule as the rest of the paragraph, and the identical wrapped paragraph is written to both twins.
 
 Net effect: **308 files changed, 872 lines removed, 640 inserted** — the corpus is 232 lines shorter and no longer repeats one sentence 308 times.
 
 ### Second pass — archive status rendered as boxes
 
-A second pass converted the 137 plain `Archive Status:` / `Distribution:` / `Authority:` line blocks into house boxes at widths 28 and 87, with each value wrapped inside its own column, and removed the 4 redundant plain blocks in the `TECH-GOI-071` twins that already carried a box.
+A second pass converted the 137 plain `Archive Status:` / `Distribution:`
+`Authority:` line blocks into house boxes at widths 28 and 87, with each value wrapped inside its own column, and removed the 4 redundant plain blocks in the `TECH-GOI-071` twins that already carried a box.
 
 Every conversion was verified value-identical against `HEAD`: all three fields, word for word, in all 141 files. Four `TECH-GOI-071` twins were first given a duplicate box by the converter — they already had one — and were reverted before the redundant plain blocks were removed instead. That mistake was caught by a duplicate-row check, not by the parity check.
 

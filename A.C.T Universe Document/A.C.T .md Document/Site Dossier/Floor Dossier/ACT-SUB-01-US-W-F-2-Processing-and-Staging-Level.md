@@ -1,8 +1,6 @@
 # A.C.T FACILITY ARCHIVE FILE — Floor Dossier — F-2, Processing and Staging Level
-## Floor Dossier — F-2, Processing and Staging Level
-## ACT-SUB-01-US-W — Glass Orchard Relay
-## Western United States
 
+Floor Dossier — F-2, Processing and Staging Level / ACT-SUB-01-US-W — Glass Orchard Relay / Western United States
 | FIELD | VALUE |
 |---|---|
 | ARCHIVE STATUS | Active |

@@ -1,7 +1,6 @@
 # A.C.T FACILITY ARCHIVE FILE — ACT-SUB-04-BR-C — Hollow Canopy Enclosure
-## ACT-SUB-04-BR-C — Hollow Canopy Enclosure
-## Sub-Site Dossier — Central Brazil
 
+ACT-SUB-04-BR-C — Hollow Canopy Enclosure / Sub-Site Dossier — Central Brazil
 | FIELD | VALUE |
 |---|---|
 | ARCHIVE STATUS | Active |

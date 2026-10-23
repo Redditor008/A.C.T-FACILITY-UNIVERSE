@@ -1,8 +1,6 @@
 # A.C.T FACILITY ARCHIVE FILE — Floor Dossier — F-1, Minor Memetic Quarantine Vault
-## Floor Dossier — F-1, Minor Memetic Quarantine Vault
-## ACT-SUB-03-JP-E — Silent Reed Annex
-## Eastern Japan
 
+Floor Dossier — F-1, Minor Memetic Quarantine Vault / ACT-SUB-03-JP-E — Silent Reed Annex / Eastern Japan
 | FIELD | VALUE |
 |---|---|
 | ARCHIVE STATUS | Active |

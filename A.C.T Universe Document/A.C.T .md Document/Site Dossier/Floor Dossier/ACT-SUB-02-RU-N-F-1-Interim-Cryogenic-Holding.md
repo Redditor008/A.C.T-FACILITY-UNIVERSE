@@ -1,8 +1,6 @@
 # A.C.T FACILITY ARCHIVE FILE — Floor Dossier — F-1, Interim Cryogenic Holding
-## Floor Dossier — F-1, Interim Cryogenic Holding
-## ACT-SUB-02-RU-N — Frost Hollow Depot
-## Northern Russia
 
+Floor Dossier — F-1, Interim Cryogenic Holding / ACT-SUB-02-RU-N — Frost Hollow Depot / Northern Russia
 | FIELD | VALUE |
 |---|---|
 | ARCHIVE STATUS | Active |

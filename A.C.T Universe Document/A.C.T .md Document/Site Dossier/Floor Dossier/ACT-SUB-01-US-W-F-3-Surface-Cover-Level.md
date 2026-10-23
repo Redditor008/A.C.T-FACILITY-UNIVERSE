@@ -1,8 +1,6 @@
 # A.C.T FACILITY ARCHIVE FILE — ACT SUB 01 US W F 3 Surface Cover Level
-## Floor Dossier — F-3, Surface Cover Level
-## ACT-SUB-01-US-W — Glass Orchard Relay
-## Western United States
 
+Floor Dossier — F-3, Surface Cover Level / ACT-SUB-01-US-W — Glass Orchard Relay / Western United States
 | FIELD | VALUE |
 |---|---|
 | ARCHIVE STATUS | Active |

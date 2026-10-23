@@ -1,8 +1,6 @@
 # A.C.T FACILITY ARCHIVE FILE — Floor Dossier — F-4, Research and Analysis Level
-## Floor Dossier — F-4, Research and Analysis Level
-## ACT-SITE-03-JP-E — Kurokawa Archive Node
-## Eastern Japan
 
+Floor Dossier — F-4, Research and Analysis Level / ACT-SITE-03-JP-E — Kurokawa Archive Node / Eastern Japan
 | FIELD | VALUE |
 |---|---|
 | ARCHIVE STATUS | Active |

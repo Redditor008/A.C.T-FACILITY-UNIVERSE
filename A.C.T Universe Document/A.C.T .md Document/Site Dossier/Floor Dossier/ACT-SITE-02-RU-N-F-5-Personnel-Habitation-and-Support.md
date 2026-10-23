@@ -1,8 +1,6 @@
 # A.C.T FACILITY ARCHIVE FILE — Floor Dossier — F-5, Personnel Habitation and Support
-## Floor Dossier — F-5, Personnel Habitation and Support
-## ACT-SITE-02-RU-N — White Grave Station
-## Northern Russia
 
+Floor Dossier — F-5, Personnel Habitation and Support / ACT-SITE-02-RU-N — White Grave Station / Northern Russia
 | FIELD | VALUE |
 |---|---|
 | ARCHIVE STATUS | Active |

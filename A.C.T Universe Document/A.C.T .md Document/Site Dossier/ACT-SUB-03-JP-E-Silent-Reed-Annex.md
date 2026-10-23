@@ -1,7 +1,6 @@
 # A.C.T FACILITY ARCHIVE FILE — ACT-SUB-03-JP-E — Silent Reed Annex
-## ACT-SUB-03-JP-E — Silent Reed Annex
-## Sub-Site Dossier — Eastern Japan
 
+ACT-SUB-03-JP-E — Silent Reed Annex / Sub-Site Dossier — Eastern Japan
 | FIELD | VALUE |
 |---|---|
 | ARCHIVE STATUS | Active |

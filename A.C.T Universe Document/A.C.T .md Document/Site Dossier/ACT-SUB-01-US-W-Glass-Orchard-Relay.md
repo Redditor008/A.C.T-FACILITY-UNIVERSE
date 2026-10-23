@@ -1,7 +1,6 @@
 # A.C.T FACILITY ARCHIVE FILE — ACT-SUB-01-US-W — Glass Orchard Relay
-## ACT-SUB-01-US-W — Glass Orchard Relay
-## Sub-Site Dossier — Western United States
 
+ACT-SUB-01-US-W — Glass Orchard Relay / Sub-Site Dossier — Western United States
 | FIELD | VALUE |
 |---|---|
 | ARCHIVE STATUS | Active |

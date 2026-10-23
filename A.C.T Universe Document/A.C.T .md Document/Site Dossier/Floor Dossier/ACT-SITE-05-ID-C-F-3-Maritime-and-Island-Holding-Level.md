@@ -1,8 +1,6 @@
 # A.C.T FACILITY ARCHIVE FILE — Floor Dossier — F-3, Maritime and Island Holding Level
-## Floor Dossier — F-3, Maritime and Island Holding Level
-## ACT-SITE-05-ID-C — Nusantara Deep Relay
-## Central Indonesia
 
+Floor Dossier — F-3, Maritime and Island Holding Level / ACT-SITE-05-ID-C — Nusantara Deep Relay / Central Indonesia
 | FIELD | VALUE |
 |---|---|
 | ARCHIVE STATUS | Active |

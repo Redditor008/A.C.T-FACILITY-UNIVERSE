@@ -1,8 +1,6 @@
 # A.C.T FACILITY ARCHIVE FILE — Floor Dossier — F-5, Surface Research Campus
-## Floor Dossier — F-5, Surface Research Campus
-## ACT-SITE-04-BR-C — Verde Null Bio-Reserve
-## Central Brazil
 
+Floor Dossier — F-5, Surface Research Campus / ACT-SITE-04-BR-C — Verde Null Bio-Reserve / Central Brazil
 | FIELD | VALUE |
 |---|---|
 | ARCHIVE STATUS | Active |

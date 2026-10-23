@@ -1,7 +1,6 @@
 # A.C.T FACILITY ARCHIVE FILE — ACT-SUB-02-RU-N — Frost Hollow Depot
-## ACT-SUB-02-RU-N — Frost Hollow Depot
-## Sub-Site Dossier — Northern Russia
 
+ACT-SUB-02-RU-N — Frost Hollow Depot / Sub-Site Dossier — Northern Russia
 | FIELD | VALUE |
 |---|---|
 | ARCHIVE STATUS | Active |

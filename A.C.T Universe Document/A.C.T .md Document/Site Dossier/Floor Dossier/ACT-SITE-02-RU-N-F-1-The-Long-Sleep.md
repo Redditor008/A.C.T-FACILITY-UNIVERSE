@@ -1,8 +1,6 @@
 # A.C.T FACILITY ARCHIVE FILE — Floor Dossier — F-1, The Long Sleep
-## Floor Dossier — F-1, The Long Sleep
-## ACT-SITE-02-RU-N — White Grave Station
-## Northern Russia
 
+Floor Dossier — F-1, The Long Sleep / ACT-SITE-02-RU-N — White Grave Station / Northern Russia
 | FIELD | VALUE |
 |---|---|
 | ARCHIVE STATUS | Active |

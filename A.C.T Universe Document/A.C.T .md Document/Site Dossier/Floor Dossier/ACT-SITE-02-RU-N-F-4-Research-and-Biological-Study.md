@@ -1,8 +1,6 @@
 # A.C.T FACILITY ARCHIVE FILE — Floor Dossier — F-4, Research and Biological Study
-## Floor Dossier — F-4, Research and Biological Study
-## ACT-SITE-02-RU-N — White Grave Station
-## Northern Russia
 
+Floor Dossier — F-4, Research and Biological Study / ACT-SITE-02-RU-N — White Grave Station / Northern Russia
 | FIELD | VALUE |
 |---|---|
 | ARCHIVE STATUS | Active |

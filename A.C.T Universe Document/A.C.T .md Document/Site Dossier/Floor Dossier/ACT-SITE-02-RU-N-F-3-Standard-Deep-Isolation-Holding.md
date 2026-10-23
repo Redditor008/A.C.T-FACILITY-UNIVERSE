@@ -1,8 +1,6 @@
 # A.C.T FACILITY ARCHIVE FILE — Floor Dossier — F-3, Standard Deep-Isolation Holding
-## Floor Dossier — F-3, Standard Deep-Isolation Holding
-## ACT-SITE-02-RU-N — White Grave Station
-## Northern Russia
 
+Floor Dossier — F-3, Standard Deep-Isolation Holding / ACT-SITE-02-RU-N — White Grave Station / Northern Russia
 | FIELD | VALUE |
 |---|---|
 | ARCHIVE STATUS | Active |

@@ -1,8 +1,6 @@
 # A.C.T FACILITY ARCHIVE FILE — Floor Dossier — F-6, General Records and Anomalous Intake
-## Floor Dossier — F-6, General Records and Anomalous Intake
-## ACT-SITE-03-JP-E — Kurokawa Archive Node
-## Eastern Japan
 
+Floor Dossier — F-6, General Records and Anomalous Intake / ACT-SITE-03-JP-E — Kurokawa Archive Node / Eastern Japan
 | FIELD | VALUE |
 |---|---|
 | ARCHIVE STATUS | Active |

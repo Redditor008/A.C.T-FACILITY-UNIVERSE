@@ -1,8 +1,6 @@
 # A.C.T FACILITY ARCHIVE FILE — Floor Dossier — F-4, Personnel and Operations Level
-## Floor Dossier — F-4, Personnel and Operations Level
-## ACT-SITE-04-BR-C — Verde Null Bio-Reserve
-## Central Brazil
 
+Floor Dossier — F-4, Personnel and Operations Level / ACT-SITE-04-BR-C — Verde Null Bio-Reserve / Central Brazil
 | FIELD | VALUE |
 |---|---|
 | ARCHIVE STATUS | Active |

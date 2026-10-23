@@ -1,8 +1,6 @@
 # A.C.T FACILITY ARCHIVE FILE — Floor Dossier — F-1, Short-Term Holding Vault
-## Floor Dossier — F-1, Short-Term Holding Vault
-## ACT-SUB-01-US-W — Glass Orchard Relay
-## Western United States
 
+Floor Dossier — F-1, Short-Term Holding Vault / ACT-SUB-01-US-W — Glass Orchard Relay / Western United States
 | FIELD | VALUE |
 |---|---|
 | ARCHIVE STATUS | Active |

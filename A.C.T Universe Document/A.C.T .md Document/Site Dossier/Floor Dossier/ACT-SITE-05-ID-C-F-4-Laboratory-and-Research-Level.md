@@ -1,8 +1,6 @@
 # A.C.T FACILITY ARCHIVE FILE — Floor Dossier — F-4, Laboratory and Research Level
-## Floor Dossier — F-4, Laboratory and Research Level
-## ACT-SITE-05-ID-C — Nusantara Deep Relay
-## Central Indonesia
 
+Floor Dossier — F-4, Laboratory and Research Level / ACT-SITE-05-ID-C — Nusantara Deep Relay / Central Indonesia
 | FIELD | VALUE |
 |---|---|
 | ARCHIVE STATUS | Active |
