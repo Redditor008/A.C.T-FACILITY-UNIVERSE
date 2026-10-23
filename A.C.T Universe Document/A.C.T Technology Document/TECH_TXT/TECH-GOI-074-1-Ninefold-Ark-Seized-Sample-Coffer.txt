@@ -69,9 +69,9 @@ BECAUSE THE CONTENTS ARE CURIOUS.
 FUNCTION SUMMARY
 ================
 
-A sample coffer is a preservation container used by the Ninefold Ark. The dossier describes coffers as carrying
-nine-line seals and places them among Ark assets that include cold cradles for viable tissue, seed, eggs, blood,
-spores and unknown samples.
+A sample coffer is a preservation container used by the Ninefold Ark. The dossier places coffers among Ark assets
+that also include cold cradles for viable tissue, seed, eggs, blood, spores and unknown samples, which is the
+closest thing it offers to a description of what a coffer is for.
 
 - preserves biological material in transit or storage;
 - is sealed with a nine-line seal;

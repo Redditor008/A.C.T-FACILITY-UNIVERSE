@@ -6335,3 +6335,34 @@ cause was un-decoded URL escapes.
 of 242 records and none in more than 25 percent. The thirteen records built this session were the
 worst-stamped in the archive and are now varied; the pre-existing records are not badly stamped.
 That is the opposite of the assumption the check started from.
+
+## Prompt End Update — 2026-10-23, Reader Review Clean; Assessment Shape Runs Thin by Design
+
+**The reader-logical review from the root found no navigation defect.** All seven Start Here links
+resolve, the recommended first read inside the Technology folder exists, all six folder entry files
+are present, and the count reads 242 everywhere a tourist would see it. No stale 229 or 231 survives
+in any live document.
+
+**Archive-wide link sweep: 654 relative links, 0 broken.** The first pass reported 8 broken because
+it did not URL-decode percent-20, so every spaced path failed. Third checker this session that was
+wrong rather than the data; second where the cause was un-decoded URL escapes.
+
+**Craft measures across the thirteen.** 29,390 words, mean 2,260, none over 2,400 and none under
+2,000. Largest unbroken prose block 8 lines. Two bold marks per record, both the controlled label
+and neither emphasis. **Zero redaction blocks** - none of the thirteen needed concealment, because
+each object's interest is in what it is rather than in what is hidden about it. **78 open questions,
+all 78 distinct.**
+
+**Owner ruling: the uniform length is kept.** All thirteen land within 224 words of one another and
+that is house consistency rather than a defect.
+
+**The cost of that ruling, recorded so it is not rediscovered.** The assessment shape runs thin by
+design. `TECH-GOI-074-1` covers one unopened container whose contents are unknown, so its TECHNICAL
+SPECIFICATION and INTERFACE chapters are necessarily near-empty and read as scaffolding. Filling a
+house chapter to the same depth as every other record also produces restatement: the nine-line seal
+appeared four times before the first chapter closed. The fourth was cut and the chapter now opens
+on the cold-cradle context instead.
+
+**The lesson for a future assessment-shaped record.** Where the object is sealed, unknown or
+single, the record should say so once and let the empty chapters stay visibly empty. Padding them
+to house depth manufactures repetition, and repetition is the thing the stamp gate exists to catch.
