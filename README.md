@@ -109,7 +109,7 @@ A.C.T-FACILITY-UNIVERSE/
 │   │   ├── Anomaly Legacy 01 .txt/ legacy-era files + Log/
 │   │   └── Anomaly Legacy 01.md/   a few legacy files in Markdown
 │   ├── A.C.T Technology Document/  what the Facility builds
-│   │   ├── TECH_MD/                229 per-system records
+│   │   ├── TECH_MD/                242 per-system records
 │   │   └── TECH_TXT/               plain-text twins
 │   ├── A.C.T GOI Document/         groups outside A.C.T
 │   │   ├── GOI_MD/                 30 dossiers
@@ -146,7 +146,7 @@ A.C.T-FACILITY-UNIVERSE/
 | Modern anomalies | `…/Anomaly Modern txt/` | Modern-era anomaly files, dossiers, character and capability profiles |
 | ITHYOS | `…/ITHYOS Document/` | ENTITY-000 first-vault records, modern file standard, log |
 | GOI | `…/A.C.T GOI Document/GOI_MD` ↔ `GOI_TXT` | 30 Group of Interest dossiers, plus recovered-document records |
-| Technology | `…/A.C.T Technology Document/TECH_MD` ↔ `TECH_TXT` | 229 per-system records: `TECH-ACT` (A.C.T developed) and `TECH-GOI` (recovered from or assessed against a GOI) |
+| Technology | `…/A.C.T Technology Document/TECH_MD` ↔ `TECH_TXT` | 242 per-system records: `TECH-ACT` (A.C.T developed) and `TECH-GOI` (recovered from or assessed against a GOI) |
 | Main story | `…/ACT MAIN STORY/` | Manuscript, 13 chapters, character profiles, outline, archives, continuity policy |
 | Handbook | `…/Junior Handbook/` | Orientation written for junior staff (Level 1–2) |
 | BOOK | `…/'A History of Anomaly Containment Transformation' BOOK.md` | In-universe history, Markdown only |

@@ -22,7 +22,7 @@ Pick the door that suits you. None of them require you to have read anything fir
 |---|---|
 | `ACT MAIN STORY/` | The narrative layer: chapters, character profiles, outline, continuity policy |
 | `A.C.T Anomaly Document/` | The anomaly files themselves, legacy era and modern era, plus ITHYOS |
-| `A.C.T Technology Document/` | 231 per-system technology records with custody, limits and failure history |
+| `A.C.T Technology Document/` | 242 per-system technology records with custody, limits and failure history |
 | `A.C.T GOI Document/` | Groups of Interest — the governments, markets, cults and companies outside A.C.T |
 | `A.C.T .md Document/` | Core doctrine in Markdown: site dossiers, floor dossiers, operational forms |
 | `A.C.T .txt Document/` | The plain-text twin of the above, plus two legacy-only records |
