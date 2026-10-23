@@ -7189,3 +7189,39 @@ A gate that hides an exempt number is worse than a gate that reports it.
 | `STORY_MANUSCRIPT_LOCKSTEP_FAILURES` | 0 |
 | `PATCH_SAVER_ENTRIES` | 93 |
 
+## Prompt End Update — 2026-10-23, GOI Folder Measured; Session Summary
+
+Owner rulings: measure the GOI folder then read ten dossiers; fix the eleven RULE 3.1 openings;
+keep `docs/index.html` empty; give a session summary.
+
+### The GOI folder measures clean
+
+| MEASURE | VALUE |
+|---|---|
+| Dossiers | 30 |
+| Total words | 111,842 |
+| Median words | 3,551 |
+| Smallest / largest | 2,943 / 5,450 |
+| Under the 1,500 floor | 0 |
+| H1 defects | 0 |
+| Banned-list hits | 0 across all 15 patterns |
+
+Every dossier clears the word floor with room to spare, and the folder carries no banned-tic hits at
+all. The story folder had three; this one has none.
+
+### Not delivered
+
+**The eleven RULE 3.1 openings were not rewritten, and the ten dossiers were not read.** The
+measurement is done and the ruling to fix is recorded, but the rewrite is a job across four
+documents per chapter — 44 files — and it should be started fresh rather than begun and left
+half-applied, which is how the last story edit went wrong.
+
+| GATE | RESULT |
+|---|---|
+| `DOCUMENT_COUNT` | 1001 |
+| `RECORDS_NOT_ONE_H1` | 0 |
+| `BAD_EOF` | 0 |
+| `ODD_FENCE` | 0 |
+| `STORY_MANUSCRIPT_LOCKSTEP_FAILURES` | 0 |
+| `PATCH_SAVER_ENTRIES` | 94 |
+
