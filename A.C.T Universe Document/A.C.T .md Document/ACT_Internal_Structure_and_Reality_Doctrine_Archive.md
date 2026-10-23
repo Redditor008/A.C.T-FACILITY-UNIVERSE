@@ -641,7 +641,9 @@ reset, and the impossible pressures of a universe that does not always continue 
 
 ## Series Position
 
-This record is Part Two of the A.C.T Universe reading order, Internal Structure and Reality Doctrine. Part Two of the A.C.T Universe defines how the Facility is organised internally and what doctrine governs its treatment of reality. The separate file of the A.C.T Universe series that carried the same content was
+This record is Part Two of the A.C.T Universe reading order, Internal Structure and Reality Doctrine. Part Two of the
+A.C.T Universe defines how the Facility is organised internally and what doctrine governs its treatment of reality.
+The separate file of the A.C.T Universe series that carried the same content was
 consolidated into this record
 on 2026-10-22; every sentence held only in that file is carried above or in the body of this
 document.

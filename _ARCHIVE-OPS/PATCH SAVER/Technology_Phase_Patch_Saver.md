@@ -6589,3 +6589,35 @@ no discrepancy. The finding was stale and is withdrawn.
 
 **Still open.** `TECH_TXT/README.txt` carries one line of markdown link markup and 10 prose lines
 over 118. `docs/index.html` remains empty by owner ruling.
+
+## Prompt End Update — 2026-10-23, Stale Number Purge
+
+Owner ruling: purge. Every figure this log carried forward was re-measured and the results are
+recorded at `_ARCHIVE-OPS/RESEARCH FOLDER/2026-10-23_Stale_Number_Purge.md`.
+
+Six figures were wrong: technology records 229 not 242, `TECH_MD` 231 not 244, the GOI alignment
+letters, `.md` wide prose lines 18 not 80, anomaly files 178 not 174, GOI dossiers 30 not 36. The
+GOI designation-letter discrepancy was never a discrepancy and is withdrawn.
+
+`_ARCHIVE-OPS/tools/corpus_numbers.py` is now the only source for corpus figures, and it separates
+`DOCUMENT_COUNT` 1000 from `DOCUMENT_COUNT_EX_OPS` 979 so the two populations stop being conflated.
+
+While purging, six doctrine records were found carrying a single prose line of 308 to 353
+characters in their opening paragraph. All six were re-wrapped at 118; the plain-text twins were
+already wrapped and did not change.
+
+### Standing rule
+
+Quote a figure only in the turn it was measured. Where one must be carried forward, carry the
+`corpus_numbers.py` label rather than the number, and re-run the script before the report.
+
+| GATE | RESULT |
+|---|---|
+| `DOCUMENT_COUNT` | 1000 |
+| `RECORDS_NOT_ONE_H1` | 0 |
+| `BAD_EOF` | 0 |
+| `ODD_FENCE` | 0 |
+| `TXT_BOLD_FILES` / `TXT_BACKTICK_FILES` / `TXT_MD_HEADING_FILES` | 0 / 0 / 0 |
+| `TECH_MD` / `TECH_TXT` | 244 / 244, 242 records, 0 unpaired |
+| `MD_WIDE_PROSE_LINES` | 80, all markdown link continuations |
+| `PATCH_SAVER_ENTRIES` | 80 |

@@ -179,7 +179,9 @@ This document serves as **Part One of the A.C.T Universe**.
 
 ## Series Position
 
-This record is Part One of the A.C.T Universe reading order, Facility Overview. Part One of the A.C.T Universe establishes the foundational overview of the A.C.T Facility, its mission, methods, doctrine, and guiding philosophy. The separate file of the A.C.T Universe series that carried the same content was
+This record is Part One of the A.C.T Universe reading order, Facility Overview. Part One of the A.C.T Universe
+establishes the foundational overview of the A.C.T Facility, its mission, methods, doctrine, and guiding philosophy.
+The separate file of the A.C.T Universe series that carried the same content was
 consolidated into this record
 on 2026-10-22; every sentence held only in that file is carried above or in the body of this
 document.
