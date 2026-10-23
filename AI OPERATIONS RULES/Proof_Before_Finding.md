@@ -133,6 +133,26 @@ The rule that follows from it:
 4. Where a defect is found after a commit has shipped, say which commit carried it and what the
    number was. Do not let the correction commit imply the defect was only just discovered.
 
+## No number in a commit message that has not been measured
+
+A commit message is a claim about the change. Every figure in it must come from the verification
+block that ran on the change, and a message drafted before the block must be reconciled against it
+before the push.
+
+This failed. A rebuild commit message stated 1,177 words and that a repeated phrase had dropped
+from eleven occurrences to four. The verification block, which ran in the same command, reported
+1,153 words and one occurrence. The message was drafted from expectation and pushed without being
+checked against the numbers printed above it.
+
+The rule:
+
+1. Run the verification block first.
+2. Write the message from its output, not from what the change was intended to do.
+3. Where a message has already been drafted, read it against the block line by line before
+   committing.
+4. Where a wrong figure has been pushed, state the correct one in the next report and name the
+   commit that carried the error. Do not let the correction pass silently.
+
 ## Related standing gates
 
 - Compare `git rev-parse HEAD` against `git ls-remote origin <branch>` before the first edit of

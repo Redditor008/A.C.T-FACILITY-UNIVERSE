@@ -27,6 +27,7 @@ anomalies belong in `A.C.T Anomaly Creation Rule/`. Session logs and patch ledge
 | File | Subject |
 |---|---|
 | `Proof_Before_Finding.md` | No finding ships until the instrument that produced it is proven |
+| `Document_Type_Range.md` | The range of document classes an institution keeps, and the register each uses |
 | `Archivist_Voice.md` | Vocabulary and stance for in-world documents; measured against the owner's doctrine |
 | `ACT_Anomaly_Generation_AI_Guide.md` | How an AI writes an A.C.T anomaly record |
 | `ACT_Updated_Anomaly_Generator.md` | Generation procedure and prompt scaffolding |
