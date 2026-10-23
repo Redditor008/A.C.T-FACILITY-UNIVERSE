@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - LULLABY WORKS QUIET BLANKET PANIC-REDUCTION WEAVE
 | RISK STATUS                | PROTECTIVE IN SERVICE / HAZARDOUS IF FORCE-OPENED OR LAUNDERED INCORRECTLY            |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 3 for instruction handling; Level 4 for weave and sample inspection; Level 5    |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | for cutting, laundering trials, or lot tracing                                        |
 +----------------------------+---------------------------------------------------------------------------------------+
 

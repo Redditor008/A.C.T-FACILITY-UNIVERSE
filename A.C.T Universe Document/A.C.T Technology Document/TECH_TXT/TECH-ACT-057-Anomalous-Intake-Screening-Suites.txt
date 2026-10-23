@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - ANOMALOUS INTAKE SCREENING SUITES
 | RISK STATUS                | ANOMALOUS MEDIA EXPOSURE / ROUTING ERROR RISK                                         |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 2 for routine intake support; Level 3 for screening; Level 4 for                |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | anomalous-media triage or route override                                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,6 +33,7 @@ TECHNOLOGY RECORD - ANOMALOUS INTAKE SCREENING SUITES
 | ARCHIVE STATUS             | Active Archive Intake Technology Record                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Archiver Division / Kurokawa Archive Node / Intelligence / Research / Security /      |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Redaction / Containment                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Kurokawa Intake Chief, Archiver Division, and Central Archive                         |
@@ -242,14 +244,18 @@ FAULT ISOLATION
 +============================+===========================================+===========================================+
 | Two envelopes on one slip  | printer jam, identical items              | verify marks; 2019                        |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Screener reading too deeply| screening treated as interpretation       | retrain; 2023                             |
+| Screener reading too       | screening treated as interpretation       | retrain; 2023                             |
+| deeply                     |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Route lock slow to close   | lock mechanism fault                      | hold the item; 2026                       |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Hazard appearing after     | first-pass system limit                   | route to controlled reading               |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | copying                    |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Item looks ordinary, record| trust the record                          | hold for Level 4                          |
+| Item looks ordinary,       | trust the record                          | hold for Level 4                          |
+| record                     |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | disagrees                  |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Status light stuck         | signal fault                              | do not route on memory                    |

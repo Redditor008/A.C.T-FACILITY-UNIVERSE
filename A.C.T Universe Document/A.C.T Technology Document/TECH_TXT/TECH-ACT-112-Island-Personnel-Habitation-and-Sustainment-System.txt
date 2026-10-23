@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - ISLAND PERSONNEL HABITATION AND SUSTAINMENT SYSTEM
 | RISK STATUS                | HABITATION FATIGUE / SEISMIC DISRUPTION / DUTY DEGRADATION                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 2 for housing support; Level 3 for duty-cycle and personnel-sustainment         |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | administration                                                                        |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,9 +33,11 @@ TECHNOLOGY RECORD - ISLAND PERSONNEL HABITATION AND SUSTAINMENT SYSTEM
 | ARCHIVE STATUS             | Active Nusantara Personnel Technology Record                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Nusantara Deep Relay / Administration / Medical / Security / Command / Internal       |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Logistics                                                                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Relay Administration, Personnel Support Office, Site Director's Command Floor, and    |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Central Archive                                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -241,6 +244,7 @@ FAULT ISOLATION
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
 | Register short of a person | Return log not closed at the core         | Account for the person before any         |
++----------------------------+-------------------------------------------+-------------------------------------------+
 |                            |                                           | reassignment                              |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Rest interval skipped      | Reassignment made before the entry        | Withdraw the assignment, log the rest     |

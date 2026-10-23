@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - RESERVE COMMAND AND OPERATIONS COORDINATION SYSTEM
 | RISK STATUS                | COMMAND DRIFT / SECTOR DELAY / BOUNDARY RESPONSE FAILURE                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 3 for operations duty; Level 4 for command routing, sector incident control, or |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | cross-site escalation                                                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,9 +33,11 @@ TECHNOLOGY RECORD - RESERVE COMMAND AND OPERATIONS COORDINATION SYSTEM
 | ARCHIVE STATUS             | Active Verde Null Command Technology Record                                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Verde Null Bio-Reserve / Command / Security / Environmental Containment / Recovery /  |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Archive                                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Site Director, Reserve Operations Command, Security Command Center, and Central       |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Archive                                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -253,11 +256,13 @@ FAULT ISOLATION
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Sector board stale         | Report not reconciled at watch start      | Reconcile before routing any tasking      |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Perimeter feed quiet       | Feed fault rather than a quiet perimeter  | Prove the feed before trusting the silence|
+| Perimeter feed quiet       | Feed fault rather than a quiet perimeter  | Prove the feed before trusting the        |
+|                            |                                           | silence                                   |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Movement board conflicts   | Logistics tasking not reconciled          | Hold the movement until the boards agree  |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Concealed alert on open    | Routing selected by habit                 | Recall it and re-route over the closed    |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | channel                    |                                           | channel                                   |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 

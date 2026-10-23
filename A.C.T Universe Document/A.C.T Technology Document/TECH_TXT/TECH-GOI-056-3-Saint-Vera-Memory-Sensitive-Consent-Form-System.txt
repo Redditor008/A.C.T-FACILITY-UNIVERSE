@@ -12,7 +12,7 @@ TECHNOLOGY RECORD - SAINT-VERA MEMORY-SENSITIVE CONSENT FORM SYSTEM
 +----------------------------+---------------------------------------------------------------------------------------+
 | TECHNOLOGY FAMILY          | GOI-DERIVED / AUTHORIZATION INSTRUMENT / COERCION DETECTOR                            |
 +----------------------------+---------------------------------------------------------------------------------------+
-| ORIGIN                     | Saint-Vera Restoration Concern (GOI-CP-P-056)                                       |
+| ORIGIN                     | Saint-Vera Restoration Concern (GOI-CP-P-056)                                         |
 +----------------------------+---------------------------------------------------------------------------------------+
 | OUTPUT FORM                | Altered document state, refusal label, or ledger annotation                           |
 +----------------------------+---------------------------------------------------------------------------------------+

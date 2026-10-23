@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - SOUL-STASIS HARNESS
 | RISK STATUS                | HAZARDOUS / CONTROLLED ONLY UNDER PROXIMITY DISCIPLINE                                |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4 for monitoring; Level 5 for anchor adjustment, acoustic bridge integration,   |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | and pendant-distance override                                                         |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,6 +33,7 @@ TECHNOLOGY RECORD - SOUL-STASIS HARNESS
 | ARCHIVE STATUS             | Active Case-Restricted Medical Technology Record                                      |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Medical / White Grave / Subject Care / Engineering / Narrative Analysis / Site        |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Command                                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Medical Division, White Grave Stasis Desk, Engineering Division, and Central Archive  |
@@ -135,6 +137,7 @@ scale, Glass thickness, and 1 more. Those 4 gaps are carried in OPEN QUESTIONS.
 | Fitting                    | fitted to one host body; not interchangeable without refitting review                 |
 +----------------------------+---------------------------------------------------------------------------------------+
 | Approved separation        | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
 | distance                   |                                                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 | Resonance Stability scale  | NOT MEASURED                                                                          |
@@ -221,7 +224,8 @@ SERVICING AND CALIBRATION
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Glass stress reading       | shield inspection                         | Engineering Division                      |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Data-link latency suspected| link verification against the tablet      | Engineering Division                      |
+| Data-link latency          | link verification against the tablet      | Engineering Division                      |
+| suspected                  |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Host body shape change     | refitting review                          | White Grave Stasis Desk                   |
 +----------------------------+-------------------------------------------+-------------------------------------------+
@@ -241,14 +245,17 @@ FAULT ISOLATION
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
 | Distress before distance   | host and anchor on separate carts         | one chain; 1992                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | limits                     |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Scratch sensation reported | tactile testing of live glass             | prohibited; 2001                          |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | by the host                |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Tablet stable, host not    | data-link lag                             | verify the link; 2019 case                |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Blood-contact alarm        | sharp instrument or wound in suite        | clear the suite                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | sounding                   |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Buckle tension drifting    | strap fatigue                             | refit before further use                  |

@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - INTAKE STAGING AND ROUTING SYSTEM
 | RISK STATUS                | MISROUTING / LIMIT FAILURE / UNDOCUMENTED MOVEMENT RISK                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 3 for intake staging; Level 4 for high-threat refusal, emergency transit, or    |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | parent-site routing override                                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,9 +33,11 @@ TECHNOLOGY RECORD - INTAKE STAGING AND ROUTING SYSTEM
 | ARCHIVE STATUS             | Active Intake Routing Technology Record                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Glass Orchard Relay / Redwood Veil Complex / Recovery Support / Security / Medical    |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | / Limited Archive                                                                     |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Processing Officer, Recovery Support Lead, Sub-Site Chief, Redwood Veil Site Command, |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | and Central Archive                                                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -242,10 +245,13 @@ FAULT ISOLATION
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
-| Item moved without a record| Board updated after the movement          | Stop the lane, reconstruct the routing    |
+| Item moved without a       | Board updated after the movement          | Stop the lane, reconstruct the routing    |
+| record                     |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 |                            |                                           | record                                    |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Checklist incomplete at    | Field report missing a limit field        | Return to the lane, escalate if needed    |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | routing                    |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Vault request refused      | No unit available at F-1                  | Escalate before holding the item locally  |

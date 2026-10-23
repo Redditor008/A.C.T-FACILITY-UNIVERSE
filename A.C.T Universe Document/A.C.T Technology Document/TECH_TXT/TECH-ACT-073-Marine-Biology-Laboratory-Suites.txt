@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - MARINE BIOLOGY LABORATORY SUITES
 | RISK STATUS                | BIOLOGICAL EXPOSURE / SAMPLE ESCAPE / WATER-CONTROL RISK                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 3 for ordinary suite maintenance; Level 4 for live anomaly samples,             |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | resident-derived tissues, or void cases                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -241,15 +242,20 @@ FAULT ISOLATION
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
-| Recommendation reaching F-3| ledger not closed                         | close first; return review                |
+| Recommendation reaching    | ledger not closed                         | close first; return review                |
+| F-3                        |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | early                      |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Behaviour appearing only in| changed water, sound, or light            | record and doubt it                       |
+| Behaviour appearing only   | changed water, sound, or light            | record and doubt it                       |
+| in                         |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | the suite                  |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Acoustic exposure rising   | study stimulus too strong                 | stop; Sonar Void notice                   |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Sample response not        | tissue is not the whole                   | widen the study                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | matching the resident      |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Waste held past approval   | disposal delay                            | seal and escalate                         |

@@ -140,17 +140,21 @@ confirmation, it is repetition, and the file that authorises one does not author
 2.6 Fault isolation
 ===================
 
-+---------------------------------------------+-----------------------------+----------------------------------------------------------------------------+
-| OBSERVED CONDITION                          | READING                     | ACTION                                                                     |
-+---------------------------------------------+-----------------------------+----------------------------------------------------------------------------+
-| The bell sounds on the permitted test       | It is functional            | Record the result; the handling rule is unchanged                          |
-+---------------------------------------------+-----------------------------+----------------------------------------------------------------------------+
-| The bell does not sound                     | It may be inert or damaged  | Record the result; do not repair it to find out                            |
-+---------------------------------------------+-----------------------------+----------------------------------------------------------------------------+
-| The bell sounds without being struck        | It is not an ordinary bell  | Stop handling; refer to Containment at Level 4                             |
-+---------------------------------------------+-----------------------------+----------------------------------------------------------------------------+
-| A mounted bell is encountered on joint work | Passage property in service | Record its position; leave it; do not treat its sound as a Facility signal |
-+---------------------------------------------+-----------------------------+----------------------------------------------------------------------------+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| OBSERVED CONDITION         | READING                                   | ACTION                                    |
++============================+===========================================+===========================================+
+| The bell sounds on the     | It is functional                          | Record the result; the handling rule is   |
+| permitted test             |                                           | unchanged                                 |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| The bell does not sound    | It may be inert or damaged                | Record the result; do not repair it to    |
+|                            |                                           | find out                                  |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| The bell sounds without    | It is not an ordinary bell                | Stop handling; refer to Containment at    |
+| being struck               |                                           | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| A mounted bell is          | Passage property in service               | Record its position; leave it; do not     |
+| encountered on joint work  |                                           | treat its sound as a Facility signal      |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 The third row is the reason the bell is held at all rather than catalogued and stored. An instrument
 that sounds unstruck is a different object from the one described here, and the file has to say what
@@ -187,19 +191,19 @@ can therefore change an outcome rather than describe one. Its custody is set acc
 DIVISION USE
 +--------------------------------------------------------------------------------------------------------------------+
 
-+--------------+---------------------------------------------------------------------+
-| DIVISION     | USE                                                                 |
-+--------------+---------------------------------------------------------------------+
-| Containment  | Holds the bell unmounted under the work relationship                |
-+--------------+---------------------------------------------------------------------+
-| Intelligence | Records Passage signaling practice from the dossier                 |
-+--------------+---------------------------------------------------------------------+
-| Legal        | Advises on the cooperating relationship and any accounting question |
-+--------------+---------------------------------------------------------------------+
-| Engineering  | Examines the fitting; performs no mounting or repair                |
-+--------------+---------------------------------------------------------------------+
-| Subject Care | Attends any passenger encountered on a Passage crossing             |
-+--------------+---------------------------------------------------------------------+
++----------------------------+---------------------------------------------------------------------------------------+
+| DIVISION                   | USE                                                                                   |
++============================+=======================================================================================+
+| Containment                | Holds the bell unmounted under the work relationship                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Intelligence               | Records Passage signaling practice from the dossier                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Legal                      | Advises on the cooperating relationship and any accounting question                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Engineering                | Examines the fitting; performs no mounting or repair                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Subject Care               | Attends any passenger encountered on a Passage crossing                               |
++----------------------------+---------------------------------------------------------------------------------------+
 
 OPEN QUESTIONS
 +--------------------------------------------------------------------------------------------------------------------+

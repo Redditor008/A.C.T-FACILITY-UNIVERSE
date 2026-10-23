@@ -13,6 +13,7 @@ GROUP OF INTEREST REGISTRY - ARCHIVISTS OF THE FINAL DAWN
 | SHORT NAME                 | AFDN                                                                                  |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN ALIASES              | Final Dawn Archive; Dawn Archivists; Last Ledger Order; First Morning Scribes;        |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | [CENSOR: PRESERVATION HOUSE NAME]                                                     |
 +----------------------------+---------------------------------------------------------------------------------------+
 | NATURE CLASS               | CULTIC                                                                                |
@@ -30,28 +31,37 @@ GROUP OF INTEREST REGISTRY - ARCHIVISTS OF THE FINAL DAWN
 | A.C.T POSTURE              | COOPERATED / MONITOR / MISDIRECT                                                      |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN LEADERSHIP           | Dawn Curators, Ledger Priors, Last-Word Conservators, and an unverified office called |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | the First Shelf                                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN MEMBERSHIP           | Archivists, oral historians, disaster scribes, linguists, witness clerks, family      |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | recorders, map keepers, and mourners                                                  |
 +----------------------------+---------------------------------------------------------------------------------------+
 | PRIMARY ACTIVE REGION      | Transnational archives, disaster zones, erased towns, refugee routes, post-breach     |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | shelters, and dying communities                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN ASSETS               | Last ledgers, dawn copies, witness boxes, song cylinders, family-history rolls,       |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | language cards, map skins, and seals                                                  |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN HOLDINGS             | Preservation houses, hidden reading rooms, mobile archives, vault caravans, sealed    |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | basements, and post-disaster stacks                                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 | IDEOLOGY                   | If an ending comes, someone must still be able to prove who lived, what               |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | was loved,                                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | and what was lost                                                                     |
 +----------------------------+---------------------------------------------------------------------------------------+
 | HISTORY WITH A.C.T         | Repeated limited cooperation over missing identities, lost towns, witness recovery,   |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | erased records, and disaster lists                                                    |
 +----------------------------+---------------------------------------------------------------------------------------+
 | ANOMALY CROSS-REFERENCE    | Restricted apocalypse, archive, witness, missing-person, erased-town, language-loss,  |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | and final-record case chains                                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CURRENT STATUS             | ACTIVE - working apocalypse-preservation order under review                           |
@@ -61,6 +71,7 @@ GROUP OF INTEREST REGISTRY - ARCHIVISTS OF THE FINAL DAWN
 | SITE JURISDICTION          | Central Command with Site 03 primary archive review                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4; Level 5 for active dawn copies, child last-words, sealed town ledgers, and   |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | archive rooms that remember back                                                      |
 +----------------------------+---------------------------------------------------------------------------------------+
 

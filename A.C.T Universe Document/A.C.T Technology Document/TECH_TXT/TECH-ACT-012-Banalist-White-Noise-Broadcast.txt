@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - BANALIST WHITE-NOISE BROADCAST
 | RISK STATUS                | CONTROLLED / HAZARDOUS IF OVERLOUD, PATTERNED, OR LEAKING                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 3 for operation; Level 4 for manifest libraries, pattern-randomizer access, and |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | site-wide emergency tuning                                                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -34,6 +35,7 @@ TECHNOLOGY RECORD - BANALIST WHITE-NOISE BROADCAST
 | DISTRIBUTION               | Containment / Civil Covert / Engineering / Site Command / Security / Medical          |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Containment Division, Civil Covert Division, Engineering Division, and Central        |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Archive                                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -142,6 +144,7 @@ and 1 more. They are filed under OPEN QUESTIONS.
 | Coverage radius per node   | NOT MEASURED                                                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 | Output level and flood     | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
 | ceiling                    |                                                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 | Entropy scale definition   | NOT MEASURED                                                                          |
@@ -230,6 +233,7 @@ SERVICING AND CALIBRATION
 | CONDITION                  | REQUIRED SERVICE                          | AUTHORITY                                 |
 +============================+===========================================+===========================================+
 | At shift start             | monitor check, entropy green, repetition  | Level 3, locally certified                |
++----------------------------+-------------------------------------------+-------------------------------------------+
 |                            | check                                     |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Library freshness low      | library refresh                           | Containment Division                      |
@@ -255,19 +259,25 @@ FAULT ISOLATION
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
 | Fragments repeating on a   | randomizer disc fault                     | scrub the zone; 2013 case                 |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | cycle                      |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Irritability in a covered  | over-boring fatigue                       | enforce Medical exposure limits           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | room                       |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Silent pocket between nodes| speaker chain failure                     | treat as uncovered; restore it            |
+| Silent pocket between      | speaker chain failure                     | treat as uncovered; restore it            |
+| nodes                      |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Volume rising with no order| governor fault or creep                   | return to band; report it                 |
+| Volume rising with no      | governor fault or creep                   | return to band; report it                 |
+| order                      |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Clear sentence in the      | library contamination                     | isolate; freeze the block                 |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | output                     |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Cover audio sounds         | tuning fault at a cover site              | retune before suspicion spreads           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | artificial                 |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 

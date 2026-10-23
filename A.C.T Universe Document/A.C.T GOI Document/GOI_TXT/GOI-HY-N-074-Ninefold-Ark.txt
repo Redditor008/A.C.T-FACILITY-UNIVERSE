@@ -13,6 +13,7 @@ GROUP OF INTEREST REGISTRY - NINEFOLD ARK
 | SHORT NAME                 | NFA                                                                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN ALIASES              | The Ark of Nine; Nine Arks; Ninth Vessel Society; Folded Ark Continuance; [CENSOR:    |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | VESSEL HOLD NAME]                                                                     |
 +----------------------------+---------------------------------------------------------------------------------------+
 | NATURE CLASS               | HYBRID                                                                                |
@@ -30,27 +31,35 @@ GROUP OF INTEREST REGISTRY - NINEFOLD ARK
 | A.C.T POSTURE              | MONITOR / MISDIRECT / COOPERATED / APPROPRIATE                                        |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN LEADERSHIP           | Ark Stewards, Fold Captains, Continuance Trustees, Vessel Curators, and unknown Ninth |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Hold auditors                                                                         |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN MEMBERSHIP           | Continuity planners, containment engineers, seed-bank officers, archivists, vault     |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | crews, biosphere technicians, legal trustees, pilots, and preservation guards         |
 +----------------------------+---------------------------------------------------------------------------------------+
 | PRIMARY ACTIVE REGION      | Mobile vaults, sealed ships, mountain stores, island conservatories, orbital claims,  |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | desert domes, and hidden continuity shelters                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN ASSETS               | Ark holds, fold vaults, species ledgers, memory banks, seed rooms, sample coffers,    |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | cold cradles, covenant keys, and evacuation lotteries                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN HOLDINGS             | Nine confirmed or suspected vessel classes, protected vault sites, mobile containment |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | holds, selection offices, and sealed continuity archives                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 | IDEOLOGY                   | Continuance requires selecting what survives before panic, politics, mercy, or public |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | grief makes selection impossible                                                      |
 +----------------------------+---------------------------------------------------------------------------------------+
 | HISTORY WITH A.C.T         | Repeated tense contact through preservation seizures, evacuation priority disputes,   |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | sample custody, ark-space denial, and temporary cooperation during extinction threats |
 +----------------------------+---------------------------------------------------------------------------------------+
 | ANOMALY CROSS-REFERENCE    | Restricted continuity, extinction, seed-bank, sample, biosphere, evacuation, memory   |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | archive, and vault files                                                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CURRENT STATUS             | ACTIVE - neutral continuance containment network monitored                            |
@@ -60,6 +69,7 @@ GROUP OF INTEREST REGISTRY - NINEFOLD ARK
 | SITE JURISDICTION          | Central Command with Site 02, Site 03, and extinction planning review                 |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4; Level 5 for selection lists, ark coordinates, living samples, Ninth Hold     |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | references, and A.C.T denied evacuation requests                                      |
 +----------------------------+---------------------------------------------------------------------------------------+
 

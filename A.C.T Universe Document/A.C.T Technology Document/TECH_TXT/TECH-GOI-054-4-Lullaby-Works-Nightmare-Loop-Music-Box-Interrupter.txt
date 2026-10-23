@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - LULLABY WORKS NIGHTMARE-LOOP MUSIC BOX INTERRUPTER
 | RISK STATUS                | PROTECTIVE WHILE CHARGED / INERT AFTER EXHAUSTION / HAZARDOUS IF FORCE-OPENED         |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 3 for instruction handling; Level 4 for external inspection and night counting; |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Level 5 for opening, movement work, or lot tracing                                    |
 +----------------------------+---------------------------------------------------------------------------------------+
 

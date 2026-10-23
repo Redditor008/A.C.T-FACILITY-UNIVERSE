@@ -27,12 +27,15 @@ TECHNOLOGY RECORD - MERCY LOCK GENTLE LOCK SYSTEM
 | RISK STATUS                | CONTROLLED / HOSTILE-USE IF MODIFIED                                                  |
 +----------------------------+---------------------------------------------------------------------------------------+
 | PRIMARY USE                | Patient-specific restraint of harmful manifestations while preserving communication,  |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | breath, dignity, and emergency release capability                                     |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN VARIANTS             | Blue Lock, White Lock, Green Lock, Grey Lock, Black Lock, and Red Lock failure-review |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | configurations                                                                        |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4; Level 5 for living patient tuning, override language, ward maps, and failed  |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | lock construction notes                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -44,6 +47,7 @@ TECHNOLOGY RECORD - MERCY LOCK GENTLE LOCK SYSTEM
 | DISTRIBUTION               | Medical / Containment / Subject Care / Engineering / Legal / Intelligence / Command   |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Medical Division, Containment Division, Engineering Division, Legal Division, and     |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Central Archive                                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 

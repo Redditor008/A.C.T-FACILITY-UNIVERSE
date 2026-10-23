@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - WITNESS PROCESSING AND SANITATION SUITES
 | RISK STATUS                | MEMORY HARM / NARRATIVE MISMATCH / FACILITY EXPOSURE RISK                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 3 for suite operation; Level 4 for amnestic approval, assimilation decision, or |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | parent-site policy exception                                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,9 +33,11 @@ TECHNOLOGY RECORD - WITNESS PROCESSING AND SANITATION SUITES
 | ARCHIVE STATUS             | Active Witness Processing Technology Record                                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Glass Orchard Relay / Redwood Veil Complex / Medical / Security / Limited Archive     |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | / Recovery Support                                                                    |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Processing Officer, Medical Lead, Sub-Site Chief, Redwood Veil Site Command, and      |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Central Archive                                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -244,16 +247,20 @@ FAULT ISOLATION
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
 | Witness recalls the        | Narrative insertion incomplete            | Reopen the case, do not re-administer     |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | facility                   |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Cabinet count short        | Draw not recorded against a case          | Suspend administration, trace recent cases|
+| Cabinet count short        | Draw not recorded against a case          | Suspend administration, trace recent      |
+|                            |                                           | cases                                     |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Recovery room unavailable  | Processing tempo exceeds capacity         | Delay release, do not shorten recovery    |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Referral criteria unclear  | Case sits between procedure classes       | Hold with the medical lead, log the       |
++----------------------------+-------------------------------------------+-------------------------------------------+
 |                            |                                           | ambiguity                                 |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Account contradicts the    | Interview note taken after the fact       | Re-interview and preserve both versions   |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | record                     |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 

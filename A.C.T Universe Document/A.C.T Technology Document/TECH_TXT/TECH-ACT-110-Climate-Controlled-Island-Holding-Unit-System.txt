@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - CLIMATE-CONTROLLED ISLAND HOLDING UNIT SYSTEM
 | RISK STATUS                | CLIMATE DRIFT / HABITAT MISMATCH / BIOLOGICAL ESCALATION                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 3 for holding duty; Level 4 for climate-regimen alteration, resident movement,  |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | or cross-floor transfer                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -34,6 +35,7 @@ TECHNOLOGY RECORD - CLIMATE-CONTROLLED ISLAND HOLDING UNIT SYSTEM
 | DISTRIBUTION               | Nusantara Deep Relay / Containment / Research / Medical / Recovery / Security         |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Floor Holding Chief, Environmental Holding Staff, Maritime-Hold Command, and Central  |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Archive                                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -241,7 +243,8 @@ FAULT ISOLATION
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
-| Resident stable but altered| Recipe built from assumption              | Compare with the Recovery report, correct |
+| Resident stable but        | Recipe built from assumption              | Compare with the Recovery report, correct |
+| altered                    |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Humidity drifts            | Control bank or seal fault                | Correct it and log the excursion          |
 +----------------------------+-------------------------------------------+-------------------------------------------+

@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - MEDIA PROPAGATION TRACKING CENTER SYSTEM
 | RISK STATUS                | REPLICATION ESCAPE / MISROUTED WARNING / DATA CONTAMINATION                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4 for propagation tracking; Level 5 for public-media intervention orders or     |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | unrestricted pattern export                                                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -34,6 +35,7 @@ TECHNOLOGY RECORD - MEDIA PROPAGATION TRACKING CENTER SYSTEM
 | DISTRIBUTION               | Kurokawa Archive Node / Researcher Division / Intelligence / Archive / Security       |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Media Propagation Lead, Floor Research Chief, Intelligence Liaison, and Central       |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Archive                                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -244,6 +246,7 @@ FAULT ISOLATION
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
 | Analyst previewed          | Filter bypassed under time pressure       | Withdraw the analyst, log the exposure    |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | unfiltered                 |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Derivative ruled unrelated | Comparison not run against the rack       | Reopen the ruling and run the comparison  |

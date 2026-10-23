@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - INTERIM CRYOGENIC HOLDING SYSTEM
 | RISK STATUS                | OVERSTAY / SUPPRESSION FAILURE / TRANSFER DELAY RISK                                  |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 3 for routine holding; Level 4 for closure, silent removal, parent-station      |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | override, or failed suppression                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,6 +33,7 @@ TECHNOLOGY RECORD - INTERIM CRYOGENIC HOLDING SYSTEM
 | ARCHIVE STATUS             | Active Interim Cryogenic Technology Record                                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Frost Hollow Depot / White Grave Station / Medical Quarantine / Security / Limited    |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Containment Support                                                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | F-1 Holding Officer, Sub-Site Chief, White Grave Site Command, and Central Archive    |
@@ -238,15 +240,19 @@ FAULT ISOLATION
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
-| Clock past its limit       | Transport season closed                   | Escalate for disposition, record the delay|
+| Clock past its limit       | Transport season closed                   | Escalate for disposition, record the      |
+|                            |                                           | delay                                     |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Suppression trace ambiguous| Dormancy reads as plain stillness         | Record both, escalate to assessment       |
+| Suppression trace          | Dormancy reads as plain stillness         | Record both, escalate to assessment       |
+| ambiguous                  |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Buffer reserve falling     | Power or insulation fault                 | Consolidate units and escalate immediately|
+| Buffer reserve falling     | Power or insulation fault                 | Consolidate units and escalate            |
+|                            |                                           | immediately                               |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | State record missing       | Baseline skipped before cooling           | Note the gap, do not infer the baseline   |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Closure blocked            | Unresolved suppression state              | Hold closure with a named officer,        |
++----------------------------+-------------------------------------------+-------------------------------------------+
 |                            |                                           | escalate                                  |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 

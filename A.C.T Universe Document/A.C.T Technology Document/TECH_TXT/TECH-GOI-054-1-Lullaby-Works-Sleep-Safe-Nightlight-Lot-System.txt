@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - LULLABY WORKS SLEEP-SAFE NIGHTLIGHT LOT SYSTEM
 | RISK STATUS                | PROTECTIVE IN SERVICE / HAZARDOUS IF DISASSEMBLED, TAMPERED, OR ABRUPTLY REMOVED      |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 3 for instruction handling; Level 4 for inspection; Level 5 for disassembly,    |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | lot tracing, or manufacturer contact                                                  |
 +----------------------------+---------------------------------------------------------------------------------------+
 

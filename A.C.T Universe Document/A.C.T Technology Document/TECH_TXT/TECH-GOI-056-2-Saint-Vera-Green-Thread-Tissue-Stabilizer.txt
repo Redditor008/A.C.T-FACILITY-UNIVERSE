@@ -12,7 +12,7 @@ TECHNOLOGY RECORD - SAINT-VERA GREEN-THREAD TISSUE STABILIZER
 +----------------------------+---------------------------------------------------------------------------------------+
 | TECHNOLOGY FAMILY          | GOI-DERIVED / WOUND CLOSURE / SPREAD-BOUNDARY STABILIZER                              |
 +----------------------------+---------------------------------------------------------------------------------------+
-| ORIGIN                     | Saint-Vera Restoration Concern (GOI-CP-P-056)                                       |
+| ORIGIN                     | Saint-Vera Restoration Concern (GOI-CP-P-056)                                         |
 +----------------------------+---------------------------------------------------------------------------------------+
 | MATERIAL SOURCE            | Unresolved; donor channels for rare tissue substitutes are suspected                  |
 +----------------------------+---------------------------------------------------------------------------------------+

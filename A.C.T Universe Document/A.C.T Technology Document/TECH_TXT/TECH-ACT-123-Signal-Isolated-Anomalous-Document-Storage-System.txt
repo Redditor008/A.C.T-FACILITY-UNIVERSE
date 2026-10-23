@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - SIGNAL-ISOLATED ANOMALOUS DOCUMENT STORAGE SYSTEM
 | RISK STATUS                | SIGNAL ESCAPE / STORAGE MISASSIGNMENT / QUARANTINE DRIFT                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 3 for holding duty; Level 4 for signal-isolated access, F-2 transfer, or F-4    |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | sample-control release                                                                |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -34,6 +35,7 @@ TECHNOLOGY RECORD - SIGNAL-ISOLATED ANOMALOUS DOCUMENT STORAGE SYSTEM
 | DISTRIBUTION               | Kurokawa Archive Node / Archive / Intelligence / Researcher Division / Security       |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Floor Holding Archivist, Document-Holding Command, Archive Division, and Central      |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Archive                                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 

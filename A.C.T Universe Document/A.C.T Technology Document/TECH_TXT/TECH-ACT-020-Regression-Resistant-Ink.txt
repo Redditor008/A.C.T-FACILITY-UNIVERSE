@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - REGRESSION-RESISTANT INK
 | RISK STATUS                | CONTROLLED / HAZARDOUS IF FORGED, SPILLED, OR MISSEALED                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4 for use; Level 5 for formula, particle source, O5 log stock, and              |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | shift-resistant witness record handling                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -138,7 +139,8 @@ archive: Shelf life, Drying time, Regression resistance limit. They are filed un
 +----------------------------+---------------------------------------------------------------------------------------+
 | Drying time                | NOT MEASURED                                                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
-| Regression resistance limit| NOT MEASURED                                                                          |
+| Regression resistance      | NOT MEASURED                                                                          |
+| limit                      |                                                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 
 The ink is the mark itself. QNB preserves data across larger causal events and
@@ -218,7 +220,8 @@ SERVICING AND CALIBRATION
 +============================+===========================================+===========================================+
 | Before each use            | cap, light test, and settling band check  | Level 4 Archive                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Particle settling suspected| quarantine the inkwell                    | Materials Custody                         |
+| Particle settling          | quarantine the inkwell                    | Materials Custody                         |
+| suspected                  |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Batch label unreadable     | treat as unissued stock                   | Materials Custody                         |
 +----------------------------+-------------------------------------------+-------------------------------------------+
@@ -241,19 +244,23 @@ FAULT ISOLATION
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
 | Page rewriting to a new    | record written in ordinary ink            | re-log in RRI; 2011 case                  |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | state                      |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Old theory returning as    | speculation sealed too early              | attach a larger correction                |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | fact                       |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | No violet response on the  | particle settling in storage              | quarantine; 2023 case                     |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | strip                      |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Ink refusing the paper     | contaminated or unapproved stock          | change substrate, not ink                 |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Forged batch label         | stock diversion                           | refer to Materials Custody                |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Staff treating ink as proof| resistance read as final authority        | correct the file                          |
+| Staff treating ink as      | resistance read as final authority        | correct the file                          |
+| proof                      |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS

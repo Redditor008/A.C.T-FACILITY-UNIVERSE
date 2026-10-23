@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - GOLD-TIPPED MINING DRILLS
 | RISK STATUS                | CONTROLLED / HAZARDOUS IF MISALIGNED OR CONTAMINATED                                  |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4 for operation; Level 5 for Dark World architecture, Pale Wood modification    |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | plans, and recovered core samples                                                     |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -217,13 +218,16 @@ SERVICING AND CALIBRATION
 | Before and after each job  | gold count and bit inspection             | Level 4 Engineering                       |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Gold-wear indicator        | bit retirement                            | Engineering Division                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | triggered                  |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Dust shroud seal fault     | seal replacement and area survey          | Materials Custody                         |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Pale Wood modification plan| structural review before cutting          | Level 5                                   |
+| Pale Wood modification     | structural review before cutting          | Level 5                                   |
+| plan                       |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Dark World architecture    | Survey approval                           | Level 5                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | work                       |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Recovered core samples     | sealed custody transfer                   | Level 5                                   |
@@ -240,17 +244,21 @@ FAULT ISOLATION
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
-| RPM held but the bit seizes| gold wear-through at the edge             | cut the section free; 1997                |
+| RPM held but the bit       | gold wear-through at the edge             | cut the section free; 1997                |
+| seizes                     |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Ordinary wood resisting a  | Pale Wood dust contamination              | survey the bench; 2011                    |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | blade                      |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Hollow tone from a solid   | structural rule disagreement              | stop; Survey review; 2024                 |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | beam                       |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Density singing under load | material waking                           | stop and withdraw the bit                 |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Childlike knocking through | architecture responding                   | stop; do not repeat the pass              |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | the disc                   |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Bit embedding itself       | loss of gold contact                      | reverse lock; call Engineering            |

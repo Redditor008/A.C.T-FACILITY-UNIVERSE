@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - AGRICULTURAL BIOTECH COVER CAMPUS
 | RISK STATUS                | COVER SCRUTINY / RESEARCH INCONSISTENCY / LOGISTICS RISK                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 2 for legitimate campus work; Level 3 for boundary staff; Level 4 for           |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | buried-relay integration                                                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,6 +33,7 @@ TECHNOLOGY RECORD - AGRICULTURAL BIOTECH COVER CAMPUS
 | ARCHIVE STATUS             | Active Cover Campus Technology Record                                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Glass Orchard Relay / Redwood Veil Complex / Campus Administration / Security / Cover |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Research Staff                                                                        |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Campus Manager, Sub-Site Chief, Redwood Veil Site Command, and Central Archive        |
@@ -244,11 +246,13 @@ FAULT ISOLATION
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
 | Panel load exceeds         | Restricted area drawing beyond record     | Record the load, adjust the allocation    |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | allocation                 |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Crop fails without a cause | Environmental load from concealed work    | Report the failure and review the source  |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Visitor denied without     | Security reflex at the boundary           | Supply an agricultural reason and log it  |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | reason                     |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Delivery unmatched         | Concealed cargo on a public manifest      | Hold the delivery, correct the manifest   |

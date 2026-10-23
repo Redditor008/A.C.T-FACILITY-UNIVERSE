@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - MERCY LOCK QUIET ROOM LOW-STIMULATION CARE ARCHITECTURE
 | RISK STATUS                | ROOM-PATIENT MISMATCH / ISOLATION HARM / HOSTILE ADAPTATION                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4; Level 5 for ward layouts, patient-linked tuning, failed room incidents, and  |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | hidden clinic addresses                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 

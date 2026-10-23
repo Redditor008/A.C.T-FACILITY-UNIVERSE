@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - SYMBOL BEHAVIOR CONTROLLED OBSERVATION SUITES
 | RISK STATUS                | VISUAL EXPOSURE / PROPAGATION ERROR / STUDY OVERREACH                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4 for symbol-study duty; Level 5 for Dread EYE restriction-set modification or  |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | full-effect review                                                                    |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,9 +33,11 @@ TECHNOLOGY RECORD - SYMBOL BEHAVIOR CONTROLLED OBSERVATION SUITES
 | ARCHIVE STATUS             | Active Kurokawa Research Technology Record                                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Kurokawa Archive Node / Researcher Division / Archive / Intelligence / Medical /      |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Security                                                                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Floor Research Chief, Symbol Behavior Study Lead, Cognitive Care Liaison, and Central |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Archive                                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 

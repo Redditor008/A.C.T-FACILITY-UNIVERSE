@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - LONG-ROTATION HABITATION AND MAIN SECURITY CHECKPOINT SYSTEM
 | RISK STATUS                | HABITATION FAILURE / CHECKPOINT BREACH / DUTY-LIFE COLLAPSE                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Personnel-access control for habitation; duty authorization for passage through the   |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | main security checkpoint                                                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 

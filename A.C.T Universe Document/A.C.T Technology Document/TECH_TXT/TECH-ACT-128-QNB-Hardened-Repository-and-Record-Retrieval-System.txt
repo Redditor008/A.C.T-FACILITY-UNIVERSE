@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - QNB-HARDENED REPOSITORY AND RECORD RETRIEVAL SYSTEM
 | RISK STATUS                | RECORD REWRITE / ACCESS VIOLATION / QUARANTINE MISROUTE                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Archive clearance; restricted-record and quarantine-cell access by contents, resident |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | status, and command authority                                                         |
 +----------------------------+---------------------------------------------------------------------------------------+
 

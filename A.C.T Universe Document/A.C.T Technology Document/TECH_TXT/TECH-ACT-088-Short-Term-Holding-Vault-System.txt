@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - SHORT-TERM HOLDING VAULT SYSTEM
 | RISK STATUS                | OVERSTAY / THREAT-MISCLASSIFICATION / CUSTODY DRIFT RISK                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 3 for holding duty; Level 4 for closure, escalation, transfer override, or      |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | high-threat rejection                                                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,6 +33,7 @@ TECHNOLOGY RECORD - SHORT-TERM HOLDING VAULT SYSTEM
 | ARCHIVE STATUS             | Active Provisional Holding Technology Record                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Glass Orchard Relay / Redwood Veil Complex / Security / Recovery Support / Medical    |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Liaison / Archive Relay                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Sub-Site Chief, F-1 Vault Officer, Redwood Veil Site Command, and Central Archive     |
@@ -242,17 +244,22 @@ FAULT ISOLATION
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
 | Clock past its limit       | Transfer delayed at the parent site       | Escalate and record the authorization     |
++----------------------------+-------------------------------------------+-------------------------------------------+
 |                            |                                           | request                                   |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Unit refuses a state change| Environmental support panel fault         | Move the item first, then service the     |
+| Unit refuses a state       | Environmental support panel fault         | Move the item first, then service the     |
+| change                     |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 |                            |                                           | panel                                     |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Gallery blind to one unit  | Camera or feed fault                      | Post a physical watch until the feed      |
++----------------------------+-------------------------------------------+-------------------------------------------+
 |                            |                                           | returns                                   |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Threat class disputed      | Intake screening incomplete               | Hold in the receipt bay, do not admit     |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Closure blocked by a unit  | Unresolved disposition                    | Reassign or hold closure with a named     |
++----------------------------+-------------------------------------------+-------------------------------------------+
 |                            |                                           | officer                                   |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 

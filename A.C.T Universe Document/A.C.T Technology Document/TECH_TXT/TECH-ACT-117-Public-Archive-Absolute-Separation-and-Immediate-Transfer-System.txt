@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - PUBLIC ARCHIVE ABSOLUTE SEPARATION AND IMMEDIATE TRANSFER SY
 | RISK STATUS                | PUBLIC CONTAMINATION / TRANSFER DELAY / COVER COLLAPSE                                |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 3 for boundary-transfer oversight; Level 4 for public-floor seal action or      |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | anomalous-material exception                                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -34,6 +35,7 @@ TECHNOLOGY RECORD - PUBLIC ARCHIVE ABSOLUTE SEPARATION AND IMMEDIATE TRANSFER SY
 | DISTRIBUTION               | Kurokawa Archive Node / Foundation Administration / Archive / Security / Command      |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Foundation Director, Security Boundary Office, Site Director's Command Floor, and     |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Central Archive                                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 

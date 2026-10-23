@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - BIOLOGICAL SUPPRESSION CHAMBER AND CLIMATE-CONTROLLED DEEP-I
 | RISK STATUS                | SUPPRESSION DRIFT / UNIT MISASSIGNMENT / TRANSFER DELAY                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Standard holding authorization; elevated authority for F-2 escalation or F-4          |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | sample-control release                                                                |
 +----------------------------+---------------------------------------------------------------------------------------+
 

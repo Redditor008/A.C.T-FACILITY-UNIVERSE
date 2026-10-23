@@ -17,6 +17,7 @@ TECHNOLOGY RECORD - MISSING 404 WATCH TOWER ANALOG PHOTOGRAPH AND DEAD-LINK VAUL
 | PRIMARY CONTROLLER         | Central Archive with Intelligence Division                                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 | ATTACHED DIVISIONS         | Central Archive, Intelligence, Civil Covert, Subject Care, Legal, Info-Hazard,        |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Command                                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 | OPERATIONAL STATUS         | STORAGE PRACTICE INSPECTED / FULL VAULT WITHHELD                                      |

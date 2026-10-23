@@ -13,6 +13,7 @@ TECHNOLOGY RECORD - BUREAU SEALED CROSSING LEDGER AND PAPER TRANSFER SLIP SYSTEM
 | TECHNOLOGY FAMILY          | ACQUIRED BY RECOVERY / DOCUMENTARY PERSISTENCE TECHNOLOGY / PAPER LEDGER SYSTEM       |
 +----------------------------+---------------------------------------------------------------------------------------+
 | ORIGIN                     | BUREAU OF UNQUIET BORDERS (GOI-GV-W-057) / QUIET-LINE STATIONS AND CENTRAL LEDGER     |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | DESK                                                                                  |
 +----------------------------+---------------------------------------------------------------------------------------+
 | PRIMARY CONTROLLER         | Central Archive with Intelligence review                                              |

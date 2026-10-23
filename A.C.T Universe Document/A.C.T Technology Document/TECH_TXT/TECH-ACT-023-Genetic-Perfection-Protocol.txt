@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - GENETIC PERFECTION PROTOCOL
 | RISK STATUS                | CONTROLLED / HAZARDOUS IF OVERCORRECTIVE OR MISDIAGNOSED                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4 for use; Level 5 for viral-vector libraries, rapid full-body rewrite          |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | response, and irreversible changes                                                    |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -244,18 +245,23 @@ FAULT ISOLATION
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
 | Patient reporting the body | high-speed full rewrite                   | aftercare; 2023 case                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | voting                     |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Machine weighing two       | no single treatment aim                   | halt the mist; 2024 case                  |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | baselines                  |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Mist concealing the patient| scrubber saturation                       | visibility rule; 2025 case                |
+| Mist concealing the        | scrubber saturation                       | visibility rule; 2025 case                |
+| patient                    |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Baseline confidence falling| mismatch or vector rebellion              | halt before it sets                       |
+| Baseline confidence        | mismatch or vector rebellion              | halt before it sets                       |
+| falling                    |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Mist darker than approved  | concentration drift                       | purge and recalibrate                     |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Patient distressed by own  | identity distress after repair            | stop and refer to Ethics                  |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | body                       |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 

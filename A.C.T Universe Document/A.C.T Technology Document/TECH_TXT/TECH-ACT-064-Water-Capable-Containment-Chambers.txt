@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - WATER-CAPABLE CONTAINMENT CHAMBERS
 | RISK STATUS                | AQUATIC BREACH / ENVIRONMENTAL COLLAPSE RISK                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 3 for routine chamber support; Level 4 for resident access, transfer,           |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | environmental alteration, or breach use                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -227,11 +228,13 @@ SERVICING AND CALIBRATION
 +============================+===========================================+===========================================+
 | Before admission           | lining, valve, and filter check           | Containment Division                      |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Salinity or chemistry drift| loop adjustment                           | Maritime-Hold Command                     |
+| Salinity or chemistry      | loop adjustment                           | Maritime-Hold Command                     |
+| drift                      |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Waste filter loading       | filter change                             | Containment Division                      |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Observation limits required| pair with phase glass or sonar            | Level 4                                   |
+| Observation limits         | pair with phase glass or sonar            | Level 4                                   |
+| required                   |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Emergency gate test        | before each admission                     | Engineering Division                      |
 +----------------------------+-------------------------------------------+-------------------------------------------+
@@ -249,9 +252,11 @@ FAULT ISOLATION
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
 | Resident unstable in       | sea-shaped biology                        | water-capable standard; Nusantara         |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | ordinary holding           |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Attack through sound or    | stability in water is not safety          | add lockdown; Angler case                 |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | light                      |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Salinity drifting          | control loop fault                        | adjust before stress appears              |
@@ -261,6 +266,7 @@ FAULT ISOLATION
 | Isolation gate slow        | gate mechanism fault                      | test before admission                     |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Chamber status panel       | sensor fault                              | verify by indirect mount                  |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | disagreeing                |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 

@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - RELAY COMMAND FLOOR STATUS AND DECISION SYSTEM
 | RISK STATUS                | STATUS MISREAD / COMMAND DELAY / OPERATIONAL OVERLAP                                  |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4 for command-floor duty; Level 5 for site-wide emergency posture or restricted |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | vault decision routing                                                                |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,6 +33,7 @@ TECHNOLOGY RECORD - RELAY COMMAND FLOOR STATUS AND DECISION SYSTEM
 | ARCHIVE STATUS             | Active Nusantara Command Technology Record                                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Nusantara Deep Relay / Command / Administration / Security / Recovery / Containment / |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Research / Medical                                                                    |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Site Director, Duty Command Officer, Relay Administration, and Central Archive        |
@@ -249,6 +251,7 @@ FAULT ISOLATION
 | Status wall stale          | Feed fault not detected                   | Prove the feed, mark the sector unknown   |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Decision without a ledger  | Recorded after the fact                   | Record the gap and the picture used       |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | entry                      |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Handoff loses an incident  | Open items not named                      | Reopen the item and correct the ledger    |

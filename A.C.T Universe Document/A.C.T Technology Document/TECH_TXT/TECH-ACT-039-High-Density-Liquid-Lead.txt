@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - HIGH-DENSITY LIQUID LEAD
 | RISK STATUS                | HAZARDOUS / TOXIC AND HIGH-MASS BARRIER MATERIAL                                      |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 3 for monitored use; Level 4 for flow adjustment; Level 5 for restricted-energy |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | shielding configuration                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,6 +33,7 @@ TECHNOLOGY RECORD - HIGH-DENSITY LIQUID LEAD
 | ARCHIVE STATUS             | Active Hazardous Barrier Material Technology Record                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Engineering / Hazardous Materials / Artifact Storage / Biological Containment / Site  |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Safety                                                                                |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Engineering Division, Hazardous Materials Desk, and Central Archive                   |
@@ -139,6 +141,7 @@ per litre, Pipe load rating are not measured here. Those 3 gaps sit in OPEN QUES
 | Density                    | NOT MEASURED                                                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 | Absorption capacity per    | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
 | litre                      |                                                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 | Pipe load rating           | NOT MEASURED                                                                          |
@@ -220,11 +223,13 @@ SERVICING AND CALIBRATION
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Flow adjustment            | Level 4 procedure                         | Level 4                                   |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Restricted-energy shielding| Level 5 configuration                     | Level 5                                   |
+| Restricted-energy          | Level 5 configuration                     | Level 5                                   |
+| shielding                  |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Molecular-leak alarm       | joint isolation and collar inspection     | Hazardous Materials Desk                  |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Contamination strip        | zone closure and sampling                 | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | triggered                  |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Spent fluid                | transfer canister disposal                | Hazardous Materials Desk                  |
@@ -243,16 +248,21 @@ FAULT ISOLATION
 | Joint collars deformed     | static load on an underrated line         | reroute; 2017 case                        |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Surface looks clean, strip | residue held under the film               | sample; 2025 case                         |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | disagrees                  |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Dust captured without water| working as designed                       | filter under control; 2008                |
+| Dust captured without      | working as designed                       | filter under control; 2008                |
+| water                      |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Flow slowing at one joint  | particulate build-up                      | isolate and inspect                       |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Fluid migrating past the   | channel overflow                          | extend the recovery sump                  |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | lip                        |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Leak sensor silent with wet| sensor fault                              | do not charge; test first                 |
+| Leak sensor silent with    | sensor fault                              | do not charge; test first                 |
+| wet                        |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | floor                      |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 

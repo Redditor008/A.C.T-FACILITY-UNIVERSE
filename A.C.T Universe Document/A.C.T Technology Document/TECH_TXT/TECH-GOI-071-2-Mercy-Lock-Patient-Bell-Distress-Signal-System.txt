@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - MERCY LOCK PATIENT BELL DISTRESS SIGNAL SYSTEM
 | RISK STATUS                | SIGNAL NEGLECT / BELL REMOVAL / HOSTILE REPURPOSING                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4; Level 5 for patient-linked tuning, living names, ward locations, and         |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | failed-bell incident files                                                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -34,6 +35,7 @@ TECHNOLOGY RECORD - MERCY LOCK PATIENT BELL DISTRESS SIGNAL SYSTEM
 | DISTRIBUTION               | Medical / Subject Care / Containment / Legal / Intelligence / Engineering             |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Medical Division, Subject Care Division, Legal Division, Intelligence Division, and   |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Central Archive                                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 

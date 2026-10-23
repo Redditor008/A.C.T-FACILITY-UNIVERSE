@@ -15,6 +15,7 @@ GROUP OF INTEREST REGISTRY - CONTROLLED RECORD FORM
 | KNOWN ALIASES              | [ALIASES, PUBLIC MASKS, OR NONE CONFIRMED]                                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 | NATURE CLASS               | [GOVERNMENT / CORPORATE / CULTIC / SCIENTIFIC / CIVIL / MILITANT / ANOMALOUS /        |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | IN-HUMAN / BUSINESS / HYBRID]                                                         |
 +----------------------------+---------------------------------------------------------------------------------------+
 | ALIGNMENT CLASS            | [NEUTRAL / POSITIVE / NEGATIVE / UNKNOWN / TRADE / BUSINESS / GUILD]                  |
@@ -28,6 +29,7 @@ GROUP OF INTEREST REGISTRY - CONTROLLED RECORD FORM
 | SECRECY RISK               | [VEILED / LEAKING / EXPOSURE-ACTIVE / NORMALCY-BREACHING]                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 | A.C.T POSTURE              | [MONITOR / INFILTRATE / MISDIRECT / CONTAIN / DISMANTLE / APPROPRIATE / ERASE /       |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | COOPERATED / HELP]                                                                    |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN LEADERSHIP           | [IDENTITY, OFFICE, ROTATION, OR UNRESOLVED]                                           |

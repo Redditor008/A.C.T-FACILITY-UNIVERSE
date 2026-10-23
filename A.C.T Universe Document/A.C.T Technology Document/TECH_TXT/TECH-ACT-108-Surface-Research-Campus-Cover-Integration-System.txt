@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - SURFACE RESEARCH CAMPUS COVER INTEGRATION SYSTEM
 | RISK STATUS                | COVER BREACH / BOUNDARY EXPOSURE / PUBLIC-RESEARCH CONFLICT                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 2 for campus operation; Level 3 for boundary liaison; Level 4 for cover         |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | adjustment or concealed access routing                                                |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,6 +33,7 @@ TECHNOLOGY RECORD - SURFACE RESEARCH CAMPUS COVER INTEGRATION SYSTEM
 | ARCHIVE STATUS             | Active Verde Null Cover Technology Record                                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Verde Null Bio-Reserve / Research / Administration / Security / Environmental         |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Containment / Archive                                                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Campus Director, Surface Cover Administration, Site Director, and Central Archive     |
@@ -246,16 +248,20 @@ FAULT ISOLATION
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
 | Researcher near a sector   | Fieldwork routed without the liaison      | Recall the party and re-route the         |
++----------------------------+-------------------------------------------+-------------------------------------------+
 |                            |                                           | programme                                 |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Grid data describes a      | Station sited without liaison review      | Review before publication, re-site        |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | sector                     |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Fieldwork board has gaps   | Restricted movement scheduled first       | Refill the board with genuine programmes  |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Terminal traffic questioned| Enclosure matters discussed openly        | Re-brief staff and move the traffic       |
+| Terminal traffic           | Enclosure matters discussed openly        | Re-brief staff and move the traffic       |
+| questioned                 |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Housing registry short     | Arrival not recorded at the office        | Correct the registry and re-brief the desk|
+| Housing registry short     | Arrival not recorded at the office        | Correct the registry and re-brief the     |
+|                            |                                           | desk                                      |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS

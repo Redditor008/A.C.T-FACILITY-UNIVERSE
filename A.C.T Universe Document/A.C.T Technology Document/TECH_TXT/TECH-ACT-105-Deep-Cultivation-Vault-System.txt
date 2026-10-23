@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - DEEP CULTIVATION VAULT SYSTEM
 | RISK STATUS                | CULTIVATION ESCALATION / ACCESS FAILURE / VAULT BREACH RISK                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4 for vault duty; Level 5 for cultivation-program alteration, resident access,  |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | or closure override                                                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,9 +33,11 @@ TECHNOLOGY RECORD - DEEP CULTIVATION VAULT SYSTEM
 | ARCHIVE STATUS             | Active Deep Cultivation Technology Record                                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Verde Null Bio-Reserve / Research / Transformation / Environmental Containment /      |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Security / Medical                                                                    |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Deep-Cultivation Command, F-1 Vault Officer, Verde Null Site Command, and Central     |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Archive                                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -241,14 +244,17 @@ FAULT ISOLATION
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
 | Growth exceeds the         | Alterations piled up without review       | Suspend the programme, review the ledger  |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | programme                  |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Service ring contaminated  | Waste routed as ordinary laboratory load  | Seal the ring, treat as a vault breach    |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Checkpoint sequence        | Entry made under time pressure            | Void the entry, re-clear from the start   |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | bypassed                   |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Closure with a programme   | Suspension step skipped                   | Suspend it before closure, log the        |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | live                       |                                           | omission                                  |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | No native-field comparison | Comparison step skipped at review         | Record the gap, defer the alteration      |

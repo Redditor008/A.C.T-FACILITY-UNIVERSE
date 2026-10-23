@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - UNREAD ARCHIVE ANTI-READING PRESERVATION VAULT SYSTEM
 | RISK STATUS                | UNCONTROLLED READING / PRESERVATION BREACH / ACCESS FAILURE                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 5 for vault access; Site Director or above for release, restriction change, or  |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | direct content exposure                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -34,6 +35,7 @@ TECHNOLOGY RECORD - UNREAD ARCHIVE ANTI-READING PRESERVATION VAULT SYSTEM
 | DISTRIBUTION               | Kurokawa Archive Node / Deep-Archive Command / Security / Intelligence / Medical      |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Unread Archive Chief, Site Director, Archive Division Deep-Archive Command, and       |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Central Archive                                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -253,7 +255,8 @@ FAULT ISOLATION
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Service outside the route  | Sealed route bypassed                     | Suspend servicing, inspect the route      |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Closure with retrieval live| Closure step taken early                  | Complete the retrieval before closure     |
+| Closure with retrieval     | Closure step taken early                  | Complete the retrieval before closure     |
+| live                       |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS

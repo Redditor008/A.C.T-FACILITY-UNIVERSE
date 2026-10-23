@@ -17,6 +17,7 @@ TECHNOLOGY RECORD - AMAZOO CIRCUS FAIRGROUND MOBILITY AND ROUTE CONCEALMENT SYST
 | PRIMARY CONTROLLER         | Intelligence Division with Regional Command                                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 | ATTACHED DIVISIONS         | Intelligence, Regional Command, Tactical Containment, Subject Care, Logistics,        |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Archive                                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 | OPERATIONAL STATUS         | ONE FAIRGROUND SEIZED / NO HEADQUARTERS RECOVERED, ROUTE OPEN                         |

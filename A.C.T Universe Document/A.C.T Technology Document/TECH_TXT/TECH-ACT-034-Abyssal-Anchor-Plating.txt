@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - ABYSSAL ANCHOR PLATING
 | RISK STATUS                | CONTROLLED / LOAD-ANCHOR AND RESONANCE HAZARD                                         |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4 for installation; Level 5 for Massive Box design, tungsten-lattice layout,    |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | and anchor-load override                                                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,6 +33,7 @@ TECHNOLOGY RECORD - ABYSSAL ANCHOR PLATING
 | ARCHIVE STATUS             | Active Heavy Containment Technology Record                                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Engineering / Heavy Containment / Abyss Floor / Site Command / Logistics /            |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | World-Scale Recovery                                                                  |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Engineering Division, Heavy Containment Structural Desk, and Central Archive          |
@@ -221,6 +223,7 @@ SERVICING AND CALIBRATION
 | After installation         | seam survey and serial reconciliation     | Level 4 Engineering                       |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Metallic ringing from a    | immediate tile inspection                 | Engineering Division                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | wall                       |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Thermal-sink lag           | sink layer review                         | Engineering Division                      |
@@ -243,9 +246,11 @@ FAULT ISOLATION
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
-| Metallic tone from one wall| tiles returning stress inward             | inspect; 1998 case                        |
+| Metallic tone from one     | tiles returning stress inward             | inspect; 1998 case                        |
+| wall                       |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Thermal-sink readings      | cold stress from a CSS array              | link schedules; 2019                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | lagging                    |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Room unusually quiet       | plate absorbing warning signs             | verify with instruments                   |
@@ -253,9 +258,11 @@ FAULT ISOLATION
 | Seam pressure unequal      | lock or socket fault                      | reseat the tile                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Cold-contact strip reading | sink saturation                           | reduce load and review                    |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | high                       |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Serial missing from the    | unlogged tile                             | reconcile before use                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | list                       |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 

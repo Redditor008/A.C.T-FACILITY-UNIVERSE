@@ -13,6 +13,7 @@ TECHNOLOGY RECORD - OFFICE ALTERED-PERSON LEDGER AND DEATH-RECORD REVERSAL SYSTE
 | TECHNOLOGY FAMILY          | ACQUIRED BY OBSERVATION / CIVIL STATUS TECHNOLOGY / IDENTITY CONTINUITY SYSTEM        |
 +----------------------------+---------------------------------------------------------------------------------------+
 | ORIGIN                     | OFFICE FOR WITNESS CONTINUANCE (GOI-GV-X-060) / STATUS LEDGER DESK AND NOTIFICATION   |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | OFFICE                                                                                |
 +----------------------------+---------------------------------------------------------------------------------------+
 | PRIMARY CONTROLLER         | Legal Liaison with Civil Covert review                                                |

@@ -12,7 +12,7 @@ TECHNOLOGY RECORD - SAINT-VERA COLD LEDGER AND SEALED PATIENT CONTINUITY ARCHIVE
 +----------------------------+---------------------------------------------------------------------------------------+
 | TECHNOLOGY FAMILY          | GOI-DERIVED / RECORD SYSTEM / IDENTITY CONTINUITY ARCHIVE                             |
 +----------------------------+---------------------------------------------------------------------------------------+
-| ORIGIN                     | Saint-Vera Restoration Concern (GOI-CP-P-056)                                       |
+| ORIGIN                     | Saint-Vera Restoration Concern (GOI-CP-P-056)                                         |
 +----------------------------+---------------------------------------------------------------------------------------+
 | SUBDIVISIONS               | Cold ledgers, sealed failure archive, sealed restoration licenses, patient cards      |
 +----------------------------+---------------------------------------------------------------------------------------+

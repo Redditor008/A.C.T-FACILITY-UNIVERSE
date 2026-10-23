@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - NON-EUCLIDEAN COMPASS
 | RISK STATUS                | CONTROLLED / HAZARDOUS IF MAP, THREAD, OR NORTH IS SPOOFED                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 3 for supervised survey use; Level 4 for Narrative North calibration,           |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Aether-Filter access, and route records                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,9 +33,11 @@ TECHNOLOGY RECORD - NON-EUCLIDEAN COMPASS
 | ARCHIVE STATUS             | Active Expedition Navigation Technology Record                                        |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Survey / Dark World Expedition Desk / Recovery / Engineering / Site Command /         |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Archive                                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Survey Division, Dark World Expedition Desk, Engineering Division, and Central        |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Archive                                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -247,20 +250,26 @@ FAULT ISOLATION
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
 | Compass pointing to one    | loop centre read as an exit               | use escape mode; 1993 case                |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | turn                       |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Two operators recall       | shared filtered exposure                  | treat both as partial                     |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | different paths            |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Thread lock on a lost-item | unverified target link                    | release the lock; 2016 case               |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | tag                        |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Display frozen with no     | dead-map freeze                           | withdraw on the marked path               |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | alarm                      |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Map moving while held still| route pressure changing                   | read as data, not as a fault              |
+| Map moving while held      | route pressure changing                   | read as data, not as a fault              |
+| still                      |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Density high on every route| contradictory team objectives             | reduce objectives first                   |
+| Density high on every      | contradictory team objectives             | reduce objectives first                   |
+| route                      |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS

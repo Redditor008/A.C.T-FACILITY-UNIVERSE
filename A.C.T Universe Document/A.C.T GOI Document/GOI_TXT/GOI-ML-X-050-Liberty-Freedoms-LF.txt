@@ -11,6 +11,7 @@ GROUP OF INTEREST REGISTRY - LIBERTY FREEDOMS
 | SHORT NAME                 | L.F. (rendered LF in seized working drafts)                                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN ALIASES              | The Freedoms; the Open Hand (leaflet alias); name variants under which early material |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | circulated are restricted                                                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 | NATURE CLASS               | MILITANT                                                                              |
@@ -28,35 +29,45 @@ GROUP OF INTEREST REGISTRY - LIBERTY FREEDOMS
 | A.C.T POSTURE              | CONTAIN / DISMANTLE / INFILTRATE                                                      |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN LEADERSHIP           | Assessed rotating council of founding defectors and regional commanders; individual   |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | identities compartmented and unresolved                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN MEMBERSHIP           | Large decentralized network of former A.C.T personnel, displaced civilians, radical   |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | sympathizers, and opportunist cells; live census unresolved                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 | PRIMARY ACTIVE REGION      | Transnational; defector-trace and transport-route analysis held in restricted         |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | surveillance records                                                                  |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN ASSETS               | Defector operational knowledge, seized route and schedule records, adapted A.C.T      |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | equipment, publication and leak infrastructure, and anomalies assessed to travel with |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | cells                                                                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN HOLDINGS             | Dispersed safehouses, temporary holding routes, publication relays, and changing      |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | forward staging                                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 | IDEOLOGY                   | Liberation of anomalies and of concealed knowledge from A.C.T custody, pursued        |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | through deliberate public rupture rather than negotiated reform                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 | HISTORY WITH A.C.T         | Coordinated defection-and-leak pattern opened the current record; a single founding   |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | event remains unverified and contested                                                |
 +----------------------------+---------------------------------------------------------------------------------------+
 | ANOMALY CROSS-REFERENCE    | No permanent group-wide list; case chains and seized-subject files held restricted    |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CURRENT STATUS             | ACTIVE - dispersed insurgency with confirmed defector, publication, and anomaly-carry |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | operations                                                                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 | PRIMARY FILE AUTHORITY     | Intelligence Division, Hostile Networks Desk, with Internal Security liaison          |
 +----------------------------+---------------------------------------------------------------------------------------+
 | SITE JURISDICTION          | Central Command with cross-site incident authority; ACT-SITE-01, ACT-SITE-03, and     |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | ACT-SITE-05 lead standing response lanes                                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4; Level 5 for defector identity, seized-subject, and leak-source files         |

@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - SHARED-INSTRUMENT OBSERVATION NETWORK
 | RISK STATUS                | DATA BLEED / INSTRUMENT CURIOSITY / COVER-CORRELATION RISK                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 2 for public station instrument work; Level 3 for watch-linked feeds; Level 4   |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | for concealed routing review                                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,9 +33,11 @@ TECHNOLOGY RECORD - SHARED-INSTRUMENT OBSERVATION NETWORK
 | ARCHIVE STATUS             | Active Dual-Use Observation Technology Record                                         |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Station Staff / Watch Coordination / Security / Administration / Nusantara Deep Relay |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | / Ash Tide Watchpoint                                                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Station Manager, Watch Officer, Watch Chief, Nusantara Site Command, and Central      |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Archive                                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -245,14 +248,17 @@ FAULT ISOLATION
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
 | Public terminal shows no   | Release step skipped or terminal down     | Restore the release, then trace cause     |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | data                       |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Watch feed silent          | Concealed route fault at the housing      | Test the route, keep the public copy      |
++----------------------------+-------------------------------------------+-------------------------------------------+
 |                            |                                           | running                                   |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Calibration entry missing  | Drift corrected without a ledger entry    | Reconstruct the entry and note the gap    |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Researcher cites a data gap| Suppression left an obvious hole          | Issue the ordinary reading with its limits|
+| Researcher cites a data    | Suppression left an obvious hole          | Issue the ordinary reading with its       |
+| gap                        |                                           | limits                                    |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Wildlife point goes quiet  | Camera fault, weather, or real absence    | Log all three, confirm none first         |
 +----------------------------+-------------------------------------------+-------------------------------------------+

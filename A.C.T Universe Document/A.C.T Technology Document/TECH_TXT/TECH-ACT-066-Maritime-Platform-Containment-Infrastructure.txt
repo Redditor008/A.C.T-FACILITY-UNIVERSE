@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - MARITIME PLATFORM CONTAINMENT INFRASTRUCTURE
 | RISK STATUS                | FIELD BREACH / COVER FAILURE / SEA-TRANSFER RISK                                      |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 3 for platform support; Level 4 for anomaly transfer, submersible containment,  |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | or hostile maritime response                                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -230,6 +231,7 @@ SERVICING AND CALIBRATION
 | Platform support           | Level 3 procedure                         | Level 3                                   |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Anomaly transfer or        | Level 4 procedure                         | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | submersible work           |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Hostile maritime response  | Level 4 procedure                         | Level 4                                   |
@@ -252,6 +254,7 @@ FAULT ISOLATION
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
 | Resident invisible to      | lure extinguished, sensory denial         | stop pursuit; Angler case                 |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | visual tracking            |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Chamber water drifting     | handoff delayed by weather                | check chemistry; port review              |
@@ -259,9 +262,11 @@ FAULT ISOLATION
 | Civilian vessel closing    | cover at risk                             | break off and re-cover                    |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Deck vibration affecting   | sea state exceeded                        | reduce speed or hold                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | the cradle                 |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Crew fatigue altering      | long watch                                | rotate before transfer                    |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | discipline                 |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Ledger gap at handoff      | record break                              | reconcile before intake                   |

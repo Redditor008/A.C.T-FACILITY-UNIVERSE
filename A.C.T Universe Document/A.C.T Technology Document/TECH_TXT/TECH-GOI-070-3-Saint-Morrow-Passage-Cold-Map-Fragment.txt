@@ -135,17 +135,22 @@ deviation from the Passage's insulated tube is recorded on both enclosures.
 2.5 Fault isolation
 ===================
 
-+----------------------------------------+-------------------------------------+----------------------------------------------------------------------------+
-| OBSERVED CONDITION                     | READING                             | ACTION                                                                     |
-+----------------------------------------+-------------------------------------+----------------------------------------------------------------------------+
-| A fragment shows change since recovery | Warmth may be altering it           | Photograph; record; refer to Intelligence; do not cold-store as a response |
-+----------------------------------------+-------------------------------------+----------------------------------------------------------------------------+
-| A fragment is requested for route work | A party wants to read it as a route | Refuse; refer the underlying matter to Legal                               |
-+----------------------------------------+-------------------------------------+----------------------------------------------------------------------------+
-| A fragment is offered for sale         | It left Passage custody             | Record the offer; do not buy; refer to Intelligence                        |
-+----------------------------------------+-------------------------------------+----------------------------------------------------------------------------+
-| A matching fragment appears elsewhere  | The two may belong to one map       | Record both; do not join them; refer to Legal                              |
-+----------------------------------------+-------------------------------------+----------------------------------------------------------------------------+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| OBSERVED CONDITION         | READING                                   | ACTION                                    |
++============================+===========================================+===========================================+
+| A fragment shows change    | Warmth may be altering it                 | Photograph; record; refer to              |
+| since recovery             |                                           | Intelligence; do not cold-store as a      |
+|                            |                                           | response                                  |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| A fragment is requested    | A party wants to read it as a route       | Refuse; refer the underlying matter to    |
+| for route work             |                                           | Legal                                     |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| A fragment is offered for  | It left Passage custody                   | Record the offer; do not buy; refer to    |
+| sale                       |                                           | Intelligence                              |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| A matching fragment        | The two may belong to one map             | Record both; do not join them; refer to   |
+| appears elsewhere          |                                           | Legal                                     |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 The first row is the one the storage deviation creates. If the fragments are degrading, the cause is known
 and the remedy is not, because the remedy would be to replicate a condition the archive cannot explain.
@@ -185,17 +190,17 @@ rather than a failure to do better.
 DIVISION USE
 +--------------------------------------------------------------------------------------------------------------------+
 
-+--------------+----------------------------------------------------------------------+
-| DIVISION     | USE                                                                  |
-+--------------+----------------------------------------------------------------------+
-| Intelligence | Holds the fragments; records Passage route practice from the dossier |
-+--------------+----------------------------------------------------------------------+
-| Legal        | Reviews any reconstruction or route-disclosure question              |
-+--------------+----------------------------------------------------------------------+
-| Containment  | Confirms the fragments carry no established containment function     |
-+--------------+----------------------------------------------------------------------+
-| Subject Care | Attends any passenger encountered on an unlisted Passage route       |
-+--------------+----------------------------------------------------------------------+
++----------------------------+---------------------------------------------------------------------------------------+
+| DIVISION                   | USE                                                                                   |
++============================+=======================================================================================+
+| Intelligence               | Holds the fragments; records Passage route practice from the dossier                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| Legal                      | Reviews any reconstruction or route-disclosure question                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Containment                | Confirms the fragments carry no established containment function                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| Subject Care               | Attends any passenger encountered on an unlisted Passage route                        |
++----------------------------+---------------------------------------------------------------------------------------+
 
 OPEN QUESTIONS
 +--------------------------------------------------------------------------------------------------------------------+

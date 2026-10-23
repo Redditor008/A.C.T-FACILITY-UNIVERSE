@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - GALAXY-MOTIVE TEXTILE
 | RISK STATUS                | CONTROLLED / RADIATION AND CONTAMINATION INDICATOR HAZARD                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 3 for wear; Level 4 for tailoring, fiber repair, radiation-counter calibration, |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | and hydrophobic treatment                                                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,6 +33,7 @@ TECHNOLOGY RECORD - GALAXY-MOTIVE TEXTILE
 | ARCHIVE STATUS             | Active Protective Equipment Technology Record                                         |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Materials Custody / Protective Equipment / Biological Containment / Recovery /        |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Medical / Site Safety                                                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Materials Custody, Protective Equipment Desk, and Central Archive                     |
@@ -240,13 +242,16 @@ FAULT ISOLATION
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
 | Strip black, wearer still  | strip read as advisory                    | leave now; 2015 case                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | working                    |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Dust activating on the suit| hydrophobic layer degraded                | retreat and re-treat                      |
+| Dust activating on the     | hydrophobic layer degraded                | retreat and re-treat                      |
+| suit                       |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Shortened hem in the field | unauthorised tailoring                    | withdraw; 2024 case                       |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Pattern pulsing with       | weave fault or contamination              | withdraw the garment                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | heartbeat                  |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Local dullness at a fold   | particulate held in the seam              | controlled cleaning                       |

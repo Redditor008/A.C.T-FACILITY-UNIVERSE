@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - STEAM-DRILL EXCAVATOR
 | RISK STATUS                | HISTORICAL HAZARD / PRESSURE AND THERMAL FAILURE RISK                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 3 for archive study; Level 4 for component access; Level 5 for any              |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | reconstruction proposal                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,6 +33,7 @@ TECHNOLOGY RECORD - STEAM-DRILL EXCAVATOR
 | ARCHIVE STATUS             | Retired Historical Technology Record                                                  |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Historical Engineering Archive / Abyss Engineering / Materials Custody / Site         |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Archives                                                                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Historical Engineering Archive, Abyss Engineering, and Central Archive                |
@@ -216,9 +218,11 @@ SERVICING AND CALIBRATION
 | Reconstruction proposal    | Level 5 review                            | Level 5                                   |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Positive contamination     | seal as active evidence                   | Materials Custody                         |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | screening                  |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Corrosion or fracture found| stabilisation, not restoration            | Historical Engineering Archive            |
+| Corrosion or fracture      | stabilisation, not restoration            | Historical Engineering Archive            |
+| found                      |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Ledger access              | supervised reading                        | Archiver Division                         |
 +----------------------------+-------------------------------------------+-------------------------------------------+
@@ -234,17 +238,21 @@ FAULT ISOLATION
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
 | Signal bell silent for     | single-channel descent communication      | doctrine warning; 1888                    |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | hours                      |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Shield plating discoloured | thermal zone outside tolerance            | route review; 1888                        |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Pressure memory on a       | stored stress in the metal                | seal and screen                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | fragment                   |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Abyssal particulate on a   | source contact residue                    | containment screening                     |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | tooth                      |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Component proposed for     | modern confidence in an old route         | Level 5 only                              |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | rebuild                    |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Ledger page fragile        | age and sealing residue                   | supervised reading                        |

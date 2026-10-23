@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - ARCHIVE BOUNDARY PERSONNEL CLEARANCE SYSTEM
 | RISK STATUS                | IDENTITY BLEED / CLEARANCE DRIFT / BOUNDARY FAILURE                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 3 for clearance processing; Level 4 for boundary override, operational-depth    |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | assignment, or denial reversal                                                        |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -34,6 +35,7 @@ TECHNOLOGY RECORD - ARCHIVE BOUNDARY PERSONNEL CLEARANCE SYSTEM
 | DISTRIBUTION               | Kurokawa Archive Node / Administration / Security / Archive / Command                 |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Personnel and Clearance Office, Node Administration, Site Director's Command Floor,   |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | and Central Archive                                                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 

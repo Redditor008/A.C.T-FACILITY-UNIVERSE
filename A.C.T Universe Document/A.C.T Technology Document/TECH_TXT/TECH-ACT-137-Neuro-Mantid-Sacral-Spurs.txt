@@ -25,6 +25,7 @@ TECHNOLOGY RECORD - NEURO-MANTID SACRAL-SPURS
 | RISK STATUS                | HAZARDOUS / PERMANENT IMPLANT / NERVE-INTERFACE INJURY PROFILE                        |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4 for issue and inspection; Level 5 for fitment, bio-feed work, and provenance  |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | material                                                                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 

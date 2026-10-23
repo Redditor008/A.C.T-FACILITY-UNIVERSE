@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - CONTROLLED STUDY ENVIRONMENT AND RESEARCH SAMPLE-CUSTODY SYS
 | RISK STATUS                | SAMPLE-CONTROL BREACH / CONDITION LEAK / UNDOCUMENTED STUDY                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Program-specific research authorization; additional restriction-set authority per     |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | resident object                                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 

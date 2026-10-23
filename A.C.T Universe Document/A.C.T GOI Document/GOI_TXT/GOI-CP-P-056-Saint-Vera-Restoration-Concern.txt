@@ -13,6 +13,7 @@ GROUP OF INTEREST REGISTRY - SAINT-VERA RESTORATION CONCERN
 | SHORT NAME                 | SVRC                                                                                  |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN ALIASES              | Saint-Vera Clinics; Vera Restorative; SV Aftercare; The Concern; [CENSOR: MOBILE      |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | CLINIC BRAND]                                                                         |
 +----------------------------+---------------------------------------------------------------------------------------+
 | NATURE CLASS               | CORPORATE                                                                             |
@@ -30,27 +31,35 @@ GROUP OF INTEREST REGISTRY - SAINT-VERA RESTORATION CONCERN
 | A.C.T POSTURE              | COOPERATED / MONITOR / HELP / APPROPRIATE                                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN LEADERSHIP           | Charitable board and surgical directorate unresolved; named physicians use sealed     |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | restoration licenses                                                                  |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN MEMBERSHIP           | Surgeons, restoration technicians, trauma nurses, prosthetic makers, record           |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | advocates, mobile-clinic drivers, and donors                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 | PRIMARY ACTIVE REGION      | Transnational post-incident care routes, blackout clinics, shelters, hospitals,       |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | refugee corridors, and private wards                                                  |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN ASSETS               | Restoration theaters, mobile clinics, memory-sensitive consent forms, living          |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | prosthetics, tissue stabilizers, and sealed patient ledgers                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN HOLDINGS             | Front clinics, charitable recovery houses, ambulance routes, aftercare hostels,       |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | surgical supply caches, and cold ledgers                                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 | IDEOLOGY                   | Survival should include dignity; a changed body is not automatically failed,          |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | contaminated, or disposable                                                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 | HISTORY WITH A.C.T         | Repeated discovery through survivors treated after A.C.T or non-A.C.T anomaly         |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | incidents                                                                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 | ANOMALY CROSS-REFERENCE    | Restricted transformation, injury-restoration, altered-body, amnestic-aftercare, and  |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | E-Class review chains                                                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CURRENT STATUS             | ACTIVE - monitored positive medical-corporate network                                 |
@@ -60,6 +69,7 @@ GROUP OF INTEREST REGISTRY - SAINT-VERA RESTORATION CONCERN
 | SITE JURISDICTION          | Central Command with Site-specific medical transfer review                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4; Level 5 for patient names, surgical source records, failed restorations, and |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | E-Class linked cases                                                                  |
 +----------------------------+---------------------------------------------------------------------------------------+
 

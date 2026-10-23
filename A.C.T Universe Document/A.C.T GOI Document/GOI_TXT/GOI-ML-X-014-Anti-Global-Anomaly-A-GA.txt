@@ -49,6 +49,7 @@ GROUP OF INTEREST REGISTRY - ANTI-GLOBAL ANOMALY
 | PRIMARY FILE AUTHORITY     | Intelligence Division / West Wing Response Command                                    |
 +----------------------------+---------------------------------------------------------------------------------------+
 | SITE JURISDICTION          | Incident-led; cross-site coordination required for network, material, and leak        |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | conditions                                                                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4; Level 5 for strategic interdiction files                                     |

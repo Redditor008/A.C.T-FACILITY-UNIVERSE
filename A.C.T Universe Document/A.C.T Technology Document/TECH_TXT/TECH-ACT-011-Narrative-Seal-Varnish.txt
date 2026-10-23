@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - NARRATIVE SEAL VARNISH
 | RISK STATUS                | CONTROLLED / HAZARDOUS IF MISAPPLIED TO LIVE TEXT                                     |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 3 for ordinary archive use; Level 4 for info-hazard documents, self-writing     |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | artifacts, and reapplication orders                                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -147,6 +148,7 @@ figure, Dry time and coverage per canister are not measured here. Those 3 gaps s
 | Application method         | one controlled pass, top edge to bottom edge                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 | Authority                  | Level 3 for passive documents; Level 4 with an Info-Hazard observer for active or     |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | hazardous text                                                                        |
 +----------------------------+---------------------------------------------------------------------------------------+
 | Canister volume            | NOT MEASURED                                                                          |
@@ -154,6 +156,7 @@ figure, Dry time and coverage per canister are not measured here. Those 3 gaps s
 | Stated half-life figure    | NOT MEASURED                                                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 | Dry time and coverage per  | NOT MEASURED                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
 | canister                   |                                                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -239,11 +242,13 @@ SERVICING AND CALIBRATION
 | After each application     | purge cap and contaminated-tip capsule    | Level 3, locally certified                |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Active or hazardous        | review and observer required              | Level 4 with Info-Hazard                  |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | document                   |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Canister exhausted         | replacement from an approved batch        | Materials Desk                            |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Glossy or uneven dry       | quarantine the batch and re-inspect       | Archive Division                          |
++----------------------------+-------------------------------------------+-------------------------------------------+
 |                            | treated documents                         |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Reapplication              | order required before a second pass       | Level 4                                   |
@@ -260,14 +265,17 @@ FAULT ISOLATION
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
 | Decoration in an unsealed  | partial sealing                           | full-edge verification; 2001              |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | margin                     |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Copies restoring an old    | sealed before correction review           | correct by addendum, not scraping         |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | error                      |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Finish drying glossy       | batch fault                               | quarantine batch; re-inspect              |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Text migrating to bare     | uneven application                        | re-treat the full edge                    |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | edges                      |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Half-life falling quickly  | estimate drift or bad batch               | check the verification strip              |

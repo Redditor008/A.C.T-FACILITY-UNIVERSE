@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - PERSONNEL PROCESSING AND RESERVE CLEARANCE SYSTEM
 | RISK STATUS                | CLEARANCE DRIFT / COVER EXPOSURE / BIOLOGICAL DUTY MISMATCH                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 2 for personnel intake handling; Level 3 for reserve clearance assignment;      |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Level 4 for denial override                                                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,9 +33,11 @@ TECHNOLOGY RECORD - PERSONNEL PROCESSING AND RESERVE CLEARANCE SYSTEM
 | ARCHIVE STATUS             | Active Verde Null Personnel Technology Record                                         |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Verde Null Bio-Reserve / Administration / Security / Medical / Environmental          |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Containment / Archive                                                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Personnel Processing Office, Security Administration, Site Director's Office, and     |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Central Archive                                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -250,6 +253,7 @@ FAULT ISOLATION
 | Fatigue flag ignored       | Flag not read before clearance            | Suspend the clearance, notify medical     |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Cover role needs enclosure | Role written with reserve clearance       | Rewrite the role or reassign it           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | access                     |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Denial not filed           | Review file left unupdated                | File it and review the earlier decision   |

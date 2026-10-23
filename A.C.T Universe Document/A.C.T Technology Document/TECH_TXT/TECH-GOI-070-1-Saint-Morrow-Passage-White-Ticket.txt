@@ -136,17 +136,21 @@ should be recorded before the pages are separated further, and that has not been
 2.5 Fault isolation
 ===================
 
-+--------------------------------------------------+-----------------------------------------+----------------------------------------------------------------------+
-| OBSERVED CONDITION                               | READING                                 | ACTION                                                               |
-+--------------------------------------------------+-----------------------------------------+----------------------------------------------------------------------+
-| A ticket surfaces in a Facility file             | It was copied or transcribed            | Retrieve the copy; treat the original as compromised in that channel |
-+--------------------------------------------------+-----------------------------------------+----------------------------------------------------------------------+
-| A ticket is offered for sale                     | It left Passage custody                 | Record the offer; do not buy; refer to Intelligence                  |
-+--------------------------------------------------+-----------------------------------------+----------------------------------------------------------------------+
-| A ticket is presented as A.C.T authority         | A party believes it transfers authority | Correct the record in writing; refer to Legal                        |
-+--------------------------------------------------+-----------------------------------------+----------------------------------------------------------------------+
-| A passenger produces a ticket at a Facility door | A crossing ended at the Facility        | Attend the passenger under Subject Care; do not take the ticket      |
-+--------------------------------------------------+-----------------------------------------+----------------------------------------------------------------------+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| OBSERVED CONDITION         | READING                                   | ACTION                                    |
++============================+===========================================+===========================================+
+| A ticket surfaces in a     | It was copied or transcribed              | Retrieve the copy; treat the original as  |
+| Facility file              |                                           | compromised in that channel               |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| A ticket is offered for    | It left Passage custody                   | Record the offer; do not buy; refer to    |
+| sale                       |                                           | Intelligence                              |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| A ticket is presented as   | A party believes it transfers authority   | Correct the record in writing; refer to   |
+| A.C.T authority            |                                           | Legal                                     |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| A passenger produces a     | A crossing ended at the Facility          | Attend the passenger under Subject Care;  |
+| ticket at a Facility door  |                                           | do not take the ticket                    |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 The last row is the one most likely to occur and the one personnel are least prepared for. A person
 holding a white ticket has been carried somewhere ordinary transport could not carry them, and what
@@ -179,17 +183,17 @@ person rather than for anyone acting in bad faith.
 DIVISION USE
 +--------------------------------------------------------------------------------------------------------------------+
 
-+--------------+----------------------------------------------------------------------------+
-| DIVISION     | USE                                                                        |
-+--------------+----------------------------------------------------------------------------+
-| Intelligence | Holds the tickets; records Passage route practice from the dossier         |
-+--------------+----------------------------------------------------------------------------+
-| Legal        | Reviews any presentation question; advises on the cooperating relationship |
-+--------------+----------------------------------------------------------------------------+
-| Containment  | Confirms the tickets carry no containment function                         |
-+--------------+----------------------------------------------------------------------------+
-| Subject Care | Attends any passenger presenting a white ticket                            |
-+--------------+----------------------------------------------------------------------------+
++----------------------------+---------------------------------------------------------------------------------------+
+| DIVISION                   | USE                                                                                   |
++============================+=======================================================================================+
+| Intelligence               | Holds the tickets; records Passage route practice from the dossier                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Legal                      | Reviews any presentation question; advises on the cooperating relationship            |
++----------------------------+---------------------------------------------------------------------------------------+
+| Containment                | Confirms the tickets carry no containment function                                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| Subject Care               | Attends any passenger presenting a white ticket                                       |
++----------------------------+---------------------------------------------------------------------------------------+
 
 OPEN QUESTIONS
 +--------------------------------------------------------------------------------------------------------------------+

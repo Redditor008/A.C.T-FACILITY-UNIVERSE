@@ -13,6 +13,7 @@ GROUP OF INTEREST REGISTRY - CANDLE-UNDER EXCHANGE
 | SHORT NAME                 | CUE                                                                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN ALIASES              | Candle Under; Under-Candle; Low Light Exchange; Shelter Table; [CENSOR: SURVIVOR      |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | BOARD NAME]                                                                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 | NATURE CLASS               | BUSINESS                                                                              |
@@ -30,27 +31,35 @@ GROUP OF INTEREST REGISTRY - CANDLE-UNDER EXCHANGE
 | A.C.T POSTURE              | MONITOR / HELP / COOPERATED / APPROPRIATE                                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN LEADERSHIP           | Table Keepers, Candle Clerks, Debt Witnesses, and route moderators; no central        |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | proprietor confirmed                                                                  |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN MEMBERSHIP           | Survivors, family brokers, safe-house owners, care runners, barter clerks, field      |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | medics, charm handlers, and guides                                                    |
 +----------------------------+---------------------------------------------------------------------------------------+
 | PRIMARY ACTIVE REGION      | Survivor neighborhoods, post-incident shelters, clinics, hostels, forums, back rooms, |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | border routes, and kitchens                                                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN ASSETS               | Aid ledgers, candle tokens, safe-room lists, medicine lots, low-risk charms, doctor   |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | names, witness advice, and routes                                                     |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN HOLDINGS             | Shelter tables, kitchen exchanges, clinic cupboards, survivor hostels, coded boards,  |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | and temporary store rooms                                                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 | IDEOLOGY                   | Survivors should not have to buy safety from predators or beg institutions that       |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | cannot publicly admit their injuries                                                  |
 +----------------------------+---------------------------------------------------------------------------------------+
 | HISTORY WITH A.C.T         | Repeated contact through survivor aid, protective-object movement, witness avoidance, |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | and post-incident barter                                                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 | ANOMALY CROSS-REFERENCE    | Restricted survivor-aid, protective charm, safe-house, medicine, witness, and         |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | post-breach family case chains                                                        |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CURRENT STATUS             | ACTIVE - positive survivor-aid market under monitored use                             |
@@ -60,6 +69,7 @@ GROUP OF INTEREST REGISTRY - CANDLE-UNDER EXCHANGE
 | SITE JURISDICTION          | Central Command with Site 01 and route-specific review                                |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4; Level 5 for safe-house lists, child witnesses, medical supplier names, and   |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | A.C.T-adjacent aid routes                                                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 

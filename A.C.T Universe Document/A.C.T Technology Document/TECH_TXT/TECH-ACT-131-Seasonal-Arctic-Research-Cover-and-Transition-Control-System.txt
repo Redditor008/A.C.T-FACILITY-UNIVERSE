@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - SEASONAL ARCTIC RESEARCH COVER AND TRANSITION CONTROL SYSTEM
 | RISK STATUS                | COVER INCIDENT / TRANSPORT WINDOW FAILURE / TRANSITION PENETRATION                    |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Boundary-control access; seasonal transport and buried station transition authority   |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | per person and shipment                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,6 +33,7 @@ TECHNOLOGY RECORD - SEASONAL ARCTIC RESEARCH COVER AND TRANSITION CONTROL SYSTEM
 | ARCHIVE STATUS             | Active White Grave Surface Technology Record                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | White Grave Station / Research Surface Program / Administration / Logistics /         |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Engineering / Security                                                                |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Surface Chief, Station Administration, Site Director, and Central Archive             |

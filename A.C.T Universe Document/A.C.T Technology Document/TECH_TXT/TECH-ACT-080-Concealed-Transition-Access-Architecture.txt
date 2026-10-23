@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - CONCEALED TRANSITION ACCESS ARCHITECTURE
 | RISK STATUS                | SURFACE PENETRATION / ROUTE EXPOSURE / UNLOGGED DESCENT                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 3 for assigned transition operation; Level 4 for route alteration, emergency    |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | seal, or exposure response                                                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -215,6 +216,7 @@ SERVICING AND CALIBRATION
 | CONDITION                  | REQUIRED SERVICE                          | AUTHORITY                                 |
 +============================+===========================================+===========================================+
 | Assigned transition        | Level 3 procedure                         | Level 3                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | operation                  |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Route alteration           | Level 4 procedure                         | Level 4                                   |
@@ -240,12 +242,16 @@ FAULT ISOLATION
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
 | Contractor near a          | valid work order, wrong route             | divert and review; route notice           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | transition zone            |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Descent needed while public| timing conflict                           | delay or reroute; drill                   |
+| Descent needed while       | timing conflict                           | delay or reroute; drill                   |
+| public                     |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | traffic present            |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Repeated staff movement    | pattern exposure                          | vary the schedule                         |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | noticed                    |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Paperwork mismatched       | documentation lapse                       | correct before movement                   |

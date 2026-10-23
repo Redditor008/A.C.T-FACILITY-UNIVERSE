@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - REFINED NEMNOLIA SAP
 | RISK STATUS                | HAZARDOUS / MEMORY CONTINUITY AND AIRBORNE MEMETIC HAZARD                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4 for storage access; Level 5 for raw-to-refined processing, grade transfer, or |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | high-concentration release                                                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,6 +33,7 @@ TECHNOLOGY RECORD - REFINED NEMNOLIA SAP
 | ARCHIVE STATUS             | Active Anomaly-Derived Material Technology Record                                     |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Medical / Transformation / Normalcy / Memory Review / Materials Custody / O5          |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Oversight                                                                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Medical Division, Transformation Division, and Central Archive                        |
@@ -220,11 +222,13 @@ SERVICING AND CALIBRATION
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Dilution                   | authorization tag procedure               | Level 4                                   |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| High-concentration movement| escalation procedure                      | Level 5                                   |
+| High-concentration         | escalation procedure                      | Level 5                                   |
+| movement                   |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Stabilizer expiry reached  | vial withdrawal and disposal              | Medical Division                          |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Evaporation alarm strip    | hood evacuation and air sampling          | Level 5                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | triggered                  |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | After handling             | aftercare record closure                  | Memory Review                             |
@@ -246,9 +250,11 @@ FAULT ISOLATION
 | Too much erased            | grade or route error                      | Memory Review; aftercare now              |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Awareness of the error     | solvent reached the handler               | escalate immediately                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | missing                    |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Syrup clinging to vial     | concentration higher than labelled        | reassay before use                        |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | glass                      |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Batch code illegible       | provenance break                          | quarantine the vial                       |

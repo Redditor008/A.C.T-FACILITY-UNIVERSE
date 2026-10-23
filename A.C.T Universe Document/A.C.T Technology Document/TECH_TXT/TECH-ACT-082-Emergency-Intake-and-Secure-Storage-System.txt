@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - EMERGENCY INTAKE AND SECURE STORAGE SYSTEM
 | RISK STATUS                | TRANSIENT HOLDING / INTAKE BREACH / TRANSFER DELAY RISK                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 3 for readiness support; Level 4 for live intake, secure storage override, or   |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | F-1 closure authority                                                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,6 +33,7 @@ TECHNOLOGY RECORD - EMERGENCY INTAKE AND SECURE STORAGE SYSTEM
 | ARCHIVE STATUS             | Active Emergency Intake Technology Record                                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Recovery Support / Security / Limited Medical / Nusantara Deep Relay / Ash Tide       |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Watchpoint                                                                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Watch Chief, Intake Officer, Nusantara Site Command, and Central Archive              |
@@ -229,7 +231,8 @@ SERVICING AND CALIBRATION
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | F-1 closure authority      | Level 4 procedure                         | Level 4                                   |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Environmental control check| before each intake                        | Watch Chief                               |
+| Environmental control      | before each intake                        | Watch Chief                               |
+| check                      |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Transfer clock expired     | escalate to the parent relay              | Intake Officer                            |
 +----------------------------+-------------------------------------------+-------------------------------------------+
@@ -246,15 +249,20 @@ FAULT ISOLATION
 | Local holding extended     | stable conditions tempting staff          | clock first; doctrine review              |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Intake without a           | manifest incomplete                       | hold and set the clock                    |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | destination                |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Closure drill revealed a   | seal integration fault                    | retest; closure drill                     |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | gap                        |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Living arrival beyond local| capability limit                          | stabilise and transfer                    |
+| Living arrival beyond      | capability limit                          | stabilise and transfer                    |
+| local                      |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | care                       |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Environmental drift in     | control fault                             | move the package                          |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | storage                    |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Manifest terminal offline  | record break                              | manual manifest until restored            |

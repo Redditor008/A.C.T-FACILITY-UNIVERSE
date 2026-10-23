@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - ASCENDING AUTHORIZATION TRANSFORMATION STAGING LOCK SYSTEM
 | RISK STATUS                | UNAUTHORIZED TRANSFORMATION / STAGING LOCK VIOLATION                                  |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Operation-specific ascending authorization; higher command approval for irreversible, |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | experimental, or dangerous work                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -34,6 +35,7 @@ TECHNOLOGY RECORD - ASCENDING AUTHORIZATION TRANSFORMATION STAGING LOCK SYSTEM
 | DISTRIBUTION               | Redwood Veil Complex / Transformation / Research / Containment / Security / Archive   |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Floor Transformation Chief, Transformation Division, Site Director, and Central       |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Archive                                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -246,11 +248,13 @@ FAULT ISOLATION
 | Lock opened early          | Authority not yet recorded                | Seal it, log the violation, restart       |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Resident prepared in       | Rooms used interchangeably                | Return it and re-brief the separation     |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | evaluation                 |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Refusal not returned       | Return route not used                     | Route it and record the condition         |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Authority class understated| Consequence judged as reversible          | Suspend the operation, re-class it        |
+| Authority class            | Consequence judged as reversible          | Suspend the operation, re-class it        |
+| understated                |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Receipt gate bypassed      | Custody not taken at the gate             | Take custody and reconstruct the record   |
 +----------------------------+-------------------------------------------+-------------------------------------------+

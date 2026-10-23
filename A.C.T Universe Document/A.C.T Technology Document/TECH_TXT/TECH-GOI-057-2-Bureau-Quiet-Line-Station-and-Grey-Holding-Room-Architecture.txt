@@ -13,6 +13,7 @@ TECHNOLOGY RECORD - BUREAU QUIET-LINE STATION AND GREY HOLDING ROOM ARCHITECTURE
 | TECHNOLOGY FAMILY          | ACQUIRED BY OBSERVATION / CONCEALMENT ARCHITECTURE / RECOGNITION SUPPRESSION SYSTEM   |
 +----------------------------+---------------------------------------------------------------------------------------+
 | ORIGIN                     | BUREAU OF UNQUIET BORDERS (GOI-GV-W-057) / QUIET-LINE STATIONS AND BORDER HEALTH      |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | ROOMS                                                                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
 | PRIMARY CONTROLLER         | Civil Covert review with Intelligence Division                                        |

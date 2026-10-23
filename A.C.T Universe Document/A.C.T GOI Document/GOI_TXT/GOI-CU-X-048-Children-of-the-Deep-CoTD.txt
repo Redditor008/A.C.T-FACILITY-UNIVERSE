@@ -35,6 +35,7 @@ GROUP OF INTEREST REGISTRY - CHILDREN OF THE DEEP
 | PRIMARY ACTIVE REGION      | Midwestern United States                                                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN ASSETS               | Distributed congregations, ritual data, technical material, contribution routes, and  |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | cover access                                                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN HOLDINGS             | Inland mouth sites, meeting spaces, storage areas, and transit points                 |

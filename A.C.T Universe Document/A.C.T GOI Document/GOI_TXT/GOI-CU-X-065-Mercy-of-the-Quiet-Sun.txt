@@ -13,6 +13,7 @@ GROUP OF INTEREST REGISTRY - MERCY OF THE QUIET SUN
 | SHORT NAME                 | MQS                                                                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN ALIASES              | Quiet Sun Mercy; The Merciful Noon; Sun-Sleep Fellowship; The Soft Ending; [CENSOR:   |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | CLINIC-CHAPEL NAME]                                                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 | NATURE CLASS               | CULTIC                                                                                |
@@ -30,28 +31,37 @@ GROUP OF INTEREST REGISTRY - MERCY OF THE QUIET SUN
 | A.C.T POSTURE              | INFILTRATE / MISDIRECT / CONTAIN / DISMANTLE                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN LEADERSHIP           | Mercy Readers, Noon Nurses, Quiet Cantors, and an unverified figure called the Warm   |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Witness                                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN MEMBERSHIP           | End-believers, grief nurses, sedation handlers, hospice volunteers, failed-rescue     |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | survivors, and quieting families                                                      |
 +----------------------------+---------------------------------------------------------------------------------------+
 | PRIMARY ACTIVE REGION      | Transnational hospice routes, post-disaster shelters, closed clinics, care homes,     |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | survivor wards, and retreat sites                                                     |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN ASSETS               | Quiet-sun liturgies, sedation teas, noon-room curtains, surrender cards, lull clocks, |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | mercy ledgers, and sleep rites                                                        |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN HOLDINGS             | Clinic-chapels, hospice rooms, retreat houses, white vans, sealed medicine cupboards, |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | and quiet-noon wards                                                                  |
 +----------------------------+---------------------------------------------------------------------------------------+
 | IDEOLOGY                   | If the end cannot be stopped, the final duty is to remove terror, pain,               |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | memory panic,                                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | and the violence of false hope                                                        |
 +----------------------------+---------------------------------------------------------------------------------------+
 | HISTORY WITH A.C.T         | Repeated conflict over evacuation refusal, mass sedation, survivor disappearance,     |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | rescue obstruction, and mercy rites                                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 | ANOMALY CROSS-REFERENCE    | Restricted apocalypse, sedation, hospice, surrender, post-disaster, amnestic, and     |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | survivor-care case chains                                                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CURRENT STATUS             | ACTIVE - negative apocalypse-mercy sect under containment                             |
@@ -61,6 +71,7 @@ GROUP OF INTEREST REGISTRY - MERCY OF THE QUIET SUN
 | SITE JURISDICTION          | Central Command with Site 03, Site 05, and case Site review                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4; Level 5 for active quieting formulae, child shelter cases, Warm Witness      |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | material, and mass-rite records                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 

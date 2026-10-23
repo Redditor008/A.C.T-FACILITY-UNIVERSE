@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - BIOLOGICAL ANALYSIS AND SAMPLE CONTROL LABORATORIES
 | RISK STATUS                | SAMPLE DRIFT / CROSS-CONTAMINATION / DATA-CUSTODY RISK                                |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 3 for routine sample processing; Level 4 for resident samples, containment      |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | research, or medical-subject crossover                                                |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,9 +33,11 @@ TECHNOLOGY RECORD - BIOLOGICAL ANALYSIS AND SAMPLE CONTROL LABORATORIES
 | ARCHIVE STATUS             | Active Biological Laboratory Technology Record                                        |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Verde Null Bio-Reserve / Research / Medical / Environmental Containment / Archive /   |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Security                                                                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Laboratory and Medical Chief, Research Division Command, Verde Null Site Command, and |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Central Archive                                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -239,17 +242,22 @@ FAULT ISOLATION
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
 | Result contradicts the     | Sample analysed without context           | Mark it unanchored and re-sample          |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | field                      |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Locker count short         | Sample moved without a custody entry      | Suspend processing, trace every open entry|
+| Locker count short         | Sample moved without a custody entry      | Suspend processing, trace every open      |
+|                            |                                           | entry                                     |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Cross-contamination        | Benches shared across sample lines        | Decontaminate, quarantine both lines      |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | suspected                  |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Disposal without a ledger  | Disposal treated as the end of custody    | Reconstruct the line and report it        |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | line                       |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Crossover sample mishandled| Patient doctrine applied alone            | Apply resident doctrine and re-review     |
+| Crossover sample           | Patient doctrine applied alone            | Apply resident doctrine and re-review     |
+| mishandled                 |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS

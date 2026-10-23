@@ -29,6 +29,7 @@ GROUP OF INTEREST REGISTRY - DREAM .INC
 | A.C.T POSTURE              | INFILTRATE / CONTAIN / APPROPRIATE                                                    |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN LEADERSHIP           | Unresolved corporate executive structure; local directors use compartmented           |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | identities                                                                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN MEMBERSHIP           | Large workforce, contractors, sellers, and consumers; exact roles compartmented       |
@@ -36,6 +37,7 @@ GROUP OF INTEREST REGISTRY - DREAM .INC
 | PRIMARY ACTIVE REGION      | National distributed corporate footprint; exact concentration unresolved              |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN ASSETS               | Dream Nectar Extraction Apparatus, Dream-Type Anomaly, product supply, buildings, and |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | consumer data                                                                         |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN HOLDINGS             | At least twelve open company buildings; additional support locations suspected        |

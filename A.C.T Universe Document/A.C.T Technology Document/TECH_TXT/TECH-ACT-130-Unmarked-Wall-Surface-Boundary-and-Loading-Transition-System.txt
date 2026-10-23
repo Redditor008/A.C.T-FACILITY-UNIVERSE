@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - UNMARKED WALL SURFACE BOUNDARY AND LOADING TRANSITION SYSTEM
 | RISK STATUS                | WALL BREACH / SCREENING FAILURE / LOADING INTAKE VIOLATION                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Boundary-control access; buried-core transition authority for personnel, vehicles,    |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | shipments, and elevator movement                                                      |
 +----------------------------+---------------------------------------------------------------------------------------+
 

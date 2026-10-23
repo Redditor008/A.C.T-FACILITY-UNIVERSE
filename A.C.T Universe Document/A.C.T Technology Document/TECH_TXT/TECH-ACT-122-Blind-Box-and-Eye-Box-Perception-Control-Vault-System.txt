@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - BLIND BOX AND EYE BOX PERCEPTION-CONTROL VAULT SYSTEM
 | RISK STATUS                | PERCEPTION BREACH / RESTRICTION-SET VIOLATION / EYE EXPOSURE                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4 for unit maintenance; Level 5 for Eye Box observation, restriction-set        |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | alteration, or F-1 transfer                                                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,6 +33,7 @@ TECHNOLOGY RECORD - BLIND BOX AND EYE BOX PERCEPTION-CONTROL VAULT SYSTEM
 | ARCHIVE STATUS             | Active Kurokawa Restricted-Vault Technology Record                                    |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Kurokawa Archive Node / Archive / Intelligence / Security / Medical / Researcher      |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Division                                                                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Floor Vault Chief, Restricted-Vault Command, Site Director, and Central Archive       |

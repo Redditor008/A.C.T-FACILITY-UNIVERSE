@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - STANDARD BOX HOLDING CHAMBER SYSTEM
 | RISK STATUS                | CHAMBER MISASSIGNMENT / MONITORING LOSS / ROUTING FAILURE                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Standard holding authorization; elevated authorization for transfer to F-2 restricted |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | hold or F-4 transformation review                                                     |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -244,9 +245,11 @@ FAULT ISOLATION
 | Monitoring lost on a row   | Shared circuit rather than independent    | Post a physical watch, test independence  |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Resident moved without a   | Identity not confirmed first              | Stop the move, reconcile the register     |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | tag                        |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Entry without authorization| Threshold crossed by habit                | Record the event and review the practice  |
+| Entry without              | Threshold crossed by habit                | Record the event and review the practice  |
+| authorization              |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Quiet treated as stable    | Long hold without reassessment            | Reassess and record the interval          |
 +----------------------------+-------------------------------------------+-------------------------------------------+

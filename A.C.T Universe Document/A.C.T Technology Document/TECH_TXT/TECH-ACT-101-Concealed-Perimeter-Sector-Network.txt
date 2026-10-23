@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - CONCEALED PERIMETER SECTOR NETWORK
 | RISK STATUS                | INCURSION / BOUNDARY DRIFT / PUBLIC DISCOVERY RISK                                    |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 3 for sector patrol; Level 4 for boundary redesign, incursion response, or      |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | resident perimeter expansion                                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,9 +33,11 @@ TECHNOLOGY RECORD - CONCEALED PERIMETER SECTOR NETWORK
 | ARCHIVE STATUS             | Active Concealed Perimeter Technology Record                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Hollow Canopy Enclosure / Verde Null Bio-Reserve / Limited Security / Environmental   |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Containment / Research Support                                                        |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Enclosure Supervisor, Limited Security Lead, Verde Null Site Command, and Central     |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Archive                                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -239,9 +242,11 @@ FAULT ISOLATION
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
 | Walker reports a marker    | Post visible against changed terrain      | Remove it and re-match the surrounding    |
++----------------------------+-------------------------------------------+-------------------------------------------+
 |                            |                                           | posts                                     |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Sensor triggered by        | Sensor sited on an animal route           | Re-site it and record the false trigger   |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | wildlife                   |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Expansion past a marker    | Resident growth beyond the marked line    | Move the marker, update the drift record  |

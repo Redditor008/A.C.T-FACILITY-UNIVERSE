@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - F-1 CLOSURE SYSTEM
 | RISK STATUS                | SELF-CONTAINMENT SACRIFICE / ACCESS-SEAL FAILURE RISK                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4 for drill authority; Level 5 or Site Director seal for live closure           |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | activation                                                                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -225,6 +226,7 @@ SERVICING AND CALIBRATION
 | Live closure activation    | Level 5 or Site Director seal             | Level 5                                   |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Service isolation point    | labelling and diagram check               | Engineering Division                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | review                     |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Emergency plant readiness  | load test before drill                    | Engineering Division                      |
@@ -245,19 +247,24 @@ FAULT ISOLATION
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
 | Delay while teams debate a | unclear service isolation labels          | relabel; drill review                     |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | route                      |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Personnel re-entering early| reentry overcheck                         | hold to the lock; review                  |
+| Personnel re-entering      | reentry overcheck                         | hold to the lock; review                  |
+| early                      |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Pressure sensor            | gallery sensing fault                     | verify before reentry                     |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | disagreement               |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Command link degraded      | hardened link fault                       | use procedural fallback                   |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Plant load below           | readiness overstated                      | load test before drill                    |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | expectation                |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Personnel count unconfirmed| trigger reached too fast                  | close anyway; log the gap                 |
+| Personnel count            | trigger reached too fast                  | close anyway; log the gap                 |
+| unconfirmed                |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS

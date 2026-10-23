@@ -13,6 +13,7 @@ TECHNOLOGY RECORD - CROWN OFFICE BURNED-LOCK LEDGER AND CANDLELIGHT INVENTORY SY
 | TECHNOLOGY FAMILY          | ACQUIRED BY RECOVERY / FIRE-DAMAGED RECORD TECHNOLOGY / CONDITIONAL LEGIBILITY SYSTEM |
 +----------------------------+---------------------------------------------------------------------------------------+
 | ORIGIN                     | CROWN OFFICE OF ASH KEYS (GOI-GV-N-058) / BURNED-LOCK LEDGER DESK AND CUSTODY         |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | HEARINGS                                                                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 | PRIMARY CONTROLLER         | Central Archive with Legal Liaison                                                    |

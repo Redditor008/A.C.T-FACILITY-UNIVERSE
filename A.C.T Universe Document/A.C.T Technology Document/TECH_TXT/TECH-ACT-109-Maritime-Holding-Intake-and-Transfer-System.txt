@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - MARITIME HOLDING INTAKE AND TRANSFER SYSTEM
 | RISK STATUS                | TRANSFER FAILURE / ENVIRONMENTAL MISMATCH / CUSTODY DRIFT                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 3 for intake duty; Level 4 for downward transfer, vessel transfer, or           |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | deep-sensitivity routing                                                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -241,12 +242,15 @@ FAULT ISOLATION
 | Cradle loses pressure      | Seal fault or handling shock              | Complete the transfer, log the excursion  |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Ledger entry missing       | Movement began before the entry           | Stop the corridor gate, reconstruct       |
++----------------------------+-------------------------------------------+-------------------------------------------+
 |                            |                                           | custody                                   |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Descent without            | Panel step skipped under urgency          | Recall the movement, obtain authorization |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | authorization              |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Arrival conditions         | Baseline skipped at the bay               | Note the gap, do not infer the state      |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | unrecorded                 |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Port interface delayed     | Vessel schedule conflict                  | Hold in the locker, escalate to command   |

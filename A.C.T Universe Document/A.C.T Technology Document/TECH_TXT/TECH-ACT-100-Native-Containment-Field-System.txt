@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - NATIVE CONTAINMENT FIELD SYSTEM
 | RISK STATUS                | RELOCATION FAILURE / ENVIRONMENTAL DRIFT / ROOT-SHOCK RISK                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 3 for sector duty; Level 4 for resident-field change, transport-denial review,  |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | or parent-reserve override                                                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,9 +33,11 @@ TECHNOLOGY RECORD - NATIVE CONTAINMENT FIELD SYSTEM
 | ARCHIVE STATUS             | Active In-Place Flora Containment Technology Record                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Hollow Canopy Enclosure / Verde Null Bio-Reserve / Environmental Containment /        |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Research Support / Limited Security                                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Enclosure Supervisor, Verde Null Site Command, Environmental Containment Division,    |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | and Central Archive                                                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -243,11 +246,14 @@ FAULT ISOLATION
 | Soil reading drifts        | Ordinary seasonal change or field shift   | Record both readings, compare next season |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Canopy marker changes      | Moisture change or resident response      | Sample outside the root line, log the     |
++----------------------------+-------------------------------------------+-------------------------------------------+
 |                            |                                           | cause                                     |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Alarm line triggered       | Incursion or animal interference          | Respond without entering the growth zone  |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Transport denial questioned| Field condition under review              | Escalate to the parent reserve, do not    |
+| Transport denial           | Field condition under review              | Escalate to the parent reserve, do not    |
+| questioned                 |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 |                            |                                           | lift                                      |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Ledger entry missing       | Change noted in a notebook instead        | Transcribe it with the observation date   |

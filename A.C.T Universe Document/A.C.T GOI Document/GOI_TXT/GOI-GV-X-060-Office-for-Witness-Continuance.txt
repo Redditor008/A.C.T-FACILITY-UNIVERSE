@@ -13,6 +13,7 @@ GROUP OF INTEREST REGISTRY - OFFICE FOR WITNESS CONTINUANCE
 | SHORT NAME                 | OWC                                                                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN ALIASES              | Witness Continuance Office; Continuance Board; O.W.C.; Office of Unbroken Testimony;  |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | [CENSOR: LEGAL ACT NAME]                                                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 | NATURE CLASS               | GOVERNMENT                                                                            |
@@ -30,28 +31,37 @@ GROUP OF INTEREST REGISTRY - OFFICE FOR WITNESS CONTINUANCE
 | A.C.T POSTURE              | MONITOR / MISDIRECT / INFILTRATE                                                      |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN LEADERSHIP           | Continuance Commissioner; tribunal chairs and legal protectors confirmed; full        |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | ministerial sponsor unresolved                                                        |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN MEMBERSHIP           | Lawyers, tribunal clerks, witness advocates, record guards, survivor escorts, medical |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | observers, and sealed archivists                                                      |
 +----------------------------+---------------------------------------------------------------------------------------+
 | PRIMARY ACTIVE REGION      | National courts, hospitals, survivor shelters, family notification offices, detention |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | appeals, and public records                                                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN ASSETS               | Continuance writs, protected testimony vaults, injunction channels, survivor ledgers, |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | amnestic challenge forms, and emergency custody stays                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN HOLDINGS             | Legal offices, tribunal rooms, witness hostels, sealed transcript stores, hospital    |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | liaison desks, and court archives                                                     |
 +----------------------------+---------------------------------------------------------------------------------------+
 | IDEOLOGY                   | A witness remains a person after the event and cannot be erased only because          |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | truth is                                                                              |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | operationally inconvenient                                                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 | HISTORY WITH A.C.T         | Repeated legal obstruction, witness extraction, testimony preservation, amnestic      |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | challenge, and detention review                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 | ANOMALY CROSS-REFERENCE    | Restricted witness, amnestic, survivor-rights, detention, transformed-person, and     |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | public accountability chains                                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CURRENT STATUS             | ACTIVE - adversarial legal-state witness authority                                    |
@@ -61,6 +71,7 @@ GROUP OF INTEREST REGISTRY - OFFICE FOR WITNESS CONTINUANCE
 | SITE JURISDICTION          | Central Command with Site-specific survivor custody review                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4; Level 5 for protected witness names, tribunal transcripts, and sealed        |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | amnestic appeal exhibits                                                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 

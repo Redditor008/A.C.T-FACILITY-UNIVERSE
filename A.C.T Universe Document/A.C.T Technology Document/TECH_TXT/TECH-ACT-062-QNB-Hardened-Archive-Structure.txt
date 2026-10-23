@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - QNB-HARDENED ARCHIVE STRUCTURE
 | RISK STATUS                | RECORD-IDENTITY HAZARD / FALSE CONTINUITY RISK                                        |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4 for maintenance or audit; Level 5 for hardening redesign, restoration         |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | authority, or causal conflict review                                                  |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,6 +33,7 @@ TECHNOLOGY RECORD - QNB-HARDENED ARCHIVE STRUCTURE
 | ARCHIVE STATUS             | Active Archival Infrastructure Technology Record                                      |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Archive / Engineering / Site Command / Containment / Recovery / Medical / Digital     |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Systems                                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Archive Division, Engineering Division, and Central Archive                           |
@@ -230,6 +232,7 @@ SERVICING AND CALIBRATION
 | Comparison log check       | read without overwrite                    | Digital Systems                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Continuity interruption    | Site Command notification                 | Site Command                              |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | planned                    |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 
@@ -243,16 +246,20 @@ FAULT ISOLATION
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
-| File intact, no safe reader| identity held, access condition changed   | check separately; mismatch case           |
+| File intact, no safe       | identity held, access condition changed   | check separately; mismatch case           |
+| reader                     |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Contradiction alert on one | record and room disagree                  | seal and review                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | shelf                      |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Position witness mark moved| document relocated without a log          | reconcile the register                    |
+| Position witness mark      | document relocated without a log          | reconcile the register                    |
+| moved                      |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Checksum relay silent      | relay fault                               | do not trust the comparison               |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Old error impossible to    | over-hardening                            | Level 5 restoration review                |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | correct                    |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Comparison log overwritten | audit method fault                        | read-only access                          |

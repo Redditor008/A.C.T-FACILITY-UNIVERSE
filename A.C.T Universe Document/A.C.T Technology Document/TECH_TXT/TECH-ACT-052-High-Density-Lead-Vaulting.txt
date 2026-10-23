@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - HIGH-DENSITY LEAD VAULTING
 | RISK STATUS                | TOXIC MATERIAL / PASSIVE SHIELDING LIMIT                                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 2 for inherited vault access; Level 4 for opening, cutting, melting, or         |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | refitting historical lead shielding                                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,6 +33,7 @@ TECHNOLOGY RECORD - HIGH-DENSITY LEAD VAULTING
 | ARCHIVE STATUS             | Legacy-Active Foundational Technology Record                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Historical Engineering Archive / Materials Custody / Artifact Storage / Site Safety / |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Archive                                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Historical Engineering Archive, Materials Custody, and Central Archive                |
@@ -220,6 +222,7 @@ SERVICING AND CALIBRATION
 | Inherited vault access     | Level 2 procedure                         | Level 2                                   |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Opening, cutting, melting, | Level 4 procedure                         | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | refitting                  |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Seam residue found         | dual classification and sampling          | Materials Custody                         |
@@ -229,6 +232,7 @@ SERVICING AND CALIBRATION
 | Deformation under load     | structural review before further use      | Engineering Division                      |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Founding record chain at   | Archive review before opening             | Archiver Division                         |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | risk                       |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 
@@ -244,11 +248,13 @@ FAULT ISOLATION
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
 | Grey residue along a lower | seal weep, origin unidentified            | dual class; 1680                          |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | seam                       |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Locker assumed empty       | shielding blocked the scan                | inconclusive; 1952                        |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Comparison with liquid lead| modern barrier behaviour differs          | review; 2004                              |
+| Comparison with liquid     | modern barrier behaviour differs          | review; 2004                              |
+| lead                       |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Panel cracking or creeping | age and load                              | structural review                         |
 +----------------------------+-------------------------------------------+-------------------------------------------+

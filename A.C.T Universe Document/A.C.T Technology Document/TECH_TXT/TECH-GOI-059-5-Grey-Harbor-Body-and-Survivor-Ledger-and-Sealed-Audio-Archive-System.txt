@@ -13,6 +13,7 @@ TECHNOLOGY RECORD - GREY HARBOR BODY AND SURVIVOR LEDGER AND SEALED AUDIO ARCHIV
 | TECHNOLOGY FAMILY          | ACQUIRED BY OBSERVATION / CIVIL RECORD TECHNOLOGY / CASUALTY CONTINUITY SYSTEM        |
 +----------------------------+---------------------------------------------------------------------------------------+
 | ORIGIN                     | GREY HARBOR CIVIL RESCUE DIRECTORATE (GOI-GV-P-059) / LEDGER DESK AND DISPATCH        |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | ARCHIVE                                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 | PRIMARY CONTROLLER         | Central Archive with Civil Covert review                                              |

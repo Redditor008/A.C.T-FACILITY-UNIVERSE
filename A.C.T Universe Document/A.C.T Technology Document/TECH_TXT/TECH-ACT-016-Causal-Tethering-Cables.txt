@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - CAUSAL TETHERING CABLES
 | RISK STATUS                | CONTROLLED / HAZARDOUS IF OVERLOADED, PHASED, OR CUT                                  |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 3 for supervised field use; Level 4 for phase-lock calibration, stretched-space |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | deployment, and recovery rigs                                                         |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -234,12 +235,15 @@ SERVICING AND CALIBRATION
 | Before each deployment     | shunt, cooling, and connector check       | Level 3 Recovery                          |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Coolant loss or steam      | quarantine the line                       | Engineering Division                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | venting                    |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Contradictory anchor names | quarantine and log the relationship       | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | displayed                  |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Post-use stress memory     | materials review before reissue           | Engineering Division                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | present                    |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Dark World threshold use   | line review before ordinary site use      | Level 4                                   |
@@ -258,13 +262,16 @@ FAULT ISOLATION
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
 | Line looks slack, drag     | false slack                               | read the shunt; never cross the line      |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | rising                     |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| White steam from the jacket| coolant carrying relationship heat        | quarantine; 2008 case                     |
+| White steam from the       | coolant carrying relationship heat        | quarantine; 2008 case                     |
+| jacket                     |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Two anchor names displayed | contradictory anchors                     | stop load and re-name the tie             |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Spool rolls toward one     | cable memory of a past anchor             | quarantine; 2021 case                     |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | threshold                  |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Drag negative or inverted  | ontological drag inversion                | withdraw and stabilise with RSA           |

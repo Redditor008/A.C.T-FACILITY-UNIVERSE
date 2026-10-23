@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - FAILURE-TOLERANT ENTROPIC HOLDING AND SELF-REPAIRING ENVIRON
 | RISK STATUS                | ENTROPIC DEGRADATION / REDUNDANCY LOSS / ESCALATION FAILURE                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Heavily restricted resident-specific authorization; Site Director authority for F-1   |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Long Sleep transfer assessment                                                        |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -35,6 +36,7 @@ TECHNOLOGY RECORD - FAILURE-TOLERANT ENTROPIC HOLDING AND SELF-REPAIRING ENVIRON
 | DISTRIBUTION               | White Grave Station / Containment / Engineering / Security / Medical / Archive        |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Floor Holding Chief, Containment Division, Engineering Support, Site Director, and    |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Central Archive                                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 

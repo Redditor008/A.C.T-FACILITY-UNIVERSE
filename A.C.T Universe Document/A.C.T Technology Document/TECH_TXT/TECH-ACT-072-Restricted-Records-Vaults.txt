@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - RESTRICTED RECORDS VAULTS
 | RISK STATUS                | UNAUTHORIZED ACCESS / RESTRICTED KNOWLEDGE CIRCULATION                                |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4 minimum; review-chain authorization required for sealed file opening,         |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | copying, transfer, or downgrading                                                     |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,6 +33,7 @@ TECHNOLOGY RECORD - RESTRICTED RECORDS VAULTS
 | ARCHIVE STATUS             | Active Restricted Archive Technology Record                                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Central Archive / Seismic Analysis / Security / Nusantara Deep Relay / Restricted     |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Review Chain                                                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Central Archive, Restricted Review Chain, and Nusantara Site Command                  |
@@ -222,13 +224,15 @@ SERVICING AND CALIBRATION
 | Custody and storage        | Level 4 procedure                         | Level 4                                   |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Sealed file opening,       | review-chain authorization                | Level 5                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | copying, transfer          |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Downgrading a file         | review-chain decision                     | Level 5                                   |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Partial opening            | seal-state update required                | Restricted Review Chain                   |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Environmental control fault| capsule transfer                          | Central Archive                           |
+| Environmental control      | capsule transfer                          | Central Archive                           |
+| fault                      |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Lockout shutter test       | before each escorted session              | Security Division                         |
 +----------------------------+-------------------------------------------+-------------------------------------------+
@@ -245,19 +249,24 @@ FAULT ISOLATION
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
 | File returned with no seal | partial opening unlogged                  | audit tag; opening review                 |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | update                     |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Unauthorized access attempt| authorization lock held                   | investigate the ledger                    |
+| Unauthorized access        | authorization lock held                   | investigate the ledger                    |
+| attempt                    |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Notes separated from the   | review-chain breach                       | reunite or justify                        |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | file                       |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Over-sealing delaying      | containment need ignored                  | expedite the review                       |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | action                     |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Capsule integrity lost     | preservation fault                        | transfer under escort                     |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Comparison terminal used   | control bypass                            | lock and review                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | unescorted                 |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 

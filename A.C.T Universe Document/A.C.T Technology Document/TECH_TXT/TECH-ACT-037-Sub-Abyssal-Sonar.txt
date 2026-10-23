@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - SUB-ABYSSAL SONAR
 | RISK STATUS                | CONTROLLED / PRESSURE AND FALSE-VOID HAZARD                                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4 for operation; Level 5 for trench-grid mapping, blind-predator targeting, and |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | sub-abyssal depth export                                                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,6 +33,7 @@ TECHNOLOGY RECORD - SUB-ABYSSAL SONAR
 | ARCHIVE STATUS             | Active Maritime and Abyssal Mapping Technology Record                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Maritime Observation / Engineering / Site-05 / Recovery / Heavy Containment / Abyss   |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Survey                                                                                |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Maritime Observation Desk, Engineering Division, and Central Archive                  |
@@ -215,6 +217,7 @@ SERVICING AND CALIBRATION
 | Before each deployment     | calibration weights and cable check       | Engineering Division                      |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Spike seating in rock or   | prepared socket inspection                | Engineering Division                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | plating                    |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Deep-water placement       | ROV or remote cradle procedure            | Maritime Observation Desk                 |
@@ -235,14 +238,17 @@ FAULT ISOLATION
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
-| Empty map in occupied water| echo-eating subject                       | keep pinging; 2026 case                   |
+| Empty map in occupied      | echo-eating subject                       | keep pinging; 2026 case                   |
+| water                      |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Mass shown with no         | predator listening back                   | restrict lights and sound                 |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | behaviour                  |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Wireframe stretched        | geometry under survey stress              | withdraw the platform                     |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Void appearing then closing| deliberate false-void behaviour           | flag for Level 4                          |
+| Void appearing then        | deliberate false-void behaviour           | flag for Level 4                          |
+| closing                    |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Return lost mid-ping       | cable or connector fault                  | recover spikes; do not reseat blind       |
 +----------------------------+-------------------------------------------+-------------------------------------------+

@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - MERCY LOCK CONSENT LEDGER AND CUSTODY STATUS SYSTEM
 | RISK STATUS                | CONSENT MISREAD / IDENTITY DRIFT / UNLAWFUL DETENTION                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4; Level 5 for living patient identities, disputed guardianship, ledger         |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | anomaly, and ward location links                                                      |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -34,6 +35,7 @@ TECHNOLOGY RECORD - MERCY LOCK CONSENT LEDGER AND CUSTODY STATUS SYSTEM
 | DISTRIBUTION               | Legal / Medical / Subject Care / Containment / Intelligence / Archive                 |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Legal Division, Medical Division, Subject Care Division, Intelligence Division, and   |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Central Archive                                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 

@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - LONG SLEEP VAULT AND F-1 CLOSURE CONTAINMENT SYSTEM
 | RISK STATUS                | SLEEP DISTURBANCE / VAULT ACCESS FAILURE / CLOSURE COST                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Heavily clearance-gated resident-specific authority; Site Director or above for       |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | release or sleep-state interruption                                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -34,6 +35,7 @@ TECHNOLOGY RECORD - LONG SLEEP VAULT AND F-1 CLOSURE CONTAINMENT SYSTEM
 | DISTRIBUTION               | White Grave Station / Deep-Hold Command / Security / Medical / Research / Archive     |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Sleep Vault Chief, Containment Division Deep-Hold Command, Site Director, and Central |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Archive                                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 

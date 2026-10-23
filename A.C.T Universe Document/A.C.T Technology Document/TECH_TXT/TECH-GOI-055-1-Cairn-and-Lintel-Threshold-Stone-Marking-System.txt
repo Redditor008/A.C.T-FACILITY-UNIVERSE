@@ -17,6 +17,7 @@ TECHNOLOGY RECORD - CAIRN & LINTEL THRESHOLD STONE MARKING SYSTEM
 | PRIMARY CONTROLLER         | Engineering review with Recovery Division                                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 | ATTACHED DIVISIONS         | Engineering, Recovery, Civil Covert, Containment, Intelligence, Central Archive,      |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Command                                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 | OPERATIONAL STATUS         | MARKS OBSERVED IN SITU / COMPONENTS INERT IN CUSTODY                                  |

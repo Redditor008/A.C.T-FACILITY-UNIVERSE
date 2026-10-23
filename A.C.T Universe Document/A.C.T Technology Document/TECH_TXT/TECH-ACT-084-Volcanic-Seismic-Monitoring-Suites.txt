@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - VOLCANIC-SEISMIC MONITORING SUITES
 | RISK STATUS                | FALSE GEOLOGIC READ / SILENT WITHDRAWAL DELAY RISK                                    |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 3 for routine monitoring; Level 4 for irregular volcanic signature, withdrawal  |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | alert, or relay escalation                                                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,6 +33,7 @@ TECHNOLOGY RECORD - VOLCANIC-SEISMIC MONITORING SUITES
 | ARCHIVE STATUS             | Active Volcanic-Seismic Monitoring Technology Record                                  |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Seismic Monitoring / Watch Staff / Security / Nusantara Deep Relay / Ash Tide         |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Watchpoint                                                                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Watch Officer, Seismic Monitoring Staff, Nusantara Site Command, and Central Archive  |
@@ -220,6 +222,7 @@ SERVICING AND CALIBRATION
 | Routine monitoring         | Level 3 procedure                         | Level 3                                   |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Irregular signature or     | Level 4 procedure                         | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | withdrawal alert           |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Relay escalation           | Level 4 procedure                         | Level 4                                   |
@@ -243,13 +246,17 @@ FAULT ISOLATION
 +============================+===========================================+===========================================+
 | Alert arriving late        | withdrawal order delayed                  | tie readiness to the alert; drill         |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Anomalous pattern imitating| deliberate mimicry                        | escalate rather than wait                 |
+| Anomalous pattern          | deliberate mimicry                        | escalate rather than wait                 |
+| imitating                  |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | unrest                     |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Sensor noise from surf or  | environmental source                      | identify before escalating                |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | vessels                    |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Ash accumulating on        | reading drift                             | clean and recalibrate                     |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | instruments                |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Tide correlation missed    | board not read                            | cross-check with the watch                |

@@ -138,17 +138,22 @@ and a summary carrying entries is a copy of the entries it carries.
 2.6 Fault isolation
 ===================
 
-+----------------------------------------------------+------------------------------------+-----------------------------------------------------------------+
-| OBSERVED CONDITION                                 | READING                            | ACTION                                                          |
-+----------------------------------------------------+------------------------------------+-----------------------------------------------------------------+
-| An entry is quoted in a Facility file              | A disclosure has already happened  | Retrieve the file; refer to Legal; record the channel           |
-+----------------------------------------------------+------------------------------------+-----------------------------------------------------------------+
-| A person named in an entry contacts the Facility   | They may want to know what is held | Do not confirm or deny; refer to Legal                          |
-+----------------------------------------------------+------------------------------------+-----------------------------------------------------------------+
-| A debt entry is cited as settled                   | A party has read the ledger        | Do not correct it in writing without Legal; record the citation |
-+----------------------------------------------------+------------------------------------+-----------------------------------------------------------------+
-| A body entry names a person the Facility can reach | A notification question has arisen | Refer to Subject Care and Legal together; do not notify alone   |
-+----------------------------------------------------+------------------------------------+-----------------------------------------------------------------+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| OBSERVED CONDITION         | READING                                   | ACTION                                    |
++============================+===========================================+===========================================+
+| An entry is quoted in a    | A disclosure has already happened         | Retrieve the file; refer to Legal; record |
+| Facility file              |                                           | the channel                               |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| A person named in an entry | They may want to know what is held        | Do not confirm or deny; refer to Legal    |
+| contacts the Facility      |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| A debt entry is cited as   | A party has read the ledger               | Do not correct it in writing without      |
+| settled                    |                                           | Legal; record the citation                |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| A body entry names a       | A notification question has arisen        | Refer to Subject Care and Legal together; |
+| person the Facility can    |                                           | do not notify alone                       |
+| reach                      |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
 The second row is the hardest and the most likely. A person who believes the Facility holds a record of their
 crossing will ask, and the correct answer is neither yes nor no, because either answer is a disclosure.
@@ -177,17 +182,17 @@ It is that the other three describe a system and this one describes people insid
 DIVISION USE
 +--------------------------------------------------------------------------------------------------------------------+
 
-+--------------+------------------------------------------------------------------------+
-| DIVISION     | USE                                                                    |
-+--------------+------------------------------------------------------------------------+
-| Intelligence | Holds the ledgers; reads under restriction; records every reading      |
-+--------------+------------------------------------------------------------------------+
-| Legal        | Rules on every disclosure; advises on any recorded debt                |
-+--------------+------------------------------------------------------------------------+
-| Subject Care | Receives referrals where a passenger or body entry identifies a person |
-+--------------+------------------------------------------------------------------------+
-| Containment  | Confirms the ledgers carry no containment function                     |
-+--------------+------------------------------------------------------------------------+
++----------------------------+---------------------------------------------------------------------------------------+
+| DIVISION                   | USE                                                                                   |
++============================+=======================================================================================+
+| Intelligence               | Holds the ledgers; reads under restriction; records every reading                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| Legal                      | Rules on every disclosure; advises on any recorded debt                               |
++----------------------------+---------------------------------------------------------------------------------------+
+| Subject Care               | Receives referrals where a passenger or body entry identifies a person                |
++----------------------------+---------------------------------------------------------------------------------------+
+| Containment                | Confirms the ledgers carry no containment function                                    |
++----------------------------+---------------------------------------------------------------------------------------+
 
 OPEN QUESTIONS
 +--------------------------------------------------------------------------------------------------------------------+

@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - INTERIOR BIOLOGICAL HABITAT CHAMBER SYSTEM
 | RISK STATUS                | HABITAT MISMATCH / TRANSFER INSTABILITY / ENVIRONMENT RISK                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 3 for chamber duty; Level 4 for habitat redesign, downward escalation,          |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | open-sector transfer, or resident move                                                |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -34,6 +35,7 @@ TECHNOLOGY RECORD - INTERIOR BIOLOGICAL HABITAT CHAMBER SYSTEM
 | DISTRIBUTION               | Verde Null Bio-Reserve / Research / Environmental Containment / Medical / Security    |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | F-2 Holding Officer, Environmental Containment Liaison, Verde Null Site Command, and  |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Central Archive                                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -146,7 +148,8 @@ archive: Chamber count, Match success, Transfer instability events. They are fil
 +----------------------------+---------------------------------------------------------------------------------------+
 | Match success              | NOT MEASURED                                                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
-| Transfer instability events| NOT MEASURED                                                                          |
+| Transfer instability       | NOT MEASURED                                                                          |
+| events                     |                                                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 
 A built habitat is an argument about what a resident needs, and the argument
@@ -242,6 +245,7 @@ FAULT ISOLATION
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
 | Resident declines after a  | Habitat match inferred, not measured      | Revert the climate, log the comparison    |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | move                       |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Separation door left open  | Transfer sequence rushed                  | Seal it, assess both atmospheres          |
@@ -251,6 +255,7 @@ FAULT ISOLATION
 | Tray substrate fails       | Substrate not matched to the field record | Replace it and note the source difference |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Ledger lacks a comparison  | Post-transfer check skipped               | Record the omission, do not infer the     |
++----------------------------+-------------------------------------------+-------------------------------------------+
 |                            |                                           | outcome                                   |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 

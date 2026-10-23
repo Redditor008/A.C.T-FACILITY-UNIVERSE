@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - CONTROLLED READING AND REDACTION WORKROOM SYSTEM
 | RISK STATUS                | SOLO EXPOSURE / BAD REDACTION / REVIEW CONTAMINATION RISK                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 3 for controlled review; Level 4 for active memetic cycle work, redaction       |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | release, or parent-node exception                                                     |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,9 +33,11 @@ TECHNOLOGY RECORD - CONTROLLED READING AND REDACTION WORKROOM SYSTEM
 | ARCHIVE STATUS             | Active Controlled Review Technology Record                                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Silent Reed Annex / Kurokawa Archive Node / Archive / Intelligence / Cognitive        |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Medical                                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Review Officer, Redaction Lead, Sub-Site Chief, Kurokawa Archive Command, and Central |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Archive                                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -238,11 +241,14 @@ FAULT ISOLATION
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
-| Reader worked alone        | Pairing not verified at entry             | Void the session, restart with an observer|
+| Reader worked alone        | Pairing not verified at entry             | Void the session, restart with an         |
+|                            |                                           | observer                                  |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Redacted draft still active| Payload carried by layout or absence      | Withdraw it and re-review the structure   |
+| Redacted draft still       | Payload carried by layout or absence      | Withdraw it and re-review the structure   |
+| active                     |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Review notes missing       | Notes kept outside the disposal route     | Treat as uncontrolled copies and trace    |
++----------------------------+-------------------------------------------+-------------------------------------------+
 |                            |                                           | them                                      |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Release without review     | Lock bypassed under node urgency          | Recall the release, review before reissue |

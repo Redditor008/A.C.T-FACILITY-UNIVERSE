@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - RED-RIVER ACID (STABILIZED)
 | RISK STATUS                | HAZARDOUS / CORROSIVE AND DIMENSIONAL CHEMICAL                                        |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4 for storage and transport; Level 5 for etching, neutralization use, sample    |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | exposure, and Dark World export                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,6 +33,7 @@ TECHNOLOGY RECORD - RED-RIVER ACID (STABILIZED)
 | ARCHIVE STATUS             | Active Anomalous Chemical Technology Record                                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Hazardous Materials / Dark World Survey / Engineering / Materials Custody / Medical / |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | White Grave                                                                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Hazardous Materials Desk, Dark World Survey, and Central Archive                      |
@@ -224,6 +226,7 @@ SERVICING AND CALIBRATION
 | Witness plate corroded     | container withdrawal                      | Level 4                                   |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Work near the source       | White Grave command approval              | Level 5                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | threshold                  |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 
@@ -239,9 +242,11 @@ FAULT ISOLATION
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
 | Container corroded in      | titanium used as proof of safety          | ceramic only; 1985                        |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | minutes                    |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Bubbling after tab         | delayed shutdown reaction                 | hold distance; 2024                       |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | insertion                  |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Etch deeper than intended  | surface logic mismatch                    | stop; 2026 test                           |

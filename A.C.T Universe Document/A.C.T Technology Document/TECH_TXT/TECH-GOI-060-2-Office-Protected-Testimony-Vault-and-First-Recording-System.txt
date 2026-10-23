@@ -13,6 +13,7 @@ TECHNOLOGY RECORD - OFFICE PROTECTED TESTIMONY VAULT AND FIRST-RECORDING SYSTEM
 | TECHNOLOGY FAMILY          | ACQUIRED BY OBSERVATION / TESTIMONY PRESERVATION TECHNOLOGY / ORIGINAL RECORD SYSTEM  |
 +----------------------------+---------------------------------------------------------------------------------------+
 | ORIGIN                     | OFFICE FOR WITNESS CONTINUANCE (GOI-GV-X-060) / TESTIMONY VAULTS AND TRANSCRIPT       |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | STORES                                                                                |
 +----------------------------+---------------------------------------------------------------------------------------+
 | PRIMARY CONTROLLER         | Central Archive with Legal Liaison review                                             |

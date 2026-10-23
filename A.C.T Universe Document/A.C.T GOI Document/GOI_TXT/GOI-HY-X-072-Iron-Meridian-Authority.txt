@@ -13,6 +13,7 @@ GROUP OF INTEREST REGISTRY - IRON MERIDIAN AUTHORITY
 | SHORT NAME                 | IMA                                                                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN ALIASES              | Iron Meridian; Meridian Authority; Meridian Custody; Black Meridian Office; [CENSOR:  |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | CHARTER STATE NAME]                                                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 | NATURE CLASS               | HYBRID                                                                                |
@@ -30,27 +31,35 @@ GROUP OF INTEREST REGISTRY - IRON MERIDIAN AUTHORITY
 | A.C.T POSTURE              | INFILTRATE / MISDIRECT / CONTAIN / DISMANTLE                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN LEADERSHIP           | Meridian Governors, Custody Marshals, Iron Magistrates, Zone Commandants, and         |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | chartered security boards                                                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN MEMBERSHIP           | Paramilitary containment staff, prison engineers, former soldiers, emergency-law      |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | lawyers, contractors, interrogators, and coerced technical personnel                  |
 +----------------------------+---------------------------------------------------------------------------------------+
 | PRIMARY ACTIVE REGION      | Disputed quarantine zones, failed state corridors, private detention sites, sealed    |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | mines, border camps, and black roads                                                  |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN ASSETS               | Meridian fences, iron warrants, custody trains, suppression collars, prison towers,   |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | survey guns, black ledgers, and mobile tribunals                                      |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN HOLDINGS             | Detention corridors, extraction yards, fortified hospitals, forced-work containment   |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | sites, tribunal rooms, and armories                                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 | IDEOLOGY                   | Anomalous danger creates permanent emergency jurisdiction; people inside that         |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | jurisdiction become assets, hazards, or labor until the Authority declares otherwise  |
 +----------------------------+---------------------------------------------------------------------------------------+
 | HISTORY WITH A.C.T         | Repeated hostile contact through unlawful containment, witness seizure, forced labor, |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | site interference, and attempts to claim A.C.T custody authority                      |
 +----------------------------+---------------------------------------------------------------------------------------+
 | ANOMALY CROSS-REFERENCE    | Restricted detention, quarantine, forced labor, hostile containment, prisoner         |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | subject, weaponized custody, and emergency-law case chains                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CURRENT STATUS             | ACTIVE - hostile containment authority under dismantlement                            |
@@ -60,6 +69,7 @@ GROUP OF INTEREST REGISTRY - IRON MERIDIAN AUTHORITY
 | SITE JURISDICTION          | Central Command with Site 01, Site 02, Site 03, and field command attachment          |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4; Level 5 for prisoner lists, suppression devices, charter states, tribunal    |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | recordings, and A.C.T penetrations                                                    |
 +----------------------------+---------------------------------------------------------------------------------------+
 

@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - SURFACE TRANSITION AND MARITIME COVER GATEWAY SYSTEM
 | RISK STATUS                | TRANSITION EXPOSURE / PORT OVERLAP / COVER ROUTE FAILURE                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 3 for transition oversight; Level 4 for concealed recovery routing, port        |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | separation, or surface seal action                                                    |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,9 +33,11 @@ TECHNOLOGY RECORD - SURFACE TRANSITION AND MARITIME COVER GATEWAY SYSTEM
 | ARCHIVE STATUS             | Active Nusantara Surface-Transition Technology Record                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Nusantara Deep Relay / Security / Research / Campus Administration / Port Operations  |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | / Recovery / Command                                                                  |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Campus Director, Security Boundary Command, Site Director's Office, and Central       |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Archive                                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -241,12 +244,15 @@ FAULT ISOLATION
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
 | Public party on a descent  | Separation schedule not read              | Hold the descent and re-route the party   |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | route                      |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Material moved across      | Locker step skipped                       | Stop the movement and re-stage at the     |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | campus                     |                                           | locker                                    |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Port traffic on campus     | Movement buffer shortened                 | Restore the buffer and log the overlap    |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | ground                     |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Seal link untested         | Monthly test not performed                | Test it before the next closure           |

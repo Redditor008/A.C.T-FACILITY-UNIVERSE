@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - LULLABY WORKS WARRANTY RECALL AND FAILURE LEDGER
 | RISK STATUS                | INFORMATION HAZARD IF DISCLOSED TO FAMILIES / NO PHYSICAL HAZARD                      |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4 for ledger and recall material; Level 5 for contact attempts, failure crate   |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | access, or lot reconciliation                                                         |
 +----------------------------+---------------------------------------------------------------------------------------+
 

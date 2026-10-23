@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - MINOR MEMETIC QUARANTINE VAULT SYSTEM
 | RISK STATUS                | SPILLOVER / OVERSTAY / UNSUPERVISED EXPOSURE RISK                                     |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 3 for quarantine duty; Level 4 for closure, exposure, parent-node escalation,   |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | or black-archive referral                                                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,6 +33,7 @@ TECHNOLOGY RECORD - MINOR MEMETIC QUARANTINE VAULT SYSTEM
 | ARCHIVE STATUS             | Active Memetic Quarantine Technology Record                                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Silent Reed Annex / Kurokawa Archive Node / Archive / Intelligence / Limited Medical  |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Cognitive Staff                                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | F-1 Quarantine Officer, Sub-Site Chief, Kurokawa Archive Command, and Central Archive |
@@ -239,13 +241,16 @@ FAULT ISOLATION
 | Clock past its limit       | Parent-node routing delayed               | Escalate and record the routing request   |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Staff worked a cell alone  | Pairing not checked at entry              | Void the exposure, restart under          |
++----------------------------+-------------------------------------------+-------------------------------------------+
 |                            |                                           | observation                               |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Manifest describes contents| Entry written beyond its hazard class     | Reduce it to the class, log the exposure  |
+| Manifest describes         | Entry written beyond its hazard class     | Reduce it to the class, log the exposure  |
+| contents                   |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Aftercare line silent      | Alert line fault or not tested            | Suspend handling until the line is proven |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Similar classes pile up    | Buffers extended without review           | Route the group, not just the oldest entry|
+| Similar classes pile up    | Buffers extended without review           | Route the group, not just the oldest      |
+|                            |                                           | entry                                     |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS

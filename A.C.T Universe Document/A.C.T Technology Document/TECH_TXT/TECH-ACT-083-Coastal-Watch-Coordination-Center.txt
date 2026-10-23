@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - COASTAL WATCH COORDINATION CENTER
 | RISK STATUS                | MISSED ARRIVAL / FALSE REPORT / REPORTING DELAY RISK                                  |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 3 for watch-floor duty; Level 4 for anomaly sighting, parent-relay escalation,  |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | or recovery staging command                                                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,6 +33,7 @@ TECHNOLOGY RECORD - COASTAL WATCH COORDINATION CENTER
 | ARCHIVE STATUS             | Active Coastal Watch Technology Record                                                |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Watch Staff / Recovery Support / Security / Nusantara Deep Relay / Ash Tide           |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Watchpoint                                                                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Watch Officer, Watch Chief, Nusantara Site Command, and Central Archive               |
@@ -241,9 +243,11 @@ FAULT ISOLATION
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
 | Local observation held too | waiting for certainty                     | send the marker; delay review             |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | long                       |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Civilian boat read as      | corridor ambiguity                        | record confidence, not conclusion         |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | anomaly                    |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Instrument fault missed    | feed panel drift                          | cross-check manually                      |
@@ -251,6 +255,7 @@ FAULT ISOLATION
 | Staff fatigue on watch     | rotation too long                         | shorten the shift                         |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Staging requested without  | escalation skipped                        | hold and review; drill                    |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | authority                  |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Vessel ledger gap          | tracking lapse                            | reconstruct from the drawer               |

@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - SONAR VOID RESEARCH PROGRAM INFRASTRUCTURE
 | RISK STATUS                | DETECTION FAILURE / ACOUSTIC HAZARD / FALSE ABSENCE RISK                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4 for live void data, Death Angler comparison, or abyss-linked absence          |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | correlation                                                                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -34,6 +35,7 @@ TECHNOLOGY RECORD - SONAR VOID RESEARCH PROGRAM INFRASTRUCTURE
 | DISTRIBUTION               | Research / Seismic Analysis / Recovery / Containment / Nusantara Deep Relay           |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Floor Research Chief, Seismic Analysis Support, Maritime Recovery Command, and        |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Central Archive                                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -225,6 +227,7 @@ SERVICING AND CALIBRATION
 | Death Angler comparison    | Level 4 procedure                         | Level 4                                   |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Abyss-linked absence       | Level 4 with restricted escalation        | Level 5                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | correlation                |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Replay chamber use         | filter check before playback              | Research Division                         |
@@ -246,6 +249,7 @@ FAULT ISOLATION
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
 | Void preceding a lethal    | predatory concealment                     | warn containment; Angler case             |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | encounter                  |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Package proved ordinary    | equipment or thermocline                  | downgrade, keep it; false absence         |
@@ -256,7 +260,9 @@ FAULT ISOLATION
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Intake data incomplete     | platform log gap                          | hold the package                          |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Absence appearing only when| observation-linked gap                    | flag and correlate                        |
+| Absence appearing only     | observation-linked gap                    | flag and correlate                        |
+| when                       |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | watched                    |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 

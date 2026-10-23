@@ -12,7 +12,7 @@ TECHNOLOGY RECORD - SAINT-VERA LIVING PROSTHETIC MEMORY-MOTION SYSTEM
 +----------------------------+---------------------------------------------------------------------------------------+
 | TECHNOLOGY FAMILY          | GOI-DERIVED / BODY REPLACEMENT / MEMORY-LINKED NERVE MEDIA                            |
 +----------------------------+---------------------------------------------------------------------------------------+
-| ORIGIN                     | Saint-Vera Restoration Concern (GOI-CP-P-056)                                       |
+| ORIGIN                     | Saint-Vera Restoration Concern (GOI-CP-P-056)                                         |
 +----------------------------+---------------------------------------------------------------------------------------+
 | COMPONENT SCOPE            | Limbs, voice grafts, glass ocular implants, nonstandard organ support                 |
 +----------------------------+---------------------------------------------------------------------------------------+

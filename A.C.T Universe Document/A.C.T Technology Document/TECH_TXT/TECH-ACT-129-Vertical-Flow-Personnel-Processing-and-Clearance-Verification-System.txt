@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - VERTICAL-FLOW PERSONNEL PROCESSING AND CLEARANCE VERIFICATIO
 | RISK STATUS                | CLEARANCE DRIFT / PROCESSING ERROR / DUTY-PASSAGE FAILURE                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Complex access authorization; duty-floor clearance, training status, and command      |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | assignment verified per shift                                                         |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -34,6 +35,7 @@ TECHNOLOGY RECORD - VERTICAL-FLOW PERSONNEL PROCESSING AND CLEARANCE VERIFICATIO
 | DISTRIBUTION               | Redwood Veil Complex / Administration / Personnel / Security / Training / Command     |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Site Director, Site Administration, Personnel Office, Security Division, and Central  |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Archive                                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 

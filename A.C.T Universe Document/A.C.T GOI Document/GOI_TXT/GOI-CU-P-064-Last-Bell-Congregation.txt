@@ -13,6 +13,7 @@ GROUP OF INTEREST REGISTRY - LAST BELL CONGREGATION
 | SHORT NAME                 | LBC                                                                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN ALIASES              | The Last Bell; Bellwardens; End-Warning Church; Dawn Alarm Congregation; [CENSOR:     |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | SHELTER PARISH NAME]                                                                  |
 +----------------------------+---------------------------------------------------------------------------------------+
 | NATURE CLASS               | CULTIC                                                                                |
@@ -30,27 +31,35 @@ GROUP OF INTEREST REGISTRY - LAST BELL CONGREGATION
 | A.C.T POSTURE              | MONITOR / HELP / COOPERATED                                                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN LEADERSHIP           | Bellwardens, Alarm Readers, Shelter Deacons, Calendar Mothers, and one unverified     |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | First Ringer tradition                                                                |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN MEMBERSHIP           | End-warning clergy, shelter builders, disaster volunteers, signal watchers, families, |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | lay singers, and route keepers                                                        |
 +----------------------------+---------------------------------------------------------------------------------------+
 | PRIMARY ACTIVE REGION      | Transnational disaster-preparation cells, church basements, bell towers, shelter      |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | rooms, coastal towns, and border roads                                                |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN ASSETS               | Warning bells, end calendars, shelter ledgers, evacuation hymns, dawn alarms,         |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | safe-cellars, route cards, and food stores                                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN HOLDINGS             | Bell towers, chapel shelters, dry stores, mobile parish wagons, hidden radio rooms,   |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | and sealed calendar cupboards                                                         |
 +----------------------------+---------------------------------------------------------------------------------------+
 | IDEOLOGY                   | The end must be heard early enough that ordinary people can shelter, confess,         |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | reconcile, prepare, and live another dawn                                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 | HISTORY WITH A.C.T         | Repeated contact during predicted breach weather, shelter preparation, public warning |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | rites, and evacuation disputes                                                        |
 +----------------------------+---------------------------------------------------------------------------------------+
 | ANOMALY CROSS-REFERENCE    | Restricted apocalypse, disaster-warning, bell-tone, shelter, prophecy, evacuation,    |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | and mass-panic case chains                                                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CURRENT STATUS             | ACTIVE - positive apocalypse-warning congregation                                     |
@@ -60,6 +69,7 @@ GROUP OF INTEREST REGISTRY - LAST BELL CONGREGATION
 | SITE JURISDICTION          | Central Command with Site 05, Site 01, and Site-specific disaster review              |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4; Level 5 for active end calendars, child shelter rosters, true-bell tones,    |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | and failed warning prophecies                                                         |
 +----------------------------+---------------------------------------------------------------------------------------+
 

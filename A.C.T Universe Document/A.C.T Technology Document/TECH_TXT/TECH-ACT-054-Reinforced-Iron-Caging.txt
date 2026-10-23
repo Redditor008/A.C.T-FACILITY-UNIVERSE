@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - REINFORCED IRON CAGING
 | RISK STATUS                | STRUCTURAL FAILURE / HUMANE-CONTAINMENT REVIEW REQUIRED                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 3 for archive review; Level 4 for surviving cage access, retrofit, or           |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | resident-adjacent inspection                                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,6 +33,7 @@ TECHNOLOGY RECORD - REINFORCED IRON CAGING
 | ARCHIVE STATUS             | Retired Heavy Containment Technology Record                                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Historical Engineering Archive / Heavy Containment / Engineering / Site Safety /      |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Archive                                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Historical Engineering Archive, Heavy Containment, and Central Archive                |
@@ -223,9 +225,11 @@ SERVICING AND CALIBRATION
 | Archive review             | Level 3 procedure                         | Level 3                                   |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Surviving cage access or   | Level 4 procedure                         | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | retrofit                   |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Resident-adjacent          | Level 4 with welfare review               | Level 4                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | inspection                 |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | New assignment proposal    | written exception and review              | Level 4                                   |
@@ -246,6 +250,7 @@ FAULT ISOLATION
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
 | Segment flexing after      | preserved stress history                  | seal as evidence; 1874                    |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | removal                    |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Iron-only logic questioned | walls must dampen, not oppose             | transition; 1912                          |

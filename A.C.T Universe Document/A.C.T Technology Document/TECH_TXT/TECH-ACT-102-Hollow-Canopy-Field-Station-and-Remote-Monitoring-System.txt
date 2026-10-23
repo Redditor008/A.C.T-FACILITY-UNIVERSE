@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - HOLLOW CANOPY FIELD STATION AND REMOTE MONITORING SYSTEM
 | RISK STATUS                | SENSOR VISIBILITY / OBSERVATION DISTURBANCE / DATA GAP RISK                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 3 for field station duty; Level 4 for resident data, sensor placement, or       |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | parent-reserve research override                                                      |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,9 +33,11 @@ TECHNOLOGY RECORD - HOLLOW CANOPY FIELD STATION AND REMOTE MONITORING SYSTEM
 | ARCHIVE STATUS             | Active Field Monitoring Technology Record                                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Hollow Canopy Enclosure / Verde Null Bio-Reserve / Environmental Containment /        |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Research Support / Limited Security                                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Environmental Containment Lead, Research Support Lead, Enclosure Supervisor, Verde    |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Null Site Command, and Central Archive                                                |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -237,13 +240,16 @@ FAULT ISOLATION
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
 | Feed goes silent           | Station power or relay fault              | Log the gap, then authorise entry if it   |
++----------------------------+-------------------------------------------+-------------------------------------------+
 |                            |                                           | holds                                     |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Soil values drift slowly   | Sensor fault or real field change         | Compare with the neighbouring sector first|
+| Soil values drift slowly   | Sensor fault or real field change         | Compare with the neighbouring sector      |
+|                            |                                           | first                                     |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Station concealment broken | Servicing left it uncovered               | Restore concealment and note the exposure |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Cable crossed the root line| Route chosen for convenience              | Re-route it and inspect the root zone     |
+| Cable crossed the root     | Route chosen for convenience              | Re-route it and inspect the root zone     |
+| line                       |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Entry without a logged gap | Curiosity treated as necessity            | Record the entry and review the decision  |
 +----------------------------+-------------------------------------------+-------------------------------------------+

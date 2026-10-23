@@ -9,6 +9,7 @@ A.C.T TECHNOLOGY DOCUMENT ARCHIVE
 | DISTRIBUTION               | Engineering / Containment / Medical / Recovery / Intelligence / Command               |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Central Archive, Engineering Division, Containment Division, Medical Division, and    |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | file-specific attached desks                                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 

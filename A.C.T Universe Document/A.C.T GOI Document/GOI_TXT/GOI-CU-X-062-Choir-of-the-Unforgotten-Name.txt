@@ -13,6 +13,7 @@ GROUP OF INTEREST REGISTRY - CHOIR OF THE UNFORGOTTEN NAME
 | SHORT NAME                 | CUN                                                                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN ALIASES              | Unforgotten Choir; Name Choir; Witness-Singers; The Ninth Refrain; [CENSOR: MEMORIAL  |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | CHAPEL NAME]                                                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 | NATURE CLASS               | CULTIC                                                                                |
@@ -30,28 +31,37 @@ GROUP OF INTEREST REGISTRY - CHOIR OF THE UNFORGOTTEN NAME
 | A.C.T POSTURE              | INFILTRATE / MISDIRECT / CONTAIN                                                      |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN LEADERSHIP           | Cantors, Name Bearers, Vestry Archivists, and Refrain Mothers; no single high priest  |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | confirmed                                                                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN MEMBERSHIP           | Singers, memory keepers, survivor relatives, anti-amnestic initiates, grief           |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | archivists, and altered-name custodians                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 | PRIMARY ACTIVE REGION      | Memorial chapels, family wakes, survivor meetings, old hospitals, dead schools,       |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | transit vigils, and hidden choirs                                                     |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN ASSETS               | Name books, refrain sheets, bell throats, witness hymns, anti-amnestic rites,         |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | preserved testimony, and grief choirs                                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN HOLDINGS             | Unlisted chapels, soundproof vestries, memorial basements, mobile vigil rooms, name   |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | vaults, and recording cupboards                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 | IDEOLOGY                   | A name erased for safety remains a wound; memory must be sung back before             |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | the dead,                                                                             |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | missing, or altered are lost                                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 | HISTORY WITH A.C.T         | Repeated conflict over amnestic reversal, witness memory, public memorials, erased    |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | casualty names, and testimony rites                                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 | ANOMALY CROSS-REFERENCE    | Restricted amnestic, witness, memory-shard, memorial, missing-person, and             |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | post-incident identity case chains                                                    |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CURRENT STATUS             | ACTIVE - negative cultic memory-preservation network                                  |
@@ -61,6 +71,7 @@ GROUP OF INTEREST REGISTRY - CHOIR OF THE UNFORGOTTEN NAME
 | SITE JURISDICTION          | Central Command with Site 03 primary review                                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4; Level 5 for active refrain texts, child singers, NEMNOLIA-adjacent           |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | fragments, and mass-memory cases                                                      |
 +----------------------------+---------------------------------------------------------------------------------------+
 

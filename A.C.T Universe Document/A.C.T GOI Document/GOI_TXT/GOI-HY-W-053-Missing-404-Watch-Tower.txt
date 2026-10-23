@@ -31,24 +31,31 @@ GROUP OF INTEREST REGISTRY - MISSING 404 WATCH TOWER
 | KNOWN LEADERSHIP           | Rotating tower offices; personal names compartmented                                  |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN MEMBERSHIP           | Watchers, signal clerks, absence cartographers, recovery observers, dead-address      |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | archivists, and field relays                                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 | PRIMARY ACTIVE REGION      | Missing-location clusters, dead-address networks, wilderness disappearance routes,    |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | and vanished records                                                                  |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN ASSETS               | Watch towers, signal ledgers, missing-person registers, null-coordinate maps,         |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | archived dead links, and rescue bells                                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN HOLDINGS             | Distributed tower posts, hidden listening rooms, sealed paper archives, relay         |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | stations, and route-observation cells                                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
 | IDEOLOGY                   | Absence is evidence; missing persons, places, and files must remain watched until     |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | found, recovered, or named dead                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 | HISTORY WITH A.C.T         | Repeated cooperative contact during cases where people, sites, coordinates, records,  |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | or signals returned not found                                                         |
 +----------------------------+---------------------------------------------------------------------------------------+
 | ANOMALY CROSS-REFERENCE    | Restricted missing-person, vanished-site, dead-link, and inaccessible-location case   |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | chains                                                                                |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CURRENT STATUS             | ACTIVE - cooperative but independent observation network                              |

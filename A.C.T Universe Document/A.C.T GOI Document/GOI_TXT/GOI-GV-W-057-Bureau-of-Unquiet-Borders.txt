@@ -13,6 +13,7 @@ GROUP OF INTEREST REGISTRY - BUREAU OF UNQUIET BORDERS
 | SHORT NAME                 | BUB                                                                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN ALIASES              | Unquiet Border Bureau; Border Quiet Office; Unsettled Crossing Authority; [CENSOR:    |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | TREATY-LINE NAME]                                                                     |
 +----------------------------+---------------------------------------------------------------------------------------+
 | NATURE CLASS               | GOVERNMENT                                                                            |
@@ -30,27 +31,35 @@ GROUP OF INTEREST REGISTRY - BUREAU OF UNQUIET BORDERS
 | A.C.T POSTURE              | COOPERATED / MONITOR / MISDIRECT                                                      |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN LEADERSHIP           | Secretariat council unresolved; field authority held by Crossing Magistrates and      |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Quiet-Line Wardens                                                                    |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN MEMBERSHIP           | Border officers, treaty clerks, customs handlers, translators, custody drivers, map   |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | auditors, and station medics                                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 | PRIMARY ACTIVE REGION      | Cross-border anomaly routes, disputed checkpoints, border towns, ports, airports,     |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | mountain passes, and dead corridors                                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN ASSETS               | Quiet-line stations, sealed crossing ledgers, treaty seals, custody vehicles,         |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | false-neutral holding rooms, and route maps                                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN HOLDINGS             | Border offices, unlisted customs rooms, transit archives, temporary humane holding    |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | cells, and treaty-marked corridors                                                    |
 +----------------------------+---------------------------------------------------------------------------------------+
 | IDEOLOGY                   | Borders must remain usable even when geography, identity, law, or citizenship becomes |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | unstable                                                                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 | HISTORY WITH A.C.T         | Recurring cooperation during cross-border anomaly movement, witness transfer,         |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | extradition dispute, and artifact routing                                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 | ANOMALY CROSS-REFERENCE    | Restricted border-hole, passport, customs, missing-citizen, transit-object, and       |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | extradition case chains                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CURRENT STATUS             | ACTIVE - working foreign and treaty-backed border authority                           |
@@ -60,6 +69,7 @@ GROUP OF INTEREST REGISTRY - BUREAU OF UNQUIET BORDERS
 | SITE JURISDICTION          | Central Command with Site-specific cross-border transfer                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4; Level 5 for treaty seals, foreign custody names, and unresolved citizenship  |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | cases                                                                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
 

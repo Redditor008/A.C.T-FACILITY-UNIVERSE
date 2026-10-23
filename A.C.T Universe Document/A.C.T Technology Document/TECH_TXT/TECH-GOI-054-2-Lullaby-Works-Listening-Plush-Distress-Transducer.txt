@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - LULLABY WORKS LISTENING PLUSH DISTRESS TRANSDUCER
 | RISK STATUS                | PROTECTIVE IN SERVICE / HAZARDOUS IF FORCE-OPENED / CONFIRMED BITE INCIDENT           |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 3 for instruction handling; Level 4 for external inspection; Level 5 for        |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | opening, seam work, or lot tracing                                                    |
 +----------------------------+---------------------------------------------------------------------------------------+
 

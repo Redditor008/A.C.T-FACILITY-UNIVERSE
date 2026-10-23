@@ -13,6 +13,7 @@ GROUP OF INTEREST REGISTRY - LULLABY WORKS
 | SHORT NAME                 | LW                                                                                    |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN ALIASES              | Lullaby Workshop; Little Lantern Toys; Sleep-Safe Line; Goodnight Works; [CENSOR:     |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | REGIONAL CHILD-CARE BRAND]                                                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 | NATURE CLASS               | CORPORATE                                                                             |
@@ -30,27 +31,35 @@ GROUP OF INTEREST REGISTRY - LULLABY WORKS
 | A.C.T POSTURE              | COOPERATED / MONITOR / HELP                                                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN LEADERSHIP           | Executive board unconfirmed; product design office uses rotating nursery-title        |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | signatures                                                                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN MEMBERSHIP           | Designers, toy engineers, sleep clinicians, child-trauma workers, warehouse staff,    |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | route volunteers, and caregivers                                                      |
 +----------------------------+---------------------------------------------------------------------------------------+
 | PRIMARY ACTIVE REGION      | Transnational child-care markets, hospital donation chains, disaster shelters,        |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | schools, and private homes                                                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN ASSETS               | Protective toys, comfort objects, nursery devices, recalled product lots, donor       |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | routes, care instructions, and warranty ledgers                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 | KNOWN HOLDINGS             | Front workshops, storage rooms, mobile repair vans, pediatric-clinic donation         |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | lockers, and unlisted catalogues                                                      |
 +----------------------------+---------------------------------------------------------------------------------------+
 | IDEOLOGY                   | Children should not be left defenseless because adults cannot name the thing that     |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | harmed them                                                                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 | HISTORY WITH A.C.T         | Repeated recovery of protective child-facing anomalous products from post-incident    |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | homes and shelters                                                                    |
 +----------------------------+---------------------------------------------------------------------------------------+
 | ANOMALY CROSS-REFERENCE    | Restricted child-witness, nightmare, nursery-object, and post-breach family-care      |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | chains                                                                                |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CURRENT STATUS             | ACTIVE - monitored cooperative corporate network                                      |
@@ -60,6 +69,7 @@ GROUP OF INTEREST REGISTRY - LULLABY WORKS
 | SITE JURISDICTION          | Central Command with Site-specific child-safety review                                |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4; Level 5 for manufacturing source, child identities, and sealed               |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | product-failure records                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 

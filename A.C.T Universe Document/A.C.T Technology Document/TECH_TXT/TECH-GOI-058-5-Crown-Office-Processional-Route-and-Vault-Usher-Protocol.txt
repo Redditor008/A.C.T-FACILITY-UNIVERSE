@@ -13,6 +13,7 @@ TECHNOLOGY RECORD - CROWN OFFICE PROCESSIONAL ROUTE AND VAULT USHER PROTOCOL
 | TECHNOLOGY FAMILY          | ACQUIRED BY OBSERVATION / RELIC TRANSFER TECHNOLOGY / PROCESSIONAL ROUTE SYSTEM       |
 +----------------------------+---------------------------------------------------------------------------------------+
 | ORIGIN                     | CROWN OFFICE OF ASH KEYS (GOI-GV-N-058) / PROCESSION RIGHTS DESK AND VAULT USHER      |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | CORPS                                                                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
 | PRIMARY CONTROLLER         | Recovery Division with Civil Covert review                                            |

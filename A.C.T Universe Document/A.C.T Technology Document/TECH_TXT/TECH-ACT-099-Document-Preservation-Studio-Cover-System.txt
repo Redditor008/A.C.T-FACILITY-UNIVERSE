@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - DOCUMENT PRESERVATION STUDIO COVER SYSTEM
 | RISK STATUS                | COVER SCRUTINY / CLIENT TRAFFIC / TRANSITION EXPOSURE RISK                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 2 for legitimate studio work; Level 3 for boundary duty; Level 4 for            |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | buried-annex transition control                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,9 +33,11 @@ TECHNOLOGY RECORD - DOCUMENT PRESERVATION STUDIO COVER SYSTEM
 | ARCHIVE STATUS             | Active Document Cover Technology Record                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Silent Reed Annex / Kurokawa Archive Node / Studio Management / Security / Archive    |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | / Intelligence                                                                        |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Studio Manager, Security Boundary Lead, Sub-Site Chief, Kurokawa Archive Command, and |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Central Archive                                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -246,14 +249,18 @@ FAULT ISOLATION
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
 | Client asks about          | Refusal pattern visible                   | Give the standing client-confidentiality  |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | restricted work            |                                           | answer                                    |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Ledger short of an item    | Item moved without a receipt entry        | Reconstruct the entry, then trace the item|
+| Ledger short of an item    | Item moved without a receipt entry        | Reconstruct the entry, then trace the     |
+|                            |                                           | item                                      |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Climate cabinet out of     | Cabinet fault or overloaded storage       | Move the work and record the excursion    |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | range                      |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Annex material in client   | Routes shared at the bench                | Separate the routes and re-brief the desk |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | route                      |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Outside specialist notices | Workflow inconsistent with output         | Adjust the visible workload to match      |

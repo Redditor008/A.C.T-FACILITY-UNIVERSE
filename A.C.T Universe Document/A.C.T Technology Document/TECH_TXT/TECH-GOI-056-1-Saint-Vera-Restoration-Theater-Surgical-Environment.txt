@@ -12,7 +12,7 @@ TECHNOLOGY RECORD - SAINT-VERA RESTORATION THEATER SURGICAL ENVIRONMENT
 +----------------------------+---------------------------------------------------------------------------------------+
 | TECHNOLOGY FAMILY          | GOI-DERIVED / SURGICAL ENVIRONMENT / PATIENT-STATUS THEATER                           |
 +----------------------------+---------------------------------------------------------------------------------------+
-| ORIGIN                     | Saint-Vera Restoration Concern (GOI-CP-P-056)                                       |
+| ORIGIN                     | Saint-Vera Restoration Concern (GOI-CP-P-056)                                         |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DEPLOYMENT FORMS           | Mobile surgical vans, blackout medical tents, rehabilitation houses, private wards    |
 +----------------------------+---------------------------------------------------------------------------------------+

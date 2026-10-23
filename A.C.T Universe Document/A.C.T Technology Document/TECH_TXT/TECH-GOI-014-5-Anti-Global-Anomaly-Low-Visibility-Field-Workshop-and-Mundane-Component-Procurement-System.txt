@@ -7,6 +7,7 @@ TECHNOLOGY RECORD - ANTI-GLOBAL ANOMALY LOW-VISIBILITY FIELD WORKSHOP AND MUNDAN
 | TECHNOLOGY DESIGNATION     | TECH-GOI-014-5                                                                        |
 +----------------------------+---------------------------------------------------------------------------------------+
 | TECHNOLOGY NAME            | Anti-Global Anomaly Low-Visibility Field Workshop and Mundane-Component Procurement   |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | System                                                                                |
 +----------------------------+---------------------------------------------------------------------------------------+
 | SHORT NAME                 | AGFWS                                                                                 |

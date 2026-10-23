@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - SURFACE COVER RESEARCH CAMPUS
 | RISK STATUS                | COVER FAILURE / PUBLIC SCRUTINY / BOUNDARY EXPOSURE RISK                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 2 for ordinary campus support; Level 4 for cover alteration,                    |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | concealed-transition control, or exposure event                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -242,6 +243,7 @@ FAULT ISOLATION
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
 | Equipment hard to justify  | concealment added first                   | document legitimately; audit              |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | publicly                   |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Public program thinning    | secrecy crowding out science              | restore real output                       |
@@ -251,6 +253,7 @@ FAULT ISOLATION
 | Visitor mapping the campus | interest beyond ordinary need             | Security review                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Publication raising        | real science invites them                 | answer, do not suppress                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | questions                  |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Staff identity file stale  | support lapse                             | refresh before contact                    |

@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - RECOVERY SUPPORT STAGING AREA
 | RISK STATUS                | PREMATURE LAUNCH / ROUTE CONFUSION / INTAKE OVERLOAD RISK                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 3 for staging duty; Level 4 for active recovery launch, emergency intake        |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | handoff, or parent-relay override                                                     |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,9 +33,11 @@ TECHNOLOGY RECORD - RECOVERY SUPPORT STAGING AREA
 | ARCHIVE STATUS             | Active Recovery Staging Technology Record                                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Recovery Support / Watch Staff / Security / Intake / Nusantara Deep Relay /           |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Ash Tide Watchpoint                                                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Watch Officer, Recovery Support Lead, Intake Officer, Nusantara Site Command, and     |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Central Archive                                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -245,18 +248,23 @@ FAULT ISOLATION
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
 | Team mustered before       | readiness read as permission              | separate statuses; launch drill           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | authorization              |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Multiple packages staged at| intake capacity exceeded                  | limit staging; overload review            |
+| Multiple packages staged   | intake capacity exceeded                  | limit staging; overload review            |
+| at                         |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | once                       |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Unclear watch report staged| ambiguity carried forward                 | clarify before preparation                |
+| Unclear watch report       | ambiguity carried forward                 | clarify before preparation                |
+| staged                     |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Tide status stale          | panel not updated                         | re-check before launch                    |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Vessel contact lost        | coordination gap                          | hold the muster                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Decontamination pre-check  | procedure lapse                           | return to the bench                       |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | skipped                    |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 

@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - MEDICAL ISOLATION AND COGNITIVE RECOVERY WARD SYSTEM
 | RISK STATUS                | ISOLATION BREACH / TREATMENT EXPOSURE / CONFIDENTIALITY GAP                           |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Medical authorization; patient-specific restriction-set authority for anomalous       |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | influence or memetic contamination                                                    |
 +----------------------------+---------------------------------------------------------------------------------------+
 

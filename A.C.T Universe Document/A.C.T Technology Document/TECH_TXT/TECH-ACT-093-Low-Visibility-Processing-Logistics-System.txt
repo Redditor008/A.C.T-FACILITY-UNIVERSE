@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - LOW-VISIBILITY PROCESSING LOGISTICS SYSTEM
 | RISK STATUS                | PATTERN EXPOSURE / TRANSITION BREACH / DELIVERY MISMATCH                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 3 for boundary logistics; Level 4 for concealed transition scheduling or        |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | emergency surface sealing                                                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,9 +33,11 @@ TECHNOLOGY RECORD - LOW-VISIBILITY PROCESSING LOGISTICS SYSTEM
 | ARCHIVE STATUS             | Active Cover Logistics Technology Record                                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Glass Orchard Relay / Redwood Veil Complex / Security / Campus Administration /       |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Recovery Support / Limited Archive                                                    |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Campus Manager, Security Boundary Lead, Sub-Site Chief, Redwood Veil Site Command,    |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | and Central Archive                                                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -234,6 +237,7 @@ FAULT ISOLATION
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
 | Visitor notes a vehicle    | Move scheduled in a thin traffic week     | Reschedule and record the traffic         |
++----------------------------+-------------------------------------------+-------------------------------------------+
 |                            |                                           | shortfall                                 |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Cargo tag unmatched        | Tag applied without a manifest line       | Hold the cargo, correct the manifest      |

@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - VESPER-PATTERN TACTICAL AI
 | RISK STATUS                | CONTROLLED / COMBAT-LOGIC CONTAINMENT HAZARD                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4 for simulation use; Level 5 for live unmanned recovery command and            |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | recognition-filter modification                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -32,6 +33,7 @@ TECHNOLOGY RECORD - VESPER-PATTERN TACTICAL AI
 | ARCHIVE STATUS             | Active Tactical Coordination Technology Record                                        |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DISTRIBUTION               | Tactical Review / Engineering / Recovery / Security / Artifact Storage / Simulation   |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | Command                                                                               |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Tactical Review Desk, Engineering Division, and Central Archive                       |
@@ -135,7 +137,8 @@ archive: Model horizon, Concurrent asset count, Uplink latency limit. They are f
 +----------------------------+---------------------------------------------------------------------------------------+
 | Deployment                 | command bench, drone cradle, or sealed simulation rack                                |
 +----------------------------+---------------------------------------------------------------------------------------+
-| Recognition filter contents| held at Level 5                                                                       |
+| Recognition filter         | held at Level 5                                                                       |
+| contents                   |                                                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 | Model horizon              | NOT MEASURED                                                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
@@ -238,21 +241,28 @@ FAULT ISOLATION
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
 | Equipment loss chosen      | no scarcity constraint in the template    | add it; 2022 case                         |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | repeatedly                 |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Respectful gesture modelled| constraint not stated                     | define it; 2026 drill                     |
+| Respectful gesture         | constraint not stated                     | define it; 2026 drill                     |
+| modelled                   |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | as useless                 |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Core treating a subject as | subject-care limit missing                | abort and reload                          |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | terrain                    |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Prediction feeding the     | hazard recruiting the model               | logic seal; withdraw                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | anomaly                    |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Asset acting outside the   | constraint parse failure                  | seal and audit                            |
++----------------------------+-------------------------------------------+-------------------------------------------+
 | abort list                 |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
-| Lens active with no mission| cover discipline failure                  | cover and log                             |
+| Lens active with no        | cover discipline failure                  | cover and log                             |
+| mission                    |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS

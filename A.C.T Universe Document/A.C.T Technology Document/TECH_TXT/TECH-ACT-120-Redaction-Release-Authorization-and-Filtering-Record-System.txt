@@ -23,6 +23,7 @@ TECHNOLOGY RECORD - REDACTION RELEASE AUTHORIZATION AND FILTERING RECORD SYSTEM
 | RISK STATUS                | OVERRELEASE / UNDERREDACTION / RECORD DRIFT / READER HARM                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4 for release authorization; Level 5 for restricted release reversal,           |
++----------------------------+---------------------------------------------------------------------------------------+
 |                            | minimum-release override, or source return                                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 
@@ -247,7 +248,8 @@ FAULT ISOLATION
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
 +============================+===========================================+===========================================+
-| Reader harmed after release| Underredaction at the draft stage         | Recall, treat, review the checklist       |
+| Reader harmed after        | Underredaction at the draft stage         | Recall, treat, review the checklist       |
+| release                    |                                           |                                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | More released than asked   | Redaction shaped by convenience           | Recall and re-draft to the minimum        |
 +----------------------------+-------------------------------------------+-------------------------------------------+
@@ -256,6 +258,7 @@ FAULT ISOLATION
 | Rollback not filed         | Trigger prepared after release            | File it and review the decision           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Filtering log incomplete   | Action taken but not logged               | Reconstruct the log before the next       |
++----------------------------+-------------------------------------------+-------------------------------------------+
 |                            |                                           | release                                   |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 
