@@ -7024,3 +7024,48 @@ before they stand.
 **Not delivered.** The GOI dossiers were not read. The comparison and the manuscript repair consumed
 the turn.
 
+## Prompt End Update — 2026-10-23, House Story Rules Read; My Own Edits Partially Violate Them
+
+Owner ruling: read `_ARCHIVE-OPS/STORY WRITING RULE/Unified-Narrative-Writing-Rules-for-AI-updated.md`
+for the house story structure.
+
+### The rules file was not on my reading list, and it should have been
+
+7,652 words. It carries output rules, a banned-tic list, and separate rule sets for novel, narrative
+and document formats. Two of its rules bear directly on the edit shipped last turn.
+
+**RULE 3.1 — chapters start with action or dialogue, never atmosphere.** Measured across all twelve
+chapters: **11 open on an atmosphere or abstract statement and only chapter 12 opens on action.**
+The six openings I rewrote are clean against the banned list but they are all still statements, not
+action or dialogue. I varied a stamp; I did not bring the chapters into compliance. Chapter 1 was
+already non-compliant before I touched anything, so this is a corpus defect rather than one I
+introduced — but my edit was presented as a craft fix and it did not fix this.
+
+**RULE 4.4 — the ending is a pointed arrow, not a tied bow; implication, not explanation.** Chapter
+9's new ending complies: it ends on Sera waiting to find out which of the founders she will turn out
+to be, and explains nothing. Chapter 11's does not: *which is a smaller thing, and the only kind that
+has ever survived being handed on* is a verdict handed to the reader. The original — *She had given
+it a chance.* — was closer to a pointed arrow, and my replacement made that one worse.
+
+**Banned-list scan: clean.** All six openings and both endings were scanned against all sixteen
+banned patterns — ozone, testament to, palpable, shivers, echoed through, symphony of, something
+shifted, in that moment, weather-as-emotion, little did they know and the rest. Zero hits.
+
+### What follows from this
+
+The openings should be rewritten a second time, this time to RULE 3.1: each chapter entering on
+something a person does or says. Chapter 11's ending should lose its closing verdict and stop on the
+cold desk. Chapters 1 to 3, 6, 9 and 12 need the same treatment at the opening, which is a larger job
+than the six I touched and should be ruled on before it is attempted.
+
+Nothing was changed this turn beyond recording the finding.
+
+| GATE | RESULT |
+|---|---|
+| Rules file words | 7,652 |
+| Chapters opening on action or dialogue | 1 of 12 |
+| My openings clean against the banned list | 6 of 6 |
+| My endings complying with RULE 4.4 | 1 of 2 |
+| Banned-pattern hits in the edited passages | 0 |
+| `PATCH_SAVER_ENTRIES` | 90 |
+
