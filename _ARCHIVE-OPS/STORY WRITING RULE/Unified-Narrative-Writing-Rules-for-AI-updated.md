@@ -27,6 +27,26 @@ These govern **how and when** content is delivered to the user.
 
 ---
 
+### SCOPE: WHICH STORIES THESE OUTPUT RULES APPLY TO
+
+**Owner ruling, 2026-10-23.** The output and delivery rules in section 0 — including RULE 0.4
+(revisions happen in chat, not in files) and RULE 0.10 (1,500-word floor per part) — were written
+for a story that had not been written yet. They divide by whether the story is finished.
+
+| STORY STATE | RULES 0.4 AND 0.10 |
+|---|---|
+| **Not finished, or newly written** | Apply in full. Draft in chat, wait for approval, hold the word floor. |
+| **Already finished and published to the archive** | Do not apply. The work is settled and revisions to it are edits to a finished text, not drafting. |
+
+*The Facility That Forgot Its First Lie* is finished. Its 12 chapters, epilogue and manuscript are
+published. RULE 0.4 does not gate edits to them, and the Epilogue's 812 words is not a RULE 0.10
+violation, because an epilogue in a finished work is not a part under construction.
+
+The craft rules — the banned list in section 2, and sections 3 to 5 — apply to every story regardless
+of state. Those are about what the prose does, not about how drafting is conducted.
+
+---
+
 ### RULE 0.1: CHAT FIRST, FILE LATER
 
 **ALL written content must be displayed in the chatroom as plain text FIRST.** Do not automatically create a file (.md, .txt, .docx, or any format) unless the user explicitly requests it.

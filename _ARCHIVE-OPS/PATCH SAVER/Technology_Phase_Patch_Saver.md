@@ -7150,3 +7150,42 @@ disagreements. It reads 0 now, after the revert, which is the state it should ho
 | `BAD_EOF` | 0 |
 | `PATCH_SAVER_ENTRIES` | 92 |
 
+## Prompt End Update — 2026-10-23, Rules Scope Divided By Whether The Story Is Finished
+
+Owner rulings: RULE 0.4 may be ignored for this story, and the rule should be divided between
+unfinished or newly written stories and already finished ones; skip the Epilogue word floor because
+the story is finished; skip the three `reminder that` hits; hold the GOI measurement.
+
+### The rules file now carries its own scope
+
+A *Scope: Which Stories These Output Rules Apply To* section was added to
+`Unified-Narrative-Writing-Rules-for-AI-updated.md`, immediately before RULE 0.1. It states that the
+section 0 output and delivery rules — RULE 0.4 and RULE 0.10 among them — were written for a story
+not yet written, and divide by state:
+
+- **Not finished, or newly written:** apply in full. Draft in chat, wait for approval, hold the floor.
+- **Already finished and published:** do not apply. Revisions to a settled text are edits, not drafting.
+
+*The Facility That Forgot Its First Lie* is finished, so RULE 0.4 does not gate edits to it and the
+Epilogue's 812 words is not a RULE 0.10 violation. The craft rules — the banned list and sections 3
+to 5 — apply to every story regardless of state, because those govern what the prose does rather
+than how drafting is conducted.
+
+The file went from 7,652 to 7,983 words.
+
+### The gates are unchanged, deliberately
+
+`STORY_PARTS_UNDER_1500` still reads 1. The gate measures a fact about the corpus and should keep
+measuring it; the ruling decides what the fact means, and the scope section carries that decision.
+A gate that hides an exempt number is worse than a gate that reports it.
+
+| GATE | RESULT |
+|---|---|
+| `DOCUMENT_COUNT` | 1001 |
+| `RECORDS_NOT_ONE_H1` | 0 |
+| `BAD_EOF` | 0 |
+| Rules file words | 7,652 to 7,983 |
+| `STORY_PARTS_UNDER_1500` | 1, exempt by ruling |
+| `STORY_MANUSCRIPT_LOCKSTEP_FAILURES` | 0 |
+| `PATCH_SAVER_ENTRIES` | 93 |
+
