@@ -1,6 +1,9 @@
 # Chapter 7 — The Founders’ Silence
 
-The proof arrived disguised as absence.
+What convinced her was a gap, and it took her most of a morning to notice that the gap
+had edges. Sera had expected the deepest truths in the Facility to sit behind locked
+shelves, black seals and redacted command strings. She had expected secrets to look
+like denial.
 
 Sera had expected, by then, that the deepest truths in the Facility would be
 hidden behind locked shelves, black

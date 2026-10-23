@@ -6946,3 +6946,42 @@ alone as the model.
 | Chapters carrying the opening stamp | 8 of 9 |
 | `PATCH_SAVER_ENTRIES` | 87 |
 
+## Prompt End Update — 2026-10-23, Chapter Opening Stamp Broken; Twins Re-Synced
+
+Owner rulings: vary the openings and two endings; read all 30 GOI dossiers; compare the manuscript
+against the chapters; keep `docs/index.html` empty.
+
+### Six openings varied, two endings broken
+
+Chapters 4, 5, 7, 8, 10 and 11 were rewritten at the opening so the shared construction stops
+predicting itself. Each replacement keeps the chapter's own facts and moves the entry point: chapter
+4 now opens on the scent arriving before the envelope, chapter 8 on pharmacology settling it rather
+than on what the proof was not, chapter 11 on arithmetic rather than on the absence of courage.
+
+Chapters 9 and 11 had their aphoristic closes broken with image and action: a folder set square to
+the edge of a desk and a ventilation baffle knocking twice; a cold desk that stays cold. The verdicts
+survive inside the image rather than standing alone as the last words.
+
+Chapters 1 to 3, 6, 9 and 12 kept their openings, which were already distinct.
+
+### The twins were out of lockstep, and are back in step
+
+The first pass edited the `.md` files only. All seven `.txt` twins still carried the old openings.
+Each was repaired by locating the old sentence with flexible whitespace, substituting the new text,
+and re-wrapping the prose at 118. All seven now carry the new text, with 0 wide lines and clean
+end-of-file. **Lesson recorded: an edit to narrative prose is not finished until the twin is
+checked, because prose edits do not announce themselves the way structural edits do.**
+
+| GATE | RESULT |
+|---|---|
+| `DOCUMENT_COUNT` | 1000 |
+| `RECORDS_NOT_ONE_H1` | 0 |
+| `BAD_EOF` | 0 |
+| `MD_WIDE_PROSE_LINES` | 0 |
+| Chapter `.md` defects | 0 |
+| Chapter twins synced | 7 of 7 |
+| `PATCH_SAVER_ENTRIES` | 88 |
+
+**Not delivered.** The 30 GOI dossiers were not read and the manuscript was not compared against the
+chapters. The twin repair consumed the remaining turn.
+

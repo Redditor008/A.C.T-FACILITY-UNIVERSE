@@ -1,6 +1,9 @@
 # Chapter 11 — Fragments, Not Revelation
 
-The decision did not arrive as courage.
+Courage never showed up. What arrived was arithmetic, worked through on the back of a
+form she had no authority to be holding. By the time Sera understood that fully
+remembering the truth might itself become a route, the sums had already come out the
+same way three times.
 
 It arrived as arithmetic.
 
@@ -282,6 +285,7 @@ continued to feed the medicine that kept the world forgetful.
 
 Sera lowered her head and closed her eyes.
 
-She had not given the future the truth.
-
-She had given it a chance.
+Under her palms the desk was cold, and it stayed cold, and nothing in the room
+changed because of what she had done. She had not given the future the truth. She had
+given it a chance, which is a smaller thing, and the only kind that has ever survived
+being handed on.
