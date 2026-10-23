@@ -1,8 +1,7 @@
 # A.C.T FACILITY — ANOMALY FILE
 ## The-Forgetting-Bloom-AFD-NB-004
 
-═══════════════════════════════════════════════════════════════════════ A.C.T FACILITY — ANOMALY FILE Anomaly
-Containment Transformation ═══════════════════════════════════════════════════════════════════════
+### A.C.T FACILITY — ANOMALY FILE Anomaly Containment Transformation
 
 DESIGNATION:         AFD-NB-004
                      Verified archive designation
@@ -13,8 +12,7 @@ FIELD TYPE:          NB — Non-Natural Bio Hazard
 
 CLEARANCE REQUIRED:  Level 3
 
-═══════════════════════════════════════════════════════════════════════ CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
+### CLASSIFICATION
 
 CONTAINMENT CLASS:   RESIDUAL
 
@@ -29,8 +27,7 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           INTEGRATED
 
-═══════════════════════════════════════════════════════════════════════ DISCOVERY
-═══════════════════════════════════════════════════════════════════════
+### DISCOVERY
 
 DATE OF DETECTION:   [ RESTRICTED ]
 VERIFICATION DATE:   [ RESTRICTED ]
@@ -47,8 +44,7 @@ CIVILIAN EXPOSURE:   Moderate
 AMNESTIC DEPLOYED:   No — pre-refinement stage
 NARRATIVE STATUS:    Controlled
 
-═══════════════════════════════════════════════════════════════════════ DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
+### DESCRIPTION
 
 AFD-NB-004 is a 3 meter tall giant pale white-blue flowering plant with translucent petals and vein-like golden
 structures running through the stem, leaves, and inner petal roots. During blooming cycles, the organism emits a faint
@@ -63,8 +59,7 @@ Its golden sap possesses severe anomalous memory-erasing properties. In raw form
 sap can erase short-term recall, long-term autobiographical memory, emotional association, and identity-linked
 continuity depending on concentration, dose, and administration quality.
 
-═══════════════════════════════════════════════════════════════════════ ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
+### ANOMALOUS PROPERTIES
 
 PRIMARY EFFECT:      Direct memory erasure through anomaly-derived sap
                      exposure. Effects range from short-term memory loss
@@ -85,8 +80,7 @@ TEMPORAL BEHAVIOR:   Constant / bloom-enhanced
 REALITY INTERACTION: Minor biological-law violation / direct cognitive
                      continuity disruption
 
-═══════════════════════════════════════════════════════════════════════ CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
+### CONTAINMENT PROCEDURES
 
 AFD-NB-004 is to be cultivated only under sealed biological containment conditions in approved North Wing botanical
 chambers. Bloom cycles are to be monitored remotely whenever possible. Sap extraction must occur inside
@@ -119,8 +113,7 @@ normalcy [x] Spreads memetic, informational, or biological contamination [x] Res
 beyond predicted behavior [ ] Transforms its environment into an anomalous zone [x] Other: Unauthorized sap release,
 unsanctioned derivative use, bloom-cycle mist spread outside approved containment
 
-═══════════════════════════════════════════════════════════════════════ RESEARCH LOG — SUMMARY
-═══════════════════════════════════════════════════════════════════════
+### RESEARCH LOG — SUMMARY
 
 LEAD RESEARCHER:         [ RESTRICTED ]
 CURRENT RESEARCH PHASE:  Integrated utility / controlled derivative review
@@ -131,8 +124,7 @@ sap is dangerously unstable and biologically harmful, but refinement and dilutio
 graded memory- wipe compounds. The anomaly remains one of the most strategically important integrated biological
 assets under Facility control.
 
-═══════════════════════════════════════════════════════════════════════ TRANSFORMATION STATUS
-═══════════════════════════════════════════════════════════════════════
+### TRANSFORMATION STATUS
 
 CURRENT VIABILITY:       INTEGRATED
 
@@ -143,8 +135,7 @@ HISTORY:                 Multiple successful refinement stages
 TRANSFORMATION NOTES: AFD-NB-004 is among the earliest biological anomalies fully integrated into Facility operational
 infrastructure. Its derivative compounds form the basis of modern A.C.T amnestic medicine.
 
-═══════════════════════════════════════════════════════════════════════ INCIDENT LOG — SUMMARY
-═══════════════════════════════════════════════════════════════════════
+### INCIDENT LOG — SUMMARY
 
 TOTAL INCIDENTS:         [ RESTRICTED ]
 LAST INCIDENT DATE:      [ RESTRICTED ]
@@ -156,8 +147,7 @@ NOTABLE INCIDENTS:
   effects
 — one archive spill event required immediate witness suppression
 
-═══════════════════════════════════════════════════════════════════════ PERSONNEL RECORD
-═══════════════════════════════════════════════════════════════════════
+### PERSONNEL RECORD
 
 ASSIGNED PERSONNEL:      [ RESTRICTED ]
 PREVIOUSLY ASSIGNED:     [ RESTRICTED ]
@@ -165,8 +155,7 @@ CASUALTIES:              [ RESTRICTED ]
 AMNESTIC-ADMINISTERED:   [ RESTRICTED ]
 E-CLASS ASSIGNED:        Yes — controlled dosage testing history
 
-═══════════════════════════════════════════════════════════════════════ REALITY THEORY NOTES
-═══════════════════════════════════════════════════════════════════════
+### REALITY THEORY NOTES
 
 STRUCTURAL REALITY
 IMPACT:                  Minor Stress
@@ -186,15 +175,13 @@ THEORY NOTES: Some researchers suspect AFD-NB-004 does not merely destroy memory
 memory as a
 harvestable structure. This remains under restricted theoretical review.
 
-═══════════════════════════════════════════════════════════════════════ ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
+### ADDITIONAL NOTES
 
 AFD-NB-004 is one of the pillars of Facility secrecy doctrine. Without it, mass witness
 sanitation would be
 significantly less reliable.
 
-═══════════════════════════════════════════════════════════════════════ FILE METADATA
-═══════════════════════════════════════════════════════════════════════
+### FILE METADATA
 
 FILE CREATED:            [ RESTRICTED ]
 FILE LAST UPDATED:       [ RESTRICTED ]
@@ -204,5 +191,4 @@ FILE STATUS:             Active / Integrated Asset
 
 DESIGNATION HISTORY:     AFD-NB-004
 
-═══════════════════════════════════════════════════════════════════════ UNAUTHORIZED ACCESS WILL BE MET WITH IMMEDIATE
-AMNESTIC ADMINISTRATION ═══════════════════════════════════════════════════════════════════════
+### UNAUTHORIZED ACCESS WILL BE MET WITH IMMEDIATE AMNESTIC ADMINISTRATION

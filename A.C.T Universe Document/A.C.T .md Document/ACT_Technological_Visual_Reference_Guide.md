@@ -5,8 +5,7 @@
 
 ## Comprehensive Visual and Mechanical Specifications for Asset Index 50
 
-═══════════════════════════════════════════════════════════════════════ A.C.T FACILITY — VISUAL ARCHIVE Anomaly
-Containment Transformation ═══════════════════════════════════════════════════════════════════════
+### A.C.T FACILITY — VISUAL ARCHIVE Anomaly Containment Transformation
 
 | FIELD | VALUE |
 |---|---|
@@ -273,8 +272,7 @@ LED** that blinks during biological data-transmission.
 **50. ABYSSAL BASALT** Heavy black rocks etched with **[STRUCTURAL DATA OMITTED]** tracking codes. Monitored via
 **Digital Gravimetric Scales** to detect localized weight-shifts or spatial compression.
 
-═══════════════════════════════════════════════════════════════════════ ARCHIVIST'S NOTE
-═══════════════════════════════════════════════════════════════════════
+### ARCHIVIST'S NOTE
 
 "This is the furniture of our lives. Look at it until you see the
 strangeness behind the chrome. If a 'Static Anchor'

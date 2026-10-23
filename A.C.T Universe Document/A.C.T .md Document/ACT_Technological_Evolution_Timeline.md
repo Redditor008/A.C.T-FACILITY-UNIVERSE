@@ -5,8 +5,7 @@
 
 ## Internal Engineering Record: 1598 – 2026
 
-═══════════════════════════════════════════════════════════════════════ A.C.T FACILITY — HISTORICAL RECORD Anomaly
-Containment Transformation ═══════════════════════════════════════════════════════════════════════
+### A.C.T FACILITY — HISTORICAL RECORD Anomaly Containment Transformation
 
 | FIELD | VALUE |
 |---|---|
@@ -114,8 +113,7 @@ narrative-tier fractures and high-velocity combat optimization.
 
 ---
 
-═══════════════════════════════════════════════════════════════════════ ARCHIVIST'S NOTE
-═══════════════════════════════════════════════════════════════════════
+### ARCHIVIST'S NOTE
 
 "Our technology is a measurement of the pressure we are under. We build the
 dam because the water is always there, and

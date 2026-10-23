@@ -1,8 +1,7 @@
 # A.C.T FACILITY — ANOMALY FILE
 ## I-AM-A-Test-AFD-OB-001
 
-═══════════════════════════════════════════════════════════════════════ A.C.T FACILITY — ANOMALY FILE Anomaly
-Containment Transformation ═══════════════════════════════════════════════════════════════════════
+### A.C.T FACILITY — ANOMALY FILE Anomaly Containment Transformation
 
 DESIGNATION:         AFD-OB-001
                      Verified archive designation
@@ -13,8 +12,7 @@ FIELD TYPE:          OB — Object
 
 CLEARANCE REQUIRED:  Level 1
 
-═══════════════════════════════════════════════════════════════════════ CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
+### CLASSIFICATION
 
 CONTAINMENT CLASS:   INERT
 
@@ -29,8 +27,7 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           INVIOLABLE
 
-═══════════════════════════════════════════════════════════════════════ DISCOVERY
-═══════════════════════════════════════════════════════════════════════
+### DISCOVERY
 
 DATE OF DETECTION:   [ INTERNAL TEST ISSUE ]
 VERIFICATION DATE:   [ SAME-DAY VERIFIED ]
@@ -46,8 +43,7 @@ CIVILIAN EXPOSURE:   None
 AMNESTIC DEPLOYED:   No
 NARRATIVE STATUS:    Controlled
 
-═══════════════════════════════════════════════════════════════════════ DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
+### DESCRIPTION
 
 AFD-OB-001, designated I AM A Test, is a single sheet of paper created for
 use as an example of what an official A.C.T
@@ -59,8 +55,7 @@ version is finalized, the contents of the object cannot be altered by ordinary e
 erasure, rewriting,
 replacement, or file revision attempts. The object preserves its first completed state.
 
-═══════════════════════════════════════════════════════════════════════ ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
+### ANOMALOUS PROPERTIES
 
 PRIMARY EFFECT:      Immutable first-completion lock. Once the first
                      version of the paper is fully created, its contents
@@ -78,8 +73,7 @@ TEMPORAL BEHAVIOR:   Constant
 
 REALITY INTERACTION: None / Minor local document-law violation
 
-═══════════════════════════════════════════════════════════════════════ CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
+### CONTAINMENT PROCEDURES
 
 AFD-OB-001 requires no extraordinary containment. The object is to be stored in standard archive conditions and may be
 used as a controlled training example for anomaly document familiarization. Personnel are advised that once a
@@ -104,8 +98,7 @@ Spreads memetic, informational, or
 biological contamination [ ] Resists classification and escalates beyond predicted behavior [ ] Transforms its
 environment into an anomalous zone [x] Other: Unauthorized removal from archive testing custody
 
-═══════════════════════════════════════════════════════════════════════ RESEARCH LOG — SUMMARY
-═══════════════════════════════════════════════════════════════════════
+### RESEARCH LOG — SUMMARY
 
 LEAD RESEARCHER:         Archive Testing Officer
 CURRENT RESEARCH PHASE:  Observation
@@ -115,8 +108,7 @@ to immutable
 post-completion preservation of document state. Repeated attempts to
 edit finalized iterations fail without visible damage to the object.
 
-═══════════════════════════════════════════════════════════════════════ TRANSFORMATION STATUS
-═══════════════════════════════════════════════════════════════════════
+### TRANSFORMATION STATUS
 
 CURRENT VIABILITY:       INVIOLABLE
 
@@ -128,8 +120,7 @@ TRANSFORMATION NOTES: The anomaly's sole notable property is its fixed immutable
 completion.
 Alteration attempts are unnecessary and unsupported.
 
-═══════════════════════════════════════════════════════════════════════ INCIDENT LOG — SUMMARY
-═══════════════════════════════════════════════════════════════════════
+### INCIDENT LOG — SUMMARY
 
 TOTAL INCIDENTS:         0
 LAST INCIDENT DATE:      N/A
@@ -137,8 +128,7 @@ HIGHEST SEVERITY:        Minor
 
 NOTABLE INCIDENTS: None recorded.
 
-═══════════════════════════════════════════════════════════════════════ PERSONNEL RECORD
-═══════════════════════════════════════════════════════════════════════
+### PERSONNEL RECORD
 
 ASSIGNED PERSONNEL:      Archive testing staff
 PREVIOUSLY ASSIGNED:     N/A
@@ -146,8 +136,7 @@ CASUALTIES:              0
 AMNESTIC-ADMINISTERED:   0
 E-CLASS ASSIGNED:        No
 
-═══════════════════════════════════════════════════════════════════════ REALITY THEORY NOTES
-═══════════════════════════════════════════════════════════════════════
+### REALITY THEORY NOTES
 
 STRUCTURAL REALITY
 IMPACT:                  None
@@ -165,14 +154,12 @@ THEORY NOTES: AFD-OB-001 is retained primarily as a harmless reference object us
 file demonstration,
 and classification familiarization.
 
-═══════════════════════════════════════════════════════════════════════ ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
+### ADDITIONAL NOTES
 
 This anomaly is approved as an example test object for demonstrating how A.C.T anomaly
 files are structured and named.
 
-═══════════════════════════════════════════════════════════════════════ FILE METADATA
-═══════════════════════════════════════════════════════════════════════
+### FILE METADATA
 
 FILE CREATED:            [ INTERNAL ISSUE DATE ]
 FILE LAST UPDATED:       [ LOCKED AT FIRST COMPLETE ITERATION ]
@@ -182,5 +169,4 @@ FILE STATUS:             Active
 
 DESIGNATION HISTORY:     AFD-OB-001
 
-═══════════════════════════════════════════════════════════════════════ UNAUTHORIZED ACCESS WILL BE MET WITH IMMEDIATE
-AMNESTIC ADMINISTRATION ═══════════════════════════════════════════════════════════════════════
+### UNAUTHORIZED ACCESS WILL BE MET WITH IMMEDIATE AMNESTIC ADMINISTRATION

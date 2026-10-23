@@ -13,8 +13,7 @@ the current doctrinal status, classification logic, and containment framing of A
 
 ---
 
-═══════════════════════════════════════════════════════════════════════ A.C.T FACILITY — ANOMALY FILE Anomaly
-Containment Transformation ═══════════════════════════════════════════════════════════════════════
+### A.C.T FACILITY — ANOMALY FILE Anomaly Containment Transformation
 
 DESIGNATION:         AFD-CH-000
                      Verified archive designation
@@ -26,8 +25,7 @@ FIELD TYPE:          CH — Cosmic Hazard
 
 CLEARANCE REQUIRED:  O5 Access
 
-═══════════════════════════════════════════════════════════════════════ CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
+### CLASSIFICATION
 
 CONTAINMENT CLASS:   TIAMAT
 
@@ -42,8 +40,7 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           INVIOLABLE
 
-═══════════════════════════════════════════════════════════════════════ DISCOVERY
-═══════════════════════════════════════════════════════════════════════
+### DISCOVERY
 
 DATE OF DETECTION:   [ PRE-DOCTRINAL / EXACT DATE REDACTED ]
 VERIFICATION DATE:   [ SEALED / PRE-ARCHIVE ERA ]
@@ -61,8 +58,7 @@ CIVILIAN EXPOSURE:   Minimal
 AMNESTIC DEPLOYED:   No — Pre-standardized era
 NARRATIVE STATUS:    Controlled / Buried / Myth-fractured
 
-═══════════════════════════════════════════════════════════════════════ DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
+### DESCRIPTION
 
 AFD-CH-000, designated ITHYOS, THE WORLD-SLEEPER, is a planetary-scale serpentiform entity estimated at approximately
 10 kilometers in length. The anomaly is believed to remain dormant within the Earth’s
@@ -80,8 +76,7 @@ The anomaly remains in a sleep-like state. Even so, minor involuntary movement d
 generate measurable seismic activity across the globe. No verified full waking event exists in surviving A.C.T
 records.
 
-═══════════════════════════════════════════════════════════════════════ ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
+### ANOMALOUS PROPERTIES
 
 PRIMARY EFFECT:      Planetary-scale dormant presence. Minor physical
                      movement while asleep is capable of generating
@@ -109,8 +104,7 @@ TEMPORAL BEHAVIOR:   Constant / Dormant-state persistent
 REALITY INTERACTION: Structural Weakening / Planetary Stress /
                      Unknown deeper cosmological interaction
 
-═══════════════════════════════════════════════════════════════════════ CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
+### CONTAINMENT PROCEDURES
 
 ITHYOS is not contained through conventional enclosure. Containment is defined as the preservation of dormancy and the
 restriction of all access, observation, excavation, ritual
@@ -141,8 +135,7 @@ biological contamination [x] Resists classification and escalates beyond predict
 environment into an anomalous zone [x] Other: Any sign of wake-state transition, large-scale tectonic irregularity,
 abyss-seal degradation, or global serpent-class biological convergence event
 
-═══════════════════════════════════════════════════════════════════════ RESEARCH LOG — SUMMARY
-═══════════════════════════════════════════════════════════════════════
+### RESEARCH LOG — SUMMARY
 
 LEAD RESEARCHER:         [ O5-RESTRICTED ]
 CURRENT RESEARCH PHASE:  Observation / Theoretical Modeling
@@ -164,8 +157,7 @@ review suggests that ITHYOS may have served as the first living proof that struc
 reality can be held in balance
 only through deliberate suppression of impossible entities.
 
-═══════════════════════════════════════════════════════════════════════ TRANSFORMATION STATUS
-═══════════════════════════════════════════════════════════════════════
+### TRANSFORMATION STATUS
 
 CURRENT VIABILITY:       INVIOLABLE
 
@@ -178,8 +170,7 @@ biological sampling, psychic extraction, or containment-conversion concept is ju
 ITHYOS is not a candidate for stabilization beyond preserved dormancy, nor for repurposing, neutralization, or
 integration.
 
-═══════════════════════════════════════════════════════════════════════ INCIDENT LOG — SUMMARY
-═══════════════════════════════════════════════════════════════════════
+### INCIDENT LOG — SUMMARY
 
 TOTAL INCIDENTS:         [ O5-RESTRICTED ]
 LAST INCIDENT DATE:      [ REDACTED ]
@@ -195,8 +186,7 @@ NOTABLE INCIDENTS:
 — All notable events are considered formal structural concern events even
   when no conventional chamber breach occurs.
 
-═══════════════════════════════════════════════════════════════════════ PERSONNEL RECORD
-═══════════════════════════════════════════════════════════════════════
+### PERSONNEL RECORD
 
 ASSIGNED PERSONNEL:      [ ABYSS ACCESS ONLY ]
 PREVIOUSLY ASSIGNED:     [ O5-RESTRICTED ]
@@ -204,8 +194,7 @@ CASUALTIES:              [ SEALED ]
 AMNESTIC-ADMINISTERED:   N/A / early cases pre-standardized
 E-CLASS ASSIGNED:        No
 
-═══════════════════════════════════════════════════════════════════════ REALITY THEORY NOTES
-═══════════════════════════════════════════════════════════════════════
+### REALITY THEORY NOTES
 
 STRUCTURAL REALITY
 IMPACT:                  Severe Destabilization
@@ -232,8 +221,7 @@ holds that some entities do not need to wake to threaten the world. Their
 continued sleep is itself a containment
 condition.
 
-═══════════════════════════════════════════════════════════════════════ ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
+### ADDITIONAL NOTES
 
 Cross-reference:
 - First Vault Document — ENTITY-000
@@ -244,8 +232,7 @@ Cross-reference:
 - [ABYSS ACCESS ONLY]
 - [ O5 — ONLY ]
 
-═══════════════════════════════════════════════════════════════════════ FILE METADATA
-═══════════════════════════════════════════════════════════════════════
+### FILE METADATA
 
 FILE CREATED:            [ RETROACTIVE ARCHIVE DATE SEALED ]
 FILE LAST UPDATED:       [ O5-RESTRICTED ]
@@ -259,5 +246,4 @@ DESIGNATION HISTORY:     ENTITY-000 → UFD-CH-000 → AFD-CH-000
                          anomaly doctrine record after formalization of
                          classification standards.
 
-═══════════════════════════════════════════════════════════════════════ UNAUTHORIZED ACCESS WILL BE MET WITH IMMEDIATE
-AMNESTIC ADMINISTRATION ═══════════════════════════════════════════════════════════════════════
+### UNAUTHORIZED ACCESS WILL BE MET WITH IMMEDIATE AMNESTIC ADMINISTRATION

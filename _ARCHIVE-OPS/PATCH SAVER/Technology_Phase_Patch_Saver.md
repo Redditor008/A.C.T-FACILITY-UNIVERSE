@@ -7169,7 +7169,7 @@ commit, not by reading its own output.**
 
 **2,564 orphan lines remain**, concentrated in the Patch Saver (95), the BOOK (58) and the
 designation reference (41). Most sit where a line cannot be balanced without breaking a span. The
-154 `═` rule lines loose in markdown prose, against 95 legitimately inside code fences, are a
+### 154 ` ` rule lines loose in markdown prose, against 95 legitimately inside code fences, are a
 separate defect and were not touched by this run.
 
 | GATE | RESULT |
@@ -7182,4 +7182,41 @@ separate defect and were not touched by this run.
 | `BAD_EOF` | 0 |
 | `ODD_FENCE` | 0 |
 | `PATCH_SAVER_ENTRIES` | 102 |
+
+## Prompt End Update — 2026-10-23, Box-Rule Banners Converted To Markdown Headings
+
+Owner report, second half: some documents use the `═` bar as a header where markdown wants `###`.
+
+### Measured before the fix
+
+154 `═` rule lines sat loose in markdown prose across 10 files, against 95 legitimately inside code
+fences where they belong as interface art. The worst form was a banner wrapped across two lines, so
+the title itself broke in the middle:
+
+```
+═══════ A.C.T FACILITY — ANOMALY
+Containment Transformation ═══════
+```
+
+That is the crooked jump the reader reported, and it was hiding in the heading rather than the body.
+
+### What was done
+
+Each banner became a `### heading`, with the text of a two-line banner rejoined. Pure rule lines were
+dropped. **141 banners converted across 10 files, and 0 `═` lines remain loose in any `.md`.**
+
+The five anomaly-file standards were the bulk of it at 26 banners each: the two ITHYOS file
+standards and the three legacy anomaly records.
+
+### Gates after the conversion
+
+| GATE | RESULT |
+|---|---|
+| `DOCUMENT_COUNT` | 1002 |
+| `RECORDS_NOT_ONE_H1` | 0 |
+| `BAD_EOF` | 0 |
+| `ODD_FENCE` | 0 |
+| `MD_WIDE_PROSE_LINES` | 0 |
+| `═` lines loose in markdown | 0, was 154 |
+| `PATCH_SAVER_ENTRIES` | 103 |
 

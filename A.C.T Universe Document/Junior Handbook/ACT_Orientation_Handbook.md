@@ -1,8 +1,7 @@
 # A.C.T ORIENTATION HANDBOOK
 ### MASTER VOLUME — CHAPTERS 1-6
 
-═══════════════════════════════════════════════════════════════════════ A.C.T FACILITY — ORIENTATION Anomaly
-Containment Transformation ═══════════════════════════════════════════════════════════════════════
+### A.C.T FACILITY — ORIENTATION Anomaly Containment Transformation
 
 | FIELD | VALUE |
 |---|---|

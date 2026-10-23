@@ -1,8 +1,7 @@
 # A.C.T FACILITY — ANOMALY FILE
 ## The-Unwritten-Return-ANM-UA-AS-0001
 
-═══════════════════════════════════════════════════════════════════════ A.C.T FACILITY — ANOMALY FILE Anomaly
-Containment Transformation ═══════════════════════════════════════════════════════════════════════
+### A.C.T FACILITY — ANOMALY FILE Anomaly Containment Transformation
 
 DESIGNATION:         ANM-UA-AS-0001
                      Fracture-sensitive anomaly designation
@@ -15,8 +14,7 @@ FIELD TYPE:          SP — Space
 
 CLEARANCE REQUIRED:  Level 4
 
-═══════════════════════════════════════════════════════════════════════ CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
+### CLASSIFICATION
 
 CONTAINMENT CLASS:   UNDISCLOSED
 
@@ -31,8 +29,7 @@ SUB-THREAT:          ABSENT
 TRANSFORMATION
 VIABILITY:           NEUTRAL
 
-═══════════════════════════════════════════════════════════════════════ DISCOVERY
-═══════════════════════════════════════════════════════════════════════
+### DISCOVERY
 
 DATE OF DETECTION:   [ RESTRICTED ]
 VERIFICATION DATE:   [ RESTRICTED ]
@@ -49,8 +46,7 @@ CIVILIAN EXPOSURE:   None
 AMNESTIC DEPLOYED:   No
 NARRATIVE STATUS:    Controlled
 
-═══════════════════════════════════════════════════════════════════════ DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
+### DESCRIPTION
 
 ANM-UA-AS-0001 is a fracture-sensitive spatial anomaly manifesting as an unauthorized maintenance corridor that
 intermittently appears inside existing Facility structures. The corridor is typically encountered where no corridor
@@ -67,8 +63,7 @@ movement becomes inconsistent with the fact of movement. Subjects may emerge fro
 restricted maintenance sector with no clear memory of how they traveled. In multiple cases, associated route logs were
 found rewritten, missing, duplicated, or attributed to routes that do not exist.
 
-═══════════════════════════════════════════════════════════════════════ ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
+### ANOMALOUS PROPERTIES
 
 PRIMARY EFFECT:      Spatial path contradiction. The corridor displaces
                      personnel through undocumented internal routes while
@@ -91,8 +86,7 @@ TEMPORAL BEHAVIOR:   Intermittent / event-triggered
 REALITY INTERACTION: Local Distortion / Causal Violation / Record-path
                      discontinuity
 
-═══════════════════════════════════════════════════════════════════════ CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
+### CONTAINMENT PROCEDURES
 
 ANM-UA-AS-0001 is not to be treated as an ordinary architectural fault. Any corridor segment appearing without
 approved registry correspondence is considered active until disproven by direct structural verification.
@@ -125,8 +119,7 @@ predicted behavior [ ] Spreads memetic, informational, or biological contaminati
 an anomalous zone [x] Other: produces contradictory movement history severe enough to invalidate secure route
 confidence inside the Facility
 
-═══════════════════════════════════════════════════════════════════════ RESEARCH LOG — SUMMARY
-═══════════════════════════════════════════════════════════════════════
+### RESEARCH LOG — SUMMARY
 
 LEAD RESEARCHER:         [ RESTRICTED ]
 CURRENT RESEARCH PHASE:  Observation / Archive comparison / structural modeling
@@ -141,8 +134,7 @@ The anomaly's threat is considered ABSENT rather than HARMLESS because it rarely
 danger exists in command confusion, route uncertainty, unauthorized access drift, and possible exploitation by other
 hidden anomalies.
 
-═══════════════════════════════════════════════════════════════════════ TRANSFORMATION STATUS
-═══════════════════════════════════════════════════════════════════════
+### TRANSFORMATION STATUS
 
 CURRENT VIABILITY:       NEUTRAL
 
@@ -154,8 +146,7 @@ TRANSFORMATION NOTES: No transformation attempt is presently authorized. While t
 provide
 covert movement advantages, the documentation instability it creates makes controlled operational use inadvisable.
 
-═══════════════════════════════════════════════════════════════════════ INCIDENT LOG — SUMMARY
-═══════════════════════════════════════════════════════════════════════
+### INCIDENT LOG — SUMMARY
 
 TOTAL INCIDENTS:         [ RESTRICTED ]
 LAST INCIDENT DATE:      [ RESTRICTED ]
@@ -170,8 +161,7 @@ NOTABLE INCIDENTS:
 — A guard assigned to a central checkpoint was logged simultaneously in two
   non-overlapping internal positions following one manifestation event.
 
-═══════════════════════════════════════════════════════════════════════ PERSONNEL RECORD
-═══════════════════════════════════════════════════════════════════════
+### PERSONNEL RECORD
 
 ASSIGNED PERSONNEL:      [ RESTRICTED ]
 PREVIOUSLY ASSIGNED:     [ RESTRICTED ]
@@ -179,8 +169,7 @@ CASUALTIES:              0 direct fatalities confirmed
 AMNESTIC-ADMINISTERED:   Limited internal continuity correction cases
 E-CLASS ASSIGNED:        No
 
-═══════════════════════════════════════════════════════════════════════ REALITY THEORY NOTES
-═══════════════════════════════════════════════════════════════════════
+### REALITY THEORY NOTES
 
 STRUCTURAL REALITY
 IMPACT:                  Minor Stress
@@ -200,15 +189,13 @@ lies in its effect on
 reliable institutional memory rather than on physical survival. It is therefore recommended as a model example for ANM
 classification and fracture-aware archive training.
 
-═══════════════════════════════════════════════════════════════════════ ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
+### ADDITIONAL NOTES
 
 This anomaly is approved as a reference example for ANM-format writing. Its value lies
 in demonstrating how a fracture
 anomaly can be low on direct violence while still dangerous to containment logic.
 
-═══════════════════════════════════════════════════════════════════════ FILE METADATA
-═══════════════════════════════════════════════════════════════════════
+### FILE METADATA
 
 FILE CREATED:            [ RESTRICTED ]
 FILE LAST UPDATED:       [ RESTRICTED ]
@@ -218,5 +205,4 @@ FILE STATUS:             Active
 
 DESIGNATION HISTORY:     ANM-UA-AS-0001
 
-═══════════════════════════════════════════════════════════════════════ UNAUTHORIZED ACCESS WILL BE MET WITH IMMEDIATE
-AMNESTIC ADMINISTRATION ═══════════════════════════════════════════════════════════════════════
+### UNAUTHORIZED ACCESS WILL BE MET WITH IMMEDIATE AMNESTIC ADMINISTRATION

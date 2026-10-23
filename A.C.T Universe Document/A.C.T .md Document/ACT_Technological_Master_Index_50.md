@@ -5,8 +5,7 @@
 
 ## ACT-MASTER-INDEX-50-SYSTEMS-AND-MATERIALS
 
-═══════════════════════════════════════════════════════════════════════ A.C.T FACILITY — MASTER CATALOG Anomaly
-Containment Transformation ═══════════════════════════════════════════════════════════════════════
+### A.C.T FACILITY — MASTER CATALOG Anomaly Containment Transformation
 
 | FIELD | VALUE |
 |---|---|
@@ -195,8 +194,7 @@ used for specialized etching and neutralization protocols.
 **50. ABYSSAL BASALT** Ultra-high-density volcanic rock. Compressed
 by "Stretched" space, making it ideal for heavy-entity shielding.
 
-═══════════════════════════════════════════════════════════════════════ ARCHIVIST'S NOTE
-═══════════════════════════════════════════════════════════════════════
+### ARCHIVIST'S NOTE
 
 "Fifty ways to hold the line. Respect the tool, but never assume you are
 the master of the force it contains. We are
