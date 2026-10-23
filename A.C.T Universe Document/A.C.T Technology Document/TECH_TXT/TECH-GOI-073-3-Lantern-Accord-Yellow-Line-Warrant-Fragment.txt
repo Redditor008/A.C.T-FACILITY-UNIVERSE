@@ -128,11 +128,11 @@ toward them.
 CROSS-REFERENCES
 ----------------
 
-- `GOI-HY-W-073` — Lantern Accord, Group of Interest Dossier
-- `TECH-GOI-073-1` — Lantern Accord Collapsible Signal Beacon, Technology Record
-- `TECH-GOI-073-2` — Lantern Accord Seal And Temporary Custody Tag, Technology Record
-- `TECH-GOI-073-4` — Lantern Accord Violation Ledger Copy, Technology Record
-- `TECH-GOI-070-1` — Saint Morrow Passage White Ticket, Technology Record
+- GOI-HY-W-073 — Lantern Accord, Group of Interest Dossier
+- TECH-GOI-073-1 — Lantern Accord Collapsible Signal Beacon, Technology Record
+- TECH-GOI-073-2 — Lantern Accord Seal And Temporary Custody Tag, Technology Record
+- TECH-GOI-073-4 — Lantern Accord Violation Ledger Copy, Technology Record
+- TECH-GOI-070-1 — Saint Morrow Passage White Ticket, Technology Record
 
 The Saint Morrow reference is not incidental. The Accord's blue lantern status attaches a route or
 water crossing and requires Saint Morrow or local passage review, so the two organisations meet on
@@ -145,5 +145,5 @@ Record Type: Technology Record — Recovered Adversary Device
 Created: 05/02/2020
 Last Updated: 28/01/2025
 Review Cycle: On any change in Accord status or any reconstruction request
-Source: `GOI-HY-W-073` Lantern Accord dossier, Known Assets and Holdings and Operating Method
+Source: GOI-HY-W-073 Lantern Accord dossier, Known Assets and Holdings and Operating Method
 Dual Filing: Mandatory — GOI recovery, and documentary authority technology

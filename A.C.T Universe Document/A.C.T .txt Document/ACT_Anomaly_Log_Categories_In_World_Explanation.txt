@@ -473,7 +473,7 @@ text
 Maid-Of-Gear-VESPER-Recovered-Document-Dossier-AFD-SU-020.txt
 
 
-This file would contain excerpts from `Vesper_Full_Master_Database.pdf`, including registry header, operative
+This file would contain excerpts from Vesper_Full_Master_Database.pdf, including registry header, operative
 designation, cybernetic systems, weapon records, and future context.
 
 ---

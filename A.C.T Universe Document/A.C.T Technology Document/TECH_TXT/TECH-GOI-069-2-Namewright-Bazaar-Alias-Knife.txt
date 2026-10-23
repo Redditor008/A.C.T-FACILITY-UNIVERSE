@@ -155,10 +155,10 @@ not held pending an answer.
 CROSS-REFERENCES
 ----------------
 
-- `GOI-BS-X-069` — Namewright Bazaar, Group of Interest Dossier
-- `TECH-GOI-069-1` — Namewright Bazaar Partial Name Ledger, Technology Record
-- `TECH-GOI-069-3` — Namewright Bazaar Counterfeit Court Stamp, Technology Record
-- `TECH-GOI-069-4` — Namewright Bazaar Dead-Name Cupboard Door, Technology Record
+- GOI-BS-X-069 — Namewright Bazaar, Group of Interest Dossier
+- TECH-GOI-069-1 — Namewright Bazaar Partial Name Ledger, Technology Record
+- TECH-GOI-069-3 — Namewright Bazaar Counterfeit Court Stamp, Technology Record
+- TECH-GOI-069-4 — Namewright Bazaar Dead-Name Cupboard Door, Technology Record
 
 The ledger identifies the source name, the knife cuts the carriers, the stamps make the substitution
 look official, and the cupboard holds what was cut away. The sequence runs in that order and the four
@@ -171,5 +171,5 @@ Record Type: Technology Record — Recovered Adversary Device
 Created: 11/09/2021
 Last Updated: 26/05/2025
 Review Cycle: On any change in the dismantlement order or any Subject Care case
-Source: `GOI-BS-X-069` Namewright Bazaar dossier, Known Assets and Holdings and Operating Method
+Source: GOI-BS-X-069 Namewright Bazaar dossier, Known Assets and Holdings and Operating Method
 Dual Filing: Mandatory — GOI seizure, and identity severance instruments

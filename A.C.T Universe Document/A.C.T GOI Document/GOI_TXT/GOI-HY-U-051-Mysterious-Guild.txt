@@ -2,7 +2,7 @@ A.C.T FACILITY ARCHIVE FILE — GOI HY U 051 Mysterious Guild
 GROUP OF INTEREST REGISTRY - MYSTERIOUS GUILD
 ---------------------------------------------
 
-```text
+text
 +----------------------------+---------------------------------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                                                         |
 +============================+=======================================================================================+
@@ -60,7 +60,7 @@ GROUP OF INTEREST REGISTRY - MYSTERIOUS GUILD
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4; Level 5 for VESPER-origin reconstruction material                            |
 +----------------------------+---------------------------------------------------------------------------------------+
-```
+
 
 Archive Status: Active Restricted Record / Unresolved Structural Actor
 Distribution: Intelligence Division, Tactical Review Desk, Temporal Evidence Review, Subject Care as required for
@@ -428,30 +428,30 @@ OPERATIONAL RECORDS
 Restricted Operational Extract
 ------------------------------
 
-```text
+text
 SOURCE:       Recovered PDF / VESPERSYS Guild Database Archive
 EXTRACT:      "Vesper, officially designated MNT-092-OMEGA, is a
               high-latency solo vanguard-assassin operating under the Guild."
 A.C.T NOTE:   This sentence is the first recovered statement that moves the
               Guild from background label to command authority.
-```
 
-```text
+
+text
 SOURCE:       AFD-OB-312 testing dossier
 EXTRACT:      "MAINTENANCE OVERDUE. CONTACT GUILD REGISTRY."
 A.C.T NOTE:   The message appeared on a future-origin weapons system. It is
               not known whether the display was calling a real external
               registry, repeating an obsolete maintenance routine, or attempting
               to establish contact through A.C.T observation.
-```
 
-```text
+
+text
 SOURCE:       Recovered PDF / Chapter 0.1
 EXTRACT:      "MNT-092 is currently operating without a Guild leash."
 A.C.T NOTE:   The term "leash" is treated as a coercive control marker until
               proven otherwise. No containment team may use Guild restraint
               language around AFD-SU-020.
-```
+
 
 ---
 
@@ -540,7 +540,7 @@ Anomaly and Record Relationship
 
 Primary cross-reference chain:
 
-- `A.C.T Universe Document/A.C.T Anomaly Document/Anomaly Modern txt/VESPER .S.Y.S. GUILD DATABASE ARCHIVE.pdf`
+- A.C.T Universe Document/A.C.T Anomaly Document/Anomaly Modern txt/VESPER .S.Y.S. GUILD DATABASE ARCHIVE.pdf
 - Maid Of Gear VESPER AFD SU 020, Archive Record
 - Maid Of Gear VESPER Recovery Discovery Dossier AFD SU 020, Archive Record
 - AFS 312 Experiment Testing Dossier AFD OB 312, Archive Record
@@ -571,7 +571,7 @@ the GOI record.
 FILE METADATA
 -------------
 
-```text
+text
 FILE CREATED:            11/10/1928
 FILE LAST UPDATED:       13/05/1942
 FILE AUTHOR:             Intelligence Division / Temporal Evidence Review Desk
@@ -579,4 +579,3 @@ REVIEWED BY:             Tactical Review Desk / Subject Care Division Liaison
 FILE STATUS:             ACTIVE / RESTRICTED / UNRESOLVED
 DESIGNATION HISTORY:     GOI-HY-U-051 created from anomaly-linked Guild evidence
 RECORD CONDITION:        OPERATIONAL WITH INTENTIONAL OPEN CONDITIONS
-```

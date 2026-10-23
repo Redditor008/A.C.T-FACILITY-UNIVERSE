@@ -2,7 +2,7 @@ A.C.T FACILITY ARCHIVE FILE — GOI HY X 052 Amazoo Circus
 GROUP OF INTEREST REGISTRY - AMAZOO CIRCUS
 ------------------------------------------
 
-```text
+text
 +----------------------------+---------------------------------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                                                         |
 +============================+=======================================================================================+
@@ -58,7 +58,7 @@ GROUP OF INTEREST REGISTRY - AMAZOO CIRCUS
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 3; Level 4 for POI-0507 pursuit and survivor routing                            |
 +----------------------------+---------------------------------------------------------------------------------------+
-```
+
 
 Archive Status: Active Restricted Record / Survivor-Linked GOI
 Distribution: Subject Care Division, Intelligence Division, Tactical Containment, Regional Command, Medical Care
@@ -188,10 +188,10 @@ Stated Belief
 
 The repeated statement recovered from the cage reads:
 
-```text
+text
 Time is dead and gone.
 Show must go on.
-```
+
 
 A.C.T treats this as both motto and trauma imprint. It may indicate a circus
 rule, a Grand Master command phrase, a
@@ -392,37 +392,37 @@ OPERATIONAL RECORDS
 Restricted Operational Extract
 ------------------------------
 
-```text
+text
 SOURCE:       AFD-SU-507 primary anomaly file
 EXTRACT:      "Targeted the 'Amazoo Circus,' an unregistered anomalous
               humanoid collective."
 A.C.T NOTE:   This is the strongest direct basis for GOI filing. The Circus is
               not an inferred group; it is named in the discovery method.
-```
 
-```text
+
+text
 SOURCE:       AFD-SU-507 initial response / narrative status
 EXTRACT:      "'Amazoo Circus' publicly erased. Grand Master Amazoo remains
               uncaptured (POI-0507). Subject was found locked in a reinforced
               iron cage, abandoned."
 A.C.T NOTE:   Public erasure did not conclude the case. The leader remains at
               large and the subject was abandoned, not released.
-```
 
-```text
+
+text
 SOURCE:       Recovered diary material
 EXTRACT:      "Time is dead and gone. Show must go on."
 A.C.T NOTE:   Phrase is retained as possible motto, command imprint, trauma
               echo, or anomalous performance anchor.
-```
 
-```text
+
+text
 SOURCE:       Recovered diary material
 EXTRACT:      "Hey, get up you worthless Circus Monster!"
 A.C.T NOTE:   This phrase is restricted from casual quotation around AFD-SU-507.
               It is evidence of organized verbal degradation by crowd, handler,
               or both.
-```
+
 
 ---
 
@@ -548,7 +548,7 @@ missing-person files and must not be reduced to circus property.
 FILE METADATA
 -------------
 
-```text
+text
 FILE CREATED:            15/10/2024
 FILE LAST UPDATED:       05/09/2026
 FILE AUTHOR:             Intelligence Division / Subject Care Division Liaison
@@ -556,4 +556,3 @@ REVIEWED BY:             Regional Command / Tactical Containment
 FILE STATUS:             ACTIVE / RESTRICTED / FRAGMENTED
 DESIGNATION HISTORY:     GOI-HY-X-052 created from Circus Monster anomaly evidence
 RECORD CONDITION:        OPERATIONAL WITH INTENTIONAL OPEN CONDITIONS
-```

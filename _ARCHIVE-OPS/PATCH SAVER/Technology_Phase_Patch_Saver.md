@@ -6528,3 +6528,64 @@ if the extraction failed again.
 Ark coffer, which has the owner's structure but was rebuilt before the voice rule existed.
 
 **DOCUMENT_COUNT 999.** Gates: bad-EOF 0, odd-fence 0, multiH1 2 and expected.
+
+## Prompt End Update — 2026-10-23, Set 070 Closed; Thirteen of Thirteen Rebuilt
+
+Set 070 Saint Morrow Passage is complete. Four records were written from the `GOI-BS-W-070`
+dossier and filed with their plain-text twins.
+
+| RECORD | TITLE | WORDS |
+|---|---|---|
+| `TECH-GOI-070-1` | Saint Morrow Passage White Ticket | 1,098 |
+| `TECH-GOI-070-2` | Saint Morrow Passage Route Bell | 1,019 |
+| `TECH-GOI-070-3` | Saint Morrow Passage Cold-Map Fragment | 1,078 |
+| `TECH-GOI-070-4` | Saint Morrow Passage Partial Crossing Ledger | 1,131 |
+
+The rebuild batch is closed: 073 (4), 069 (4), 074 (1) and 070 (4) — thirteen of thirteen.
+
+### Correction: the record count was not 229
+
+This log carried `TECH_MD` at 231 files and 229 records. The measured figure is 244 files and 242
+records, with 244 twins and no unpaired stem in either direction. The old number was never
+re-measured after earlier sets shipped. Use 242.
+
+### Defect found and fixed: thirteen records carried seven H1 headings
+
+The rebuilt records used H1 for their body sections, breaking the one-H1-per-document rule. The
+whole rebuild batch was affected: 069 (4), 070 (4), 073 (4) at seven H1s each and 074-1 at five.
+Seventy-six body headings were demoted to H2. The `.txt` twins were byte-identical before and
+after, because the renderer maps a non-numbered H2 to the same `-` rule it mapped an H1 to. The
+corpus now measures 0 records with a heading count other than one.
+
+### Defect found and fixed: 436 backtick characters in plain-text twins
+
+Markdown code spans are markup and do not belong in a `.txt`. Twenty-eight twins carried them,
+concentrated in cross-reference lists. All 436 were stripped. The gate that caught the earlier
+1,266 bold marks did not test for backticks, which is why this survived. Two GOI twins had a
+trailing double newline from the same pass and were repaired.
+
+### Full-suite re-validation
+
+| GATE | RESULT |
+|---|---|
+| DOCUMENT_COUNT | 999 |
+| records with a heading count other than 1 | 0 |
+| bad end-of-file | 0 |
+| odd code fence | 0 |
+| `.txt` carrying `**`, a markdown heading or a backtick | 0 / 0 / 0 |
+| `.txt` carrying `](` link markup | 1 — `TECH_TXT/README.txt`, known backlog |
+| `.txt` prose lines over 118 | 10 — all `TECH_TXT/README.txt`, known backlog |
+| `TECH_MD` / `TECH_TXT` | 244 / 244, 242 records, 0 unpaired |
+| Patch Saver entries | 78 |
+| engine self-test | passed |
+
+### The GOI designation discrepancy is resolved, not open
+
+This log carried the GOI alignment letters as an unresolved discrepancy: seven letters in the
+corpus against four claimed in the root README. Re-measured, the corpus carries seven alignment
+letters — B 2, N 8, P 16, T 2, U 2, W 12, X 18 — and the root README already lists all seven
+(`P` positive, `N` neutral, `X` negative, `W` work, `B` business, `T` trade, `U` unknown). There is
+no discrepancy. The finding was stale and is withdrawn.
+
+**Still open.** `TECH_TXT/README.txt` carries one line of markdown link markup and 10 prose lines
+over 118. `docs/index.html` remains empty by owner ruling.

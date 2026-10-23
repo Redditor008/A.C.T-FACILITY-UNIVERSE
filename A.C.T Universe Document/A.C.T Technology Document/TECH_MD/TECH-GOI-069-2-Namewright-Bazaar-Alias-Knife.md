@@ -37,7 +37,7 @@ intelligence subject second, and that ordering is not discretionary.
 
 ---
 
-# THE INSTRUMENT
+## THE INSTRUMENT
 
 ## 1.1 What it cuts
 
@@ -71,7 +71,7 @@ than in flesh. Whether that reading is complete is not established.
 
 ---
 
-# RECOGNITION AND RESPONSE
+## RECOGNITION AND RESPONSE
 
 ## 2.1 How to recognise that it has been used
 
@@ -115,7 +115,7 @@ should be read together.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 | DIVISION | USE |
 |---|---|
@@ -128,7 +128,7 @@ should be read together.
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - whether a cut persists after the Bazaar binding is broken, and how that would be tested safely;
 - whether the knives are ordinary blades and the trade lies wholly in the binding;
@@ -143,7 +143,7 @@ not held pending an answer.
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - `GOI-BS-X-069` — Namewright Bazaar, Group of Interest Dossier
 - `TECH-GOI-069-1` — Namewright Bazaar Partial Name Ledger, Technology Record
@@ -156,7 +156,7 @@ files should be read in it.
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Record Type:** Technology Record — Recovered Adversary Device  
 **Created:** 11/09/2021  

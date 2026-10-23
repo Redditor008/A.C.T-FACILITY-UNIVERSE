@@ -12,7 +12,7 @@ TECHNOLOGY RECORD - SAINT-VERA COLD LEDGER AND SEALED PATIENT CONTINUITY ARCHIVE
 +----------------------------+---------------------------------------------------------------------------------------+
 | TECHNOLOGY FAMILY          | GOI-DERIVED / RECORD SYSTEM / IDENTITY CONTINUITY ARCHIVE                             |
 +----------------------------+---------------------------------------------------------------------------------------+
-| ORIGIN                     | Saint-Vera Restoration Concern (`GOI-CP-P-056`)                                       |
+| ORIGIN                     | Saint-Vera Restoration Concern (GOI-CP-P-056)                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 | SUBDIVISIONS               | Cold ledgers, sealed failure archive, sealed restoration licenses, patient cards      |
 +----------------------------+---------------------------------------------------------------------------------------+
@@ -98,9 +98,9 @@ Cold ledgers. Listed as recording patients declared dead elsewhere. The word col
 Concern's own and is not
 explained in any recovered document.
 
-Sealed failure archive. Marked `DO NOT CALL THIS MERCY`. It holds refusal labels, including
+Sealed failure archive. Marked DO NOT CALL THIS MERCY. It holds refusal labels, including
 the three reasons
-preserved under `TECH-GOI-056-3`. Its existence proves the Concern records its own refusals rather than
+preserved under TECH-GOI-056-3. Its existence proves the Concern records its own refusals rather than
 discarding
 them.
 
@@ -286,7 +286,7 @@ Refusal Label Retention - DATE WITHHELD
 
 A failure label reading *Restoration denied* with three stated reasons was retained by Medical
 Division. The label is
-filed under `TECH-GOI-056-3` and cross-filed here because the sealed failure archive is a ledger
+filed under TECH-GOI-056-3 and cross-filed here because the sealed failure archive is a ledger
 subdivision.
 
 DIVISION USE
@@ -306,10 +306,10 @@ required for their care.
 CROSS-REFERENCES
 
 - GOI-CP-P-056 — Saint Vera Restoration Concern, Group of Interest Registry
-- `TECH-GOI-056-1` — theater that generates the recorded states
-- `TECH-GOI-056-2` — stabilizer use recorded as a ledger field
-- `TECH-GOI-056-3` — refusal labels archived in the sealed failure subdivision
-- `TECH-GOI-056-4` — prosthetic attachment recorded as a ledger field
+- TECH-GOI-056-1 — theater that generates the recorded states
+- TECH-GOI-056-2 — stabilizer use recorded as a ledger field
+- TECH-GOI-056-3 — refusal labels archived in the sealed failure subdivision
+- TECH-GOI-056-4 — prosthetic attachment recorded as a ledger field
 - Personnel Exposure, Excommunicated Class, and Resilience Doctrine, Archive Record
 
 Filed under the GOI chain. The record must not replace patient files, and patient

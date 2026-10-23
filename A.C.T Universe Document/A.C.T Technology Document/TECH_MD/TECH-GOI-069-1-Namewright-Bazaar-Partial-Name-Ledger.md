@@ -36,7 +36,7 @@ evidence about the person it names.
 
 ---
 
-# THE RECORD
+## THE RECORD
 
 ## 1.1 What the ledger is for
 
@@ -60,7 +60,7 @@ limit most likely to be eroded by somebody reading quickly.
 
 ---
 
-# HANDLING
+## HANDLING
 
 ## 2.1 Custody
 
@@ -105,7 +105,7 @@ Recorded for recognition. It is not a Facility procedure and no personnel may fo
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 | DIVISION | USE |
 |---|---|
@@ -116,7 +116,7 @@ Recorded for recognition. It is not a Facility procedure and no personnel may fo
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - what proportion of the ledgers is held, and how that would be established;
 - how many hands wrote them, and over what period;
@@ -131,7 +131,7 @@ has not been made.
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - `GOI-BS-X-069` — Namewright Bazaar, Group of Interest Dossier
 - `TECH-GOI-069-2` — Namewright Bazaar Alias Knife, Technology Record
@@ -144,7 +144,7 @@ the four out of it makes the trade look like a set of objects rather than a proc
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Record Type:** Technology Record — Recovered Adversary Device  
 **Created:** 02/04/2021  

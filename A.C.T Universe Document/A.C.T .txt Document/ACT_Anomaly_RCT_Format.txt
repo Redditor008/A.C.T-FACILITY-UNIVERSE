@@ -320,12 +320,12 @@ anomaly title first, followed by the designation.
 
 Approved structure:
 
-- `Title-UFD-XX-###.txt`
-- `Title-UFD-XX-###.md`
-- `Title-AFD-XX-###.txt`
-- `Title-AFD-XX-###.md`
-- `Title-ANM-XX-XX-####.txt`
-- `Title-ANM-XX-XX-####.md`
+- Title-UFD-XX-###.txt
+- Title-UFD-XX-###.md
+- Title-AFD-XX-###.txt
+- Title-AFD-XX-###.md
+- Title-ANM-XX-XX-####.txt
+- Title-ANM-XX-XX-####.md
 
 Recommended title formatting:
 - replace spaces with hyphens
@@ -371,13 +371,13 @@ DESIGNATION FORMAT
 | UFD | Provisional | Unknown Field Designation — assigned during DETECT/VERIFY |
 | AFD | Verified | Anomaly Field Designation — assigned after confirmation |
 
-Format: `[UFD/AFD]-[TYPE]-[###]`
+Format: [UFD/AFD]-[TYPE]-[###]
 
 TYPE CODES
 
-`OB` Object · `SU` Subject · `PL` Place · `TI` Time · `SP` Space
-· `ME` Memetic · `IH` Info Hazard · `CH` Cosmic
-Hazard · `NB` Non-Natural Bio Hazard · `?.H` Shifting Hazard
+OB Object · SU Subject · PL Place · TI Time · SP Space
+· ME Memetic · IH Info Hazard · CH Cosmic
+Hazard · NB Non-Natural Bio Hazard · ?.H Shifting Hazard
 
 ---
 

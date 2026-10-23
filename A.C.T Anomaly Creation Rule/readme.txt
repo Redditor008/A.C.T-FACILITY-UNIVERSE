@@ -22,8 +22,8 @@ Use this folder for:
 - guidance for AI-assisted drafting;
 - controlled reminders about what a complete A.C.T anomaly record needs.
 
-Do not place finished anomaly dossiers here. Completed anomaly records belong under `A.C.T Universe Document/A.C.T
-Anomaly Document/` in the correct legacy, modern, ITHYOS, or log location. Do not place
+Do not place finished anomaly dossiers here. Completed anomaly records belong under A.C.T Universe Document/A.C.T
+Anomaly Document/ in the correct legacy, modern, ITHYOS, or log location. Do not place
 general research, GOI
 dossiers, site files, story chapters, or public wiki pages here.
 

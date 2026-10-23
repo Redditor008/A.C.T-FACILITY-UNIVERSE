@@ -23,7 +23,7 @@ The coffer has not been opened. Its nine-line seal is intact.
 
 ---
 
-# ASSESSMENT
+## ASSESSMENT
 
 ## 1.1 What the coffer is
 
@@ -75,7 +75,7 @@ not ruled and this file does not decide for it.
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - what the custody dispute concerned, and whether it is concluded;
 - what the coffer contains, and whether opening it would answer that or destroy it;
@@ -90,7 +90,7 @@ the coffer stays shut.
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - `GOI-HY-N-074` — Ninefold Ark, Group of Interest Dossier
 - `TECH-GOI-073-1` — Lantern Accord Collapsible Signal Beacon, Technology Record
@@ -102,7 +102,7 @@ broken and never restored, a ticket held and never presented.
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Record Type:** Technology Record — Recovered Adversary Device  
 **Created:** 12/06/2022  

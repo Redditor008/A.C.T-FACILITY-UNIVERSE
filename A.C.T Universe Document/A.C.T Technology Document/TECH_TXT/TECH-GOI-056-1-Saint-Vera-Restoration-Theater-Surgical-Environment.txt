@@ -12,7 +12,7 @@ TECHNOLOGY RECORD - SAINT-VERA RESTORATION THEATER SURGICAL ENVIRONMENT
 +----------------------------+---------------------------------------------------------------------------------------+
 | TECHNOLOGY FAMILY          | GOI-DERIVED / SURGICAL ENVIRONMENT / PATIENT-STATUS THEATER                           |
 +----------------------------+---------------------------------------------------------------------------------------+
-| ORIGIN                     | Saint-Vera Restoration Concern (`GOI-CP-P-056`)                                       |
+| ORIGIN                     | Saint-Vera Restoration Concern (GOI-CP-P-056)                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 | DEPLOYMENT FORMS           | Mobile surgical vans, blackout medical tents, rehabilitation houses, private wards    |
 +----------------------------+---------------------------------------------------------------------------------------+
@@ -352,9 +352,9 @@ required for ongoing patient care.
 CROSS-REFERENCES
 
 - GOI-CP-P-056 — Saint Vera Restoration Concern, Group of Interest Registry
-- `TECH-GOI-056-2` — green-thread tissue stabilizer used inside the theater
-- `TECH-GOI-056-3` — memory-sensitive consent read performed before any procedure
-- `TECH-GOI-056-4` — living prosthetic fitting performed in the same room
+- TECH-GOI-056-2 — green-thread tissue stabilizer used inside the theater
+- TECH-GOI-056-3 — memory-sensitive consent read performed before any procedure
+- TECH-GOI-056-4 — living prosthetic fitting performed in the same room
 - Transformation Review Board and Field Asset Register Doctrine, Archive Record
 - Personnel Exposure, Excommunicated Class, and Resilience Doctrine, Archive Record
 

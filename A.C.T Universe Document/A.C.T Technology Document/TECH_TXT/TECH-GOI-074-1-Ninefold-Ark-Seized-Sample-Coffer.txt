@@ -98,9 +98,9 @@ the coffer stays shut.
 CROSS-REFERENCES
 ----------------
 
-- `GOI-HY-N-074` — Ninefold Ark, Group of Interest Dossier
-- `TECH-GOI-073-1` — Lantern Accord Collapsible Signal Beacon, Technology Record
-- `TECH-GOI-070-1` — Saint Morrow Passage White Ticket, Technology Record
+- GOI-HY-N-074 — Ninefold Ark, Group of Interest Dossier
+- TECH-GOI-073-1 — Lantern Accord Collapsible Signal Beacon, Technology Record
+- TECH-GOI-070-1 — Saint Morrow Passage White Ticket, Technology Record
 
 This is the only Ninefold Ark technology record, because it is the only Ark object A.C.T holds.
 The two references beside it are the nearest comparable files rather than a set: a beacon held
@@ -113,5 +113,5 @@ Record Type: Technology Record — Recovered Adversary Device
 Created: 12/06/2022
 Last Updated: 02/12/2025
 Review Cycle: On any change in Ark status, any opening request, or any return request
-Source: `GOI-HY-N-074` Ninefold Ark dossier, Known Assets and Holdings and Operating Method
+Source: GOI-HY-N-074 Ninefold Ark dossier, Known Assets and Holdings and Operating Method
 Dual Filing: Mandatory — GOI seizure, and biological preservation containers

@@ -34,7 +34,7 @@ other system. Its provenance is sensitive because the Facility made it.
 
 ---
 
-# THE RECORD
+## THE RECORD
 
 ## 1.1 What the ledger does
 
@@ -62,7 +62,7 @@ moment and no other. Which moment that was is not recorded.
 
 ---
 
-# HANDLING
+## HANDLING
 
 ## 2.1 Custody
 
@@ -105,7 +105,7 @@ Recorded for reference. It is not a Facility procedure and no personnel may foll
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 | DIVISION | USE |
 |---|---|
@@ -116,7 +116,7 @@ Recorded for reference. It is not a Facility procedure and no personnel may foll
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - how the copy was made, by whom, and with whose knowledge;
 - whether the Accord knows a copy exists;
@@ -131,7 +131,7 @@ been put to Legal.
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - `GOI-HY-W-073` — Lantern Accord, Group of Interest Dossier
 - `TECH-GOI-073-1` — Lantern Accord Collapsible Signal Beacon, Technology Record
@@ -145,7 +145,7 @@ valid.
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Record Type:** Technology Record — Recovered Adversary Device  
 **Created:** 19/06/2020  

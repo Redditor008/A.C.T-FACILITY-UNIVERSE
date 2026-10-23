@@ -142,10 +142,10 @@ been put to Legal.
 CROSS-REFERENCES
 ----------------
 
-- `GOI-HY-W-073` — Lantern Accord, Group of Interest Dossier
-- `TECH-GOI-073-1` — Lantern Accord Collapsible Signal Beacon, Technology Record
-- `TECH-GOI-073-2` — Lantern Accord Seal And Temporary Custody Tag, Technology Record
-- `TECH-GOI-073-3` — Lantern Accord Yellow-Line Warrant Fragment, Technology Record
+- GOI-HY-W-073 — Lantern Accord, Group of Interest Dossier
+- TECH-GOI-073-1 — Lantern Accord Collapsible Signal Beacon, Technology Record
+- TECH-GOI-073-2 — Lantern Accord Seal And Temporary Custody Tag, Technology Record
+- TECH-GOI-073-3 — Lantern Accord Yellow-Line Warrant Fragment, Technology Record
 
 The four records close one Accord practice. The beacon opens a line, the warrant records that it is
 open, the seal attests the writing, and this ledger records what was done along it. The archive
@@ -159,5 +159,5 @@ Record Type: Technology Record — Recovered Adversary Device
 Created: 19/06/2020
 Last Updated: 03/04/2025
 Review Cycle: On any change in Accord status or any request to use the copy
-Source: `GOI-HY-W-073` Lantern Accord dossier, Known Assets and Holdings and Operating Method
+Source: GOI-HY-W-073 Lantern Accord dossier, Known Assets and Holdings and Operating Method
 Dual Filing: Mandatory — GOI recovery, and record keeping technology

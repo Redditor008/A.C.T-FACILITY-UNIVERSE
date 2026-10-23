@@ -302,12 +302,12 @@ anomaly title first, followed by the designation.
 
 Approved structure:
 
-- `Title-UFD-XX-###.txt`
-- `Title-UFD-XX-###.md`
-- `Title-AFD-XX-###.txt`
-- `Title-AFD-XX-###.md`
-- `Title-ANM-XX-XX-####.txt`
-- `Title-ANM-XX-XX-####.md`
+- Title-UFD-XX-###.txt
+- Title-UFD-XX-###.md
+- Title-AFD-XX-###.txt
+- Title-AFD-XX-###.md
+- Title-ANM-XX-XX-####.txt
+- Title-ANM-XX-XX-####.md
 
 Recommended title formatting:
 - replace spaces with hyphens
@@ -388,11 +388,11 @@ transformation viability. It is a filing number — nothing more.
 Example Designations
 
 | Designation | Meaning |
-| `UFD-OB-119` | Unverified anomalous object #119 |
-| `AFD-SU-047` | Verified anomalous subject #047 |
-| `AFD-CH-999` | Verified cosmic hazard #999 |
-| `UFD-?.H-000` | Unverified shifting hazard #000 |
-| `AFD-ME-013` | Verified memetic anomaly #013 |
+| UFD-OB-119 | Unverified anomalous object #119 |
+| AFD-SU-047 | Verified anomalous subject #047 |
+| AFD-CH-999 | Verified cosmic hazard #999 |
+| UFD-?.H-000 | Unverified shifting hazard #000 |
+| AFD-ME-013 | Verified memetic anomaly #013 |
 
 Example Classification Header
 

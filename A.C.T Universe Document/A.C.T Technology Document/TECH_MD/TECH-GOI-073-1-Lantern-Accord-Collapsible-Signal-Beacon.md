@@ -35,7 +35,7 @@ archive holds from a broken object into a functioning charter instrument.
 
 ---
 
-# THE INSTRUMENT
+## THE INSTRUMENT
 
 ## 1.1 What it does
 
@@ -79,7 +79,7 @@ The circumstances of the break are not recorded and neither is the date of recov
 
 ---
 
-# HANDLING
+## HANDLING
 
 ## 2.1 Custody
 
@@ -113,7 +113,7 @@ Recorded for reference. It is not a Facility procedure and no personnel may foll
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 | DIVISION | USE |
 |---|---|
@@ -124,7 +124,7 @@ Recorded for reference. It is not a Facility procedure and no personnel may foll
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - how a shutter position maps to a line status, and whether the mapping is fixed per unit;
 - whether the obstruction is damage or a deliberate lock;
@@ -139,7 +139,7 @@ the unit broken until it does.
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - `GOI-HY-W-073` — Lantern Accord, Group of Interest Dossier
 - `TECH-GOI-073-2` — Lantern Accord Seal And Temporary Custody Tag, Technology Record
@@ -153,7 +153,7 @@ from the green one. Neither is a relationship in which the Facility holds the as
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Record Type:** Technology Record — Recovered Adversary Device  
 **Created:** 14/03/2019  

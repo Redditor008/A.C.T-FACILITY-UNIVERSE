@@ -12,7 +12,7 @@ TECHNOLOGY RECORD - SAINT-VERA GREEN-THREAD TISSUE STABILIZER
 +----------------------------+---------------------------------------------------------------------------------------+
 | TECHNOLOGY FAMILY          | GOI-DERIVED / WOUND CLOSURE / SPREAD-BOUNDARY STABILIZER                              |
 +----------------------------+---------------------------------------------------------------------------------------+
-| ORIGIN                     | Saint-Vera Restoration Concern (`GOI-CP-P-056`)                                       |
+| ORIGIN                     | Saint-Vera Restoration Concern (GOI-CP-P-056)                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 | MATERIAL SOURCE            | Unresolved; donor channels for rare tissue substitutes are suspected                  |
 +----------------------------+---------------------------------------------------------------------------------------+
@@ -305,9 +305,9 @@ fragment imitation applies directly to this material.
 CROSS-REFERENCES
 
 - GOI-CP-P-056 — Saint Vera Restoration Concern, Group of Interest Registry
-- `TECH-GOI-056-1` — restoration theater where the closure is applied
-- `TECH-GOI-056-3` — consent read that precedes any thread application
-- `TECH-GOI-056-5` — ledger entry created when a closure is refused or fails
+- TECH-GOI-056-1 — restoration theater where the closure is applied
+- TECH-GOI-056-3 — consent read that precedes any thread application
+- TECH-GOI-056-5 — ledger entry created when a closure is refused or fails
 - Complete Designation and Class Reference, Archive Record
 
 Filed under the GOI chain. The master technology index lists A.C.T assets, and this

@@ -145,10 +145,10 @@ forgery is a fact about the Bazaar rather than about them.
 CROSS-REFERENCES
 ----------------
 
-- `GOI-BS-X-069` — Namewright Bazaar, Group of Interest Dossier
-- `TECH-GOI-069-1` — Namewright Bazaar Partial Name Ledger, Technology Record
-- `TECH-GOI-069-2` — Namewright Bazaar Alias Knife, Technology Record
-- `TECH-GOI-069-4` — Namewright Bazaar Dead-Name Cupboard Door, Technology Record
+- GOI-BS-X-069 — Namewright Bazaar, Group of Interest Dossier
+- TECH-GOI-069-1 — Namewright Bazaar Partial Name Ledger, Technology Record
+- TECH-GOI-069-2 — Namewright Bazaar Alias Knife, Technology Record
+- TECH-GOI-069-4 — Namewright Bazaar Dead-Name Cupboard Door, Technology Record
 
 The ledger identifies the source name, the knife cuts the carriers, the stamps make the substitution
 look official, and the cupboard holds what was cut away. The stamps are the only one of the four that
@@ -161,5 +161,5 @@ Record Type: Technology Record — Recovered Adversary Device
 Created: 27/11/2021
 Last Updated: 08/07/2025
 Review Cycle: On any change in the dismantlement order or any impression request
-Source: `GOI-BS-X-069` Namewright Bazaar dossier, Known Assets and Holdings and Operating Method
+Source: GOI-BS-X-069 Namewright Bazaar dossier, Known Assets and Holdings and Operating Method
 Dual Filing: Mandatory — GOI seizure, and documentary forgery instruments

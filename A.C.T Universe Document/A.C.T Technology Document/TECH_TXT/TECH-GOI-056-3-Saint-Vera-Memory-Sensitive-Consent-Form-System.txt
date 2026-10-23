@@ -12,7 +12,7 @@ TECHNOLOGY RECORD - SAINT-VERA MEMORY-SENSITIVE CONSENT FORM SYSTEM
 +----------------------------+---------------------------------------------------------------------------------------+
 | TECHNOLOGY FAMILY          | GOI-DERIVED / AUTHORIZATION INSTRUMENT / COERCION DETECTOR                            |
 +----------------------------+---------------------------------------------------------------------------------------+
-| ORIGIN                     | Saint-Vera Restoration Concern (`GOI-CP-P-056`)                                       |
+| ORIGIN                     | Saint-Vera Restoration Concern (GOI-CP-P-056)                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 | OUTPUT FORM                | Altered document state, refusal label, or ledger annotation                           |
 +----------------------------+---------------------------------------------------------------------------------------+
@@ -188,9 +188,9 @@ asked what they remember, want, fear, and can still do; the form is completed
 or attempted; the refusal board reviews;
 a label is issued either way.
 
-Two Saint-Vera labels govern the read. `PATIENT RECOGNIZES SELF: YES / NO / UNCERTAIN`
+Two Saint-Vera labels govern the read. PATIENT RECOGNIZES SELF: YES / NO / UNCERTAIN
 records self-recognition
-without forcing a binary. `MEMORY GAP PRESENT BEFORE CARE` records that the gap predates
+without forcing a binary. MEMORY GAP PRESENT BEFORE CARE records that the gap predates
 Saint-Vera treatment, which
 protects the Concern from being blamed for it and protects the patient from having
 the gap treated as a new injury.
@@ -312,9 +312,9 @@ is preserved as evidence.
 CROSS-REFERENCES
 
 - GOI-CP-P-056 — Saint Vera Restoration Concern, Group of Interest Registry
-- `TECH-GOI-056-1` — theater where the consent read takes place
-- `TECH-GOI-056-4` — prosthetic fitting gated by the consent read
-- `TECH-GOI-056-5` — failure labels archived in the sealed continuity record
+- TECH-GOI-056-1 — theater where the consent read takes place
+- TECH-GOI-056-4 — prosthetic fitting gated by the consent read
+- TECH-GOI-056-5 — failure labels archived in the sealed continuity record
 - AMNESTIC ADMINISTRATION AND MEMORY-AFTERCARE REVIEW FORM, Operational Form
 
 Filed under the GOI chain. A.C.T lists no equivalent authorization instrument in its own

@@ -36,7 +36,7 @@ approval.
 
 ---
 
-# THE INSTRUMENT
+## THE INSTRUMENT
 
 ## 1.1 What a seal does
 
@@ -74,7 +74,7 @@ rather than an accident of age. The period and the trigger are unknown.
 
 ---
 
-# HANDLING
+## HANDLING
 
 ## 2.1 Custody
 
@@ -109,7 +109,7 @@ Recorded for reference. It is not a Facility procedure and no personnel may foll
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 | DIVISION | USE |
 |---|---|
@@ -119,7 +119,7 @@ Recorded for reference. It is not a Facility procedure and no personnel may foll
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - what the expiry period is, and whether expiry is timed or event-triggered;
 - whether the ink is distinctive enough to authenticate a sealed document at a distance;
@@ -134,7 +134,7 @@ ever hold one. Legal has not ruled.
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - `GOI-HY-W-073` — Lantern Accord, Group of Interest Dossier
 - `TECH-GOI-073-1` — Lantern Accord Collapsible Signal Beacon, Technology Record
@@ -146,7 +146,7 @@ violation ledger records what was done along it. None of the four functions insi
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Record Type:** Technology Record — Recovered Adversary Device  
 **Created:** 22/08/2019  

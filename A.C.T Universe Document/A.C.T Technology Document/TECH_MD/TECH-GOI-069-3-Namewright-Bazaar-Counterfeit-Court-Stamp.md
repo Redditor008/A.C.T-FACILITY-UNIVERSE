@@ -36,7 +36,7 @@ for any purpose, including authentication reference, without Level 5 and Legal a
 
 ---
 
-# THE INSTRUMENT
+## THE INSTRUMENT
 
 ## 1.1 What a stamp is for
 
@@ -72,7 +72,7 @@ Three in a cache is inventory.
 
 ---
 
-# HANDLING
+## HANDLING
 
 ## 2.1 Custody
 
@@ -109,7 +109,7 @@ Recorded for recognition. It is not a Facility procedure and no personnel may fo
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 | DIVISION | USE |
 |---|---|
@@ -120,7 +120,7 @@ Recorded for recognition. It is not a Facility procedure and no personnel may fo
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - which court or courts the stamps imitate, and how that would be established;
 - whether the three share one die, and whether that comparison can be made without an impression;
@@ -135,7 +135,7 @@ forgery is a fact about the Bazaar rather than about them.
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - `GOI-BS-X-069` — Namewright Bazaar, Group of Interest Dossier
 - `TECH-GOI-069-1` — Namewright Bazaar Partial Name Ledger, Technology Record
@@ -148,7 +148,7 @@ works on a document rather than on a person.
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Record Type:** Technology Record — Recovered Adversary Device  
 **Created:** 27/11/2021  

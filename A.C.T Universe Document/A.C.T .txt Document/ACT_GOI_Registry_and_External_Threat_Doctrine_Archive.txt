@@ -115,9 +115,9 @@ listed here so the marker and the registry agree. G for Guild is recommended and
 been issued. A recommended marker with no dossiers attached is not a defect.
 
 4.2.4 Example GOI Designations
-— `GOI-GV-P-001`
-— `GOI-ML-X-014`
-— `GOI-BS-T-027`
+— GOI-GV-P-001
+— GOI-ML-X-014
+— GOI-BS-T-027
 
 These identifiers are intended to make GOI records searchable, comparable, and operationally readable across
 divisions.

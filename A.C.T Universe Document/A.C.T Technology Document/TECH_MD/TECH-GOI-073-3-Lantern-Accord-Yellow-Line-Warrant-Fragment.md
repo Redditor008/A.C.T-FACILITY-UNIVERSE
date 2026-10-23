@@ -33,7 +33,7 @@ reconstruct one without Level 4 and Legal approval, and must not copy one into a
 
 ---
 
-# THE DOCUMENT
+## THE DOCUMENT
 
 ## 1.1 What a warrant is for
 
@@ -68,7 +68,7 @@ The warrant depends on the route books, which are unrecovered.
 
 ---
 
-# HANDLING
+## HANDLING
 
 ## 2.1 Custody
 
@@ -91,7 +91,7 @@ before it is an intelligence one.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 | DIVISION | USE |
 |---|---|
@@ -102,7 +102,7 @@ before it is an intelligence one.
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - how many fragments are held, and whether they came from one book or several;
 - what the route-specific language says, and whether the route books would explain it;
@@ -117,7 +117,7 @@ toward them.
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - `GOI-HY-W-073` — Lantern Accord, Group of Interest Dossier
 - `TECH-GOI-073-1` — Lantern Accord Collapsible Signal Beacon, Technology Record
@@ -131,7 +131,7 @@ the same routes and their paperwork describes the same journeys from opposite en
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Record Type:** Technology Record — Recovered Adversary Device  
 **Created:** 05/02/2020  

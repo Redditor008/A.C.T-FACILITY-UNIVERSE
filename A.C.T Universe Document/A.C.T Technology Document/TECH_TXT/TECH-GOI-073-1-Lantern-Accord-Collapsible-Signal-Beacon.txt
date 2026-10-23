@@ -147,12 +147,12 @@ the unit broken until it does.
 CROSS-REFERENCES
 ----------------
 
-- `GOI-HY-W-073` — Lantern Accord, Group of Interest Dossier
-- `TECH-GOI-073-2` — Lantern Accord Seal And Temporary Custody Tag, Technology Record
-- `TECH-GOI-073-3` — Lantern Accord Yellow-Line Warrant Fragment, Technology Record
-- `TECH-GOI-073-4` — Lantern Accord Violation Ledger Copy, Technology Record
-- `GOI-BS-W-070` — Saint Morrow Passage, Group of Interest Dossier
-- `GOI-HY-P-071` — Mercy Lock Institute, Group of Interest Dossier
+- GOI-HY-W-073 — Lantern Accord, Group of Interest Dossier
+- TECH-GOI-073-2 — Lantern Accord Seal And Temporary Custody Tag, Technology Record
+- TECH-GOI-073-3 — Lantern Accord Yellow-Line Warrant Fragment, Technology Record
+- TECH-GOI-073-4 — Lantern Accord Violation Ledger Copy, Technology Record
+- GOI-BS-W-070 — Saint Morrow Passage, Group of Interest Dossier
+- GOI-HY-P-071 — Mercy Lock Institute, Group of Interest Dossier
 
 The Saint Morrow reference arises from the blue lantern status. The Mercy Lock reference arises
 from the green one. Neither is a relationship in which the Facility holds the asset.
@@ -164,5 +164,5 @@ Record Type: Technology Record — Recovered Adversary Device
 Created: 14/03/2019
 Last Updated: 09/06/2024
 Review Cycle: On any change in Accord status or any restoration request
-Source: `GOI-HY-W-073` Lantern Accord dossier, Known Assets and Holdings and Operating Method
+Source: GOI-HY-W-073 Lantern Accord dossier, Known Assets and Holdings and Operating Method
 Dual Filing: Mandatory — GOI recovery, and signalling technology

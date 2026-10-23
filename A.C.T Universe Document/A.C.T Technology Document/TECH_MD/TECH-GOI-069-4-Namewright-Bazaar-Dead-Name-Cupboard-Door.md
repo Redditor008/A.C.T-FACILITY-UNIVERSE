@@ -36,7 +36,7 @@ discard it.
 
 ---
 
-# THE OBJECT
+## THE OBJECT
 
 ## 1.1 What the door is
 
@@ -80,7 +80,7 @@ surface or in its frame, and the frame is held intact so that an examination rem
 
 ---
 
-# HANDLING
+## HANDLING
 
 ## 2.1 Custody
 
@@ -126,7 +126,7 @@ archive holds the door of one such cupboard and none of its contents.
 
 ---
 
-# DIVISION USE
+## DIVISION USE
 
 | DIVISION | USE |
 |---|---|
@@ -138,7 +138,7 @@ archive holds the door of one such cupboard and none of its contents.
 
 ---
 
-# OPEN QUESTIONS
+## OPEN QUESTIONS
 
 - where the cupboard this door fitted is, and whether it still exists;
 - whether dead-name cupboards store their contents or destroy them;
@@ -154,7 +154,7 @@ closes that question and nothing should.
 
 ---
 
-# CROSS-REFERENCES
+## CROSS-REFERENCES
 
 - `GOI-BS-X-069` — Namewright Bazaar, Group of Interest Dossier
 - `TECH-GOI-069-1` — Namewright Bazaar Partial Name Ledger, Technology Record
@@ -167,7 +167,7 @@ two knives, three stamps and one door, and holds no cupboard and no contents.
 
 ---
 
-# FILE METADATA
+## FILE METADATA
 
 **Record Type:** Technology Record — Recovered Adversary Device  
 **Created:** 16/03/2022  

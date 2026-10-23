@@ -12,7 +12,7 @@ TECHNOLOGY RECORD - SAINT-VERA LIVING PROSTHETIC MEMORY-MOTION SYSTEM
 +----------------------------+---------------------------------------------------------------------------------------+
 | TECHNOLOGY FAMILY          | GOI-DERIVED / BODY REPLACEMENT / MEMORY-LINKED NERVE MEDIA                            |
 +----------------------------+---------------------------------------------------------------------------------------+
-| ORIGIN                     | Saint-Vera Restoration Concern (`GOI-CP-P-056`)                                       |
+| ORIGIN                     | Saint-Vera Restoration Concern (GOI-CP-P-056)                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 | COMPONENT SCOPE            | Limbs, voice grafts, glass ocular implants, nonstandard organ support                 |
 +----------------------------+---------------------------------------------------------------------------------------+
@@ -286,8 +286,8 @@ Voice Graft Substitution - DATE WITHHELD
 
 At least one voice graft produced speech that family members did not recognize as
 the patient's. The patient retained
-the voice and declined reversal. Subject Care recorded the refusal under `DO NOT REVERSE
-BEFORE ASKING` and took no
+the voice and declined reversal. Subject Care recorded the refusal under DO NOT REVERSE
+BEFORE ASKING and took no
 further action.
 
 DIVISION USE
@@ -310,9 +310,9 @@ evidence inventory unless an immediate containment hazard exists.
 CROSS-REFERENCES
 
 - GOI-CP-P-056 — Saint Vera Restoration Concern, Group of Interest Registry
-- `TECH-GOI-056-1` — theater where fitting is performed
-- `TECH-GOI-056-2` — thread interfaces reported at prosthetic attachment sites
-- `TECH-GOI-056-3` — consent read that gates every fitting
+- TECH-GOI-056-1 — theater where fitting is performed
+- TECH-GOI-056-2 — thread interfaces reported at prosthetic attachment sites
+- TECH-GOI-056-3 — consent read that gates every fitting
 - Transformation Review Board and Field Asset Register Doctrine, Archive Record
 
 Filed under the GOI chain, with mandatory dual filing wherever an implant meets the

@@ -56,7 +56,7 @@ ENTITY_000_ITHYOS.
 Supporting file:
 - First Preserved Document, Archive Record
 - ACT First Vault Document ENTITY 000 ITHYOS, Archive Record
-- `ACT_First_Vault_Document_ENTITY_000_ITHYOS.pdf`
+- ACT_First_Vault_Document_ENTITY_000_ITHYOS.pdf
 
 ---
 
@@ -166,9 +166,9 @@ location flavor.
 3.3 Designation Rules
 A.C.T uses three primary designation structures:
 
-- `UFD-XX-###`
-- `AFD-XX-###`
-- `ANM-XX-XX-####`
+- UFD-XX-###
+- AFD-XX-###
+- ANM-XX-XX-####
 
 3.3.1 UFD — Unknown Field Designation
 UFD is assigned during provisional detection and verification stages. It is used when anomalous
@@ -196,7 +196,7 @@ Recognized field type codes are:
 - ?.H = Shifting Hazard
 
 3.3.3 ANM — Fracture Designation
-`ANM-XX-XX-####` is used for anomalies whose documentation must be understood through fracture-state logic.
+ANM-XX-XX-#### is used for anomalies whose documentation must be understood through fracture-state logic.
 
 In this format:
 - the first XX is the Fracture Containment Index
@@ -268,18 +268,18 @@ its own*
 
 
 Official Fracture Index Codes
-When a fracture-sensitive designation is written in `ANM-XX-XX-####` form, the two letter segments abbreviate
+When a fracture-sensitive designation is written in ANM-XX-XX-#### form, the two letter segments abbreviate
 the
 Fracture Index:
 
-- QUESTIONED (`QU`) / ABSURD (`AB`) / MUTATED (`MU`) / UNAUTHORED (`UA`) / SCHRÖDINGER
-(`SC`) — used in the Fracture
+- QUESTIONED (QU) / ABSURD (AB) / MUTATED (MU) / UNAUTHORED (UA) / SCHRÖDINGER
+(SC) — used in the Fracture
 Containment Index segment
-- HARMLESS (`HM`) / BENEFICIAL (`BE`) / REVERTED (`RV`) / ABSENT (`AS`) / NULLIFIED
-(`NU`) — used in the Fracture
+- HARMLESS (HM) / BENEFICIAL (BE) / REVERTED (RV) / ABSENT (AS) / NULLIFIED
+(NU) — used in the Fracture
 Sub-Threat Index segment
 
-Under this rule, a designation such as `ANM-AB-HM-0002` is read as ABSURD containment, HARMLESS
+Under this rule, a designation such as ANM-AB-HM-0002 is read as ABSURD containment, HARMLESS
 sub-threat, registry
 number 0002.
 
@@ -542,16 +542,16 @@ containment problem, not the most dramatic aesthetic.
 
 3.11 Information Suppression and Redaction Format
 Authorized suppression and redaction markers include:
-- `[ BLANK ]`
-- `[ MEMETIC ]`
-- `[ INFO-HAZARD ]`
-- `[MEMETIC FILTER APPLIED]`
-- `[STRUCTURAL DATA OMITTED]`
-- `[ABYSS ACCESS ONLY]`
-- `[ O5 - ONLY ]`
-- `[O5-RESTRICTED]`
-- `[ Level 4-5 Lock ]`
-- `[ Specialize Only ]`
+- [ BLANK ]
+- [ MEMETIC ]
+- [ INFO-HAZARD ]
+- [MEMETIC FILTER APPLIED]
+- [STRUCTURAL DATA OMITTED]
+- [ABYSS ACCESS ONLY]
+- [ O5 - ONLY ]
+- [O5-RESTRICTED]
+- [ Level 4-5 Lock ]
+- [ Specialize Only ]
 
 These markers indicate that the information itself may be dangerous, destabilizing, or part of
 containment.
@@ -584,7 +584,7 @@ anomaly record for:
 Supporting file:
 - AFD-CH-000 — ITHYOS, THE WORLD-SLEEPER, Archive Record
 - ACT ITHYOS Modern Anomaly File Standard, Archive Record
-- `ACT_ITHYOS_Modern_Anomaly_File_Standard.pdf`
+- ACT_ITHYOS_Modern_Anomaly_File_Standard.pdf
 
 This file demonstrates the transition from the early ENTITY archive era into full modern
 A.C.T anomaly doctrine.
