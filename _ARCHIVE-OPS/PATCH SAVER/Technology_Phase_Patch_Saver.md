@@ -6463,3 +6463,38 @@ the four-segment anomaly form.
 messages only.
 
 **DOCUMENT_COUNT 999.** Gates: bad-EOF 0, odd-fence 0, multiH1 2 and expected.
+
+## Prompt End Update — 2026-10-23, Eight Records Rebuilt; Message Checker Proven Six Times
+
+**Eight of the thirteen records rebuilt in the owner's structure and the archivist voice.**
+
+    SET 073  LANTERN ACCORD       COMPLETE  -1 2388->1153  -2 2241->1116  -3 2164->1016  -4 2202->1135
+    SET 069  NAMEWRIGHT BAZAAR    3 of 4    -1 2221->1156  -2 2292->1267  -3 2218->1129
+    SET 074  NINEFOLD ARK         structure only, voice pass outstanding   -1 2333->815
+
+**The message checker has now caught six drafted-wrong figures.** 1177 against 1153, 1132 against
+1135, 1169 against 1135, 1543 against 1267, 1337 against 1156, and 940 against 826. The first two
+shipped before the tool existed. The last four were caught and corrected before pushing.
+
+**One garbled commit message shipped and was amended.** A message assembled by shell substitution
+captured the verification block's line labels along with its values and shipped as broken text.
+Every digit in it was present in the block, so the bare-number check had nothing to object to. The
+commit was amended in place and pushed with `--force-with-lease`, replacing 7ebdcc0 with ddc696b.
+The record and both twins were always correct; only the message was wrong.
+
+**The checker was revised three times, each revision driven by a failure it did not catch.**
+First it passed a message with no figures at all, so required figures were added. Then it refused a
+correct message for naming a set, so the ignore pattern was extended to set references, full
+designations and the four-segment anomaly form. Then it passed the garbled message, so a figure now
+has to sit beside a word from its label rather than merely appear somewhere in the text.
+
+**The lesson behind all six.** The pattern is consistent: the figure is written from what the change
+was meant to be, not from what the verification block printed. A rule in a document does not fix
+that. A script in the commit path does, and only for commit messages.
+
+**The gap that remains.** Reports to the owner are not intercepted by anything. Every figure in a
+report may come from a verification block, and nothing checks the transcription. That is the same
+failure the commit checker prevents, in the one channel where it cannot be prevented mechanically.
+
+**DOCUMENT_COUNT 999.** Five records remain: the dead-name cupboard door, the four Saint Morrow
+Passage records, and the voice pass on the Ninefold Ark coffer.
