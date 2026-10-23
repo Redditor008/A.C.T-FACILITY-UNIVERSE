@@ -71,14 +71,29 @@ REQUIRED_LABELS = ("md words", "DOCUMENT_COUNT")
 
 
 def check_required(verification: str, message: str):
-    """Report any expected label whose figure the message does not carry."""
+    """Report any expected label whose figure the message does not carry beside the label.
+
+    Checking that a figure appears somewhere in the message is not enough. A message assembled by
+    shell substitution once shipped reading "1 / 1129 words from 2 / 2218" because a grep captured
+    the line label as well as the value, and every number in it was present in the verification
+    block, so the bare-number check passed a message that said nothing coherent. The figure has to
+    sit next to a word from its label, not merely somewhere in the text.
+    """
     missing = []
     for label in REQUIRED_LABELS:
         m = re.search(re.escape(label) + r":\s*(\d+)", verification)
         if not m:
             continue
-        if m.group(1) not in numbers(message):
-            missing.append((label, m.group(1)))
+        value = m.group(1)
+        # a word of at least four characters from the label, within 40 characters of the value
+        words = [w for w in re.split(r"[\s_]+", label) if len(w) >= 4]
+        near = re.compile(
+            r"(?:%s)[^\d]{0,40}\b%s\b|\b%s\b[^\d]{0,40}(?:%s)"
+            % ("|".join(words), re.escape(value), re.escape(value), "|".join(words)),
+            re.IGNORECASE,
+        )
+        if not near.search(message):
+            missing.append((label, value))
     return missing
 
 
@@ -91,11 +106,12 @@ def main(argv):
     produced, claimed, missing = check(verification, message)
     absent = check_required(verification, message)
     if absent and not missing:
-        print("REFUSED: the message omits figures the verification block measured:")
+        print("REFUSED: the message does not carry these measured figures beside their labels:")
         for label, value in absent:
             print("    %s = %s" % (label, value))
-        print("\na message that quotes no figures passes the number check trivially and enforces")
-        print("nothing. State the measured figures so they can be checked.")
+        print("\na figure has to sit next to a word from its label. A number that merely appears")
+        print("somewhere in the message proves nothing, and a message assembled by substitution can")
+        print("carry every correct digit and still say nothing coherent.")
         return 1
     if not missing:
         print("ok: %d number(s) in the message, all appear in the verification output" % len(claimed))
