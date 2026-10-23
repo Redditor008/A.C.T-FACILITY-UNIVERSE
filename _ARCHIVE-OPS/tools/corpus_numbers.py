@@ -153,6 +153,51 @@ def main() -> int:
     )
     r["PATCH_SAVER_WORDS"] = len(read(PATCH).split())
 
+    # Story gates. The house rules live in
+    # _ARCHIVE-OPS/STORY WRITING RULE/Unified-Narrative-Writing-Rules-for-AI-updated.md.
+    # RULE 0.10 sets a 1,500-word floor per part. RULE 3.1 requires a chapter to open
+    # on action or dialogue. The lockstep gate keeps the manuscript and the chapters
+    # agreeing, because editing one without the other is how the drift happened.
+    chap_files = sorted(
+        f
+        for f in (STORY / "Chapters").glob("*.md")
+        if f.is_file()
+    ) if (STORY / "Chapters").is_dir() else []
+    r["STORY_PARTS_UNDER_1500"] = sum(
+        1 for f in chap_files if len(read(f).split()) < 1500
+    )
+    action_open = 0
+    for f in chap_files:
+        if not f.stem.startswith("Chapter-"):
+            continue
+        body = [line for line in read(f).split("\n") if line.strip()]
+        if len(body) < 2:
+            continue
+        first = body[1].strip()
+        if first.startswith('"') or re.match(
+            r"^(She|He|Sera|Someone|The order)\s+\w+ed\b", first
+        ):
+            action_open += 1
+    r["STORY_CHAPTERS_TOTAL"] = sum(
+        1 for f in chap_files if f.stem.startswith("Chapter-")
+    )
+    r["STORY_CHAPTERS_ACTION_OPEN"] = action_open
+
+    ms = sorted(STORY.glob("01-*.md"))
+    lockstep = -1
+    if ms and chap_files:
+        mstext = read(ms[0])
+        agree = 0
+        for f in chap_files:
+            body = [line for line in read(f).split("\n") if line.strip()]
+            if len(body) < 2:
+                continue
+            opener = " ".join(body[1].split())[:60]
+            if opener in " ".join(mstext.split()):
+                agree += 1
+        lockstep = len(chap_files) - agree
+    r["STORY_MANUSCRIPT_LOCKSTEP_FAILURES"] = lockstep
+
     chap_dir = STORY / "Chapters"
     chapters = (
         [p for p in chap_dir.rglob("*.md") if p.is_file()]

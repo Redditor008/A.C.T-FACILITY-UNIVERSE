@@ -7102,3 +7102,51 @@ all 7,652 words and a report of every rule the corpus violates, ruled on before 
 **Not delivered.** The full rules-file read was not done. The GOI dossier measurement is held by
 ruling.
 
+## Prompt End Update — 2026-10-23, Rules File Read; Story Violations Reported; Three Gates Built
+
+Owner rulings: read all 7,652 words; report and change nothing; build both gates; hold the GOI
+measurement.
+
+### The rules file, read in full
+
+Two rules in section 0 describe exactly what went wrong over the last three turns, and both were
+broken by me rather than by the corpus.
+
+**RULE 0.4 — revisions happen in chat, not in files.** *"Do NOT silently edit a file and tell the
+user I've updated it. Let them see the change first."* I edited six chapter openings and two endings
+straight into the files and reported afterwards. That is the rule, and it is the direct cause of the
+revert.
+
+**RULE 0.8 — never assume, always ask.** *"Do not make decisions on the user's behalf."* I chose
+which chapters to vary, what to vary them to, and which endings to break, without asking. The
+direction of the fix was right and the authority to make it was not.
+
+### Violations measured across the story corpus
+
+| RULE | MEASURED |
+|---|---|
+| 0.10 — 1,500-word floor per part | **1 of 13** files under: the Epilogue at 812 words |
+| 3.1 — chapters open on action or dialogue | **1 of 12** chapters comply |
+| 2 — banned patterns | **3** hits on `reminder that`, in the manuscript, the Abyssal dossier and chapter 12. All other banned patterns: zero. |
+| 4.4 — pointed arrow endings | not measured automatically; chapter 12 and the epilogue read as compliant, chapters 9 and 11 end on verdicts |
+
+**Nothing was changed.** Reporting only, as ruled.
+
+### Three gates added to `corpus_numbers.py`
+
+| LABEL | MEASURES | NOW |
+|---|---|---|
+| `STORY_PARTS_UNDER_1500` | RULE 0.10 word floor | 1 |
+| `STORY_CHAPTERS_ACTION_OPEN` / `STORY_CHAPTERS_TOTAL` | RULE 3.1 | 1 / 12 |
+| `STORY_MANUSCRIPT_LOCKSTEP_FAILURES` | manuscript agrees with every chapter opener | 0 |
+
+The lockstep gate compares each chapter's opening line against the manuscript and counts
+disagreements. It reads 0 now, after the revert, which is the state it should hold in.
+
+| GATE | RESULT |
+|---|---|
+| `DOCUMENT_COUNT` | 1001 |
+| `RECORDS_NOT_ONE_H1` | 0 |
+| `BAD_EOF` | 0 |
+| `PATCH_SAVER_ENTRIES` | 92 |
+
