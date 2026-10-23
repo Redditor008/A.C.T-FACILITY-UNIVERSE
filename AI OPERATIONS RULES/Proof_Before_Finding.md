@@ -107,6 +107,32 @@ The same trap covers wrapped terminal lines that read as over-length lines, tabl
 count as data rows, and any census whose tool silently truncates. When a measurement looks wrong,
 change the tool's output settings before changing the data.
 
+## Never commit while your own output contains a failing number
+
+Read the whole verification block before committing, not the exit status and not the last line. A
+failing number sitting among passing ones is still a failure, and the commit message will be
+wrong in the same breath as it.
+
+This happened. A dossier correction was verified, the block printed
+
+```
+GOI-HY-N-074-Ninefold-Ark.txt | lines>118: 1 | prose>118: 1
+```
+
+and the commit shipped anyway, because the number was one line among several clean results and was
+read past. The defect was a 164-character prose line in a file with a 118-character limit, created
+by inserting replacement text without re-wrapping it.
+
+The rule that follows from it:
+
+1. Print every check in one block and read every line of it before committing.
+2. If any line reports a non-zero count of defects, fix it in the same turn. Do not commit and
+   fix afterwards.
+3. Any inserted or replaced prose must be re-wrapped to the house limit before the file is
+   written. Insertion is not wrapping.
+4. Where a defect is found after a commit has shipped, say which commit carried it and what the
+   number was. Do not let the correction commit imply the defect was only just discovered.
+
 ## Related standing gates
 
 - Compare `git rev-parse HEAD` against `git ls-remote origin <branch>` before the first edit of
