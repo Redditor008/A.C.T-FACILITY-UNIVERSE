@@ -7685,3 +7685,70 @@ craft as a whole.**
 
 No story file was changed by this batch.
 
+## Prompt End Update — 2026-10-24, Anti-Bloat Re-Audit Clean; Nine Technology Records Below House Shape
+
+Owner ruling: re-run the anti-bloat sweep, then review the technology set.
+
+### The anti-bloat result
+
+**415** markdown documents, **940,760** words, median **2,037**. Over-production shows up as the same
+prose reused across many documents, so every sentence longer than 70 characters was extracted and
+counted by how many documents share it.
+
+**4 sentences** are shared across 8 or more documents, and all 4 are legitimate status boilerplate in
+the site and floor dossiers — the clearance sentence and the per-floor operational status line. **No
+duplication bloat was found.**
+
+The concentration is real but not bloat: the Technology Document folder is **255** files and **54%**
+of the corpus, and `TECH-ACT` core alone is **137** files and **57%** of that folder. Those sets were
+built on owner direction across many sessions, so nothing was cut. Standing rule: no unilateral
+deletion of pre-existing content; flag the exact list instead.
+
+### The finding that did surface
+
+Listing the 23 GOI sets by shape found **9 records below the house 1,800-word floor**, totalling
+**6,057** words of shortfall. Set 068 was suspected and is fine: 2 records at 2,195 and 2,453.
+
+| WORDS | SHORTFALL | RECORD |
+|---|---|---|
+| 838 | 962 | `TECH-GOI-074-1` Ninefold Ark Seized Sample Coffer |
+| 1,016 | 784 | `TECH-GOI-073-3` Lantern Accord Yellow Line Warrant Fragment |
+| 1,116 | 684 | `TECH-GOI-073-2` Lantern Accord Seal and Temporary Custody Tag |
+| 1,129 | 671 | `TECH-GOI-069-3` Namewright Bazaar Counterfeit Court Stamp |
+| 1,135 | 665 | `TECH-GOI-073-4` Lantern Accord Violation Ledger Copy |
+| 1,153 | 647 | `TECH-GOI-073-1` Lantern Accord Collapsible Signal Beacon |
+| 1,156 | 644 | `TECH-GOI-069-1` Namewright Bazaar Partial Name Ledger |
+| 1,267 | 533 | `TECH-GOI-069-2` Namewright Bazaar Alias Knife |
+| 1,333 | 467 | `TECH-GOI-069-4` Namewright Bazaar Dead Name Cupboard Door |
+
+These are thin, not over-produced. The owner ruled to bring them up to shape; the expansion is not
+written yet and is the open item.
+
+### A second finding on the same record
+
+`TECH-GOI-074-1` does not follow the house record shape either. Its sections run `## 1.1` through
+`## 1.5` under an `## ASSESSMENT` heading, where the house shape is 14 named H2s in a fixed order.
+Bringing it to word count without bringing it to shape would fix the number and leave the structure
+wrong, so the expansion has to do both.
+
+### Open
+
+Nine records to expand to 1,800-2,600 words each, with the `.txt` twins kept in lockstep, and
+`TECH-GOI-074-1` restructured to the house shape in the same pass. Then the hand-judging of the 13
+chapter files against RULE 3.3, RULE 3.5 and RULE 4.3.
+
+### Gates after the audit
+
+| GATE | RESULT |
+|---|---|
+| `DOCUMENT_COUNT` | 1026 |
+| `TECH_MD_FILES` / `TECH_TXT_FILES` | 244 / 244 |
+| `TECH_RECORDS` | 242 |
+| `TECH_UNPAIRED_TWINS` | 0 |
+| `STORY_CHAPTERS_ACTION_OPEN` | 12 |
+| `THIN_READMES` / `READMES_WITHOUT_SECTIONS` / `FOLDERS_WITHOUT_README` | 0 / 0 / 0 |
+| `PATCH_SAVER_ENTRIES` | 113 |
+
+No content file was changed by this batch. The re-clone guard fired twice and the tree was recovered
+from origin each time before anything else ran.
+
