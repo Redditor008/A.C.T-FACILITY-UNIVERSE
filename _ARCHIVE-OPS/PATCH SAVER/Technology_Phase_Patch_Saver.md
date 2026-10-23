@@ -6237,3 +6237,57 @@ tracked files found nothing else: 540 txt, 423 md, 3 in-world PDFs, 4 logo files
 **Thirteen silent workspace resets this session.** Every push rejection was one. Recovery is
 always `git fetch` then `git rebase` onto the remote, never force. Two of the rebases conflicted on
 the tracked `.pyc`, which is why it was removed.
+
+## Prompt End Update — 2026-10-23, Programme Closed at Thirteen Records; Stamp Fixed
+
+**All four sets are built. Thirteen records, twenty-six files, every cross-reference resolving.**
+
+    SET 073  LANTERN ACCORD        GOI-HY-W-073   HYBRID / WORK       CUSTODY            4 of 4
+      -1 Collapsible Signal Beacon 2376w   -2 Seal And Custody Tag    2241w
+      -3 Yellow-Line Warrant Fragment 2163w   -4 Violation Ledger Copy 2202w
+
+    SET 069  NAMEWRIGHT BAZAAR     GOI-BS-X-069   BUSINESS / NEGATIVE COUNTER-OPERATION  4 of 4
+      -1 Partial Name Ledger 2217w  -2 Alias Knife 2292w
+      -3 Counterfeit Court Stamp 2218w   -4 Dead-Name Cupboard Door 2309w
+
+    SET 070  SAINT MORROW PASSAGE  GOI-BS-W-070   BUSINESS / WORK     CUSTODY            4 of 4
+      -1 White Ticket 2245w   -2 Route Bell 2209w
+      -3 Cold-Map Fragment 2266w   -4 Partial Crossing Ledger 2278w
+
+    SET 074  NINEFOLD ARK          GOI-HY-N-074   HYBRID / NEUTRAL    ASSESSMENT         1 of 1
+      -1 Seized Sample Coffer 2331w
+
+**Three record shapes, and the choice is driven by the GOI posture, not by preference.** Custody
+for a work relationship where A.C.T appropriated the object - 073 and 070. Counter-operation for
+a hostile party under a dismantlement order - 069, which asks what the instrument does to a person
+rather than what it does for A.C.T. Assessment for a neutral party that is monitored rather than
+cooperated with - 074, where A.C.T holds one disputed object and does not use it.
+
+**Set 074 is one record and not five, because the dossier contradicted itself and was corrected.**
+Its summary line claimed recovered sample coffers, selection fragments, denial cards, trust
+paperwork and inspection reports. Its holdings section said A.C.T inspected one seed annex, seized
+one sample coffer, and photographed one mobile hold from outside. The precise account is the
+evidence, so the summary was rewritten to agree with it and the four documentary categories were
+recorded as documents rather than holdings. By the warrant test only the coffer qualifies.
+
+**The set review found a stamp and it was mine.** All thirteen records opened SERVICING AND
+CALIBRATION with one identical sentence, FAILURE HISTORY with another, and eleven opened TECHNICAL
+SPECIFICATION identically. Eight patterns covered the repetition and the highest appeared in all
+thirteen. Each is now varied across as many shapes as there are records; the highest repeat
+anywhere is now two, and the remaining repeats are in-world facts restated within one set.
+
+**Three failed attempts at that fix, all caught by the verification block before committing.**
+Single-line base strings substituted into hard-wrapped prose silently missed every instance broken
+across a newline. Replacement sentences wrapped in isolation and inserted mid-paragraph pushed
+twelve of thirteen records over 118 characters. And a prose re-wrapper run over the plain-text
+twins merged every plain-line chapter heading into its following rule, producing lines like
+`FUNCTION SUMMARY ================` and damaging all thirteen twins.
+
+**The working method, recorded so it is not rediscovered.** Substitute into the Markdown edition.
+Re-flow Markdown paragraphs, where headings carry a `## ` prefix and are safely skipped. Then
+regenerate each plain-text twin from its Markdown source with the proven generator. **Never
+re-flow a plain-text twin**, because its chapter headings are plain lines and a prose re-wrapper
+cannot tell them from text.
+
+**Sixteen silent workspace resets across the session**, one producing every push rejection.
+Recovery is always `git fetch` then `git rebase` onto the remote, never force.
