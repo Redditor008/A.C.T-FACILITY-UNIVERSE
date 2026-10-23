@@ -1,6 +1,9 @@
 # Chapter 4 — The Bloom Before the Bloom
 
-The next contradiction came with a smell.
+Sera opened the evidence envelope and stopped breathing through her nose. Scent came off
+the paper. It should not have been possible across that many years, not through filtered
+air, sealed sleeves, preservation resin and the layered indifference of time, and yet the
+residue clung to her gloves when she pulled them back.
 
 It should not have been possible for paper to remember scent after that many
 years, not through filtered air, sealed

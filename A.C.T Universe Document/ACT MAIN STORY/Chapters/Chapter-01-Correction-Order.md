@@ -1,6 +1,9 @@
 # Chapter 1 — Correction Order
 
-The correction slip arrived without ceremony.
+"Pull the 014 request again," Sera said, and heard her own voice go flat the way it did
+when something in the archive refused to line up. The correction slip was already on the
+desk when the shift lamps climbed out of sleep-cycle: no messenger, no verbal handoff, no
+escort. Just a thin black folder laid exactly parallel to the edge of the workstation.
 
 It waited on the archiver’s desk when the shift lamps rose from their dim
 red sleep-cycle to a working white, its

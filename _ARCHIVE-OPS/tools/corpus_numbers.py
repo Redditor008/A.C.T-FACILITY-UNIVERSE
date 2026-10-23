@@ -174,8 +174,13 @@ def main() -> int:
         if len(body) < 2:
             continue
         first = body[1].strip()
-        if first.startswith('"') or re.match(
-            r"^(She|He|Sera|Someone|The order)\s+\w+ed\b", first
+        # Dialogue, or a named subject doing something. Irregular past tenses are
+        # listed because a regex on \w+ed alone missed "wrote" and "read" and
+        # reported two compliant chapters as violations.
+        if first.startswith(('"', "“")) or re.match(
+            r"^(She|He|Sera|Someone|The order|The clerk|The reviewer)\s+"
+            r"(?:\w+ed|wrote|read|said|went|sat|stood|took|put|ran|held|kept|found|left)\b",
+            first,
         ):
             action_open += 1
     r["STORY_CHAPTERS_TOTAL"] = sum(

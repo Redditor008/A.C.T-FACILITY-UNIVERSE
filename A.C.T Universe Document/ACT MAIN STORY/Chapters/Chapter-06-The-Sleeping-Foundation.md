@@ -1,7 +1,8 @@
 # Chapter 6 — The Sleeping Foundation
 
-Once Sera accepted that ERE had been guided downward, the shape of the next
-question became unavoidable.
+Sera wrote the question on the back of a routing slip before she had decided to ask it:
+*what did they actually find when they got down there.* Not the version in the historical
+summaries. Not the clean doctrine line repeated in every orientation deck since.
 
 What had they actually found when they got there?
 

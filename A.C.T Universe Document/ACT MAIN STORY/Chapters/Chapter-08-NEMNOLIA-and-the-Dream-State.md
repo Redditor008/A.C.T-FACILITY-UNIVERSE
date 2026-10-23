@@ -1,6 +1,8 @@
 # Chapter 8 — NEMNOLIA and the Dream-State
 
-The proof did not come from the abyss.
+Sera read the pharmacology annex standing up, and sat down in somebody else's chair
+without noticing. It was not the abyss that settled it. It was a compound, a dosage curve,
+and a supply chain that had never once been interrupted. That was what made it devastating.
 
 It came from pharmacology.
 

@@ -1,6 +1,9 @@
 # Chapter 11 — Fragments, Not Revelation
 
-The decision did not arrive as courage.
+Sera worked the arithmetic on the back of a form she had no authority to be holding, and
+worked it three times, and got the same answer three times. Courage never showed up. By
+the time she understood that fully remembering the truth might itself become a route, the
+sums had already decided for her.
 
 It arrived as arithmetic.
 

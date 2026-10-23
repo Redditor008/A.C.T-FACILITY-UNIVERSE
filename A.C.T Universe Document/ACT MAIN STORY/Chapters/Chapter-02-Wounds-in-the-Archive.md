@@ -1,6 +1,8 @@
 # Chapter 2 — Wounds in the Archive
 
-Sera did not file the discrepancy report.
+Sera closed the discrepancy report without filing it, and sat with her hand still on the
+terminal. That was the first rule she had ever broken on this floor, and she had done it
+in under four seconds, before she had finished deciding to.
 
 By the time her shift ended, she had written three versions of it in
 her head and destroyed each one before it reached

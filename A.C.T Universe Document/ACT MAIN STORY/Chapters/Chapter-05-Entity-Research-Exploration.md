@@ -1,6 +1,9 @@
 # Chapter 5 — Entity Research Exploration
 
-By the fifth day, Sera stopped thinking of the old records as history.
+Sera stopped filing the ERE records on the fifth day, and nobody told her to. History had
+been the wrong word for them since Tuesday. History implies distance, a settled shape that
+can no longer reach up through paper and procedure to touch anyone living, and these files
+had made a liar of that comfortably.
 
 History implied distance. It implied that whatever violence had produced the present had already
 settled into shape

@@ -1,6 +1,9 @@
 # Chapter 9 — The First Lie
 
-By the ninth day, Sera no longer believed in coincidence.
+"Coincidence," the reviewer said, and turned the page. By the ninth day Sera could not
+hear the word without counting. Nothing inside the Facility, nothing inside the archive,
+nothing in any record that bent the same way too many times and expected to be called
+history.
 
 Not inside the Facility. Not inside the archive. Not in any record that bent
 the same way too many times and expected

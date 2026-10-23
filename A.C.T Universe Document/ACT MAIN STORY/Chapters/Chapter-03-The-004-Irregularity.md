@@ -1,6 +1,8 @@
 # Chapter 3 — The 004 Irregularity
 
-The first time Sera saw the pattern clearly, it was disguised as dosage notation.
+"It's a filing error," Sera said aloud, to nobody, and then read the line again.
+That was the first time she saw the pattern clearly, and it had come at her disguised as
+something small enough to route and forget.
 
 Nothing in the medical archive ever announced itself as a revelation. The Facility had
 too much practice burying

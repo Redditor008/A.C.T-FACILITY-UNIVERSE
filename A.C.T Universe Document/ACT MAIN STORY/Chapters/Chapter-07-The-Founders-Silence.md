@@ -1,6 +1,8 @@
 # Chapter 7 — The Founders’ Silence
 
-The proof arrived disguised as absence.
+"Run the index again," Sera said. "Not the sealed ones. The ones that aren't there."
+The clerk looked at her as though she had asked for the weather, and ran it. The gap came
+back with edges, and it took her most of a morning to see that the edges were the point.
 
 Sera had expected, by then, that the deepest truths in the Facility would be
 hidden behind locked shelves, black

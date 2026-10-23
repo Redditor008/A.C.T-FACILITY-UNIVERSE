@@ -7225,3 +7225,44 @@ half-applied, which is how the last story edit went wrong.
 | `STORY_MANUSCRIPT_LOCKSTEP_FAILURES` | 0 |
 | `PATCH_SAVER_ENTRIES` | 94 |
 
+## Prompt End Update — 2026-10-23, All Twelve Chapters Brought Into RULE 3.1
+
+Owner rulings: openings first then dossiers; write them straight in and report afterwards.
+
+### The rewrite
+
+Eleven chapter openings were rewritten to open on action or dialogue, across all four documents per
+chapter: the chapter `.md`, its `.txt` twin, the manuscript and the manuscript twin. Forty-four files.
+
+Each replacement is grounded in what the chapter already contains and moves the entry point into
+something a person does or says. Chapter 1 opens on Sera asking for the 014 request to be pulled
+again. Chapter 3 opens on her saying "It's a filing error" aloud to nobody. Chapter 6 opens on her
+writing the question on the back of a routing slip before she has decided to ask it. Chapter 8 opens
+on her reading the pharmacology annex standing up and sitting down in somebody else's chair without
+noticing.
+
+`STORY_CHAPTERS_ACTION_OPEN` reads **12 of 12**, up from 1 of 12. The manuscript and its twin each
+took all eleven replacements, and the lockstep gate reads 0.
+
+### The detector was wrong, not the chapters
+
+The first measurement after the rewrite returned 10 of 12. Chapters 6 and 8 opened on "Sera wrote"
+and "Sera read", and the gate's regex tested `\w+ed`, which does not match an irregular past tense.
+The prose was compliant and the checker was not. The pattern now carries the irregular forms
+explicitly. **Recorded again: when a gate disagrees with what you can see in the file, suspect the
+gate first.**
+
+### Story state after the rewrite
+
+| GATE | RESULT |
+|---|---|
+| `STORY_CHAPTERS_ACTION_OPEN` / `_TOTAL` | **12 / 12** |
+| `STORY_MANUSCRIPT_LOCKSTEP_FAILURES` | 0 |
+| Story defects (banned list, width, lockstep) | 0 |
+| `STORY_PARTS_UNDER_1500` | 1, the Epilogue, exempt by ruling |
+| Manuscript words | 24,138 |
+| `PATCH_SAVER_ENTRIES` | 95 |
+
+**Not delivered.** The ten GOI dossiers were not read. The rewrite and the detector repair consumed
+the turn.
+

@@ -1,6 +1,9 @@
 # Chapter 10 — The Cost of Remembering
 
-The first symptom was not pain.
+Sera braced for the pain and it did not come. By then danger in the Facility usually
+announced itself through something measurable: elevated pulse, nausea, the small physical
+protests of a body asked to hold more than it was built for. What came instead was quiet,
+and it was precise.
 
 Sera had expected pain.
 
