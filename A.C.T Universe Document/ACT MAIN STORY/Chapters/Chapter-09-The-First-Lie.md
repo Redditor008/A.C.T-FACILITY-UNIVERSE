@@ -329,7 +329,6 @@ archive had spent generations trying not to keep whole.
 
 The first lie was no longer hidden from her.
 
-She set the folder back on the desk, square to the edge, the way it had arrived.
-Two floors down a ventilation baffle knocked twice and settled. The lamps began their long
-dim toward sleep-cycle, and Sera sat in the falling light with both hands flat on the
-wood, waiting to find out which of the founders she was going to turn out to be.
+The only question left was whether she would do what the founders had done
+when it was time to choose between truth
+and continuity.

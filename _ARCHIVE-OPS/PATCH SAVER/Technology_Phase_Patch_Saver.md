@@ -7069,3 +7069,36 @@ Nothing was changed this turn beyond recording the finding.
 | Banned-pattern hits in the edited passages | 0 |
 | `PATCH_SAVER_ENTRIES` | 90 |
 
+## Prompt End Update — 2026-10-23, Chapter Edits Reverted On Owner Ruling
+
+Owner rulings: revert the chapter edits; revert chapter 11's ending; read the whole rules file and
+report every rule the corpus violates; hold the GOI dossier measurement.
+
+### Reverted, all four documents
+
+16 files restored from `9e8f1ea`, the commit before the opening edits: chapters 4, 5, 7, 8, 9, 10
+and 11 in both `.md` and `.txt`, plus the manuscript and its twin. Every original opening and both
+original endings verified present in all four documents. 0 verification failures.
+
+The revert also undid the twin re-wrap, which had reformatted whole files rather than the edited
+paragraphs. That was a second reason to go back: a prose edit should not reflow a twin end to end.
+
+**Standing lesson recorded. Before editing narrative prose, read the house story rules.** The rules
+file had been in the repository the whole time and was not consulted, so the edit was made against a
+standard I had invented rather than the one that governs. The correct next step is a full read of
+all 7,652 words and a report of every rule the corpus violates, ruled on before anything is written.
+
+| GATE | RESULT |
+|---|---|
+| `DOCUMENT_COUNT` | 1001 |
+| `RECORDS_NOT_ONE_H1` | 0 |
+| `BAD_EOF` | 0 |
+| `ODD_FENCE` | 0 |
+| `MD_WIDE_PROSE_LINES` | 0 |
+| Files restored | 16 |
+| Revert verification failures | 0 |
+| `PATCH_SAVER_ENTRIES` | 91 |
+
+**Not delivered.** The full rules-file read was not done. The GOI dossier measurement is held by
+ruling.
+

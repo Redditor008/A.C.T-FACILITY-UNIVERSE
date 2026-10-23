@@ -1,9 +1,6 @@
 # Chapter 4 — The Bloom Before the Bloom
 
-Scent reached her before the envelope did. Paper had no business remembering a smell
-across that much time, not through filtered air, sealed sleeves, preservation resin, and
-the layered indifference of years. Yet the residue clung, and it was the first thing
-in the room that refused to behave like a document.
+The next contradiction came with a smell.
 
 It should not have been possible for paper to remember scent after that many
 years, not through filtered air, sealed

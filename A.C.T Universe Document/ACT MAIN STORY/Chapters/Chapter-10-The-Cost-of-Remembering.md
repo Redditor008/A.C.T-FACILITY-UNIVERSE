@@ -1,9 +1,6 @@
 # Chapter 10 — The Cost of Remembering
 
-Pain would have been easier, and she had braced for it. By then, danger inside the
-Facility usually announced itself through something measurable: elevated pulse,
-nausea, the small physical protests of a body being asked to hold more than it was
-built for. What came instead was quiet, and it was precise.
+The first symptom was not pain.
 
 Sera had expected pain.
 

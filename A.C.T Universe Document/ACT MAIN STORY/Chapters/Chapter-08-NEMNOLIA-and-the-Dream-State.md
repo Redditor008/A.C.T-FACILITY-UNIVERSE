@@ -1,8 +1,6 @@
 # Chapter 8 — NEMNOLIA and the Dream-State
 
-Pharmacology settled it. Not the abyss, not the descent logs, not anything the founders
-had bothered to bury: a compound, a dosage curve, and a supply chain that had never
-once been interrupted. That was what made it so devastating.
+The proof did not come from the abyss.
 
 It came from pharmacology.
 

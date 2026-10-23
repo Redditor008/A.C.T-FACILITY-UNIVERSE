@@ -1,8 +1,6 @@
 # Chapter 5 — Entity Research Exploration
 
-History stopped applying on the fifth day. The word implies distance, a settled shape
-that can no longer reach up through paper and procedure to touch anyone living, and by
-then the ERE files had made a liar of that comfortably.
+By the fifth day, Sera stopped thinking of the old records as history.
 
 History implied distance. It implied that whatever violence had produced the present had already
 settled into shape
