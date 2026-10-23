@@ -60,6 +60,24 @@ def check(verification: str, message: str):
     return produced, claimed, missing
 
 
+# Labels the verification block is expected to carry, and that the message must therefore be able
+# to quote. A message that omits every figure passes the original check trivially, which is how a
+# commit was pushed with no numbers in it at all and nothing enforced.
+REQUIRED_LABELS = ("md words", "DOCUMENT_COUNT")
+
+
+def check_required(verification: str, message: str):
+    """Report any expected label whose figure the message does not carry."""
+    missing = []
+    for label in REQUIRED_LABELS:
+        m = re.search(re.escape(label) + r":\s*(\d+)", verification)
+        if not m:
+            continue
+        if m.group(1) not in numbers(message):
+            missing.append((label, m.group(1)))
+    return missing
+
+
 def main(argv):
     if len(argv) != 3:
         print(__doc__)
@@ -67,9 +85,16 @@ def main(argv):
     verification = open(argv[1], encoding="utf-8").read()
     message = open(argv[2], encoding="utf-8").read()
     produced, claimed, missing = check(verification, message)
+    absent = check_required(verification, message)
+    if absent and not missing:
+        print("REFUSED: the message omits figures the verification block measured:")
+        for label, value in absent:
+            print("    %s = %s" % (label, value))
+        print("\na message that quotes no figures passes the number check trivially and enforces")
+        print("nothing. State the measured figures so they can be checked.")
+        return 1
     if not missing:
-        print("ok: %d number(s) in the message, all %d appear in the verification output"
-              % (len(claimed), len(claimed)))
+        print("ok: %d number(s) in the message, all appear in the verification output" % len(claimed))
         return 0
     print("REFUSED: the message carries %d number(s) the verification output never produced:"
           % len(missing))
