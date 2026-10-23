@@ -6498,3 +6498,33 @@ failure the commit checker prevents, in the one channel where it cannot be preve
 
 **DOCUMENT_COUNT 999.** Five records remain: the dead-name cupboard door, the four Saint Morrow
 Passage records, and the voice pass on the Ninefold Ark coffer.
+
+## Prompt End Update — 2026-10-23, Sets 073 and 069 Closed; Nine of Thirteen Rebuilt
+
+**Two sets complete, nine of thirteen records rebuilt in the owner's structure and the archivist
+voice.**
+
+    SET 073  LANTERN ACCORD       4 of 4  -1 2388->1153  -2 2241->1116  -3 2164->1016  -4 2202->1135
+    SET 069  NAMEWRIGHT BAZAAR    4 of 4  -1 2221->1156  -2 2292->1267  -3 2218->1129  -4 2321->1333
+    SET 070  SAINT MORROW PASSAGE 0 of 4  outstanding
+    SET 074  NINEFOLD ARK         structure only, voice pass outstanding  -1 2333->815
+
+Every rebuild roughly halves its word count. That is the finding the exercise turned on: the
+fourteen-chapter house skeleton was padding thin subjects to house depth, and the shape was the
+owner's while the uniformity was not.
+
+**Voice markers after the rebuilds.** `not recorded` at zero in five of the nine and one in the
+others, where the absence is the subject rather than a filled field. `this record` at zero in all
+nine. `the archive` established as the actor throughout. `must not` carrying between three and nine
+obligations per record instead of passive observation.
+
+**The figure-extraction failure is fixed.** A commit message assembled by shell substitution once
+captured the verification block's line labels along with its values and shipped as broken text,
+because the extraction took every number on the line rather than the last field. The extraction now
+takes the last field only, and the checker's label-adjacency rule would refuse the garbled form even
+if the extraction failed again.
+
+**Four records remain.** The four Saint Morrow Passage records, and the voice pass on the Ninefold
+Ark coffer, which has the owner's structure but was rebuilt before the voice rule existed.
+
+**DOCUMENT_COUNT 999.** Gates: bad-EOF 0, odd-fence 0, multiH1 2 and expected.
