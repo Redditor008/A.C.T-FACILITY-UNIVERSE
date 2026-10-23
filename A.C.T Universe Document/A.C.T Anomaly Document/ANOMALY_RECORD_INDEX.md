@@ -6,7 +6,9 @@ opening files at random. Titles are the record names; codes are the filing desig
 Counts are measured from the designations written inside each record, not from the filenames:
 most filenames in this folder carry no designation at all.
 
-**176 files in total.**
+**174 indexed files in total.** That count is every Markdown and plain-text file in this
+folder except this index: 173 records plus one README. The folder holds 178 files overall,
+the difference being three files that are neither Markdown nor plain text.
 
 ## Code families
 

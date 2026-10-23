@@ -6653,3 +6653,32 @@ stripped them from the shipped twins but not from the generator, so regenerating
 | `TXT_BACKTICK_FILES` | 0 |
 | Set 070 defects after expansion | 0 |
 | `PATCH_SAVER_ENTRIES` | 81 |
+
+## Prompt End Update — 2026-10-23, Reader Pass; Two of My Own Purge Corrections Were Wrong
+
+Owner ruling: keep reading as a tourist.
+
+**Withdrawn from the purge memo.** The memo recorded GOI dossiers as 30 corrected to 36. That was
+backwards. The 36 was a whole-folder Markdown file count including READMEs, templates and format
+notes. `GOI_MD` holds 35 `.md` files, of which exactly 30 are dossiers, and the root README's 30 was
+right all along. `corpus_numbers.py` now prints `GOI_DOSSIERS` 30 and `GOI_MD_FILES` 36 as separate
+labels so the two cannot be confused again. The root README's 24 doctrine records is likewise
+correct; `DOCTRINE_WITH_CONTENTS` measures 24.
+
+**Corrected in place.** `ANOMALY_RECORD_INDEX.md` claimed 176 files. Measured: the folder holds 178
+files overall, 175 are Markdown or plain text, 174 exclude the index itself, 173 exclude the README
+too. The claim now reads 174 indexed files and states its basis rather than a bare number.
+
+**Checked and clean.** All 360 relative links across every README in the tree resolve, URL-decoded.
+An earlier pass reported 15 broken; that checker did not decode `%20` and `%27` and the finding was
+false.
+
+| GATE | RESULT |
+|---|---|
+| `DOCUMENT_COUNT` | 1000 |
+| `RECORDS_NOT_ONE_H1` | 0 |
+| `BAD_EOF` | 0 |
+| `TECH_MD` / `TECH_TXT` | 244 / 244, 242 records, 0 unpaired |
+| `GOI_DOSSIERS` / `GOI_MD_FILES` | 30 / 36 |
+| README relative links | 360 checked, 0 broken |
+| `PATCH_SAVER_ENTRIES` | 82 |

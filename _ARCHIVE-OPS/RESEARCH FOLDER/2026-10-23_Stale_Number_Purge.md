@@ -39,8 +39,8 @@ Conflating the two is how the earlier counts drifted.
 | `TECH_MD` files | 231 | **244** | Never re-counted after sets 069, 070, 073 and 074 shipped. |
 | GOI alignment letters | 7 in corpus vs 4 claimed | **7, and the README lists all 7** | `B2 N8 P16 T2 U2 W12 X18`. Root README line 174 already carries all seven. |
 | `.md` prose lines over 118 | 18 | **80** | The old filter dropped indented continuation lines, which is where they all lived. |
-| Anomaly files | 178 | **174** | Counted excluding `ANOMALY_RECORD_INDEX.md`, files only. |
-| GOI dossiers | 30 | **36** `.md` files | Includes READMEs and set files, not only dossiers. |
+| Anomaly index claim | 176 files | **174** indexed files | The folder holds 178 files overall; 175 are Markdown or plain text; 174 exclude this index; 173 exclude the README too. The index's own claim was corrected in place. |
+| GOI dossiers | 30 | **30** — the README was right | The 36 figure was a whole-folder `.md` count, not a dossier count. `GOI_DOSSIERS` and `GOI_MD_FILES` are now separate labels. |
 
 ## Withdrawn
 
@@ -94,6 +94,7 @@ the label from `corpus_numbers.py` and not the number, and re-run the script bef
 | `TXT_WIDE_PROSE_LINES` | 10 — all `TECH_TXT/README.txt` |
 | `MD_WIDE_PROSE_LINES` | 80 — all link continuations, see above |
 | `TECH_MD` / `TECH_TXT` | 244 / 244, 242 records, 0 unpaired |
+| `GOI_DOSSIERS` / `GOI_MD_FILES` | 30 / 36 |
 | `GOI_ALIGNMENT_LETTERS` | 7 |
 | `PATCH_SAVER_ENTRIES` | 80 |
 | `STORY_CHAPTER_MD_FILES` | 13 |

@@ -96,6 +96,16 @@ def main() -> int:
 
     goi_md = [p for p in GOI.rglob("*") if p.is_file() and p.suffix == ".md"]
     r["GOI_MD_FILES"] = len(goi_md)
+    # GOI_MD_FILES counts every Markdown file under the GOI folder, READMEs,
+    # templates and format notes included. GOI_DOSSIERS counts the dossiers
+    # themselves, which is the figure the root README quotes.
+    r["GOI_DOSSIERS"] = len(
+        [
+            p
+            for p in goi_md
+            if re.match(r"GOI-[A-Z]{2}-[A-Z]-\d{3}", p.stem)
+        ]
+    )
     letters: "collections.Counter[str]" = collections.Counter()
     for p in GOI.rglob("*"):
         if p.is_file() and p.suffix in (".md", ".txt"):
