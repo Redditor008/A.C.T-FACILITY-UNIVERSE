@@ -6893,3 +6893,56 @@ was lost, but the design was wrong: a bootstrap that can eat local work is worse
 It now counts `origin/<branch>..HEAD` and refuses when local commits have not been pushed. Run it at
 the **start** of a batch, before any edit and before any commit. Never after.
 
+## Prompt End Update — 2026-10-23, Chapters 4 to 12 Read; One Craft Defect Found
+
+Owner rulings: read chapters 4 to 12; make the bootstrap order a standing rule; `force-with-lease`
+on an unpushed commit was acceptable; keep `docs/index.html` empty.
+
+### Standing rule recorded
+
+`sync.sh` runs **first** in every batch, before the first edit and before any commit, and is never
+run after a commit. The rule is written into the script header as well as here, so it survives a
+reader who opens the file without opening the log. The ahead-count guard enforces it, but the rule
+is not to rely on the guard.
+
+### The prose read, chapters 4 to 12
+
+Nine chapters, 1,581 to 2,467 words each. The invention holds throughout: chapter 4 opens on paper
+that still carries a scent it should not be able to hold, chapter 8 moves the proof out of the abyss
+and into pharmacology, and chapter 12 ends on an institution that has learned to amputate memory
+before memory becomes a door. Chapter 11's close is the strongest in the run: Sera does not give the
+future the truth, she gives it a chance.
+
+**One craft defect, and it is the same defect the technology records were cleaned of.** The chapter
+openings have become a stamp. Eight of the nine begin with the same construction:
+
+| CHAPTER | OPENING |
+|---|---|
+| 4 | The next contradiction came with a smell. |
+| 5 | By the fifth day, Sera stopped thinking of the old records as history. |
+| 7 | The proof arrived disguised as absence. |
+| 8 | The proof did not come from the abyss. |
+| 9 | By the ninth day, Sera no longer believed in coincidence. |
+| 10 | The first symptom was not pain. |
+| 11 | The decision did not arrive as courage. |
+| 12 | The order reached her before dawn. |
+
+Chapters 7 and 8 are consecutive and both open on the word `proof`. The chapter endings repeat in the
+same way: an aphoristic three-line close, nine times running. Each one lands alone. Read in sequence
+they read as a formula, which is the cost.
+
+**Recommendation, not action.** This is the owner's narrative and it was not rewritten. The fix is
+small and local: vary the opening of five or six chapters so the construction stops predicting
+itself, and break the aphoristic close in two or three places with an image or a piece of dialogue
+instead of a verdict. Chapters 1 to 3 and the epilogue do not carry the pattern and can be left
+alone as the model.
+
+| GATE | RESULT |
+|---|---|
+| `DOCUMENT_COUNT` | 1000 |
+| `RECORDS_NOT_ONE_H1` | 0 |
+| `BAD_EOF` | 0 |
+| Chapters read this turn | 4 to 12, nine chapters |
+| Chapters carrying the opening stamp | 8 of 9 |
+| `PATCH_SAVER_ENTRIES` | 87 |
+

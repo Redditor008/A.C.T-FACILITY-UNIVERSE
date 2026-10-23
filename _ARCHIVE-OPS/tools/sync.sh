@@ -7,6 +7,11 @@
 # before syncing produces a commit whose parent is the session base, which
 # squashes the tree on push.
 #
+# STANDING RULE. Run this FIRST in every batch, before the first edit and
+# before any commit. Never run it after a commit: it resets onto origin and
+# would discard unpushed local work. The ahead-count guard below enforces
+# that, but the rule is to not rely on the guard.
+#
 # Usage:  sh _ARCHIVE-OPS/tools/sync.sh
 set -e
 
