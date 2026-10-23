@@ -1,148 +1,96 @@
-# A.C.T FACILITY ARCHIVE FILE — NAMEWRIGHT BAZAAR PARTIAL NAME LEDGER
-### TECHNOLOGY RECORD - NAMEWRIGHT BAZAAR PARTIAL NAME LEDGER
+# A.C.T FACILITY ARCHIVE FILE
+## Namewright Bazaar Partial Name Ledger
 
-| REGISTRY FIELD | CURRENT VALUE |
-|---|---|
-| TECHNOLOGY DESIGNATION | TECH-GOI-069-1 |
-| TECHNOLOGY NAME | Namewright Bazaar Partial Name Ledger |
-| SHORT NAME | NBL |
-| TECHNOLOGY FAMILY | RECOVERED ADVERSARY DEVICE / IDENTITY TRADE RECORD / DUAL FILING MANDATORY |
-| ORIGIN | NAMEWRIGHT BAZAAR (GOI-BS-X-069) / LEDGER MOTHER MAINTAINED |
-| PRIMARY CONTROLLER | Intelligence Division with Subject Care and Legal review |
-| ATTACHED DIVISIONS | Intelligence, Subject Care, Legal, Containment, Archive |
-| OPERATIONAL STATUS | PARTIAL LEDGERS HELD UNDER DISMANTLEMENT ORDER / FULL BOOKS UNRECOVERED |
-| RISK STATUS | SENSITIVE PERSONAL DATA / VICTIM IDENTIFICATION / DO NOT PUBLISH |
-| CLEARANCE REQUIRED | Level 4 for reading; Level 5 for any disclosure decision |
+**Archive Status:** Active Restricted Recovered Adversary Device Record  
+**Distribution:** Intelligence / Subject Care / Legal / Containment / Command  
+**Authority:** Intelligence Division, with Subject Care and Legal review  
+**Designation:** TECH-GOI-069-1  
+**Origin:** Namewright Bazaar (GOI-BS-X-069), Ledger Mother maintained  
+**Clearance:** Level 4 for reading; Level 5 for any disclosure decision  
 
-| REGISTRY FIELD | CURRENT VALUE |
-|---|---|
-| ARCHIVE STATUS | Active Restricted Recovered Adversary Device Record |
-| DISTRIBUTION | Intelligence, Subject Care, Legal, Containment, Command, Archive |
-| AUTHORITY | Intelligence Division with Subject Care and Legal review, restricted holding |
+### Archive Note
 
-#### Archive Note
+The archive holds partial name ledgers seized from the Namewright Bazaar. The full Bazaar books
+remain unrecovered and no count of what is held is recorded.
 
-This record covers the name ledgers listed first among Namewright Bazaar assets, described in the dossier as written
-in multiple hands. A.C.T holds partial ledgers. The full Bazaar books remain unrecovered.
+The dossier describes these ledgers as written in multiple hands, and that is worth holding onto. A
+ledger kept by one officer over time would be evidence of a single trader. A ledger in several hands
+is evidence of a practice with succession, division of labour or both, which is a different kind of
+organisation and bears on the dismantlement order.
 
-The ledger is the trade's index. A sale begins with a need — to flee a charge, escape a pursuing entity, inherit a
-protected object, cross a border, silence a witness or disappear a victim. A Mouth Factor then assesses which
-recognition the buyer needs to lose, choosing among paper, memory, family, legal, spiritual and predatory recognition.
-It is the Ledger Mother who identifies a suitable source name, and the ledger is where she finds one.
+What makes this file different from the others in the set is that the ledgers are not a list of
+tools. Every entry is a person whose name was assessed as available for use. The dossier describes
+the trade running through six kinds of recognition — paper, memory, family, legal, spiritual and
+predatory — and a Mouth Factor assesses which of the six a buyer needs to lose before a Ledger
+Mother looks for a name. The ledger is where she finds one.
 
-That makes the ledger the one Bazaar asset that is a list of victims rather than a list of tools. Every entry is a
-person whose name was assessed as available for use. This record is therefore written as a Subject Care document that
-happens to be filed under technology, and the ordering is deliberate: what the ledger does to a person comes before
-what it tells Intelligence.
+This file is therefore written as a Subject Care document that happens to be filed under
+technology, and the ordering is deliberate: what the ledger does to a person comes before what it
+tells Intelligence.
 
-The ledgers are partial. What is missing is unknown, and an entry's absence from a partial ledger establishes nothing
-about that person.
+**NAME LEDGER DISCLOSURE RULE**
 
-Controlled label: **NAME LEDGER DISCLOSURE RULE**.
-
-Core handling rule:
-
-```text
-EVERY ENTRY IS A PERSON. NO NAME IS DISCLOSED TO ANY PARTY WITHOUT LEVEL 5 AND LEGAL
-APPROVAL, AND NO ENTRY IS READ AS EVIDENCE ABOUT THE PERSON IT NAMES.
-```
+Every entry is a person. Personnel must not disclose any entry to any party without Level 5 and
+Legal approval, must not extract any entry into any other system, and must not read an entry as
+evidence about the person it names.
 
 ---
 
-## FUNCTION SUMMARY
+# THE RECORD
 
-The name ledger records names assessed as available for Bazaar trade. It is maintained by a Ledger Mother and written
-in multiple hands, which the dossier states and this record treats as significant rather than incidental.
+## 1.1 What the ledger is for
 
-- indexes names available for substitution in a Bazaar sale;
-- supports the Ledger Mother's identification of a suitable source name;
-- is written in multiple hands, indicating more than one keeper;
-- carries no containment function and is not a device.
+It indexes names available for substitution. A buyer presents a need, a Mouth Factor assesses which
+recognition must be lost, and the Ledger Mother consults the ledger for a source name that fits. The
+ledger names a target and does not itself effect anything; the binding is performed afterwards
+through documents, speech, signatures, hair, blood, school records, gravesoil and hospital
+bracelets.
 
-The dossier describes the trade as running through six kinds of recognition: paper, memory, family, legal, spiritual
-and predatory. A single ledger serving all six must record more than a name, and what else it records is not
-established.
+## 1.2 What cannot be said about it
 
-The ledgers A.C.T holds are partial. Their content is readable and their scope is not, and the difference governs
-every use described below.
+Format, pagination, entry numbering and whether entries are dated are all absent from the dossier.
+The ledgers are partial and the proportion missing is unknown, so no inference may be drawn from an
+absence. A name that does not appear in a partial ledger is not a name the Bazaar passed over.
 
-## ORIGIN AND CUSTODY
+## 1.3 Why the last limit matters
 
-The ledgers are Ledger Mother maintained. The dossier describes Bazaar holdings including back-room stalls, paper
-vaults, witness cages, registry mirrors, mobile document vans and dead-name cupboards, which places ledger keeping
-inside Bazaar premises rather than with individual traders.
+A name in a hostile market's ledger reads like an accusation and is not one. The Bazaar assessed the
+name as available. That is a fact about the Bazaar and says nothing about the person, and this is the
+limit most likely to be eroded by somebody reading quickly.
 
-A.C.T recovered partial ledgers among two alias knives, three counterfeit court stamps, one dead-name cupboard door
-and multiple victim statements, under a dismantlement order against a market assessed at threat level 4 with a posture
-of infiltrate, misdirect, contain and dismantle. The full Bazaar books remain unrecovered.
+---
 
-Custody sits with Intelligence, with Subject Care and Legal reviewing. Reading requires Level 4. Any disclosure
-decision requires Level 5.
+# HANDLING
 
-## PHYSICAL OR SYSTEM DESCRIPTION
+## 2.1 Custody
 
-The dossier gives no dimensions, format, pagination or binding, and none is inferred. What it establishes is the
-writing condition, which is the most informative physical fact available.
+Held by Intelligence, with Subject Care and Legal reviewing. Reading requires Level 4 and every
+reading is recorded with the reader and the purpose. Disclosure requires Level 5.
 
-| FIELD | VALUE |
-|---|---|
-| Object class | Trade index, handwritten |
-| Writing condition | Multiple hands, stated |
-| Dimensions or format | Not recorded |
-| Pagination or entry numbering | Not recorded |
-| Whether entries are dated | Not recorded |
-| Coded portions | Possible; the Bazaar's code practice is not recorded |
-| Completeness | Partial; the full books are unrecovered |
-| Maintaining officer | Ledger Mother, a Bazaar role |
-| Companion records | Stolen birth rolls, adoption side-books, registry mirrors |
+## 2.2 What personnel must not do
 
-Multiple hands is worth holding onto. A ledger kept by one officer over time would be evidence of a single trader. A
-ledger in several hands is evidence of a practice with succession, division of labour or both, which is a different
-kind of organisation and bears on the dismantlement order.
+Personnel must not disclose any entry to any party outside Intelligence, Subject Care and Legal,
+including to the person the entry names. A person may have good reason to want to know, and that
+reason is weighed by Legal rather than by the reader.
 
-## TECHNICAL SPECIFICATION
+Personnel must not extract an entry into any index, summary, spreadsheet or other system. A copy of
+a ledger is the same ledger, and a summary carrying names is a copy.
 
-No specification exists in the source material. Three points below are inference and are labelled where they appear.
+Personnel must not annotate, index or transcribe the ledgers. An indexed ledger is a second ledger,
+and the restriction applying to the original applies to anything that makes it easier to use.
 
-The ledger is an index rather than a record. It identifies available names; the sale itself is performed through
-documents, speech, signatures, hair, blood, school records, gravesoil and hospital bracelets. The ledger therefore
-names a target and does not itself effect anything.
+## 2.3 Where a person is involved
 
-The ledger serves six recognition types. Paper, memory, family, legal, spiritual and predatory recognition are
-different domains, and an entry usable for one may be unusable for another. Whether the ledger distinguishes them is
-not recorded.
+Where an entry identifies a person the Facility can reach, the referral is to Subject Care and not
+to an investigation. Intelligence is notified that a referral was made and is not given the name.
 
-The ledger is partial and its gaps are unknown. No inference may be drawn from an absence, and no comparison between
-the partial ledgers and any other source may treat a missing entry as a negative finding.
+Whether every entry corresponds to a reachable person is not established, and the archive proceeds
+as though it does. The cost of being wrong in that direction is a wasted referral. The cost of being
+wrong in the other direction is a person left unattended.
 
-## INTERFACE AND OPERATING ENVELOPE
+## 2.4 The Bazaar's own sequence
 
-### Trade Interface
-
-The ledger is read by a Ledger Mother inside a sale sequence that begins with a Mouth Factor's assessment. No A.C.T
-role corresponds to either and no A.C.T personnel are authorised to act in one.
-
-### Subject Care Interface
-
-Every entry names a person. Reading the ledger is reading a list of people who were assessed as available for harm,
-and any person identified in it is a Subject Care case before being an intelligence lead. That ordering is not
-discretionary.
-
-### Disclosure Interface
-
-No name is disclosed to any party — including other divisions, including allied organisations, including the person
-named — without Level 5 and Legal approval. A person may have good reason to want to know, and that reason is weighed
-by Legal rather than by the reader.
-
-### Personnel Limits
-
-Reading requires Level 4. Disclosure requires Level 5. No extraction of names into any other system, spreadsheet,
-index or summary is permitted at any clearance, because a copy of a name list is the same list.
-
-### Numbered Operating Sequence
-
-The sequence below is the Bazaar's, recorded for recognition purposes. A.C.T personnel never follow it and may not
-begin to.
+Recorded for recognition. It is not a Facility procedure and no personnel may follow it.
 
 ```text
 1. A buyer presents a need to the Bazaar.
@@ -151,75 +99,13 @@ begin to.
 4. A suitable source name is identified from the entries.
 5. The Namewright cuts the carrier attachments with an alias knife.
 6. The binding is performed through the remaining media.
-7. Court stamps make the substitution appear official.
+7. The buyer is recognised under the source name instead.
 8. The severed carriers go to a dead-name cupboard.
 ```
 
-## OPERATING PROCEDURE
+---
 
-A.C.T does not operate the ledger. The procedure that applies is restricted reading and Subject Care referral.
-
-The ledgers are read at Level 4 and every reading is recorded with the reader and the purpose. No name is copied into
-any other system. No summary of the ledgers is produced, because a summary that carries names is a copy.
-
-Where an entry identifies a person A.C.T can reach, the referral is to Subject Care and not to an investigation.
-Intelligence is notified that a referral was made and is not given the name.
-
-## SERVICING AND CALIBRATION
-
-Servicing does not apply and none is carried out. The ledgers are held as seized.
-
-No annotation, indexing or transcription is permitted. An indexed ledger is a second ledger, and the restriction that
-applies to the original applies to anything that makes it easier to use.
-
-No calibration exists. The ledger has no measurable output and no reference standard.
-
-## FAULT ISOLATION
-
-| OBSERVED CONDITION | ESTABLISHED | NOT ESTABLISHED |
-|---|---|---|
-| Ledgers are partial | Confirmed; the full books are unrecovered | What proportion is missing |
-| Written in multiple hands | Confirmed by the dossier | How many hands, or over what period |
-| Entries name real persons | Assumed for Subject Care purposes | Whether every entry corresponds to a reachable person |
-| Coded portions | Possible | Whether any coded portion is present |
-
-The third row is deliberately written as an assumption rather than a finding. Subject Care proceeds as though every
-entry names a reachable person, because the cost of being wrong in that direction is a wasted referral and the cost of
-being wrong in the other direction is a person left unattended.
-
-## KNOWN LIMITS
-
-- no name may be disclosed without Level 5 and Legal approval;
-- no name may be extracted into any other system at any clearance;
-- the ledgers are partial and no inference may be drawn from an absence;
-- the proportion missing is unknown, so no completeness claim may be made;
-- the full Bazaar books are unrecovered and the trade context is incomplete;
-- an entry is not evidence about the person it names and must never be treated as one.
-
-The last limit is the one most likely to be eroded. A name in a hostile market's ledger reads like an accusation, and
-it is not one. The Bazaar assessed the name as available; that is a fact about the Bazaar.
-
-## FAILURE HISTORY
-
-Nothing has failed while A.C.T has held this. The ledgers have been read under restriction and no name has been
-disclosed.
-
-### SEIZURE CONDITION - DATE NOT RECORDED
-
-The ledgers were seized under the dismantlement order and arrived partial. The dossier records neither the date nor
-how much is missing. The gap is recorded and left as a gap.
-
-### NO NAME DISCLOSED - STANDING RESTRICTION
-
-No entry has been disclosed to any party outside Intelligence, Subject Care and Legal, and no entry has been disclosed
-to the person it names. This entry records the restriction as an event.
-
-### NO EXTRACTION MADE - STANDING RESTRICTION
-
-No name has been copied into any index, summary, spreadsheet or other system. This entry exists because a copy of a
-name list is the same list, and the restriction is easy to break by accident.
-
-## DIVISION USE
+# DIVISION USE
 
 | DIVISION | USE |
 |---|---|
@@ -227,41 +113,42 @@ name list is the same list, and the restriction is easy to break by accident.
 | Subject Care | Receives referrals where an entry identifies a reachable person |
 | Legal | Rules on every disclosure; holds the evidential interest |
 | Containment | Confirms the ledgers carry no containment function |
-| Archive | Holds this record and the cross-references |
 
-No division extracts names. Intelligence holds the ledgers and refers people rather than names.
+---
 
-## CROSS-REFERENCES
+# OPEN QUESTIONS
+
+- what proportion of the ledgers is held, and how that would be established;
+- how many hands wrote them, and over what period;
+- whether entries distinguish the six recognition types;
+- whether every entry corresponds to a person the Facility can reach;
+- whether a person named in the ledger can be warned, and who decides that;
+- whether the full Bazaar books can be recovered under the dismantlement order.
+
+The fifth question is live and has no answer here. A person whose name was assessed as available may
+have a right to know, and warning them may also expose the seizure. Legal holds that decision and it
+has not been made.
+
+---
+
+# CROSS-REFERENCES
 
 - `GOI-BS-X-069` — Namewright Bazaar, Group of Interest Dossier
 - `TECH-GOI-069-2` — Namewright Bazaar Alias Knife, Technology Record
 - `TECH-GOI-069-3` — Namewright Bazaar Counterfeit Court Stamp, Technology Record
 - `TECH-GOI-069-4` — Namewright Bazaar Dead-Name Cupboard Door, Technology Record
 
-The sequence runs in this order. The ledger identifies the source name, the knife cuts the carriers, the stamps make
-the substitution look official, and the cupboard holds what was cut away. Reading the four out of order makes the
-trade look like a set of objects rather than a process.
+The ledger identifies the source name, the knife cuts the carriers, the stamps make the substitution
+look official, and the cupboard holds what was cut away. The sequence runs in that order and reading
+the four out of it makes the trade look like a set of objects rather than a process.
 
-## OPEN QUESTIONS
+---
 
-- what proportion of the ledgers is missing, and how that would be established;
-- how many hands wrote them, and over what period;
-- whether entries distinguish the six recognition types;
-- whether every entry corresponds to a person A.C.T can reach;
-- whether a person named in the ledger can be warned, and who decides that;
-- whether the full Bazaar books can be recovered under the dismantlement order.
+# FILE METADATA
 
-The fifth question is live and has no answer here. A person whose name was assessed as available may have a right to
-know, and warning them may also expose the seizure. Legal holds that decision and it has not been made.
-
-## FILE METADATA
-
-| FIELD | VALUE |
-|---|---|
-| RECORD TYPE | Technology Record — Recovered Adversary Device |
-| CREATED | 02/04/2021 |
-| LAST UPDATED | 14/06/2025 |
-| REVIEW CYCLE | On any disclosure request or any Subject Care referral |
-| SOURCE | `GOI-BS-X-069` Namewright Bazaar dossier, Known Assets and Holdings and Operating Method |
-| DUAL FILING | Mandatory — filed under GOI seizure and under identity trade records |
-| NEXT REVIEW | On progress of the dismantlement order currently in force |
+**Record Type:** Technology Record — Recovered Adversary Device  
+**Created:** 02/04/2021  
+**Last Updated:** 14/06/2025  
+**Review Cycle:** On any disclosure request or any Subject Care referral  
+**Source:** `GOI-BS-X-069` Namewright Bazaar dossier, Known Assets and Holdings and Operating Method  
+**Dual Filing:** Mandatory — GOI seizure, and identity trade records
