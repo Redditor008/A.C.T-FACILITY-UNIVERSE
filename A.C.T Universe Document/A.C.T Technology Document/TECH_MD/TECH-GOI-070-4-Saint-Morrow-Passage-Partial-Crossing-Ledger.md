@@ -105,7 +105,7 @@ count held is not recorded in the dossier, so this record does not supply one.
 
 ## TECHNICAL SPECIFICATION
 
-The dossier gives no specification. The record marks its three inferred points where they occur.
+No specification is available from the source. The record marks its three inferred points where they occur.
 
 The ledger is a downstream record. It records a crossing after the ticket authorised it and the bell marked it, so a
 held ledger is evidence of completed passages rather than of intended ones.
@@ -168,7 +168,7 @@ person. Intelligence is notified that a referral was made and is not given the n
 
 ## SERVICING AND CALIBRATION
 
-No servicing is performed. The ledgers are held as recovered.
+Servicing has no meaning for an object that is never operated. The ledgers are held as recovered.
 
 No annotation, indexing or transcription is permitted. An indexed ledger is a second ledger, and the restriction
 applying to the original applies to anything that makes it easier to use.
@@ -203,13 +203,13 @@ errors are available and neither is permitted here.
 
 ## FAILURE HISTORY
 
-No failure has occurred in A.C.T custody. The ledgers have been read under restriction and no entry has been
-disclosed.
+No entry in the failure record originates inside A.C.T custody. The ledgers have been read under restriction and no
+entry has been disclosed.
 
 ### RECOVERY CONDITION - DATE NOT RECORDED
 
 The ledgers were recovered during work contact with the Passage and arrived partial. The dossier records neither the
-date nor the count. This entry records the absence rather than filling it.
+date nor the count. The entry stands in place of information that does not exist.
 
 ### NO ENTRY DISCLOSED - STANDING RESTRICTION
 

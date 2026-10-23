@@ -140,7 +140,7 @@ attributable.
 TECHNICAL SPECIFICATION
 =======================
 
-The dossier gives no specification. Three of the following points are inference and say so.
+The dossier is silent on specification. Three of the following points are inference and say so.
 
 The map is condition-dependent. A stored-cold document implies that its condition depends on temperature, which means
 the fragments A.C.T holds may not be in the condition the Passage kept them in.
@@ -204,7 +204,7 @@ the correct action is to refer the matter to Legal rather than to read the fragm
 SERVICING AND CALIBRATION
 =========================
 
-No servicing is performed. The fragments are held as recovered.
+The unit receives no servicing while it is held. The fragments are held as recovered.
 
 No cleaning, pressing, humidifying or cold storage is attempted. Each of those would be a conservation decision made
 without knowing what the cold was for, and a wrong conservation decision is not reversible.
@@ -249,13 +249,14 @@ cannot be resolved by anything A.C.T holds, and it decides how the fragments are
 FAILURE HISTORY
 ===============
 
-No failure has occurred in A.C.T custody. The fragments have been held and examined and have not been reconstructed.
+Custody has passed without a recorded failure. The fragments have been held and examined and have not been
+reconstructed.
 
 RECOVERY CONDITION - DATE NOT RECORDED
 --------------------------------------
 
-Both units arrived as fragments. The dossier records neither the date nor whether they were tubed. This entry records
-the absence rather than filling it.
+Both units arrived as fragments. The dossier records neither the date nor whether they were tubed. What the source
+omits is recorded as omitted.
 
 ROOM TEMPERATURE STORAGE - RECORDED DEVIATION
 ---------------------------------------------

@@ -131,7 +131,7 @@ kind of organisation and bears on the dismantlement order.
 TECHNICAL SPECIFICATION
 =======================
 
-The dossier gives no specification. Three points below are inference and are labelled where they appear.
+No specification exists in the source material. Three points below are inference and are labelled where they appear.
 
 The ledger is an index rather than a record. It identifies available names; the sale itself is performed through
 documents, speech, signatures, hair, blood, school records, gravesoil and hospital bracelets. The ledger therefore
@@ -202,7 +202,7 @@ Intelligence is notified that a referral was made and is not given the name.
 SERVICING AND CALIBRATION
 =========================
 
-No servicing is performed. The ledgers are held as seized.
+Servicing does not apply and none is carried out. The ledgers are held as seized.
 
 No annotation, indexing or transcription is permitted. An indexed ledger is a second ledger, and the restriction that
 applies to the original applies to anything that makes it easier to use.
@@ -245,13 +245,14 @@ it is not one. The Bazaar assessed the name as available; that is a fact about t
 FAILURE HISTORY
 ===============
 
-No failure has occurred in A.C.T custody. The ledgers have been read under restriction and no name has been disclosed.
+Nothing has failed while A.C.T has held this. The ledgers have been read under restriction and no name has been
+disclosed.
 
 SEIZURE CONDITION - DATE NOT RECORDED
 -------------------------------------
 
 The ledgers were seized under the dismantlement order and arrived partial. The dossier records neither the date nor
-how much is missing. This entry records the absence rather than filling it.
+how much is missing. The gap is recorded and left as a gap.
 
 NO NAME DISCLOSED - STANDING RESTRICTION
 ----------------------------------------

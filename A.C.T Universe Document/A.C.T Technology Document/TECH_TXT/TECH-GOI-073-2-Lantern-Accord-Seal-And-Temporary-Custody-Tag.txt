@@ -200,7 +200,7 @@ authority to hold anything.
 SERVICING AND CALIBRATION
 =========================
 
-No servicing is performed. The units are held as recovered.
+No servicing is scheduled, performed or planned. The units are held as recovered.
 
 No cleaning of the seal faces is permitted, because cleaning alters the ink residue that establishes them as genuine
 expired stock. No calibration exists: the seal has no measurable output and no reference standard.
@@ -245,7 +245,7 @@ that a later file does not resolve that tension by choosing one side.
 FAILURE HISTORY
 ===============
 
-No failure has occurred in A.C.T custody. The units arrived expired and have been held inert.
+Failure history is empty for the whole of the A.C.T holding. The units arrived expired and have been held inert.
 
 RECOVERY CONDITION - DATE NOT RECORDED
 --------------------------------------

@@ -105,7 +105,7 @@ no single genuine impression to compare it against.
 
 ## TECHNICAL SPECIFICATION
 
-The dossier gives no specification. Three statements rest on inference, and each is marked.
+Nothing in the dossier amounts to a specification. Three statements rest on inference, and each is marked.
 
 The stamp is a downstream instrument. It works on documents after a binding has been performed, which means a seized
 stamp is evidence of the trade's finishing stage rather than of its central mechanism.
@@ -164,7 +164,7 @@ who believes their own identity is forged is a person who needs attending.
 
 ## SERVICING AND CALIBRATION
 
-No servicing is performed. The units are held as seized.
+Nothing here is serviced; the unit is held as it stands. The units are held as seized.
 
 No cleaning, re-inking or repair is permitted. Altering a seized forgery instrument compromises it as evidence in any
 proceeding against the Bazaar, and Legal holds that interest.
@@ -199,12 +199,12 @@ the stamps themselves, which depends on an impression, which depends on Legal.
 
 ## FAILURE HISTORY
 
-No failure has occurred in A.C.T custody. No unit has been impressed.
+A.C.T custody has produced no failure worth recording. No unit has been impressed.
 
 ### SEIZURE CONDITION - DATE NOT RECORDED
 
 All three units were seized under the dismantlement order. The dossier records neither the date nor the circumstances.
-This entry records the absence rather than filling it.
+The absence is entered here instead of being estimated.
 
 ### NO IMPRESSION TAKEN - STANDING RESTRICTION
 

@@ -131,8 +131,8 @@ assumed complete, so an absence of entries proves nothing about the original.
 TECHNICAL SPECIFICATION
 =======================
 
-The dossier gives no specification. The copy is a documentary object and its technical properties are properties of
-Accord record keeping rather than of a device.
+No specification exists in the source material. The copy is a documentary object and its technical properties are
+properties of Accord record keeping rather than of a device.
 
 The ledger is entry-structured. Violations are written as entries, and the red lantern status attaches witness
 priority to a broken line, which implies that entries identify witnesses. Whether they identify them in the clear or
@@ -197,7 +197,7 @@ about provenance is referred to Legal and is not answered from this file.
 SERVICING AND CALIBRATION
 =========================
 
-No servicing is performed. The copy is held as made.
+Servicing does not feature here because it does not feature in the holding. The copy is held as made.
 
 No annotation, correction or completion of the copy is permitted. A copy that has been annotated cannot be
 distinguished from a copy that was made that way, and the distinction is the only thing that makes it readable as a
@@ -241,13 +241,13 @@ The fifth is specific to this object, because A.C.T made it.
 FAILURE HISTORY
 ===============
 
-No failure has occurred in A.C.T custody. The copy has been held and read, and has not been produced.
+No failure has been recorded against the custody period. The copy has been held and read, and has not been produced.
 
 RECOVERY CONDITION - DATE NOT RECORDED
 --------------------------------------
 
 The copy was recovered during work contact with the Accord. The dossier records neither the date nor the manner of
-copying. This entry records the absence rather than filling it.
+copying. What is not known is entered as not known.
 
 NO EXTERNAL PRODUCTION - STANDING RESTRICTION
 ---------------------------------------------

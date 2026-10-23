@@ -136,7 +136,8 @@ something about one route and not about the Passage as a whole.
 TECHNICAL SPECIFICATION
 =======================
 
-The dossier gives no specification. Three points are reasoned rather than recorded, and are marked as reasoned.
+The source dossier offers no specification to work from. Three points are reasoned rather than recorded, and are
+marked as reasoned.
 
 The ticket is a refusal record. It exists because ordinary transport was impossible, so every white ticket documents
 an exception rather than a routine journey. That makes a held ticket evidence about why a route was closed to ordinary
@@ -203,7 +204,7 @@ is a Subject Care matter before it is an intelligence one.
 SERVICING AND CALIBRATION
 =========================
 
-No servicing is performed. The tickets are held as recovered.
+Servicing is out of scope for a held object of this kind. The tickets are held as recovered.
 
 No cleaning, flattening or repair is permitted, because physical treatment alters the paper and the ink that establish
 the tickets as genuine Passage stock. No calibration exists: the ticket has no measurable output and no reference
@@ -248,13 +249,13 @@ partner if the relationship is to survive.
 FAILURE HISTORY
 ===============
 
-No failure has occurred in A.C.T custody. No ticket has been presented or reissued.
+The holding has been uneventful and no failure has been logged. No ticket has been presented or reissued.
 
 RECOVERY CONDITION - DATE NOT RECORDED
 --------------------------------------
 
 The tickets were recovered during work contact with the Passage. The dossier records neither the date nor the count.
-This entry records the absence rather than filling it.
+Nothing is filled in; the absence is the entry.
 
 NO TICKET PRESENTED - STANDING RESTRICTION
 ------------------------------------------

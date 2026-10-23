@@ -103,7 +103,8 @@ vibration, weather and medical handling, which is a specification in itself even
 
 ## TECHNICAL SPECIFICATION
 
-The dossier gives no specification. Inference accounts for three points below, each of them labelled.
+There is no specification recorded anywhere in the dossier. Inference accounts for three points below, each of them
+labelled.
 
 The bell is route-agnostic. One fitting serves three transport types, so the bell cannot carry route-specific
 information the way a ticket does. Whatever it signals is common to all Passage crossings.
@@ -163,7 +164,7 @@ leave it. Personnel do not remove a mounted bell and do not treat its sounding a
 
 ## SERVICING AND CALIBRATION
 
-No servicing is performed. The bell is held as recovered.
+No maintenance routine exists and none is invented for this file. The bell is held as recovered.
 
 No cleaning, polishing or re-mounting is permitted. No lubrication of the clapper is permitted, because freeing it is
 the first step of mounting and mounting is prohibited.
@@ -198,12 +199,12 @@ both sides is an open question.
 
 ## FAILURE HISTORY
 
-No failure has occurred in A.C.T custody. The bell has not been mounted and has not been rung in service.
+There is no failure in the custody record to report. The bell has not been mounted and has not been rung in service.
 
 ### RECOVERY CONDITION - DATE NOT RECORDED
 
 The bell was recovered during work contact with the Passage. The dossier records neither the date nor whether it was
-mounted when recovered. This entry records the absence rather than filling it.
+mounted when recovered. The record notes the gap and stops there.
 
 ### NO MOUNTING BY A.C.T - STANDING RESTRICTION
 

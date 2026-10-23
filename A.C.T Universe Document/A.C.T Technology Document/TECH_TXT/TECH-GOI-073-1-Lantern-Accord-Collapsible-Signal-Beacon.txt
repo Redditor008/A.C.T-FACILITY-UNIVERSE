@@ -210,7 +210,7 @@ its colour as an A.C.T classification.
 SERVICING AND CALIBRATION
 =========================
 
-No servicing is performed. The unit is held as recovered.
+There is nothing to service and no attempt is made to find something. The unit is held as recovered.
 
 Cleaning of the exterior is permitted at Level 3 and is recorded. Lubrication of the shutter mechanism is not
 permitted, because freeing the mechanism is the first step of restoration and restoration requires Level 4 with Legal
@@ -258,7 +258,8 @@ its evidence.
 FAILURE HISTORY
 ===============
 
-No failure has occurred in A.C.T custody. The unit was recovered already broken and has been held inert since.
+The unit has not failed since it came into A.C.T hands. The unit was recovered already broken and has been held inert
+since.
 
 RECOVERY CONDITION - DATE NOT RECORDED
 --------------------------------------

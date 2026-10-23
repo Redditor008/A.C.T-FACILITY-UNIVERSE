@@ -106,7 +106,8 @@ division ends in a category the dossier labels unknown.
 
 ## TECHNICAL SPECIFICATION
 
-The dossier gives no specification. What follows separates the three inferred points from the recorded ones.
+The dossier carries no specification for this object. What follows separates the three inferred points from the
+recorded ones.
 
 The coffer is part of a cold chain. The dossier describes cold cradles for viable tissue, seed, eggs, blood, spores
 and unknown samples, and quiet convoys of refrigerated trucks. A coffer that travels in refrigerated convoys is
@@ -169,7 +170,7 @@ preservation network whose ninth category is unknown may hold anything from seed
 
 ## SERVICING AND CALIBRATION
 
-No servicing is performed. The coffer is held as seized.
+No servicing takes place at any point in the holding. The coffer is held as seized.
 
 No cleaning of the seal is permitted, because the seal is the only evidence of the coffer's integrity. No temperature
 adjustment beyond recorded storage is attempted without Medical Care review.
@@ -205,12 +206,12 @@ unresolved rather than concluded.
 
 ## FAILURE HISTORY
 
-No failure has occurred in A.C.T custody. The coffer has not been opened.
+The holding has generated no failure entry of its own. The coffer has not been opened.
 
 ### SEIZURE CONDITION - DATE NOT RECORDED
 
 The coffer was seized after a custody dispute. The dossier records neither the date nor what the dispute concerned.
-This entry records the absence rather than filling it.
+The gap stays a gap and is recorded as one.
 
 ### SEAL INTACT, NOT TESTED AT SEIZURE - RECORDED QUALIFICATION
 

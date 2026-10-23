@@ -135,7 +135,8 @@ contents are both unknown.
 TECHNICAL SPECIFICATION
 =======================
 
-The dossier gives no specification. The three inferences drawn here are flagged rather than buried.
+A specification is absent from the source and is not reconstructed here. The three inferences drawn here are flagged
+rather than buried.
 
 The cupboard is terminal. It sits at the end of the sequence rather than inside it, which makes it a disposal point
 rather than a working station. Whether disposal means storage or destruction is not recorded, and the difference
@@ -212,7 +213,7 @@ identifiable people.
 SERVICING AND CALIBRATION
 =========================
 
-No servicing is performed. The door is held as seized.
+The record carries no servicing schedule and no work is done. The door is held as seized.
 
 No cleaning of the inner surface or frame is permitted, because cleaning would destroy the residue that makes a later
 examination possible. No repair, rehanging or refitting is permitted, because reassembly is prohibited.
@@ -262,13 +263,14 @@ read as though it did.
 FAILURE HISTORY
 ===============
 
-No failure has occurred in A.C.T custody. The door has been held intact and examined only visually.
+No failure is on record from the period A.C.T has held the unit. The door has been held intact and examined only
+visually.
 
 SEIZURE CONDITION - DATE NOT RECORDED
 -------------------------------------
 
 The door was seized under the dismantlement order, without its cupboard. The dossier records neither the date nor why
-the door came away alone. This entry records the absence rather than filling it.
+the door came away alone. This entry exists to mark what is not known.
 
 NO REASSEMBLY - STANDING RESTRICTION
 ------------------------------------

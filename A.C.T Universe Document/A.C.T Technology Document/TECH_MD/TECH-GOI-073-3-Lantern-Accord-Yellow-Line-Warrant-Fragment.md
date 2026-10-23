@@ -104,7 +104,7 @@ has been attempted on the assumption that they do.
 
 ## TECHNICAL SPECIFICATION
 
-The dossier gives no specification. Three inferences appear below and each is identified as one.
+No specification survives in the source material. Three inferences appear below and each is identified as one.
 
 The warrant is a standing document. Unlike the beacon, which marks an event, a warrant persists for a stated period.
 That makes it portable authority, which is why a fragment is hazardous: portable authority that has lost its
@@ -167,7 +167,7 @@ term.
 
 ## SERVICING AND CALIBRATION
 
-No servicing is performed. The fragments are held as recovered.
+The object is held, not maintained, and the distinction is deliberate. The fragments are held as recovered.
 
 No cleaning, pressing or flattening is permitted, because physical treatment alters the torn edges that establish the
 units as fragments rather than complete documents. No calibration exists: the warrant has no measurable output and no
@@ -198,7 +198,7 @@ is not one, and the storage rule exists to make that physically awkward.
 
 ## FAILURE HISTORY
 
-No failure has occurred in A.C.T custody. The units arrived fragmentary and have been held inert.
+Nothing in this section happened while A.C.T held the object. The units arrived fragmentary and have been held inert.
 
 ### RECOVERY CONDITION - DATE NOT RECORDED
 

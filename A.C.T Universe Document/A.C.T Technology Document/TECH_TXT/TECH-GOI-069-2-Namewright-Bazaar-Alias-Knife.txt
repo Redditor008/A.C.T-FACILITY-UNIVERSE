@@ -132,7 +132,8 @@ one.
 TECHNICAL SPECIFICATION
 =======================
 
-The dossier gives no specification. What follows separates the three inferred points from the recorded ones.
+The dossier carries no specification for this object. What follows separates the three inferred points from the
+recorded ones.
 
 The knife is carrier-specific. It cuts signatures, labels, bracelets and name tags, and the dossier's binding list
 also includes hair, blood, school records and gravesoil, which a knife does not cut. The tool is therefore part of a
@@ -203,7 +204,7 @@ property during examination.
 SERVICING AND CALIBRATION
 =========================
 
-No servicing is performed. The units are held as seized.
+There is no servicing regime for this object. The units are held as seized.
 
 No sharpening, cleaning or repair is permitted. Altering a seized instrument compromises it as evidence in any
 proceeding against the Bazaar, and Legal holds that interest alongside Containment.
@@ -248,13 +249,13 @@ a cut signature decides whether this record describes a prop or a weapon, and th
 FAILURE HISTORY
 ===============
 
-No failure has occurred in A.C.T custody. Neither unit has been operated.
+The custody record carries no failure entry because none has arisen. Neither unit has been operated.
 
 SEIZURE CONDITION - DATE NOT RECORDED
 -------------------------------------
 
 Both units were seized under the dismantlement order. The dossier records the recovery without an operation name or a
-date. This entry records the absence rather than filling it.
+date. What is missing is logged rather than supplied.
 
 NO OPERATION BY A.C.T - STANDING RESTRICTION
 --------------------------------------------
