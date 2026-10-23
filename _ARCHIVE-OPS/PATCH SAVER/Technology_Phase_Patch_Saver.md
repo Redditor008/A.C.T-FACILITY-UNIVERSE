@@ -7444,3 +7444,43 @@ with ozone* — not the word. **No edit was made, because there is nothing to fi
 | Real banned-list violations | 0 |
 | `PATCH_SAVER_ENTRIES` | 100 |
 
+## Prompt End Update — 2026-10-23, Session Close
+
+Owner rulings: add a pointer line to the designation reference; keep `docs/index.html` empty; close
+the session.
+
+### The pointer
+
+`ACT_Complete_Designation_and_Class_Reference.md` gained a block under its H1 saying what it is, that
+it is built for looking things up in rather than reading first, and that `ACT_Facility_Archive_Overview.md`
+is the document to read before it. 13,097 words to 13,151. H1 count stayed at 1.
+
+### Closing state
+
+Every folder in the repository has been walked. Nothing is open except `docs/index.html`, which stays
+at 0 bytes by standing ruling.
+
+| GATE | FINAL |
+|---|---|
+| `DOCUMENT_COUNT` | 1002 |
+| `RECORDS_NOT_ONE_H1` | 0 |
+| `BAD_EOF` | 0 |
+| `ODD_FENCE` | 0 |
+| `MD_WIDE_PROSE_LINES` | 0 |
+| `ROOT_FOLDERS_WITHOUT_README` | 0 |
+| `TECH_MD` / `TECH_TXT` | 244 / 244, 242 records, 0 unpaired |
+| `GOI_DOSSIERS` | 30, all read |
+| `STORY_CHAPTERS_ACTION_OPEN` | 12 of 12 |
+| `STORY_MANUSCRIPT_LOCKSTEP_FAILURES` | 0 |
+| `HISTORY_PARENT_IS_SESSION_BASE` | 0 |
+| `PATCH_SAVER_ENTRIES` | 101 |
+
+### What this session got wrong, for the record
+
+Four things, all the same failure. I edited narrative prose against a standard I had invented
+instead of reading the rules file in the repository. I described the `A.C.T Anomaly Creation Rule`
+folder from memory and called 2 files 4. I quoted 229 technology records for many batches when the
+corpus measured 242. I called the GOI designation letters an open discrepancy when the root README
+already listed all seven. Each one was acting before measuring. The gates built this session exist so
+the next instance is caught by a number rather than by an owner.
+

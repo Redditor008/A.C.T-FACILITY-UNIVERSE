@@ -1,4 +1,10 @@
 # A.C.T FACILITY ARCHIVE FILE — PART I — ANOMALY FILE DESIGNATIONS AND CLASSES
+
+> **What this record is.** A designation and class reference, 13,097 words. It is built for
+> looking things up in, not for reading first. If you are new to the archive, read
+> `ACT_Facility_Archive_Overview.md` before this, and come back here when you need a
+> designation, a clearance level or a class resolved.
+
 ### Complete Designation and Class Reference
 
 | FIELD | VALUE |
