@@ -24,8 +24,8 @@ the door that suits you.
 
 | If you want... | Open this |
 |---|---|
-| A story, read straight through | [`The Facility That Forgot Its First Lie` — Full Manuscript](A.C.T%20Universe%20Document/ACT%20MAIN%20STORY/The-Facility-That-Forgot-Its-First-Lie-Full-Manuscript.md) |
-| The same story one chapter at a time | [Chapter 1 — Correction Order](A.C.T%20Universe%20Document/ACT%20MAIN%20STORY/Chapters/Chapter-1-Correction-Order.md) |
+| A story, read straight through | [`The Facility That Forgot Its First Lie` — Full Manuscript](A.C.T%20Universe%20Document/ACT%20MAIN%20STORY/01-The-Facility-That-Forgot-Its-First-Lie-Full-Manuscript.md) |
+| The same story one chapter at a time | [Chapter 1 — Correction Order](A.C.T%20Universe%20Document/ACT%20MAIN%20STORY/Chapters/Chapter-01-Correction-Order.md) |
 | A guided orientation, gently written | [ACT Orientation Handbook](A.C.T%20Universe%20Document/Junior%20Handbook/ACT_Orientation_Handbook.md) |
 | The history of the institution | [A History of Anomaly Containment Transformation](A.C.T%20Universe%20Document/%27A%20History%20of%20Anomaly%20Containment%20Transformation%27%20BOOK.md) |
 | The foundational anomaly file | [ITHYOS — ENTITY-000](A.C.T%20Universe%20Document/A.C.T%20Anomaly%20Document/ITHYOS%20Document/ITHYOS%20.md) |
@@ -99,7 +99,7 @@ A.C.T-FACILITY-UNIVERSE/
 │
 ├── A.C.T Universe Document/        the universe itself
 │   ├── ACT MAIN STORY/             the narrative layer
-│   │   ├── Story-Index.md          read this first
+│   │   ├── 00-Story-Index.md          read this first
 │   │   ├── Chapters/               12 chapters + epilogue (md + txt)
 │   │   ├── Characters/ Narrative/ Outlines/ Archives/
 │   │   └── …Full-Manuscript.md     the complete story in one file
@@ -179,7 +179,7 @@ A.C.T-FACILITY-UNIVERSE/
 - **Floor canon**: `F-1` is the deepest numbered floor, running upward to surface level.
   Below `F-1` only the ABYSS access route continues. `F-xxxx` is in-draft shorthand where
   the precise floor is not declassified.
-- **Where story and doctrine disagree**, `ACT MAIN STORY/ACT_Continuity_Policy.md` governs.
+- **Where story and doctrine disagree**, `ACT MAIN STORY/05-ACT_Continuity_Policy.md` governs.
 
 ---
 

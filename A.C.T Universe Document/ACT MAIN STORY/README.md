@@ -5,22 +5,22 @@ contradictions — memory, origin, ABYSS history, and the cost of official truth
 
 ## Start Here
 
-`Story-Index.md` is the map of this folder. If you would rather just read, open
-`The-Facility-That-Forgot-Its-First-Lie-Full-Manuscript.md` and start at the beginning.
+`00-Story-Index.md` is the map of this folder. If you would rather just read, open
+`01-The-Facility-That-Forgot-Its-First-Lie-Full-Manuscript.md` and start at the beginning.
 
 ## What is in here
 
 | Path | What it is |
 |---|---|
-| `Story-Index.md` | Index of the story layer; read this first |
-| `The-Facility-That-Forgot-Its-First-Lie-Full-Manuscript.md` | The complete manuscript in one file |
+| `00-Story-Index.md` | Index of the story layer; read this first |
+| `01-The-Facility-That-Forgot-Its-First-Lie-Full-Manuscript.md` | The complete manuscript in one file |
 | `Chapters/` | The same story split into 13 numbered chapters |
 | `Characters/` | Character archive profiles |
 | `Narrative/` | The narrative treatment |
 | `Outlines/` | The chapter outline the manuscript was built from |
 | `Archives/` | The in-universe archive copy |
-| `The_Complete_Abyssal_Archive_Dossier.md` | The compiled Abyssal archive dossier |
-| `ACT_Continuity_Policy.md` | What counts as canon when story and doctrine disagree |
+| `08-The_Complete_Abyssal_Archive_Dossier.md` | The compiled Abyssal archive dossier |
+| `05-ACT_Continuity_Policy.md` | What counts as canon when story and doctrine disagree |
 
 ## Reading order
 

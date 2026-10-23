@@ -6707,12 +6707,12 @@ is accepted by ruling. Wide prose is still a defect, and it now measures 0.
 All 21 story `.md` files are structurally clean: one H1 each, no wide prose, no EOF defect.
 
 One claim was wrong and is corrected. The root README said `Chapters/` holds 13 chapters, twice, and
-`Story-Index.md` repeated it. The folder holds 26 files: 12 numbered chapters and one epilogue, each
+`00-Story-Index.md` repeated it. The folder holds 26 files: 12 numbered chapters and one epilogue, each
 in Markdown and plain text. All three claims now read 12 chapters and an epilogue.
 
-**Noted, not changed.** `The_Complete_Abyssal_Archive_Dossier.md` is 24,219 words, larger than the
+**Noted, not changed.** `08-The_Complete_Abyssal_Archive_Dossier.md` is 24,219 words, larger than the
 manuscript it sits beside at 24,062, and a tourist who opens the story folder finds it before the
-chapters. `Story-Index.md` is 101 words, thin as an index for a 24,000-word manuscript.
+chapters. `00-Story-Index.md` is 101 words, thin as an index for a 24,000-word manuscript.
 
 | GATE | RESULT |
 |---|---|
@@ -6738,17 +6738,17 @@ the test that the recovery lost nothing.
 
 ## Prompt End Update — 2026-10-23, Story Reading Order, Dossier Pointer, Reset Guard
 
-Owner rulings: read the prose for craft; reorder the story folder; expand `Story-Index.md`; add a
+Owner rulings: read the prose for craft; reorder the story folder; expand `00-Story-Index.md`; add a
 pre-push history check and keep the recovery procedure.
 
-### Story-Index.md expanded and reordered
+### 00-Story-Index.md expanded and reordered
 
 101 words to 331. It now opens with a reading order of eight entries stating why each sits where it
 does, and the folder contents follow with `Chapters` moved above `Related Dossiers`. The Abyssal
 Archive Dossier is last and the reason is stated: 24,219 words of apparatus should not meet a
 newcomer before a single chapter.
 
-`The_Complete_Abyssal_Archive_Dossier.md` gained a pointer block under its H1 saying what it is, how
+`08-The_Complete_Abyssal_Archive_Dossier.md` gained a pointer block under its H1 saying what it is, how
 long it is against the manuscript, and where the reading order lives. H1 count stayed at 1.
 
 ### Reset guard added
@@ -6777,7 +6777,7 @@ the reading experience is unaffected and nothing was changed.
 | `BAD_EOF` | 0 |
 | `MD_WIDE_PROSE_LINES` | 0 |
 | `HISTORY_PARENT_IS_SESSION_BASE` | 0 |
-| `Story-Index.md` words | 101 to 331 |
+| `00-Story-Index.md` words | 101 to 331 |
 | `PATCH_SAVER_ENTRIES` | 84 |
 
 ### Reset recovery, eleventh recorded — and the new guard caught it
@@ -6793,4 +6793,58 @@ Recovery as written: the 4 files the turn had touched were saved, `git reset --h
 
 The guard did what it was built to do. Without it the squashed commit would have been pushed and the
 history flattened. The count of recorded resets is now 11.
+
+## Prompt End Update — 2026-10-23, Reset Cause Found; Story Files Renamed Into Reading Order
+
+Owner rulings: read chapters 4 to 12; read the GOI dossiers; add numeric prefixes; investigate the
+resets.
+
+### The reset cause is found, and it is not a reset
+
+`git reflog` on the twelfth occurrence held exactly three entries:
+
+```
+a17dfd0 HEAD@{11:37:55}: clone: from https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE.git
+a17dfd0 HEAD@{11:37:55}: checkout: moving from main to arena/01a0ab57-a-c-t-facility-universe
+2261259 HEAD@{11:38:16}: reset: moving to origin/arena/01a0ab57-a-c-t-facility-universe
+```
+
+The workspace is **re-cloned from scratch**. The fresh clone checks out `main` at `a17dfd0` and then
+creates the arena branch **from local `main`**, not from `origin/arena/...`. Nothing inside git ever
+rewound: the local history was never there to rewind. That is why `HEAD~1` was the session base every
+single time, and why the working tree came back with pre-rename folder names.
+
+The guard still works and stays. But the procedure at the start of a batch is now the real control:
+`git fetch` and `git reset --hard origin/<branch>` **before the first edit**, not after a rejected
+push. Recovering after the fact has cost a squashed commit twice.
+
+### Story files renamed into reading order
+
+36 files renamed and 144 inbound references repaired across 8 files. All 360 relative links across
+every README resolve.
+
+Chapters were zero-padded, which fixes a real ordering defect: `Chapter-10` sorted before
+`Chapter-2` on every listing. They now run `Chapter-01` to `Chapter-12` with `Epilogue-00` ahead of
+them. Root files carry their reading-order number: `00-Story-Index`, `01-…Full-Manuscript`,
+`05-ACT_Continuity_Policy`, `08-The_Complete_Abyssal_Archive_Dossier`, and the subfolder records
+carry `03`, `04`, `06` and `07`.
+
+One self-inflicted defect was found and fixed: the repair pass applied both the encoded and the plain
+replacement, producing 47 double prefixes such as `01-01-The-Facility…` across 8 files. All 47 were
+corrected and the link check returned 0 broken afterwards.
+
+| GATE | RESULT |
+|---|---|
+| `DOCUMENT_COUNT` | 1000 |
+| `RECORDS_NOT_ONE_H1` | 0 |
+| `BAD_EOF` | 0 |
+| `ODD_FENCE` | 0 |
+| `MD_WIDE_PROSE_LINES` | 0 |
+| `TECH_RECORDS` / `TECH_UNPAIRED_TWINS` | 242 / 0 |
+| README relative links | 360 checked, 0 broken |
+| Files renamed / references repaired | 36 / 144 |
+| `PATCH_SAVER_ENTRIES` | 85 |
+
+**Not delivered this turn.** Chapters 4 to 12 were not read for prose and the GOI dossiers were not
+opened. The workspace was re-cloned mid-turn and the recovery consumed the turn.
 
