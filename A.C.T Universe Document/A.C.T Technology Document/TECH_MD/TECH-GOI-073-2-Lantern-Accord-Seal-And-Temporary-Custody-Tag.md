@@ -22,22 +22,20 @@
 
 #### Archive Note
 
-This record covers the accord seals and temporary custody tags issued by the Lantern Accord. The
-dossier lists them third among Accord assets, between yellow-line warrant rolls and the neutral
-keys carried in paired lockboxes. A.C.T holds three seals, all expired, and holds no valid seal.
+This record covers the accord seals and temporary custody tags issued by the Lantern Accord. The dossier lists them
+third among Accord assets, between yellow-line warrant rolls and the neutral keys carried in paired lockboxes. A.C.T
+holds three seals, all expired, and holds no valid seal.
 
-The seal is a documentary instrument. It carries no containment effect and no anomalous property.
-What it does is attest: a sealed document states that an Accord term was written, by whom, and
-under what authority. The Accord Clerk writes immediate terms at activation covering hazard
-description, protected persons, allowed forces, prohibited acts, handover conditions, time limit
-and who may speak for absent parties, and the seal is what makes that writing binding on the
-parties.
+The seal is a documentary instrument. It carries no containment effect and no anomalous property. What it does is
+attest: a sealed document states that an Accord term was written, by whom, and under what authority. The Accord Clerk
+writes immediate terms at activation covering hazard description, protected persons, allowed forces, prohibited acts,
+handover conditions, time limit and who may speak for absent parties, and the seal is what makes that writing binding
+on the parties.
 
-A.C.T is not a signatory and holds only expired stock. Two consequences follow, and they run in
-opposite directions. An expired seal cannot attest anything, so the three units are inert and
-pose no obligation. At the same time, three genuine expired seals are the best available
-reference for what a valid seal looks like, which makes them a forgery reference whether anyone
-intends that or not. The units are therefore held restricted rather than merely stored.
+A.C.T is not a signatory and holds only expired stock. Two consequences follow, and they run in opposite directions.
+An expired seal cannot attest anything, so the three units are inert and pose no obligation. At the same time, three
+genuine expired seals are the best available reference for what a valid seal looks like, which makes them a forgery
+reference whether anyone intends that or not. The units are therefore held restricted rather than merely stored.
 
 Controlled label: **ACCORD SEAL AUTHORITY RULE**.
 
@@ -52,44 +50,41 @@ PRESENTED AS ANY. THEY ARE ALSO A FORGERY REFERENCE, SO ACCESS IS RESTRICTED, NO
 
 ## FUNCTION SUMMARY
 
-The seal attests that an Accord term was written under charter authority. The temporary custody
-tag is its companion instrument and marks a person or object held under an Accord handover rather
-than under any party's own authority.
+The seal attests that an Accord term was written under charter authority. The temporary custody tag is its companion
+instrument and marks a person or object held under an Accord handover rather than under any party's own authority.
 
 - attests that written Accord terms exist and bind the parties named;
 - marks temporary custody taken under an Accord handover condition;
 - carries an expiry, after which it attests nothing;
 - has no containment, suppression or hazard function.
 
-The dossier describes Accord handover conditions as one of the seven matters an Accord Clerk
-writes at activation, and lists handover ledgers and violation ledgers among Accord assets. The
-seal is the instrument that closes that loop: a handover is recorded, and the record is sealed.
+The dossier describes Accord handover conditions as one of the seven matters an Accord Clerk writes at activation, and
+lists handover ledgers and violation ledgers among Accord assets. The seal is the instrument that closes that loop: a
+handover is recorded, and the record is sealed.
 
-The three units A.C.T holds are expired. Their function is recorded from the dossier rather than
-from use, and no A.C.T personnel have seen a valid seal applied.
+The three units A.C.T holds are expired. Their function is recorded from the dossier rather than from use, and no
+A.C.T personnel have seen a valid seal applied.
 
 ## ORIGIN AND CUSTODY
 
-The seals are Accord Clerk issue. The dossier records Accord holdings including signatory depots,
-neutral handover rooms and locked map cabinets, and depot cupboards holding blankets, water, seal
-ink and spare lantern glass. Seal ink is therefore stocked at depot level, which places seal
-production inside the Accord's own logistics rather than with any single signatory.
+The seals are Accord Clerk issue. The dossier records Accord holdings including signatory depots, neutral handover
+rooms and locked map cabinets, and depot cupboards holding blankets, water, seal ink and spare lantern glass. Seal ink
+is therefore stocked at depot level, which places seal production inside the Accord's own logistics rather than with
+any single signatory.
 
-A.C.T recovered three seals, all expired, during repeated work contact with the Accord. That
-contact is described as running through temporary ceasefires, joint evacuations, handover
-disputes, breach signalling and multi-GOI corridor control. Handover disputes are the most likely
-context for expired seals to change hands, because a handover that ends in dispute leaves its
-paperwork outstanding, but the dossier does not state this and it is not recorded as fact here.
+A.C.T recovered three seals, all expired, during repeated work contact with the Accord. That contact is described as
+running through temporary ceasefires, joint evacuations, handover disputes, breach signalling and multi-GOI corridor
+control. Handover disputes are the most likely context for expired seals to change hands, because a handover that ends
+in dispute leaves its paperwork outstanding, but the dossier does not state this and it is not recorded as fact here.
 
-Custody sits with Legal, with Intelligence reviewing. The units are held restricted. No
-replication study is authorised below Level 4.
+Custody sits with Legal, with Intelligence reviewing. The units are held restricted. No replication study is
+authorised below Level 4.
 
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
-The dossier gives no dimensions, materials, seal mechanism or ink composition, and none is
-inferred here. What it does establish is that seal ink is a stocked consumable held in depot
-cupboards alongside blankets, water and spare lantern glass, which makes the seal a wet-ink
-instrument rather than an embossed or mechanical one.
+The dossier gives no dimensions, materials, seal mechanism or ink composition, and none is inferred here. What it does
+establish is that seal ink is a stocked consumable held in depot cupboards alongside blankets, water and spare lantern
+glass, which makes the seal a wet-ink instrument rather than an embossed or mechanical one.
 
 | FIELD | VALUE |
 |---|---|
@@ -103,50 +98,48 @@ instrument rather than an embossed or mechanical one.
 | Countermeasure features | Not recorded |
 | Units held by A.C.T | Three, all expired |
 
-The absence of any recorded countermeasure is itself worth noting. The dossier describes an Accord
-whose codebooks are updated after every broken line, which is a countermeasure practice applied to
-codes. No equivalent practice is recorded for seals.
+The absence of any recorded countermeasure is itself worth noting. The dossier describes an Accord whose codebooks are
+updated after every broken line, which is a countermeasure practice applied to codes. No equivalent practice is
+recorded for seals.
 
 ## TECHNICAL SPECIFICATION
 
-The dossier gives no engineering specification. The table above records what is established and
-what is not. Three further points are established by inference and are marked as such.
+The dossier gives no engineering specification. The table above records what is established and what is not. Three
+further points are established by inference and are marked as such.
 
-The seal is consumable-dependent. If ink is stocked separately, a seal without ink cannot be
-applied, and a seized seal stock does not by itself confer the ability to seal.
+The seal is consumable-dependent. If ink is stocked separately, a seal without ink cannot be applied, and a seized
+seal stock does not by itself confer the ability to seal.
 
-The seal is authority-dependent. The Accord Clerk writes the terms and applies the seal, and the
-dossier names the Clerk as an Accord role. A seal applied by anyone else attests nothing, because
-the attestation is the Clerk's act and not the ink's.
+The seal is authority-dependent. The Accord Clerk writes the terms and applies the seal, and the dossier names the
+Clerk as an Accord role. A seal applied by anyone else attests nothing, because the attestation is the Clerk's act and
+not the ink's.
 
-The seal expires. The three units A.C.T holds are expired, so expiry is a designed property rather
-than an accident of age. The dossier does not record the expiry period or what triggers it.
+The seal expires. The three units A.C.T holds are expired, so expiry is a designed property rather than an accident of
+age. The dossier does not record the expiry period or what triggers it.
 
 ## INTERFACE AND OPERATING ENVELOPE
 
 ### Authority Interface
 
-The seal is operated by an Accord Clerk. The dossier names the Clerk as the officer who writes
-immediate terms at activation. No A.C.T role corresponds to the Clerk and no A.C.T personnel are
-authorised to act as one.
+The seal is operated by an Accord Clerk. The dossier names the Clerk as the officer who writes immediate terms at
+activation. No A.C.T role corresponds to the Clerk and no A.C.T personnel are authorised to act as one.
 
 ### Custody Tag Interface
 
-The temporary custody tag attaches to a person or object held under an Accord handover condition.
-Reading a tag correctly requires knowing which handover it belongs to, which is recorded in the
-handover ledgers. A.C.T holds a copied violation ledger and no handover ledger, so a tag recovered
-in isolation cannot be resolved.
+The temporary custody tag attaches to a person or object held under an Accord handover condition. Reading a tag
+correctly requires knowing which handover it belongs to, which is recorded in the handover ledgers. A.C.T holds a
+copied violation ledger and no handover ledger, so a tag recovered in isolation cannot be resolved.
 
 ### Personnel Limits
 
-Examination requires Level 3. Any replication study requires Level 4 with Legal approval, because
-replication study is forgery capability whatever its stated purpose. No division may carry a seal
-into the field or present one to any party.
+Examination requires Level 3. Any replication study requires Level 4 with Legal approval, because replication study is
+forgery capability whatever its stated purpose. No division may carry a seal into the field or present one to any
+party.
 
 ### Numbered Operating Sequence
 
-The sequence below is the Accord's, recorded for reference. It is not an A.C.T procedure and must
-not be followed by A.C.T personnel.
+The sequence below is the Accord's, recorded for reference. It is not adopted, and A.C.T personnel are forbidden to
+follow it.
 
 ```text
 1. An Accord activation writes immediate terms under charter.
@@ -161,24 +154,23 @@ not be followed by A.C.T personnel.
 
 ## OPERATING PROCEDURE
 
-A.C.T does not operate the seals. The only procedure applying to the held units is storage,
-examination and access control.
+A.C.T does not operate the seals. The only procedure applying to the held units is storage, examination and access
+control.
 
-The three units are stored separately from any A.C.T documentary stock so that they cannot be
-mistaken for Facility instruments. Examination is visual and is recorded. No ink sample is taken
-and no impression is made, because an impression is the first step of replication.
+The three units are stored separately from any A.C.T documentary stock so that they cannot be mistaken for Facility
+instruments. Examination is visual and is recorded. No ink sample is taken and no impression is made, because an
+impression is the first step of replication.
 
-Where A.C.T personnel encounter a sealed Accord document during joint work, the correct response
-is to record the seal and refer the document to Legal. Personnel do not accept custody under an
-Accord tag and do not treat a tag as authority to hold anything.
+Where A.C.T personnel encounter a sealed Accord document during joint work, the correct response is to record the seal
+and refer the document to Legal. Personnel do not accept custody under an Accord tag and do not treat a tag as
+authority to hold anything.
 
 ## SERVICING AND CALIBRATION
 
 No servicing is performed. The units are held as recovered.
 
-No cleaning of the seal faces is permitted, because cleaning alters the ink residue that
-establishes them as genuine expired stock. No calibration exists: the seal has no measurable
-output and no reference standard.
+No cleaning of the seal faces is permitted, because cleaning alters the ink residue that establishes them as genuine
+expired stock. No calibration exists: the seal has no measurable output and no reference standard.
 
 Ink replenishment is not applicable and is not attempted. A.C.T holds no Accord seal ink.
 
@@ -191,8 +183,8 @@ Ink replenishment is not applicable and is not attempted. A.C.T holds no Accord 
 | Ink residue present | Confirmed by examination | The ink composition and whether it is distinctive |
 | No countermeasure features visible | Confirmed by examination | Whether countermeasures exist and are simply not visible |
 
-No fault isolation beyond the above is possible without a replication study, and that is not
-authorised. The record holds an incomplete picture deliberately.
+No fault isolation beyond the above is possible without a replication study, and that is not authorised. The record
+holds an incomplete picture deliberately.
 
 ## KNOWN LIMITS
 
@@ -203,8 +195,8 @@ authorised. The record holds an incomplete picture deliberately.
 - the seal is Clerk-dependent, so holding seals does not confer the ability to seal;
 - three units support no assessment of Accord sealing practice at scale.
 
-The governing limit is the second. The units are inert and dangerous at the same time, and the
-record is written so that a later file does not resolve that tension by choosing one side.
+The governing limit is the second. The units are inert and dangerous at the same time, and the record is written so
+that a later file does not resolve that tension by choosing one side.
 
 ## FAILURE HISTORY
 
@@ -212,19 +204,18 @@ No failure has occurred in A.C.T custody. The units arrived expired and have bee
 
 ### RECOVERY CONDITION - DATE NOT RECORDED
 
-All three seals arrived expired. The dossier records the recovery without an operation name, a
-date or a cause. This entry records that the expiry predates custody.
+All three seals arrived expired. The dossier records the recovery without an operation name, a date or a cause. This
+entry records that the expiry predates custody.
 
 ### NO IMPRESSION TAKEN - STANDING RESTRICTION
 
-No impression, casting or ink sample has been taken from any unit. This entry records the
-restriction as an event so that its absence from the examination record is not read as an
-oversight.
+No impression, casting or ink sample has been taken from any unit. The entry marks the restriction so its trace is not
+mistaken for a gap.
 
 ### NO SEAL PRESENTED BY A.C.T
 
-No accord seal has been presented by A.C.T to any party, and no A.C.T document has been sealed
-with one. This entry records the absence as documented rather than assumed.
+No accord seal has been presented by A.C.T to any party, and no A.C.T document has been sealed with one. This entry
+records the absence as documented rather than assumed.
 
 ## DIVISION USE
 
@@ -244,9 +235,9 @@ No division uses the seals in the field. Legal is the only division with routine
 - `TECH-GOI-073-3` — Lantern Accord Yellow-Line Warrant Fragment, Technology Record
 - `TECH-GOI-073-4` — Lantern Accord Violation Ledger Copy, Technology Record
 
-The beacon record is the activation instrument and this record is the attestation instrument;
-neither functions without the Accord Clerk. The warrant fragment record covers the standing
-authority document, and the violation ledger copy covers the breach record that a seal closes.
+The beacon record is the activation instrument and this record is the attestation instrument; neither functions
+without the Accord Clerk. The warrant fragment record covers the standing authority document, and the violation ledger
+copy covers the breach record that a seal closes.
 
 ## OPEN QUESTIONS
 
@@ -257,9 +248,8 @@ authority document, and the violation ledger copy covers the breach record that 
 - what a temporary custody tag looks like when valid, since none is held;
 - whether the Accord has ever offered A.C.T a valid seal, and what terms would attach.
 
-The last question governs the handling rule. A valid seal offered to a non-signatory would either
-extend charter standing or be meaningless, and the difference decides whether A.C.T could ever
-hold one. Legal has not ruled.
+The last question governs the handling rule. A valid seal offered to a non-signatory would either extend charter
+standing or be meaningless, and the difference decides whether A.C.T could ever hold one. Legal has not ruled.
 
 ## FILE METADATA
 

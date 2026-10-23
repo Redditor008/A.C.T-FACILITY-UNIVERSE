@@ -22,19 +22,17 @@
 
 #### Archive Note
 
-This record covers the yellow-line warrant rolls listed second among Lantern Accord assets,
-between the collapsible lantern beacons and the accord seals. A.C.T holds two fragments and no
-complete warrant.
+This record covers the yellow-line warrant rolls listed second among Lantern Accord assets, between the collapsible
+lantern beacons and the accord seals. A.C.T holds two fragments and no complete warrant.
 
-The warrant is the standing document behind a yellow line. The Accord's recovered line statuses
-place the yellow lantern first and describe it plainly: a safe line is active, and there is no
-seizure, no sale, no recruitment and no claim enforcement along it. A warrant is what a party
-carries to show that such a line exists and what its terms are.
+The warrant is the standing document behind a yellow line. The Accord's recovered line statuses place the yellow
+lantern first and describe it plainly: a safe line is active, and there is no seizure, no sale, no recruitment and no
+claim enforcement along it. A warrant is what a party carries to show that such a line exists and what its terms are.
 
-Two fragments attest nothing on their own, and that is the whole of the handling problem. A
-fragment carries part of a real warrant, so it is genuine material and it reads as authority. A
-reader who does not know it is a fragment may treat a partial term as a complete one, and a
-partial term read as complete is worse than no term at all, because it looks settled.
+Two fragments attest nothing on their own, and that is the whole of the handling problem. A fragment carries part of a
+real warrant, so it is genuine material and it reads as authority. A reader who does not know it is a fragment may
+treat a partial term as a complete one, and a partial term read as complete is worse than no term at all, because it
+looks settled.
 
 Controlled label: **YELLOW-LINE FRAGMENT RULE**.
 
@@ -49,49 +47,44 @@ TERM, AND NEVER RECONSTRUCT ONE WITHOUT LEVEL 4 AND LEGAL APPROVAL.
 
 ## FUNCTION SUMMARY
 
-A yellow-line warrant records that a safe line is active and states its terms. It is drawn from
-warrant roll stock and issued by an Accord Clerk.
+A yellow-line warrant records that a safe line is active and states its terms. It is drawn from warrant roll stock and
+issued by an Accord Clerk.
 
 - records that a yellow line is active over a stated route or area;
 - states the prohibitions that attach: no seizure, no sale, no recruitment, no claim enforcement;
 - names the parties bound and the period the line runs;
 - carries no containment, suppression or hazard function.
 
-The warrant is standing authority where the beacon is an event. A beacon is lit to open a line;
-the warrant is the document that says the line is open and what follows from that. The dossier
-lists warrant rolls among Accord assets and separate handover and violation ledgers among
-Accord holdings, which places the warrant between the two: it authorises, and the ledgers record
-what happened under it.
+The warrant is standing authority where the beacon is an event. A beacon is lit to open a line; the warrant is the
+document that says the line is open and what follows from that. The dossier lists warrant rolls among Accord assets
+and separate handover and violation ledgers among Accord holdings, which places the warrant between the two: it
+authorises, and the ledgers record what happened under it.
 
-Both units A.C.T holds are fragmentary. Their function is recorded from the dossier rather than
-from a complete example, and no A.C.T personnel have read a whole warrant.
+Both units A.C.T holds are fragmentary. Their function is recorded from the dossier rather than from a complete
+example, and no A.C.T personnel have read a whole warrant.
 
 ## ORIGIN AND CUSTODY
 
-Warrants are Accord Clerk issue, drawn from roll stock. The dossier records Accord holdings
-including locked map cabinets and signatory depots, and depot cupboards holding blankets, water,
-seal ink and spare lantern glass. Warrant roll stock is not listed among the depot consumables,
-which suggests it is held more tightly than ink, but the dossier does not say so and it is not
-recorded as fact here.
+Warrants are Accord Clerk issue, drawn from roll stock. The dossier records Accord holdings including locked map
+cabinets and signatory depots, and depot cupboards holding blankets, water, seal ink and spare lantern glass. Warrant
+roll stock is not listed among the depot consumables, which suggests it is held more tightly than ink, but the dossier
+does not say so and it is not recorded as fact here.
 
-A.C.T recovered two fragments during repeated work contact with the Accord, described as running
-through temporary ceasefires, joint evacuations, handover disputes, breach signalling and
-multi-GOI corridor control. Corridor control is the most likely context for warrant material to
-be present at all, since a corridor is what a line runs along, but the dossier does not state
-this.
+A.C.T recovered two fragments during repeated work contact with the Accord, described as running through temporary
+ceasefires, joint evacuations, handover disputes, breach signalling and multi-GOI corridor control. Corridor control
+is the most likely context for warrant material to be present at all, since a corridor is what a line runs along, but
+the dossier does not state this.
 
-Why the units are fragments is not recorded. They may be torn, cut, partially destroyed or
-recovered incomplete. No cause is established and none is inferred.
+Why the units are fragments is not recorded. They may be torn, cut, partially destroyed or recovered incomplete. No
+cause is established and none is inferred.
 
-Custody sits with Legal, with Intelligence reviewing. No reconstruction attempt is authorised
-below Level 4.
+Custody sits with Legal, with Intelligence reviewing. No reconstruction attempt is authorised below Level 4.
 
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
-The dossier gives no dimensions, material, printing method or format, and none is inferred. What
-it establishes is that warrants are issued from rolls, which makes them a continuous-stock
-document rather than a sheet document, and that they are yellow-line warrants specifically, which
-ties the document to the yellow lantern status.
+The dossier gives no dimensions, material, printing method or format, and none is inferred. What it establishes is
+that warrants are issued from rolls, which makes them a continuous-stock document rather than a sheet document, and
+that they are yellow-line warrants specifically, which ties the document to the yellow lantern status.
 
 | FIELD | VALUE |
 |---|---|
@@ -106,48 +99,47 @@ ties the document to the yellow lantern status.
 | Units held by A.C.T | Two fragments, no complete warrant |
 | Cause of fragmentation | Not recorded |
 
-The two fragments are not recorded as belonging to the same warrant. Whether they do is unknown,
-and no reconstruction has been attempted on the assumption that they do.
+The two fragments are not recorded as belonging to the same warrant. Whether they do is unknown, and no reconstruction
+has been attempted on the assumption that they do.
 
 ## TECHNICAL SPECIFICATION
 
-The dossier gives no specification. Three points are established by inference and are marked as
-such.
+The dossier gives no specification. Three inferences appear below and each is identified as one.
 
-The warrant is a standing document. Unlike the beacon, which marks an event, a warrant persists
-for a stated period. That makes it portable authority, which is why a fragment is hazardous:
-portable authority that has lost its boundaries still looks like authority.
+The warrant is a standing document. Unlike the beacon, which marks an event, a warrant persists for a stated period.
+That makes it portable authority, which is why a fragment is hazardous: portable authority that has lost its
+boundaries still looks like authority.
 
-The warrant is tied to a line status. A yellow-line warrant states the yellow prohibitions and no
-others. A fragment therefore cannot be assumed to carry the terms of any other status, and a
-reader who supplies the missing terms from another status is inventing them.
+The warrant is tied to a line status. A yellow-line warrant states the yellow prohibitions and no others. A fragment
+therefore cannot be assumed to carry the terms of any other status, and a reader who supplies the missing terms from
+another status is inventing them.
 
-The warrant depends on the codebooks. The dossier records that signatory codebooks are updated
-after every broken line, and the codebooks are unrecovered. Any coded portion of a warrant is
-therefore unreadable by A.C.T and cannot be resolved by analysis.
+The warrant depends on the codebooks. The dossier records that signatory codebooks are updated after every broken
+line, and the codebooks are unrecovered. Any coded portion of a warrant is therefore unreadable by A.C.T and cannot be
+resolved by analysis.
 
 ## INTERFACE AND OPERATING ENVELOPE
 
 ### Authority Interface
 
-The warrant is issued by an Accord Clerk and read by parties bound under the line. No A.C.T role
-corresponds to either position and no A.C.T personnel are authorised to act in one.
+The warrant is issued by an Accord Clerk and read by parties bound under the line. No A.C.T role corresponds to either
+position and no A.C.T personnel are authorised to act in one.
 
 ### Resolution Interface
 
-Reading a warrant fully requires the signatory codebooks, which are unrecovered. A fragment may
-therefore be described physically and cannot be interpreted completely even in principle.
+Reading a warrant fully requires the signatory codebooks, which are unrecovered. A fragment may therefore be described
+physically and cannot be interpreted completely even in principle.
 
 ### Personnel Limits
 
-Examination requires Level 3. Any reconstruction attempt requires Level 4 with Legal approval,
-because reconstructing a warrant produces a document that reads as Accord authority. No division
-may carry a fragment into the field or cite one in correspondence with any party.
+Examination requires Level 3. Any reconstruction attempt requires Level 4 with Legal approval, because reconstructing
+a warrant produces a document that reads as Accord authority. No division may carry a fragment into the field or cite
+one in correspondence with any party.
 
 ### Numbered Operating Sequence
 
-The sequence below is the Accord's, recorded for reference. It is not an A.C.T procedure and must
-not be followed by A.C.T personnel.
+The sequence below is the Accord's, recorded for reference. No step of this sequence may be carried out by A.C.T
+personnel.
 
 ```text
 1. A yellow line is opened and a beacon marks it.
@@ -162,24 +154,24 @@ not be followed by A.C.T personnel.
 
 ## OPERATING PROCEDURE
 
-A.C.T does not operate the fragments. The only procedure applying to them is storage, examination
-and citation control.
+A.C.T does not operate the fragments. The only procedure applying to them is storage, examination and citation
+control.
 
-The two units are stored flat and separately, each in its own enclosure, so that they cannot be
-laid together and read as one document. Examination is visual and is recorded. No reconstruction
-is attempted and no missing text is supplied.
+The two units are stored flat and separately, each in its own enclosure, so that they cannot be laid together and read
+as one document. Examination is visual and is recorded. No reconstruction is attempted and no missing text is
+supplied.
 
-Where a warrant or a warrant fragment appears in Accord correspondence, the correct response is to
-record it and refer it to Legal. Personnel do not accept a fragment as evidence of a line and do
-not treat any part of one as a complete term.
+Where a warrant or a warrant fragment appears in Accord correspondence, the correct response is to record it and refer
+it to Legal. Personnel do not accept a fragment as evidence of a line and do not treat any part of one as a complete
+term.
 
 ## SERVICING AND CALIBRATION
 
 No servicing is performed. The fragments are held as recovered.
 
-No cleaning, pressing or flattening is permitted, because physical treatment alters the torn
-edges that establish the units as fragments rather than complete documents. No calibration
-exists: the warrant has no measurable output and no reference standard.
+No cleaning, pressing or flattening is permitted, because physical treatment alters the torn edges that establish the
+units as fragments rather than complete documents. No calibration exists: the warrant has no measurable output and no
+reference standard.
 
 ## FAULT ISOLATION
 
@@ -190,8 +182,7 @@ exists: the warrant has no measurable output and no reference standard.
 | Coded portions unreadable | Confirmed, codebooks unrecovered | Whether any coded portion is present on these fragments |
 | Same-warrant relationship | Not established | Whether the two fragments belong to one warrant |
 
-No fault isolation beyond the above is possible without reconstruction, and reconstruction is not
-authorised.
+No fault isolation beyond the above is possible without reconstruction, and reconstruction is not authorised.
 
 ## KNOWN LIMITS
 
@@ -202,8 +193,8 @@ authorised.
 - the yellow prohibitions are known but the warrant's other terms are not;
 - two fragments support no assessment of Accord warrant practice at scale.
 
-The governing limit is the fourth. Laying the fragments together would produce something that
-looks like a warrant and is not one, and the storage rule exists to make that physically awkward.
+The governing limit is the fourth. Laying the fragments together would produce something that looks like a warrant and
+is not one, and the storage rule exists to make that physically awkward.
 
 ## FAILURE HISTORY
 
@@ -211,19 +202,18 @@ No failure has occurred in A.C.T custody. The units arrived fragmentary and have
 
 ### RECOVERY CONDITION - DATE NOT RECORDED
 
-Both units arrived as fragments. The dossier records the recovery without an operation name, a
-date or a cause. This entry records that the fragmentation predates custody.
+Both units arrived as fragments. The dossier records the recovery without an operation name, a date or a cause. This
+entry records that the fragmentation predates custody.
 
 ### NO RECONSTRUCTION ATTEMPTED - STANDING RESTRICTION
 
-The two fragments have never been laid together, aligned or reconstructed. This entry records the
-restriction as an event so that its absence from the examination record is not read as an
-oversight.
+The two fragments have never been laid together, aligned or reconstructed. Logged as an event so no later reader takes
+the silence for an omission.
 
 ### NO FRAGMENT CITED BY A.C.T
 
-No warrant fragment has been cited by A.C.T in any correspondence, and no fragment has been
-presented to any party as evidence of a line. This entry records the absence as documented.
+No warrant fragment has been cited by A.C.T in any correspondence, and no fragment has been presented to any party as
+evidence of a line. This entry records the absence as documented.
 
 ## DIVISION USE
 
@@ -243,9 +233,9 @@ No division uses the fragments in the field. Legal is the only division with rou
 - `TECH-GOI-073-2` — Lantern Accord Seal And Temporary Custody Tag, Technology Record
 - `TECH-GOI-073-4` — Lantern Accord Violation Ledger Copy, Technology Record
 
-The beacon opens a line, the warrant records that it is open, the seal attests the writing, and
-the violation ledger records what was done along it. All four records turn on the same Accord
-Clerk, and none of the four functions inside A.C.T custody.
+The beacon opens a line, the warrant records that it is open, the seal attests the writing, and the violation ledger
+records what was done along it. All four records turn on the same Accord Clerk, and none of the four functions inside
+A.C.T custody.
 
 ## OPEN QUESTIONS
 
@@ -256,9 +246,9 @@ Clerk, and none of the four functions inside A.C.T custody.
 - whether the Accord reissues warrants after a broken line, and on what authority;
 - whether a fragment can be authenticated against Accord roll stock at all.
 
-The first question governs the storage rule. If the fragments belong to one warrant, laying them
-together would be legitimate scholarship; if they do not, it would produce a false document.
-Legal has not ruled, so they are kept apart.
+The first question governs the storage rule. If the fragments belong to one warrant, laying them together would be
+legitimate scholarship; if they do not, it would produce a false document. Legal has not ruled, so they are kept
+apart.
 
 ## FILE METADATA
 

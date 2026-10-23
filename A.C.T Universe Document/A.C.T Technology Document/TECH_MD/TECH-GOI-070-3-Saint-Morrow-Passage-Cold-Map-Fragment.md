@@ -22,24 +22,22 @@
 
 #### Archive Note
 
-This record covers the cold maps listed among Saint Morrow Passage assets, described in the dossier
-as stored in insulated tubes. A.C.T holds two fragments. The full Saint Morrow route books remain
-unrecovered.
+This record covers the cold maps listed among Saint Morrow Passage assets, described in the dossier as stored in
+insulated tubes. A.C.T holds two fragments. The full Saint Morrow route books remain unrecovered.
 
-The dossier does not explain why a map is kept cold, and this record does not invent an
-explanation. What it does is hold the two facts the dossier gives — that the maps are cold and
-that they are stored in insulated tubes — and treat the pairing as the central open question
-rather than resolving it. A route map that requires insulation is not an ordinary document, and
-the reason matters for how the fragments are stored.
+The dossier does not explain why a map is kept cold, and this record does not invent an explanation. What it does is
+hold the two facts the dossier gives — that the maps are cold and that they are stored in insulated tubes — and treat
+the pairing as the central open question rather than resolving it. A route map that requires insulation is not an
+ordinary document, and the reason matters for how the fragments are stored.
 
-The Passage is a work relationship. Its posture is cooperated, monitor, misdirect and appropriate,
-its threat level is 3, and its status is a passage market under monitoring. The dossier also
-places locked map cabinets inside chapel-like depots with white candles, which is a second fact
-about how the Passage keeps maps and is recorded here rather than assumed away.
+The Passage is a work relationship. Its posture is cooperated, monitor, misdirect and appropriate, its threat level is
+3, and its status is a passage market under monitoring. The dossier also places locked map cabinets inside chapel-like
+depots with white candles, which is a second fact about how the Passage keeps maps and is recorded here rather than
+assumed away.
 
-A fragment is genuine material that reads as a route. The handling problem is the same one that
-governs the Lantern Accord warrant fragments, and the rule is the same: never cite a fragment as
-though it were a complete route, and never reconstruct one without approval.
+A fragment is genuine material that reads as a route. The handling problem is the same one that governs the Lantern
+Accord warrant fragments, and the rule is the same: never cite a fragment as though it were a complete route, and
+never reconstruct one without approval.
 
 Controlled label: **COLD-MAP FRAGMENT RULE**.
 
@@ -55,45 +53,41 @@ THE PASSAGE DOES NOT.
 
 ## FUNCTION SUMMARY
 
-A cold map records a Passage route and is stored cold in an insulated tube. What it records beyond
-the route is not established.
+A cold map records a Passage route and is stored cold in an insulated tube. What it records beyond the route is not
+established.
 
 - records a Passage route;
 - is stored in an insulated tube, which the dossier states without explaining;
 - is kept in locked map cabinets inside chapel-like depots;
 - has no containment, suppression or hazard function that is established.
 
-The dossier lists cold maps alongside white ticket books, crossing ledgers, route bells, porter
-keys, safe vans and route-audit notebooks. The maps are the only asset whose storage condition is
-described, which makes the cold storage a deliberate feature of Passage practice rather than an
-accident of one depot.
+The dossier lists cold maps alongside white ticket books, crossing ledgers, route bells, porter keys, safe vans and
+route-audit notebooks. The maps are the only asset whose storage condition is described, which makes the cold storage
+a deliberate feature of Passage practice rather than an accident of one depot.
 
-What the cold preserves is unknown. Whether the map's medium degrades at room temperature, whether
-the cold is protective or functional, and whether a fragment held warm has already been damaged
-are all open, and the third of those bears on the condition of the units A.C.T holds.
+What the cold preserves is unknown. Whether the map's medium degrades at room temperature, whether the cold is
+protective or functional, and whether a fragment held warm has already been damaged are all open, and the third of
+those bears on the condition of the units A.C.T holds.
 
 ## ORIGIN AND CUSTODY
 
-The cold maps are Passage stock. The dossier describes chapel-like depots with white candles and
-locked map cabinets, which places map storage inside secured Passage premises rather than with
-individual porters.
+The cold maps are Passage stock. The dossier describes chapel-like depots with white candles and locked map cabinets,
+which places map storage inside secured Passage premises rather than with individual porters.
 
-A.C.T recovered two cold-map fragments among white tickets, one route bell and partial crossing
-ledgers, during work contact with the Passage. The posture of cooperated, monitor, misdirect and
-appropriate means this was appropriation from a cooperating partner rather than seizure from a
-hostile one.
+A.C.T recovered two cold-map fragments among white tickets, one route bell and partial crossing ledgers, during work
+contact with the Passage. The posture of cooperated, monitor, misdirect and appropriate means this was appropriation
+from a cooperating partner rather than seizure from a hostile one.
 
-Why the units are fragments is not recorded, and whether they were removed from their tubes is
-also not recorded. That second absence matters more than the first, because a cold map kept warm
-may not be the object the Passage stored.
+Why the units are fragments is not recorded, and whether they were removed from their tubes is also not recorded. That
+second absence matters more than the first, because a cold map kept warm may not be the object the Passage stored.
 
-Custody sits with Intelligence, with Legal and Containment reviewing. Examination requires
-Level 3. Handling outside storage requires Level 4. No reconstruction is authorised.
+Custody sits with Intelligence, with Legal and Containment reviewing. Examination requires Level 3. Handling outside
+storage requires Level 4. No reconstruction is authorised.
 
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
-The dossier gives no dimensions, medium, scale or notation, and none is inferred. What it
-establishes is the storage condition, which is more informative than a dimension would be.
+The dossier gives no dimensions, medium, scale or notation, and none is inferred. What it establishes is the storage
+condition, which is more informative than a dimension would be.
 
 | FIELD | VALUE |
 |---|---|
@@ -108,49 +102,46 @@ establishes is the storage condition, which is more informative than a dimension
 | Units held by A.C.T | Two fragments |
 | Storage condition in A.C.T custody | Room temperature, recorded as a deviation |
 
-The last row is a deliberate disclosure. The Passage stores these maps cold. A.C.T holds two
-fragments at room temperature and has not attempted cold storage, because the reason for the cold
-is unknown and replicating an unexplained condition is not a conservation measure. The deviation
-is recorded so that any later degradation is attributable.
+The last row is a deliberate disclosure. The Passage stores these maps cold. A.C.T holds two fragments at room
+temperature and has not attempted cold storage, because the reason for the cold is unknown and replicating an
+unexplained condition is not a conservation measure. The deviation is recorded so that any later degradation is
+attributable.
 
 ## TECHNICAL SPECIFICATION
 
-The dossier gives no specification. Three points are established by inference and are marked as
-such.
+The dossier gives no specification. Three of the following points are inference and say so.
 
-The map is condition-dependent. A stored-cold document implies that its condition depends on
-temperature, which means the fragments A.C.T holds may not be in the condition the Passage kept
-them in.
+The map is condition-dependent. A stored-cold document implies that its condition depends on temperature, which means
+the fragments A.C.T holds may not be in the condition the Passage kept them in.
 
-The map is secured stock. Locked cabinets inside chapel-like depots is a higher security posture
-than the ticket books or ledgers are described as having, which suggests maps are the Passage's
-most closely held asset.
+The map is secured stock. Locked cabinets inside chapel-like depots is a higher security posture than the ticket books
+or ledgers are described as having, which suggests maps are the Passage's most closely held asset.
 
-The map is fragmentary and its gaps are unknown. No inference may be drawn from what a fragment
-omits, and a route shown as ending at a fragment edge does not end there.
+The map is fragmentary and its gaps are unknown. No inference may be drawn from what a fragment omits, and a route
+shown as ending at a fragment edge does not end there.
 
 ## INTERFACE AND OPERATING ENVELOPE
 
 ### Route Interface
 
-The map is read by Passage route officers. The dossier names a Route Reader who assesses whether
-ordinary transport is possible and a White Clerk who assigns a route class. No A.C.T role
-corresponds to either and no A.C.T personnel are authorised to act in one.
+The map is read by Passage route officers. The dossier names a Route Reader who assesses whether ordinary transport is
+possible and a White Clerk who assigns a route class. No A.C.T role corresponds to either and no A.C.T personnel are
+authorised to act in one.
 
 ### Resolution Interface
 
-Reading a fragment as a route requires the complete map and presumably the route books, which are
-unrecovered. A fragment may therefore be described physically and cannot be navigated.
+Reading a fragment as a route requires the complete map and presumably the route books, which are unrecovered. A
+fragment may therefore be described physically and cannot be navigated.
 
 ### Personnel Limits
 
-Examination requires Level 3. Handling outside storage requires Level 4. No reconstruction is
-authorised at any clearance, and no fragment is copied into any route file.
+Examination requires Level 3. Handling outside storage requires Level 4. No reconstruction is authorised at any
+clearance, and no fragment is copied into any route file.
 
 ### Numbered Operating Sequence
 
-The sequence below is the Passage's, recorded for reference. It is not an A.C.T procedure and must
-not be followed by A.C.T personnel.
+The sequence below is the Passage's, recorded for reference. Recorded for reference only; following it is prohibited
+for A.C.T personnel.
 
 ```text
 1. A map is drawn for a Passage route.
@@ -165,27 +156,25 @@ not be followed by A.C.T personnel.
 
 ## OPERATING PROCEDURE
 
-A.C.T does not operate the fragments. The only procedure applying to them is storage, examination
-and citation control.
+A.C.T does not operate the fragments. The only procedure applying to them is storage, examination and citation
+control.
 
-The two units are stored flat and separately, each in its own enclosure, so that they cannot be
-laid together and read as one route. They are held at room temperature and the deviation from
-Passage practice is recorded on the enclosure. Examination is visual and is recorded.
+The two units are stored flat and separately, each in its own enclosure, so that they cannot be laid together and read
+as one route. They are held at room temperature and the deviation from Passage practice is recorded on the enclosure.
+Examination is visual and is recorded.
 
-No reconstruction is attempted and no missing route is supplied. Where a fragment appears relevant
-to a live matter, the correct action is to refer the matter to Legal rather than to read the
-fragment as a route.
+No reconstruction is attempted and no missing route is supplied. Where a fragment appears relevant to a live matter,
+the correct action is to refer the matter to Legal rather than to read the fragment as a route.
 
 ## SERVICING AND CALIBRATION
 
 No servicing is performed. The fragments are held as recovered.
 
-No cleaning, pressing, humidifying or cold storage is attempted. Each of those would be a
-conservation decision made without knowing what the cold was for, and a wrong conservation
-decision is not reversible.
+No cleaning, pressing, humidifying or cold storage is attempted. Each of those would be a conservation decision made
+without knowing what the cold was for, and a wrong conservation decision is not reversible.
 
-No calibration exists. The map has no measurable output and no reference standard, and the
-complete map that would serve as one is not held.
+No calibration exists. The map has no measurable output and no reference standard, and the complete map that would
+serve as one is not held.
 
 ## FAULT ISOLATION
 
@@ -196,9 +185,9 @@ complete map that would serve as one is not held.
 | Whether they were tubed | Not recorded | Whether the tubes were recovered |
 | Same-map relationship | Not established | Whether the two fragments belong to one map |
 
-The second and third rows are the live ones. If the fragments were recovered out of their tubes,
-they have been warm since recovery and any change is already done. If they were recovered tubed,
-the tube may still exist and its condition would say something about how long they were warm.
+The second and third rows are the live ones. If the fragments were recovered out of their tubes, they have been warm
+since recovery and any change is already done. If they were recovered tubed, the tube may still exist and its
+condition would say something about how long they were warm.
 
 ## KNOWN LIMITS
 
@@ -209,31 +198,27 @@ the tube may still exist and its condition would say something about how long th
 - whether the two fragments belong together is unknown and must not be assumed;
 - the fragments came from a cooperating partner, which carries obligations a seizure would not.
 
-The governing limit is the second. Every other limit in this record could be resolved by more
-information. That one cannot be resolved by anything A.C.T holds, and it decides how the fragments
-are stored.
+The governing limit is the second. Every other limit in this record could be resolved by more information. That one
+cannot be resolved by anything A.C.T holds, and it decides how the fragments are stored.
 
 ## FAILURE HISTORY
 
-No failure has occurred in A.C.T custody. The fragments have been held and examined and have not
-been reconstructed.
+No failure has occurred in A.C.T custody. The fragments have been held and examined and have not been reconstructed.
 
 ### RECOVERY CONDITION - DATE NOT RECORDED
 
-Both units arrived as fragments. The dossier records neither the date nor whether they were tubed.
-This entry records the absence rather than filling it.
+Both units arrived as fragments. The dossier records neither the date nor whether they were tubed. This entry records
+the absence rather than filling it.
 
 ### ROOM TEMPERATURE STORAGE - RECORDED DEVIATION
 
-The fragments are held at room temperature and not in insulated tubes or cold storage. This entry
-exists so that any later degradation is attributable to a known condition rather than read as a
-discovery about the maps.
+The fragments are held at room temperature and not in insulated tubes or cold storage. This entry exists so that any
+later degradation is attributable to a known condition rather than read as a discovery about the maps.
 
 ### NO RECONSTRUCTION ATTEMPTED - STANDING RESTRICTION
 
-The two fragments have never been laid together, aligned or reconstructed. This entry records the
-restriction as an event so that its absence from the examination record is not read as an
-oversight.
+The two fragments have never been laid together, aligned or reconstructed. This entry prevents the restriction from
+being read later as an oversight.
 
 ## DIVISION USE
 
@@ -254,9 +239,9 @@ No division navigates by the fragments. Intelligence holds them and no one recon
 - `TECH-GOI-070-2` — Saint Morrow Passage Route Bell, Technology Record
 - `TECH-GOI-070-4` — Saint Morrow Passage Partial Crossing Ledger, Technology Record
 
-The ticket authorises the crossing, the bell marks it in transit, the map carries the route, and
-the ledger records what was carried and what is owed. A.C.T holds a ticket, a bell, two map
-fragments and partial ledgers, and holds no complete map and no route book.
+The ticket authorises the crossing, the bell marks it in transit, the map carries the route, and the ledger records
+what was carried and what is owed. A.C.T holds a ticket, a bell, two map fragments and partial ledgers, and holds no
+complete map and no route book.
 
 ## OPEN QUESTIONS
 
@@ -267,9 +252,9 @@ fragments and partial ledgers, and holds no complete map and no route book.
 - what notation a Passage route map uses, and whether the route books would explain it;
 - whether cold storage should be replicated without knowing what it is for.
 
-The last question is a real decision and it has not been made. Replicating an unexplained storage
-condition might preserve the fragments and might damage them. This record holds them warm and says
-so, rather than guessing in either direction.
+The last question is a real decision and it has not been made. Replicating an unexplained storage condition might
+preserve the fragments and might damage them. This record holds them warm and says so, rather than guessing in either
+direction.
 
 ## FILE METADATA
 

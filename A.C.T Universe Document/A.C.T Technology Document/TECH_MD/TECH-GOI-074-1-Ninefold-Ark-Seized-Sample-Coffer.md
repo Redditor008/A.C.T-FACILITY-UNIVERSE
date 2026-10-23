@@ -22,23 +22,21 @@
 
 #### Archive Note
 
-This record covers the one sample coffer A.C.T seized from the Ninefold Ark after a custody
-dispute. It is the only Ark object A.C.T holds. The dossier is precise about the rest of the
-relationship: one seed annex was inspected under cooperation, one mobile hold was photographed from
-outside, and full Ark inventories are unknown.
+This record covers the one sample coffer A.C.T seized from the Ninefold Ark after a custody dispute. It is the only
+Ark object A.C.T holds. The dossier is precise about the rest of the relationship: one seed annex was inspected under
+cooperation, one mobile hold was photographed from outside, and full Ark inventories are unknown.
 
-The record is written as an assessment rather than as a custody or counter-operation record,
-because neither of those fits. A.C.T does not operate the coffer and has no intention of issuing
-it, so it is not custody in the sense the Lantern Accord and Saint Morrow records are. The Ark is
-not hostile either — its posture is monitor, misdirect, cooperated and appropriate, its alignment
-is neutral, and its status is a continuance containment network under monitoring. So this is an
-assessment of a seized object from a party A.C.T also cooperates with, and the coexistence of those
-two facts is recorded rather than smoothed over.
+The record is written as an assessment rather than as a custody or counter-operation record, because neither of those
+fits. A.C.T does not operate the coffer and has no intention of issuing it, so it is not custody in the sense the
+Lantern Accord and Saint Morrow records are. The Ark is not hostile either — its posture is monitor, misdirect,
+cooperated and appropriate, its alignment is neutral, and its status is a continuance containment network under
+monitoring. So this is an assessment of a seized object from a party A.C.T also cooperates with, and the coexistence
+of those two facts is recorded rather than smoothed over.
 
-The dossier describes sample coffers as carrying nine-line seals. The seal on the seized coffer is
-intact and the coffer has not been opened. That is the whole of this record's practical content:
-A.C.T holds a sealed biological container of unknown contents, from an organisation whose
-preservation categories include one simply labelled unknown, and the seal has not been broken.
+The dossier describes sample coffers as carrying nine-line seals. The seal on the seized coffer is intact and the
+coffer has not been opened. That is the whole of this record's practical content: A.C.T holds a sealed biological
+container of unknown contents, from an organisation whose preservation categories include one simply labelled unknown,
+and the seal has not been broken.
 
 Controlled label: **ARK COFFER SEAL RULE**.
 
@@ -54,44 +52,40 @@ BECAUSE THE CONTENTS ARE CURIOUS.
 
 ## FUNCTION SUMMARY
 
-A sample coffer is a preservation container used by the Ninefold Ark. The dossier describes coffers
-as carrying nine-line seals and places them among Ark assets that include cold cradles for viable
-tissue, seed, eggs, blood, spores and unknown samples.
+A sample coffer is a preservation container used by the Ninefold Ark. The dossier describes coffers as carrying
+nine-line seals and places them among Ark assets that include cold cradles for viable tissue, seed, eggs, blood,
+spores and unknown samples.
 
 - preserves biological material in transit or storage;
 - is sealed with a nine-line seal;
 - belongs to a preservation network divided into nine categories;
 - has no established containment function and must never be adopted as A.C.T equipment.
 
-The dossier lists the Ark's holds as divided by living, seed, memory, tool, medical, animal,
-culture, containment and unknown. Nine categories, and the ninth is unknown. The coffer's contents
-therefore fall somewhere in a scheme whose last category is explicitly undefined, which is why this
-record does not guess at what is inside.
+The dossier lists the Ark's holds as divided by living, seed, memory, tool, medical, animal, culture, containment and
+unknown. Nine categories, and the ninth is unknown. The coffer's contents therefore fall somewhere in a scheme whose
+last category is explicitly undefined, which is why this record does not guess at what is inside.
 
-The coffer has not been opened. Its function is recorded from the dossier rather than from
-inspection.
+The coffer has not been opened. Its function is recorded from the dossier rather than from inspection.
 
 ## ORIGIN AND CUSTODY
 
-The coffer is Ark preservation stock. The dossier describes Ark holdings including fold vaults with
-inconsistent external dimensions, cold cradles, memory banks, covenant keys requiring multiple roles
-to open, sealed vessels registered under ordinary maritime or research foundations, evacuation
-lottery offices, quiet convoys of refrigerated trucks, and continuity legal trusts that survive
-owner death, state collapse or record alteration.
+The coffer is Ark preservation stock. The dossier describes Ark holdings including fold vaults with inconsistent
+external dimensions, cold cradles, memory banks, covenant keys requiring multiple roles to open, sealed vessels
+registered under ordinary maritime or research foundations, evacuation lottery offices, quiet convoys of refrigerated
+trucks, and continuity legal trusts that survive owner death, state collapse or record alteration.
 
-A.C.T seized one sample coffer after a custody dispute. The same dossier records one seed annex
-inspected under cooperation and one mobile hold photographed from outside, so the relationship
-carries both cooperation and dispute, and this record does not resolve which predominates.
+A.C.T seized one sample coffer after a custody dispute. The same dossier records one seed annex inspected under
+cooperation and one mobile hold photographed from outside, so the relationship carries both cooperation and dispute,
+and this record does not resolve which predominates.
 
-Custody sits with Containment, with Medical Care, Subject Care and Legal reviewing. Handling
-requires Level 5. The coffer has not been opened and the seal is intact. It has not been returned
-to the Ark and no return has been requested by either side.
+Custody sits with Containment, with Medical Care, Subject Care and Legal reviewing. Handling requires Level 5. The
+coffer has not been opened and the seal is intact. It has not been returned to the Ark and no return has been
+requested by either side.
 
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
-The dossier gives no dimensions, materials, seal mechanism or temperature specification, and none is
-inferred. What it establishes is the seal type, which is the only physical fact recorded about
-coffers anywhere in the dossier.
+The dossier gives no dimensions, materials, seal mechanism or temperature specification, and none is inferred. What it
+establishes is the seal type, which is the only physical fact recorded about coffers anywhere in the dossier.
 
 | FIELD | VALUE |
 |---|---|
@@ -106,51 +100,47 @@ coffers anywhere in the dossier.
 | Units held by A.C.T | One |
 | Opened by A.C.T | No |
 
-Two rows carry the record. The contents are unknown and the seal is intact, which together mean this
-is a closed container whose contents cannot be described. And the preservation category is unknown,
-because the Ark's own nine-way division ends in a category the dossier labels unknown.
+Two rows carry the record. The contents are unknown and the seal is intact, which together mean this is a closed
+container whose contents cannot be described. And the preservation category is unknown, because the Ark's own nine-way
+division ends in a category the dossier labels unknown.
 
 ## TECHNICAL SPECIFICATION
 
-The dossier gives no specification. Three points are established by inference and are marked as
-such.
+The dossier gives no specification. What follows separates the three inferred points from the recorded ones.
 
-The coffer is part of a cold chain. The dossier describes cold cradles for viable tissue, seed,
-eggs, blood, spores and unknown samples, and quiet convoys of refrigerated trucks. A coffer that
-travels in refrigerated convoys is presumably temperature-dependent, and whether the seized coffer
-has been kept cold since seizure is not recorded.
+The coffer is part of a cold chain. The dossier describes cold cradles for viable tissue, seed, eggs, blood, spores
+and unknown samples, and quiet convoys of refrigerated trucks. A coffer that travels in refrigerated convoys is
+presumably temperature-dependent, and whether the seized coffer has been kept cold since seizure is not recorded.
 
-The seal is a nine-line seal and nothing else is said about it. Whether the nine lines are a
-closure pattern, a record, a set of signatures or something else is unknown. What is established is
-that A.C.T has not broken one.
+The seal is a nine-line seal and nothing else is said about it. Whether the nine lines are a closure pattern, a
+record, a set of signatures or something else is unknown. What is established is that A.C.T has not broken one.
 
-The coffer is covenant-adjacent. The dossier describes covenant keys requiring multiple roles to
-open, which suggests Ark containers are opened by more than one person. Whether a coffer requires
-a key is not recorded, and no attempt has been made to establish it.
+The coffer is covenant-adjacent. The dossier describes covenant keys requiring multiple roles to open, which suggests
+Ark containers are opened by more than one person. Whether a coffer requires a key is not recorded, and no attempt has
+been made to establish it.
 
 ## INTERFACE AND OPERATING ENVELOPE
 
 ### Ark Interface
 
-The coffer is Ark equipment operated by Ark personnel. No A.C.T role corresponds and no A.C.T
-personnel are authorised to open, transport in service, or otherwise operate one.
+The coffer is Ark equipment operated by Ark personnel. No A.C.T role corresponds and no A.C.T personnel are authorised
+to open, transport in service, or otherwise operate one.
 
 ### Seal Interface
 
-The nine-line seal is the only interface the coffer presents, and it is intact. Any decision to
-break it is a Level 5 decision taken with Medical Care, Subject Care and Legal present, and it is
-not taken because the contents are of interest.
+The nine-line seal is the only interface the coffer presents, and it is intact. Any decision to break it is a Level 5
+decision taken with Medical Care, Subject Care and Legal present, and it is not taken because the contents are of
+interest.
 
 ### Personnel Limits
 
-Custody requires Level 4. Handling requires Level 5. No opening is authorised at any clearance
-without the three reviewing divisions present, and no imaging that would breach the seal is
-performed.
+Custody requires Level 4. Handling requires Level 5. No opening is authorised at any clearance without the three
+reviewing divisions present, and no imaging that would breach the seal is performed.
 
 ### Numbered Operating Sequence
 
-The sequence below is the Ark's, recorded for reference. It is not an A.C.T procedure and must
-never be followed by A.C.T personnel.
+The sequence below is the Ark's, recorded for reference. Following any part of it is prohibited to A.C.T personnel
+without exception.
 
 ```text
 1. Material is selected for preservation under an Ark category.
@@ -167,28 +157,25 @@ never be followed by A.C.T personnel.
 
 A.C.T does not operate the coffer. The procedure that applies is sealed storage and review.
 
-The coffer is held sealed, in its own enclosure, at a recorded temperature. The temperature is
-recorded because the Ark's cold chain suggests it matters, and because a coffer held warm since
-seizure may no longer contain what it was sealed with. No attempt is made to restore a cold chain
-the dossier never specified.
+The coffer is held sealed, in its own enclosure, at a recorded temperature. The temperature is recorded because the
+Ark's cold chain suggests it matters, and because a coffer held warm since seizure may no longer contain what it was
+sealed with. No attempt is made to restore a cold chain the dossier never specified.
 
-No opening is attempted. No imaging that would breach the seal is performed. No return has been
-made to the Ark and none has been requested.
+No opening is attempted. No imaging that would breach the seal is performed. No return has been made to the Ark and
+none has been requested.
 
-If an opening is ever authorised, Subject Care and Medical Care attend as well as Legal, because a
-container from a preservation network whose ninth category is unknown may hold anything from seed
-to viable tissue.
+If an opening is ever authorised, Subject Care and Medical Care attend as well as Legal, because a container from a
+preservation network whose ninth category is unknown may hold anything from seed to viable tissue.
 
 ## SERVICING AND CALIBRATION
 
 No servicing is performed. The coffer is held as seized.
 
-No cleaning of the seal is permitted, because the seal is the only evidence of the coffer's
-integrity. No temperature adjustment beyond recorded storage is attempted without Medical Care
-review.
+No cleaning of the seal is permitted, because the seal is the only evidence of the coffer's integrity. No temperature
+adjustment beyond recorded storage is attempted without Medical Care review.
 
-No calibration exists. The coffer has no measurable output and no reference standard, and no Ark
-specification is held.
+No calibration exists. The coffer has no measurable output and no reference standard, and no Ark specification is
+held.
 
 ## FAULT ISOLATION
 
@@ -200,9 +187,8 @@ specification is held.
 | Storage temperature | Recorded | Whether the Ark's cold chain requires it |
 | Contents | Unknown | Whether contents are viable, inert or absent |
 
-The second row is deliberately left uncertain. The seal is intact now and was not tested at
-seizure, so an intact seal is evidence of nothing having been done since and not of anything about
-before.
+The second row is deliberately left uncertain. The seal is intact now and was not tested at seizure, so an intact seal
+is evidence of nothing having been done since and not of anything about before.
 
 ## KNOWN LIMITS
 
@@ -213,9 +199,9 @@ before.
 - one coffer supports no assessment of Ark preservation practice at scale;
 - the coffer was seized from a party A.C.T also cooperates with, and both facts are live.
 
-The last limit is specific to this record. The Ark is monitored and cooperated with at the same
-time, so A.C.T holds a disputed object from a working partner. Nothing in this file resolves that,
-and the custody dispute is recorded as unresolved rather than concluded.
+The last limit is specific to this record. The Ark is monitored and cooperated with at the same time, so A.C.T holds a
+disputed object from a working partner. Nothing in this file resolves that, and the custody dispute is recorded as
+unresolved rather than concluded.
 
 ## FAILURE HISTORY
 
@@ -223,20 +209,18 @@ No failure has occurred in A.C.T custody. The coffer has not been opened.
 
 ### SEIZURE CONDITION - DATE NOT RECORDED
 
-The coffer was seized after a custody dispute. The dossier records neither the date nor what the
-dispute concerned. This entry records the absence rather than filling it.
+The coffer was seized after a custody dispute. The dossier records neither the date nor what the dispute concerned.
+This entry records the absence rather than filling it.
 
 ### SEAL INTACT, NOT TESTED AT SEIZURE - RECORDED QUALIFICATION
 
-The nine-line seal is intact on examination, but it was not tested at the moment of seizure. This
-entry exists so that the intact seal is not read as evidence about the coffer's history before
-A.C.T held it.
+The nine-line seal is intact on examination, but it was not tested at the moment of seizure. This entry exists so that
+the intact seal is not read as evidence about the coffer's history before A.C.T held it.
 
 ### NOT OPENED - STANDING RESTRICTION
 
-The coffer has never been opened, imaged through its seal, or sampled. This entry records the
-restriction as an event so that its absence from the examination record is not read as an
-oversight.
+The coffer has never been opened, imaged through its seal, or sampled. Recorded here so the restriction is visible
+where the examination record is quiet.
 
 ## DIVISION USE
 
@@ -248,8 +232,7 @@ oversight.
 | Legal | Holds the custody-dispute question; rules on any opening or return |
 | Intelligence | Records Ark preservation practice from the dossier |
 
-No division opens the coffer. Containment holds it and the four reviewing divisions decide nothing
-yet.
+No division opens the coffer. Containment holds it and the four reviewing divisions decide nothing yet.
 
 ## CROSS-REFERENCES
 
@@ -257,10 +240,9 @@ yet.
 - `TECH-GOI-073-1` — Lantern Accord Collapsible Signal Beacon, Technology Record
 - `TECH-GOI-070-1` — Saint Morrow Passage White Ticket, Technology Record
 
-This is the only Ninefold Ark technology record, because it is the only Ark object A.C.T holds. The
-two cross-references are to the nearest comparable records rather than to a set: a beacon held
-broken and not restored, and a ticket held and never presented. All three are records about objects
-A.C.T decided not to use.
+This is the only Ninefold Ark technology record, because it is the only Ark object A.C.T holds. The two
+cross-references are to the nearest comparable records rather than to a set: a beacon held broken and not restored,
+and a ticket held and never presented. All three are records about objects A.C.T decided not to use.
 
 ## OPEN QUESTIONS
 
@@ -271,10 +253,9 @@ A.C.T decided not to use.
 - whether the coffer should be returned, and what returning it would concede;
 - what the Ark's ninth preservation category is.
 
-The last question is the one that governs the seal rule. A preservation network with a category
-labelled unknown is a network that stores things it has not classified, and a coffer from that
-network may hold something nobody has decided how to handle. Until the category is known, the
-coffer stays shut.
+The last question is the one that governs the seal rule. A preservation network with a category labelled unknown is a
+network that stores things it has not classified, and a coffer from that network may hold something nobody has decided
+how to handle. Until the category is known, the coffer stays shut.
 
 ## FILE METADATA
 

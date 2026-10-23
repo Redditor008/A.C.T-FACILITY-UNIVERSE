@@ -40,25 +40,21 @@ TECHNOLOGY RECORD - LANTERN ACCORD COLLAPSIBLE SIGNAL BEACON
 Archive Note
 ------------
 
-This record covers the collapsible signal beacon issued by the Lantern Accord to its signatory
-seats and crisis delegates. The dossier names the beacon first among Accord assets and describes
-an Accord activation beginning when a recognised Signatory Seat or crisis delegate lights one
-under charter terms. A.C.T holds one unit, recovered broken, and no attempt has been made to
-restore it.
+This record covers the collapsible signal beacon issued by the Lantern Accord to its signatory seats and crisis
+delegates. The dossier names the beacon first among Accord assets and describes an Accord activation beginning when a
+recognised Signatory Seat or crisis delegate lights one under charter terms. A.C.T holds one unit, recovered broken,
+and no attempt has been made to restore it.
 
-The beacon is a signalling instrument and nothing else. It carries no containment effect, no
-suppression effect, and no hazard of its own while unlit. What makes it worth a record is that
-lighting it creates an obligation. Under Accord terms a lit beacon marks a line, and a Lantern
-Marshal then marks that line formally while an Accord Clerk writes immediate terms covering
-hazard description, protected persons, allowed forces, prohibited acts, handover conditions,
-time limit and who may speak for absent parties. The delegates argue afterwards. The line is
-already active.
+The beacon is a signalling instrument and nothing else. It carries no containment effect, no suppression effect, and
+no hazard of its own while unlit. What makes it worth a record is that lighting it creates an obligation. Under Accord
+terms a lit beacon marks a line, and a Lantern Marshal then marks that line formally while an Accord Clerk writes
+immediate terms covering hazard description, protected persons, allowed forces, prohibited acts, handover conditions,
+time limit and who may speak for absent parties. The delegates argue afterwards. The line is already active.
 
-A.C.T is not a signatory. A.C.T holds one broken beacon recovered during work contact, and the
-Accord is under review. Lighting the beacon would assert a charter position A.C.T has not taken
-and cannot currently honour, because the terms written at activation bind the party that lights
-it. The unit is therefore held inert and is not restored. This is a legal posture recorded as an
-engineering decision, and the two are not separable.
+A.C.T is not a signatory. A.C.T holds one broken beacon recovered during work contact, and the Accord is under review.
+Lighting the beacon would assert a charter position A.C.T has not taken and cannot currently honour, because the terms
+written at activation bind the party that lights it. The unit is therefore held inert and is not restored. This is a
+legal posture recorded as an engineering decision, and the two are not separable.
 
 Controlled label: LANTERN BEACON CHARTER RULE.
 
@@ -70,47 +66,45 @@ LIGHTING IT ASSERTS A CHARTER POSITION A.C.T HAS NOT TAKEN AND CANNOT HONOUR.
 FUNCTION SUMMARY
 ================
 
-The beacon signals that an Accord line is being opened. It is lit by a recognised Signatory Seat
-or a crisis delegate acting under charter terms, and lighting it starts the activation sequence
-rather than requesting one.
+The beacon signals that an Accord line is being opened. It is lit by a recognised Signatory Seat or a crisis delegate
+acting under charter terms, and lighting it starts the activation sequence rather than requesting one.
 
 - marks the opening of a safe line under Accord charter terms;
 - calls a Lantern Marshal to mark the line formally;
 - prompts an Accord Clerk to write immediate terms for the situation;
 - carries no containment, suppression or hazard function of its own.
 
-The dossier is explicit that the sequence does not wait for agreement. Delegates argue after the
-beacon is lit, and by then the line is active. The beacon's function is therefore procedural
-rather than physical: it changes what the parties owe each other, not what the anomaly does.
+The dossier is explicit that the sequence does not wait for agreement. Delegates argue after the beacon is lit, and by
+then the line is active. The beacon's function is therefore procedural rather than physical: it changes what the
+parties owe each other, not what the anomaly does.
 
-The unit A.C.T holds is broken and does not light. Its function is recorded here from the dossier
-rather than from operation, and no A.C.T personnel have observed a beacon in use.
+The unit A.C.T holds is broken and does not light. Its function is recorded here from the dossier rather than from
+operation, and no A.C.T personnel have observed a beacon in use.
 
 ORIGIN AND CUSTODY
 ==================
 
-The beacon is Lantern Accord issue. The dossier lists collapsible lantern beacons with coloured
-shutters first among Accord assets, ahead of yellow-line warrant rolls, accord seals, neutral
-keys and safe-line maps. Beacons are held at signatory depots and beacon towers, and Accord
-holdings also include mobile accord tents and relay vans with roof lamps.
+The beacon is Lantern Accord issue. The dossier lists collapsible lantern beacons with coloured shutters first among
+Accord assets, ahead of yellow-line warrant rolls, accord seals, neutral keys and safe-line maps. Beacons are held at
+signatory depots and beacon towers, and Accord holdings also include mobile accord tents and relay vans with roof
+lamps.
 
-A.C.T recovered one beacon, broken, during repeated work contact with the Accord. That contact
-is described as running through temporary ceasefires, joint evacuations, handover disputes,
-breach signalling and multi-GOI corridor control. The recovery is recorded without a stated
-operation, and the circumstances of the break are not recorded at all.
+A.C.T recovered one beacon, broken, during repeated work contact with the Accord. That contact is described as running
+through temporary ceasefires, joint evacuations, handover disputes, breach signalling and multi-GOI corridor control.
+The recovery is recorded without a stated operation, and the circumstances of the break are not recorded at all.
 
-Custody sits with Intelligence, with Containment reviewing. The unit is held restricted and is
-not issued to any division for field use. Restoration is not authorised at any clearance below
-Level 4, and no restoration request has been made.
+Custody sits with Intelligence, with Containment reviewing. The unit is held restricted and is not issued to any
+division for field use. Restoration is not authorised at any clearance below Level 4, and no restoration request has
+been made.
 
 PHYSICAL OR SYSTEM DESCRIPTION
 ==============================
 
-The beacon is collapsible and fitted with coloured shutters. The dossier gives no dimensions,
-materials, fuel type or shutter count, and none is inferred here.
+The beacon is collapsible and fitted with coloured shutters. The dossier gives no dimensions, materials, fuel type or
+shutter count, and none is inferred here.
 
-What the dossier does establish is that the shutters are the signalling element. Accord line
-statuses are expressed as lantern colours, and the shutter set is what produces them:
+What the dossier does establish is that the shutters are the signalling element. Accord line statuses are expressed as
+lantern colours, and the shutter set is what produces them:
 
 YELLOW LANTERN: safe line active; no seizure, sale, recruitment, or claim enforcement.
 WHITE LANTERN: medical and civilian movement priority; weapons covered unless needed.
@@ -119,18 +113,18 @@ GREEN LANTERN: patient or altered-person custody attached; Mercy Lock or medical
 RED LANTERN: line broken; violation witness priority.
 BLACK LANTERN: dead, missing, or nonhuman persons present; identity and custody review required.
 
-The dossier warns directly against reading these colours as A.C.T hazard classes. They are
-Accord procedural states and they carry Accord obligations, not containment meanings. Any A.C.T
-record that maps a lantern colour onto an A.C.T class is in error.
+The dossier warns directly against reading these colours as A.C.T hazard classes. They are Accord procedural states
+and they carry Accord obligations, not containment meanings. Any A.C.T record that maps a lantern colour onto an A.C.T
+class is in error.
 
-The recovered unit's damage is not itemised in the dossier. Examination has established that it
-does not light and that the shutter mechanism is not free. No further assessment is recorded.
+The recovered unit's damage is not itemised in the dossier. Examination has established that it does not light and
+that the shutter mechanism is not free. No further assessment is recorded.
 
 TECHNICAL SPECIFICATION
 =======================
 
-The dossier gives no engineering specification for the beacon. The following table records what
-is established and what is not, rather than filling the gaps.
+The dossier gives no engineering specification for the beacon. The following table records what is established and
+what is not, rather than filling the gaps.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | FIELD                      | VALUE                                                                                 |
@@ -157,9 +151,9 @@ is established and what is not, rather than filling the gaps.
 | Condition as recovered     | Broken, does not light, shutter mechanism not free                                    |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Six line statuses are documented and the beacon is the instrument that expresses them, but the
-dossier does not state how a shutter position maps to a status. That mapping is presumably held
-in the signatory codebooks, which the dossier states remain unrecovered.
+Six line statuses are documented and the beacon is the instrument that expresses them, but the dossier does not state
+how a shutter position maps to a status. That mapping is presumably held in the signatory codebooks, which the dossier
+states remain unrecovered.
 
 INTERFACE AND OPERATING ENVELOPE
 ================================
@@ -167,29 +161,29 @@ INTERFACE AND OPERATING ENVELOPE
 Charter Interface
 -----------------
 
-The beacon is not operated by a technical procedure. It is operated by a person with standing.
-The dossier names two: a recognised Signatory Seat, and a crisis delegate acting under charter
-terms. Anyone else lighting a beacon is not opening a line, whatever the light does.
+The beacon is not operated by a technical procedure. It is operated by a person with standing. The dossier names two:
+a recognised Signatory Seat, and a crisis delegate acting under charter terms. Anyone else lighting a beacon is not
+opening a line, whatever the light does.
 
 Sequence Interface
 ------------------
 
-Once lit, the sequence runs to a Lantern Marshal and then to an Accord Clerk. Neither role is an
-A.C.T role and neither is filled by A.C.T personnel. The interface is therefore institutional
-rather than mechanical, and it cannot be exercised from inside A.C.T custody.
+Once lit, the sequence runs to a Lantern Marshal and then to an Accord Clerk. Neither role is an A.C.T role and
+neither is filled by A.C.T personnel. The interface is therefore institutional rather than mechanical, and it cannot
+be exercised from inside A.C.T custody.
 
 Personnel Limits
 ----------------
 
-Examination of the inert unit requires Level 3. Any attempt at restoration requires Level 4 and
-Legal review, because restoring the unit changes what A.C.T holds from a broken object into a
-functioning charter instrument. No division is authorised to carry the beacon into the field.
+Examination of the inert unit requires Level 3. Any attempt at restoration requires Level 4 and Legal review, because
+restoring the unit changes what A.C.T holds from a broken object into a functioning charter instrument. No division is
+authorised to carry the beacon into the field.
 
 Numbered Operating Sequence
 ---------------------------
 
-The sequence below is the Accord's, recorded for reference. It is not an A.C.T procedure and
-must not be followed by A.C.T personnel.
+The sequence below is the Accord's, recorded for reference. The sequence belongs to the other party and A.C.T does not
+run it.
 
 1. A recognised Signatory Seat or crisis delegate lights the beacon under charter terms.
 2. A Lantern Marshal marks the line.
@@ -203,28 +197,27 @@ must not be followed by A.C.T personnel.
 OPERATING PROCEDURE
 ===================
 
-A.C.T does not operate the beacon. The only procedure that applies to the held unit is storage
-and examination.
+A.C.T does not operate the beacon. The only procedure that applies to the held unit is storage and examination.
 
-The unit is stored inert, disassembled where it is already disassembled, and is not tested for
-function. Testing for function means attempting to light it, and attempting to light it is the
-act the charter rule prohibits. Examination is visual and mechanical only.
+The unit is stored inert, disassembled where it is already disassembled, and is not tested for function. Testing for
+function means attempting to light it, and attempting to light it is the act the charter rule prohibits. Examination
+is visual and mechanical only.
 
-Where a field unit encounters a lit Accord beacon during joint work, the correct response is
-recorded in the Accord dossier and in the corridor-control procedures, not here. Personnel do
-not extinguish a lit beacon and do not treat its colour as an A.C.T classification.
+Where a field unit encounters a lit Accord beacon during joint work, the correct response is recorded in the Accord
+dossier and in the corridor-control procedures, not here. Personnel do not extinguish a lit beacon and do not treat
+its colour as an A.C.T classification.
 
 SERVICING AND CALIBRATION
 =========================
 
 No servicing is performed. The unit is held as recovered.
 
-Cleaning of the exterior is permitted at Level 3 and is recorded. Lubrication of the shutter
-mechanism is not permitted, because freeing the mechanism is the first step of restoration and
-restoration requires Level 4 with Legal review.
+Cleaning of the exterior is permitted at Level 3 and is recorded. Lubrication of the shutter mechanism is not
+permitted, because freeing the mechanism is the first step of restoration and restoration requires Level 4 with Legal
+review.
 
-No calibration exists. The beacon has no measurable output, no tolerance and no reference
-standard, and the dossier records none.
+No calibration exists. The beacon has no measurable output, no tolerance and no reference standard, and the dossier
+records none.
 
 FAULT ISOLATION
 ===============
@@ -245,9 +238,8 @@ FAULT ISOLATION
 |                            |                                           | issued                                    |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 
-No fault isolation beyond the above is possible without restoration, and restoration is not
-authorised. The record therefore holds an incomplete fault picture deliberately rather than
-completing it by inference.
+No fault isolation beyond the above is possible without restoration, and restoration is not authorised. The record
+therefore holds an incomplete fault picture deliberately rather than completing it by inference.
 
 KNOWN LIMITS
 ============
@@ -259,34 +251,32 @@ KNOWN LIMITS
 - lantern colours must never be recorded as A.C.T hazard classes;
 - one broken unit supports no operational assessment of the Accord's signalling practice.
 
-The largest limit is interpretive. A.C.T holds the instrument but not the code, which means the
-beacon can be described and cannot be used. Any future record that claims to read a lantern
-colour from this unit is writing beyond its evidence.
+The largest limit is interpretive. A.C.T holds the instrument but not the code, which means the beacon can be
+described and cannot be used. Any future record that claims to read a lantern colour from this unit is writing beyond
+its evidence.
 
 FAILURE HISTORY
 ===============
 
-No failure has occurred in A.C.T custody. The unit was recovered already broken and has been
-held inert since.
+No failure has occurred in A.C.T custody. The unit was recovered already broken and has been held inert since.
 
 RECOVERY CONDITION - DATE NOT RECORDED
 --------------------------------------
 
-The unit arrived broken and does not light. The dossier records the recovery without an
-operation name, a date or a cause. This entry records that the condition predates custody rather
-than any event inside it.
+The unit arrived broken and does not light. The dossier records the recovery without an operation name, a date or a
+cause. This entry records that the condition predates custody rather than any event inside it.
 
 SHUTTER OBSTRUCTION FOUND ON EXAMINATION - DATE NOT RECORDED
 ------------------------------------------------------------
 
-Examination found the shutter mechanism not free. Whether this is damage or a deliberate lock is
-not established. No attempt was made to clear it.
+Examination found the shutter mechanism not free. Whether this is damage or a deliberate lock is not established. No
+attempt was made to clear it.
 
 NO CHARTER EVENT INVOLVING A.C.T CUSTODY
 ----------------------------------------
 
-No beacon has been lit by A.C.T personnel and no Accord line has been opened from A.C.T custody.
-This entry is recorded so that the absence is documented rather than assumed.
+No beacon has been lit by A.C.T personnel and no Accord line has been opened from A.C.T custody. This entry is
+recorded so that the absence is documented rather than assumed.
 
 DIVISION USE
 ============
@@ -315,10 +305,10 @@ CROSS-REFERENCES
 - `GOI-BS-W-070` — Saint Morrow Passage, Group of Interest Dossier
 - `GOI-HY-P-071` — Mercy Lock Institute, Group of Interest Dossier
 
-The Saint Morrow reference arises from the blue lantern status, which attaches a route or water
-crossing and requires Saint Morrow or local passage review. The Mercy Lock reference arises from
-the green lantern status, which attaches patient or altered-person custody and requires a Mercy
-Lock or medical advocate. Neither is a custody relationship in which A.C.T holds the asset.
+The Saint Morrow reference arises from the blue lantern status, which attaches a route or water crossing and requires
+Saint Morrow or local passage review. The Mercy Lock reference arises from the green lantern status, which attaches
+patient or altered-person custody and requires a Mercy Lock or medical advocate. Neither is a custody relationship in
+which A.C.T holds the asset.
 
 OPEN QUESTIONS
 ==============
@@ -330,9 +320,8 @@ OPEN QUESTIONS
 - whether the Accord tracks issued beacons by serial, and whether this unit is listed missing;
 - whether lighting a beacon held by a non-signatory produces any Accord obligation at all.
 
-The last question is the one that governs the handling rule. If a non-signatory lighting the
-beacon produces no obligation, the rule is caution rather than necessity. Legal has not ruled,
-and the unit stays broken until it does.
+The last question is the one that governs the handling rule. If a non-signatory lighting the beacon produces no
+obligation, the rule is caution rather than necessity. Legal has not ruled, and the unit stays broken until it does.
 
 FILE METADATA
 =============

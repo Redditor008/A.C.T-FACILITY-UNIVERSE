@@ -22,23 +22,21 @@
 
 #### Archive Note
 
-This record covers the name ledgers listed first among Namewright Bazaar assets, described in the
-dossier as written in multiple hands. A.C.T holds partial ledgers. The full Bazaar books remain
-unrecovered.
+This record covers the name ledgers listed first among Namewright Bazaar assets, described in the dossier as written
+in multiple hands. A.C.T holds partial ledgers. The full Bazaar books remain unrecovered.
 
-The ledger is the trade's index. A sale begins with a need — to flee a charge, escape a pursuing
-entity, inherit a protected object, cross a border, silence a witness or disappear a victim. A
-Mouth Factor then assesses which recognition the buyer needs to lose, choosing among paper,
-memory, family, legal, spiritual and predatory recognition. It is the Ledger Mother who identifies
-a suitable source name, and the ledger is where she finds one.
+The ledger is the trade's index. A sale begins with a need — to flee a charge, escape a pursuing entity, inherit a
+protected object, cross a border, silence a witness or disappear a victim. A Mouth Factor then assesses which
+recognition the buyer needs to lose, choosing among paper, memory, family, legal, spiritual and predatory recognition.
+It is the Ledger Mother who identifies a suitable source name, and the ledger is where she finds one.
 
-That makes the ledger the one Bazaar asset that is a list of victims rather than a list of tools.
-Every entry is a person whose name was assessed as available for use. This record is therefore
-written as a Subject Care document that happens to be filed under technology, and the ordering is
-deliberate: what the ledger does to a person comes before what it tells Intelligence.
+That makes the ledger the one Bazaar asset that is a list of victims rather than a list of tools. Every entry is a
+person whose name was assessed as available for use. This record is therefore written as a Subject Care document that
+happens to be filed under technology, and the ordering is deliberate: what the ledger does to a person comes before
+what it tells Intelligence.
 
-The ledgers are partial. What is missing is unknown, and an entry's absence from a partial ledger
-establishes nothing about that person.
+The ledgers are partial. What is missing is unknown, and an entry's absence from a partial ledger establishes nothing
+about that person.
 
 Controlled label: **NAME LEDGER DISCLOSURE RULE**.
 
@@ -53,41 +51,38 @@ APPROVAL, AND NO ENTRY IS READ AS EVIDENCE ABOUT THE PERSON IT NAMES.
 
 ## FUNCTION SUMMARY
 
-The name ledger records names assessed as available for Bazaar trade. It is maintained by a
-Ledger Mother and written in multiple hands, which the dossier states and this record treats as
-significant rather than incidental.
+The name ledger records names assessed as available for Bazaar trade. It is maintained by a Ledger Mother and written
+in multiple hands, which the dossier states and this record treats as significant rather than incidental.
 
 - indexes names available for substitution in a Bazaar sale;
 - supports the Ledger Mother's identification of a suitable source name;
 - is written in multiple hands, indicating more than one keeper;
 - carries no containment function and is not a device.
 
-The dossier describes the trade as running through six kinds of recognition: paper, memory,
-family, legal, spiritual and predatory. A single ledger serving all six must record more than a
-name, and what else it records is not established.
+The dossier describes the trade as running through six kinds of recognition: paper, memory, family, legal, spiritual
+and predatory. A single ledger serving all six must record more than a name, and what else it records is not
+established.
 
-The ledgers A.C.T holds are partial. Their content is readable and their scope is not, and the
-difference governs every use described below.
+The ledgers A.C.T holds are partial. Their content is readable and their scope is not, and the difference governs
+every use described below.
 
 ## ORIGIN AND CUSTODY
 
-The ledgers are Ledger Mother maintained. The dossier describes Bazaar holdings including
-back-room stalls, paper vaults, witness cages, registry mirrors, mobile document vans and
-dead-name cupboards, which places ledger keeping inside Bazaar premises rather than with
-individual traders.
+The ledgers are Ledger Mother maintained. The dossier describes Bazaar holdings including back-room stalls, paper
+vaults, witness cages, registry mirrors, mobile document vans and dead-name cupboards, which places ledger keeping
+inside Bazaar premises rather than with individual traders.
 
-A.C.T recovered partial ledgers among two alias knives, three counterfeit court stamps, one
-dead-name cupboard door and multiple victim statements, under a dismantlement order against a
-market assessed at threat level 4 with a posture of infiltrate, misdirect, contain and dismantle.
-The full Bazaar books remain unrecovered.
+A.C.T recovered partial ledgers among two alias knives, three counterfeit court stamps, one dead-name cupboard door
+and multiple victim statements, under a dismantlement order against a market assessed at threat level 4 with a posture
+of infiltrate, misdirect, contain and dismantle. The full Bazaar books remain unrecovered.
 
-Custody sits with Intelligence, with Subject Care and Legal reviewing. Reading requires Level 4.
-Any disclosure decision requires Level 5.
+Custody sits with Intelligence, with Subject Care and Legal reviewing. Reading requires Level 4. Any disclosure
+decision requires Level 5.
 
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
-The dossier gives no dimensions, format, pagination or binding, and none is inferred. What it
-establishes is the writing condition, which is the most informative physical fact available.
+The dossier gives no dimensions, format, pagination or binding, and none is inferred. What it establishes is the
+writing condition, which is the most informative physical fact available.
 
 | FIELD | VALUE |
 |---|---|
@@ -101,57 +96,53 @@ establishes is the writing condition, which is the most informative physical fac
 | Maintaining officer | Ledger Mother, a Bazaar role |
 | Companion records | Stolen birth rolls, adoption side-books, registry mirrors |
 
-Multiple hands is worth holding onto. A ledger kept by one officer over time would be evidence of
-a single trader. A ledger in several hands is evidence of a practice with succession, division of
-labour or both, which is a different kind of organisation and bears on the dismantlement order.
+Multiple hands is worth holding onto. A ledger kept by one officer over time would be evidence of a single trader. A
+ledger in several hands is evidence of a practice with succession, division of labour or both, which is a different
+kind of organisation and bears on the dismantlement order.
 
 ## TECHNICAL SPECIFICATION
 
-The dossier gives no specification. Three points are established by inference and are marked as
-such.
+The dossier gives no specification. Three points below are inference and are labelled where they appear.
 
-The ledger is an index rather than a record. It identifies available names; the sale itself is
-performed through documents, speech, signatures, hair, blood, school records, gravesoil and
-hospital bracelets. The ledger therefore names a target and does not itself effect anything.
+The ledger is an index rather than a record. It identifies available names; the sale itself is performed through
+documents, speech, signatures, hair, blood, school records, gravesoil and hospital bracelets. The ledger therefore
+names a target and does not itself effect anything.
 
-The ledger serves six recognition types. Paper, memory, family, legal, spiritual and predatory
-recognition are different domains, and an entry usable for one may be unusable for another.
-Whether the ledger distinguishes them is not recorded.
+The ledger serves six recognition types. Paper, memory, family, legal, spiritual and predatory recognition are
+different domains, and an entry usable for one may be unusable for another. Whether the ledger distinguishes them is
+not recorded.
 
-The ledger is partial and its gaps are unknown. No inference may be drawn from an absence, and no
-comparison between the partial ledgers and any other source may treat a missing entry as a
-negative finding.
+The ledger is partial and its gaps are unknown. No inference may be drawn from an absence, and no comparison between
+the partial ledgers and any other source may treat a missing entry as a negative finding.
 
 ## INTERFACE AND OPERATING ENVELOPE
 
 ### Trade Interface
 
-The ledger is read by a Ledger Mother inside a sale sequence that begins with a Mouth Factor's
-assessment. No A.C.T role corresponds to either and no A.C.T personnel are authorised to act in
-one.
+The ledger is read by a Ledger Mother inside a sale sequence that begins with a Mouth Factor's assessment. No A.C.T
+role corresponds to either and no A.C.T personnel are authorised to act in one.
 
 ### Subject Care Interface
 
-Every entry names a person. Reading the ledger is reading a list of people who were assessed as
-available for harm, and any person identified in it is a Subject Care case before being an
-intelligence lead. That ordering is not discretionary.
+Every entry names a person. Reading the ledger is reading a list of people who were assessed as available for harm,
+and any person identified in it is a Subject Care case before being an intelligence lead. That ordering is not
+discretionary.
 
 ### Disclosure Interface
 
-No name is disclosed to any party — including other divisions, including allied organisations,
-including the person named — without Level 5 and Legal approval. A person may have good reason to
-want to know, and that reason is weighed by Legal rather than by the reader.
+No name is disclosed to any party — including other divisions, including allied organisations, including the person
+named — without Level 5 and Legal approval. A person may have good reason to want to know, and that reason is weighed
+by Legal rather than by the reader.
 
 ### Personnel Limits
 
-Reading requires Level 4. Disclosure requires Level 5. No extraction of names into any other
-system, spreadsheet, index or summary is permitted at any clearance, because a copy of a name
-list is the same list.
+Reading requires Level 4. Disclosure requires Level 5. No extraction of names into any other system, spreadsheet,
+index or summary is permitted at any clearance, because a copy of a name list is the same list.
 
 ### Numbered Operating Sequence
 
-The sequence below is the Bazaar's, recorded for recognition purposes. It is not an A.C.T
-procedure and must never be followed by A.C.T personnel.
+The sequence below is the Bazaar's, recorded for recognition purposes. A.C.T personnel never follow it and may not
+begin to.
 
 ```text
 1. A buyer presents a need to the Bazaar.
@@ -166,22 +157,20 @@ procedure and must never be followed by A.C.T personnel.
 
 ## OPERATING PROCEDURE
 
-A.C.T does not operate the ledger. The procedure that applies is restricted reading and Subject
-Care referral.
+A.C.T does not operate the ledger. The procedure that applies is restricted reading and Subject Care referral.
 
-The ledgers are read at Level 4 and every reading is recorded with the reader and the purpose. No
-name is copied into any other system. No summary of the ledgers is produced, because a summary
-that carries names is a copy.
+The ledgers are read at Level 4 and every reading is recorded with the reader and the purpose. No name is copied into
+any other system. No summary of the ledgers is produced, because a summary that carries names is a copy.
 
-Where an entry identifies a person A.C.T can reach, the referral is to Subject Care and not to an
-investigation. Intelligence is notified that a referral was made and is not given the name.
+Where an entry identifies a person A.C.T can reach, the referral is to Subject Care and not to an investigation.
+Intelligence is notified that a referral was made and is not given the name.
 
 ## SERVICING AND CALIBRATION
 
 No servicing is performed. The ledgers are held as seized.
 
-No annotation, indexing or transcription is permitted. An indexed ledger is a second ledger, and
-the restriction that applies to the original applies to anything that makes it easier to use.
+No annotation, indexing or transcription is permitted. An indexed ledger is a second ledger, and the restriction that
+applies to the original applies to anything that makes it easier to use.
 
 No calibration exists. The ledger has no measurable output and no reference standard.
 
@@ -194,10 +183,9 @@ No calibration exists. The ledger has no measurable output and no reference stan
 | Entries name real persons | Assumed for Subject Care purposes | Whether every entry corresponds to a reachable person |
 | Coded portions | Possible | Whether any coded portion is present |
 
-The third row is deliberately written as an assumption rather than a finding. Subject Care
-proceeds as though every entry names a reachable person, because the cost of being wrong in that
-direction is a wasted referral and the cost of being wrong in the other direction is a person
-left unattended.
+The third row is deliberately written as an assumption rather than a finding. Subject Care proceeds as though every
+entry names a reachable person, because the cost of being wrong in that direction is a wasted referral and the cost of
+being wrong in the other direction is a person left unattended.
 
 ## KNOWN LIMITS
 
@@ -208,29 +196,27 @@ left unattended.
 - the full Bazaar books are unrecovered and the trade context is incomplete;
 - an entry is not evidence about the person it names and must never be treated as one.
 
-The last limit is the one most likely to be eroded. A name in a hostile market's ledger reads like
-an accusation, and it is not one. The Bazaar assessed the name as available; that is a fact about
-the Bazaar.
+The last limit is the one most likely to be eroded. A name in a hostile market's ledger reads like an accusation, and
+it is not one. The Bazaar assessed the name as available; that is a fact about the Bazaar.
 
 ## FAILURE HISTORY
 
-No failure has occurred in A.C.T custody. The ledgers have been read under restriction and no
-name has been disclosed.
+No failure has occurred in A.C.T custody. The ledgers have been read under restriction and no name has been disclosed.
 
 ### SEIZURE CONDITION - DATE NOT RECORDED
 
-The ledgers were seized under the dismantlement order and arrived partial. The dossier records
-neither the date nor how much is missing. This entry records the absence rather than filling it.
+The ledgers were seized under the dismantlement order and arrived partial. The dossier records neither the date nor
+how much is missing. This entry records the absence rather than filling it.
 
 ### NO NAME DISCLOSED - STANDING RESTRICTION
 
-No entry has been disclosed to any party outside Intelligence, Subject Care and Legal, and no
-entry has been disclosed to the person it names. This entry records the restriction as an event.
+No entry has been disclosed to any party outside Intelligence, Subject Care and Legal, and no entry has been disclosed
+to the person it names. This entry records the restriction as an event.
 
 ### NO EXTRACTION MADE - STANDING RESTRICTION
 
-No name has been copied into any index, summary, spreadsheet or other system. This entry exists
-because a copy of a name list is the same list, and the restriction is easy to break by accident.
+No name has been copied into any index, summary, spreadsheet or other system. This entry exists because a copy of a
+name list is the same list, and the restriction is easy to break by accident.
 
 ## DIVISION USE
 
@@ -251,10 +237,9 @@ No division extracts names. Intelligence holds the ledgers and refers people rat
 - `TECH-GOI-069-3` — Namewright Bazaar Counterfeit Court Stamp, Technology Record
 - `TECH-GOI-069-4` — Namewright Bazaar Dead-Name Cupboard Door, Technology Record
 
-The sequence runs in this order. The ledger identifies the source name, the knife cuts the
-carriers, the stamps make the substitution look official, and the cupboard holds what was cut
-away. Reading the four out of order makes the trade look like a set of objects rather than a
-process.
+The sequence runs in this order. The ledger identifies the source name, the knife cuts the carriers, the stamps make
+the substitution look official, and the cupboard holds what was cut away. Reading the four out of order makes the
+trade look like a set of objects rather than a process.
 
 ## OPEN QUESTIONS
 
@@ -265,9 +250,8 @@ process.
 - whether a person named in the ledger can be warned, and who decides that;
 - whether the full Bazaar books can be recovered under the dismantlement order.
 
-The fifth question is live and has no answer here. A person whose name was assessed as available
-may have a right to know, and warning them may also expose the seizure. Legal holds that decision
-and it has not been made.
+The fifth question is live and has no answer here. A person whose name was assessed as available may have a right to
+know, and warning them may also expose the seizure. Legal holds that decision and it has not been made.
 
 ## FILE METADATA
 
