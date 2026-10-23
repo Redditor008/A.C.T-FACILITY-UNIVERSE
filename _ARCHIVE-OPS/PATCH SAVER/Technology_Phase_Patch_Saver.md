@@ -7405,3 +7405,42 @@ legitimately have no entry point.
 
 **Not delivered.** The doctrine pass was not read. The entry file and the gate consumed the turn.
 
+## Prompt End Update — 2026-10-23, Doctrine Folder Read; One Banned Hit Was A False Positive
+
+Owner rulings: doctrine pass, biggest records first; report and fix the obvious ones.
+
+### The doctrine folder, measured and read
+
+24 records, 54,782 words, median 1,578. Every record carries exactly one H1 and a `## Contents`
+section. Structure is uniform and correct.
+
+**One outlier worth naming.** `ACT_Complete_Designation_and_Class_Reference.md` is 13,097 words
+against a next-largest of 4,037 — 3.2 times the runner-up and 8.3 times the median. It is a reference
+work rather than a doctrine record, which explains the size, but a newcomer opening the folder by
+size meets it first and it is not the document to read first. `ACT_Facility_Archive_Overview.md` at
+1,340 words is the orientation document and sits eleventh in the listing.
+
+**Nothing was changed.** The size is a property of the document, not a defect, and moving or
+splitting a reference work is a judgement call for the owner.
+
+### The one banned-list hit is not a violation
+
+`ACT_Technological_Visual_Reference_Guide.md` matched on `ozone`. In context it is a literal
+description of a conservation liquid that *smells faintly of ozone and old paper, drying to a
+perfectly matte, invisible finish*. The banned rule targets the portal cliché — *the air crackled
+with ozone* — not the word. **No edit was made, because there is nothing to fix.**
+
+**Recorded: a banned-list match is a lead, not a finding. Read it in context before acting on it.**
+
+| GATE | RESULT |
+|---|---|
+| `DOCUMENT_COUNT` | 1002 |
+| Doctrine records | 24 |
+| Total words | 54,782 |
+| Median words | 1,578 |
+| Largest record | 13,097 |
+| Records with an H1 count other than 1 | 0 |
+| Records carrying `## Contents` | 24 |
+| Real banned-list violations | 0 |
+| `PATCH_SAVER_ENTRIES` | 100 |
+
