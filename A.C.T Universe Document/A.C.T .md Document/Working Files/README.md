@@ -26,17 +26,17 @@ anything filed here.
 
 | File | Kind |
 |---|---|
-| `Interoffice-Memo-Site-04-Cold-Chain.md` | Routine correspondence |
-| `Working-Note-Lantern-Beacon-Shutter.md` | Working note, superseded |
-| `Superseded-Draft-Coffer-Handling-Rule.md` | Superseded draft |
-| `Telephone-Log-Week-14.md` | Call log, transitory |
-| `Junior-Researcher-Note-Beacon-Colours.md` | Junior researcher's first pass, including what they got wrong |
-| `Researcher-Observation-Dead-Name-Cupboard.md` | Researcher's working observation, not a finding |
 | `Procurement-Query-Site-01-Quarter.md` | Quartermaster's query on three wrong deliveries |
-| `Rota-Change-Containment-Week-15.md` | Duty officer's rota change notice |
-| `Incident-Callout-Log-Entry-14.md` | One night's callout, logged minute by minute |
-| `Duty-Rota-Containment-Site-01.csv` | Duty rota, machine-readable |
-| `Coffer-Temperature-Log.csv` | Temperature readings, machine-readable |
+| `Telephone-Log-Week-14.md` | Switchboard call log, one week |
+
+## Working files live beside the work
+
+Only material that is Facility-wide rather than attached to one programme stays in this folder.
+Technology custody material has moved to `A.C.T Technology Document/Working Files/`, next to the
+records it arose from, the way the Anomaly Document keeps its `Log/` subfolder inside itself.
+
+A working file that cannot be filed beside its activity stays here, and this folder is where a
+reader looks for the paperwork that belongs to nobody in particular.
 
 ## Not everything here was written by an archivist
 

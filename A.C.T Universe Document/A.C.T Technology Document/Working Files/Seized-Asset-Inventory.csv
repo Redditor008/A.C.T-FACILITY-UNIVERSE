@@ -1,0 +1,14 @@
+asset_id,designation,object,quantity,condition,seal_intact,date_seized,location,notes
+SA-001,TECH-GOI-074-1,Ninefold Ark sample coffer,1,unopened,yes,not recorded,Site 04 cold store,custody dispute unresolved
+SA-002,TECH-GOI-073-1,Lantern Accord signal beacon,1,broken,n/a,not recorded,Site 01 restricted,not restored
+SA-003,TECH-GOI-073-2,Lantern Accord seal,3,expired,n/a,not recorded,Site 01 restricted,forgery reference
+SA-004,TECH-GOI-073-3,Yellow-line warrant fragment,2,fragmentary,n/a,not recorded,Site 01 restricted,held separately
+SA-005,TECH-GOI-073-4,Violation ledger copy,1,partial,n/a,not recorded,Site 01 restricted,copy not original
+SA-006,TECH-GOI-070-1,Saint Morrow white ticket,unknown,unused,n/a,not recorded,Site 01 restricted,count not recorded
+SA-007,TECH-GOI-070-2,Saint Morrow route bell,1,unmounted,n/a,not recorded,Site 01 restricted,not rung in service
+SA-008,TECH-GOI-070-3,Cold-map fragment,2,fragmentary,n/a,not recorded,Site 01 restricted,held at room temperature
+SA-009,TECH-GOI-070-4,Crossing ledger partial,unknown,partial,n/a,not recorded,Site 01 restricted,count not recorded
+SA-010,TECH-GOI-069-1,Name ledger partial,unknown,partial,n/a,not recorded,Site 01 restricted,count not recorded
+SA-011,TECH-GOI-069-2,Alias knife,2,intact,n/a,not recorded,Site 01 restricted,not operated
+SA-012,TECH-GOI-069-3,Counterfeit court stamp,3,intact,n/a,not recorded,Site 01 restricted,not impressed
+SA-013,TECH-GOI-069-4,Dead-name cupboard door,1,door only,n/a,not recorded,Site 01 restricted,cupboard not recovered
