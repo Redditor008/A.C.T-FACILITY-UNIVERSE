@@ -1,10 +1,10 @@
 A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
 Ball-of-Knife-Behavioral-Observation-Dossier-AFD-OB-502
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
            A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-OB-502
 TITLE I:             Ball of Knife
@@ -22,9 +22,9 @@ JURISDICTIONAL AUTHORITY:  Redwood Veil Command / Combat-Anomaly Desk
 ARCHIVE STATUS:      Active / Combat-anomaly restricted
 DOSSIER STATUS:      Open — continuous observation under magnetic lock
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
                            CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 This dossier belongs to A.C.T Log Category VIII — Behavioral & Observation
 Dossier. AFD-OB-502 is a self-organizing mass of bladed tools driven by a
@@ -49,9 +49,9 @@ To track the subject's aggression baseline and restraint integrity so that
 reconfiguration attempts, provocation states, and containment stress are
 recognized the moment they begin.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
          SECTION 001 — MAGNETIC-RESTRAINT AND VIBRATION WATCH
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-502/OBS-001
 DATE:                1994-12-05 (verification) — ongoing
@@ -74,9 +74,9 @@ VIBRATION WATCH:
 
 OBSERVER NOTE: The clicking is not noise. It is the subject thinking in tools.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
         SECTION 002 — AGGRESSION AND LIFE-SEEKING BEHAVIOR LOG
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-502/OBS-002
 DATE:                1994-2024 review series
@@ -102,9 +102,9 @@ The subject was recovered during Operation Cold Shear following an
 failure. Its behavior has not changed since recovery. It was not learning; it
 was already complete.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
        SECTION 003 — HATE-SIGNAL MONITORING — PSYCHOLOGICAL NOTE
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-502/OBS-003
 DATE:                Standing
@@ -127,9 +127,9 @@ OBSERVER NOTE: The hate is not a malfunction of the subject. It is the
 subject. Observation shifts are capped, and no personnel are assigned to the
 vault long enough to mistake its contempt for a message.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
      SECTION 004 — WIRE-LATTICE ACTIVITY — THE 'QUIT' OBSERVATION
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-502/OBS-004
 DATE:                On file
@@ -148,9 +148,9 @@ INTERPRETATION: This is not a request for peace. Per Combat-Anomaly Desk
 doctrine, it is a command to the Facility to stop existing. The word is
 treated as threat language, not negotiation.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
       SECTION 005 — 2011 BREACH REVIEW — DOOR VIBRATIONAL BYPASS
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-502/OBS-005
 DATE:                2011 (breach review)
@@ -174,9 +174,9 @@ CONTAINMENT UPDATES AFTER REVIEW:
    - Standard steel doors replaced with magnetic-lock assemblies in the
      containment wing
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
               SECTION 006 — CLOSING OBSERVATION STATEMENT
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-502/OBS-CLS-001
 DATE:                2026-09-08

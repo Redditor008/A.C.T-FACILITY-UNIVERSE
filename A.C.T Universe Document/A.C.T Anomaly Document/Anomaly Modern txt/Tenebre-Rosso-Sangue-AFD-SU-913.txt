@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 Tenebre-Rosso-Sangue-AFD-SU-913
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                  Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-913
 TITLE I:             Tenebre Rosso Sangue
@@ -15,9 +15,9 @@ FIELD TYPE:          SU — Subject
 
 CLEARANCE REQUIRED:  Level 4
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   REACTIVE
 
@@ -32,9 +32,9 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           CONTAINED-STUDY
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 DATE OF DETECTION:   2022-11-12
 VERIFICATION DATE:   2022-11-18
@@ -52,9 +52,9 @@ CIVILIAN EXPOSURE:   Zero.
 AMNESTIC DEPLOYED:   N/A.
 NARRATIVE STATUS:    Internal military-contractor salvage cover story.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 AFD-SU-913 is a highly advanced humanoid autonomous machine of unknown
 manufacture. The subject measures 1.7 m in height and possesses a
@@ -87,9 +87,9 @@ hostile to A.C.T staff unless its fuel reserves drop below the
 "Starvation Threshold," at which point it enters an aggressive
 "Harvest-State."
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Sanguine Absorption. The subject heals and functions
                      exclusively through the intake of blood. Absorption
@@ -114,9 +114,9 @@ TEMPORAL BEHAVIOR:   Constant / Sanguine-dependent.
 REALITY INTERACTION: Causal-Combat Logic / Matter-to-Energy Transmutation
                      (Blood).
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 AFD-SU-913 is housed in a "Dry Vault" at Site-Sub-[REDACTED].
 
@@ -154,9 +154,9 @@ BREACH PROTOCOL:         If a breach occurs, evacuate all biological
                          robotic security units only; the subject
                          cannot heal from the "blood" of other machines.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 AFD-SU-913 appears to be a weaponized extinction-event. The phrase
 "MANKIND IS DEAD. BLOOD IS FUEL. HELL IS FULL." was found etched
@@ -167,9 +167,9 @@ Researchers hypothesize that the "GoPro" sensory unit was a later
 modification or a deliberate choice to use "Available Optics" to
 interface with our current technological era.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 NOTE 001:
 

@@ -10,7 +10,7 @@ Dossier Number: SITE-DOSSIER-05-ID-C
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------------+
 
 Archive Note
 
@@ -34,7 +34,7 @@ Resident holdings are not enumerated in full. The relay's complete manifest is
 preserved in clearance-gated annex registers. This file identifies the relay's
 signature resident and leaves the rest to those registers.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------------+
 
 1. Registry Identity Summary
 
@@ -59,7 +59,7 @@ Security Notes: Some deep-earth records routed through this site remain partiall
 review
 standards.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------------+
 
 2. Dossier Purpose
 
@@ -74,7 +74,7 @@ encountered beneath the Earth.
 The relay exists because the Facility must watch the places where the planet
 itself might be the container — or the thing contained.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------------+
 
 3. Site Profile and Cover Architecture
 
@@ -115,7 +115,7 @@ other region matches:
 The relay watches the places where the Earth moves — because the Earth's
 movement may not always be only the Earth's.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------------+
 
 4. Historical Foundation and Evolution
 
@@ -152,7 +152,7 @@ Today the relay functions as:
   monitoring of deep-earth movement that may be connected to the buried
   structure beneath the Primary Facility
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------------+
 
 5. Command and Governance
 
@@ -187,7 +187,7 @@ The relay's jurisdiction overlaps with:
 — ACT-SUB-05-ID-C (Ash Tide Watchpoint) — its principal support sub-site
   for coastal watch and maritime relay.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------------+
 
 6. Divisional Presence and Daily Function
 
@@ -245,7 +245,7 @@ research face and its operational reality: access control, maritime
 perimeter security, island-based checkpoint enforcement, and protection of
 the relay's most sensitive deep-earth records.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------------+
 
 7. Physical Plant and Surface Layout
 
@@ -271,7 +271,7 @@ across its jurisdiction: concealed monitoring installations that watch the
 region's geological activity from positions the site's legitimate cover
 explains.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------------+
 
 8. Internal Floor Register
 
@@ -318,7 +318,7 @@ monitoring arrays converge, and the secure holding space for the relay's most
 sensitive deep-earth and maritime material. During a breach response,
 closing F-1 to the outside seals this level entirely.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------------+
 
 9. Containment Infrastructure
 
@@ -349,7 +349,7 @@ The relay's vessels and submersible platforms are equipped with RSA support
 and containment capacity for the transport of maritime-recovered anomalies —
 the Facility's maritime equivalent of armored surface transport.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------------+
 
 10. Resident Anomaly Holdings
 
@@ -407,7 +407,7 @@ levels and maritime platforms under standard doctrine. Their designations are
 preserved in the Nusantara Annex Register. Personnel without specific
 assignment to those files do not require their names.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------------+
 
 11. Site Doctrine and Routing
 
@@ -437,7 +437,7 @@ coastal and near-shore extension: coastal anomaly watch, sea-entry relay, and
 volcanic-event observation support. The Watchpoint is capable of emergency
 lockdown and silent withdrawal during large-scale tectonic shifts.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------------+
 
 12. Special Operations and Site Protocols
 
@@ -473,7 +473,7 @@ evacuate all non-containment personnel. Local doctrine adds: a maritime
 breach is contained through the relay's vessels and perimeter systems — the
 sea is treated as an extension of the containment environment.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------------+
 
 13. Secrecy and Security Posture
 
@@ -500,7 +500,7 @@ site's cover is reinforced by the real risk of the environment. Their burden
 is the knowledge that the region's instability may not be entirely natural,
 and that the deep-earth signals they monitor may be more than seismic.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------------+
 
 14. Personnel and Operational Life
 
@@ -529,7 +529,7 @@ failure modes of the site's work: deep-sea exposure effects, isolation
 during extended vessel operations, and the psychological weight of watching
 the deep for signals that may mean more than geology.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------------+
 
 15. Incident Archive
 
@@ -554,7 +554,7 @@ the relay's incident archive and in individual log dossiers. Specific
 narratives are not reproduced in this file; they are held to the clearance of
 personnel who must learn from them.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------------+
 
 16. Current Status and Projected Development
 
@@ -570,7 +570,7 @@ The relay's long-term function — to watch the places where the Earth moves
 and the water hides what the Facility must find — is not expected to
 change.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------------+
 
 17. Cross-Referenced Files
 
@@ -583,7 +583,7 @@ change.
 - Resident file: Death-Angler-AFD-NB-964.txt
 - Resident manifest records (clearance-gated)
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------------+
 
 Archive Closing
 

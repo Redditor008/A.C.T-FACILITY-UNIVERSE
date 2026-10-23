@@ -1,10 +1,10 @@
 A.C.T FACILITY — AUDIO / VIDEO / SENSOR DOSSIER
 Music-Box-of-Unending-Sadness-Audio-Transcript-AFD-OB-311
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------+
               A.C.T FACILITY — AUDIO / VIDEO / SENSOR DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------+
 
 DESIGNATION:         AFD-OB-311
 TITLE I:             Music Box of Unending Sadness
@@ -16,9 +16,9 @@ CATEGORY FUNCTION:   Vocal track transcription, emotional resonance
 
 CLEARANCE REQUIRED:  Level 2
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------+
 
 This dossier contains the verified lyrics of the "Bad Apple" lullaby
 performed by the subject, along with observations of the emotional
@@ -30,9 +30,9 @@ INCLUDED LOG TYPES:
    - Visual Anomaly Record (The Fade-to-Black Effect)
    - Dossier Closing Statement
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------+
                  SECTION 001 — THE LULLABY TRANSCRIPT
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-311/TRN-001
 DATE:                2018-04-12
@@ -79,9 +79,9 @@ I've forgotten how to see; I've forgotten if I can
 If I opened up my eyes there'd be no more going back
 'Cause I'd throw it all away, and it all would fade to black.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------+
                  SECTION 002 — LISTENER RESPONSE LOG
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-311/EMO-001
 SUBJECT:             Researcher Elise Moreau (PR Score: 84)
@@ -99,9 +99,9 @@ remember what 'blue' looked like until the song stopped. I felt like
 I was part of the girl on the box, just sitting and waiting to
 vanish."
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------+
 
 AFD-OB-311 is a potent empathic anchor. The "Bad Apple" track is not a
 harmless melody but a narrative record of identity-erasure. Further

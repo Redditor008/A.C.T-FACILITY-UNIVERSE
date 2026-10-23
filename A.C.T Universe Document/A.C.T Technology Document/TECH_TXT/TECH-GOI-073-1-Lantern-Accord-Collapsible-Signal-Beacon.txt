@@ -1,5 +1,5 @@
 A.C.T FACILITY ARCHIVE FILE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Lantern Accord Collapsible Signal Beacon
 ========================================
@@ -12,7 +12,7 @@ Origin: Lantern Accord (GOI-HY-W-073), Signatory Seat and crisis delegate issue
 Clearance: Level 3 for examination; Level 4 for any restoration request
 
 Archive Note
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The archive holds one Lantern Accord signal beacon. It was
 recovered broken during work contact and it has not been restored.
@@ -37,7 +37,7 @@ not authorised below Level 4 and requires Legal review, because restoring it cha
 archive holds from a broken object into a functioning charter instrument.
 
 THE INSTRUMENT
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 1.1 What it does
 ================
@@ -78,7 +78,7 @@ corrosion or a deliberate lock has not been established, and no attempt has been
 The circumstances of the break are not recorded and neither is the date of recovery.
 
 HANDLING
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 2.1 Custody
 ===========
@@ -112,7 +112,7 @@ Recorded for reference. It is not a Facility procedure and no personnel may foll
 8. Delegates argue the terms; the line is already active.
 
 DIVISION USE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | DIVISION                   | USE                                                                                   |
@@ -127,7 +127,7 @@ DIVISION USE
 +----------------------------+---------------------------------------------------------------------------------------+
 
 OPEN QUESTIONS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - how a shutter position maps to a line status, and whether the mapping is fixed per unit;
 - whether the obstruction is damage or a deliberate lock;
@@ -140,7 +140,7 @@ The last question governs the handling rule. If a non-signatory lighting the bea
 rule is caution rather than necessity. Legal has not ruled, and the archive holds the unit broken until it does.
 
 CROSS-REFERENCES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - GOI-HY-W-073 — Lantern Accord, Group of Interest Dossier
 - TECH-GOI-073-2 — Lantern Accord Seal And Temporary Custody Tag, Technology Record
@@ -153,7 +153,7 @@ The Saint Morrow reference arises from the blue lantern status. The Mercy Lock r
 from the green one. Neither is a relationship in which the Facility holds the asset.
 
 FILE METADATA
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Record Type: Technology Record — Recovered Adversary Device
 Created: 14/03/2019

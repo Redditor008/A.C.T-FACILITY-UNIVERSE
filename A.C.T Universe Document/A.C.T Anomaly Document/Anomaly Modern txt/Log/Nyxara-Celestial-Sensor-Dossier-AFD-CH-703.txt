@@ -1,10 +1,10 @@
 A.C.T FACILITY — AUDIO / VIDEO / SENSOR DOSSIER
 Nyxara-Celestial-Sensor-Dossier-AFD-CH-703
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
             A.C.T FACILITY — AUDIO / VIDEO / SENSOR DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-CH-703
 TITLE I:             Nyxara
@@ -24,9 +24,9 @@ JURISDICTIONAL AUTHORITY:  Cosmic Hazard Review / Nusantara Deep Relay
 ARCHIVE STATUS:      Active / Sensor-hold restricted
 DOSSIER STATUS:      Open — sensor chain under continuous record
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
                            CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 This dossier belongs to A.C.T Log Category XI — Audio / Video / Sensor
 Dossier. It preserves the raw recorded evidence of AFD-CH-703: the capture
@@ -49,9 +49,9 @@ To preserve the sensor evidence of the subject's sleep, the annual visibility
 protocol, and the tidal-pulse correlation in a form that survives
 reinterpretation.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
     SECTION 001 — LUNAR FAR-SIDE ACOUSTIC ARRAY — SLEEP HUM CAPTURE
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-703/SEN-001
 DATE-TIME:           Continuous capture — reference recording on file
@@ -76,9 +76,9 @@ machine, or a process. It is the subject's sleep, heard at planetary scale. It
 has never stopped. This is the closest approach to confirmation that the
 subject remains asleep.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
      SECTION 002 — ORBITAL RELAY — VISIBILITY-WINDOW PROTOCOL RUN
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-703/SEN-002
 DATE-TIME:           Annual — last run [ REDACTED ]
@@ -108,9 +108,9 @@ and held at Level 5 and above. If Nyxara achieves 100% visibility outside the
 predicted dates, the standing breach response is to activate Global
 Cloud-Seeding Masking.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
  SECTION 003 — SITE-03 SIGNAL BURST — ATMOSPHERIC DISTORTION OVERRIDE
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-703/SEN-003
 DATE-TIME:           Recorded during annual visibility windows
@@ -131,9 +131,9 @@ BACKSTOP: Unauthorized astronomers who persist despite the interference are
 handled under Amnestic deployment 004-A. Public light emissions outside the
 suppression frames are narrated as "Lunar Phenomena" or "Camera Artifacts."
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
    SECTION 004 — NUSANTARA HYDROPHONE — HYDROLOGICAL PULSE CORRELATE
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-703/SEN-004
 DATE-TIME:           Event-window correlation, ongoing
@@ -160,9 +160,9 @@ records in this dossier are the only place where the tide has a cause
 with a
 name.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
  SECTION 005 — ANALYST NOTES — WHAT THE RECORD DOES AND DOES NOT SHOW
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-703/SEN-005
 DATE:                2026-09-08

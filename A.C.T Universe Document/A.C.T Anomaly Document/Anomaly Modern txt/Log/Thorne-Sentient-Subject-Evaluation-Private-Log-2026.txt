@@ -1,10 +1,10 @@
 A.C.T FACILITY — PERSONAL & RECOVERED JOURNAL DOSSIER
 Thorne-Sentient-Subject-Evaluation-Private-Log-2026
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
              A.C.T FACILITY — PERSONAL & RECOVERED JOURNAL
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 DESIGNATION:         SR-THORNE-412 (Personnel Record)
 TITLE I:             Aris Thorne
@@ -21,18 +21,18 @@ CONTAINMENT SITE:    ACT-SITE-02-RU-N — White Grave Station
 ARCHIVE STATUS:      Active / Private
 DOSSIER STATUS:      Open / Operational Reflection
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 This dossier contains a series of private reflections written by Dr. Aris
 Thorne regarding his regular interactions with sentient anomalous
 subjects. It documents his personal assessment of their stability,
 growth, and the "human cost" of their containment.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                  SECTION 001 — THE DIALOGUE OF SURVIVAL
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 LOG ID:              SR-T/JNL-2026-08
 DATE:                2026-07-02 (Post-Shift)
@@ -46,9 +46,9 @@ People ask how I talk to them—the ones with mouths that shouldn't exist.
 They think there is a secret "Immortal's Language." There isn't. I
 simply treat them with the respect that one survivor owes another.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 SUBJECT:             AFD-SU-005 (Anny)
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 I visited Anny this morning. She was reading a translated volume of
 Dickens. She addressed me as 'Senior Researcher Thorne' and asked if my
 harness was 'behaving itself.'
@@ -65,9 +65,9 @@ not a failure. I keep our sessions formal because if I don't, I fear
 I
 might apologize to her for what the world did to her creator.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 SUBJECT:             AFD-SU-827 (Vivienne Argent)
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 Vivienne is struggling with her shed. I spoke to her through the
 one-way glass in Site-04. I didn't use the intercom; I spoke directly to
 the pane so she could feel the vibration.
@@ -82,9 +82,9 @@ extra thermal blankets I authorized for her pool. She needs to be strong.
 A half-anaconda in a world of humans doesn't have the luxury of
 melancholy.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 SUBJECT:             AFD-SU-507 (Circus Monster)
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 The child with the pink hair. I cannot look at her without thinking of
 the 'Tyrant' Amazoo. I interviewed her today regarding her latest
 manuscript.
@@ -103,9 +103,9 @@ a clean log, she can own her own story. I hate that I have
 to be the
 one to teach her that through discipline.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 SUBJECT:             AFD-SU-009 (The Countess of Horn)
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 My quarterly Audience is next week. I am already checking the
 neatness of my coat.
 
@@ -118,9 +118,9 @@ I don't think I'll ever have the manners she expects. But I am
 grateful for her. She is the anchor that reminds me that even after
 110 years, I am still just a student.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 I am a man of the future trapped in the prime of a 1990s
 body, guarding

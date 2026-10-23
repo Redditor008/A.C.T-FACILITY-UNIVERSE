@@ -1,10 +1,10 @@
 A.C.T FACILITY — RESEARCH & ANALYSIS DOSSIER
 ITHYOS-Legacy-Research-Analysis-Dossier-ENTITY-000
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
               A.C.T FACILITY — RESEARCH & ANALYSIS DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 DESIGNATION:         ENTITY-000 / UFD-CH-000 / AFD-CH-000
 COMMON ARCHIVE NAME: ITHYOS, THE WORLD-SLEEPER
@@ -24,9 +24,9 @@ CONTAINMENT SITE:    Primary Facility / ABYSS Floor / Final Contact Vault
 ARCHIVE STATUS:      Active / O5-Restricted
 DOSSIER STATUS:      Open / Legacy review archived
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 This dossier belongs to A.C.T Log Category VI — Research & Analysis Dossier.
 It collects legacy research, First Vault interpretation, modern
@@ -51,9 +51,9 @@ conclusion:
 
                      Keep it asleep.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          DOSSIER SUMMARY
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 ITHYOS is recorded first as ENTITY-000 and later under verified modern
 designation AFD-CH-000. It is a planetary-scale serpentiform cosmic hazard
@@ -86,9 +86,9 @@ The oldest directive remains the modern directive:
                      No uncontrolled observation.
                      No disturbance to sleep.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                   SECTION 001 — LEGACY ARCHIVE SUMMARY
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 LOG ID:              ENTITY-000/LEG-001
 LOG TYPE:            Legacy Archive Summary
@@ -120,9 +120,9 @@ ARCHIVE INTERPRETATION:
 The First Vault record is not mythology. It is an early containment document
 written before A.C.T possessed modern containment language.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                 SECTION 002 — FIRST VAULT CONTINUITY NOTE
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 LOG ID:              ENTITY-000/VLT-001
 LOG TYPE:            First Vault Continuity Note
@@ -152,9 +152,9 @@ All future ITHYOS documentation must preserve designation continuity:
 No division is authorized to erase the First Vault identity simply because the
 modern designation is cleaner.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
           SECTION 003 — MODERN DESIGNATION ALIGNMENT REVIEW
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 LOG ID:              ENTITY-000/ALN-001
 LOG TYPE:            Modern Designation Alignment Review
@@ -183,9 +183,9 @@ TIAMAT classification reflects that ITHYOS exceeds ordinary containment frame of
 reference. It is not a creature in a room. It is a sleeping planetary-scale
 presence whose continued dormancy is the containment condition.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
               SECTION 004 — DORMANCY PRESERVATION DOCTRINE
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 LOG ID:              ENTITY-000/SLP-001
 LOG TYPE:            Dormancy Preservation Doctrine
@@ -232,9 +232,9 @@ APPROVED ACTIONS:
    - ABYSS Floor access restriction
    - seismic correlation analysis under O5 authority
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                  SECTION 005 — EXPOSURE SEQUENCE REVIEW
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 LOG ID:              ENTITY-000/EXP-001
 LOG TYPE:            Exposure Sequence Review
@@ -265,9 +265,9 @@ Serpent-type organisms exposed to ITHYOS presence, influence, or aura display
 submission behavior including bowing, paralysis, collapse, refusal to advance,
 and total passivity. No known serpent-form organism has resisted this effect.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
               SECTION 006 — ARCHIVE CONTRADICTION NOTICE
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 LOG ID:              ENTITY-000/ARC-001
 LOG TYPE:            Archive Contradiction Notice
@@ -299,9 +299,9 @@ APPROVED ARCHIVE PHRASE:
                      The old record warns.
                      The modern record instructs.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 Current A.C.T doctrine holds that ITHYOS is a dormant planetary-scale
 serpentiform cosmic hazard whose continued sleep is the primary containment

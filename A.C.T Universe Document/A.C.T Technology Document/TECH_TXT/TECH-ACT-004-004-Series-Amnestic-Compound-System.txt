@@ -1,7 +1,7 @@
 A.C.T FACILITY ARCHIVE FILE — 004-SERIES AMNESTIC COMPOUND SYSTEM
 ===========================
 TECHNOLOGY RECORD - 004-SERIES AMNESTIC COMPOUND SYSTEM
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                                                         |
@@ -60,13 +60,13 @@ This file expands the existing compound reference into a working technology reco
 ratios beyond grade summaries, aerosolization safeguards, raw bloom handling, and reversal research remain censored
 under 004 NEMNOLIA DISCLOSURE LIMIT.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FUNCTION SUMMARY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Practical Function
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The 004-series provides controlled memory suppression by applying stabilized derivatives of AFD-NB-004 sap at
 different concentrations. In practical terms, A.C.T uses it to remove, blur, collapse, or shorten access to selected
@@ -92,7 +92,7 @@ obsession. A victim may need continuity
 more than silence.
 
 Operational Role
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The 004-series appears in five major roles:
 
@@ -107,13 +107,13 @@ activation.
 normalcy tool, not a universal
 eraser.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 ORIGIN AND CUSTODY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Source Anomaly
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 AFD-NB-004 secretes glowing translucent golden sap with memory-destructive properties. In raw form, the sap can erase,
 fracture, or collapse human memory continuity. Through controlled dilution, stabilization, and pharmaceutical
@@ -126,7 +126,7 @@ because A.C.T refines, grades, authorizes, stores, administers, audits, and reco
 its active memory action originates in NEMNOLIA. Both truths must remain visible to authorized staff.
 
 Development History
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The technological timeline records 004-Series Refinement in 1952, with industrial-scale production of stabilized
 memory-solvent compounds and establishment of the Graded Amnestic Standard. That date marks the transition from
@@ -137,7 +137,7 @@ normalcy system begins lying to itself. This record preserves that warning as a
 technical control. Provenance is not trivia. Provenance is a safety feature.
 
 Custody
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Primary custody belongs to Medical Care Division and Civil Covert Division. Medical controls grade selection,
 contraindication screening, dosage, administration, aftercare, repeated-use limits,
@@ -149,10 +149,10 @@ witnesses, minors, altered persons, contained subjects, or survivors are involve
 records administration traces. Memory Review investigates contradictions, identity damage, and
 repeated-use harm. Site Command approves emergency use during breach or mass exposure.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 TECHNICAL SPECIFICATION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 This is a pharmaceutical lineage rather than equipment, so the specification table records grade and provenance
 instead of physical dimensions. Refinement and concentration tables are Level 5 and are not restated.
@@ -192,20 +192,20 @@ a defined concentration, and the
 grade selected determines whether the outcome is a blur or an organ injury.
 
 INTERFACE AND OPERATING ENVELOPE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Controls
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - the review form is the control surface; there is no equipment interface
 
 Readouts
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - 004-GREEN through 004-BLACK administration states
 
 Envelope And Personnel Limits
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - "Knows too much" is not sufficient grounds for administration.
 - Never administer as punishment, convenience, intimidation, or schedule repair.
@@ -223,10 +223,10 @@ authority, expected side effects, and aftercare plan.
 
 
 GRADE STRUCTURE AND SYSTEM DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Recognized Grades
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The recognized grades are recorded as follows:
 
@@ -246,7 +246,7 @@ Lower concentration usually means a safer intended erasure window. Higher concen
 suppression toward memory collapse and identity destruction. This is a gradient, not a comfort.
 
 Known Components and Packaging
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Known system components include:
 
@@ -267,13 +267,13 @@ Known system components include:
 Raw sap, unstable dilution, cracked stabilizer caps, or unexplained
 golden vapor must be treated as active hazard material.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 OPERATING PROCEDURE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Numbered Operating Sequence
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Administration sequence, Medical Care with Civil Covert.
 
@@ -292,10 +292,10 @@ Administration sequence, Medical Care with Civil Covert.
 
 A denied request must still be recorded if it reached Medical Care, Civil Covert,
 Site Command, or Central Archive.
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Review Before Administration
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T uses the Amnestic Administration and Memory-Aftercare Review Form whenever memory alteration is considered,
 approved, denied, administered, withheld, reversed, audited, or followed up. A denied request must still be recorded
@@ -306,7 +306,7 @@ preserve, memory anchors to remove, memory anchors that must not be touched, rep
 condition, override authority, expected side effects, and aftercare plan. "Knows too much" is not sufficient.
 
 Authorized Use
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Level 4 Medical and Civil Covert review is required for ordinary controlled use. Level
 5 review is required for 004-A
@@ -325,7 +325,7 @@ Basic administration states:
 004-BLACK requires immediate Archive, Medical, Legal, and Command notification.
 
 Handling Rules
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Do not administer 004-series compounds as punishment, convenience, intimidation, or schedule repair. Do not administer
 after the person refuses unless override authority is written plainly. Do not use false
@@ -335,11 +335,11 @@ amnestics to make personnel
 available for the same exposure again without Medical Care and Personnel
 Review approval. Do not use amnestics to hide A.C.T misconduct.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 
 SERVICING AND CALIBRATION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | TRIGGER                    | ACTION                                    | AUTHORITY                                 |
@@ -367,7 +367,7 @@ No calibration applies to a compound. The recurring control is repeated-use revi
 tracking are all NOT MEASURED in this record.
 
 FAULT ISOLATION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
@@ -400,10 +400,10 @@ FAULT ISOLATION
 
 
 KNOWN LIMITS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 What 004 Cannot Do
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The 004-series cannot make harm unhappen, cannot guarantee trauma resolution, cannot remove all physical evidence,
 cannot prevent every dream recurrence, cannot repair identity after excessive grade use, cannot make a false public
@@ -421,7 +421,7 @@ The system is weakest against:
 - GOIs that use amnestic gaps as recruitment proof.
 
 Misuse Risk
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 004 misuse can injure the person and the institution. Over-erasure creates hollow continuity, false calm, grief
 fracture, repeated exposure, and dependence on official lies. Under-erasure can leave unstable recall, memetic hooks,
@@ -432,13 +432,13 @@ Medical warning:
 
 A quiet witness is not proof of a healed witness.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FAILURE HISTORY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 004-C FIELD OVERGRADE REVIEW
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A field team requested 004-C for a civilian who had seen a containment breach.
 Medical later determined the target
@@ -450,7 +450,7 @@ This case is now used to train reviewers that severity of panic is not
 the same as size of memory range.
 
 PERSONNEL REPEATED-USE HOLLOWING
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A security operator received multiple short-window amnestics across unrelated incidents. Each administration was
 individually justified. The combined effect produced emotional misbinding, duty confusion, and inability to explain
@@ -459,7 +459,7 @@ scars without reading old packets. Personnel Review suspended return to repeated
 Corrective action required repeated-use history fields and retained briefing packets for post-amnestic selves.
 
 NEMNOLIA VIAL CAP FAILURE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A refined sap vial with a damaged molecular-stabilizer cap produced a thin golden vapor
 inside a medical lockbox. Two
@@ -469,45 +469,45 @@ lockbox was sealed and transferred to Transformation Review.
 
 This incident is the reason cracked stabilizer caps are treated as airborne memetic hazard indicators.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 DIVISION USE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Medical Care Division
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Medical controls grade selection, screening, dosage, administration, adverse-effect response, aftercare, repeated-use
 review, and refusal escalation. Medical may deny amnestic use even when Civil Covert requests it, if medical or
 continuity risk exceeds operational benefit.
 
 Civil Covert Division
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Civil Covert defines normalcy need, public story compatibility, witness exposure risk, media pressure, and
 replacement-memory pressure. Civil Covert may not treat amnestics as a substitute for narrative repair.
 
 Transformation Review and Archive
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Transformation Review preserves NEMNOLIA provenance, derivative safety, raw sap restrictions, and the ethical fact
 that this technology began as a dangerous anomaly. Archive preserves administration records, denied requests,
 QNB-linked logs, and post-treatment contradictions.
 
 Subject Care, Legal, and Site Command
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Subject Care attaches for minors, survivors, altered persons, contained subjects, and witnesses whose memory may be
 part of safety. Legal attaches when consent, refusal, custody, misconduct, or mass public administration is involved.
 Site Command approves emergency use during breach but must accept after-action review.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 CROSS-REFERENCES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Related A.C.T Records
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - 004-Series Amnestic Compound Reference, Archive Record
 - ACT-MASTER-INDEX-50-SYSTEMS-AND-MATERIALS, Archive Record
@@ -521,7 +521,7 @@ Forms/ACT_Amnestic_Administration_and_Memory_Aftercare_Review_Form.md
 - TECHNOLOGY RECORD TEMPLATE, Technology Record
 
 Technology Relationship
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The 004-series interacts with, but is distinct from:
 
@@ -536,10 +536,10 @@ treatment;
 Each system requires its own individual technology record. This file covers the 004-Series Amnestic Compound System as
 an A.C.T-controlled technology lineage.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 OPEN ENGINEERING, MEDICAL, AND ETHICS QUESTIONS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - Can any 004-grade be made safer without hiding the NEMNOLIA provenance that keeps
 staff cautious?
@@ -554,10 +554,10 @@ and testimony?
 - What failure mode appears if 004 treatment occurs during ARM-WHITE public dulling and
 RSA-WHITE hard anchoring?
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FILE METADATA
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FILE CREATED:            05/01/2026
 FILE LAST UPDATED:       14/10/2026

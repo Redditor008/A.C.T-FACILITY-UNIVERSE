@@ -1,7 +1,7 @@
 A.C.T FACILITY ARCHIVE FILE — GOI CU X 062 Choir of the Unforgotten Name
 ===========================
 GROUP OF INTEREST REGISTRY - CHOIR OF THE UNFORGOTTEN NAME
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                                                         |
@@ -93,13 +93,13 @@ Active hymn texts, child singer identities, memorial-chapel locations, and NEMNO
 under UNFORGOTTEN-REFRAIN DISCLOSURE LIMIT. Some redactions prevent copy-performance of active rites. Others protect
 families whose names would become targets if linked to surviving memory shards.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 IDENTITY AND INSTITUTIONAL FUNCTION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Group Function
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Choir of the Unforgotten Name functions as a religious and mnemonic preservation network. Its repeated activity is the
 gathering of erased names, partial witness statements, missing-person fragments, altered childhood records, last
@@ -121,7 +121,7 @@ This is a comfort phrase during funerals and a containment warning during active
 rites.
 
 Public Presence and Concealment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Choir hides inside grief. Its members appear at funerals, hospital vigils, support groups, survivor meetings,
 remembrance walks, chapel basements, school memorials, missing-person anniversaries, and family gatherings after
@@ -136,13 +136,13 @@ The group prefers oral
 preservation because spoken memory can survive document seizure and digital alteration. Several rites are deliberately
 easy to teach, which makes containment difficult.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Leadership Condition
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 No single high priest or founder is confirmed. Local cells are led by Cantors,
 Name Bearers, Vestry Archivists,
@@ -155,7 +155,7 @@ A.C.T has identified at least eleven active cantors across separate jurisdiction
 identical theology, suggesting a durable network rather than one centralized church.
 
 Internal Structure
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T assessment identifies these functional layers:
 
@@ -174,7 +174,7 @@ training, concealment, and repeated
 anomalous practice.
 
 Membership and Recruitment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Membership includes grieving relatives, witnesses who remember through amnestics, survivors whose legal names
 changed after incidents, hospital volunteers, funeral singers, school memorial organizers, former social workers,
@@ -193,13 +193,13 @@ The Choir is especially dangerous around vulnerable survivors because it offers 
 person who has lost memory may prefer a group that says the missing pieces
 are sacred.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Stated Belief
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The central belief of the Choir is that memory is a duty owed to
 the living, dead, missing, and altered. Its members
@@ -220,7 +220,7 @@ every erased name be restored
 somewhere.
 
 Assessed Objective
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T assesses that the Choir seeks to build a living archive of names and
 memories that containment systems cannot
@@ -235,7 +235,7 @@ these risks more readily than
 A.C.T can allow.
 
 Anomalous Capability Assessment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Choir is assigned Practitioner capability because some rites produce repeatable memory effects beyond ordinary
 song, grief, or therapy. Confirmed or strongly assessed practices include:
@@ -254,7 +254,7 @@ grief, cadence, and ritual
 repetition rather than manufactured devices.
 
 Secrecy and Civilian Exposure
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Choir is Exposure-Active because its practice deliberately places erased names and memories back into communal
 circulation. It does not always publish A.C.T files, but it makes people remember what
@@ -265,13 +265,13 @@ Civilian exposure is most severe at funerals, anniversaries, school memorials, h
 services. These gatherings contain people already primed for grief and belief. A restored name can spread faster than
 an official correction can suppress.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Operational Regions
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Choir operates transnationally through memorial communities, hospitals, school grief circles, chapel basements,
 family networks, online hymn fragments printed before deletion, migrant survivor groups, missing-person vigils, and
@@ -280,7 +280,7 @@ archive instability are central. Site 01 attaches when urban public memorials an
 Command attaches when a mass-recall event threatens normalcy doctrine.
 
 Known Assets and Holdings
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Known or assessed assets include:
 
@@ -301,7 +301,7 @@ A.C.T has recovered incomplete hymn sheets and inert ribbons.
 Complete active refrains are treated as hazardous until reviewed.
 
 Operating Method
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A typical Choir intervention begins when a family, witness, or community believes the official
 story has removed someone. A Silence Breaker approaches quietly. The Choir collects the disputed
@@ -318,13 +318,13 @@ If A.C.T arrives, keep one Name Bearer outside the room.
 
 A.C.T treats the final instruction as deliberate counter-containment practice.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 HISTORY WITH A.C.T
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Contact History
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T first encountered the Choir as memorial irregularities after covered incidents. Names removed from public
 casualty lists appeared in songs. Families remembered sealed locations after vigils. Witnesses who had received mild
@@ -344,7 +344,7 @@ The Choir later sent A.C.T a black-ribbon card reading:
 You buried the file. You did not bury the child.
 
 Current Relationship
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The current relationship is NEGATIVE. The Choir actively works against A.C.T memory control, normalcy narrative
 closure, and sealed casualty handling. It is not classified Negative because it loves harm. It is Negative because its
@@ -354,13 +354,13 @@ A.C.T must maintain the distinction between grief and threat. Individual relativ
 may be victims. Cantors leading active recall rites are GOI personnel. Field response
 must separate compassionate family handling from interruption of hazardous ritual.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Responsible Jurisdiction
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Primary jurisdiction rests with Intelligence Division, Civil Covert Division, Subject Care Division, and Site 03
 review. Medical Division attaches when recall causes seizure, dissociation, panic, identity rupture, or amnestic
@@ -368,7 +368,7 @@ reversal. Recovery Division attaches when Choir records contain missing-person l
 public funerals, school memorials, religious protections, or family rights restrict intervention.
 
 Posture Implementation
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T posture is INFILTRATE / MISDIRECT / CONTAIN. Infiltration is authorized for identifying active cantors, hymn
 routes, name books, and planned mass-recall events. Misdirection is authorized when public memorials must be shifted
@@ -380,7 +380,7 @@ Subject Care must be present whenever possible. Interrupting a
 memorial without survivor support can strengthen Choir recruitment.
 
 Response Limits and Red Lines
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T will not permit the Choir to perform active recall rites on minors, medically
 unstable survivors, amnestic
@@ -393,13 +393,13 @@ can be given a safer partial truth, memorial
 allowance, or protected name record without causing exposure,
 that option must be reviewed before aggressive suppression.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 OPERATIONAL RECORDS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Restricted Operational Extract
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 RECOVERED REFRAIN SHEET: CUN / NINTH REFRAIN WAKE
 LOCATION: [CENSOR: SCHOOL MEMORIAL HALL]
@@ -433,13 +433,13 @@ You will not take the name.
 
 The card was left at an A.C.T temporary evidence office. No entry breach recorded.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Confirmed Operational Facts
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - Choir of the Unforgotten Name is an outside cultic network and not an
 A.C.T body.
@@ -454,7 +454,7 @@ control and
 normalcy closure.
 
 Active Intelligence Assessment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T assesses the Choir as a specialized NEGATIVE cultic GOI. It is dangerous because
 it is emotionally credible. A
@@ -468,7 +468,7 @@ restores memory without adequate containment review. The strongest A.C.T respons
 aftercare, protected memorial options, safer truth handling, and interruption of active harmful rites.
 
 Persistent Questions
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - Did the Choir begin after an A.C.T amnestic failure, another containment authority's coverup,
 or an older religious
@@ -487,7 +487,7 @@ A.C.T?
 - Can A.C.T create protected memorial records that reduce recruitment without increasing public exposure?
 
 Intelligence Confidence
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Moderate. Recovered refrain sheets, repeated phrases, witness effects, and organized memorial
 activity confirm institutional reality. Confidence is limited by oral transmission, incomplete
@@ -495,13 +495,13 @@ active texts, protected family settings, and the difficulty of separating ordina
 trained ritual. Confidence may rise if A.C.T secures a full active hymn under controlled recording
 conditions, identifies a transnational cantor route, or confirms the origin of the Ninth Refrain.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 CROSS-REFERENCE STATUS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Anomaly and Record Relationship
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Choir of the Unforgotten Name is an organization and therefore belongs in the GOI
 archive. Individual hymns, bells,
@@ -510,7 +510,7 @@ anomaly, witness, amnestic, incident, or recovered-document files. The organizat
 aftercare or family-notification review.
 
 Related A.C.T Records
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - CONTROLLED RECORD FORM, Group of Interest Registry
 - GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE, Group of Interest Registry
@@ -524,7 +524,7 @@ Forms/ACT_Amnestic_Administration_and_Memory_Aftercare_Review_Form.md
 under Central Archive routing.
 
 Dual Filing
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Under review. The Choir is a cultic GOI, but specific refrains, bells, name books,
 recordings, or memory-shard events
@@ -532,10 +532,10 @@ may require separate filing. Dual filing is mandatory when a Choir asset produce
 safe transcription, stores hazardous testimony, causes identity
 rupture, or restores information sealed under active containment order.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FILE METADATA
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FILE CREATED:            14/02/1922
 FILE LAST UPDATED:       16/08/1932

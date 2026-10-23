@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 Gems-of-Change-AFD-OB-612
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                  Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-OB-612
 TITLE I:             Gems of Change
@@ -15,9 +15,9 @@ FIELD TYPE:          OB — Object
 
 CLEARANCE REQUIRED:  Level 3
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   REACTIVE
 
@@ -32,9 +32,9 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           CONTAINED-STUDY
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 DATE OF DETECTION:   1968-08-19
 VERIFICATION DATE:   1972-09-04
@@ -53,9 +53,9 @@ AMNESTIC DEPLOYED:   Yes — 004-C Grade.
 NARRATIVE STATUS:    Victims relocated for biological stabilization.
                      Original vault site condemned. (Archive Ref: 1974)
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 AFD-OB-612 is a 10 cm multifaceted gemstone of deep crimson coloration.
 The object’s primary anomalous trait is activated by direct human
@@ -85,9 +85,9 @@ TRANSMUTATION SEQUENCE:
    individuals typically display a high level of acceptance and
    minimal psychological distress regarding their new physical form.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Total Biological Transmutation. AFD-OB-612 forces the
                      human body into a specific intersex configuration
@@ -109,9 +109,9 @@ TEMPORAL BEHAVIOR:   Permanent / Irreversible.
 
 REALITY INTERACTION: Genetic Rewrite / Matter Transmutation.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 AFD-OB-612 is stored in a lead-lined, opaque artifact box within
 Vault 12 at ACT-SITE-01-US-W.
@@ -145,9 +145,9 @@ BREACH PROTOCOL:         The object is inert unless touched. In a
                          thief highly unlikely to drop the object.
                          Recover via non-biological means.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 Genetic analysis of subjects transformed by AFD-OB-612 shows that the
 resulting DNA is "Perfected"—it contains no hereditary diseases,
@@ -160,9 +160,9 @@ broadcast. Researchers are investigating whether this effect can be
 extracted for use in stabilizing other, more hostile anomalies during
 transport.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                       TRANSFORMATION NOTES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 CURRENT VIABILITY:       CONTAINED-STUDY
 
@@ -171,9 +171,9 @@ Proposal to use the gem for "Corrective Biological Optimization" of
 dying O5 personnel was denied. The O5 Council remains committed to the
 original Static condition despite its flaws.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 NOTE 001:
 Subject [ REDACTED ], an accidental exposure victim from 2014, has

@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 Shadow-Shark-AFD-SU-010
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-010
 TITLE I:             Shadow Shark
@@ -15,9 +15,9 @@ FIELD TYPE:          SU — Subject
 
 CLEARANCE REQUIRED:  Level 3
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   INTANGIBLE
 
@@ -32,9 +32,9 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           CONTAINED-STUDY
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 DATE OF DETECTION:   2021-05-14
 VERIFICATION DATE:   2021-05-19
@@ -52,9 +52,9 @@ AMNESTIC DEPLOYED:   Yes
 NARRATIVE STATUS:    Controlled as electrical malfunction, animal stress event,
                      and inventory clerical error
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 AFD-SU-010 is an airborne, shark-shaped shadow that moves as if swimming
 through water despite occupying open air. The anomaly has no confirmed physical
@@ -99,9 +99,9 @@ or demonstrate human-level planning. Its behavior is most consistent with a
 non-sapient predator whose body has been reduced to the condition of a shadow,
 while its appetite remains physically functional.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Air-swimming shadow form. AFD-SU-010 exists visibly as a
                      shark-shaped shadow moving through air and across surfaces
@@ -151,9 +151,9 @@ NOTES:
    - mouth boundary opens wider than normal shark anatomy should allow
    - swallowed objects do not reappear in any known waste form
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 AFD-SU-010 is contained in a sealed light-managed observation chamber with
 matte white walls, matte white flooring, adjustable overhead illumination, and
@@ -215,9 +215,9 @@ IN BREACH IF IT:
    [x] Other: Subject appears on unapproved surfaces, consumes unauthorized
               matter, or exits light-managed containment volume
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 AFD-SU-010 is classified as a subject rather than an object because it displays
 persistent autonomous movement, prey selection, feeding preference, avoidance
@@ -247,9 +247,9 @@ within 40 seconds of hearing the aperture unlock. It has also learned to circle
 beneath observation windows where staff previously dropped feed during early
 containment. This behavior is not to be rewarded.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                       TRANSFORMATION NOTES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 TRANSFORMATION ATTEMPT
 STATUS:              Limited containment-use study approved
@@ -269,9 +269,9 @@ Current transformation doctrine focuses on behavioral stabilization, safe
 feeding schedules, and determining whether the subject can be kept calm without
 increasing predatory interest toward personnel.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 NOTE 001:
 AFD-SU-010 is not a projected image. Turning off a single light source may

@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 Ball-of-Knife-AFD-OB-502
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                  Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-OB-502
 TITLE I:             Ball of Knife
@@ -15,9 +15,9 @@ FIELD TYPE:          OB — Object
 
 CLEARANCE REQUIRED:  Level 4
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   EXIGENT
 
@@ -32,9 +32,9 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           INVIOLABLE
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 DATE OF DETECTION:   1994-11-21
 VERIFICATION DATE:   1994-12-05
@@ -54,9 +54,9 @@ AMNESTIC DEPLOYED:   Yes — 004-C Grade.
 NARRATIVE STATUS:    Controlled as a localized elevator cable failure
                      and industrial industrial accident.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 AFD-OB-502 is a self-organizing mass of bladed tools and short-edged
 weaponry. The subject measures approximately 1.2 m in diameter when
@@ -90,9 +90,9 @@ ANOMALOUS PROPERTIES:
    confirmed method of inhibiting its internal wire-reconfiguration
    and preventing its movement.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Autonomous Life-Seeking Aggression. The subject
                      actively pursues and attempts to mutilate any
@@ -116,9 +116,9 @@ TEMPORAL BEHAVIOR:   Constant.
 
 REALITY INTERACTION: Biological-Contempt Logic / Matter-Generation.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 AFD-OB-502 is housed in a high-intensity magnetic vault at
 ACT-SITE-01-US-W.
@@ -158,9 +158,9 @@ BREACH PROTOCOL:         If magnetic containment fails, evacuate the
                          barriers and guide it back to a secure zone
                          using biological bait (non-sentient tissue).
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 AFD-OB-502 is not a "Tool" that became anomalous; it is a "Thought of
 Violence" that has manifested a physical body. The variety of blades
@@ -174,9 +174,9 @@ that we
 can be warm. It finds the concept of blood circulation to be a
 personal offense."
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                       TRANSFORMATION NOTES
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 CURRENT VIABILITY:       INVIOLABLE
 
@@ -185,9 +185,9 @@ Attempts to neutralize the subject's hate-response via memetic
 it cracked its previous non-magnetic containment. It is a "Pure"
 anomaly; its identity and its danger are the same thing.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 NOTE 001:
 The subject's wire-lattice has been observed to spell out the word

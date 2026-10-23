@@ -97,20 +97,37 @@ def main() -> int:
         for p in tx
         for m in re.finditer(r"(?<!\*)\*(?!\s)([^*\n]{1,120}?)(?<!\s)\*(?!\*)", read(p))
     )
-    # A house bar narrower than the widest line in its own file reads as a broken
-    # rule, so the bar must span the text it separates.
+    # A rule narrower than the widest line in its own file reads as a broken rule,
+    # so it must span the text it separates. Owner ruling 2026-10-23: measure the
+    # file's own max character count per row first, then size every rule to it.
+    # Covers both the box-bar form and the ASCII +---+ form.
+    #
+    # This gate shipped blind on its first draft. It used set(x) > set("═ "),
+    # which tests proper superset, not "is not made only of bar characters", so
+    # widest collapsed to its 0 default and the comparison could never fire. The
+    # injection audit caught it: the gate read 0 against a file holding a
+    # 9-character bar over 100 characters of text.
     r["TXT_NARROW_BAR_LINES"] = 0
+    rule_chars = set("═+- ")
     for p in tx:
         ls = read(p).split("\n")
         widest = max(
-            (len(x) for x in ls if x.strip() and set(x.strip()) > set("═ ")),
+            (len(x) for x in ls if x.strip() and not set(x.strip()) <= rule_chars),
             default=0,
         )
-        r["TXT_NARROW_BAR_LINES"] += sum(
-            1
-            for x in ls
-            if x.strip() and set(x.strip()) <= set("═") and len(x.strip()) < min(widest, 118)
-        )
+        for i, x in enumerate(ls):
+            if not (x.strip() and set(x.strip()) <= rule_chars and {"═", "-"} & set(x.strip())):
+                continue
+            # A rule flanked by pipe cell rows belongs to a box and must match the
+            # width of those cells, not the width of the file. Only a standalone
+            # separator is required to span the text it divides.
+            above = ls[i - 1].strip() if i else ""
+            below = ls[i + 1].strip() if i + 1 < len(ls) else ""
+            if above.startswith("|") or below.startswith("|"):
+                continue
+            # Below 40 characters a rule is a small label frame, not a separator.
+            if len(x.strip()) >= 40 and len(x.strip()) < min(widest, 118):
+                r["TXT_NARROW_BAR_LINES"] += 1
     r["TXT_WIDE_PROSE_LINES"] = sum(
         1
         for p in tx

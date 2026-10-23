@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 Annoyingly-Indestructible-Lizard-GRUMBLESAIL-AFD-SU-012
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-012
 TITLE I:             Annoyingly-Indestructible-Lizard-GRUMBLESAIL
@@ -15,9 +15,9 @@ FIELD TYPE:          SU — Subject
 
 CLEARANCE REQUIRED:  Level 2
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   SPORADIC
 
@@ -32,9 +32,9 @@ SUB-THREAT:          HARMLESS
 TRANSFORMATION
 VIABILITY:           NEUTRAL
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 DATE OF DETECTION:   2022-07-18
 VERIFICATION DATE:   2022-07-20
@@ -52,9 +52,9 @@ CIVILIAN EXPOSURE:   8 confirmed / 37 suspected online viewers before removal
 AMNESTIC DEPLOYED:   Limited
 NARRATIVE STATUS:    Controlled as staged animal-abuse video and digital hoax
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 AFD-SU-012 is a red reptilian entity measuring approximately 3 m from snout to
 tail. The subject resembles an oversized lizard with a heavy low body, blunt
@@ -97,9 +97,9 @@ People become irritated by the subject because of ordinary exposure to its
 persistent, inconvenient, attention-seeking actions. There is no anomalous
 compulsion to attack, approach, feed, insult, or interact with the entity.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Total bodily indestructibility. AFD-SU-012's body cannot
                      be damaged, wounded, penetrated, crushed, burned, cut,
@@ -151,9 +151,9 @@ OBSERVED BEHAVIORS:
    - sleeping under warm lamps for up to 18 hours
    - staring at people during meetings until acknowledged
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 AFD-SU-012 is housed in a low-threat reptilian subject enclosure with reinforced
 walls, heated flooring, wide drainage channels, and replaceable nonessential
@@ -210,9 +210,9 @@ IN BREACH IF IT:
    [x] Other: Subject blocks critical Facility access route for more than
               15 minutes or enters civilian-visible area
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 AFD-SU-012's primary anomaly is not aggression but impossibility of injury. The
 subject's tissue cannot be sampled by cutting, scraping, drilling, abrasion, or
@@ -238,9 +238,9 @@ punished by pain, blocked by weak barriers, physically intimidated, or removed
 by force without heavy equipment. Containment success depends on making the
 correct behavior more interesting than the incorrect behavior.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                       TRANSFORMATION NOTES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 TRANSFORMATION ATTEMPT
 STATUS:              Not recommended
@@ -258,9 +258,9 @@ increased durability.
 Current management doctrine treats AFD-SU-012 as a low-threat, high-inconvenience
 subject requiring care, redirection, and administrative patience.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 NOTE 001:
 AFD-SU-012 is not to be compared to hostile high-threat reptilian anomalies in

@@ -80,8 +80,8 @@ RSA support appears in four major roles:
 - transport stabilization inside sealed containers, heavy aircraft, intermodal shipping units, and convoy equipment;
 - breach-response stabilization when a zone is losing geometry, sequence, observation reliability, or containment-room
  identity;
- research and transformation support when an anomaly is being evaluated for conversion into system, tool, warning, or
- institutional doctrine.
+ research and transformation support when an anomaly is being evaluated
+ for conversion into system, tool, warning, or institutional doctrine.
 
 The RSA is one reason A.C.T can develop technologies from anomalies
 without every experiment becoming a new uncontrolled fracture.
@@ -472,8 +472,8 @@ This file covers only the Reality Stabilization Anchor System.
  before
  replacement becomes
  mandatory?
- Can hostile actors reproduce partial RSA effects using stolen crystal fragments or Ninefold Ark low-power seal
- patterns?
+ Can hostile actors reproduce partial RSA effects using stolen
+ crystal fragments or Ninefold Ark low-power seal patterns?
 — Does prolonged RSA exposure alter staff tolerance for unanchored spaces?
 — Are some anomalies learning to mimic baseline pulse rather than overpower it?
  Can RSA calibration hide early warning signs by making a room appear stable

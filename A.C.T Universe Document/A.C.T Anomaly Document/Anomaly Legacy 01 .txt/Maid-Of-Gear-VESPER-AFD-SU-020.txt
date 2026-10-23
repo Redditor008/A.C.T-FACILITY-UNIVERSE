@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 Maid-Of-Gear-VESPER-AFD-SU-020
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-020
 TITLE I:             Maid Of Gear-VESPER
@@ -16,9 +16,9 @@ FIELD TYPE:          SU — Subject
 
 CLEARANCE REQUIRED:  Level 4
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   REACTIVE
 
@@ -33,9 +33,9 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           CONTAINED-STUDY
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 DATE OF DETECTION:   2026-06-09
 VERIFICATION DATE:   2026-06-14
@@ -57,9 +57,9 @@ NARRATIVE STATUS:    Controlled as collapse of unidentified costumed performer
 RECOVERED MATERIAL:  Vesper_Full_Master_Database.pdf
 DOCUMENT STATUS:     Sealed / future-origin reference copy
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 AFD-SU-020 is a sentient female-presenting cybernetic subject identifying, when
 awake, as Vesper. Recovered documentation lists additional identifiers including
@@ -104,9 +104,9 @@ maid-costumed civilian, or standard cyborg. AFD-SU-020 is a future-displaced
 operative with combat conditioning, partial memory fragmentation, and equipment
 built beyond current public technological capacity.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                     RECOVERED DATABASE SUMMARY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 SOURCE FILE:         Vesper_Full_Master_Database.pdf
 HEADER:              VESPER.SYSMASTER OPERATOR DATABASE
@@ -132,9 +132,9 @@ sections use terminology not present in current A.C.T technology records. Some
 mathematical notations appear damaged. Registry context refers to organizations,
 sectors, and conflicts not yet confirmed in present history.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Temporal displacement from year 3X2X. AFD-SU-020 and the
                      recovered database appear to have crossed from a future
@@ -170,9 +170,9 @@ TEMPORAL BEHAVIOR:   Future-displaced / recovery-state dependent / defensive
 REALITY INTERACTION: Temporal Displacement / Cybernetic-Tech Impossibility /
                      Perception Camouflage / Conditional Defensive Logic.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                 PHYSICAL CAPABILITIES AND EQUIPMENT SUMMARY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 MOBILITY:
 The recovered database claims a vertical jump capability exceeding 15 m through
@@ -211,9 +211,9 @@ icons to reduce emotional interference during Omega-level clearance missions.
 A.C.T considers this system psychologically hazardous to the subject if
 reactivated without review.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 AFD-SU-020 is housed in a reinforced recovery suite designed for cooperative
 cybernetic subjects. The chamber must include nonreflective walls, shielded
@@ -274,9 +274,9 @@ IN BREACH IF IT:
    [x] Other: Subject enters defensive mode, accesses future weapon systems,
               or connects the recovered database to any networked device
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 AFD-SU-020 is a high-value future-displacement case. Unlike many temporal
 objects, the subject carries active technological systems, identity records,
@@ -303,9 +303,9 @@ present, was displaced by an external event, escaped from year 3X2X, or was sent
 as a delayed operation asset. The subject's low-metabolism recovery state
 suggests crossing was traumatic and not fully controlled.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                       TRANSFORMATION NOTES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 TRANSFORMATION ATTEMPT
 STATUS:              Suspended pending consent and stabilization
@@ -324,9 +324,9 @@ Future technology reverse-engineering is prohibited until Central Archive and
 Temporal Displacement Review determine whether extracting knowledge from
 AFD-SU-020 creates causal contamination.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 NOTE 001:
 Do not call AFD-SU-020 a robot. She has corrected this twice while still in

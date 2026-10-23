@@ -1,7 +1,7 @@
 A.C.T FACILITY ARCHIVE FILE — ANTI REALITY MESH SYSTEM
 ===========================
 TECHNOLOGY RECORD - ANTI REALITY MESH SYSTEM
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                                                         |
@@ -65,13 +65,13 @@ This record expands the short catalog entry into a working technology document.
 Aperture-node manufacture, civilian perception weighting, emergency mesh reset,
 and full normalcy routing tables remain censored under ARM FIELD DISCLOSURE LIMIT.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FUNCTION SUMMARY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Practical Function
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 ARM creates a distributed masking field across selected structures, rooms, road approaches, access doors, surface
 campuses, transport yards, and sometimes mobile containers. The field dampens attention,
@@ -95,7 +95,7 @@ expectation, delivery behavior, maintenance cover, perimeter traffic, and repeat
 make a hidden facility visible through pattern.
 
 Operational Role
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 ARM appears in five major roles:
 
@@ -112,13 +112,13 @@ ARM is therefore a normalcy technology as much as a site technology. It is
 one of the reasons A.C.T can exist inside a
 public world without every facility becoming a rumor magnet.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 ORIGIN AND CUSTODY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Development History
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The first ARM prototype was deployed in 1940 as the Silent Boundary over the
 Siena Estate, later connected to the Old
@@ -139,7 +139,7 @@ estate concealment practices, and anomaly-derived masking observations, but the 
 tablet, reset protocol, and normalcy integration are A.C.T systems.
 
 Custody
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Primary custody belongs to Engineering Division and Civil Covert Division. Engineering controls
 node installation, lattice integrity, field calibration, sensor dashboards, aperture-node
@@ -151,14 +151,14 @@ holding areas. Intelligence monitors hostile probing, false maintenance crews, a
 boundaries. Archive receives field logs because ARM can affect what staff record noticing. Logistics coordinates
 deliveries and routes through ARM-treated access points.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 
 PHYSICAL AND SYSTEM DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Mesh Nodes
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The visual reference guide describes ARM as a network of coin-sized flat copper nodes
 embedded into walls, floors, or
@@ -173,7 +173,7 @@ field. The aperture material, field weighting, civilian-perception
 tables, and lattice handshake remain Level 5 restricted.
 
 Known Components
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Known components include:
 
@@ -196,7 +196,7 @@ treat a reality-fracture as merely
 uninteresting. If an event is structurally dangerous, RSA and Containment alerts must override ARM dulling.
 
 Site and Mobile Variants
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Fixed ARM grids cover surface campuses, approach roads, exterior walls, access corridors,
 vehicle bays, delivery gates, and some administrative floors. Redwood Veil uses ARM across the
@@ -209,12 +209,12 @@ tarps, temporary doors, emergency
 tents, false maintenance barriers, and transport containers that must pass through public space without drawing
 pattern attention. Mobile ARM is not authorized for long-term concealment of active anomalies without site support.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 
 
 TECHNICAL SPECIFICATION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Node-level detail below is the identification-training set from the Visual Reference Guide. The aperture material,
 field weighting, civilian-perception tables, and lattice handshake remain Level 5 and are not restated here.
@@ -256,23 +256,23 @@ a property of node density and
 cover weighting together, and neither is published.
 
 INTERFACE AND OPERATING ENVELOPE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Controls
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - ruggedized ARM field tablet
 - green web field-visualization interface
 
 Readouts
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - node-failure red alert display
 - acoustic maintenance warning tone
 - ARM-GREEN through ARM-BLACK working states
 
 Envelope And Personnel Limits
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - Do not remove a copper node because it looks decorative.
 - Do not paint over node clusters with conductive or reflective coatings without Engineering
@@ -290,10 +290,10 @@ ARM must never suppress evacuation signals, medical alarms, fire alarms, or cont
 outranks every concealment objective.
 
 OPERATING PROCEDURE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Numbered Operating Sequence
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Standard operation, Level 4 Engineering or Civil Covert.
 
@@ -312,10 +312,10 @@ Emergency: ARM-WHITE emergency dulling is authorized during breach or evacuation
 used to hide a breach
 from internal staff, and it must never suppress an evacuation, medical, fire, or containment alarm.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Authorized Use
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Only Level 4 Engineering or Civil Covert personnel may calibrate an ARM field. Level
 3 site staff may report node
@@ -334,7 +334,7 @@ Basic deployment rule:
 MAKE THE DOOR BORING, NOT MISSING.
 
 Monitoring States
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T uses the following working labels. These are technical states, not anomaly classes:
 
@@ -350,7 +350,7 @@ hidden while the field is no longer
 carrying the story.
 
 Handling Rules
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Do not remove a copper node because it looks decorative. Do not paint over
 node clusters with conductive or reflective
@@ -359,10 +359,10 @@ ARM-WHITE to hide a breach from internal staff. Do not route civilians through a
 ARM overlap for convenience. Do
 not let ARM suppress evacuation signals, medical alarms, fire alarms, or containment warnings.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 SERVICING AND CALIBRATION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | TRIGGER                    | ACTION                                    | AUTHORITY                                 |
@@ -391,7 +391,7 @@ Maintenance is alert-driven rather than scheduled; no inspection interval is rec
 service life are both NOT MEASURED.
 
 FAULT ISOLATION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
@@ -419,10 +419,10 @@ FAULT ISOLATION
 
 
 KNOWN LIMITS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 What ARM Cannot Do
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 ARM cannot erase witnesses, cannot rewrite all records, cannot defeat high-grade hostile
 reconnaissance, cannot make a catastrophic breach harmless, cannot hide a facility after the
@@ -440,7 +440,7 @@ ARM is weakest against:
 - ARM/RSA coupling errors where a structural event is treated as a perception issue.
 
 Misuse Risk
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Overuse can produce blankness. A building nobody remembers, no delivery driver can describe, and every camera
 compresses into a gray block becomes suspicious in a different way. Underuse allows pattern
@@ -454,13 +454,13 @@ A good ARM field makes a civilian say later, I think it was just
 some office. A bad ARM field makes them say, I cannot
 remember, and then they keep trying.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FAILURE HISTORY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 SIENA ESTATE ALPHA BLEED
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The 1940 prototype succeeded at masking the Siena Estate from surface detection but produced early attention inversion
 in several local workers. Instead of noticing the estate less, they noticed the absence
@@ -471,7 +471,7 @@ adjusted to preserve ordinary estate impressions rather than suppress impression
 This event produced the first boring-not-missing principle later adopted into ARM doctrine.
 
 REDWOOD VEIL DELIVERY CONTRADICTION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A Redwood Veil surface delivery gate entered ARM-AMBER after a public courier database updated the complex as three
 incompatible businesses within the same hour. The mesh kept drivers from asking questions at the gate, but invoices,
@@ -481,7 +481,7 @@ delivering to a company name no A.C.T cover office had authorized.
 Corrective action required cover-story table repair and temporary suspension of nonessential shipments.
 
 WHITE GRAVE RESEARCH-STATION OVERLAP
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 At White Grave, ARM-WHITE was used during a storm evacuation while RSA support was
 also correcting local spatial
@@ -491,46 +491,46 @@ event as a possible ARM/RSA overlap artifact.
 
 The combined failure mode is still under review.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 DIVISION USE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Engineering Division
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Engineering owns node design, lattice installation, aperture-node service, tablet
 diagnostics, reset procedure, and physical maintenance. Engineering must certify
 any structural work that cuts, coats, drills, or reroutes mesh-bearing walls.
 
 Civil Covert Division
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Civil Covert defines cover behavior, public attention thresholds, camera compatibility, rumor management, and
 post-incident narrative cleanup. Civil Covert must review ARM changes that affect roads, signage, public records,
 contractors, or emergency services.
 
 Site Command and Containment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Site Command controls site-level ARM posture during breach, lockdown, surface
 events, and evacuation. Containment ensures ARM does not mask internal hazard
 signals or interfere with chamber monitoring. A hidden breach is still a breach.
 
 Intelligence, Archive, and Logistics
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Intelligence monitors hostile probing, false maintenance activity, pattern mapping, and GOI attempts to identify mesh
 boundaries. Archive reviews logs when staff reports, camera records, or public documents disagree about what was
 noticed. Logistics coordinates deliveries, transport routes, and mobile ARM use.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 CROSS-REFERENCES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Related A.C.T Records
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - ACT-MASTER-INDEX-50-SYSTEMS-AND-MATERIALS, Archive Record
 - Internal Engineering Record: 1598 – 2026, Archive Record
@@ -542,7 +542,7 @@ Related A.C.T Records
 - TECHNOLOGY RECORD TEMPLATE, Technology Record
 
 Technology Relationship
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The ARM system interacts with, but is distinct from:
 
@@ -555,10 +555,10 @@ The ARM system interacts with, but is distinct from:
 
 Each system requires its own individual technology record. This file covers only the Anti Reality Mesh System.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 OPEN ENGINEERING AND INTELLIGENCE QUESTIONS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - How much long-term ARM exposure changes staff expectations of public attention remains incompletely
 studied.
@@ -574,10 +574,10 @@ can redirect narrative?
 - What happens if ARM attempts to make an already famous site unremarkable after
 exposure has hardened?
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FILE METADATA
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FILE CREATED:            21/03/2026
 FILE LAST UPDATED:       18/04/2026

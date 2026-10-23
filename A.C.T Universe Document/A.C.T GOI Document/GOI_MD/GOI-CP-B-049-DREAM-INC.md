@@ -568,8 +568,8 @@ collection of dream reports as possible indicators of a source or machine-state 
 ### Confirmed Operational Facts
 
 - DREAM .INC is a large company using a distributed corporate structure.
-  The company possesses a mysterious anomalous machine that extracts Dream Nectar from at least one [REDACTED]
-  Dream-Type Anomaly.
+  The company possesses a mysterious anomalous machine that extracts
+  Dream Nectar from at least one [REDACTED] Dream-Type Anomaly.
 - DREAM .INC sells Dream Nectar as underground medicine.
   The product is sold with the claim that a consumer's wish will come
   true
@@ -654,8 +654,8 @@ removing this organizational dossier.
 - Site Map and Jurisdiction Doctrine — cross-site assignment and corporate-route response.
 - Facility Divisions, Personnel Roles, and Operational Life — Intelligence, Medical, Recovery, Containment, Civil
   Covert, and Security responsibilities.
-  Anomaly Classification Manual Archive — separate filing of the Dream-Type Anomaly, extraction apparatus, and Dream
-  Nectar material.
+  Anomaly Classification Manual Archive — separate filing of the
+  Dream-Type Anomaly, extraction apparatus, and Dream Nectar material.
 - Anomaly Log Categories In-World Explanation — controlled recovery, medical, incident, and exposure documentation.
 
 ---

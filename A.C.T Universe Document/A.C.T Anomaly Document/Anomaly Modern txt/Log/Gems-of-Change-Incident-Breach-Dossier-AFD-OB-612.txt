@@ -1,10 +1,10 @@
 A.C.T FACILITY — INCIDENT & BREACH DOSSIER
 Gems-of-Change-Incident-Breach-Dossier-AFD-OB-612
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
                 A.C.T FACILITY — INCIDENT & BREACH DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 DESIGNATION:         AFD-OB-612
 TITLE I:             Gems of Change
@@ -23,9 +23,9 @@ CONTAINMENT SITE:    ACT-SITE-01-US-W — Redwood Veil Complex
 ARCHIVE STATUS:      Active / Personnel Exposure Incident
 DOSSIER STATUS:      Open / Continuous Subject Logging
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 This dossier documents Incident 612-Alpha-1, which resulted in the
 permanent biological transmutation of Senior Researcher Maya Chen.
@@ -37,9 +37,9 @@ INCLUDED LOG TYPES:
    - Medical & Genetic Stability Review
    - Dossier Closing Statement
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
                     SECTION 001 — INCIDENT SUMMARY
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-612/INC-001
 LOG TYPE:            Accidental Exposure Report
@@ -62,9 +62,9 @@ The gemstone immediately activated. Per protocol, Researcher Chen
 initiated a self-lockdown of the vault to prevent further exposure
 to the responding security team.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
                  SECTION 002 — TRANSMUTATION TIMELINE
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-612/TLN-001
 SOURCE:              Vault 12 internal CCTV / Biometric data
@@ -87,9 +87,9 @@ T+05:00 — Transformation complete. Subject addresses the camera,
           stating: "Containment is stable. I am changed. I will
           wait for the medical team."
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
               SECTION 003 — THE PERSONAL RESPONSIBILITY LOGS
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-612/PERS-01
 AUTHOR:              Researcher Maya Chen (Subject 612-A)
@@ -127,9 +127,9 @@ physical sensation of a 5-minute DNA rewrite, they can read the
 appendix I added to the main file. I made sure to include the bit
 about the 'Static Heat' in the marrow. Every detail matters."
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 Senior Researcher Maya Chen remains a high-functioning asset to the
 Facility. Her dedication to logging her own anomalous transformation

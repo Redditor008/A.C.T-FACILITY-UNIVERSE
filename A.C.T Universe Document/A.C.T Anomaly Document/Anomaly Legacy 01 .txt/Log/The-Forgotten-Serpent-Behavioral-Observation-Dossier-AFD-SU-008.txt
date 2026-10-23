@@ -1,10 +1,10 @@
 A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
 The-Forgotten-Serpent-Behavioral-Observation-Dossier-AFD-SU-008
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
            A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-008
 TITLE I:             The Forgotten Serpent
@@ -24,9 +24,9 @@ JURISDICTIONAL AUTHORITY:  Applied Anomalous Machinery Desk / Central Archive
 ARCHIVE STATUS:      Active / machinery-cycle restricted
 DOSSIER STATUS:      Open — continuous length and plasma monitoring
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
                            CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 This dossier belongs to A.C.T Log Category VIII — Behavioral & Observation
 Dossier. AFD-SU-008 is an autonomous mechanical serpent composed of forgotten,
@@ -51,9 +51,9 @@ To track the serpent's accumulation and reduction cycle, map what it will and
 will not integrate, and hold its 3 m baseline so its appetite is observed
 rather than indulged.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
              SECTION 001 — ACCUMULATION-CYCLE OBSERVATION
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-008/OBS-001
 DATE:                2019-08-04 (detection) — ongoing
@@ -80,9 +80,9 @@ to 3 m and resumes searching.
 OBSERVED CADENCE: Average full cycle under containment lasts 19 to 36 days
 depending on available scrap volume.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
         SECTION 002 — MATERIAL-ACCEPTANCE AND REJECTION MAPPING
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-008/OBS-002
 DATE:                Standing — feeding records
@@ -112,9 +112,9 @@ by an unknown mechanism; it may respond to social or informational abandonment
 rather than material age alone. In two tests it refused to break down devices
 that still contained unsent messages.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
          SECTION 003 — PLASMA-ORGAN AND BREAKDOWN-STATE RECORD
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-008/OBS-003
 DATE:                Breakdown-state records / Test 008-D
@@ -140,9 +140,9 @@ boot sequences, audio static fragments, corrupted image headers, and
 incomplete timestamps. Researchers describe the breakdown state as "burning
 the object's last utility out of it."
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
      SECTION 004 — BASELINE STABILITY AND SELF-CORRECTION TRACKING
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-008/OBS-004
 DATE:                Standing — length telemetry
@@ -162,9 +162,9 @@ OBSERVATION NOTE: The subject has never eaten a functioning clock, but has
 integrated five broken ones. In every case, the clock hands were expelled
 during the next breakdown cycle, fused together at 12:00.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
          SECTION 005 — FEEDING DISCIPLINE AND CHAMBER PROTOCOL
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-008/OBS-005
 DATE:                Standing — 14-day feeding review
@@ -193,9 +193,9 @@ OBSERVATION NOTE: Do not leave broken equipment near the chamber door. The
 subject has repeatedly pressed its head against the lower seal when discarded
 components are stored nearby.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
               SECTION 006 — CLOSING OBSERVATION STATEMENT
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-008/OBS-CLS-001
 DATE:                2026-09-08

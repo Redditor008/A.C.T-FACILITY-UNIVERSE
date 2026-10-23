@@ -11,7 +11,7 @@ Dossier Number: FLOOR-DOSSIER-01-US-W-F-5
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard / ACT Floor Record Standard
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 Archive Note
 
@@ -31,7 +31,7 @@ what it does, how it is built, how it is run, and how the
 knowledge it
 produces flows through the entire complex.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 1. Floor Registry Identity Summary
 
@@ -51,7 +51,7 @@ standard)
 Access Posture: Clearance-gated research access
 Current Status: Active
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 2. Dossier Purpose
 
@@ -67,7 +67,7 @@ history is reconstructed. The floor is the complex's instrument for
 understanding — and understanding, at Redwood Veil, is itself a containment
 measure.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 3. Position in the Site Stack
 
@@ -91,7 +91,7 @@ F-5 studies material drawn from the holding floors under controlled
 conditions — never in place, and never without the documentation and
 authorization that research access requires.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 4. Historical Foundation
 
@@ -116,7 +116,7 @@ In its modern configuration, F-5 is the complex's analysis instrument: a
 controlled laboratory level where the site's holdings are studied under
 standards that treat knowledge as part of containment.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 5. Command and Authority
 
@@ -139,7 +139,7 @@ F-5 holds no authority over resident disposition. Its role is analytical:
 the floor may characterize, measure, and document — it may not decide what
 happens to the objects it studies.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 6. Divisional Presence
 
@@ -170,7 +170,7 @@ Archive personnel maintain F-5's research documentation: study records,
 analysis data, and findings are preserved under the Archive Division's
 custody.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 7. Physical Plant and Architecture
 
@@ -206,7 +206,7 @@ F-5 is built to the complex's laboratory standard: robust service
 infrastructure, precise environmental control, and observation architecture
 that documents every study conducted on the floor.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 8. Systems and Infrastructure
 
@@ -235,7 +235,7 @@ data is stored, backed up, and mirrored to the Archive Division under
 standards that treat research data as part of the Facility's knowledge
 estate.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 9. Security and Containment Architecture
 
@@ -265,7 +265,7 @@ F-5 maintains incident response for study events: exposure incidents,
 instrument failures, and sample-control breaches are met with the complex's
 response doctrine, with medical and containment escalation as required.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 10. Resident and Operational Holdings
 
@@ -287,7 +287,7 @@ The complex's signature holdings are studied only under the restriction sets
 that govern them. Research on high-inviolability material from F-1 proceeds
 under the deepest research restrictions — or does not proceed at all.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 11. Personnel and Duty Life
 
@@ -311,7 +311,7 @@ every study is designed before it runs, documented while it runs, and
 reviewed after it runs. The floor treats knowledge as a controlled
 substance.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 12. Floor Doctrine
 
@@ -335,7 +335,7 @@ not happen. The floor's findings are preserved, mirrored, and made
 available to the Facility's analysis estate under the Archive Division's
 custody.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 13. Incident Archive
 
@@ -344,7 +344,7 @@ incidents, instrument failures, and sample-control discrepancies. The
 development of the Digital Resonance Mapping suite — and the incidents that
 motivated it — are recorded in the complex's research history.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 14. Current Status and Projected Development
 
@@ -355,7 +355,7 @@ priorities include:
 - coordination with the Transformation and holding floors on the knowledge
   the complex's decisions require.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 15. Cross-Referenced Files
 
@@ -366,7 +366,7 @@ priorities include:
 - ACT_Site_Doctrine_and_Installation_Structure.md / .txt
 - Redwood Veil Annex Register (clearance-gated)
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 Archive Closing
 

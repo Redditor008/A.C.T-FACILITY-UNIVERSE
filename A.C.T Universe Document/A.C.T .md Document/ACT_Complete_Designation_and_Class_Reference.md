@@ -1161,8 +1161,8 @@ withheld or indirect. (DON'T MONITOR pairs with Blind Box structures and with th
 
 Every anomaly is categorized by the kind of thing containment is dealing with:
 
-  **Humanoid** — the anomaly has human form or near-human form; containment must account for person-shaped behavior,
-  communication, and care.
+  **Humanoid** — the anomaly has human form or near-human form; containment
+  must account for person-shaped behavior, communication, and care.
 — **Non-Humanoid** — the anomaly is a living or acting thing without human form.
 — **Object** — the anomaly is a thing (see OB field type, I-2).
   **Phenomenon** — the anomaly is an event, process, or condition rather than a
@@ -1597,8 +1597,8 @@ operations, and the masquerade; the anomaly scale measures an anomaly's destruct
 Secrecy Risk measures how dangerous the GOI is to the masquerade of normal life:
 
 - **VEILED** — the group operates beneath the veil and does not threaten it.
-  **LEAKING** — the group's activity creates recurring leaks of concealed information even when exposure is not its
-  goal.
+  **LEAKING** — the group's activity creates recurring leaks
+  of concealed information even when exposure is not its goal.
   **EXPOSURE-ACTIVE** — exposure is a method: the group deliberately produces public evidence of the concealed world.
 - **NORMALCY-BREACHING** — the group's existence or success would break the masquerade at scale.
 

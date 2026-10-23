@@ -3,7 +3,7 @@ An A.C.T Tale
 
 Archive Placement: ABYSS Floor auxiliary archive / post-modern designation era
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 The first rule of ABYSS access was not written on the door.
 
@@ -449,5 +449,5 @@ Or containment.
 
 A.C.T often used the same procedure for both.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 END OF TALE

@@ -1,10 +1,10 @@
 A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
 Apocalypses-NOT-Behavioral-Observation-Dossier-AFD-CH-016
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
            A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-CH-016
 TITLE I:             Apocalypses-NOT
@@ -23,9 +23,9 @@ JURISDICTIONAL AUTHORITY:  Cosmic Hazard Review / Apocalyptic Continuity Desk
 ARCHIVE STATUS:      Active / perception-hazard restricted
 DOSSIER STATUS:      Open — event-based observation maintained
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
                            CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 This dossier belongs to A.C.T Log Category VIII — Behavioral & Observation
 Dossier. AFD-CH-016 is not conventionally contained. Current containment
@@ -49,9 +49,9 @@ To track the entity's manifestation behavior, WES exposure outcomes, and
 anti-apocalyptic interference patterns without ever mistaking the perception
 of an ending for an actual one.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
         SECTION 001 — MANIFESTATION AND SHAPE-STATE OBSERVATION
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-016/OBS-001
 DATE:                2010-04-09 (detection) — ongoing
@@ -82,9 +82,9 @@ official label. Measurements during that form range from 18 cm to 15 m with
 no
 corresponding distance change.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
            SECTION 002 — WORLD-END SCENARIO EXPOSURE PROFILE
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-016/OBS-002
 DATE:                WES-016 profile — standing
@@ -114,9 +114,9 @@ MANDATORY CLARIFICATION: WES exposure does not prove AFD-CH-016 will end the
 world. It proves only that the observer's mind translated the entity into a
 world-ending image. This distinction is mandatory in all briefings.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
           SECTION 003 — ANTI-APOCALYPTIC INTERFERENCE RECORD
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-016/OBS-003
 DATE:                Event-correlated record
@@ -147,9 +147,9 @@ anomalies. Intervention is usually partial, indirect, or temporary. A.C.T does
 not interpret this as kindness; the motive — protection, territory, feeding,
 or competition — is unknown.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
     SECTION 004 — VISUAL-EXPOSURE CONTROL AND FILTERED OBSERVATION
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-016/OBS-004
 DATE:                Standing protocol
@@ -169,9 +169,9 @@ Previous weapon-lock attempts failed due to observation disagreement: teams
 could not agree which form they were targeting. Heavy containment escalation
 is prohibited unless the entity directly threatens a populated area.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
           SECTION 005 — WES TREATMENT AND CORRECTION PROTOCOL
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-016/OBS-005
 DATE:                Standing — monthly WES training review
@@ -189,9 +189,9 @@ subject in a low-stimulus room, and repeat the approved correction phrase:
 Do not call AFD-CH-016 an apocalypse in operational speech, and do not call it
 safe. Both statements are inaccurate in ways that can get personnel killed.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
         SECTION 006 — CROSS-ANOMALY NOTE AND CLOSING STATEMENT
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-016/OBS-CLS-001
 DATE:                2026-09-08

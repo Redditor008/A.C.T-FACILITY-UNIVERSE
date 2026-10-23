@@ -1,10 +1,10 @@
 A.C.T FACILITY — RECOVERY & DISCOVERY DOSSIER
 Paper-Flower-Legacy-Origin-Dossier-AFD-NB-204
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                 A.C.T FACILITY — RECOVERY & DISCOVERY DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-NB-204
 TITLE I:             Paper Flower
@@ -23,9 +23,9 @@ CONTAINMENT SITE:    ACT-SITE-04-BR-C — Verde Null Bio-Reserve
 ARCHIVE STATUS:      Active / Beneficial Anomaly
 DOSSIER STATUS:      Open / Origin Context Verified
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 This dossier contains the verified origin history of AFD-NB-204. Unlike
 many biological anomalies that emerge from the [ REDACTED ] or
@@ -39,9 +39,9 @@ INCLUDED LOG TYPES:
    - A.C.T Recovery Log
    - Dossier Closing Statement
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                  SECTION 001 — THE CREATOR PROFILE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 LOG ID:              AFD-NB-204/ORG-001
 DATE:                2019-07-10 (Retrospective)
@@ -57,9 +57,9 @@ traditional Japanese paper-folding (Origami) as a form of non-strenuous
 therapy. Staff noted that Leo possessed an "unusual intensity of focus"
 when working on botanical shapes.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                  SECTION 002 — THE ACT OF FOLDING
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 LOG ID:              AFD-NB-204/ORG-002
 DATE:                2019-05-12 (Date of Completion)
@@ -78,9 +78,9 @@ You have to feed it hope so it stays bright."
 
 Leo [ REDACTED ] expired during the treatment 14 hours later.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                  SECTION 003 — THE MOTHER’S GIFT
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 LOG ID:              AFD-NB-204/ORG-003
 
@@ -100,9 +100,9 @@ vicinity demonstrated an impossible spike in serotonin and dopamine
 levels. The "Hope Zone" was established, drawing the attention of
 undercover A.C.T observers.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                      SECTION 004 — A.C.T RECOVERY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 LOG ID:              AFD-NB-204/REC-001
 RESPONDING FIELD OPERATOR: Agent Elise Moreau
@@ -119,9 +119,9 @@ people are afraid of. This time, we took the only thing they were
 smiling at. We must ensure that the 'Purpose' of this flower is not
 lost in the archive."
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 The origin of AFD-NB-204 serves as a rare example of a "Positive
 Causal Resonance." The subject was born from a child's desire to protect

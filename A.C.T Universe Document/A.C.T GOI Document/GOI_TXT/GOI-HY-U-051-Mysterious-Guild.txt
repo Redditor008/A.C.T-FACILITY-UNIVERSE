@@ -1,6 +1,6 @@
 A.C.T FACILITY ARCHIVE FILE — GOI HY U 051 Mysterious Guild
 GROUP OF INTEREST REGISTRY - MYSTERIOUS GUILD
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 text
 +----------------------------+---------------------------------------------------------------------------------------+
@@ -68,7 +68,7 @@ AFD-SU-020
 Authority: Intelligence Division and Central Archive
 
 Archive Note
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 The Mysterious Guild is filed as a recovered, temporally displaced, and internally contradictory organization
 signature associated with AFD-SU-020, VESPER / MNT-092. A.C.T has not verified whether the Guild exists in the present
 baseline, existed in a sealed future, existed in an alternate sector structure, or was
@@ -85,13 +85,13 @@ the instruction: "MAINTENANCE OVERDUE. CONTACT GUILD REGISTRY."
 This file is deliberately written with unresolved gaps. Those gaps are not clerical failure. They are the containment
 condition. The Guild becomes more dangerous when A.C.T pretends the recovered documents form a complete history.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 IDENTITY AND INSTITUTIONAL FUNCTION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Group Function
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Mysterious Guild appears to be a sector-based authority capable of turning human survivors into engineered combat
 platforms, deploying them as OMEGA-level assets, maintaining their equipment through registry systems, controlling
@@ -109,7 +109,7 @@ behavior of all of those things
 and the confirmed identity of none.
 
 Public Presence and Concealment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 No present-day public front has been verified. No company registration, military chain, state agency, trade route,
 church body, or known anomalous market uses the Guild name in baseline records in
@@ -134,13 +134,13 @@ survive;
 - it may be hidden because the Guild is watching whether A.C.T completes the
 missing pattern.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Leadership Condition
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 No supreme leader is confirmed. The only named internal actor is Chief Surgeon Valerius,
 and the PDF only confirms that Valerius performed or authorized Lyra's surgical
@@ -152,7 +152,7 @@ maintenance instructions. This implies departments, but it does not reveal who c
 Guild charter, oath, payroll, command roster, founding declaration, or surrender condition.
 
 Internal Structure
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The following internal or associated structures are confirmed or strongly indicated by recovered material:
 
@@ -176,7 +176,7 @@ None of these layers have a confirmed present-day office, address, leader, or su
 real, dead, future-only, alternate, synthetic, or a trap written into recovered records.
 
 Membership and Recruitment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Guild appears to recruit or seize candidates from unstable sector populations. Lyra's pre-conversion record
 describes malnutrition, chronic injury, industrial exposure, gang violence, and survival behavior in the Sector 12
@@ -201,13 +201,13 @@ Recruitment remains a major plot gap. A.C.T does not know whether candidates vol
 rescued and then exploited, grown, inherited as debt, selected by anomaly compatibility, or reconstructed after
 disasters caused by the Guild itself.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Stated Belief
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Guild has not provided a doctrine statement. Its recovered archive reveals values through omissions and operating
 words. The strongest values are tactical purity, utility, survivability, record control, sector clearance, and
@@ -220,7 +220,7 @@ reflects Guild belief rather than only software design, the Guild
 may not distinguish between war, work, entertainment, and disposal.
 
 Assessed Objective
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T currently assesses the Guild's objective as the production and retention of controllable living weapons for
 sector-level conflict. The objective may extend further into social management: clearing districts, suppressing
@@ -232,7 +232,7 @@ failure, an escape, a discarded
 asset event, or a probe. Every explanation leaves a different threat behind.
 
 Anomalous Capability Assessment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Guild is assigned Engineering capability because the recovered records document advanced cybernetic,
 biological, neural, ballistic, optical, and archive systems. Confirmed or claimed systems include Synthetic O-Negative
@@ -244,7 +244,7 @@ or made anomalous only by temporal displacement. Until that distinction is resol
 Reality-Active or Structural capability, even though the possibility remains open.
 
 Secrecy and Civilian Exposure
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Guild's secrecy risk is Leaking. It is not openly exposing the anomalous world,
 but its fragments leak through
@@ -255,13 +255,13 @@ The most dangerous leak is not technical. It is biographical. If Lyra's conversi
 only face questions about VESPER. It would face questions about every institution willing to call a harmed child,
 refugee, scavenger, or survivor an asset.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Operational Regions
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Guild's region is not a normal geography. Recovered records use sector language: Sector
 12 Backwall Rim, Sector 12 Rim collapse, Sector 7 Purge, Sector 4 Purge, Middle District,
@@ -271,7 +271,7 @@ grid, corporate zone map, tactical simulation namespace, or false labels used by
 No A.C.T site has matched these regions to present-day infrastructure with acceptable confidence.
 
 Known Assets and Holdings
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Confirmed or claimed assets include:
 
@@ -293,7 +293,7 @@ Unknown holdings include the surgical theater that created VESPER, the registry 
 center, the Ghost File storage layer, and whatever authority ordered the Sector 4 Purge.
 
 Operating Method
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Guild appears to operate by converting candidates into purpose-built platforms,
 equipping them with specialized hardware, suppressing incompatible emotional responses,
@@ -304,13 +304,13 @@ The Guild's most disturbing method is not the weapon. It is the conversion of
 personhood into interface. Lyra was made
 easier to use by making reality harder for her to experience as reality.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 HISTORY WITH A.C.T
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Contact History
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T contact is indirect. The Guild is known through AFD-SU-020, the VESPERSYS Guild Database Archive PDF, VESPER
 recovery/discovery material, and the AFD-OB-312 testing log message instructing contact with Guild Registry.
@@ -320,7 +320,7 @@ lawyer, priest, machine, or broadcast has claimed VESPER since her filing under 
 unresolved. It may indicate inability, disinterest, death, distance, concealment, or patience.
 
 Current Relationship
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T treats the Guild as an unresolved hostile or unknown structural actor. A.C.T does
 not seek diplomatic contact
@@ -332,20 +332,20 @@ VESPER risks repeating the original harm. A.C.T is prohibited from reactivating 
 restoring personality suppression, or using the Gamification Protocol
 as a containment convenience without O5-level emergency authorization.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Responsible Jurisdiction
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Primary jurisdiction is held by Intelligence Division and Temporal Evidence Review Desk under ACT-SITE-01-US-W.
 Tactical Review Desk retains access to weapons-system implications. Subject Care Division controls any VESPER-facing
 interpretation of Guild material.
 
 Posture Implementation
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Monitor requires tracking all Guild, Guild Registry, GUILD_WIKI, VESPERSYS, MNT, OMEGA-KERN, Ghost File, and Vanguard
 Division references across anomaly logs, equipment messages, recovered metadata, and future-displaced hardware.
@@ -359,7 +359,7 @@ proof of a recoverable future military program. If outside actors believe the Gu
 can be contacted, they may attempt to call something that A.C.T cannot yet define.
 
 Response Limits and Red Lines
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T will not:
 
@@ -377,13 +377,13 @@ identifies VESPER as recoverable property, if a new MNT designation appears, or 
 phrase "Guild leash" occurs in
 live system logs.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 OPERATIONAL RECORDS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Restricted Operational Extract
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 text
 SOURCE:       Recovered PDF / VESPERSYS Guild Database Archive
@@ -410,13 +410,13 @@ A.C.T NOTE:   The term "leash" is treated as a coercive control marker until
               language around AFD-SU-020.
 
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Confirmed Operational Facts
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - Recovered VESPER material repeatedly names the Guild, Guild Registry, GUILD_WIKI, VESPERSYS, Vanguard Division,
 and
@@ -430,7 +430,7 @@ weapons systems.
 Comfy Protocol.
 
 Active Intelligence Assessment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T assesses that the Mysterious Guild is either a future-origin organization or a structurally displaced
 record-system attached to one. Its most likely function is the production, control, deployment, maintenance, and
@@ -439,7 +439,7 @@ evidence from one converted operative. Its practical danger is high because the 
 cross-linked, and mechanically consistent with other future-origin anomaly traces.
 
 Persistent Questions
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - Is the Guild alive, extinct, future-only, alternate, synthetic, or watching from outside A.C.T
 baseline?
@@ -475,20 +475,20 @@ request maintenance contact?
 - Is A.C.T reading a recovered archive, or is the archive reading A.C.T back?
 
 Intelligence Confidence
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Moderate regarding the Guild's connection to VESPER. Low regarding the Guild's current existence, geography,
 leadership, moral alignment, and temporal status. Confidence will change only if A.C.T recovers a second non-VESPER
 Guild operative, verifies a Guild Registry signal path, or obtains a Guild record not
 filtered through VESPERSYS.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 CROSS-REFERENCE STATUS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Anomaly and Record Relationship
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Primary cross-reference chain:
 
@@ -501,7 +501,7 @@ The Mysterious Guild is an organization record. VESPER remains an anomaly/subjec
 separate object or software filings if recovered as independent active systems.
 
 Related A.C.T Records
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - GOI Record Template and GOI Registry folder doctrine
 - AFD-SU-020 / VESPER files
@@ -510,17 +510,17 @@ Related A.C.T Records
 - Subject Care Division restraint-language restrictions
 
 Dual Filing
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Under review. The Guild itself is not yet filed as an anomaly. Individual Guild
 systems, if recovered as active
 objects or software, must receive separate AFD filing and must not be hidden inside
 the GOI record.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FILE METADATA
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 text
 FILE CREATED:            11/10/1928

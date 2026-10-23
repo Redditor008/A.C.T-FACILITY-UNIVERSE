@@ -1,10 +1,10 @@
 A.C.T FACILITY — AUDIO / VIDEO / SENSOR DOSSIER
 ITHYOS-Seismic-History-Sensor-Dossier-ENTITY-000
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------+
               A.C.T FACILITY — AUDIO / VIDEO / SENSOR DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------+
 
 DESIGNATION:         ENTITY-000 / UFD-CH-000 / AFD-CH-000
 COMMON ARCHIVE NAME: ITHYOS, THE WORLD-SLEEPER
@@ -28,9 +28,9 @@ DOSSIER STATUS:      Open / Historical seismic range archived
 TIME RANGE:          2020 back to 1950
 ORDERING METHOD:     Reverse chronological, newest to oldest
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------+
 
 This dossier belongs to A.C.T Log Category XI — Audio / Video / Sensor
 Dossier.
@@ -54,9 +54,9 @@ The official anomaly file states that minor involuntary movement during dormancy
 is sufficient to generate earthquakes approximating magnitude 3.0. This dossier
 records selected events interpreted under that doctrine.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------+
                          DOSSIER SUMMARY
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------+
 
 ITHYOS is a planetary-scale serpentiform cosmic hazard measured up to
 10 kilometers in length, with total length believed to be 10 kilometers or more,
@@ -80,9 +80,9 @@ The central rule remains:
 No event in this dossier confirms ITHYOS opening its eyes, shifting into full
 wakefulness, communicating, or acting intentionally.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------+
                  SECTION 001 — HISTORICAL SENSOR SUMMARY
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------+
 
 LOG ID:              ENTITY-000/SEI-SUM-001
 LOG TYPE:            Historical Sensor Summary
@@ -116,9 +116,9 @@ HISTORICAL TREND:
 No verified full waking event exists in this range. The record supports ongoing
 sleep-state preservation doctrine, not awakening confirmation.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------+
               SECTION 002 — REVERSE CHRONOLOGICAL SEISMIC LEDGER
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------+
 
 LOG ID:              ENTITY-000/SEI-LEDGER-001
 LOG TYPE:            Reverse Chronological Seismic Ledger
@@ -129,7 +129,7 @@ NOTE:
 This ledger records selected major or doctrinally significant events. Minor
 unclassified tremor records remain in sealed raw sensor archive.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------+
 YEAR:                2020
 EVENT CODE:          SEI-2020-Global Thread
 EVENT CATEGORY:      B / Dormant Movement Correlation
@@ -151,7 +151,7 @@ OBSERVED EFFECTS:
 INTERPRETATION:
 Dormant movement correlation. No wake-state indicator confirmed.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------+
 YEAR:                2016
 EVENT CODE:          SEI-2016-Seal Pressure Variance
 EVENT CATEGORY:      C / Access-Boundary Disturbance
@@ -171,7 +171,7 @@ INTERPRETATION:
 Access-boundary disturbance. Classified as containment-relevant due to proximity
 system response, not due to tremor strength.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------+
 YEAR:                2011
 EVENT CODE:          SEI-2011-Serpent Refusal
 EVENT CATEGORY:      D / Proximity Hazard Coincidence
@@ -193,7 +193,7 @@ Supports sovereign serpentine dominance effect described in both legacy and
 modern ITHYOS records. No further serpent-class proximity testing authorized
 under this dossier.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------+
 YEAR:                2004
 EVENT CODE:          SEI-2004-Unauthorized Descent Echo
 EVENT CATEGORY:      D / Proximity Hazard Coincidence
@@ -216,7 +216,7 @@ INTERPRETATION:
 Seismic event may have coincided with unsafe proximity influence. The record is
 not evidence of waking behavior; physical indicators confirmed dormancy.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------+
 YEAR:                1998
 EVENT CODE:          SEI-1998-Dormant Stress Roll
 EVENT CATEGORY:      B / Dormant Movement Correlation
@@ -237,7 +237,7 @@ OBSERVED EFFECTS:
 INTERPRETATION:
 Probable minor involuntary dormant movement. No escalation.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------+
 YEAR:                1989
 EVENT CODE:          SEI-1989-Eye Vision Cluster
 EVENT CATEGORY:      D / Proximity Hazard Coincidence
@@ -259,7 +259,7 @@ INTERPRETATION:
 Classic proximity vision sequence coinciding with seismic disturbance. Supports
 legacy exposure sequence. Does not indicate actual eye-opening.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------+
 YEAR:                1976
 EVENT CODE:          SEI-1976-Modern Conversion Tremor
 EVENT CATEGORY:      C / Access-Boundary Disturbance
@@ -281,7 +281,7 @@ INTERPRETATION:
 Archive conversion coincided with access-boundary fluctuation. No causal claim
 authorized.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------+
 YEAR:                1962
 EVENT CODE:          SEI-1962-Global Minor Pulse
 EVENT CATEGORY:      B / Dormant Movement Correlation
@@ -301,7 +301,7 @@ INTERPRETATION:
 Dormant movement correlation. Retained as one of the cleaner early sensor
 examples of passive planetary influence while asleep.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------+
 YEAR:                1956
 EVENT CODE:          SEI-1956-Seal Calibration Event
 EVENT CATEGORY:      C / Access-Boundary Disturbance
@@ -321,7 +321,7 @@ INTERPRETATION:
 Demonstrates that even indirect observation-system work can interact with the
 influence boundary. Supports modern restriction on direct observation.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------+
 YEAR:                1950
 EVENT CODE:          SEI-1950-Standard Baseline
 EVENT CATEGORY:      Baseline Establishment
@@ -342,9 +342,9 @@ INTERPRETATION:
 1950 provides the stable comparison baseline for later ITHYOS seismic activity.
 The phenomenon predates the ledger.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------+
               SECTION 003 — GLOBAL TREMOR CORRELATION REVIEW
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------+
 
 LOG ID:              ENTITY-000/SEI-COR-001
 LOG TYPE:            Global Tremor Correlation Review
@@ -376,9 +376,9 @@ CONCLUSION:
 The relevant question is not only "did the Earth shake?" The relevant question
 is "did the ABYSS Floor answer?"
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------+
               SECTION 004 — ABYSS FLOOR SENSOR INTERPRETATION
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------+
 
 LOG ID:              ENTITY-000/SEI-ABY-001
 LOG TYPE:            ABYSS Floor Sensor Interpretation
@@ -407,9 +407,9 @@ WORKING MODEL:
    - Containment preserves dormancy and restricts access, observation,
      excavation, biological interaction, and wake-state destabilization.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------+
                  SECTION 005 — ARCHIVE WARNING NOTICE
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------+
 
 LOG ID:              ENTITY-000/SEI-WRN-001
 LOG TYPE:            Archive Warning Notice
@@ -448,9 +448,9 @@ MANDATORY PHRASE FOR SENSOR BRIEFINGS:
                      We are measuring dormant influence.
                      We are not measuring the whole sleeper.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------+
 
 The 1950–2020 ITHYOS seismic history supports the current A.C.T doctrine that
 sleep-state preservation is containment. The entity's minor involuntary movement

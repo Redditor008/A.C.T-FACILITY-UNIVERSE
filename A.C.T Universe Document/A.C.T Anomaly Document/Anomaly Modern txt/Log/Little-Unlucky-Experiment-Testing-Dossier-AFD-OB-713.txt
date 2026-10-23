@@ -1,10 +1,10 @@
 A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
 Little-Unlucky-Experiment-Testing-Dossier-AFD-OB-713
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
               A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 DESIGNATION:         AFD-OB-713
 TITLE I:             Little Unlucky
@@ -23,9 +23,9 @@ CONTAINMENT SITE:    ACT-SITE-01-US-W — Redwood Veil Complex
 ARCHIVE STATUS:      Active / Minor Artifact
 DOSSIER STATUS:      Open / Testing logs archived
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 This dossier contains the raw testing data for AFD-OB-713, specifically
 focusing on the relationship between its mathematical failure and its
@@ -38,9 +38,9 @@ INCLUDED LOG TYPES:
    - The "Triple-Twenty" Incident Log
    - Dossier Closing Statement
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                  SECTION 001 — TELEPATHIC LEXICON LOG
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-713/TLP-001
 LOG TYPE:            Communication Mapping
@@ -51,7 +51,7 @@ following low rolls (1 through 6). Messages are received as a "small,
 almost unheard whisper" directly in the mind.
 
 ROLL RESULT | WHISPERED WORD | SUBJECTIVE EMOTIONAL TONE
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 1           | "Sorry."       | Profound Guilt
 1           | "Fail."        | Hopelessness
 2           | "Again."       | Frustration
@@ -66,9 +66,9 @@ whisper
 "Better?" indicates it perceives this as a relative success compared to
 a 1.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
              SECTION 002 — EMOTIONAL "BLEED" OBSERVATION
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-713/EMO-001
 LOG TYPE:            Field Observer Report
@@ -90,9 +90,9 @@ The die responded by rolling another 1 and whispering "Liar."
 RECOMMENDATION:
 Rollers must be rotated every 200 rolls to avoid "Pity Contamination."
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
               SECTION 003 — THE "TRIPLE-TWENTY" INCIDENT
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-713/INC-001
 DATE:                2023-08-14
@@ -124,9 +124,9 @@ the room for 10 minutes.]
 
 WHISPERED WORD:      "Useless."
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 Testing confirms that AFD-OB-713 is not a broken tool, but a sentient
 entity that has internalized its own failure. Its luck is tied to its

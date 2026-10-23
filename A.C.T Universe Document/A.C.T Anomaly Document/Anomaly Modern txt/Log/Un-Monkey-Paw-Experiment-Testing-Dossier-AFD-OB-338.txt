@@ -1,10 +1,10 @@
 A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
 Un-Monkey-Paw-Experiment-Testing-Dossier-AFD-OB-338
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
               A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 DESIGNATION:         AFD-OB-338
 TITLE I:             Un-Monkey Paw
@@ -23,9 +23,9 @@ CONTAINMENT SITE:    ACT-SITE-01-US-W — Redwood Veil Complex
 ARCHIVE STATUS:      Active / Minor Artifact
 DOSSIER STATUS:      Open / Testing logs archived
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 This dossier contains the results of "Minor Wish" trials conducted at
 Site-01 to verify the power envelope of AFD-OB-338.
@@ -37,9 +37,9 @@ INCLUDED LOG TYPES:
    - Uncurling Cycle Observation
    - Dossier Closing Statement
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
                  SECTION 001 — WISH TRIAL LOGS
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-338/TST-001
 DATE:                2019-02-04
@@ -62,9 +62,9 @@ THE IRONIC TAX:      The keys had been magnetized. Upon retrieval, they
                       stuck to the researcher’s watch and wiped her
                       access card data.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
                     SECTION 002 — THE "LUNCH" INCIDENT
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-338/INC-001
 DATE:                2021-11-12
@@ -88,9 +88,9 @@ THE IRONIC TAX:      The sandwich contained exactly 400% more mustard
 
 [TRANSCRIPT ENDS]
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
              SECTION 003 — UNCURLING CYCLE OBSERVATION
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-338/OBS-001
 LOG TYPE:            Time-Lapse Summary
@@ -104,9 +104,9 @@ room temperature drops by 0.5°C and a faint sound resembling a
 "cracking knuckle" is recorded via acoustic sensors. Once the paw is
 flat, the anomalous charge is considered restored.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 AFD-OB-338 is consistently "Minor." It does not possess the narrative
 weight to cause life-changing tragedy. It exists as a petty,

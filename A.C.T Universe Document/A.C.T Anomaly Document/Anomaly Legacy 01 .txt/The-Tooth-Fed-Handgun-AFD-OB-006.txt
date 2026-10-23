@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 The-Tooth-Fed-Handgun-AFD-OB-006
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-OB-006
 TITLE I:             The Tooth-Fed Handgun
@@ -15,9 +15,9 @@ FIELD TYPE:          OB — Object
 
 CLEARANCE REQUIRED:  Level 3
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   REACTIVE
 
@@ -32,9 +32,9 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           CONTAINED-STUDY
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 DATE OF DETECTION:   2011-09-22
 VERIFICATION DATE:   2011-10-01
@@ -51,9 +51,9 @@ CIVILIAN EXPOSURE:   11 confirmed / 3 fatalities prior to containment
 AMNESTIC DEPLOYED:   Yes
 NARRATIVE STATUS:    Controlled as illegal experimental firearm trafficking
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 AFD-OB-006 is a handgun-shaped biomechanical object externally resembling a
 worn compact semi-automatic pistol. The object's outer frame is blackened metal
@@ -95,9 +95,9 @@ shooters report the object "pulling toward" persons or objects before the
 trigger is engaged. In several incidents, AFD-OB-006 struck targets the handler
 had not seen.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Biomechanical firearm function. AFD-OB-006 replaces
                      ordinary handgun mechanisms with internal organs, tissue,
@@ -144,9 +144,9 @@ BEHAVIORAL NOTES:
    - calms when handled by personnel with slow breathing and stable pulse
    - performs best for repeated handlers, suggesting conditioning response
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 AFD-OB-006 is to be stored unloaded in a locked organic-object weapons case
 inside a reinforced object chamber. The case must contain humidity control,
@@ -202,9 +202,9 @@ IN BREACH IF IT:
    [x] Other: Object is fed outside authorization, grows ammunition, or enters
               firing grip with an unapproved handler
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 AFD-OB-006 occupies an uncertain boundary between anomalous object and
 non-natural biological organism. It is classified as OB because it remains
@@ -229,9 +229,9 @@ synthetic calcium structure. Stress imaging suggests the bone flexes before
 each shot, functioning as both skeleton and intent-transfer channel between
 handler and object.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                       TRANSFORMATION NOTES
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 TRANSFORMATION ATTEMPT
 STATUS:              Limited behavioral stabilization only
@@ -251,9 +251,9 @@ Neutralization by starvation is not authorized. Extended deprivation causes
 organic degradation, distress-like vibration, and increased risk of spontaneous
 misfire if gunpowder is later introduced.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 NOTE 001:
 AFD-OB-006 should not be called alive in operational briefings. It should also

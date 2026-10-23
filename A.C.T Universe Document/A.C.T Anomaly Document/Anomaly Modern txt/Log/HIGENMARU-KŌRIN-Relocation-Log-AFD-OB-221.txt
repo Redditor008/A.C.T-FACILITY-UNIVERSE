@@ -1,10 +1,10 @@
 A.C.T FACILITY — COMMUNICATION & INTERNAL CORRESPONDENCE DOSSIER
 HIGENMARU-KŌRIN-Relocation-Strategic-Dossier-AFD-OB-221
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
         A.C.T FACILITY — COMMUNICATION & INTERNAL CORRESPONDENCE
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 DESIGNATION:         AFD-OB-221
 TITLE I:             HIGENMARU-KŌRIN
@@ -21,9 +21,9 @@ CONTAINMENT SITE:    Site-Sub-[REDACTED]-C-Temple (Kazumi Temple)
 ARCHIVE STATUS:      Active / Relocated
 DOSSIER STATUS:      Open / Strategic Alignment Verified
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 This dossier provides the institutional reasoning for the removal of
 AFD-OB-221 from standard artifact vaulting at Site-01 and its
@@ -35,9 +35,9 @@ INCLUDED LOG TYPES:
    - Placement Protocol: The Katana Stand Anchor
    - Senior Researcher Aris Thorne: Final Authorization Note
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                     SECTION 001 — THE RESONANCE LEAK
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-221/COR-01
 DATE:                2025-02-14
@@ -54,9 +54,9 @@ an immediate resonance scan. The blade isn't just hungry; it is
 searching for a pulse it recognizes. Storing it in a room full of
 standard humans is like keeping a wolf in a nursery.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                 SECTION 002 — THE "TEMPLE" ALTERNATIVE
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-221/REL-01
 DATE:                2025-03-02
@@ -77,9 +77,9 @@ predatory frequency.
 KAZUMI has agreed to act as the "Living Anchor" for the blade, provided
 the Facility respects the boundaries of her threshold.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                  SECTION 003 — THE PLACEMENT PROTOCOL
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-221/PLC-01
 LOCATION:            Kazumi Temple / Central Inner Sanctum
@@ -100,9 +100,9 @@ REASONING:
    for "Dignity." The sword is no longer "Paperwork" in a box; it is
    a "Sovereign Asset" in a place of honor.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                  SECTION 004 — ARCHIVIST'S FINAL NOTE
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-221/THORNE-FIN
 AUTHOR:              Aris Thorne (SR-412)
@@ -120,9 +120,9 @@ is
 merely a 'Guest.' Maintain the silence. Do not send anyone to that
 Temple who doesn't know how to bow."
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 MANDATORY PERSONNEL NOTICE:
                      Access to the Kazumi Temple is restricted.

@@ -1,10 +1,10 @@
 A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
 MACHINE-Heart-Experiment-Testing-Dossier-AFD-OB-017
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
              A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-OB-017
 TITLE I:             MACHINE Heart
@@ -24,9 +24,9 @@ JURISDICTIONAL AUTHORITY:  Anomalous Machinery Review / Central Archive
 ARCHIVE STATUS:      Active / machinery-hazard restricted
 DOSSIER STATUS:      Open — delayed-feed observation only
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
                            CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 This dossier belongs to A.C.T Log Category IV — Experiment & Testing Dossier.
 AFD-OB-017 is an 8 m tall metal golem-like machine whose torso core holds a
@@ -51,9 +51,9 @@ To record everything the machine does while empty, and everything it does when
 full, so that the difference between guardianship and hunger is never guessed
 from a distance.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
    SECTION 001 — INERT-STATE VERIFICATION AND SLOT-REJECTION TESTING
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-017/EXP-001
 DATE:                2001-09-04 (verification) — ongoing
@@ -80,9 +80,9 @@ TERMINOLOGY RULE: Do not describe AFD-OB-017 as asleep when inert. Use
 "inactive" or "empty" only. Personnel exposed to the term "asleep" showed
 increased sympathy toward the object's incompleteness.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
             SECTION 002 — CHOSEN-SUBJECT COMPULSION RECORDS
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-017/EXP-002
 DATE:                Standing — incident-correlated
@@ -105,9 +105,9 @@ RESPONSE RECORD: The chosen must be redirected, physically blocked if
 necessary, and removed from line of sight. The chosen must not be allowed
 within 5 m of the anomaly under any condition.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
        SECTION 003 — HEART-SIGNAL TRANSFER ANALYSIS — STAGE ONE
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-017/EXP-003
 DATE:                Incident-correlated footage review
@@ -132,9 +132,9 @@ appears in both the subject's aura field and the machine core at the same
 time
 — a possible short-range discontinuity rather than ordinary mechanical action.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
           SECTION 004 — STAGE TWO GUARDIAN-STATE OBSERVATION
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-017/EXP-004
 DATE:                Stage Two activations on file
@@ -161,9 +161,9 @@ OBSERVED CONSTRAINTS:
      Heart-Signal removal — only Stage Two enforcement
    - Longest confirmed Stage Two activation: 11 days, 6 hours, 14 minutes
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
                   SECTION 005 — INCIDENT REVIEW 017-A
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-017/EXP-005
 DATE:                Incident 017-A — on file
@@ -183,9 +183,9 @@ and deploy remote containment units only. Do not send responders into the 3 m
 zone. Remote arms may attempt Heart-Signal separation or slot occlusion after
 the anomaly is pinned by magnetic floor braces and overhead cable restraints.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
                   SECTION 006 — CLOSING TESTING NOTE
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-017/EXP-CLS-001
 DATE:                2026-09-08

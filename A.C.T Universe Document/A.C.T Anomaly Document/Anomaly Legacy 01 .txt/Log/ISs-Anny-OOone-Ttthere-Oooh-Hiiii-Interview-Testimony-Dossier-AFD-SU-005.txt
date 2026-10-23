@@ -1,10 +1,10 @@
 A.C.T FACILITY — INTERVIEW & TESTIMONY DOSSIER
 ISs-Anny-OOone-Ttthere-Oooh-Hiiii-Interview-Testimony-Dossier-AFD-SU-005
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
              A.C.T FACILITY — INTERVIEW & TESTIMONY DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-005
 TITLE I:             ISs.. Anny… OOone Ttthere Oooh… Hiiii…..
@@ -23,9 +23,9 @@ CONTAINMENT SITE:    ACT-SITE-03-JP-E — Kurokawa Archive Node
 ARCHIVE STATUS:      Active / Subject-care restricted
 DOSSIER STATUS:      Open / Initial interview archived
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 This dossier belongs to A.C.T Log Category II — Interview & Testimony Dossier.
 The document may contain multiple related interview, testimony, and care-context
@@ -44,9 +44,9 @@ following stabilization. This dossier is not a mechanical diagnostic report. It
 records the subject's emerging identity, memory-library confusion, grief
 language, and social response patterns.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          DOSSIER SUMMARY
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 AFD-SU-005 is a sentient female-presenting android of incomplete construction.
 The subject possesses black hair, one green optical sensor, partial silicone
@@ -64,9 +64,9 @@ that AFD-SU-005 does not experience the forty-nine-year library as ordinary
 memory. She describes it as rooms, shelves, old voices, and "before-things" that
 she can access without fully understanding.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
               SECTION 001 — FIRST-WAKE CONVERSATION LOG
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-005/INT-001
 LOG TYPE:            First-Wake Conversation
@@ -241,9 +241,9 @@ Dr. Valcárcel recommends continued use of Anny as an approved informal name,
 avoidance of objectifying language, and scheduled curiosity sessions involving
 ordinary environmental phenomena.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
              SECTION 002 — CARE STAFF OBSERVATION NOTE
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-005/OBS-001
 LOG TYPE:            Care Staff Observation
@@ -267,9 +267,9 @@ Recommended phrase for distress response:
 
 Do not overuse. Subject may detect repetition as insincere.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
           SECTION 003 — PSYCHOLOGICAL REVIEW COMMENT
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-005/PSY-001
 LOG TYPE:            Psychological Review Note
@@ -289,9 +289,9 @@ process it. Staff must not confuse retrieval with comprehension.
 Care model should proceed under artificial-subject juvenile support protocol
 with added consent and mechanical maintenance accommodations.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 Current interview evidence supports classification of AFD-SU-005 as a conscious
 subject requiring care-based containment. Future additions to this dossier

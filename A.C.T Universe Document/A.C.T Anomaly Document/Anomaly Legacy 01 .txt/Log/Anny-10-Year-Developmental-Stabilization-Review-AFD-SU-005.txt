@@ -1,10 +1,10 @@
 A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
 Anny-10-Year-Developmental-Stabilization-Review-AFD-SU-005
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
              A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-005
 TITLE I:             ISs.. Anny… OOone Ttthere Oooh… Hiiii…..
@@ -24,9 +24,9 @@ CONTAINMENT SITE:    ACT-SITE-03-JP-E — Kurokawa Archive Node
 ARCHIVE STATUS:      Active / Content
 DOSSIER STATUS:      Open / Detailed Anniversary Review
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 This dossier explores the linguistic evolution of AFD-SU-005 over ten
 years. Current analysis shows that Anny has adopted a "Character-Mimicry"
@@ -44,9 +44,9 @@ INCLUDED LOG TYPES:
    - The Mentorship Pilot: Protocol and Manners (2024)
    - Anniversary Closing Note
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
              SECTION 001 — SPEECH EVOLUTION: LITERARY MIMICRY
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-005/LNG-010-EXP
 LOG TYPE:            Comparative Speech Analysis
@@ -71,9 +71,9 @@ she reads. She is 80% fluent, using the remaining 20% for her unique
           quite... agreeable today. It feels as though the static
           in my library has finally settled into a soft carpet."
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
              SECTION 002 — MAINTENANCE TRANSCRIPT: THE 92% CHOICE
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-005/MECH-020
 DATE:                2020-11-04
@@ -99,9 +99,9 @@ ANNY:                "No, Technician Pavel. But if you close the last
 
 [END TRANSCRIPT]
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
            SECTION 003 — GRIEF PROCESSING: THE LIBRARY TRANSITION
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-005/PSY-010
 DATE:                2022-08-14
@@ -124,9 +124,9 @@ ANNY:                "I think it is a very sturdy bridge. I am no longer
                       final chapter he wrote before he ran out of ink.
                       I am happy to be a well-written page, Dr. M."
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
             SECTION 004 — THE MENTORSHIP PILOT: PROTOCOL
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-005/SOC-020
 DATE:                2024-03-21
@@ -144,9 +144,9 @@ ANNY (to Subject):   "One must always insist that the researchers
                       Dignity, after all, is the best armor for those
                       of us who are... differently made."
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 The 10-year review of AFD-SU-005 shows a successful transition into
 "Literary Stabilization." By copying the manners of books, Anny has

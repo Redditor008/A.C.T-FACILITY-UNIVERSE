@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 Crystal-Butterfly-AFD-NB-325
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                  Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-NB-325
 TITLE I:             Crystal Butterfly
@@ -15,9 +15,9 @@ FIELD TYPE:          NB — Non-Natural Bio Hazard
 
 CLEARANCE REQUIRED:  Level 3 / Verde Null Bio-Reserve
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   REACTIVE
 
@@ -32,9 +32,9 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           CONTAINED-STUDY
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 DATE OF DETECTION:   2008-04-12
 VERIFICATION DATE:   2008-05-10
@@ -52,9 +52,9 @@ AMNESTIC DEPLOYED:   Yes — 004-D Grade.
 NARRATIVE STATUS:    The cavern was collapsed and declared a
                      "Geological Instability Zone."
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 AFD-NB-325 is a collective colony of anomalous lepidoptera composed
 entirely of organic crystalline structures. The colony consists of
@@ -94,9 +94,9 @@ body's internal water (H2O) to fuel a rapid crystalline
 proliferation, effectively "growing" through the subject's tissues
 until the host is biologically compromised.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Crystalline Biology. The subject is a mineral-based
                      lifeform with sentient social behaviors.
@@ -119,9 +119,9 @@ TEMPORAL BEHAVIOR:   Cyclic. Months 1-6: Breeding Season (High
 REALITY INTERACTION: Biological-Material Substitution / H2O-Triggered
                      Transmutation.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 AFD-NB-325 is housed in a "Shatter-Proof Biosphere" at
 ACT-SITE-04-BR-C.
@@ -158,18 +158,18 @@ BREACH PROTOCOL:         In the event of a swarm-breach, activate the
                          Thermal-Lure Beacons (Item 15). The
                          colony will prioritize heat over aggression.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 The "Honey Obsidian" is a high-value material for the Transformation
 Division. Its adhesive properties are rated as being 400% stronger than
 standard industrial epoxies. We are currently investigating if it can
 be used to reinforce Abyssal Masonry joints.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 NOTE 001:
 Subject has demonstrated the ability to "Recognize" Dr. Aris Thorne.

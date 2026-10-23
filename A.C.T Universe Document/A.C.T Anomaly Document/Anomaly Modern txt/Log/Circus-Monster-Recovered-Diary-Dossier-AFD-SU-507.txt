@@ -1,10 +1,10 @@
 A.C.T FACILITY — PERSONAL & RECOVERED JOURNAL DOSSIER
 Circus-Monster-Recovered-Diary-Dossier-AFD-SU-507
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
              A.C.T FACILITY — PERSONAL & RECOVERED JOURNAL
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-507
 TITLE I:             Circus Monster
@@ -23,9 +23,9 @@ CONTAINMENT SITE:    Site-Sub-[REDACTED]-PL-C
 ARCHIVE STATUS:      Active / Subject Care Restricted
 DOSSIER STATUS:      Open / Fragmentary Records Compiled
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 This dossier contains the recovered writings and mental-logs of
 AFD-SU-507. These entries were found inside her "Performance Cage"
@@ -39,9 +39,9 @@ INCLUDED LOG TYPES:
    - Post-Recovery Subjective Entries
    - Dossier Closing Statement
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                  SECTION 001 — THE PERFORMANCE JOURNAL
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-507/JNL-001
 LOG TYPE:            Recovered Fragment
@@ -71,9 +71,9 @@ Why are you not here? Why is 'he' so near?
 I say 'he's' not you.
 What else can I do?
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                     SECTION 002 — THE TYRANT’S PLEA
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-507/JNL-002
 LOG TYPE:            Trauma Reflection
@@ -93,9 +93,9 @@ It never sees us. It despises us.
 Lying so useless. We start to holler... 'Hey, get up you worthless
 Circus Monster!'"
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                   SECTION 003 — THE LION INCIDENT
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-507/JNL-003
 LOG TYPE:            Memetic Memory Recovery
@@ -119,9 +119,9 @@ I fall to the ground. I can't hear a sound.
 I look up and see you are not with me.
 Am I all alone? Where could you have gone?
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                SECTION 004 — THE "EMPTY" REALIZATION
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-507/JNL-004
 DATE:                2021-12-25
@@ -140,9 +140,9 @@ I never see them. I despise them so.
 Lying so useless. They start to holler...
 'Hey, get up you worthless Circus Monster!'"
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
           SECTION 005 — POST-STABILIZATION CREATIVE OUTPUT
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-507/JNL-005
 LOG TYPE:            Controlled Recall Manuscript
@@ -213,9 +213,9 @@ I never see them. I despise them so
 Lying so useless. they start to holler
 "Hey, get up you worthless Circus Monster!"
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 The "Circus Monster" diary provides a harrowing map of a child’s mind
 broken by anomalous exploitation. The transition from "It" to "I" in the

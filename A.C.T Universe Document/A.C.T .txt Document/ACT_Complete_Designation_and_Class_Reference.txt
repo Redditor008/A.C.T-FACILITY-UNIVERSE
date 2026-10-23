@@ -48,7 +48,7 @@ value without expansion, the working interpretation is stated openly in the entr
 - ACT_GOI_Registry_and_External_Threat_Doctrine_Archive (with Part Four)
 - ACT_Site_Registry_File_Standard, ACT_Site_Doctrine_and_Installation_Structure, ACT_Global_Site_Registry
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 PART I — ANOMALY FILE DESIGNATIONS AND CLASSES
 
@@ -59,7 +59,7 @@ field type, fracture logic, containment class, threat level, transformation
 viability, lifecycle state, clearance, hazard tags, and finally the operational
 fields (structure class, breach state, restrictions, redaction, and record state).
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 I-1 Designation Anatomy — Reading an Anomaly Designation
 
@@ -237,7 +237,7 @@ Closed numbers are numbers retired from new assignment because the previous reco
 No registry number should be reused merely because an anomaly is neutralized, lost, explained, transformed, or
 archived. The archive preserves the wound even when the wound stops moving.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 I-2 Field Type Codes
 
@@ -427,7 +427,7 @@ logic; ?.H describes anomalies whose category of existence shifts. A ?.H anomaly
 may not require fracture
 filing.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 I-3 Fracture Designation and the Fracture Index Codes
 
@@ -534,7 +534,7 @@ when standard categories no longer
 describe the anomaly honestly.
 
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 I-4 Containment Class
 
@@ -732,7 +732,7 @@ whole archive:
 text that must not be read (see I-12).
 A file that mixes the two spellings has already corrupted its own classification.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 I-5 Threat Level
 
@@ -775,7 +775,7 @@ above; GOI threat runs 0–5 and measures
 an organization's threat to A.C.T and the masquerade, not an anomaly's destructive capacity (see Part II, II-7). The
 two scales share the word "threat" and share no numbers.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 I-6 Transformation Viability
 
@@ -946,7 +946,7 @@ Do not confuse with. Transformation Viability. An anomaly may be INVIOLABLE as a
 as a lifecycle state. A different anomaly may be REPURPOSED as a viability value
 and INTEGRATED as a lifecycle state.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 I-7 Clearance Levels
 
@@ -1015,7 +1015,7 @@ file's standing access rule; a
 level marker on a redaction tells the reader that a specific passage is locked
 to that tier or higher.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 I-8 Box Class — Containment Structure Category
 
@@ -1112,7 +1112,7 @@ containment; the Box Class records the structure reality tolerates. The two must
 — for example, an INTANGIBLE anomaly held under a Monitoring Field, or a small
 INERT object in a Small Box.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 I-9 Containment Location, Condition, Exposure, and Transport Fields
 
@@ -1170,7 +1170,7 @@ Movable anomalies must be transported using REALITY STABILIZATION ANCHOR / RSA s
 the anomaly
 itself.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 I-10 Breach States
 
@@ -1201,7 +1201,7 @@ Transformation link. A file marked Content, Unstable, or under a Don't Touch / D
 See / Don't Fix standing mark is
 barred from transformation (see I-6).
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 I-11 Observation and Handling Restrictions
 
@@ -1239,7 +1239,7 @@ under stress conditions.
 not interact with the
 anomaly.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 I-12 Redaction and Suppression Markers
 
@@ -1278,7 +1278,7 @@ containment class (I-4). The distinction is load-bearing: a file that mixes the 
 classification, and a reader who treats a class as a redaction (or a redaction
 as a class) has misread the file.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 I-13 RCT Format and Its Axes
 
@@ -1313,7 +1313,7 @@ of the scale and the right value the most; the live value sits somewhere
 on that span. The span is a filing
 convenience, not a promise that classes escalate in a strict order.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 I-14 Record and File State Vocabulary
 
@@ -1428,7 +1428,7 @@ A beautiful object that primarily rewrites memory is filed with a cognitive or m
 hazard tag before a physical
 one.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 PART II — GOI DESIGNATION AND CLASSIFICATION STACK
 
@@ -1631,7 +1631,7 @@ anomalous condition is not reduced to organizational misconduct. Each dossier's 
 the ruling: dual filing required, not required, or under review.
 
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 PART III — SITE, SUB-SITE, AND FLOOR DESIGNATIONS
 
@@ -1744,7 +1744,7 @@ Do not confuse with. The ABYSS. The F-series numbers only the main floors of
 an installation; the ABYSS is a deeper
 access route, not a numbered floor, and ABYSS records carry their own access restrictions.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 PART IV — SUPPORTING RECORD AND LOG CATEGORIES
 
@@ -1896,7 +1896,7 @@ Journal, Confession Note, Survivor Diary, Automatic Writing Sample, Private Audi
 Reliability note. Personal dossiers are not automatically less reliable than formal reports. In some anomalies,
 subjective records are the only records that survive contact with the event.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 CLOSING NOTE
 

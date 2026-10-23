@@ -1,7 +1,7 @@
 A.C.T FACILITY ARCHIVE FILE — GOI BS T 027 Anstrall Market
 ===========================
 GROUP OF INTEREST REGISTRY - ANSTRALL MARKET
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                                                         |
@@ -76,10 +76,10 @@ transaction itself is the common purpose.
 ==============================================================================
 
 IDENTITY AND INSTITUTIONAL FUNCTION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Market Is a Structure, Not a Single Location
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The name Anstrall Market does not reliably describe one building, one auction room, one
 warehouse, or one network
@@ -98,7 +98,7 @@ headquarters-based syndicate. It materializes wherever a seller can be connected
 item, and both parties believe the exchange will remain more profitable than its risks.
 
 The Leadership Identity: Anstrall
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Known leadership is limited to a mysterious individual referred to as Anstrall. No
 verified public identity, legal name, nationality, residence, organizational
@@ -118,7 +118,7 @@ Market remains filed as an organizational GOI only. If such evidence is confirme
 rule applies and an AFD record must be created without replacing this organizational archive.
 
 Business Alignment and the Meaning of Trade
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Market's Alignment Class is Trade. This does not mean that A.C.T recognizes it
 as a lawful partner, a neutral
@@ -138,10 +138,10 @@ commerce to become a protected supply line for the anomalous world's worst actor
 ==============================================================================
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Functional Layers
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Anstrall Market is assessed as a layered commercial system. Individual roles are frequently hidden behind
 temporary aliases, ordinary business fronts, informal social contacts, or deliberately incomplete agreements. The
@@ -221,10 +221,10 @@ mundane participants can be used without receiving enough knowledge to identify 
 ==============================================================================
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Transaction Cycle
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 While no single Market transaction can be assumed to follow a fixed
 sequence, Intelligence Division recognizes a recurring cycle:
@@ -257,7 +257,7 @@ a rival GOI or a desperate
 client willing to use force.
 
 Valuation Does Not Equal Understanding
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Market is proficient at assigning price without necessarily understanding consequence. An object that produces a
 visible, repeatable effect may be considered highly valuable even if its secondary effects are unknown. An item that
@@ -272,7 +272,7 @@ interference. The Market measures demand. Facility doctrine measures what the ob
 people, information, and structural stability.
 
 Demonstrations and Controlled Proof
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Market proof procedures are a particular danger. A buyer who does not trust a
 seller may demand a demonstration. The
@@ -287,7 +287,7 @@ learn whether the claimed effect is
 real if containment risk becomes immediate.
 
 Exposure-Active Condition
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Market is classified EXPOSURE-ACTIVE because its ordinary purpose expands the number of people who know enough
 about anomalies to seek, sell, or exploit them. A controlled Site keeps dangerous knowledge narrow. A market turns
@@ -305,10 +305,10 @@ new buyers, new leaks, and new hostile opportunities.
 ==============================================================================
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Known Assets
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Market's known assets are best described as commercial capacities rather than fixed property. They include:
 
@@ -328,7 +328,7 @@ asset is the Market's ability to make an anomalous object appear obtainable to s
 with enough value to offer.
 
 Holdings and Physical Presence
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 No single permanent Market holding is confirmed as the complete center of operations. Temporary exchange locations,
 storage points, broker offices, and transit assets must be analyzed as parts of a
@@ -347,7 +347,7 @@ The answer may require seizure, surveillance, controlled substitution, or a stag
 not appropriate for every Market node.
 
 Transnational Reach
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Market's Reach Class is TRANSNATIONAL because it can move interest, goods, and information across jurisdictional
 boundaries. Its commerce is not limited to one state system, one city, or one
@@ -368,10 +368,10 @@ immediately enough that another Site does not unknowingly pursue the same object
 ==============================================================================
 
 HISTORY WITH A.C.T
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Record Formation and Recurrent Interdiction
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The earliest verified common-contact sequence remains restricted because individual trade cases often contain active
 route, seller, buyer, and custody information. The Market was not entered into the registry because one seller
@@ -395,10 +395,10 @@ once it begins protecting commerce instead, it has ceased to serve A.C.T doctrin
 ==============================================================================
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Purpose of the Dual Posture
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T posture toward the Anstrall Market is MONITOR / APPROPRIATE. The two terms are
 linked.
@@ -419,7 +419,7 @@ Facility personnel are not traders. They are containment personnel operating nea
 objects being traded cannot be left to private ownership.
 
 Primary Jurisdiction: Redwood Veil Complex
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 ACT-SITE-01-US-W / Redwood Veil Complex maintains the primary file jurisdiction because its operational doctrine
 includes high-density urban artifact interdiction, black-market interception, security routing, and active GOI
@@ -443,7 +443,7 @@ whether an observed commercial contact is a genuine Market link, an unrelated
 criminal operation, a hostile deception, or an A.C.T-controlled approach.
 
 Controlled Contact Rules
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Any approved controlled contact with the Market must comply with the following restrictions:
 
@@ -465,7 +465,7 @@ public exposure, uncontrolled
 anomaly transfer, hostile acquisition, or compromise of a Site or personnel identity.
 
 Recovery and Appropriation Procedure
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 When an anomalous object is identified within a Market transaction, the first duty is
 to preserve containment. The
@@ -494,10 +494,10 @@ surrounding that object may continue to seek a replacement.
 ==============================================================================
 
 OPERATIONAL RECORDS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Controlled Exchange Observation - Restricted Extract
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A broker-linked contact arranged indirect proof of an anomalous object's availability through partial documentation
 rather than a live showing. Intelligence Division preserved observation long enough to identify the expected handler,
@@ -509,7 +509,7 @@ was not immediately exposed. The operation provided useful route intelligence wi
 the sake of a larger investigation. This balance remains the governing condition for Monitor / Appropriate posture.
 
 Catalogue Containment Review - Restricted Extract
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A recovered Market catalogue used ordinary collector language to describe objects whose effects had been minimized,
 exaggerated, or deliberately obscured. Archive review found that several entries could function as recruitment or
@@ -522,10 +522,10 @@ buyer. Containment of market information is part of containment of market object
 ==============================================================================
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Threat Level 3 Assessment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Market's Threat Level 3 reflects high ongoing harm potential rather than an openly
 declared intention to destroy
@@ -541,7 +541,7 @@ disappears, a seller still has an object. If a route closes, demand may create
 a new route.
 
 Relationship to Other GOIs
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Market must not be presumed allied with any other GOI simply because it
 sells material to or receives material
@@ -558,7 +558,7 @@ restrictions during major recovery actions. They are not authorized to negotiate
 material as a government asset.
 
 Persistent Intelligence Questions
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - Is Anstrall a singular person, a protected succession identity, or a commercial fiction
 maintained by multiple
@@ -578,7 +578,7 @@ to remain in circulation?
 - What point of pressure would disrupt demand rather than merely relocate supply?
 
 Standing Restriction Order
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Anstrall Market is not to be used as an informal procurement channel. No
 A.C.T employee, contractor, liaison, or
@@ -594,10 +594,10 @@ from being reduced to private commodities, even when the commodity appears usefu
 ==============================================================================
 
 CROSS-REFERENCE STATUS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Anomaly and Record Relationship
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 No single anomaly is permanently assigned to the Anstrall Market record. The Market's commercial pattern is associated
 with many object-custody chains, and a permanent consolidated list would become a catalogue of recoverable targets for
@@ -612,7 +612,7 @@ file without replacing its
 trade-structure analysis.
 
 Related A.C.T Records
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - GOI Registry and External Threat Doctrine Archive - classification, trade alignment, and Monitor
 / Appropriate
@@ -624,7 +624,7 @@ posture authority;
 ==============================================================================
 
 FILE METADATA
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FILE CREATED:            10/01/1946
 FILE LAST UPDATED:       21/09/1947

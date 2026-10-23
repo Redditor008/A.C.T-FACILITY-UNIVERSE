@@ -1,10 +1,10 @@
 A.C.T FACILITY — RECOVERED DOCUMENT & ARCHIVE DOSSIER
 The-Ledger-of-the-Thrones-of-Men-Recovered-Document-Archive-Dossier-AFD-OB-021
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
          A.C.T FACILITY — RECOVERED DOCUMENT & ARCHIVE DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-OB-021
 TITLE I:             The Ledger of the Thrones of Men
@@ -25,9 +25,9 @@ JURISDICTIONAL AUTHORITY:  Central Archive Administration / Historical Anomaly
 ARCHIVE STATUS:      Transcribed / original sealed
 DOSSIER STATUS:      Closed recovery / open custodial record
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
                            CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 This dossier belongs to A.C.T Log Category VII — Recovered Document & Archive
 Dossier. AFD-OB-021 is a large bound historical ledger, 42 cm by 29 cm by
@@ -54,9 +54,9 @@ CATEGORY PURPOSE:
 To preserve the recovery record, entry register, and custodial doctrine of the
 only surviving sovereign-chain continuity connected to AFD-SU-009.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
     SECTION 001 — RECOVERY RECORD — HORNED LEDGER RETRIEVAL (1976)
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-021/ARC-001
 DATE:                1976-11-02 (detection) / 1976-11-13 (verification)
@@ -78,9 +78,9 @@ original ledger remains sealed. Its opening transcribed title reads:
 Men,
 Passed Hand to Hand From Sovereign to Sovereign, in Silence."
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
   SECTION 002 — SOVEREIGN-CHAIN MECHANISM — THE CHAPTER-DUTY RESPONSE
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-021/ARC-002
 DATE:                Standing — mechanism study
@@ -110,9 +110,9 @@ surface, dries into dust, and falls away within 4 to 12 minutes. Inherited
 title, archive duty, bloodline, ledger possession, and secondhand knowledge
 are all insufficient by themselves.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
         SECTION 003 — RECOVERED TEXT REGISTER — ENTRY SUMMARIES
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-021/ARC-003
 DATE:                Transcription review
@@ -141,9 +141,9 @@ FINAL LINE:
 "THE CHAIN HOLDS. ADD THY CHAPTER AS THE DUTY DEMANDS. HER MAJESTY REMAINS
 UNAWARE OF IT. (She is aware. She pretends not to be.)"
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
       SECTION 004 — CORRECTIVE TITLE PRESSURE — MARGINALIA RECORD
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-021/ARC-004
 DATE:                Standing — same-cabinet effect
@@ -162,9 +162,9 @@ CUSTODIAL RULE: Personnel reading the ledger must not mock, parody, or
 deliberately misaddress AFD-SU-009 while the book is open; the correction
 effect becomes more active when disrespectful phrasing is written nearby.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
          SECTION 005 — CUSTODIAL DOCTRINE AND NON-INTERFERENCE
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-021/ARC-005
 DATE:                Standing
@@ -193,9 +193,9 @@ CUSTODIAL NOTES:
    - Digitization is permitted only through sealed non-networked scans;
      digital copies do not reproduce the chapter-duty effect
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
                 SECTION 006 — CLOSING ARCHIVE STATEMENT
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-021/ARC-CLS-001
 DATE:                2026-09-08

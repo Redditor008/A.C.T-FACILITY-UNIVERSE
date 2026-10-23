@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 Hang-Snake-AFD-SU-902
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                  Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-902
 TITLE I:             Hang Snake
@@ -15,9 +15,9 @@ FIELD TYPE:          SU — Subject
 
 CLEARANCE REQUIRED:  Level 3 / Site-02 Command
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   REACTIVE
 
@@ -32,9 +32,9 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           NEUTRAL
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 DATE OF DETECTION:   1992-10-31
 VERIFICATION DATE:   1992-11-15
@@ -55,9 +55,9 @@ AMNESTIC DEPLOYED:   Yes — Early Selective Forgetting.
 NARRATIVE STATUS:    The incident was suppressed as a structural
                      collapse and subsequent localized riot.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 AFD-SU-902 is a sentient serpentine entity composed entirely of
 weathered hemp rope, historically identified as a hangman’s noose.
@@ -89,9 +89,9 @@ ANOMALOUS PROPERTIES:
    absorbed matter is used to maintain the "Freshness" of the hemp
    fibers, preventing rot or fraying despite its age.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Predatory Material Mimicry. The subject functions
                      as a living animal while composed of inorganic
@@ -114,9 +114,9 @@ TEMPORAL BEHAVIOR:   Constant.
 REALITY INTERACTION: Matter-to-Fiber Transmutation / Bio-Mechanical
                      Hybridization.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 AFD-SU-902 is housed in a "Sanded-Steel" biological vault at
 ACT-SITE-02-RU-N.
@@ -157,9 +157,9 @@ BREACH PROTOCOL:         In the event of a breach, utilize Causal
                          Pale Wood Scalpels (Item 14) if
                          disarticulation is necessary.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 AFD-SU-902 appears to be an "Echo of Justice" that has gained
 biological agency. Its material composition is non-anomalous, but
@@ -171,9 +171,9 @@ biological sense; it "Incorporates." It is as if the rope is trying
 to grow its own history by absorbing the bodies of those who were
 meant to be its victims.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 NOTE 001:
 Subject demonstrates an intense "Scent-Fixation" on personnel who

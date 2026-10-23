@@ -1,10 +1,10 @@
 A.C.T FACILITY — EXPLORATION & SURVEY DOSSIER
 Dark-World-Door-Expedition-Log-AFD-PL-932
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                 A.C.T FACILITY — EXPLORATION & SURVEY
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 DESIGNATION:         AFD-PL-932
 TITLE I:             Dark World Door
@@ -24,9 +24,9 @@ CONTAINMENT SITE:    ACT-SITE-02-RU-N — White Grave Station
 ARCHIVE STATUS:      Active / Extradimensional Survey
 DOSSIER STATUS:      Open / Exploration Records Compiled
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 This dossier contains the audio-visual and sensory logs from
 Expedition Pale-01, the first authorized manned mission through
@@ -41,9 +41,9 @@ INCLUDED LOG TYPES:
    - Biological Encounter: Bones Hound Pack Alpha
    - After-Action Report: The "Blue Haze" Extraction
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                 SECTION 001 — THRESHOLD ENTRY
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 LOG ID:              AFD-PL-932/EXP-01
 DATE:                1985-02-14
@@ -71,9 +71,9 @@ SOKOLOV (Comms):     "The air feels... heavy. My suit's pressure-alarm is
               "Pale Woods" approx. 200m from the door. Every footstep
               emits a faint, metallic crunching sound.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                 SECTION 002 — THE PALE WOOD SURVEY
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 [00:45:00] — Team reaches the forest edge. The trees are 12-15m tall,
               lacking bark. The trunks are smooth, pale, and cold.
@@ -89,9 +89,9 @@ NOVAK (Field Note):  "I struck a branch with my tactical knife. No
               detectable wind in this dimension. It feels like
               coarse copper wire.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                  SECTION 003 — THE RED RIVER BANK
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 [02:30:00] — Team arrives at the bank of the "Red River." The liquid is
               viscous and deep crimson. It emits a constant, low-
@@ -107,9 +107,9 @@ VEYR (Analysis):     "Acid sensors are pegged. It's roughly 20% HCl-
               The acid from its limbs causes a minor hiss as it
               touches the wood, but no damage occurs.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                 SECTION 004 — BIOLOGICAL ENCOUNTER
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 [03:12:00] — ALERT. Acoustic sensors record a high-pitched, rattling
               vibration from the tree-line.
@@ -136,9 +136,9 @@ SOKOLOV (Comms):     "They're pack-hunting. They're trying to circle
               heat appears to cause immediate "Cooking" of the flesh
               on their necks. The pack retreats into the shadows.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                SECTION 005 — EXTRACTION & AUDIT
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 [04:00:00] — Team returns to the threshold. Sokolov initiates the
               "Dry-Cleaning" protocol to ensure zero Blue Dirt residue.
@@ -152,9 +152,9 @@ internal seal and touched a grain of Blue Dirt. The boot had to be
 amputated via gold-shear to save the subject's foot from being
 integrated into the hardening block.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 Expedition Pale-01 confirms that AFD-PL-932 is a gateway to a
 resource-rich but lethally hostile environment. Future expeditions

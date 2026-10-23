@@ -298,10 +298,10 @@ User prompt received: `p`.
 
 Patch Saver compliance action:
 
-  Branch state initially drifted back to the old `22c3ec5` main-base workspace with many stale modifications and
-  untracked files.
-  Corrected state by fetching `origin` for the active session branch, hard-resetting to `FETCH_HEAD`, and cleaning
-  untracked files.
+  Branch state initially drifted back to the old `22c3ec5` main-base
+  workspace with many stale modifications and untracked files.
+  Corrected state by fetching `origin` for the active session branch,
+  hard-resetting to `FETCH_HEAD`, and cleaning untracked files.
 — Current confirmed restored HEAD is `8257ae6fdb601a6f393fae78313fed4ae516d8de`,
 commit title `Update technology phase patch saver`.
 — Working tree was clean immediately after restore, before this Patch Saver update.
@@ -1317,8 +1317,8 @@ Immediate next work after this prompt:
 - Commit and push this batch.
 - Explicit-refspec fetch verify local/remote/FETCH_HEAD match.
 - If successful, next A.C.T-origin technology number will be `TECH-ACT-133`.
-  Four obvious confirmed site/floor technology candidates remain after this batch before the immediate site/floor pass
-  is exhausted.
+  Four obvious confirmed site/floor technology candidates remain
+  after this batch before the immediate site/floor pass is exhausted.
 
 ## Post-Push Verification Update — 2026-09-16
 Technology batch commit completed and pushed:
@@ -1358,9 +1358,8 @@ Required continuation state:
   as `132/136` complete before new drafting, with `4/136`
   remaining before this prompt's work.
 — Next A.C.T-origin technology number is `TECH-ACT-133`.
-— Continue main A.C.T technology from existing A.C.T source material before GOI technology. Answer the
-user's count in direct `X/X` form and distinguish immediate confirmed A.C.T site/floor pass from later
-  optional extraction passes.
+— Continue main A.C.T technology from existing A.C.T source material before GOI technology. Answer the user's count
+in direct `X/X` form and distinguish immediate confirmed A.C.T site/floor pass from later optional extraction passes.
   Read the next selected source documents fully or by complete non-truncated targeted reads before drafting.
 — Keep manual/direct record creation for this continuation pattern, not generator-script drafting. — Validate word
 counts, final newlines, TXT formatting, stale designation strings, E-Class wording, unwanted out-of-world wording,
@@ -1440,8 +1439,8 @@ Next prompt start action remains mandatory:
   Read White Grave F-1 The Long Sleep fully or by complete non-truncated targeted
   reads
   before drafting `TECH-ACT-136`.
-  Continue source-backed main A.C.T technology records before GOI technology unless user redirects after the immediate
-  site/floor pass completes.
+  Continue source-backed main A.C.T technology records before GOI technology
+  unless user redirects after the immediate site/floor pass completes.
 
 ## Prompt Start Update — 2026-09-16, Continue After `TECH-ACT-135`
 New user prompt received: `p`.
@@ -2760,8 +2759,8 @@ Repair applied to the Markdown edition:
   were never treated as
   headings.
 — Left headings already at H6 in place; none were encountered.
-  Guarded every file with two assertions: marker-stripped text must be byte-identical before and after, and the result
-  must contain exactly one H1.
+  Guarded every file with two assertions: marker-stripped text must be
+  byte-identical before and after, and the result must contain exactly one H1.
 
 Result: `208` files restructured, `5278` headings demoted, `git diff --numstat` reporting `5278` added and
 `5278`
@@ -7162,9 +7161,8 @@ after stripping every punctuation character.
 ### Three new gates, and proof they fire
 
 `TXT_MD_RULE_LINES`, `TXT_MD_ITALIC_SPANS`, `TXT_NARROW_BAR_LINES` — all read **0** now. Run against
-the pre-fix state they would have read **3,584** and **91**, so they are proven to catch what the old
-four missed. The 93 against 91 gap is per-line matching in the fix against whole-text matching in
-the gate.
+the pre-fix state they would have read **3,584** and **91**, so they are proven to catch what the old four
+missed. The 93 against 91 gap is per-line matching in the fix against whole-text matching in the gate.
 
 `TXT_NARROW_BAR_LINES` exists because of a mistake made and corrected in this same batch: the new
 bars were first reported as narrower than the text they separate. They were not — all **6,050** bars
@@ -7192,4 +7190,75 @@ were fine. The gate now holds that invariant so it cannot drift.
 The house is split on the separator itself. The reference twin uses `+---+` boxes with no `═` at
 all, while **6,050** bar lines across **305** files use `═`. Both read as house style in their own
 document family, so unifying them was left to the owner rather than decided here.
+
+## Prompt End Update — 2026-10-23, Separator Unified Onto ASCII At File-Measured Width; Gate Suite Audited
+
+Owner ruling on the open separator fork: unify everything onto the `+---+` form, but count each
+file's own width first so the rule becomes the max character count per row for anything using a text
+table or text box.
+
+### The gate audit came first, and it found a blind gate
+
+Every one of the 15 defect gates was tested by injecting the exact defect it claims to catch into a
+copy of the corpus and confirming the number moves. **13 fired on the first pass.**
+
+`TXT_NARROW_BAR_LINES`, added the previous batch, was **blind**. It used `set(x) > set("═ ")`, which
+tests proper superset rather than "is not made only of bar characters". Almost no line qualifies, so
+`widest` fell through to its `0` default, `min(0, 118)` made the threshold `0`, and no length could
+ever be less than it. The gate read `0` against a file holding a 9-character bar over 100 characters
+of text.
+
+**That same bug was in the measurement quoted in the previous report.** The claim that "all 6,050 bars
+are 71 wide and 0 are narrower than their file's widest line" was produced by the blind checker. The
+corrected figure is **5,870 bars across 289 files that were narrower than their content.** The
+previous report was wrong and this entry withdraws it.
+
+Two further gates, `TXT_WIDE_PROSE_LINES` and `MD_WIDE_PROSE_LINES`, first appeared blind. They were
+not — the injection payload was 80 characters against a 118 limit. Re-tested at 200 characters, both
+fire. **Final result: 15 of 15 fire.**
+
+The rewritten gate now distinguishes a standalone separator from a box rule. A rule flanked by pipe
+cell rows belongs to a box and must match those cells, not the file; a rule under 40 characters is a
+small label frame. Verified three ways: **0** on the clean corpus, **1** on an injected narrow
+standalone rule, **0** on the same narrow rule placed inside a box.
+
+### The separator conversion
+
+Width was measured per file before anything was written, exactly as ruled: the widest content line,
+capped at 118, floored at 40. Every `═` bar became a `+---+` rule at that file's own width, so the
+rule spans the text it separates instead of stopping short.
+
+| MEASURE | BEFORE | AFTER |
+|---|---|---|
+| `═` bars in `.txt` | 6,050 | **0** |
+| box-drawing characters in `.txt` | 126 | **0** |
+| files converted | — | 305 |
+| rule widths chosen | 71 fixed | **34 distinct, 70 to 118** |
+| `TXT_NARROW_BAR_LINES` | 5,870 | **0** |
+
+The 34 distinct widths are the point: a fixed 71 was wrong for most files. 2,559 bars landed at the
+118 cap and 682 at 81, and the rest spread across the range their own content demanded.
+
+The 126 box-drawing characters were `╔═══╗` label frames in three RCT format files, converted to the
+ASCII form with the rest.
+
+**306 files changed, 0 corpus files whose words changed.** The one file the token comparison flags is
+`corpus_numbers.py` itself, where the code was edited deliberately. The re-flow was re-run afterwards
+and rebalanced 34 further files.
+
+### Gates after the conversion
+
+| GATE | RESULT |
+|---|---|
+| `DOCUMENT_COUNT` | 1002 |
+| `TXT_NARROW_BAR_LINES` | 0, was 5,870 |
+| `TXT_MD_RULE_LINES` / `TXT_MD_ITALIC_SPANS` | 0 / 0 |
+| `TXT_BOLD_FILES` / `TXT_LINK_FILES` / `TXT_BACKTICK_FILES` / `TXT_MD_HEADING_FILES` | 0 / 0 / 0 / 0 |
+| `TXT_WIDE_PROSE_LINES` / `MD_WIDE_PROSE_LINES` | 0 / 0 |
+| `RECORDS_NOT_ONE_H1` / `BAD_EOF` / `ODD_FENCE` | 0 / 0 / 0 |
+| `TECH_UNPAIRED_TWINS` | 0 |
+| `STORY_MANUSCRIPT_LOCKSTEP_FAILURES` | 0 |
+| `ROOT_FOLDERS_WITHOUT_README` | 0 |
+| injection audit | 15 of 15 gates fire |
+| `PATCH_SAVER_ENTRIES` | 105 |
 

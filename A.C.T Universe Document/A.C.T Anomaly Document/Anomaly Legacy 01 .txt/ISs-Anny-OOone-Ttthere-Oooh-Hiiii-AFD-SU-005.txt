@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 ISs-Anny-OOone-Ttthere-Oooh-Hiiii-AFD-SU-005
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-005
 TITLE I:             ISs.. Anny… OOone Ttthere Oooh… Hiiii…..
@@ -15,9 +15,9 @@ FIELD TYPE:          SU — Subject
 
 CLEARANCE REQUIRED:  Level 3
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   SPORADIC
 
@@ -32,9 +32,9 @@ SUB-THREAT:          HARMLESS
 TRANSFORMATION
 VIABILITY:           STABILIZED
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------+
 
 DATE OF DETECTION:   2016-02-08
 VERIFICATION DATE:   2016-02-16
@@ -51,9 +51,9 @@ CIVILIAN EXPOSURE:   3 confirmed
 AMNESTIC DEPLOYED:   Limited
 NARRATIVE STATUS:    Controlled as illegal robotics project and estate dispute
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------+
 
 AFD-SU-005 is a sentient and conscious female-presenting android of incomplete
 construction. The subject measures 143 cm in height and weighs 61 kg. Its
@@ -103,9 +103,9 @@ The phrase appears to have been formed from damaged emergency-call attempts,
 unfinished speech-model training files, and spontaneous social greeting
 behavior.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Spontaneous post-creator sentience. AFD-SU-005 became
                      alive, self-aware, and emotionally responsive after its
@@ -151,9 +151,9 @@ ELECTRONIC EFFECTS:
    predictive with perfect accuracy, but often contain words the subject uses
    within the following minute.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------+
 
 AFD-SU-005 is housed in a low-security artificial subject suite modified for
 humanoid mechanical maintenance and child-developmental psychological support.
@@ -215,9 +215,9 @@ IN BREACH IF IT:
    [x] Other: Subject accesses unauthorized external communication networks
               or leaves assigned artificial subject suite without escort
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------+
 
 AFD-SU-005 is not considered dangerous by intent. The threat rating reflects
 public normalcy risk, unknown origin of consciousness, possible archive misuse,
@@ -246,9 +246,9 @@ range. She has learned to request privacy, refuse painful maintenance, identify
 basic emotions, and distinguish stored knowledge from lived experience. These
 findings support continued stabilization rather than neutralization.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------+
                       TRANSFORMATION NOTES
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------+
 
 TRANSFORMATION ATTEMPT
 STATUS:              Stabilization ongoing
@@ -268,9 +268,9 @@ Repurposing is not authorized. Integration into normal Facility operation may
 be reconsidered only after long-term maturity assessment and independent
 consent review.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------+
 
 NOTE 001:
 Staff are reminded that AFD-SU-005 is not to be called "it" in direct care

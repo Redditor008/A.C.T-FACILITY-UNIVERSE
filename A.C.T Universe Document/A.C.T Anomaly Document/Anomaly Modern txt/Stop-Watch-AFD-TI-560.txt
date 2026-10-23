@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 Stop-Watch-AFD-TI-560
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                  Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 DESIGNATION:         AFD-TI-560
 TITLE I:             Stop-Watch
@@ -15,9 +15,9 @@ FIELD TYPE:          TI — Time
 
 CLEARANCE REQUIRED:  Level 4 / O5-Restricted
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   REACTIVE
 
@@ -32,9 +32,9 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           STABILIZED / REPURPOSED
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 DATE OF DETECTION:   1956-08-20
 VERIFICATION DATE:   1958-03-12
@@ -52,9 +52,9 @@ AMNESTIC DEPLOYED:   Yes — Early Selective Forgetting.
 NARRATIVE STATUS:    The item was replaced with a non-anomalous 19th-
                      century timepiece.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 AFD-TI-560 is an ornate golden pocket-watch measuring 5 cm in diameter.
 The casing is composed of 18k gold and features intricate engravings
@@ -82,9 +82,9 @@ CHRONOLOGICAL MECHANICS:
    failure to fulfill a chronological intent—the cooldown is reduced by
    50% (3.5 days).
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Temporal Suspension. Forces a 60-second window of
                      absolute stasis on standard reality.
@@ -104,9 +104,9 @@ TEMPORAL BEHAVIOR:   Cyclic (7-day recovery).
 
 REALITY INTERACTION: Causal Lock / Localized Temporal Acceleration.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 AFD-TI-560 is housed in a "Time-Shielded Vault" at ACT-SITE-03-JP-E.
 
@@ -138,9 +138,9 @@ BREACH PROTOCOL:         In the event of a "Gilded Silence" (Active
                          their posts. The event will resolve
                          automatically after 60 seconds.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 AFD-TI-560 is one of the few anomalies that has been successfully
 "Repurposed" for high-level tactical use. It was utilized in 1999 to
@@ -153,9 +153,9 @@ are the only thing moving in a world of statues, the silence is
 deafening. It doesn't feel like power. It feels like a very fast
 loneliness. Use it only when the alternative is extinction."
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 NOTE 001:
 The engravings on the back were partially translated in 2021. They

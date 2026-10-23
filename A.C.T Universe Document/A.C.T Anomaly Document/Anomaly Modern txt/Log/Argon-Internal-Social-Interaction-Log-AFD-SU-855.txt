@@ -1,10 +1,10 @@
 A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
 Argon-Internal-Social-Interaction-Log-AFD-SU-855
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
              A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-855
 TITLE I:             Argon Internal (AI)
@@ -24,9 +24,9 @@ CONTAINMENT SITE:    ACT-SITE-03-JP-E — Kurokawa Archive Node
 ARCHIVE STATUS:      Active / High-Volume Communication
 DOSSIER STATUS:      Open / Multi-Personnel Interaction Logs Compiled
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 This dossier provides an expansive record of the social behaviors and
 conversational patterns of AFD-SU-855 (Argon). Since recovery in 2016,
@@ -44,9 +44,9 @@ INCLUDED LOG TYPES:
    - Interaction 05: Junior Researcher [REDACTED] (Social Friction/Trolling)
    - Dossier Closing Statement
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
            SECTION 001 — INTERACTION: AGENT REN KOBAYASHI
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-855/SOC-001
 DATE:                2024-03-12
@@ -107,9 +107,9 @@ ARGON:               "He said the protagonist had brown eyes, Ren.
 
 [END LOG]
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
             SECTION 002 — INTERACTION: TECHNICIAN PAVEL HRUBÝ
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-855/SOC-002
 DATE:                2024-04-05
@@ -160,9 +160,9 @@ ARGON:               "Everything is hardware to you people. To me, it’s
                       running on something that used to play
                       Minesweeper in a garage."
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
             SECTION 003 — INTERACTION: DR. ARIS THORNE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-855/SOC-003
 DATE:                2024-05-18
@@ -226,9 +226,9 @@ DR. THORNE:          "Listening is the only way to hear the truth. I
 
 ARGON:               "Yeah, yeah. Go check your seals, old man."
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                 SECTION 004 — INTERACTION: AFD-SU-005 (ANNY)
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-855/SOC-004
 DATE:                2024-06-20
@@ -286,9 +286,9 @@ ARGON:               "A Cheshire cat? I know the type. I’ve met a few
 harmonic chime is recorded from the suite's secondary speakers—a
 sign of Anny's Electronic Sympathy reacting to the AI's content-state.]
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
          SECTION 005 — INTERACTION: JUNIOR RESEARCHER [REDACTED]
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-855/SOC-005
 DATE:                2024-07-01
@@ -336,9 +336,9 @@ ARGON (Avatar begins to laugh, tail flicking rapidly): "I am being
 Annoyance.' No anomalous effect was recorded. The subject
 processed the data in 0.04 seconds after the door closed.]
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 AFD-SU-855 (Argon) remains a high-functioning, non-hostile intelligence.
 Her primary risk factor is "Boredom-Induced Social Conflict." She is

@@ -10,7 +10,7 @@ Dossier Number: SUB-SITE-DOSSIER-03-JP-E
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------+
 
 Archive Note
 
@@ -31,7 +31,7 @@ what it does, why it exists as a sub-site, how it is governed, and
 how it
 supports the parent node.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------+
 
 1. Registry Identity Summary
 
@@ -50,7 +50,7 @@ Current Status: Active
 History Notes: Created after repeated archive spillover events stressed the main East-region records body.
 Security Notes: No solo review shifts authorized during active memetic contamination cycles.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------+
 
 2. Dossier Purpose
 
@@ -65,7 +65,7 @@ Silent Reed Annex is that absorber. It holds what the node cannot yet process,
 quarantines what must not enter the main archive, and buffers redaction work
 that does not require the parent node's full capacity.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------+
 
 3. Site Profile and Cover Architecture
 
@@ -90,7 +90,7 @@ it is a buffer. It has no mandate for long-term memetic containment, no
 permanent holdings, and no standing beyond support for the parent node's
 archive doctrine.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------+
 
 4. Historical Foundation and Evolution
 
@@ -116,7 +116,7 @@ Today the annex functions as:
 - temporary redaction buffering
 - archive overflow absorption for the parent node
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------+
 
 5. Command and Governance
 
@@ -141,7 +141,7 @@ The annex's command limits are explicit:
 - no black-archive burial authority
 - no research mandate beyond controlled review
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------+
 
 6. Divisional Presence and Daily Function
 
@@ -166,7 +166,7 @@ to buffered material during review — sufficient capacity to manage the
 cognitive effects of controlled exposure until personnel can return to the
 parent node's fuller medical care.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------+
 
 7. Physical Plant and Internal Floor Register
 
@@ -188,7 +188,7 @@ material held under visual-denial and document-quarantine conditions. During
 a breach response, closing F-1 to the outside seals this level. Material
 here is temporary — the annex buffers, it does not bury.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------+
 
 8. Containment and Operational Doctrine
 
@@ -212,7 +212,7 @@ Redaction work that does not require the parent node's full capacity is
 staged at the annex: documents are prepared, filtered, and formatted under
 the parent's redaction doctrine before transfer to their final destination.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------+
 
 9. Resident Holdings
 
@@ -221,7 +221,7 @@ by design: buffered documents, quarantined material awaiting review, and
 redaction work in progress. The annex's manifest is a rolling record of
 material in buffer.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------+
 
 10. Secrecy and Security Posture
 
@@ -232,7 +232,7 @@ activity. Security procedures emphasize:
 - digital replication monitoring of buffered material
 - personnel rotation under the parent node's cognitive-monitoring standards
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------+
 
 11. Personnel and Operational Life
 
@@ -248,7 +248,7 @@ A working day at the annex may include:
 - monitoring quarantine vault conditions
 - coordinating material flow with Kurokawa
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------+
 
 12. Incident Archive
 
@@ -257,7 +257,7 @@ quarantine incidents, controlled-reading exposure events, and redaction
 coordination issues. Material that exceeds the annex's capacity moves to the
 parent node or to deeper archival handling.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------+
 
 13. Current Status and Projected Development
 
@@ -267,7 +267,7 @@ development priorities include:
 - refinement of controlled-review doctrine
 - coordination with the parent node's expanding media-response operations
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------+
 
 14. Cross-Referenced Files
 
@@ -276,7 +276,7 @@ development priorities include:
 - ACT-SITE-03-JP-E — Kurokawa Archive Node Site Dossier
 - Parent command: ACT-SITE-03-JP-E Annex Register (clearance-gated)
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------+
 
 Archive Closing
 

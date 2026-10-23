@@ -1,10 +1,10 @@
 A.C.T FACILITY — RESEARCH & ANALYSIS DOSSIER
 Spinosaurus-Phenotypic-Anachronism-Dossier-AFD-SU-937
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
               A.C.T FACILITY — RESEARCH & ANALYSIS DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-937
 TITLE I:             Spinosaurus
@@ -23,9 +23,9 @@ CONTAINMENT SITE:    ACT-SITE-04-BR-C — Verde Null Bio-Reserve
 ARCHIVE STATUS:      Active / Analytical Review
 DOSSIER STATUS:      Open / Divergence Cataloged
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 This dossier explores the profound morphological discrepancy between
 AFD-SU-937 and the established fossil record for *Spinosaurus
@@ -39,9 +39,9 @@ INCLUDED LOG TYPES:
    - Consultative Note: Dr. Aris Thorne (SR-412)
    - Dossier Closing Statement
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                SECTION 001 — COMPARATIVE MORPHOLOGY
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-937/MOR-01
 DATE:                2024-06-25
@@ -70,9 +70,9 @@ CONCLUSION:
 AFD-SU-937 is a 100% match for the "Movie Monster" depicted in the 2001
 film Jurassic Park III. The divergence is too precise to be random.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                SECTION 002 — RESEARCHER NOTE: DR. BROOKS
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-937/LOG-01
 AUTHOR:              Dr. Nathan Brooks
@@ -92,9 +92,9 @@ didn't just reinforce its bones, but actually rewrote its body to
 match our cultural expectation of what a Spinosaurus should be. It’s as
 if reality saw our movies and decided to make them true."
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                SECTION 003 — CONSULTATIVE NOTE: DR. THORNE
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-937/THORNE-CONSULT
 AUTHOR:              Aris Thorne (SR-412)
@@ -118,9 +118,9 @@ Stop asking why its legs are too long. Ask yourself what the [ REDACTED
 ]
 source is planning to 'cast' next."
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 MANDATORY BRIEFING PHRASE:
                      "The bone is real.

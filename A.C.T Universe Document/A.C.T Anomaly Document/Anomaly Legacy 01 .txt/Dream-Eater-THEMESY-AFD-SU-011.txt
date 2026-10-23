@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 Dream-Eater-THEMESY-AFD-SU-011
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-011
 TITLE I:             Dream Eater-THEMESY
@@ -15,9 +15,9 @@ FIELD TYPE:          SU — Subject
 
 CLEARANCE REQUIRED:  Level 3
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   SPORADIC
 
@@ -32,9 +32,9 @@ SUB-THREAT:          BENEFICIAL
 TRANSFORMATION
 VIABILITY:           CONTAINED-STUDY
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 DATE OF DETECTION:   2018-12-03
 VERIFICATION DATE:   2018-12-10
@@ -52,9 +52,9 @@ AMNESTIC DEPLOYED:   Limited
 NARRATIVE STATUS:    Controlled as equipment fault, medication reaction, and
                      unusual sleep-study clustering
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 AFD-SU-011 is an aerial whale-like entity measuring approximately 2 m from head
 to tail. The subject moves through air by slow swimming motions, requiring no
@@ -101,9 +101,9 @@ nightmare content, though they may retain a vague memory that "something kind
 was eating the dark part." AFD-SU-011 shows no awareness that this effect may
 be therapeutic.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Dream consumption. AFD-SU-011 feeds on the dreams of
                      sleeping subjects by hovering above them and drawing out
@@ -153,9 +153,9 @@ SEQUENCE:
    6. Entity draws light into its mouth without biting or physical contact.
    7. Subject enters deep slumber after feeding concludes.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 AFD-SU-011 is housed in a quiet aerial-subject containment suite with padded
 walls, soft indirect lighting, low acoustic activity, and suspended fabric
@@ -213,9 +213,9 @@ IN BREACH IF IT:
    [x] Other: Entity feeds on an unauthorized sleeping subject or induces
               unmanaged 64-to-72-hour slumber outside medical supervision
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 AFD-SU-011 is considered low-threat because its feeding is nonviolent and its
 post-feeding sleep state is medically stable. The threat rating reflects the
@@ -242,9 +242,9 @@ shorten the slumber through stimulants, sound, light, or physical shaking fail
 unless emergency medical intervention is used. Natural awakening is calm and
 usually followed by thirst, mild hunger, and a desire to sit near sunlight.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                       TRANSFORMATION NOTES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 TRANSFORMATION ATTEMPT
 STATUS:              Therapeutic study pending
@@ -263,9 +263,9 @@ subjects is prohibited.
 A.C.T doctrine currently treats AFD-SU-011 as a gentle but unaware subject, not
 as a tool. Its care procedures must prioritize stability and noncoercive study.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 NOTE 001:
 AFD-SU-011 has not shown understanding that humans require consent before dream

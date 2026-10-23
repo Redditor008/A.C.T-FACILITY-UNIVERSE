@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 The-Sixteenth-Second-Stone-AFD-CH-002
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-CH-002
 TITLE I:             The Sixteenth-Second Stone
@@ -15,9 +15,9 @@ FIELD TYPE:          CH — Cosmic Hazard
 
 CLEARANCE REQUIRED:  Level 3
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   REACTIVE
 
@@ -32,9 +32,9 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           CONTAINED-STUDY
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
 
 DATE OF DETECTION:   2009-04-17
 VERIFICATION DATE:   2009-04-29
@@ -51,9 +51,9 @@ CIVILIAN EXPOSURE:   6 confirmed / 19 suspected
 AMNESTIC DEPLOYED:   Yes
 NARRATIVE STATUS:    Controlled as carbon monoxide exposure and equipment fault
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
 
 AFD-CH-002 is a medium-sized object measuring approximately 84 cm in height,
 51 cm in width, and 46 cm in depth. It resembles a dark, smooth
@@ -86,9 +86,9 @@ The anomaly does not simply slow time. Instead, time in the affected area
 appears to become less complete. Events still occur, but portions of their
 continuity fail to arrive.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Sixteen-second temporal dilution. After sixteen seconds
                      of continuous exposure within the 2 m x 3 m influence
@@ -126,9 +126,9 @@ EXPOSURE:
    — Over 60 seconds: risk of permanent continuity injury, including memory
      holes, arrhythmic organ timing, and inability to perceive event order.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
 
 AFD-CH-002 is to be stored in a fixed-orientation containment cradle inside a
 chronometric isolation chamber. The forward-facing surface of the object must
@@ -177,9 +177,9 @@ IN BREACH IF IT:
    [ ] Transforms its environment into an anomalous zone
    [x] Other: Influence zone becomes misaligned with marked containment grid
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
 
 AFD-CH-002 is classified as a cosmic hazard despite its object-like body
 because its effect appears to reference an external cosmic time standard rather
@@ -197,9 +197,9 @@ removed after activation may recover if exposure remains under forty seconds,
 though they frequently report remembering actions in the wrong order for
 several hours.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
                       TRANSFORMATION NOTES
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
 
 TRANSFORMATION ATTEMPT
 STATUS:              Prohibited pending further study
@@ -215,9 +215,9 @@ No repurposing trial may exceed twelve seconds of direct-zone interaction.
 Testing beyond this threshold requires Level 4 authorization and medical
 continuity monitoring.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
 
 NOTE 001:
 The anomaly is not to be described to junior staff as a time-slowing object.

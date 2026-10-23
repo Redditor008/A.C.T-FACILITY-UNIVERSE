@@ -105,9 +105,9 @@ reverse.
 
 Components:
 
- **spur bodies**, carbon-tungsten, replaceable, wear visibly and are retired on measurement rather than on schedule;
- **High-Speed Pneumatic Pistons**, one per spur, serviceable by Engineering, the only fully understood part of the
- system;
+ **spur bodies**, carbon-tungsten, replaceable, wear visibly and are retired on
+ measurement rather than on schedule; **High-Speed Pneumatic Pistons**, one per
+ spur, serviceable by Engineering, the only fully understood part of the system;
 — **Bio-Feed Connector**, seated against the sacral nerve group, the sole control path;
 — **pelvic frame**, adjustable, load-bearing, transfers stroke recoil into the operator's core; **manual
 disconnect**, present on every fitted unit, which severs the bio-feed but does not remove the implant.

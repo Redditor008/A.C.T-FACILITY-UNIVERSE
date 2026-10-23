@@ -1,10 +1,10 @@
 A.C.T FACILITY — INCIDENT & BREACH DOSSIER
 Soul-Pendant-Thorne-Incident-Dossier-AFD-OB-412
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                 A.C.T FACILITY — INCIDENT & BREACH DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 DESIGNATION:         AFD-OB-412
 TITLE I:             Soul Pendant
@@ -20,9 +20,9 @@ CONTAINMENT SITE:    ACT-SITE-02-RU-N — White Grave Station
 ARCHIVE STATUS:      Active / Personnel Loss Record
 DOSSIER STATUS:      Open / Historical Verification Complete
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 This dossier contains the investigative results of the "Thorne Incident"
 of 1992, which transformed AFD-OB-412 from a low-threat artifact into a
@@ -35,9 +35,9 @@ INCLUDED LOG TYPES:
    - First-Wake Communication (Thorne-1)
    - Dossier Closing Statement
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                     SECTION 001 — INCIDENT TIMELINE
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-412/INC-92
 DATE:                1992-05-14
@@ -58,9 +58,9 @@ SUBJECT:             Senior Researcher Aris Thorne
 [09:50] — The pendant is observed glowing with a "Pulse" that matches
           Thorne's previous heart-rhythm.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
               SECTION 002 — FIRST-WAKE COMMUNICATION
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-412/INT-001
 DATE:                1992-06-01
@@ -98,9 +98,9 @@ THORNE:              "No. Don't touch the glass. Every time you touch
 
 [TRANSCRIPT ENDS]
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 The Thorne Incident remains a foundational warning for handling
 "Dormant" artifacts. The pendant did not "Develop" an effect; it

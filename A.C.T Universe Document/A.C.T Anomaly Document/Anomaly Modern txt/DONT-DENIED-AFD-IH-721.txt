@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 DONT-DENIED-AFD-IH-721
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                  Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-IH-721
 TITLE I:             DONT DENIED
@@ -15,9 +15,9 @@ FIELD TYPE:          IH — Info Hazard
 
 CLEARANCE REQUIRED:  Level 2
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   INERT
 
@@ -32,9 +32,9 @@ SUB-THREAT:          HARMLESS
 TRANSFORMATION
 VIABILITY:           STABILIZED
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 DATE OF DETECTION:   1994-03-12
 VERIFICATION DATE:   1994-03-15
@@ -52,9 +52,9 @@ CIVILIAN EXPOSURE:   3 confirmed (Faculty members).
 AMNESTIC DEPLOYED:   Yes — 004-G Grade.
 NARRATIVE STATUS:    The item was seized and replaced with a replica.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 AFD-IH-721 is a 10 cm cubic block composed of an unidentified yellow
 material. The texture is smooth, resembling polished resin or aged
@@ -86,9 +86,9 @@ The effect is persistent following a single visual exposure. While the
 hazard is not physically dangerous, it creates a permanent cognitive
 constraint regarding this specific data-set.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Enforced Veracity. Viewers are physically and
                      mentally unable to lie about the object’s look,
@@ -107,9 +107,9 @@ TEMPORAL BEHAVIOR:   Permanent cognitive shift.
 
 REALITY INTERACTION: Informational Fixation / Causal Synchronization.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 AFD-IH-721 is stored in an opaque locker at Site-03.
 
@@ -140,9 +140,9 @@ BREACH PROTOCOL:         The subject poses no physical threat. If a
                          does not interfere with unrelated A.C.T
                          secrecy protocols.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 AFD-IH-721 represents a "Pure Information Anomaly." It does not
 manipulate reality; it manipulates the reporting of reality.
@@ -152,9 +152,9 @@ into a training tool for new Recruits. By exposing staff to a
 controlled, "Undeniable" truth, we may be able to calibrate their
 resilience against more hostile deceptions found in the 715-Series.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 NOTE 001:
 A trial where a subject was offered $1,000,000 to say the block was

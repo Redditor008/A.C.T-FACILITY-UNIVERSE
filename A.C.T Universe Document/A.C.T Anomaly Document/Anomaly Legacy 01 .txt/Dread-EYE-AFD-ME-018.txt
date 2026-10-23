@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 Dread-EYE-AFD-ME-018
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-ME-018
 TITLE I:             Dread EYE
@@ -15,9 +15,9 @@ FIELD TYPE:          ME — Memetic
 
 CLEARANCE REQUIRED:  Level 3
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   INTANGIBLE
 
@@ -32,9 +32,9 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           CONTAINED-STUDY
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 DATE OF DETECTION:   2017-01-26
 VERIFICATION DATE:   2017-02-02
@@ -51,9 +51,9 @@ CIVILIAN EXPOSURE:   38 suspected / 11 confirmed
 AMNESTIC DEPLOYED:   Limited
 NARRATIVE STATUS:    Controlled as experimental anxiety-study malpractice
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 AFD-ME-018 is a memetic visual anomaly presenting as a simplified eye-like
 symbol. The symbol consists of a narrow black oval, a white vertical pupil, and
@@ -84,9 +84,9 @@ The symbol is not sapient. No communication has been confirmed. The apparent
 sense of being watched appears to be a memetic response rather than evidence of
 an entity behind the symbol.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Visual memetic dread induction. Subjects who view the full
                      Dread EYE symbol experience escalating fear tied to the
@@ -121,9 +121,9 @@ EXPOSURE STAGES:
    - Over 90 seconds: acute breakdown risk, persistent fear of eye-like shapes,
      and dream recurrence.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 All confirmed instances of AFD-ME-018 are to be stored in fragmented visual
 format. No complete copy may be displayed outside approved testing. Physical
@@ -169,9 +169,9 @@ IN BREACH IF IT:
    [ ] Transforms its environment into an anomalous zone
    [x] Other: A complete Dread EYE symbol appears in uncontrolled visual media
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 AFD-ME-018 is unusual because its primary fear response feels externalized. The
 subject is not simply afraid of the symbol. The subject believes the symbol is
@@ -189,9 +189,9 @@ Removing the outer eye shape without removing the pupil produces stronger short
 exposure discomfort but weaker long exposure fixation. This suggests the pupil
 is the active memetic anchor and the eye shape is the recognition frame.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                       TRANSFORMATION NOTES
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 TRANSFORMATION ATTEMPT
 STATUS:              Limited study only
@@ -205,9 +205,9 @@ Repurposing as interrogation pressure, crowd dispersal, or compliance training
 is prohibited. Controlled study may continue only for memetic-resistance
 research and exposure recovery protocol improvement.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 NOTE 001:
 Do not use eye icons as bullet points in AFD-ME-018 documentation. This rule was

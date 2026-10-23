@@ -442,8 +442,8 @@ seats than names.
  material
  were accepted?
 - Would the Ark sabotage an evacuation if panic boarding threatened a critical vessel?
- Can A.C.T create ethical continuity protocols strong enough to negotiate with or replace Ark decisions during mass
- failure?
+ Can A.C.T create ethical continuity protocols strong enough to
+ negotiate with or replace Ark decisions during mass failure?
 
 ### Intelligence Confidence
 

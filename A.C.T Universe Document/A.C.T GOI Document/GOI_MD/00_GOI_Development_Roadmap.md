@@ -291,8 +291,8 @@ already mentioned in an anomaly file, or discarded when Central Archive directs 
  on open peer review
  clashes directly with A.C.T.'s secrecy doctrine.
 - **Likely jurisdiction:** Site 05 with Site 02 technical support.
- **Key drafting question:** How much true information can A.C.T. share before the existence of the pattern becomes a
- danger itself?
+ **Key drafting question:** How much true information can A.C.T.
+ share before the existence of the pattern becomes a danger itself?
 
 ### 08 - The Second Observation Society
 
@@ -319,8 +319,8 @@ already mentioned in an anomaly file, or discarded when Central Archive directs 
  pressure:** It is not secretly powerful; its importance is trust. A.C.T. can gain early warnings only by
  respecting the people who already know their coast has been changed.
 - **Likely jurisdiction:** Site 05.
- **Key drafting question:** Can a secrecy-driven institution genuinely partner with a community whose first duty is to
- its own missing people?
+ **Key drafting question:** Can a secrecy-driven institution genuinely
+ partner with a community whose first duty is to its own missing people?
 
 ### 10 - The Last Address Network
 
@@ -336,8 +336,8 @@ already mentioned in an anomaly file, or discarded when Central Archive directs 
  **Distinctive pressure:** The network's compassion creates a resilient public evidence trail that A.C.T. cannot erase
  without harming people who have already lost too much.
 - **Likely jurisdiction:** Site 01 and Site 03.
- **Key drafting question:** Can a civilian archive preserve enough truth to save victims without triggering a larger
- exposure event?
+ **Key drafting question:** Can a civilian archive preserve enough
+ truth to save victims without triggering a larger exposure event?
 
 ### 11 - The Iron Quiet
 
@@ -423,8 +423,8 @@ already mentioned in an anomaly file, or discarded when Central Archive directs 
  to recruit. Its interests may be
  ecological, territorial, or linked to an unknown nonhuman survival system.
 - **Likely jurisdiction:** Site 05 / Nusantara Deep Relay.
- **Key drafting question:** How can A.C.T. establish reciprocity with a group whose communication is evidence, not
- language?
+ **Key drafting question:** How can A.C.T. establish reciprocity
+ with a group whose communication is evidence, not language?
 
 ### 16 - Hushfield Court
 

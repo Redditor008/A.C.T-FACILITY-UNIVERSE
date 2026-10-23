@@ -1,7 +1,7 @@
 A.C.T FACILITY ARCHIVE FILE — GOI CP W 055 Cairn and Lintel
 ===========================
 GROUP OF INTEREST REGISTRY - CAIRN & LINTEL
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                                                         |
@@ -88,13 +88,13 @@ Several city contracts, shelter addresses, and inhabited floor plans are censore
 OCCUPIED-SHELTER DISCLOSURE LIMIT. Disclosure could turn protected spaces into target
 lists for hostile GOIs or cause civilian trespass into incomplete threshold work.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 IDENTITY AND INSTITUTIONAL FUNCTION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Group Function
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Cairn & Lintel functions as a specialized anomalous infrastructure corporation. Its repeated activity is the design,
 repair, concealment, and emergency activation of structures that keep people alive when ordinary architecture fails.
@@ -116,7 +116,7 @@ threshold stone, sealed a service stair, or hidden a marked route through the fa
 zone.
 
 Public Presence and Concealment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Cairn & Lintel appears publicly through construction firms, heritage restoration offices, disaster-hardening
 consultants, municipal tunnel contractors, charity shelter projects, hospital renovation bids, school safety grants,
@@ -135,13 +135,13 @@ during a spatial event can be
 dismissed later as a confused evacuation memory if no one studies the blueprints too
 closely.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Leadership Condition
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Cairn & Lintel does not expose a stable executive board. Corporate registrations connect to dissolved restoration
 firms, emergency-housing trusts, old masonry guilds, temporary development companies, and shell contractors.
@@ -156,7 +156,7 @@ project may answer to Survey or
 Door Ledger offices.
 
 Internal Structure
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T identifies several recurring layers:
 
@@ -180,7 +180,7 @@ This structure establishes the group as a real institution. A single impossible 
 able to alter civic architecture and emergency movement across jurisdictions is one.
 
 Membership and Recruitment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Membership appears to include licensed architects, unlicensed builders, structural engineers, stone masons,
 locksmiths, surveyors, civil defense planners, former rescue workers, housing advocates, and municipal clerks. Some
@@ -197,13 +197,13 @@ who know when a road is lying.
 A.C.T has not verified whether Cairn & Lintel recruits anomaly survivors directly. Several shelter wardens show signs
 of prior impossible-building exposure and refuse to sleep in rooms with only one exit.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Stated Belief
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The most common company line appears on builder plates and emergency cards:
 
@@ -221,7 +221,7 @@ If a hospital accepts patients,
 the wards must remain reachable when ordinary hallway logic fails.
 
 Assessed Objective
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T assesses that Cairn & Lintel seeks to seed survivable architecture into places likely to experience abnormal
 pressure. Its objective is not broad secrecy and not open disclosure. The group allows
@@ -237,7 +237,7 @@ or stay safe, not by whether
 command paperwork closes cleanly.
 
 Anomalous Capability Assessment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Cairn & Lintel is assigned Engineering capability because it repeatedly produces or modifies built environments with
 predictable abnormal properties. Confirmed or strongly assessed capabilities include:
@@ -257,7 +257,7 @@ rewrite reality at regional scale. Its
 work is localized, built, maintained, and failure-prone.
 
 Secrecy and Civilian Exposure
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Cairn & Lintel is Leaking because its work is embedded in civilian infrastructure. A
 sheltered family may remember a
@@ -272,13 +272,13 @@ A.C.T may prefer an impossible corridor sealed. Cairn & Lintel may insist that s
 it will kill the next trapped
 resident.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Operational Regions
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Cairn & Lintel operates in disaster-prone urban districts, old housing blocks, coastal evacuation zones, hospitals,
 schools, public shelters, abandoned transit systems, unsafe estates, impossible-space neighborhoods, and
@@ -290,7 +290,7 @@ The group is assigned Transnational reach because its contracts, builder marks, 
 countries. A.C.T has not verified a global headquarters.
 
 Known Assets and Holdings
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Known or assessed assets include:
 
@@ -312,7 +312,7 @@ disassembly must be approved by Engineering and Recovery review, as removing a t
 access still used by civilians.
 
 Operating Method
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Cairn & Lintel usually enters a district before or after an abnormal structural incident. Before an incident, it may
 bid on ordinary retrofitting, donate shelter repairs, replace old doors, install stair railings, or restore a public
@@ -331,13 +331,13 @@ until the last child passes.
 A.C.T may use these instructions in field response, but they are not a substitute
 for hazard classification.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 HISTORY WITH A.C.T
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Contact History
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T first consolidated Cairn & Lintel material through unrelated evacuation files. Recovery Division noted that
 several breach survivors escaped through undocumented stairs, shelter rooms, and service corridors. Civil Covert
@@ -357,7 +357,7 @@ Bill us if you must.
 A.C.T did not locate the crew that installed the lintel.
 
 Current Relationship
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The current relationship is WORK. A.C.T may cooperate with Cairn & Lintel when evacuation routes, shelters, hospitals,
 schools, or unstable buildings require specialized structural knowledge. The relationship is limited. Cairn & Lintel
@@ -370,13 +370,13 @@ shelter function even against
 A.C.T access requests. A.C.T does not classify it as Negative because the group repeatedly preserves life and has not
 demonstrated a goal of sabotaging containment. Work classification is the only accurate relationship label.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Responsible Jurisdiction
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Primary jurisdiction rests with Intelligence Division, Recovery Division, Civil Covert Division, and Engineering
 review under Central Archive custody. Site 01 handles most urban shelter and redevelopment cases. Site 03 reviews map,
@@ -388,7 +388,7 @@ Access and egress records must identify whether a route is A.C.T-controlled, mun
 unresolved. A corridor that saved civilians during one incident may not remain safe after the building settles.
 
 Posture Implementation
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T posture is COOPERATED / MONITOR / APPROPRIATE. Cooperation is authorized for evacuation, temporary shelter use,
 hospital route stabilization, emergency corridor verification, and civilian-rescue planning. Monitoring includes
@@ -400,7 +400,7 @@ may not remove an active lintel, cairn stone, shelter key, or threshold map unti
 Recovery and Civil Covert review confirms that no current residents depend on it.
 
 Response Limits and Red Lines
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T will not permit Cairn & Lintel to create unregistered passages into active containment zones, hide dangerous
 subjects inside civilian shelters, obstruct medical evacuation, or conceal structural failures that could kill
@@ -411,13 +411,13 @@ A.C.T will also not destroy protected architecture solely because it creates pap
 conflict. If a Cairn & Lintel structure is keeping civilians alive, preserving access
 takes priority over clean seizure unless a higher hazard is confirmed.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 OPERATIONAL RECORDS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Restricted Operational Extract
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 EMERGENCY ROUTE CARD: C&L / OLD DOOR RELIEF
 LOCATION: [CENSOR: MUNICIPAL SCHOOL SHELTER]
@@ -457,13 +457,13 @@ The invoice confirms that Cairn & Lintel recognizes witness memory as part of sh
 function. A.C.T has not accepted
 this view as general policy but allows case-by-case Subject Care review.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Confirmed Operational Facts
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - Cairn & Lintel is an outside corporate infrastructure network and not an A.C.T
 engineering program.
@@ -476,7 +476,7 @@ during abnormal incidents.
 shelters.
 
 Active Intelligence Assessment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T assesses Cairn & Lintel as a specialized WORK-relationship corporate GOI. It is most useful when ordinary
 architecture becomes unreliable. It is most dangerous when its protected passages cross containment boundaries,
@@ -488,7 +488,7 @@ the people inside them. That
 belief can save lives and still obstruct A.C.T command.
 
 Persistent Questions
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - Who controls the central old-work depots, and how many contain materials recovered from
 prior anomaly sites?
@@ -504,20 +504,20 @@ while accepting civilians?
 disclosure unsafe?
 
 Intelligence Confidence
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Moderate. Recovered structures, field outcomes, repeated marks, and contract traces confirm organizational continuity
 and anomalous engineering. Leadership, total holdings, full design method, and long-term structural costs remain
 unresolved. Confidence may rise if A.C.T negotiates access to a complete old-work depot, verifies a living board
 member, or completes a joint shelter audit without civilian displacement.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 CROSS-REFERENCE STATUS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Anomaly and Record Relationship
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Cairn & Lintel is an organization and therefore belongs in the GOI archive. Individual
 buildings, corridors, keys,
@@ -525,7 +525,7 @@ shelter rooms, threshold stones, or living floor plans may require separate anom
 access-and-egress records. The organization record must not be used as a substitute for structural hazard review.
 
 Related A.C.T Records
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - CONTROLLED RECORD FORM, Group of Interest Registry
 - GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE, Group of Interest Registry
@@ -538,7 +538,7 @@ Archive
 routing.
 
 Dual Filing
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Under review. Cairn & Lintel is a corporate GOI, but its individual constructions may
 require dual filing when a
@@ -547,10 +547,10 @@ it. Dual filing is mandatory for any route that touches an active containment bo
 or admits civilians into a
 space not represented on ordinary maps.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FILE METADATA
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FILE CREATED:            15/06/1952
 FILE LAST UPDATED:       08/12/1968

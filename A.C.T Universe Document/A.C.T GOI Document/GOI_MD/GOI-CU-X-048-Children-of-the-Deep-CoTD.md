@@ -302,8 +302,8 @@ The Midwestern operating environment offers CoTD several practical advantages:
   river, canal, reservoir, agricultural, and municipal-water systems that provide both symbolic and logistical cover;
   aging industrial and water-management infrastructure with spaces that can be entered, rented, repaired, or monitored
   without immediately appearing anomalous;
-  interstate transport routes that allow people, equipment, and documents to move between cells without establishing a
-  visible central compound;
+  interstate transport routes that allow people, equipment, and documents
+  to move between cells without establishing a visible central compound;
   recurring severe-weather and flood concerns that let the cult frame preparation activity as ordinary caution;
   communities where grief, economic pressure, displacement,
   isolation, or prior disaster can be exploited as recruitment
@@ -358,9 +358,9 @@ openly military. Current assessment identifies the following capabilities:
   technical intermediaries capable of acquiring or interpreting
   deep-water and pressure-related material without openly
   identifying as cult personnel;
-  protected family, work, and grief networks that make recruitment appear personal rather than organizational; a
-  distributed language of inland mouths, shores, and soundings that can hide operational meaning inside apparently
-  devotional speech.
+  protected family, work, and grief networks that make recruitment appear personal
+  rather than organizational; a distributed language of inland mouths, shores, and
+  soundings that can hide operational meaning inside apparently devotional speech.
 
 The group should not be assumed to possess every asset claimed by its members.
 CoTD often exaggerates its reach to
@@ -607,8 +607,8 @@ protect a person while preserving the integrity of the wider operation.
 — The group is actively attempting to awaken that anomaly.
 — The target anomaly is assessed as apocalyptic if awakened.
 — CoTD's primary active region is the Midwestern United States.
-  The cult uses distributed local activity, symbolic water geography, and compartmented membership to support its
-  objective.
+  The cult uses distributed local activity, symbolic water
+  geography, and compartmented membership to support its objective.
   The group is large enough that not all attached people can be assumed
   to
   hold the same knowledge, responsibility, or
@@ -630,8 +630,8 @@ procurement, maritime information, and the Sounding Council can.
 
 ### Persistent Questions
 
-  Does the Sounding Council receive genuine target-related information, or does it manufacture signs to preserve
-  authority?
+  Does the Sounding Council receive genuine target-related
+  information, or does it manufacture signs to preserve authority?
   Which inland mouths have a measurable relationship to the sleeping anomaly, and which
   exist
   only as cult symbolism?

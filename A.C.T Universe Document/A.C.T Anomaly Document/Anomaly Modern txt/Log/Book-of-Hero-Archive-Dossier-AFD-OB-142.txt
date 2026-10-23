@@ -1,10 +1,10 @@
 A.C.T FACILITY — RECOVERED DOCUMENT & ARCHIVE DOSSIER
 Book-of-Hero-Archive-Dossier-AFD-OB-142
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
              A.C.T FACILITY — RECOVERED DOCUMENT & ARCHIVE
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 DESIGNATION:         AFD-OB-142
 TITLE I:             Book of Hero
@@ -20,9 +20,9 @@ CONTAINMENT SITE:    ACT-SITE-03-JP-E — Kurokawa Archive Node
 ARCHIVE STATUS:      Active / Informational
 DOSSIER STATUS:      Open / Continuous Manifestation Logging
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 This dossier contains the cataloged entries of AFD-OB-142, documenting
 the rise and fall of various "HERO" subjects across the multiversal
@@ -34,9 +34,9 @@ INCLUDED LOG TYPES:
    - Chronological Manifestation Ledger (2005-2026)
    - Dossier Closing Statement
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                  SECTION 001 — THE COTTAGE RECOVERY
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-142/REC-01
 DATE:                2001-11-12
@@ -54,9 +54,9 @@ changed every time we read it." A.C.T intercepted the object after a
 local librarian reported that the book’s text matched an event that
 occurred in a neighboring town three weeks after the story appeared.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                  SECTION 002 — SAMPLE STORY SUMMARIES
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 ENTRY 0442:          "The Iron Lantern"
 TONE:                Happy Ending
@@ -78,9 +78,9 @@ SUMMARY:             A hero stands before a closed door, waiting for a
                      knock that never comes. The story ends mid-
                      sentence.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
              SECTION 003 — MANIFESTATION LEDGER (RECENT)
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 2005-2015:           114 new stories recorded. Tones balanced (60%
                      Happy, 40% Dark).
@@ -91,9 +91,9 @@ SUMMARY:             A hero stands before a closed door, waiting for a
                      manifested. It describes a man with a
                      "Stone heart" who keeps a library of survivors.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 AFD-OB-142 remains one of our most valuable longitudinal studies on
 narrative causality. It serves as a reminder that stories are just

@@ -1,10 +1,10 @@
 A.C.T FACILITY — RECOVERED DOCUMENT & ARCHIVE DOSSIER
 Stop-Watch-Recovered-Document-Archive-Dossier-AFD-TI-560
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
          A.C.T FACILITY — RECOVERED DOCUMENT & ARCHIVE DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-TI-560
 TITLE I:             Stop-Watch
@@ -22,9 +22,9 @@ JURISDICTIONAL AUTHORITY:  Kurokawa Site Command / O5 Oversight
 ARCHIVE STATUS:      Active / O5-restricted
 DOSSIER STATUS:      Open — activation record retained
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
                            CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 This dossier belongs to A.C.T Log Category VII — Recovered Document & Archive
 Dossier. AFD-TI-560 is an ornate golden pocket-watch, 5 cm in diameter, filled
@@ -49,9 +49,9 @@ To preserve the watch's restricted operational history — every documented
 activation, the recovered engraving, and the testimony of the senior
 researcher authorized to carry it.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
                SECTION 001 — ACCESS AND HANDLING ARCHIVE
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-TI-560/ARC-001
 DATE:                1958-03-12 (verification) — ongoing
@@ -78,9 +78,9 @@ HANDLING DISCIPLINE:
    - Required watch: 1 temporal analyst, 1 high-PR guard
    - Cadence: daily position check
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
    SECTION 002 — ACTIVATION RECORD — 1999 SITE-01 BREACH PREVENTION
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-TI-560/ARC-002
 DATE:                1999
@@ -101,9 +101,9 @@ CONSEQUENCE RECORD:
    - Post-activation state: mandatory 7-day recovery phase, second hand
      regressing counter-clockwise from the 12-mark back to the 12-mark
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
   SECTION 003 — ACTIVATION RECORD — BALL OF KNIFE RECOVERY OPERATION
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-TI-560/ARC-003
 DATE:                Recovery operation (on file)
@@ -120,9 +120,9 @@ account of the event, archived in full in this dossier.
 Note: no activation is recorded as trivial. The watch is carried as a terminal
 option, not an instrument of convenience.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
        SECTION 004 — RECOVERED INSCRIPTION — BACK-CASE ENGRAVING
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-TI-560/ARC-004
 DATE:                2021 (partial translation)
@@ -142,9 +142,9 @@ cannot bear the ordinary passage of time. Whether the original owner was its
 maker, its victim, or its keeper is not established. The archive retains the
 translation without assigning a story to it.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
           SECTION 005 — OPERATOR TESTIMONY — DR. ARIS THORNE
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-TI-560/ARC-005
 DATE:                On file
@@ -166,9 +166,9 @@ It is preserved because it is the clearest warning the archive holds about the
 cost of the watch — and because the warning comes from the one person
 authorized to carry it.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
                   SECTION 006 — ARCHIVE CLOSING NOTE
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-TI-560/ARC-CLS-001
 DATE:                2026-09-08

@@ -1,7 +1,7 @@
 A.C.T FACILITY ARCHIVE FILE — GOI HY N 074 Ninefold Ark
 ===========================
 GROUP OF INTEREST REGISTRY - NINEFOLD ARK
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                                                         |
@@ -91,13 +91,13 @@ states, markets, and desperate civilians. Some protect A.C.T from public evidenc
 before a crisis ended. Some protect unknown Ark mechanisms that may respond to being
 counted.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 IDENTITY AND INSTITUTIONAL FUNCTION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Group Function
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Ninefold Ark functions as a continuity institution. It asks what must survive if cities
 fail, if seas rise
@@ -119,7 +119,7 @@ This line is carved, printed, stamped, or recited across several recovered Ark m
 heart: survival with debt, preservation with exclusion.
 
 Public Presence and Concealment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Publicly, Ninefold Ark hides behind seed banks, rare-species conservatories, maritime preservation trusts, underground
 data vaults, private disaster foundations, museum climate-storage programs, island research stations, polar storage
@@ -131,13 +131,13 @@ Known marks include nine nested arcs, white hull paint beneath ordinary ship nam
 nine shallow teeth, cards stamped BOARDING IS NOT SALVATION, and crate labels reading COUNT AFTER DAWN. Most marks are
 non-anomalous, but several ark holds appear to respond badly to incorrect counting or premature inventory.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Leadership Condition
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Ninefold Ark is governed by a distributed stewardship model. Ark Stewards hold authority over
 selection principles and long-term survival ethics. Fold Captains control mobile vessels, convoy
@@ -150,7 +150,7 @@ vessel classes, a council, nine founding disasters, nine preservation categories
 Ark. This ambiguity limits predictive assessment.
 
 Internal Structure
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T identifies these functional layers:
 
@@ -169,7 +169,7 @@ institutional machine for continuity
 selection.
 
 Membership and Recruitment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Membership includes disaster planners, seed-bank officers, ship crews, pilots, archivists, geneticists, field medics,
 containment engineers, ecological technicians, librarians, cryptographers, vault architects, legal trustees, quiet
@@ -189,13 +189,13 @@ Can you preserve without promising rescue?
 
 A.C.T Ethics Review marks the phrase as operationally honest and morally dangerous.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Stated Belief
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Ninefold Ark believes survival requires selection before collapse. Its members argue that panic evacuation, political
 favoritism, market purchase, cult prophecy, and public grief all corrupt continuance if selection is delayed until the
@@ -217,7 +217,7 @@ in systems: food, memory, breeding, law,
 repair, grief, containment, and records.
 
 Assessed Objective
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T assesses that Ninefold Ark seeks to preserve enough of the living world and
 its containment knowledge to survive
@@ -232,7 +232,7 @@ benevolent enough for Positive nor predatory enough for Negative. It is not Work
 rare and crisis-specific, not a standing practical relationship.
 
 Anomalous Capability Assessment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Ninefold Ark is assigned Containment capability. It contains and preserves living,
 technological, informational, ecological, and anomalous materials under long-duration
@@ -251,7 +251,7 @@ A.C.T cannot confirm whether all capabilities are anomalous. Some may be excepti
 inherited artifacts, and some may be rumor used to protect ordinary vaults.
 
 Secrecy and Civilian Exposure
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Ninefold Ark is Veiled because it hides inside respectable preservation work. Seed banks, data vaults, conservation
 ships, emergency trusts, museum stores, and underground shelters already require secrecy. The Ark's exposure risk
@@ -262,13 +262,13 @@ from A.C.T custody, or when public documents reveal selection lists dated before
 Civilian danger comes from both discovery and nondiscovery. If people discover an Ark, panic may destroy it. If people
 never discover Ark selection, entire communities may die believing rescue is still being arranged.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Operational Regions
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Ninefold Ark operates transnationally through mobile maritime holds, sealed mountain vaults, island conservatories,
 desert domes, underground data stores, polar sample rooms, private research stations, railway cold stores, hospital
@@ -280,7 +280,7 @@ remote islands, harsh climates, industrial storage zones,
 research corridors, and shipping lanes with complex ownership.
 
 Known Assets and Holdings
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Known or assessed assets include:
 
@@ -301,7 +301,7 @@ A.C.T has inspected one seed annex under cooperation, seized one sample coffer a
 a mobile hold from outside. Full Ark inventories are unknown.
 
 Operating Method
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A typical Ark action begins long before emergency. Vessel Curators identify needed categories. Selection Clerks build
 candidate lists. Continuance Trustees secure legal cover. Cold Cradle Technicians prepare storage. Covenant Guards
@@ -323,13 +323,13 @@ NINTH HOLD: [CENSOR: NINTH HOLD CONTENT]
 Do not assume the holds are physically separate. Some documents describe
 categories, not rooms. Ninth Hold references remain Level 5 restricted.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 HISTORY WITH A.C.T
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Contact History
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T first consolidated Ninefold Ark references after a stolen-sample investigation. A biological sample removed from
 a restricted recovery site appeared in a sealed conservation freezer under a philanthropic trust. The trust paperwork
@@ -351,7 +351,7 @@ unresolved case where an A.C.T evacuation list appears to have been used as a
 negative selection map.
 
 Current Relationship
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The current relationship is NEUTRAL. A.C.T does not treat Ninefold Ark as ally or
 enemy. The Ark has preserved
@@ -363,13 +363,13 @@ The Ark treats A.C.T as necessary, temporary, and possibly doomed. A.C.T treats 
 as useful, arrogant, and
 ethically unstable.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Responsible Jurisdiction
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Primary jurisdiction rests with Intelligence Division, Containment Division, Recovery Division, Command, Legal
 Division, Medical Division, and Civil Covert Division. Site 02 attaches to vaults, vessels, vehicles, and storage
@@ -377,7 +377,7 @@ technology. Site 03 attaches to memory banks, language archives, amnestic-resist
 claims. Medical attaches to living samples, reproductive material, cold cradles, and altered biological stock.
 
 Posture Implementation
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T posture is MONITOR / MISDIRECT / COOPERATED / APPROPRIATE. Monitoring includes vessel movements, seed-bank
 transfers, sample coffers, trust paperwork, cold-chain anomalies, nine-line seals, selection offices, denied-list
@@ -392,7 +392,7 @@ authorized when Ark holdings include stolen A.C.T material, living persons held 
 samples whose preservation endangers present containment.
 
 Response Limits and Red Lines
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T personnel must not publish Ark coordinates, even during dispute, unless Command determines exposure is the only
 way to save lives. Do not open fold vaults without inventory protocol. Do not
@@ -404,13 +404,13 @@ A.C.T will not permit Ninefold Ark to steal active anomalies, seize children und
 public evacuation to protect hidden vessels, use A.C.T lists for exclusion mapping, or decide that present populations
 are expendable because future restart value has been calculated.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 OPERATIONAL RECORDS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Restricted Operational Extract
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 ARK SELECTION FRAGMENT: NFA / FOLDED ARK CONTINUANCE
 VESSEL: [CENSOR: VESSEL HOLD NAME]
@@ -447,13 +447,13 @@ Do not mistake the Ark for salvation. Do not mistake it for villainy because
 it refuses salvation language. Treat it
 as a machine for continuance with human hands inside it.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Confirmed Operational Facts
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - Ninefold Ark is an outside continuance-containment network and not an A.C.T program.
 - It maintains hidden vessels, vaults, cold stores, archives, selection processes, and survival categories.
@@ -463,7 +463,7 @@ Confirmed Operational Facts
 - Its Ninth Hold category remains unknown and heavily protected.
 
 Active Intelligence Assessment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T assesses Ninefold Ark as a specialized NEUTRAL containment GOI. It matters because it plans beyond ordinary
 institutional survival. Most groups want power, secrecy, rescue, profit, worship, or control. The Ark wants
@@ -478,7 +478,7 @@ whether survival matters. It is who gets to define survival when there are fewer
 seats than names.
 
 Persistent Questions
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - What is the Ninth Hold: category, room, vessel, council, anomaly, or censored failure?
 - Do fold vaults physically enlarge space, alter inventory memory, or use undisclosed mundane
@@ -495,7 +495,7 @@ Ark decisions during mass
 failure?
 
 Intelligence Confidence
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Moderate. A.C.T holds one seized sample coffer, and has inspected one seed annex under cooperation and
 photographed one mobile hold from outside. Documentary material recovered includes selection
@@ -504,13 +504,13 @@ unknown Ninth Hold references, uncertain anomalous
 mechanics, and the Ark's ability to hide within legitimate preservation work. Confidence may rise through controlled
 vault inspection, negotiated inventory comparison, or recovery of a full selection ledger.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 CROSS-REFERENCE STATUS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Anomaly and Record Relationship
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Ninefold Ark is an organization and therefore belongs in the GOI archive. Individual fold vaults, cold cradles,
 covenant keys, memory banks, selection ledgers, sample coffers, ark holds, seed rooms, evacuation lotteries, and Ninth
@@ -518,7 +518,7 @@ Hold materials may require separate technology, anomaly, medical, ecological, le
 files. This GOI dossier must not replace vessel-specific or sample-specific custody review.
 
 Related A.C.T Records
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - CONTROLLED RECORD FORM, Group of Interest Registry
 - GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE, Group of Interest Registry
@@ -532,17 +532,17 @@ Related A.C.T Records
 under Central Archive routing.
 
 Dual Filing
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Mandatory when Ark tools or holdings demonstrate active anomalous behavior. Fold vaults, cold cradles, covenant keys,
 memory banks, selection ledgers, sample coffers, ark holds, and Ninth Hold materials should receive individual
 technology or anomaly files during the dedicated technology-document phase if they recur across cases. Legal and
 Command filing is mandatory when selection decisions intersect A.C.T evacuation obligations.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FILE METADATA
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FILE CREATED:            04/04/1917
 FILE LAST UPDATED:       09/01/1932

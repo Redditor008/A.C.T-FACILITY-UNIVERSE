@@ -11,7 +11,7 @@ Dossier Number: FLOOR-DOSSIER-01-US-W-F-6
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard / ACT Floor Record Standard
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 Archive Note
 
@@ -34,7 +34,7 @@ what it treats, how it is built, how it is run, and how it
 carries the
 human cost of the complex's purpose.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 1. Floor Registry Identity Summary
 
@@ -53,7 +53,7 @@ Access Posture: Controlled medical access; patient-status governed by
 medical confidentiality doctrine
 Current Status: Active
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 2. Dossier Purpose
 
@@ -69,7 +69,7 @@ artifact influence are evaluated in isolation. The floor is the complex's
 acknowledgment that its people are part of its containment system, and that
 the system fails if they are not cared for.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 3. Position in the Site Stack
 
@@ -94,7 +94,7 @@ and treated on F-6 under protocols that respect the restriction sets of the
 material they work with. Medical knowledge of a patient's duties does not
 override the patient's need for care.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 4. Historical Foundation
 
@@ -118,7 +118,7 @@ In its modern configuration, F-6 is the Medical Division's primary ward
 level, combining conventional trauma care with the specialized cognitive
 and memetic treatment the complex's work demands.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 5. Command and Authority
 
@@ -142,7 +142,7 @@ complex's decisions about personnel assignments and containment exposure,
 but do not substitute for the authority of the divisions that assign
 personnel.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 6. Divisional Presence
 
@@ -175,7 +175,7 @@ Archive personnel maintain F-6's medical records under the floor's
 confidentiality doctrine, preserving clinical documentation that informs
 both care and the complex's operational knowledge.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 7. Physical Plant and Architecture
 
@@ -212,7 +212,7 @@ F-6 is built to the complex's medical standard: precise environmental
 control, robust clinical infrastructure, and isolation capability that
 scales from routine care to full ward containment.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 8. Systems and Infrastructure
 
@@ -240,7 +240,7 @@ The floor maintains the complex's medical records under a confidentiality
 standard that protects personnel while preserving the clinical knowledge the
 Facility requires.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 9. Security and Containment Architecture
 
@@ -271,7 +271,7 @@ isolation breaches, and exposure events during care are met with the floor's
 response doctrine, with containment escalation available where a patient's
 condition involves active anomalous influence.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 10. Patient and Operational Character
 
@@ -296,7 +296,7 @@ doctrine: personnel who may have been influenced by contained material are
 evaluated in isolation, and the evaluation informs the complex's decisions
 about their duties and their access.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 11. Personnel and Duty Life
 
@@ -319,7 +319,7 @@ the cost of the complex's purpose. The Medical Division maintains its own
 support structures for clinical staff, recognizing that caring for the
 carriers of anomalous weight is itself demanding work.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 12. Floor Doctrine
 
@@ -343,7 +343,7 @@ as the patient: personnel must be able to seek care without fear that their
 treatment will compromise their standing. The floor's records balance
 confidentiality with the operational knowledge the Facility requires.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 13. Incident Archive
 
@@ -352,7 +352,7 @@ incidents, isolation-suite events, and exposure incidents during care. The
 floor's history is recorded in the complex's medical archives — the history
 of the site's care for the people who contain the impossible.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 14. Current Status and Projected Development
 
@@ -363,7 +363,7 @@ priorities include:
 - coordination with the deep-hold floors on the care of personnel assigned
   to perception-sensitive material.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 15. Cross-Referenced Files
 
@@ -374,7 +374,7 @@ priorities include:
 - ACT_Site_Doctrine_and_Installation_Structure.md / .txt
 - Redwood Veil Annex Register (clearance-gated)
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 Archive Closing
 

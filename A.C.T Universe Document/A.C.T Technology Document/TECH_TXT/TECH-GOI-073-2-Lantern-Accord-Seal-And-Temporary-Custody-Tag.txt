@@ -1,5 +1,5 @@
 A.C.T FACILITY ARCHIVE FILE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Lantern Accord Seal And Temporary Custody Tag
 =============================================
@@ -12,7 +12,7 @@ Origin: Lantern Accord (GOI-HY-W-073), Accord Clerk issue under charter terms
 Clearance: Level 3 for examination; Level 4 for any replication study
 
 Archive Note
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The archive holds three Lantern Accord seals. All three are expired. No valid seal is held.
 
@@ -36,7 +36,7 @@ any. They are also a forgery reference, so access is restricted and not open. No
 taken, no ink sample is drawn, and no replication study proceeds without Level 4 and Legal approval.
 
 THE INSTRUMENT
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 1.1 What a seal does
 ====================
@@ -74,7 +74,7 @@ The seal expires by design. All three units are expired, which makes expiry a de
 rather than an accident of age. The period and the trigger are unknown.
 
 HANDLING
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 2.1 Custody
 ===========
@@ -108,7 +108,7 @@ Recorded for reference. It is not a Facility procedure and no personnel may foll
 8. An expired seal is retained as a record and attests nothing further.
 
 DIVISION USE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | DIVISION                   | USE                                                                                   |
@@ -121,7 +121,7 @@ DIVISION USE
 +----------------------------+---------------------------------------------------------------------------------------+
 
 OPEN QUESTIONS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - what the expiry period is, and whether expiry is timed or event-triggered;
 - whether the ink is distinctive enough to authenticate a sealed document at a distance;
@@ -135,7 +135,7 @@ extend charter standing or be meaningless, and the difference decides whether th
 ever hold one. Legal has not ruled.
 
 CROSS-REFERENCES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - GOI-HY-W-073 — Lantern Accord, Group of Interest Dossier
 - TECH-GOI-073-1 — Lantern Accord Collapsible Signal Beacon, Technology Record
@@ -146,7 +146,7 @@ The beacon opens a line, the warrant records that it is open, the seal attests t
 violation ledger records what was done along it. None of the four functions inside A.C.T custody.
 
 FILE METADATA
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Record Type: Technology Record — Recovered Adversary Device
 Created: 22/08/2019

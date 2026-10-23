@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 Soul-Pendant-AFD-OB-412
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                  Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-OB-412
 TITLE I:             Soul Pendant
@@ -15,9 +15,9 @@ FIELD TYPE:          OB — Object
 
 CLEARANCE REQUIRED:  Level 4
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   REACTIVE
 
@@ -32,9 +32,9 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           CONTAINED-STUDY
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
 
 DATE OF DETECTION:   1984-06-12
 VERIFICATION DATE:   1984-07-01
@@ -52,9 +52,9 @@ AMNESTIC DEPLOYED:   N/A.
 NARRATIVE STATUS:    The item was logged as a "Glow-Pendant" and kept in
                      low-security storage for eight years.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
 
 AFD-OB-412 is a teardrop-shaped pendant composed of an unidentified
 crystalline material encased in a blackened silver filigree. From 1984
@@ -87,9 +87,9 @@ link with the donor's physical body.
 
 CURRENT HOST: Senior Researcher Aris Thorne (Trapped since 1992).
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Soul Entrapment. Permanent displacement of sentient
                      consciousness into the object's core upon blood-
@@ -111,9 +111,9 @@ TEMPORAL BEHAVIOR:   Constant / Indefinite.
 
 REALITY INTERACTION: Consciousness Displacement / Matter Reconstruction.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
 
 AFD-OB-412 and its linked biological host are to be contained at
 ACT-SITE-02-RU-N (White Grave Station).
@@ -153,9 +153,9 @@ BREACH PROTOCOL:         If the host body is destroyed, the pendant must
                          Researcher Thorne's body is to be declared a
                          lethal biohazard.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
 
 The "Soul Pendant" represents an extreme form of accidental
 immortality. Unlike the Founders' Static Condition, Thorne's
@@ -167,9 +167,9 @@ suggest that "un-trapping" the soul would require the total
 destruction of the pendant, which would likely result in the
 immediate and total cessation of the host body's biological functions.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
 
 NOTE 001:
 Thorne has provided several "Insight Logs" during his 32 years of

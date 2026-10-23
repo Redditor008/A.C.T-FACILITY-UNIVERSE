@@ -81,12 +81,11 @@ For a future A.C.T. wiki, sources should be ranked in this order:
    **Official Project Moon game text, official publisher
    announcements, and officially released supplementary media** —
    strongest authority for Project Moon facts.
-   **The official English SCP Wiki** — strongest authority for SCP material, licenses, policies, and individual SCP
-   authorship.
+   **The official English SCP Wiki** — strongest authority for SCP
+   material, licenses, policies, and individual SCP authorship.
    **wiki.gg Project Moon wikis** — strong community reference sources, particularly for current gameplay systems and
-   cross-linked lore. They are fan-maintained rather than publisher-owned canon declarations. **Fandom Project
-   Moon wikis** — useful historical and navigational references, but dates and coverage must be checked
-   page by page.
+   cross-linked lore. They are fan-maintained rather than publisher-owned canon declarations. **Fandom Project Moon
+   wikis** — useful historical and navigational references, but dates and coverage must be checked page by page.
    **Community essays, Reddit, Steam guides, videos, and
    discussion posts** — useful leads only; never the final source
    for a factual claim or rights decision.
@@ -102,8 +101,8 @@ useful definition of completion is:
 - its function, coverage, update reliability, and core navigation are documented;
 - foundational themes and documentation practices are understood;
 - source-specific material is isolated from original A.C.T. content;
-  exact-page research becomes a mandatory pre-writing step for any named crossover, character, artifact, or SCP
-  reference.
+  exact-page research becomes a mandatory pre-writing step for
+  any named crossover, character, artifact, or SCP reference.
 
 This gives the A.C.T. project a durable research basis without falsely claiming that a
 live multi-thousand-page
@@ -1540,8 +1539,8 @@ This prevents a later wiki migration from losing vital attribution data.
 
 1. Design original A.C.T. iconography for field type, containment, fracture, threat, transformation, and clearance.
 2. Build an original archive header and classification panel.
-   Establish document styles for Standard File, RCT File, Vault Record, Interview, Incident, Personal Log, and GOI
-   Registry.
+   Establish document styles for Standard File, RCT File, Vault
+   Record, Interview, Incident, Personal Log, and GOI Registry.
 4. Create an original site map/lattice with a documented art source trail.
 5. Add accessibility and print/plain-text tests.
 

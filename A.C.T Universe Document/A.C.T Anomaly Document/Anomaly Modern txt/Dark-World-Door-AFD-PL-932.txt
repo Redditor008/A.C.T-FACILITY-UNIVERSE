@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 Dark-World-Door-AFD-PL-932
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                  Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-PL-932
 TITLE I:             Dark World Door
@@ -15,9 +15,9 @@ FIELD TYPE:          PL — Place
 
 CLEARANCE REQUIRED:  Level 4
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   EXIGENT
 
@@ -32,9 +32,9 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           CONTAINED-STUDY
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------------+
 
 DATE OF DETECTION:   1984-10-12
 VERIFICATION DATE:   1984-11-05
@@ -52,9 +52,9 @@ AMNESTIC DEPLOYED:   Yes — 004-D Grade
 NARRATIVE STATUS:    Manor sealed under "Structural Instability and Chemical
                      Contamination" cover story.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------------+
 
 AFD-PL-932 is a wooden door measuring 2.1 m by 0.9 m, composed of an
 unidentified, non-terrestrial pale wood. The material is functionally
@@ -101,9 +101,9 @@ Bones Hounds possess deep-blue, shiny eyes composed of a non-organic
 unknown material. They feed on "Eel-Crabs"—amphibious deep-red hybrids
 found within the Red River.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Stable Spatiotemporal Portal. AFD-PL-932 allows
                      unrestricted physical transit between Earth and the
@@ -132,9 +132,9 @@ TEMPORAL BEHAVIOR:   Constant. Moon cycles shift every two months.
 REALITY INTERACTION: Dimensional Aperture / Matter-Transformation /
                      Anomalous Biological Persistence.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------------+
 
 AFD-PL-932 is contained within a reinforced, airtight vault at
 ACT-SITE-02-RU-N — White Grave Station. The primary containment focus is
@@ -182,9 +182,9 @@ BREACH PROTOCOL:         In the event of a biological breach, seal the
                          evacuate and wait for outgassing to conclude
                          (approx. 12 months) before attempt recovery.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------------+
 
 The Dark World represents a highly hostile but resource-rich environment.
 The Pale Wood possesses potential for use as structural reinforcement for
@@ -201,9 +201,9 @@ Shiny eyes do not possess a nervous connection to the brain (which is
 partially desiccated). They appear to transmit sensory data via
 [ REDACTED ] frequency.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------------+
                       TRANSFORMATION NOTES
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------------+
 
 TRANSFORMATION ATTEMPT
 STATUS:              CONTAINED-STUDY
@@ -213,9 +213,9 @@ Research into refining the toxic byproduct of hardened Blue Dirt is
 ongoing. If the outgassing can be neutralized, "Steel-Dirt" could
 become the standard for immediate breach-point sealing.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------------+
 
 NOTE 001:
 Personnel are warned that the "shiny eyes" of the Bones Hounds are

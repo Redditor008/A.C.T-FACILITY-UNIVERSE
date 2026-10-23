@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 Vivienne-Argent-AFD-SU-827
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                  Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-827
 TITLE I:             Vivienne Argent
@@ -15,9 +15,9 @@ FIELD TYPE:          SU — Subject
 
 CLEARANCE REQUIRED:  Level 3
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   REACTIVE
 
@@ -32,9 +32,9 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           STABILIZED
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 DATE OF DETECTION:   2023-09-14
 VERIFICATION DATE:   2023-09-15
@@ -52,9 +52,9 @@ AMNESTIC DEPLOYED:   Yes — 004-G Grade.
 NARRATIVE STATUS:    Subject's disappearance publicly explained as
                      voluntary relocation for medical treatment.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 AFD-SU-827, formerly known as Vivienne Argent, is a female humanoid
 subject possessing the lower anatomy of a green anaconda (*Eunectes
@@ -97,9 +97,9 @@ environment. She is non-hostile and cooperative but requires clear
 explanations of procedure and respect for her agency. She reacts
 poorly to pity, objectification, or being treated as a specimen.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Spontaneous Humanoid Transmutation. The subject
                      possesses a permanent, stable chimerical biology
@@ -124,9 +124,9 @@ TEMPORAL BEHAVIOR:   Constant / Temperature-dependent metabolic rate.
 
 REALITY INTERACTION: Biological-Law Violation / Spontaneous Speciation.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 AFD-SU-827 is housed in a "Humidity-Controlled Suite" at
 ACT-SITE-04-BR-C.
@@ -164,18 +164,18 @@ BREACH PROTOCOL:         The subject is non-hostile and motivated by
                          guide her to safety using negotiated rules.
                          Avoid "Death Flags"—unnecessary escalations.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 Vivienne’s "Protagonist Thinking" serves as an intuitive risk-analysis
 tool. Research focuses on her enhanced sensory inference and the
 molecular mechanics of her "Quiet Transformation" from human to
 reptilian-hybrid state.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 NOTE 001:
 Subject uses dry humor and otaku meta-commentary to manage stress.

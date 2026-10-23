@@ -1,10 +1,10 @@
 A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
 The-Tooth-Fed-Handgun-Experiment-Testing-Dossier-AFD-OB-006
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
               A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-OB-006
 TITLE I:             The Tooth-Fed Handgun
@@ -23,9 +23,9 @@ CONTAINMENT SITE:    ACT-SITE-01-US-W — Redwood Veil Complex
 ARCHIVE STATUS:      Active / Anomalous weapons restricted
 DOSSIER STATUS:      Open / Initial testing archived
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 This dossier belongs to A.C.T Log Category III — Experiment & Testing Dossier.
 The document may contain multiple controlled test, feeding, interaction, and
@@ -46,9 +46,9 @@ To preserve controlled evidence of AFD-OB-006's biomechanical weapon behavior:
 its acceptance of gunpowder as feed, growth of tooth-like ammunition, animal-like
 conditioning responses, and ability to redirect the handler's aim.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          DOSSIER SUMMARY
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 AFD-OB-006 is a handgun-shaped biomechanical object with internal organs,
 tissue-like structures, and a calcified support bone in place of ordinary
@@ -66,9 +66,9 @@ containment rules:
    2. Do not hold in firing grip without restraints.
    3. Do not assume the handler chooses the target.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                   SECTION 001 — BASELINE HANDLING TEST
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-006/TST-001
 LOG TYPE:            Baseline Handling Test
@@ -103,9 +103,9 @@ AFD-OB-006 reacts mildly to touch even when unfed. No discharge occurred.
 SAFETY NOTE:
 The object should not be described as inert. It should be described as dormant.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                     SECTION 002 — FEEDING CYCLE TEST
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-006/FED-001
 LOG TYPE:            Feeding Cycle Test
@@ -140,9 +140,9 @@ ARCHIVE NOTE:
 AFD-OB-006 displayed lower agitation for approximately 31 days after feeding.
 This supports current 45-day feeding schedule but does not justify overfeeding.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                 SECTION 003 — AMMUNITION GROWTH REVIEW
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-006/AMM-001
 LOG TYPE:            Ammunition Growth Review
@@ -173,9 +173,9 @@ Recovered tooth-rounds must be stored in sealed sample trays. Do not place
 recovered rounds near AFD-OB-006. The object may attempt to reabsorb or reject
 them depending on maturity state.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
               SECTION 004 — HANDLER-AIM OVERRIDE TEST
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-006/TST-002
 LOG TYPE:            Handler-Aim Override Test
@@ -212,9 +212,9 @@ PROCEDURE UPDATE:
 AFD-OB-006 may not be held in firing grip unless all unintended heat, pulse,
 movement, and biological analog targets are removed from the testing lane.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                  SECTION 005 — BALLISTIC DISCHARGE LOG
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-006/BAL-001
 LOG TYPE:            Ballistic Discharge Log
@@ -247,9 +247,9 @@ SAFETY NOTE:
 Remote mounting reduces but does not eliminate hazard. The object may still
 select target-like stimuli if they enter its forward arc.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                   SECTION 006 — SAFE-CONDITIONING TRIAL
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-006/CON-001
 LOG TYPE:            Safe-Conditioning Trial
@@ -288,9 +288,9 @@ CONCLUSION:
 Conditioning should be used only to reduce containment risk. It is not training
 for deployment.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                 SECTION 007 — PROCEDURE REVISION NOTE
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-006/PRC-001
 LOG TYPE:            Procedure Revision Note
@@ -318,9 +318,9 @@ TRAINING PHRASE:
                      It is not smart enough to trust.
                      It is not inert enough to ignore.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 Current testing supports classification of AFD-OB-006 as a reactive anomalous
 object with biological internal systems and animal-like conditioning behavior.

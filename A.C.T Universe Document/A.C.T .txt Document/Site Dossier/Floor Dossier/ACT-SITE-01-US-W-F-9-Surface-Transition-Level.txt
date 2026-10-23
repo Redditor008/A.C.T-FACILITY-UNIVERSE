@@ -11,7 +11,7 @@ Dossier Number: FLOOR-DOSSIER-01-US-W-F-9
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard / ACT Floor Record Standard
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 Archive Note
 
@@ -31,7 +31,7 @@ how it conceals, how it is built, and how it stands as the boundary
 between
 the ordinary world and the buried complex that operates beneath it.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 1. Floor Registry Identity Summary
 
@@ -53,7 +53,7 @@ been breached
 Access Posture: Boundary-control access
 Current Status: Active
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 2. Dossier Purpose
 
@@ -69,7 +69,7 @@ moved through the level's elevator bank into the depths. The floor is the
 complex's interface with the ordinary world — designed so that the interface
 never reveals what it serves.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 3. Position in the Site Stack
 
@@ -94,7 +94,7 @@ Personnel and material passing through F-9 move downward to F-8, where
 personnel are processed and cleared before descending to their duty floors.
 F-9 is the physical boundary; F-8 is the administrative boundary.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 4. Historical Foundation
 
@@ -120,7 +120,7 @@ screened gateway through which the campus's legitimate traffic and the
 buried core's operational traffic pass — kept separate by a wall that gives
 no sign of what it conceals.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 5. Command and Authority
 
@@ -143,7 +143,7 @@ legitimate campus's ordinary operations. Its authority begins where the
 boundary begins: at the point where surface traffic meets the complex's
 screening architecture.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 6. Divisional Presence
 
@@ -171,7 +171,7 @@ The floor's loading bay operations are supported by logistics personnel who
 manage the movement of supplies, equipment, and material between the campus
 and the buried core.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 7. Physical Plant and Architecture
 
@@ -207,7 +207,7 @@ built to appear as ordinary construction — and behind it, the complex's
 screening and intake operations occur. The wall has never been breached,
 and the floor's security doctrine is built around maintaining that record.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 8. Systems and Infrastructure
 
@@ -235,7 +235,7 @@ The floor maintains communications with both the legitimate campus and the
 buried core, with the boundary between the two networks enforced by the
 floor's communication security doctrine.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 9. Security and Boundary Architecture
 
@@ -269,7 +269,7 @@ intake violations, and attempts to cross the unmarked wall are met with the
 Security Division's boundary response doctrine, with the buried core sealed
 behind the floor if the boundary is threatened.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 10. Function and Character
 
@@ -290,7 +290,7 @@ core.
 F-9 holds no residents and no operational material beyond transit. Its
 character is transitional — the floor is a passage, not a place of keeping.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 11. Personnel and Duty Life
 
@@ -314,7 +314,7 @@ performed within the campus's legitimate framework, and the boundary they
 guard gives no sign of what it conceals. The floor's people are the
 unmarked wall's human equivalent.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 12. Floor Doctrine
 
@@ -340,7 +340,7 @@ elevator bank is the single route into the depths, and the floor's control
 of that route is the complex's control of everything that enters or leaves
 the buried core.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 13. Incident Archive
 
@@ -350,7 +350,7 @@ The wall's record — never breached — is maintained through the incidents
 that have tested it, and the floor's history is the history of the boundary
 holding.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 14. Current Status and Projected Development
 
@@ -360,7 +360,7 @@ priorities include:
 - refinement of intake and transition procedures;
 - preservation of the unmarked wall's integrity and concealment.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 15. Cross-Referenced Files
 
@@ -370,7 +370,7 @@ priorities include:
 - ACT_Site_Doctrine_and_Installation_Structure.md / .txt
 - Redwood Veil Annex Register (clearance-gated)
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 Archive Closing
 

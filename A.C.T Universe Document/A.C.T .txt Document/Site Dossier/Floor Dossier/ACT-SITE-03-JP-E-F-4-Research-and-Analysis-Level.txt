@@ -11,7 +11,7 @@ Dossier Number: FLOOR-DOSSIER-03-JP-E-F-4
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard / ACT Floor Record Standard
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 Archive Note
 
@@ -31,7 +31,7 @@ what it studies, how it is built, how it is run, and how the
 node's
 research discipline balances knowledge against the danger of knowing.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 1. Floor Registry Identity Summary
 
@@ -51,7 +51,7 @@ restrictions
 Access Posture: Clearance-gated research access under exposure limits
 Current Status: Active
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 2. Dossier Purpose
 
@@ -68,7 +68,7 @@ restrictions that treat understanding as a controlled substance: pursued
 carefully, documented exactly, and never allowed to outrun the containment
 that makes study possible.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 3. Position in the Site Stack
 
@@ -92,7 +92,7 @@ the floor's research findings inform redaction work, and the controlled
 reading conducted on F-5 supports the floor's analysis of material that
 cannot be safely studied by ordinary means.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 4. Historical Foundation
 
@@ -116,7 +116,7 @@ In its modern configuration, F-4 is the node's research heart: the floor
 where the archive studies what it holds, under the exposure restrictions
 that make the study of dangerous knowledge possible.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 5. Command and Authority
 
@@ -141,7 +141,7 @@ to
 the material it studies, and it may not exceed the exposure restrictions
 that govern its work.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 6. Divisional Presence
 
@@ -175,7 +175,7 @@ the exposure limits that govern the floor.
 Security guards the floor's access architecture and enforces the
 restriction protocols governing entry to the floor's study spaces.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 7. Physical Plant and Architecture
 
@@ -211,7 +211,7 @@ documents, images, and recordings whose anomalous character includes
 transmission or replication. The center's work informs the node's media
 response operations and the Facility's wider secrecy doctrine.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 8. Systems and Infrastructure
 
@@ -239,7 +239,7 @@ observation records, and propagation tracking data are stored under
 standards that treat research on anomalous information as sensitive
 Facility knowledge.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 9. Security and Containment Architecture
 
@@ -269,7 +269,7 @@ restriction violations, and sample-control breaches are met with the node's
 response doctrine, with cognitive-care and containment escalation as
 required.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 10. Research Character and Programs
 
@@ -296,7 +296,7 @@ Research on the node's most sensitive holdings proceeds under the deepest
 exposure restrictions — or does not proceed at all. The floor's duty
 includes knowing when study is not worth the knowledge it would produce.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 11. Personnel and Duty Life
 
@@ -320,7 +320,7 @@ understanding as a controlled substance: researchers study material under
 limits, document their exposure, and submit to cognitive monitoring where
 their work requires it. The discipline is the floor's defining culture.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 12. Floor Doctrine
 
@@ -343,7 +343,7 @@ F-4 doctrine acknowledges the floor's limits: some knowledge is not worth
 its cost, and the floor's duty includes recognizing when study must not
 proceed — even when understanding remains incomplete.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 13. Incident Archive
 
@@ -352,7 +352,7 @@ incidents, restriction violations, and sample-control discrepancies. The
 incidents that established the node's exposure-restriction doctrine are
 preserved in the node's history files.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 14. Current Status and Projected Development
 
@@ -363,7 +363,7 @@ priorities include:
 - coordination with the Redaction and holding floors on the knowledge the
   node's decisions require.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 15. Cross-Referenced Files
 
@@ -374,7 +374,7 @@ priorities include:
 - ACT_Site_Doctrine_and_Installation_Structure.md / .txt
 - Kurokawa Annex Register (clearance-gated)
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 Archive Closing
 

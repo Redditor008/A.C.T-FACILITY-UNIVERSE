@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 Infinity-Train-AFD-SP-890
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                  Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SP-890
 TITLE I:             Infinity Train
@@ -15,9 +15,9 @@ FIELD TYPE:          SP — Space
 
 CLEARANCE REQUIRED:  Level 4
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   UNENCLOSABLE
 
@@ -32,9 +32,9 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           NEUTRAL
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 DATE OF DETECTION:   1989-11-22
 VERIFICATION DATE:   1990-01-15
@@ -52,9 +52,9 @@ AMNESTIC DEPLOYED:   Yes — Early Hypnotic Suppression.
 NARRATIVE STATUS:    The spur was demolished and masked via ARM (Item 02).
                      The subject is contained in-place.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 AFD-SP-890 is an anomalous passenger train consisting of a steam-era
 locomotive and a theoretically infinite number of carriages. Externally,
@@ -96,9 +96,9 @@ The infinite carriages are generated via a probabilistic lottery:
 — Open-Top "Any-Type" Carriage (2.5%): Rare. Carriages lacking a
     roof; capable of manifesting randomized environments or objects.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Infinite Internal Volume. The subject’s interior
                      space does not correspond to its exterior dimensions.
@@ -120,9 +120,9 @@ TEMPORAL BEHAVIOR:   Constant cycle (60m Move / 1-5m Stop).
 REALITY INTERACTION: Spatial Expansion / Temporal Dilation /
                      Extradimensional Transit.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 AFD-SP-890 is contained in-place via Site-Sub-[REDACTED]-UK-W.
 
@@ -157,9 +157,9 @@ BREACH PROTOCOL:         In the event of the train "Leaving" the spur
                          Anchor Nail (Item 30) deployment at the
                          estimated re-manifestation nodes.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 The "Infinity Train" represents a massive spatial fracture that utilizes
 a 19th-century aesthetic to process high-level causal data. The "Void"
@@ -175,9 +175,9 @@ The recovered camera contained two (2) years of continuous
 recording. This confirms a 2:1 temporal dilation ratio within the
 subject’s interior.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 NOTE 001:
 [STRUCTURAL DATA OMITTED]

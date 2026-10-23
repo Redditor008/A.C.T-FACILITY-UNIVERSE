@@ -487,8 +487,8 @@ material as a government asset.
 
   Is Anstrall a singular person, a protected succession identity,
   or a commercial fiction maintained by multiple actors?
-  Which Market procedures are deliberate leadership policy and which are informal practices copied by independent
-  brokers?
+  Which Market procedures are deliberate leadership policy and
+  which are informal practices copied by independent brokers?
 — What objects have been sold without any surviving A.C.T recovery lead?
 — Which buyers understand enough to become repeat clients rather than isolated purchasers?
   Are any Market handlers using anomalous tools to protect routes, verify goods, or

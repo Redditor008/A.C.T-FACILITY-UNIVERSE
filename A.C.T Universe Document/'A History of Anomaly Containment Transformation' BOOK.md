@@ -3294,8 +3294,8 @@ been completely observed, and all measurements remain partial, inferred, or unce
  that the entity is looking directly at them despite physical
  dormancy
 — weak or unstable minds frequently suffer immediate mental collapse
- exposed subjects often enter compulsive scribbling phases, transcribing unknown words, symbols, or script from an
- unidentified language
+ exposed subjects often enter compulsive scribbling phases, transcribing
+ unknown words, symbols, or script from an unidentified language
  approximately 24 hours after initial vision exposure, the
  subject dies of sudden cardiac arrest in many recorded cases
 

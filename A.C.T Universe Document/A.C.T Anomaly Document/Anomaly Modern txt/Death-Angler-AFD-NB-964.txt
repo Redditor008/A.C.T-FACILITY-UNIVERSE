@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 Death-Angler-AFD-NB-964
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                  Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-NB-964
 TITLE I:             Death Angler
@@ -15,9 +15,9 @@ FIELD TYPE:          NB — Non-Natural Bio Hazard
 
 CLEARANCE REQUIRED:  Level 4
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   REACTIVE
 
@@ -32,9 +32,9 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           NEUTRAL
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 DATE OF DETECTION:   1911-11-04
 VERIFICATION DATE:   1914-02-12
@@ -52,9 +52,9 @@ AMNESTIC DEPLOYED:   N/A.
 NARRATIVE STATUS:    The 3-month capture effort was masked as a deep-sea
                      exploration mission. (Modernized to AFD-NB-964 1982)
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 AFD-NB-964 is a massive aquatic organism measuring 10.4 meters in
 length. Morphologically, the subject resembles a hybrid of a female
@@ -90,9 +90,9 @@ pursues the prey in a "Sinister Hunt"—a highly coordinated and
 ritualistic predatory sequence that appears to prioritize the prey’s
 distress over immediate consumption.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Visual Hypnosis. The active lure forces subjects
                      into proximity.
@@ -112,9 +112,9 @@ TEMPORAL BEHAVIOR:   Intermittent (Lure-dependent).
 
 REALITY INTERACTION: Perceptual Masking / Memetic Compulsion.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 AFD-NB-964 is housed in a "Blind Box" Abyssal Aquarium at
 ACT-SITE-05-ID-C.
@@ -150,18 +150,18 @@ BREACH PROTOCOL:         In the event of a breach, initiate a "Blind
                          high-intensity thermal-lures to guide the
                          subject back to primary containment.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 Research into the "Sinister Hunt" suggests that AFD-NB-964 does not
 merely feed on tissue, but on the chemical and neural output of high-
 intensity fear. The screech is a deliberate "Wake-up" command designed
 to ensure the prey is conscious and terrified during the chase.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 NOTE 001:
 The 3-month capture effort resulted in the loss of one recovery

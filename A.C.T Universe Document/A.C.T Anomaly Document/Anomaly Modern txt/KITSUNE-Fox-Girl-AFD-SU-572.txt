@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 KITSUNE-Fox-Girl-AFD-SU-572
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-572
 TITLE I:             KITSUNE, Fox Girl
@@ -16,9 +16,9 @@ FIELD TYPE:          SU — Subject
 
 CLEARANCE REQUIRED:  Level 2
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   SPORADIC
 
@@ -46,9 +46,9 @@ EXPOSURE AUTHORIZATION: Current Researcher / Designated Field Personnel
 
 BREACH STATE:        Content
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 DATE OF DETECTION:   1934-10-12
 VERIFICATION DATE:   1934-11-03
@@ -67,9 +67,9 @@ AMNESTIC DEPLOYED:   Limited, after formal A.C.T transfer
 NARRATIVE STATUS:    Controlled as local shrine folklore and hereditary temple
                      caretaker tradition
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 AFD-SU-572 is a 232-year-old female-presenting kitsune-class humanoid subject
 who identifies as Kazumi Mori. The subject explains that the name was given by
@@ -118,9 +118,9 @@ amounts, steamed vegetables, and seasonal sweets. The subject can consume normal
 food, but reports that non-offering food "does not answer back" and leaves her
 fatigued after repeated meals.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Kitsune-class morphology and longevity. AFD-SU-572 displays
                      human-vulpine body traits and claims an age of 232 years.
@@ -171,9 +171,9 @@ ACTIONS:
    - arranging leaves into a spiral around a cracked stone fox statue
    - pushing a researcher's pen away after the word "specimen" was written
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 AFD-SU-572 is housed in a cooperative subject suite at ACT-SITE-03-JP-E designed
 to resemble a small temple residence. The suite must include tatami flooring,
@@ -236,9 +236,9 @@ IN BREACH IF IT:
               telepathic contact with civilians, or returns to public temple
               grounds without cover control
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 AFD-SU-572 is considered low-to-moderate risk. Her primary danger is secrecy
 exposure, psionic privacy violation, and uncontrolled public folklore revival,
@@ -265,9 +265,9 @@ spiritual-human hybrid, long-lived shrine entity, or localized cultural anomaly
 that stabilized into a person. The subject herself rejects strict categories and
 says: "A fox knows the path by walking, not by naming the road."
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                       TRANSFORMATION NOTES
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 TRANSFORMATION ATTEMPT
 STATUS:              Not applicable / prohibited without consent
@@ -285,9 +285,9 @@ review. The subject is a contained person, not a shrine instrument.
 Current doctrine prioritizes stable care, cultural continuity, secrecy, and
 non-coercive research.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 NOTE 001:
 AFD-SU-572 has asked that offerings not be called "rations." The subject's

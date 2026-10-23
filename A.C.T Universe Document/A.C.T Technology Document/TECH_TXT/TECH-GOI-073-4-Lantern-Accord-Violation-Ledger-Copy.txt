@@ -1,5 +1,5 @@
 A.C.T FACILITY ARCHIVE FILE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Lantern Accord Violation Ledger Copy
 ====================================
@@ -12,7 +12,7 @@ Origin: Lantern Accord (GOI-HY-W-073), Accord Clerk maintained, copied by A.C.T
 Clearance: Level 4 for reading; Level 5 for any disclosure decision
 
 Archive Note
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The archive holds one copied violation ledger. It is a copy and not a ledger, and the dossier says so plainly.
 
@@ -36,7 +36,7 @@ any violation, must not quote it to any external party, and must not extract any
 other system. Its provenance is sensitive because the Facility made it.
 
 THE RECORD
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 1.1 What the ledger does
 ========================
@@ -64,7 +64,7 @@ codebooks turn over, and a copy taken at one moment decodes against the codebook
 moment and no other. Which moment that was is not recorded.
 
 HANDLING
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 2.1 Custody
 ===========
@@ -107,7 +107,7 @@ Recorded for reference. It is not a Facility procedure and no personnel may foll
 8. The signatory codebooks are updated after the broken line.
 
 DIVISION USE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | DIVISION                   | USE                                                                                   |
@@ -122,7 +122,7 @@ DIVISION USE
 +----------------------------+---------------------------------------------------------------------------------------+
 
 OPEN QUESTIONS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - how the copy was made, by whom, and with whose knowledge;
 - whether the Accord knows a copy exists;
@@ -135,7 +135,7 @@ The first and last questions govern the handling rule. Provenance is sensitive b
 copy, and requesting the original would concede that a copy exists. Neither question has been put to Legal.
 
 CROSS-REFERENCES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - GOI-HY-W-073 — Lantern Accord, Group of Interest Dossier
 - TECH-GOI-073-1 — Lantern Accord Collapsible Signal Beacon, Technology Record
@@ -147,7 +147,7 @@ open, the seal attests the writing, and this ledger records what was done along 
 one broken instrument, three expired seals, two fragments and one copy, and holds nothing valid.
 
 FILE METADATA
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Record Type: Technology Record — Recovered Adversary Device
 Created: 19/06/2020

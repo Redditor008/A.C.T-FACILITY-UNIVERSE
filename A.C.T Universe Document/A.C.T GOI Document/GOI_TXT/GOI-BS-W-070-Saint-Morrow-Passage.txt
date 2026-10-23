@@ -1,7 +1,7 @@
 A.C.T FACILITY ARCHIVE FILE — GOI BS W 070 Saint Morrow Passage
 ===========================
 GROUP OF INTEREST REGISTRY - SAINT MORROW PASSAGE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                                                         |
@@ -92,13 +92,13 @@ Active route ledgers, living passengers, child crossings, quarantine substitutio
 under MORROW PASSAGE DISCLOSURE LIMIT. Some redactions protect civilians still in transit. Some protect route
 stability. Some protect A.C.T evacuation routes that would collapse if publicly reconstructed.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 IDENTITY AND INSTITUTIONAL FUNCTION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Group Function
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Saint Morrow Passage functions as a market for getting through. Its clients come to
 it when roads repeat, bridges
@@ -121,7 +121,7 @@ This is partly sales language and partly operational warning. Some routes servic
 passenger history if a crossing is delayed, misnamed, or unpaid.
 
 Public Presence and Concealment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Passage hides inside bus companies, ferry brokers, visa advisers, border transport firms, private ambulance
 services, hostel desks, chapel depots, disaster shuttle programs, moving companies, hospital discharge cars, and
@@ -135,13 +135,13 @@ cards marked MORROW PAID, and route receipts that list arrival as after the road
 agrees. Most signs are non-anomalous
 until used in combination with a route.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Leadership Condition
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 No single owner is confirmed. Local offices answer to Passage Wardens, who license routes and decide whether a
 crossing remains safe enough to sell. Ticket Saints witness difficult crossings and carry authority to refuse buyers.
@@ -154,7 +154,7 @@ or a brand invented to make terrified
 passengers obey instructions.
 
 Internal Structure
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T identifies these functional layers:
 
@@ -173,7 +173,7 @@ The structure gives the Passage institutional durability. Drivers can be arreste
 and procedures keep the market alive.
 
 Membership and Recruitment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Membership includes professional drivers, ferry workers, former border guards, displaced guides, medics, shelter
 hosts, migrant-route workers, maritime brokers, railway staff, hospital discharge contractors, undertakers,
@@ -187,13 +187,13 @@ shift may be offered payment. A
 former witness who remembers correct border words may become
 a trainer. The Passage values experience more than ideology.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Stated Belief
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Saint Morrow Passage believes that passage is a real commodity because blocked movement kills. It does not claim all
 people deserve free movement, and it does not refuse all dangerous clients. Its doctrine
@@ -213,7 +213,7 @@ A.C.T assessment: the second phrase is a real restraint. The first phrase is the
 moral risk.
 
 Assessed Objective
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Passage seeks to control and profit from reliable movement through unreliable geography. It is less interested in
 objects than routes, less interested in identity than admissibility, and less interested in ownership than arrival. It
@@ -226,7 +226,7 @@ It conflicts with A.C.T when the Passage moves suspects, unregistered anomalies,
 avoiding aftercare. Work classification reflects this repeated practical overlap and repeated operational friction.
 
 Anomalous Capability Assessment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Saint Morrow Passage is assigned Handler capability. It handles routes, keys, maps, bells, tickets, and crossing
 practices that interact with abnormal travel conditions. Confirmed or strongly assessed capabilities include:
@@ -244,7 +244,7 @@ point;
 The Passage does not appear to create most routes. It discovers, prices, stabilizes, and exploits them.
 
 Secrecy and Civilian Exposure
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Passage is Leaking because travel produces witnesses, tickets, border stamps, camera gaps, missing vehicles, false
 arrivals, and families who remember impossible transit. A bus that leaves a closed town
@@ -257,13 +257,13 @@ A.C.T's exposure risk rises when the Passage uses public vehicles or crosses off
 controlled leak may still be preferable to a mass casualty event inside a closing
 zone.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Operational Regions
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Saint Morrow Passage operates transnationally along borders, ports, ferry lines, mountain passes, desert roads, forest
 evacuation tracks, sealed towns, quarantine rings, disaster corridors, hospital transfer routes, rail sidings, and
@@ -272,7 +272,7 @@ districts where maps recently changed. Activity is strongest where public record
 attaches when routes intersect urban evacuation and cover-story pressure.
 
 Known Assets and Holdings
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Known or assessed assets include:
 
@@ -292,7 +292,7 @@ A.C.T has recovered white tickets, one route bell, two cold-map fragments, and p
 Morrow route books remain unrecovered.
 
 Operating Method
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A typical Passage job begins with destination, passenger condition, route urgency, payment ability, and admissibility
 risk. A Route Reader checks whether ordinary transport is possible. If not, the White
@@ -315,13 +315,13 @@ RED MORROW: suspended route; sale forbidden without Warden order.
 Route classes may vary by region. Do not assume color equivalence without local ledger
 confirmation.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 HISTORY WITH A.C.T
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Contact History
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T first consolidated Saint Morrow references after a quarantine failure in which twelve civilians, one medic, and
 one witness left a sealed district through a bus terminal officially closed for six
@@ -347,7 +347,7 @@ object-courier interception, safe-house observation, quarantine disputes, and
 controlled use of a Passage ferry during [CENSOR: FLOODED BORDER EVENT].
 
 Current Relationship
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The current relationship is WORK. A.C.T has used Saint Morrow Passage under pressure and has also blocked it. Local
 agreements exist with some Wardens, but the network is not under A.C.T authority. The
@@ -360,13 +360,13 @@ The Passage has warned A.C.T of failing roads in at least five cases. It
 has also moved at least three persons of
 interest before interviews could occur.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Responsible Jurisdiction
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Primary jurisdiction rests with Intelligence Division, Recovery Division, Civil Covert Division, Logistics Division,
 and Subject Care Division. Containment attaches when crossings break quarantine or move active anomalies. Legal
@@ -374,7 +374,7 @@ attaches when national borders, asylum claims, custody orders, or public transpo
 the usual technical attachment for vehicles and moving assets.
 
 Posture Implementation
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T posture is COOPERATED / MONITOR / MISDIRECT / APPROPRIATE. Cooperation is authorized for civilian evacuation,
 witness transfer, medical extraction, false-road mapping, safe return of misplaced persons, and route warnings.
@@ -387,7 +387,7 @@ authorized for active route instruments, contaminated vehicles, dangerous cargo,
 tied to hostile movement, and tickets that continue to affect passengers after transit.
 
 Response Limits and Red Lines
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T personnel must not arrest a driver during active crossing unless the driver is
 causing immediate harm. Do not
@@ -401,13 +401,13 @@ infectious or cognitively hazardous passengers into public space, carry stolen a
 conceal hostile actors under emergency-passage language. If the Passage requests payment in future route warnings,
 Subject Care and Command must review whether the debt is acceptable.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 OPERATIONAL RECORDS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Restricted Operational Extract
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 WHITE TICKET STUB: SMP / TOMORROW GATE OFFICE
 ROUTE: [CENSOR: BORDER-ROOM NAME]
@@ -439,13 +439,13 @@ Recommendation: suspend after three more crossings or one child forgets birthday
 
 The audit fragment indicates internal suspension thresholds and confirms that the Passage tracks route harm.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Confirmed Operational Facts
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - Saint Morrow Passage is an outside passage market and not an A.C.T unit.
 - The Passage sells and arranges abnormal transit through unstable roads, ferries, borders, and
@@ -456,7 +456,7 @@ evacuation routes.
 - It maintains route classes and suspension rules across multiple regions.
 
 Active Intelligence Assessment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T assesses Saint Morrow Passage as a specialized WORK market GOI. It matters because passage becomes critical when
 containment closes geography. Unlike Namewright Bazaar, it does not primarily steal personhood. Unlike Velvet
@@ -468,7 +468,7 @@ fail. Those are the same
 condition. A.C.T response must therefore be route-specific rather than ideological.
 
 Persistent Questions
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - Was Saint Morrow a historical person, a route, a ferry, a saint-brand, or
 a threshold intelligence?
@@ -484,20 +484,20 @@ its tickets?
 Passage?
 
 Intelligence Confidence
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Moderate. A.C.T has recovered tickets, bells, route fragments, passenger testimony, and partial ledgers from separate
 regions. Confidence is limited by route instability, regional variation in color classes, and the difficulty of
 distinguishing Passage-owned routes from public routes temporarily exploited by Passage workers. Confidence may rise
 through protected cooperation with a Passage Warden, controlled route audit, or recovery of a full cold-map cabinet.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 CROSS-REFERENCE STATUS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Anomaly and Record Relationship
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Saint Morrow Passage is an organization and therefore belongs in the GOI archive. Individual route bells, cold maps,
 white tickets, porter keys, crossing ledgers, border rooms, and abnormal roads may require separate anomaly,
@@ -505,7 +505,7 @@ technology, logistics, incident, or recovered-document files. The
 GOI record must not replace route-specific containment review.
 
 Related A.C.T Records
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - CONTROLLED RECORD FORM, Group of Interest Registry
 - GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE, Group of Interest Registry
@@ -519,17 +519,17 @@ Related A.C.T Records
 held under Central Archive routing.
 
 Dual Filing
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Mandatory when a Passage item or route produces measurable abnormal transit, identity lag,
 time discrepancy, route repetition, border refusal, memory alteration, quarantine breach, or
 object relocation. Logistics and Recovery must attach to route instruments. Subject Care must
 attach when passengers include children, witnesses, medical evacuees, or displaced civilians.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FILE METADATA
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FILE CREATED:            11/05/2005
 FILE LAST UPDATED:       18/02/2010

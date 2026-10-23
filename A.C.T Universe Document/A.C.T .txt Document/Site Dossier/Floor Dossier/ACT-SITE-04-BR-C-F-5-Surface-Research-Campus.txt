@@ -11,7 +11,7 @@ Dossier Number: FLOOR-DOSSIER-04-BR-C-F-5
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard / ACT Floor Record Standard
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 Archive Note
 
@@ -31,7 +31,7 @@ This dossier records the floor in full institutional language: what it is,
 how it conceals, how it is built, and how the reserve's public science and
 its concealed work share one campus.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 1. Floor Registry Identity Summary
 
@@ -55,7 +55,7 @@ science conducted in the open
 Access Posture: Public and semi-public access under cover doctrine
 Current Status: Active
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 2. Dossier Purpose
 
@@ -71,7 +71,7 @@ campus that conducts real science in the open. The campus is genuine, its
 research is publishable, and its presence is the cover for the reserve's
 concealed work.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 3. Position in the Site Stack
 
@@ -97,7 +97,7 @@ the reserve's public science operates under the direction of the operational
 command, which governs the boundary between the campus's visible work and
 the reserve's concealed purpose.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 4. Historical Foundation
 
@@ -121,7 +121,7 @@ In its modern configuration, F-5 is the reserve's legitimate face: a
 working ecological research campus whose genuine science conceals the
 containment reserve operating beneath and beyond it.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 5. Command and Authority
 
@@ -144,7 +144,7 @@ functions. Its authority is over the legitimate campus — and its most
 important duty is the maintenance of the boundary between the campus's
 visible science and the reserve's concealed work.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 6. Divisional Presence
 
@@ -171,7 +171,7 @@ Security operates the campus's boundary functions, monitoring the
 transition between the legitimate campus and the reserve's concealed
 operations.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 7. Physical Plant and Architecture
 
@@ -206,7 +206,7 @@ sectors where anomalous residents are held. The boundary is maintained to
 be invisible — the campus's science and the reserve's containment share one
 wilderness without the public world seeing the join.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 8. Systems and Infrastructure
 
@@ -233,7 +233,7 @@ The campus maintains its legitimate communications — the scientific
 outreach and professional operations of the research institution — alongside
 the reserve's secure internal networks.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 9. Security and Boundary Architecture
 
@@ -264,7 +264,7 @@ F-5 maintains incident response for cover events: boundary incidents,
 public-exposure incidents, and attempts to penetrate the reserve's
 concealed operations are met with the reserve's surface response doctrine.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 10. Function and Character
 
@@ -287,7 +287,7 @@ F-5 holds no anomalous residents. Its population is the campus's legitimate
 personnel and research population; the reserve's holdings are maintained in
 the enclosure sectors and the built levels below.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 11. Personnel and Duty Life
 
@@ -312,7 +312,7 @@ research, professional reputations, and daily operations are part of the
 reserve's concealment. The science is genuine, and so is the discipline of
 those who conduct it.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 12. Floor Doctrine
 
@@ -337,7 +337,7 @@ concealed work must remain separate: the legitimate world sees a research
 campus, and the reserve's operations continue beneath and beyond it,
 undisturbed and unseen.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 13. Incident Archive
 
@@ -346,7 +346,7 @@ boundary incidents, public-exposure incidents, and attempts to penetrate
 the reserve's concealed operations. The reserve's history records the
 incidents that have tested the campus boundary — and the cover has held.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 14. Current Status and Projected Development
 
@@ -357,7 +357,7 @@ priorities include:
   reserve's sectors;
 — preservation of the campus's cover discipline.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 15. Cross-Referenced Files
 
@@ -368,7 +368,7 @@ priorities include:
 - ACT_Site_Doctrine_and_Installation_Structure.md / .txt
 - Verde Null Annex Register (clearance-gated)
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 Archive Closing
 

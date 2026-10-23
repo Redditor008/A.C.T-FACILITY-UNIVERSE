@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 Nyxara-Goddess-of-NIGHT-AFD-CH-703
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                  Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-CH-703
 TITLE I:             Nyxara
@@ -15,9 +15,9 @@ FIELD TYPE:          CH — Cosmic Hazard
 
 CLEARANCE REQUIRED:  Level 5 / [ O5-RESTRICTED ]
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   TIAMAT
 
@@ -32,9 +32,9 @@ SUB-THREAT:          BENEFICIAL
 TRANSFORMATION
 VIABILITY:           INVIOLABLE
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------+
 
 DATE OF DETECTION:   [ PRE-DOCTRINAL / HISTORICAL CONVERGENCE ]
 VERIFICATION DATE:   1959-10-07 (Lunik 3 Correlation)
@@ -55,9 +55,9 @@ NARRATIVE STATUS:    Subject is publicly explained via "Lunar Gravity"
                      emissions are suppressed as "Lunar Phenomena"
                      or "Camera Artifacts."
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------+
 
 AFD-CH-703, designated Nyxara, is a humanoid cosmic entity of immense
 proportions, measuring approximately 1,000 km in length. The subject
@@ -99,9 +99,9 @@ standard cycles. However, during three specific windows per year,
 the subject's light-signature achieves 100% Visibility to the
 terrestrial POV. These dates are recorded in the "Nyxara Calendar."
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Hydrological Anchor. Nyxara's sleep-movements
                      regulate global ocean tides and current strength.
@@ -124,9 +124,9 @@ TEMPORAL BEHAVIOR:   Perpetual Sleep / 3-Day Annual Full Visibility.
 REALITY INTERACTION: Cosmic-Scale Biology / Optical Bypass /
                      Hydrological Entanglement.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------+
 
 AFD-CH-703 is "Contained" via information suppression and scientific
 misdirection. No physical containment of a 1,000 km lunar entity is
@@ -168,9 +168,9 @@ BREACH PROTOCOL:         If Nyxara achieves 100% visibility outside
                          Masking. If she shifts position significantly,
                          initiate Tsunami Warning protocols globally.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------+
 
 Nyxara is considered the "Mother of the Tides." Her relationship with
 Earth is symbiotic; she regulates the life-blood of the oceans while
@@ -183,9 +183,9 @@ literally cannot find what they can walk upon.
 Current theory suggests she is approximately [ REDACTED ] years old,
 predating the current iteration of the Earth's crust.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------+
                       TRANSFORMATION NOTES
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------+
 
 TRANSFORMATION ATTEMPT
 STATUS:              INVIOLABLE
@@ -195,9 +195,9 @@ Forbidden. The Countess of Horn was asked about Nyxara in 1968. She
 remarked: "The Night has a cradle. Do not rock it, or the seas will
 have no manners left to them."
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------+
 
 NOTE 001:
 The three days of 100% visibility are consistently:

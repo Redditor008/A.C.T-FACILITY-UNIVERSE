@@ -1,10 +1,10 @@
 A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
 Magical-Doll-MEW-Stars-Tactical-Simulation-Audit-AFD-SU-283
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
               A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-283
 TITLE I:             Magical Doll MEW Stars
@@ -21,9 +21,9 @@ CONTAINMENT SITE:    ACT-SITE-03-JP-E — Kurokawa Archive Node
 ARCHIVE STATUS:      Active / High-Energy Testing
 DOSSIER STATUS:      Open / Simulation Cycle 01 Compiled
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 This dossier contains the reconstructed logs from Simulation
 Mew-Alpha, the first authorized tactical audit of AFD-SU-283. The
@@ -38,9 +38,9 @@ INCLUDED LOG TYPES:
    - Final Beam Discharge: Causal Accuracy Mapping
    - Senior Researcher Aris Thorne: Clinical Summary
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                  SECTION 001 — THE OPENING ACT
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-283/SIM-001
 DATE:                2026-07-10
@@ -65,9 +65,9 @@ SHU SHU:             "Ahuhuhu... alright, dearies! This is gonna be a
               the subject. Sound pressure is recorded at 95 dB.
               The rhythm is [Energetic & Upbeat].
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                  SECTION 002 — OFFENSIVE VOLLEYS
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 [00:00:32] — ATTACK 01: RAPID BOMBAA..
               Shu Shu takes control. The music shifts to [Frantic &
@@ -91,9 +91,9 @@ The subject fires a 3-meter flat heart. Instead of damaging the dummy,
 the projectile "Heals" the scorch-marks left by the previous bombs.
 The dummy's surface-temperature drops by 20°C instantly.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                  SECTION 003 — THE BACKLASH INCIDENT
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 [00:01:44] — ATTACK 03: SHU SHU BOMB
               The music becomes [Sudden Violent Aggression]. Shu
@@ -114,9 +114,9 @@ wobbling in place.
 MIMI (Muffled):      "Oops! I fur-got how to hold that one!"
 SHU SHU (Screaming): "SHUT UP! IT WAS YOUR FAULT!"
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                  SECTION 004 — FINAL BEAM DISCHARGE
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 [00:02:45] — SPECIAL: MEW LIGHT BEAAAAAM
               The personas reach a state of temporary
@@ -137,9 +137,9 @@ a surge of 'Doki-Doki' harmonics).
               Heartbeat End]. The subject returns to her 2-meter
               dormant state.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                  SECTION 005 — ARCHIVIST'S SUMMARY
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-283/THORNE-01
 AUTHOR:              Aris Thorne (SR-412)
@@ -157,9 +157,9 @@ Singularity that uses our training bays as its stage. Increase the
 acoustic dampening. I don't want to hear that song in the hallway
 tomorrow."
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 MANDATORY PERSONNEL NOTICE:
                      The simulation is over.

@@ -1,10 +1,10 @@
 A.C.T FACILITY — MASTER CATALOG OF OPERATIONAL ASSETS
 ACT-MASTER-INDEX-50-SYSTEMS-AND-MATERIALS
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------+
                     A.C.T FACILITY — MASTER CATALOG
                  Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------+
 
 DOCUMENT ID:         ACT-ASSET-INDEX-50
 DISTRIBUTION:        Level 4 Personnel / Site Command
@@ -18,9 +18,9 @@ the A.C.T Site Network.
 Personnel are required to utilize the formal nomenclature provided
 herein for all maintenance logs and requisition forms.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------+
              CATEGORY I — REALITY & SPATIAL INFRASTRUCTURE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------+
 
 01. RSA (REALITY STABILIZATION ANCHOR)
     The primary pillar of containment. It broadcasts a high-frequency
@@ -54,9 +54,9 @@ herein for all maintenance logs and requisition forms.
     probability-density mapping. Essential for Dark World
     expeditions.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------+
              CATEGORY II — ARCHIVAL & CAUSAL SAFEGUARDS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------+
 
 06. QNB (QUANTUM NARRATIVE BUFFER)
     Immutable data-storage etched into [ BLANK ] crystals. Preserves
@@ -93,9 +93,9 @@ herein for all maintenance logs and requisition forms.
     object within 3D space for short-duration transport or
     recovery.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------+
             CATEGORY III — BIO-CHEMICAL & TRANSMUTATION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------+
 
 11. 004-SERIES AMNESTICS
     Proprietary memory-solvent compounds derived from NB-004.
@@ -129,9 +129,9 @@ herein for all maintenance logs and requisition forms.
     Permanent neural lattice providing an internal "Auto-Forget"
     filter against specific high-tier info-hazards.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------+
                CATEGORY IV — MEDICAL & STASIS SYSTEMS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------+
 
 16. CBI (CRYOGENIC BIOLOGICAL ISOLATION) UNITS
     Advanced stasis pods utilizing resonant cooling to prevent
@@ -169,9 +169,9 @@ herein for all maintenance logs and requisition forms.
     NB-class transmutants (Reference: Vivienne Argent /
     Grumblesail).
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------+
              CATEGORY V — FIELD GEAR & TACTICAL LOGISTICS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------+
 
 21. TACTICAL FEEDBACKER ARM
     Cybernetic prosthesis utilizing harmonic vibration to parry
@@ -210,9 +210,9 @@ herein for all maintenance logs and requisition forms.
     Isolated combat-logic program mimicking future-operative
     filtering for coordinating unmanned recovery operations.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------+
             CATEGORY VI — ANOMALOUS & REFINED MATERIALS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------+
 
 41. HARVESTED PALE WOOD
     Indestructible timber derived from the Dark World. Used for
@@ -254,9 +254,9 @@ herein for all maintenance logs and requisition forms.
     Ultra-high-density volcanic rock. Compressed by "Stretched"
     space, making it ideal for heavy-entity shielding.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------+
                          ARCHIVIST'S NOTE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------+
 
 "Fifty ways to hold the line. Respect the tool, but never assume
 you are the master of the force it contains. We are building a

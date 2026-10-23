@@ -82,8 +82,8 @@ ARM appears in five major roles:
 - civilian perception management around A.C.T buildings, false companies, and restricted infrastructure;
 - surveillance dampening against ordinary cameras, map services, delivery systems, and casual drone observation;
 - emergency misdirection during breach response, transport arrival, or surface lockdown;
- post-incident normalcy support when an area must remain publicly boring long enough for Civil Covert to replace the
- story.
+ post-incident normalcy support when an area must remain publicly
+ boring long enough for Civil Covert to replace the story.
 
 ARM is therefore a normalcy technology as much as a site technology. It is
 one of the reasons A.C.T can exist inside a

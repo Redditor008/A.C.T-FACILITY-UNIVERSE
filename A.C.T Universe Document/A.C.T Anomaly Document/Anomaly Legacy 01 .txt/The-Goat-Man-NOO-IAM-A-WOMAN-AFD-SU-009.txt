@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 The-Goat-Man-NOO-IAM-A-WOMAN-AFD-SU-009
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-009
 TITLE I:             The Goat Man-NOO IAM A WOMAN
@@ -15,9 +15,9 @@ FIELD TYPE:          SU — Subject
 
 CLEARANCE REQUIRED:  Level 3
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   SPORADIC
 
@@ -32,9 +32,9 @@ SUB-THREAT:          HARMLESS
 TRANSFORMATION
 VIABILITY:           NEUTRAL
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 DATE OF DETECTION:   1976-10-28
 VERIFICATION DATE:   1976-11-09
@@ -52,9 +52,9 @@ AMNESTIC DEPLOYED:   Limited
 NARRATIVE STATUS:    Controlled as local noble-family hoax and historical
                      costume misidentification
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 AFD-SU-009 is a sentient and conscious female humanoid entity with caprine
 physical traits. The subject stands 187 cm in height, not including horn length,
@@ -106,9 +106,9 @@ subject interrupted each attempt by striking the floor with her cane and saying,
 "No. I am a woman." The combined phrase entered early file shorthand before
 formal correction was completed.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Long-lived sapient humanoid-caprine existence. AFD-SU-009
                      appears to be a living conscious female entity of unknown
@@ -164,9 +164,9 @@ EVENTS:
    — A.C.T cafeteria napkins folded themselves into formal dinner shapes during
      a containment dispute.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 AFD-SU-009 is housed in a furnished humanoid-subject suite arranged according
 to formal guest residence standards. The suite must contain a private bedroom,
@@ -224,9 +224,9 @@ IN BREACH IF IT:
    [x] Other: Subject leaves diplomatic containment wing without escort or
               corrective etiquette events begin affecting public records
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 AFD-SU-009 is considered low-to-moderate risk. Her danger lies primarily in
 public normalcy exposure, unknown age and origin, minor reality correction tied
@@ -252,9 +252,9 @@ and a recovered ring bearing metallurgical features consistent with late Roman
 workmanship. AFD-SU-009 claims that "two thousand years is a rude estimate made
 by people who think calendars are bones." She has not provided a preferred age.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                       TRANSFORMATION NOTES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 TRANSFORMATION ATTEMPT
 STATUS:              Not applicable
@@ -270,9 +270,9 @@ review. The subject will answer some historical questions but refuses to serve
 as what she calls "a museum with hooves." Interviewers must balance archive
 value against cooperation risk.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 NOTE 001:
 The subject's preferred informal address is not "goat lady." Personnel who

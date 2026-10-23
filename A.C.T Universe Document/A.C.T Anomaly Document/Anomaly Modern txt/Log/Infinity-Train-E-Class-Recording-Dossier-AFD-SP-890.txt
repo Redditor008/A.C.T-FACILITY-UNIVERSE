@@ -1,10 +1,10 @@
 A.C.T FACILITY — AUDIO / VIDEO / SENSOR DOSSIER
 Infinity-Train-E-Class-Recording-Dossier-AFD-SP-890
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
               A.C.T FACILITY — AUDIO / VIDEO / SENSOR DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SP-890
 TITLE I:             Infinity Train
@@ -22,9 +22,9 @@ CONTAINMENT SITE:    Site-Sub-[REDACTED]-UK-W
 ARCHIVE STATUS:      Active / High-Level Temporal Audit
 DOSSIER STATUS:      Open / Complete Two-Year Log Compiled
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 This dossier contains the exhaustive data-reconstruction of Research
 Incident 890-Alpha (2000-2001). It documents the total 730-day
@@ -43,9 +43,9 @@ INCLUDED LOG TYPES:
    - Biological and Psychological Attrition Summary
    - The Thorne Consultation: Recovery Hour Note
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                  SECTION 001 — THE 730-DAY TIMELINE
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 LOG ID:              AFD-SP-890/VID-01-EXP
 STATUS:              Verified / QNB-Hardened Footage
@@ -94,9 +94,9 @@ subject is emaciated, hair reaching his shoulders. The door in
 front of him opens to reveal the Site-Sub-UK-W warehouse.
 Subject collapses onto the concrete.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                  SECTION 002 — CARRIAGE FREQUENCY AUDIT
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 LOG ID:              AFD-SP-890/PROB-01-EXP
 TYPE:                Causal Probability Analysis
@@ -107,7 +107,7 @@ appears to be influenced by the subject's biological needs (e.g., the
 Cafeteria appears more frequently when blood-sugar is low).
 
 CARRIAGE TYPE       | ENCOUNTERS | DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 Normal Seated       | 540        | Standard upholstery; zero occupants.
 Cafeteria           | 300        | Self-replenishing; variable menus.
 Storage             | 180        | Boxes of rusted gears and [ BLANK ].
@@ -115,9 +115,9 @@ Sleeping Room       | 120        | Single-berth; high mahogany polish.
 Glass               | 30         | 360-degree transparency; Void POV.
 Open-Top "Any"      | 30         | Manifests wheat, snow, or rubble.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                SECTION 003 — ABYSSAL ARCHITECTURE (STATIONS)
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 LOG ID:              AFD-SP-890/STA-01-EXP
 The train made 17,520 stops during the session. The following "Broken
@@ -133,9 +133,9 @@ Stations" were identified as having significant narrative weight.
    A single red carpet suspended in the nothingness. Subject
    refused to look at it.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
               SECTION 004 — BIOLOGICAL & PSYCHOLOGICAL ATTRITION
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 LOG ID:              AFD-SP-890/MED-01
 REVIEWER:            Medical Liaison Made Ayu Pradnya
@@ -151,9 +151,9 @@ The subject, E-890-04, demonstrated physical aging consistent with a
 
 Diagnosis: Chronic Causal Displacement Syndrome.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                  SECTION 005 — THE THORNE CONSULTATION
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 LOG ID:              AFD-SP-890/THORNE-NOTE
 AUTHOR:              Aris Thorne (SR-412)
@@ -178,9 +178,9 @@ send a clock made of Abyssal Basalt. I want to see if the Void
 can
 melt the time off that."
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 MANDATORY PERSONNEL NOTICE:
                      The train is always moving,

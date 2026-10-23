@@ -1,10 +1,10 @@
 A.C.T FACILITY — RESEARCH & ANALYSIS DOSSIER
 OBSERVING-BIRD-Research-Analysis-Dossier-AFD-CH-014
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
               A.C.T FACILITY — RESEARCH & ANALYSIS DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-CH-014
 TITLE I:             OBSERVING BIRD
@@ -23,9 +23,9 @@ CONTAINMENT SITE:    Uncontained / all sites under conditional observation
 ARCHIVE STATUS:      Active / Apocalyptic Continuity restricted
 DOSSIER STATUS:      Open / Judgment events under review
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 This dossier belongs to A.C.T Log Category VI — Research & Analysis Dossier.
 Because AFD-CH-014 cannot be contained, interviewed, directed, or tested by
@@ -46,9 +46,9 @@ To preserve A.C.T's analysis of how AFD-CH-014 observes, judges, and marks
 apocalyptic-capable anomalies. This dossier does not attempt to explain the
 entity's motive. It records what A.C.T can verify without interfering.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          DOSSIER SUMMARY
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 AFD-CH-014 is a 30 cm bright white and golden yellow bird-like cosmic entity
 observed carrying a dark miniature notepad and white-black anomalous pencil. It
@@ -68,9 +68,9 @@ relevant to its judgment. It observes, judges, marks, and departs.
 A.C.T's current doctrine is Silent Witness Protocol: do not capture, bait,
 threaten, thank, worship, or interfere with AFD-CH-014.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                  SECTION 001 — JUDGMENT EVENT REVIEW
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-014/JDG-001
 LOG TYPE:            Judgment Event Review
@@ -107,9 +107,9 @@ DOCTRINE NOTE:
 This event is the primary example supporting the distinction between suppression
 and neutralization. AFD-CH-014 prevented the end-state. It did not save the site.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                     SECTION 002 — JUDGE MARK ANALYSIS
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-014/MRK-001
 LOG TYPE:            Judge Mark Analysis
@@ -152,9 +152,9 @@ does not
 lock the target away. It changes the probability that the target's final state
 will be permitted to complete.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
              SECTION 003 — APOCALYPTIC SUPPRESSION TIMELINE
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-014/TLN-001
 LOG TYPE:            Apocalyptic Suppression Timeline
@@ -205,9 +205,9 @@ SUMMARY:
 The timeline supports the hypothesis that AFD-CH-014 judges at or near terminal
 activation probability rather than at first sign of danger.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
               SECTION 004 — NON-INTERFERENCE DOCTRINE NOTE
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-014/DOC-001
 LOG TYPE:            Non-Interference Doctrine Note
@@ -248,9 +248,9 @@ If personnel attempt unauthorized interaction, site command is to issue:
 
                      Silent Witness. Hands down. No gratitude.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
             SECTION 005 — CROSS-ANOMALY CORRELATION REVIEW
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-014/COR-001
 LOG TYPE:            Cross-Anomaly Correlation Review
@@ -292,9 +292,9 @@ later, the vault anomaly failed to complete a predicted awakening cycle. This
 may indicate markless judgment or a judgment written against a process rather
 than a body, object, or anchor.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                  SECTION 006 — RESEARCHER COMMENTARY
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-014/COM-001
 LOG TYPE:            Researcher Commentary
@@ -327,9 +327,9 @@ Recommendation: if the bird appears, do not ask why it came. Ask what we
 failed
 to understand before it arrived.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 Current evidence supports classification of AFD-CH-014 as an uncontained cosmic
 judgment entity with beneficial sub-threat behavior but unknown motive. The

@@ -1,10 +1,10 @@
 A.C.T FACILITY — INCIDENT & BREACH DOSSIER
 Magical-Doll-MEW-Stars-Action-Incident-Dossier-AFD-SU-283
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------+
                 A.C.T FACILITY — INCIDENT & BREACH DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-283
 TITLE I:             Magical Doll MEW Stars
@@ -15,9 +15,9 @@ CATEGORY FUNCTION:   Unauthorized field manifestation logging; Analysis
 
 CLEARANCE REQUIRED:  Level 4 / Field Command
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------+
                  SECTION 001 — THE REVOLUTION BOMB
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-283/INC-042
 LOCATION:            Public riverfront / [ REDACTED ], Florida, USA.
@@ -40,9 +40,9 @@ unauthorized "Narrative Jump" to the scene.
               exposed to pink "Pretty Revolution" light. Lacerations
               closed in 0.4 seconds.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------+
                    SECTION 002 — FIELD CONSEQUENCE
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------+
 
 The unauthorized manifestation ended the immediate threat before Recovery
 Team Delta-4 could complete the planned containment maneuver. Field Command
@@ -60,9 +60,9 @@ control, consent procedure, contamination screening, or post-exposure baseline.
 Civil Covert personnel retained the public explanation as a confused animal
 attack, emergency-light reflection, and shock response among witnesses.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------+
 
 AFD-SU-283 is not to be encouraged to repeat the manifestation. Praise given to
 Mimi or Shu Shu after the event must distinguish civilian survival from

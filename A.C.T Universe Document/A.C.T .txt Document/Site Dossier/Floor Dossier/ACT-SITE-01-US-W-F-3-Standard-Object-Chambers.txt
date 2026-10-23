@@ -11,7 +11,7 @@ Dossier Number: FLOOR-DOSSIER-01-US-W-F-3
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard / ACT Floor Record Standard
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 Archive Note
 
@@ -32,7 +32,7 @@ absorbs the
 constant flow of recovered material that gives Redwood Veil its reason to
 exist.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 1. Floor Registry Identity Summary
 
@@ -53,7 +53,7 @@ doctrine
 Current Status: Active
 Scale Note: The largest containment level of the complex by volume
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 2. Dossier Purpose
 
@@ -70,7 +70,7 @@ origin, and the SPORADIC material that acts rarely but predictably. The
 floor's chambers absorb the site's recovery flow and hold it under a
 standard the whole complex depends on.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 3. Position in the Site Stack
 
@@ -95,7 +95,7 @@ restricted-hold procedure. F-3 is thus the sorting level of the holding
 system: most material remains, and the rest moves up or down according to
 its demonstrated character.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 4. Historical Foundation
 
@@ -122,7 +122,7 @@ by volume, holding the bulk of the site's resident object population under
 standard doctrine while coordinating its boundaries with the Transformation
 and restricted-hold levels.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 5. Command and Authority
 
@@ -148,7 +148,7 @@ material to restricted holding on its own judgment, or to approve
 transformation work. Its role is to hold the standard population safely and
 to recognize when a resident no longer belongs on the floor.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 6. Divisional Presence
 
@@ -184,7 +184,7 @@ potential stabilization, neutralization, repurposing, or integration work.
 Their review is the route by which standard holding material moves upward to
 F-4.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 7. Physical Plant and Architecture
 
@@ -224,7 +224,7 @@ construction, compartmented services, and monitoring throughout. The floor
 is designed for durability and throughput rather than exotic reinforcement —
 its population is standard, and its architecture reflects that confidence.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 8. Systems and Infrastructure
 
@@ -254,7 +254,7 @@ culture is exact: every resident's record is continuous, dated, and
 preserved, because the floor's population turns over constantly and its
 records must carry the history that personnel rotation cannot.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 9. Security and Containment Architecture
 
@@ -287,7 +287,7 @@ alarms, handling incidents, and environmental events are met with the
 complex's standard containment response, with escalation available to the
 deep-hold levels below when a resident proves to be more than standard.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 10. Resident Holdings and Filing Doctrine
 
@@ -314,7 +314,7 @@ No signature resident is held on F-3. The complex's signature holdings are
 maintained on F-1; F-3 holds the working population of the complex's holding
 system, whose designations are preserved in the Annex Register.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 11. Personnel and Duty Life
 
@@ -338,7 +338,7 @@ standard procedures teach the fundamentals that deep-hold and restricted-hold
 duty build upon. Personnel who move to F-2 or F-1 carry the documentation
 discipline learned on F-3.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 12. Floor Doctrine
 
@@ -364,7 +364,7 @@ turns over constantly; its records must be exact enough that any object can
 be understood, monitored, and handled by any qualified personnel at any
 time.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 13. Incident Archive
 
@@ -374,7 +374,7 @@ Because the floor's population is standard and its procedures mature, major
 incidents are rare; when they occur, they are recorded as the complex's
 standard holding lessons and reflected in doctrine.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 14. Current Status and Projected Development
 
@@ -386,7 +386,7 @@ priorities include:
 — coordination with the Transformation and restricted-hold levels on the
   movement of material between floors.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 15. Cross-Referenced Files
 
@@ -397,7 +397,7 @@ priorities include:
 - ACT_Site_Doctrine_and_Installation_Structure.md / .txt
 - Redwood Veil Annex Register (clearance-gated)
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 Archive Closing
 

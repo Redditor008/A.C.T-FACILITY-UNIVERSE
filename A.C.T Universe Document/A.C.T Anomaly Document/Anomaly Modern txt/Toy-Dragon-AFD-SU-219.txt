@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 Toy-Dragon-AFD-SU-219
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                  Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-219
 TITLE I:             Toy Dragon
@@ -15,9 +15,9 @@ FIELD TYPE:          SU — Subject
 
 CLEARANCE REQUIRED:  Level 2
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   INERT
 
@@ -32,9 +32,9 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           STABILIZED
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 DATE OF DETECTION:   1945-12-05
 VERIFICATION DATE:   1950-12-12
@@ -52,9 +52,9 @@ AMNESTIC DEPLOYED:   Yes — Hypnotic Suggestion (Post-WWII Protocol).
 NARRATIVE STATUS:    The incident was suppressed as a staged hoax.
                      (Retroactive AFD conversion 1978)
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 AFD-SU-219 is a sentient, 2-meter tall entity composed entirely of
 high-density industrial polymer, resembling a large toy dragon. The
@@ -89,9 +89,9 @@ BIOLOGICAL ANOMALIES:
    consists of heated air (max temp: 40°C). While not lethal, the
    mist is a byproduct of its internal thermal-regulation.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Inorganic Life. The subject is a plastic object that
                      possesses a functional, sentient metabolism.
@@ -112,9 +112,9 @@ TEMPORAL BEHAVIOR:   Constant / Subject to juvenile growth cycles.
 REALITY INTERACTION: Matter-to-Energy Efficiency (Zero Waste) /
                      Biological-Inorganic Hybridization.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 AFD-SU-219 is housed in a "Juvenile Habitat" within the Subject Care
 Wing at ACT-SITE-04-BR-C.
@@ -150,9 +150,9 @@ BREACH PROTOCOL:         The subject is non-hostile. If it leaves its suite,
                          fatty-fruit lures to guide it back. It is
                          easily distracted by shiny objects.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 AFD-SU-219 is an example of "Material Substitution" in an anomaly. It
 functions as a living creature but is constructed of the same matter
@@ -164,9 +164,9 @@ The purple mist has been analyzed and contains trace amounts of
 [ REDACTED ], providing a faint, pleasant scent often described by
 staff as "new toy smell."
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 
 during their monitored "Reading Sessions." It appears to enjoy the

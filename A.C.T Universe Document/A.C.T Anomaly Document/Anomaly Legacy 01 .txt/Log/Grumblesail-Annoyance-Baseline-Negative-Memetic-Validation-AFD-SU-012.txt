@@ -1,10 +1,10 @@
 A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
 Grumblesail-Annoyance-Baseline-Negative-Memetic-Validation-AFD-SU-012
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
               A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-012
 TITLE I:             Annoyingly-Indestructible-Lizard-GRUMBLESAIL
@@ -24,9 +24,9 @@ CONTAINMENT SITE:    ACT-SITE-01-US-W — Redwood Veil Complex
 ARCHIVE STATUS:      Active / High-Maintenance Social Environment
 DOSSIER STATUS:      Open / Comprehensive Longitudinal Research Archived
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 This dossier explores the "Annoyance Singularity" surrounding AFD-SU-012.
 For a decade, staff have hypothesized that Grumblesail must possess a hidden
@@ -48,9 +48,9 @@ INCLUDED LOG TYPES:
    - Personnel Interaction Log: Cross-Departmental Impact (Logs 001-004)
    - Final High-Researcher Analytic Summary
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
              SECTION 001 — PHENOMENON DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-012/DESC-002
 LOG TYPE:            Symptom Mapping & Institutional Analysis
@@ -92,9 +92,9 @@ cumulative. The more you know about Grumblesail, the more annoying he
 becomes. This is not a memetic property; it is a memory of past
 inconvenience.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                  SECTION 002 — SCIENTIFIC SEARCH LOG
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-012/TST-LIST-01
 LOG TYPE:            Multi-Vector Anomalous Search Log
@@ -103,9 +103,9 @@ The following trials were conducted to find an anomalous explanation for
 the staff's irritation. Each test represents a failed attempt to blame
 the irritation on anomaly physics.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 TEST A:              INFRASONIC FREQUENCY SCAN
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 HYPOTHESIS:          The subject's groans contain infrasonic waves that
                      vibrate the human inner ear to induce nausea and
                      agitation.
@@ -116,9 +116,9 @@ RESULT:              NEGATIVE. The groan is within the standard
                      vibrations detected.
 CONCLUSION:          The groan is just a very annoying sound.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 TEST B:              PHEROMONE & BIO-GAS AUDIT
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 HYPOTHESIS:          The subject's skin or breath secretes an airborne
                      chemical irritant that triggers an anger response.
 METHOD:              Air-quality sampling inside a sealed room after
@@ -128,9 +128,9 @@ RESULT:              NEGATIVE. Samples contained only moisture, CO2,
 CONCLUSION:          The subject does not smell like a hazard. He just
                      smells like a lizard.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 TEST C:              ELECTROMAGNETIC (EM) PULSE RADIANCE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 HYPOTHESIS:          The subject's "Indestructibility" is maintained by
                      an EM field that interferes with human brain-wave
                      stability.
@@ -141,9 +141,9 @@ CONCLUSION:          The brain-wave interference reported by staff is
                      caused by the subject refusing to move, not by a
                      field.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 TEST D:              MEMETIC PATTERN RECOGNITION (VISUAL)
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 HYPOTHESIS:          The pattern of the subject's scales or the shape of
                      his dorsal sail is a memetic trigger for impatience.
 METHOD:              Visual algorithms analyzed the subject’s surface
@@ -152,9 +152,9 @@ RESULT:              NEGATIVE. No hidden symbols or patterns found.
 CONCLUSION:          The red color is vivid, but it does not contain
                      information-hazards.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 TEST E:              CAUSAL LEECHING (LUCK-THEFT)
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 HYPOTHESIS:          The subject is a passive "Luck Leech," making local
                      reality slightly more inconvenient for everyone
                      else.
@@ -167,17 +167,17 @@ ADDITIONAL:          Little Unlucky (AFD-OB-713) was brought into the
                      Both remained miserable, but no new luck-distortion
                      was recorded.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
              SECTION 003 — PERSONNEL INTERACTION LOG
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 To conclude the search for an anomalous trigger, the Facility conducted
 four standardized "Interaction Endurance" trials across different
 personnel classes.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 TRIAL 001:           RESEARCHER INTERACTION (LOGIC TEST)
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 SUBJECT:             Dr. Nathan Brooks (PR Score: 82)
 TASK:                Attempt to teach AFD-SU-012 to move for a
                      high-value food reward.
@@ -190,9 +190,9 @@ REACTION:            Dr. Brooks began arguing with the lizard about the
 ANOMALY CHECK:       NEGATIVE. EEG showed standard frustration.
                      No memetic hijacking recorded.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 TRIAL 002:           SECURITY GUARD INTERACTION (ORDER TEST)
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 SUBJECT:             Officer Ethan Ward
 TASK:                Maintain a "No-Entry" post in a hallway that
                      Grumblesail has decided to block.
@@ -206,9 +206,9 @@ REACTION:            Officer Ward began shouting at his own boots after
 ANOMALY CHECK:       NEGATIVE. No external EM or psychic influence.
                      The officer was simply tired of being tripped.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 TRIAL 003:           FIELD AGENT INTERACTION (TACTICAL TEST)
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 SUBJECT:             Agent Marcus Hale
 TASK:                Perform a simulated "Tactical Extraction" while
                      AFD-SU-012 is present in the training room.
@@ -224,9 +224,9 @@ ANOMALY CHECK:       NEGATIVE. No "Fear-Pulse" or "Hate-Bleed."
                      Just a complete tactical breakdown caused by
                      unforeseen nuisance.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 TRIAL 004:           E-CLASS INTERACTION (SOCIAL FRICTION TEST)
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 SUBJECT:             E-Class Subject E-12-09
 TASK:                Share a designated "Rest Suite" with the subject
                      for 24 hours.
@@ -240,9 +240,9 @@ REACTION:            Subject 12-09 begged the guards to put him back
 ANOMALY CHECK:       NEGATIVE. The subject wasn't being mind-controlled;
                      he was just being bothered by a heavy creature.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                  SECTION 004 — FINAL ANALYTIC REVIEW
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-012/PSY-006
 REVIEWER:            High Researcher Helen Price
@@ -263,9 +263,9 @@ memetic hazard, because then we could use a pill to fix the problem. As
 it stands, the only cure is a deep breath and a large box of
 [ REDACTED ].
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 The search for an anomalous "Annoyance Mechanism" is officially
 closed. All future irritation reports are to be categorized under

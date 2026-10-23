@@ -1,10 +1,10 @@
 A.C.T FACILITY — INCIDENT & BREACH DOSSIER
 KITSUNE-Fox-Girl-Incident-Breach-Dossier-AFD-SU-572
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                 A.C.T FACILITY — INCIDENT & BREACH DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-572
 TITLE I:             KITSUNE, Fox Girl
@@ -25,9 +25,9 @@ DOSSIER STATUS:      Open / Handler-loss incident archived
 
 RELATED DOSSIER:     KITSUNE-Fox-Girl-Behavioral-Observation-Dossier-AFD-SU-572
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 This dossier belongs to A.C.T Log Category IV — Incident & Breach Dossier. The
 document may contain multiple related incident, emotional response, containment
@@ -49,9 +49,9 @@ The incident did not produce a containment breach, but it caused significant
 emotional destabilization, telepathic overflow, and temporary regression in the
 subject's socialization progress.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                          DOSSIER SUMMARY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 AFD-SU-572 formed a long-term attachment to Care Specialist Hanae Fujimoto over
 several decades of cooperative containment. Fujimoto served as offering handler,
@@ -73,9 +73,9 @@ sensation of standing in an empty temple during rain.
 A.C.T's initial decision to delay the notification is now considered a care
 error.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                     SECTION 001 — INCIDENT SUMMARY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-572/INC-001
 LOG TYPE:            Incident Summary
@@ -125,9 +125,9 @@ RESULT:
 Containment remained intact. Emotional destabilization continued for 19 days.
 Procedure revised for future long-term handler loss.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                   SECTION 002 — NOTIFICATION TIMELINE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-572/TLN-001
 LOG TYPE:            Notification Timeline
@@ -170,9 +170,9 @@ water, and tea offerings. No group sessions permitted.
 1991-03-08 — Subject exits shrine screen voluntarily and requests a bell cord be
 hung for Fujimoto during seasonal observance.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                  SECTION 003 — TELEPATHIC SURGE RECORD
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-572/TEL-001
 LOG TYPE:            Telepathic Surge Record
@@ -215,9 +215,9 @@ Long-term attachment figures must not be removed from AFD-SU-572's life without
 transparent transition protocol. The subject detects absence patterns more
 quickly than personnel expect.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
               SECTION 004 — SUBJECT TESTIMONY EXTRACT
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-572/INT-001
 LOG TYPE:            Subject Testimony Extract
@@ -284,9 +284,9 @@ Subject accepted a replacement offering handler after this interview, provided
 the new handler trained under Fujimoto's recorded offering protocol and performed
 three silent sessions before speaking.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                   SECTION 005 — CARE STAFF REVIEW
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-572/CARE-001
 LOG TYPE:            Care Staff Review
@@ -317,9 +317,9 @@ CARE CONCLUSION:
 For long-lived social subjects, mortality of trusted personnel is not an
 administrative staffing issue. It is containment-relevant emotional terrain.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
               SECTION 006 — PROCEDURE REVISION NOTICE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-572/PRC-001
 LOG TYPE:            Procedure Revision Notice
@@ -351,9 +351,9 @@ APPROVED TRANSITION PHRASE:
 IMPLEMENTATION STATUS:
 Approved. Added to cooperative subject-care doctrine.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 Incident 572-F confirmed that AFD-SU-572's attachments are deep, specific, and
 ritualized. Her grief response produced telepathic overflow and temporary social

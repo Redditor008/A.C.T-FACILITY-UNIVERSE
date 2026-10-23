@@ -117,8 +117,8 @@ The following internal or associated structures are confirmed or strongly indica
 — **Vanguard Division** — named in VESPER-related material and likely attached to OMEGA-level deployment.
 — **MNT Program** — inferred from MNT-092 designation, OMEGA-platform records, and operative conversion language.
 — **Ghost File system** — record erasure condition after high-grade operations.
- **OMEGA-KERN / Gamification Protocol control layer** — neural operating framework that converts reality into combat
- interface logic.
+ **OMEGA-KERN / Gamification Protocol control layer** — neural
+ operating framework that converts reality into combat interface logic.
  **Sector operation command** — implied by Jobs 1-5, Sector 7 Purge, Sector 4
  Purge,
  Sector 12 Rim collapse, and Node-4
@@ -356,8 +356,7 @@ A.C.T NOTE: The term "leash" is treated as a coercive control marker until
  GUILD_WIKI, VESPERSYS, Vanguard Division, and Ghost File systems.
 — The recovered PDF identifies VESPER as MNT-092-OMEGA and as a Guild vanguard-assassin. — A separate
 future-origin equipment test record displayed a Guild Registry maintenance instruction. VESPER's conversion
-record names Lyra, Chief Surgeon Valerius, the Genesis Event, and multiple body-integrated weapons
- systems.
+record names Lyra, Chief Surgeon Valerius, the Genesis Event, and multiple body-integrated weapons systems.
 — The Guild archive deliberately excludes post-disconnection
 domestic/civilian material involving Elara Vance and the Comfy Protocol.
 

@@ -1,7 +1,7 @@
 A.C.T FACILITY ARCHIVE FILE — FACILITY CONVERTED AIRCRAFT SYSTEM
 ===========================
 TECHNOLOGY RECORD - FACILITY CONVERTED AIRCRAFT SYSTEM
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                                                         |
@@ -62,13 +62,13 @@ This file expands the short catalog entry into a working technology record. Full
 route masking, cargo-weight stabilizer internals, RSA-rail geometry, and trans-orbital emergency ceilings remain
 censored under FCA ROUTE DISCLOSURE LIMIT.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FUNCTION SUMMARY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Practical Function
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Facility Converted Aircraft move anomalous objects, biological samples, oversized components, unstable containment
 packages, field teams, medical transfer pods, and emergency site cargo across long distances while maintaining enough
@@ -86,7 +86,7 @@ A.C.T's mobile bridge between field recovery and site intake when ordinary trans
 fragile, or too politically exposed.
 
 Operational Role
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FCA appears in five major roles:
 
@@ -103,13 +103,13 @@ Core mission rule:
 
 THE AIRCRAFT IS PART OF THE BOX UNTIL THE CARGO IS SOMEWHERE SAFER.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 ORIGIN AND CUSTODY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Development History
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The technological timeline records FCA deployment in 1995, shortly after the 1992 deployment of QNB. By that point
 A.C.T had stabilized major facilities with RSA, hidden them with ARM, and hardened records through QNB, but still
@@ -122,7 +122,7 @@ aircraft than flying containment chambers. The modern system preserves that phil
 systems are interlocked rather than merely bolted together.
 
 Custody
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Primary custody belongs to Logistics Division and Recovery Division. Logistics controls fleet scheduling, airfield
 nodes, cover traffic, cargo loading windows, crew rotation, fuel, maintenance access, and route deconfliction.
@@ -133,13 +133,13 @@ Containment defines cargo restrictions and emergency jettison prohibitions. Civi
 manifests, public airspace traces, and emergency incident narratives. Medical Care attaches to living cargo. Site
 Command controls departure and receiving authority.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 PHYSICAL AND SYSTEM DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Standard Aircraft Frame
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The visual reference guide describes FCA as a massive cargo plane with a lifting-body
 design and four VTOL turbofans.
@@ -151,7 +151,7 @@ operation. FCA is not safe to fly as a normal aircraft if containment systems
 are disabled.
 
 Known Components
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Known components include:
 
@@ -176,7 +176,7 @@ aircraft interior. If rails desynchronize, cargo may remain strapped down physic
 aircraft is its transport environment.
 
 Variants
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T records at least three variant profiles:
 
@@ -186,12 +186,12 @@ FCA-SHADOW: low-observation covert flight under heavy ARM and Civil Covert routi
 
 Variant names are operational profiles, not confirmed separate aircraft models.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 
 
 TECHNICAL SPECIFICATION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Figures below are restated from the Master Catalog entry, the technological timeline, the visual reference guide
 entry, and this record's own component list. The archive holds no figure for Cargo bay volume, Maximum takeoff mass,
@@ -236,10 +236,10 @@ state. A transport that flies well and holds its cargo badly is not a
 containment asset.
 
 INTERFACE AND OPERATING ENVELOPE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Deck And Cargo Controls
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - VTOL lift control for the turbofan array
 - Magnetic RSA-Rail engagement for cargo position
@@ -250,7 +250,7 @@ Deck And Cargo Controls
 The deck layout is not itemized in this file. Control positions: NOT MEASURED.
 
 Crew Readouts
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - rail and stabilizer state for the loaded cargo
 - ARM coverage during transit
@@ -258,7 +258,7 @@ Crew Readouts
 - route, weather, observation, and paperwork status, all treated as containment variables
 
 Flight And Cargo Envelope
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - Do not lift cargo whose weight has been reduced without a stabilizer review.
 - Do not treat the aircraft as final containment for a hostile entity.
@@ -271,11 +271,11 @@ Weather, altitude, temperature, and fuel tolerance limits are not recorded in th
 catalog. Environmental envelope: NOT MEASURED.
 
 OPERATING PROCEDURE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 
 Numbered Operating Sequence
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Standard movement, Level 4 Logistics or Recovery.
 
@@ -295,7 +295,7 @@ fault, and the aircraft
 diverts to the nearest site able to take the cargo.
 
 Authorized Use
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FCA missions require Level 4 mission planning by Logistics, Recovery, Engineering, Containment, and receiving Site
 Command. Level 5 review is required for world-scale biological samples, active large anomalies, public airspace
@@ -308,7 +308,7 @@ calibration, and whether ordinary transport is safer. FCA should not be used mer
 High-capacity transport creates high-capacity failure.
 
 Operating States
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T uses the following working labels. These are technical mission states, not anomaly classes:
 
@@ -323,7 +323,7 @@ FCA-BLACK may involve wrong destination behavior, duplicate flight
 plans, cargo mass contradiction, or QNB recorder disagreement.
 
 Handling Rules
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Do not load cargo before RSA rail acceptance. Do not use ARM skin to
 hide structural fire from crew. Do not open cargo
@@ -332,10 +332,10 @@ the flight appears calm. Do not treat a world-scale sample as safe because the
 Cargo-Weight Stabilizer reports
 manageable mass. Do not allow public aviation control to receive the real manifest.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 SERVICING AND CALIBRATION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | FLIGHT OR CARGO EVENT      | REQUIRED SERVICE                          | AUTHORITY                                 |
@@ -363,7 +363,7 @@ departure and checked
 again before the bay is opened.
 
 FAULT ISOLATION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
@@ -385,10 +385,10 @@ FAULT ISOLATION
 +----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 What FCA Cannot Do
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FCA cannot make all cargo transportable, cannot guarantee safe flight through spatial storms, cannot contain a hostile
 entity without internal containment, cannot erase public radar records by itself, cannot replace receiving-site
@@ -407,7 +407,7 @@ FCA is weakest against:
 - crew overconfidence after successful high-risk flights.
 
 Misuse Risk
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Misuse can escalate an incident across regions. A ground containment failure may harm one site. An FCA failure can
 spread the failure through airspace, borders, weather systems, public aviation records, and receiving facilities.
@@ -420,13 +420,13 @@ Logistics note:
 A flying box is still a box. It is also a promise to every
 place beneath it.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FAILURE HISTORY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FCA-1995 WEIGHT STABILIZER DRIFT
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 An early test flight carried a biological mass sample whose recorded weight and physical pressure disagreed by
 increasing margins. The Cargo-Weight Stabilizer reported safe load. The landing gear compression sensors disagreed.
@@ -436,7 +436,7 @@ the stabilizer had reduced aircraft burden without fully reducing ground consequ
 Corrective action required separate mass, burden, and landing-impact channels.
 
 PACIFIC COAST AIRFIELD COVER BREACH
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A Redwood Veil support flight routed through a remote Pacific-coast airfield attracted local attention after three
 unrelated cover manifests described the same aircraft as medical relief, geological survey, and private freight. ARM
@@ -445,7 +445,7 @@ nodes prevented immediate questioning, but Civil Covert flagged the contradictio
 Corrective action centralized FCA manifest scrubber authority and prohibited improvised cover stacking.
 
 WHITE GRAVE BIOLOGICAL TRANSFER FREEZE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A high-priority trans-regional transfer to White Grave entered FCA-AMBER when biological cargo
 stabilized to aircraft climate rather than destination climate. The sample remained alive, but
@@ -455,13 +455,13 @@ disagreed whether the flight preserved the sample or taught it a new environment
 The case remains under review and is used to warn crews that successful arrival
 is not the same as unchanged cargo.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 DIVISION USE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Logistics Division
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Logistics owns fleet scheduling, route planning, airfield coordination, fuel, cover traffic, manifests, crew
 rotations, and weather windows. Logistics may deny use if the public or route exposure
@@ -469,33 +469,33 @@ cost exceeds containment
 benefit.
 
 Recovery and Containment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Recovery owns field pickup and chain of custody until receiving transfer. Containment defines cargo configuration,
 internal box requirements, emergency restrictions, and receiving-site readiness. A cargo cannot be accepted for flight
 because the aircraft has space. It must have a containment plan.
 
 Engineering and Civil Covert
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Engineering maintains airframe modifications, VTOL systems, RSA rails, ARM skin, Cargo-Weight Stabilizer, QNB
 recorder, and receiving beacons. Civil Covert manages false manifests, aviation records, radar explanation, emergency
 crash narratives, and public witness suppression if a flight becomes visible.
 
 Medical Care and Site Command
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Medical Care attaches to living cargo, biological samples, altered civilians, and
 anomalous patients. Site Command must approve departure and receiving conditions.
 No FCA mission is complete until receiving site custody confirms stable arrival.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 CROSS-REFERENCES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Related A.C.T Records
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - ACT-MASTER-INDEX-50-SYSTEMS-AND-MATERIALS, Archive Record
 - Internal Engineering Record: 1598 – 2026, Archive Record
@@ -509,7 +509,7 @@ Related A.C.T Records
 - TECHNOLOGY RECORD TEMPLATE, Technology Record
 
 Technology Relationship
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The FCA system interacts with, but is distinct from:
 
@@ -523,10 +523,10 @@ The FCA system interacts with, but is distinct from:
 Each system requires its own individual technology record.
 This file covers only the Facility Converted Aircraft System.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 OPEN ENGINEERING AND INTELLIGENCE QUESTIONS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - How much Cargo-Weight Stabilizer use changes landing consequence rather than true mass remains
 under study.
@@ -551,10 +551,10 @@ flights?
   afterwards?
 
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FILE METADATA
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FILE CREATED:            09/07/2026
 FILE LAST UPDATED:       19/11/2026

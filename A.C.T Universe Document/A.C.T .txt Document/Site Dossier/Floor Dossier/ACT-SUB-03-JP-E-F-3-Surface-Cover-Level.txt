@@ -11,7 +11,7 @@ Dossier Number: FLOOR-DOSSIER-SUB-03-JP-E-F-3
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard / ACT Floor Record Standard
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 Archive Note
 
@@ -31,7 +31,7 @@ This dossier records the floor in full institutional language: what it is,
 how it conceals, how it is built, and how the annex's quiet cover serves
 an installation whose work is silence itself.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 1. Floor Registry Identity Summary
 
@@ -56,7 +56,7 @@ serves the region's cultural-heritage sector
 Access Posture: Semi-public access under cover doctrine
 Current Status: Active
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 2. Dossier Purpose
 
@@ -73,7 +73,7 @@ annex's document handling, its restricted work areas, and its quiet,
 low-profile presence — every feature the buried annex requires, framed as
 ordinary professional work.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 3. Position in the Site Stack
 
@@ -96,7 +96,7 @@ levels descends through F-3 into F-2, under the transition control that the
 cover requires. F-3 is the physical boundary; the review floor below is the
 operational boundary.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 4. Historical Foundation
 
@@ -120,7 +120,7 @@ In its modern configuration, F-3 is the annex's legitimate face: a
 document-preservation studio whose quiet professional work conceals the
 review and quarantine operations below.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 5. Command and Authority
 
@@ -142,7 +142,7 @@ authority is over the legitimate studio — and its most important duty is
 the maintenance of the boundary between the studio's visible work and the
 buried annex's review operations.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 6. Divisional Presence
 
@@ -163,7 +163,7 @@ and the buried annex, concealed within the studio's ordinary operations.
 Administrative personnel operate the level's public functions,
 maintaining the legitimate paperwork and operations of the cover studio.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 7. Physical Plant and Architecture
 
@@ -197,7 +197,7 @@ control points through which buffered material passes from the studio into
 the annex's operational levels. The architecture is designed to be
 indistinguishable from ordinary studio logistics.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 8. Systems and Infrastructure
 
@@ -225,7 +225,7 @@ The studio maintains its legitimate communications — the professional
 operations of the preservation business — alongside the annex's secure
 internal networks.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 9. Security and Boundary Architecture
 
@@ -256,7 +256,7 @@ boundary incidents, and attempts to penetrate the transition architecture
 are met with the annex's response doctrine, with the buried component
 sealed behind the level if the surface boundary is threatened.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 10. Function and Character
 
@@ -276,7 +276,7 @@ F-3 holds no anomalous material. Its operations are the legitimate
 studio's restoration and administrative functions; buffered material passes
 through the level only in transit, under the cover's protection.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 11. Personnel and Duty Life
 
@@ -300,7 +300,7 @@ The level's personnel work under cover discipline: their professional
 conduct and daily operations are part of the annex's concealment. The
 studio is genuine, and so is the discipline of those who run it.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 12. Floor Doctrine
 
@@ -325,7 +325,7 @@ review must remain separate: the region sees a document-preservation
 business, and the annex's quarantine and review continue beneath it,
 undisturbed and unseen.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 13. Incident Archive
 
@@ -334,7 +334,7 @@ cover incidents, boundary incidents, and attempts to penetrate the
 transition architecture. The annex's history records the incidents that
 have tested the surface boundary — and the cover has held.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 14. Current Status and Projected Development
 
@@ -344,7 +344,7 @@ priorities include:
 - maintenance of the concealed transition architecture;
 - preservation of the studio's cover discipline.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 15. Cross-Referenced Files
 
@@ -355,7 +355,7 @@ priorities include:
 - ACT_Site_Doctrine_and_Installation_Structure.md / .txt
 - Parent command Annex Register (clearance-gated)
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 Archive Closing
 

@@ -11,7 +11,7 @@ Dossier Number: FLOOR-DOSSIER-01-US-W-F-2
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard / ACT Floor Record Standard
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------------+
 
 Archive Note
 
@@ -31,7 +31,7 @@ what it holds, how it is built, how it is guarded, and how it
 stands between
 the bulk of the complex's holdings and the silence of F-1.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------------+
 
 1. Floor Registry Identity Summary
 
@@ -52,7 +52,7 @@ Access Posture: Restricted; observation governed by each resident's
 individual restriction set
 Current Status: Active
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------------+
 
 2. Dossier Purpose
 
@@ -70,7 +70,7 @@ is written into its restriction set, and where the floor's architecture
 acknowledges that some dangers travel through the eye and the mind rather
 than through the lock.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------------+
 
 3. Position in the Site Stack
 
@@ -98,7 +98,7 @@ active containment and study system. Material does not pass through F-2 to
 reach F-1; the vault access route descends through F-2's perimeter without
 admitting F-2 personnel to F-1 business.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------------+
 
 4. Historical Foundation
 
@@ -127,7 +127,7 @@ population under individual restriction sets, with the floor's architecture
 and personnel doctrine organized around the principle that access to F-2 is
 always access to a specific resident — never general access to the floor.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------------+
 
 5. Command and Authority
 
@@ -152,7 +152,7 @@ residents to F-1, or to transform restricted material. Its authority is
 custodial: to hold, monitor, and maintain each resident under its
 restriction set.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------------+
 
 6. Divisional Presence
 
@@ -183,7 +183,7 @@ recovered from field operations that proves to be perception-sensitive.
 Recovered material is triaged on the intake levels before assignment to
 F-2's holding system.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------------+
 
 7. Physical Plant and Architecture
 
@@ -220,7 +220,7 @@ F-2 is built to the complex's restricted-hold standard: hardened unit
 boundaries, compartmented environmental systems, and monitoring architecture
 that observes the units without breaching their perception controls.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------------+
 
 8. Systems and Infrastructure
 
@@ -251,7 +251,7 @@ perception-sensitive residents are governed by the same rules as
 observations of them. The floor's documentation culture treats a resident's
 name and nature as components of the resident's containment.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------------+
 
 9. Security and Containment Architecture
 
@@ -283,7 +283,7 @@ participates in the site's F-1 closure drills. When F-1 is closed, F-2's
 link to the lower access route is sealed with it, and the floor operates
 under modified access conditions until the closure is resolved.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------------+
 
 10. Resident Holdings and Filing Doctrine
 
@@ -314,7 +314,7 @@ restricted material within the active containment and study system, and its
 designations are preserved in the Annex Register under the floor's
 restriction-set doctrine.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------------+
 
 11. Personnel and Duty Life
 
@@ -337,7 +337,7 @@ The Medical Division maintains cognitive monitoring for F-2 personnel,
 particularly those whose duties involve Eye Box observation. Exposure limits
 and evaluation schedules are enforced as containment parameters.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------------+
 
 12. Floor Doctrine
 
@@ -362,7 +362,7 @@ is under continuous assessment, and the floor's duty includes recognizing
 when a resident belongs elsewhere — in standard holding, in deeper
 confinement, or in transformation review.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------------+
 
 13. Incident Archive
 
@@ -372,7 +372,7 @@ incidents involving restricted material. The floor's early encounters with
 perception-sensitive holdings — the incidents that established Blind Box and
 Eye Box doctrine — are preserved in the complex's history files.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------------+
 
 14. Current Status and Projected Development
 
@@ -383,7 +383,7 @@ priorities include:
 - coordination with intake and Recovery Division triage on new
   perception-sensitive material.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------------+
 
 15. Cross-Referenced Files
 
@@ -394,7 +394,7 @@ priorities include:
 - ACT_Site_Doctrine_and_Installation_Structure.md / .txt
 - Redwood Veil Annex Register (clearance-gated)
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------------+
 
 Archive Closing
 

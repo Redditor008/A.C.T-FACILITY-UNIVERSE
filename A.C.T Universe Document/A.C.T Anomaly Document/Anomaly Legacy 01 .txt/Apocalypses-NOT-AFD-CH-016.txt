@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 Apocalypses-NOT-AFD-CH-016
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-CH-016
 TITLE I:             Apocalypses-NOT
@@ -16,9 +16,9 @@ FIELD TYPE:          CH — Cosmic Hazard
 
 CLEARANCE REQUIRED:  Level 4
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   UNDISCLOSED
 
@@ -33,9 +33,9 @@ SUB-THREAT:          BENEFICIAL
 TRANSFORMATION
 VIABILITY:           INVIOLABLE
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 DATE OF DETECTION:   2010-04-09
 VERIFICATION DATE:   2010-04-21
@@ -55,9 +55,9 @@ AMNESTIC DEPLOYED:   Yes
 NARRATIVE STATUS:    Controlled as landslide panic, mass hysteria, and illegal
                      drone footage fabrication
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 AFD-CH-016 is a giant reptilian entity of unknown descent, origin, and biological
 classification. The entity is approximately 15 m in length or height depending
@@ -119,9 +119,9 @@ A.C.T does not interpret this as kindness. AFD-CH-016 may be protecting reality,
 protecting itself, maintaining territory, feeding on escalation pressure, or
 removing competition. Motive is unknown.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Apocalyptic self-perception distortion. Vulnerable observers
                      who view AFD-CH-016 may experience World-End Scenarios in
@@ -152,9 +152,9 @@ TEMPORAL BEHAVIOR:   Intermittent manifestation / shape-variable / appears
 REALITY INTERACTION: Perception-Cosmic Hazard / Apocalyptic Probability Damping
                      / Observer-Dependent Morphology.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                   WORLD-END SCENARIO EXPOSURE PROFILE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 WES DESIGNATION:     WES-016
 COMMON NAME:         False Apocalypse Vision
@@ -189,9 +189,9 @@ WES exposure does not prove AFD-CH-016 will end the world. WES exposure proves
 only that the observer's mind translated AFD-CH-016 into a world-ending image.
 This distinction is mandatory in all briefings.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                        ANTI-APOCALYPTIC BEHAVIOR
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 AFD-CH-016 has appeared in proximity to at least seven anomalies later confirmed
 as capable of apocalyptic or near-apocalyptic escalation. In five cases, the
@@ -215,9 +215,9 @@ is usually partial, indirect, or temporary. It may reduce an end-state without
 stopping all associated casualties. It may suppress only the apocalyptic power,
 leaving lesser hostile functions intact.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 AFD-CH-016 is not conventionally contained. Current containment consists of
 manifestation monitoring, visual-exposure control, WES treatment, and controlled
@@ -275,9 +275,9 @@ IN BREACH IF IT:
               public infrastructure, or anti-apocalyptic interference alters an
               active containment operation without warning
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 AFD-CH-016 is difficult to classify because its perceived danger is greater than
 its confirmed destructive behavior. Vulnerable observers see apocalypse around
@@ -301,9 +301,9 @@ shower," meaning it displays danger without necessarily enacting it. This phrase
 originated in a field note translation error but remains useful. AFD-CH-016
 shows observers an ending. It does not necessarily bring one.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                       TRANSFORMATION NOTES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 TRANSFORMATION ATTEMPT
 STATUS:              Prohibited
@@ -322,9 +322,9 @@ Current research is limited to indirect observation, WES treatment improvement,
 and post-event comparison of apocalyptic activation rates before and after
 AFD-CH-016 manifestation.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 NOTE 001:
 Do not call AFD-CH-016 an apocalypse in operational speech. Do not call it safe.

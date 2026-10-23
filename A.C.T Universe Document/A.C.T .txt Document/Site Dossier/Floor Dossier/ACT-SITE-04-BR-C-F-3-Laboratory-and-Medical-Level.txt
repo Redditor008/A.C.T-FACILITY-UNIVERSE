@@ -11,7 +11,7 @@ Dossier Number: FLOOR-DOSSIER-04-BR-C-F-3
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard / ACT Floor Record Standard
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 Archive Note
 
@@ -31,7 +31,7 @@ what it does, how it is built, how it is run, and how the
 reserve's science
 and medicine serve its containment mission.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 1. Floor Registry Identity Summary
 
@@ -51,7 +51,7 @@ anomalous subjects requiring built-environment care
 Access Posture: Clearance-gated research and medical access
 Current Status: Active
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 2. Dossier Purpose
 
@@ -68,7 +68,7 @@ requiring built-environment care. The floor is where the reserve's
 knowledge and care are concentrated — beneath a campus whose surface work
 is ecological science in the open.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 3. Position in the Site Stack
 
@@ -93,7 +93,7 @@ enclosure sectors and the surface research programs are processed here, and
 the floor's findings inform both the reserve's ecological science and its
 containment doctrine.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 4. Historical Foundation
 
@@ -117,7 +117,7 @@ In its modern configuration, F-3 is the reserve's laboratory and medical
 heart: the level where the reserve studies its holdings, processes its
 samples, and cares for the living beings its work involves.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 5. Command and Authority
 
@@ -141,7 +141,7 @@ F-3 holds no authority over resident disposition. Its role is scientific
 and medical: the floor may study, process, and care — it may not decide
 what happens to the material or subjects it serves.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 6. Divisional Presence
 
@@ -172,7 +172,7 @@ medical spaces, enforcing the access rules that govern the floor.
 Archive personnel maintain the floor's research and medical documentation
 under the Archive Division's custody.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 7. Physical Plant and Architecture
 
@@ -210,7 +210,7 @@ condition requires built-environment medical attention. The facilities are
 engineered for both — clinical environments that respect the medical and
 containment requirements of their patients.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 8. Systems and Infrastructure
 
@@ -237,7 +237,7 @@ F-3 maintains the reserve's research and medical data infrastructure:
 study data, sample records, and patient documentation are stored under the
 standards appropriate to their sensitivity.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 9. Security and Containment Architecture
 
@@ -266,7 +266,7 @@ F-3 maintains incident response for laboratory and medical events:
 biological incidents, exposure events, and medical containment incidents
 are met with the reserve's response doctrine.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 10. Function and Character
 
@@ -286,7 +286,7 @@ F-3 holds no residents in the holding sense. Its population is material and
 subjects under study or care, and the personnel conducting the floor's
 scientific and medical work.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 11. Personnel and Duty Life
 
@@ -310,7 +310,7 @@ containment, and medicine that serves both the reserve's people and the
 anomalous subjects in its care. The dual mandate is the floor's defining
 culture.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 12. Floor Doctrine
 
@@ -333,7 +333,7 @@ the floor's laboratories and medical facilities complement the enclosure
 network, providing the controlled conditions that open-air containment
 cannot.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 13. Incident Archive
 
@@ -342,7 +342,7 @@ biological incidents, exposure events, and medical containment incidents.
 The incidents that shaped the reserve's laboratory and medical doctrine are
 preserved in the reserve's history files.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 14. Current Status and Projected Development
 
@@ -352,7 +352,7 @@ priorities include:
 - maintenance of medical facilities for personnel and anomalous subjects;
 - refinement of containment research methodology.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 15. Cross-Referenced Files
 
@@ -363,7 +363,7 @@ priorities include:
 - ACT_Site_Doctrine_and_Installation_Structure.md / .txt
 - Verde Null Annex Register (clearance-gated)
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 Archive Closing
 

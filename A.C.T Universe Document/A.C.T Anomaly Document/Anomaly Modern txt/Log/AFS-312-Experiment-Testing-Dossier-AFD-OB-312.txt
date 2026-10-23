@@ -1,10 +1,10 @@
 A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
 AFS-312-Experiment-Testing-Dossier-AFD-OB-312
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
              A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-OB-312
 TITLE I:             AFS-312 (Anti Force Shock-312)
@@ -20,9 +20,9 @@ JURISDICTIONAL AUTHORITY:  Redwood Veil Command / Tactical Review Desk
 ARCHIVE STATUS:      Active / Tactical-discharge restricted
 DOSSIER STATUS:      Open — authorized testing under ballistic-vacuum protocol
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
                            CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 This dossier belongs to A.C.T Log Category IV — Experiment & Testing Dossier.
 AFD-OB-312 is held in a Total Light-Absorb vault at ACT-SITE-01-US-W, where
@@ -47,9 +47,9 @@ To record the discharge behavior of each firing profile and the weapon's
 charge mechanics, so that authorized breach-suppression use rests on tested
 fact rather than manufacturer legend.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
       SECTION 001 — CHARGE-CYCLE AND SOLAR-ABSORPTION CALIBRATION
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-312/EXP-001
 DATE:                2021-06-02 (verification) — ongoing
@@ -74,9 +74,9 @@ CALIBRATION RECORD:
      days; spin without a charge-command triggers a Static-Purge of the
      chamber
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
        SECTION 002 — DISCHARGE PROTOCOL — 50% WEAK SCATTER SHOT
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-312/EXP-002
 DATE:                2021-2024 test series
@@ -98,9 +98,9 @@ OBSERVED CHARACTERISTICS:
    - No biological targets permitted in the affected cone
    - Residual ionization stabilized post-test with the RSA (Item 01)
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
       SECTION 003 — DISCHARGE PROTOCOL — 100% FOCUSED CHARGE SHOT
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-312/EXP-003
 DATE:                2021-2024 test series
@@ -124,9 +124,9 @@ RESTRICTIONS:
      Suppressor duty in the event of a high-tier containment failure at
      Site-01
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
            SECTION 004 — DISCHARGE PROTOCOL — 10% MULTI-SHOT
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-312/EXP-004
 DATE:                2021-2024 test series
@@ -147,9 +147,9 @@ OBSERVED CHARACTERISTICS:
    - Disc rotation speed varies per selected mode
    - Recharge requirement unchanged: 20 minutes per full refill
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
     SECTION 005 — 2023 CALIBRATION ANOMALY — GUILD REGISTRY MESSAGE
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-312/EXP-005
 DATE:                2023 (calibration cycle)
@@ -173,9 +173,9 @@ ANALYSIS:
    - The message provides a possible causal link to the origin of AFD-SU-020
      (Vesper) and is retained under Tactical Review Desk jurisdiction
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
                   SECTION 006 — CLOSING TESTING NOTE
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-312/EXP-CLS-001
 DATE:                2026-09-08

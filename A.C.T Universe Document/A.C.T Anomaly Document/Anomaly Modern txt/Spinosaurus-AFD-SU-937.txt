@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 Spinosaurus-AFD-SU-937
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                  Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-937
 TITLE I:             Spinosaurus
@@ -15,9 +15,9 @@ FIELD TYPE:          SU — Subject
 
 CLEARANCE REQUIRED:  Level 3
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   REACTIVE
 
@@ -32,9 +32,9 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           NEUTRAL
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 DATE OF DETECTION:   2024-06-15
 VERIFICATION DATE:   2024-06-20
@@ -53,9 +53,9 @@ AMNESTIC DEPLOYED:   N/A.
 NARRATIVE STATUS:    The region has been declared a "Protected Wildlife
                      Conservation Zone" under ACT-SITE-04 oversight.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 AFD-SU-937 is a sentient biological organism bearing an 88% phenotypic
 resemblance to the Spinosaurus aegyptiacus depicted in late 20th-
@@ -89,9 +89,9 @@ territorial apex predator. It does not possess human-level intelligence,
 memetic properties, or intentional malice. Its primary drives are
 hunger, territory maintenance, and thermoregulation.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Temporal Vestige. The subject is a living prehistoric
                      organism recovered from a localized time-freeze.
@@ -114,9 +114,9 @@ TEMPORAL BEHAVIOR:   Post-stasis active state.
 REALITY INTERACTION: Biological-Molecular Transmutation / Temporal
                      Persistence.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 AFD-SU-937 is housed in a "Massive Box" biological arena at
 ACT-SITE-04-BR-C.
@@ -154,18 +154,18 @@ BREACH PROTOCOL:         If a breach occurs, deploy the FCA (Facility
                          industrial-grade magnetic torsion restraints
                          to pin the subject's tungsten skeleton.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 The "Jurassic Vestige" provides a rare opportunity to study the
 long-term effects of anomalous exposure on prehistoric biology. The
 way the [ REDACTED ] source reinforced the subject's bones suggests it
 was an "Evolutionary Fast-Forward" event rather than a mutation.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                       TRANSFORMATION NOTES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 CURRENT VIABILITY:       NEUTRAL
 
@@ -174,9 +174,9 @@ Proposals to use the subject as a tactical "Breach-Ram" have been
 denied by the O5 Council. The creature is non-obedient and its
 nutritional costs outweigh its potential as a mobile asset.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 NOTE 001:
 The subject has a peculiar habit of roaring at the Site-04 transport

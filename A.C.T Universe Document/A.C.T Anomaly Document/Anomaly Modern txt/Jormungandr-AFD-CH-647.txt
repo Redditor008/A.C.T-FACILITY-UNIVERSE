@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 Jormungandr-AFD-CH-647
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-CH-647
 TITLE I:             Jormungandr
@@ -15,9 +15,9 @@ FIELD TYPE:          CH — Cosmic Hazard
 
 CLEARANCE REQUIRED:  Level 4 / Serpent-Class Contact Authorization
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   UNENCLOSABLE
 
@@ -45,9 +45,9 @@ EXPOSURE AUTHORIZATION: Designated Field Personnel / Current Researcher only
 
 BREACH STATE:        Stable
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------+
 
 DATE OF DETECTION:   1974-09-18
 VERIFICATION DATE:   1974-10-06
@@ -67,9 +67,9 @@ AMNESTIC DEPLOYED:   Yes
 NARRATIVE STATUS:    Controlled as persistent magma chamber instability and
                      long-term eruption-watch anomaly
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------+
 
 AFD-CH-647 is a 1 km long serpentiform entity occupying a sub-volcanic chamber
 beneath Mount [REDACTED]. The entity identifies itself as Jormungandr. Despite
@@ -116,9 +116,9 @@ to
 erupt because AFD-CH-647 was holding the pressure in a stable pattern while
 feeding.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Kilometric volcanic serpent body. AFD-CH-647 is a 1 km
                      serpentiform sapient entity composed of obsidian scale,
@@ -166,9 +166,9 @@ KNOWN AVERSIONS:
    - serpent-class submission experiments
    - being called a monster, weapon, or eruption trigger
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------+
                     ITHYOS RELATIONSHIP REVIEW
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------+
 
 AFD-CH-647 has never spoken the name ITHYOS directly. When presented with the
 phrase "World-Sleeper" in a shielded audio test, the subject lowered its head
@@ -189,9 +189,9 @@ AFD-CH-647. Cosmic Hazard Review has not determined whether direct ITHYOS
 influence exposure would produce submission behavior in AFD-CH-647, distress,
 or a more severe response.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------+
 
 AFD-CH-647 is contained in-place beneath Mount [REDACTED]. Physical relocation is
 not authorized and is considered operationally absurd due to the subject's size,
@@ -259,9 +259,9 @@ IN BREACH IF IT:
               safe stabilization range, feeding resources collapse, or serpent-
               class convergence is detected near the exclusion zone
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------+
 
 AFD-CH-647 is dangerous by scale and environment, not by default temperament.
 Its cooperative behavior has prevented repeated volcanic escalation events, but
@@ -284,9 +284,9 @@ A.C.T's safest doctrine is cooperative containment:
                      Let the serpent eat the mountain.
                      Do not make the mountain answer.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------+
                       TRANSFORMATION NOTES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------+
 
 TRANSFORMATION ATTEMPT
 STATUS:              Prohibited
@@ -304,9 +304,9 @@ home environment. A.C.T's role is to avoid turning that stability into a project
 Containment should preserve the subject's neutral state, feeding cycle, and
 privacy. No integration into Facility infrastructure is approved.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------+
 
 NOTE 001:
 AFD-CH-647 has requested that personnel stop describing lava as its "water." The

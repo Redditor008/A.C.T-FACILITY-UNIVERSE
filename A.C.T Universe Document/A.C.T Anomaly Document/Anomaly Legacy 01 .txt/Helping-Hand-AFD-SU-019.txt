@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 Helping-Hand-AFD-SU-019
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-019
 TITLE I:             Helping Hand
@@ -15,9 +15,9 @@ FIELD TYPE:          SU — Subject
 
 CLEARANCE REQUIRED:  Level 3
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   UNDISCLOSED
 
@@ -32,9 +32,9 @@ SUB-THREAT:          BENEFICIAL
 TRANSFORMATION
 VIABILITY:           NEUTRAL
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 DATE OF DETECTION:   1999-12-31
 VERIFICATION DATE:   2000-01-18
@@ -51,9 +51,9 @@ CIVILIAN EXPOSURE:   46 suspected / 9 confirmed
 AMNESTIC DEPLOYED:   No
 NARRATIVE STATUS:    Allowed to remain as miracle, luck, or misremembered rescue
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 AFD-SU-019 is an intermittent rescue entity or phenomenon that manifests to
 subjects in moments immediately preceding likely fatal outcome. The anomaly
@@ -95,9 +95,9 @@ This memory-softening effect is not harmful under ordinary conditions. It may
 serve to conceal the anomaly from public record, reduce distress, or prevent the
 subject from searching for a rescuer who cannot be found.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Last-moment rescue manifestation. AFD-SU-019 appears near
                      subjects facing imminent fatal outcome and moves them into
@@ -146,9 +146,9 @@ MEMORY SOFTENING:
    - "I know someone saved me. I just can't remember who anymore."
    - "A miracle happened. That's all."
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 AFD-SU-019 is not conventionally contained. No origin point, stable body, object
 anchor, summoning condition, or recurring route has been identified. Current
@@ -203,9 +203,9 @@ IN BREACH IF IT:
    [x] Other: Manifestation occurs during an active A.C.T operation and exposes
               classified containment activity to civilians or outside observers
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 AFD-SU-019 remains difficult to classify. It behaves like a subject during
 manifestation, but no persistent entity has been tracked between rescues. It
@@ -229,9 +229,9 @@ No case has confirmed that AFD-SU-019 is the actual familiar figure it appears
 to be. Deceased individuals remain deceased. Living individuals used as familiar
 forms have no memory of appearing at the event location.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                       TRANSFORMATION NOTES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 TRANSFORMATION ATTEMPT
 STATUS:              Prohibited
@@ -249,9 +249,9 @@ find or thank the rescuer.
 Current doctrine allows the miracle narrative to persist when secrecy is not at
 risk. A.C.T does not need to correct every saved life into a containment report.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 NOTE 001:
 The anomaly leaves before thanks. This appears consistent across all confirmed

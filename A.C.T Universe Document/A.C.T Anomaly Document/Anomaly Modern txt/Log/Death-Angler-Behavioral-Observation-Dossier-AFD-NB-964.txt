@@ -1,10 +1,10 @@
 A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
 Death-Angler-Behavioral-Observation-Dossier-AFD-NB-964
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
              A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 DESIGNATION:         AFD-NB-964
 TITLE I:             Death Angler
@@ -23,9 +23,9 @@ CONTAINMENT SITE:    ACT-SITE-05-ID-C — Nusantara Deep Relay
 ARCHIVE STATUS:      Active / High-Lethality Predator
 DOSSIER STATUS:      Open / Behavioral Profile Logged
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 This dossier explores the complex predatory behaviors of AFD-NB-964.
 Beyond simple hunger, the subject demonstrates a ritualistic approach
@@ -39,9 +39,9 @@ INCLUDED LOG TYPES:
    - Territorial Posture: Invisibility Cycles
    - Dossier Closing Statement
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                  SECTION 001 — THE DREAD HUNT SEQUENCE
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 LOG ID:              AFD-NB-964/FED-01
 DATE:                2024-03-12
@@ -68,9 +68,9 @@ OBSERVATION LOG:
           plates to shear the mass into four equal segments before
           swallowing.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                 SECTION 002 — PREDATORY INTELLIGENCE
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 LOG ID:              AFD-NB-964/INT-01
 AUTHOR:              Care Specialist Made Ayu Pradnya
@@ -89,9 +89,9 @@ enough to see if the technicians would look. It isn't trying to
 escape; it's trying to find out which of us is susceptible to the
 trance. It is grading us."
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                  SECTION 003 — THE JAGGED SCREECH
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 LOG ID:              AFD-NB-964/ACU-01
 REVIEWER:            Dr. Aris Thorne (SR-412)
@@ -109,9 +109,9 @@ The subject doesn't just want meat. It wants the hormonal byproduct of
 that terror. It is a harvester of high-intensity distress. Every hunt
 is a performance for an audience of one: the prey."
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                  SECTION 004 — INVISIBILITY CYCLES
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 LOG ID:              AFD-NB-964/VIS-01
 TYPE:                Optical Stability Audit
@@ -130,9 +130,9 @@ Gated Existence. It only "Permits" itself to be visible when it
 wants to be seen. This is a high-level biological reality-bend that we
 are containing with purely mechanical sonar.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 AFD-NB-964 is a highly disciplined predator with an advanced
 understanding of sentient fear-mechanics. Containment must continue to

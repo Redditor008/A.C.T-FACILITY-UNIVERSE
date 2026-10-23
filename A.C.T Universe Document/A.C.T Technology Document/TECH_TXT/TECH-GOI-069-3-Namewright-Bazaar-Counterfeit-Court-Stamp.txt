@@ -1,5 +1,5 @@
 A.C.T FACILITY ARCHIVE FILE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Namewright Bazaar Counterfeit Court Stamp
 =========================================
@@ -12,7 +12,7 @@ Origin: Namewright Bazaar (GOI-BS-X-069), Bazaar trade stock
 Clearance: Level 4 for custody; Level 5 for any handling
 
 Archive Note
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The archive holds three counterfeit court stamps, seized under a dismantlement order against a
 hostile identity market assessed at threat level 4.
@@ -36,7 +36,7 @@ These stamps are forgery instruments and must never be impressed on anything. No
 for any purpose, including authentication reference, without Level 5 and Legal approval.
 
 THE INSTRUMENT
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 1.1 What a stamp is for
 =======================
@@ -73,7 +73,7 @@ Three units indicate stock rather than use. A trader carrying one
 stamp is equipping themselves. Three in a cache is inventory.
 
 HANDLING
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 2.1 Custody
 ===========
@@ -109,7 +109,7 @@ Recorded for recognition. It is not a Facility procedure and no personnel may fo
 8. The buyer is recognised under the source name.
 
 DIVISION USE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | DIVISION                   | USE                                                                                   |
@@ -124,7 +124,7 @@ DIVISION USE
 +----------------------------+---------------------------------------------------------------------------------------+
 
 OPEN QUESTIONS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - which court or courts the stamps imitate, and how that would be established;
 - whether the three share one die, and whether that comparison can be made without an impression;
@@ -138,7 +138,7 @@ documents were forged by a market they may not have chosen is a person who needs
 forgery is a fact about the Bazaar rather than about them.
 
 CROSS-REFERENCES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - GOI-BS-X-069 — Namewright Bazaar, Group of Interest Dossier
 - TECH-GOI-069-1 — Namewright Bazaar Partial Name Ledger, Technology Record
@@ -150,7 +150,7 @@ look official, and the cupboard holds what was cut away. The stamps are the only
 works on a document rather than on a person.
 
 FILE METADATA
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Record Type: Technology Record — Recovered Adversary Device
 Created: 27/11/2021

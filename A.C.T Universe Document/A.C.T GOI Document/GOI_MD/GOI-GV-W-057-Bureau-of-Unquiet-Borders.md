@@ -394,8 +394,8 @@ The customs tag remains under review because the third manifest dissolved after 
  The Bureau of Unquiet Borders is an outside government or treaty-backed institution, not an A.C.T branch.
  The Bureau has repeatedly affected cross-border anomaly
  movement, witness transfer, artifact custody, and route closure.
- Its officers use consistent quiet-line seals, hold notices, treaty language, and crossing procedures across separate
- jurisdictions.
+ Its officers use consistent quiet-line seals, hold notices, treaty
+ language, and crossing procedures across separate jurisdictions.
 — The Bureau can cooperate with A.C.T but does not accept A.C.T command authority.
 — Its work can preserve legal identity and custody continuity during anomalous border events.
 

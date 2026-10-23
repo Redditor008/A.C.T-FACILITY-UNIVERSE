@@ -575,8 +575,8 @@ setting consistency across time, geography, and personnel.
   unless
   the generation request
   specifically requires it
-  A.C.T is global, so anomaly origins, recovery zones, and containment routes should reflect multiple countries and
-  multiple regions
+  A.C.T is global, so anomaly origins, recovery zones, and containment
+  routes should reflect multiple countries and multiple regions
   if a location repeats, there should be a meaningful narrative, doctrinal, or operational reason
 
 ### 14.6 Batch Generation Consistency

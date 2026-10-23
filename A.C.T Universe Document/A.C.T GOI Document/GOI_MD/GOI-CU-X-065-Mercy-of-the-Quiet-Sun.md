@@ -404,8 +404,8 @@ resentment toward rescue recovery.
 — Its rites and substances can reduce panic while undermining evacuation and consent.
  The group has obstructed A.C.T, Grey Harbor, and other rescue efforts during active
  danger.
- The sect's operational relationship to A.C.T is negative because it encourages surrender where containment requires
- survival action.
+ The sect's operational relationship to A.C.T is negative because it
+ encourages surrender where containment requires survival action.
 
 ### Active Intelligence Assessment
 
@@ -423,8 +423,8 @@ impossible. These are separate apocalypse relationships and must not be merged.
 ### Persistent Questions
 
 - Who or what is the Warm Witness?
- Are quieting effects produced primarily by substances, hymn cadence, room light, grief state, or combined ritual
- conditions?
+ Are quieting effects produced primarily by substances, hymn
+ cadence, room light, grief state, or combined ritual conditions?
 - How many clinic-chapels operate under legitimate hospice licenses?
  Has the sect ever correctly identified a truly nonrecoverable event before A.C.T confirmed it?
 - Do Noon Nurses have medical training, anomalous training, or both?

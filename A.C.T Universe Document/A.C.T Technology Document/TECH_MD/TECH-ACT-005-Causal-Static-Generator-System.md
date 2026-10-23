@@ -75,8 +75,8 @@ Causal Static appears in five major roles:
 - field suppression during recovery operations where events begin repeating dramatic beats;
  archive quarantine when documents, recordings, or testimony attempt to recruit readers into a story;
 - Civil Covert support when public narratives are becoming anomalously self-reinforcing;
- personnel protection when field teams need dull procedural interruption before panic, prophecy, or heroic fixation
- takes hold.
+ personnel protection when field teams need dull procedural
+ interruption before panic, prophecy, or heroic fixation takes hold.
 
 The system's field rule is:
 

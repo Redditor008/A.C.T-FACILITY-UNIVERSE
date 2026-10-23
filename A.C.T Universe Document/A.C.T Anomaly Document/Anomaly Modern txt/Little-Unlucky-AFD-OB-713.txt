@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 Little-Unlucky-AFD-OB-713
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                  Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-OB-713
 TITLE I:             Little Unlucky
@@ -15,9 +15,9 @@ FIELD TYPE:          OB — Object
 
 CLEARANCE REQUIRED:  Level 2
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   INERT
 
@@ -32,9 +32,9 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           NEUTRAL
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 DATE OF DETECTION:   1972-04-12
 VERIFICATION DATE:   1974-04-19
@@ -54,9 +54,9 @@ NARRATIVE STATUS:    Object recovered from a "Dungeons & Dragons"
                      starter set. Explained as a weighted/defective
                      novelty item. (Retroactive Archive Cleanup 1975)
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 AFD-OB-713 is a standard twenty-sided die (D20) composed of a deep
 purple resin with high-contrast black numerical engravings. Physical
@@ -85,9 +85,9 @@ Furthermore, individuals in proximity to the die can "feel" the object's
 internal state. Subject 713 expresses a constant, heavy sense of
 disappointment and shame regarding its own mathematical performance.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Probability Inversion. The subject is mathematically
                      incapable of performing as a fair random-number
@@ -111,9 +111,9 @@ TEMPORAL BEHAVIOR:   Constant.
 
 REALITY INTERACTION: Probability Distortion / Empathic Broadcast.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 AFD-OB-713 is to be stored in a standard padded lockbox within the
 Low-Threat Artifact wing of ACT-SITE-01-US-W.
@@ -147,9 +147,9 @@ BREACH PROTOCOL:         If the object is lost, it is to be recovered via
                          obsessively rolling the die, remove them and
                          administer 004-H.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 AFD-OB-713 appears to be a "Self-Loathing Anomaly." It is aware of its
 intended function (to provide random numbers) and is distressed by its
@@ -160,9 +160,9 @@ physically weighted. X-ray scans show the interior is uniform. The
 weight is entirely metaphysical—the die "wants" to succeed but
 fundamentally "expects" to fail, thus forcing the outcome.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 NOTE 001:
 A researcher once rolled three consecutive 20s in 2023. This was

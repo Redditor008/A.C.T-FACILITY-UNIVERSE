@@ -1,10 +1,10 @@
 A.C.T FACILITY — INCIDENT & BREACH DOSSIER
 RED-HOUND-Incident-Breach-Dossier-AFD-NB-007
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                 A.C.T FACILITY — INCIDENT & BREACH DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-NB-007
 TITLE I:             RED HOUND
@@ -23,9 +23,9 @@ CONTAINMENT SITE:    ACT-SITE-02-RU-N — White Grave Station
 ARCHIVE STATUS:      Active / Predatory organism restricted
 DOSSIER STATUS:      Open / Incident record archived
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 This dossier belongs to A.C.T Log Category IV — Incident & Breach Dossier. The
 document may contain multiple related incident, breach, response, exposure, and
@@ -47,9 +47,9 @@ and red-mist release are not separate hazards. They operate together: the voice
 pulls targets closer, and the mist breaks the response structure once they
 arrive.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                          DOSSIER SUMMARY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 AFD-NB-007 is a 3 m blind hound-like predatory organism with no eyes or eye
 sockets, exposed non-decaying red muscular tissue, jagged spike growths, massive
@@ -67,9 +67,9 @@ No full containment breach occurred. However, the event required wing lockdown,
 medical isolation, acoustic review, and permanent revision to post-feeding voice
 protocol.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                     SECTION 001 — INCIDENT SUMMARY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 LOG ID:              AFD-NB-007/INC-001
 LOG TYPE:            Incident Summary
@@ -110,9 +110,9 @@ Post-feeding voice protocol revised. No voice from the arena may be acted upon
 until confirmed by two independent external personnel and one non-acoustic sensor
 source.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
               SECTION 002 — CONTAINMENT ARENA TIMELINE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 LOG ID:              AFD-NB-007/TLN-001
 LOG TYPE:            Containment Arena Timeline
@@ -164,9 +164,9 @@ Technician Sokolov is removed from observation room to prevent staff fixation.
 
 22:31 — Exposed personnel transferred to cold quarantine care.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
               SECTION 003 — ACOUSTIC MIMICRY TRANSCRIPT
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 LOG ID:              AFD-NB-007/AUD-001
 LOG TYPE:            Acoustic Mimicry Transcript
@@ -213,9 +213,9 @@ appears to be prior recorded cough and speech samples captured by Facility
 systems. AFD-NB-007 may not require direct ingestion to mimic a voice if enough
 sound exposure has occurred.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                 SECTION 004 — RED-MIST EXPOSURE REVIEW
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 LOG ID:              AFD-NB-007/MST-001
 LOG TYPE:            Red-Mist Exposure Review
@@ -253,9 +253,9 @@ The mist does not need to overpower a full team to create containment danger.
 It
 only needs to break the first responder's ability to reject the voice.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
              SECTION 005 — RESPONSE TEAM DEBRIEF EXTRACT
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 LOG ID:              AFD-NB-007/DEB-001
 LOG TYPE:            Response Team Debrief Extract
@@ -305,9 +305,9 @@ Officer Chen's phrase "the shape of him" has been retained in acoustic hazard
 training. AFD-NB-007's mimicry is emotionally accurate even when linguistically
 imperfect.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                SECTION 006 — PROCEDURE REVISION NOTICE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 LOG ID:              AFD-NB-007/PRC-001
 LOG TYPE:            Procedure Revision Notice
@@ -348,9 +348,9 @@ IMPLEMENTATION STATUS:
 Approved. Added to primary containment procedures and White Grave Station
 biohazard induction training.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 Incident 007-C confirmed that AFD-NB-007's post-feeding hazard is layered. The
 mimicked voice creates rescue impulse. The red mist degrades the ability to

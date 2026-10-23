@@ -1,10 +1,10 @@
 A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
 Dark-World-Door-Blue-Dirt-Reactivity-Dossier-AFD-PL-932
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
               A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 DESIGNATION:         AFD-PL-932
 TITLE I:             Dark World Door
@@ -24,9 +24,9 @@ CONTAINMENT SITE:    ACT-SITE-02-RU-N — White Grave Station
 ARCHIVE STATUS:      Active / High-Risk Environment
 DOSSIER STATUS:      Open / Soil-Hardening Profile Compiled
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 This dossier contains the results of the "Hydration Reactivity" tests
 conducted on soil samples (Blue Dirt) harvested from AFD-PL-932. The
@@ -39,9 +39,9 @@ INCLUDED LOG TYPES:
    - Senior Researcher Aris Thorne: Material Integrity Note
    - Dossier Closing Statement
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
               SECTION 001 — THE STEEL-BLOOM TRIAL
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 LOG ID:              AFD-PL-932/TST-E04
 DATE:                2024-06-02
@@ -67,9 +67,9 @@ RESULT:
 Hardening rate is confirmed at 4 seconds. The material is functionally
 indestructible once bloomed.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                  SECTION 002 — ARCHIVIST'S NOTE
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 LOG ID:              AFD-PL-932/THORNE-REF
 AUTHOR:              Aris Thorne (SR-412)
@@ -83,9 +83,9 @@ slowly erodes the user's capacity for [ REDACTED ] over twelve months.
 We can build the Facility out of this stuff, but we’ll have to
 learn to breathe something else if we do."
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 MANDATORY PERSONNEL NOTICE:
                      Do not track the dirt.

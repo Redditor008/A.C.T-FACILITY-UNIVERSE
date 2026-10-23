@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 Butcher-Vanity-AFD-OB-801
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                  Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-OB-801
 TITLE I:             Butcher Vanity
@@ -15,9 +15,9 @@ FIELD TYPE:          OB — Object
 
 CLEARANCE REQUIRED:  Level 3
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   REACTIVE
 
@@ -32,9 +32,9 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           INVIOLABLE
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 DATE OF DETECTION:   1892-06-22
 VERIFICATION DATE:   1895-07-01
@@ -53,9 +53,9 @@ AMNESTIC DEPLOYED:   Yes — Alcohol-based sedative suppression (ERE Era).
 NARRATIVE STATUS:    The location was condemned and demolished following
                      the removal of the subject. (Converted to AFD 1976)
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 AFD-OB-801, designated Butcher Vanity, consists of two interconnected
 components:
@@ -94,9 +94,9 @@ DOCUMENTED WHISPERS:
    - "tHerre soomUuch Meaat…"
    - "Meat. MEat. MEAt. MEAT."
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Compulsive Slaughter. Visual exposure triggers
                      extreme destructive and homicidal behavior in
@@ -119,9 +119,9 @@ TEMPORAL BEHAVIOR:   Constant.
 
 REALITY INTERACTION: Memetic Compulsion / Biological Spawning.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 AFD-OB-801 is housed in an opaque, windowless containment vault at
 ACT-SITE-01-US-W.
@@ -163,9 +163,9 @@ BREACH PROTOCOL:         In the event of a visual breach, security
                          force is authorized to prevent a slaughter-
                          cascade.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 AFD-OB-801 appears to be a "Hungering Object." It does not merely
 compel violence; it demands the literal breakdown of matter into "Meat."
@@ -178,9 +178,9 @@ The origin of the whispers is unidentified, though the linguistic
 distortion ("tHerre soomUuch Meaat") suggests a mind that is
 struggling to translate its intent into human phonemes.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 NOTE 001:
 The name "Vanity" was found carved into the underside of the trunk's

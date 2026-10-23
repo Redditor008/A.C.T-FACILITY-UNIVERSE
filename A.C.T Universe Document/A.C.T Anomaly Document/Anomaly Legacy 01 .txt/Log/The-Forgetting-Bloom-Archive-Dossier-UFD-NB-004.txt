@@ -1,10 +1,10 @@
 A.C.T FACILITY — RECOVERED DOCUMENT & ARCHIVE DOSSIER
 The-Forgetting-Bloom-Archive-Dossier-UFD-NB-004
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
          A.C.T FACILITY — RECOVERED DOCUMENT & ARCHIVE DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 DESIGNATION:         UFD-NB-004
 TITLE I:             The Forgetting Bloom
@@ -27,9 +27,9 @@ JURISDICTIONAL AUTHORITY:  Early Biohazard Containment Record / Central
 ARCHIVE STATUS:      Sealed / restricted distribution
 DOSSIER STATUS:      Closed record — archival oversight
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
                            CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 This dossier belongs to A.C.T Log Category VII — Recovered Document & Archive
 Dossier. UFD-NB-004 is the sealed unfiled intake record of the giant pale
@@ -55,9 +55,9 @@ To preserve the unfiled intake record in its own right — content, directives,
 and transition history — so that UFD-NB-004 stands as the distinct early
 intake document it is, separate from the AFD record of the same subject.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
    SECTION 001 — SEALED-RECORD REGISTER — AUTHORITY AND DISTRIBUTION
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              UFD-NB-004/ARC-001
 DATE:                Intake era — sealed since formal filing
@@ -77,9 +77,9 @@ the verified archive designation AFD-NB-004, but the unfiled record was
 neither cloned into the AFD file nor replaced by it. Both intake records
 remain on file, separate.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
           SECTION 002 — INITIAL RECORD — INTAKE DOCUMENTATION
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              UFD-NB-004/ARC-002
 DATE:                Intake documentation
@@ -106,9 +106,9 @@ dangerous property. When consumed, introduced into the bloodstream, or
 improperly inhaled in concentrated form, the sap causes immediate and often
 irreversible memory erasure.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
               SECTION 003 — OBSERVED PROPERTIES REGISTER
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              UFD-NB-004/ARC-003
 DATE:                Observed at intake
@@ -125,9 +125,9 @@ OBSERVED PROPERTIES (as recorded in the UFD intake):
      structure
    - Overexposure causes severe biological damage in addition to memory loss
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
           SECTION 004 — EARLY CONCLUSION AND INTAKE JUDGMENT
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              UFD-NB-004/ARC-004
 DATE:                Intake judgment
@@ -146,9 +146,9 @@ valuable to destroy and too dangerous to leave unmanaged. That judgment,
 written in the unfiled record, is the origin of the transformation path later
 completed under the AFD-NB-004 filing.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
        SECTION 005 — INITIAL DIRECTIVE — THE SIX STANDING RULES
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              UFD-NB-004/ARC-005
 DATE:                Intake directive — standing
@@ -168,9 +168,9 @@ DIRECTIVE REGISTER (verbatim from the UFD record):
 ARCHIVE NOTE: These six rules are the seed of the cultivation and exposure
 doctrine now standing under AFD-NB-004.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
       SECTION 006 — HISTORICAL NOTE AND CLOSING ARCHIVE STATEMENT
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              UFD-NB-004/ARC-CLS-001
 DATE:                2026-09-08

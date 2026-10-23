@@ -9,7 +9,7 @@ Archive Note
 This file is the complete internal archive version of the anomaly classification system, file doctrine, designation
 rules, fracture logic, and transformation record structure used by the Facility.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Introduction
 Part Three of the A.C.T Universe defines how the Facility formally records, classifies, contains, studies, and
@@ -25,7 +25,7 @@ suppression on a permanent institutional scale.
 
 This necessity led to the development of the formal A.C.T anomaly file system.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 3.0 Historical Preface — The First Vault Record
 The earliest preserved document in A.C.T archive history predates the formal use of the
@@ -53,7 +53,7 @@ Supporting file:
 - ACT First Vault Document ENTITY 000 ITHYOS, Archive Record
 - ACT_First_Vault_Document_ENTITY_000_ITHYOS.pdf
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 3.1 Transition to Formal Anomaly Doctrine
 As the number of impossible encounters increased, the early archive model became unsustainable. It lacked a stable
@@ -75,7 +75,7 @@ no longer exist only as rumor,
 fear, or sealed witness accounts, but as controlled entries within a larger framework of containment logic and
 structural reality preservation.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 3.2 Official A.C.T File Categories
 A.C.T recognizes two primary official documentation categories for anomaly records.
@@ -152,7 +152,7 @@ housed, routed, or governed. For this reason, anomaly documentation may include 
 Jurisdictional Authority fields. Site metadata is treated as
 containment-relevant archive logic rather than optional location flavor.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 3.3 Designation Rules
 A.C.T uses three primary designation structures:
@@ -224,7 +224,7 @@ A UFD and AFD sharing the same number are not duplicates when one preserves
 provisional intake and the other preserves
 verified archive status. They are distinct archive states of the same subject.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 3.4 Fracture Index
 Not every anomaly threatens containment in a straightforward way. Some distort the very logic used to describe,
@@ -273,7 +273,7 @@ The Fracture Index exists so the Facility does not lie to itself when standard
 categories no longer describe the
 anomaly honestly.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 3.5 Containment Procedure Writing Standard
 Every anomaly containment procedure must state:
@@ -382,7 +382,7 @@ An anomaly may be granted termination if:
 - no survivable transformation path exists
 - continued existence is judged more dangerous than elimination
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 3.6 Observation and Handling Restrictions
 Anomalies may be assigned one or more direct interaction restrictions, including:
@@ -400,7 +400,7 @@ Anomalies may be assigned one or more direct interaction restrictions, including
 
 These restrictions are part of containment, not optional notes.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 3.7 Breach State Recording
 Every anomaly file must include a current breach-state condition.
@@ -422,7 +422,7 @@ These states describe not only whether the anomaly is in its assigned place, but
 whether containment reality itself
 remains coherent around it.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 3.8 Transformation Authorization Protocol
 Transformation may only proceed through ascending authority:
@@ -516,7 +516,7 @@ exposure.
 Hazard tags should be few, evidenced, and operationally useful. The first tag family should name the most urgent
 containment problem, not the most dramatic aesthetic.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 3.11 Information Suppression and Redaction Format
 Authorized suppression and redaction markers include:
@@ -533,7 +533,7 @@ Authorized suppression and redaction markers include:
 
 These markers indicate that the information itself may be dangerous, destabilizing, or part of containment.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 3.12 Supplementary Log Categories
 Beyond the main anomaly file, A.C.T maintains categorized supporting dossier structures for anomalies that generate
@@ -546,7 +546,7 @@ Supporting file:
 - IN-WORLD EXPLANATION — ANOMALY LOG CATEGORIES, Archive Record
 - ACT Anomaly Log Categories In World Explanation, Archive Record
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 3.13 Sample Modern Anomaly Entry
 The first modern sample anomaly file preserved with Part Three is the standardized A.C.T anomaly record for:
@@ -562,7 +562,7 @@ Supporting file:
 
 This file demonstrates the transition from the early ENTITY archive era into full modern A.C.T anomaly doctrine.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Closing Summary
 Part Three establishes the archival backbone of the A.C.T Facility. It records how the
@@ -576,7 +576,7 @@ then Part Three defines the
 language through which the Facility speaks about the impossible.
 
 Series Position
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 This record is Part Three of the A.C.T Universe reading order, Anomaly Classification Manual
 and File Standard. Part Three of the A.C.T Universe defines how the Facility formally

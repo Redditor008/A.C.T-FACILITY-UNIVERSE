@@ -1,5 +1,5 @@
 A.C.T FACILITY ARCHIVE FILE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Saint Morrow Passage Cold-Map Fragment
 ======================================
@@ -12,7 +12,7 @@ Origin: Saint Morrow Passage (GOI-BS-W-070), Passage map cabinet stock
 Clearance: Level 3 for examination; Level 4 for any handling outside storage
 
 Archive Note
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The archive holds two cold-map fragments. No complete map is held and the full route books remain unrecovered.
 
@@ -33,7 +33,7 @@ These are fragments and not routes. Personnel must not cite one as a complete ro
 reconstruct one without Level 4 and Legal approval, and must not copy one into any route file.
 
 THE DOCUMENT
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 1.1 What a cold map is for
 ==========================
@@ -64,7 +64,7 @@ and the gaps are unknown, no inference may be drawn from what a fragment omits, 
 ending at a fragment edge does not end there.
 
 HANDLING
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 2.1 Custody
 ===========
@@ -183,7 +183,7 @@ suggestive. Without it the fragments can only be held, and holding them is the c
 rather than a failure to do better.
 
 DIVISION USE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 +--------------+----------------------------------------------------------------------+
 | DIVISION     | USE                                                                  |
@@ -198,7 +198,7 @@ DIVISION USE
 +--------------+----------------------------------------------------------------------+
 
 OPEN QUESTIONS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - why the maps are kept cold, and what the cold preserves or enables;
 - whether the fragments were recovered in their tubes, and where the tubes are;
@@ -212,7 +212,7 @@ condition might preserve the fragments and might damage them. The archive holds 
 so, rather than guessing in either direction.
 
 CROSS-REFERENCES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - GOI-BS-W-070 — Saint Morrow Passage, Group of Interest Dossier
 - TECH-GOI-070-1 — Saint Morrow Passage White Ticket, Technology Record
@@ -225,7 +225,7 @@ water crossing and requires Saint Morrow or local passage review, so the two org
 the same routes and their paperwork describes the same journeys from opposite ends.
 
 FILE METADATA
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Record Type: Technology Record — Recovered Adversary Device
 Created: 14/10/2020

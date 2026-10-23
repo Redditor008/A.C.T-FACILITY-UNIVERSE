@@ -10,7 +10,7 @@ Dossier Number: SITE-DOSSIER-02-RU-N
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 Archive Note
 
@@ -35,7 +35,7 @@ Resident holdings are not enumerated in full. The station's complete manifest
 is preserved in clearance-gated annex registers. This file identifies the
 station's signature resident and leaves the rest to those registers.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 1. Registry Identity Summary
 
@@ -60,7 +60,7 @@ Security Notes: Access during deep winter periods is heavily restricted; some tr
 seasonal and
 weather-conditional.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 2. Dossier Purpose
 
@@ -76,7 +76,7 @@ built in a place where the environment itself is part of the containment
 doctrine, and where the nearest civilian population is measured in hundreds of
 kilometers rather than meters.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 3. Site Profile and Cover Architecture
 
@@ -117,7 +117,7 @@ combines:
 The station is the Facility's answer to anomalies that cannot be allowed to
 be anywhere near the human world.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 4. Historical Foundation and Evolution
 
@@ -162,7 +162,7 @@ Today the station functions as:
 — a remote black-containment support node for material that must not be housed
   near any population center
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 5. Command and Governance
 
@@ -198,7 +198,7 @@ The station's jurisdiction overlaps with:
 — ACT-SUB-02-RU-N (Frost Hollow Depot) — its principal support sub-site
   for interim cold storage and quarantine staging.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 6. Divisional Presence and Daily Function
 
@@ -264,7 +264,7 @@ The limited military presence reflects the station's dual nature: it is a
 scientific installation and a fortress, but a fortress whose primary enemy is
 the cold and the things kept in it.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 7. Physical Plant and Surface Layout
 
@@ -291,7 +291,7 @@ storage systems. Seasonal resupply is planned to cover the full winter window;
 the station is designed to survive total external contact loss for months
 without degradation of containment function.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 8. Internal Floor Register
 
@@ -335,7 +335,7 @@ where the most unstable and most sensitive residents are held under maximum
 reinforcement. During a breach response, closing F-1 to the outside seals
 this level completely. It is the level the station's name refers to.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 9. Containment Infrastructure
 
@@ -380,7 +380,7 @@ Transport to and from the station is seasonal and weather-conditional:
 The seasonal nature of transport is part of the station's containment
 doctrine: for much of the year, nothing leaves White Grave.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 10. Resident Anomaly Holdings
 
@@ -444,7 +444,7 @@ through F-3 under standard doctrine. Their designations are preserved in the
 White Grave Annex Register. Personnel without specific assignment to those
 files do not require their names.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 11. Site Doctrine and Routing
 
@@ -477,7 +477,7 @@ transfer to the station, material undergoing quarantine assessment, and
 seasonal overflow are held at the Depot. The Depot reduces over-concentration
 pressure on the main station during seasonal biological incidents.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 12. Special Operations and Site Protocols
 
@@ -511,7 +511,7 @@ reaches the surface in winter, the environment is treated as a containment
 system — personnel are not to pursue a resident into the deep cold without
 explicit authorization, because the cold may contain what the station cannot.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 13. Secrecy and Security Posture
 
@@ -543,7 +543,7 @@ is
 different: prolonged isolation, seasonal confinement, and the psychological
 weight of living above levels that must never open.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 14. Personnel and Operational Life
 
@@ -576,7 +576,7 @@ seasonal affective deterioration, reality fatigue, and the slow normalization
 of the abnormal — the danger that personnel begin to find the frozen holding
 levels ordinary.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 15. Incident Archive
 
@@ -602,7 +602,7 @@ Modern incident records are preserved in the station's incident archive and
 in individual log dossiers. Specific narratives are not reproduced in this
 file; they are held to the clearance of personnel who must learn from them.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 16. Current Status and Projected Development
 
@@ -616,7 +616,7 @@ development priorities include:
 The station's long-term function — to be the place where the Facility buries
 what it cannot safely keep near the world — is not expected to change.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 17. Cross-Referenced Files
 
@@ -629,7 +629,7 @@ what it cannot safely keep near the world — is not expected to change.
 - Resident file: Soul-Pendant-AFD-OB-412.txt (and log dossiers)
 - Resident manifest records (clearance-gated)
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 Archive Closing
 

@@ -1,10 +1,10 @@
 A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
 Vivienne-Argent-Behavioral-Observation-Dossier-AFD-SU-827
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
              A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-827
 TITLE I:             Vivienne Argent
@@ -24,9 +24,9 @@ CONTAINMENT SITE:    ACT-SITE-04-BR-C — Verde Null Bio-Reserve
 ARCHIVE STATUS:      Active / Progress Tracking
 DOSSIER STATUS:      Open / Comprehensive History Compiled
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 This dossier provides the definitive behavioral and historical record of
 Vivienne Argent. It covers her personality profile, her 31 days of
@@ -39,9 +39,9 @@ INCLUDED LOG TYPES:
    - Section 003: The Integration Log (30 Days Post-Recovery)
    - Dossier Closing Statement
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
              SECTION 001 — PERSONALITY & FRAMEWORK
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-827/PERS-01
 AUTHOR:              Dr. Camila Rocha
@@ -65,9 +65,9 @@ significant. When comfortable, she "Coil-Sits" (stacking her tail for
 height). When cold, her cognition slows, an effect she describes as
 "page-skipping."
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
              SECTION 002 — THE SECLUSION LOG (PRE-RECOVERY)
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-827/HIST-PRE
 RANGE:               Transformation Day 01 → Day 31
@@ -100,9 +100,9 @@ DAY 28: Exhaustion and Isolation. Rations are depleted. Subject remains
 DAY 31: A neighbor reports seeing a "massive python" through the window.
         A.C.T undercover agents intercept the call. Recovery initiated.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
              SECTION 003 — THE INTEGRATION LOG (POST-RECOVERY)
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-827/OBS-30D
 AUTHOR:              Dr. Camila Rocha
@@ -126,9 +126,9 @@ DAY 30: Vivienne Argent officially requested to be an "ACT Volunteer."
         Stated: "If I'm the protagonist, I might as well help the
         researchers."
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 MANDATORY PERSONNEL NOTICE:
                      Respect the build.

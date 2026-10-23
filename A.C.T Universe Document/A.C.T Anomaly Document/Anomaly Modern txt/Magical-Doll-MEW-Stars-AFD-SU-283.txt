@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 Magical-Doll-MEW-Stars-AFD-SU-283
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                  Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-283
 TITLE I:             Magical Doll MEW Stars
@@ -15,9 +15,9 @@ FIELD TYPE:          SU — Subject
 
 CLEARANCE REQUIRED:  Level 4 / Site-03-JP-E
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   REACTIVE
 
@@ -32,9 +32,9 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           STABILIZED
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 DATE OF DETECTION:   2015-11-22
 VERIFICATION DATE:   2015-12-05
@@ -52,9 +52,9 @@ AMNESTIC DEPLOYED:   Yes — 004-F Grade.
 NARRATIVE STATUS:    Suppressed as an elaborate marketing event for
                      a cancelled anime series.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 AFD-SU-283 is a sentient, 2-meter tall biological-inorganic hybrid in
 the form of a giant "Magical Girl" cat-themed doll. The subject
@@ -110,9 +110,9 @@ A 1.5-meter white rod terminated at the top by a Star-Shaped Golden
 Casing. The casing serves as the exit-aperture for all high-energy
 discharges.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Dual-Sentience Materialization. Both Mimi and
                      Shu Shu possess "Magical Girl" powers that
@@ -133,9 +133,9 @@ INFLUENCE:           Subject-bound / 30m effect radius.
 REALITY INTERACTION: Narrative-Dramatical Transmutation / Matter
                      Creation.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 AFD-SU-283 is housed in a "High-Ceiling Reinforced Suite" at
 ACT-SITE-03-JP-E.
@@ -153,9 +153,9 @@ JURISDICTIONAL
 AUTHORITY:               Kurokawa Command / Artificial Cognition Desk
 REQUIRED PERSONNEL:      1 Narrative Analyst, 1 Heavy-Duty Handler.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 NOTE 001:
 Subject perceives the A.C.T. staff as "Protagonists" holding the

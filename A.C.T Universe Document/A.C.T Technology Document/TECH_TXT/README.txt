@@ -27,7 +27,7 @@ omniscient explanation. It should preserve working gaps, redactions,
 labels, test limits, and unresolved engineering questions.
 
 Current Individual Technology Records
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - TECH-GOI-001-1 - GAA Legal Masking and Task-Bounded Authorization Instrument Set / Legal Masking
 Set
@@ -777,7 +777,7 @@ Plan
   - TECH-GOI-074-1 — NINEFOLD ARK SEIZED SAMPLE COFFER
 
 Numbering Rule
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - A.C.T-origin technology uses one sequential technology number only: TECH-ACT-001, TECH-ACT-002, and onward.
 - GOI-linked technology uses the GOI registry number plus a dash-number for that GOI's
@@ -788,7 +788,7 @@ the dash is the GOI number,
 not the technology sequence.
 
 Active Format Rules
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - Use md and txt twins.
 - Keep each document above 200 words.
@@ -801,7 +801,7 @@ or incident files.
 - Censor living patients, active facility coordinates, exploitable schematics, and hostile-use instructions.
 
 Current Status
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Moved out of this index on 2026-10-21. The status report is maintained
 separately as _ARCHIVE-OPS/PATCH SAVER/Technology_Phase_Current_Status.txt, which carries the full

@@ -9,7 +9,7 @@ Archive Note
 This file is the complete internal archive version of GOI classification, registry doctrine, posture logic, and
 external threat interpretation used by the Facility.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Introduction
 If Part Three defines how A.C.T records anomalies, then Part Four defines how A.C.T
@@ -29,7 +29,7 @@ hide them, worship them, study them, trade them, manufacture them, contain them,
 makes a GOI dangerous—or valuable—is not merely what it is, but what it does
 with the impossible.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 4.1 — What Qualifies as a GOI
 A GOI / Group of Interest is any organization, network, movement, institution, market, or collective that knowingly
@@ -63,7 +63,7 @@ A GOI may be:
 
 Not all GOIs are enemies. But all GOIs matter.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 4.2 — GOI Designation Rules
 A.C.T identifies Groups of Interest under a dedicated registry system:
@@ -115,7 +115,7 @@ been issued. A recommended marker with no dossiers attached is not a defect.
 These identifiers are intended to make GOI records searchable,
 comparable, and operationally readable across divisions.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 4.3 — GOI Classification Structure
 Every GOI file should be written using a stable classification stack so that A.C.T
@@ -201,7 +201,7 @@ This records what A.C.T intends to do with the GOI.
 - COOPERATED
 - HELP
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 4.4 — GOI Registry File Standard
 Every GOI file should include the following sections:
@@ -233,7 +233,7 @@ Where relevant, GOI records should note which A.C.T SITE, SUB-SITE, or regional 
 monitoring, infiltration, or response jurisdiction. External threat handling is therefore tied directly to the
 Facility's territorial site network rather than treated as abstract intelligence alone.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 4.5 — A.C.T External Threat Doctrine
 A.C.T doctrine does not treat all GOIs equally.
@@ -263,7 +263,7 @@ The Facility’s goal is not emotional loyalty. Its goal is structural survival.
 is assessed by consequence,
 capability, secrecy impact, and usefulness.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 4.6 — GOI and Anomaly Overlap
 Not all GOIs are entirely normal organizations.
@@ -288,7 +288,7 @@ with
 A cult may worship an anomaly without being anomalous itself. A
 collective intelligence may be both a GOI and an anomaly at once.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 4.7 — Sample GOI Entries
 
@@ -317,7 +317,7 @@ The GAA is not treated as a direct threat. It is a controlled state
 partner whose usefulness lies in legal masking,
 quiet authorization, classified logistics, and selective political cooperation.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 GOI-ML-X-014
 Common Name: Anti-Global Anomaly
@@ -345,7 +345,7 @@ models, A-GA is more dangerous than certain hostile anomalies because it may rem
 very things keeping larger
 threats contained.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 GOI-BS-T-027
 Common Name: Anstrall Market
@@ -404,7 +404,7 @@ separately contained apocalyptic anomaly, A.C.T posture is infiltration to map t
 interrupt ritual and supply activity, and dismantling of awakening preparations that remain interrupted but not ended.
 The target anomaly is filed separately and kept distinct from the organization record.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 GOI-CP-B-049
 Common Name: DREAM .INC
@@ -434,7 +434,7 @@ before the risks are understood. A.C.T posture is infiltration to map the buildi
 and the extraction apparatus, and appropriation of what can be safely taken into Facility control. The Dream-Type
 Anomaly and the machine are filed separately under restricted anomaly records.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 GOI-ML-X-050
 Common Name: Liberty Freedoms
@@ -464,7 +464,7 @@ to preserve them. A.C.T posture
 is containment of cells and carried subjects, dismantling of defector-recruitment and publication paths, and
 infiltration of a network whose doctrine outruns its members' knowledge.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Closing Summary
 Part Four defines the hidden political world around the anomalous. Where Part Three explains how A.C.T archives the
@@ -476,7 +476,7 @@ Not every threat is an entity in a box. Some threats have leaders, markets,
 flags, militias, clients, and beliefs.
 
 Series Position
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 This record is Part Four of the A.C.T Universe reading order, GOI Registry, Rival Powers,
 and External Threat Doctrine. Part Four of the A.C.T Universe defines how the Facility

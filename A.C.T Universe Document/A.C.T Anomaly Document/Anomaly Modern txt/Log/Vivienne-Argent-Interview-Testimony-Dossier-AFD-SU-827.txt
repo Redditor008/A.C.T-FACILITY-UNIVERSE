@@ -1,10 +1,10 @@
 A.C.T FACILITY — INTERVIEW & TESTIMONY DOSSIER
 Vivienne-Argent-Interview-Testimony-Dossier-AFD-SU-827
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
              A.C.T FACILITY — INTERVIEW & TESTIMONY DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-827
 TITLE I:             Vivienne Argent
@@ -23,9 +23,9 @@ CONTAINMENT SITE:    ACT-SITE-04-BR-C — Verde Null Bio-Reserve
 ARCHIVE STATUS:      Active / Subject-care restricted
 DOSSIER STATUS:      Open / Interview records archived
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 This dossier documents the initial interviews with AFD-SU-827 following
 her recovery. While the subject is confirmed to be an introvert, she is
@@ -39,9 +39,9 @@ INCLUDED LOG TYPES:
    - Subject Questions and Metadata
    - Dossier Closing Statement
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
                  SECTION 001 — INTERVIEW TRANSCRIPT
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-827/INT-001
 LOG TYPE:            Post-Recovery Interview
@@ -106,9 +106,9 @@ AFD-SU-827:          "And my mouth... the air tastes different. Not
 
 [END TRANSCRIPT]
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
                  SECTION 002 — PHYSIOLOGICAL FINDINGS
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-827/PHY-001
 LOG TYPE:            Anatomical & Behavioral Summary
@@ -137,9 +137,9 @@ SUMMARY OF RECENT FINDINGS:
    that she "sometimes wants to coil around things" without knowing
    why.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
                     SECTION 003 — SUBJECT-CARE NOTE
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-827/HND-001
 AUTHOR:              Dr. Camila Rocha
@@ -160,9 +160,9 @@ Training Phrase for Site-04 Staff:
                      "She tastes the air and fears the cold.
                       Treat her as a guest, not a specimen."
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 AFD-SU-827 is a stable, non-hostile subject. Future research will focus
 on her new sensory buds and the "Quiet Transformation" phenomenon

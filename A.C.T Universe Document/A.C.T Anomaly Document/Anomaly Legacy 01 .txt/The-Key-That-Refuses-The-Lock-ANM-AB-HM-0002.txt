@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 The-Key-That-Refuses-The-Lock-ANM-AB-HM-0002
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 DESIGNATION:         ANM-AB-HM-0002
                      Fracture-sensitive anomaly designation
@@ -17,9 +17,9 @@ FIELD TYPE:          OB — Object
 
 CLEARANCE REQUIRED:  Level 3
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   [BLANK]
 
@@ -34,9 +34,9 @@ SUB-THREAT:          HARMLESS
 TRANSFORMATION
 VIABILITY:           NEUTRAL
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 DATE OF DETECTION:   1989-01-14
 VERIFICATION DATE:   1989-01-19
@@ -53,9 +53,9 @@ CIVILIAN EXPOSURE:   2 confirmed
 AMNESTIC DEPLOYED:   Limited
 NARRATIVE STATUS:    Controlled as clerical evidence-handling error
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 ANM-AB-HM-0002 is a tarnished iron key measuring 7.2 cm in length. The object
 has a simple circular bow, a narrow shaft, and a single square tooth. No
@@ -94,9 +94,9 @@ when unobserved in a dangerous manner, and does not harm personnel. It is
 classified as ANM because the act of containing and recording the object is
 more unstable than the object itself.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Post-opening key claim. ANM-AB-HM-0002 cannot unlock a
                      locked mechanism, but can retroactively become the stated
@@ -123,9 +123,9 @@ TEMPORAL BEHAVIOR:   Event-triggered / retroactive attribution / audit-sensitive
 REALITY INTERACTION: Causal Attribution Violation / Containment Logic Reversal /
                      Minor Record Correction.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 ANM-AB-HM-0002 is not to be stored inside a locked container. Previous attempts
 at sealed storage produced unnecessary audit contradictions and increased
@@ -179,9 +179,9 @@ IN BREACH IF IT:
               high-security lock, or revises containment records beyond its
               assigned file chain
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 ANM-AB-HM-0002 is operationally harmless but archivally irritating. It does not
 free prisoners, open sealed vaults, bypass security, or provide useful lockpick
@@ -198,9 +198,9 @@ system physically intact. The HARMLESS sub-threat is assigned because no direct
 injury, coercion, contamination, or meaningful security compromise has occurred
 under controlled conditions.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                       TRANSFORMATION NOTES
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 TRANSFORMATION ATTEMPT
 STATUS:              Not recommended
@@ -214,9 +214,9 @@ The object is best maintained as a training example for minor ANM object logic:
 a harmless physical object whose containment problem is caused by documentation,
 audit timing, and causal attribution rather than aggression or power.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 NOTE 001:
 Do not ask whether the key is "really contained." The current answer is less

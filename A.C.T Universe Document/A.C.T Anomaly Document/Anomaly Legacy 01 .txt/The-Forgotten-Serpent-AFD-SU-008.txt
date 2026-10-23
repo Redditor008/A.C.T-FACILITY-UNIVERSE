@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 The-Forgotten-Serpent-AFD-SU-008
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-008
 TITLE I:             The Forgotten Serpent
@@ -15,9 +15,9 @@ FIELD TYPE:          SU — Subject
 
 CLEARANCE REQUIRED:  Level 3
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   REACTIVE
 
@@ -32,9 +32,9 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           CONTAINED-STUDY
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------+
 
 DATE OF DETECTION:   2019-08-04
 VERIFICATION DATE:   2019-08-11
@@ -53,9 +53,9 @@ AMNESTIC DEPLOYED:   Yes
 NARRATIVE STATUS:    Controlled as battery fire, theft, and unsafe recycling
                      violation
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------+
 
 AFD-SU-008 is an autonomous mechanical serpent composed of forgotten, obsolete,
 broken, discarded, and thrown-out technological components. Its baseline body
@@ -97,9 +97,9 @@ serpent shrinks. Once the body returns to its baseline length of 3 m, the
 subject resumes searching for forgotten technology and begins the accumulation
 cycle again.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Discarded-technology integration. AFD-SU-008 incorporates
                      forgotten, old, obsolete, broken, or thrown-out technology
@@ -150,9 +150,9 @@ OR AVOIDED:
    - active A.C.T containment hardware unless already damaged or abandoned
    - devices that personnel verbally identify as "still needed"
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------+
 
 AFD-SU-008 is contained in a reinforced non-networked machinery enclosure lined
 with ceramic insulation, magnetic baffling, and plasma-dissipation rods. The
@@ -213,9 +213,9 @@ IN BREACH IF IT:
    [x] Other: Body length exceeds 10 m outside plasma-rated containment or
               subject integrates active Facility hardware
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------+
 
 AFD-SU-008 is classified as a subject due to its autonomous movement, animal-like
 behavior, selective feeding, and self-preserving response patterns. It is not
@@ -241,9 +241,9 @@ metal objects until the missing length is restored. Segments removed above
 baseline length degrade into inert slag within 3 to 7 hours if separated from
 the subject.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------+
                       TRANSFORMATION NOTES
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------+
 
 TRANSFORMATION ATTEMPT
 STATUS:              Limited study approved
@@ -262,9 +262,9 @@ Researchers have proposed using AFD-SU-008 to process anomalous machines that
 cannot be safely dismantled. Proposal is pending after review noted that the
 subject may integrate such machines rather than destroy them.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------+
 
 NOTE 001:
 Do not leave broken equipment near AFD-SU-008's chamber door. The subject has

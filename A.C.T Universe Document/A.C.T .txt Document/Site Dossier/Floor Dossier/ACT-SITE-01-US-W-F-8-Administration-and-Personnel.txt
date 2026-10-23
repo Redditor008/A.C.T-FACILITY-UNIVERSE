@@ -11,7 +11,7 @@ Dossier Number: FLOOR-DOSSIER-01-US-W-F-8
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard / ACT Floor Record Standard
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 Archive Note
 
@@ -30,7 +30,7 @@ This dossier records the floor in full institutional language: what it is,
 how it commands, how it is built, and how the complex's administration is
 itself designed as an instrument of containment doctrine.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 1. Floor Registry Identity Summary
 
@@ -51,7 +51,7 @@ ascend out of it
 Access Posture: Complex-clearance-gated access
 Current Status: Active
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 2. Dossier Purpose
 
@@ -67,7 +67,7 @@ become part of the complex — and where the complex's psychological
 architecture begins, in the deliberate pattern of descent into duty that
 gives the site's working life its shape.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 3. Position in the Site Stack
 
@@ -93,7 +93,7 @@ authority reaches every level of the complex, while its physical position
 keeps command close to the surface through which the complex's people enter
 and leave.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 4. Historical Foundation
 
@@ -120,7 +120,7 @@ In its modern configuration, F-8 is the complex's command and personnel
 floor: the administrative heart of the site, where the complex is governed,
 its people are managed, and its doctrine is administered.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 5. Command and Authority
 
@@ -144,7 +144,7 @@ Director commands through the division chiefs, and the divisions command
 their floors. F-8 is where that structure is physically present — the
 administrative floor where the complex's chain of command lives.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 6. Divisional Presence
 
@@ -179,7 +179,7 @@ The floor provides staff support facilities for the complex's personnel —
 the amenities and services that sustain the people who work in the buried
 core.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 7. Physical Plant and Architecture
 
@@ -216,7 +216,7 @@ F-8 is built to the complex's administrative standard: robust construction,
 full services, and the security architecture appropriate to a floor that
 commands the site and processes its people.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 8. Systems and Infrastructure
 
@@ -243,7 +243,7 @@ F-8 is the complex's communications nexus: the floor's command suite
 maintains the communications links through which the Site Director commands
 the complex and coordinates with the Facility network beyond.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 9. Security and Access Architecture
 
@@ -274,7 +274,7 @@ F-8 maintains incident response for the floor's administrative functions:
 security events at the surface boundary, personnel-processing incidents, and
 command-suite events are met with the complex's response doctrine.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 10. Function and Character
 
@@ -296,7 +296,7 @@ F-8 holds no residents. Its population is administrative and command
 personnel, and its function is the governance and support of the complex's
 operational floors.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 11. Personnel and Duty Life
 
@@ -321,7 +321,7 @@ toward the surface. The pattern is the complex's psychological architecture
 made daily — the deliberate separation between the surface world and the
 work of containment.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 12. Floor Doctrine
 
@@ -345,7 +345,7 @@ meaningful: the floor's vertical-flow design embodies the principle that
 descent into duty and ascent out of it are passages that structure the
 working life of the complex.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 13. Incident Archive
 
@@ -355,7 +355,7 @@ events at the surface transition. The floor's history is the history of the
 complex's command — recorded in the administrative archives preserved on
 F-7 below.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 14. Current Status and Projected Development
 
@@ -365,7 +365,7 @@ priorities include:
 - refinement of personnel processing and clearance procedures;
 - maintenance of the floor's training programs.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 15. Cross-Referenced Files
 
@@ -376,7 +376,7 @@ priorities include:
 - ACT_Site_Doctrine_and_Installation_Structure.md / .txt
 - Redwood Veil Annex Register (clearance-gated)
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 Archive Closing
 

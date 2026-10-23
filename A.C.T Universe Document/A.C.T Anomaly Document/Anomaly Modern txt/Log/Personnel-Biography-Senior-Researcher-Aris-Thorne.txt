@@ -1,10 +1,10 @@
 A.C.T FACILITY — PERSONNEL DOSSIER
 Personnel-Biography-Senior-Researcher-Aris-Thorne
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                     A.C.T FACILITY — PERSONNEL PROFILE
                  Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 NAME:                Aris Thorne, PhD
 DESIGNATION:         SR-THORNE-412
@@ -14,9 +14,9 @@ CURRENT ASSIGNMENT:  Artifact Awakening Project / High-Threat
 CLEARANCE LEVEL:     Level 4 (Direct O5-1 Reporting)
 HOME SITE:           ACT-SITE-02-RU-N — White Grave Station
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                          BIOLOGICAL SUMMARY
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 CHRONOLOGICAL AGE:   110 (Born June 14, 1910)
 BIOLOGICAL AGE:      26 (Permanently Static)
@@ -36,9 +36,9 @@ voluntary rest for cognitive processing), and possesses a 400%
 accelerated healing factor. Major injuries are repaired by the
 anchor within minutes.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                          PERSONAL HISTORY
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 [1910 – 1932: EARLY LIFE AND ACADEMIA]
 Born in London, England. Thorne displayed early mastery in physics and
@@ -77,9 +77,9 @@ initiative. He is a primary fixture at Site-01 and Site-02, often acting
 as the "Bridge" between the older, analog era of the Facility and the
 current high-tech era.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                          OPERATIONAL PROFILE
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 SPECIAL SKILLS:
 - Causal-Pulse Sensing: Thorne can "hear" the resonance of other
@@ -101,9 +101,9 @@ Maintains a professional but protective bond with Anny (AFD-SU-005).
 He refers to her as the "only other person in the building who
 remembers the silence correctly."
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                  SECTION 003 — ARCHIVIST'S NOTE
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 Dr. Thorne is not an anomaly to be contained; he is a colleague to
 be

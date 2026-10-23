@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 RED-HOUND-AFD-NB-007
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-NB-007
 TITLE I:             RED HOUND
@@ -15,9 +15,9 @@ FIELD TYPE:          NB — Non-Natural Bio Hazard
 
 CLEARANCE REQUIRED:  Level 4
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   EXIGENT
 
@@ -32,9 +32,9 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           INVIOLABLE
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
 
 DATE OF DETECTION:   2003-06-19
 VERIFICATION DATE:   2003-06-23
@@ -53,9 +53,9 @@ AMNESTIC DEPLOYED:   Yes
 NARRATIVE STATUS:    Controlled as illegal predator import, mine collapse,
                      and heat exposure fatalities
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
 
 AFD-NB-007 is a large quadrupedal predatory organism superficially resembling a
 hound or oversized hunting dog. The organism measures approximately 3 m at the
@@ -101,9 +101,9 @@ weapons, low-caliber kinetic rounds, vehicular collision, falling debris, and
 standard restraint impact systems produce little operational impairment unless
 combined with cutting, thermal, or chemical suppression.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Predatory non-natural biology. AFD-NB-007 is a blind,
                      hound-like organism with exposed red meat tissue, jagged
@@ -159,9 +159,9 @@ SAMPLES:
    - sound of an infant crying, despite no infant victim being present in the
      verified feeding record
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
 
 AFD-NB-007 is housed in an underground reinforced biological containment arena
 with layered cutting-barrier gates, thermal suppression vents, and negative
@@ -219,9 +219,9 @@ IN BREACH IF IT:
    [x] Other: Mimicked human distress calls are detected outside approved
               acoustic containment range
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
 
 AFD-NB-007 is considered a high-risk biological predator primarily because it
 attacks response structure rather than merely attacking bodies. The claw effect
@@ -245,9 +245,9 @@ physical appearance of AFD-NB-007. This has caused multiple false reports of
 human attackers, ordinary canines, and "something red that was already behind
 me."
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
                       TRANSFORMATION NOTES
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
 
 TRANSFORMATION ATTEMPT
 STATUS:              Prohibited
@@ -267,9 +267,9 @@ that study of its amnestic claw secretion and aerosol breakdown mechanism may
 provide defensive value against related predatory anomalies. This decision is
 under annual review.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
 
 NOTE 001:
 Personnel are reminded that AFD-NB-007 is blind. Covering lights, using visual

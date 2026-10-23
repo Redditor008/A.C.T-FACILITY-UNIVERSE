@@ -1,10 +1,10 @@
 A.C.T FACILITY — RESEARCH & ANALYSIS DOSSIER
 Thorne-Displacement-Event-Analysis-Dossier-AFD-715
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
               A.C.T FACILITY — RESEARCH & ANALYSIS DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-715 (Series Composite)
 TITLE I:             The 715 Displacement Event
@@ -23,9 +23,9 @@ CONTAINMENT SITE:    Primary Facility / Storage Sector 7 / Low-Threat
 ARCHIVE STATUS:      Active / Secured
 DOSSIER STATUS:      Open / Media Inventory Logged
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 This dossier, compiled by Aris Thorne, establishes that the 715-Series
 items are not anomalies in the functional sense. They are physical
@@ -38,9 +38,9 @@ INCLUDED LOG TYPES:
    - The O5-1 Directive on Passive Storage
    - Dossier Closing Statement
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                SECTION 001 — THE ABSENCE OF RESONANCE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 LOG ID:              AFD-715/THORNE-NULL-LOG
 AUTHOR:              Aris Thorne (SR-412)
@@ -60,9 +60,9 @@ dangerous, but they are impossible. We are containing the Fact of
 their Presence, not their power. They are the litter of a
 multiverse that has run out of space.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                SECTION 002 — MEDIA INVENTORY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 [RECORD A] - COLORFUL ARRAY:
 A generic 8GB USB drive. Contains one 14MB video file (.mp4).
@@ -86,9 +86,9 @@ A five-page written log found stapled in an evidence jacket.
 A 2MB file on a Site-01 server containing a truncated list (25%) of
 designations.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 We will keep these items in standard archival lockers. They serve as
 historical curiosities rather than containment priorities.

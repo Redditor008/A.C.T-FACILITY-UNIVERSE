@@ -9,7 +9,7 @@ Archive Note
 This file is the complete internal archive version of the first preserved vault document in A.C.T history. It
 preserves the pre-anomaly-era language, early threat understanding, and original doctrinal significance of ENTITY-000.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T Facility Vault Archive
 First Preserved Document
@@ -22,7 +22,7 @@ Document Type: Raw Entity Archive
 Classification Era: Before formal Anomaly designation
 Distribution: Command Authority Only
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 ENTITY DESIGNATION
 ENTITY-000
@@ -39,7 +39,7 @@ This record was created before the modern use of the word Anomaly. At the
 time of writing, the world was not
 considered ready to witness, name, or understand the ENTITY in formal terms.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 ENTITY DESCRIPTION
 The ENTITY is an impossibly long serpent-form being estimated at approximately 10 kilometers in length. It is believed
@@ -55,7 +55,7 @@ The ENTITY is not to be understood as ordinary life, myth, or animal form.
 It is a presence whose existence alone
 exceeds common physical explanation.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 PRIMARY OBSERVED EFFECTS
 
@@ -115,7 +115,7 @@ Approximately 24 hours after the initial vision, the exposed subject dies of sud
 This terminal sequence has been recorded as fixed and reliable in all surviving early
 reports.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 EXPOSURE SEQUENCE
 The following progression has been observed repeatedly:
@@ -127,7 +127,7 @@ The following progression has been observed repeatedly:
 5. Psychological breakdown
 6. Sudden cardiac death near the 24-hour mark
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 INITIAL CONTAINMENT UNDERSTANDING
 The ENTITY cannot be contained by conventional architecture, ordinary restraint, or force.
@@ -150,7 +150,7 @@ knowledge of the ENTITY’s existence would likely result in:
 - social destabilization
 - catastrophic awakening risk
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 DIRECTIVE
 No unapproved descent.
@@ -161,7 +161,7 @@ No recovered scribbling is to be circulated without review.
 No attempt is to be made to interpret the written language without authorization.
 No action is to be taken that may disturb the ENTITY’s dormant state.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 ARCHIVE WARNING
 This ENTITY is not to be approached as animal, god, relic, or myth.
@@ -172,7 +172,7 @@ It is not to be awakened.
 
 Its sleep is presently indistinguishable from mercy.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FINAL NOTE
 This record is preserved as the first sealed vault document of the A.C.T Facility.

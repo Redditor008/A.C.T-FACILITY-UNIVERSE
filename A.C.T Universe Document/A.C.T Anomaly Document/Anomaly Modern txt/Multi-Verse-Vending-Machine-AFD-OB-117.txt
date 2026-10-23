@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 Multi-Verse-Vending-Machine-AFD-OB-117
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                  Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-OB-117
 TITLE I:             Multi-Verse Vending Machine
@@ -15,9 +15,9 @@ FIELD TYPE:          OB — Object
 
 CLEARANCE REQUIRED:  Level 4
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   REACTIVE
 
@@ -32,9 +32,9 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           CONTAINED-STUDY
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 DATE OF DETECTION:   1954-09-18
 VERIFICATION DATE:   1958-10-02
@@ -54,9 +54,9 @@ NARRATIVE STATUS:    The mall was condemned for "Asbestos and Structural
                      Hazard." The machine was recovered from an
                      unlabeled alcove. (Archive Modernization 1960)
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 AFD-OB-117 is a high-resistance vending machine of pseudo-futuristic
 design. The exterior appears to be a standard industrial-grade vending
@@ -93,9 +93,9 @@ CORE ANOMALOUS FEATURES:
    tools simply sliding off the surface as if the machine possessed
    no friction.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Cross-Dimensional Vending. The subject acts as a
                      point of transaction for items from multiple
@@ -118,9 +118,9 @@ TEMPORAL BEHAVIOR:   Interface reconfigures at intervals of 1 to 60 min.
 REALITY INTERACTION: Causal Extraction / Spatial Volume Correction /
                      Multiversal Transaction.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 AFD-OB-117 is housed in a high-security containment vault at
 ACT-SITE-01-US-W.
@@ -161,9 +161,9 @@ BREACH PROTOCOL:         If an item is dispensed that causes structural
                          with 004-A Grade vapor to neutralize the
                          narrative impact of the item.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 AFD-OB-117 is a "Causal Thief." It does not create items; it retrieves
 them. This has been confirmed by the appearance of a "Missing"
@@ -175,9 +175,9 @@ the machine’s "Arrival Aperture." The fact that it can scale
 functionality along with size suggests a high-level mastery of
 atomic-density manipulation.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                       TRANSFORMATION NOTES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 CURRENT VIABILITY:       CONTAINED-STUDY
 
@@ -189,9 +189,9 @@ point, A.C.T can acquire assets that would otherwise be unattainable.
 O5-3 has approved a discretionary fund of $10,000,000 for this
 project.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 NOTE 001:
 The machine once listed "A cure for the O5 Pulse" for $1,000,000,000.

@@ -1,7 +1,7 @@
 A.C.T FACILITY ARCHIVE FILE — MERCY LOCK GENTLE LOCK SYSTEM
 ===========================
 TECHNOLOGY RECORD - MERCY LOCK GENTLE LOCK SYSTEM
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                                                         |
@@ -65,13 +65,13 @@ Exploit-prone tuning phrases, living patient names, ward coordinates, override p
 are censored under GENTLE LOCK DISCLOSURE LIMIT. This protects residents from hostile groups and prevents Iron
 Meridian-style modification into punitive restraint.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FUNCTION SUMMARY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Practical Function
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A gentle lock is designed to hold a hazardous condition at the smallest workable
 boundary. If a patient burns door
@@ -96,7 +96,7 @@ movement, staff access, observation, consent, and emergency release into differe
 control layers instead of forcing one locked door to perform every function.
 
 Difference From Standard Containment Locks
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Standard A.C.T containment locks are built for denial: deny exit, deny breach, deny unauthorized access, deny
 tampering. Gentle locks are built for selective permission. They may allow a patient to
@@ -109,13 +109,13 @@ This does not make the lock weak. It makes the lock specific. A broad
 hard lock may provoke the exact behavior it is
 meant to contain. A gentle lock tries to avoid becoming the trigger.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 ORIGIN, CUSTODY, AND OWNERSHIP
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Origin Assessment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The system originates with Mercy Lock Institute, probably through collaboration between Lock Physicians, Quiet
 Engineers, patient advocates, and ward technicians. A.C.T has not confirmed whether the first gentle lock was
@@ -133,7 +133,7 @@ technical problem: many patients
 become more dangerous when restrained by fear, pain, isolation, or humiliation.
 
 Custody Status
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Primary custody remains with Mercy Lock Institute. A.C.T holds one broken exterior plate, two removed nonactive latch
 tongues, four training cards, one transfer-compatible patient bell interface, and a partial maintenance diagram with
@@ -145,13 +145,13 @@ an A.C.T site without Command,
 Medical, Legal, and Engineering approval. Current file authority treats
 unauthorized reproduction as both technical risk and diplomatic breach.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 PHYSICAL AND SYSTEM DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Known Components
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Observed gentle lock installations include the following repeated components:
 
@@ -174,7 +174,7 @@ still signal distress.
 Not every lock contains every component. Mercy Lock tunes each installation to the resident.
 
 Materials and Signals
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Recovered materials include nonreactive polymer, soft ceramic, ordinary steel, braided copper thread, treated linen,
 acoustic-damping felt, thin silver-gray mesh, and an unidentified warm resin used behind one White Lock plate. No
@@ -191,7 +191,7 @@ not to.
 A.C.T has not determined whether refusal was electronic, anomalous, or staff-controlled.
 
 Known Variants
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Mercy Lock uses color names for care-and-restraint contexts. These are not A.C.T classes.
 
@@ -237,7 +237,7 @@ The design-principle row governs every other. A gentle lock restricts heat trans
 arms, and changes shadow acceptance at a threshold before it isolates anyone in darkness, so the boundary chosen
 matters more than the strength of the seal.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 INTERFACE AND OPERATING ENVELOPE
 
@@ -268,14 +268,14 @@ Component essentiality, bell interaction, and long-term outcome differences agai
 hard containment are NOT MEASURED. A gentle lock does not make an unsafe resident
 harmless and cannot replace sedation where sedation is medically necessary.
 
-═══════════════════════════════════════════════════════════════════════
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
++--------------------------------------------------------------------------------------------------------------------+
 
 OPERATING PROCEDURE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Authorized Deployment Context
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T may interact with gentle locks in four approved contexts: cooperative Mercy Lock transfer, emergency ward
 support, inspected Mercy Lock site visit, and A.C.T temporary medical containment when a Mercy Lock consultant is
@@ -291,7 +291,7 @@ whose shadow opens doors may need
 light control more than heavier bolts.
 
 Transfer Use
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 During transfer, Mercy Lock may request that a portable gentle lock plate be installed
 on an ambulance interior,
@@ -311,7 +311,7 @@ MERCY LOCK REQUIREMENT: advocate present, bell retained, no handcuffs unless hea
 This notation is not optional in joint transfer.
 
 Maintenance Handling
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A gentle lock should be inspected by two roles: technical and care. An engineer
 can verify latch travel, plate
@@ -344,7 +344,7 @@ SERVICING AND CALIBRATION
 Servicing is mostly record hygiene, because the most common technical fault is a profile that was never updated after
 a change of name, memory, or body.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FAULT ISOLATION
 
@@ -362,7 +362,7 @@ FAULT ISOLATION
 | Shadow leakage at door     | corridor lighting mismatch                | adjust lighting                           |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 Numbered Operating Sequence
 
 The sequence follows Mercy Lock training on the point that matters most: a gentle lock begins with the room. Step
@@ -380,13 +380,13 @@ The sequence follows Mercy Lock training on the point that matters most: a gentl
 Step 8 is the reporting discipline. Describing the outcome as a restrained resident invites the next shift to treat
 the lock as custody, which is the failure mode the training names explicitly.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 KNOWN LIMITS AND FAILURE CONDITIONS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Technical Limits
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Gentle locks do not make an unsafe resident harmless. They reduce specific interactions between resident, room, staff,
 and manifestation. They cannot replace sedation when sedation is medically necessary, cannot substitute for staff
@@ -404,7 +404,7 @@ Known technical limits include:
 - staff confusion when color terms are mistaken for A.C.T containment classes.
 
 Human Limits
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The system depends on restraint culture. A punitive team can turn a gentle lock
 into a cruel lock by ignoring the
@@ -416,13 +416,13 @@ This limit is why A.C.T Legal insists that any copied or borrowed system include
 training, consent records, and
 patient advocacy review.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FAILURE HISTORY AND RECORDED INCIDENTS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Red Lock Fragment 001
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T reviewed one Mercy Lock Red Key incident after a resident died in a
 room where the door held but care response
@@ -443,7 +443,7 @@ now mandatory reading for
 A.C.T teams evaluating gentle locks.
 
 A.C.T Transfer Near Miss
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 During a cooperative transfer to Site 02 medical wing, A.C.T Containment proposed handcuffs, visible armed escort, and
 surname confirmation at every door. Mercy Lock objected. The patient had a history of
@@ -455,7 +455,7 @@ Heat output remained below injury threshold. The patient arrived conscious and l
 considered a successful near miss because the first A.C.T plan would likely have produced injury.
 
 Hostile-Use Concern
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Iron Meridian Authority appears to have sought Mercy Lock technology or staff knowledge. A.C.T has no confirmed copied
 gentle lock in Iron Meridian custody, but a seized Meridian restraint door contained a
@@ -466,27 +466,27 @@ assesses the device as imitation or theft rather than cooperation.
 If confirmed, hostile adaptation would invert the gentle lock principle: use patient-specific tuning to produce
 compliance rather than safety. This risk justifies Level 5 control of full schematics.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 DIVISION USE AND REQUEST RULES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Medical Division
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Medical Division may request gentle lock consultation for patients whose danger increases under ordinary restraint.
 Medical must document clinical triggers, communication methods, consent status, emergency release, and what the
 patient must not be called. Medical owns the care-plan review, not the hardware alone.
 
 Containment Division
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Containment may request gentle lock assessment when a low-violence or episode-linked subject repeatedly escalates
 against standard cells. Containment must not use the system to weaken necessary containment for high-risk hostile
 entities. The technology is for precise restraint, not wishful softness.
 
 Subject Care Division
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Subject Care must attach when the resident is a child, survivor, altered civilian, witness, nonhuman dependent, or
 person whose legal status is unstable. Subject Care may block deployment if the lock
@@ -494,25 +494,25 @@ plan erases communication or
 creates unnecessary isolation.
 
 Engineering Division
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Engineering may inspect, document, and test nonactive components. Engineering may
 not reproduce full systems without authorization. Any recovered material must be
 logged by plate, latch, buffer strip, signal input, and patient-interface condition.
 
 Legal Division
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Legal must review custody, consent, guardianship, transfer authority, and responsibility for injury. A gentle lock
 used without consent review may become unlawful detention even if it is technically humane.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 CROSS-REFERENCE STATUS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Related A.C.T Records
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - TECHNOLOGY RECORD TEMPLATE, Technology Record
 - GOI-HY-P-071 — Mercy Lock Institute, Group of Interest Registry
@@ -525,7 +525,7 @@ Site 02 medical-wing
 transfer records held under Central Archive routing.
 
 Dual Filing
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Mandatory when a gentle lock is attached to a living patient, a specific ward,
 a containment transfer, a failed
@@ -533,10 +533,10 @@ restraint plan, a recovered GOI component, or suspected hostile-use modification
 technology record describes the system family. It does not replace patient files, ward
 inspection records, anomaly files, GOI files, medical reports, or legal custody review.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 OPEN QUESTIONS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - Did the original gentle lock derive from ordinary clinical design, an anomalous door,
 an old hospice practice, or an
@@ -560,17 +560,17 @@ non-malicious or episodic harm?
 containment?
 
 Intelligence Confidence
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Moderate. A.C.T has observed working systems, handled inactive components, reviewed training material, and
 participated in successful transfer use. Confidence is limited by incomplete schematics, Mercy Lock withholding,
 patient-specific tuning, regional variation, and unknown anomalous contribution. The system should be treated as real
 and useful, but not fully understood.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FILE METADATA
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FILE CREATED:            13/11/1939
 FILE LAST UPDATED:       16/08/1950

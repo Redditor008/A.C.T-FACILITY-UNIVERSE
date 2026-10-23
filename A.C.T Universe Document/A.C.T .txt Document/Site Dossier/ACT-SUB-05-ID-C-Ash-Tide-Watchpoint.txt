@@ -10,7 +10,7 @@ Dossier Number: SUB-SITE-DOSSIER-05-ID-C
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------------------------------+
 
 Archive Note
 
@@ -30,7 +30,7 @@ is, what it does, why it exists as a sub-site, how it is governed,
 and how it
 supports the parent relay.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------------------------------+
 
 1. Registry Identity Summary
 
@@ -49,7 +49,7 @@ History Notes: Elevated from a relay watchpoint after repeated coastal anomaly a
 staffing.
 Security Notes: Capable of emergency lockdown and silent withdrawal during large-scale tectonic shifts.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------------------------------+
 
 2. Dossier Purpose
 
@@ -65,7 +65,7 @@ relays sea-entry traffic, observes volcanic activity, and maintains the
 hidden capacity to receive material and personnel in an emergency — then
 withdraw silently when the region's restless geology demands it.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------------------------------+
 
 3. Site Profile and Cover Architecture
 
@@ -91,7 +91,7 @@ standing mandate for long-term holding, no independent research authority,
 and no role beyond supporting the parent relay's maritime and seismic
 mandate.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------------------------------+
 
 4. Historical Foundation and Evolution
 
@@ -122,7 +122,7 @@ Today the watchpoint functions as:
 - a hidden emergency intake point capable of receiving material and
   personnel during operations
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------------------------------+
 
 5. Command and Governance
 
@@ -147,7 +147,7 @@ The watchpoint's command limits are explicit:
 - emergency intake is temporary — material and personnel move to the parent
   relay or onward under the relay's authority
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------------------------------+
 
 6. Divisional Presence and Daily Function
 
@@ -176,7 +176,7 @@ The watchpoint maintains limited medical capacity for the care of personnel
 and for the initial stabilization of any personnel arriving through
 emergency intake.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------------------------------+
 
 7. Physical Plant and Internal Floor Register
 
@@ -199,7 +199,7 @@ and personnel, plus secure storage for time-sensitive recovered material
 awaiting transfer to the parent relay. During a breach response, closing
 F-1 to the outside seals this level.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------------------------------+
 
 8. Containment and Operational Doctrine
 
@@ -230,7 +230,7 @@ a silent withdrawal doctrine: the capacity to lock down or evacuate quietly
 during large-scale tectonic shifts, preserving the watchpoint's cover and
 personnel until the environment stabilizes.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------------------------------+
 
 9. Resident Holdings
 
@@ -238,7 +238,7 @@ The watchpoint does not maintain permanent residents. Its secure level is
 occupied only by emergency intake material in transit to the parent relay.
 The watchpoint's manifest is a rolling record of transients.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------------------------------+
 
 10. Secrecy and Security Posture
 
@@ -249,7 +249,7 @@ genuine observation activity. Security procedures emphasize:
 - maritime perimeter awareness
 - preparation for emergency lockdown and silent withdrawal
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------------------------------+
 
 11. Personnel and Operational Life
 
@@ -265,7 +265,7 @@ A working day at the watchpoint may include:
 - receiving emergency intake material for transfer
 - maintaining the watchpoint's observation and intake systems
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------------------------------+
 
 12. Incident Archive
 
@@ -274,7 +274,7 @@ coastal anomaly sightings, volcanic observation events, and emergency intake
 operations. Material that exceeds the watchpoint's capacity moves to the
 parent relay.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------------------------------+
 
 13. Current Status and Projected Development
 
@@ -284,7 +284,7 @@ Projected development priorities include:
 - refinement of emergency intake coordination with the parent relay
 - maintenance of silent withdrawal readiness
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------------------------------+
 
 14. Cross-Referenced Files
 
@@ -293,7 +293,7 @@ Projected development priorities include:
 - ACT-SITE-05-ID-C — Nusantara Deep Relay Site Dossier
 - Parent command: ACT-SITE-05-ID-C Annex Register (clearance-gated)
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------------------------------------------+
 
 Archive Closing
 

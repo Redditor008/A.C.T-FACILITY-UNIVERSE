@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 AFS-312-Anti-Force-Shock-AFD-OB-312
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                  Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-OB-312
 TITLE I:             AFS-312 (Anti Force Shock-312)
@@ -14,9 +14,9 @@ FIELD TYPE:          OB — Object
 
 CLEARANCE REQUIRED:  Level 3 / Tactical Review Desk
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   REACTIVE
 
@@ -31,9 +31,9 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           REPURPOSED / CONTAINED-STUDY
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 DATE OF DETECTION:   2021-05-18
 VERIFICATION DATE:   2021-06-02
@@ -51,9 +51,9 @@ AMNESTIC DEPLOYED:   N/A.
 NARRATIVE STATUS:    The crater was attributed to a failed satellite
                      de-orbit event. The subject is held at Site-01.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 AFD-OB-312 is a futuristic, portable railgun of unknown temporal origin.
 The weapon follows a standard rifle configuration but features a
@@ -100,9 +100,9 @@ The AFS-312 features three distinct firing profiles:
     low-intensity bolts with a 5-second mechanical delay between
     each discharge.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      High-Intensity Solar-Railgun Discharge. The subject
                      converts light into focused electromagnetic bolts
@@ -128,9 +128,9 @@ TEMPORAL BEHAVIOR:   20-minute cooldown per single charge refill.
 REALITY INTERACTION: Causal Information Displacement / High-Energy
                      Matter Transmutation (Scorching).
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 AFD-OB-312 is housed in a "Total Light-Absorb" vault at
 ACT-SITE-01-US-W.
@@ -166,9 +166,9 @@ BREACH PROTOCOL:         The weapon is inanimate and poses no movement
                          activate the RSA (Item 01) to stabilize
                          the resulting ionization and seal the vault.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 Research into AFD-OB-312 suggests it was part of a future military
 standardization program. The "AFS" designation likely refers to a
@@ -179,9 +179,9 @@ safety limitation designed to prevent the [ REDACTED ] cooling
 pipes from melting. The 5-minute charge time for the focused shot
 is a mathematical necessity for stabilizing the bolt's trajectory.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                       TRANSFORMATION NOTES
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 CURRENT VIABILITY:       REPURPOSED
 
@@ -191,9 +191,9 @@ Suppressor." In the event of a high-tier containment failure at
 Site-01, a trained operator is authorized to utilize the 100% Focused
 Charge mode to neutralize the escaping anomaly from a distance.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 NOTE 001:
 During the 2023 calibration test, the weapon's LCD screen briefly

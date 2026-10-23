@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 UnWeeping-Mannequin-AFD-SU-013
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-013
 TITLE I:             UnWeeping Mannequin
@@ -15,9 +15,9 @@ FIELD TYPE:          SU — Subject
 
 CLEARANCE REQUIRED:  Level 2
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   REACTIVE
 
@@ -32,9 +32,9 @@ SUB-THREAT:          HARMLESS
 TRANSFORMATION
 VIABILITY:           NEUTRAL
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 DATE OF DETECTION:   2014-03-06
 VERIFICATION DATE:   2014-03-09
@@ -52,9 +52,9 @@ AMNESTIC DEPLOYED:   Limited
 NARRATIVE STATUS:    Controlled as trespassing incident, costume prank, and
                      faulty security footage
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 AFD-SU-013 is a humanoid mannequin entity resembling a female dress mannequin.
 The subject measures 172 cm in height and appears to be constructed from matte
@@ -102,9 +102,9 @@ The
 entity does not continue pursuit after satisfaction is reached unless stared at
 again for another five-minute period.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Observation-enabled motion. AFD-SU-013 moves only while a
                      living observer is looking at it directly or watching a
@@ -152,9 +152,9 @@ KNOWN NON-TRIGGERS:
    - blind personnel in the room
    - brief glances under five minutes
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 AFD-SU-013 is contained in a furnished humanoid-object display chamber with
 soft flooring, rounded furniture, reinforced glass observation panels, and no
@@ -214,9 +214,9 @@ IN BREACH IF IT:
    [x] Other: Subject enters embarrassment-agitation state outside approved
               test conditions or pursues personnel beyond containment chamber
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 AFD-SU-013 is classified as a subject due to persistent personality-like
 behavior, preference, recognition, and direct response to social attention. It
@@ -244,9 +244,9 @@ The SCHRÖDINGER containment fracture reflects the paradox that observation is
 required to make the subject move for study or relocation, while observation is
 also the condition that creates hazard.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                       TRANSFORMATION NOTES
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 TRANSFORMATION ATTEMPT
 STATUS:              Not recommended
@@ -268,9 +268,9 @@ for cosmetic study. Prior cutting of hair caused no injury but resulted in the
 subject staring at the responsible technician for four minutes and fifty-nine
 seconds during the next observation cycle.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 NOTE 001:
 AFD-SU-013 is not dangerous when glanced at. It becomes dangerous when stared at

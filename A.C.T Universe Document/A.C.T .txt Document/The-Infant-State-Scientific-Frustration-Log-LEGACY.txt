@@ -1,10 +1,10 @@
 A.C.T FACILITY — RESEARCH & ANALYSIS DOSSIER
 The-Infant-State-Scientific-Frustration-Log-LEGACY
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
               A.C.T FACILITY — RESEARCH & ANALYSIS DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 DESIGNATION:         LEGACY-HIST-001
 TITLE I:             The Infant State (1598 - 1888)
@@ -24,9 +24,9 @@ CONTAINMENT SITE:    Primary Facility / Deep Archive / First Vault
 ARCHIVE STATUS:      Active / Historical Preservation
 DOSSIER STATUS:      Open / Chronology of the Founder's Era / Detailed Review
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 This dossier belongs to A.C.T Log Category VI — Research & Analysis Dossier.
 It documents the three-century intellectual and scientific struggle of
@@ -50,9 +50,9 @@ archival context for the First Descent, clarifying that A.C.T was born
 not from curiosity, but from a failed attempt to find a medical cure
 for a reality-breaking condition.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                  SECTION 001 — THE 1598 THRESHOLD
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 LOG ID:              HIST-1598/FOUND-001
 LOG TYPE:            Founder Condition Analysis
@@ -81,9 +81,9 @@ Early efforts were focused on [ BLANK ], believing that if they could
 reproduce the event in a controlled environment, they could isolate
  the "Cure-State."
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                SECTION 002 — MASTERY OF THE MATERIAL
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 LOG ID:              HIST-1650/SCI-001
 LOG TYPE:            Scientific Consolidation Review
@@ -111,9 +111,9 @@ local economies and governments from the shadows only when necessary to
 secure materials for their laboratories. They were not kings; they were
 highly-informed prisoners of time.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                  SECTION 003 — THE ENTITY REGISTRY
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 LOG ID:              HIST-1800/ARC-001
 LOG TYPE:            Archival Standard Evolution
@@ -134,9 +134,9 @@ Theory." Capture was prioritized over containment; the Five believed
 that if they could hold a thing, they could eventually master it. This
 assumption proved to be their greatest intellectual failure.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                SECTION 004 — FAILED ENCLOSURES: A REVIEW
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 LOG ID:              HIST-1850/CON-003
 LOG TYPE:            Containment Failure Quantitative Analysis
@@ -171,9 +171,9 @@ universe
 does not obey the geometry of Euclid, and it certainly does not obey
 the logic of the steam engine."
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
              SECTION 005 — THE DESPERATION OF 1888
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 LOG ID:              HIST-1888/TRN-001
 LOG TYPE:            Pre-Descent Crisis Log
@@ -196,9 +196,9 @@ world dissolve while we remain unchanging witnesses to its end.
 We are commencing the descent. We are not seeking a god. We are seeking
 the laboratory where our reality was first broken."
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 The Infant State ended in 1888 with the first eight-month excavation.
 The Founders entered the core expecting a localizable entity they could

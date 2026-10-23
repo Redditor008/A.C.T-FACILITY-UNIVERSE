@@ -10,7 +10,7 @@ Dossier Number: SUB-SITE-DOSSIER-04-BR-C
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------+
 
 Archive Note
 
@@ -31,7 +31,7 @@ is, what it contains, why it exists as a sub-site, how it is governed,
 and
 how it supports the parent reserve.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------+
 
 1. Registry Identity Summary
 
@@ -51,7 +51,7 @@ anomalies safer
 in native containment fields.
 Security Notes: Transport denial is built into containment doctrine for several housed anomalies.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------+
 
 2. Dossier Purpose
 
@@ -65,7 +65,7 @@ The enclosure is where the reserve's non-movable flora anomalies live: a
 series of concealed perimeter sectors where impossible plants are observed,
 studied, and contained within the environment they require.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------+
 
 3. Site Profile and Cover Architecture
 
@@ -90,7 +90,7 @@ the reserve rather than an independent installation. It has no campus, no
 independent command, and no mandate beyond the in-place management of its
 flora residents.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------+
 
 4. Historical Foundation and Evolution
 
@@ -124,7 +124,7 @@ Today the enclosure functions as:
 — the demonstration of the Facility's in-place containment doctrine
 — a research site for the study of place-bound anomalous biology
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------+
 
 5. Command and Governance
 
@@ -149,7 +149,7 @@ The enclosure's command limits are explicit:
 - no independent research authority
 - no transformation work without the parent reserve's authorization
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------+
 
 6. Divisional Presence and Daily Function
 
@@ -172,7 +172,7 @@ Limited Security personnel enforce the concealed boundaries between
 enclosure sectors and the reserve's legitimate research areas, and respond
 to any incursion into anomalous territory.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------+
 
 7. Physical Plant and Internal Structure
 
@@ -199,7 +199,7 @@ ordinary-looking forest canopy, hollow spaces exist — concealed clearings,
 underground observation posts, and environmental control infrastructure
 tucked into the wilderness where impossible flora grows.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------+
 
 8. Containment and Operational Doctrine
 
@@ -224,7 +224,7 @@ timescales. Residents are studied through their behavior in their native
 environment, with minimal intrusion — the enclosure's researchers understand
 that for place-bound flora, the environment is part of the anomaly.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------+
 
 9. Resident Holdings
 
@@ -234,7 +234,7 @@ assignments are preserved in the Verde Null Annex Register under the parent
 reserve's authority. Personnel without specific assignment to those files do
 not require their names.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------+
 
 10. Secrecy and Security Posture
 
@@ -246,7 +246,7 @@ protected research land. Security procedures emphasize:
 - environmental monitoring that detects both resident condition and external
   approach
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------+
 
 11. Personnel and Operational Life
 
@@ -262,7 +262,7 @@ A working day at the enclosure may include:
 - coordinating with the reserve's Environmental Containment Division
 - documenting resident behavior under the reserve's research authority
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------+
 
 12. Incident Archive
 
@@ -272,7 +272,7 @@ incursion attempts into anomalous sectors. The relocation-failure records
 that established the enclosure's doctrine are preserved in the parent
 reserve's history.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------+
 
 13. Current Status and Projected Development
 
@@ -282,7 +282,7 @@ Projected development priorities include:
 - environmental monitoring improvements
 - coordination with the parent reserve's expanding cultivation programs
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------+
 
 14. Cross-Referenced Files
 
@@ -291,7 +291,7 @@ Projected development priorities include:
 - ACT-SITE-04-BR-C — Verde Null Bio-Reserve Site Dossier
 - Parent command: ACT-SITE-04-BR-C Annex Register (clearance-gated)
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------------------------+
 
 Archive Closing
 

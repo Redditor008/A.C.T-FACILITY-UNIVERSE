@@ -9,7 +9,7 @@ into the
 wounded archive. All original chapter texts have been preserved without summarization, redaction, or condensation.
 Presented as a single continuous narrative for archival integrity.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Chapter 1 — Correction Order
 
@@ -369,7 +369,7 @@ She felt like a trespasser inside the memory of something that had been trying,
 for a very long time, not to remember
 itself.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Chapter 2 — Wounds in the Archive
 
@@ -767,7 +767,7 @@ The contradiction was no longer whether the records were false.
 The contradiction was whether the truth had ever been safe enough for the Facility
 to keep intact.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Chapter 3 — The 004 Irregularity
 
@@ -1176,7 +1176,7 @@ But the possibility that the Facility’s greatest success had never been making
 
 It had been teaching its own people how to live inside what was missing.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Chapter 4 — The Bloom Before the Bloom
 
@@ -1543,7 +1543,7 @@ Then she encrypted it, hid it, and sat awake in the dark while far
 below the Facility, beneath floors, beneath
 doctrine, beneath corrected history, something slept—and something rooted itself in that sleep.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Chapter 5 — Entity Research Exploration
 
@@ -1888,7 +1888,7 @@ been an accident of human curiosity.
 
 It had been an answer to a call no one remembered receiving.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Chapter 6 — The Sleeping Foundation
 
@@ -2199,7 +2199,7 @@ ritualized mercy, a sleeping foundation shifted under the world.
 And the institution built to keep it dreaming had taught itself to forget the
 cost.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Chapter 7 — The Founders’ Silence
 
@@ -2540,7 +2540,7 @@ Their silence, she understood now, was not an absence.
 
 It was an act.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Chapter 8 — NEMNOLIA and the Dream-State
 
@@ -2833,7 +2833,7 @@ The first lie was not only a lie about the past.
 
 It was the operating condition of the present.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Chapter 9 — The First Lie
 
@@ -3171,7 +3171,7 @@ The only question left was whether she would do what the founders had done
 when it was time to choose between truth
 and continuity.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Chapter 10 — The Cost of Remembering
 
@@ -3561,7 +3561,7 @@ The cost of remembering was not only what you learned.
 
 It was what learning threatened to turn you into.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Chapter 11 — Fragments, Not Revelation
 
@@ -3853,7 +3853,7 @@ She had not given the future the truth.
 
 She had given it a chance.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Chapter 12 — The Second Self-Erasure
 
@@ -4339,7 +4339,7 @@ because the buried institution below it had learned that sometimes the only way 
 preserve reality was to amputate
 memory before memory learned how to become a door.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Epilogue — The Archive Still Breathes
 
@@ -4479,7 +4479,7 @@ ever, waiting for the next careful
 mind to notice the shape of the wound and mistake it—for just long enough—for
 clerical error.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 END OF COMPLETE DOSSIER
 
@@ -4492,7 +4492,7 @@ recommended per established protocol.
 
 File Status: COMPLETE | PRESERVED | FRAGMENT-READY
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Compiled on 2026-06-25 | Asia/Jakarta Local Time
 Source Materials: All listed chapter files from uploads directory

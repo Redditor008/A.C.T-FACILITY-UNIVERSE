@@ -11,7 +11,7 @@ Dossier Number: FLOOR-DOSSIER-SUB-02-RU-N-F-2
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard / ACT Floor Record Standard
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 Archive Note
 
@@ -31,7 +31,7 @@ what it does, how it is built, how it is run, and how the
 depot's quarantine
 discipline protects the parent station and the transport chain alike.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 1. Floor Registry Identity Summary
 
@@ -55,7 +55,7 @@ Current Status: Active
 Doctrine Note: The level where the depot's defining protocol —
 quarantine — is practiced
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 2. Dossier Purpose
 
@@ -72,7 +72,7 @@ requires; and its medical staging suites prepare assessed material for the
 interim cold of F-1 or for transfer to the parent station. Nothing moves
 through the depot unassessed.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 3. Position in the Site Stack
 
@@ -96,7 +96,7 @@ cryogenic holding of F-1 while awaiting transfer; material requiring
 further evaluation remains on F-2. The boundary between the floors is the
 boundary between assessment and storage.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 4. Historical Foundation
 
@@ -122,7 +122,7 @@ In its modern configuration, F-2 is the depot's operational heart:
 quarantine chambers, assessment laboratories, and medical staging suites
 operating under the depot's suppression and quarantine doctrine.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 5. Command and Authority
 
@@ -147,7 +147,7 @@ station's decision, and no research mandate beyond assessment. Its role is
 quarantine and assessment — the determination of what each holding is
 before it moves on.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 6. Divisional Presence
 
@@ -175,7 +175,7 @@ The depot's limited containment support maintains the floor's quarantine
 infrastructure: chambers, suppression systems, and the environmental
 controls that assessment requires.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 7. Physical Plant and Architecture
 
@@ -211,7 +211,7 @@ state: stabilization for the interim cold of F-1, or preparation for
 transfer to White Grave. The suites are where the depot's assessment work
 becomes action.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 8. Systems and Infrastructure
 
@@ -238,7 +238,7 @@ holding floor below, and the parent station's assessment coordination.
 Documentation is exact, because every transfer authorization depends on the
 floor's assessment record.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 9. Security and Containment Architecture
 
@@ -272,7 +272,7 @@ the depot's escalation procedures — including, where the parent station
 determines it, the silent removal doctrine that keeps hazardous material
 from the transport chain without disturbing the cover or the schedule.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 10. Holdings and Filing Doctrine
 
@@ -295,7 +295,7 @@ Every holding on F-2 resolves to one of the depot's dispositions: transfer
 to White Grave Station, further interim storage on F-1, or — under the
 parent station's authority — silent removal from the transport chain.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 11. Personnel and Duty Life
 
@@ -320,7 +320,7 @@ every transfer authorization rests on the floor's record. Personnel on F-2
 learn the exacting standard of an installation whose purpose is to ensure
 that nothing arrives at White Grave unexamined.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 12. Floor Doctrine
 
@@ -343,7 +343,7 @@ future: the floor's assessments inform the dispositions that the parent
 station authorizes, and the floor's role ends where the parent station's
 authority begins.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 13. Incident Archive
 
@@ -353,7 +353,7 @@ handling issues. Material that exceeds the depot's capacity moves to the
 parent station, and the floor's history is largely the history of
 successful assessment and staging.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 14. Current Status and Projected Development
 
@@ -365,7 +365,7 @@ priorities include:
 — coordination with the parent station on assessment standards and
   transfer authorization.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 15. Cross-Referenced Files
 
@@ -377,7 +377,7 @@ priorities include:
 - ACT_Site_Doctrine_and_Installation_Structure.md / .txt
 - Parent command Annex Register (clearance-gated)
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 Archive Closing
 

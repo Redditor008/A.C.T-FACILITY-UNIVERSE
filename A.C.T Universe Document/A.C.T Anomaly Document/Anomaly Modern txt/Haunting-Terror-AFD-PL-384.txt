@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 Haunting-Terror-AFD-PL-384
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-PL-384
 TITLE I:             Haunting Terror
@@ -15,9 +15,9 @@ FIELD TYPE:          PL — Place
 
 CLEARANCE REQUIRED:  Level 3
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   UNDISCLOSED
 
@@ -45,9 +45,9 @@ EXPOSURE AUTHORIZATION: Designated Field Personnel only
 
 BREACH STATE:        Stable / Seasonal Watch Active
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 DATE OF DETECTION:   1896-10-14
 VERIFICATION DATE:   1902-06-19
@@ -67,9 +67,9 @@ AMNESTIC DEPLOYED:   No — pre-standardized era during initial records
 NARRATIVE STATUS:    Controlled as local ghost folklore, seasonal fog hazard,
                      and unreliable travel testimony
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 AFD-PL-384 is a recurring anomalous haunting phenomenon that manifests in rural,
 wooded, roadside, and abandoned-structure-adjacent locations across a loose North
@@ -120,9 +120,9 @@ The anomaly is hostile. Its hostility is expressed through pursuit, fear
 amplification, escape denial, and nightmare persistence rather than direct
 predation.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Seasonal haunting-zone manifestation. AFD-PL-384 creates an
                      irregular misty area approximately 20 m across during its
@@ -170,9 +170,9 @@ COMMON SUBJECT REPORTS:
    - "She did not run. She was already where I was going."
    - "When I woke up, I knew the dream was waiting for October."
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 AFD-PL-384 cannot be contained through permanent enclosure because the event zone
 is seasonal, mobile, and not tied to one stable physical location. Containment
@@ -243,9 +243,9 @@ IN BREACH IF IT:
               selected target, or nightmare imprint spreads beyond exposed
               subjects
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 AFD-PL-384 remains difficult to classify because the red-dressed apparition may
 not be a separate entity. It may be a projection of the event zone,
@@ -267,9 +267,9 @@ The June and October windows may correspond to two unknown historical deaths,
 ritual periods, weather cycles, or seasonal reality-thinning conditions. No
 confirmed origin has been identified.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                       TRANSFORMATION NOTES
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 TRANSFORMATION ATTEMPT
 STATUS:              Not recommended
@@ -287,9 +287,9 @@ Do not attempt to capture the apparition. It has not been shown to exist
 outside
 the active event zone.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 NOTE 001:
 Do not call AFD-PL-384 a ghost story in operational briefings. Local folklore is

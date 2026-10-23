@@ -1,10 +1,10 @@
 A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
 Music-Box-of-Unending-Sadness-Visual-Audit-AFD-OB-311
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
               A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 DESIGNATION:         AFD-OB-311
 TITLE I:             Music Box of Unending Sadness
@@ -23,9 +23,9 @@ CONTAINMENT SITE:    ACT-SITE-03-JP-E — Kurokawa Archive Node
 ARCHIVE STATUS:      Active / Memetic Empathic
 DOSSIER STATUS:      Open / Visual Threshold Logged
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 This dossier contains the results of Trial 311-E-14, which aimed to
 measure the rate of "Visual Fading" (the loss of color perception) in
@@ -37,9 +37,9 @@ INCLUDED LOG TYPES:
    - Senior Researcher Aris Thorne: Clinical Observation
    - Dossier Closing Statement
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
                SECTION 001 — THE MONOCHROME TRIAL
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-311/TST-E14
 DATE:                2024-05-10
@@ -67,9 +67,9 @@ Color perception returned to the subject after 32 minutes. The
 desaturation is a temporary optical hijack caused by the creator's
 recorded grief.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
                  SECTION 002 — ARCHIVIST'S NOTE
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-311/THORNE-02
 AUTHOR:              Aris Thorne (SR-412)
@@ -82,9 +82,9 @@ The box forces the mind into a state of 'Nihilistic Sight.' If you are
 sad enough, the world simply stops being bright. It is a very
 polite, very patient form of destruction."
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 MANDATORY BRIEFING PHRASE:
                      "The music doesn't end when the lid closes."

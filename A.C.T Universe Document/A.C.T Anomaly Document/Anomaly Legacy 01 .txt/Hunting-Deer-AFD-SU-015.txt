@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 Hunting-Deer-AFD-SU-015
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-015
 TITLE I:             Hunting Deer
@@ -15,9 +15,9 @@ FIELD TYPE:          SU — Subject
 
 CLEARANCE REQUIRED:  Level 4
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   UNDISCLOSED
 
@@ -32,9 +32,9 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           INVIOLABLE
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                       FALSE DESCRIPTION NOTICE
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 The following description appears in multiple early civilian reports and in two
 contaminated intake summaries:
@@ -54,9 +54,9 @@ underestimation, poor containment planning, and fatal solo pursuit decisions.
 
 All personnel are to use the verified description below.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 DATE OF DETECTION:   2007-11-18
 VERIFICATION DATE:   2007-12-02
@@ -74,9 +74,9 @@ AMNESTIC DEPLOYED:   Yes
 NARRATIVE STATUS:    Controlled as illegal poaching, bear attack, exposure,
                      and misreported chronic wasting disease incident
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 AFD-SU-015 is a predatory humanoid entity capable of presenting, at distance,
 as an ordinary deer with deep red eyes. This deer-like presentation is incomplete
@@ -116,9 +116,9 @@ method of controlling witness behavior. It allows groups to observe it in a
 less threatening state, encouraging pursuit, separation, and confidence. When
 only one target remains, the hunt begins.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Hunter-selective transformation. AFD-SU-015 appears as a
                      normal or near-normal deer until a selected Hunter is
@@ -169,9 +169,9 @@ ACTIVE FORM FEATURES:
    - rapid quadrupedal and bipedal movement
    - low growling vocalization only during final approach
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 AFD-SU-015 is contained in-place within a restricted forest perimeter disguised
 as a long-term ecological restoration zone. Civilian hunting, hiking, wildlife
@@ -235,9 +235,9 @@ IN BREACH IF IT:
               civilian hunters enter inner perimeter, or selected prey becomes
               isolated within confirmed entity range
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 AFD-SU-015 demonstrates a strong predator-prey logic organized around the role
 of "Hunter." The entity does not attack all humans. It selects individuals who
@@ -264,9 +264,9 @@ usually consist of weapons, boots, torn clothing, and antler-like scratches
 carved into nearby bark. The entity appears to consume soft tissue and some bone
 but leaves hunting equipment arranged in a circle around the kill area.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                       TRANSFORMATION NOTES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 TRANSFORMATION ATTEMPT
 STATUS:              Prohibited
@@ -283,9 +283,9 @@ reckless civilians, trophy hunters, or containment personnel carrying weapons.
 Current doctrine prioritizes exclusion, group-safety discipline, suppression of
 false descriptions, and prevention of isolated armed targets entering the area.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 NOTE 001:
 If you are reading a version of this file that says AFD-SU-015 is only

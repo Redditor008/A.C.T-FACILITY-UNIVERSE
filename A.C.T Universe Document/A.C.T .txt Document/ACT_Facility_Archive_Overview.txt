@@ -9,7 +9,7 @@ Archive Note
 This file is the complete internal archive version of the Facility overview. It preserves the core doctrine, mission,
 secrecy logic, and operational philosophy of A.C.T in full internal language.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 1. A.C.T = Anomaly Containment Transformation
 A.C.T stands for Anomaly Containment Transformation, the central doctrine and operational foundation of the Facility.
@@ -119,13 +119,13 @@ willing to sacrifice ethics, truth, and even human life if it believes such meas
 are required to preserve reality
 and ensure humanity’s survival.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T Universe — Part One
 This document serves as Part One of the A.C.T Universe.
 
 Series Position
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 This record is Part One of the A.C.T Universe reading order, Facility Overview. Part One of the A.C.T Universe
 establishes the foundational overview of the A.C.T Facility, its mission, methods, doctrine, and guiding philosophy.

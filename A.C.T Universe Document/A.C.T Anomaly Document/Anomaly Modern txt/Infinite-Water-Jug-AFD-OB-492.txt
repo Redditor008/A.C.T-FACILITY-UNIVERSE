@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 Infinite-Water-Jug-AFD-OB-492
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                  Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 DESIGNATION:         AFD-OB-492
 TITLE I:             Infinite Water Jug
@@ -14,9 +14,9 @@ FIELD TYPE:          OB — Object
 
 CLEARANCE REQUIRED:  Level 1
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   INERT
 
@@ -31,9 +31,9 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           REPURPOSED
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 DATE OF DETECTION:   1924-03-12
 VERIFICATION DATE:   1924-04-05
@@ -51,9 +51,9 @@ AMNESTIC DEPLOYED:   Yes (Standard ERE selective suppression).
 NARRATIVE STATUS:    The item was replaced with a non-anomalous clay
                      replica for museum display.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 AFD-OB-492 is a hand-crafted clay jug measuring 30 cm in height. The
 object is consistent with Egyptian pottery from the [ REDACTED ]
@@ -89,9 +89,9 @@ servant of the Pharaoh and is described as a "Gift of the Hidden Nile"
 or a "Sovereign’s Mercy." It was likely used as a ceremonial
 drought-prevention tool for royal gardens or religious rituals.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Autonomous Water Manifestation. The object generates
                      fresh water within its ceramic basin without an
@@ -110,9 +110,9 @@ TEMPORAL BEHAVIOR:   Cyclic (Recovery phase).
 
 REALITY INTERACTION: Matter Manifestation / Limited Resource Generation.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 AFD-OB-492 is stored in a standard archival locker at
 ACT-SITE-01-US-W.
@@ -141,9 +141,9 @@ MAINTENANCE CYCLE:       N/A.
 BREACH PROTOCOL:         The object poses no breach threat. If lost,
                          recover via standard inventory search.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 AFD-OB-492 is one of the most stable and reliable anomalies in the
 Facility’s possession. Chemical analysis of the water reveals it is
@@ -154,9 +154,9 @@ Transformation Review: The object has been successfully "Repurposed."
 It no longer sits in a vault but functions as the primary water
 source for the O5-1 Private Office.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 NOTE 001:
 Testing indicates that the jug "Refuses" to pour if the recipient is

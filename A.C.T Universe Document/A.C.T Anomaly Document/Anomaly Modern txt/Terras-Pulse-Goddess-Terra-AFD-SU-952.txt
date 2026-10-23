@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 Terras-Pulse-Goddess-Terra-AFD-SU-952
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                  Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-952
 TITLE I:             Terra's Pulse, Goddess of Instinctual Love
@@ -15,9 +15,9 @@ FIELD TYPE:          SU — Subject
 
 CLEARANCE REQUIRED:  Level 4 / O5-Restricted
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   REACTIVE
 
@@ -32,9 +32,9 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           INVIOLABLE
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 DATE OF DETECTION:   165X (Historical First-Sighting)
 VERIFICATION DATE:   2024-05-12
@@ -51,9 +51,9 @@ CIVILIAN EXPOSURE:   Zero (In-Place forest enclosure since 17th century).
 AMNESTIC DEPLOYED:   N/A.
 NARRATIVE STATUS:    The region is classified as an "Exclusion Zone."
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 AFD-SU-952 is a female humanoid entity of unidentified age and origin.
 The subject possesses a unique chimerical physiology:
@@ -93,9 +93,9 @@ identified as "Instinctual Love."
 As of current reporting, no individual has been selected by the
 subject for this role.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Instinctual Compulsion Field. Forces intense
                      amatory fixation in male observers.
@@ -117,9 +117,9 @@ TEMPORAL BEHAVIOR:   Constant / Historical Persistence.
 REALITY INTERACTION: Biological-Logic Distortion / Neuro-Chemical
                      Overdrive.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 AFD-SU-952 is housed in a "Sylvan-Simulation Suite" at
 ACT-SITE-04-BR-C.
@@ -155,17 +155,17 @@ BREACH PROTOCOL:         In the event of a visual breach, deploy
                          personnel immediately to prevent "The
                          Madness" from settling.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 The "Mural of Terra" suggests that the subject was once worshipped as
 a seasonal goddess. The title "Terra's Pulse" implies a connection to
 the Earth’s own biological rhythms.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                       TRANSFORMATION NOTES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 CURRENT VIABILITY:       INVIOLABLE
 
@@ -175,9 +175,9 @@ The field appears to be tied to her primary metabolic function.
 Neutralizing the effect would likely result in the subject's
 biological death.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 NOTE 001:
 The subject has spent considerable time staring at the ceiling of

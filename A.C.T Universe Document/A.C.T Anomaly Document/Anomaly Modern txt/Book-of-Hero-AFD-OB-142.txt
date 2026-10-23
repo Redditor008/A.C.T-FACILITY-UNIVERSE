@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 Book-of-Hero-AFD-OB-142
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                  Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-OB-142
 TITLE I:             Book of Hero
@@ -15,9 +15,9 @@ FIELD TYPE:          OB — Object
 
 CLEARANCE REQUIRED:  Level 2
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   INERT
 
@@ -32,9 +32,9 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           STABILIZED
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 DATE OF DETECTION:   1998-05-10
 VERIFICATION DATE:   2001-11-12
@@ -55,9 +55,9 @@ NARRATIVE STATUS:    The book was recovered from a shelf containing
                      mundane literature; only AFD-OB-142 demonstrated
                      anomalous traits.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 AFD-OB-142 is a hardcover book measuring 25 cm x 18 cm with a thickness
 of 10 cm. The binding is composed of worn brown leather, and the
@@ -81,9 +81,9 @@ entirely non-hostile. However, it represents a breach of standard
 causality, as the stories appear to describe individuals and
 civilizations from multiple [ BLANK ] planes.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Autonomous Narrative Inscription. The subject
                      spontaneously generates new text and illustrations.
@@ -102,9 +102,9 @@ TEMPORAL BEHAVIOR:   Cyclic (Manifestation window 1m - 2y).
 REALITY INTERACTION: Narrative Materialization / Spatial Volume
                      Consistency.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 AFD-OB-142 is housed in the Low-Threat Archive at
 ACT-SITE-03-JP-E (Kurokawa Archive Node).
@@ -135,9 +135,9 @@ MAINTENANCE CYCLE:       N/A.
 BREACH PROTOCOL:         The subject poses no physical breach threat.
                          If lost, recover via inventory audit.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 Research into AFD-OB-142 focuses on the "Source of the Stories." Unlike
 the Dramatugy Script (AFD-715), the Book of Hero does not
@@ -149,7 +149,7 @@ that the story count continues to rise suggests that "Heroism" is an
 active, recurring constant in reality.
 
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 NOTE 001:
 The 1,000th story, manifested in 2004, bore a striking resemblance

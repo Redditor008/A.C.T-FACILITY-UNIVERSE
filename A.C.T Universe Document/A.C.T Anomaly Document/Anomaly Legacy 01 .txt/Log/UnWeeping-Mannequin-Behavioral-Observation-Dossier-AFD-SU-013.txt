@@ -1,10 +1,10 @@
 A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
 UnWeeping-Mannequin-Behavioral-Observation-Dossier-AFD-SU-013
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
              A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-013
 TITLE I:             UnWeeping Mannequin
@@ -23,9 +23,9 @@ CONTAINMENT SITE:    ACT-SITE-01-US-W — Redwood Veil Complex
 ARCHIVE STATUS:      Active / Low-to-mid threat humanoid object containment
 DOSSIER STATUS:      Open / Social-emotional assessment archived
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 This dossier belongs to A.C.T Log Category VIII — Behavioral & Observation
 Dossier. The document may contain multiple related behavioral, social,
@@ -47,9 +47,9 @@ recognition, nonverbal communication, and limited emotional patterning. These
 traits do not prove full sapience, but they require care-based containment
 rather than purely object-based storage.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          DOSSIER SUMMARY
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 AFD-SU-013 is a female dress mannequin-like subject with a featureless face and
 human-like hair. The subject moves only while viewed by a living observer or by
@@ -69,9 +69,9 @@ Current care conclusion:
                      AFD-SU-013 does not need a face to be embarrassed.
                      AFD-SU-013 does not need speech to set boundaries.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                  SECTION 001 — SOCIAL OBSERVATION LOG
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-013/SOC-001
 LOG TYPE:            Social Observation Log
@@ -112,9 +112,9 @@ conversation space, or formal display rather than surveillance.
 RESULT:
 Non-hostile social behavior confirmed under short, respectful observation.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
               SECTION 002 — EMOTIONAL RESPONSE REVIEW
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-013/EMO-001
 LOG TYPE:            Emotional Response Review
@@ -157,9 +157,9 @@ AFD-SU-013 should be treated as emotionally responsive. Containment procedures
 should avoid humiliation, prolonged staring, and unnecessary commentary about
 its featureless face.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                  SECTION 003 — SENTIENCE ASSESSMENT NOTE
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-013/SEN-001
 LOG TYPE:            Sentience Assessment Note
@@ -199,9 +199,9 @@ When uncertainty exists between object protocol and subject-care protocol, use
 subject-care protocol. It is safer, more ethical, and has reduced pursuit-state
 frequency.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                  SECTION 004 — CLOTHING PREFERENCE LOG
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-013/CLT-001
 LOG TYPE:            Clothing Preference Log
@@ -245,9 +245,9 @@ CARE UPDATE:
 Provide sleeved garments only unless testing is approved. Do not offer damaged
 clothing as enrichment.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
               SECTION 005 — NONVERBAL COMMUNICATION TRIAL
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-013/COM-001
 LOG TYPE:            Nonverbal Communication Trial
@@ -299,9 +299,9 @@ PROHIBITED CARDS:
    - pointing finger symbol
    - joke or caricature images
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                     SECTION 006 — HANDLER CARE NOTE
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-013/HND-001
 LOG TYPE:            Handler Care Note
@@ -332,9 +332,9 @@ Helpful phrase for training:
 
 This phrase is not approved for formal signage, but it works on new staff.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 Current evidence supports treating AFD-SU-013 as a socially and emotionally
 responsive subject with partial sentience. The subject's lack of face and speech

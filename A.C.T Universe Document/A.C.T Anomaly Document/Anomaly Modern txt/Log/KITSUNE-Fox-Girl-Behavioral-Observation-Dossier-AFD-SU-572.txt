@@ -1,10 +1,10 @@
 A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
 KITSUNE-Fox-Girl-Behavioral-Observation-Dossier-AFD-SU-572
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
              A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-572
 TITLE I:             KITSUNE, Fox Girl
@@ -26,9 +26,9 @@ DOSSIER STATUS:      Open / Fifty-year observation cycle archived
 OBSERVATION RANGE:   Subject age 232 to 282
 CALENDAR RANGE:      1934 to 1984
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 This dossier belongs to A.C.T Log Category VIII — Behavioral & Observation
 Dossier. It preserves fifty years of social, emotional, and anomalous ability
@@ -49,9 +49,9 @@ semi-extroverted cooperative anomaly over a fifty-year observation period, while
 tracking gradual strengthening of telepathic and low-level telekinetic ability
 with age.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          DOSSIER SUMMARY
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 AFD-SU-572 was 232 years old at initial A.C.T discovery in 1934. At the time,
 the subject was socially withdrawn, temple-bound, and reluctant to engage with
@@ -74,9 +74,9 @@ A.C.T's current interpretation:
                      Kazumi Mori grows stronger when she feels remembered,
                      not when she is pressured to perform.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
              SECTION 001 — LONG-TERM BEHAVIORAL SUMMARY
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-572/LTB-001
 LOG TYPE:            Long-Term Behavioral Summary
@@ -114,16 +114,16 @@ GENERAL ABILITY TREND:
 Her telepathy became less vague and more word-capable. Her telekinesis became
 more precise and stronger. Emotional distress still reduces precision.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
            SECTION 002 — SOCIALIZATION DEVELOPMENT LEDGER
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-572/SOC-001
 LOG TYPE:            Socialization Development Ledger
 CATEGORY:            Behavioral & Observation Dossier
 RANGE:               1934 to 1984
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 SUBJECT AGE:         232
 YEAR:                1934
 STAGE:               Introverted Shrine Withdrawal
@@ -144,7 +144,7 @@ When asked her name, the subject whispered:
 
                      "Kazumi Mori. Do not take the forest out of it."
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 SUBJECT AGE:         237
 YEAR:                1939
 STAGE:               Introverted Shrine Withdrawal / Early Recognition
@@ -161,7 +161,7 @@ Still introverted, but familiar-person recognition established.
 DEVELOPMENT NOTE:
 The subject accepted tea from a non-caretaker for the first recorded time.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 SUBJECT AGE:         242
 YEAR:                1944
 STAGE:               Cautious Recognition
@@ -180,7 +180,7 @@ NOTABLE QUOTE:
 
                      "If you bring food without manners, it arrives tired."
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 SUBJECT AGE:         247
 YEAR:                1949
 STAGE:               Cautious Recognition
@@ -197,7 +197,7 @@ Developing trust through environmental respect.
 DEVELOPMENT NOTE:
 First recorded subject-initiated request.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 SUBJECT AGE:         252
 YEAR:                1954
 STAGE:               Selective Trust
@@ -220,7 +220,7 @@ NOTABLE QUOTE:
 
                      "A forest can move if the roots are carried with apology."
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 SUBJECT AGE:         257
 YEAR:                1959
 STAGE:               Selective Trust
@@ -238,7 +238,7 @@ retreat behavior.
 DEVELOPMENT NOTE:
 First stable two-word telepathic phrase recorded: "door wait."
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 SUBJECT AGE:         262
 YEAR:                1964
 STAGE:               Cooperative Curiosity
@@ -257,7 +257,7 @@ NOTABLE QUOTE:
                      "Loneliness becomes easier when it is allowed to ask if it
                      has relatives."
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 SUBJECT AGE:         267
 YEAR:                1969
 STAGE:               Cooperative Curiosity
@@ -274,7 +274,7 @@ Emerging semi-extroverted behavior in emotionally structured settings.
 DEVELOPMENT NOTE:
 First recorded compassionate social initiation toward unfamiliar personnel.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 SUBJECT AGE:         272
 YEAR:                1974
 STAGE:               Semi-Extroverted Stability
@@ -293,7 +293,7 @@ NOTABLE QUOTE:
                      "I can speak first now. It no longer feels like stepping
                      out during thunder."
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 SUBJECT AGE:         277
 YEAR:                1979
 STAGE:               Semi-Extroverted Stability
@@ -311,7 +311,7 @@ aligns with temple, memory, or care themes.
 DEVELOPMENT NOTE:
 First approved cooperative archive-support activity.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 SUBJECT AGE:         282
 YEAR:                1984
 STAGE:               Semi-Extroverted Stability
@@ -329,9 +329,9 @@ NOTABLE QUOTE:
 
                      "A forest is where many quiet things agree not to be alone."
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
            SECTION 003 — AGE-LINKED ABILITY GROWTH REVIEW
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-572/ABL-001
 LOG TYPE:            Age-Linked Ability Growth Review
@@ -421,9 +421,9 @@ AFD-SU-572's powers grow slowly and remain low-to-moderate. She is not a combat
 psionic asset. She is a long-lived subject whose abilities mature with trust,
 ritual stability, and age.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
              SECTION 004 — TEMPLE OFFERING RESPONSE LOG
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-572/OFR-001
 LOG TYPE:            Temple Offering Response Log
@@ -469,9 +469,9 @@ CARE DIRECTIVE:
 Offering protocol is not optional decoration. It is part of containment and
 wellness maintenance.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
               SECTION 005 — HANDLER RELATIONSHIP NOTES
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-572/HND-001
 LOG TYPE:            Handler Relationship Notes
@@ -502,9 +502,9 @@ Approved staff reminder:
 
                      Semi-extrovert does not mean always available.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
            SECTION 006 — SEMI-EXTROVERSION ASSESSMENT
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-572/SOC-002
 LOG TYPE:            Semi-Extroversion Assessment
@@ -541,9 +541,9 @@ Do not use ability growth as justification for increased testing. Her powers
 strengthened because trust improved. Excessive testing will reverse that
 condition.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 The fifty-year observation cycle confirms that AFD-SU-572's socialization and
 ability development are linked. The subject's telepathic and telekinetic powers

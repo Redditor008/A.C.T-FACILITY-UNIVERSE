@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 OBSERVING-BIRD-AFD-CH-014
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-CH-014
 TITLE I:             OBSERVING BIRD
@@ -15,9 +15,9 @@ FIELD TYPE:          CH — Cosmic Hazard
 
 CLEARANCE REQUIRED:  Level 5
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   UNDISCLOSED
 
@@ -32,9 +32,9 @@ SUB-THREAT:          BENEFICIAL
 TRANSFORMATION
 VIABILITY:           INVIOLABLE
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 DATE OF DETECTION:   1962-09-27
 VERIFICATION DATE:   1962-10-03
@@ -52,9 +52,9 @@ CIVILIAN EXPOSURE:   None confirmed
 AMNESTIC DEPLOYED:   No
 NARRATIVE STATUS:    Internal only / sealed cosmic hazard record
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 AFD-CH-014 is a small bird-like cosmic unknown entity measuring approximately
 30 cm from beak to tail. The entity's coloration is bright white and golden
@@ -96,9 +96,9 @@ that the entity acts from compassion, protection, morality, or alliance with
 humanity. It observes, then it judges. The judgment happens according to a
 standard A.C.T does not understand.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Apocalyptic anomaly judgment. AFD-CH-014 identifies,
                      observes, and judges anomalies with credible apocalyptic
@@ -128,9 +128,9 @@ TEMPORAL BEHAVIOR:   Intermittent / event-responsive / judgment marks persist
 REALITY INTERACTION: Cosmic Judgment Logic / Apocalyptic Suppression / Unauthorized
                      Anomaly Marking / Archive-Independent Classification.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                           THE JUDGE MARK
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 FORMAL NAME:         The Judge Mark
 ARCHIVE SYMBOL:      JUDGE-GW-014
@@ -148,7 +148,7 @@ first.
 STANDARD VISUAL SCHEMA:
 
                          ◜ │ ◝
-                       ═══ ○ ═══
+                       --- ○ ---
                          ╲ │ ╱
                           ╲│╱
 
@@ -176,9 +176,9 @@ localized reality correction. If removed from a surface layer, it reappears on
 the next stable layer. If the marked body changes form, the mark relocates to
 the form's most continuous identity-bearing structure.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES — ENTITY BEHAVIOR
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 OBSERVED BEHAVIORAL SEQUENCE:
    1. AFD-CH-014 manifests silently within observation range of a qualifying
@@ -214,9 +214,9 @@ Recovered line from blank notepad test:
 
                      "A witness is not a judge because it wishes to be useful."
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 AFD-CH-014 cannot be conventionally contained. All procedures are observation,
 non-interference, and post-judgment documentation protocols.
@@ -270,9 +270,9 @@ IN BREACH IF IT:
    [x] Other: Manifests publicly, marks an anomaly without A.C.T control, or
               writes in non-A.C.T records concerning apocalyptic subjects
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 AFD-CH-014 occupies a unique position in A.C.T classification logic. It is small,
 quiet, nonviolent, and apparently beneficial in effect, yet it interacts with
@@ -296,9 +296,9 @@ containment barriers, and direct requests for help. It is not cruel in any
 observable emotional sense. It simply does not care about suffering unless that
 suffering is relevant to its judgment.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                       TRANSFORMATION NOTES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 TRANSFORMATION ATTEMPT
 STATUS:              Prohibited
@@ -316,9 +316,9 @@ is prohibited.
 Research is limited to observation, post-event mark analysis, and comparison of
 marked versus unmarked apocalyptic escalation timelines.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 NOTE 001:
 AFD-CH-014 has perched once on the exterior door of a TIAMAT-class containment

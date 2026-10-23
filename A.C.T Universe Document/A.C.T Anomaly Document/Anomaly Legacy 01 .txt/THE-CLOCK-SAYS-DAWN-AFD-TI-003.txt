@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 THE-CLOCK-SAYS-DAWN-AFD-TI-003
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-TI-003
 TITLE I:             THE CLOCK SAYS DAWN
@@ -15,9 +15,9 @@ FIELD TYPE:          TI — Time
 
 CLEARANCE REQUIRED:  Level 3
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   REACTIVE
 
@@ -32,9 +32,9 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           NEUTRAL
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 DATE OF DETECTION:   1998-11-03
 VERIFICATION DATE:   1998-11-12
@@ -52,9 +52,9 @@ AMNESTIC DEPLOYED:   Yes
 NARRATIVE STATUS:    Controlled as hereditary cardiac failure and auction
                      house liability suppression
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 AFD-TI-003 is an antique grandfather clock measuring 211 cm in height, 49 cm
 in width, and 31 cm in depth. Its exterior is dark walnut with brass
@@ -94,9 +94,9 @@ ordinary stress marker sufficient to explain the death.
 
 At no confirmed point has AFD-TI-003 physically moved its hands.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Subjective temporal acceleration after fifty-nine seconds
                      of uninterrupted visual fixation on the clock face. The
@@ -143,9 +143,9 @@ NOTE:                Recorded subjects do not always write the exact same
                      near the 02:00 threshold and end with the same terminal
                      phrase.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 AFD-TI-003 is to be stored in a covered object chamber with the clock face
 oriented toward a non-reflective containment wall. The clock face must remain
@@ -197,9 +197,9 @@ IN BREACH IF IT:
    [x] Other: Clock face becomes visible to unauthorized personnel for more
               than forty continuous seconds
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 AFD-TI-003 appears to generate a one-person temporal event without measurably
 altering the surrounding environment. The subject's body remains externally
@@ -220,9 +220,9 @@ than a memetic trigger. Personnel may read the phrase safely after exposure,
 provided the original notepad is handled under standard anomalous document
 protocol.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                       TRANSFORMATION NOTES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 TRANSFORMATION ATTEMPT
 STATUS:              Suspended
@@ -238,9 +238,9 @@ reliable survival outcome after the subject reports visible hand movement.
 Current doctrine treats the fifty-nine second trigger threshold as the only
 safe point of prevention.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 NOTE 001:
 The clock does not announce dawn. The subject writes that it does. This

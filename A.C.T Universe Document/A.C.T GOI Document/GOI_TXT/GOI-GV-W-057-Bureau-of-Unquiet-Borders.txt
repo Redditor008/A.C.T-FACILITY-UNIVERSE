@@ -1,7 +1,7 @@
 A.C.T FACILITY ARCHIVE FILE — GOI GV W 057 Bureau of Unquiet Borders
 ===========================
 GROUP OF INTEREST REGISTRY - BUREAU OF UNQUIET BORDERS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                                                         |
@@ -90,13 +90,13 @@ Specific checkpoint names, treaty signatories, and protected travelers are censo
 Several omissions protect foreign governments that have not publicly admitted anomalous border events. Other omissions
 protect civilians whose legal identity would collapse if the crossing record were exposed.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 IDENTITY AND INSTITUTIONAL FUNCTION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Group Function
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Bureau of Unquiet Borders functions as a transnational border-control and custody-transfer institution for
 abnormal movement. Its repeated activity is the identification, delay, redirection, documentation, and lawful handling
@@ -117,7 +117,7 @@ who signs the transfer, and which story
 reaches the family.
 
 Public Presence and Concealment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Bureau hides inside ordinary border systems. Its personnel appear as customs officials, passport clerks, transit
 police, quarantine inspectors, maritime agents, consular drivers, migration interviewers, railway station staff, port
@@ -130,13 +130,13 @@ quarantine, or rerouting. The delay may save lives. A bus stopped for three hour
 may be waiting for its passenger
 list to stop changing.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Leadership Condition
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Bureau's central leadership is unresolved. Recovered papers refer to the Secretariat of Unquiet Lines, a council
 of unnamed signatories, the Fourth Gate Desk, the Quiet Registrar, Crossing Magistrates, and Quiet-Line Wardens. A.C.T
@@ -148,7 +148,7 @@ active border events. Quiet-Line Wardens control sealed routes and may deny entr
 crossing is unstable. Treaty Clerks preserve documents that ordinary government systems later reject.
 
 Internal Structure
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T assessment identifies these functional layers:
 
@@ -168,7 +168,7 @@ This structure distinguishes the Bureau from a normal government
 department. It has roles built around specific anomalous border failures.
 
 Membership and Recruitment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Membership likely includes civil servants from multiple governments, retired border officers,
 customs investigators, map archivists, language specialists, migration lawyers, quarantine nurses,
@@ -186,13 +186,13 @@ A.C.T has no evidence that the Bureau recruits from A.C.T personnel. It may, how
 recruit people whose ordinary
 government careers were damaged by exposure to border cases that their agencies officially denied.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Stated Belief
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Bureau's most repeated institutional phrase is:
 
@@ -212,7 +212,7 @@ should not pass into private hands
 because no customs system can admit it arrived.
 
 Assessed Objective
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T assesses that the Bureau seeks to preserve legal and operational continuity at unstable
 crossings. It wants cases delayed, named, stamped, witnessed, transferred, quarantined, or returned
@@ -225,7 +225,7 @@ therefore credible. Its authority
 begins where movement crosses a boundary and becomes unquiet.
 
 Anomalous Capability Assessment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Bureau is assigned Handler capability. It does not consistently create anomalous effects, but it handles abnormal
 documents, crossings, vehicles, cargo, persons, and legal states. Confirmed or strongly assessed capabilities include:
@@ -243,7 +243,7 @@ The Bureau is not assessed as Engineering. Its tools appear procedural, jurisdic
 rather than manufactured anomaly devices, though some seals and stamps may require separate object review.
 
 Secrecy and Civilian Exposure
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Bureau is Veiled because it normally hides anomaly work inside delay, paperwork, quarantine, inspection, and
 diplomatic inconvenience. Civilians complain about missed trains, long searches, replacement passports, or unexplained
@@ -256,13 +256,13 @@ when A.C.T and the Bureau dispute custody in front of local police. Civil Covert
 Division must assume that some
 ordinary government records will survive because the Bureau values legal continuity over clean erasure.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Operational Regions
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Bureau operates in border towns, airports, ports, rail crossings, mountain passes, refugee corridors, quarantine
 stations, maritime customs rooms, disputed roads, treaty bridges, and dead corridors where maps disagree with
@@ -274,7 +274,7 @@ The assigned Reach Class is Transnational because the Bureau's records involve m
 systems. A.C.T has not confirmed a truly global reach or a single commanding state.
 
 Known Assets and Holdings
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Known or assessed assets include:
 
@@ -295,7 +295,7 @@ pad. Appropriation of active Bureau tools requires legal review because some sea
 may be recognized by foreign authorities even when A.C.T does not understand them.
 
 Operating Method
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A Bureau intervention begins when a crossing produces contradiction. The traveler may have too many entry stamps,
 none, or a stamp dated after the interview. Cargo may be present without route
@@ -314,13 +314,13 @@ If the bridge appears twice, close the older bridge first.
 A.C.T may receive the result as a handover packet, sealed delay notice, route denial,
 or demand for joint custody.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 HISTORY WITH A.C.T
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Contact History
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T's early contact with the Bureau was fragmented. Field teams encountered helpful customs
 delays, unexplained route closures, missing cargo packets, and witnesses already held in safe
@@ -335,7 +335,7 @@ delay, the crate shed three false ownership manifests and one living insect colo
 Immediate seizure would have assigned legal ownership to a nonexistent importer.
 
 Current Relationship
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The current relationship is WORK. A.C.T and the Bureau exchange limited information during cross-border anomaly
 movement and may conduct joint custody when no ordinary legal path exists. The Bureau
@@ -346,13 +346,13 @@ The relationship remains limited by law and pride. A.C.T does not control Bureau
 demands if it believes containment secrecy would make a person stateless, erase a death, violate treaty obligation, or
 create a border precedent worse than the anomaly itself.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Responsible Jurisdiction
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Primary jurisdiction rests with Intelligence Division, Civil Covert Division, and Recovery Division. Legal Liaison
 attaches when extradition, protected citizenship, refugee status, diplomatic immunity, foreign custody, or state
@@ -364,7 +364,7 @@ not an ordinary transport event. It may involve legal nonarrival, delayed entry,
 physical position changes during the transfer.
 
 Posture Implementation
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T posture is COOPERATED / MONITOR / MISDIRECT. Cooperation is authorized for verified border events, safe witness
 transfer, route stabilization, artifact custody, and cross-border recovery. Monitoring includes quiet-line seals,
@@ -376,7 +376,7 @@ Bureau to cite quarantine, paperwork failure, customs irregularity, weather clos
 explanations preserve life and prevent exposure.
 
 Response Limits and Red Lines
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T will not permit the Bureau to permanently remove A.C.T-held anomalies through treaty language alone. A.C.T will
 not permit foreign detention of witnesses without Subject Care review when the witness is injured, altered, or a
@@ -389,13 +389,13 @@ closure. If a border event is
 still unstable, premature movement may create false citizenship, lost
 custody, duplicate bodies, or cargo ownership by nonexistent actors.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 OPERATIONAL RECORDS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Restricted Operational Extract
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 QUIET-LINE HOLD NOTICE: BUB / FOURTH GATE DESK
 CHECKPOINT: [CENSOR: TREATY-LINE NAME]
@@ -429,13 +429,13 @@ Hold until the third manifest stops naming the dead importer.
 
 The customs tag remains under review because the third manifest dissolved after photocopying. Original ink persists.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Confirmed Operational Facts
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - The Bureau of Unquiet Borders is an outside government or treaty-backed institution, not
 an A.C.T branch.
@@ -449,7 +449,7 @@ jurisdictions.
 - Its work can preserve legal identity and custody continuity during anomalous border events.
 
 Active Intelligence Assessment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T assesses the Bureau as a specialized WORK-relationship government GOI. Its strongest function is legal and
 physical stabilization at borders. It fills a gap between containment, diplomacy, migration law, customs control, and
@@ -462,7 +462,7 @@ Cooperation with one does not
 imply control of the other.
 
 Persistent Questions
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - Which governments signed the original quiet-line instruments, and are all signatories still aware
 of the Bureau?
@@ -479,20 +479,20 @@ contradictory?
 expires?
 
 Intelligence Confidence
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Moderate. Repeated field cooperation, matching seals, witness transfers, and custody outcomes confirm institutional
 reality. Leadership, treaty origin, total signatories, and the mechanism behind quiet-line status remain unresolved.
 Confidence may rise if A.C.T secures an uncensored treaty instrument, conducts a full joint border transfer, or
 verifies the identity of a living Crossing Magistrate authorized by more than one government.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 CROSS-REFERENCE STATUS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Anomaly and Record Relationship
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Bureau of Unquiet Borders is an organization and therefore belongs in the GOI
 archive. Individual border holes,
@@ -501,7 +501,7 @@ persons may require separate anomaly, incident, legal, or access-and-egress reco
 The organization record must not replace custody-transfer documentation.
 
 Related A.C.T Records
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - CONTROLLED RECORD FORM, Group of Interest Registry
 - GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE, Group of Interest Registry
@@ -513,7 +513,7 @@ Related A.C.T Records
 Central Archive routing.
 
 Dual Filing
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Under review. The Bureau is a government GOI, but some of its seals, stamps,
 holding rooms, roads, passports, or
@@ -521,10 +521,10 @@ treaty corridors may require separate filing. Dual filing is mandatory when a cr
 the active transfer, affects citizenship or identity, changes route geography, or admits cargo into A.C.T custody
 without ordinary entry history.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FILE METADATA
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FILE CREATED:            04/01/1981
 FILE LAST UPDATED:       05/05/1986

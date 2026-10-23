@@ -1,10 +1,10 @@
 A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
 Multi-Verse-Vending-Machine-Experiment-Testing-AFD-OB-117
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
               A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 DESIGNATION:         AFD-OB-117
 TITLE I:             Multi-Verse Vending Machine
@@ -23,9 +23,9 @@ CONTAINMENT SITE:    ACT-SITE-01-US-W — Redwood Veil Complex
 ARCHIVE STATUS:      Active / Experimental Procurement
 DOSSIER STATUS:      Open / Purchase History Logged
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 This dossier contains the verified acquisition logs for items purchased
 from AFD-OB-117. Each entry includes the item's appearance on the
@@ -38,9 +38,9 @@ INCLUDED LOG TYPES:
    - [STRUCTURAL DATA OMITTED]
    - Dossier Closing Statement
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                  SECTION 001 — ACQUISITION LOGS
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-117/ACQ-001
 DATE:                2023-04-12
@@ -129,9 +129,9 @@ ANALYSIS:            Non-anomalous in its origin universe. A 90 cm
                      functions as a perpetual battery for low-power
                      containment systems.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 The diversity of items confirms that AFD-OB-117 has access to causal
 realities ranging from the "Fictional-Emergent" (Minecraft/Backrooms)
@@ -141,9 +141,9 @@ The 30-90 cm size rule is absolute. Even the 19-ton Tungsten Sword was
 compressed into a 60 cm frame, proving the machine manipulates atomic
 spacing during the dispensing process.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 NOTE 001:
 The "Almond Water" canteen was analyzed for spatial displacement, but

@@ -486,8 +486,8 @@ and active interruption of the pathways by which fear becomes militant certainty
   Does the network maintain an internal archive of failed eradication attempts, and if
   so,
   where is it protected?
-  How often do cells obtain anomaly intelligence from theft versus observation, coercion, commercial purchase, or
-  accidental leak?
+  How often do cells obtain anomaly intelligence from theft versus
+  observation, coercion, commercial purchase, or accidental leak?
   Has any A-GA cell been knowingly redirected by another GOI toward a target
   whose
   removal benefits an outside actor?

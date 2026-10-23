@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 HIGENMARU-KŌRIN-AFD-OB-221
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                  Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-OB-221
 TITLE I:             HIGENMARU-KŌRIN (緋玄丸 - 紅鱗)
@@ -15,9 +15,9 @@ FIELD TYPE:          OB — Object
 
 CLEARANCE REQUIRED:  Level 4 / Tactical Review Desk
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   REACTIVE
 
@@ -32,9 +32,9 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           CONTAINED-STUDY
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 DATE OF DETECTION:   1978-02-14
 VERIFICATION DATE:   1978-03-02
@@ -54,9 +54,9 @@ NARRATIVE STATUS:    The incident was suppressed as a technical failure
                      of the safe's locking mechanism. Converted to AFD
                      registry in 1985.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 AFD-OB-221 consists of a curved single-handed sword named 緋玄丸
 (HIGENMARU) and its specialized scabbard named 紅鱗 (KŌRIN). The
@@ -95,9 +95,9 @@ wielder to fuel its "Focus" and "Selective Breach" subroutines.
 Prolonged usage (exceeding 30 seconds) results in acute exhaustion,
 syncope, and permanent [ BLANK ] depletion in non-anomalous humans.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Absolute Cutting Force (Crimson Edge). Total negation
                      of material hardness or structural integrity.
@@ -119,9 +119,9 @@ TEMPORAL BEHAVIOR:   Constant.
 REALITY INTERACTION: Causal-Matter Decoupling / Biological Energy
                      Conversion.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 AFD-OB-221 is contained in a "High-Tension Magnetic Locker" at
 ACT-SITE-01-US-W.
@@ -155,9 +155,9 @@ BREACH PROTOCOL:         In the event of an unsheathed breach, utilize
                          lock the blade in space. Do not attempt to
                          parry with standard equipment.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 The HIGENMARU-KŌRIN is an apex example of a "Causal Tool." The onyx
 side suggests a high-level mastery of intent-based reality warping,
@@ -167,9 +167,9 @@ The Blue Wood hilt has been cross-referenced with the Dark World
 (AFD-PL-932) archive; while not an exact match to Pale Wood, it
 shares similar trace elements.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                       TRANSFORMATION NOTES
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 CURRENT VIABILITY:       CONTAINED-STUDY
 
@@ -179,9 +179,9 @@ Slashing" effect can be reverse-engineered for surgical use. If we can
 "Cut" the anomalous growth without harming healthy tissue, subjects like
 Vivienne Argent could potentially be reverted.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 NOTE 001:
 Testing on E-Class subjects resulted in a 100% mortality rate due to

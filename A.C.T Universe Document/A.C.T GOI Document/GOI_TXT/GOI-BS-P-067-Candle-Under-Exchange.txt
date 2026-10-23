@@ -1,7 +1,7 @@
 A.C.T FACILITY ARCHIVE FILE — GOI BS P 067 Candle Under Exchange
 ===========================
 GROUP OF INTEREST REGISTRY - CANDLE-UNDER EXCHANGE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                                                         |
@@ -89,13 +89,13 @@ Safe-house names, child-witness routes, medical suppliers, and living survivor b
 DISCLOSURE LIMIT. Some redactions protect vulnerable civilians from hostile GOIs. Some protect A.C.T operations from
 public reconstruction. Some protect the Exchange from collapse, which could leave active survivors without support.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 IDENTITY AND INSTITUTIONAL FUNCTION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Group Function
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Candle-Under Exchange functions as a mutual-aid and barter market for anomaly survivors. Its repeated activity is the
 movement of goods and services that ordinary systems cannot name: medicine for impossible burns, rooms that do not ask
@@ -117,7 +117,7 @@ This line describes both concealment and ethics. Help is hidden, but the hidden 
 is reserved for the vulnerable.
 
 Public Presence and Concealment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Exchange hides in church kitchens, clinic cupboards, laundromats, hostel notice boards, private message trees,
 coded survivor forums, back rooms of ordinary shops, food-bank tables, school parent groups, night buses, and
@@ -129,13 +129,13 @@ frightened house, folded cards with three wax dots, and chalk arrows that appear
 below eye level. A.C.T has
 confirmed that most marks are non-anomalous. The discipline of marking still makes the network durable.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Leadership Condition
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Candle-Under has no confirmed owner. Local nodes are organized by Table Keepers, Candle Clerks, Debt Witnesses, Route
 Moderators, and Quiet Buyers. A Table Keeper decides what may be exchanged in a
@@ -148,7 +148,7 @@ organized around profit, leverage, and access through anomalous trade. Candle-Un
 is organized around survival, debt limits, and keeping harmful buyers out.
 
 Internal Structure
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T assessment identifies these functional layers:
 
@@ -166,7 +166,7 @@ lawyers;
 This structure establishes the Exchange as a real market GOI rather than loose kindness.
 
 Membership and Recruitment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Membership includes survivors, relatives, sympathetic nurses, social workers, shelter operators, drivers, former
 witnesses, small-shop owners, altered persons, legal helpers, and people who once received aid and returned to provide
@@ -181,13 +181,13 @@ If the official story cannot feed you, bring this card below the candle.
 
 The Exchange does not recruit by promising power. It recruits by making survival reciprocal.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Stated Belief
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Candle-Under believes that survival should not be monopolized by institutions, sold by predators, or priced beyond the
 reach of injured people. Its members accept trade, but they reject certain profits. A
@@ -203,7 +203,7 @@ This rule is not always obeyed perfectly, but it is repeated enough to shape
 the Exchange's identity.
 
 Assessed Objective
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T assesses that Candle-Under seeks to keep survivors alive and outside predatory markets until safer options
 appear. It does not seek broad anomaly control. It does not seek public exposure.
@@ -216,7 +216,7 @@ Intelligence and Containment when witnesses disappear into safe houses, protecti
 testimony circulates in informal channels.
 
 Anomalous Capability Assessment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Candle-Under is assigned Handler capability. It handles anomalous or anomaly-adjacent goods but does not appear to
 manufacture them consistently. Confirmed or strongly assessed exchanged items include:
@@ -233,7 +233,7 @@ manufacture them consistently. Confirmed or strongly assessed exchanged items in
 The Exchange is not assessed as Engineering. It moves, tests, labels, and restricts items sourced from many places.
 
 Secrecy and Civilian Exposure
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Candle-Under is Leaking because help creates records. A survivor card, bad-buyer list, safe-house address, or charm
 instruction can reveal that the official story is incomplete. The Exchange avoids public spectacle, but it cannot help
@@ -243,13 +243,13 @@ This leakage is often stabilizing. A survivor who receives medicine, housing, an
 is less likely to panic publicly or seek help from worse groups. A.C.T must balance
 normalcy control against the cost of destroying a network that reduces civilian harm.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Operational Regions
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Candle-Under operates transnationally wherever survivor need exceeds public support: urban breach zones, disaster
 shelters, refugee routes, port districts, border towns, hospital discharge points, school communities, rural aftermath
@@ -258,7 +258,7 @@ moves through city services, public cover stories, and black-market pressure. Si
 contain hazardous testimony or memory material.
 
 Known Assets and Holdings
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Known or assessed assets include:
 
@@ -279,7 +279,7 @@ A.C.T has recovered tokens, partial ledgers, and safe-house cards. Full boards r
 seized without Subject Care review because they contain active survivor dependencies.
 
 Operating Method
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A typical Exchange transaction begins when a survivor reaches a table through referral. The Table Keeper verifies
 immediate need, the Candle Clerk records minimum information, and the Debt Witness blocks exploitative terms. Goods
@@ -297,13 +297,13 @@ If A.C.T comes, ask whether they brought housing.
 A.C.T classifies the final line as operationally hostile in tone but not proof of
 Negative alignment.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 HISTORY WITH A.C.T
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Contact History
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T first encountered Candle-Under through survivor interviews. Witnesses described receiving medicine, rooms, and
 warning cards from strangers before A.C.T aftercare reached them. Recovery Division later found identical candle
@@ -321,7 +321,7 @@ The recovered ledger included the line:
 They call it evidence after we call it pain.
 
 Current Relationship
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The current relationship is POSITIVE. Candle-Under Exchange reduces harm to survivors and keeps vulnerable people away
 from worse markets. A.C.T may cooperate with table keepers when trust exists, but no
@@ -333,13 +333,13 @@ because its core pattern is survivor aid, even when it obstructs A.C.T interview
 A.C.T must distinguish between the Exchange and Anstrall Market. Both move anomalous goods. Anstrall trades for profit
 and leverage. Candle-Under trades for survival under debt limits.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Responsible Jurisdiction
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Primary jurisdiction rests with Intelligence Division, Subject Care Division, and Civil Covert Division. Recovery
 Division attaches when protected objects, survivor movement, or hostile market interference are active. Medical
@@ -347,7 +347,7 @@ Division attaches when unregistered medicine, salves, or treatment referrals are
 exchange pressure, while Site-specific review applies to regional tables.
 
 Posture Implementation
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T posture is MONITOR / HELP / COOPERATED / APPROPRIATE. Monitoring includes candle tokens, table sites, safe-house
 routes, bad-buyer boards, medicine suppliers, charm labeling, and coded survivor boards. Help is authorized when
@@ -359,7 +359,7 @@ Appropriation is limited to dangerous goods, failed charms, contaminated medicin
 immediate harm. A.C.T may not seize safe-house lists for convenience without Command and Subject Care review.
 
 Response Limits and Red Lines
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T will not permit Candle-Under to sell hazardous objects as harmless charms, hide contagious survivors from
 medical review, move minors without caregiver or Subject Care safeguards, falsify testimony, or route victims to
@@ -368,13 +368,13 @@ exploitative markets. A.C.T will not permit a positive market to become a launde
 A.C.T will also not dismantle a table only because it embarrasses official aftercare. If the Exchange is filling a
 care gap, the gap must be documented and corrected.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 OPERATIONAL RECORDS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Restricted Operational Extract
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 SHELTER TABLE LEDGER: CUE / LOW LIGHT EXCHANGE
 LOCATION: [CENSOR: SURVIVOR BOARD NAME]
@@ -409,13 +409,13 @@ Report red gloves to the back room.
 The bad-buyer card is retained because it shows internal ethical
 enforcement and a direct distinction from predatory anomalous markets.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Confirmed Operational Facts
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - Candle-Under Exchange is an outside survivor-aid market and not an A.C.T body.
 - The Exchange trades aid, medicine, shelter, advice, routes, and limited protective objects among
@@ -426,7 +426,7 @@ behavior.
 - Some exchanged items may be anomalous and require separate custody review.
 
 Active Intelligence Assessment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T assesses Candle-Under as a specialized POSITIVE market GOI. Its strongest value is immediate survivor support in
 the gap between incident and official care. Its strongest risk is uncontrolled movement of people, testimony, and
@@ -439,7 +439,7 @@ back-room table more than A.C.T,
 that fact belongs in the operational assessment rather than being dismissed as civilian disobedience.
 
 Persistent Questions
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - Is there any central table authority, or is Candle-Under only a shared code
 among survivor markets?
@@ -453,7 +453,7 @@ Witness is corrupt or absent?
 underground?
 
 Intelligence Confidence
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Moderate. Recovered ledgers, tokens, survivor statements, bad-buyer cards, and repeated table
 rules confirm organizational reality. Confidence is limited by decentralized structure,
@@ -461,13 +461,13 @@ partial ignorance among participants, and the difficulty of distinguishing ordin
 from informed market nodes. Confidence may rise if A.C.T completes a protected table visit,
 verifies route moderators, or negotiates safe reporting rules with multiple Table Keepers.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 CROSS-REFERENCE STATUS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Anomaly and Record Relationship
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Candle-Under Exchange is an organization and therefore belongs in the GOI archive. Individual
 charms, medicines, boards, tokens, safe houses, routes, ledgers, or testimony packets may
@@ -475,7 +475,7 @@ require separate anomaly, incident, witness, medical, or recovered-document file
 organization record must not replace care review for survivors using the Exchange.
 
 Related A.C.T Records
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - CONTROLLED RECORD FORM, Group of Interest Registry
 - GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE, Group of Interest Registry
@@ -489,16 +489,16 @@ Related A.C.T Records
 under Central Archive routing.
 
 Dual Filing
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Under review. Candle-Under is a market GOI, but specific charms, salves, tokens, boards, or testimony packets may
 require separate filing. Dual filing is mandatory when an exchanged item produces measurable anomalous effect, alters
 memory, protects a house, changes identity records, or remains active after leaving the table system.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FILE METADATA
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FILE CREATED:            04/03/1905
 FILE LAST UPDATED:       22/02/1908

@@ -1,10 +1,10 @@
 A.C.T FACILITY — COMMUNICATION & INTERNAL CORRESPONDENCE DOSSIER
 [ BLANK ]-Private-Note-O5-1-ANM-BL-BL-XXXX
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
         A.C.T FACILITY — COMMUNICATION & INTERNAL CORRESPONDENCE
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 DESIGNATION:         ANM-BL-BL-XXXX
 TITLE I:             [ BLANK ]
@@ -15,16 +15,16 @@ CATEGORY FUNCTION:   Private O5-1 Note / Warning to the Council
 
 CLEARANCE REQUIRED:  O5 Access Only / Anomalous Status Required
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 This dossier contains the corrected instructional note from O5-1
 concerning the specific breach conditions of ANM-BL-BL-XXXX.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                     SECTION 001 — THE HANDWRITTEN NOTE
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 LOG ID:              ANM-XXXX/O5-1-NOTE-CORRECTED
 LOG TYPE:            Urgent Directive
@@ -61,9 +61,9 @@ demands such high-intensity seclusion.
 
 [TRANSCRIPT ENDS]
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 MANDATORY O5-1 DIRECTIVE:
                      ONLY ANOMALIES MAY ADDRESS THE VOID.

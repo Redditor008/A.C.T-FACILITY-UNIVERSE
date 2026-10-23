@@ -10,7 +10,7 @@ This file is the complete internal archive version of the unfiled intake
 record for ITHYOS. It preserves the raw transition-era language, intake
 framing, and doctrinal significance of UFD-CH-000 in full.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 RAW ENTITY-ANOMALY TRANSITION RECORD
 UFD-CH-000

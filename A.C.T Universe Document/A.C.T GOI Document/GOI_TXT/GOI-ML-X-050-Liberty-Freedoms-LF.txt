@@ -1,7 +1,7 @@
 A.C.T FACILITY ARCHIVE FILE — GOI ML X 050 Liberty Freedoms LF
 ===========================
 GROUP OF INTEREST REGISTRY - LIBERTY FREEDOMS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | GOI DESIGNATION            | GOI-ML-X-050                                                                          |
@@ -87,10 +87,10 @@ hostility is repeatable, technically informed, and aimed at the containment syst
 ==============================================================================
 
 IDENTITY AND INSTITUTIONAL FUNCTION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 An Insurgency of Custody
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Liberty Freedoms is recorded as a large, dispersed insurgency organized around a single institutional
 claim: that
@@ -111,7 +111,7 @@ end. A.C.T assesses that this
 refusal is both sincere ideology and useful recruiting ambiguity.
 
 Public Presence and Concealment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 L.F. maintains no legal headquarters, no registered identity, and no public leadership. Its material circulates under
 shifting mastheads, most commonly the Open Hand, a name its cells use for leaflets,
@@ -134,10 +134,10 @@ report.
 ==============================================================================
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Dispersed Revolutionary Structure
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 L.F. is assessed as a network of semi-independent cells bound by a shared doctrine
 and by a thin strategic layer of
@@ -168,7 +168,7 @@ suggest L.F. changes its own terminology deliberately, and that a captured
 record may use older names to mislead analysis about a cell's current role.
 
 Leadership Condition
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 No universally verified leader or command body has been identified. Intelligence Division assesses that L.F. is
 directed by a small rotating council of founding defectors and regional commanders, but the assessment rests on
@@ -182,7 +182,7 @@ command layer from defector knowledge and shared doctrine. A single arrest, howe
 that treats its ideology as a system of custody it has already escaped.
 
 Membership and Recruitment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Membership is assessed as large and diverse. The network recruits where real grievance exists: former personnel
 alienated by discipline or by incidents they were ordered to conceal, civilians displaced by containment activity,
@@ -201,10 +201,10 @@ moved into support or publication roles rather than released, because a released
 ==============================================================================
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Custody Doctrine
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 L.F.'s central claim is that A.C.T's entire institutional form - containment chambers, Transformation doctrine,
 secrecy oaths, amnestics, the classification of beings as files - is a system of
@@ -231,7 +231,7 @@ without accepting the distinctions - danger, stability, consent,
 containment necessity - that make responsible response possible.
 
 Assessed Objective
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T assesses that L.F.'s operational objective is narrower and more dangerous than its public doctrine. The network
 does not appear to seek the immediate revelation of all anomalous activity, which would
@@ -254,7 +254,7 @@ next publication;
 its own former staff.
 
 Anomalous Capability Assessment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 L.F. is classified HANDLER rather than ENGINEERING because its demonstrated strength is the seizure, secure transport,
 and temporary care of anomalies, not the fabrication of new anomalous systems. Its handling capacity is assessed to
@@ -272,7 +272,7 @@ institutional exaggeration. A.C.T has recovered subjects that L.F. abandoned, an
 well-intentioned but incorrect care. The insurgency's confidence in its own handling exceeds its verified capacity.
 
 Secrecy and Civilian Exposure
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 L.F.'s secrecy risk is classified EXPOSURE-ACTIVE because publication is not a by-product of its activity; it is a
 primary method. The network prepares leaks with the care of an archive: documents are
@@ -293,10 +293,10 @@ potential leak event regardless of whether material was published.
 ==============================================================================
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Operational Reach
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 L.F. is classified TRANSNATIONAL because its method depends on moving across the jurisdictional seams between Sites
 and between nations. Corridor cells operate along transport junctions, coastal routes, rail seams, and the
@@ -309,7 +309,7 @@ holding, records couriers, and personnel movement. This is consistent with a net
 from inside and attacks the parts that move.
 
 Known Assets and Holdings
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Confirmed and assessed assets include:
 
@@ -332,7 +332,7 @@ is itself an operational fact: L.F. cannot be
 ended by locating a headquarters because it has structured itself not to need one.
 
 Operating Method
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 L.F. operations follow a repeating pattern that distinguishes the network from other hostile GOIs:
 
@@ -354,10 +354,10 @@ signature that both preserves the network's doctrine and complicates A.C.T recov
 ==============================================================================
 
 HISTORY WITH A.C.T
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Record Formation and Continuing Hostility
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The earliest reliable records do not preserve a single clean founding event. L.F. first
 appears in the archive as a
@@ -375,7 +375,7 @@ jurisdictional dispute. It is a continuing clash between a network that defines 
 institution that defines containment as responsibility.
 
 Distinction from Other GOIs
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 L.F. is not A-GA: it does not seek the destruction of anomalies and has
 fought A-GA cells over seized subjects. It is
@@ -390,10 +390,10 @@ Facility but reproduce its relationship to the anomalous world.
 ==============================================================================
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Posture: Contain / Dismantle / Infiltrate
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The standing posture toward Liberty Freedoms is CONTAIN / DISMANTLE / INFILTRATE. Containment applies to active cells,
 carried subjects, publication relays, and leak channels. Dismantling applies to the network's ability to regenerate
@@ -410,7 +410,7 @@ capacity while denying it the responses it needs: confirmation of leaked content
 that the Facility is what L.F. says it is.
 
 First Response to a Suspected L.F. Action
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 When a suspected L.F. operation is detected, the responsible command body must determine whether the immediate danger
 is to a subject, a transport route, personnel, a publication boundary, or a civilian
@@ -436,7 +436,7 @@ doctrine is built to absorb such arguments as confirmation. Field communication 
 civilian protection, and control of the active threat.
 
 Site Responsibilities
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - ACT-SITE-01-US-W / Redwood Veil Complex leads urban interdiction, transport-seam surveillance, publication-relay
 tracing, and investigation of market or logistics contacts that may serve L.F. corridors.
@@ -457,7 +457,7 @@ the Site network must act as
 one containment body rather than as isolated territorial offices.
 
 Defector and Returnee Handling
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Former A.C.T personnel are L.F.'s most dangerous asset and its most fragile one. Returnees and captured defectors must
 not be assumed to be ideologically committed. The network recruits through staged truth and voluntary commitment, and
@@ -471,7 +471,7 @@ member's own account. Recovered material is divided into immediate safety, intel
 L.F. material is repurposed by Transformation Division without O5-level exception.
 
 Response Limits and Red Lines
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The following are standing red lines for all L.F. response:
 
@@ -490,10 +490,10 @@ or unable to consent to the network's offer.
 ==============================================================================
 
 OPERATIONAL RECORDS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Transport Interception and Subject Recovery - Restricted Extract
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A transport leg was intercepted at a scheduled rest point by a cell that
 produced Facility-format identification and
@@ -510,7 +510,7 @@ that L.F. maintains current inside
 knowledge and that its first move is the offer, not the assault.
 
 Pre-Release Publication Seizure - Restricted Extract
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Site 03's document-warfare unit detected assembly of a publication built from archived fragments: an outdated site
 overview, a declassified personnel list, and a transport manifest stripped of current data. The assembled document was
@@ -525,10 +525,10 @@ and weapon, and that the network's most effective leaks are those it never has t
 ==============================================================================
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 What Makes Liberty Freedoms Persistent
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 L.F. persists because the containment system gives it constant raw material: real documents, real routes, real
 grievances, and real subjects held behind secrecy that ordinary people cannot verify. Every necessary concealment can
@@ -541,7 +541,7 @@ narrow and disciplined truth, protection of subjects and civilians, and active
 interruption of the pathways by which verifiable grievance becomes armed certainty.
 
 Current Intelligence Priorities
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - identify corridor seams shared by more than one cell and the sympathizers who
 keep them open;
@@ -559,7 +559,7 @@ target whose removal serves an outside
 interest.
 
 Unresolved Conditions
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - Does a founding council exist, or is the network's coherence maintained entirely by
 shared doctrine and defector
@@ -577,7 +577,7 @@ on seizure and diversion?
 - What event would push L.F. from controlled rupture toward uncontrolled revelation?
 
 Intelligence Confidence
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Moderate. The network's existence, defector origin, doctrine, publication method, and corridor dependence are
 confirmed. The founding council, live membership scale, number and condition of carried subjects, and the boundary
@@ -585,7 +585,7 @@ between doctrine and knowledge remain unresolved. Confidence will increase throu
 defector interviews, recovered-subject debriefs, and publication-source forensics.
 
 Standing Restriction Order
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 No A.C.T unit is authorized to negotiate the release of a contained anomaly to
 gain L.F. cooperation, to publicly
@@ -599,10 +599,10 @@ denial.
 ==============================================================================
 
 CROSS-REFERENCE STATUS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Anomaly and Record Relationship
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 No single anomaly is permanently assigned to the L.F. record. The network's danger is
 its repeatable relationship to
@@ -618,7 +618,7 @@ evidence shows that a cell, corridor practice, or carried subject has altered th
 organizational dossier and any subject file must remain distinct.
 
 Related A.C.T Records
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - GOI Registry and External Threat Doctrine Archive - classification and hostile-posture authority;
 - Site Map and Jurisdiction Doctrine - cross-site response assignment and corridor-seam responsibility;
@@ -630,7 +630,7 @@ and Civil Covert responsibilities;
 ==============================================================================
 
 FILE METADATA
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FILE CREATED:            13/06/1959
 FILE LAST UPDATED:       21/05/1976

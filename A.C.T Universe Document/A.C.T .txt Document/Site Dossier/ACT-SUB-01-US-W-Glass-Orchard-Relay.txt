@@ -10,7 +10,7 @@ Dossier Number: SUB-SITE-DOSSIER-01-US-W
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------+
 
 Archive Note
 
@@ -31,7 +31,7 @@ what it does, why it exists as a sub-site rather than a site, how
 it is
 governed, and how it supports the parent command.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------+
 
 1. Registry Identity Summary
 
@@ -51,7 +51,7 @@ sub-site
 classification.
 Security Notes: Strictly denied long-term holding authority for high-threat anomalies.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------+
 
 2. Dossier Purpose
 
@@ -65,7 +65,7 @@ The relay is the pressure valve. It holds what can safely wait, processes
 witnesses who must not reach the core, relays archive material that does not
 require deep storage, and stages overflow until the parent site has capacity.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------+
 
 3. Site Profile and Cover Architecture
 
@@ -103,7 +103,7 @@ value lies in being narrow enough to be trusted with the flow that a
 full
 site cannot absorb.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------+
 
 4. Historical Foundation and Evolution
 
@@ -130,7 +130,7 @@ Today the relay functions as:
   parent site's archive
 — an overflow intake point for the parent site's containment congestion
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------+
 
 5. Command and Governance
 
@@ -162,7 +162,7 @@ The relay's command limits are explicit and non-negotiable:
 
 Material that exceeds these limits moves to the parent site.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------+
 
 6. Divisional Presence and Daily Function
 
@@ -193,7 +193,7 @@ The relay provides recovery support logistics: staging space, transport
 coordination, and temporary holding for recovery teams operating in the
 parent site's jurisdiction.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------+
 
 7. Physical Plant and Internal Floor Register
 
@@ -218,7 +218,7 @@ anomalies awaiting transfer to the parent site. During a breach response,
 closing F-1 to the outside seals this level. The level is designed for
 days-to-weeks holding, never long-term residency.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------+
 
 8. Containment and Operational Doctrine
 
@@ -250,7 +250,7 @@ The relay is a node in the parent site's transport network: material arrives
 from field operations, is staged briefly, and moves onward to Redwood Veil's
 core or to specialized destinations across the Facility network.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------+
 
 9. Resident Holdings
 
@@ -263,7 +263,7 @@ The relay is strictly denied authority over high-threat anomalies. Any
 high-threat material that reaches the relay is contained in transit only —
 under maximum procedural restriction — until the parent site assumes control.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------+
 
 10. Secrecy and Security Posture
 
@@ -279,7 +279,7 @@ Security procedures include:
 - transport coordination under cover company identities
 - personnel rotation drawn from the parent site
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------+
 
 11. Personnel and Operational Life
 
@@ -295,7 +295,7 @@ A working day at the relay may include:
 - coordinating transport logistics with Redwood Veil
 - maintaining the holding level's short-term systems
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------+
 
 12. Incident Archive
 
@@ -305,7 +305,7 @@ overflow, and transport coordination issues. Material that exceeds the
 relay's capacity or its authority is recorded and transferred, and the relay's
 history is largely the history of successful redirection.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------+
 
 13. Current Status and Projected Development
 
@@ -318,7 +318,7 @@ development priorities include:
 The relay's function — to be the western apparatus's quiet overflow hand —
 is not expected to change.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------+
 
 14. Cross-Referenced Files
 
@@ -327,7 +327,7 @@ is not expected to change.
 - ACT-SITE-01-US-W — Redwood Veil Complex Site Dossier
 - Parent command: ACT-SITE-01-US-W Annex Register (clearance-gated)
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------+
 
 Archive Closing
 

@@ -1,10 +1,10 @@
 A.C.T FACILITY — RESEARCH & ANALYSIS DOSSIER
 The-Countess-of-Horn-100-Year-Consultation-Dossier-AFD-SU-009
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
               A.C.T FACILITY — RESEARCH & ANALYSIS DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-009 / AFD-OB-021
 TITLE I:             The Countess of Horn
@@ -25,9 +25,9 @@ CONTAINMENT SITE:    In-Place / Siena Estate Annex (Italy)
 ARCHIVE STATUS:      Active / High-Level Diplomatic Continuity
 DOSSIER STATUS:      Open / Institutional Alignment Verified
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 This dossier documents the strategic and intellectual alignment between
 the A.C.T Facility and AFD-SU-009. It chronicles a century of formal
@@ -41,9 +41,9 @@ INCLUDED LOG TYPES:
    - Senior Researcher Aris Thorne: Peer-Review Note
    - Dossier Closing Statement
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                SECTION 001 — THE ERA OF MUTUAL RECOGNITION
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-009/HIS-100
 RANGE:               1926 → 1950
@@ -57,9 +57,9 @@ The subject, AFD-SU-009, was identified as a peer in longevity. The
 early consultation focused on the reconciliation of the Founders'
 material physics with the subject's memory of the "Old Blood."
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 THE 1950 TRANSITION:
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 The shift from the Entity Research Exploration (ERE) to the modern
 Anomaly Containment Transformation (ACT) was finalized during this era.
 The O5 provided the technical mastery of RSA (Item 01) and
@@ -71,9 +71,9 @@ The relationship was, and remains, a professional exchange of
 blueprints. The O5 build the engine; the subject provides the map of
 the terrain.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                  SECTION 002 — DOCTRINAL SYNTHESIS
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 The following institutional standards were codified through the
 synthesis of O5 field data and the subject's historical accounts.
@@ -97,9 +97,9 @@ III. THE ARCHITECTURE OF THE LATTICE
        identifying areas where reality possesses natural density. This
        governed the placement of ACT-SITE-01 through 05.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                  SECTION 003 — ARCHIVIST'S REVIEW
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-009/ACT-RVW
 AUTHOR:              ACT Lead Alejandra Ibarra
@@ -113,9 +113,9 @@ immortality, and the subject provides the weight of historical
 immortality. The A.C.T Facility is the structure they built to hold
 both."
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                  SECTION 004 — THE THORNE PERSPECTIVE
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-009/THORNE-01
 AUTHOR:              Aris Thorne (SR-412)
@@ -130,9 +130,9 @@ Boundary' that we enforce. We are the keepers of her seclusion, and in
 return, she is the keeper of our ancestry. It is a stable,
 professional agreement."
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 MANDATORY BRIEFING PHRASE:
                      The O5 are the Hands.

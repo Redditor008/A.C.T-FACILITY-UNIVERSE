@@ -1,10 +1,10 @@
 A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
 Shadow-Shark-Experiment-Testing-Dossier-AFD-SU-010
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
              A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-010
 TITLE I:             Shadow Shark
@@ -23,9 +23,9 @@ JURISDICTIONAL AUTHORITY:  Intangible Hazard Review / Central Archive
 ARCHIVE STATUS:      Active / intangible-hazard restricted
 DOSSIER STATUS:      Open — diffuse-light observation mode
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
                            CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 This dossier belongs to A.C.T Log Category IV — Experiment & Testing Dossier.
 AFD-SU-010 is an airborne, shark-shaped shadow, approximately 2.7 m from snout
@@ -51,9 +51,9 @@ To map what the shadow will eat, what it can eat, and what it
 has learned, so
 that its only physical function is exercised in a direction A.C.T controls.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
    SECTION 001 — VISUAL-SILHOUETTE OBSERVATION AND TRACKING PROTOCOL
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-010/EXP-001
 DATE:                2021-05-14 (detection) — ongoing
@@ -80,9 +80,9 @@ TRACKING DISCIPLINE:
      removal, and corridor sealing until Intangible Hazard Review confirms
      recovery
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
          SECTION 002 — FEED-RESPONSE TESTING — APPROVED MATTER
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-010/EXP-002
 DATE:                Feeding records — every 10 days
@@ -110,9 +110,9 @@ KNOWN FEEDING RESPONSES:
    - human skin contact: shallow bite behavior confirmed; full human
      ingestion not tested and not authorized
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
               SECTION 003 — CONSUMPTION-BOUNDARY MAPPING
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-010/EXP-003
 DATE:                Test series including Test 010-C
@@ -136,9 +136,9 @@ shadow rose off the floor, crossed the arm's shadow, and covered the feed
 block from below. The feed vanished. The robotic arm was not damaged except
 for loss of paint on the portion shadowed by the mouth.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
                 SECTION 004 — CONDITIONING OBSERVATION
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-010/EXP-004
 DATE:                Ongoing — behavioral records
@@ -158,9 +158,9 @@ shown repeated interest in artificial shark silhouettes and will attempt to
 circle or bite them. This complicates tracking and is not considered
 enrichment. The window-circling behavior is likewise not to be rewarded.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
               SECTION 005 — RECOVERY AND NARRATIVE REVIEW
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-010/EXP-005
 DATE:                2021 — Operation Black Fin Intake review
@@ -186,9 +186,9 @@ NARRATIVE AND RECOVERY NOTES:
      staff member stated, "It was swimming in the place where light forgot to
      be floor."
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
                   SECTION 006 — CLOSING TESTING NOTE
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-010/EXP-CLS-001
 DATE:                2026-09-08

@@ -1,10 +1,10 @@
 A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
 DONT-DENIED-Experiment-Testing-Dossier-AFD-IH-721
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
              A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-IH-721
 TITLE I:             DONT DENIED
@@ -21,9 +21,9 @@ JURISDICTIONAL AUTHORITY:  Kurokawa Command / Info-Hazard Desk
 ARCHIVE STATUS:      Active / Info-hazard restricted
 DOSSIER STATUS:      Open — controlled visual-exposure trials on file
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
                            CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 This dossier belongs to A.C.T Log Category IV — Experiment & Testing Dossier.
 AFD-IH-721 is a 10 cm cubic block that enforces "Absolute Descriptive
@@ -48,9 +48,9 @@ To map the exact boundaries of the enforced-veracity effect, confirm its
 persistence, and assess whether controlled exposure can calibrate personnel
 against hostile deceptions in the 715-Series.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
       SECTION 001 — VISUAL-EXPOSURE PROTOCOL AND CONSTRAINT TRIAL
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-IH-721/EXP-001
 DATE:                1994-03-15 (verification) — ongoing
@@ -73,9 +73,9 @@ OBSERVED CONSTRAINTS:
    - Content: physical properties only (look, material, shape)
    - No physical danger observed in any trial
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
        SECTION 002 — THE ONE-MILLION-DOLLAR MISDESCRIPTION TRIAL
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-IH-721/EXP-002
 DATE:                On file
@@ -94,9 +94,9 @@ INTERPRETATION: The enforced-veracity constraint outranks financial incentive,
 personal interest, and the subject's own will. It is not a social compulsion;
 it is a hardware limit on the reporting of a specific data-set.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
                 SECTION 003 — DESCRIPTIVE-LIMIT MAPPING
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-IH-721/EXP-003
 DATE:                Multiple sessions
@@ -117,9 +117,9 @@ does not enforce honesty about unrelated matters, and it does not compel the
 subject to volunteer the truth unprompted. It only makes the truth the only
 available description.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
             SECTION 004 — POST-EXPOSURE PERSISTENCE REVIEW
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-IH-721/EXP-004
 DATE:                Standing review
@@ -142,9 +142,9 @@ OPERATIONAL CONSEQUENCE:
    - Any visual breach is debriefed so the "Undeniable Truth" does not
      interfere with unrelated A.C.T secrecy protocols
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
              SECTION 005 — TRAINING-TOOL FEASIBILITY STUDY
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-IH-721/EXP-005
 DATE:                Open investigation
@@ -166,9 +166,9 @@ permanence — is the property that makes it dangerous to teach with. A recruit
 who cannot be deceived about the cube has not learned discernment; they have
 learned one fact very hard.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
                 SECTION 006 — CLOSING TESTING STATEMENT
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-IH-721/EXP-CLS-001
 DATE:                2026-09-08

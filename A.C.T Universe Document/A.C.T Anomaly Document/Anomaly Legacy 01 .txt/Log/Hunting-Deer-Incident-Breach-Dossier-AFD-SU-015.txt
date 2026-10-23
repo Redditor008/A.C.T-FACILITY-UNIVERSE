@@ -1,10 +1,10 @@
 A.C.T FACILITY — INCIDENT & BREACH DOSSIER
 Hunting-Deer-Incident-Breach-Dossier-AFD-SU-015
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                 A.C.T FACILITY — INCIDENT & BREACH DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-015
 TITLE I:             Hunting Deer
@@ -23,9 +23,9 @@ CONTAINMENT SITE:    In-Place / ACT-SUB-01-US-W oversight relay
 ARCHIVE STATUS:      Active / Wilderness exclusion protocol
 DOSSIER STATUS:      Open / Incident record archived
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 This dossier belongs to A.C.T Log Category IV — Incident & Breach Dossier. The
 document may contain multiple related incident, breach, security, response, and
@@ -46,9 +46,9 @@ transformation behavior and the danger of trusting early "red-eyed deer" reports
 This dossier explains why all future patrols require group movement, direct
 visual-contact discipline, and rejection of the false normal-deer description.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                          DOSSIER SUMMARY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 AFD-SU-015 is a predatory subject capable of presenting at distance as an
 ordinary deer with deep red eyes. This presentation is false or incomplete. The
@@ -66,9 +66,9 @@ accepted the false description too readily and allowed an armed field volunteer
 to break visual contact with the group. The resulting event established the
 current no-solo-entry and no-solo-pursuit doctrine.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                     SECTION 001 — INCIDENT SUMMARY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-015/INC-001
 LOG TYPE:            Incident Summary
@@ -114,9 +114,9 @@ RESULT:
 Field doctrine updated. All solo pursuit and flanking maneuvers prohibited.
 False-description warning added to primary anomaly file.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                     SECTION 002 — FIELD TEAM TIMELINE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-015/TLN-001
 LOG TYPE:            Field Team Timeline
@@ -177,9 +177,9 @@ orders withdrawal. No pursuit authorized.
 
 14:51 — Team exits inner perimeter. Exclusion boundary expanded by 1.5 km.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                   SECTION 003 — RADIO TRANSCRIPT EXTRACT
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-015/COM-001
 LOG TYPE:            Security / Radio Transcript
@@ -237,9 +237,9 @@ incomplete and lacks normal breath pattern. It may indicate limited mimicry or
 acoustic distortion near AFD-SU-015. This behavior is not yet confirmed as a
 primary property.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
           SECTION 004 — FALSE-DESCRIPTION CONTAMINATION REVIEW
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-015/REV-001
 LOG TYPE:            False-Description Contamination Review
@@ -276,9 +276,9 @@ APPROVED CORRECTION PHRASE:
                      It is not a deer that becomes dangerous.
                      It is a predator that waits to be called a deer.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                  SECTION 005 — SURVIVOR DEBRIEF EXTRACT
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-015/DEB-001
 LOG TYPE:            Personnel Debrief Extract
@@ -332,9 +332,9 @@ Technician Ellison's phrase "same invitation" has been retained in training
 material. It accurately describes AFD-SU-015's lure behavior without relying on
 the false deer framing.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                  SECTION 006 — PROCEDURE REVISION NOTICE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-015/PRC-001
 LOG TYPE:            Procedure Update Notice
@@ -367,9 +367,9 @@ TRAINING PHRASE:
 IMPLEMENTATION STATUS:
 Approved. Added to primary file and field training brief.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 Incident 015-A established that AFD-SU-015's most dangerous stage begins before
 transformation. The threat is not only the active predator form. The threat is

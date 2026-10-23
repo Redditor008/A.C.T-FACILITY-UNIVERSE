@@ -1,10 +1,10 @@
 A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
 Gems-of-Change-E-Class-Transmutation-Dossier-AFD-OB-612
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
               A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-OB-612
 TITLE I:             Gems of Change
@@ -23,9 +23,9 @@ CONTAINMENT SITE:    ACT-SITE-01-US-W — Redwood Veil Complex
 ARCHIVE STATUS:      Active / Transmutation Data
 DOSSIER STATUS:      Open / E-Class Transformation Logged
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 This dossier contains the results of Trial 612-E-09, a controlled
 exposure of an E-Class subject to verify the "Perfected DNA" hypothesis
@@ -38,9 +38,9 @@ INCLUDED LOG TYPES:
    - Senior Researcher Aris Thorne: Resonance Commentary
    - Dossier Closing Statement
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
               SECTION 001 — TRIAL 612-E-09 CHRONOLOGY
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-612/TST-E09
 DATE:                2024-04-12
@@ -62,9 +62,9 @@ OBSERVATION:
 [T+05:00] — TRANSFORMATION COMPLETE: Subject has successfully
             transitioned to the functional intersex state.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                  SECTION 002 — ARCHIVIST'S ANALYSIS
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-612/THORNE-05
 AUTHOR:              Aris Thorne (SR-412)
@@ -81,9 +81,9 @@ narrative. We are looking at a tool that believes it is a cure, but
 a
 cure is just another way to edit a person."
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 Trial 612-E-09 confirms that the "Perfected DNA" effect is a consistent
 secondary outcome of the transmutation.

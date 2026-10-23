@@ -88,9 +88,9 @@ effective layer of containment is **Manners.** As Senior Researcher Thorne (SR-4
 Anti Reality Mesh that doesn't require a power supply."*
 
 *   **Physical Containment:** Using "Boxes" (Small, Medium, Massive) to physically isolate an object.
-    **Perceptual Containment:** Using the **ARM (Anti Reality Mesh)** to hide our Sites from the world.
-    **Social Containment:** Using "Politeness Protocols" to ensure that sentient subjects feel like guests rather than
-    prisoners.
+    **Perceptual Containment:** Using the **ARM (Anti Reality Mesh)** to hide our
+    Sites from the world. **Social Containment:** Using "Politeness Protocols" to
+    ensure that sentient subjects feel like guests rather than prisoners.
 
 #### **3. THE DUAL DUTY**
 

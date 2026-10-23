@@ -1,10 +1,10 @@
 A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
 Dream-Eater-THEMESY-Behavioral-Observation-Dossier-AFD-SU-011
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
              A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-011
 TITLE I:             Dream Eater-THEMESY
@@ -23,9 +23,9 @@ CONTAINMENT SITE:    ACT-SITE-03-JP-E — Kurokawa Archive Node
 ARCHIVE STATUS:      Active / Oneiric subject-care restricted
 DOSSIER STATUS:      Open / Observation cycle archived
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 This dossier belongs to A.C.T Log Category VIII — Behavioral & Observation
 Dossier. The document may contain multiple related behavioral, care, routine,
@@ -45,9 +45,9 @@ non-hostile, and unaware of the full effect its feeding has on sleeping subjects
 This dossier also records the difference between ordinary dream feeding and
 nightmare-care feeding.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                          DOSSIER SUMMARY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 AFD-SU-011 is a 2 m aerial whale-like entity that swims through air and feeds
 on
@@ -64,9 +64,9 @@ AFD-SU-011 does not behave like a predator in the usual sense. It approaches
 sleeping subjects softly, avoids loud rooms, retreats from intense light, and
 modifies its feeding when distress is present.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                     SECTION 001 — BASELINE OBSERVATION LOG
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-011/OBS-001
 LOG TYPE:            Baseline Observation Log
@@ -116,9 +116,9 @@ Avoid abrupt metallic sound near the containment suite. The subject does not
 attack when startled, but tracking becomes more difficult while it is partially
 transparent.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                     SECTION 002 — FEEDING BEHAVIOR LOG
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-011/FED-001
 LOG TYPE:            Feeding Behavior Log
@@ -166,9 +166,9 @@ RESULT:
 Ordinary dream feeding confirmed. Post-feeding slumber duration falls within
 expected 72-hour range.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                 SECTION 003 — NIGHTMARE-CARE EVENT LOG
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-011/FED-002
 LOG TYPE:            Nightmare-Care Event Log
@@ -230,9 +230,9 @@ CAUTION:
 This behavior is beneficial in result but not fully controlled. AFD-SU-011 must
 not be treated as an approved medical tool.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                   SECTION 004 — POST-SLUMBER CARE NOTE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-011/CARE-001
 LOG TYPE:            Post-Slumber Care Note
@@ -266,9 +266,9 @@ itself. Interviewers should not pressure them to reconstruct missing dream
 content. In nightmare-care cases, forced reconstruction may restore distress
 without restoring useful information.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                  SECTION 005 — HANDLER OBSERVATION NOTE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-011/HND-001
 LOG TYPE:            Handler Observation Note
@@ -299,9 +299,9 @@ RECOMMENDATION:
 Maintain strict sleep-radius control. Do not allow staff to nap near containment
 because they believe the entity is "nice." Its kindness is not procedure.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 Observation Cycle 011-C supports the current classification of AFD-SU-011 as a
 low-threat but operationally significant oneiric-feeding subject. The entity's

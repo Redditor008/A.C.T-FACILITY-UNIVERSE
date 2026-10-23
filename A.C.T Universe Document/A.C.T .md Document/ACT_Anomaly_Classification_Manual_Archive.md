@@ -514,9 +514,8 @@ Recognized tag families are:
   — loops, time loss, pre-echoes, delay, chronology damage, or predictive contamination. — **SPAT** — nonlocal
   space, thresholds, transit, impossible interiors, distance errors, or spatial instability. **STR** — Structural
   Reality fracture, classification failure, containment-logic failure, observation instability, or archive drift.
-— **COS** — abyssal, divine, world-scale, foundational, cosmic, or origin-level hazards. **SOC / OPR**
-— recruitment, markets, cover risk, GOI interference, handler risk, asset dependency, or institutional
-  exposure.
+  — **COS** — abyssal, divine, world-scale, foundational, cosmic, or origin-level hazards. **SOC / OPR** —
+  recruitment, markets, cover risk, GOI interference, handler risk, asset dependency, or institutional exposure.
 
 Hazard tags should be few, evidenced, and operationally useful. The first tag family should name the most urgent
 containment problem, not the most dramatic aesthetic.

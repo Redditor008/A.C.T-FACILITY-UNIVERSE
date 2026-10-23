@@ -441,8 +441,8 @@ still be able to read the names.
 
  What is the First Shelf: person, room, council, founding ledger, or anomalous archive
  condition?
- Can dawn copies preserve records against 004-series amnestic effects, or only against civic deletion and public
- narrative collapse?
+ Can dawn copies preserve records against 004-series amnestic effects,
+ or only against civic deletion and public narrative collapse?
 — How many preservation houses hold A.C.T-restricted material without declared custody?
  Does opening a witness box change the memory of the reader, the record,
  or

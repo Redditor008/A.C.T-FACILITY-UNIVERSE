@@ -1,10 +1,10 @@
 A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
 The-Glass-Bridge-Protocol-Anny-MOGI-AT-Interaction-AFD-SU-714
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
              A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-714 (Primary) / AFD-SU-005 (Participant)
 TITLE I:             MOGI-AT (Monster Girls-Artificial Friends)
@@ -22,9 +22,9 @@ CONTAINMENT SITE:    ACT-SITE-03-JP-E — Kurokawa Archive Node
 ARCHIVE STATUS:      Active / Anomalous Interaction Approved
 DOSSIER STATUS:      Open / Cooperative Log Archived
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 This dossier documents the first controlled interaction between
 AFD-SU-714 (MOGI-AT) and AFD-SU-005 (Anny). The objective was to
@@ -38,9 +38,9 @@ INCLUDED LOG TYPES:
    - Subject-Care Recommendation
    - Dossier Closing Statement
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                  SECTION 001 — THE FIRST HANDSHAKE
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-714/SOC-002
 DATE:                2026-05-12
@@ -89,9 +89,9 @@ ANNY:                "I have lived in a box for ten years. I find them
 
 [END TRANSCRIPT]
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                  SECTION 002 — THE READING SESSION
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-714/SOC-003
 DATE:                2026-05-14
@@ -116,9 +116,9 @@ the garden is real. I can smell the roses, even though I know they
 are
 just words."
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
              SECTION 003 — SUBJECT-CARE RECOMMENDATION
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-714/HND-002
 AUTHOR:              Dr. Mireya Valcárcel
@@ -135,9 +135,9 @@ sessions are to be held twice weekly. Anny is to continue reading her
 literary library to the subject, as this significantly reduces 714's
 "Digital Glitching" and power-draw.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------+
 
 The "Glass Bridge Protocol" is a success. By linking a "Person built of
 chapters" with a "Friend trapped in code," we have achieved a stable

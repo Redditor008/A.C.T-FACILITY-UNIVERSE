@@ -396,12 +396,12 @@ The card was left at an A.C.T temporary evidence office. No entry breach recorde
  Choir of the Unforgotten Name is an outside cultic network and not an
  A.C.T
  body.
- The Choir preserves and restores names, testimony, and memory fragments removed or damaged by anomaly events and
- institutional response.
+ The Choir preserves and restores names, testimony, and memory fragments
+ removed or damaged by anomaly events and institutional response.
 — Its rites can partially undo amnestic softening or restore sealed incident memory.
- Its members include grieving civilians and trained cultic practitioners; the two categories must not be collapsed.
- The Choir's operational relationship to A.C.T is negative because it deliberately compromises memory control and
- normalcy closure.
+ Its members include grieving civilians and trained cultic practitioners; the two
+ categories must not be collapsed. The Choir's operational relationship to A.C.T is
+ negative because it deliberately compromises memory control and normalcy closure.
 
 ### Active Intelligence Assessment
 
@@ -418,15 +418,14 @@ aftercare, protected memorial options, safer truth handling, and interruption of
 
 ### Persistent Questions
 
- Did the Choir begin after an A.C.T amnestic failure, another containment authority's coverup, or an older religious
- memory tradition?
+ Did the Choir begin after an A.C.T amnestic failure, another containment
+ authority's coverup, or an older religious memory tradition?
  Are active refrains anomalous by wording, melody, number of singers, grief state, or
  presence
  of a true name?
-— How many Name Bearers carry A.C.T-restricted victim names orally with no written copy? Can the Choir
-restore memories removed by 004-series amnestics, or only memories softened by later public narratives?
- Are NEMNOLIA-adjacent fragments genuinely present in Choir material, or is the similarity caused by common memory
- damage language?
+— How many Name Bearers carry A.C.T-restricted victim names orally with no written copy? Can the Choir restore
+memories removed by 004-series amnestics, or only memories softened by later public narratives? Are NEMNOLIA-adjacent
+fragments genuinely present in Choir material, or is the similarity caused by common memory damage language?
  Has the Choir ever intentionally triggered a dangerous memory in order to expose
  A.C.T?
 — Can A.C.T create protected memorial records that reduce recruitment without increasing public exposure?

@@ -1,10 +1,10 @@
 A.C.T FACILITY — RECOVERY & DISCOVERY DOSSIER
 Hang-Snake-Recovery-Dossier-AFD-SU-902
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                 A.C.T FACILITY — RECOVERY & DISCOVERY DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-902
 TITLE I:             Hang Snake
@@ -20,9 +20,9 @@ CONTAINMENT SITE:    ACT-SITE-02-RU-N — White Grave Station
 ARCHIVE STATUS:      Active / Transition Verified
 DOSSIER STATUS:      Open / Incident Recovery Logged
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 This dossier contains the reconstructed logs from Operation Tight
 Knot, detailing the recovery of the "Gallows Constrictor" following
@@ -34,9 +34,9 @@ INCLUDED LOG TYPES:
    - Field Agent Notes: Material Resilience
    - Dossier Closing Statement
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                  SECTION 001 — THE EMPTY NOOSE
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-902/REC-01
 DATE:                1992-10-31
@@ -55,9 +55,9 @@ The rope, still attached to the crossbeam, was observed to be
 "thickening" and changing color from a weathered beige to a deep
 crimson-streaked brown.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                 SECTION 002 — THE MEDICAL BAY EVENT
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-902/REC-02
 DATE:                1992-10-31 (T+45 Minutes)
@@ -77,9 +77,9 @@ been entirely absorbed. No clothing, hair, or biological traces
 remained. AFD-SU-902 had increased its length by approximately 15 cm
 following the event.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                  SECTION 003 — FIELD AGENT NOTES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-902/LOG-01
 AUTHOR:              Agent [ REDACTED ]
@@ -96,9 +96,9 @@ it
 vibrating in the crate. It was waiting for someone to get close
 enough to the knot."
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 MANDATORY PERSONNEL NOTICE:
                      The noose is not for

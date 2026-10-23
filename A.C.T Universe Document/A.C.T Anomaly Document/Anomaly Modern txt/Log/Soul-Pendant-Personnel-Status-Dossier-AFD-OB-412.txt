@@ -1,10 +1,10 @@
 A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
 Soul-Pendant-Personnel-Status-Dossier-AFD-OB-412
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
              A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-OB-412
 TITLE I:             Soul Pendant
@@ -23,9 +23,9 @@ CONTAINMENT SITE:    ACT-SITE-02-RU-N — White Grave Station
 ARCHIVE STATUS:      Active / Personnel Asset
 DOSSIER STATUS:      Open / 19-Year Post-Awakening Record
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 This dossier tracks the professional reintegration and stability of
 Senior Researcher Aris Thorne following his "Awakening" in 2001.
@@ -42,9 +42,9 @@ INCLUDED LOG TYPES:
    - The 110-Year Biological Review (2020)
    - Dossier Closing Statement
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                  SECTION 001 — THE RE-INTERFACE PHASE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-412/PER-2001
 DATE RANGE:          2001-01-01 → 2001-12-31
@@ -69,9 +69,9 @@ M11-M12:             First field-test. Thorne was tasked with identifying
                      rated at 98%. He does not require sleep, though he
                      mimics it for social comfort.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                SECTION 002 — FRICTION & SOCIAL CORRECTION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-412/PER-2005
 DATE RANGE:          2005-01-01 → 2005-12-31
@@ -93,9 +93,9 @@ M09-M10:             Stability Review: Thorne remains 100% focused on his
                      "My heart is a crystal; it doesn't have room for
                      anything else."
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
              SECTION 003 — HIGH-INTENSITY RESEARCH DEPLOYMENT
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-412/PER-2012
 DATE RANGE:          2012-01-01 → 2012-12-31
@@ -116,9 +116,9 @@ M11-M12:             Internal medical scan. Biological age remains 26.
                      refrigeration, provided it stays within 2m of the
                      pendant.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                SECTION 004 — THE 110-YEAR BIOLOGICAL REVIEW
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-412/PER-2020
 DATE RANGE:          2020-01-01 → 2020-12-31
@@ -143,9 +143,9 @@ M11-M12:             Final 2020 Summary: Subject is exceptionally stable.
                      Awakening" project. He has successfully integrated
                      his trauma into his professional identity.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 The 19-year history of Dr. Aris Thorne post-awakening demonstrates the
 Facility’s ability to "Transform" a tragedy into a high-level asset.

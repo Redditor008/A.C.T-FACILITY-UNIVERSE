@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 Un-Monkey-Paw-AFD-OB-338
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                  Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-OB-338
 TITLE I:             Un-Monkey Paw
@@ -15,9 +15,9 @@ FIELD TYPE:          OB — Object
 
 CLEARANCE REQUIRED:  Level 2
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   INERT
 
@@ -32,9 +32,9 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           CONTAINED-STUDY
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 DATE OF DETECTION:   1912-05-22
 VERIFICATION DATE:   1915-06-05
@@ -53,9 +53,9 @@ NARRATIVE STATUS:    The boutique owner was informed the object was a
                      dyed biological hazard and it was seized for
                      incineration.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 AFD-OB-338 is a mummified simian paw, approximately 12 cm in length.
 The object is covered in coarse, vivid blue fur. Analysis of the fur
@@ -83,9 +83,9 @@ WISH-GRANTING MECHANICS:
    day of the subsequent month, the fingers spontaneously "uncurl,"
    allowing the object to be used again.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Limited Reality Alteration. The object can manipulate
                      small quantities of matter or influence immediate
@@ -108,9 +108,9 @@ TEMPORAL BEHAVIOR:   Monthly cyclic reset.
 
 REALITY INTERACTION: Matter-State Transmutation / Probabilistic Irony.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 AFD-OB-338 is to be stored in a standard vacuum-sealed artifact box
 at ACT-SITE-01-US-W.
@@ -141,9 +141,9 @@ BREACH PROTOCOL:         If the object is used by unauthorized staff,
                          document the "Ironic Tax" immediately and
                          administer 004-G to the user.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 AFD-OB-338 appears to be a "Diluted Legend." It follows the narrative
 structure of high-threat artifacts but lacks the "Weight" to cause
@@ -158,9 +158,9 @@ three minutes.
 The goal of ongoing research is to determine if the irony is truly
 random or if it is tailored to the specific annoyances of the user.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                       TRANSFORMATION NOTES
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 CURRENT VIABILITY:       CONTAINED-STUDY
 
@@ -171,9 +171,9 @@ consideration. The Facility must weigh the value of the materials
 against the inevitable "Petty Irony" that would accompany them (e.g.,
 the reagents arriving in an slightly leaky bottle).
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 NOTE 001:
 The color of the fur (Blue) is unique among similar artifacts.

@@ -1,10 +1,10 @@
 A.C.T FACILITY — EXPLORATION & SURVEY DOSSIER
 Death-Angler-Pre-Capture-Abyss-Scan-AFD-NB-964
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                 A.C.T FACILITY — EXPLORATION & SURVEY
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 DESIGNATION:         AFD-NB-964
 TITLE I:             Death Angler
@@ -23,9 +23,9 @@ CONTAINMENT SITE:    ACT-SITE-05-ID-C — Nusantara Deep Relay
 ARCHIVE STATUS:      Active / High-Lethality Environment
 DOSSIER STATUS:      Open / Mission Log Archived
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 This dossier contains the reconstructed sonar and audio logs from
 Mission Sunda-09, the final deep-sea drone survey conducted before
@@ -40,9 +40,9 @@ INCLUDED LOG TYPES:
    - Incident Report: The "Sinister Hunt" Data Loss
    - Dossier Closing Statement
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                  SECTION 001 — THE OPTICAL VOID
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 LOG ID:              AFD-NB-964/SRV-09
 DATE:                2024-01-20
@@ -59,9 +59,9 @@ OPERATOR (Comms):    "We have a massive sonar-return. But the camera is
                       like the sonar is bouncing off a hole in the
                       water."
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                  SECTION 002 — THE FLOATING LURE
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 [04:12:00] — THE ACTIVATION: The subject activates its lure.
 
@@ -81,9 +81,9 @@ The lure light is non-thermal. It does not heat the water around it,
 but the drone’s optical sensors are saturated. The subject's armored
 body remains invisible; only the light exists.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                  SECTION 003 — THE PRE-HUNT SILENCE
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 [04:22:00] — Subject initiates Stage II (The Dread Hunt).
 
@@ -95,9 +95,9 @@ THORNE NOTE:         "The subject was measuring the drone. It realized
                       the drone didn't have a heartbeat. It didn't have
                       terror to harvest."
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                SECTION 004 — THE SINISTER HUNT
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 [04:25:00] — Subject emits the "Jagged Screech." (182 dB recorded).
 
@@ -112,9 +112,9 @@ nightmare with armored plates and jagged teeth.
               subject's mouth. Multiple rows of teeth visible. Data
               cutoff.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 MANDATORY PERSONNEL NOTICE:
                      The light is a lie.

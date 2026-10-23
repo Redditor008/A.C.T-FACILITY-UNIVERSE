@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 At-the-end-of-the-day-ANM-QU-AS-0003
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 DESIGNATION:         ANM-QU-AS-0003
                      Fracture-sensitive anomaly designation
@@ -18,9 +18,9 @@ FIELD TYPE:          OB — Object
 
 CLEARANCE REQUIRED:  Level 4
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   INTANGIBLE
 
@@ -35,9 +35,9 @@ SUB-THREAT:          ABSENT
 TRANSFORMATION
 VIABILITY:           CONTAINED-STUDY
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 DATE OF DETECTION:   1994-02-13
 VERIFICATION DATE:   1994-03-24
@@ -55,9 +55,9 @@ CIVILIAN EXPOSURE:   None confirmed during initial detection
 AMNESTIC DEPLOYED:   No
 NARRATIVE STATUS:    Internal / predictive uncertainty sealed
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 ANM-QU-AS-0003 is a paper wall calendar of inconsistent manufacture. The object
 usually presents as a standard twelve-month printed calendar with ordinary date
@@ -93,9 +93,9 @@ attached to it.
 A.C.T personnel have informally described the object as "a schedule for things
 reality was too embarrassed to plan."
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Anomalous date circling. A red circle appears around a
                      calendar date without physical marking material or known
@@ -146,9 +146,9 @@ STATEMENTS:
    — 29-February-NotYet — The rain will fall upward inside only one elevator.
    — [DATE REMOVED] — A moon-shaped bruise will appear on the wrong building.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                      SELECTED CONFIRMED EVENTS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 EVENT 0003-01:
 Circled Statement:   23-March-20XX — A shark will fall on top of the Facility.
@@ -190,9 +190,9 @@ Result:              Pending. This phrase appeared without date association.
                      Since appearance, ANM-QU-AS-0003 has refused to display
                      any month page for longer than 59 seconds.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 ANM-QU-AS-0003 is stored in a non-dated archive chamber with all clocks,
 calendars, scheduling boards, appointment notices, countdown displays, and date
@@ -263,9 +263,9 @@ IN BREACH IF IT:
               displays an impossible date in public, or event statements begin
               appearing on unrelated calendars
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 ANM-QU-AS-0003 is one of the clearest examples of a QUESTIONED containment
 fracture. The object can be physically stored, handled, photographed, and locked
@@ -294,9 +294,9 @@ without being fatal. However, at least five confirmed events could have killed
 personnel if mitigation had not been enacted. A.C.T is not to treat absurdity as
 safety.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                       TRANSFORMATION NOTES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 TRANSFORMATION ATTEMPT
 STATUS:              Suspended
@@ -316,9 +316,9 @@ writing safe events on adjacent pages, or verbally requesting harmless outcomes
 have failed. In one trial, personnel wrote "nothing unusual will happen" across
 a blank month. The next circle appeared around the statement itself.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 NOTE 001:
 Do not laugh at active event statements during briefing. The calendar's events

@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 The-Ledger-of-the-Thrones-of-Men-AFD-OB-021
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-OB-021
 TITLE I:             The Ledger of the Thrones of Men
@@ -18,9 +18,9 @@ CLEARANCE REQUIRED:  Level 3
 RELATED ANOMALY:     AFD-SU-009 — The Goat Man-NOO IAM A WOMAN
                      Commonly addressed as Countess / Her Ladyship
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   REACTIVE
 
@@ -35,9 +35,9 @@ SUB-THREAT:          BENEFICIAL
 TRANSFORMATION
 VIABILITY:           NEUTRAL
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 DATE OF DETECTION:   1976-11-02
 VERIFICATION DATE:   1976-11-13
@@ -58,9 +58,9 @@ NARRATIVE STATUS:    Internal / sealed historical continuity record
 RECOVERED MATERIAL:  THE COUNTESS OF HORN HISTORY.txt
 ARCHIVE STATUS:      Transcribed / original sealed
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 AFD-OB-021 is a large bound historical ledger measuring 42 cm in height, 29 cm
 in width, and 9 cm in thickness. The cover is dark leather of unknown
@@ -112,9 +112,9 @@ her remembered by those who must remember while allowing the wider world to
 forget, distort, or mythologize her. It is a private archive of royal witness,
 not a public monument.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Sovereign-chain memory preservation. AFD-OB-021 preserves
                      private ruler-to-ruler memory of AFD-SU-009 across eras,
@@ -186,9 +186,9 @@ notebooks, or derivative copies. They cannot add permanent entries to AFD-OB-021
 itself. Ink placed by non-qualified writers beads on the page surface, dries
 into dust, and falls away within 4 to 12 minutes.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                      RECOVERED TEXT SUMMARY
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 ENTRY:               The First King
 SUMMARY:             Describes the Old Blood as an ageless horned lineage and
@@ -228,9 +228,9 @@ FINAL LINE:
                      HER MAJESTY REMAINS UNAWARE OF IT.
                      (She is aware. She pretends not to be.)
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 AFD-OB-021 is stored in a climate-controlled historical archive case within the
 Primary Facility's sealed noble-lineage document chamber. The original is not to
@@ -289,9 +289,9 @@ IN BREACH IF IT:
    [x] Other: Appears in the possession of an unbriefed political leader,
               public archive, museum, or anti-A.C.T historical organization
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 AFD-OB-021 is one of the strongest historical anchors connected to AFD-SU-009.
 The ledger suggests that the Countess's influence on leadership doctrine may be
@@ -325,9 +325,9 @@ existence. When asked indirectly whether leaders should write down what they
 learn from her, she answered: "If they require parchment to remember manners,
 then parchment is already too generous."
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                       TRANSFORMATION NOTES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 TRANSFORMATION ATTEMPT
 STATUS:              Not recommended
@@ -347,9 +347,9 @@ No attempt is to induce a modern leader to meet AFD-SU-009 or add a
 chapter for
 research purposes. The book records duty after encounter; it is not a guestbook.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------+
 
 NOTE 001:
 AFD-OB-021 should not be shown to junior staff as proof that AFD-SU-009 is

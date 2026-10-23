@@ -1,10 +1,10 @@
 A.C.T FACILITY — INTERNAL MEMORANDUM
 Memorandum-SR-T-412-2026-Protocol-for-Causal-Integrity
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
                     A.C.T FACILITY — INTERNAL MEMORANDUM
                  Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FROM:                Senior Researcher Aris Thorne, PhD (SR-THORNE-412)
 TO:                  All Research Personnel (Senior, Mid, Junior Levels)
@@ -13,9 +13,9 @@ SUBJECT:             Standardization of Tactile Input, Observational
 DATE:                2026-07-02
 CLEARANCE:           Level 3 or Higher
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
                          AUTHOR'S PREFACE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 I have occupied a desk in this organization since 1933. I have watched the
 transition from the ink-stained ledgers of
@@ -33,9 +33,9 @@ series of administrative complaints, I assure you that every syllable is backed 
 century of watching reality break
 when it is handled without manners.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
                  SECTION 001 — THE WEIGHT OF THE PEN
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The first correction involves the digitalization of primary logs. I have reviewed
 the recent UFD intake files from Site-03 and Site-05. The entries are clean, the
@@ -63,9 +63,9 @@ Space-Class (SP), I expect to see the page distorted by the proximity. If you
 are too efficient to use a pen, you are
 too lazy to be a researcher.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
                  SECTION 002 — THE MANNERS OF THE LAB
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Junior researchers frequently ask me why I insist on "Announcement Protocols" (Reference: AFD-SU-005, The
 Anny/Politeness Protocol). They believe that because they are the "scientists," they have the right to enter a
@@ -93,9 +93,9 @@ foolish talking to a lead-lined box, then you
 lack the imagination required to survive this career. Manners are
 the only "Anti Reality Mesh" that doesn't require a power supply.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
                  SECTION 003 — CLASSIFICATION AND COARSE LANGUAGE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 I am weary of seeing the word "Keter" or "Thaumiel" scribbled in the margins
 of unofficial notes by transfers from
@@ -123,9 +123,9 @@ have the author reassigned to the [ REDACTED ] drainage maintenance for six mont
 Use words that describe physical
 result: "Hostile to biological tissue," "Corrosive to linear time," or "Resonant with high-HPP subjects."
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
                  SECTION 004 — THE CHRONOLOGICAL VANTAGE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 To my fellow Senior Researchers:
 
@@ -153,9 +153,9 @@ possible. If we do not solve the origin of the [ BLANK ] Anchor,
 then every containment we build is just a delayed
 breach.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
                  SECTION 005 — THE SENSORY DISCIPLINE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 For the Junior staff:
 
@@ -178,9 +178,9 @@ Spend 20 minutes a day staring at a blank wall. Do not think. Do
 not plan. Just listen to the air. If you can hear the
 building "Breathing," then you are ready to start real research.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
                  SECTION 006 — THE FIRST LIE REVISITED
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 We are an organization built on forgetting. The 004-Series compounds are the only reason society hasn't burned itself
 down. But there is a danger in forgetting your own work.
@@ -199,9 +199,9 @@ do not assume it was an error. Assume it was
 a choice. And then ask yourself who made it, and what they were trying
 to save you from.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
                          CLOSING SUMMARY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 This memorandum will likely be ignored by 90% of the staff who read it.
 You will find it "Boring." You will call it
@@ -223,11 +223,11 @@ Dr. Aris Thorne
 Senior Researcher
 White Grave Station (Site-02)
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 [FOOTNOTE FOR SHARP EYES]:
 If you noticed the ultraviolet pulse in the room's speakers while
 reading Section 004, report to my office immediately. You are
 hearing the "Causal Drift." We have work to do.
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 END OF MEMORANDUM

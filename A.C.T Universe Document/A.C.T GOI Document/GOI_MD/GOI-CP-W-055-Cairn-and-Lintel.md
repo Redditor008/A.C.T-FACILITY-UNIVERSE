@@ -417,8 +417,8 @@ this view as general policy but allows case-by-case Subject Care review.
  Cairn & Lintel is an outside corporate infrastructure network and not an A.C.T
  engineering
  program.
- The group has repeatedly produced or maintained structures that assisted evacuation, shelter, or route stability
- during abnormal incidents.
+ The group has repeatedly produced or maintained structures that assisted
+ evacuation, shelter, or route stability during abnormal incidents.
 — Its marks, contracts, and route instructions appear across separate jurisdictions.
 — The group possesses engineering knowledge sufficient to build localized anomalous structural protections.
 The group withholds complete plans, leadership identity, and the locations of some occupied shelters.

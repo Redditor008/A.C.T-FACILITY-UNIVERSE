@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 Proto-Thal-AFD-NB-125
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                  Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 DESIGNATION:         AFD-NB-125
 TITLE I:             Proto-Thal
@@ -15,9 +15,9 @@ FIELD TYPE:          NB — Non-Natural Bio Hazard
 
 CLEARANCE REQUIRED:  Level 5 / [ O5-RESTRICTED ]
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   TIAMAT
 
@@ -32,9 +32,9 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           INVIOLABLE
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 DATE OF DETECTION:   1992-05-14
 VERIFICATION DATE:   1992-08-20
@@ -52,9 +52,9 @@ AMNESTIC DEPLOYED:   N/A
 NARRATIVE STATUS:    Internal documentation only. Public sonar data
                      scrubbed via ACT-SITE-03 (Kurokawa).
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 AFD-NB-125, designated Proto-Thal, is an ancient crustacean organism
 of impossible scale. Shell-surface scans indicate the subject is
@@ -86,9 +86,9 @@ PHYSICAL CHARACTERISTICS:
    3 km in length and is rarely moved, serving as a primary structural
    brace against the trench floor.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 PRIMARY EFFECT:      World-Scale Biological Presence. Proto-Thal is a
                      perpetually conscious organism whose 43 km mass
@@ -115,9 +115,9 @@ TEMPORAL BEHAVIOR:   Perpetually Awake / Cyclic Pressure-Adjustment.
 REALITY INTERACTION: Biological-Scale Violation / Spatial Expansion /
                      Tectonic Entanglement.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 AFD-NB-125 is contained in-place via ACT-SITE-05-ID-C — Nusantara Deep
 Relay. Containment is focused on "Routine Preservation" and the
@@ -159,9 +159,9 @@ BREACH PROTOCOL:         In the event of an ascent attempt or significant
                          activate maritime misdirection "Storm-Front"
                          narratives.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 Proto-Thal represents the ultimate expression of filter-feeding biology.
 Its ability to remain awake for 12,000 years while supporting an entire
@@ -173,9 +173,9 @@ them, the sea-weight would eventually crush the subject's internal
 organs. These events are not signs of aggression, but "Maintenance of
 the Form."
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                       TRANSFORMATION NOTES
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 CURRENT VIABILITY:       INVIOLABLE
 
@@ -185,9 +185,9 @@ Transformation) team is investigating whether the subject's plankton-
 attraction method can be mimicked to manage oceanic biological health
 at a regional scale.
 
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++-----------------------------------------------------------------------+
 
 NOTE 001:
 The subject's suction force once accidentally consumed an automated

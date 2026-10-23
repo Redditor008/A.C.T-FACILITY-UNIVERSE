@@ -11,7 +11,7 @@ Dossier Number: FLOOR-DOSSIER-04-BR-C-F-1
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard / ACT Floor Record Standard
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 Archive Note
 
@@ -32,7 +32,7 @@ deepest
 built level of an open-air reserve answers the needs that the open air
 cannot.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 1. Floor Registry Identity Summary
 
@@ -55,7 +55,7 @@ Current Status: Active
 Doctrine Note: Subject to the reserve's "F-1 closure" doctrine — closing
 F-1 to the outside seals the level entirely
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 2. Dossier Purpose
 
@@ -71,7 +71,7 @@ high-security interior cultivation and holding vault where the reserve's
 most sensitive biological material is kept under controlled, enclosed
 conditions — the built counterweight to the reserve's open-air doctrine.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 3. Position in the Site Stack
 
@@ -96,7 +96,7 @@ built installation. F-1's relationship to that network is selective — the
 floor holds what the open cannot hold, while the sectors hold what the
 floor need not.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 4. Historical Foundation
 
@@ -121,7 +121,7 @@ In its modern configuration, F-1 is the reserve's deepest built commitment:
 high-security interior cultivation and holding space for the biological
 material the reserve judges too sensitive for the open.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 5. Command and Authority
 
@@ -146,7 +146,7 @@ programs authorized for them, and no authority to transfer material to the
 open enclosure network without assessment. The floor's role is high-security
 interior containment and cultivation under the reserve's doctrine.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 6. Divisional Presence
 
@@ -173,7 +173,7 @@ Medical personnel support the floor's operations, providing care for
 biological material whose condition requires medical oversight and for
 personnel working with the floor's holdings.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 7. Physical Plant and Architecture
 
@@ -208,7 +208,7 @@ The floor's plan comprises:
 - the service ring, carrying power, environmental, and maintenance routes;
 - the floor command post and secure archive alcove.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 8. Systems and Infrastructure
 
@@ -237,7 +237,7 @@ The floor maintains hardened communication with the reserve's command
 levels. Communications discipline on F-1 follows each holding's restriction
 set.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 9. Security and Containment Architecture
 
@@ -268,7 +268,7 @@ The floor's perimeter architecture is monitored for intrusion, excavation,
 and structural anomaly, and the deep utility routing below the floor is
 monitored as a potential approach path.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 10. Holdings and Filing Doctrine
 
@@ -296,7 +296,7 @@ with her stabilized containment and care regimen. F-1's own holdings are
 registered in the Annex Register; personnel without specific assignment to
 those files do not require their names.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 11. Personnel and Duty Life
 
@@ -319,7 +319,7 @@ administrative programs. Interior deep-vault duty carries its own demands,
 and the reserve treats the psychological weight of the work as an
 operational matter.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 12. Floor Doctrine
 
@@ -341,7 +341,7 @@ F-1 doctrine holds that the floor must be sealable: the vault is designed
 to close completely, and the reserve drills the procedure so that closure,
 when it comes, is executed without hesitation.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 13. Incident Archive
 
@@ -350,7 +350,7 @@ events: environmental incidents, regimen events, and access-verification
 incidents. No holding of F-1 has breached the floor's containment perimeter
 since the closure doctrine was instituted.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 14. Current Status and Projected Development
 
@@ -360,7 +360,7 @@ priorities include:
 - periodic re-verification of the closure procedure;
 - coordination with the reserve's cultivation and transformation programs.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 15. Cross-Referenced Files
 
@@ -371,7 +371,7 @@ priorities include:
 - Verde Null Annex Register (clearance-gated)
 - AFD-SU-827 resident file and log dossiers (clearance-gated)
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 Archive Closing
 

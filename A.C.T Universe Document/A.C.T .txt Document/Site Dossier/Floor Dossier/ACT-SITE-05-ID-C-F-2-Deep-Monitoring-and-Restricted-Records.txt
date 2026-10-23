@@ -11,7 +11,7 @@ Dossier Number: FLOOR-DOSSIER-05-ID-C-F-2
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard / ACT Floor Record Standard
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------+
 
 Archive Note
 
@@ -29,7 +29,7 @@ This dossier records the floor in full institutional language: what it is,
 what it monitors, what it records, how it is guarded, and how the relay
 holds the knowledge that the deep has given it.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------+
 
 1. Floor Registry Identity Summary
 
@@ -49,7 +49,7 @@ seismic records, and the processing of the relay's deepest observations
 Access Posture: Heavily restricted
 Current Status: Active
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------+
 
 2. Dossier Purpose
 
@@ -66,7 +66,7 @@ records are held, and where the partially sealed deep-earth files are
 processed under the review chain that governs them. The floor is the
 relay's memory of the deep — kept under the restriction its contents demand.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------+
 
 3. Position in the Site Stack
 
@@ -91,7 +91,7 @@ volcanic signatures, and deep-earth observations are processed on the floor
 and distributed to the command and research functions of the relay's upper
 levels, under the access rules their sensitivity requires.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------+
 
 4. Historical Foundation
 
@@ -116,7 +116,7 @@ In its modern configuration, F-2 is the relay's restricted records and
 monitoring level: the floor where the relay's deepest observations are
 processed, recorded, and sealed under the review chain that governs them.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------+
 
 5. Command and Authority
 
@@ -141,7 +141,7 @@ restricted review chain, and no authority over the disposition of the
 deep-earth material held on the floors below. Its role is the processing,
 recording, and restricted custody of the relay's deepest observations.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------+
 
 6. Divisional Presence
 
@@ -168,7 +168,7 @@ records.
 Security guards the floor's access architecture and enforces the heavy
 restrictions that govern the floor's records and monitoring spaces.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------+
 
 7. Physical Plant and Architecture
 
@@ -201,7 +201,7 @@ records routed under abyss-related review standards, sealed under the
 review chain that governs them, and accessible only under the restrictions
 the review chain imposes.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------+
 
 8. Systems and Infrastructure
 
@@ -229,7 +229,7 @@ seismic records, and restricted files are stored under standards matched to
 their sensitivity, with the restricted files held under the review chain's
 control.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------+
 
 9. Security and Records Architecture
 
@@ -262,7 +262,7 @@ records incidents, and attempts to reach the restricted files are met with
 the relay's response doctrine, with escalation to the review chain where
 abyss-linked material is involved.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------+
 
 10. Holdings and Filing Doctrine
 
@@ -287,7 +287,7 @@ the restriction notation their sensitivity requires.
 F-2 holds no anomalous residents. Its holdings are records — the relay's
 memory of the deep, kept under the restrictions that the memory demands.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------+
 
 11. Personnel and Duty Life
 
@@ -311,7 +311,7 @@ relay's deep-earth documentation as sensitive Facility knowledge: records
 are processed under access rules, sealed under review standards, and
 handled by personnel who understand what the deep-earth record represents.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------+
 
 12. Floor Doctrine
 
@@ -335,7 +335,7 @@ the signals from the sensor nexus below are assessed, recorded, and
 distributed under the floor's doctrine — the relay's watch is only as good
 as its record.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------+
 
 13. Incident Archive
 
@@ -344,7 +344,7 @@ access violations, records incidents, and processing events. The events
 that established the relay's abyss-related review standards are preserved in
 the relay's restricted history files.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------+
 
 14. Current Status and Projected Development
 
@@ -355,7 +355,7 @@ priorities include:
 - coordination with the restricted review chain on the floor's partially
   sealed files.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------+
 
 15. Cross-Referenced Files
 
@@ -367,7 +367,7 @@ priorities include:
 - Nusantara Annex Register (clearance-gated)
 - Restricted review chain files (abyss-related; clearance-gated beyond site governance)
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------------------+
 
 Archive Closing
 

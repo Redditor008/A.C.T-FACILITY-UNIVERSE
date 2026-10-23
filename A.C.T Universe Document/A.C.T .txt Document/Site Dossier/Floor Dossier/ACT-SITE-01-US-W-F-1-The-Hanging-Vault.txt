@@ -11,7 +11,7 @@ Dossier Number: FLOOR-DOSSIER-01-US-W-F-1
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard / ACT Floor Record Standard
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 Archive Note
 
@@ -31,7 +31,7 @@ what it holds, how it is built, how it is guarded, and why its
 closure
 procedure has become a drill that every member of the site knows by reflex.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 1. Floor Registry Identity Summary
 
@@ -52,7 +52,7 @@ individual restriction set
 Current Status: Active
 Doctrine Note: Subject to the site's "F-1 closure" drills
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 2. Dossier Purpose
 
@@ -68,7 +68,7 @@ for the residents that Redwood Veil cannot risk, cannot transform, and
 cannot release. It is the deepest address on the complex's register, and the
 register treats it accordingly.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 3. Position in the Site Stack
 
@@ -94,7 +94,7 @@ first containment measure. Every meter of that distance is staffed, monitored,
 and gated. A resident would have to cross nine levels of hardened
 infrastructure and the full attention of the site before it could reach air.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 4. Historical Foundation
 
@@ -126,7 +126,7 @@ F-1 must never be allowed to use the floor's own connections as an escape
 route. The procedure has since been drilled to reflex across the site, and
 the phrase "F-1 closure" has passed into the complex's operational language.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 5. Command and Authority
 
@@ -151,7 +151,7 @@ for high-inviolability material are made above the floor, and the floor's
 role is to maintain the resident in an unchanged, unstudied-to-completion
 state for as long as doctrine requires.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 6. Divisional Presence
 
@@ -180,7 +180,7 @@ The floor maintains a minimal liaison presence for the documentation of
 resident condition and regimen execution. F-1's records are maintained
 under the same high-inviolability standard as its residents.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 7. Physical Plant and Architecture
 
@@ -219,7 +219,7 @@ The floor's plan comprises:
   around the vault gallery without crossing it;
 — the floor's command post and secure archive alcove.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 8. Systems and Infrastructure
 
@@ -251,7 +251,7 @@ Communications discipline on F-1 follows each resident's restriction set:
 references to certain residents are governed by the same rules as references
 to them anywhere in the Facility.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 9. Security and Containment Architecture
 
@@ -290,7 +290,7 @@ structural anomaly. The deep utility routing below the floor is likewise
 monitored, as the site treats the routes below F-1 as potential approach
 paths that must be watched even where they are not occupied.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 10. Resident Holdings and Filing Doctrine
 
@@ -330,7 +330,7 @@ Other high-inviolability residents are held on F-1 under individual
 restriction sets preserved in the Annex Register. Personnel without specific
 assignment to those files do not require their names.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 11. Personnel and Duty Life
 
@@ -356,7 +356,7 @@ care programs, including routine evaluation for personnel assigned to
 residents with memetic or perceptual components. The site treats deep-hold
 duty as a psychological as well as a technical assignment.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 12. Floor Doctrine
 
@@ -380,7 +380,7 @@ is
 designed to be sealed and to function sealed, and the site drills the
 procedure so that closure, when it comes, is executed without hesitation.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 13. Incident Archive
 
@@ -391,7 +391,7 @@ its particulars are not repeated in this dossier. No resident of F-1 has
 breached the floor's containment perimeter since the closure doctrine was
 instituted.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 14. Current Status and Projected Development
 
@@ -402,7 +402,7 @@ priorities for the floor include:
 - coordination with the site's Transformation Division on the classification
   of material that may never be transformed.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 15. Cross-Referenced Files
 
@@ -413,7 +413,7 @@ priorities for the floor include:
 - Redwood Veil Annex Register (clearance-gated)
 - AFD-OB-801 resident file and log dossiers (clearance-gated)
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 Archive Closing
 

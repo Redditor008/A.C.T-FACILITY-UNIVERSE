@@ -1,16 +1,16 @@
 A.C.T ORIENTATION HANDBOOK
 MASTER VOLUME — CHAPTERS 1-6
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
                     A.C.T FACILITY — ORIENTATION
                  Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 DISTRIBUTION: Junior Employees / Level 1-2 Personnel
 AUTHORITY: Administrative Division / O5 Council
 STATUS: Active Educational Standard
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 CHAPTER 1: THE FOUNDATION
 THE GUARDIANS OF THE FRAGILE WORLD
@@ -55,7 +55,7 @@ maintain this silence to rule the world, but to protect it. We choose to
 live in the dark so that the billions of
 people above can live in the light.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 CHAPTER 2: THE FIRST TWO PILLARS
 ANOMALY AND CONTAINMENT
@@ -112,7 +112,7 @@ MANDATORY ORIENTATION PHRASE:
                       and we build the home so
                       the anomaly can be at peace."
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 CHAPTER 3: THE BODY OF THE FACILITY
 STRUCTURE, COMMAND, AND THE ARCHITECTURE OF ORDER
@@ -247,7 +247,7 @@ MANDATORY ORIENTATION PHRASE:
                       so reality moves as
                       it should."
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 CHAPTER 4: THE GLOBAL LATTICE
 SITES, JURISDICTION, AND THE ARCHITECTURE OF THE MAP
@@ -356,7 +356,7 @@ MANDATORY ORIENTATION PHRASE:
                       duty, and my duty is
                       the world's stability."
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 CHAPTER 5: THE THIRD PILLAR
 TRANSFORMATION, HARMONIZATION, AND THE NEUTRAL GOOD
@@ -470,7 +470,7 @@ MANDATORY ORIENTATION PHRASE:
                       light never has to see
                       the dark."
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 CHAPTER 6: THE ARCHITECTURE OF REALITY
 REALITY DOCTRINE, ANOMALY LOGIC, AND THE COSMIC TIMER
@@ -580,5 +580,5 @@ MANDATORY ORIENTATION PHRASE:
                       does not have to
                       stop."
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 END OF HANDBOOK (VOL 1.0)

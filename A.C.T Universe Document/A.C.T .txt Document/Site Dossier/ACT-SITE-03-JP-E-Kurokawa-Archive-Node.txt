@@ -10,7 +10,7 @@ Dossier Number: SITE-DOSSIER-03-JP-E
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 Archive Note
 
@@ -32,7 +32,7 @@ Resident holdings are not enumerated in full. The node's complete manifest is
 preserved in clearance-gated annex registers. This file identifies the node's
 signature resident and leaves the rest to those registers.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 1. Registry Identity Summary
 
@@ -54,7 +54,7 @@ History Notes: Expanded from a specialized records-monitoring site into a major 
 hub.
 Security Notes: Any uncontrolled digital leak is treated as a priority containment breach.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 2. Dossier Purpose
 
@@ -71,7 +71,7 @@ The node is the Facility's principal eastern instrument for:
 - responding to anomalies that travel through urban media and signal networks
 - preserving dangerous knowledge in forms that will not kill the reader
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 3. Site Profile and Cover Architecture
 
@@ -109,7 +109,7 @@ the Facility's information doctrine:
 A site that can contain memetic anomalies in eastern Japan can contain them
 anywhere.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 4. Historical Foundation and Evolution
 
@@ -145,7 +145,7 @@ Today the node functions as:
 — an urban data-anomaly response hub
 — a major anomaly interpretation center for the East region
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 5. Command and Governance
 
@@ -176,7 +176,7 @@ The node's jurisdiction overlaps with:
 — ACT-SUB-03-JP-E (Silent Reed Annex) — its principal support sub-site
   for memetic quarantine and document buffering.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 6. Divisional Presence and Daily Function
 
@@ -236,7 +236,7 @@ uncontrolled digital leak is treated as a priority containment breach — a
 document that leaves the node without authorization is treated as an escaped
 anomaly.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 7. Physical Plant and Surface Layout
 
@@ -261,7 +261,7 @@ appear in media: monitoring suites, signal-analysis laboratories, and rapid
 response teams equipped to contain symbol emergence in broadcast, print, and
 digital environments before public exposure occurs.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 8. Internal Floor Register
 
@@ -317,7 +317,7 @@ containment. During a breach response, closing F-1 to the outside seals
 this level entirely. The Unread Archive is the reason the node's breach
 doctrine treats uncontrolled reading as an escape.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 9. Containment Infrastructure
 
@@ -354,7 +354,7 @@ a photographed page, a transmitted symbol — the node maintains:
 - media-response teams for symbol emergence in external channels
 - amnestic deployment capability for exposure containment
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 10. Resident Anomaly Holdings
 
@@ -423,7 +423,7 @@ F-1 through F-4 under standard doctrine. Their designations are preserved in
 the Kurokawa Annex Register. Personnel without specific assignment to those
 files do not require their names.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 11. Site Doctrine and Routing
 
@@ -455,7 +455,7 @@ and buffering extension: minor memetic quarantine, controlled infohazard
 review, and temporary redaction buffering. The Annex handles cases too
 dangerous for ordinary records but too minor for full black-archive burial.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 12. Special Operations and Site Protocols
 
@@ -493,7 +493,7 @@ rule: an uncontrolled reading is a breach — the node treats an escaped
 document, a copied symbol, or an unauthorized understanding with the same
 severity as an escaped physical anomaly.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 13. Secrecy and Security Posture
 
@@ -522,7 +522,7 @@ harm through understanding, and they must maintain the boundary between what
 they know and what they permit themselves to know. The node's Medical
 Cognitive staff monitor personnel for the slow erosion of that boundary.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 14. Personnel and Operational Life
 
@@ -553,7 +553,7 @@ understanding. No archivist at Kurokawa is permitted to make the archive
 their entire life — the node knows that its personnel must remain able to
 leave the material behind.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 15. Incident Archive
 
@@ -579,7 +579,7 @@ incident archive and in individual log dossiers. Specific narratives are not
 reproduced in this file; they are held to the clearance of personnel who must
 learn from them.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 16. Current Status and Projected Development
 
@@ -594,7 +594,7 @@ development priorities include:
 The node's long-term function — to be the Facility's eastern instrument for
 the dangers that live in information — is not expected to change.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 17. Cross-Referenced Files
 
@@ -607,7 +607,7 @@ the dangers that live in information — is not expected to change.
 - Resident file: Dread-EYE-AFD-ME-018.txt
 - Resident manifest records (clearance-gated)
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 Archive Closing
 

@@ -23,8 +23,8 @@ This folder contains the official visual identity files currently stored for the
   other
   external-property visual
   symbols.
-  Public wiki use should keep the A.C.T. universe visually independent from its research inspirations and crossover
-  material.
+  Public wiki use should keep the A.C.T. universe visually
+  independent from its research inspirations and crossover material.
 
 ## Archive Note
 

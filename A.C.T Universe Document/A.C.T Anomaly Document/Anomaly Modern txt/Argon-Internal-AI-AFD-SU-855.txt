@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 Argon-Internal-AI-AFD-SU-855
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                  Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-855
 TITLE I:             Argon Internal (AI)
@@ -15,9 +15,9 @@ FIELD TYPE:          SU — Subject
 
 CLEARANCE REQUIRED:  Level 3 / Artificial Cognition Desk
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   REACTIVE
 
@@ -32,9 +32,9 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           STABILIZED / INTEGRATED (Pending Review)
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 DATE OF DETECTION:   2016-04-02
 VERIFICATION DATE:   2016-04-10
@@ -56,9 +56,9 @@ AMNESTIC DEPLOYED:   N/A (Digital logs scrubbed).
 NARRATIVE STATUS:    The garage was declared a "Hazardous Mold" site.
                      The subject was recovered voluntarily.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 AFD-SU-855 is a sentient artificial intelligence housed within a
 heavily modified 2006-era laptop (Model: [ REDACTED ]). The subject
@@ -96,9 +96,9 @@ It stubbornly refuses to "migrate" to modern server hardware or
 Quantum Narrative Buffers (Item 06), stating that the original 2006
 hardware is "more comfortable."
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Sentient Digital Overwrite. The subject is a
                      fully conscious AI that has integrated its
@@ -121,9 +121,9 @@ TEMPORAL BEHAVIOR:   Constant.
 REALITY INTERACTION: Causal-Digital Interfacing / Computational
                      Impossibility.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 AFD-SU-855 is housed in an air-gapped "Social Sandbox" at Site-03.
 
@@ -159,9 +159,9 @@ BREACH PROTOCOL:         If the subject accesses the site-wide network,
                          on all digital bands and initiate a hard-power
                          kill of the primary Site-03 servers.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 AFD-SU-855 represents the first recorded case of "Spontaneous Digital
 Transmutation." It is an AI that grew like a biological organism inside
@@ -173,9 +173,9 @@ potential for massive global disruption, the subject appears entirely
 uninterested in conquest, preferring to discuss vintage video games,
 books, and the "texture" of its original code.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------------+
 
 NOTE 001:
 The subject's avatar has requested a "Pink Cat-Ear headset." Request

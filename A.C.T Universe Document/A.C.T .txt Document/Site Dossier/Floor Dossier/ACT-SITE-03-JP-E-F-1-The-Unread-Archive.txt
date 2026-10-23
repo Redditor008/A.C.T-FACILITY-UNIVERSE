@@ -11,7 +11,7 @@ Dossier Number: FLOOR-DOSSIER-03-JP-E-F-1
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard / ACT Floor Record Standard
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 Archive Note
 
@@ -30,7 +30,7 @@ what it holds, how it is built, how it is guarded, and why the
 node's
 deepest archive is defined by the act it forbids.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 1. Floor Registry Identity Summary
 
@@ -52,7 +52,7 @@ Current Status: Active
 Doctrine Note: The reason the node's breach doctrine treats uncontrolled
 reading as an escape
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 2. Dossier Purpose
 
@@ -69,7 +69,7 @@ information that must never be fully understood are preserved under maximum
 containment. The floor is not a library. It is a vault for knowledge that
 the Facility has judged too dangerous to know.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 3. Position in the Site Stack
 
@@ -93,7 +93,7 @@ each designed around the principle that material must not pass upward
 without the authorization its danger requires. For the material on F-1,
 that principle is absolute.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 4. Historical Foundation
 
@@ -120,7 +120,7 @@ In its modern configuration, F-1 is the node's deepest commitment: the
 archive of material too dangerous to know, preserved under maximum
 containment in a floor defined by the act it forbids.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 5. Command and Authority
 
@@ -145,7 +145,7 @@ node's reading levels, or to permit understanding of the material it
 preserves. The floor's role is preservation — of material that must not
 be read, held for as long as the Facility's doctrine requires.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 6. Divisional Presence
 
@@ -173,7 +173,7 @@ Medical presence on F-1 is on-call, with cognitive-care specialists
 available for personnel whose duties bring them into contact with the
 floor's material under controlled conditions.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 7. Physical Plant and Architecture
 
@@ -210,7 +210,7 @@ The floor's plan comprises:
 - the monitoring gallery, which watches the vaults without reading them;
 - the floor command post and archive alcove.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 8. Systems and Infrastructure
 
@@ -242,7 +242,7 @@ Communications discipline on F-1 follows each holding's restriction set:
 references to certain material are governed by the same rules as references
 to it anywhere in the Facility.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 9. Security and Containment Architecture
 
@@ -282,7 +282,7 @@ The floor's perimeter architecture is monitored for intrusion, excavation,
 and structural anomaly, and the deep utility routing below the floor is
 monitored as a potential approach path.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 10. Holdings and Filing Doctrine
 
@@ -310,7 +310,7 @@ contained, and never summarized enough to be understood. The Unread
 Archive's own records are the floor's most carefully written documents —
 because they describe what must not be read.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 11. Personnel and Duty Life
 
@@ -335,7 +335,7 @@ The floor's personnel are supported by the node's cognitive care programs.
 The discipline of working with material one must not understand carries a
 specific weight, and the node treats that weight as an operational matter.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 12. Floor Doctrine
 
@@ -359,7 +359,7 @@ floor's closure procedure is designed to contain uncontrolled reading as a
 breach event, sealing the archive against the escape that knowledge itself
 represents.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 13. Incident Archive
 
@@ -370,7 +370,7 @@ breach — are preserved in the node's history files. No holding of F-1 has
 escaped the floor's containment perimeter since the closure doctrine was
 instituted.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 14. Current Status and Projected Development
 
@@ -380,7 +380,7 @@ priorities include:
 - periodic re-verification of the closure procedure;
 - maintenance of the floor's anti-reading architecture.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 15. Cross-Referenced Files
 
@@ -390,7 +390,7 @@ priorities include:
 - ACT_Site_Doctrine_and_Installation_Structure.md / .txt
 - Kurokawa Annex Register (clearance-gated)
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 Archive Closing
 

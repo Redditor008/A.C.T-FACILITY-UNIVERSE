@@ -389,11 +389,10 @@ standard document-cleaning attempt.
  The Office for Witness Continuance is an outside government legal authority and not
  an
  A.C.T internal review body.
-— The Office repeatedly challenges A.C.T amnestic, detention, witness, and survivor-record procedures. It
-possesses tribunals, advocates, protected records, and emergency legal instruments with real operational
-effect. — Some Office interventions have preserved evidence and protected witnesses from premature erasure. The
-Office's active relationship to A.C.T remains negative because it directly obstructs containment secrecy and
- custody control.
+— The Office repeatedly challenges A.C.T amnestic, detention, witness, and survivor-record procedures. It possesses
+tribunals, advocates, protected records, and emergency legal instruments with real operational effect. — Some
+Office interventions have preserved evidence and protected witnesses from premature erasure. The Office's active
+relationship to A.C.T remains negative because it directly obstructs containment secrecy and custody control.
 
 ### Active Intelligence Assessment
 

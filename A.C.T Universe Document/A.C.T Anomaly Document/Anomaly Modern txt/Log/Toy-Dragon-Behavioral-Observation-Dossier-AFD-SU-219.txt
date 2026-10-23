@@ -1,10 +1,10 @@
 A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
 Toy-Dragon-Behavioral-Observation-Dossier-AFD-SU-219
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
            A.C.T FACILITY — BEHAVIORAL & OBSERVATION DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-219
 TITLE I:             Toy Dragon
@@ -23,9 +23,9 @@ JURISDICTIONAL AUTHORITY:  Verde Null Command / Subject Care Desk
 ARCHIVE STATUS:      Active / Subject-care restricted
 DOSSIER STATUS:      Open — daily welfare checks maintained
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
                            CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 This dossier belongs to A.C.T Log Category VIII — Behavioral & Observation
 Dossier. AFD-SU-219 is a sentient, 2-meter tall entity composed entirely of
@@ -51,9 +51,9 @@ To track the subject's juvenile baseline — feeding, shedding, respiration, and
 enrichment needs — so that its welfare is maintained and "Boredom Breaches"
 are never given a reason to begin.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
                SECTION 001 — HABITAT WELFARE OBSERVATION
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-219/OBS-001
 DATE:                1950-12-12 (verification) — ongoing
@@ -75,9 +75,9 @@ animal, because that is what the subject is — a child made of polymer,
 with a
 child's needs and a child's dignity.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
      SECTION 002 — FEEDING BEHAVIOR AND ZERO-WASTE METABOLISM LOG
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-219/OBS-002
 DATE:                Ongoing — twice-daily feeding
@@ -103,9 +103,9 @@ OBSERVER NOTE: The zero-waste property is the subject's quietest anomaly and
 the one the Transformation Division watches closest — a complete, efficient
 conversion of matter into structure.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
          SECTION 003 — SHEDDING CYCLE AND SCALE COLLECTION LOG
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-219/OBS-003
 DATE:                Cycle record — every 1 to 3 months
@@ -126,9 +126,9 @@ COLLECTION RECORD:
    - Archived as Non-Anomalous Refined Material (Polymer)
    - Detached scales lose anomalous resilience once separated
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
              SECTION 004 — THERMAL MIST RESPIRATION RECORD
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-219/OBS-004
 DATE:                Standing observation
@@ -150,9 +150,9 @@ ANALYSIS:
      "new toy smell"
    - Localized thermal emission only; no environmental hazard recorded
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
              SECTION 005 — ENRICHMENT AND READING SESSIONS
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-219/OBS-005
 DATE:                Ongoing — monitored sessions
@@ -177,9 +177,9 @@ OBSERVER NOTE: The subject cannot speak, but it listens. The reading sessions
 are logged as enrichment because a child who cannot ask for a story should
 still be read one.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
               SECTION 006 — CLOSING OBSERVATION STATEMENT
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-219/OBS-CLS-001
 DATE:                2026-09-08

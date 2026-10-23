@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 The-Refracted-One-AFD-[Question].H-404
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                  Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 DESIGNATION:         AFD-?.H-404
 TITLE I:             The Refracted One
@@ -15,9 +15,9 @@ FIELD TYPE:          ?.H — Shifting Hazard
 
 CLEARANCE REQUIRED:  Level 4 / Narrative Hazard Desk
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   REACTIVE
 
@@ -32,9 +32,9 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           CONTAINED-STUDY
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 DATE OF DETECTION:   2011-03-20
 VERIFICATION DATE:   2011-04-05
@@ -53,9 +53,9 @@ AMNESTIC DEPLOYED:   Yes — 004-C Grade.
 NARRATIVE STATUS:    The event was suppressed as a multi-media art
                      installation using hidden projectors.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 AFD-?.H-404 is an ontological singularity that lacks a stable Field
 Type. The subject exists as a "Probability Cloud" whose state of being
@@ -80,9 +80,9 @@ The danger of AFD-?.H-404 lies in its sensitivity to "Narrative
 Expectation." If staff fear it is becoming lethal, the subject’s
 lethality increases to match that fear.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Consensus-Based Ontological Shifting. The subject
                      changes its fundamental nature (Field Type) based
@@ -103,9 +103,9 @@ TEMPORAL BEHAVIOR:   Instantaneous shift.
 
 REALITY INTERACTION: Ontological Instability / Causal Malleability.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 AFD-?.H-404 is housed in a "Neutral Quorum" chamber at Site-03.
 
@@ -144,18 +144,18 @@ BREACH PROTOCOL:         If a shift occurs, evacuate and flood the wing
                          collective memory of the staff, then
                          re-establish the "Boring" narrative.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 AFD-?.H-404 is the most reactive subject in the archive. It proves that
 the "Observer Effect" in quantum mechanics can be scaled up to
 ontological levels.
 
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 NOTE 001:
 The subject was briefly classified as a "Goddess" in 2014 following a

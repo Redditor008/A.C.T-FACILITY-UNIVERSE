@@ -1,7 +1,7 @@
 A.C.T FACILITY ARCHIVE FILE — GOI GV P 059 Grey Harbor Civil Rescue Directorate
 ===========================
 GROUP OF INTEREST REGISTRY - GREY HARBOR CIVIL RESCUE DIRECTORATE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                                                         |
@@ -90,13 +90,13 @@ Casualty names, child evacuation paths, responder audio, and active shelter loca
 are censored under CIVIL-RESCUE DISCLOSURE LIMIT. These omissions protect living
 survivors and prevent public reconstruction of breach geography from rescue records.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 IDENTITY AND INSTITUTIONAL FUNCTION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Group Function
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Grey Harbor Civil Rescue Directorate functions as a national emergency-rescue authority with specialized procedures
 for disasters that ordinary services cannot safely understand. Its repeated activity is civilian extraction, shelter
@@ -119,7 +119,7 @@ several incidents, delaying
 rescue until full explanation would have increased deaths.
 
 Public Presence and Concealment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Grey Harbor operates openly as a civil rescue and disaster-response authority. Its anomalous specialization is
 concealed inside ordinary emergency language: chemical leak, structural collapse, storm surge, industrial accident,
@@ -133,13 +133,13 @@ Public marks include grey harbor lanterns, slate rescue tags, blue-white stretch
 and shelter forms stamped BREATHING BEFORE BRIEFING. A.C.T Civil Covert Division has
 allowed some marks to remain because they improve civilian compliance during evacuation.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Leadership Condition
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Grey Harbor is directed by a concealed Director-General under an ordinary national disaster authority. A.C.T has
 identified several regional rescue chiefs, harbor captains, medical commanders, and shelter registrars, but the
@@ -151,7 +151,7 @@ anomalous function. Some documents imply full state authorization. Others imply 
 the Directorate survives by hiding its restricted manuals inside public rescue law.
 
 Internal Structure
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T assessment identifies these functional layers:
 
@@ -170,7 +170,7 @@ This structure makes the Directorate a real government GOI. It has
 command, law, personnel, public-facing authority, equipment, and doctrine.
 
 Membership and Recruitment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Membership includes professional rescuers, medics, ambulance drivers, dispatchers, divers, shelter workers, search
 teams, crisis counselors, engineers, logistics officers, and ordinary civil-defense staff. Most members begin in
@@ -186,13 +186,13 @@ to wait for permission.
 A.C.T has no evidence that the Directorate recruits from A.C.T. It does recruit responders who have survived incidents
 later covered by A.C.T narratives.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Stated Belief
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Directorate's most repeated doctrine line is:
 
@@ -210,7 +210,7 @@ are restricted. The Directorate does not demand full disclosure of anomaly reali
 an excuse to delay extraction, hide casualty counts, abandon responders, or erase families from the record.
 
 Assessed Objective
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T assesses that Grey Harbor seeks to preserve civilian life and civil trust during
 abnormal disasters. It wants
@@ -223,7 +223,7 @@ The Directorate is not a broad containment institution. It does not want long-te
 authority to enter, extract, triage, shelter, document, and notify.
 
 Anomalous Capability Assessment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Grey Harbor is assigned Handler capability. It handles anomaly-adjacent environments, abnormal injuries, unstable
 shelters, impossible evacuation routes, and witness populations. It does not consistently create anomalous objects or
@@ -242,7 +242,7 @@ Some tools, including grey-tag kits and siren lanterns, may require later
 object review, but the Directorate itself remains classed as Handler.
 
 Secrecy and Civilian Exposure
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Grey Harbor is Leaking because rescue produces witnesses, logs, photographs, dispatch calls, family notifications,
 triage sheets, body counts, and survivors who remember being carried out. The Directorate can conceal cause, but it
@@ -255,13 +255,13 @@ ask why their team was denied memory of a rescue. Hospitals ask why a
 patient file must be rewritten. Grey Harbor
 often keeps enough record to answer those questions later.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Operational Regions
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Grey Harbor operates nationally, with strongest presence in coastal districts, ports, flood routes, industrial cities,
 tunnel networks, bridge systems, hospital corridors, public shelters, and mass-evacuation zones. Site 05 is frequently
@@ -273,7 +273,7 @@ The Directorate's name originates from a harbor disaster office, but the current
 A.C.T must not reduce it to local coastal color.
 
 Known Assets and Holdings
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Known or assessed assets include:
 
@@ -293,7 +293,7 @@ Known or assessed assets include:
 A.C.T has used Grey Harbor assets during joint operations but does not own them.
 
 Operating Method
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Grey Harbor enters incidents through public emergency response. It establishes cordons, opens shelters, records
 evacuees, moves ambulances, deploys boats or buses, and keeps civilians away from the most obvious danger. Restricted
@@ -310,13 +310,13 @@ If the shelter count changes, keep feeding everyone until the number settles.
 These instructions save lives but create command friction. A.C.T field commanders are instructed not to treat every
 Grey Harbor override request as insubordination. Some are survival reports in emergency language.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 HISTORY WITH A.C.T
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Contact History
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T first encountered Grey Harbor as an unusually competent civil rescue partner during covered disasters.
 Directorate responders knew when to stop civilian traffic before visible hazard, when to separate witnesses without
@@ -334,7 +334,7 @@ until all evacuees were physically accounted for. That refusal identified three 
 who would have been erased as paperwork duplication under the initial cover plan.
 
 Current Relationship
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The current relationship is POSITIVE. Grey Harbor Civil Rescue Directorate saves civilians and improves emergency
 outcomes. A.C.T cooperates with the Directorate during disasters but does not control it. The relationship is not Work
@@ -347,13 +347,13 @@ A.C.T must expect disagreement. Grey Harbor will prioritize living civilians in 
 If A.C.T wants delayed extraction, full amnestic processing, or silent casualty
 adjustment, it must justify those decisions against rescue law and survivor care.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Responsible Jurisdiction
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Primary jurisdiction rests with Civil Covert Division, Recovery Division, and Medical Division. Intelligence Division
 monitors command structure, restricted manuals, and foreign contact. Subject Care attaches when witnesses, children,
@@ -367,7 +367,7 @@ forms and aftercare records
 must preserve whether the survivor was moved by Grey Harbor, A.C.T, municipal responders, or unknown actors.
 
 Posture Implementation
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T posture is COOPERATED / HELP / MONITOR. Cooperation is authorized for evacuation planning, shelter counts,
 triage, family notification, missing-child recovery, maritime extraction, hospital stabilization, and public cover
@@ -380,7 +380,7 @@ review. Those ledgers may
 contain the only surviving civilian continuity records for families.
 
 Response Limits and Red Lines
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T will not permit Grey Harbor to open shelters inside active lethal containment zones, broadcast restricted
 anomaly information, remove contained subjects under civilian-rescue pretext, or interfere with emergency quarantine
@@ -392,13 +392,13 @@ A.C.T will also not order responder amnestics solely to avoid embarrassment over
 delayed rescue, contradictory casualty counts, or public-cover weakness. Memory
 review must follow established aftercare doctrine and account for responder trauma.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 OPERATIONAL RECORDS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Restricted Operational Extract
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 GREY-TAG EVACUATION SHEET: GHCRD / FLOODLIGHT HARBOR
 ZONE: [CENSOR: WATERFRONT DISTRICT]
@@ -438,13 +438,13 @@ The responder audio remains sealed because the voice under the boat matched a ci
 later found alive inside an
 apartment three blocks away.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Confirmed Operational Facts
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - Grey Harbor Civil Rescue Directorate is an outside government rescue authority and not
 an A.C.T branch.
@@ -455,7 +455,7 @@ an A.C.T branch.
 civilians in reach.
 
 Active Intelligence Assessment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T assesses Grey Harbor as a specialized POSITIVE government GOI. Its strongest value is practical rescue before
 full explanation. Its strongest risk is that rescue creates records, witnesses, and moral claims that cannot always be
@@ -468,7 +468,7 @@ Its conflict with A.C.T should come from evacuation, survivor accounting, respon
 wanting control over anomalies.
 
 Persistent Questions
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - How many national officials know the Directorate's restricted anomalous-disaster function?
 - Are grey-tag kits anomalous, symbolic, or both?
@@ -482,20 +482,20 @@ custody would be unsafe?
 - How many responder memory-care files contain unreported A.C.T operational failures?
 
 Intelligence Confidence
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Moderate to High. Field outcomes, public assets, command structure, and repeated cooperation confirm the Directorate's
 institutional reality. Confidence is reduced by restricted government layers, sealed casualty recordings, and
 uncertainty around grey-tag and siren-lantern effects. Confidence may rise if A.C.T completes a joint evacuation
 drill, secures a full restricted rescue manual, or interviews the Director-General under Central Command protection.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 CROSS-REFERENCE STATUS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Anomaly and Record Relationship
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Grey Harbor Civil Rescue Directorate is an organization and therefore belongs in the GOI archive. Individual siren
 lanterns, grey tags, shelters, rescue recordings, anomalous flood routes, duplicate casualty records, or impossible
@@ -503,7 +503,7 @@ evacuation vehicles may require separate anomaly, incident, access-and-egress, w
 record must not replace disaster casualty records or survivor care.
 
 Related A.C.T Records
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - CONTROLLED RECORD FORM, Group of Interest Registry
 - GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE, Group of Interest Registry
@@ -516,17 +516,17 @@ Related A.C.T Records
 Central Archive routing.
 
 Dual Filing
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Under review. Grey Harbor is a government GOI, but some equipment, shelters, siren tones,
 rescue tags, or dispatch recordings may require separate filing. Dual filing is mandatory
 when a Grey Harbor asset acts independently, changes route access, preserves or alters
 memory, produces abnormal shelter counts, or remains active after the rescue incident closes.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FILE METADATA
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FILE CREATED:            06/07/1967
 FILE LAST UPDATED:       13/09/1986

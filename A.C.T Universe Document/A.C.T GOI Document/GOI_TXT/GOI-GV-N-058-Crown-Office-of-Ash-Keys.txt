@@ -1,7 +1,7 @@
 A.C.T FACILITY ARCHIVE FILE — GOI GV N 058 Crown Office of Ash Keys
 ===========================
 GROUP OF INTEREST REGISTRY - CROWN OFFICE OF ASH KEYS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                                                         |
@@ -91,13 +91,13 @@ Names of living heirs, dynastic charters, and active oath-lock sites are censore
 censorship protects families with inherited exposure. Some protects vault locations. Some protects A.C.T from
 triggering legal or anomalous obligations by naming the wrong office in a public record.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 IDENTITY AND INSTITUTIONAL FUNCTION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Group Function
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Crown Office of Ash Keys functions as an old-state relic custody and inheritance-control institution. Its repeated
 activity is the preservation, registration, transfer, sealing, and legal defense of objects and rooms that were bound
@@ -117,7 +117,7 @@ chapel vault requires permission from a government that no longer rules but whos
 mechanism still responds.
 
 Public Presence and Concealment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Office hides behind heritage administration, estate law, crown-property archives, museum loan disputes, probate
 courts, chapel trusts, ceremonial guard units, land registries, notarial offices, and private collection audits. Most
@@ -132,13 +132,13 @@ rather than owned. A.C.T has confirmed
 that several ordinary legal notices were written to conceal anomalous containment. The Office prefers paperwork
 because old paperwork can become a lock.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Leadership Condition
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The highest confirmed title is Lord Clerk of Ash Keys. A.C.T has not confirmed
 whether one living person holds the
@@ -153,7 +153,7 @@ an old obligation remains active. Estate Stewards maintain buildings whose owner
 condition beneath ordinary property law.
 
 Internal Structure
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T assessment identifies these functional layers:
 
@@ -174,7 +174,7 @@ custody tools, regional reach, and
 continuing legal effect.
 
 Membership and Recruitment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Membership appears to come from hereditary service families, state archivists, property lawyers, museum conservators,
 chapel custodians, retired ceremonial guards, estate surveyors, and descendants of individuals once ordered to keep
@@ -190,13 +190,13 @@ it.
 The Office does not recruit publicly. Membership often follows inheritance,
 oath selection, or discovery of a key that burns cold in the hand.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Stated Belief
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The most repeated Office phrase reads:
 
@@ -214,7 +214,7 @@ It believes that certain objects
 become more dangerous when modern institutions treat them as unclaimed property, museum material, evidence, or loot.
 
 Assessed Objective
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T assesses that the Crown Office of Ash Keys seeks to preserve binding custody
 over old anomalous holdings until
@@ -229,7 +229,7 @@ charter. The Office does not move quickly unless the old document says urgency i
 permitted.
 
 Anomalous Capability Assessment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Office is assigned Handler capability. It handles anomalous relics, keys, locks, rooms, oaths, documents, routes,
 and inherited custody conditions. A.C.T has not confirmed that the Office creates anomalies, though some ash keys and
@@ -250,7 +250,7 @@ it;
 The Office is not assessed as Practitioner or Engineering without further evidence.
 
 Secrecy and Civilian Exposure
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Office is Veiled because its concealment method is old bureaucracy. Families receive letters. Museums receive loan
 refusals. Courts receive sealed filings. Contractors are told that a room cannot be opened because of title
@@ -263,13 +263,13 @@ dispute ends. Civil Covert
 Division must respect that some Office records are already embedded in public legal systems and cannot be erased
 cleanly without creating new contradictions.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Operational Regions
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Office is assigned Regional reach. Its strongest confirmed operations cluster around old
 estates, former royal holdings, charter towns, chapel crypts, museum vaults, inherited land
@@ -281,7 +281,7 @@ records pressure. Central Archive attaches because Office ledgers may contradict
 review applies whenever an old holding falls inside another Site's jurisdiction.
 
 Known Assets and Holdings
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Known or assessed assets include:
 
@@ -303,7 +303,7 @@ abnormality after removal from
 the door they served.
 
 Operating Method
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Office acts when an old custody condition is disturbed. Triggers include death of
 an heir, sale of an estate,
@@ -322,13 +322,13 @@ If A.C.T accepts custody, A.C.T accepts the apology attached to custody.
 The final sentence is unresolved. A.C.T Legal Liaison has not determined whether accepting certain objects obligates
 the institution to perform historical apology, restitution, or memorial acts.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 HISTORY WITH A.C.T
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Contact History
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T contact with the Crown Office of Ash Keys predates the current consolidated filing but was not recognized as one
 pattern. Earlier field teams encountered sealed estate refusals, museum documents, probate delays, chapel guards, and
@@ -349,7 +349,7 @@ A.C.T later determined that immediate forced entry would likely
 have transferred custody to the nearest child in the house.
 
 Current Relationship
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The current relationship is NEUTRAL. The Office cooperates when cooperation preserves old custody. It obstructs when
 A.C.T action violates custody. It neither seeks A.C.T partnership nor A.C.T defeat. It is an independent old-state
@@ -359,13 +359,13 @@ A.C.T must approach the Office with patience. Treating all claims as superstitio
 Treating all claims as binding law may surrender A.C.T authority to obsolete offices. Each contact requires legal,
 archival, and containment review.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Responsible Jurisdiction
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Primary jurisdiction rests with Intelligence Division, Central Archive, Civil Covert Division, and Legal Liaison.
 Recovery Division attaches when relic transfer, estate entry, vault opening, or object transport is required.
@@ -374,7 +374,7 @@ Archive retains review authority when Office records contradict A.C.T history or
 Facility's known custody chain.
 
 Posture Implementation
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T posture is MONITOR / MISDIRECT / COOPERATED. Monitoring includes blackened keys, estate notices, museum loan
 refusals, probate delays, ash-ribbon tags, vault ushers, and burned-lock ledger references. Misdirection is authorized
@@ -386,7 +386,7 @@ A.C.T personnel may not sign Office acceptance forms without Legal Liaison and C
 appear to transfer more than physical custody.
 
 Response Limits and Red Lines
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T will not permit the Office to endanger civilians by delaying emergency containment, sacrifice heirs to maintain
 old law, sell relic access through noble privilege, or conceal an active hazard inside
@@ -398,13 +398,13 @@ A.C.T will also not destroy old custody systems merely because they predate mode
 witness rite, or sealed charter is actively preventing harm, removal requires a replacement containment plan and a
 legal record of why the old method was superseded.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 OPERATIONAL RECORDS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Restricted Operational Extract
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 ASH-KEY NOTICE: COAK / KEEPER-CHANCELLOR WEST
 ESTATE: [CENSOR: WEST WING INHERITANCE]
@@ -440,13 +440,13 @@ Witness: sufficient.
 
 The ledger fragment remains legible only under low candlelight. Digital scans show blank ash smears.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Confirmed Operational Facts
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - The Crown Office of Ash Keys is an outside old-state government office and
 not an A.C.T division.
@@ -458,7 +458,7 @@ obligations.
 claims.
 
 Active Intelligence Assessment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T assesses the Crown Office of Ash Keys as a specialized NEUTRAL government GOI.
 Its value lies in old custody
@@ -472,7 +472,7 @@ containment, survivor inheritance meeting object custody, and A.C.T
 discovering that some dangers were already named before A.C.T existed.
 
 Persistent Questions
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - Does the Lord Clerk of Ash Keys exist as one person, a rotating
 office, or a legal condition activated by custody
@@ -490,20 +490,20 @@ curators do not understand?
 into A.C.T archives?
 
 Intelligence Confidence
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Moderate. Repeated documents, field interventions, relic custody effects, and legal records confirm organizational
 continuity. Leadership identity, full vault inventory, charter origin, and the mechanism behind ash-key binding remain
 unresolved. Confidence may rise if A.C.T secures an uncensored burned-lock ledger, conducts a joint vault audit, or
 verifies the living holder of the Lord Clerk title.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 CROSS-REFERENCE STATUS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Anomaly and Record Relationship
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Crown Office of Ash Keys is an organization and therefore belongs in the
 GOI archive. Individual relics, rooms,
@@ -512,7 +512,7 @@ site, incident, legal, or recovered-document files. The organization record must
 be used as a substitute for object classification or heir-protection review.
 
 Related A.C.T Records
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - CONTROLLED RECORD FORM, Group of Interest Registry
 - GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE, Group of Interest Registry
@@ -524,7 +524,7 @@ Related A.C.T Records
 Central Archive routing.
 
 Dual Filing
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Under review. The Office is a government GOI, but active ash keys, oath seals,
 burned-lock ledgers, rooms, or relics
@@ -532,10 +532,10 @@ may require separate filing. Dual filing is mandatory when a custody object acts
 alters ownership records, opens an absent room, or imposes a duty on A.C.T personnel
 or Sites.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FILE METADATA
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FILE CREATED:            24/05/1939
 FILE LAST UPDATED:       23/07/1941

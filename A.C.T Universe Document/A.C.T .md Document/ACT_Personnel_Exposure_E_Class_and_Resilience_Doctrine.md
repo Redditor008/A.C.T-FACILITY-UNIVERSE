@@ -115,8 +115,8 @@ discipline, loyalty, debt, memory alteration, and lack of civilian alternatives 
 
 For that reason:
 
-  E-Class assignment must be explained in task-specific language when the individual is capable of understanding the
-  assignment;
+  E-Class assignment must be explained in task-specific language
+  when the individual is capable of understanding the assignment;
   refusal must be recorded as evidence, even where refusal does not halt the
   assignment;
   refusal by an Excommunicated Class subject may trigger command review, not automatic escalation to cruelty;
@@ -294,8 +294,8 @@ The following are prohibited under this doctrine:
 - using amnestics to pretend excommunication equals consent;
 - forcing a handler to continue because a subject prefers them;
 - classifying compassion as contamination without evidence;
-  pushing BRUISED E-Class personnel into high-risk duty to meet schedule pressure without recording the institutional
-  violation;
+  pushing BRUISED E-Class personnel into high-risk duty to meet
+  schedule pressure without recording the institutional violation;
 - keeping transformed personnel on payroll without identity review;
   calling a person "asset" in medical-care files unless the person is no longer
   legally

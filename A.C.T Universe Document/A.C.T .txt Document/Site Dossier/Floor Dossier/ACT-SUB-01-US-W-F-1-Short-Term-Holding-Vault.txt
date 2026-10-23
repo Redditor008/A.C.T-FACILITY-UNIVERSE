@@ -11,7 +11,7 @@ Dossier Number: FLOOR-DOSSIER-SUB-01-US-W-F-1
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard / ACT Floor Record Standard
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 Archive Note
 
@@ -32,7 +32,7 @@ floor built
 for transience serves an installation whose entire doctrine is defined by
 the same limit.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 1. Floor Registry Identity Summary
 
@@ -55,7 +55,7 @@ Doctrine Note: Designed for days-to-weeks holding, never long-term
 residency; subject to the relay's "F-1 closure" response — closing F-1 to
 the outside seals the level
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 2. Dossier Purpose
 
@@ -71,7 +71,7 @@ receive them. The floor is built for the wait — days to weeks, never
 longer — and its entire design assumes that everything it holds will move
 on.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 3. Position in the Site Stack
 
@@ -96,7 +96,7 @@ Facility standards — the relay's purpose is proximity to the recovery
 corridors, not depth — and the vault's security depends on control rather
 than on distance.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 4. Historical Foundation
 
@@ -122,7 +122,7 @@ In its modern configuration, F-1 is the relay's secure holding level:
 short-term containment for the low-threat material that passes through the
 relay on its way to the parent site.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 5. Command and Authority
 
@@ -147,7 +147,7 @@ and no authority to transfer material to any destination other than the
 parent site or the destinations the parent site authorizes. Its role is to
 hold low-threat material briefly and to move it on.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 6. Divisional Presence
 
@@ -174,7 +174,7 @@ documentation of staged material: records of what is held, when it arrived,
 and when it must transfer are maintained under the relay's documentation
 standard.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 7. Physical Plant and Architecture
 
@@ -211,7 +211,7 @@ services, and monitoring throughout. The floor is designed for throughput
 rather than depth — its architecture assumes that its units will empty and
 refill as the recovery flow dictates.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 8. Systems and Infrastructure
 
@@ -238,7 +238,7 @@ The floor maintains communication with the relay's levels and with the
 parent site's transfer coordination. Documentation is exact and
 time-limited: every holding's record is tied to its transfer schedule.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 9. Security and Containment Architecture
 
@@ -271,7 +271,7 @@ relationship with the parent site: material moves under documented
 chain-of-custody, on the parent site's schedule, and never without the
 authorization the material's holding status requires.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 10. Holdings and Filing Doctrine
 
@@ -297,7 +297,7 @@ maximum procedural restriction — until the parent site assumes control.
 The floor is not equipped, and is not intended, to hold such material
 beyond the emergency transit window.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 11. Personnel and Duty Life
 
@@ -321,7 +321,7 @@ understanding that everything on the floor is on its way somewhere else.
 Personnel on F-1 learn to hold without keeping — the skill of an
 installation whose entire purpose is to pass material through.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 12. Floor Doctrine
 
@@ -343,7 +343,7 @@ F-1 doctrine holds that the floor must be sealable: the level is designed
 to close during a breach response, and the relay maintains the procedure so
 that closure is executed without hesitation.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 13. Incident Archive
 
@@ -353,7 +353,7 @@ that exceeds the relay's capacity or its authority is recorded and
 transferred, and the floor's history is largely the history of successful
 redirection.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 14. Current Status and Projected Development
 
@@ -363,7 +363,7 @@ priorities include:
 - maintenance of the holding units and monitoring infrastructure;
 - coordination with the parent site on transfer scheduling.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 15. Cross-Referenced Files
 
@@ -374,7 +374,7 @@ priorities include:
 - ACT_Site_Doctrine_and_Installation_Structure.md / .txt
 - Parent command Annex Register (clearance-gated)
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 Archive Closing
 

@@ -97,13 +97,13 @@ The system is documentary and logistical rather than mechanical. Its recovered c
  incident;
 - **warranty ledger pages** storing child drawings and caregiver notes;
 - **recall lists** naming product lots, some unknown to A.C.T;
- **product catalogues with missing pages**, where the removed pages are presumed to describe items A.C.T has not
- recovered;
+ **product catalogues with missing pages**, where the removed
+ pages are presumed to describe items A.C.T has not recovered;
 - **sealed failure crates** marked **DO NOT RETURN TO CHILD**;
  **caregiver instruction cards** written to be understood by
  a frightened adult, shared across the whole product range;
- **production tags** stitched under seams or hidden behind battery plates, which are the only per-unit identifiers
- A.C.T has ever located.
+ **production tags** stitched under seams or hidden behind battery
+ plates, which are the only per-unit identifiers A.C.T has ever located.
 
 The blue card is the only live interface A.C.T has observed. When called, the
 number connected to a recorded lullaby

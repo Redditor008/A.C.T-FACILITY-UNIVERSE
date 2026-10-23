@@ -1,10 +1,10 @@
 A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
 I-AM-A-Test-Testing-Dossier-AFD-OB-001
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
               A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-OB-001
 TITLE I:             I AM A Test
@@ -23,9 +23,9 @@ CONTAINMENT SITE:    Primary Facility / Central Archive / Document Reference Sto
 ARCHIVE STATUS:      Active / Training-Approved
 DOSSIER STATUS:      Closed / Training Reference Active
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
 
 This dossier belongs to A.C.T Log Category III — Experiment & Testing Dossier.
 The document may contain multiple related log types as long as they support the
@@ -46,9 +46,9 @@ To preserve the controlled evidence showing how AFD-OB-001 behaves under safe
 archive testing conditions. The dossier explains why the main anomaly file lists
 AFD-OB-001 as INERT, Threat Level 0, and approved for Level 1 training use.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
                          DOSSIER SUMMARY
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
 
 AFD-OB-001, designated I AM A Test, is a harmless document-state anomaly used
 by A.C.T as a controlled example for anomaly-file familiarization.
@@ -70,9 +70,9 @@ This dossier confirms that AFD-OB-001 is:
 A main anomaly file tells personnel what to do. This dossier records why those
 instructions exist.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
                      SECTION 001 — BASELINE INTAKE LOG
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-001/TST-001
 LOG TYPE:            Baseline Intake Log
@@ -105,9 +105,9 @@ The object remained fully readable throughout intake. No personnel reported
 headache, memory loss, compulsive rereading, emotional pressure, or perceptual
 shift.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
                   SECTION 002 — FIRST-COMPLETION LOCK TEST
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-001/TST-002
 LOG TYPE:            Trigger Confirmation Test
@@ -143,9 +143,9 @@ Confirmed. AFD-OB-001 enters immutable state after first finalized iteration.
 CONCLUSION:
 The anomaly does not prevent drafting. It prevents post-completion alteration.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
                      SECTION 003 — ERASURE TEST LOG
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-001/TST-003
 LOG TYPE:            Physical Alteration Test
@@ -185,9 +185,9 @@ ARCHIVE NOTE:
 Testing staff reported the sensation that the document was not resisting damage,
 but simply treating revision as inapplicable.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
                    SECTION 004 — DIGITAL REVISION TEST LOG
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-001/TST-004
 LOG TYPE:            Digital Alteration Test
@@ -223,9 +223,9 @@ The immutability effect extends to direct digital representations produced from
 the object. It does not prevent independent new documents from being written
 about the object.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
                        SECTION 005 — COPY TEST LOG
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-001/TST-005
 LOG TYPE:            Reproduction Test
@@ -259,9 +259,9 @@ ARCHIVE NOTE:
 Personnel are advised not to overformalize practice copies. The document appears
 sensitive to completion status, not to content alone.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
                  SECTION 006 — AUTHORIZED REVISION ATTEMPT
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-001/TST-006
 LOG TYPE:            Authorized Revision Test
@@ -292,9 +292,9 @@ CONCLUSION:
 AFD-OB-001 does not reject A.C.T authority. It rejects alteration of completed
 state.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
                     SECTION 007 — HANDLING TRAINING LOG
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-001/TRN-001
 LOG TYPE:            Handling Training Log
@@ -327,9 +327,9 @@ AFD-OB-001 is useful because it demonstrates an anomaly with no threat, no
 hostility, and no dramatic breach behavior while still requiring procedural
 respect.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
                      SECTION 008 — ARCHIVE REVIEW NOTE
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-001/REV-001
 LOG TYPE:            Archive Review Note
@@ -358,9 +358,9 @@ Do not attempt further correction of AFD-OB-001. If a cleaner, corrected, or
 expanded version is needed, create a new document under a separate title or
 append a dossier entry. The original is to remain as first completed.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------------+
 
 AFD-OB-001 requires no additional testing at this time. All known anomalous
 behavior is limited to preservation of first completed document state.

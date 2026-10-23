@@ -1,7 +1,7 @@
 A.C.T FACILITY ARCHIVE FILE — GOI CU P 064 Last Bell Congregation
 ===========================
 GROUP OF INTEREST REGISTRY - LAST BELL CONGREGATION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                                                         |
@@ -89,13 +89,13 @@ Active end calendars, true-bell tone notations, child shelter rosters, and faile
 LAST-BELL DISCLOSURE LIMIT. Some redactions prevent public panic. Others prevent hostile groups from using the
 Congregation's warning patterns to identify future A.C.T response windows.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 IDENTITY AND INSTITUTIONAL FUNCTION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Group Function
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Last Bell Congregation functions as a religious disaster-preparation and end-warning network. Its repeated activity is
 the identification of early signs, ringing of coded bells, preparation of shelters, distribution of route cards,
@@ -119,7 +119,7 @@ arrive. It believes the end is always near enough to require mercy, warning, and
 stores of bread.
 
 Public Presence and Concealment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Last Bell hides in plain religious life: churches, chapels, bell towers, roadside shrines, disaster volunteer groups,
 food banks, storm shelters, coastal warning societies, funeral guilds, and rural prayer meetings. Civilians may see
@@ -133,13 +133,13 @@ A.C.T Civil Covert Division treats that final phrase as a normalcy risk because 
 undermines public trust in ordinary
 warnings and official disaster messaging.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Leadership Condition
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Local cells are led by Bellwardens, Alarm Readers, Shelter Deacons, Calendar Mothers, and Route Brothers or Sisters.
 These are functional offices rather than proof of one church hierarchy. Bellwardens control warning bells and decide
@@ -153,7 +153,7 @@ confirmed. The First Ringer may be a founder, a myth, a rotating role activated
 during major warnings, or an absent authority invoked to restrain local panic.
 
 Internal Structure
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T assessment identifies these functional layers:
 
@@ -173,7 +173,7 @@ It has roles, correction
 practices, stores, shelters, and repeated operational effect.
 
 Membership and Recruitment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Membership includes clergy, lay families, disaster volunteers, shelter cooks, rural radio operators, bell ringers,
 grief counselors, route drivers, coastal observers, farmers, teachers, and survivors of prior abnormal disasters. The
@@ -188,13 +188,13 @@ of everyone who sleeps under your roof.
 A.C.T has no confirmed evidence that Last Bell deliberately creates disasters to validate warnings. Any such evidence
 would trigger immediate relationship review.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Stated Belief
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Last Bell believes that apocalypse is not only one final cosmic event. An ending
 can be a town lost to impossible
@@ -215,7 +215,7 @@ people should not wait for official
 permission to survive.
 
 Assessed Objective
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T assesses that Last Bell seeks to build a prepared civilian network able to
 survive abnormal disaster, local
@@ -229,7 +229,7 @@ conflicts with A.C.T when public warnings expose restricted patterns, move civil
 through unapproved routes, or create panic before field teams can verify hazard.
 
 Anomalous Capability Assessment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Last Bell Congregation is assigned Practitioner capability because some bell rites and calendar practices produce
 repeatable warning or stabilizing effects beyond ordinary
@@ -249,7 +249,7 @@ The Congregation is not assessed as Engineering. Its practice relies on bells, r
 attention, shelters, and communal readiness rather than manufactured anomaly devices.
 
 Secrecy and Civilian Exposure
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Last Bell is Leaking because warnings must reach people before disaster. The group may
 ring bells, distribute
@@ -263,13 +263,13 @@ the sirens. Civil Covert
 Division must treat Last Bell not as a leak by malice, but as a
 leak by preparedness.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Operational Regions
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Last Bell operates transnationally through churches, rural bell towers, coastal towns, mountain chapels, disaster
 shelters, migrant communities, border roads, old schools, and neighborhoods repeatedly affected by unexplained local
@@ -280,7 +280,7 @@ sounds carry informational hazard. Site 04 attaches when
 wilderness routes and isolated refuge communities are involved.
 
 Known Assets and Holdings
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Known or assessed assets include:
 
@@ -301,7 +301,7 @@ A.C.T has recovered several route cards and one inactive
 bell-ribbon set. Active true-bell notation remains restricted.
 
 Operating Method
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A typical Last Bell intervention begins with signs. An Alarm Reader receives dream reports, clock failures, tide
 notes, animal silence, weather contradictions, or repeated phrases from local members. The Calendar Mother compares
@@ -319,13 +319,13 @@ If A.C.T blocks the main road, use the prayer route unless fire follows.
 
 A.C.T treats unapproved prayer routes as an access-and-egress risk, especially when they cross containment perimeters.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 HISTORY WITH A.C.T
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Contact History
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T first encountered Last Bell as public warning irregularities before covered
 disasters. Bells rang before official sirens. Chapel shelters filled before evacuation
@@ -345,7 +345,7 @@ The Bellwarden answered:
 Because the sea was already answering the bell.
 
 Current Relationship
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The current relationship is POSITIVE. The Congregation saves civilians and improves local readiness. A.C.T may
 cooperate with Last Bell during verified warning windows, shelter preparation, and evacuation. The relationship is not
@@ -359,13 +359,13 @@ Deep seek awakening of a sealed
 apocalyptic anomaly. Last Bell prepares people to survive endings it fears. Both use religious language around
 apocalypse. Their objectives are opposite.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Responsible Jurisdiction
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Primary jurisdiction rests with Intelligence Division, Civil Covert Division, and Recovery
 Division. Site 05 reviews maritime, seismic, volcanic, and coastal warnings. Site 01 reviews urban
@@ -376,7 +376,7 @@ Access and egress ledgers must record Last Bell movement separately from A.C.T e
 civilians while still breaking containment accounting.
 
 Posture Implementation
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T posture is MONITOR / HELP / COOPERATED. Monitoring includes bells, warning dates, route cards, shelter ledgers,
 false-alarm confession records, child counters, and cells that repeatedly predict A.C.T-covered incidents. Help is
@@ -389,7 +389,7 @@ will move civilians into greater
 danger.
 
 Response Limits and Red Lines
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T will not permit Last Bell to provoke mass panic, publish active Site operations,
 guide civilians into
@@ -403,13 +403,13 @@ much. If Last Bell shelter
 practice reduces casualties, Civil Covert and Recovery must
 review whether controlled cooperation is safer than suppression.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 OPERATIONAL RECORDS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Restricted Operational Extract
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 BELLWARDEN NOTICE: LBC / THIRD-RING COAST
 TOWN: [CENSOR: COASTAL MUNICIPALITY]
@@ -448,13 +448,13 @@ Fear returned to sender.
 The failed-calendar fragment is retained because it shows the Congregation has internal correction practice and does
 not treat every failed warning as proof of conspiracy.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Confirmed Operational Facts
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - Last Bell Congregation is an outside cultic apocalypse-warning network and not an A.C.T
 body.
@@ -465,7 +465,7 @@ rites.
 - The Congregation's objective is survival preparation, not apocalypse creation.
 
 Active Intelligence Assessment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A.C.T assesses Last Bell as a specialized POSITIVE apocalypse-worshiper GOI. The label apocalypse-worshiper must be
 handled carefully. Last Bell organizes life around the possibility of endings, but its worship is directed toward
@@ -478,7 +478,7 @@ evacuation through religious routes. The best A.C.T response is measured coopera
 indicators, with containment of hazardous bell tones or reckless public alarms.
 
 Persistent Questions
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - Was the First Ringer a founder, a survivor of a local apocalypse, an
 anomalous bell, or a title for whoever first
@@ -495,20 +495,20 @@ Lintel or another outside group?
 unresolved anomaly condition?
 
 Intelligence Confidence
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Moderate. Recovered notices, shelter ledgers, confirmed warning events, and consistent roles establish organizational
 reality. Confidence is limited by independent cells, religious interpretation, false alarms, and unresolved mechanisms
 behind true-bell events. Confidence may rise if A.C.T completes a controlled shelter audit, records an active
 true-bell tone safely, or verifies the origin and function of the First Ringer tradition.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 CROSS-REFERENCE STATUS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Anomaly and Record Relationship
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Last Bell Congregation is an organization and therefore belongs in the GOI archive. Individual bells, calendars,
 shelters, route cards, dreams, warning tones, or end-state incidents may require
@@ -516,7 +516,7 @@ separate anomaly, incident, access-and-egress, witness, or recovered-document fi
 The organization record must not replace disaster files or prophecy-effect review.
 
 Related A.C.T Records
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - CONTROLLED RECORD FORM, Group of Interest Registry
 - GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE, Group of Interest Registry
@@ -530,7 +530,7 @@ Related A.C.T Records
 under Central Archive routing.
 
 Dual Filing
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Under review. Last Bell is a cultic GOI, but specific bells, calendars, shelters, route
 cards, dreams, or warning
@@ -539,10 +539,10 @@ human contact, a calendar marks
 a future incident with verifiable precision, a shelter changes physical capacity, a route card updates itself, or a
 warning rite produces measurable cognitive or environmental effect.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FILE METADATA
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FILE CREATED:            02/11/1947
 FILE LAST UPDATED:       28/08/1960

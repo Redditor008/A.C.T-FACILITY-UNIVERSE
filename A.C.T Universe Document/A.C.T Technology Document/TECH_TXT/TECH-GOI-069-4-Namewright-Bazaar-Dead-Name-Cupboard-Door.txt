@@ -1,5 +1,5 @@
 A.C.T FACILITY ARCHIVE FILE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Namewright Bazaar Dead-Name Cupboard Door
 =========================================
@@ -12,7 +12,7 @@ Origin: Namewright Bazaar (GOI-BS-X-069), Bazaar premises fitting
 Clearance: Level 4 for custody; Level 5 for any handling
 
 Archive Note
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The archive holds one dead-name cupboard door. It does not hold the cupboard.
 
@@ -36,7 +36,7 @@ This is a door and not a cupboard. The contents are unrecovered and must be trea
 rather than inventory. Personnel must not reassemble it, must not seal it, and must not discard it.
 
 THE OBJECT
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 1.1 What the door is
 ====================
@@ -81,7 +81,7 @@ The door may carry residue. A cupboard that held cut name carriers may hold frag
 surface or in its frame, and the frame is held intact so that an examination remains possible.
 
 HANDLING
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 2.1 Custody
 ===========
@@ -127,7 +127,7 @@ Step 6 is the only place in the whole trade where the removed material is accoun
 archive holds the door of one such cupboard and none of its contents.
 
 DIVISION USE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | DIVISION                   | USE                                                                                   |
@@ -144,7 +144,7 @@ DIVISION USE
 +----------------------------+---------------------------------------------------------------------------------------+
 
 OPEN QUESTIONS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - where the cupboard this door fitted is, and whether it still exists;
 - whether dead-name cupboards store their contents or destroy them;
@@ -159,7 +159,7 @@ returning them is a Subject Care obligation rather than an intelligence opportun
 closes that question and nothing should.
 
 CROSS-REFERENCES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - GOI-BS-X-069 — Namewright Bazaar, Group of Interest Dossier
 - TECH-GOI-069-1 — Namewright Bazaar Partial Name Ledger, Technology Record
@@ -171,7 +171,7 @@ look official, and the cupboard holds what was cut away. The archive holds one p
 two knives, three stamps and one door, and holds no cupboard and no contents.
 
 FILE METADATA
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Record Type: Technology Record — Recovered Adversary Device
 Created: 16/03/2022

@@ -36,7 +36,7 @@ Authorization: O5-level only
 004-A is effectively total mnemonic destruction. Use is considered extreme and existentially invasive. Survivability
 of identity continuity is not assumed.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 004-B
 Composition: 80% sap / 20% water-alcohol
@@ -47,7 +47,7 @@ Authorization: Administrator or O5-level review
 004-B is one of the most severe fieldable compounds. It is not approved for
 ordinary civilian use.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 004-C
 Composition: 70% sap / 30% water-alcohol
@@ -57,7 +57,7 @@ Authorization: high-threat secrecy review only
 
 004-C remains highly dangerous and operationally unstable.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 004-D
 Composition: 50% sap / 50% water-alcohol
@@ -67,7 +67,7 @@ Authorization: severe compromise response only
 
 004-D is considered highly effective but biologically dangerous.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 004-E
 Composition: 30% sap / 70% water-alcohol
@@ -77,7 +77,7 @@ Authorization: restricted internal clearance only
 
 004-E is a lower but still severe long-term wipe formulation.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 004-F
 Composition: 10% sap / 90% water-alcohol
@@ -87,7 +87,7 @@ Authorization: controlled witness suppression use
 
 004-F is one of the more practical operational grades, though still medically dangerous.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 004-G
 Composition: 5% sap / 95% water-alcohol
@@ -97,7 +97,7 @@ Authorization: limited field use
 
 004-G is used where a short-term but meaningful recall removal window is sufficient.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------------------------------------------+
 
 004-H
 Composition: 1% sap / 99% water-alcohol

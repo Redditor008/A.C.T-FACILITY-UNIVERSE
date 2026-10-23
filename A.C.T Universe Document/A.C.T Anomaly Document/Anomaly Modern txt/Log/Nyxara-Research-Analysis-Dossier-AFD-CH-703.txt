@@ -1,10 +1,10 @@
 A.C.T FACILITY — RESEARCH & ANALYSIS DOSSIER
 Nyxara-Research-Analysis-Dossier-AFD-CH-703
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
              A.C.T FACILITY — RESEARCH & ANALYSIS DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-CH-703
 TITLE I:             Nyxara
@@ -25,9 +25,9 @@ JURISDICTIONAL AUTHORITY:  Cosmic Hazard Review / Nusantara Deep Relay
 ARCHIVE STATUS:      Active / Cosmic Continuity restricted
 DOSSIER STATUS:      Open / Long-range observation under review
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
                            CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 This dossier belongs to A.C.T Log Category VI — Research & Analysis Dossier.
 Because AFD-CH-703 cannot be physically contained, approached, sampled, or
@@ -54,9 +54,9 @@ To preserve A.C.T's analysis of how AFD-CH-703 regulates the planet's
 hydrology in sleep, why close observation fails to perceive her, and what the
 three annual 100% visibility windows require of the containment network.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
    SECTION 001 — VISIBILITY WINDOW CORRELATION — THE NYXARA CALENDAR
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-703/RES-001
 DATE:                1959-10-07 (Lunik 3 Correlation) — reviewed annually
@@ -90,9 +90,9 @@ because a public prediction of the windows would hand the anomaly a calendar.
 Monitoring is continuous (celestial and tidal) by 4 celestial analysts and 2
 maritime-link operators, with an annual visibility-window calibration cycle.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
       SECTION 002 — TIDAL-LINKAGE AND HYDROLOGICAL ANCHOR REVIEW
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-703/RES-002
 DATE:                Ongoing / updated quarterly
@@ -117,9 +117,9 @@ attributed to standard gravitational mechanics and thermal-saline circulation
 models. Any ship or station that records "Hydrological Pulsing" consistent
 with subject movement must have its data intercepted.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
          SECTION 003 — PROXIMITY-INVISIBILITY HYPOTHESIS FILE
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-703/RES-003
 DATE:                Ongoing — updated with each lunar mission
@@ -144,9 +144,9 @@ close range, the "Galaxy Motive" light-residue can sometimes cause film
 artifacts that must be scrubbed before public release. No mission profile may
 be altered to test the property, and no attempt to defeat it is authorized.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
         SECTION 004 — ACOUSTIC ANOMALY — THE 1,000 KM SLEEP HUM
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-703/RES-004
 DATE:                On file — continuous correlation
@@ -164,9 +164,9 @@ biological timebase for a 1,000 km entity. The hum is the closest thing to
 a
 direct physiological reading A.C.T possesses of AFD-CH-703.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
      SECTION 005 — AGE, ORIGIN, AND DORMANCY-PROTECTION ASSESSMENT
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-703/RES-005
 DATE:                Standing assessment
@@ -187,9 +187,9 @@ consequences of her Waking are calculated as a [ REDACTED ]-level extinction
 event. No nuclear testing or large-scale kinetic impactors are permitted on
 the lunar surface.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
     SECTION 006 — CONSULTATION RECORD — THE COUNTESS OF HORN (1968)
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-703/CON-001
 DATE:                1968
@@ -210,9 +210,9 @@ closed as INVIOLABLE — Forbidden. The consult is preserved because it remains
 the clearest statement of the standing prohibition: the subject is not to be
 approached, woken, moved, or altered in any way.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
                 SECTION 007 — CLOSING ARCHIVE STATEMENT
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-703/CLS-001
 DATE:                2026-09-08

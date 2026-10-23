@@ -1,10 +1,10 @@
 A.C.T FACILITY — RECOVERY & DISCOVERY DOSSIER
 Maid-Of-Gear-VESPER-Recovery-Discovery-Dossier-AFD-SU-020
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
              A.C.T FACILITY — RECOVERY & DISCOVERY DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-020
 TITLE I:             Maid Of Gear-VESPER
@@ -26,9 +26,9 @@ DOSSIER STATUS:      Open / Recovery sequence archived
 RECOVERED MATERIAL:  Vesper_Full_Master_Database.pdf
 MATERIAL LOCATION:   Anomaly Log / Vesper_Full_Master_Database.pdf
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 This dossier belongs to A.C.T Log Category I — Recovery & Discovery Dossier.
 The document may contain multiple related discovery, recovery, first-contact,
@@ -48,9 +48,9 @@ To preserve the first chain of custody for AFD-SU-020, including the alleyway
 recovery, low-metabolism condition, non-combatant response, first words after
 partial wake, and recovery of the future-origin database file.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                          DOSSIER SUMMARY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 AFD-SU-020, identifying as Vesper, was recovered in a shutdown or low-metabolism
 state from a service alley behind an abandoned textile warehouse in Jakarta,
@@ -70,9 +70,9 @@ When approached as an active threat, AFD-SU-020's systems begin tactical
 classification. When approached by calm, unarmed, non-combatant personnel, the
 subject remains passive, confused, or cooperative even while disoriented.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                    SECTION 001 — DISCOVERY SIGNAL LOG
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-020/DIS-001
 LOG TYPE:            Discovery Signal Log
@@ -109,9 +109,9 @@ ANALYST NOTE:
 The signal did not resemble arrival by portal, teleportation, or ordinary time
 slip. It resembled something forcing itself through a narrowing year.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                     SECTION 002 — FIELD RECOVERY LOG
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-020/REC-001
 LOG TYPE:            Field Recovery Log
@@ -159,9 +159,9 @@ FIELD NOTE:
 The subject classified the recovery team before the recovery team fully
 classified her.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                  SECTION 003 — INITIAL CONTACT TRANSCRIPT
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-020/CON-001
 LOG TYPE:            Initial Contact Transcript
@@ -218,9 +218,9 @@ TRANSCRIPT NOTE:
 The word "Sector" is believed to refer to the Clockwork Sector named in the
 recovered database. The phrase "fall sequence" remains unconfirmed.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                   SECTION 004 — RECOVERED EVIDENCE LOG
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-020/EVD-001
 LOG TYPE:            Recovered Evidence Log
@@ -278,9 +278,9 @@ EVIDENCE STATUS:
 All items sealed. Database file stored in Anomaly Log archive. Network connection
 strictly prohibited.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                SECTION 005 — TRANSPORT STABILIZATION LOG
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-020/TRN-001
 LOG TYPE:            Transport Stabilization Log
@@ -320,9 +320,9 @@ ARRIVAL STATUS:
 Subject arrived at recovery suite without defensive activation. Nanite activity
 stabilized at 38% of database-claimed baseline.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                     SECTION 006 — AFTER-ACTION REVIEW
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-020/AAR-001
 LOG TYPE:            After-Action Review
@@ -366,9 +366,9 @@ PROHIBITED CONTACT CONDITIONS:
    - network exposure of recovered database
    - use of terms implying ownership, capture, or deployment
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------+
 
 Operation Quiet Apron Retrieval established that AFD-SU-020 is dangerous when
 approached as a battlefield asset but manageable when approached as a disoriented

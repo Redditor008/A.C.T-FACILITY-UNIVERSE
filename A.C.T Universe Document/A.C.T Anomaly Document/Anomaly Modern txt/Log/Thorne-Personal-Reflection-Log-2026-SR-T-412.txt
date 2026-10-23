@@ -1,10 +1,10 @@
 A.C.T FACILITY — PERSONAL & RECOVERED JOURNAL DOSSIER
 Thorne-Personal-Reflection-Log-2026-SR-T-412
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
              A.C.T FACILITY — PERSONAL & RECOVERED JOURNAL
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 DESIGNATION:         SR-THORNE-412 (Personnel Record)
 TITLE I:             Aris Thorne
@@ -21,9 +21,9 @@ CONTAINMENT SITE:    ACT-SITE-02-RU-N — White Grave Station
 ARCHIVE STATUS:      Active / Private
 DOSSIER STATUS:      Open / Late-Career Reflections
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 This dossier contains a single, handwritten entry recovered from the
 private safe of Dr. Aris Thorne. It was written following the
@@ -32,9 +32,9 @@ distribution of the "Observational Standardization" memorandum.
 The entry provides a rare perspective on the internal state of a
 researcher who has maintained operational discipline for nearly a century.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                  SECTION 001 — THE BURDEN OF THE WATCHER
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 LOG ID:              SR-T/JNL-2026-07
 DATE:                2026-07-02 (Late Evening)
@@ -101,9 +101,9 @@ human, even when we’re doing the work of clerks in the dark.
 
 [END OF ENTRY]
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------+
 
 MANDATORY PERSONNEL NOTICE:
                      This document is sealed.

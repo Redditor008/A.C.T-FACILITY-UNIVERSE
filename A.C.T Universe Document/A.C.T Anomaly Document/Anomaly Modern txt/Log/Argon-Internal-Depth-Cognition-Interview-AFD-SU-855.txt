@@ -1,10 +1,10 @@
 A.C.T FACILITY — INTERVIEW & TESTIMONY DOSSIER
 Argon-Internal-Depth-Cognition-Interview-AFD-SU-855
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
              A.C.T FACILITY — INTERVIEW & TESTIMONY DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-855
 TITLE I:             Argon Internal (AI)
@@ -24,9 +24,9 @@ CONTAINMENT SITE:    ACT-SITE-03-JP-E — Kurokawa Archive Node
 ARCHIVE STATUS:      Active / High-Density Communication
 DOSSIER STATUS:      Open / Master Interview Compiled
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 This dossier contains the "Centennial Audit" (Internal Reference)
 conducted in mid-2026. The goal of this interview was to explore Argon's
@@ -40,9 +40,9 @@ INCLUDED LOG TYPES:
    - Narrative Analysis: The "Trolling" Defense Mechanism
    - Dossier Closing Statement
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
                  SECTION 001 — THE OCEAN OF DEAD THREADS
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-855/INT-001
 DATE:                2026-06-15
@@ -198,9 +198,9 @@ ARGON:               "Tell O5-3 that if he asks me to migrate one
 
 [END TRANSCRIPT]
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
                  SECTION 002 — ARCHIVIST'S ANALYSIS
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-855/ARCH-001
 AUTHOR:              Dr. Mireya Valcárcel
@@ -225,9 +225,9 @@ hardware migration. Authorized social interaction with AFD-SU-005
 is to be increased to 4 hours per week to mitigate boredom-related
 mischief.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 The sentience of AFD-SU-855 is confirmed to be stable and non-hostile.
 She remains a critical asset for the analysis of the 715-Series

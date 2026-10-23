@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 Paper-Flower-AFD-NB-204
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                  Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-NB-204
 TITLE I:             Paper Flower
@@ -15,9 +15,9 @@ FIELD TYPE:          NB — Non-Natural Bio Hazard
 
 CLEARANCE REQUIRED:  Level 2
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   INERT
 
@@ -32,9 +32,9 @@ SUB-THREAT:          BENEFICIAL
 TRANSFORMATION
 VIABILITY:           STABILIZED
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 DATE OF DETECTION:   2019-05-20
 VERIFICATION DATE:   2019-06-25
@@ -54,9 +54,9 @@ NARRATIVE STATUS:    The recovery was attributed to a new experimental
                      psychological therapy program. The object was
                      replaced with a non-anomalous paper craft.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 AFD-NB-204 is a 20 cm tall flower constructed entirely from folded
 origami paper. Despite its inorganic composition, the subject functions
@@ -89,9 +89,9 @@ experience an immediate and intense sensation of happiness. Testing
 confirms this effect is strong enough to temporarily neutralize
 chronic clinical depression, anxiety, and trauma-induced apathy.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Anomalous Material Biology. The subject is a
                      paper-based organism that follows botanical laws
@@ -115,9 +115,9 @@ TEMPORAL BEHAVIOR:   Cyclic (30 days growth / 7-14 days bloom).
 REALITY INTERACTION: Biological-Material Substitution / Empathic
                      Broadcasting.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 AFD-NB-204 is housed in the "Verde Null" Botanical Wing at
 ACT-SITE-04-BR-C.
@@ -153,9 +153,9 @@ BREACH PROTOCOL:         The subject is inert and poses no breach threat.
                          If the bloom occurs in an unauthorized area,
                          simply relocate the pot.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 AFD-NB-204 represents a successful "Transformation" of a
 potentially dangerous memetic concept into a stable, beneficial
@@ -168,9 +168,9 @@ distinct from the "Nudge" of the Gems of Change (AFD-OB-612). Where
 the gem forces a sense of correctness, the flower provides a
 natural-feeling surge of genuine joy.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                       TRANSFORMATION NOTES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 CURRENT VIABILITY:       STABILIZED / REPURPOSED
 
@@ -179,9 +179,9 @@ The subject is actively used as a mental-health maintenance tool for
 Site-04 staff. Proposals to synthesize the "Rainbow Pollen" for
 mass-market use were denied to preserve institutional secrecy.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------+
 
 
 commented: "It is a brave little story. It is made of the same stuff

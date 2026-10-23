@@ -10,7 +10,7 @@ This file is the complete internal archive version of the Facility's structure,
 classification logic, and reality doctrine. It is intended to preserve not only
 summary understanding, but full explanatory reference for authorized personnel.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Introduction
 If Part One establishes what the A.C.T Facility is, then Part Two establishes how
@@ -543,7 +543,7 @@ from monsters, objects, or strange phenomena—it is defending the balance of St
 reset, and the impossible pressures of a universe that does not always continue smoothly.
 
 Series Position
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 This record is Part Two of the A.C.T Universe reading order, Internal Structure and Reality Doctrine. Part Two of the
 A.C.T Universe defines how the Facility is organised internally and what doctrine governs its treatment of reality.

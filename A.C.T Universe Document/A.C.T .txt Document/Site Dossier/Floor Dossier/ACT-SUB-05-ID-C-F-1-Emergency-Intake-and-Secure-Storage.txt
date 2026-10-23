@@ -11,7 +11,7 @@ Dossier Number: FLOOR-DOSSIER-SUB-05-ID-C-F-1
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard / ACT Floor Record Standard
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------------+
 
 Archive Note
 
@@ -32,7 +32,7 @@ what it receives, how it is built, how it is guarded, and how a
 hidden
 intake floor serves a watchpoint whose region demands readiness.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------------+
 
 1. Floor Registry Identity Summary
 
@@ -59,7 +59,7 @@ personnel move to the parent relay under its authority; subject to the
 watchpoint's "F-1 closure" response — closing F-1 to the outside seals the
 level
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------------+
 
 2. Dossier Purpose
 
@@ -77,7 +77,7 @@ transfer to the parent relay. The floor is the watchpoint's readiness made
 physical — built to receive what the sea gives back, and to move it
 on.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------------+
 
 3. Position in the Site Stack
 
@@ -100,7 +100,7 @@ operations and watch level and the surface cover. The floor's security
 depends on the watchpoint's control architecture and on the watchpoint's
 position above the coastal corridors it watches.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------------+
 
 4. Historical Foundation
 
@@ -126,7 +126,7 @@ In its modern configuration, F-1 is the watchpoint's secure intake level:
 hidden capacity for emergency intake and secure storage, held ready for the
 operations that the region's restless coast demands.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------------+
 
 5. Command and Authority
 
@@ -150,7 +150,7 @@ containment, and no authority to transfer material to any destination other
 than the parent relay or the destinations it authorizes. Its role is
 emergency reception and temporary secure storage.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------------+
 
 6. Divisional Presence
 
@@ -171,7 +171,7 @@ The watchpoint's limited medical staff support F-1's operations: initial
 stabilization of personnel arriving through emergency intake, and care for
 any arrivals whose condition requires attention before transfer.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------------+
 
 7. Physical Plant and Architecture
 
@@ -206,7 +206,7 @@ ready for movement to the Nusantara Deep Relay: documented, secured, and
 prepared for transport under the relay's authority. The area is the point
 where the watchpoint's intake purpose is fulfilled.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------------+
 
 8. Systems and Infrastructure
 
@@ -233,7 +233,7 @@ The floor maintains communication with the watchpoint's levels and with
 the parent relay's recovery coordination. Documentation is exact, because
 every intake's transfer depends on the floor's record.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------------+
 
 9. Security and Containment Architecture
 
@@ -266,7 +266,7 @@ withdrawal doctrine: the capacity to lock down or evacuate quietly during
 large-scale tectonic shifts, preserving the watchpoint's cover and
 personnel until the environment stabilizes.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------------+
 
 10. Holdings and Filing Doctrine
 
@@ -291,7 +291,7 @@ pressure: recovery teams, emergency arrivals, and personnel brought in from
 the water are stabilized on the floor before movement to the parent relay
 or onward.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------------+
 
 11. Personnel and Duty Life
 
@@ -316,7 +316,7 @@ stabilize, and pass on. Personnel on F-1 maintain the hidden intake in
 constant readiness — because the region's coast does not schedule its
 arrivals.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------------+
 
 12. Floor Doctrine
 
@@ -339,7 +339,7 @@ F-1 doctrine holds that the floor must be sealable: the level is designed
 to close during a breach response, and the watchpoint maintains the
 procedure so that closure is executed without hesitation.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------------+
 
 13. Incident Archive
 
@@ -349,7 +349,7 @@ coordination issues. Material that exceeds the watchpoint's capacity moves
 to the parent relay, and the floor's history is largely the history of
 successful reception and transfer.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------------+
 
 14. Current Status and Projected Development
 
@@ -360,7 +360,7 @@ priorities include:
 - maintenance of the floor's integration with the silent withdrawal
   doctrine.
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------------+
 
 15. Cross-Referenced Files
 
@@ -371,7 +371,7 @@ priorities include:
 - ACT_Site_Doctrine_and_Installation_Structure.md / .txt
 - Parent command Annex Register (clearance-gated)
 
-═══════════════════════════════════════════════════════════════════════
++------------------------------------------------------------------------------------+
 
 Archive Closing
 

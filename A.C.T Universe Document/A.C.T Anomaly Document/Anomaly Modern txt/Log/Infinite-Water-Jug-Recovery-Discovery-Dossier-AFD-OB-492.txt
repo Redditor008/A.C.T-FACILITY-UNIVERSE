@@ -1,10 +1,10 @@
 A.C.T FACILITY — RECOVERY & DISCOVERY DOSSIER
 Infinite-Water-Jug-Recovery-Discovery-Dossier-AFD-OB-492
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
              A.C.T FACILITY — RECOVERY & DISCOVERY DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-OB-492
 TITLE I:             Infinite Water Jug
@@ -22,9 +22,9 @@ JURISDICTIONAL AUTHORITY:  Redwood Veil Command / Minor Artifact Desk
 ARCHIVE STATUS:      Active / Utility-approved
 DOSSIER STATUS:      Closed discovery / Open utility record
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
                            CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 This dossier belongs to A.C.T Log Category I — Recovery & Discovery Dossier.
 AFD-OB-492 is a hand-crafted clay jug, 30 cm in height, consistent with
@@ -51,9 +51,9 @@ To preserve the recovery context, verification record, and repurposing history
 of the most stable and reliable water-generating anomaly in Facility
 possession.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
      SECTION 001 — EXCAVATION CONTEXT — VALLEY OF THE KINGS (1924)
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-492/REC-001
 DATE:                1924-03-12 (detection)
@@ -75,9 +75,9 @@ INITIAL RESPONSE:
    - Narrative: the item was replaced with a non-anomalous clay replica for
      museum display
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
    SECTION 002 — CATALOGING IDENTIFICATION — THE SELF-FILLING VESSEL
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-492/REC-002
 DATE:                1924-04-05 (verification)
@@ -100,9 +100,9 @@ VERIFICATION RECORD:
      transmutation process permitting clean, potable water manifestation
    - Trigger: kinetic tilt / intention to pour
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
       SECTION 003 — ORIGIN CORRELATION — GIFT OF THE HIDDEN NILE
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-492/REC-003
 DATE:                Multiple correlation reviews
@@ -124,9 +124,9 @@ gardens or religious rituals. Its behavior matches its mythology: it pours for
 the sovereign's house, and it withholds itself from hostility — a
 "Sovereign-Dignity" principle noted in other ancient objects.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 SECTION 004 — POST-RECOVERY VERIFICATION — OUTPUT AND COOLDOWN MECHANICS
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-492/REC-004
 DATE:                Ongoing — utility records
@@ -152,9 +152,9 @@ PARTIAL-CYCLE DATA:
 USE DISCIPLINE: All water removed must be measured and logged to ensure
 accurate cooldown tracking.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
       SECTION 005 — WATER CHEMISTRY ANALYSIS — THE 'YOUNG' WATER
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-492/REC-005
 DATE:                On file
@@ -176,9 +176,9 @@ APPROVED USES:
    - The jug "refuses" to pour if the recipient is hostile toward the
      artifact — the water simply will not flow over the rim
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
       SECTION 006 — REPURPOSING RECORD — THE O5-1 PRIVATE OFFICE
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-492/REC-006
 DATE:                Repurposed — ongoing
@@ -198,9 +198,9 @@ SERVICE RECORD:
    - Its reliability is assessed as its greatest asset — a working artifact
      that has out-served every contingency plan written around it
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
                SECTION 007 — CLOSING RECOVERY STATEMENT
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-492/REC-CLS-001
 DATE:                2026-09-08

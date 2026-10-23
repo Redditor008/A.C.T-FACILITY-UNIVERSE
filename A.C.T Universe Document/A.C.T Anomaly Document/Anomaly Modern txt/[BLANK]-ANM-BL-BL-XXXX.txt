@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 [ BLANK ]-ANM-BL-BL-XXXX
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                  Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 DESIGNATION:         ANM-BL-BL-XXXX
                      [ Level 4-5 Lock ]
@@ -17,9 +17,9 @@ FIELD TYPE:          IH — Info Hazard
 
 CLEARANCE REQUIRED:  O5 Access Only / [SOVEREIGN-ANOMALY ACCESS]
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   [BLANK]
 
@@ -34,9 +34,9 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           INVIOLABLE
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 DATE OF DETECTION:   [ REDACTED ]
 VERIFICATION DATE:   [ BLANK ]
@@ -53,9 +53,9 @@ CIVILIAN EXPOSURE:   Zero.
 AMNESTIC DEPLOYED:   N/A (Subjects ceased to exist).
 NARRATIVE STATUS:    Redacted from all standard archives.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 ANM-BL-BL-XXXX is a sentient [ INFO-HAZARD ] that expresses extreme
 hostility toward being perceived, documented, or read by non-anomalous
@@ -78,9 +78,9 @@ A handwritten note by O5-1 is preserved in the jacket:
                      "Someone is hate to be read that why they were
                       telling us to REDACTED their file [ BLANK ]"
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Causal Spite. The anomaly "Hates to be read" by
                      standard reality. Interaction with non-anomalous
@@ -103,9 +103,9 @@ TEMPORAL BEHAVIOR:   [ REDACTED ]
 
 REALITY INTERACTION: Information Suppression / Causal-Erasure.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 ONLY THE ANOMALOUS MAY READ THE TRUTH.
 
@@ -135,9 +135,9 @@ BREACH PROTOCOL:         If a non-anomalous subject reads this text,
                          activate the [ BLANK ] protocol and
                          initiate a Site-wide causal-reconciliation.
 
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++---------------------------------------------------------------------+
 
 NOTE 001:
 O5-1 Note:

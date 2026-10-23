@@ -1,10 +1,10 @@
 A.C.T FACILITY — INCIDENT & BREACH DOSSIER
 THE-CLOCK-SAYS-DAWN-Incident-Breach-Dossier-AFD-TI-003
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                 A.C.T FACILITY — INCIDENT & BREACH DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-TI-003
 TITLE I:             THE CLOCK SAYS DAWN
@@ -23,9 +23,9 @@ CONTAINMENT SITE:    ACT-SITE-03-JP-E — Kurokawa Archive Node
 ARCHIVE STATUS:      Active / Chronometric hazard restricted
 DOSSIER STATUS:      Open / Incident record archived
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 This dossier belongs to A.C.T Log Category IV — Incident & Breach Dossier. The
 document may contain multiple related incident, exposure, transcript, security,
@@ -45,9 +45,9 @@ To preserve the incident that established the fifty-nine-second visual fixation
 threshold, the 1000x subjective acceleration state, the notepad manifestation,
 and the terminal phrase sequence associated with AFD-TI-003.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          DOSSIER SUMMARY
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 AFD-TI-003 is an antique grandfather clock fixed at 05:59. The clock hands do
 not physically move under normal observation or instrument review. However,
@@ -66,9 +66,9 @@ Incident 003-B confirmed that physical interruption after notation begins does
 not reliably stop the event. Prevention must occur before the fifty-nine-second
 threshold.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                     SECTION 001 — INCIDENT SUMMARY
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 LOG ID:              AFD-TI-003/INC-001
 LOG TYPE:            Incident Summary
@@ -108,9 +108,9 @@ RESULT:
 Line-of-sight break after notation begins does not reliably stop the sequence.
 Exposure must be prevented before fifty-nine seconds.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                     SECTION 002 — EXPOSURE TIMELINE
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 LOG ID:              AFD-TI-003/TLN-001
 LOG TYPE:            Exposure Timeline
@@ -158,9 +158,9 @@ SUMMARY:
 The event progressed after visual interruption. The notepad may become the
 active reference surface once manifested.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                     SECTION 003 — NOTEPAD TRANSCRIPT
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 LOG ID:              AFD-TI-003/DOC-001
 LOG TYPE:            Recovered Document Transcript
@@ -208,9 +208,9 @@ The phrase may be read safely in transcript form. Original notepad remains
 sealed because paper pressure, line order, and graphite density may preserve
 additional temporal residue.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                   SECTION 004 — VIDEO / SENSOR REVIEW
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 LOG ID:              AFD-TI-003/SEN-001
 LOG TYPE:            Video / Sensor Review
@@ -243,9 +243,9 @@ AFD-TI-003 is not required to physically move for the subject to perceive clock
 movement. The observed clock may be an imposed internal reference rather than
 the contained object itself.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                SECTION 005 — POST-INCIDENT MEDICAL REVIEW
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 LOG ID:              AFD-TI-003/MED-001
 LOG TYPE:            Post-Incident Medical Review
@@ -277,9 +277,9 @@ No exposed subject is to be allowed to continue after reporting that the clock
 has moved. Prevention before the threshold remains the only reliable safety
 measure.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                SECTION 006 — PROCEDURE REVISION NOTICE
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 LOG ID:              AFD-TI-003/PRC-001
 LOG TYPE:            Procedure Revision Notice
@@ -316,9 +316,9 @@ IMPLEMENTATION STATUS:
 Approved. Added to primary containment procedures and chronometric object
 training.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
                          DOSSIER CLOSING
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 Incident 003-B established that AFD-TI-003's danger is not the visible clock
 hand. The danger is the subject's entry into a private countdown state that no

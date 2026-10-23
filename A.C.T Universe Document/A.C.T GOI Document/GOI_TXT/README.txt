@@ -12,7 +12,7 @@ Implementation status: No live wiki work has begun.
 ==============================================================================
 
 Folder split
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Group of Interest Registry collection, Central Archive <- Authoritative Markdown records, controlled forms, planning
 material, and recovered-document holding
@@ -28,7 +28,7 @@ authoritative editable archive source.
 ==============================================================================
 
 Universal GOI record format
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Every completed individual GOI dossier uses the same controlled archive format:
 
@@ -54,7 +54,7 @@ starting structure for every future original dossier.
 ==============================================================================
 
 Individual dossier register
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Source-anchored registry dossiers
 .................................
@@ -432,7 +432,7 @@ registry-integration work. GOI-HY-N-074 is a continuance-containment dossier pen
 ==============================================================================
 
 Planning material - not individual GOI dossiers
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - 00_GOI_Development_Roadmap.md (00_GOI_Development_Roadmap.md) - Retained twenty-slot structural scaffold for GOI
 category planning; listed names/designations are not approved GOIs.
@@ -455,7 +455,7 @@ silently activates a scaffold slot.
 ==============================================================================
 
 Controlled original GOI creation
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The controlled production rule for new GOIs remains active:
 
@@ -479,7 +479,7 @@ Expanding, correcting, or reviewing an existing source-registry dossier does not
 ==============================================================================
 
 Future new-record naming rule
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 When a roadmap item is selected for full creation, its new pair will use
 this pattern:
@@ -498,7 +498,7 @@ during that individual creation phase.
 ==============================================================================
 
 Core-continuity safeguards
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Every future original GOI in this folder must remain an original A.C.T. core creation:
 
@@ -524,7 +524,7 @@ without later explicit Central Archive direction.
 ==============================================================================
 
 Visual and asset boundary
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 No images, SVGs, logos, or other visual assets are included in these dossiers.
 

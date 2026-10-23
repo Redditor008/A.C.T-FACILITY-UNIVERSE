@@ -1,10 +1,10 @@
 A.C.T FACILITY — ANOMALY FILE
 Music-Box-of-Unending-Sadness-AFD-OB-311
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
                     A.C.T FACILITY — ANOMALY FILE
                  Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 DESIGNATION:         AFD-OB-311
 TITLE I:             Music Box of Unending Sadness
@@ -15,9 +15,9 @@ FIELD TYPE:          OB — Object
 
 CLEARANCE REQUIRED:  Level 2
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
                          CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 CONTAINMENT CLASS:   REACTIVE
 
@@ -32,9 +32,9 @@ SUB-THREAT:          NONE
 TRANSFORMATION
 VIABILITY:           NEUTRAL
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
                           DISCOVERY
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 DATE OF DETECTION:   2018-03-14
 VERIFICATION DATE:   2018-03-22
@@ -52,9 +52,9 @@ AMNESTIC DEPLOYED:   Yes — 004-G Grade.
 NARRATIVE STATUS:    Object recovered from a box of personal effects.
                      Attributed to a defective mechanical toy.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
                          DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 AFD-OB-311 is a small, ornate music box composed of dark wood and
 polished silver. The lid features a small, fixed figurine of a juvenile
@@ -84,9 +84,9 @@ ANOMALOUS PROPERTIES:
    cylinder is jammed or removed. The audio appears to manifest from
    the wood grain itself.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
                      ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 PRIMARY EFFECT:      Emotional Imprinting. Listeners are forced to
                      perceive the creator's despair.
@@ -107,9 +107,9 @@ TEMPORAL BEHAVIOR:   Constant during playback.
 
 REALITY INTERACTION: Empathic Broadcast / Optical Desaturation.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
                      CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 AFD-OB-311 is stored in a padded, sound-proofed locker at
 ACT-SITE-03-JP-E.
@@ -138,9 +138,9 @@ BREACH PROTOCOL:         If the box is opened accidentally, evacuate the
                          immediate room. The effect will dissipate once
                          the spring-mechanism winds down.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
                          RESEARCH SUMMARY
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 AFD-OB-311 appears to be a "Memory-Trap." The creator utilized [ BLANK ]
 techniques to bind their own identity-loss into the object. The
@@ -148,9 +148,9 @@ lyrics ("Till slowly I forget and my heart starts vanishing") suggest
 the creator may have been undergoing an unauthorized transformation
 or a 004-Series overdose during the box's construction.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
                          ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------+
 
 NOTE 001:
 Subject has shown a 14% increase in volume when placed near Anny

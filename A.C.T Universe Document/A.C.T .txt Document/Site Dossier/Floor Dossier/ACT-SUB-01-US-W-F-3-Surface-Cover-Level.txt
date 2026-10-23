@@ -11,7 +11,7 @@ Dossier Number: FLOOR-DOSSIER-SUB-01-US-W-F-3
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard / ACT Floor Record Standard
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 Archive Note
 
@@ -30,7 +30,7 @@ This dossier records the floor in full institutional language: what it is,
 how it conceals, how it is built, and how the relay's cover is maintained
 through genuine science conducted above a buried staging installation.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 1. Floor Registry Identity Summary
 
@@ -54,7 +54,7 @@ research conducted in the open
 Access Posture: Public and semi-public access under cover doctrine
 Current Status: Active
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 2. Dossier Purpose
 
@@ -71,7 +71,7 @@ genuine part of the site's legitimate face, and the biotech framing explains
 the laboratories, climate-controlled structures, and quiet rural location
 that the buried relay requires.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 3. Position in the Site Stack
 
@@ -96,7 +96,7 @@ operational levels descend through F-3 into F-2, under the transition
 control that the cover requires. F-3 is the physical boundary; the
 processing floor below is the operational boundary.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 4. Historical Foundation
 
@@ -122,7 +122,7 @@ In its modern configuration, F-3 is the relay's legitimate face: an
 agricultural biotech campus conducting genuine research above a buried
 staging installation.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 5. Command and Authority
 
@@ -145,7 +145,7 @@ authority is over the cover campus — and its most important duty is the
 maintenance of the boundary between the campus's visible science and the
 buried relay's processing work.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 6. Divisional Presence
 
@@ -167,7 +167,7 @@ Security personnel operate the campus's boundary functions: the control
 architecture through which material and personnel pass between the surface
 and the buried relay, concealed within the campus's ordinary operations.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 7. Physical Plant and Architecture
 
@@ -205,7 +205,7 @@ designed to be indistinguishable from ordinary station infrastructure —
 loading areas, service corridors, and utility spaces that give no sign of
 what lies beneath.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 8. Systems and Infrastructure
 
@@ -233,7 +233,7 @@ The campus maintains its legitimate communications — the professional
 operations of the biotech station — alongside the relay's secure internal
 networks.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 9. Security and Boundary Architecture
 
@@ -266,7 +266,7 @@ boundary incidents, and attempts to penetrate the transition architecture
 are met with the relay's response doctrine, with the buried component
 sealed behind the level if the surface boundary is threatened.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 10. Function and Character
 
@@ -289,7 +289,7 @@ research operations, and its population is the biotech station's staff and
 legitimate visitors. Nothing anomalous remains on this level beyond the
 time required for transition below.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 11. Personnel and Duty Life
 
@@ -313,7 +313,7 @@ The level's personnel work under cover discipline: their professional
 reputations and daily operations are part of the relay's concealment. The
 research is genuine, and so is the discipline of those who conduct it.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 12. Floor Doctrine
 
@@ -337,7 +337,7 @@ F-3 doctrine holds that the campus's public science and the relay's buried
 work must remain separate: the world sees an agricultural biotech station,
 and the relay's processing continues beneath it, undisturbed and unseen.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 13. Incident Archive
 
@@ -346,7 +346,7 @@ cover incidents, boundary incidents, and attempts to penetrate the
 transition architecture. The relay's history records the incidents that
 have tested the campus boundary — and the cover has held.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 14. Current Status and Projected Development
 
@@ -356,7 +356,7 @@ priorities include:
 - maintenance of the concealed transition architecture;
 - preservation of the campus's cover discipline.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 15. Cross-Referenced Files
 
@@ -367,7 +367,7 @@ priorities include:
 - ACT_Site_Doctrine_and_Installation_Structure.md / .txt
 - Parent command Annex Register (clearance-gated)
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 Archive Closing
 

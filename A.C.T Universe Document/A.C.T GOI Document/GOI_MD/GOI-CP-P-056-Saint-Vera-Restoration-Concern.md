@@ -126,8 +126,8 @@ A.C.T assessment identifies these functional layers:
  cold ledger offices that preserve names of patients officially recorded as dead or
  missing;
 - refusal boards that deny procedures considered exploitative, cosmetic, coercive, or unsafe;
- donor and material channels that acquire tissue, glass, thread, bone substitute, nerve media, and unknown restoration
- compounds.
+ donor and material channels that acquire tissue, glass, thread,
+ bone substitute, nerve media, and unknown restoration compounds.
 
 This structure separates the Concern from a secret hospital. It is a corporate and
 charitable medical network with
@@ -248,8 +248,8 @@ Known or assessed assets include:
 - rehabilitation houses for patients unable to return home immediately;
 - donor channels for rare tissue substitutes and unknown compounds;
 - sealed failure archives marked **DO NOT CALL THIS MERCY**;
- patient escorts trained to resist unlawful seizure by police, private collectors, hostile GOIs, and containment
- rivals.
+ patient escorts trained to resist unlawful seizure by police,
+ private collectors, hostile GOIs, and containment rivals.
 
 A.C.T has recovered small tool kits and incomplete patient cards but no full surgical
 manual. Medical Division warns
@@ -403,8 +403,8 @@ consent-screening method not yet understood by A.C.T.
  Saint-Vera Restoration Concern is an outside corporate medical network and not an A.C.T medical division.
 — The Concern has repeatedly treated anomaly survivors across separate jurisdictions.
 — Its procedures produce restoration outcomes beyond conventional medical explanation.
- The group protects patient dignity and consent but withholds leadership, source materials, route maps, and full
- failure records.
+ The group protects patient dignity and consent but withholds
+ leadership, source materials, route maps, and full failure records.
  Several Saint-Vera interventions have obstructed A.C.T custody
  while preventing patient death or severe deterioration.
 

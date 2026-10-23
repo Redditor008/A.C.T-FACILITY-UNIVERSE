@@ -11,7 +11,7 @@ Dossier Number: FLOOR-DOSSIER-04-BR-C-F-4
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard / ACT Floor Record Standard
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 Archive Note
 
@@ -30,7 +30,7 @@ This dossier records the floor in full institutional language: what it is,
 how it commands, how it is built, and how the reserve's operations are
 directed from a buried level beneath an open-air facility.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 1. Floor Registry Identity Summary
 
@@ -50,7 +50,7 @@ processing, security command, and internal logistics center
 Access Posture: Reserve-clearance-gated access
 Current Status: Active
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 2. Dossier Purpose
 
@@ -66,7 +66,7 @@ the internal logistics center that supports the reserve's far-flung
 operations. The floor is the reserve's command heart — buried beneath a
 campus whose surface work is ecological science in the open.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 3. Position in the Site Stack
 
@@ -91,7 +91,7 @@ reserve's enclosure sectors, concealed perimeters, and field operations
 across the wilderness are directed from the floor's command and operations
 spaces.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 4. Historical Foundation
 
@@ -115,7 +115,7 @@ In its modern configuration, F-4 is the reserve's command heart: the floor
 from which the reserve's operations, personnel, security, and logistics are
 governed.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 5. Command and Authority
 
@@ -138,7 +138,7 @@ Site Director commands through the division chiefs — Research,
 Environmental Containment, Security, and Medical — and the divisions
 command their operations.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 6. Divisional Presence
 
@@ -165,7 +165,7 @@ The reserve's internal logistics center operates from F-4: the movement of
 material, equipment, and personnel across the reserve's operational
 territory is coordinated from this floor.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 7. Physical Plant and Architecture
 
@@ -198,7 +198,7 @@ The floor's plan is organized around the reserve's operational structure:
 each division's operations office is positioned around the command floor,
 reflecting the command relationships that govern the reserve.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 8. Systems and Infrastructure
 
@@ -225,7 +225,7 @@ F-4 is the reserve's communications nexus: the command floor maintains the
 links through which the Site Director commands the reserve's far-flung
 operations and coordinates with the Facility network beyond.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 9. Security and Access Architecture
 
@@ -255,7 +255,7 @@ F-4 maintains incident response for the floor's operational functions:
 security events, command incidents, and logistics disruptions are met with
 the reserve's response doctrine.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 10. Function and Character
 
@@ -275,7 +275,7 @@ whose operational territory extends far beyond its built campus.
 F-4 holds no residents. Its population is command and operations
 personnel, and its function is the governance of the reserve.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 11. Personnel and Duty Life
 
@@ -300,7 +300,7 @@ The buried command is the reserve's operational reality: its governance
 happens below, while its legitimate face conducts ecological science
 above.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 12. Floor Doctrine
 
@@ -322,7 +322,7 @@ F-4 doctrine holds that the reserve's operational command must remain
 separate from its public face: the buried operations level is the boundary
 between the legitimate campus above and the reserve's true work.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 13. Incident Archive
 
@@ -331,7 +331,7 @@ security events, personnel incidents, and logistics disruptions. The
 floor's history is the history of the reserve's command, preserved in the
 reserve's administrative archives.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 14. Current Status and Projected Development
 
@@ -341,7 +341,7 @@ priorities include:
 - refinement of personnel and security procedures;
 - maintenance of the reserve's internal logistics architecture.
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 15. Cross-Referenced Files
 
@@ -352,7 +352,7 @@ priorities include:
 - ACT_Site_Doctrine_and_Installation_Structure.md / .txt
 - Verde Null Annex Register (clearance-gated)
 
-═══════════════════════════════════════════════════════════════════════
++-------------------------------------------------------------------------------+
 
 Archive Closing
 

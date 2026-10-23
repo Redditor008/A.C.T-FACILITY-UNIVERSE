@@ -59,7 +59,7 @@ Core handling rule:
 A LIGHT THAT COUNTS CHILDREN IS NOT A LAMP. IT IS A ROLL CALL
 THAT ANSWERS BACK.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FUNCTION SUMMARY
 
@@ -92,7 +92,7 @@ behaviour. The occupancy-count inference comes from the instruction to count eve
 and from the shelter delivery whose tracking record updated after delivery with the message CHILDREN ACCOUNTED FOR:
 17/17. A device that reports a headcount is performing enumeration, not illumination.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 ORIGIN AND CUSTODY
 
@@ -117,7 +117,7 @@ unit, one has had its battery plate
 removed for tag examination, and one is a deactivated shell casing kept for comparison
 of internal volume and weight.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 PHYSICAL OR SYSTEM DESCRIPTION
 
@@ -163,7 +163,7 @@ in a doorway can see, which is why shelter staff were able to build
 a protocol around it and why it is the only
 Lullaby Works item with a written procedure attached.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 TECHNICAL SPECIFICATION
 
@@ -199,7 +199,7 @@ The two rows that govern field behaviour are the coverage row and the authorized
 one room and cannot be checked, so a steady lamp is not evidence that a room is clear and cannot
 be made into evidence by anyone standing in the doorway.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 INTERFACE AND OPERATING ENVELOPE
 
@@ -229,7 +229,7 @@ Handling Limits And Weaknesses
 Coverage beyond the assigned room is NOT MEASURED and is not claimed. The unit does not protect an adult, an
 empty room, or a child who has left.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 OPERATING PROCEDURE
 
@@ -274,7 +274,7 @@ Steps 3 and 4 come from recovered instruction rather than from A.C.T practice, a
 instruction to count twice is the only evidence that the unit enumerates, and the prohibition on naming an extra child
 is the manufacturer's own containment rule.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 SERVICING AND CALIBRATION
 
@@ -295,7 +295,7 @@ SERVICING AND CALIBRATION
 Servicing here is observational by necessity. No calibration route exists that does not involve frightening a child,
 so the schedule records what was seen rather than what was adjusted.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FAULT ISOLATION
 
@@ -313,7 +313,7 @@ FAULT ISOLATION
 | Unit removed abruptly      | unauthorised handling                     | restore, Subject Care                     |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 KNOWN LIMITS
 
@@ -338,7 +338,7 @@ evidence that a room is clear, when the only confirmed failure mode is that
 the device reports through states no one
 is trained to read.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FAILURE HISTORY
 
@@ -363,7 +363,7 @@ Across controlled inspection of all three units, no intensification, blue shift,
 series was closed rather than escalated because every available provocation method required placing a child at risk.
 The result is recorded as inconclusive, not as evidence that the units are inert.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 DIVISION USE
 
@@ -375,7 +375,7 @@ inspection records under restricted access. Intelligence tracks lot marking, war
 the half-moon stitch across unrelated products. Civil Covert maintains the cover story for staff and families at the
 shelter and does not disclose A.C.T involvement.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 CROSS-REFERENCES
 
@@ -393,7 +393,7 @@ a shelter A.C.T does not
 control. The Visual Reference Guide describes hardware personnel can
 identify and maintain; A.C.T has never opened one and does not intend to.
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 OPEN QUESTIONS
 
@@ -413,7 +413,7 @@ come from?
 - Does a unit continue to function after the child it was placed for
 has left the room permanently?
 
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FILE METADATA
 

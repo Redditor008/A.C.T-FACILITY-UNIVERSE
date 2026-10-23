@@ -1,7 +1,7 @@
 A.C.T FACILITY ARCHIVE FILE — GOI ML X 014 Anti Global Anomaly A GA
 ===========================
 GROUP OF INTEREST REGISTRY - ANTI-GLOBAL ANOMALY
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                                                         |
@@ -72,10 +72,10 @@ repeatable, technically capable, and directed toward the anomalous world as a ca
 ==============================================================================
 
 IDENTITY AND INSTITUTIONAL FUNCTION
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A Militant Eradication Network
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Anti-Global Anomaly, or A-GA, is recorded as a large standalone militia-style network organized around deliberate
 anti-anomalous action. It is not a conventional public army, an ordinary political movement, or a local safety group
@@ -94,10 +94,10 @@ builds a system for acting against them without accepting the distinctions that 
 ==============================================================================
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Dispersed Militia Structure
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A-GA is assessed as a network of militant cells supported by an uneven strategic
 layer. It is large enough to maintain
@@ -121,7 +121,7 @@ These labels describe function rather than confirmed internal titles. A-GA regul
 frustrate recognition and to make a captured document appear unrelated to a known network.
 
 Leadership Condition
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 No stable, universally verified leadership body is available for public operational naming. Intelligence Division
 assesses that A-GA's ideological cohesion does not require a visible singular leader. This condition is deliberate or
@@ -138,7 +138,7 @@ preventing a live eradication action. A structure that can regenerate from a sha
 arresting the most visible person in a single operation.
 
 Recruitment Pattern
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A-GA recruits people who can be persuaded that uncertainty is intolerable. Its most receptive prospects include
 individuals harmed by anomalous events, people with exposure to partial leaked information, former personnel alienated
@@ -157,7 +157,7 @@ reassignment, ideological pressure, or removal from sensitive activity.
 The group's doctrine rewards certainty and treats restraint as betrayal.
 
 Operational Security
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A-GA uses compartmentalization, nonstandard cover names, temporary storage, separated transport steps, and
 limited-contact cells. Its security is imperfect but dangerous because it does not need to remain perfect everywhere.
@@ -182,10 +182,10 @@ Recovered material must be treated as both intelligence and a potential routing 
 ==============================================================================
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The Eradication Premise
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A-GA operates from a single ideological premise: all anomalies are violations and must be destroyed. The premise is
 deceptively simple. It gives its adherents a complete answer before they understand the question. A sealed object, a
@@ -204,7 +204,7 @@ be touched. Some may be
 transformed only under extreme discipline. A-GA regards each distinction as weakness, compromise, or contamination.
 
 Why A-GA Uses the Word "Global"
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The name Anti-Global Anomaly is retained in the registry because it reflects the group's ambition rather than a
 confirmed centralized world government, army, or publicly visible institution. A-GA considers anomalous existence a
@@ -224,7 +224,7 @@ the same eradication premise
 without waiting for a central order.
 
 The Refusal of Containment
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A-GA's conflict with A.C.T is not limited to control over individual anomalies. It is
 a conflict over whether
@@ -242,7 +242,7 @@ ward, a research archive, or a protected supply route may all be interpreted as
 enemy infrastructure.
 
 Internal Contradiction
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Although A-GA presents its objective as pure and simple, its operational reality is not. Destroying anomalies requires
 access to anomaly information. Building effective anti-anomalous tools requires study. Selecting a target requires
@@ -265,10 +265,10 @@ of its operation.
 ==============================================================================
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Engineering Capability
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A-GA is classified ENGINEERING because it is capable of developing, adapting, acquiring, and deploying technical
 systems for direct interaction with anomalies and containment environments. Its capability does not imply complete
@@ -293,7 +293,7 @@ containment environment until Research and Containment jointly clear it. A devic
 carry latent exposure, trigger, informational, or structural risks that its builders did not understand.
 
 Target Selection
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A-GA does not restrict itself to naturally hostile phenomena. It is likely to target
 any of the following:
@@ -314,7 +314,7 @@ containment arrangement that the
 cell does not understand.
 
 Leak Production and Secrecy Risk
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A-GA's secrecy classification is LEAKING. The network does not consistently seek universal public exposure, but its
 methods create recurring pathways by which concealed information reaches unauthorized people. A raid produces
@@ -333,7 +333,7 @@ danger. A-GA benefits when every corrective act looks like proof of a hidden con
 normal explanation without feeding the network's narrative of secret institutional control.
 
 Structural Harm Potential
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A-GA's Threat Level 4 is based on more than its ability to harm personnel
 or damage a Site. Its larger danger is that
@@ -354,10 +354,10 @@ follows.
 ==============================================================================
 
 HISTORY WITH A.C.T
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Record Formation and Continuing Hostility
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The earliest reliable A.C.T records do not preserve a single clean founding event for
 A-GA. The hostile network
@@ -383,10 +383,10 @@ It is a continuing clash between eradication certainty and responsible containme
 ==============================================================================
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Posture: Contain / Dismantle
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 The standing A.C.T posture toward A-GA is CONTAIN / DISMANTLE. Containment applies to active cells, personnel,
 documents, weapon systems, routes, and ideological access points. Dismantling applies to the operational ability of
@@ -409,7 +409,7 @@ A response plan should include:
 - controlled dismantling of material, financial, and narrative support paths.
 
 First Response to a Suspected A-GA Action
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 When a suspected A-GA operation is detected, the responsible command body must determine whether the immediate danger
 is to an anomaly, a containment system, a civilian population, a Site route, or
@@ -430,7 +430,7 @@ statement as confirmation that the Facility is compromised. Field communication 
 immediate safety, and control of the active threat.
 
 Site Responsibilities
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - ACT-SITE-01-US-W / Redwood Veil Complex maintains high-density urban interdiction capability, hostile artifact-route
 review, and market-contact intelligence useful for tracing A-GA procurement.
@@ -449,7 +449,7 @@ transnational; the Site network
 must act as a connected containment body rather than as isolated territorial offices.
 
 Detained Personnel and Recovered Material
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A-GA personnel are not to be assumed free of anomalous contamination merely because they identify as anti-anomalous.
 Detained individuals may have handled objects, entered destabilized environments, used poorly understood engineering
@@ -479,10 +479,10 @@ and copying that logic risks importing its failures into Facility doctrine.
 ==============================================================================
 
 OPERATIONAL RECORDS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Engineering Route Interdiction - Restricted Extract
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A suspected A-GA support route was identified after otherwise unrelated technical purchases converged around a
 containment-interference profile. Intelligence Division withheld immediate public action while Security and Recovery
@@ -497,7 +497,7 @@ instruction. This reinforces the standing requirement that procurement analysis 
 pattern and intended use rather than waiting for a visibly anomalous device to appear.
 
 False Target Review - Restricted Extract
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 An A-GA cell circulated information indicating an imminent attack on a low-threat object. Cross-site review found that
 the claimed target was being used to draw response resources away from a separate
@@ -512,10 +512,10 @@ becomes vulnerable.
 ==============================================================================
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 What Makes A-GA Persistent
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 A-GA persists because the anomalous world gives it constant raw material: fear, injury, secrecy,
 partial truth, and events that ordinary people cannot explain. Every poorly handled leak can
@@ -527,7 +527,7 @@ response is competent containment, narrowly controlled truth, protection of civi
 and active interruption of the pathways by which fear becomes militant certainty.
 
 Current Intelligence Priorities
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - identify technical supply routes that serve more than one cell;
 - map contact points between A-GA and commercial anomaly traders without assuming shared allegiance;
@@ -539,7 +539,7 @@ Current Intelligence Priorities
 cascading risk.
 
 Unresolved Conditions
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - What level of coordination exists between dispersed A-GA engineering cells?
 - Which members understand that their destructive tools can worsen the conditions they target?
@@ -555,7 +555,7 @@ public confirmation of the hidden
 world?
 
 Standing Restriction Order
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 No A.C.T unit is authorized to negotiate an anomaly's destruction solely to gain A-GA
 cooperation, reduce short-term
@@ -567,10 +567,10 @@ protected anomalous condition as expendable political currency.
 ==============================================================================
 
 CROSS-REFERENCE STATUS
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 Anomaly and Record Relationship
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 No single anomaly is permanently assigned to the A-GA record. The network's danger is
 its repeatable relationship to
@@ -585,7 +585,7 @@ contamination. If future evidence shows that an A-GA cell, command mechanism, or
 anomalous, an AFD record must be opened without reducing the group's separate organizational responsibility.
 
 Related A.C.T Records
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 - GOI Registry and External Threat Doctrine Archive - classification and hostile-posture authority;
 - Site Map and Jurisdiction Doctrine - cross-site response assignment;
@@ -596,7 +596,7 @@ Military responsibilities;
 ==============================================================================
 
 FILE METADATA
-═══════════════════════════════════════════════════════════════════════
++--------------------------------------------------------------------------------------------------------------------+
 
 FILE CREATED:            02/02/1961
 FILE LAST UPDATED:       27/07/1970

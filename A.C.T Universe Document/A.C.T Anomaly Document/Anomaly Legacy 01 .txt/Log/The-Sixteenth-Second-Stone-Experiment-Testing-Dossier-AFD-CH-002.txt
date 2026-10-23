@@ -1,10 +1,10 @@
 A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
 The-Sixteenth-Second-Stone-Experiment-Testing-Dossier-AFD-CH-002
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
              A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
                      Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-CH-002
 TITLE I:             The Sixteenth-Second Stone
@@ -24,9 +24,9 @@ JURISDICTIONAL AUTHORITY:  Chronometric Review Cell / Central Archive
 ARCHIVE STATUS:      Active / chronometric restricted
 DOSSIER STATUS:      Open — two-person timing confirmation
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
                            CATEGORY CONTENTS
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 This dossier belongs to A.C.T Log Category IV — Experiment & Testing Dossier.
 AFD-CH-002 is a medium-sized object resembling a dark, smooth meteorite
@@ -53,9 +53,9 @@ To map the dilution thresholds precisely enough that no personnel ever cross
 the sixteenth second, and to record what happens to continuity when someone
 does.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
                SECTION 001 — EXPOSURE-THRESHOLD MAPPING
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-002/EXP-001
 DATE:                2009-04-29 (verification) — ongoing
@@ -79,9 +79,9 @@ PERSONNEL RULE: No personnel may stand inside the marked influence zone for
 more than ten continuous seconds. Subjects removed before the sixteenth second
 show no lasting effect.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 SECTION 002 — REFLECTED OBSERVATION — SECONDARY INFLUENCE VECTOR TESTING
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-002/EXP-002
 DATE:                Standing — containment-environment tests
@@ -101,9 +101,9 @@ approval from Chronometric Review and Site Command. Any accidental
 reorientation is a containment emergency until the influence zone has been
 mapped and sealed.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
               SECTION 003 — MEDIA-CAPTURE ANOMALY RECORD
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-002/EXP-003
 DATE:                On file
@@ -122,9 +122,9 @@ SPECTROGRAPHIC NOTE: The object reflects light from a sky that is not
 currently visible from Earth — star positions matching no current, historical,
 or predicted future sky map within accepted cosmological models.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
             SECTION 004 — RETRIEVAL-WITNESS CONTINUITY CASE
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-002/EXP-004
 DATE:                2009 — Operation Quiet Meridian Retrieval
@@ -144,9 +144,9 @@ clock disagreement, and astronomical equipment failure at an abandoned
 observatory storage room. Six exposures were confirmed and nineteen suspected,
 controlled as carbon monoxide exposure and equipment fault.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
           SECTION 005 — RECOVERY AND CONTINUITY-INJURY REVIEW
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-002/EXP-005
 DATE:                Standing — exposure follow-up
@@ -166,9 +166,9 @@ No repurposing trial may exceed twelve seconds of direct-zone interaction.
 Testing beyond this threshold requires Level 4 authorization and medical
 continuity monitoring.
 
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
                   SECTION 006 — CLOSING TESTING NOTE
-═══════════════════════════════════════════════════════════════════════
++----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-002/EXP-CLS-001
 DATE:                2026-09-08
