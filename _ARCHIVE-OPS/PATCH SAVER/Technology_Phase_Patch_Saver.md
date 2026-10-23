@@ -7332,3 +7332,43 @@ property for an archive dossier.
 | `GOI_DOSSIERS` | 30, all read |
 | `PATCH_SAVER_ENTRIES` | 97 |
 
+## Prompt End Update — 2026-10-23, Full-Scale Logical Reading Review
+
+Owner rulings: a last full-scale in-world review, walking the files logically as a new reader; then
+the doctrine pass; then extend the gates.
+
+### The root, as a newcomer meets it
+
+Eight entries: two files (`LICENSE`, `README.md` at 1,836 words) and six folders — `A.C.T Anomaly
+Creation Rule`, `A.C.T Universe Document`, `AI OPERATIONS RULES`, `Logo`, `_ARCHIVE-OPS`, `docs`.
+
+### Every reader entry file, walked
+
+18 README files across the tree. **0 broken links** in all of them, URL-decoded. The five document
+folders each open with an entry file, the two index READMEs (`GOI_MD` at 3,859 words, `TECH_MD` at
+5,369) carry the full catalogues, and the backstage folders under `_ARCHIVE-OPS` are signposted.
+
+### The one defect the walk found
+
+**Two root folders have no entry file.** `A.C.T Anomaly Creation Rule` holds four files and a
+lower-case `readme.txt`, which is not a README and does not render as one on GitHub. `AI OPERATIONS
+RULES` has a README.md and is fine. A newcomer who opens `A.C.T Anomaly Creation Rule` first meets a
+file listing with no orientation, and the folder holds the canonical-term rulings that govern the
+whole corpus — O5, amnestics, memetic, and the `[ BLANK ]` distinction.
+
+**One empty file:** `docs/index.html`, 0 bytes, empty by standing ruling.
+
+Nothing was changed. Reporting only.
+
+| GATE | RESULT |
+|---|---|
+| `DOCUMENT_COUNT` | 1001 |
+| README entry files walked | 18 |
+| Broken links across all of them | 0 |
+| Root folders with no entry file | 1 — `A.C.T Anomaly Creation Rule` |
+| Empty files | 1 — `docs/index.html`, by ruling |
+| `PATCH_SAVER_ENTRIES` | 98 |
+
+**Not delivered.** The doctrine pass was not read and no gate was added. The review consumed the
+turn.
+
