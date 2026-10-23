@@ -7302,3 +7302,77 @@ The tool exists because a gate reading 0 proves nothing on its own. The docstrin
 
 5 corpus files changed, 0 corpus files whose words changed.
 
+## Prompt End Update — 2026-10-24, Box Layer Rebuilt, Newcomer Defects Fixed, Gate Suite Grown To 19
+
+This entry closes the batches between the box-drawing purge and now. Every figure below was measured
+in the turn it is quoted.
+
+### The box layer
+
+The owner ruled to unify the separator onto the ASCII form and to size every rule from the file's own
+width. 6,050 box bars became `+---+` rules at 34 distinct widths from 70 to 118, and 6,042
+box-drawing characters in the markdown half went with them. **0 box-drawing characters remain in the
+corpus.**
+
+The box re-render then took three attempts, and each failure is recorded because each one was a
+different kind of mistake:
+
+| ATTEMPT | FAILURE | LESSON |
+|---|---|---|
+| one | dropped the rule below the header separator | a renderer's output must be diffed, not assumed |
+| two | emitted doubled `===` separators | `is_rule` accepted only dash rules, so the `+===+` separator ended every block early |
+| three | correct | 1,259 boxes across 279 files, 0 words changed, 0 lines over 118 |
+
+The second attempt re-rendered 2,508 boxes and was **reverted in full** before the third ran. A bare
+`except` swallowed the first two errors and reported "0 boxes parsed", which read as success. **Never
+wrap a renderer in a bare except during a migration.**
+
+25 doubled `===` separators were then found by hand in 4 GOI records, removed, and gated.
+
+### The newcomer read
+
+Three of the seven Start Here doors were walked. Four defects, all fixed:
+
+- **9 garbled headings, and they were mine.** The banner conversion joined two-line banners, and where
+  the second line carried the organisation expansion the join produced a run-on.
+- **131 headings carried bold markup** across 13 files. A heading is already emphasised.
+- The first anomaly record opened with an H1 and **3 sibling H2s** before any prose, so it appeared in
+  a table of contents as four entries for one document.
+- Two blocks crammed every field onto one run-on line.
+
+Scanning the title-stack shape across all 1,002 documents then found **60** instances, not one. **168**
+sibling H2s were folded into a single descriptive line, 0 documents skipped for changing words. The
+join pushed 7 lines past 118 and `MD_WIDE_PROSE_LINES` caught it minutes later in the same batch.
+
+### Two withdrawals
+
+**"All 6,050 bars are 71 wide and 0 are narrower than their content" was false.** The checker used
+`set(x) > set("═ ")`, which tests proper superset rather than "is not made only of bar characters", so
+`widest` fell to its 0 default. The true figure was **5,870 bars across 289 files**. A gate reading 0
+proves nothing on its own.
+
+**"0 bars narrower" was reported a second time from the same blind checker** before the audit caught
+it. The corrected measurement is what stands.
+
+### The tooling
+
+`gate_audit.py` is tracked. It copies the corpus to a scratch directory, injects the defect each gate
+claims to catch, and exits with the count of gates that failed to fire. **19 gates tested, 19 fired, 0
+blind.** Two injection tests were themselves wrong and the audit caught both: a wide-line payload of
+80 characters against a 118 limit, and a title stack injected into a `.txt` file the gate does not
+count.
+
+`sync.sh` now hard-refuses when HEAD is the session base. **It fired for real** on a re-clone and
+printed the recovery command instead of letting an edit proceed.
+
+### New gates this session
+
+`TXT_MD_RULE_LINES` · `TXT_MD_ITALIC_SPANS` · `TXT_NARROW_BAR_LINES` · `BOXDRAW_CHARACTERS` ·
+`DOUBLED_RULE_LINES` · `MD_BOLD_IN_HEADING_LINES` · `TITLE_STACK_DOCUMENTS` — all read 0, all proven
+to fire.
+
+### Still open
+
+4 of the 7 Start Here doors are unread: the full manuscript, Chapter 1, the history book, and the two
+folder indexes.
+
