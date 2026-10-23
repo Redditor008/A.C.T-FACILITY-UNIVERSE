@@ -53,3 +53,15 @@ else
 fi
 
 python3 _ARCHIVE-OPS/tools/corpus_numbers.py
+
+# Owner ruling 2026-10-23: re-prove the gates before any edit in the batch. A gate
+# that reads 0 proves nothing on its own, and TXT_NARROW_BAR_LINES read 0 while
+# 5,870 narrow bars sat in the corpus. gate_audit.py injects each defect into a
+# scratch copy and exits with the count of gates that failed to fire, so a batch
+# stops here rather than measuring with a blind instrument.
+python3 _ARCHIVE-OPS/tools/gate_audit.py
+AUDIT=$?
+if [ "$AUDIT" -ne 0 ]; then
+    echo "GATE AUDIT FAILED: $AUDIT gate(s) are blind. Fix corpus_numbers.py before editing."
+    exit "$AUDIT"
+fi
