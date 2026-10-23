@@ -18,10 +18,10 @@ object the Facility holds. Everything else in the relationship is at a distance:
 was inspected under cooperation, one mobile hold was photographed from outside, and full Ark
 inventories are unknown.
 
-This file is therefore an assessment and not a custody record. A.C.T does not operate the coffer
-and has no intention of issuing it. Neither is it a counter-operation record, because the Ark is
+The archive therefore holds this as an assessment and not as a custody record. It does not operate
+the coffer and has no intention of issuing it. Neither is it a counter-operation record, because the Ark is
 not hostile — its alignment is neutral and its posture includes cooperated. The Facility holds a
-disputed object belonging to a party it also works with, and this file does not smooth that over.
+disputed object belonging to a party it also works with, and the archive does not smooth that over.
 
 The coffer has not been opened. Its nine-line seal is intact.
 
@@ -41,7 +41,7 @@ none is invented here.
 1.2 What is inside
 ==================
 
-Unknown, and this file does not guess.
+Unknown, and the archive does not guess.
 
 The Ark divides its holds into nine categories: living, seed, memory, tool, medical, animal,
 culture, containment, and unknown. The ninth is a category the Ark itself has not classified. A
@@ -66,12 +66,13 @@ ARK COFFER SEAL RULE
 The coffer is not opened. Any opening decision is Level 5 with Medical Care, Subject Care and
 Legal present, and it is not taken because the contents are curious.
 
-Custody is Level 4. Handling is Level 5. No imaging through the seal, no sampling, no attempt to
-restore a cold chain the dossier never specified.
+Custody is Level 4 and handling is Level 5. Personnel must not image through the seal, must not
+take a sample, and must not attempt to restore a cold chain the dossier never specified.
 
-The coffer is held at a recorded temperature and the record notes that the Ark's cold chain
+The archive holds the coffer at a recorded temperature, and notes that the Ark's cold chain
 suggests temperature matters. Whether the coffer has been kept cold since seizure is not
-established, and a coffer held warm may no longer contain what it was sealed with.
+established, and a coffer held warm may no longer contain what it was sealed with. Personnel must
+log the temperature at every watch and must not adjust it.
 
 1.5 Why it has not been returned
 ================================
