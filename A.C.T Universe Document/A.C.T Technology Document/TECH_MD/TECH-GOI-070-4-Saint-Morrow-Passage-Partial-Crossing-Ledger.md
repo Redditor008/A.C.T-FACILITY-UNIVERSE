@@ -1,0 +1,283 @@
+# A.C.T FACILITY ARCHIVE FILE — SAINT MORROW PASSAGE PARTIAL CROSSING LEDGER
+### TECHNOLOGY RECORD - SAINT MORROW PASSAGE PARTIAL CROSSING LEDGER
+
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-070-4 |
+| TECHNOLOGY NAME | Saint Morrow Passage Partial Crossing Ledger |
+| SHORT NAME | SMPCL |
+| TECHNOLOGY FAMILY | RECOVERED ADVERSARY DEVICE / TRANSIT RECORD KEEPING TECHNOLOGY / DUAL FILING MANDATORY |
+| ORIGIN | SAINT MORROW PASSAGE (GOI-BS-W-070) / PASSAGE CLERK MAINTAINED |
+| PRIMARY CONTROLLER | Intelligence Division with Legal and Subject Care review |
+| ATTACHED DIVISIONS | Intelligence, Legal, Subject Care, Containment, Archive |
+| OPERATIONAL STATUS | PARTIAL LEDGERS HELD / FULL ROUTE BOOKS UNRECOVERED / NO COPY MADE |
+| RISK STATUS | SENSITIVE PERSONAL DATA / DEBT RECORDS / DO NOT DISCLOSE |
+| CLEARANCE REQUIRED | Level 4 for reading; Level 5 for any disclosure decision |
+
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Recovered Adversary Device Record |
+| DISTRIBUTION | Intelligence, Legal, Subject Care, Containment, Command, Archive |
+| AUTHORITY | Intelligence Division with Legal and Subject Care review, restricted holding |
+
+#### Archive Note
+
+This record covers the crossing ledgers listed among Saint Morrow Passage assets, described in the
+dossier as divided by passenger, object, body and unpaid debt. A.C.T holds partial crossing
+ledgers. The full Saint Morrow route books remain unrecovered.
+
+That four-way division is the most consequential sentence the dossier contains about this object,
+and it is not a filing convenience. A ledger divided by passenger, object, body and unpaid debt
+records four different kinds of thing crossing the same route under the same authority. A person,
+a parcel, a corpse and an obligation are entered in one book, and the book does not distinguish
+between them morally. It distinguishes between them for accounting.
+
+The Passage is a work relationship. Its posture is cooperated, monitor, misdirect and appropriate,
+its threat level is 3, and its status is a passage market under monitoring. So this is
+appropriated material from a cooperating partner, and the obligation that follows is the same one
+recorded across the other three 070 records.
+
+Two of the four divisions carry people. The passenger division records living travellers. The debt
+division records people who owe the Passage, and a debt owed to a passage market that carries
+bodies is not an ordinary debt. This record is therefore written as a Subject Care document filed
+under technology, and the ordering is deliberate.
+
+Controlled label: **CROSSING LEDGER DISCLOSURE RULE**.
+
+Core handling rule:
+
+```text
+EVERY ENTRY IS A PERSON, A BODY OR AN OBLIGATION. NO ENTRY IS DISCLOSED TO ANY PARTY
+WITHOUT LEVEL 5 AND LEGAL APPROVAL, AND NO ENTRY IS EXTRACTED INTO ANY OTHER SYSTEM.
+```
+
+---
+
+## FUNCTION SUMMARY
+
+A crossing ledger records what a Passage route carried. It is divided into four sections and is
+maintained by Passage clerks.
+
+- records passengers carried on a route;
+- records objects carried;
+- records bodies carried;
+- records unpaid debt against a passenger or a route;
+- has no containment function and is not a device.
+
+The dossier lists the ledgers alongside white ticket books, cold maps, route bells, porter keys and
+route-audit notebooks. The ledgers and the audit notebooks are the two records the Passage keeps of
+what actually happened, and they are not the same document: the ledger records what was carried and
+the notebook records wrong arrivals and route injuries.
+
+The ledgers A.C.T holds are partial. What is missing is unknown, and no inference may be drawn from
+an absence.
+
+## ORIGIN AND CUSTODY
+
+The crossing ledgers are Passage clerk maintained. The dossier describes Passage holdings including
+ticket desks, road houses, unlisted ferry offices, border rooms, sleeper cars, safe garages and
+chapel-like depots, which places ledger keeping across Passage premises rather than with individual
+porters.
+
+A.C.T recovered partial crossing ledgers among white tickets, one route bell and two cold-map
+fragments, during work contact with the Passage. The posture of cooperated, monitor, misdirect and
+appropriate means this was appropriation from a cooperating partner rather than seizure from a
+hostile one.
+
+Custody sits with Intelligence, with Legal and Subject Care reviewing. Reading requires Level 4.
+Any disclosure decision requires Level 5.
+
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+The dossier gives no dimensions, format, pagination or binding, and none is inferred. What it
+establishes is the division structure, which is more informative than a format would be.
+
+| FIELD | VALUE |
+|---|---|
+| Object class | Transit ledger, divided into four sections |
+| Sections | Passenger, object, body, unpaid debt |
+| Dimensions or format | Not recorded |
+| Pagination or entry numbering | Not recorded |
+| Whether entries are dated | Not recorded |
+| Whether entries are dated by route | Not recorded |
+| Maintaining officer | Passage clerk |
+| Completeness | Partial; the full route books are unrecovered |
+| Companion record | Route-audit notebooks, recording wrong arrivals and injuries |
+| Units held by A.C.T | Partial ledgers; count not recorded |
+
+Two rows matter. The four-way division means a single ledger can be read as a route history, a
+cargo manifest, a mortuary record and a debt register, and which reading is correct depends on
+which section an entry sits in. And the count held is not recorded in the dossier, so this record
+does not supply one.
+
+## TECHNICAL SPECIFICATION
+
+The dossier gives no specification. Three points are established by inference and are marked as
+such.
+
+The ledger is a downstream record. It records a crossing after the ticket authorised it and the
+bell marked it, so a held ledger is evidence of completed passages rather than of intended ones.
+
+The debt section makes the ledger an enforcement instrument. A debt recorded against a passenger is
+a claim the Passage can pursue, which means the ledger is not only a record but also the basis of
+an obligation that may still be live.
+
+The ledger is partial and its gaps are unknown. No comparison between the partial ledgers and any
+other source may treat a missing entry as a negative finding.
+
+## INTERFACE AND OPERATING ENVELOPE
+
+### Passage Interface
+
+The ledger is written by Passage clerks after a crossing. No A.C.T role corresponds and no A.C.T
+personnel are authorised to enter anything into one.
+
+### Subject Care Interface
+
+The passenger, body and debt sections all record people. A body entry records someone who was
+carried, and a debt entry records someone who owes. Any person identified in either is a Subject
+Care matter before being an intelligence lead, and that ordering is not discretionary.
+
+### Disclosure Interface
+
+No entry is disclosed to any party without Level 5 and Legal approval. That includes the debt
+section, where disclosure could expose a person to enforcement by the Passage.
+
+### Personnel Limits
+
+Reading requires Level 4. Disclosure requires Level 5. No extraction of entries into any other
+system, index or summary is permitted at any clearance, because a copy of a ledger is the same
+ledger.
+
+### Numbered Operating Sequence
+
+The sequence below is the Passage's, recorded for reference. It is not an A.C.T procedure and must
+not be followed by A.C.T personnel.
+
+```text
+1. A White Clerk assigns a route class and issues a ticket.
+2. A Ticket Saint reads the terms aloud to the passenger.
+3. The crossing is run and the route bell marks it.
+4. The crossing ledger records the passenger carried.
+5. The crossing ledger records any object carried.
+6. The crossing ledger records any body carried.
+7. The crossing ledger records any unpaid debt arising.
+8. A route-audit notebook records any wrong arrival or route injury.
+```
+
+## OPERATING PROCEDURE
+
+A.C.T does not operate the ledgers. The procedure that applies is restricted reading and referral.
+
+The ledgers are read at Level 4 and every reading is recorded with the reader and the purpose. No
+entry is copied into any other system. No summary is produced, because a summary that carries
+entries is a copy.
+
+Where a passenger entry identifies a person A.C.T can reach, the referral is to Subject Care. Where
+a debt entry identifies a person, the referral is to Legal, because the debt may be enforceable and
+disclosing it could expose the person. Intelligence is notified that a referral was made and is not
+given the name.
+
+## SERVICING AND CALIBRATION
+
+No servicing is performed. The ledgers are held as recovered.
+
+No annotation, indexing or transcription is permitted. An indexed ledger is a second ledger, and the
+restriction applying to the original applies to anything that makes it easier to use.
+
+No calibration exists. The ledger has no measurable output and no reference standard.
+
+## FAULT ISOLATION
+
+| OBSERVED CONDITION | ESTABLISHED | NOT ESTABLISHED |
+|---|---|---|
+| Ledgers are partial | Confirmed; the full route books are unrecovered | What proportion is missing |
+| Four-section division | Confirmed by the dossier | Whether every ledger carries all four |
+| Count held | Not recorded | How many ledgers A.C.T holds |
+| Whether debts are live | Not established | Whether any recorded debt is still owed |
+
+The last row is deliberately left open and it is the one with consequences. A debt recorded in a
+partial ledger of unknown date may have been settled, may have been written off, or may still be
+owed. Nothing in this record treats a recorded debt as live, and nothing in it treats one as
+settled.
+
+## KNOWN LIMITS
+
+- no entry may be disclosed without Level 5 and Legal approval;
+- no entry may be extracted into any other system at any clearance;
+- the ledgers are partial and no inference may be drawn from an absence;
+- the count held is not recorded in the dossier and is not supplied here;
+- whether any recorded debt is still live is unknown and must not be assumed either way;
+- the ledgers came from a cooperating partner, which carries obligations a seizure would not.
+
+The fifth limit is the one most likely to cause harm if eroded. A debt entry read as live could
+expose a person to enforcement. A debt entry read as settled could leave a person believing an
+obligation had ended when it had not. Both errors are available and neither is permitted here.
+
+## FAILURE HISTORY
+
+No failure has occurred in A.C.T custody. The ledgers have been read under restriction and no entry
+has been disclosed.
+
+### RECOVERY CONDITION - DATE NOT RECORDED
+
+The ledgers were recovered during work contact with the Passage and arrived partial. The dossier
+records neither the date nor the count. This entry records the absence rather than filling it.
+
+### NO ENTRY DISCLOSED - STANDING RESTRICTION
+
+No entry has been disclosed to any party outside Intelligence, Legal and Subject Care, and no entry
+has been disclosed to the person it names. This entry records the restriction as an event.
+
+### NO DEBT TREATED AS LIVE - STANDING RESTRICTION
+
+No recorded debt has been treated as enforceable, pursued, or disclosed to the Passage. This entry
+exists because the question is unresolved and the restriction holds until Legal rules on it.
+
+## DIVISION USE
+
+| DIVISION | USE |
+|---|---|
+| Intelligence | Holds the ledgers; reads under restriction; records every reading |
+| Legal | Rules on every disclosure; advises on any recorded debt |
+| Subject Care | Receives referrals where a passenger or body entry identifies a person |
+| Containment | Confirms the ledgers carry no containment function |
+| Archive | Holds this record and the cross-references |
+
+No division extracts entries. Intelligence holds the ledgers and refers people rather than names.
+
+## CROSS-REFERENCES
+
+- `GOI-BS-W-070` — Saint Morrow Passage, Group of Interest Dossier
+- `TECH-GOI-070-1` — Saint Morrow Passage White Ticket, Technology Record
+- `TECH-GOI-070-2` — Saint Morrow Passage Route Bell, Technology Record
+- `TECH-GOI-070-3` — Saint Morrow Passage Cold-Map Fragment, Technology Record
+
+The ticket authorises the crossing, the bell marks it in transit, the map carries the route, and
+this ledger records what was carried and what is owed. A.C.T holds tickets, one bell, two map
+fragments and partial ledgers, and holds no complete map and no route book.
+
+## OPEN QUESTIONS
+
+- how many ledgers are held, and what proportion of the whole they represent;
+- whether every ledger carries all four sections or only some;
+- whether any recorded debt is still live, and who would decide;
+- whether a body entry identifies a person A.C.T can reach or notify;
+- whether the Passage expects appropriated ledgers to be accounted for or returned;
+- what happens to a passenger whose debt A.C.T holds a record of.
+
+The third and sixth questions are the same question from two sides, and neither has an answer here.
+A.C.T holds a record of what people owe a cooperating partner, and what to do with that has not
+been decided. Until it is, no debt is treated as live and none is treated as settled.
+
+## FILE METADATA
+
+| FIELD | VALUE |
+|---|---|
+| RECORD TYPE | Technology Record — Recovered Adversary Device |
+| CREATED | 30/01/2021 |
+| LAST UPDATED | 18/11/2025 |
+| REVIEW CYCLE | On any disclosure request, any debt question, or any Subject Care referral |
+| SOURCE | `GOI-BS-W-070` Saint Morrow Passage dossier, Known Assets and Holdings and Operating Method |
+| DUAL FILING | Mandatory — filed under GOI recovery and under transit record keeping technology |
+| NEXT REVIEW | On any change in the Passage relationship currently under monitoring |
