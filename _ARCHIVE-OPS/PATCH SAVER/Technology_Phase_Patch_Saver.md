@@ -7422,3 +7422,72 @@ to fire.
 ### Still open
 
 4 of the 7 Start Here doors are unread: the full manuscript, Chapter 1, the history book, and the two folder indexes.
+
+## Prompt End Update — 2026-10-24, Reader Walk Closed At 7 Of 7 Doors; Story Duplication Removed
+
+This entry closes the reader walk and the story defect it exposed.
+
+### The story told its opening twice
+
+A newcomer read of the manuscript and Chapter 1 found the same beat told twice: the same desk, the
+same lamps, the same absent messenger, the same folder at the same angle. Reading all 7 flagged
+chapters confirmed **all 7**.
+
+The cause was an earlier batch that rewrote 11 chapter openings to satisfy RULE 3.1. The new opening
+was prepended and the old one was never removed. **7 leftover paragraphs** were taken out across the
+chapter, its twin, the manuscript and the manuscript twin, and a second pass found **8** further
+duplicated sentences inside the openings of Chapters 10 and 11.
+
+**`STORY_MANUSCRIPT_LOCKSTEP_FAILURES` read 0 the whole time and caught none of it**, because the
+manuscript carried the same duplication, so the two still agreed. A lockstep gate cannot see a defect
+both sides share. `STORY_OPENING_REPEATS` now tests for it.
+
+A third flag was a **false positive and was left alone**: Chapter 6 shares a phrase between a long
+sentence and a short follow-on, which is ordinary prose rather than a restated beat. The gate was
+tightened so the shared phrase must sit near the start of both sentences.
+
+A whole-story scan of all 12 chapters then found **0** duplicated sentences, so the defect was
+confined to the openings, exactly where the rewrite had been applied.
+
+### The reader walk
+
+All **7** Start Here doors were read. **5 defects** were found across the session and all 5 fixed:
+9 garbled headings from the banner conversion, 131 headings carrying bold markup, one record's title
+stack of an H1 plus 3 sibling H2s, two blocks cramming every field onto one run-on line, and the
+history book's out-of-world voice.
+
+Scanning the title-stack shape corpus-wide found **60** instances rather than one, and **168** sibling
+H2s were folded into a single descriptive line.
+
+### The history book
+
+Three fixes: the volume no longer describes itself as compiled from provided materials, since nothing
+inside the A.C.T. universe was provided to anyone; 3 headings that sat under the H1 before the first
+H2 are promoted, giving 12 H2s and 62 H3s; and the literal single-quote characters are out of the
+filename, with 4 documents' links updated. **352** blob links checked, **0** broken.
+
+A corpus scan for the same out-of-world voice found **10** documents and **9 were false positives**:
+in-world screen prompts, acquisition-prompt screening in the Anstrall Market records, and the
+backstage AI generation guides, which discuss prompts by design.
+
+### One mistake made and corrected here
+
+The first attempt to promote those headings **prepended** a hash rather than removing one, demoting
+all 65 H3s to H4. It was caught by comparing heading counts against `HEAD`, reverted, and redone
+against only the 3 headings that actually skip a level. **A heading change must be checked by
+counting levels, not by reading the diff of one line.**
+
+### Gates
+
+The suite is **20 gates tested, 20 fired, 0 blind**. New this session: `TXT_MD_RULE_LINES`,
+`TXT_MD_ITALIC_SPANS`, `TXT_NARROW_BAR_LINES`, `BOXDRAW_CHARACTERS`, `DOUBLED_RULE_LINES`,
+`MD_BOLD_IN_HEADING_LINES`, `TITLE_STACK_DOCUMENTS`, `STORY_OPENING_REPEATS`.
+
+Two injection tests were themselves wrong and the audit caught both: a wide-line payload of 80
+characters against a 118 limit, and a title stack injected into a `.txt` file the gate does not count.
+
+### Nothing is open
+
+Every defect the reader walk found is fixed, the story duplication is gone, and the next batch is a
+re-audit of the anti-bloat sweep.
+
