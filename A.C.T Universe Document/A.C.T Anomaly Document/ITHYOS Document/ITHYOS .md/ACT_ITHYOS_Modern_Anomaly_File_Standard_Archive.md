@@ -13,7 +13,7 @@ the current doctrinal status, classification logic, and containment framing of A
 
 ---
 
-### A.C.T FACILITY — ANOMALY FILE Anomaly Containment Transformation
+### A.C.T FACILITY — ANOMALY FILE
 
 DESIGNATION:         AFD-CH-000
                      Verified archive designation

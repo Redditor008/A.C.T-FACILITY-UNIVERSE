@@ -116,6 +116,15 @@ def main() -> int:
     # Owner ruling 2026-10-23: two box separators in a row is a defect. 25 of them
     # sat unnoticed in 4 GOI records until they were counted by hand, which is the
     # whole argument for a gate: a defect nobody counts stays a defect.
+    # Owner ruling 2026-10-24: a markdown heading is already emphasised, so bold
+    # markup inside one is redundant and renders literally in some viewers. 131 of
+    # them sat across 13 files, found only because a newcomer read turned up one.
+    r["MD_BOLD_IN_HEADING_LINES"] = sum(
+        1
+        for p in md
+        for line in read(p).split("\n")
+        if re.match(r"^#{1,6} ", line) and "**" in line
+    )
     r["DOUBLED_RULE_LINES"] = 0
     for p in files:
         ls = read(p).split("\n")

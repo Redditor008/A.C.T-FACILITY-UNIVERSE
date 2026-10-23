@@ -5,7 +5,7 @@
 
 ## ACT-MASTER-INDEX-50-SYSTEMS-AND-MATERIALS
 
-### A.C.T FACILITY — MASTER CATALOG Anomaly Containment Transformation
+### A.C.T FACILITY — MASTER CATALOG
 
 | FIELD | VALUE |
 |---|---|
@@ -22,7 +22,7 @@ provided herein for all maintenance logs and requisition forms.
 
 ---
 
-### **CATEGORY I — REALITY & SPATIAL INFRASTRUCTURE**
+### CATEGORY I — REALITY & SPATIAL INFRASTRUCTURE
 
 **01. RSA (REALITY STABILIZATION ANCHOR)** The primary pillar of containment. It broadcasts a high-frequency causal
 baseline to prevent local reality-fracturing. Mandatory for all Class-3 spatial apertures.
@@ -47,7 +47,7 @@ Essential for Dark World expeditions.
 
 ---
 
-### **CATEGORY II — ARCHIVAL & CAUSAL SAFEGUARDS**
+### CATEGORY II — ARCHIVAL & CAUSAL SAFEGUARDS
 
 **06. QNB (QUANTUM NARRATIVE BUFFER)** Immutable data-storage etched into [ BLANK ] crystals. Preserves the Archive
 through causal regressions and timeline resets.
@@ -75,7 +75,7 @@ short-duration transport or recovery.
 
 ---
 
-### **CATEGORY III — BIO-CHEMICAL & TRANSMUTATION**
+### CATEGORY III — BIO-CHEMICAL & TRANSMUTATION
 
 **11. 004-SERIES AMNESTICS** Proprietary memory-solvent compounds derived
 from NB-004. Utilized for the maintenance of global and internal secrecy.
@@ -103,7 +103,7 @@ specific high-tier info-hazards.
 
 ---
 
-### **CATEGORY IV — MEDICAL & STASIS SYSTEMS**
+### CATEGORY IV — MEDICAL & STASIS SYSTEMS
 
 **16. CBI (CRYOGENIC BIOLOGICAL ISOLATION) UNITS** Advanced stasis pods utilizing resonant cooling to prevent
 biological decay without causing ice-crystal tissue damage.
@@ -131,7 +131,7 @@ frequencies. Allows for direct observation of phased subjects.
 
 ---
 
-### **CATEGORY V — FIELD GEAR & TACTICAL LOGISTICS**
+### CATEGORY V — FIELD GEAR & TACTICAL LOGISTICS
 
 **21. TACTICAL FEEDBACKER ARM** Cybernetic prosthesis utilizing
 harmonic vibration to parry kinetic projectiles and energy bursts.
@@ -163,7 +163,7 @@ future-operative filtering for coordinating unmanned recovery operations.
 
 ---
 
-### **CATEGORY VI — ANOMALOUS & REFINED MATERIALS**
+### CATEGORY VI — ANOMALOUS & REFINED MATERIALS
 
 **41. HARVESTED PALE WOOD** Indestructible timber derived from the Dark World. Used for internal structural
 reinforcement. Vulnerable to 24k gold.

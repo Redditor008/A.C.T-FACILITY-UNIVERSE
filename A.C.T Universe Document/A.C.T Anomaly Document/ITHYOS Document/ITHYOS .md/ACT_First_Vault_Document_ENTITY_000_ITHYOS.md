@@ -1,7 +1,6 @@
-# A.C.T Facility Vault Archive
-## First Preserved Document
-## Pre-Anomaly Era Record
-## ENTITY FILE: 000
+# A.C.T Facility Vault Archive — ENTITY-000
+
+First Preserved Document / Pre-Anomaly Era Record / Entity File 000
 
 | FIELD | VALUE |
 |---|---|
@@ -14,11 +13,16 @@
 ---
 
 ## ENTITY DESIGNATION
-**ENTITY-000** **Title I:** *The Slumbering Serpent God* **Title II:** *ITHYOS, The World-Sleeper*
+
+- **Entity Designation:** ENTITY-000
+- **Title I:** The Slumbering Serpent God
+- **Title II:** ITHYOS, The World-Sleeper
 
 ## Provisional Name
-**The Sleeping Serpent in the Core** **Recovered Secondary Name:**
-*ITHYOS* **Unauthorized Interpretive Title:** *The World-Sleeper*
+
+- **Provisional Name:** The Sleeping Serpent in the Core
+- **Recovered Secondary Name:** ITHYOS
+- **Unauthorized Interpretive Title:** The World-Sleeper
 
 **Note:** This record was created before the modern use of the word **Anomaly**. At
 the time of writing, the world was

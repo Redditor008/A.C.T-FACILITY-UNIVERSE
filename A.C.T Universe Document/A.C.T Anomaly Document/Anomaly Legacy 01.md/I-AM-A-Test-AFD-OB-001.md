@@ -1,7 +1,7 @@
 # A.C.T FACILITY — ANOMALY FILE
 ## I-AM-A-Test-AFD-OB-001
 
-### A.C.T FACILITY — ANOMALY FILE Anomaly Containment Transformation
+### A.C.T FACILITY — ANOMALY FILE
 
 DESIGNATION:         AFD-OB-001
                      Verified archive designation

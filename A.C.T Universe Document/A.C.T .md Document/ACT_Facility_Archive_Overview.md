@@ -100,7 +100,7 @@ survival. The preservation of
 reality outweighs individual innocence, public transparency, and idealistic restraint.
 
 ## 9. Motto
-### **“To A.C.T is to maintain the normalcy and the stability of Earth and
+### “To A.C.T is to maintain the normalcy and the stability of Earth and
 its populace.”**
 
 This motto serves as the guiding philosophy of the Facility and summarizes the burden

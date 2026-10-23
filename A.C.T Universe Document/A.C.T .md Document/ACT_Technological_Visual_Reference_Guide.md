@@ -5,7 +5,7 @@
 
 ## Comprehensive Visual and Mechanical Specifications for Asset Index 50
 
-### A.C.T FACILITY — VISUAL ARCHIVE Anomaly Containment Transformation
+### A.C.T FACILITY — VISUAL ARCHIVE
 
 | FIELD | VALUE |
 |---|---|
@@ -21,7 +21,7 @@ unauthorized modifications, and perform standard maintenance calibrations.
 
 ---
 
-### **CATEGORY I — REALITY & SPATIAL INFRASTRUCTURE**
+### CATEGORY I — REALITY & SPATIAL INFRASTRUCTURE
 
 **01. RSA (REALITY STABILIZATION ANCHOR)** A 1.5-meter tall hexagonal pillar composed of matte-black,
 non-reflective tungsten alloy. The unit is supported by a heavy-duty **Tungsten Tripod base** with adjustable
@@ -75,7 +75,7 @@ needle, it uses a gyro-stabilized sensor array to highlight "Narrative Density" 
 
 ---
 
-### **CATEGORY II — ARCHIVAL & CAUSAL SAFEGUARDS**
+### CATEGORY II — ARCHIVAL & CAUSAL SAFEGUARDS
 
 **06. QNB (QUANTUM NARRATIVE BUFFER)** A rack-mounted server hub containing **Pressurized Crystal Canisters**
 instead of traditional drives. Each canister is fitted with a **[ REDACTED ]-Etching Laser** that writes data at the
@@ -122,7 +122,7 @@ stuck" in the hand even before deployment.
 
 ---
 
-### **CATEGORY III — BIO-CHEMICAL & TRANSMUTATION**
+### CATEGORY III — BIO-CHEMICAL & TRANSMUTATION
 
 **11. 004-SERIES AMNESTICS** Stored in color-coded glass ampoules. The liquid is a **Luminous Gold** syrup. Each
 ampoule features a **Dosage-Lock Seal** that only disengages when exposed to a specific **[ REDACTED ] Frequency** at
@@ -168,7 +168,7 @@ a patient, it appears as a small, surgical scar protected by a **[ REDACTED
 
 ---
 
-### **CATEGORY IV — MEDICAL & STASIS SYSTEMS**
+### CATEGORY IV — MEDICAL & STASIS SYSTEMS
 
 **16. CBI (CRYOGENIC BIOLOGICAL ISOLATION) UNITS** A horizontal stasis coffin made of Abyssal Basalt
 and glass. Features a **Cellular-Rhythm Monitor** on the headboard and a **Manual Hand-Pump** for
@@ -204,7 +204,7 @@ used to adjust the visibility and tangibility of desynchronized subjects.
 
 ---
 
-### **CATEGORY V — FIELD GEAR & TACTICAL LOGISTICS**
+### CATEGORY V — FIELD GEAR & TACTICAL LOGISTICS
 
 **21. TACTICAL FEEDBACKER ARM** Blue-tinted steel prosthetic with **Vibrating Harmonic Fins** along the forearm.
 Features a **Pressure-Sensitive Disc** in the palm and a **Tactical Wrist-Screen** showing parry-window timing. When a
@@ -239,7 +239,7 @@ REDACTED ]-Pattern Recognition** and features a **Wired Tactical Uplink Port** f
 
 ---
 
-### **CATEGORY VI — ANOMALOUS & REFINED MATERIALS**
+### CATEGORY VI — ANOMALOUS & REFINED MATERIALS
 
 **41. HARVESTED PALE WOOD** Stacks of white, bark-less timber. Each plank is fitted with a microscopic **[ BLANK ]
 ID-Tag** for location tracking. The wood feels identical to polished bone and has a

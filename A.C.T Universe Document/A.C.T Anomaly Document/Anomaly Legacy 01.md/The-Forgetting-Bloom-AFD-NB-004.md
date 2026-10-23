@@ -1,7 +1,7 @@
 # A.C.T FACILITY — ANOMALY FILE
 ## The-Forgetting-Bloom-AFD-NB-004
 
-### A.C.T FACILITY — ANOMALY FILE Anomaly Containment Transformation
+### A.C.T FACILITY — ANOMALY FILE
 
 DESIGNATION:         AFD-NB-004
                      Verified archive designation

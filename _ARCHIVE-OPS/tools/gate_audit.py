@@ -58,6 +58,7 @@ TEXT_TESTS = [
     # box and has to match those cells instead.
     ("TXT_NARROW_BAR_LINES", TX, "append", "\n+" + "-" * 48 + "+\n" + "x" * 100 + "\n"),
     ("DOUBLED_RULE_LINES", TX, "append", "\n+" + "=" * 48 + "+\n+" + "=" * 48 + "+\n"),
+    ("MD_BOLD_IN_HEADING_LINES", MD, "append", "\n\n## **Bold Heading**\n"),
     ("TXT_WIDE_PROSE_LINES", TX, "append", "\n" + WIDE + "\n"),
     ("MD_WIDE_PROSE_LINES", MD, "append", "\n" + WIDE + "\n"),
 ]

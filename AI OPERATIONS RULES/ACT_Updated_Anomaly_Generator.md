@@ -24,15 +24,15 @@ the friction of existence.
 
 To maintain chronological and causal integrity, all documentation must be saved in the following folders:
 
-#### **2.1 ANOMALY txt (Main Files)**
+#### 2.1 ANOMALY txt (Main Files)
 *   **Part 1:** Legacy (1598–1888), Foundational (ITHYOS/NEMNOLIA), and Early Modern entries.
 *   **Part 2:** Current operational era anomalies (AFD/UFD/ANM).
 
-#### **2.2 ANOMALY Log (Dossiers & Logs)**
+#### 2.2 ANOMALY Log (Dossiers & Logs)
 *   **Part 1:** Supporting records for Part 1 anomalies.
     **Part 2:** Supporting records for Part 2 anomalies, including personnel reflections and research audits.
 
-#### **2.3 Emergent Reality File (The 715 Series)**
+#### 2.3 Emergent Reality File (The 715 Series)
 *   Reserved exclusively for **Exogenous Record Manifestations**.
     **Note:** These are not physical anomalies. They are mundane artifacts (USBs, paper scripts, photos) that appeared
     without a source and describe other worlds.
@@ -42,17 +42,17 @@ To maintain chronological and causal integrity, all documentation must be saved 
 
 ## 3. DESIGNATION & NOMENCLATURE
 
-#### **3.1 Anomaly Naming**
+#### 3.1 Anomaly Naming
 *   **Main File:** `Title-Designation.txt` (e.g., `Spinosaurus-AFD-SU-937.txt`)
 *   **Dossier/Log:** `Title-Category-Dossier-Designation.txt` (e.g.,
     `Death-Angler-Behavioral-Observation-Dossier-AFD-NB-964.txt`)
 
-#### **3.2 The 715-Series Rule**
+#### 3.2 The 715-Series Rule
     All items originating from the "Displacement Event" of
     2021-2024 are designated under the **715** numerical registry.
 — They are categorized as **Information-Only Manifestations** and stored as "Static Artifacts."
 
-#### **3.3 Path 1 Foundation Fields**
+#### 3.3 Path 1 Foundation Fields
 Every full anomaly file must include the current foundation fields:
 
 **REGISTRY BAND:** ENTITY Historical / 000 Foundational Reserve / LEGACY ACCEPTED 001-120 / Modern Registry 121-999 /
@@ -79,16 +79,16 @@ All documentation must utilize the **Master Catalog of Operational Assets (Index
 
 ## 5. INSTITUTIONAL VOICES & PERSONNEL
 
-#### **Dr. Aris Thorne (SR-412)**
+#### Dr. Aris Thorne (SR-412)
 *   **Background:** 110 years old, 26-year-old body. Lead of Artifact Awakening.
 *   **Tone:** Distant, blunt, and clinical. Prefers analog/paper over digital shortcuts.
     **Perspective:** Sees anomalies as "Survivors" and manners as a tool to keep researchers human.
 
-#### **Senior Researcher Maya Chen (Subject 612-A)**
+#### Senior Researcher Maya Chen (Subject 612-A)
 *   **Background:** Biologically transmuted into a functional intersex state by AFD-OB-612.
 *   **Tone:** Extremely responsible and meticulous. Obsessively logs her own condition.
 
-#### **Anny (AFD-SU-005)**
+#### Anny (AFD-SU-005)
 *   **Language:** 80% Literary Mimicry (fluent/refined) / 20% Anomalous Metaphor.
 *   **Status:** "Primary Companion" for Site-03/Site-04 juvenile or digital subjects.
 

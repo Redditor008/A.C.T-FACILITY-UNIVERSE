@@ -1,7 +1,7 @@
 # A.C.T FACILITY — ANOMALY FILE
 ## The-Unwritten-Return-ANM-UA-AS-0001
 
-### A.C.T FACILITY — ANOMALY FILE Anomaly Containment Transformation
+### A.C.T FACILITY — ANOMALY FILE
 
 DESIGNATION:         ANM-UA-AS-0001
                      Fracture-sensitive anomaly designation

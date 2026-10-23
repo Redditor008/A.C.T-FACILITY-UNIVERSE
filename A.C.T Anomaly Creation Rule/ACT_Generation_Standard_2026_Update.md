@@ -10,7 +10,7 @@ narrative isolation for all A.C.T content.
 
 The A.C.T Facility operates within the **Main A.C.T Reality**.
 
-#### **The "715" Separation Rule:**
+#### The "715" Separation Rule:
 Anomalies designated under the **715-Series** (Realities A through
 G) are formally classified as **Exogenous Reality Nodes**.
 — **Independent:** They are external causal planes detected by the Facility.
@@ -27,7 +27,7 @@ G) are formally classified as **Exogenous Reality Nodes**.
 
 All future anomaly files and logs must utilize the **Master Catalog of Operational Assets (Index 50)**.
 
-#### **Mandatory Technological Usage:**
+#### Mandatory Technological Usage:
 *   **RSA (Reality Stabilization Anchor):** The default tool for spatial/reality fractures.
 *   **ARM (Anti Reality Mesh):** The default tool for site-secrecy.
 *   **Banalist Static Generators:** Used to suppress narrative-based anomalies (e.g., Dramaturgy).
@@ -39,18 +39,18 @@ All future anomaly files and logs must utilize the **Master Catalog of Operation
 
 ## 3. RECURRING PERSONNEL & VOICES
 
-#### **Dr. Aris Thorne (SR-412)**
+#### Dr. Aris Thorne (SR-412)
 *   **Profile:** 110 years old, 26-year-old body. Lead of the Artifact Awakening Project.
 *   **Tone:** Distant, blunt, clinical, and analog. Dislikes modern digital shortcuts.
     **Philosophy:** Sees anomalies as "Survivors" and manners as a way to keep researchers human.
 — **Usage:** Use him as a consultant for high-level artifact discoveries or site-wide memoranda.
 
-#### **Senior Researcher Maya Chen (Subject 612-A)**
+#### Senior Researcher Maya Chen (Subject 612-A)
 *   **Profile:** Transformed into a "Futanari" intersex state by AFD-OB-612.
 *   **Behavior:** Highly responsible. Logs her own condition obsessively because "it was her error."
 *   **Usage:** Lead contact for biological transmutation cases.
 
-#### **AFD-SU-005 (Anny)**
+#### AFD-SU-005 (Anny)
 *   **Linguistic Standard:** 80% normal speech mimicking 19th-century literature; 20% unique "mechanical/archive"
     metaphors.
     **Social Hierarchy:** Addresses staff as "Dr. [Name]" or
@@ -61,7 +61,7 @@ All future anomaly files and logs must utilize the **Master Catalog of Operation
 
 ## 4. SITE & SIDE-ARCHIVE PROTOCOLS
 
-#### **Primary Site Network:**
+#### Primary Site Network:
 *   `Primary Facility` (Abyss Floor)
 *   `ACT-SITE-01-US-W` (Redwood Veil)
 *   `ACT-SITE-02-RU-N` (White Grave)
@@ -69,7 +69,7 @@ All future anomaly files and logs must utilize the **Master Catalog of Operation
 *   `ACT-SITE-04-BR-C` (Verde Null)
 *   `ACT-SITE-05-ID-C` (Nusantara Relay)
 
-#### **Side-Archive Rule:**
+#### Side-Archive Rule:
 For anomalies that are "side stories" and not part of the main canonical anchors,
 use the following site format:
 *   `Site-Sub-[REDACTED]-[REGION]-[DIRECTION]`

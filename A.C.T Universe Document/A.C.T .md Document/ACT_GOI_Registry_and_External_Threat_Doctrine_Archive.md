@@ -85,7 +85,7 @@ Not all GOIs are enemies. But all GOIs matter.
 ## 4.2 — GOI Designation Rules
 A.C.T identifies Groups of Interest under a dedicated registry system:
 
-## **GOI-XX-X-XXX**
+## GOI-XX-X-XXX
 
 This structure separates GOI records from anomaly records and ensures that external anomalous actors are archived
 under their own institutional logic.

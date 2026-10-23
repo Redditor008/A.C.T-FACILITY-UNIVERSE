@@ -323,52 +323,52 @@ containment behavior, and conversion potential at a glance.
 A.C.T’s containment classes do not merely describe danger—they describe
 **the relationship between the anomaly and the act of containment itself**.
 
-### **INERT**
+### INERT
 *Will not leave the box, even if it can.* These anomalies remain stable and
 passive under confinement, posing little
 active resistance.
 
-### **RESIDUAL**
+### RESIDUAL
 *Scratches the walls, nothing more.* The anomaly exerts minor
 interference but rarely escalates beyond manageable disruption.
 
-### **SPORADIC**
+### SPORADIC
 *Rarely breaks out, nothing unpredictable.* Containment failure is uncommon and follows recognizable patterns.
 
-### **UNDISCLOSED**
+### UNDISCLOSED
 *Leaves by unknown means, returns by known ones.* A deeply unsettling class in which
 exit conditions remain
 unexplained, even if recontainment patterns have been observed.
 
-### **ENTROPIC**
+### ENTROPIC
 *Containment decays around it without maintenance.* The anomaly
 degrades systems, order, or structural consistency simply by existing.
 
-### **REACTIVE**
+### REACTIVE
 *Containment fails the moment you look away.* These anomalies
 require active monitoring and rapid procedural enforcement.
 
-### **EXIGENT**
+### EXIGENT
 *Containment is a full-time 24/7 operation.* The anomaly demands
 constant labor, resources, surveillance, and intervention.
 
-### **INVERTED**
+### INVERTED
 *It contains — does not merely need containing.* This class implies that the anomaly
 itself is acting as a vessel,
 seal, barrier, or prison for something else.
 
-### **UNENCLOSABLE**
+### UNENCLOSABLE
 *Too vast to enclose.* These anomalies cannot be boxed, chambered, or physically bounded in a conventional sense.
 
-### **INTANGIBLE**
+### INTANGIBLE
 *Cannot be touched, only witnessed.* Containment depends on perception control, information restriction, ritual
 procedure, or indirect interaction.
 
-### **TIAMAT**
+### TIAMAT
 *Beyond the frame of reference.* The anomaly exceeds conventional containment logic and may operate on scales outside
 ordinary ontology, space-time, or causal law.
 
-### **[BLANK]**
+### [BLANK]
 *Engagement is itself the threat.* The most conceptually dangerous category, reserved for anomalies where observation,
 contact, naming, pursuit, or study may trigger escalation.
 
@@ -402,31 +402,31 @@ secrecy enforcement, evacuation priority, transformation prohibition, and level 
 Transformation is what distinguishes A.C.T from organizations that only imprison the unknown. A.C.T believes that some
 anomalies, once understood, may be altered in status.
 
-### **INVIOLABLE**
+### INVIOLABLE
 *Transformation is not an option.* The anomaly cannot be altered,
 influenced, or repurposed without catastrophic consequence.
 
-### **NEUTRAL**
+### NEUTRAL
 *Transformation is inadvisable.* The anomaly is stable enough in
 containment, and the risk of experimentation outweighs the benefit.
 
-### **CONTAINED-STUDY**
+### CONTAINED-STUDY
 *Not ready for transformation.* Research is active, but no operational transformation is authorized yet.
 
-### **STABILIZED**
+### STABILIZED
 *The anomaly has crossed the first threshold.* Its behavior is
 predictable enough for controlled use beyond strict isolation.
 
-### **NEUTRALIZED**
+### NEUTRALIZED
 *Its harmful effect has been suppressed or nullified.* The anomaly no longer poses its
 original danger, though it may
 no longer be useful.
 
-### **REPURPOSED**
+### REPURPOSED
 *Its function has been redirected.* The anomaly now serves a defined Facility purpose, such as logistics,
 surveillance, defense, medicine, or energy support.
 
-### **INTEGRATED**
+### INTEGRATED
 *The anomaly has become part of A.C.T itself.* At this stage, it is no
 longer treated as an external object of study,
 but as a permanent system component embedded within infrastructure, doctrine, or operational capacity.

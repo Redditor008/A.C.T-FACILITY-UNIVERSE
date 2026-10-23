@@ -1,7 +1,7 @@
 # A.C.T Facility — Modern Anomaly File
 ## AFD-CH-000 — ITHYOS, THE WORLD-SLEEPER
 
-### A.C.T FACILITY — ANOMALY FILE Anomaly Containment Transformation
+### A.C.T FACILITY — ANOMALY FILE
 
 DESIGNATION:         AFD-CH-000
                      Verified archive designation

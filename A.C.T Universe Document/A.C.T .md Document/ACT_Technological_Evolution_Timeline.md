@@ -5,7 +5,7 @@
 
 ## Internal Engineering Record: 1598 – 2026
 
-### A.C.T FACILITY — HISTORICAL RECORD Anomaly Containment Transformation
+### A.C.T FACILITY — HISTORICAL RECORD
 
 | FIELD | VALUE |
 |---|---|
@@ -20,7 +20,7 @@ early terrestrial restraints to current standardized stabilization technologies.
 
 ---
 
-### **I. FOUNDATIONAL ERA (1598 – 1887)**
+### I. FOUNDATIONAL ERA (1598 – 1887)
 *Focus: Physical Containment and Passive Barrier Logic.*
 
 Prior to the formalization of the ABYSS Floor protocols, containment relied on the modification of existing materials.
@@ -42,7 +42,7 @@ unstable phenomena.
 
 ---
 
-### **II. INDUSTRIAL EXPANSION (1888 – 1949)**
+### II. INDUSTRIAL EXPANSION (1888 – 1949)
 *Focus: Deep-Earth Engineering and Perceptual Masking.*
 
 The discovery of the World-Sleeper and the subsequent First Descent necessitated a rapid advancement in heavy
@@ -65,7 +65,7 @@ structural engineering and secrecy maintenance.
 
 ---
 
-### **III. INTEGRATION ERA (1950 – 1999)**
+### III. INTEGRATION ERA (1950 – 1999)
 *Focus: Refined Stabilization and Causal Buffering.*
 
 This era saw the maturation of the organization’s most critical stabilization technologies and the widespread
@@ -89,7 +89,7 @@ deployment of proprietary amnestics.
 
 ---
 
-### **IV. MODERN SYNTHESIS (2000 – 2026)**
+### IV. MODERN SYNTHESIS (2000 – 2026)
 *Focus: Advanced Cybernetics and High-Entropy Defense.*
 
 Current technological standards focus on the mitigation of

@@ -1,4 +1,4 @@
-# A.C.T FACILITY ARCHIVE FILE — **Closing Summary**
+# A.C.T FACILITY ARCHIVE FILE — Closing Summary
 ### Historical Origin, First Deployment, and ABYSS Foundation
 
 | FIELD | VALUE |
@@ -73,7 +73,7 @@ historians began preserving accounts of these impossible things. Some attempted 
 them. Some tried to capture them. Some tried to understand them. Among the earliest known
 of these bodies was a primitive pre-Facility organization later remembered as:
 
-### **Entity Research Exploration / ERE**
+### Entity Research Exploration / ERE
 
 ERE would become the earliest known ancestor to what would later transform into the
 **A.C.T Facility**.
@@ -189,7 +189,7 @@ The first raw file preserved for ITHYOS represented a new truth:
 
 And because of this, the first true doctrine was born:
 
-### **Keep it asleep.**
+### Keep it asleep.
 
 This was not poetic. It was practical. It was the only condition under which
 ITHYOS did not shift enough in its
@@ -322,7 +322,7 @@ Over time, A.C.T transformed from an abyss-born hidden group into the world’s 
 
 It became:
 
-### **the number one Anomaly Containment Facility**
+### the number one Anomaly Containment Facility
 
 Not because it was born powerful, but because it was born first at the
 edge of the worst possible discovery—and
@@ -335,7 +335,7 @@ survived.
 - [**Closing Summary**](#closing-summary)
 - [Series Position](#series-position)
 
-## **Closing Summary**
+## Closing Summary
 Part Five establishes the true origin of the A.C.T Facility. Before the modern world
 knew of anomalies, before
 classification and doctrine existed, humanity had already begun brushing against the impossible through myth,

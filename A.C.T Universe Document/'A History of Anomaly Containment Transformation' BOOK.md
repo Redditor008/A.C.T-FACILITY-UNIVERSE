@@ -3033,7 +3033,7 @@ historians began preserving accounts of these impossible things. Some attempted 
 them. Some tried to capture them. Some tried to understand them. Among the earliest known
 of these bodies was a primitive pre-Facility organization later remembered as:
 
-### **Entity Research Exploration / ERE**
+### Entity Research Exploration / ERE
 
 ERE would become the earliest known ancestor to what would later transform into the
 **A.C.T Facility**.
@@ -3146,7 +3146,7 @@ The first raw file preserved for ITHYOS represented a new truth:
 
 And because of this, the first true doctrine was born:
 
-### **Keep it asleep.**
+### Keep it asleep.
 
 This was not poetic. It was practical. It was the only condition under which
 ITHYOS did not shift enough in its
