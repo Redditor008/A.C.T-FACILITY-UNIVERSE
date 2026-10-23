@@ -288,9 +288,15 @@ def main() -> int:
         # " AND ", which handled ORIGIN AND DEPLOYMENT but still missed FUNCTION
         # OUTLINE against FUNCTION SUMMARY, leaving 33 records falsely flagged.
         # A section is present when a heading opens with the same first word.
+        # Punctuation must be stripped too. TECH-GOI-071-1..4 carry the heading
+        # "ORIGIN, CUSTODY, AND OPERATION"; a bare split() yields "ORIGIN," which
+        # never equals "ORIGIN", so all four were flagged for a section they have.
+        def first(h):
+            return h.split()[0].strip(",.;:-") if h.split() else ""
+
         def present(want):
-            key = want.split()[0]
-            return any(h.split()[0] == key for h in heads if h.split())
+            key = first(want)
+            return any(first(h) == key for h in heads)
         if any(not present(h) for h in HOUSE_H2):
             r["TECH_RECORDS_OFF_SHAPE"] += 1
 

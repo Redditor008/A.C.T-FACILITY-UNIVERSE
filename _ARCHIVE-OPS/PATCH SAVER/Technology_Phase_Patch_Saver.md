@@ -7870,3 +7870,77 @@ step rather than a repair plan built on the number.
 Verify the 21 by listing them and opening samples. Then the 4 Lantern Accord records to expand with
 `.txt` twins in lockstep, `TECH-GOI-074-1` to restructure, and the 13 chapter files to judge by hand.
 
+## Prompt End Update — 2026-10-24, The 21 Off-Shape Records Verified By Hand: A Third Flaw
+
+Owner ruling: verify the 21 by hand before building any repair plan on the number, and record the
+corrected matching rule as a standing standard.
+
+### Hand verification of all 21
+
+The record count holds at **21**, and the hand read confirms it is real this time. But the
+per-heading tally behind it was still overstating what is missing.
+
+**Genuinely off-shape, non-house structure (14 records):**
+
+| SET | RECORDS | MISSING | THE STRUCTURE THEY USE INSTEAD |
+|---|---|---|---|
+| `TECH-GOI-069` | 1, 2, 3, 4 | 10 each | `THE RECORD` / `1.1` / `HANDLING` / `2.1` |
+| `TECH-GOI-070` | 1, 2, 3, 4 | 10 each | `THE DOCUMENT` / `1.1` / `HANDLING` / `2.1` |
+| `TECH-GOI-073` | 1, 2, 3, 4 | 10 each | `THE INSTRUMENT` / `1.1` / `HANDLING` / `2.1` |
+| `TECH-GOI-074` | 1 | 11 | `ASSESSMENT` / `1.1` / `OPEN QUESTIONS` |
+| `TECH-GOI-071` | 5 | 9 | `Functional Identity` / `Operating Principle` |
+
+**Off-shape for a single heading (6 records):**
+
+| RECORD | GENUINELY MISSING |
+|---|---|
+| `TECH-GOI-071-1/2/3/4` | `CROSS-REFERENCES` only |
+| `TECH-ACT-004` | `PHYSICAL OR SYSTEM DESCRIPTION` |
+| `TECH-ACT-137` | `DIVISION USE` |
+
+**Wholly a false positive (1 record):** `TECH-GOI-056-1` carries `THEATER LAYOUT AND GLASS`,
+`TEMPERATURE` and `DRAINAGE` where a physical description belongs. The section exists under a
+subject-specific name.
+
+### The third flaw: punctuation
+
+`TECH-GOI-071-1` through `071-4` carry the heading **`ORIGIN, CUSTODY, AND OPERATION`**. A bare
+`split()[0]` yields `ORIGIN,` with the comma attached, which never equals `ORIGIN`, so all four were
+flagged for a section they plainly have. The match now strips trailing punctuation.
+
+The record count did not move, because those four still lack `CROSS-REFERENCES` and stay off-shape
+for that reason. What changed is the tally: `ORIGIN` was credited with 19 misses when 4 were a comma
+and 1 was a synonym.
+
+### Three flaws, one lesson
+
+| FLAW | EXAMPLE | FIGURE PRODUCED |
+|---|---|---|
+| exact heading name | `ORIGIN AND DEPLOYMENT` vs `ORIGIN AND CUSTODY` | 131 |
+| phrase-before-`AND` key | `FUNCTION OUTLINE` vs `FUNCTION SUMMARY` | 42 |
+| punctuation kept | `ORIGIN, CUSTODY, AND OPERATION` | 21 record count, inflated tally |
+
+### Standing standard, now recorded
+
+Owner ruling: record it. **A gate that matches a heading name must be validated against a record
+known to be correct, not only against a record known to be broken.** The injection audit proves a
+gate fires; it cannot prove the gate measures the right thing. Applied to a heading match this means:
+match on the first word, strip punctuation, and open at least one record the gate says is correct
+before publishing the figure.
+
+### Gates after the third correction
+
+| GATE | RESULT |
+|---|---|
+| `TECH_RECORDS_OFF_SHAPE` | 21, verified by hand |
+| `TECH_RECORDS_UNDER_1800` | 9, stable at every reading |
+| `TECH_RECORDS` | 242 |
+| `DOCUMENT_COUNT` | 1026 |
+| injection audit | 23 of 23 fire |
+| `PATCH_SAVER_ENTRIES` | 116 |
+
+### Open
+
+Expand the 4 Lantern Accord records (`TECH-GOI-073-1/2/3/4`) to 1,800-2,600 words with `.txt` twins.
+`TECH-GOI-074-1` to restructure and expand together. The 13 chapter files to judge by hand.
+
