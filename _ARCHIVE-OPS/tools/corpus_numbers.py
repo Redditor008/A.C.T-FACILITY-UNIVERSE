@@ -294,9 +294,23 @@ def main() -> int:
         def first(h):
             return h.split()[0].strip(",.;:-") if h.split() else ""
 
+        # Owner ruling: teach the gate the observed synonyms. A record that names a
+        # section by subject rather than by house wording is not defective, and
+        # flagging it buried the real off-shape records in false positives.
+        #   PROVENANCE stands for ORIGIN      (TECH-ACT-137, PROVENANCE AND REVERSE...)
+        #   THEATER    stands for PHYSICAL    (TECH-GOI-056-1, THEATER LAYOUT AND GLASS)
+        #   FITMENT    stands for INTERFACE   (TECH-ACT-137, FITMENT AND BIO-FEED ...)
+        #   DEPLOYMENT stands for OPERATING   (TECH-ACT-137, DEPLOYMENT ENVELOPE)
+        SYNONYM_KEYS = {
+            "ORIGIN": {"ORIGIN", "PROVENANCE"},
+            "PHYSICAL": {"PHYSICAL", "THEATER"},
+            "INTERFACE": {"INTERFACE", "FITMENT"},
+            "OPERATING": {"OPERATING", "DEPLOYMENT"},
+        }
+
         def present(want):
-            key = first(want)
-            return any(first(h) == key for h in heads)
+            accepted = SYNONYM_KEYS.get(first(want), {first(want)})
+            return any(first(h) in accepted for h in heads)
         if any(not present(h) for h in HOUSE_H2):
             r["TECH_RECORDS_OFF_SHAPE"] += 1
 

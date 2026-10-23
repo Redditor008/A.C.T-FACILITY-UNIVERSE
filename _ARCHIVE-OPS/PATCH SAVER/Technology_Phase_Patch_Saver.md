@@ -7944,3 +7944,59 @@ before publishing the figure.
 Expand the 4 Lantern Accord records (`TECH-GOI-073-1/2/3/4`) to 1,800-2,600 words with `.txt` twins.
 `TECH-GOI-074-1` to restructure and expand together. The 13 chapter files to judge by hand.
 
+## Prompt End Update — 2026-10-24, The Gate Taught Four Synonyms: It Now Agrees With The Hand Count
+
+Owner ruling: teach the gate the observed synonyms, then restructure all 20 genuinely off-shape
+records in one sweep.
+
+### The synonym map
+
+Four subject-specific headings were registering as missing sections. Each is now an accepted
+equivalent:
+
+| ACCEPTED FOR | SYNONYM | WHERE IT WAS SEEN |
+|---|---|---|
+| `ORIGIN` | `PROVENANCE` | `TECH-ACT-137`, `PROVENANCE AND REVERSE...` |
+| `PHYSICAL` | `THEATER` | `TECH-GOI-056-1`, `THEATER LAYOUT AND GLASS` |
+| `INTERFACE` | `FITMENT` | `TECH-ACT-137`, `FITMENT AND BIO-FEED ...` |
+| `OPERATING` | `DEPLOYMENT` | `TECH-ACT-137`, `DEPLOYMENT ENVELOPE` |
+
+### The gate now agrees with the hand count
+
+`TECH_RECORDS_OFF_SHAPE` moved **21 → 20**. The single false positive, `TECH-GOI-056-1`, dropped
+out. The remaining 20 are exactly the records the hand read called genuinely off-shape:
+
+| GROUP | COUNT |
+|---|---|
+| non-house structure, 9-11 sections missing | 14 |
+| one section missing | 6 |
+| **gate figure** | **20** |
+
+Two independent methods landing on the same number is the first time this gate has earned a repair
+plan built on it. The four earlier readings — 131, 42, 21, and an inflated tally — were all wrong in
+different ways, and none of them was caught by the injection audit.
+
+### What the audit cannot do, restated
+
+The injection suite still reports `gates tested 23 | fired 23 | blind 0`. That result was true at
+every one of the four wrong readings. **A gate can fire correctly and still measure the wrong
+thing.** The synonym map is the correction; the standing standard is the prevention.
+
+### Gates after the synonym map
+
+| GATE | RESULT |
+|---|---|
+| `TECH_RECORDS_OFF_SHAPE` | 20, agrees with the hand count |
+| `TECH_RECORDS_UNDER_1800` | 9, stable at every reading |
+| `TECH_RECORDS` | 242 |
+| `DOCUMENT_COUNT` | 1026 |
+| injection audit | 23 of 23 fire |
+| `PATCH_SAVER_ENTRIES` | 117 |
+
+### Open
+
+Restructure the 20 genuinely off-shape records to the 14-H2 house shape, expanding the 4 Lantern
+Accord records and `TECH-GOI-074-1` to the 1,800-2,600 word band in the same pass. Roughly 150
+sections to write across 20 records, each with a `.txt` twin in lockstep. The 13 chapter files
+remain to be judged by hand.
+
