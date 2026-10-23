@@ -1206,7 +1206,7 @@ It had been teaching its own people how to live inside what was missing.
 
 ## Chapter 4 — The Bloom Before the Bloom
 
-The next contradiction came with a smell.
+Scent reached her before the envelope did. Paper had no business remembering a smell across that much time, not through filtered air, sealed sleeves, preservation resin, and the layered indifference of years. Yet the residue clung, and it was the first thing in the room that refused to behave like a document.
 
 It should not have been possible for paper to remember scent after that many
 years, not through filtered air, sealed
@@ -1577,7 +1577,7 @@ doctrine, beneath corrected history, something slept—and something rooted itse
 
 ## Chapter 5 — Entity Research Exploration
 
-By the fifth day, Sera stopped thinking of the old records as history.
+History stopped applying on the fifth day. The word implies distance, a settled shape that can no longer reach up through paper and procedure to touch anyone living, and by then the ERE files had made a liar of that comfortably.
 
 History implied distance. It implied that whatever violence had produced the present had already
 settled into shape
@@ -2258,7 +2258,7 @@ cost.
 
 ## Chapter 7 — The Founders’ Silence
 
-The proof arrived disguised as absence.
+What convinced her was a gap, and it took her most of a morning to notice that the gap had edges. Sera had expected the deepest truths in the Facility to sit behind locked shelves, black seals and redacted command strings. She had expected secrets to look like denial.
 
 Sera had expected, by then, that the deepest truths in the Facility would be
 hidden behind locked shelves, black
@@ -2599,7 +2599,7 @@ It was an act.
 
 ## Chapter 8 — NEMNOLIA and the Dream-State
 
-The proof did not come from the abyss.
+Pharmacology settled it. Not the abyss, not the descent logs, not anything the founders had bothered to bury: a compound, a dosage curve, and a supply chain that had never once been interrupted. That was what made it so devastating.
 
 It came from pharmacology.
 
@@ -3230,15 +3230,13 @@ archive had spent generations trying not to keep whole.
 
 The first lie was no longer hidden from her.
 
-The only question left was whether she would do what the founders had done
-when it was time to choose between truth
-and continuity.
+She set the folder back on the desk, square to the edge, the way it had arrived. Two floors down a ventilation baffle knocked twice and settled. The lamps began their long dim toward sleep-cycle, and Sera sat in the falling light with both hands flat on the wood, waiting to find out which of the founders she was going to turn out to be. 
 
 ---
 
 ## Chapter 10 — The Cost of Remembering
 
-The first symptom was not pain.
+Pain would have been easier, and she had braced for it. By then, danger inside the Facility usually announced itself through something measurable: elevated pulse, nausea, the small physical protests of a body being asked to hold more than it was built for. What came instead was quiet, and it was precise.
 
 Sera had expected pain.
 
@@ -3637,7 +3635,7 @@ It was what learning threatened to turn you into.
 
 ## Chapter 11 — Fragments, Not Revelation
 
-The decision did not arrive as courage.
+Courage never showed up. What arrived was arithmetic, worked through on the back of a form she had no authority to be holding. By the time Sera understood that fully remembering the truth might itself become a route, the sums had already come out the same way three times.
 
 It arrived as arithmetic.
 
@@ -3919,9 +3917,7 @@ continued to feed the medicine that kept the world forgetful.
 
 Sera lowered her head and closed her eyes.
 
-She had not given the future the truth.
-
-She had given it a chance.
+Under her palms the desk was cold, and it stayed cold, and nothing in the room changed because of what she had done. She had not given the future the truth. She had given it a chance, which is a smaller thing, and the only kind that has ever survived being handed on. 
 
 ---
 

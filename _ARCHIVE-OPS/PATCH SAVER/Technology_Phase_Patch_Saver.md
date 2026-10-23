@@ -6985,3 +6985,42 @@ checked, because prose edits do not announce themselves the way structural edits
 **Not delivered.** The 30 GOI dossiers were not read and the manuscript was not compared against the
 chapters. The twin repair consumed the remaining turn.
 
+## Prompt End Update — 2026-10-23, Manuscript Drift Found and Closed; Passages Read Back
+
+Owner rulings: read ten GOI dossiers at a time; compare the manuscript against the chapters; read
+the changed passages back; keep `docs/index.html` empty.
+
+### The comparison found drift I had caused, and it is closed
+
+The manuscript disagreed with the chapters on all seven edited passages. Measured before repair: for
+every one of chapters 4, 5, 7, 8, 9, 10 and 11 the manuscript carried the OLD text and not the new.
+The manuscript was also 292 words shorter than the chapters plus epilogue, which is exactly the
+length the edits added.
+
+Both the manuscript and its plain-text twin were synced: 8 passages replaced in each, using the
+chapter files as the source of truth. The manuscript now measures 24,378 words against 24,354 for the
+chapters plus epilogue, a delta of 24 words that is front matter.
+
+**Lesson recorded: when narrative prose is edited, the chapter file, its twin, the manuscript and the
+manuscript twin are four documents, not one.** The standing twin rule covered the first two. It now
+covers all four.
+
+### Passages read back to the owner
+
+All six new openings and both new endings were printed into the chatroom verbatim for judgement
+before they stand.
+
+| GATE | RESULT |
+|---|---|
+| `DOCUMENT_COUNT` | 1000 |
+| `RECORDS_NOT_ONE_H1` | 0 |
+| `BAD_EOF` | 0 |
+| `MD_WIDE_PROSE_LINES` | 0 |
+| Manuscript passages synced | 8 of 8, both twins |
+| Manuscript words | 24,378 |
+| Chapters plus epilogue words | 24,354 |
+| `PATCH_SAVER_ENTRIES` | 89 |
+
+**Not delivered.** The GOI dossiers were not read. The comparison and the manuscript repair consumed
+the turn.
+
