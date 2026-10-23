@@ -24,10 +24,10 @@ placement, naming convention, designation logic, and record architecture.
 ---
 
 ```
-═══════════════════════════════════════════════════════════════════════
+-----------------------------------------------------------------------
  A.C.T FACILITY — ANOMALY FILE
  Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
+-----------------------------------------------------------------------
 
 DESIGNATION: [UFD-XX-### / AFD-XX-###][ANM-XX-XX-####]
  UFD = Unknown Field Designation (provisional)
@@ -48,9 +48,9 @@ CLEARANCE REQUIRED: [Non-Access / Level E / Level 0 / Level 1 / Level
 2
  / Level 3 / Level 4 / Level 5 / O5 Access]
 
-═══════════════════════════════════════════════════════════════════════
+-----------------------------------------------------------------------
  CLASSIFICATION
-═══════════════════════════════════════════════════════════════════════
+-----------------------------------------------------------------------
 
 CONTAINMENT CLASS: [INERT / RESIDUAL / SPORADIC / UNDISCLOSED /
  ENTROPIC / REACTIVE / EXIGENT / INVERTED /
@@ -78,9 +78,9 @@ LIFECYCLE STATE: [PROVISIONAL / ACTIVE-CONTAINED /
  LOST / MEMORIALIZED /
  PROHIBITED-FROM-TRANSFORMATION]
 
-═══════════════════════════════════════════════════════════════════════
+-----------------------------------------------------------------------
  DISCOVERY
-═══════════════════════════════════════════════════════════════════════
+-----------------------------------------------------------------------
 
 DATE OF DETECTION: [DD/MM/YYYY]
 VERIFICATION DATE: [DD/MM/YYYY or PENDING]
@@ -99,9 +99,9 @@ CIVILIAN EXPOSURE: [None / Minimal / Moderate / Severe / Full]
 AMNESTIC DEPLOYED: [Yes / No — If yes, specify class and scope]
 NARRATIVE STATUS: [Controlled / Partial / Compromised / Collapsed]
 
-═══════════════════════════════════════════════════════════════════════
+-----------------------------------------------------------------------
  DESCRIPTION
-═══════════════════════════════════════════════════════════════════════
+-----------------------------------------------------------------------
 
 [Full narrative description of the anomaly's appearance, behavior,
 nature, and observable properties. Write in clinical, objective tone.
@@ -112,9 +112,9 @@ For ?.H-designated anomalies: note all observed form shifts,
 categorization failures, and any conditions under which the anomaly
 changed its ontological status.]
 
-═══════════════════════════════════════════════════════════════════════
+-----------------------------------------------------------------------
  ANOMALOUS PROPERTIES
-═══════════════════════════════════════════════════════════════════════
+-----------------------------------------------------------------------
 
 PRIMARY EFFECT: [Description of the anomaly's core anomalous
  function or influence on reality, matter,
@@ -142,9 +142,9 @@ REALITY INTERACTION: [None / Local Distortion / Regional Distortion /
  Void Collapse Trajectory / Reality Reset
  Trajectory / Unknown]
 
-═══════════════════════════════════════════════════════════════════════
+-----------------------------------------------------------------------
  CONTAINMENT PROCEDURES
-═══════════════════════════════════════════════════════════════════════
+-----------------------------------------------------------------------
 
 [Detailed containment protocol. Specify physical requirements,
 environmental conditions, personnel assignments, monitoring schedules,
@@ -177,9 +177,9 @@ IN BREACH IF IT: [Check all that apply]
  [ ] Transforms its environment into an anomalous zone
  [ ] Other: _______
 
-═══════════════════════════════════════════════════════════════════════
+-----------------------------------------------------------------------
  RESEARCH LOG — SUMMARY
-═══════════════════════════════════════════════════════════════════════
+-----------------------------------------------------------------------
 
 LEAD RESEARCHER: [Name, Rank]
 CURRENT RESEARCH PHASE: [Observation / Experimentation / Analysis /
@@ -193,9 +193,9 @@ understanding. Reference full research logs by entry number.
 If applicable, note any correlation to Minor Pause events,
 Structural Reality stress, or Cosmic Timer iteration data.]
 
-═══════════════════════════════════════════════════════════════════════
+-----------------------------------------------------------------------
  TRANSFORMATION STATUS
-═══════════════════════════════════════════════════════════════════════
+-----------------------------------------------------------------------
 
 CURRENT VIABILITY: [INVIOLABLE / NEUTRAL / CONTAINED-STUDY /
  STABILIZED / NEUTRALIZED / REPURPOSED /
@@ -213,9 +213,9 @@ within A.C.T infrastructure, operations, or doctrine.
 
 Write N/A if INVIOLABLE or NEUTRAL.]
 
-═══════════════════════════════════════════════════════════════════════
+-----------------------------------------------------------------------
  INCIDENT LOG — SUMMARY
-═══════════════════════════════════════════════════════════════════════
+-----------------------------------------------------------------------
 
 TOTAL INCIDENTS: [Number]
 LAST INCIDENT DATE: [DD/MM/YYYY or N/A]
@@ -231,9 +231,9 @@ For each incident, note whether it constituted a formal breach per
 A.C.T breach conditions, and whether Structural Reality stability
 was affected.]
 
-═══════════════════════════════════════════════════════════════════════
+-----------------------------------------------------------------------
  PERSONNEL RECORD
-═══════════════════════════════════════════════════════════════════════
+-----------------------------------------------------------------------
 
 ASSIGNED PERSONNEL: [List of currently assigned personnel,
  name and rank]
@@ -245,9 +245,9 @@ AMNESTIC-ADMINISTERED: [Number of personnel who received amnestic
  treatment following exposure]
 E-CLASS ASSIGNED: [Yes / No — If yes, number and purpose]
 
-═══════════════════════════════════════════════════════════════════════
+-----------------------------------------------------------------------
  REALITY THEORY NOTES
-═══════════════════════════════════════════════════════════════════════
+-----------------------------------------------------------------------
 
 [Reserved for anomalies that demonstrate correlation with
 Foundational Reality Theory. Complete only if applicable.]
@@ -275,9 +275,9 @@ of a Minor Pause? A localized break in cosmic law? Document any
 theoretical interpretation here. Reference reality theory research
 logs by number.]
 
-═══════════════════════════════════════════════════════════════════════
+-----------------------------------------------------------------------
  ADDITIONAL NOTES
-═══════════════════════════════════════════════════════════════════════
+-----------------------------------------------------------------------
 
 [Any supplementary information that does not fit the above fields.
 Cross-references to related anomalies, pending investigations,
@@ -285,9 +285,9 @@ O5 directives, special authorizations, E-Class deployment orders,
 Civil Covert Division involvement, or shell-company connections
 belong here.]
 
-═══════════════════════════════════════════════════════════════════════
+-----------------------------------------------------------------------
  FILE METADATA
-═══════════════════════════════════════════════════════════════════════
+-----------------------------------------------------------------------
 
 FILE CREATED: [DD/MM/YYYY]
 FILE LAST UPDATED: [DD/MM/YYYY]
@@ -302,10 +302,10 @@ DESIGNATION HISTORY: [UFD-XX-### → AFD-XX-###]
  original UFD code and the date of
  verification to AFD status.
 
-═══════════════════════════════════════════════════════════════════════
+-----------------------------------------------------------------------
  UNAUTHORIZED ACCESS WILL BE MET WITH IMMEDIATE AMNESTIC
  ADMINISTRATION
-═══════════════════════════════════════════════════════════════════════
+-----------------------------------------------------------------------
 ```
 
 ---

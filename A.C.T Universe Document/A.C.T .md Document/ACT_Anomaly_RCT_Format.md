@@ -14,10 +14,10 @@
 ---
 
 ```
-═══════════════════════════════════════════════════════════════════════
+-----------------------------------------------------------------------
               A.C.T FACILITY — ANOMALY FILE [RCT FOCUS]
            Anomaly Containment Transformation
-═══════════════════════════════════════════════════════════════════════
+-----------------------------------------------------------------------
 
 DESIGNATION:         [UFD-XX-### / AFD-XX-###]
 REGISTRY BAND:       [LEGACY ACCEPTED 001-120 / Modern Registry 121-999 /
@@ -42,12 +42,12 @@ LIFECYCLE STATE:     [PROVISIONAL / ACTIVE-CONTAINED /
                       LOST / MEMORIALIZED /
                       PROHIBITED-FROM-TRANSFORMATION]
 
-═══════════════════════════════════════════════════════════════════════
-                         ╔═══════╗
-                         ║  C O  ║
-                         ╚═══════╝
+-----------------------------------------------------------------------
+                         +-------+
+                         |  C O  |
+                         +-------+
                     CONTAINMENT BLOCK
-═══════════════════════════════════════════════════════════════════════
+-----------------------------------------------------------------------
 
 CONTAINMENT SUMMARY:
 [One paragraph. What does it take to keep this anomaly inside?
@@ -125,12 +125,12 @@ CONTAINMENT HISTORY:
 failures. Include date, reason, and authorizing personnel.
 Format: DD/MM/YYYY — [Change] — [Authorized by]]
 
-═══════════════════════════════════════════════════════════════════════
-                         ╔═══════╗
-                         ║  R E  ║
-                         ╚═══════╝
+-----------------------------------------------------------------------
+                         +-------+
+                         |  R E  |
+                         +-------+
                       RESEARCH BLOCK
-═══════════════════════════════════════════════════════════════════════
+-----------------------------------------------------------------------
 
 RESEARCH SUMMARY:
 [One paragraph. What do we know? What are we trying to find out?
@@ -219,12 +219,12 @@ info hazard precautions, or transformation viability boundaries that
 restrict research methodology. Write STANDARD PROTOCOL if no
 special restrictions apply.]
 
-═══════════════════════════════════════════════════════════════════════
-                         ╔═══════╗
-                         ║  T R  ║
-                         ╚═══════╝
+-----------------------------------------------------------------------
+                         +-------+
+                         |  T R  |
+                         +-------+
                    TRANSFORMATION BLOCK
-═══════════════════════════════════════════════════════════════════════
+-----------------------------------------------------------------------
 
 TRANSFORMATION SUMMARY:
 [One paragraph. Can this anomaly be changed from a threat into
@@ -302,9 +302,9 @@ This is where the argument for or against transformation lives.
 Document competing interpretations, ethical concerns, and
 institutional pressure with equal weight.]
 
-═══════════════════════════════════════════════════════════════════════
+-----------------------------------------------------------------------
                       FILE METADATA
-═══════════════════════════════════════════════════════════════════════
+-----------------------------------------------------------------------
 
 FILE CREATED:            [DD/MM/YYYY]
 FILE LAST UPDATED:       [DD/MM/YYYY]
@@ -314,10 +314,10 @@ FILE STATUS:             [Active / Archived / Sealed / O5-Restricted /
                           Destroyed]
 DESIGNATION HISTORY:     [UFD-XX-### → AFD-XX-### — DD/MM/YYYY]
 
-═══════════════════════════════════════════════════════════════════════
+-----------------------------------------------------------------------
       UNAUTHORIZED ACCESS WILL BE MET WITH IMMEDIATE AMNESTIC
                           ADMINISTRATION
-═══════════════════════════════════════════════════════════════════════
+-----------------------------------------------------------------------
 ```
 
 ---

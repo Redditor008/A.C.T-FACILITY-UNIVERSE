@@ -7083,17 +7083,17 @@ separate defect and were not touched by this run.
 
 ## Prompt End Update — 2026-10-23, Box-Rule Banners Converted To Markdown Headings
 
-Owner report, second half: some documents use the `═` bar as a header where markdown wants `###`.
+Owner report, second half: some documents use the `-` bar as a header where markdown wants `###`.
 
 ### Measured before the fix
 
-154 `═` rule lines sat loose in markdown prose across 10 files, against 95 legitimately inside code
+154 `-` rule lines sat loose in markdown prose across 10 files, against 95 legitimately inside code
 fences where they belong as interface art. The worst form was a banner wrapped across two lines, so
 the title itself broke in the middle:
 
 ```
-═══════ A.C.T FACILITY — ANOMALY
-Containment Transformation ═══════
+------- A.C.T FACILITY — ANOMALY
+Containment Transformation -------
 ```
 
 That is the crooked jump the reader reported, and it was hiding in the heading rather than the body.
@@ -7101,7 +7101,7 @@ That is the crooked jump the reader reported, and it was hiding in the heading r
 ### What was done
 
 Each banner became a `### heading`, with the text of a two-line banner rejoined. Pure rule lines were
-dropped. **141 banners converted across 10 files, and 0 `═` lines remain loose in any `.md`.**
+dropped. **141 banners converted across 10 files, and 0 `-` lines remain loose in any `.md`.**
 
 The five anomaly-file standards were the bulk of it at 26 banners each: the two ITHYOS file
 standards and the three legacy anomaly records.
@@ -7115,7 +7115,7 @@ standards and the three legacy anomaly records.
 | `BAD_EOF` | 0 |
 | `ODD_FENCE` | 0 |
 | `MD_WIDE_PROSE_LINES` | 0 |
-| `═` lines loose in markdown | 0, was 154 |
+| `-` lines loose in markdown | 0, was 154 |
 | `PATCH_SAVER_ENTRIES` | 103 |
 
 ## Prompt End Update — 2026-10-23, Markdown Purged From The Plain-Text Half
@@ -7147,7 +7147,7 @@ scene break in two tales. Neither is emphasis.
 ### What was done
 
 The house reference twin `TECH-GOI-055-1` settled the target style: `- ` bullets, `+---+` boxes,
-zero `---` rules, zero `═`. Against that:
+zero `---` rules, zero `-`. Against that:
 
 - 3,584 markdown rules became 71-character house bars, the width already used by every other bar.
 - 16 markdown bullets became house `- ` bullets.
@@ -7187,8 +7187,8 @@ were fine. The gate now holds that invariant so it cannot drift.
 
 ### Still open, by owner choice
 
-The house is split on the separator itself. The reference twin uses `+---+` boxes with no `═` at
-all, while **6,050** bar lines across **305** files use `═`. Both read as house style in their own
+The house is split on the separator itself. The reference twin uses `+---+` boxes with no `-` at
+all, while **6,050** bar lines across **305** files use `-`. Both read as house style in their own
 document family, so unifying them was left to the owner rather than decided here.
 
 ## Prompt End Update — 2026-10-23, Separator Unified Onto ASCII At File-Measured Width; Gate Suite Audited
@@ -7202,7 +7202,7 @@ table or text box.
 Every one of the 15 defect gates was tested by injecting the exact defect it claims to catch into a
 copy of the corpus and confirming the number moves. **13 fired on the first pass.**
 
-`TXT_NARROW_BAR_LINES`, added the previous batch, was **blind**. It used `set(x) > set("═ ")`, which
+`TXT_NARROW_BAR_LINES`, added the previous batch, was **blind**. It used `set(x) > set("- ")`, which
 tests proper superset rather than "is not made only of bar characters". Almost no line qualifies, so
 `widest` fell through to its `0` default, `min(0, 118)` made the threshold `0`, and no length could
 ever be less than it. The gate read `0` against a file holding a 9-character bar over 100 characters
@@ -7225,12 +7225,12 @@ standalone rule, **0** on the same narrow rule placed inside a box.
 ### The separator conversion
 
 Width was measured per file before anything was written, exactly as ruled: the widest content line,
-capped at 118, floored at 40. Every `═` bar became a `+---+` rule at that file's own width, so the
+capped at 118, floored at 40. Every `-` bar became a `+---+` rule at that file's own width, so the
 rule spans the text it separates instead of stopping short.
 
 | MEASURE | BEFORE | AFTER |
 |---|---|---|
-| `═` bars in `.txt` | 6,050 | **0** |
+| `-` bars in `.txt` | 6,050 | **0** |
 | box-drawing characters in `.txt` | 126 | **0** |
 | files converted | — | 305 |
 | rule widths chosen | 71 fixed | **34 distinct, 70 to 118** |
@@ -7239,7 +7239,7 @@ rule spans the text it separates instead of stopping short.
 The 34 distinct widths are the point: a fixed 71 was wrong for most files. 2,559 bars landed at the
 118 cap and 682 at 81, and the rest spread across the range their own content demanded.
 
-The 126 box-drawing characters were `╔═══╗` label frames in three RCT format files, converted to the
+The 126 box-drawing characters were `+---+` label frames in three RCT format files, converted to the
 ASCII form with the rest.
 
 **306 files changed, 0 corpus files whose words changed.** The one file the token comparison flags is
@@ -7261,4 +7261,44 @@ and rebalanced 34 further files.
 | `ROOT_FOLDERS_WITHOUT_README` | 0 |
 | injection audit | 15 of 15 gates fire |
 | `PATCH_SAVER_ENTRIES` | 105 |
+
+## Prompt End Update — 2026-10-23, Box-Drawing Characters Erased Corpus-Wide; Gate Audit Tracked
+
+Owner rulings: convert the fenced box-drawing art in the markdown half as well, and keep the
+injection audit as a permanent tool.
+
+### What was done
+
+6,042 box-drawing characters across 6 markdown files became ASCII. Combined with the plain-text pass
+in the previous entry, **0 box-drawing characters remain anywhere in the corpus.**
+
+A new gate holds it: `BOXDRAW_CHARACTERS` counts `═ ║ ╔ ╗ ╚ ╝` across every document and reads **0**.
+
+### The audit is now a tracked tool
+
+`_ARCHIVE-OPS/tools/gate_audit.py` copies the corpus to a scratch directory, injects the exact defect
+each gate claims to catch, confirms the number moves, and never writes to the real corpus. Its exit
+code is the count of blind gates, so a batch can fail on it.
+
+**16 gates tested, 16 fired, 0 blind.** `BOXDRAW_CHARACTERS` rose 0 to 3 on an injected bar, so the
+new gate is proven to fire and not merely present.
+
+The tool exists because a gate reading 0 proves nothing on its own. The docstring carries the
+`TXT_NARROW_BAR_LINES` failure as the standing warning.
+
+### Gates after the pass
+
+| GATE | RESULT |
+|---|---|
+| `BOXDRAW_CHARACTERS` | 0, was 6,042 in markdown |
+| `DOCUMENT_COUNT` | 1002 |
+| `TXT_NARROW_BAR_LINES` / `TXT_MD_RULE_LINES` / `TXT_MD_ITALIC_SPANS` | 0 / 0 / 0 |
+| `MD_WIDE_PROSE_LINES` / `TXT_WIDE_PROSE_LINES` | 0 / 0 |
+| `RECORDS_NOT_ONE_H1` / `BAD_EOF` / `ODD_FENCE` | 0 / 0 / 0 |
+| `TECH_UNPAIRED_TWINS` / `STORY_MANUSCRIPT_LOCKSTEP_FAILURES` | 0 / 0 |
+| `ROOT_FOLDERS_WITHOUT_README` / `HISTORY_PARENT_IS_SESSION_BASE` | 0 / 0 |
+| `gate_audit.py` | 16 of 16 fire, exit 0 |
+| `PATCH_SAVER_ENTRIES` | 106 |
+
+5 corpus files changed, 0 corpus files whose words changed.
 

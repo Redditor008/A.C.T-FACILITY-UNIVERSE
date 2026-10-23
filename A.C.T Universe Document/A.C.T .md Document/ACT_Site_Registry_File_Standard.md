@@ -82,9 +82,9 @@ The registry exists to reduce ambiguity between command, archive, recovery, inte
 ## 3. Site Registry Template
 
 ```text
-═══════════════════════════════════════════════════════════════════════
+-----------------------------------------------------------------------
                       A.C.T FACILITY — SITE REGISTRY
-═══════════════════════════════════════════════════════════════════════
+-----------------------------------------------------------------------
 
 SITE DESIGNATION:    [ACT-SITE-XX-##-# / ACT-SUB-XX-##-#]
 CODENAME:            [Internal Site Name]
@@ -120,7 +120,7 @@ CROSS-REFERENCED
 FILES:               [Related site files, anomaly files, GOI records,
                       command directives, or abyss records]
 
-═══════════════════════════════════════════════════════════════════════
+-----------------------------------------------------------------------
 ```
 
 ---

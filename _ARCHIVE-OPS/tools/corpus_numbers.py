@@ -86,6 +86,12 @@ def main() -> int:
     # a single-asterisk pair is markdown italics. In-world notation is exempt:
     # ^_* is a stage direction in the MAGICAL MEW lyric scripts and a lone * is a
     # scene break, so only paired spans on one line count.
+    # Owner ruling 2026-10-23: the corpus carries no box-drawing characters at all.
+    # Every rule and box is ASCII, so a stray ═ or ╔ is a regression.
+    boxdraw = "\u2550\u2551\u2554\u2557\u255a\u255d"
+    r["BOXDRAW_CHARACTERS"] = sum(
+        read(p).count(c) for p in files for c in boxdraw
+    )
     r["TXT_MD_RULE_LINES"] = sum(
         1
         for p in tx
