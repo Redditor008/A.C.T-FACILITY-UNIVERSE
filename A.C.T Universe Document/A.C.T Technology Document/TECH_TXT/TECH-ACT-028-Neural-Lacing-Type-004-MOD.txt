@@ -57,11 +57,11 @@ Controlled label: NL-004 FILTER LIST LIMIT.
 Core medical rule: FORGET THE HAZARD, NOT THE PERSON WHO SURVIVED IT.
 
 FUNCTION SUMMARY
-Neural Lacing Type 004-MOD is a surgically implanted neural lattice that intercepts selected info-hazardous input and
-routes it into an internal signal-sink before it can become stable memory, compulsion, or cognitive infection. It is
-derived from 004-Series memory-control doctrine but does not act like an ordinary amnestic. A dose removes or alters
-memory after exposure. NL-004 attempts to prevent specific dangerous information from completing memory formation in
-the first place.
+Neural Lacing Type 004-MOD is a surgically implanted neural lattice that intercepts selected
+info-hazardous input and routes it into an internal signal-sink before it can become stable memory,
+compulsion, or cognitive infection. It is derived from 004-Series memory-control doctrine but does
+not act like an ordinary amnestic. A dose removes or alters memory after exposure. NL-004 attempts
+to prevent specific dangerous information from completing memory formation in the first place.
 
 The implant is used for personnel who must repeatedly encounter narrow classes of high-tier info-hazard, archival
 contamination, hostile symbol sets, auditory triggers, or recognition effects that cannot be avoided by ordinary PPE.
@@ -303,8 +303,8 @@ How narrow can a filter be before it becomes unreliable? Can signal-sink residue
 unexplained fear? Should implanted personnel be barred from certain testimony because absence of memory is part of the
 device's function? Can hostile groups design hazards that ride the permitted edges of a
 known filter list? Does
-long-term NL-004 use change how a person trusts their own recall? What removal procedure preserves the patient without
-releasing retained residue?
+long-term NL-004 use change how a person trusts their own recall? What
+removal procedure preserves the patient without releasing retained residue?
 - What is the signal-sink capacity, and what happens to routed input when it
   fills?
 - How is an approved exposure cap calculated for an archive shift?

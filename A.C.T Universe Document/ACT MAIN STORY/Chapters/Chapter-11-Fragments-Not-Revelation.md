@@ -158,8 +158,8 @@ Not a route. A path.
 
 That distinction mattered to her now more than she could explain.
 
-Routes implied certainty. Routes implied arrival. Routes implied the terrible abyssal pull that ERE had once mistaken
-for discovery.
+Routes implied certainty. Routes implied arrival. Routes implied
+the terrible abyssal pull that ERE had once mistaken for discovery.
 
 A path could still allow refusal. A path could still leave choice alive.
 

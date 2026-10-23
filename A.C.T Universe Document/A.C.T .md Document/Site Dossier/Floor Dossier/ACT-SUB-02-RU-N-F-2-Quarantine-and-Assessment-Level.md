@@ -87,9 +87,9 @@ between assessment and storage.
 
 ### 4.1 Development of the Quarantine Floor
 
-F-2's character developed with the depot's formalization: an installation built to absorb the seasonal pressure on
-White Grave required a quarantine and assessment capacity, so that nothing would move to the parent station without
-evaluation.
+F-2's character developed with the depot's formalization: an installation built to
+absorb the seasonal pressure on White Grave required a quarantine and assessment
+capacity, so that nothing would move to the parent station without evaluation.
 
 ### 4.2 The Assessment Doctrine
 
@@ -229,10 +229,10 @@ during the assessment period, without the long-term environmental commitment of 
 
 ### 9.4 Escalation Handling
 
-Material that cannot be assessed at the depot, or whose assessment reveals a disposition requiring the parent
-station's authority, is handled under the depot's escalation procedures — including, where the parent station
-determines it, the silent removal doctrine that keeps hazardous material from the transport chain without disturbing
-the cover or the schedule.
+Material that cannot be assessed at the depot, or whose assessment reveals a disposition
+requiring the parent station's authority, is handled under the depot's escalation procedures
+— including, where the parent station determines it, the silent removal doctrine that keeps
+hazardous material from the transport chain without disturbing the cover or the schedule.
 
 ---
 
@@ -298,8 +298,8 @@ holding's status and containment requirements before any disposition is authoriz
 
 F-2 doctrine holds that the depot stages material, it does not decide its future:
 the floor's assessments inform the
-dispositions that the parent station authorizes, and the floor's role ends where the parent station's authority
-begins.
+dispositions that the parent station authorizes, and the
+floor's role ends where the parent station's authority begins.
 
 ---
 

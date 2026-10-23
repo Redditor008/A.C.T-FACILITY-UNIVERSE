@@ -73,8 +73,8 @@ the lock.
 
 F-2 lies directly beneath the standard object chambers of F-3 and directly above the
 Hanging Vault of F-1. In the
-complex's mental geography, F-2 is the threshold: the level where holding stops being routine and starts being
-restricted.
+complex's mental geography, F-2 is the threshold: the level
+where holding stops being routine and starts being restricted.
 
 ### 3.2 Relationship to F-3
 
@@ -124,22 +124,22 @@ access to a specific resident — never general access to the floor.
 
 ### 5.1 Floor Command
 
-F-2 operates under the Containment Division's restricted-hold command, administered day-to-day by a **Floor Vault
-Chief** appointed by the Site Director. The Vault Chief holds authority over floor operations but not over the
-disposition of residents.
+F-2 operates under the Containment Division's restricted-hold command, administered
+day-to-day by a **Floor Vault Chief** appointed by the Site Director. The Vault Chief
+holds authority over floor operations but not over the disposition of residents.
 
 ### 5.2 Authority over Access
 
 Access to F-2 residents is governed by restriction sets established at the time of
 each resident's assignment to the
-floor. The Vault Chief administers those restrictions; the Site Director or the Containment Division command revises
-them.
+floor. The Vault Chief administers those restrictions; the Site
+Director or the Containment Division command revises them.
 
 ### 5.3 Authority Limits
 
-F-2 holds no authority to release residents to general holding, to transfer residents to F-1, or to transform
-restricted material. Its authority is custodial: to hold, monitor, and maintain each resident under its restriction
-set.
+F-2 holds no authority to release residents to general holding, to transfer
+residents to F-1, or to transform restricted material. Its authority is custodial:
+to hold, monitor, and maintain each resident under its restriction set.
 
 ---
 
@@ -163,9 +163,9 @@ residents are themselves governed by observation restrictions.
 
 ### 6.4 Recovery Division Liaison
 
-Recovery Division personnel coordinate with F-2 on the intake of material recovered from field operations that proves
-to be perception-sensitive. Recovered material is triaged on the intake levels before assignment to F-2's holding
-system.
+Recovery Division personnel coordinate with F-2 on the intake of material recovered
+from field operations that proves to be perception-sensitive. Recovered material is
+triaged on the intake levels before assignment to F-2's holding system.
 
 ---
 
@@ -196,8 +196,8 @@ perception of the resident is itself the hazard.
 
 An Eye Box unit is engineered to govern how its contents may be perceived:
 observation is structured through specific
-viewing apparatus, under specific conditions, and by specific personnel. Where a Blind Box denies perception, an Eye
-Box disciplines it.
+viewing apparatus, under specific conditions, and by specific personnel.
+Where a Blind Box denies perception, an Eye Box disciplines it.
 
 ### 7.4 Reinforcement
 
@@ -335,17 +335,17 @@ under a named restriction set.
 
 F-2 doctrine holds that restriction is not permanence: material on the floor is under
 continuous assessment, and the
-floor's duty includes recognizing when a resident belongs elsewhere — in standard holding, in deeper confinement, or
-in transformation review.
+floor's duty includes recognizing when a resident belongs elsewhere — in
+standard holding, in deeper confinement, or in transformation review.
 
 ---
 
 ## 13. Incident Archive
 
-The floor's incident record is dominated by perception-protocol events: observation breaches, restriction-set
-violations, and documentation incidents involving restricted material. The floor's early encounters with
-perception-sensitive holdings — the incidents that established Blind Box and Eye Box doctrine — are preserved in the
-complex's history files.
+The floor's incident record is dominated by perception-protocol events: observation breaches,
+restriction-set violations, and documentation incidents involving restricted material. The
+floor's early encounters with perception-sensitive holdings — the incidents that established
+Blind Box and Eye Box doctrine — are preserved in the complex's history files.
 
 ---
 

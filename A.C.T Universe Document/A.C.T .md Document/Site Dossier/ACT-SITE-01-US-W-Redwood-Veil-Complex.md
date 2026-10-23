@@ -91,8 +91,8 @@ reach.
 
 ### 3.2 Cover Identities
 
-The complex maintains layered surface identities, each with its own paperwork, payroll, regulatory history, and public
-reputation:
+The complex maintains layered surface identities, each with its
+own paperwork, payroll, regulatory history, and public reputation:
 
 - **Redwood Veil Biotechnologies** — agricultural and biomedical research
   concern; used for inbound logistics, reagent acquisition, and legitimate
@@ -150,11 +150,11 @@ companies. The scattered nodes received their first unified command structure.
 
 ### 4.3 Elevation to Regional Site
 
-For decades the western apparatus functioned as a capable but secondary network under the doctrinal gravity of the
-Primary Facility. Sustained increases in urban anomaly density changed that. Western cities began producing — and
-receiving — more anomalous material than the relay structure could safely process. Black-market artifact movement
-along the Pacific corridor intensified. Witness exposure risk in dense urban environments demanded faster, more
-centralized secrecy response.
+For decades the western apparatus functioned as a capable but secondary network under the doctrinal
+gravity of the Primary Facility. Sustained increases in urban anomaly density changed that. Western
+cities began producing — and receiving — more anomalous material than the relay structure could
+safely process. Black-market artifact movement along the Pacific corridor intensified. Witness
+exposure risk in dense urban environments demanded faster, more centralized secrecy response.
 
 The relay network was therefore elevated into a full **Regional Site**, and the buried
 core beneath the Redwood Veil
@@ -207,9 +207,9 @@ frequently overlaps with:
   and island-chain routing;
 — **ACT-SUB-01-US-W (Glass Orchard Relay)** — its principal support sub-site.
 
-Where multiple sites could claim an event, the Jurisdiction Priority Rule applies: containment viability first,
-secrecy risk second, recovery speed third, specialization fourth, command proximity fifth, and Site Governance Review
-as final arbiter.
+Where multiple sites could claim an event, the Jurisdiction Priority Rule applies:
+containment viability first, secrecy risk second, recovery speed third, specialization
+fourth, command proximity fifth, and Site Governance Review as final arbiter.
 
 ---
 
@@ -360,9 +360,9 @@ The Medical Division's primary ward level: trauma care, memetic contamination tr
 isolation suites used for personnel undergoing artifact-influence evaluation.
 
 ### F-5 — Research and Analysis
-Laboratory and analysis decks where contained objects are studied under controlled conditions. Includes the Digital
-Resonance Mapping suite used to measure an artifact's causal pulse before physical contact, in accordance with current
-(2026) intake standards.
+Laboratory and analysis decks where contained objects are studied under controlled
+conditions. Includes the Digital Resonance Mapping suite used to measure an artifact's
+causal pulse before physical contact, in accordance with current (2026) intake standards.
 
 ### F-4 — Transformation Staging
 Workshops and staging chambers where the Transformation Division evaluates whether
@@ -390,10 +390,10 @@ drills.
 
 ### 9.1 RSA and ARM Coverage
 
-The buried core operates under continuous **Reality Stabilization Anchor** support. RSA units are calibrated per
-level, with the densest concentration on F-1 through F-3, where object influence is most likely to distort local
-conditions. The site's ARM mesh extends over the campus and primary nodes, maintaining the "Unremarkable" perceptual
-field established in 1982.
+The buried core operates under continuous **Reality Stabilization Anchor** support. RSA units
+are calibrated per level, with the densest concentration on F-1 through F-3, where object
+influence is most likely to distort local conditions. The site's ARM mesh extends over the
+campus and primary nodes, maintaining the "Unremarkable" perceptual field established in 1982.
 
 ### 9.2 Chamber Types in Use
 
@@ -442,10 +442,10 @@ The complex's holdings are object-dominant but not object-exclusive:
 The complex's most storied artifact holding is **AFD-OB-801**, designated **Butcher Vanity**, also recorded under the
 titles **THE VESTIBULE OF SLAUGHTER** and **THE HUNGERING EDGE**.
 
-AFD-OB-801 consists of two bound components: **AFD-OB-801-A**, a high-carbon steel meat cleaver that never dulls,
-rusts, or wears, and **AFD-OB-801-B**, a heavily stained wooden trunk that serves as the object's anchor and
-self-regenerates mammalian blood from its grain at roughly fifty milliliters per hour. The cleaver is invariably found
-resting atop the trunk.
+AFD-OB-801 consists of two bound components: **AFD-OB-801-A**, a high-carbon steel meat
+cleaver that never dulls, rusts, or wears, and **AFD-OB-801-B**, a heavily stained wooden
+trunk that serves as the object's anchor and self-regenerates mammalian blood from its grain
+at roughly fifty milliliters per hour. The cleaver is invariably found resting atop the trunk.
 
 The object operates through a tiered memetic trigger keyed to the viewer's psychological resilience. Individuals of
 low resilience who perceive the cleaver develop an overpowering homicidal mania — a "deep urge to butcher" directed at
@@ -545,10 +545,10 @@ containment as routinely as it rehearses lockdown.
 
 ### 13.2 GOI Exposure Risk
 
-The site's black-market interdiction work makes it a target of organized anomalous interests. The Intelligence
-Division monitors known GOI activity in the region, including Anstrall Market trade cells and Anti-Global Anomaly
-sympathizer networks. The site's cover identities are rotated on a schedule short enough to outpace sustained hostile
-observation.
+The site's black-market interdiction work makes it a target of organized anomalous
+interests. The Intelligence Division monitors known GOI activity in the region, including
+Anstrall Market trade cells and Anti-Global Anomaly sympathizer networks. The site's cover
+identities are rotated on a schedule short enough to outpace sustained hostile observation.
 
 ### 13.3 Personnel Secrecy Burden
 
@@ -604,10 +604,10 @@ observation made them unsalvageable.
 
 ### 15.2 Elevation-Era Incidents
 
-The transition to regional status was driven by incident pressure — repeated urban anomaly appearances that the relay
-network could no longer absorb without centralized containment capacity. Archive notes record that the elevation was
-approved only after a sustained density increase made the network's continued existence as relays operationally
-indefensible.
+The transition to regional status was driven by incident pressure — repeated urban anomaly
+appearances that the relay network could no longer absorb without centralized containment
+capacity. Archive notes record that the elevation was approved only after a sustained density
+increase made the network's continued existence as relays operationally indefensible.
 
 ### 15.3 Modern Incidents
 

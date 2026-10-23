@@ -11,7 +11,7 @@ Dossier Number: FLOOR-DOSSIER-05-ID-C-F-4
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard / ACT Floor Record Standard
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Note
 
@@ -31,7 +31,7 @@ what it studies, how it is built, how it is run, and how the
 relay's
 research serves its watch on what comes from below.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 1. Floor Registry Identity Summary
 
@@ -51,7 +51,7 @@ geological anomalies
 Access Posture: Clearance-gated research access
 Current Status: Active
 
----
+═══════════════════════════════════════════════════════════════════════
 
 2. Dossier Purpose
 
@@ -68,7 +68,7 @@ interpretation, and the controlled environments where maritime and
 geological anomalies are studied. The floor is the relay's scientific
 heart — the level where the Facility learns what comes from below.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 3. Position in the Site Stack
 
@@ -93,7 +93,7 @@ data processed on F-2 is interpreted with the research floor's support, and
 the deep-earth material held on F-1 is studied under the restriction sets
 that govern the relay's most sensitive holdings.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 4. Historical Foundation
 
@@ -116,7 +116,7 @@ In its modern configuration, F-4 is the relay's scientific heart: the
 laboratory level where the relay studies the sea's material and the earth's
 signals, under the controlled conditions its dual mandate requires.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5. Command and Authority
 
@@ -140,7 +140,7 @@ F-4 holds no authority over resident or record disposition. Its role is
 scientific: the floor may study, analyze, and interpret — it may not decide
 what happens to the material or data it works with.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 6. Divisional Presence
 
@@ -170,7 +170,7 @@ relay's research and on care for anomalous subjects under study.
 Security guards the floor's access architecture and enforces the access
 rules governing the floor's research spaces.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 7. Physical Plant and Architecture
 
@@ -205,7 +205,7 @@ deep-earth observations are assessed, correlated against known patterns,
 and interpreted with the research floor's analytical capacity — including
 the restricted analysis that supports the abyss-related review chain.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 8. Systems and Infrastructure
 
@@ -232,7 +232,7 @@ records, and seismic interpretation are stored under standards matched to
 their sensitivity, with deep-earth interpretation handled under the access
 rules of the review chain.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 9. Security and Containment Architecture
 
@@ -263,7 +263,7 @@ exposure events, and data incidents are met with the relay's response
 doctrine, with escalation to the review chain where deep-earth data is
 involved.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 10. Research Character and Programs
 
@@ -291,7 +291,7 @@ Research on the relay's most sensitive holdings and data proceeds under the
 deepest study restrictions — or does not proceed at all. The floor's duty
 includes knowing when understanding must wait.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 11. Personnel and Duty Life
 
@@ -315,7 +315,7 @@ the sea's material and the earth's signals with the understanding that both
 may connect to structures deeper than the relay itself. The dual watch is
 the floor's defining culture.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 12. Floor Doctrine
 
@@ -339,7 +339,7 @@ data that may correlate with the structure beneath the Primary Facility is
 studied under the review chain's rules, and the floor refuses understanding
 that exceeds the restrictions its data demands.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 13. Incident Archive
 
@@ -349,7 +349,7 @@ relay's research doctrine — including those that established the restricted
 handling of deep-earth interpretation — are preserved in the relay's
 history files.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 14. Current Status and Projected Development
 
@@ -360,7 +360,7 @@ priorities include:
 - coordination with the holding and monitoring floors on the knowledge the
   relay's decisions require.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 15. Cross-Referenced Files
 
@@ -372,7 +372,7 @@ priorities include:
 - Nusantara Annex Register (clearance-gated)
 - Restricted review chain files (abyss-related; clearance-gated beyond site governance)
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Closing
 

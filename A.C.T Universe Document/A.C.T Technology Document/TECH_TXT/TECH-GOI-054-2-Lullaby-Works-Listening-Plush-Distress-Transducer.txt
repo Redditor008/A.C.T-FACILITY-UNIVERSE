@@ -61,7 +61,7 @@ Core handling rule:
 IT IS NOT A TOY THAT MAKES NOISE. IT IS A TOY THAT KNOWS
 WHEN A CHILD CANNOT.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 FUNCTION SUMMARY
 
@@ -93,14 +93,14 @@ voice.
 The plush does not identify, deter, or contain anything. It is an alarm with
 a soft exterior.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 ORIGIN AND CUSTODY
 
 Manufactured by Lullaby Works. No lot label has been recovered for the plush line,
 in contrast to the nightlight line
-which carries LW / NIGHTLIGHT LOT SLEEP-SAFE-7. A.C.T cannot state a production volume, a distribution route, or a
-manufacturing site.
+which carries LW / NIGHTLIGHT LOT SLEEP-SAFE-7. A.C.T cannot state
+a production volume, a distribution route, or a manufacturing site.
 
 Units reach children through purchase, donation, inheritance, misplaced delivery, school counsellor issue, hospital
 discharge bag, or shelter supply. A.C.T has no reliable way to enumerate units in
@@ -111,7 +111,7 @@ unit. Engineering Division holds the force-opened shell and the seam fragments f
 Division holds the caregiver injury statement referenced by the warranty fragment. No unit in a child's possession may
 be removed without Subject Care authorization.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 PHYSICAL OR SYSTEM DESCRIPTION
 
@@ -155,7 +155,7 @@ A blanket damps. The plush closes its jaw on whatever is nearest, and the
 manufacturer's own warranty fragment shows
 it answering for the result afterwards.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 TECHNICAL SPECIFICATION
 
@@ -190,7 +190,7 @@ The absence of a lot label is the row that limits every other investigation. Wit
 volume, distribution route, or how many units are in civilian hands, and the recall lists recovered under
 TECH-GOI-054-5 cannot be matched to this line.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 INTERFACE AND OPERATING ENVELOPE
 
@@ -220,7 +220,7 @@ Handling Limits And Weaknesses
 Relay range, trigger subset, and civilian unit counts are NOT MEASURED. The only repeatable physical measurement A.C.T
 holds is that separated material samples remain warm.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 OPERATING PROCEDURE
 
@@ -246,8 +246,8 @@ The recovered warranty fragment gives the manufacturer's own procedure and A.C.T
 caregiver's statement in plain paper, do not punish the child for teaching it fear,
 and submit for replacement review.
 
-External inspection proceeds seam, tag, plate, shell, weight, warmth. Warmth at rest is recorded, not investigated in
-the field.
+External inspection proceeds seam, tag, plate, shell, weight,
+warmth. Warmth at rest is recorded, not investigated in the field.
 
 Numbered Operating Sequence
 
@@ -267,7 +267,7 @@ manufacturer's own route is replacement after review.
 Steps 6 and 7 follow the recovered warranty fragment exactly. A.C.T adopted the manufacturer's procedure rather than
 writing its own, because the fragment is the only document that shows how the bite failure is meant to be handled.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 SERVICING AND CALIBRATION
 
@@ -289,7 +289,7 @@ No calibration is possible and none is scheduled. Servicing is limited to
 custody confirmation and external inspection, because every diagnostic route
 A.C.T could construct requires damaging a unit that is still protecting a child.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 FAULT ISOLATION
 
@@ -307,7 +307,7 @@ FAULT ISOLATION
 | Sample warm at rest        | known range finding                       | record, do not investigate                |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 
----
+═══════════════════════════════════════════════════════════════════════
 
 KNOWN LIMITS
 
@@ -321,14 +321,14 @@ It cannot be silenced on command and cannot be tested. A.C.T has no method
 to verify that a unit still functions
 without endangering a child.
 
-It cannot be repaired by A.C.T. The manufacturer's own route is replacement after review, and A.C.T cannot reach the
-manufacturer.
+It cannot be repaired by A.C.T. The manufacturer's own route is
+replacement after review, and A.C.T cannot reach the manufacturer.
 
-The bite response is the clearest operational limit. A protective device that injures the adult who comes to help can
-delay response, and the warranty fragment confirms the manufacturer treats this as a known failure rather than an edge
-case.
+The bite response is the clearest operational limit. A protective device that
+injures the adult who comes to help can delay response, and the warranty fragment
+confirms the manufacturer treats this as a known failure rather than an edge case.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 FAILURE HISTORY
 
@@ -355,7 +355,7 @@ observation was logged and not
 escalated, because no further testing route existed that did not require damaging a unit still in service. It remains
 the only repeatable physical measurement A.C.T holds on the plush line.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 DIVISION USE
 
@@ -368,7 +368,7 @@ fragment, the instruction card text, and inspection records under restricted acc
 stitch, the three-quiet-nights warranty line, and any recurrence of the plush shape in unrelated product lines. Civil
 Covert maintains the cover position for families and does not disclose A.C.T involvement.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 CROSS-REFERENCES
 
@@ -386,7 +386,7 @@ draw. The one plush A.C.T opened was destroyed by the opening, so no illustratio
 in the reference set could show
 anything except an empty shell that no longer works.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 OPEN QUESTIONS
 
@@ -404,7 +404,7 @@ external volume?
 returned ones?
 - How many units are in civilian homes?
 
----
+═══════════════════════════════════════════════════════════════════════
 
 FILE METADATA
 

@@ -23,14 +23,14 @@ of silence: she followed maintenance.
 
 If something was too dangerous to name, too old to classify cleanly, or too
 structurally central to leave visible in
-ordinary archives, it still had to be serviced. Filters changed. seal grids recalibrated. pressure lines held.
-observation systems cycled. There were always traces where the mechanical body of the Facility touched the truth its
-archive tried not to describe.
+ordinary archives, it still had to be serviced. Filters changed. seal grids recalibrated.
+pressure lines held. observation systems cycled. There were always traces where the
+mechanical body of the Facility touched the truth its archive tried not to describe.
 
-The abyss branch of maintenance history was scattered across unrelated systems—Central lift stress logs, coolant
-deviation reports, anti-reality mesh load balancing, dormant seismic buffers, old reinforcement manifests from before
-the current floor map had finished stabilizing. Each record by itself looked meaningless. Together they formed
-something close to an outline.
+The abyss branch of maintenance history was scattered across unrelated systems—Central lift
+stress logs, coolant deviation reports, anti-reality mesh load balancing, dormant seismic
+buffers, old reinforcement manifests from before the current floor map had finished stabilizing.
+Each record by itself looked meaningless. Together they formed something close to an outline.
 
 A shape beneath the shape.
 
@@ -117,8 +117,8 @@ He laughed once, softly, without humor. “Helping is a generous word.”
 
 “Then why are you here?”
 
-Tavian glanced toward the dark between shelves before answering. “Because if you reach the wrong conclusion alone,
-they’ll call it instability.”
+Tavian glanced toward the dark between shelves before answering. “Because
+if you reach the wrong conclusion alone, they’ll call it instability.”
 
 “And if I reach it with you?”
 
@@ -174,8 +174,8 @@ That changed everything.
 
 It meant the abyss systems were not just support architecture. They were extensions of
 a global mercy. A manufactured
-continuity between human procedure and whatever condition kept the sleeping thing below from shifting fully toward
-waking.
+continuity between human procedure and whatever condition kept
+the sleeping thing below from shifting fully toward waking.
 
 Sera felt suddenly, absurdly small.
 

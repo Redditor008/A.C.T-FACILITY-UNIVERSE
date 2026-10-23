@@ -93,8 +93,8 @@ force-opening loss, recorded in TECH-GOI-054-2.
 
 The unit presents as an ordinary child's blanket of domestic size and weight. Nothing
 about the exterior indicates
-function, consistent with the Lullaby Works design preference for soft materials, low-threat shapes, and familiar
-domestic objects.
+function, consistent with the Lullaby Works design preference for
+soft materials, low-threat shapes, and familiar domestic objects.
 
 Known external features:
 
@@ -187,8 +187,8 @@ carried as an open safety risk rather than as a theoretical concern.
 
 ## OPERATING PROCEDURE
 
-Blankets in a child's possession stay there. Field personnel do not confiscate, cut, weigh, wash, or test a service
-unit.
+Blankets in a child's possession stay there. Field personnel
+do not confiscate, cut, weigh, wash, or test a service unit.
 
 Standing rules:
 
@@ -206,8 +206,8 @@ directly and does not deflect. The
 product is protective in every case A.C.T has observed, and refusal to say so
 damages trust without improving safety.
 
-Sample inspection proceeds fibre, weave, hem, tag, plate, warmth at rest. Warmth is recorded, not investigated in the
-field.
+Sample inspection proceeds fibre, weave, hem, tag, plate, warmth
+at rest. Warmth is recorded, not investigated in the field.
 
 ### Numbered Operating Sequence
 
@@ -275,8 +275,8 @@ protective item the child has, and A.C.T currently has no guidance to give them.
 This is recorded as an open safety
 gap rather than as a theoretical concern.
 
-The product does not replace care. Subject Care Division warns against allowing a blanket to become the reason a child
-is not referred for follow-up.
+The product does not replace care. Subject Care Division warns against
+allowing a blanket to become the reason a child is not referred for follow-up.
 
 ---
 

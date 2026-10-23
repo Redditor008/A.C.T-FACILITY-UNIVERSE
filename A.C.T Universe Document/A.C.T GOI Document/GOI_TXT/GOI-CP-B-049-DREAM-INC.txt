@@ -1,7 +1,7 @@
 A.C.T FACILITY ARCHIVE FILE — GOI CP B 049 DREAM INC
 ===========================
 GROUP OF INTEREST REGISTRY - DREAM .INC
----------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                                                         |
@@ -80,10 +80,10 @@ rather than a conventional unlicensed medicine seller.
 ==============================================================================
 
 IDENTITY AND INSTITUTIONAL FUNCTION
------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 A Company That Sells Private Fulfillment
-----------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 DREAM .INC presents itself through a changing collection of ordinary corporate identities connected to sleep support,
 wellness, private consultation, dream analysis, recovery services, and discreet pharmaceutical assistance. The legal
@@ -108,7 +108,7 @@ works once, keep silent when it does,
 and return when waking life feels less satisfying than the dream it sold them.
 
 Public Presence and Corporate Masking
--------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 At least twelve company buildings are confirmed to be open and operating. These are
 not abandoned shells or sealed
@@ -129,7 +129,7 @@ in a confirmed building. DREAM
 contractors, product sellers, and source-anomaly personnel in separate knowledge compartments.
 
 The Name DREAM .INC
--------------------
+═══════════════════════════════════════════════════════════════════════
 
 The company uses the word DREAM as both a brand and a shield. It
 is broad enough to sound harmless and emotionally
@@ -139,17 +139,17 @@ The space before .INC is retained in the file because the stylized mark is
 repeated across recovered material and
 customer-facing packaging.
 
-A.C.T personnel should use the full designation in internal records. Public-facing cover operations must not repeat
-the mark unnecessarily. The company gains from every unqualified person who learns there may be a purchasable way to
-alter dreams.
+A.C.T personnel should use the full designation in internal records. Public-facing
+cover operations must not repeat the mark unnecessarily. The company gains from
+every unqualified person who learns there may be a purchasable way to alter dreams.
 
 ==============================================================================
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-----------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Executive Condition
--------------------
+═══════════════════════════════════════════════════════════════════════
 
 No verified public executive structure accounts for the full DREAM .INC network. Local building directors, product
 representatives, and legal contacts use non-overlapping identities and appear able to operate without receiving the
@@ -157,10 +157,10 @@ same information. Some describe their employer as a legitimate private health co
 contracted service chain. None of the confirmed public-facing personnel has supplied a reliable path to the person or
 body that controls the Dream Nectar source and the extraction machine.
 
-A.C.T therefore records leadership as unresolved. This does not mean the company lacks command. A company that can
-operate at least twelve open buildings, maintain controlled product supply, manage repeated consumer demand, and
-prevent staff from assembling the full picture has a functioning leadership system whether or not its executives are
-visible.
+A.C.T therefore records leadership as unresolved. This does not mean the company lacks
+command. A company that can operate at least twelve open buildings, maintain controlled
+product supply, manage repeated consumer demand, and prevent staff from assembling the full
+picture has a functioning leadership system whether or not its executives are visible.
 
 The most likely command conditions are a concealed board, a single protected owner, a
 rotating custody group around
@@ -170,10 +170,10 @@ verified. Investigations must distinguish between a person who signs a lease and
 Nectar can be extracted from a Dream-Type Anomaly.
 
 Building Layers
----------------
+═══════════════════════════════════════════════════════════════════════
 
-Confirmed buildings display different public functions, but their internal structure follows a recurring separation of
-access.
+Confirmed buildings display different public functions, but their
+internal structure follows a recurring separation of access.
 
 Public Layer
 ............
@@ -215,7 +215,7 @@ or contained at an unlocated
 facility.
 
 Workforce, Contractors, and Consumers
--------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 DREAM .INC is a large company, but its total relevant membership cannot be measured
 by payroll. The operational body
@@ -237,10 +237,10 @@ isolation is part of DREAM .INC's commercial security model.
 ==============================================================================
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
--------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 The Wish as a Commodity
------------------------
+═══════════════════════════════════════════════════════════════════════
 
 DREAM .INC does not openly present an ideology. Its practical belief is commercial: a
 wish can be packaged, a dream
@@ -263,7 +263,7 @@ machine that turns its condition
 into product.
 
 The Dream-Type Anomaly
-----------------------
+═══════════════════════════════════════════════════════════════════════
 
 The source anomaly is withheld in this file as [REDACTED] Dream-Type Anomaly. It is
 known to generate, contain,
@@ -283,7 +283,7 @@ requiring separate classification, welfare
 assessment where applicable, and containment analysis. These are not compatible approaches.
 
 The Mysterious Extraction Machine
----------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 DREAM .INC possesses an anomalous machine capable of extracting Dream Nectar from the Dream-Type Anomaly. The machine
 is not treated as ordinary laboratory equipment. Its construction, origin, power requirements, internal process, and
@@ -303,7 +303,7 @@ identifies the apparatus correctly. The device may have a different identity in 
 have no stable human-readable name at all.
 
 Dream Nectar and the Claimed Effect
------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Dream Nectar is an underground medicine sold with the claim that a consumer will
 have their wish come true in a dream.
@@ -330,7 +330,7 @@ specific approved containment study. A product that promises subjective fulfillm
 effectively as it exploits a customer.
 
 Engineering Capability Assessment
----------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 DREAM .INC is classified ENGINEERING because it uses a machine-based extraction process to obtain, process, package,
 and distribute an anomalous substance. This classification does not state that the company designed the apparatus or
@@ -338,13 +338,13 @@ understands the underlying anomaly. It reflects the scale of its direct technica
 
 The distinction matters. A handler can move an object according to learned rules. DREAM
 .INC has built a commercial
-supply system around active extraction. Its employees or contractors can maintain enough of a process to convert a
-Dream-Type Anomaly into recurring product. That makes the company capable of causing harm through overuse,
-miscalibration, unauthorized modification, product dilution, data misuse, or a failure to recognize that the machine
-has changed state.
+supply system around active extraction. Its employees or contractors can maintain enough of
+a process to convert a Dream-Type Anomaly into recurring product. That makes the company
+capable of causing harm through overuse, miscalibration, unauthorized modification, product
+dilution, data misuse, or a failure to recognize that the machine has changed state.
 
 Secrecy and Civilian Exposure
------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 DREAM .INC is classified EXPOSURE-ACTIVE. The product is underground, but underground does not mean contained. Every
 sale creates a customer. Every customer can tell a friend. Every wish report can
@@ -354,17 +354,17 @@ reject an impossible claim.
 
 The company does not need a public advertising campaign to expand. It can market
 through trusted referrals, private
-consultations, message groups, paid intermediaries, false medical discretion, and the shame that prevents consumers
-from reporting a product associated with their deepest desires. This creates an active exposure system even when the
-company appears quiet.
+consultations, message groups, paid intermediaries, false medical discretion, and the
+shame that prevents consumers from reporting a product associated with their deepest
+desires. This creates an active exposure system even when the company appears quiet.
 
 ==============================================================================
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
---------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Known Open Building Network
----------------------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T has confirmed at least twelve open buildings used by DREAM .INC as company
 facilities. The number is a lower
@@ -386,7 +386,7 @@ elsewhere. The corporate network
 converts distribution into plausible administration.
 
 Geographic Reach
-----------------
+═══════════════════════════════════════════════════════════════════════
 
 DREAM .INC is assigned NATIONAL reach based on the scale of the known corporate
 footprint and the ability to operate
@@ -394,13 +394,13 @@ multiple open buildings under coordinated secrecy. No verified evidence currentl
 classification. Conversely, treating the network as merely local would ignore the demonstrated capacity to spread
 product, staffing, data, and cover methods beyond one isolated community.
 
-The primary active region is recorded as a distributed national corporate footprint rather than one named city.
-Precise regional concentration is still under review. This wording prevents A.C.T from making an unsupported
-geographic claim while recognizing that at least twelve functioning sites cannot be managed as unrelated local
-incidents.
+The primary active region is recorded as a distributed national corporate footprint
+rather than one named city. Precise regional concentration is still under review. This
+wording prevents A.C.T from making an unsupported geographic claim while recognizing
+that at least twelve functioning sites cannot be managed as unrelated local incidents.
 
 Known Assets
-------------
+═══════════════════════════════════════════════════════════════════════
 
 The following assets are confirmed or strongly assessed:
 
@@ -424,7 +424,7 @@ their most vulnerable without ever
 describing itself as coercive.
 
 Product Flow and Custody Method
--------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 DREAM .INC's product chain is assessed to move through five broad conditions: source extraction, machine-mediated
 collection, controlled preparation, building or courier custody, and consumer handoff. Not every building handles
@@ -442,7 +442,7 @@ potentially active anomalous
 material until Containment and Medical review clear it.
 
 Consumer Acquisition Method
----------------------------
+═══════════════════════════════════════════════════════════════════════
 
 The company does not need to promise a universal miracle. It only needs to
 locate people who are willing to pay for
@@ -452,10 +452,10 @@ care.
 
 A prospective customer may enter through a normal building, be directed to a private
 consultant, complete an
-apparently confidential discussion, receive a suggested product route, and be warned not to discuss the experience
-with ordinary medical staff. The consultation may also gather the very information needed to make the later dream feel
-personally accurate. Whether this information guides the product, feeds the machine, or simply helps the company claim
-success is unresolved.
+apparently confidential discussion, receive a suggested product route, and be warned not to
+discuss the experience with ordinary medical staff. The consultation may also gather the very
+information needed to make the later dream feel personally accurate. Whether this information
+guides the product, feeds the machine, or simply helps the company claim success is unresolved.
 
 A.C.T response cannot treat consumer contact as a simple narcotics case. The product is
 tied to a dream condition,
@@ -465,10 +465,10 @@ Civil Covert, and carefully limited disclosure rather than public seizure alone.
 ==============================================================================
 
 HISTORY WITH A.C.T
-------------------
+═══════════════════════════════════════════════════════════════════════
 
 File Formation
---------------
+═══════════════════════════════════════════════════════════════════════
 
 The DREAM .INC file was opened after separate reports of unusually consistent wish-directed dreams were found to share
 common product language, similar confidentiality pressure, and links to active corporate buildings. Initial reports
@@ -486,11 +486,11 @@ machine remain restricted. Releasing those details could expose a current invest
 product whose value is built on private desperation.
 
 Current Relationship
---------------------
+═══════════════════════════════════════════════════════════════════════
 
-DREAM .INC has no formal relationship with A.C.T. The company benefits from remaining unidentified as an anomalous
-actor, while the Facility must prevent product expansion without warning the network before source and machine custody
-can be secured.
+DREAM .INC has no formal relationship with A.C.T. The company benefits from remaining
+unidentified as an anomalous actor, while the Facility must prevent product expansion
+without warning the network before source and machine custody can be secured.
 
 A direct raid on every known building would be premature if it leaves the
 source anomaly and extraction apparatus
@@ -503,18 +503,18 @@ take custody of the machine when safe.
 ==============================================================================
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
----------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Responsible Jurisdiction
-------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Central Command and the Intelligence Division, Corporate Exploitation Desk hold primary file authority because DREAM
 .INC is a multi-building corporate structure with an unresolved source location and national reach.
 
-ACT-SITE-03-JP-E / Kurokawa Archive Node provides cognitive, dream-content, recording, data, and information-hazard
-review. Its role follows the product's relationship to memory, subjective experience, private reporting, and
-potentially contagious dream narratives rather than any claim that the company operates in the Site's geographic
-region.
+ACT-SITE-03-JP-E / Kurokawa Archive Node provides cognitive, dream-content, recording,
+data, and information-hazard review. Its role follows the product's relationship to memory,
+subjective experience, private reporting, and potentially contagious dream narratives
+rather than any claim that the company operates in the Site's geographic region.
 
 ACT-SITE-01-US-W / Redwood Veil Complex supports corporate-front tracing,
 artifact-route interdiction, covert recovery, building-entry planning, and black-market
@@ -526,7 +526,7 @@ components. Civil Covert Division manages narrow public explanations that protec
 attention from becoming free advertising.
 
 Posture Implementation
-----------------------
+═══════════════════════════════════════════════════════════════════════
 
 Infiltrate
 ............
@@ -568,7 +568,7 @@ possibility is not permission to operate it casually. Any decision to test, move
 requires joint Intelligence, Containment, Medical, and O5-level review if the source anomaly's condition could change.
 
 Response Limits and Red Lines
------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T may not distribute Dream Nectar to maintain a cover identity, calm a consumer,
 recruit an informant, or finance
@@ -586,10 +586,10 @@ not a corporate resource and not a disposable tactical object.
 ==============================================================================
 
 OPERATIONAL RECORDS
--------------------
+═══════════════════════════════════════════════════════════════════════
 
 Open Building Survey - Restricted Extract
------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 A coordinated review of publicly open company locations established twelve buildings with direct or indirect links to
 DREAM .INC. The shared link was not a common sign, leaseholder, or public executive.
@@ -605,7 +605,7 @@ too ordinary to be
 connected.
 
 Dream Nectar Batch Recovery - Restricted Extract
-------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Recovery personnel obtained a sealed product batch after a private referral chain was disrupted. Packaging used
 wellness language and did not identify the source anomaly, machine, or corporate executive. A consumer-facing insert
@@ -619,24 +619,24 @@ stage. The batch was transferred to controlled storage while Intelligence traced
 exposing every person who had received a vial.
 
 Apparatus Maintenance Indicator - Restricted Extract
-----------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 An internal company communication referenced an interruption described only as a quiet machine condition. The message
 directed selected staff to delay appointments, reclassify client reports, and avoid accepting certain wishes until an
 unspecified correction had been completed. No public building announced a closure.
 
-The communication did not reveal the apparatus location, but it established that machine condition can alter
-consumer-facing business behavior. A.C.T now treats sudden appointment restrictions, changes in product claims,
-unusual batch scarcity, or urgent collection of dream reports as possible indicators of a source or machine-state
-change.
+The communication did not reveal the apparatus location, but it established that
+machine condition can alter consumer-facing business behavior. A.C.T now treats sudden
+appointment restrictions, changes in product claims, unusual batch scarcity, or urgent
+collection of dream reports as possible indicators of a source or machine-state change.
 
 ==============================================================================
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
--------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Confirmed Operational Facts
----------------------------
+═══════════════════════════════════════════════════════════════════════
 
 - DREAM .INC is a large company using a distributed corporate structure.
 - The company possesses a mysterious anomalous machine that extracts Dream Nectar from at
@@ -650,7 +650,7 @@ true in their dream.
 unresolved.
 
 Active Intelligence Assessment
-------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 DREAM .INC's greatest strength is not the number of buildings alone. It is the
 company's ability to make an anomalous
@@ -674,7 +674,7 @@ reason for continued
 infiltration.
 
 Persistent Questions
---------------------
+═══════════════════════════════════════════════════════════════════════
 
 - Is Dream Nectar extracted from one Dream-Type Anomaly or from multiple sources?
 - Does the extraction apparatus create the dream effect, capture it from the source,
@@ -696,7 +696,7 @@ machine or source into a more dangerous
 hidden condition?
 
 Intelligence Confidence
------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Moderate. The company, anomalous extraction process, underground product, consumer claim, and twelve
 open-building minimum are confirmed. The source anomaly's condition, machine origin, executive
@@ -707,10 +707,10 @@ protected consumer interviews, machine-condition correlation, and source-anomaly
 ==============================================================================
 
 CROSS-REFERENCE STATUS
-----------------------
+═══════════════════════════════════════════════════════════════════════
 
 Anomaly and Record Relationship
--------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 The [REDACTED] Dream-Type Anomaly and the Dream Nectar Extraction Apparatus require separate restricted anomaly files.
 This GOI record documents the company that exploits them. It must not be used
@@ -724,7 +724,7 @@ and cross-linked without
 removing this organizational dossier.
 
 Related A.C.T Records
----------------------
+═══════════════════════════════════════════════════════════════════════
 
 - GOI Registry and External Threat Doctrine Archive - classification and posture authority.
 - Site Map and Jurisdiction Doctrine - cross-site assignment and corporate-route response.
@@ -738,7 +738,7 @@ Nectar material.
 ==============================================================================
 
 FILE METADATA
--------------
+═══════════════════════════════════════════════════════════════════════
 
 FILE CREATED:            21/11/1931
 FILE LAST UPDATED:       06/10/1948

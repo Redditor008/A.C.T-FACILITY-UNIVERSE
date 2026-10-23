@@ -59,7 +59,7 @@ Core handling rule:
 A COMPANY THAT TAKES BACK A TOY THAT BIT SOMEONE IS A COMPANY THAT
 KEEPS RECORDS. FIND THE RECORDS.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 FUNCTION SUMMARY
 
@@ -89,7 +89,7 @@ substantial: it is the mechanism by which Lullaby Works learns what its products
 and therefore the mechanism by
 which the products improve.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 ORIGIN AND CUSTODY
 
@@ -104,7 +104,7 @@ use of ledger material that could reach a family, and exercises it by default.
 No A.C.T division may contact the manufacturer through the ledger channel without Command-level exception. One contact
 has ever been made, described below.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 PHYSICAL OR SYSTEM DESCRIPTION
 
@@ -134,7 +134,7 @@ Whether that is an automated message, a live operator, or something else is unre
 The system's most significant physical property is that it produces paper. Every contact leaves a document. That is
 why A.C.T treats it as a recoverable target rather than as a rumour.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 TECHNICAL SPECIFICATION
 
@@ -169,7 +169,7 @@ The recall-lot row is the intelligence payload of this record. A lot A.C.T has
 never encountered in the field is a product line A.C.T has never assessed, so a
 recovered list is read as a gap inventory rather than as a compliance document.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 INTERFACE AND OPERATING ENVELOPE
 
@@ -199,7 +199,7 @@ Handling Limits And Weaknesses
 Ledger location, lot totals, and crate disposition are NOT MEASURED. Subject Care holds veto authority over any use of
 ledger material that could reach a family, and exercises it by default.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 OPERATING PROCEDURE
 
@@ -243,7 +243,7 @@ Step 8 is the discipline that keeps the file usable. A recall list naming an unk
 product line exists which A.C.T has never seen; it does not prove what that product does, and a report that
 implies otherwise sends someone looking for the wrong thing.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 SERVICING AND CALIBRATION
 
@@ -264,7 +264,7 @@ SERVICING AND CALIBRATION
 Servicing is archival and reconciliatory. The system cannot be inspected, only read, so the schedule is built around
 keeping the fragment record complete and the lot gaps visible.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 FAULT ISOLATION
 
@@ -282,12 +282,12 @@ FAULT ISOLATION
 | Catalogue page missing     | removed content presumed                  | file as evidence                          |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 
----
+═══════════════════════════════════════════════════════════════════════
 
 KNOWN LIMITS
 
-A.C.T holds fragments, not the ledger. No complete failure file has ever been recovered, and the dossier states this
-directly.
+A.C.T holds fragments, not the ledger. No complete failure file
+has ever been recovered, and the dossier states this directly.
 
 The system cannot be read from the outside. A.C.T cannot determine how many lots
 exist, how many recalls have been
@@ -303,7 +303,7 @@ The system cannot be used to reach the manufacturer. A.C.T does not know whether
 the ledger is maintained by an
 organisation, a process, or something that only appears to be either.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 FAILURE HISTORY
 
@@ -318,10 +318,10 @@ and it established the standing rule that contact requires Command-level excepti
 WARRANTY FRAGMENT RECOVERY — BEAR BITE CASE
 A single warranty card fragment was recovered acknowledging that a plush bit an adult
 hand, instructing that the
-caregiver's statement be wrapped in plain paper, and approving replacement after review. The full failure file was
-never recovered. A.C.T preserves the fragment because it proves that a failure-review process exists and that the
-manufacturer understands misuse and unintended injury. It is the only documentary proof that the ledger functions at
-all.
+caregiver's statement be wrapped in plain paper, and approving replacement after review.
+The full failure file was never recovered. A.C.T preserves the fragment because it proves
+that a failure-review process exists and that the manufacturer understands misuse and
+unintended injury. It is the only documentary proof that the ledger functions at all.
 
 UNRECONCILED RECALL LOTS — OPEN
 Recall lists recovered by A.C.T name product lots that A.C.T has never encountered. The
@@ -332,7 +332,7 @@ rather than as a low-priority backlog item, because each unreconciled lot is a p
 family with no technology
 record.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 DIVISION USE
 
@@ -343,7 +343,7 @@ Engineering Division uses lot marks and production tags to attribute recovered u
 handles failure crates and does not route them into service stock. Civil Covert maintains the cover position and does
 not confirm A.C.T interest in any recovered document.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 CROSS-REFERENCES
 
@@ -361,7 +361,7 @@ illustrates them. Neither has a form for a paper system operated by an organisat
 A.C.T cannot locate, and this
 entry sits in the GOI series because there was nowhere else to put it.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 OPEN QUESTIONS
 
@@ -377,7 +377,7 @@ failure?
 - Can A.C.T reach the manufacturer at all without disclosing itself?
 - Are the recall lists issued to protect children, to retrieve product, or both?
 
----
+═══════════════════════════════════════════════════════════════════════
 
 FILE METADATA
 

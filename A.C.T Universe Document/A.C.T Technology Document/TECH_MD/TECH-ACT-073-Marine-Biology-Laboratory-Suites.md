@@ -65,14 +65,14 @@ Nusantara Deep Relay was not built only to catch what came from the water.
 It was built to understand what the water
 returned. Early maritime recoveries showed that holding a resident in a chamber did not
 explain why the chamber
-worked. Some residents stabilized only under narrow salinity. Some reacted to current or sound. Some left biological
-material that behaved differently after separation. Some required medical care that ordinary terrestrial models could
-not guide.
+worked. Some residents stabilized only under narrow salinity. Some reacted to current
+or sound. Some left biological material that behaved differently after separation.
+Some required medical care that ordinary terrestrial models could not guide.
 
-F-4's marine biology laboratories developed as the research answer to F-3's holding problem. The floor receives
-controlled samples from the Maritime and Island Holding Level, studies them under documented conditions, and returns
-findings to Containment as revised environmental regimens. This relationship keeps research useful and keeps curiosity
-subordinate to custody.
+F-4's marine biology laboratories developed as the research answer to F-3's holding problem.
+The floor receives controlled samples from the Maritime and Island Holding Level, studies them
+under documented conditions, and returns findings to Containment as revised environmental
+regimens. This relationship keeps research useful and keeps curiosity subordinate to custody.
 
 ---
 
@@ -233,9 +233,9 @@ research assumptions to F-3 as if they were containment facts.
 ## FAILURE HISTORY
 
 ### MBLS-F-4 Standard Formation
-The F-4 dossier identifies marine biology laboratories as a primary research function of the relay. MBLS was
-formalized so controlled aquatic study would remain linked to containment requirements rather than ordinary academic
-practice.
+The F-4 dossier identifies marine biology laboratories as a primary research
+function of the relay. MBLS was formalized so controlled aquatic study would
+remain linked to containment requirements rather than ordinary academic practice.
 
 ### MBLS-F-3 Return Review
 A sample-handling exercise found that research recommendations could reach F-3 before final chain-of-custody review.

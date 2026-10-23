@@ -92,12 +92,12 @@ could build false routes that feel official to the instrument.
 
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
-A standard NEC resembles a rugged handheld GPS unit with reinforced corners, sealed buttons, and a circular digital
-display. The display renders three-dimensional topographic probability maps rather than ordinary flat coordinates.
-Peaks indicate high route pressure, valleys indicate low pressure, and moving bands may show temporal fog, repeating
-corridors, or story convergence. The retractable adjustable focus lens can lock onto a specific causal thread when a
-sample, tag, name, or authorized link is provided. The flip-open Aether-Filter changes the sensor view for localized
-temporal fog.
+A standard NEC resembles a rugged handheld GPS unit with reinforced corners, sealed buttons, and a
+circular digital display. The display renders three-dimensional topographic probability maps rather
+than ordinary flat coordinates. Peaks indicate high route pressure, valleys indicate low pressure,
+and moving bands may show temporal fog, repeating corridors, or story convergence. The retractable
+adjustable focus lens can lock onto a specific causal thread when a sample, tag, name, or authorized
+link is provided. The flip-open Aether-Filter changes the sensor view for localized temporal fog.
 
 Known components include:
 
@@ -197,10 +197,10 @@ on the compass.
 
 Before entering an unstable area, the survey lead takes a baseline reading at the
 safe threshold and marks the return
-path. The operator confirms ordinary map, RSA reading, CTC lifeline status, and NEC pressure map before crossing. Once
-inside, the team does not follow the strongest reading automatically. Strong pressure is treated as significance, not
-safety. The operator calls out density increases, route inversions, temporal fog, dead-map conditions, and thread-lock
-drift.
+path. The operator confirms ordinary map, RSA reading, CTC lifeline status, and NEC pressure
+map before crossing. Once inside, the team does not follow the strongest reading
+automatically. Strong pressure is treated as significance, not safety. The operator calls out
+density increases, route inversions, temporal fog, dead-map conditions, and thread-lock drift.
 
 When the Aether-Filter is opened, only the assigned operator reads the filtered display unless the file order allows
 group viewing. Temporal fog can contaminate witness agreement, and too many personnel reacting to the same filtered
@@ -280,11 +280,11 @@ rules now require stronger links for personnel and mission-critical assets.
 
 ## DIVISION USE
 
-Survey Division trains NEC operators and controls route interpretation doctrine. Dark World Expedition Desk maintains
-threshold kits. Recovery uses NEC during search and retrieval. Engineering calibrates gyro arrays, focus lenses, and
-Aether-Filters. Site Command approves deployment in active facilities. Intelligence reviews suspected spoofed
-Narrative North events. Archive stores route maps, dead-map alarms, and thread-lock failures with related expedition
-files.
+Survey Division trains NEC operators and controls route interpretation doctrine. Dark World
+Expedition Desk maintains threshold kits. Recovery uses NEC during search and retrieval.
+Engineering calibrates gyro arrays, focus lenses, and Aether-Filters. Site Command approves
+deployment in active facilities. Intelligence reviews suspected spoofed Narrative North events.
+Archive stores route maps, dead-map alarms, and thread-lock failures with related expedition files.
 
 Standing reminder: the compass points toward meaning. Meaning is not always an ally.
 

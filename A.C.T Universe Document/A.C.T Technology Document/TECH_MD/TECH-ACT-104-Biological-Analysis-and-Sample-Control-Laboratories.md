@@ -175,11 +175,11 @@ material from a place-bound resident may retain a relationship with its source, 
 ledger is the only
 record of what left and when.
 
-Before sample entry, staff record origin, resident or sector link, collection method, environmental context, medical
-risk, required containment, research authorization, and return or disposal expectation. The sample enters through
-controlled transfer and remains linked to its source record. Research staff conduct analysis under suite-specific
-conditions. Archive liaison preserves data and chain. Medical reviews crossover where personnel exposure or subject
-care is involved.
+Before sample entry, staff record origin, resident or sector link, collection method, environmental
+context, medical risk, required containment, research authorization, and return or disposal
+expectation. The sample enters through controlled transfer and remains linked to its source record.
+Research staff conduct analysis under suite-specific conditions. Archive liaison preserves data and
+chain. Medical reviews crossover where personnel exposure or subject care is involved.
 
 When analysis ends, BASCL closes the chain by verified return, authorized disposal, escalation to containment
 research, or continued custody under command. Findings that affect field or chamber conditions are routed to

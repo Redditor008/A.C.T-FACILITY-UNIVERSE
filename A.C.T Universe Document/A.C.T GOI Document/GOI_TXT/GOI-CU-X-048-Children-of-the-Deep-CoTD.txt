@@ -1,7 +1,7 @@
 A.C.T FACILITY ARCHIVE FILE — GOI CU X 048 Children of the Deep CoTD
 ===========================
 GROUP OF INTEREST REGISTRY - CHILDREN OF THE DEEP
--------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                                                         |
@@ -76,16 +76,16 @@ changing the sleep condition of a deep-sea threat.
 The term Children is doctrinal. It does not establish literal parentage, biological alteration, or a shared family
 relation. Within the cult, it means that a member has accepted the Deep as
 the only legitimate origin, shelter, and
-future of humanity. A.C.T personnel must not adopt the term in negotiations except where an approved cover identity
-requires it.
+future of humanity. A.C.T personnel must not adopt the term in
+negotiations except where an approved cover identity requires it.
 
 ==============================================================================
 
 IDENTITY AND INSTITUTIONAL FUNCTION
------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 The Cultic Purpose
-------------------
+═══════════════════════════════════════════════════════════════════════
 
 Children of the Deep, usually abbreviated CoTD, believes that the world above the water
 is a damaged and temporary
@@ -109,7 +109,7 @@ philosophical decoration. It directs
 recruitment, sacrifice, secrecy, logistics, and violence.
 
 The Meaning of Deep
--------------------
+═══════════════════════════════════════════════════════════════════════
 
 The cult's use of Deep has three operational meanings.
 
@@ -124,13 +124,13 @@ basements that collect water below human sight. CoTD members call these places i
 their theological claim that every such location is physically connected to the deep-sea target, but repeated use of
 these locations gives the cult a distributed ritual and recruitment infrastructure in the Midwestern United States.
 
-Third, Deep is a political and emotional claim. Members are taught that ordinary institutions, cities, laws, and
-memories are merely surface arrangements that will be washed away. This belief makes the group capable of treating
-civilian harm as purification, evacuation as betrayal, and containment as a crime against a being they regard as the
-source of all rightful order.
+Third, Deep is a political and emotional claim. Members are taught that ordinary institutions,
+cities, laws, and memories are merely surface arrangements that will be washed away. This belief
+makes the group capable of treating civilian harm as purification, evacuation as betrayal, and
+containment as a crime against a being they regard as the source of all rightful order.
 
 Public Masks and Local Presence
--------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 CoTD does not operate under one public name. Local cells may appear as informal
 prayer groups, water-rights
@@ -150,10 +150,10 @@ the investigation, harm civilians, and create the alienation on which the cult r
 ==============================================================================
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-----------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 The Sounding Council
---------------------
+═══════════════════════════════════════════════════════════════════════
 
 Known leadership is recorded under the name the Sounding Council. Intercepted material describes the council as the
 body that interprets signs from the sleeping anomaly, determines which local gatherings may become full congregations,
@@ -173,7 +173,7 @@ include identifying the mechanisms by which authority moves between cells rather
 leader at the expense of a live awakening threat.
 
 Congregation Layers
--------------------
+═══════════════════════════════════════════════════════════════════════
 
 CoTD is assessed as a large group of [REDACTED] people with uneven commitment and
 knowledge. Not every person attached
@@ -232,10 +232,10 @@ whose actions may turn cult belief into a measurable operational effect.
 ==============================================================================
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
--------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 The Returning Tide Doctrine
----------------------------
+═══════════════════════════════════════════════════════════════════════
 
 CoTD theology centers on the claim that humanity is living above its rightful condition. In the cult's language, the
 surface world has forgotten the first water and built a false order of roads,
@@ -256,7 +256,7 @@ ordinary life acceptable to members because they are taught that loss is a passa
 toward belonging.
 
 Practitioner Capability
------------------------
+═══════════════════════════════════════════════════════════════════════
 
 CoTD is classified PRACTITIONER because its members perform organized rites intended to influence, locate, interpret,
 or weaken the sleep condition of the target anomaly. The classification does not mean
@@ -269,13 +269,13 @@ pressure rituals, controlled deprivation, restricted language protocols, and the
 systems with sealed deep-sea data. Exact sequences are withheld. Reproduction for research, public evidence, or
 interrogation leverage is prohibited without target-anomaly authorization.
 
-The most serious risk arises when spiritual practice is combined with material preparation. A vigil is not
-automatically an awakening attempt. A vigil conducted alongside stolen marine data, modified acoustic equipment,
-coordinated travel, restricted target coordinates, or a sudden change in deep-sea indicators must be treated as a live
-escalation condition.
+The most serious risk arises when spiritual practice is combined with material preparation.
+A vigil is not automatically an awakening attempt. A vigil conducted alongside stolen marine
+data, modified acoustic equipment, coordinated travel, restricted target coordinates, or a
+sudden change in deep-sea indicators must be treated as a live escalation condition.
 
 Awakening Preparation
----------------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T does not treat CoTD as a threat only because it believes in a
 dangerous being. The group is a Threat Level 5
@@ -299,7 +299,7 @@ A convergence of recruitment, equipment movement, target-specific data,
 and synchronized practice requires immediate multi-division response.
 
 Why the Target Cannot Be Allowed to Wake
-----------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 The cross-referenced [REDACTED] anomaly is sleeping in the deep sea and is assessed as
 apocalyptic if awakened. The
@@ -318,10 +318,10 @@ wake-state, containment must be maintained even when the people attempting to br
 ==============================================================================
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
---------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Primary Active Region
----------------------
+═══════════════════════════════════════════════════════════════════════
 
 CoTD's primary active region is the Midwestern United States. This designation refers to the group, not the physical
 location of the sleeping anomaly. The cult's core membership, recruitment activity, ritual preparation, material
@@ -336,7 +336,7 @@ make inland locations operationally
 relevant to a deep-sea objective.
 
 Why the Midwest Supports the Cult
----------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 The Midwestern operating environment offers CoTD several practical advantages:
 
@@ -361,7 +361,7 @@ that needs a large, quiet, inland support body while preparing an act directed a
 the deep sea.
 
 Inland Mouth Sites
-------------------
+═══════════════════════════════════════════════════════════════════════
 
 An inland mouth is any location selected by CoTD as a local point of
 ritual continuity with the Deep. A site is not
@@ -387,16 +387,16 @@ from an inland base.
 
 An inland mouth may be a ritual site, a storage point, a contact location,
 a decoy, or simply a place where one cell
-convinces itself that it has touched the target. Site classification must distinguish actual operational value from
-the cult's symbolic geography.
+convinces itself that it has touched the target. Site classification must
+distinguish actual operational value from the cult's symbolic geography.
 
 ==============================================================================
 
 Known Assets
-------------
+═══════════════════════════════════════════════════════════════════════
 
-CoTD's primary assets are human, narrative, and logistical rather than openly military. Current assessment identifies
-the following capabilities:
+CoTD's primary assets are human, narrative, and logistical rather than
+openly military. Current assessment identifies the following capabilities:
 
 - a large regional recruitment base with varied levels of knowledge and commitment;
 - local meeting spaces that can be abandoned or reclassified quickly;
@@ -422,7 +422,7 @@ contact, stolen data source, or intended
 acquisition effort.
 
 Known Holdings
---------------
+═══════════════════════════════════════════════════════════════════════
 
 No single CoTD headquarters has been confirmed. The cult prefers a distributed arrangement of temporary meeting rooms,
 rented homes, flood-adjacent retreats, storage areas, repair workshops, travel staging points, and selected inland
@@ -451,7 +451,7 @@ storage room, private database,
 repair garage, or water-infrastructure access point far from a public gathering.
 
 Secrecy Risk: Leaking
----------------------
+═══════════════════════════════════════════════════════════════════════
 
 CoTD is classified LEAKING. Its members do not consistently seek broad public disclosure of anomalies, but the cult's
 growth requires partial revelation. Recruits are shown enough unusual material to accept the Deep as real, while the
@@ -467,23 +467,23 @@ it wants.
 Civil Covert measures must therefore focus on separating verifiable local safety concerns from cult doctrine. Where an
 ordinary water hazard exists, it should be addressed as an ordinary hazard. Where a
 cult action has produced an
-anomalous signal, the response must contain the signal without making silence itself look like evidence of sacred
-conspiracy.
+anomalous signal, the response must contain the signal without
+making silence itself look like evidence of sacred conspiracy.
 
 ==============================================================================
 ==============================================================================
 
 HISTORY WITH A.C.T
-------------------
+═══════════════════════════════════════════════════════════════════════
 
 Record Formation
-----------------
+═══════════════════════════════════════════════════════════════════════
 
-The current CoTD file was opened after separate Midwestern incidents were found to share a pattern of water-focused
-devotional language, concealed acquisition of deep-water material, recurring references to a Second Shore, and
-attempts to relate inland locations to restricted maritime information. No single public event created the
-designation. The group became visible as an organization when these elements showed a coordinated rather than
-coincidental relationship.
+The current CoTD file was opened after separate Midwestern incidents were found to share a
+pattern of water-focused devotional language, concealed acquisition of deep-water material,
+recurring references to a Second Shore, and attempts to relate inland locations to restricted
+maritime information. No single public event created the designation. The group became visible as
+an organization when these elements showed a coordinated rather than coincidental relationship.
 
 Early reports were treated cautiously. Flood folklore, local grieving practices, private religious gatherings,
 and ordinary water-infrastructure concerns are not evidence of an anomalous cult. The file was elevated only when
@@ -491,26 +491,26 @@ Intelligence Division established that members were using a common doctrinal voc
 target-related material, and pursuing actions consistent with sleep-state interference.
 
 Present Relationship
---------------------
+═══════════════════════════════════════════════════════════════════════
 
 CoTD has no negotiated relationship with A.C.T. The Facility's posture is hostile because the group's central aim is
 incompatible with containment. The cult does not seek safer observation, limited access, or a dispute over ethics. It
 seeks a change in the condition that keeps an apocalyptic anomaly asleep.
 
-The relationship is nevertheless not reducible to open force. Many people around the group may be frightened, coerced,
-misinformed, bereaved, or bound by family and community pressure. A response that treats every contact as equally
-culpable will produce martyrs, destroy intelligence paths, and leave the Sounding Council's deeper structure
-untouched. A.C.T must dismantle the awakening system while giving uninformed and recoverable people a path away from
-it.
+The relationship is nevertheless not reducible to open force. Many people around the group may be
+frightened, coerced, misinformed, bereaved, or bound by family and community pressure. A response
+that treats every contact as equally culpable will produce martyrs, destroy intelligence paths,
+and leave the Sounding Council's deeper structure untouched. A.C.T must dismantle the awakening
+system while giving uninformed and recoverable people a path away from it.
 
 ==============================================================================
 ==============================================================================
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
----------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Responsible Jurisdiction
-------------------------
+═══════════════════════════════════════════════════════════════════════
 
 No new A.C.T SITE is assigned solely to the Midwestern United States. CoTD therefore
 requires an incident-led,
@@ -534,7 +534,7 @@ Other Sites are assigned as needed by material type, environmental condition, an
 the actual operational problem, not the cult's preferred sacred map.
 
 Posture Implementation
-----------------------
+═══════════════════════════════════════════════════════════════════════
 
 Infiltrate
 ............
@@ -575,7 +575,7 @@ CoTD survives by portraying reasonable scrutiny as persecution. Every action mus
 and designed to reduce the cult's actual capacity to awaken the target.
 
 Escalation Conditions
----------------------
+═══════════════════════════════════════════════════════════════════════
 
 Immediate Level 5 escalation is required when any of the following conditions are confirmed:
 
@@ -596,7 +596,7 @@ At Level 5, preservation of the target sleep-state overrides evidence collection
 advantage, and long-term infiltration value.
 
 Response Limits and Red Lines
------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T personnel may not bargain with CoTD by offering access to the target anomaly,
 a controlled awakening
@@ -615,15 +615,15 @@ people from recruitment and exposure, and preserve the sleep-state that prevents
 ==============================================================================
 
 OPERATIONAL RECORDS
--------------------
+═══════════════════════════════════════════════════════════════════════
 
 Inland Mouth Review - Restricted Extract
-----------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
-A regional review identified a cluster of locations that had been independently described as mouths in separate CoTD
-materials. The materials did not share ordinary address formatting. Instead, they ranked sites by depth language,
-remembered flood events, and fragments of maritime terminology. The overlap was significant because the authors had no
-visible public connection.
+A regional review identified a cluster of locations that had been independently described as
+mouths in separate CoTD materials. The materials did not share ordinary address formatting.
+Instead, they ranked sites by depth language, remembered flood events, and fragments of maritime
+terminology. The overlap was significant because the authors had no visible public connection.
 
 Intelligence Division determined that the list served two purposes. It identified local gathering sites, and it
 trained members to perceive an inland geography as part of one submerged ritual system.
@@ -637,12 +637,12 @@ infrastructure risk criteria. A site cannot be dismissed as symbolic until its m
 links, and target-related communications have been examined.
 
 Sounding Material Interdiction - Restricted Extract
----------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
-Recovery personnel intercepted a transfer of sound-capable equipment, handwritten timing sheets, and copied devotional
-text moving through a non-cult commercial cover. The equipment did not by itself establish an awakening attempt. The
-combination of material, timing language, and a separate request for deep-water data created a credible escalation
-path.
+Recovery personnel intercepted a transfer of sound-capable equipment, handwritten timing
+sheets, and copied devotional text moving through a non-cult commercial cover. The equipment
+did not by itself establish an awakening attempt. The combination of material, timing
+language, and a separate request for deep-water data created a credible escalation path.
 
 Containment review found that the copied material included repeated omissions rather than a complete procedure. This
 may indicate that CoTD deliberately separates ritual knowledge across members, or that the documents are designed to
@@ -655,7 +655,7 @@ service relationships to keep preparation equipment moving while most
 participants believe they are supporting harmless local activity.
 
 Departure Support Assessment - Restricted Extract
--------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Interviews with individuals separated from peripheral CoTD activity indicate that a safe departure path can interrupt
 recruitment more effectively than immediate public confrontation. Some members were drawn in through grief, isolation,
@@ -673,10 +673,10 @@ protect a person while preserving the integrity of the wider operation.
 ==============================================================================
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
--------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Confirmed Operational Facts
----------------------------
+═══════════════════════════════════════════════════════════════════════
 
 - CoTD is a cultic organization worshipping a [REDACTED] anomaly sleeping in the deep
 sea.
@@ -691,7 +691,7 @@ to hold the same knowledge, responsibility, or
 capability.
 
 Active Intelligence Assessment
-------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 The main operational danger is not a single ritual gathering. It is convergence. CoTD
 can survive the loss of a
@@ -706,7 +706,7 @@ the links between recruitment, local access, technical
 procurement, maritime information, and the Sounding Council can.
 
 Persistent Questions
---------------------
+═══════════════════════════════════════════════════════════════════════
 
 - Does the Sounding Council receive genuine target-related information, or does it manufacture signs
 to preserve
@@ -726,7 +726,7 @@ targets of council-linked enforcement or
 self-harm pressure?
 
 Intelligence Confidence
------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Moderate. The cult's central objective, primary operating region, and active awakening intent are confirmed.
 Leadership continuity, total membership, full technical capability, exact ritual efficacy, and the complete route from
@@ -738,10 +738,10 @@ correlation with target indicators, and verified departure interviews.
 ==============================================================================
 
 CROSS-REFERENCE STATUS
-----------------------
+═══════════════════════════════════════════════════════════════════════
 
 Anomaly and Record Relationship
--------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 The [REDACTED] deep-sea sleeper is maintained in a separate sealed anomaly file. This GOI record documents the human
 organization attempting to alter its condition. It must not be used as a substitute
@@ -756,7 +756,7 @@ separate AFD record linked to
 this dossier.
 
 Related A.C.T Records
----------------------
+═══════════════════════════════════════════════════════════════════════
 
 - GOI Registry and External Threat Doctrine Archive - classification and posture authority;
 - Site Map and Jurisdiction Doctrine - incident-led cross-site assignment;
@@ -771,7 +771,7 @@ may itself be containment.
 ==============================================================================
 
 FILE METADATA
--------------
+═══════════════════════════════════════════════════════════════════════
 
 FILE CREATED:            26/10/1900
 FILE LAST UPDATED:       10/02/1911

@@ -87,10 +87,10 @@ preventing that world from expanding into the rest of the reserve.
 
 PHYSICAL OR SYSTEM DESCRIPTION
 
-An IBHCS installation includes climate-controlled chamber rows, habitat modules, specialized environment chambers,
-intake and assessment bays, monitoring galleries, controlled service corridors, atmospheric separation doors,
-substrate trays, water and humidity systems, biological waste controls, and transfer locks to F-1, F-3, or enclosure
-dispatch.
+An IBHCS installation includes climate-controlled chamber rows, habitat modules, specialized
+environment chambers, intake and assessment bays, monitoring galleries, controlled service
+corridors, atmospheric separation doors, substrate trays, water and humidity systems,
+biological waste controls, and transfer locks to F-1, F-3, or enclosure dispatch.
 
 Known components include:
 

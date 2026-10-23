@@ -9,7 +9,7 @@ Archive Note
 This file is the complete internal archive version of the Facility's origin history, the first descent, the discovery
 of ITHYOS, and the construction logic of the ABYSS foundation.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Introduction
 If Part One defines the A.C.T Facility, Part Two explains its structure, Part Three
@@ -29,14 +29,14 @@ At the center of that realization stood the first true anomaly humanity could ne
 capture:
 ITHYOS, the World-Sleeper.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5.1 — Before A.C.T
 The earliest human records of anomalous existence are believed to date back to the
 early 15xx, though older references
-almost certainly exist in even earlier fragments of history, oral traditions, temple records, and half-preserved myth
-cycles. Long before the modern age of classification, human beings had already witnessed things that did not belong to
-natural law.
+almost certainly exist in even earlier fragments of history, oral traditions, temple
+records, and half-preserved myth cycles. Long before the modern age of classification,
+human beings had already witnessed things that did not belong to natural law.
 
 A.C.T dating note: years written as 15xx and 16xx are deliberately approximate. The earliest chronicles predate
 reliable Facility record-keeping and carry no exact dates of their own, and the Facility does not assign precise years
@@ -66,17 +66,17 @@ or divine mystery.
 
 But not all humans were willing to ignore it.
 
-Small circles of scholars, explorers, occult chroniclers, proto-scientists, and forbidden historians began preserving
-accounts of these impossible things. Some attempted to locate them. Some tried to capture them. Some tried to
-understand them. Among the earliest known of these bodies was a primitive pre-Facility organization later remembered
-as:
+Small circles of scholars, explorers, occult chroniclers, proto-scientists, and forbidden
+historians began preserving accounts of these impossible things. Some attempted to locate
+them. Some tried to capture them. Some tried to understand them. Among the earliest known
+of these bodies was a primitive pre-Facility organization later remembered as:
 
 Entity Research Exploration / ERE
 
 ERE would become the earliest known ancestor to what would later transform into the
 A.C.T Facility.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5.2 — The First Signs
 The hidden world did not reveal itself to humanity all at once. It emerged
@@ -109,7 +109,7 @@ The impossible was not imaginary.
 
 It was present.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5.3 — First Deployment
 Like many early researchers and entity historians of the time, the future founders of
@@ -119,8 +119,8 @@ hidden world could be approached, studied, and eventually controlled in manageab
 One of the earliest and most important of these founder-groups consisted of individuals who had themselves been struck
 by an anomalous event sometime after the 16xx, causing them to cease aging normally.
 Believing this to be a limited
-Entity event—dangerous, but containable—they pursued it in hopes of discovering a way to understand or remove their
-own anomalous immortality.
+Entity event—dangerous, but containable—they pursued it in hopes of
+discovering a way to understand or remove their own anomalous immortality.
 
 Instead, they found something far beyond what any human mind of the age could
 properly grasp.
@@ -148,12 +148,12 @@ solved.
 
 It could only be observed, monitored, and left asleep.
 
-This discovery became the first moment in human history where the founders truly understood that the world did not
-merely contain Entities.
+This discovery became the first moment in human history where the
+founders truly understood that the world did not merely contain Entities.
 
 It contained Anomalies.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5.4 — ENTITY-000
 ITHYOS became the first preserved vault record because it was the first thing ever
@@ -194,7 +194,7 @@ slumber to cause catastrophic damage to the world.
 Its sleep was containment.
 Its movement was disaster.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5.5 — Founding of A.C.T
 The A.C.T Facility was founded by the original founders—those who would, in the future,
@@ -235,7 +235,7 @@ From that realization, the first true Facility doctrine was born, and A.C.T bega
 emerge as more than a research
 circle. It became a hidden institution.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5.6 — Construction of the ABYSS Floor
 At first, the ABYSS Floor was nothing more than a small underground monitoring room
@@ -275,7 +275,7 @@ matured, its abyss-born doctrine extended into a broader network of SITES and SU
 allowing containment, recovery, archive preservation, and secrecy operations to be distributed without severing them
 from the ABYSS foundation below the main Facility.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5.7 — The First Doctrine
 Before all later manuals, classifications, threat levels, and transformation protocols, there was a smaller and
@@ -297,7 +297,7 @@ became more scientific, bureaucratic, and systematized, these first ideas remain
 The world survives because some truths remain buried.
 The world remains stable because some things are never allowed to wake.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5.8 — Transition into Modern A.C.T
 As the Facility expanded, the founders—now consolidating into what would become the O5 Council—understood that
@@ -324,7 +324,7 @@ Not because it was born powerful,
 but because it was born first at the edge of the worst possible discovery—and
 survived.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Closing Summary
 Part Five establishes the true origin of the A.C.T Facility. Before the modern world
@@ -340,7 +340,7 @@ The first doctrine was mercy through dormancy.
 And the Facility that grew above it became A.C.T.
 
 Series Position
----------------
+═══════════════════════════════════════════════════════════════════════
 
 This record is Part Five of the A.C.T Universe reading order, History of A.C.T, First
 Deployment, and the ABYSS Origin. Part Five of the A.C.T Universe records the origin of the

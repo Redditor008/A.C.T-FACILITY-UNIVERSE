@@ -108,9 +108,9 @@ suffer immediate mental collapse after exposure to the vision.
 
 ### 5. The Scribbling Phase
 
-Following exposure, subjects often enter a compulsive writing state. During this phase, they repeatedly transcribe
-unknown words, symbols, or script from an unidentified language that does not correspond to any recognized human
-linguistic system.
+Following exposure, subjects often enter a compulsive writing state. During this phase,
+they repeatedly transcribe unknown words, symbols, or script from an unidentified
+language that does not correspond to any recognized human linguistic system.
 
 The subject continues this scribbling behavior until physical death or total restraint.
 

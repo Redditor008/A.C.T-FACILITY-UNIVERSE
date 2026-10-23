@@ -11,7 +11,7 @@ Dossier Number: FLOOR-DOSSIER-02-RU-N-F-1
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard / ACT Floor Record Standard
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Note
 
@@ -31,7 +31,7 @@ what it holds, how it is built, how it is guarded, and why the
 station's
 name is the floor's name.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 1. Floor Registry Identity Summary
 
@@ -53,7 +53,7 @@ Current Status: Active
 Doctrine Note: Subject to the station's "F-1 closure" doctrine — closing
 F-1 to the outside seals the level completely
 
----
+═══════════════════════════════════════════════════════════════════════
 
 2. Dossier Purpose
 
@@ -70,7 +70,7 @@ engineered stillness designed to last as long as the resident requires,
 without schedule, without interruption, and without presumption that the
 sleep will end.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 3. Position in the Site Stack
 
@@ -95,7 +95,7 @@ monitored, and gated, and the arctic environment above the station is itself
 a containment asset — the cold, the isolation, and the seasonal transport
 schedule all serve the same purpose.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 4. Historical Foundation
 
@@ -121,7 +121,7 @@ In its modern configuration, F-1 is the station's deepest commitment: the
 vault where the residents that define the station's purpose are held under
 maximum reinforcement, in a sleep designed to last.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5. Command and Authority
 
@@ -146,7 +146,7 @@ limits of their restriction sets, or to shorten their sleep. The floor's
 role is to maintain the Long Sleep for as long as doctrine requires —
 without presumption that it will end.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 6. Divisional Presence
 
@@ -182,7 +182,7 @@ The floor maintains minimal archive liaison for the documentation of
 resident condition and regimen execution, under the station's deep-hold
 records standard.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 7. Physical Plant and Architecture
 
@@ -220,7 +220,7 @@ The floor's plan comprises:
   around the vault gallery without crossing it;
 — the floor command post and archive alcove.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 8. Systems and Infrastructure
 
@@ -252,7 +252,7 @@ The floor maintains hardened communication with the station's command
 levels. Communications discipline on F-1 follows each resident's restriction
 set.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 9. Security and Containment Architecture
 
@@ -291,7 +291,7 @@ likewise monitored, as the station treats the permafrost beneath F-1 as
 both a containment layer and a potential approach path that must be
 watched.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 10. Resident Holdings and Filing Doctrine
 
@@ -340,7 +340,7 @@ Other unstable and sensitive residents are held on F-1 under individual
 restriction sets preserved in the Annex Register. Personnel without specific
 assignment to those files do not require their names.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 11. Personnel and Duty Life
 
@@ -368,7 +368,7 @@ being held in a sleep that may never end — and the station treats
 that
 weight as an operational matter.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 12. Floor Doctrine
 
@@ -392,7 +392,7 @@ is
 designed to be sealed and to function sealed, and the station drills the
 procedure so that closure, when it comes, is executed without hesitation.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 13. Incident Archive
 
@@ -402,7 +402,7 @@ shaped the Long Sleep doctrine are preserved in the station's history files.
 No resident of F-1 has breached the floor's containment perimeter since the
 closure doctrine was instituted.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 14. Current Status and Projected Development
 
@@ -413,7 +413,7 @@ priorities include:
 - coordination with the Research Division on the restriction sets governing
   study of the floor's residents.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 15. Cross-Referenced Files
 
@@ -424,7 +424,7 @@ priorities include:
 - White Grave Annex Register (clearance-gated)
 - AFD-OB-412 resident file and log dossiers (clearance-gated)
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Closing
 

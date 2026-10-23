@@ -33,10 +33,10 @@ culture, daily labor structure, and hidden institutional life.
 ## Introduction
 If Part Two defined the internal structure of A.C.T at the level of hierarchy
 and doctrine, then Part Six defines the
-Facility at the level of **function, labor, discipline, and lived operation**. A.C.T is not sustained by doctrine
-alone. It is sustained by thousands of daily actions carried out by researchers, guards, field operators, archivists,
-janitors, administrators, medics, containment engineers, and personnel whose work is rarely heroic, often secret, and
-constantly dangerous.
+Facility at the level of **function, labor, discipline, and lived operation**. A.C.T is not
+sustained by doctrine alone. It is sustained by thousands of daily actions carried out by
+researchers, guards, field operators, archivists, janitors, administrators, medics, containment
+engineers, and personnel whose work is rarely heroic, often secret, and constantly dangerous.
 
 To understand A.C.T fully, one must understand not only its command structure, but the
 routines, burdens, duties, and
@@ -47,8 +47,8 @@ human systems that allow it to keep the impossible buried.
 ## 6.1 — The Facility as a Living System
 The A.C.T Facility is not merely a headquarters, a laboratory, or a prison. It
 is a **living operational system**
-built around the permanent management of anomalies. Every division, floor, and role exists to support one or more of
-the following functions:
+built around the permanent management of anomalies. Every division,
+floor, and role exists to support one or more of the following functions:
 
 - detect the anomalous
 - secure the anomalous
@@ -90,8 +90,8 @@ Responsible for:
 - first-line breach response
 - lockdown implementation
 
-Security personnel are not normal guards. They are trained for environments where the threat may be physical, memetic,
-temporal, or informational.
+Security personnel are not normal guards. They are trained for environments
+where the threat may be physical, memetic, temporal, or informational.
 
 #### Recovery Division
 Responsible for:
@@ -125,8 +125,8 @@ Responsible for:
 - anti-GOI armed intervention
 - existential emergency deployment
 
-The Military Division is not used casually. Its activation usually means containment logic has entered failure
-pressure.
+The Military Division is not used casually. Its activation
+usually means containment logic has entered failure pressure.
 
 ---
 
@@ -279,8 +279,8 @@ Part Two defined the rank order. Part Six explains how those roles feel in
 operation.
 
 ### O5 Council
-Rarely seen, deeply insulated, and almost mythic to lower personnel. Most staff know the O5 more as an authority
-pattern than as individuals.
+Rarely seen, deeply insulated, and almost mythic to lower personnel.
+Most staff know the O5 more as an authority pattern than as individuals.
 
 ### Facility Administrator
 The practical sovereign of a site. Responsible for balancing doctrine, discipline, output, secrecy, and survival.
@@ -290,8 +290,8 @@ The authority that appears when an anomaly, program, or transformation decision 
 territory. Within that narrow mandate they outrank ordinary site governance and answer directly to the O5.
 
 ### Site Director
-The operational ruler of a specific branch or site zone. Where the Administrator governs broadly, the Site Director
-governs directly.
+The operational ruler of a specific branch or site zone. Where the
+Administrator governs broadly, the Site Director governs directly.
 
 ### Head Transformation
 The senior voice of the Transformation Division. Approves or rejects transformation proposals beyond site-level

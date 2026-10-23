@@ -69,22 +69,22 @@ item, and both parties believe the exchange will remain more profitable than its
 
 ### The Leadership Identity: Anstrall
 
-Known leadership is limited to a mysterious individual referred to as **Anstrall**. No verified public identity, legal
-name, nationality, residence, organizational biography, or confirmed physical profile is retained as settled fact in
-this file.
+Known leadership is limited to a mysterious individual referred to as **Anstrall**.
+No verified public identity, legal name, nationality, residence, organizational
+biography, or confirmed physical profile is retained as settled fact in this file.
 
 The title may belong to one person, a deliberately protected identity, a succession mechanism, or a role that is
 presented as singular for commercial effect. Intelligence Division does not treat any one explanation as confirmed
 merely because a broker repeats it. The Market benefits from the belief that Anstrall
 is both reachable and
-unknowable. That belief gives transactions a center while shielding the actual command condition from buyers, sellers,
-and competitors.
+unknowable. That belief gives transactions a center while shielding
+the actual command condition from buyers, sellers, and competitors.
 
-No assumption is authorized regarding Anstrall's anomalous status. The person may be ordinary, anomalously altered,
-protected by anomalous resources, or represented by one or more intermediaries. Until evidence establishes that the
-leadership identity itself is anomalous, the Market remains filed as an organizational GOI only. If such evidence is
-confirmed, the dual-filing rule applies and an AFD record must be created without replacing this organizational
-archive.
+No assumption is authorized regarding Anstrall's anomalous status. The person may be ordinary,
+anomalously altered, protected by anomalous resources, or represented by one or more
+intermediaries. Until evidence establishes that the leadership identity itself is anomalous, the
+Market remains filed as an organizational GOI only. If such evidence is confirmed, the dual-filing
+rule applies and an AFD record must be created without replacing this organizational archive.
 
 ### Business Alignment and the Meaning of Trade
 
@@ -163,8 +163,8 @@ technical assistance, political cover, another object, or a promise that cannot 
 
 The Market does not need to approve of a buyer's purpose if the transaction
 is profitable and survivable. This
-indifference is a central threat condition. A dangerous object does not become safer because its sale is treated as
-business rather than ideology.
+indifference is a central threat condition. A dangerous object does not
+become safer because its sale is treated as business rather than ideology.
 
 #### 4.5 Transit and Storage Intermediaries
 
@@ -185,8 +185,8 @@ mundane participants can be used without receiving enough knowledge to identify 
 
 ### The Transaction Cycle
 
-While no single Market transaction can be assumed to follow a fixed sequence, Intelligence Division recognizes a
-recurring cycle:
+While no single Market transaction can be assumed to follow a fixed
+sequence, Intelligence Division recognizes a recurring cycle:
 
 **Introduction:** a seller, finder, or intermediary signals that an anomalous object may be available. **Claim
 Control:** a broker narrows the description, withholds verification detail, and manages the risk that the object is
@@ -281,8 +281,7 @@ visible headquarters is consistent with a market designed to survive seizures an
 When a holding is identified, the response must distinguish between three questions:
 
 1. Is an anomalous object present and in immediate need of recovery?
-   Does the location contain route, client, or leadership intelligence more valuable than a rapid
-   visible closure?
+   Does the location contain route, client, or leadership intelligence more valuable than a rapid visible closure?
    Can the location be monitored without allowing the object to enter a civilian
    or
    hostile transfer chain?
@@ -328,10 +327,10 @@ raid order.
 
 The relationship changes from case to case. A live object in civilian transit requires
 recovery. A dormant broker
-route may require observation. A false catalogue may require information containment. A buyer network connected to
-hostile operations may require wider interdiction. The common rule is that Market intelligence is valuable only while
-it reduces future uncontrolled possession; once it begins protecting commerce instead, it has ceased to serve A.C.T
-doctrine.
+route may require observation. A false catalogue may require information containment. A buyer
+network connected to hostile operations may require wider interdiction. The common rule is
+that Market intelligence is valuable only while it reduces future uncontrolled possession;
+once it begins protecting commerce instead, it has ceased to serve A.C.T doctrine.
 ---
 
 ## A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
@@ -340,10 +339,10 @@ doctrine.
 
 A.C.T posture toward the Anstrall Market is **MONITOR / APPROPRIATE**. The two terms are linked.
 
-**Monitor** means building an accurate picture of the Market's routes, brokers, handlers, buyer demand, leadership
-indicators, and imminent exchanges without treating every contact as an immediate raid. Blind disruption can drive
-objects further underground, destroy evidence of a larger client network, or push sellers toward more destructive
-actors.
+**Monitor** means building an accurate picture of the Market's routes, brokers, handlers,
+buyer demand, leadership indicators, and imminent exchanges without treating every contact
+as an immediate raid. Blind disruption can drive objects further underground, destroy
+evidence of a larger client network, or push sellers toward more destructive actors.
 
 **Appropriate** means lawfully and operationally taking possession of anomalous objects, trade intelligence, route
 information, transaction materials, and useful commercial assets when doing so protects containment or reduces future
@@ -366,16 +365,16 @@ the Market record, route comparison, and controlled interdiction planning.
 - Site 01 leads market-contact mapping, artifact recovery planning, and urban exchange disruption.
 - Site 02 receives remote, cold-zone, or isolated-route material requiring severe-environment recovery and containment
   support.
-  Site 03 manages digital traces, broker communications, dangerous visual proof, document propagation, and archive
-  isolation.
+  Site 03 manages digital traces, broker communications, dangerous
+  visual proof, document propagation, and archive isolation.
 - Site 04 receives biological or ecological items requiring bio-reserve handling and environmental containment.
-  Site 05 coordinates maritime, coastal, seismic, and deep-transit routes where an exchange or shipment
-  creates regional
+  Site 05 coordinates maritime, coastal, seismic, and deep-transit
+  routes where an exchange or shipment creates regional
   hazard.
 
-Central Archive maintains the designation record. Intelligence Division determines whether an observed commercial
-contact is a genuine Market link, an unrelated criminal operation, a hostile deception, or an A.C.T-controlled
-approach.
+Central Archive maintains the designation record. Intelligence Division determines
+whether an observed commercial contact is a genuine Market link, an unrelated
+criminal operation, a hostile deception, or an A.C.T-controlled approach.
 
 ### Controlled Contact Rules
 
@@ -392,8 +391,7 @@ Any approved controlled contact with the Market must comply with the following r
   observation
   unless exposure is operationally
   necessary;
-  no representation may imply that A.C.T recognizes the Market as a legitimate authority over
-  anomalous property;
+  no representation may imply that A.C.T recognizes the Market as a legitimate authority over anomalous property;
   all contact-derived materials must enter restricted archive review before being used by another division.
 
 A controlled contact may be terminated immediately if it creates a credible risk of
@@ -447,9 +445,9 @@ exaggerated, or deliberately obscured. Archive review found that several entries
 acquisition prompts even without naming their sellers. The catalogue was therefore assigned to exposure handling
 rather than circulated as a conventional intelligence list.
 
-Market documentation is not harmless because it is commercial. A price, a false provenance, or a partial claim can be
-enough to make an object desirable to an unqualified buyer. Containment of market information is part of containment
-of market objects.
+Market documentation is not harmless because it is commercial. A price, a false
+provenance, or a partial claim can be enough to make an object desirable to an unqualified
+buyer. Containment of market information is part of containment of market objects.
 ---
 
 ## INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
@@ -458,9 +456,9 @@ of market objects.
 
 The Market's Threat Level 3 reflects high ongoing harm potential rather than an openly
 declared intention to destroy
-the Facility or the world. It destabilizes containment by moving objects toward unqualified possession, attracts
-actors who seek anomalous leverage, produces secrecy breaches, and normalizes the idea that impossible things can be
-privately bought.
+the Facility or the world. It destabilizes containment by moving objects toward
+unqualified possession, attracts actors who seek anomalous leverage, produces secrecy
+breaches, and normalizes the idea that impossible things can be privately bought.
 
 The Market may be more manageable than a direct militant enemy in a specific
 operation. It may also be more difficult
@@ -487,10 +485,9 @@ material as a government asset.
 
 ### Persistent Intelligence Questions
 
-  Is Anstrall a singular person, a protected succession identity, or a commercial fiction maintained
-  by multiple actors?
-  Which Market procedures are deliberate leadership policy and which are informal practices copied by
-  independent
+  Is Anstrall a singular person, a protected succession identity,
+  or a commercial fiction maintained by multiple actors?
+  Which Market procedures are deliberate leadership policy and which are informal practices copied by independent
   brokers?
 — What objects have been sold without any surviving A.C.T recovery lead?
 — Which buyers understand enough to become repeat clients rather than isolated purchasers?
@@ -514,9 +511,9 @@ protected asset may purchase, exchange for, or privately retain an anomalous obj
 an approved controlled operation. Personnel who believe a Market-held item may be useful must report it for formal
 intelligence and containment review.
 
-The Facility's ability to appropriate an object from a trade structure is not permission to become part of that
-structure. A.C.T exists to keep anomalous conditions from being reduced to private commodities, even when the
-commodity appears useful.
+The Facility's ability to appropriate an object from a trade structure is not
+permission to become part of that structure. A.C.T exists to keep anomalous conditions
+from being reduced to private commodities, even when the commodity appears useful.
 
 ---
 ---
@@ -539,8 +536,8 @@ trade-structure analysis.
 
 ### Related A.C.T Records
 
-  GOI Registry and External Threat Doctrine Archive — classification, trade alignment, and Monitor /
-  Appropriate posture
+  GOI Registry and External Threat Doctrine Archive —
+  classification, trade alignment, and Monitor / Appropriate posture
   authority;
 — ACT-SITE-01-US-W / Redwood Veil Complex — primary trade-interdiction jurisdiction;
 — Site Map and Jurisdiction Doctrine — transfer routing for regional recovery;

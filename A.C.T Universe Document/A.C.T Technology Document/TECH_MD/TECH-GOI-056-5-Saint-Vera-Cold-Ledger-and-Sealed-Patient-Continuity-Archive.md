@@ -73,16 +73,16 @@ failure labels, and the Concern's own asset list.
 **Cold ledgers.** Listed as recording patients declared dead elsewhere. The word cold is the Concern's own and is not
 explained in any recovered document.
 
-**Sealed failure archive.** Marked `DO NOT CALL THIS MERCY`. It holds refusal labels, including the three reasons
-preserved under `TECH-GOI-056-3`. Its existence proves the Concern records its own refusals rather than discarding
-them.
+**Sealed failure archive.** Marked `DO NOT CALL THIS MERCY`. It holds refusal
+labels, including the three reasons preserved under `TECH-GOI-056-3`. Its
+existence proves the Concern records its own refusals rather than discarding them.
 
 **Sealed restoration licenses.** The credential under which named physicians practise. Whether the seal is a physical
 document, a registry entry, or something the Concern issues to itself is unresolved.
 
-**Patient cards.** The transfer instrument. Recovered cards carry patient designation, source incident, delivery
-condition, and instruction lines addressed to whoever receives the patient next. Cards are the only part of the system
-A.C.T has physically held.
+**Patient cards.** The transfer instrument. Recovered cards carry patient designation,
+source incident, delivery condition, and instruction lines addressed to whoever receives
+the patient next. Cards are the only part of the system A.C.T has physically held.
 
 **Charitable funds and rehabilitation houses.** Not records, but structurally part of the archive: houses hold
 patients unable to return home immediately, and funds pay ordinary hospitals for silence or transfer. Both create
@@ -208,9 +208,9 @@ Civil Covert Division notes that using it in any civic process would expose the
 Concern's concealment methods and,
 through them, the survivors.
 
-Excommunicated Class review intersects the ledger where a patient's relationship to duty, memory, body status, or
-public identity has become unstable. No Saint-Vera file may redefine Excommunicated Class as an exposure
-classification.
+Excommunicated Class review intersects the ledger where a patient's relationship
+to duty, memory, body status, or public identity has become unstable. No
+Saint-Vera file may redefine Excommunicated Class as an exposure classification.
 
 ## FAILURE HISTORY
 

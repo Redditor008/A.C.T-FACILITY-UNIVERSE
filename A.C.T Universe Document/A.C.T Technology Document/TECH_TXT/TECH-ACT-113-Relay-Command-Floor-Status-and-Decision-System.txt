@@ -45,9 +45,9 @@ made. It also identifies F-5 as the command communications nexus and the level f
 which the operational floors below
 are directed.
 
-RCFSD exists because Nusantara's command cannot treat maritime recovery, deep monitoring, personnel sustainment,
-laboratory restriction, seismic readiness, and holding events as separate worlds. The command floor is where those
-worlds become one decision.
+RCFSD exists because Nusantara's command cannot treat maritime recovery, deep monitoring,
+personnel sustainment, laboratory restriction, seismic readiness, and holding events as
+separate worlds. The command floor is where those worlds become one decision.
 
 Controlled label: RCFSD ONE-RELAY STATUS WATCH.
 
@@ -77,15 +77,15 @@ ORIGIN AND DEVELOPMENT
 
 The Nusantara Deep Relay became a major site because its work could not be
 reduced to one function. It watches,
-recovers, holds, studies, shelters, commands, and conceals. As the site expanded, the Site Director's floor required
-more than ordinary office space; it required a status architecture capable of presenting the relay as one operational
-body.
+recovers, holds, studies, shelters, commands, and conceals. As the site expanded,
+the Site Director's floor required more than ordinary office space; it required a
+status architecture capable of presenting the relay as one operational body.
 
 The F-5 floor dossier records that the command floor sits at the level's center
 and that the relay's decisions are
-made adjacent to operations spaces watching site status. RCFSD formalizes those spaces into a technology record
-because decision environment, status display, and authority routing are as important to command as communications
-hardware.
+made adjacent to operations spaces watching site status. RCFSD formalizes those
+spaces into a technology record because decision environment, status display,
+and authority routing are as important to command as communications hardware.
 
 PHYSICAL OR SYSTEM DESCRIPTION
 
@@ -106,8 +106,8 @@ Known components include:
 - internal logistics movement slate;
 - command decision ledger.
 
-The system exists beside the people it commands because F-5 doctrine places command among the relay's on-site
-population.
+The system exists beside the people it commands because F-5
+doctrine places command among the relay's on-site population.
 
 
 
@@ -153,8 +153,8 @@ Feed count, Mean decision latency, Handoff errors. Those 3 gaps are carried in O
 A command floor's failure mode is not indecision but fragmentation: seven divisions each reporting correctly
 and none of the reports agreeing. The reconciliation panel exists so that a decision
 is made from one
-reconciled picture, and the decision ledger records the picture that was actually used rather than the
-picture available afterwards.
+reconciled picture, and the decision ledger records the picture that
+was actually used rather than the picture available afterwards.
 
 INTERFACE AND OPERATING ENVELOPE
 
@@ -271,20 +271,20 @@ seismic preparedness ignored during non-seismic events, and command decision rec
 FAILURE HISTORY
 
 RCFSD-Status Fragment Review
-A command review found that separate division updates could remain individually accurate while failing to show a
-combined site condition. Current RCFSD doctrine requires reports to be reconciled into a whole-relay status picture
-before command turnover.
+A command review found that separate division updates could remain individually accurate
+while failing to show a combined site condition. Current RCFSD doctrine requires reports
+to be reconciled into a whole-relay status picture before command turnover.
 
 RCFSD-Handoff Clock Correction
 A duty handoff drill showed that decisions made during turnover could become unclear if
 authority changed while an
-event clock was open. Current procedure records duty officer, decision time, and authority transfer inside the command
-decision ledger.
+event clock was open. Current procedure records duty officer, decision
+time, and authority transfer inside the command decision ledger.
 
 RCFSD-Personnel Overlay Finding
-A maritime incident review found that command made an operationally correct decision without seeing that the needed
-personnel group had just left a long shift. Current status display includes personnel-readiness overlay beside
-operation and holding feeds.
+A maritime incident review found that command made an operationally correct decision
+without seeing that the needed personnel group had just left a long shift. Current
+status display includes personnel-readiness overlay beside operation and holding feeds.
 
 DIVISION USE
 

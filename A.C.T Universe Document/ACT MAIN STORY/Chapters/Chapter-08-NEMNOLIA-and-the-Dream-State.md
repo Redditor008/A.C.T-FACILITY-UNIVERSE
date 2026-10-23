@@ -12,8 +12,8 @@ Sera had expected the final bridge between ITHYOS and NEMNOLIA to be hidden in
 some sealed descent log, buried inside
 a mutilated founder journal, or trapped behind an O5 review wall dense enough to
 crush curiosity on contact. Instead
-it emerged where all successful lies eventually became vulnerable: in the place where one department had to explain to
-another why a thing worked.
+it emerged where all successful lies eventually became vulnerable: in the
+place where one department had to explain to another why a thing worked.
 
 The Medical and Transformation archives did not care about mythology. They cared about repeatability.
 
@@ -93,9 +93,9 @@ She opened the transformation logs next.
 
 Those were uglier.
 
-Transformation Division wrote like surgeons arguing with poison. Their records were concise, technical, and full of
-controlled horror. Early 004-series trials read like a catalog of memory damage inflicted in the name of refining
-mercy.
+Transformation Division wrote like surgeons arguing with poison. Their records
+were concise, technical, and full of controlled horror. Early 004-series trials
+read like a catalog of memory damage inflicted in the name of refining mercy.
 
 004-H — survivable weakness 004-G — temporary blindness 004-F — liver contraction 004-E — neurological collapse 004-D
 — heart decay 004-C — violent blood rejection 004-B — coma 004-A — identity

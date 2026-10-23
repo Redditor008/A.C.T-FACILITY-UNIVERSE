@@ -126,9 +126,8 @@ Climate drift events are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
 Island-recovered material is a third category that the relay's marine and terrestrial doctrine did not
 originally cover: neither fully aquatic nor fully terrestrial, and often dependent on a tidal
 or brackish
-cycle that a standard chamber cannot reproduce. The climate-regimen ledger therefore records the recipe and
-its source, because a regimen built from assumption stabilises the resident in the wrong environment and
-reads as success.
+cycle that a standard chamber cannot reproduce. The climate-regimen ledger therefore records the recipe and its
+source, because a regimen built from assumption stabilises the resident in the wrong environment and reads as success.
 
 ## INTERFACE AND OPERATING ENVELOPE
 
@@ -161,9 +160,8 @@ Room count, recipe accuracy, and drift events are NOT MEASURED.
 
 ### Numbered Operating Sequence
 
-The sequence builds the environment before the resident enters it. A room adjusted after occupancy produces
-a resident that has already experienced the wrong conditions, and the ledger cannot describe what it never
-recorded.
+The sequence builds the environment before the resident enters it. A room adjusted after occupancy produces a
+resident that has already experienced the wrong conditions, and the ledger cannot describe what it never recorded.
 
 1. Read the Recovery native-environment report before assignment.
 2. Write the recipe into the climate-regimen ledger.
@@ -225,10 +223,10 @@ include microbial ecology, geomagnetic pattern, tide rhythm, rainfall chemistry,
 interaction, or place-bound relationships that do not survive relocation. The system is especially vulnerable when
 personnel treat climate numbers as the whole habitat.
 
-Known failure modes include humidity drift, atmosphere imbalance, substrate contamination, brackish-water leakage,
-light-cycle error, resident stress behavior, concealed growth, microbial spread, Medical access conflict, sample
-pass-through contamination, overcorrection after a climate alarm, and the discovery that the material was place-bound
-rather than climate-bound.
+Known failure modes include humidity drift, atmosphere imbalance, substrate contamination,
+brackish-water leakage, light-cycle error, resident stress behavior, concealed growth, microbial
+spread, Medical access conflict, sample pass-through contamination, overcorrection after a
+climate alarm, and the discovery that the material was place-bound rather than climate-bound.
 
 ---
 
@@ -253,13 +251,13 @@ for place-bound behavior before long-term CCIHUS assignment.
 
 ## DIVISION USE
 
-Containment operates the units and maintains climate regimens. Recovery provides native-environment data required for
-assignment. Research studies residents through observation and controlled sample transfer. Medical supports biological
-care when climate and clinical access conflict. Security controls unit entry and movement through the holding
-corridors.
+Containment operates the units and maintains climate regimens. Recovery provides
+native-environment data required for assignment. Research studies residents through observation
+and controlled sample transfer. Medical supports biological care when climate and clinical
+access conflict. Security controls unit entry and movement through the holding corridors.
 
-CCIHUS doctrine holds that island containment begins by admitting that land recovered from the sea is not ordinary
-land.
+CCIHUS doctrine holds that island containment begins by
+admitting that land recovered from the sea is not ordinary land.
 
 ---
 

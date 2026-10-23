@@ -23,9 +23,9 @@ numbered floor of **ACT-SITE-03-JP-E, Kurokawa Archive Node**.
 
 F-6 is the node's intake level: the floor where documents and media suspected of
 anomalous content are received,
-logged, screened, and triaged. Material cleared of anomalous content returns to legitimate archival processing;
-material confirmed anomalous moves downward under controlled protocols. The floor is where the node first meets
-everything it will ever hold.
+logged, screened, and triaged. Material cleared of anomalous content returns to legitimate
+archival processing; material confirmed anomalous moves downward under controlled
+protocols. The floor is where the node first meets everything it will ever hold.
 
 This dossier records the floor in full institutional language: what it is, what it
 does, how it is built, how it is
@@ -53,9 +53,9 @@ else.
 
 F-6 exists for that first meeting. It is the node's intake level: the floor
 where suspected material is assessed
-against the node's triage doctrine, cleared material is returned to legitimate archival processing, and confirmed
-anomalous material moves downward under controlled protocols. The floor is the gate through which everything enters
-the node's holding system.
+against the node's triage doctrine, cleared material is returned to legitimate archival
+processing, and confirmed anomalous material moves downward under controlled protocols.
+The floor is the gate through which everything enters the node's holding system.
 
 ---
 
@@ -114,9 +114,9 @@ administers the floor's reception, logging, screening, and triage operations.
 
 ### 5.2 Authority over Triage
 
-The Intake Chief holds authority over the floor's triage decisions: whether received material is cleared for
-legitimate processing or confirmed as anomalous for deeper handling. Triage decisions are documented and reviewable
-under the node's doctrine.
+The Intake Chief holds authority over the floor's triage decisions: whether received
+material is cleared for legitimate processing or confirmed as anomalous for deeper
+handling. Triage decisions are documented and reviewable under the node's doctrine.
 
 ### 5.3 Authority Limits
 
@@ -130,8 +130,8 @@ and where it should go next.
 
 ### 6.1 Archive Division
 
-The Archive Division operates F-6's intake work: reception, logging, screening, and triage under the node's intake
-doctrine.
+The Archive Division operates F-6's intake work: reception,
+logging, screening, and triage under the node's intake doctrine.
 
 ### 6.2 Intelligence Division Liaison
 
@@ -145,8 +145,8 @@ understanding for accurate triage.
 
 ### 6.4 Security Division
 
-Security guards the floor's access architecture and the intake processing areas, enforcing the handling rules that
-govern received material.
+Security guards the floor's access architecture and the intake processing
+areas, enforcing the handling rules that govern received material.
 
 ---
 
@@ -168,14 +168,14 @@ F-6's plan is organized around **intake processing functions**:
 
 The floor's reception bay is where material first enters the node: documents and media
 arrive from field operations,
-seizures, transfers, and the node's own collection operations, and are received under the intake doctrine's
-documentation requirements.
+seizures, transfers, and the node's own collection operations, and
+are received under the intake doctrine's documentation requirements.
 
 ### 7.3 The Screening Suites
 
-The floor's screening suites are where material is assessed: documents and media are examined for anomalous content
-under controlled conditions, with the assessment documented and the material's routing determined by its screening
-result.
+The floor's screening suites are where material is assessed: documents and media
+are examined for anomalous content under controlled conditions, with the assessment
+documented and the material's routing determined by its screening result.
 
 ### 7.4 The Dual Routing Architecture
 
@@ -220,9 +220,9 @@ processed.
 
 ### 9.2 Intake Handling Doctrine
 
-The floor's handling of received material follows the node's intake doctrine: every item is logged before it is
-screened, screened before it is routed, and routed only on documented assessment. No item moves through the floor
-without its record.
+The floor's handling of received material follows the node's intake doctrine: every
+item is logged before it is screened, screened before it is routed, and routed only
+on documented assessment. No item moves through the floor without its record.
 
 ### 9.3 Triage Doctrine
 
@@ -263,8 +263,8 @@ personnel conducting the node's intake work.
 
 ### 11.1 Staffing
 
-F-6's personnel are drawn from the Archive Division's intake and records staff, supported by Intelligence, Research,
-and Security personnel.
+F-6's personnel are drawn from the Archive Division's intake and records
+staff, supported by Intelligence, Research, and Security personnel.
 
 ### 11.2 Duty Life
 
@@ -275,9 +275,9 @@ consolidation and documentation.
 
 ### 11.3 The Triage Judgment
 
-The floor's personnel carry the node's first containment judgment: the decision of whether an item is cleared or
-anomalous, and where it should go. The judgment is exercised under doctrine, documented exactly, and reviewed as the
-node's intake record.
+The floor's personnel carry the node's first containment judgment: the decision of
+whether an item is cleared or anomalous, and where it should go. The judgment is
+exercised under doctrine, documented exactly, and reviewed as the node's intake record.
 
 ---
 

@@ -53,9 +53,9 @@ AISS is not only a room full of desks. It is a physical triage
 system. Material arrives in a reception bay, receives
 an intake record, enters a screening suite, and exits through one of two streams.
 Cleared material returns to
-legitimate archival circulation. Confirmed anomalous material descends to controlled reading, redaction, active
-holding, or deeper confinement. The architecture makes the decision visible so that no document can quietly drift from
-one stream to the other.
+legitimate archival circulation. Confirmed anomalous material descends to controlled
+reading, redaction, active holding, or deeper confinement. The architecture makes the
+decision visible so that no document can quietly drift from one stream to the other.
 
 Approved roles include anomalous-media intake, document logging, first-pass
 hazard screening, dual-route triage, chain-of-custody preservation, screening
@@ -212,8 +212,8 @@ confinement if ordinary document handling is unsafe. The item record follows eve
 
 No calendar interval is recorded; the suite is checked per intake shift, so interval
 NOT MEASURED. Custody
-stock is the consumable. The 2019 duplicate slip is why item-specific mark verification precedes any
-dual-route decision.
+stock is the consumable. The 2019 duplicate slip is why
+item-specific mark verification precedes any dual-route decision.
 
 ## FAULT ISOLATION
 
@@ -233,10 +233,10 @@ containment vaults. It can miss hazards that activate only after prolonged readi
 copying, after destruction, or after a reader forms emotional attachment to the content. It can also be defeated by
 material that appears ordinary until it reaches a lower floor.
 
-Known failure modes include logging error, false clearance, over-routing, under-routing, container mismatch, item
-duplication, screening fatigue, status-light failure, chain-of-custody break, unauthorized deep reading, and route
-contamination. A false clearance is treated as a containment breach because it sends anomalous material into a stream
-built for ordinary records.
+Known failure modes include logging error, false clearance, over-routing, under-routing,
+container mismatch, item duplication, screening fatigue, status-light failure, chain-of-custody
+break, unauthorized deep reading, and route contamination. A false clearance is treated as a
+containment breach because it sends anomalous material into a stream built for ordinary records.
 
 ---
 

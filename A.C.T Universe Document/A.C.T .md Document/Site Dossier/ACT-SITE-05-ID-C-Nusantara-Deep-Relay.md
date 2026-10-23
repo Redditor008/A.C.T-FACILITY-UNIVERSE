@@ -60,8 +60,8 @@ of anomaly: the ones
 that come from below. Maritime anomalies, deep-sea disturbances, volcanic and tectonic irregularity, island-chain
 events — and the quiet possibility, never far from the minds of the personnel
 who serve here, that some of what stirs
-beneath the islands is connected to the same deep structure that the Facility's founders first encountered beneath the
-Earth.
+beneath the islands is connected to the same deep structure that
+the Facility's founders first encountered beneath the Earth.
 
 The relay exists because the Facility must watch the places where the planet itself
 might be the container — or the
@@ -300,9 +300,9 @@ deep-sea residents without destroying them.
 
 ### 9.2 Pressure-Rated Systems
 
-For anomalies recovered from depth, the relay maintains pressure-rated containment capable of gradual environmental
-transition — bringing a deep-pressure resident to surface conditions without the decompression equivalent of an
-anomalous fatality.
+For anomalies recovered from depth, the relay maintains pressure-rated containment
+capable of gradual environmental transition — bringing a deep-pressure resident to
+surface conditions without the decompression equivalent of an anomalous fatality.
 
 ### 9.3 RSA and ARM Coverage
 
@@ -336,8 +336,8 @@ Nusantara's holdings are dominated by:
 
 ### 10.3 Signature Resident — AFD-NB-964, "Death Angler"
 
-The relay's signature resident is **AFD-NB-964**, designated **Death Angler**, recorded under the title **THE ABYSSAL
-PREDATOR OF THE GATED LURE**.
+The relay's signature resident is **AFD-NB-964**, designated **Death Angler**,
+recorded under the title **THE ABYSSAL PREDATOR OF THE GATED LURE**.
 
 AFD-NB-964 is a massive aquatic organism measuring 10.4 meters in length, morphologically resembling a hybrid of a
 female deep-sea anglerfish and the armored prehistoric *Dunkleosteus*. Its body is covered in thick, crocodile-like
@@ -435,10 +435,10 @@ infrastructure is indistinguishable from the region's ordinary scientific appara
 
 ### 13.2 Seismic Data Secrecy
 
-The relay's most sensitive secrecy burden involves its seismic data: the deep-earth records that may correlate with
-the structure beneath the Primary Facility. These records are held under restricted review and partially sealed under
-abyss-related standards. No complete interpretation of the relay's deep-earth data is permitted to exist in an
-ordinary archive layer.
+The relay's most sensitive secrecy burden involves its seismic data: the deep-earth records that
+may correlate with the structure beneath the Primary Facility. These records are held under
+restricted review and partially sealed under abyss-related standards. No complete interpretation
+of the relay's deep-earth data is permitted to exist in an ordinary archive layer.
 
 ### 13.3 Personnel Secrecy Burden
 
@@ -470,10 +470,10 @@ A working day at the relay may include:
 
 ### 14.3 Rotation and Attrition
 
-The relay rotates personnel on schedules balanced against the demands of dispersed maritime service. Medical staff
-monitor personnel for the specific failure modes of the site's work: deep-sea exposure effects, isolation during
-extended vessel operations, and the psychological weight of watching the deep for signals that may mean more than
-geology.
+The relay rotates personnel on schedules balanced against the demands of dispersed
+maritime service. Medical staff monitor personnel for the specific failure modes of the
+site's work: deep-sea exposure effects, isolation during extended vessel operations, and
+the psychological weight of watching the deep for signals that may mean more than geology.
 
 ---
 

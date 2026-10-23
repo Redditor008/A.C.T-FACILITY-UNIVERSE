@@ -78,9 +78,9 @@ studio, conducting genuine document work in the open.
 
 ### 3.3 Relationship to F-2
 
-Material that must pass between the surface and the annex's operational levels descends through F-3 into F-2, under
-the transition control that the cover requires. F-3 is the physical boundary; the review floor below is the
-operational boundary.
+Material that must pass between the surface and the annex's operational levels
+descends through F-3 into F-2, under the transition control that the cover requires.
+F-3 is the physical boundary; the review floor below is the operational boundary.
 
 ---
 
@@ -119,9 +119,9 @@ public face of the cover identity.
 
 ### 5.3 Authority Limits
 
-F-3 holds no authority over the annex's operational functions. Its authority is over the legitimate studio — and its
-most important duty is the maintenance of the boundary between the studio's visible work and the buried annex's review
-operations.
+F-3 holds no authority over the annex's operational functions. Its authority is over
+the legitimate studio — and its most important duty is the maintenance of the
+boundary between the studio's visible work and the buried annex's review operations.
 
 ---
 
@@ -178,8 +178,8 @@ indistinguishable from ordinary studio logistics.
 
 ### 8.1 Power
 
-F-3 draws on the studio's legitimate power infrastructure, with the buried annex protected by the installation's
-backup systems.
+F-3 draws on the studio's legitimate power infrastructure, with
+the buried annex protected by the installation's backup systems.
 
 ### 8.2 Environment
 
@@ -188,9 +188,9 @@ environments, and the ordinary systems of a working document studio.
 
 ### 8.3 Monitoring
 
-Monitoring on F-3 is boundary-oriented: studio traffic, client movement, and the concealed transition points are
-monitored under the annex's security doctrine, with the monitoring architecture concealed within the studio's ordinary
-systems.
+Monitoring on F-3 is boundary-oriented: studio traffic, client movement, and the
+concealed transition points are monitored under the annex's security doctrine,
+with the monitoring architecture concealed within the studio's ordinary systems.
 
 ### 8.4 Communication
 
@@ -232,13 +232,13 @@ if the surface boundary is threatened.
 
 ### 10.1 Cover Function
 
-F-3 is the annex's legitimate face: the document-preservation studio whose professional work conceals the review and
-quarantine operations below.
+F-3 is the annex's legitimate face: the document-preservation studio whose
+professional work conceals the review and quarantine operations below.
 
 ### 10.2 Transition Function
 
-F-3 is the annex's surface gateway: the level through which buffered material passes between the region and the
-annex's operational levels.
+F-3 is the annex's surface gateway: the level through which buffered
+material passes between the region and the annex's operational levels.
 
 ### 10.3 Holding Character
 

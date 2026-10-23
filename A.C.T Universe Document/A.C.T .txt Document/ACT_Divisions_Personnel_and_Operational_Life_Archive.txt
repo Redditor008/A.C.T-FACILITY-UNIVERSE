@@ -9,7 +9,7 @@ Archive Note
 This file is the complete internal archive version of the Facility's divisions, personnel systems, operational
 culture, daily labor structure, and hidden institutional life.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Introduction
 If Part Two defined the internal structure of A.C.T at the level of hierarchy
@@ -18,20 +18,20 @@ Facility at the level of function, labor, discipline, and lived operation. A.C.T
 sustained by doctrine alone.
 It is sustained by thousands of daily actions carried out by researchers, guards, field
 operators, archivists,
-janitors, administrators, medics, containment engineers, and personnel whose work is rarely heroic, often secret, and
-constantly dangerous.
+janitors, administrators, medics, containment engineers, and personnel
+whose work is rarely heroic, often secret, and constantly dangerous.
 
 To understand A.C.T fully, one must understand not only its command structure, but the
 routines, burdens, duties, and
 human systems that allow it to keep the impossible buried.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 6.1 — The Facility as a Living System
 The A.C.T Facility is not merely a headquarters, a laboratory, or a prison. It
 is a living operational system built
-around the permanent management of anomalies. Every division, floor, and role exists to support one or more of the
-following functions:
+around the permanent management of anomalies. Every division, floor,
+and role exists to support one or more of the following functions:
 
 - detect the anomalous
 - secure the anomalous
@@ -54,7 +54,7 @@ containment, secrecy, archive continuity, and recovery. Divisions therefore oper
 jurisdictional site boundaries. Detailed installation doctrine is preserved separately in the dedicated Site Doctrine,
 Site Registry, and Jurisdiction records.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 6.2 — Division Function by Wing
 While Part Two defined the broad structure of the wings, Part Six explains what
@@ -73,8 +73,8 @@ Responsible for:
 - first-line breach response
 - lockdown implementation
 
-Security personnel are not normal guards. They are trained for environments where the threat may be physical, memetic,
-temporal, or informational.
+Security personnel are not normal guards. They are trained for environments
+where the threat may be physical, memetic, temporal, or informational.
 
 Recovery Division
 Responsible for:
@@ -108,10 +108,10 @@ Responsible for:
 - anti-GOI armed intervention
 - existential emergency deployment
 
-The Military Division is not used casually. Its activation usually means containment logic has entered failure
-pressure.
+The Military Division is not used casually. Its activation
+usually means containment logic has entered failure pressure.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 East Wings — Information, Administration, and Internal Coordination
 The East Wings maintain the informational body of the Facility.
@@ -150,7 +150,7 @@ Responsible for:
 
 Task Management makes sure the machine keeps moving even during multi-layer emergencies.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 South Wings — Command, Continuity, and Civil Masking
 The South Wings preserve the higher strategic structure of A.C.T.
@@ -188,7 +188,7 @@ Responsible for:
 
 This division helps maintain the lie called normal life.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 North Wings — Study, Transformation, and Medical Continuity
 The North Wings are the scientific and biological heart of A.C.T.
@@ -238,7 +238,7 @@ Responsible for:
 Medical staff in A.C.T are often dealing with injuries that medicine was never meant
 to classify.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Central — Operational Spine
 The Central Sector remains the spine of the Facility.
@@ -255,15 +255,15 @@ It exists to connect:
 The Anomaly Containment Elevator — called the Main Containment Elevator in operational shorthand — is not just
 transportation. It is the vertical artery of the entire underground complex.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 6.3 — Personnel Roles in Daily Practice
 Part Two defined the rank order. Part Six explains how those roles feel in
 operation.
 
 O5 Council
-Rarely seen, deeply insulated, and almost mythic to lower personnel. Most staff know the O5 more as an authority
-pattern than as individuals.
+Rarely seen, deeply insulated, and almost mythic to lower personnel.
+Most staff know the O5 more as an authority pattern than as individuals.
 
 Facility Administrator
 The practical sovereign of a site. Responsible for balancing doctrine, discipline, output, secrecy, and survival.
@@ -273,8 +273,8 @@ The authority that appears when an anomaly, program, or transformation decision 
 territory. Within that narrow mandate they outrank ordinary site governance and answer directly to the O5.
 
 Site Director
-The operational ruler of a specific branch or site zone. Where the Administrator governs broadly, the Site Director
-governs directly.
+The operational ruler of a specific branch or site zone. Where the
+Administrator governs broadly, the Site Director governs directly.
 
 Head Transformation
 The senior voice of the Transformation Division. Approves or rejects transformation proposals beyond site-level
@@ -322,7 +322,7 @@ things.
 Recruiter
 Finds the next generation of staff, assets, specialists, and expendables.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 6.4 — Recruitment, Initiation, and Internalization
 A.C.T does not recruit the way normal institutions recruit.
@@ -357,7 +357,7 @@ This means:
 
 A.C.T does not merely hire people. It absorbs them.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 6.5 — Daily Operational Life
 Daily life inside A.C.T varies by division, but several constants remain:
@@ -381,7 +381,7 @@ A normal day may include:
 
 In A.C.T, routine is the disguise worn by constant danger.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 6.6 — E-Class and Disposable Exposure
 E-Class personnel are used where risk cannot be ethically or operationally assigned to protected staff.
@@ -400,7 +400,7 @@ In truth, E-Class represents the gray heart of A.C.T’s morality: the belief th
 lives can be spent if reality
 itself is the alternative cost.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 6.7 — Internal Discipline and Secrecy
 A.C.T maintains order through:
@@ -420,7 +420,7 @@ It also protects the Facility from itself.
 
 Too much shared truth inside A.C.T can be just as dangerous as public exposure.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 6.8 — Hazard Burden and Psychological Attrition
 Working in A.C.T damages people.
@@ -440,7 +440,7 @@ Personnel do not merely risk death. They risk becoming incompatible with ordinar
 
 This is why the Facility must constantly rotate, isolate, evaluate, and medically stabilize its own staff.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 6.9 — Operational Culture
 A.C.T culture is built around several quiet assumptions:
@@ -463,7 +463,7 @@ This produces a culture that is:
 
 There are no truly ordinary employees in A.C.T. Only personnel at different distances from the truth.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 6.10 — Closing Summary
 Part Six defines A.C.T not just as a doctrine or structure, but as a
@@ -474,7 +474,7 @@ steel, doctrine, and classification—but by the continuous labor of people who 
 above never learns how close it lives to the impossible.
 
 Series Position
----------------
+═══════════════════════════════════════════════════════════════════════
 
 This record is Part Six of the A.C.T Universe reading order, Facility Divisions, Personnel
 Roles, and Operational Life. Part Six of the A.C.T Universe records the divisions of the

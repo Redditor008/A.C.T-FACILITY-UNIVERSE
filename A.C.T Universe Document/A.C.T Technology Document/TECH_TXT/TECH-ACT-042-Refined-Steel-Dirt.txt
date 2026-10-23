@@ -266,9 +266,9 @@ Refinement reduces risk but does not erase Blue Haze danger. The material may st
 outgas, adhere to skin,
 incorporate tools, and turn a temporary patch into a long-term contaminated obstacle.
 
-Known failure modes include premature bloom, hopper humidity breach, nozzle clogging, toxic fume release, false dry
-reading, overwide spray pattern, edge adhesion to unintended surfaces, and staff forgetting that rapid sealing can
-become rapid entombment.
+Known failure modes include premature bloom, hopper humidity breach, nozzle clogging,
+toxic fume release, false dry reading, overwide spray pattern, edge adhesion to
+unintended surfaces, and staff forgetting that rapid sealing can become rapid entombment.
 
 FAILURE HISTORY
 RSD-2024 Raw Steel-Bloom Baseline: The Blue Dirt reactivity trial confirmed four-second hardening, heat spike, finger
@@ -305,8 +305,8 @@ under which raw Blue Dirt was collected? Can RSD be made reversible without usin
 gold tools or Red River acid? How
 much humidity exposure creates unsafe partial bloom inside a hopper? Should RSD ever be
 deployed in occupied
-facilities, or only in already-lost zones? Can a living anomaly intentionally drink or absorb the hydration trigger to
-control the bloom?
+facilities, or only in already-lost zones? Can a living anomaly
+intentionally drink or absorb the hydration trigger to control the bloom?
 - How fast does the refined powder harden against the raw four-second baseline?
 - What hopper pressure range keeps the powder dry without clumping?
 - How long does Blue Haze persist after a controlled bloom?

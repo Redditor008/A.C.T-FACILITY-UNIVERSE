@@ -177,11 +177,11 @@ a positive pressure or heat screening seals the piece as active evidence and sto
 all handling until Abyss
 Engineering reviews it.
 
-SDE is retired. No active drilling procedure is authorized. Archive handling begins with component inspection,
-contamination screening, and verification that no pressure memory, heat residue, or abyssal particulate remains active
-on the artifact. Component access is performed under Materials Custody supervision. Reconstruction requests require
-Level 5 review because rebuilding the machine would also rebuild the temptation to repeat the First Descent with
-modern confidence.
+SDE is retired. No active drilling procedure is authorized. Archive handling begins with component
+inspection, contamination screening, and verification that no pressure memory, heat residue, or
+abyssal particulate remains active on the artifact. Component access is performed under Materials
+Custody supervision. Reconstruction requests require Level 5 review because rebuilding the machine
+would also rebuild the temptation to repeat the First Descent with modern confidence.
 
 Historical simulation is permitted only through non-operational diagrams, inert replicas, and sealed engineering
 transcripts. Staff may study why the system survived sustained deep pressure, but they may not assemble working drive
@@ -203,9 +203,8 @@ citing SDE must state why modern safer equipment cannot perform the task.
 
 The platform is retired, so no operational service interval exists and interval is not
 applicable rather
-than NOT MEASURED. Preservation work is conservation only: repair marks and discoloration are evidence. The
-1888 bell silence is why single-channel descent communication is treated as a warning rather than a period
-detail.
+than NOT MEASURED. Preservation work is conservation only: repair marks and discoloration are evidence. The 1888
+bell silence is why single-channel descent communication is treated as a warning rather than a period detail.
 
 ## FAULT ISOLATION
 
@@ -226,10 +225,10 @@ stabilization, live causal mapping, automated collapse prediction, neurological 
 emergency extraction. The First Descent succeeded at reaching the source, but success should not be confused with
 safety. The system carried operators toward an encounter they could not solve.
 
-Known failure modes include boiler rupture, pressure hull deformation, drill-head seizure, thermal shield fatigue,
-signal loss, shaft collapse, toxic venting, crew exhaustion, and route fixation. Route fixation is the historical term
-applied when operators continued downward because the machine could still dig, even after doctrine should have ordered
-retreat.
+Known failure modes include boiler rupture, pressure hull deformation, drill-head seizure,
+thermal shield fatigue, signal loss, shaft collapse, toxic venting, crew exhaustion, and route
+fixation. Route fixation is the historical term applied when operators continued downward
+because the machine could still dig, even after doctrine should have ordered retreat.
 
 ---
 
@@ -249,8 +248,8 @@ as an example of mission momentum overriding material evidence.
 ### SDE-1890 Archive Lockdown
 After the discovery of ITHYOS and the formation of early ABYSS doctrine, surviving SDE
 components were sealed from
-routine engineering reuse. The lockdown created the first known distinction between a retired tool and a forbidden
-precedent.
+routine engineering reuse. The lockdown created the first known
+distinction between a retired tool and a forbidden precedent.
 
 ---
 

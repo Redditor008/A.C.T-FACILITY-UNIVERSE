@@ -50,8 +50,8 @@ changing the sleep condition of a deep-sea threat.
 The term *Children* is doctrinal. It does not establish literal parentage, biological alteration, or a shared family
 relation. Within the cult, it means that a member has accepted the Deep as
 the only legitimate origin, shelter, and
-future of humanity. A.C.T personnel must not adopt the term in negotiations except where an approved cover identity
-requires it.
+future of humanity. A.C.T personnel must not adopt the term in
+negotiations except where an approved cover identity requires it.
 
 ---
 
@@ -69,9 +69,9 @@ The group does not describe its objective as apocalypse. It calls the intended e
 **the Returning Tide**, **the
 Second Shore**, or **the First Breath Below** depending on the cell and ritual setting.
 A.C.T does not accept these
-terms as neutral descriptions. Intelligence analysis concludes that a successful awakening would produce an
-apocalyptic condition with consequences well beyond the cult's primary region and beyond any ordinary civilian
-disaster response.
+terms as neutral descriptions. Intelligence analysis concludes that a successful
+awakening would produce an apocalyptic condition with consequences well beyond
+the cult's primary region and beyond any ordinary civilian disaster response.
 
 CoTD doctrine gives its members a simple moral inversion. To the Facility, the target
 anomaly must remain asleep
@@ -90,16 +90,16 @@ the intended destination of the awakening effort.
 
 Second, it refers to any depth that can be made symbolically continuous with the
 target: water tables, river channels,
-drainage systems, flooded quarry floors, underground reservoirs, storm tunnels, abandoned pumping works, and sealed
-basements that collect water below human sight. CoTD members call these places **inland mouths**. A.C.T has not
-accepted their theological claim that every such location is physically connected to the deep-sea target, but repeated
-use of these locations gives the cult a distributed ritual and recruitment infrastructure in the Midwestern United
-States.
+drainage systems, flooded quarry floors, underground reservoirs, storm tunnels, abandoned pumping
+works, and sealed basements that collect water below human sight. CoTD members call these places
+**inland mouths**. A.C.T has not accepted their theological claim that every such location is
+physically connected to the deep-sea target, but repeated use of these locations gives the cult a
+distributed ritual and recruitment infrastructure in the Midwestern United States.
 
-Third, Deep is a political and emotional claim. Members are taught that ordinary institutions, cities, laws, and
-memories are merely surface arrangements that will be washed away. This belief makes the group capable of treating
-civilian harm as purification, evacuation as betrayal, and containment as a crime against a being they regard as the
-source of all rightful order.
+Third, Deep is a political and emotional claim. Members are taught that ordinary institutions,
+cities, laws, and memories are merely surface arrangements that will be washed away. This belief
+makes the group capable of treating civilian harm as purification, evacuation as betrayal, and
+containment as a crime against a being they regard as the source of all rightful order.
 
 ### Public Masks and Local Presence
 
@@ -231,10 +231,10 @@ pressure rituals, controlled deprivation, restricted language protocols, and the
 systems with sealed deep-sea data. Exact sequences are withheld. Reproduction for research, public evidence, or
 interrogation leverage is prohibited without target-anomaly authorization.
 
-The most serious risk arises when spiritual practice is combined with material preparation. A vigil is not
-automatically an awakening attempt. A vigil conducted alongside stolen marine data, modified acoustic equipment,
-coordinated travel, restricted target coordinates, or a sudden change in deep-sea indicators must be treated as a live
-escalation condition.
+The most serious risk arises when spiritual practice is combined with material preparation.
+A vigil is not automatically an awakening attempt. A vigil conducted alongside stolen marine
+data, modified acoustic equipment, coordinated travel, restricted target coordinates, or a
+sudden change in deep-sea indicators must be treated as a live escalation condition.
 
 ### Awakening Preparation
 
@@ -245,8 +245,8 @@ toward wakefulness.
 
 The current working model identifies four forms of preparation:
 
-   **Narrative preparation:** recruiting people into a belief system that reframes the target's awakening as
-   sacred and
+   **Narrative preparation:** recruiting people into a belief
+   system that reframes the target's awakening as sacred and
    necessary.
 2. **Geographic preparation:** establishing inland mouths, mapping symbolic and logistical routes, and identifying
    locations the group believes can influence or echo the deep-sea condition.
@@ -281,10 +281,10 @@ wake-state, containment must be maintained even when the people attempting to br
 
 ### Primary Active Region
 
-CoTD's primary active region is the **Midwestern United States**. This designation refers to the group, not the
-physical location of the sleeping anomaly. The cult's core membership, recruitment activity, ritual preparation,
-material storage, and internal communications are concentrated across a broad inland region rather than beside the
-sea.
+CoTD's primary active region is the **Midwestern United States**. This designation
+refers to the group, not the physical location of the sleeping anomaly. The cult's core
+membership, recruitment activity, ritual preparation, material storage, and internal
+communications are concentrated across a broad inland region rather than beside the sea.
 
 This apparent contradiction is central to the group's operating method. CoTD teaches that the sea is not absent from
 the interior; it is merely buried, diverted, ignored, or denied by surface civilization. The group identifies river
@@ -300,16 +300,13 @@ The Midwestern operating environment offers CoTD several practical advantages:
 
 - wide distances between communities and a large number of plausible gathering locations;
   river, canal, reservoir, agricultural, and municipal-water systems that provide both symbolic and logistical cover;
-  aging industrial and water-management infrastructure with spaces that can be entered, rented, repaired, or
-  monitored
+  aging industrial and water-management infrastructure with spaces that can be entered, rented, repaired, or monitored
   without immediately appearing anomalous;
-  interstate transport routes that allow people, equipment, and documents to move between cells without
-  establishing a
+  interstate transport routes that allow people, equipment, and documents to move between cells without establishing a
   visible central compound;
-  recurring severe-weather and flood concerns that let the cult frame preparation activity as ordinary
-  caution;
-  communities where grief, economic pressure, displacement, isolation, or prior disaster can be exploited as
-  recruitment
+  recurring severe-weather and flood concerns that let the cult frame preparation activity as ordinary caution;
+  communities where grief, economic pressure, displacement,
+  isolation, or prior disaster can be exploited as recruitment
   openings.
 
 None of these features makes the region responsible for the target anomaly. They make
@@ -326,46 +323,43 @@ The following indicators require
 review when they appear in combination:
 
 - repeated night access to water-control, drainage, or submerged industrial areas;
-  imported salt, marine material, pressure equipment, acoustic equipment, or unusual sealed containers without a
-  credible local purpose;
+  imported salt, marine material, pressure equipment, acoustic equipment,
+  or unusual sealed containers without a credible local purpose;
 - group movement timed to specific weather, water-level, or lunar conditions;
-  handwritten or digital maps that replace ordinary place names with depth, tide, mouth, or
-  shore terminology;
-  private meetings involving strict silence, covered faces, prohibited light, or enforced listening periods near
-  water;
+  handwritten or digital maps that replace ordinary place names with depth, tide, mouth, or shore terminology;
+  private meetings involving strict silence, covered faces,
+  prohibited light, or enforced listening periods near water;
   recruitment language that frames flood, loss, or drowning as a promise rather than
   a
   tragedy;
-  unexplained attempts to obtain marine survey information, shipping records, sonar data, or deep-water coordinates
-  from
+  unexplained attempts to obtain marine survey information,
+  shipping records, sonar data, or deep-water coordinates from
   an inland base.
 
 An inland mouth may be a ritual site, a storage point, a contact location,
 a decoy, or simply a place where one cell
-convinces itself that it has touched the target. Site classification must distinguish actual operational value from
-the cult's symbolic geography.
+convinces itself that it has touched the target. Site classification must
+distinguish actual operational value from the cult's symbolic geography.
 
 ---
 
 ### Known Assets
 
-CoTD's primary assets are human, narrative, and logistical rather than openly military. Current assessment identifies
-the following capabilities:
+CoTD's primary assets are human, narrative, and logistical rather than
+openly military. Current assessment identifies the following capabilities:
 
 - a large regional recruitment base with varied levels of knowledge and commitment;
 - local meeting spaces that can be abandoned or reclassified quickly;
 - informal contribution systems that convert ordinary donations into travel, storage, equipment, and communication
   support;
-  maps, copied texts, recordings, and symbolic materials that allow doctrine to move without a
-  single public archive;
+  maps, copied texts, recordings, and symbolic materials that allow doctrine to move without a single public archive;
   members with ordinary professional access to water systems, repair work, transport, construction, education, health
   support, and regional administration;
   technical intermediaries capable of acquiring or interpreting
   deep-water and pressure-related material without openly
   identifying as cult personnel;
-  protected family, work, and grief networks that make recruitment appear personal rather than organizational;
-  a distributed language of inland mouths, shores, and soundings that can hide operational meaning
-  inside apparently
+  protected family, work, and grief networks that make recruitment appear personal rather than organizational; a
+  distributed language of inland mouths, shores, and soundings that can hide operational meaning inside apparently
   devotional speech.
 
 The group should not be assumed to possess every asset claimed by its members.
@@ -384,12 +378,12 @@ size of the wider network.
 
 Known or suspected holdings should be categorized before action:
 
-**Congregation sites** contain people, material, and recruitment activity but may have little target-specific value.
-**Custody sites** hold records, equipment, maps, or ritual materials and require controlled evidence handling.
-**Transit sites** support movement between cells and can reveal the broader network if monitored safely. **Mouth
-sites** are selected for doctrinal or ritual significance and may carry anomalous risk even when no leadership asset
-is present. **Decoy sites** are deliberately visible locations designed to draw attention away from a live preparation
-chain.
+**Congregation sites** contain people, material, and recruitment activity but may have little
+target-specific value. **Custody sites** hold records, equipment, maps, or ritual materials and
+require controlled evidence handling. **Transit sites** support movement between cells and can
+reveal the broader network if monitored safely. **Mouth sites** are selected for doctrinal or ritual
+significance and may carry anomalous risk even when no leadership asset is present. **Decoy sites**
+are deliberately visible locations designed to draw attention away from a live preparation chain.
 
 A.C.T response must not assume that the most theatrical location is the most important
 one. CoTD uses spectacle to
@@ -413,8 +407,8 @@ it wants.
 Civil Covert measures must therefore focus on separating verifiable local safety concerns from cult doctrine. Where an
 ordinary water hazard exists, it should be addressed as an ordinary hazard. Where a
 cult action has produced an
-anomalous signal, the response must contain the signal without making silence itself look like evidence of sacred
-conspiracy.
+anomalous signal, the response must contain the signal without
+making silence itself look like evidence of sacred conspiracy.
 
 ---
 ---
@@ -423,11 +417,11 @@ conspiracy.
 
 ### Record Formation
 
-The current CoTD file was opened after separate Midwestern incidents were found to share a pattern of water-focused
-devotional language, concealed acquisition of deep-water material, recurring references to a Second Shore, and
-attempts to relate inland locations to restricted maritime information. No single public event created the
-designation. The group became visible as an organization when these elements showed a coordinated rather than
-coincidental relationship.
+The current CoTD file was opened after separate Midwestern incidents were found to share a
+pattern of water-focused devotional language, concealed acquisition of deep-water material,
+recurring references to a Second Shore, and attempts to relate inland locations to restricted
+maritime information. No single public event created the designation. The group became visible as
+an organization when these elements showed a coordinated rather than coincidental relationship.
 
 Early reports were treated cautiously. Flood folklore, local grieving practices, private religious gatherings,
 and ordinary water-infrastructure concerns are not evidence of an anomalous cult. The file was elevated only when
@@ -440,11 +434,11 @@ CoTD has no negotiated relationship with A.C.T. The Facility's posture is hostil
 incompatible with containment. The cult does not seek safer observation, limited access, or a dispute over ethics. It
 seeks a change in the condition that keeps an apocalyptic anomaly asleep.
 
-The relationship is nevertheless not reducible to open force. Many people around the group may be frightened, coerced,
-misinformed, bereaved, or bound by family and community pressure. A response that treats every contact as equally
-culpable will produce martyrs, destroy intelligence paths, and leave the Sounding Council's deeper structure
-untouched. A.C.T must dismantle the awakening system while giving uninformed and recoverable people a path away from
-it.
+The relationship is nevertheless not reducible to open force. Many people around the group may be
+frightened, coerced, misinformed, bereaved, or bound by family and community pressure. A response
+that treats every contact as equally culpable will produce martyrs, destroy intelligence paths,
+and leave the Sounding Council's deeper structure untouched. A.C.T must dismantle the awakening
+system while giving uninformed and recoverable people a path away from it.
 
 ---
 ---
@@ -517,8 +511,7 @@ Immediate Level 5 escalation is required when any of the following conditions ar
 
 - a CoTD cell possesses verified target coordinates, wake-state data, or sealed anomaly material;
 - multiple inland mouth sites begin synchronized rites alongside technical equipment movement;
-  an unapproved party attempts travel toward the target anomaly or an associated restricted maritime
-  zone;
+  an unapproved party attempts travel toward the target anomaly or an associated restricted maritime zone;
 - acoustic, pressure, seismic, or marine indicators show a credible correlation with cult activity;
   the Sounding Council activates a regional gathering under a shared date, signal, or
   return
@@ -555,10 +548,10 @@ people from recruitment and exposure, and preserve the sleep-state that prevents
 
 ### Inland Mouth Review - Restricted Extract
 
-A regional review identified a cluster of locations that had been independently described as mouths in separate CoTD
-materials. The materials did not share ordinary address formatting. Instead, they ranked sites by depth language,
-remembered flood events, and fragments of maritime terminology. The overlap was significant because the authors had no
-visible public connection.
+A regional review identified a cluster of locations that had been independently described as
+mouths in separate CoTD materials. The materials did not share ordinary address formatting.
+Instead, they ranked sites by depth language, remembered flood events, and fragments of maritime
+terminology. The overlap was significant because the authors had no visible public connection.
 
 Intelligence Division determined that the list served two purposes. It identified local gathering sites, and it
 trained members to perceive an inland geography as part of one submerged ritual system.
@@ -573,10 +566,10 @@ links, and target-related communications have been examined.
 
 ### Sounding Material Interdiction - Restricted Extract
 
-Recovery personnel intercepted a transfer of sound-capable equipment, handwritten timing sheets, and copied devotional
-text moving through a non-cult commercial cover. The equipment did not by itself establish an awakening attempt. The
-combination of material, timing language, and a separate request for deep-water data created a credible escalation
-path.
+Recovery personnel intercepted a transfer of sound-capable equipment, handwritten timing
+sheets, and copied devotional text moving through a non-cult commercial cover. The equipment
+did not by itself establish an awakening attempt. The combination of material, timing
+language, and a separate request for deep-water data created a credible escalation path.
 
 Containment review found that the copied material included repeated omissions rather than a complete procedure. This
 may indicate that CoTD deliberately separates ritual knowledge across members, or that the documents are designed to
@@ -614,8 +607,7 @@ protect a person while preserving the integrity of the wider operation.
 — The group is actively attempting to awaken that anomaly.
 — The target anomaly is assessed as apocalyptic if awakened.
 — CoTD's primary active region is the Midwestern United States.
-  The cult uses distributed local activity, symbolic water geography, and compartmented membership to support
-  its
+  The cult uses distributed local activity, symbolic water geography, and compartmented membership to support its
   objective.
   The group is large enough that not all attached people can be assumed
   to
@@ -638,8 +630,7 @@ procurement, maritime information, and the Sounding Council can.
 
 ### Persistent Questions
 
-  Does the Sounding Council receive genuine target-related information, or does it manufacture signs to
-  preserve
+  Does the Sounding Council receive genuine target-related information, or does it manufacture signs to preserve
   authority?
   Which inland mouths have a measurable relationship to the sleeping anomaly, and which
   exist
@@ -650,8 +641,7 @@ any Dredgers working with an external GOI, commercial handler, or compromised go
   do
   they primarily condition
   members for a later action?
-  What event, signal, date, or perceived change would cause separate congregations to act in
-  coordination?
+  What event, signal, date, or perceived change would cause separate congregations to act in coordination?
   How many members can be safely separated from the cult before they become
   targets
   of council-linked enforcement or
@@ -690,8 +680,7 @@ this dossier.
 - Site Map and Jurisdiction Doctrine — incident-led cross-site assignment;
 - Facility Divisions, Personnel Roles, and Operational Life — Intelligence, Recovery, Containment, Medical, Civil
   Covert, and Military responsibilities;
-  Anomaly Classification Manual Archive — separate filing of the sleeping target and recovered cult
-  material;
+  Anomaly Classification Manual Archive — separate filing of the sleeping target and recovered cult material;
   History of A.C.T, First Deployment, and the ABYSS Origin — doctrine that sleep
   may
   itself be containment.

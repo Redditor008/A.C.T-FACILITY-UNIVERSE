@@ -69,16 +69,16 @@ Approved roles include:
 
 ## ORIGIN AND DEPLOYMENT
 
-AMSD doctrine matured after repeated biological and memetic containment incidents proved that ordinary observation was
-too slow. Early A.C.T staff expected visible distress before removing personnel from a suite. This failed in cases
-where the hazard acted through attraction, loyalty, sudden dread, or the nervous system's preparation for forbidden
-contact.
+AMSD doctrine matured after repeated biological and memetic containment incidents proved that
+ordinary observation was too slow. Early A.C.T staff expected visible distress before
+removing personnel from a suite. This failed in cases where the hazard acted through
+attraction, loyalty, sudden dread, or the nervous system's preparation for forbidden contact.
 
-The Terra's Pulse file remains the clearest public-facing internal example. AFD-SU-952 produces a
-biological-compulsion field in male observers. Staff may experience amatory arousal, existential panic, or the urge to
-test a barrier before conscious refusal catches up. AMSD units provide an external tripwire for that internal
-acceleration. They let the room respond while the person is still becoming dangerous rather than after the person has
-already crossed a line.
+The Terra's Pulse file remains the clearest public-facing internal example. AFD-SU-952 produces
+a biological-compulsion field in male observers. Staff may experience amatory arousal,
+existential panic, or the urge to test a barrier before conscious refusal catches up. AMSD units
+provide an external tripwire for that internal acceleration. They let the room respond while the
+person is still becoming dangerous rather than after the person has already crossed a line.
 
 Current deployment is mandatory in select Subject Care, Biological Containment, and visual-filtered suites. Command
 may also require AMSD wear during interviews with attraction hazards, fear accelerators, predator-recognition
@@ -138,8 +138,8 @@ refills, Vibration latency are not measured here. Those 3 gaps sit in OPEN QUEST
 
 The detector exists because some anomalies need a breach in judgment rather than in
 walls. An affected
-person may walk normally, speak clearly, and claim procedural control, so the wristband record matters more
-than the wearer's own account.
+person may walk normally, speak clearly, and claim procedural control,
+so the wristband record matters more than the wearer's own account.
 
 ## INTERFACE AND OPERATING ENVELOPE
 
@@ -188,8 +188,7 @@ Containment-suite entry, Level 2 wear with Level 3 calibration.
 
 Step-down: the band comes off outside the active radius and the log buffer is
 filed. Emergency: the
-auto-release pin disables sedative release only, never monitoring, and pulling it for comfort is the 2026
-misuse case.
+auto-release pin disables sedative release only, never monitoring, and pulling it for comfort is the 2026 misuse case.
 
 Before entry, Medical records the wearer's current baseline. The wearer confirms medication use, heart condition,
 known panic disorder, recent amnestic exposure, and assignment role. Security confirms the wristband is linked to the
@@ -254,18 +253,18 @@ monitoring, and create a habit of drugging confusion instead of removing hazards
 ## FAILURE HISTORY
 
 ### AMSD-2024 Terra Threshold Revision
-Early Terra suite thresholds treated arousal and panic as separate categories. Affected personnel could fluctuate
-between both states faster than the console classified them. The profile was merged into a single compulsion-risk
-surge band.
+Early Terra suite thresholds treated arousal and panic as separate categories.
+Affected personnel could fluctuate between both states faster than the console
+classified them. The profile was merged into a single compulsion-risk surge band.
 
 ### AMSD-2025 Dampener Interference Test
 A training trial showed that Biometric Resonance Dampeners could reduce readable pulse intensity while the subject
 still reported fear. AMSD doctrine now requires cross-checking patch use before interpreting a low surge as calm.
 
 ### AMSD-2026 Pin Misuse Incident
-A junior handler pulled the emergency auto-release pin because the wristband vibration was distracting. Monitoring
-continued, but local sedative micro-release was disabled. Current issue training states that the pin is for Medical
-override, not wearer comfort.
+A junior handler pulled the emergency auto-release pin because the wristband vibration
+was distracting. Monitoring continued, but local sedative micro-release was disabled.
+Current issue training states that the pin is for Medical override, not wearer comfort.
 
 ---
 

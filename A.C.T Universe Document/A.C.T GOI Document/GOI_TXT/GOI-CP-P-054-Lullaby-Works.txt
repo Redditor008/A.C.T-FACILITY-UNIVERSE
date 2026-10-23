@@ -1,7 +1,7 @@
 A.C.T FACILITY ARCHIVE FILE — GOI CP P 054 Lullaby Works
 ===========================
 GROUP OF INTEREST REGISTRY - LULLABY WORKS
-------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                                                         |
@@ -89,13 +89,13 @@ may not flatten the group into an enemy corporation without evidence.
 Several product names, child identities, and school donation locations are censored in this record under CHILD-CARE
 DISCLOSURE LIMIT. The omissions protect minors and prevent civilian imitation of known protective designs.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 IDENTITY AND INSTITUTIONAL FUNCTION
------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Group Function
---------------
+═══════════════════════════════════════════════════════════════════════
 
 Lullaby Works functions as a child-facing anomalous manufacturing institution. Its repeated activity is the creation,
 repair, donation, sale, and quiet placement of objects that help minors survive anomalous fear, pursuit, abduction,
@@ -120,13 +120,13 @@ school bag, hospital cot, foster-care
 room, and disaster shelter before official containment language can arrive.
 
 Public Presence and Concealment
--------------------------------
+═══════════════════════════════════════════════════════════════════════
 
-Lullaby Works does not operate under one stable public brand. Its products appear through small child-care companies,
-discontinued nursery catalogues, hospital charity drives, local toy shops, anonymous shelter donations, online
-secondhand listings, school-supply relief crates, and unmarked repair vans. The visible brands are gentle,
-forgettable, and regionally plausible. Parents remember buying a comfort object, not joining an anomalous supply
-chain.
+Lullaby Works does not operate under one stable public brand. Its products appear through
+small child-care companies, discontinued nursery catalogues, hospital charity drives, local
+toy shops, anonymous shelter donations, online secondhand listings, school-supply relief
+crates, and unmarked repair vans. The visible brands are gentle, forgettable, and regionally
+plausible. Parents remember buying a comfort object, not joining an anomalous supply chain.
 
 Known public-facing marks include a stitched half-moon, a paper lantern with closed eyes, a warranty line promising
 three quiet nights, and a printed instruction stating that no adult should open the
@@ -136,13 +136,13 @@ appear. Some invoices resolve to closed companies; some donation ledgers list ad
 demolished before the donation date; some warranty cards contain phone numbers that connect only when called from a
 house where a child has recently reported a night visitor.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-----------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Leadership Condition
---------------------
+═══════════════════════════════════════════════════════════════════════
 
 No single founder has been confirmed. Recovered internal labels use nursery-title signatures instead of personal
 names, including Cradle Director, Blue Thread Office, First Nap Supervisor, Nightlight Auditor, Soft Teeth Compliance,
@@ -154,7 +154,7 @@ product warnings, replacement etiquette, child-safety priorities, and failure-re
 countries. Its supply chain demonstrates corporate continuity even when its shell companies dissolve.
 
 Internal Structure
-------------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T assessment identifies the following probable layers:
 
@@ -176,7 +176,7 @@ with departments, production
 discipline, review processes, customer records, and crisis logistics.
 
 Membership and Recruitment
---------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Membership likely includes ordinary employees who believe they work for specialized child-care brands, informed staff
 who understand anomalous design, and field personnel who know enough to avoid direct explanations. Several former
@@ -191,13 +191,13 @@ WANTED: pattern cutters, night nurses, repair drivers, story editors, and patien
 believe
 children before asking them to prove anything.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
--------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Stated Belief
--------------
+═══════════════════════════════════════════════════════════════════════
 
 The clearest ideological line appears in multiple care inserts:
 
@@ -212,7 +212,7 @@ The group does not publicly argue against containment organizations. Its moral p
 system delays because proof is incomplete, the child still needs protection tonight.
 
 Assessed Objective
-------------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T assesses that Lullaby Works seeks to create a distributed layer of child-first protection outside official
 containment systems. Its objective is not profit alone. Several product lines are donated without traceable payment,
@@ -228,7 +228,7 @@ a whispered statement, or allow a child to sleep safely long enough for recovery
 teams to intervene.
 
 Anomalous Capability Assessment
--------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Lullaby Works is assigned Engineering capability because it repeatedly manufactures or modifies anomalous objects with
 predictable child-protection functions. Confirmed examples include:
@@ -246,7 +246,7 @@ A.C.T has not confirmed the manufacturing source. Product disassembly is restric
 lose protective value when opened by force.
 
 Secrecy and Civilian Exposure
------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Lullaby Works is Leaking because its products are designed to remain with civilians. The objects may reveal that a
 child's fear was real, preserve memories A.C.T would normally soften, or leave material evidence after an event has
@@ -259,25 +259,25 @@ may describe the item as the only thing that kept their child alive. Subject
 Care Division warns that abrupt
 confiscation can reproduce abandonment trauma and reduce witness cooperation.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
---------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Operational Regions
--------------------
+═══════════════════════════════════════════════════════════════════════
 
-Lullaby Works operates across transnational child-care and disaster-relief channels. Confirmed or strongly assessed
-points of appearance include pediatric wards, foster placement bags, emergency shelters, school counseling offices,
-refugee-family supply crates, post-breach relocation homes, rural toy shops, and online resale listings that cannot be
-traced after purchase.
+Lullaby Works operates across transnational child-care and disaster-relief channels. Confirmed or
+strongly assessed points of appearance include pediatric wards, foster placement bags, emergency
+shelters, school counseling offices, refugee-family supply crates, post-breach relocation homes,
+rural toy shops, and online resale listings that cannot be traced after purchase.
 
 The group favors places where children are least able to control their environment: bedrooms, temporary housing,
 hospitals, shelters, transport vehicles, dormitories, and classrooms after traumatic events. A.C.T should not assume
 that absence from adult commercial records means absence from a region.
 
 Known Assets and Holdings
--------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Known or assessed assets include:
 
@@ -299,7 +299,7 @@ a toy to remain where they would reject a visible
 containment device.
 
 Operating Method
-----------------
+═══════════════════════════════════════════════════════════════════════
 
 The usual operating method begins after a child has survived, witnessed, or is predicted to face an anomalous event.
 An item appears through purchase, donation, inheritance, misplaced delivery, school counselor issue, hospital
@@ -319,13 +319,13 @@ This style makes the products useful during crisis but difficult for A.C.T to cl
 The items are not built to
 produce clean laboratory readings. They are built to get a child through the night.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 HISTORY WITH A.C.T
-------------------
+═══════════════════════════════════════════════════════════════════════
 
 Contact History
----------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T's consolidated contact history began when Subject Care Division found similar care cards in unrelated
 child-witness aftercare files. The first cards were retained as family comfort material rather than GOI evidence. A
@@ -345,7 +345,7 @@ A.C.T recovered three nightlights for examination and left fourteen in place und
 further child disappearances occurred at that shelter during the active incident window.
 
 Current Relationship
---------------------
+═══════════════════════════════════════════════════════════════════════
 
 The current relationship is POSITIVE. Lullaby Works has saved or protected children in multiple cases. A.C.T may work
 with the group when child safety depends on product knowledge, but formal relationship class remains Positive rather
@@ -355,13 +355,13 @@ A.C.T does not classify the group as Neutral because its products are consistent
 A.C.T does not classify it as Negative because the primary observed outcome is reduction of harm to minors. Continued
 monitoring remains mandatory because positive intent does not remove product risk.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
----------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Responsible Jurisdiction
-------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Primary jurisdiction rests with Intelligence Division and Subject Care Division. Recovery Division attaches for
 product seizure, safe transport, and family-location work. Medical Division attaches when products alter sleep, panic
@@ -372,7 +372,7 @@ Site jurisdiction follows the active case. Central Archive retains the master pr
 material crosses Site boundaries through civilian care networks rather than through ordinary anomaly movement.
 
 Posture Implementation
-----------------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T posture is COOPERATED / MONITOR / HELP. Cooperation is permitted only through verified product-preservation,
 child-safety, and aftercare channels. Monitoring includes recovered packaging, lot numbers, care cards, warranty
@@ -386,7 +386,7 @@ child's only functioning boundary against a
 returning hazard.
 
 Response Limits and Red Lines
------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T will not allow Lullaby Works to distribute products that bind children permanently, suppress informed consent
 from caregivers, alter memory without review, conceal active abuse, or prevent medical treatment. A.C.T will not allow
@@ -397,13 +397,13 @@ that removal would endanger the child. In those cases, field teams must use on-s
 documentation, controlled
 observation, duplicate packaging recovery, and delayed transfer.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 OPERATIONAL RECORDS
--------------------
+═══════════════════════════════════════════════════════════════════════
 
 Restricted Operational Extract
-------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 PRODUCT RECOVERY LABEL: LW / NIGHTLIGHT LOT SLEEP-SAFE-7
 LOCATION: [CENSOR: PEDIATRIC SHELTER]
@@ -441,13 +441,13 @@ Replacement approved after review.
 The final fragment is preserved because it proves product failure review exists. It also confirms that Lullaby Works
 understands misuse and unintended injury. Full failure files remain unrecovered.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
--------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Confirmed Operational Facts
----------------------------
+═══════════════════════════════════════════════════════════════════════
 
 - Lullaby Works is an outside corporate network, not an A.C.T program or internal
 child-care tool supplier.
@@ -457,7 +457,7 @@ child-care tool supplier.
 - The group withholds manufacturing source data, leadership identities, and full product-failure records.
 
 Active Intelligence Assessment
-------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T assesses Lullaby Works as a specialized positive corporate GOI built around child-first anomalous protection.
 Its existence fills a gap A.C.T cannot ignore: some children encounter anomalies before adults, police, schools,
@@ -471,7 +471,7 @@ restraint: verify, stabilize, consult Subject Care, and do not turn recovery pro
 second trauma.
 
 Persistent Questions
---------------------
+═══════════════════════════════════════════════════════════════════════
 
 - Who founded Lullaby Works, and was the founder a survivor, parent, clinician, anomaly,
 or former containment worker?
@@ -488,20 +488,20 @@ known relation to the
 purchasing families?
 
 Intelligence Confidence
------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Moderate. Product effects, distribution patterns, and positive child-protection outcomes are well supported across
 multiple cases. Leadership, manufacturing source, financial structure, and long-term product cost remain unresolved.
 Confidence may rise if A.C.T secures a complete warranty ledger, interviews informed design staff, or negotiates a
 controlled recall with verified replacement care for affected children.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 CROSS-REFERENCE STATUS
-----------------------
+═══════════════════════════════════════════════════════════════════════
 
 Anomaly and Record Relationship
--------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Lullaby Works is an organization and therefore belongs in the GOI archive. Individual products may require separate
 object files when they produce independent anomalous effects, injure caregivers, continue functioning after separation
@@ -510,7 +510,7 @@ must not replace child-witness
 files, product-custody sheets, medical aftercare reviews, or family relocation records.
 
 Related A.C.T Records
----------------------
+═══════════════════════════════════════════════════════════════════════
 
 - CONTROLLED RECORD FORM, Group of Interest Registry
 - GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE, Group of Interest Registry
@@ -522,16 +522,16 @@ Forms/ACT_Amnestic_Administration_and_Memory_Aftercare_Review_Form.md
 routing.
 
 Dual Filing
------------
+═══════════════════════════════════════════════════════════════════════
 
 Under review. Lullaby Works is a corporate GOI, but several products may require object-level anomaly filing. Dual
 filing is mandatory for any product that acts without child proximity, reproduces, permanently alters memory, bonds to
 more than one household, or resists safe deactivation.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 FILE METADATA
--------------
+═══════════════════════════════════════════════════════════════════════
 
 FILE CREATED:            16/03/2005
 FILE LAST UPDATED:       13/05/2022

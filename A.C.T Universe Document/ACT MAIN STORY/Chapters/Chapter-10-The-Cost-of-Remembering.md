@@ -20,8 +20,8 @@ The morning after she wrote the sentence—**A.C.T was built to make itself forg
 really happened in the
 abyss**—she woke already certain that she had forgotten part of a dream. Not unusual.
 Everyone in the Facility lost
-pieces of sleep. Artificial cycles, underground air, stress chemistry, fluorescent hours—all of it made dreams
-brittle.
+pieces of sleep. Artificial cycles, underground air, stress
+chemistry, fluorescent hours—all of it made dreams brittle.
 
 What was unusual was the shape left behind.
 

@@ -19,10 +19,10 @@
 This file is the complete individual dossier for **ACT-SITE-03-JP-E**, the **Kurokawa Archive Node**, one of the five
 recognized major SITE installations of the A.C.T Facility network.
 
-Kurokawa is the Facility's instrument for the dangers that live in information. It handles memetic anomalies,
-information hazards, document-borne threats, and the dense urban signal environment of eastern Japan — a region where
-the anomalous frequently travels through media, archives, networks, and the human mind before it ever takes physical
-form.
+Kurokawa is the Facility's instrument for the dangers that live in information. It handles
+memetic anomalies, information hazards, document-borne threats, and the dense urban signal
+environment of eastern Japan — a region where the anomalous frequently travels through
+media, archives, networks, and the human mind before it ever takes physical form.
 
 This dossier records the node in full institutional language: what it is, why it
 stands where it stands, how it is
@@ -73,8 +73,8 @@ The node is embedded in eastern Japan, in one of the densest media and
 information environments on Earth. This
 placement is not accidental: the region's population density, media saturation, and archival depth make
 it both a
-primary origin zone for memetic and informational anomalies and the region where such anomalies spread fastest if
-uncontained.
+primary origin zone for memetic and informational anomalies and
+the region where such anomalies spread fastest if uncontained.
 
 The node must operate where the threat lives. A memetic containment facility built far
 from media would be blind to
@@ -147,10 +147,10 @@ standing review authority over the node's work.
 
 ### 5.2 The Dual Review Structure
 
-The dual review structure exists because the node's two functions can conflict. Archival doctrine asks whether
-information can be safely preserved; intelligence doctrine asks whether information should be known at all. Kurokawa's
-Director must balance preservation against suppression, and the dual review structure ensures that neither mandate
-dominates unchecked.
+The dual review structure exists because the node's two functions can conflict. Archival
+doctrine asks whether information can be safely preserved; intelligence doctrine asks whether
+information should be known at all. Kurokawa's Director must balance preservation against
+suppression, and the dual review structure ensures that neither mandate dominates unchecked.
 
 ### 5.3 Escalation and Overlap
 
@@ -193,8 +193,8 @@ environment. Its work includes:
   information-borne threats
 — forecasting which emerging narratives may become anomalous
 
-The Intelligence Division is the node's early-warning system: it detects the anomalous before it reaches the Archive
-Division's intake.
+The Intelligence Division is the node's early-warning system: it
+detects the anomalous before it reaches the Archive Division's intake.
 
 ### 6.3 Researcher Division
 
@@ -252,8 +252,8 @@ site.
 
 ### F-8 — Surface Archive and Transition Level
 The legitimate foundation complex: reading rooms, preservation labs, digitization facilities, and administrative
-spaces. Public and semi-public document work occurs on this level; nothing anomalous is handled here without immediate
-transfer below.
+spaces. Public and semi-public document work occurs on this level;
+nothing anomalous is handled here without immediate transfer below.
 
 ### F-7 — Personnel and Administrative Level
 Staff offices, training spaces, clearance processing, and the Site Director's command floor. Personnel transition
@@ -351,8 +351,8 @@ THAT TEACHES FEAR TO LOOK BACK**.
 AFD-ME-018 is a visual memetic anomaly presenting as a simplified eye-like symbol: a narrow black oval, a white
 vertical pupil, and three short radial marks beneath the lower curve. The form is
 simple enough to be redrawn
-accidentally, but the anomalous form is identifiable by the viewer's immediate recognition that the symbol is "looking
-afraid of them."
+accidentally, but the anomalous form is identifiable by the viewer's
+immediate recognition that the symbol is "looking afraid of them."
 
 The anomaly does not produce fear by showing frightening imagery. It causes the viewer
 to become aware of a fear
@@ -447,9 +447,9 @@ began reproducing on its own.
 Breach response at the node follows the standard Facility priority order: maintain world secrecy, maintain structural
 normalcy, close F-1 to the outside, activate ARM, activate RSA support, deploy the AAC
 Task Force, and evacuate all
-non-containment personnel. Local doctrine adds one standing rule: **an uncontrolled reading is a breach** — the node
-treats an escaped document, a copied symbol, or an unauthorized understanding with the same severity as an escaped
-physical anomaly.
+non-containment personnel. Local doctrine adds one standing rule: **an uncontrolled
+reading is a breach** — the node treats an escaped document, a copied symbol, or an
+unauthorized understanding with the same severity as an escaped physical anomaly.
 
 ---
 
@@ -457,10 +457,10 @@ physical anomaly.
 
 ### 13.1 Cover Integrity
 
-The node's cover as a cultural-research foundation is reinforced by genuine activity: the node preserves real
-documents, runs real digitization programs, and employs legitimate archivists at its upper levels. The cover is
-protected by the region's own information culture, in which archival institutions are ordinary features of the urban
-landscape.
+The node's cover as a cultural-research foundation is reinforced by genuine activity: the
+node preserves real documents, runs real digitization programs, and employs legitimate
+archivists at its upper levels. The cover is protected by the region's own information
+culture, in which archival institutions are ordinary features of the urban landscape.
 
 ### 13.2 Leak Doctrine
 
@@ -514,9 +514,9 @@ remain able to leave the material behind.
 
 ### 15.1 Foundation-Era Incidents
 
-Early records preserve the incidents that justified the node's expansion: document-borne contamination events, memetic
-symbols that spread through urban media before containment, and archive spillover events that overwhelmed the original
-records-monitoring capacity.
+Early records preserve the incidents that justified the node's expansion: document-borne
+contamination events, memetic symbols that spread through urban media before containment,
+and archive spillover events that overwhelmed the original records-monitoring capacity.
 
 ### 15.2 Archive Spillover Events
 

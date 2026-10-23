@@ -308,9 +308,9 @@ aftercare when it decides an ending should be accepted. It is not classified Neg
 because its members are loud,
 cruel, or openly destructive. It is Negative because its mercy doctrine makes victims easier to lose.
 
-A.C.T must separate victims from active sect personnel. Many recruits are traumatized and may need care, not
-punishment. Mercy Readers, Noon Nurses, and Sleep Wardens conducting active quieting rites are GOI operators and must
-be treated accordingly.
+A.C.T must separate victims from active sect personnel. Many recruits are traumatized
+and may need care, not punishment. Mercy Readers, Noon Nurses, and Sleep Wardens
+conducting active quieting rites are GOI operators and must be treated accordingly.
 
 ---
 
@@ -332,8 +332,8 @@ active sedatives, surrender cards, hymn recordings, noon-room curtains, or clini
 compliance effects. Dismantling is authorized for cells that administer substances, obstruct evacuation, hide
 children, or interfere with medical rescue.
 
-Subject Care must be attached after operations because aggressive disruption can intensify the despair that recruited
-victims in the first place.
+Subject Care must be attached after operations because aggressive disruption
+can intensify the despair that recruited victims in the first place.
 
 ### Response Limits and Red Lines
 
@@ -404,8 +404,7 @@ resentment toward rescue recovery.
 — Its rites and substances can reduce panic while undermining evacuation and consent.
  The group has obstructed A.C.T, Grey Harbor, and other rescue efforts during active
  danger.
- The sect's operational relationship to A.C.T is negative because it encourages surrender where containment
- requires
+ The sect's operational relationship to A.C.T is negative because it encourages surrender where containment requires
  survival action.
 
 ### Active Intelligence Assessment
@@ -417,15 +416,14 @@ another form of suffering. It is most effective after official systems have alre
 
 The sect should remain distinct from Last Bell Congregation and Children of the Deep.
 Last Bell warns so people can
-survive. Children of the Deep seeks awakening of an external apocalyptic entity. Mercy of the Quiet Sun seeks quiet
-surrender when it believes survival is cruel or impossible. These are separate apocalypse relationships and must not
-be merged.
+survive. Children of the Deep seeks awakening of an external apocalyptic entity.
+Mercy of the Quiet Sun seeks quiet surrender when it believes survival is cruel or
+impossible. These are separate apocalypse relationships and must not be merged.
 
 ### Persistent Questions
 
 - Who or what is the Warm Witness?
- Are quieting effects produced primarily by substances, hymn cadence, room light, grief state, or
- combined ritual
+ Are quieting effects produced primarily by substances, hymn cadence, room light, grief state, or combined ritual
  conditions?
 - How many clinic-chapels operate under legitimate hospice licenses?
  Has the sect ever correctly identified a truly nonrecoverable event before A.C.T confirmed it?

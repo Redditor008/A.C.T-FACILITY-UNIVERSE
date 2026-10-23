@@ -201,9 +201,9 @@ still attached, so the first reading is never lost.
 
 During live watch, DMPC receives readings from F-1 and confirms that the incoming event
 has a stable source trail.
-Analysts compare readings against ordinary geology, facility vibration, marine activity, resident movement, weather,
-equipment state, and known restricted patterns. Every event is marked with a classification and confidence level
-before distribution.
+Analysts compare readings against ordinary geology, facility vibration, marine
+activity, resident movement, weather, equipment state, and known restricted patterns.
+Every event is marked with a classification and confidence level before distribution.
 
 If an event affects immediate safety, Containment and Site Command receive action-level warning. If an event requires
 study, Research receives a controlled packet. If the event may fall under abyss-related review, DMPC routes it toward
@@ -271,8 +271,8 @@ FAILURE HISTORY
 DMPC-F-2 Establishment Review
 The F-2 dossier identifies the processing center as the location where signals from the
 sensor nexus below are
-processed, assessed, and distributed. DMPC was formalized to make this work a controlled technology rather than an
-informal analyst practice.
+processed, assessed, and distributed. DMPC was formalized to make this
+work a controlled technology rather than an informal analyst practice.
 
 DMPC-Restriction Escalation Notice
 A deep-earth event that first resembled ordinary volcanic motion later developed restricted correlation markers.
@@ -280,9 +280,9 @@ Current procedure requires DMPC to keep provisional classifications attached to 
 not lose the original reasoning.
 
 DMPC-Backlog Drill
-A simulated storm, volcanic pulse, and chamber alarm produced more events than one watch cell could classify within
-standard time. DMPC now maintains split-lane processing for immediate containment alerts and slower restricted review
-candidates.
+A simulated storm, volcanic pulse, and chamber alarm produced more events than one
+watch cell could classify within standard time. DMPC now maintains split-lane
+processing for immediate containment alerts and slower restricted review candidates.
 
 DIVISION USE
 

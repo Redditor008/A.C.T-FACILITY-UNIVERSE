@@ -199,9 +199,9 @@ under the same caution as source material.
 | Monthly | review exposure totals per analyst |
 | Quarterly | re-confirm restriction sets against doctrine |
 
-Monthly review of exposure totals per analyst exists because tolerance is assumed rather than measured. An
-analyst who volunteers for every session accumulates exposure that no single session would have permitted,
-and only the total shows it.
+Monthly review of exposure totals per analyst exists because tolerance is assumed
+rather than measured. An analyst who volunteers for every session accumulates
+exposure that no single session would have permitted, and only the total shows it.
 
 ## FAULT ISOLATION
 
@@ -215,10 +215,10 @@ and only the total shows it.
 
 ## KNOWN LIMITS
 
-SBCOS can reduce visual exposure, but it cannot promise that partial perception is safe. Some symbols may activate
-through fragments, negative space, memory reconstruction, repeated failed observation, or the act of knowing that a
-form is hidden. The suite also cannot prevent an experienced researcher from mentally completing a symbol faster than
-the apparatus reveals it.
+SBCOS can reduce visual exposure, but it cannot promise that partial perception is safe. Some
+symbols may activate through fragments, negative space, memory reconstruction, repeated failed
+observation, or the act of knowing that a form is hidden. The suite also cannot prevent an
+experienced researcher from mentally completing a symbol faster than the apparatus reveals it.
 
 Known failure modes include reflection leak, delayed-display failure, observer mental completion, unauthorized
 sketching, derivative propagation, exposure-clock override, Medical termination ignored, symbol migration across note
@@ -229,9 +229,9 @@ fields, Intelligence copying for threat assessment, and false confidence after a
 ## FAILURE HISTORY
 
 ### SBCOS-Visual Denial Standard
-A research review found that blocking direct sight was insufficient when reflections and derivatives remained
-available. Current SBCOS doctrine controls source, reflection, capture, derivative, and note surface as part of one
-visual field.
+A research review found that blocking direct sight was insufficient when reflections
+and derivatives remained available. Current SBCOS doctrine controls source,
+reflection, capture, derivative, and note surface as part of one visual field.
 
 ### SBCOS-Dread EYE Restriction Alignment
 Dread EYE study demonstrated that analysis conducted away from the resident still inherits the resident's restriction

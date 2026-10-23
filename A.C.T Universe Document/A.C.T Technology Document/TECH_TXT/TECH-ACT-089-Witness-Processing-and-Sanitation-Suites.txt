@@ -207,10 +207,10 @@ why a lower class was sufficient, so the record requires the justification to ex
 before the escalation,
 where it can be read by a later reviewer.
 
-Upon arrival, witnesses receive identity intake, exposure description, immediate medical assessment, and Security
-review. Staff determine whether the witness saw anomaly, Facility activity, both, or something too unclear for
-ordinary sanitation. Medical personnel determine whether amnestic use is safe. Archive staff open a temporary witness
-file and attach field reports.
+Upon arrival, witnesses receive identity intake, exposure description, immediate medical
+assessment, and Security review. Staff determine whether the witness saw anomaly, Facility
+activity, both, or something too unclear for ordinary sanitation. Medical personnel determine
+whether amnestic use is safe. Archive staff open a temporary witness file and attach field reports.
 
 Processing may produce release, delayed release, continued observation, parent-site referral, or assimilation review.
 Narrative insertion must match the witness's environment, injuries, travel record, and existing relationships. If

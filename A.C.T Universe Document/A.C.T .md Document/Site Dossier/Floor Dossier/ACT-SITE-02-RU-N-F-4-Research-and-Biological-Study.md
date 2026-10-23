@@ -64,9 +64,9 @@ conducted under the station's exacting standards.
 
 F-4 lies between the Personnel Habitation and Support level of F-5 above and the
 Standard Deep-Isolation Holding level
-of F-3 below. The floor's position places research directly above the holding population it studies, with the
-station's living quarters above the laboratories — so that personnel sleep above their work and descend to study what
-the deep floors hold.
+of F-3 below. The floor's position places research directly above the holding
+population it studies, with the station's living quarters above the laboratories — so
+that personnel sleep above their work and descend to study what the deep floors hold.
 
 ### 3.2 Relationship to F-3
 
@@ -99,9 +99,9 @@ that faster facilities would miss.
 
 ### 4.3 Modern Configuration
 
-In its modern configuration, F-4 is the station's research heart: the laboratory level where the facility studies the
-biology it contains, under the controlled conditions and long observation schedules that define White Grave's research
-culture.
+In its modern configuration, F-4 is the station's research heart: the laboratory
+level where the facility studies the biology it contains, under the controlled
+conditions and long observation schedules that define White Grave's research culture.
 
 ---
 
@@ -114,9 +114,9 @@ the division and the Site Director.
 
 ### 5.2 Authority over Study
 
-Research access to the station's residents is governed by the station's research authorization doctrine: each study is
-documented, each resident's restriction set governs how it may be studied, and each program is authorized at the
-appropriate level.
+Research access to the station's residents is governed by the station's research
+authorization doctrine: each study is documented, each resident's restriction set
+governs how it may be studied, and each program is authorized at the appropriate level.
 
 ### 5.3 Authority Limits
 
@@ -130,8 +130,8 @@ it may not decide what happens to the material it studies.
 
 ### 6.1 Research Division
 
-The Research Division is F-4's principal operator: biological study, sample processing, long-term observation, and the
-floor's laboratory programs.
+The Research Division is F-4's principal operator: biological study, sample
+processing, long-term observation, and the floor's laboratory programs.
 
 ### 6.2 Medical Division Liaison
 
@@ -145,8 +145,8 @@ floors, and enforce the handling rules that govern the floor's research material
 
 ### 6.4 Security Division
 
-Security guards the floor's access architecture and enforces the access rules that govern entry to the floor's study
-spaces.
+Security guards the floor's access architecture and enforces
+the access rules that govern entry to the floor's study spaces.
 
 ### 6.5 Archive Division Liaison
 
@@ -224,9 +224,9 @@ individually gated to the personnel cleared for each program.
 
 ### 9.2 Sample Control
 
-Material drawn from the holding floors for study is controlled at every step: documented transfer, controlled
-handling, and verified return. The floor's sample-control doctrine treats every resident as the property of its
-containment assignment.
+Material drawn from the holding floors for study is controlled at every step: documented
+transfer, controlled handling, and verified return. The floor's sample-control doctrine
+treats every resident as the property of its containment assignment.
 
 ### 9.3 Study Restriction Enforcement
 
@@ -303,8 +303,8 @@ would exhaust other facilities as the basic timescale of White Grave research.
 
 F-4 doctrine holds that research is governed by restriction: the floor must know which
 residents may be studied and
-how, and must refuse study that exceeds a resident's restriction set. Knowledge is pursued within the limits that
-containment requires.
+how, and must refuse study that exceeds a resident's restriction set.
+Knowledge is pursued within the limits that containment requires.
 
 ---
 

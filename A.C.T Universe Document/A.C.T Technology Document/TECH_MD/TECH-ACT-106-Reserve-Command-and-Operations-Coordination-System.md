@@ -71,10 +71,10 @@ needed a buried command level that could direct work happening in the open witho
 exposing that command to the
 legitimate surface campus.
 
-F-4 became that buried command. The floor dossier records the level's central functions: Site Director command,
-personnel processing, security command, and internal logistics. RCOCS formalizes the technology that binds those
-functions into one operational system. It developed to prevent the reserve from splitting into isolated camps, labs,
-sectors, and patrols.
+F-4 became that buried command. The floor dossier records the level's central functions: Site
+Director command, personnel processing, security command, and internal logistics. RCOCS
+formalizes the technology that binds those functions into one operational system. It developed
+to prevent the reserve from splitting into isolated camps, labs, sectors, and patrols.
 
 ---
 
@@ -231,10 +231,10 @@ movement, vegetation growth, or concealed routes. It depends on accurate reporti
 enclosure sector that lies about its own condition, a resident that disrupts perimeter awareness, or a public-program
 event that blocks access can degrade the operational picture.
 
-Known failure modes include sector-status drift, delayed field-team check-in, surface-campus cover conflict, security
-overcommitment, communications interference, logistics-route closure, command information overload, division authority
-dispute, and incident escalation before a duty officer recognizes that multiple small events are one biological
-pattern.
+Known failure modes include sector-status drift, delayed field-team check-in, surface-campus
+cover conflict, security overcommitment, communications interference, logistics-route
+closure, command information overload, division authority dispute, and incident escalation
+before a duty officer recognizes that multiple small events are one biological pattern.
 
 ---
 

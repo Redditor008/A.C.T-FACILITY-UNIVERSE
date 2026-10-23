@@ -23,8 +23,8 @@ that habit visible.
 
 ### 1. Use Conditions
 
-Use this form whenever A.C.T considers, approves, denies, administers, withholds, reverses, audits, or follows up on
-memory alteration.
+Use this form whenever A.C.T considers, approves, denies, administers,
+withholds, reverses, audits, or follows up on memory alteration.
 
 Required use cases include:
 

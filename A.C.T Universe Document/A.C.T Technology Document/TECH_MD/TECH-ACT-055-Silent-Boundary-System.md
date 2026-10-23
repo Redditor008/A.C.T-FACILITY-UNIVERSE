@@ -55,9 +55,9 @@ an incident, SBS selects the least damaging public explanation available: equipm
 industrial accident, missing-person case, medical confusion, mass hysteria, religious folklore, criminal cover,
 weather event, abandoned-property dispute, classified exercise, or no public narrative if no mask is required.
 
-The technology is called a system because it joins physical concealment with narrative maintenance. A hidden door is
-not silent if the ambulance record, school absence note, insurance claim, police log, and local rumor all point back
-to it.
+The technology is called a system because it joins physical concealment with
+narrative maintenance. A hidden door is not silent if the ambulance record, school
+absence note, insurance claim, police log, and local rumor all point back to it.
 
 ---
 
@@ -74,8 +74,8 @@ civilians. N-1 preserves a natural misread. N-2 inserts a local explanation. N-3
 requires national suppression. N-5 becomes a structural normalcy operation, where memory, institutions, archives,
 language, and future pattern recognition must be managed together.
 
-This development created one of A.C.T's most dangerous internal rules: the archive must remember what the public file
-is designed to forget.
+This development created one of A.C.T's most dangerous internal rules:
+the archive must remember what the public file is designed to forget.
 
 ---
 
@@ -235,10 +235,10 @@ be used to hide A.C.T misconduct from internal review. Normalcy doctrine forbids
 families for convenience, selling cover access, destroying functioning cultural containment without review, or
 rewriting true anomaly files so they match public stories.
 
-Known failure modes include cover overreach, witness convergence, hostile truth fragments, medical contradiction,
-legal echo, social media pattern spread, GOI narrative hijack, amnestic cluster recognition, folklore mutation, and
-internal memory contamination. The last is the most dangerous: when staff begin treating the lie as the truth,
-containment loses its own map.
+Known failure modes include cover overreach, witness convergence, hostile truth fragments,
+medical contradiction, legal echo, social media pattern spread, GOI narrative hijack, amnestic
+cluster recognition, folklore mutation, and internal memory contamination. The last is the
+most dangerous: when staff begin treating the lie as the truth, containment loses its own map.
 
 ---
 

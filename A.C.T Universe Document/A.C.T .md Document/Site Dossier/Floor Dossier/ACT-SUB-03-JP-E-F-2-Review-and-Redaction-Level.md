@@ -29,8 +29,8 @@ the disposition the review determines.
 
 This dossier records the floor in full institutional language: what it is, what it
 does, how it is built, how it is
-run, and how the annex's controlled review protects the eastern archive from the material that must not be read
-freely.
+run, and how the annex's controlled review protects the eastern
+archive from the material that must not be read freely.
 
 ---
 
@@ -86,9 +86,9 @@ decides what each holding needs.
 
 ### 4.1 Development of the Review Floor
 
-F-2's character developed with the annex's creation: built to absorb archive spillover from the parent node, the annex
-required a review capacity — the controlled reading and assessment that buffered material demands before any
-disposition.
+F-2's character developed with the annex's creation: built to absorb archive
+spillover from the parent node, the annex required a review capacity — the controlled
+reading and assessment that buffered material demands before any disposition.
 
 ### 4.2 The Controlled-Reading Doctrine
 
@@ -117,10 +117,10 @@ work under the annex's doctrine. Authority over quarantine is shared with the Qu
 
 ### 5.3 Authority Limits
 
-F-2 holds no authority over material requiring the parent node's deeper archival handling, no authority to release
-material to ordinary circulation beyond the redaction doctrine, and no authority to conduct review outside the annex's
-controlled conditions. Its role is review and redaction — the assessment of buffered material under the discipline the
-material demands.
+F-2 holds no authority over material requiring the parent node's deeper archival handling, no
+authority to release material to ordinary circulation beyond the redaction doctrine, and no
+authority to conduct review outside the annex's controlled conditions. Its role is review and
+redaction — the assessment of buffered material under the discipline the material demands.
 
 ---
 
@@ -173,9 +173,9 @@ require the parent node's full capacity is staged here.
 
 ### 7.4 The Review Staging Areas
 
-The floor's staging areas manage the flow of material through the annex: buffered holdings enter review, move between
-reading and redaction, and are staged for their documented disposition — return, transfer, or deeper archival
-handling.
+The floor's staging areas manage the flow of material through the annex: buffered
+holdings enter review, move between reading and redaction, and are staged for
+their documented disposition — return, transfer, or deeper archival handling.
 
 ---
 
@@ -213,10 +213,10 @@ material being processed.
 
 ### 9.2 Controlled-Reading Discipline
 
-The floor's reading operations follow the annex's review doctrine: reading is conducted by trained personnel, in
-controlled cells, under observation, and within exposure limits. During active memetic contamination cycles, no solo
-review shifts are authorized — all controlled reading occurs under paired or supervised conditions, with aftercare
-requirements enforced.
+The floor's reading operations follow the annex's review doctrine: reading is conducted by
+trained personnel, in controlled cells, under observation, and within exposure limits. During
+active memetic contamination cycles, no solo review shifts are authorized — all controlled
+reading occurs under paired or supervised conditions, with aftercare requirements enforced.
 
 ### 9.3 Redaction Discipline
 
@@ -225,9 +225,9 @@ for its disposition, and the floor's redaction decisions are documented and revi
 
 ### 9.4 Escalation Handling
 
-Material whose review reveals a character beyond the annex's capacity is prepared for transfer to the Kurokawa Archive
-Node under documented procedure; material that cannot be safely reviewed at all remains in quarantine on F-1 until the
-parent node assumes control.
+Material whose review reveals a character beyond the annex's capacity is prepared for
+transfer to the Kurokawa Archive Node under documented procedure; material that cannot be
+safely reviewed at all remains in quarantine on F-1 until the parent node assumes control.
 
 ---
 
@@ -237,8 +237,8 @@ parent node assumes control.
 
 F-2 does not maintain permanent holdings. Its manifest is a rolling record of material
 under review: buffered holdings
-moving through reading, redaction, and staging. The floor's documentation follows each holding from intake through
-review to disposition.
+moving through reading, redaction, and staging. The floor's documentation
+follows each holding from intake through review to disposition.
 
 ### 10.2 Population Character
 
@@ -249,8 +249,8 @@ reading, under assessment, undergoing redaction, or staged for disposition.
 
 Every holding reviewed on F-2 resolves to one of the annex's dispositions: return to
 the parent node's ordinary
-processing where cleared, transfer to the parent node for deeper archival handling, or restricted release under the
-redaction doctrine.
+processing where cleared, transfer to the parent node for deeper
+archival handling, or restricted release under the redaction doctrine.
 
 ---
 
@@ -335,5 +335,5 @@ the floor where the annex's buffering becomes judgment.
 
 It is the floor of careful reading: where trained personnel engage material that must
 not be read freely, never alone
-when the material demands otherwise, and always with the understanding that their judgment decides where dangerous
-words finally come to rest.
+when the material demands otherwise, and always with the understanding
+that their judgment decides where dangerous words finally come to rest.

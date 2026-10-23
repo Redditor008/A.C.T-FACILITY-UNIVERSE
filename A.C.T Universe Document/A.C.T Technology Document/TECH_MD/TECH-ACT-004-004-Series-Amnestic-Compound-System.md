@@ -49,10 +49,10 @@ memory ranges after anomaly exposure. It supports public normalcy, witness sanit
 interruption, recovered-document exposure response, GOI information containment, dream or chronology contamination
 review, and post-breach stabilization.
 
-The established compound reference states that the recognized derivatives are refined from the sap of AFD-NB-004 and
-form the basis of A.C.T memory suppression, witness sanitation, secrecy preservation, and restricted recall erasure
-protocols. Raw sap is not safe for unrestricted use. All 004-series compounds are classified as anomaly-derived
-neurological erasure agents.
+The established compound reference states that the recognized derivatives are refined from the
+sap of AFD-NB-004 and form the basis of A.C.T memory suppression, witness sanitation, secrecy
+preservation, and restricted recall erasure protocols. Raw sap is not safe for unrestricted
+use. All 004-series compounds are classified as anomaly-derived neurological erasure agents.
 
 The system's working rule is:
 
@@ -104,9 +104,9 @@ The technological timeline records 004-Series Refinement in 1952, with industria
 memory-solvent compounds and establishment of the Graded Amnestic Standard. That date marks the transition from
 dangerous source-sap handling to institutional memory-control infrastructure.
 
-Normalcy doctrine warns that if A.C.T forgets where its amnestics came from, the normalcy system begins lying to
-itself. This record preserves that warning as a technical control. Provenance is not trivia. Provenance is a safety
-feature.
+Normalcy doctrine warns that if A.C.T forgets where its amnestics came from, the
+normalcy system begins lying to itself. This record preserves that warning as a
+technical control. Provenance is not trivia. Provenance is a safety feature.
 
 ### Custody
 
@@ -219,8 +219,8 @@ Known system components include:
 - adverse-effect monitoring sheets;
 - QNB-linked administration logs.
 
-Raw sap, unstable dilution, cracked stabilizer caps, or unexplained golden vapor must be treated as active hazard
-material.
+Raw sap, unstable dilution, cracked stabilizer caps, or unexplained
+golden vapor must be treated as active hazard material.
 
 ---
 
@@ -283,8 +283,8 @@ after the person refuses unless override authority is written plainly. Do not us
 memory insertion without
 separate justification. Do not erase a memory anchor required for safety. Do not use
 amnestics to make personnel
-available for the same exposure again without Medical Care and Personnel Review approval. Do not use amnestics to hide
-A.C.T misconduct.
+available for the same exposure again without Medical Care and Personnel
+Review approval. Do not use amnestics to hide A.C.T misconduct.
 
 ---
 
@@ -447,12 +447,10 @@ an A.C.T-controlled technology lineage.
  cautious?
 — How many repeated short-window administrations equal one severe continuity injury?
 — Can partial truth shards be standardized, or must every shard remain case-specific?
- Do QNB-preserved contradictions worsen distress in treated personnel who later read their own pre-treatment
- records?
-— Can 004 use aggravate Namewright-style identity instability or Missing 404 record absence? —
-What long-term biological cost exists for people exposed only to stabilized low-grade compounds?
-Is full reversal possible after 004-E or higher, or only reconstruction through records and
- testimony?
+ Do QNB-preserved contradictions worsen distress in treated personnel who later read their own pre-treatment records?
+— Can 004 use aggravate Namewright-style identity instability or Missing 404 record absence? — What
+long-term biological cost exists for people exposed only to stabilized low-grade compounds? Is full
+reversal possible after 004-E or higher, or only reconstruction through records and testimony?
  What failure mode appears if 004 treatment occurs during ARM-WHITE public dulling and
  RSA-WHITE
  hard anchoring?

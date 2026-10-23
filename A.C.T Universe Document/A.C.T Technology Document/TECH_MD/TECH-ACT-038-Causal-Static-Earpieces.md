@@ -47,11 +47,11 @@ KEEP THE AGENT THINKING IN PROCEDURE WHEN THE ROOM OFFERS A ROLE.
 
 ## FUNCTION SUMMARY
 
-A Causal Static Earpiece protects an individual operator from early-stage narrative recruitment, scripted thought
-drift, consensus pressure, and role assignment caused by narrative-bleed environments. It produces controlled static,
-logic-anchor vibration, and procedural cueing through the ear canal. The system does not make a person immune to
-memetics or ontological force. It interrupts the first moment when thought begins arranging itself into the shape the
-anomaly prefers.
+A Causal Static Earpiece protects an individual operator from early-stage narrative recruitment,
+scripted thought drift, consensus pressure, and role assignment caused by narrative-bleed
+environments. It produces controlled static, logic-anchor vibration, and procedural cueing through
+the ear canal. The system does not make a person immune to memetics or ontological force. It
+interrupts the first moment when thought begins arranging itself into the shape the anomaly prefers.
 
 In a Refracted One chamber, this matters because speculation changes the subject. If three people wonder aloud whether
 AFD-?.H-404 is a creature, object, place, or signal, the anomaly can move toward that
@@ -259,9 +259,9 @@ vibration resolved. The subject's file began drifting toward religious language.
 when speculative nouns cluster around identity.
 
 ### CSE-2022 Field Battery Drop
-A recovery agent entered a narrative-bleed apartment with one earbud at low charge. Static continued for six minutes
-after logic-anchor monitoring stopped. The agent later described the room as feeling like a stage. Battery separation
-alarms are now mandatory.
+A recovery agent entered a narrative-bleed apartment with one earbud at low charge.
+Static continued for six minutes after logic-anchor monitoring stopped. The agent later
+described the room as feeling like a stage. Battery separation alarms are now mandatory.
 
 ### CSE-2026 Overconfidence Drill
 A trained team wearing functioning CSE units failed a simulation by discussing what the

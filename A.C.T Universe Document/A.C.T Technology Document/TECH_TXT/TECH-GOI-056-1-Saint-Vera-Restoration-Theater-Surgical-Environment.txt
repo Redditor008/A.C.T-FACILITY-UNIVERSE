@@ -66,8 +66,8 @@ from it.
 Medical Division treats the theater as an environment rather than a device. This distinction matters for custody. A
 device can be boxed and shipped. An environment cannot be seized without destroying the
 conditions that made it work,
-and Medical Division has warned that copying Saint-Vera technique from recovered fragments could permanently worsen a
-survivor's condition.
+and Medical Division has warned that copying Saint-Vera technique from
+recovered fragments could permanently worsen a survivor's condition.
 
 ORIGIN AND CUSTODY
 
@@ -123,8 +123,8 @@ amnestics. This is the detail that separates a Saint-Vera recovery bed from a se
 couch: the patient is calmed
 without being erased. A.C.T has not recovered a bed. Subject Care Division regards the
 distinction as clinically
-important and ethically favourable, and has asked that any recovered bed be evaluated before it is treated as amnestic
-equipment.
+important and ethically favourable, and has asked that any recovered
+bed be evaluated before it is treated as amnestic equipment.
 
 Drainage routes are recorded in older A.C.T handling notes as something to preserve if
 a theater is recovered empty.
@@ -207,8 +207,8 @@ Do not classify before the fever breaks.
 
 If A.C.T is present, the Concern may request a monitored-care agreement. If A.C.T is
 not present, the group may
-conceal the patient until immediate death risk passes. Both behaviours are documented, and both are consistent with
-the same doctrine.
+conceal the patient until immediate death risk passes. Both behaviours
+are documented, and both are consistent with the same doctrine.
 
 Numbered Operating Sequence
 
@@ -264,9 +264,9 @@ FAULT ISOLATION
 +----------------------------+-------------------------------------------+-------------------------------------------+
 KNOWN LIMITS
 
-The Concern is not assessed as capable of broad resurrection. Claims that Saint-Vera can restore the dead are treated
-as rumor unless a case file confirms biological death, identity continuity, and post-procedure condition under A.C.T
-observation.
+The Concern is not assessed as capable of broad resurrection. Claims that Saint-Vera
+can restore the dead are treated as rumor unless a case file confirms biological
+death, identity continuity, and post-procedure condition under A.C.T observation.
 
 The theater does not make a survivor safe. The Concern's own records include quarantine
 language, sedation thresholds,

@@ -58,9 +58,9 @@ Field staff often describe SPC as a battery. That is only safe as a
 metaphor. The crystal does not simply store
 charge. It holds an argument about how local space should behave. When placed in
 a controlled system, that argument
-can reinforce walls, floors, containers, rails, or sensor baselines. When mishandled, the same argument can amplify
-stress, reject surrounding conditions, overheat, sing through nearby metal, or fracture into smaller pulses that no
-longer agree with each other.
+can reinforce walls, floors, containers, rails, or sensor baselines. When mishandled, the
+same argument can amplify stress, reject surrounding conditions, overheat, sing through
+nearby metal, or fracture into smaller pulses that no longer agree with each other.
 
 A.C.T uses SPC in four main ways:
 
@@ -73,11 +73,11 @@ A.C.T uses SPC in four main ways:
 
 ## ORIGIN AND CUSTODY
 
-The earliest modern records describe SPC as an Abyss Floor material recovered after A.C.T personnel noticed that
-certain violet mineral shards remained physically consistent while nearby equipment reported impossible depth and mass
-readings. Later testing found that the shards maintained an Earth-standard pulse even after exposure to spatial
-compression. A.C.T Engineering eventually learned to cut larger pieces into four-split core arrangements for RSA
-prototypes.
+The earliest modern records describe SPC as an Abyss Floor material recovered after A.C.T
+personnel noticed that certain violet mineral shards remained physically consistent while nearby
+equipment reported impossible depth and mass readings. Later testing found that the shards
+maintained an Earth-standard pulse even after exposure to spatial compression. A.C.T Engineering
+eventually learned to cut larger pieces into four-split core arrangements for RSA prototypes.
 
 Custody belongs to the Materials Custody Desk under Engineering Division. Site Command may hold issued cores but does
 not own uncut stock. Logistics may move sealed cases only under dual-signature chain of
@@ -109,10 +109,10 @@ Known packaging includes:
 - dual-seal custody locks;
 - insulated waste capsules for powder, dust, failed slivers, and cracked corners.
 
-Known processed forms include uncut source shards, quarter-core segments, calibration chips, dead reference chips, and
-fracture quarantine pieces. Only the first three are approved for normal use. Dead reference chips remain in teaching
-kits only after Materials Custody confirms that they hold no active pulse. Fracture quarantine pieces are not training
-aids.
+Known processed forms include uncut source shards, quarter-core segments, calibration chips,
+dead reference chips, and fracture quarantine pieces. Only the first three are approved for
+normal use. Dead reference chips remain in teaching kits only after Materials Custody
+confirms that they hold no active pulse. Fracture quarantine pieces are not training aids.
 
 A normal case label gives designation, mass band, thermal band, pulse band, handler initials, and last contact date.
 It does not list source tunnel, source depth, cutting plan, or compatible RSA geometry.
@@ -258,11 +258,11 @@ unsafe object safe to move. The material is strongest when the machine around it
 knows what baseline to request. It is
 dangerous when staff expect the crystal to improvise.
 
-Failure risks include overheating, pulse splitting, local magnetic sticking, stress singing, delayed crack growth,
-false calm in sensor dashboards, and compatibility drift between source batches. The most severe known risk is shard
-disagreement. If a damaged four-split core begins pulsing as four separate arguments rather than one coordinated
-reference, containment may appear stable while corners, doors, locks, and floor loads begin obeying different physical
-assumptions.
+Failure risks include overheating, pulse splitting, local magnetic sticking, stress singing,
+delayed crack growth, false calm in sensor dashboards, and compatibility drift between source
+batches. The most severe known risk is shard disagreement. If a damaged four-split core begins
+pulsing as four separate arguments rather than one coordinated reference, containment may appear
+stable while corners, doors, locks, and floor loads begin obeying different physical assumptions.
 
 ---
 
@@ -279,9 +279,9 @@ never a sign of efficiency.
 ### SPC-1982 Waste Chip Loss
 A discarded cutting chip was misfiled as dead mineral waste and later found stuck
 beneath a storage cart. The cart
-repeatedly returned to the same floor position after being moved. No breach occurred, but the incident led to waste
-capsules for dust, powder, corners, and slivers. Materials Custody still audits old workshop drains for forgotten
-crystal grit.
+repeatedly returned to the same floor position after being moved. No breach occurred,
+but the incident led to waste capsules for dust, powder, corners, and slivers.
+Materials Custody still audits old workshop drains for forgotten crystal grit.
 
 ### SPC-2009 Heat Without Load
 A sealed case warmed during transfer between two stable sites. The receiving RSA grid

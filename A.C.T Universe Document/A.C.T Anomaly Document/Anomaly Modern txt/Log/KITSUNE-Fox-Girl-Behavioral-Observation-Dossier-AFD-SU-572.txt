@@ -123,7 +123,7 @@ LOG TYPE:            Socialization Development Ledger
 CATEGORY:            Behavioral & Observation Dossier
 RANGE:               1934 to 1984
 
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 SUBJECT AGE:         232
 YEAR:                1934
 STAGE:               Introverted Shrine Withdrawal
@@ -144,7 +144,7 @@ When asked her name, the subject whispered:
 
                      "Kazumi Mori. Do not take the forest out of it."
 
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 SUBJECT AGE:         237
 YEAR:                1939
 STAGE:               Introverted Shrine Withdrawal / Early Recognition
@@ -161,7 +161,7 @@ Still introverted, but familiar-person recognition established.
 DEVELOPMENT NOTE:
 The subject accepted tea from a non-caretaker for the first recorded time.
 
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 SUBJECT AGE:         242
 YEAR:                1944
 STAGE:               Cautious Recognition
@@ -180,7 +180,7 @@ NOTABLE QUOTE:
 
                      "If you bring food without manners, it arrives tired."
 
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 SUBJECT AGE:         247
 YEAR:                1949
 STAGE:               Cautious Recognition
@@ -197,7 +197,7 @@ Developing trust through environmental respect.
 DEVELOPMENT NOTE:
 First recorded subject-initiated request.
 
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 SUBJECT AGE:         252
 YEAR:                1954
 STAGE:               Selective Trust
@@ -220,7 +220,7 @@ NOTABLE QUOTE:
 
                      "A forest can move if the roots are carried with apology."
 
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 SUBJECT AGE:         257
 YEAR:                1959
 STAGE:               Selective Trust
@@ -238,7 +238,7 @@ retreat behavior.
 DEVELOPMENT NOTE:
 First stable two-word telepathic phrase recorded: "door wait."
 
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 SUBJECT AGE:         262
 YEAR:                1964
 STAGE:               Cooperative Curiosity
@@ -257,7 +257,7 @@ NOTABLE QUOTE:
                      "Loneliness becomes easier when it is allowed to ask if it
                      has relatives."
 
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 SUBJECT AGE:         267
 YEAR:                1969
 STAGE:               Cooperative Curiosity
@@ -274,7 +274,7 @@ Emerging semi-extroverted behavior in emotionally structured settings.
 DEVELOPMENT NOTE:
 First recorded compassionate social initiation toward unfamiliar personnel.
 
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 SUBJECT AGE:         272
 YEAR:                1974
 STAGE:               Semi-Extroverted Stability
@@ -293,7 +293,7 @@ NOTABLE QUOTE:
                      "I can speak first now. It no longer feels like stepping
                      out during thunder."
 
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 SUBJECT AGE:         277
 YEAR:                1979
 STAGE:               Semi-Extroverted Stability
@@ -311,7 +311,7 @@ aligns with temple, memory, or care themes.
 DEVELOPMENT NOTE:
 First approved cooperative archive-support activity.
 
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 SUBJECT AGE:         282
 YEAR:                1984
 STAGE:               Semi-Extroverted Stability

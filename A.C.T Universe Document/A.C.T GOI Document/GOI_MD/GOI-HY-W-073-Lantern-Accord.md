@@ -65,13 +65,13 @@ or when a false road cuts through a public evacuation, the Accord can establish
 a temporary lantern line. That line
 marks an emergency rule set: no seizure inside the line, no sale of passage
 inside the line, no conversion of rescued
-persons into prisoners, no weapon testing, no recruitment, no public spectacle, and no ownership claim until the line
-is closed.
+persons into prisoners, no weapon testing, no recruitment, no
+public spectacle, and no ownership claim until the line is closed.
 
-A.C.T tracks the Accord because the ability to create temporary order outside A.C.T command is consequential. In
-several incidents the Accord has prevented a second catastrophe. In others it has delayed A.C.T recovery while
-delegates argued whether a person, object, or ward belonged under A.C.T custody, Mercy Lock custody, municipal
-shelter, or local law.
+A.C.T tracks the Accord because the ability to create temporary order outside A.C.T command
+is consequential. In several incidents the Accord has prevented a second catastrophe. In
+others it has delayed A.C.T recovery while delegates argued whether a person, object, or
+ward belonged under A.C.T custody, Mercy Lock custody, municipal shelter, or local law.
 
 The Accord's repeated lantern rule is:
 
@@ -93,8 +93,8 @@ Known marks include yellow lantern stickers on the inside of depot doors, chalk 
 around temporary triage tents,
 relay vans with covered roof lamps, sealed handover cards, and the phrase **THE DOOR
 IS LIT** written at the bottom of
-evacuation notices. A.C.T has confirmed that ordinary civilians sometimes copy these marks after disasters, creating
-false positives.
+evacuation notices. A.C.T has confirmed that ordinary civilians
+sometimes copy these marks after disasters, creating false positives.
 
 ---
 
@@ -102,17 +102,17 @@ false positives.
 
 ### Leadership Condition
 
-Lantern Accord has no sovereign leader. Authority is distributed through Signatory Seats and crisis roles. A Signatory
-Seat represents a recognized group, ward, municipal covert office, route system, or custody institution. Lantern
-Marshals establish safe lines in the field. Accord Clerks record terms, violations, transfers, and delayed custody
-claims. Safe-Line Arbiters decide whether an action breaks emergency neutrality. Crisis Delegates negotiate under time
-pressure.
+Lantern Accord has no sovereign leader. Authority is distributed through Signatory Seats and
+crisis roles. A Signatory Seat represents a recognized group, ward, municipal covert office,
+route system, or custody institution. Lantern Marshals establish safe lines in the field. Accord
+Clerks record terms, violations, transfers, and delayed custody claims. Safe-Line Arbiters decide
+whether an action breaks emergency neutrality. Crisis Delegates negotiate under time pressure.
 
 A.C.T has not confirmed how a group becomes a recognized Signatory Seat. Recovered minutes mention a **First Lantern
 Table**, but the phrase may refer to the founding meeting, a physical table, an
 old neutral room, or the minimum
-number of signatories needed to light a line. This uncertainty matters because false Accord declarations could
-redirect entire evacuations.
+number of signatories needed to light a line. This uncertainty matters
+because false Accord declarations could redirect entire evacuations.
 
 ### Internal Structure
 
@@ -214,9 +214,9 @@ phrases, unusual handover rooms, nonstandard emergency escorts, missing jurisdic
 rival groups stop fighting under a lamp. The Accord reduces immediate exposure by preventing chaos, but the method
 itself can become evidence that ordinary emergency systems were not in charge.
 
-A.C.T may tolerate limited leakage when the alternative is mass casualty, public breach, or hostile capture of
-evacuees. Civil Covert must later fold Accord traces into disaster logistics, mutual-aid confusion, or private
-contractor cover.
+A.C.T may tolerate limited leakage when the alternative is mass casualty, public
+breach, or hostile capture of evacuees. Civil Covert must later fold Accord traces
+into disaster logistics, mutual-aid confusion, or private contractor cover.
 
 ---
 
@@ -305,9 +305,9 @@ Route claim: child must leave before old road hears her new name.
 Ruling: light first; claim later.
 ```
 
-Since then, A.C.T contact has included controlled use of lantern lines, disputes over custody freezes, beacon code
-monitoring, joint evacuations, and conflict after Accord delegates refused A.C.T immediate seizure of a protected
-witness.
+Since then, A.C.T contact has included controlled use of lantern lines, disputes
+over custody freezes, beacon code monitoring, joint evacuations, and conflict
+after Accord delegates refused A.C.T immediate seizure of a protected witness.
 
 ### Current Relationship
 
@@ -338,10 +338,10 @@ transfer, breach deconfliction, temporary safe lines, false-road coordination, h
 prevention of hostile containment seizure. Monitoring includes signatory rosters, beacon codes, line maps, neutral
 keys, violation ledgers, crisis-room locations, and repeat delegates.
 
-Misdirection is authorized when hostile actors attempt to exploit Accord marks, when public attention gathers around a
-lantern line, or when false beacons appear. Appropriation is authorized for active tools that threaten containment,
-counterfeit line warrants, compromised codebooks, or accord seals used to shield offenders after emergency conditions
-end.
+Misdirection is authorized when hostile actors attempt to exploit Accord marks, when public
+attention gathers around a lantern line, or when false beacons appear. Appropriation is
+authorized for active tools that threaten containment, counterfeit line warrants, compromised
+codebooks, or accord seals used to shield offenders after emergency conditions end.
 
 ### Response Limits and Red Lines
 
@@ -393,8 +393,8 @@ Witnesses: Lantern Marshal, A.C.T observer, Saint Morrow driver, two municipal m
 Result: line held after warning; breaker withdrew; later identified as Iron Meridian proxy.
 ```
 
-The extract is retained because it shows the Accord opposing a hostile containment force while A.C.T was present but
-not in full control.
+The extract is retained because it shows the Accord opposing a hostile
+containment force while A.C.T was present but not in full control.
 
 ```text
 FIELD COMMAND NOTE

@@ -16,9 +16,9 @@ structural materials, and operational hardware utilized by the
 organization. It documents the transition from early terrestrial
 restraints to current standardized stabilization technologies.
 
------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 I. FOUNDATIONAL ERA (1598 - 1887)
------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 Focus: Physical Containment and Passive Barrier Logic.
 
 Prior to the formalization of the ABYSS Floor protocols, containment
@@ -40,9 +40,9 @@ unstable phenomena.
   designs, utilizing multi-layered iron hulls to contain high-mass
   biological subjects.
 
------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 II. INDUSTRIAL EXPANSION (1888 - 1949)
------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 Focus: Deep-Earth Engineering and Perceptual Masking.
 
 The discovery of the World-Sleeper and the subsequent First Descent
@@ -66,9 +66,9 @@ secrecy maintenance.
   That custodial arrangement would remain outside formal anomaly archives
   until the subject's classification in 1976.
 
------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 III. INTEGRATION ERA (1950 - 1999)
------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 Focus: Refined Stabilization and Causal Buffering.
 
 This era saw the maturation of the organization's most critical
@@ -94,9 +94,9 @@ proprietary amnestics.
   vessels utilizing RSA technology to move world-scale samples
   through sub-orbital routes.
 
------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 IV. MODERN SYNTHESIS (2000 - 2026)
------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 Focus: Advanced Cybernetics and High-Entropy Defense.
 
 Current technological standards focus on the mitigation of narrative-

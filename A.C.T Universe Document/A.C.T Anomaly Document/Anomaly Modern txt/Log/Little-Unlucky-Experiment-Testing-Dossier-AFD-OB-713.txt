@@ -51,7 +51,7 @@ following low rolls (1 through 6). Messages are received as a "small,
 almost unheard whisper" directly in the mind.
 
 ROLL RESULT | WHISPERED WORD | SUBJECTIVE EMOTIONAL TONE
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 1           | "Sorry."       | Profound Guilt
 1           | "Fail."        | Hopelessness
 2           | "Again."       | Frustration

@@ -262,10 +262,10 @@ incomplete. A resident may change because it is being considered for change. Per
 safety or treat authorization as certainty. Staging chambers can also create pressure to proceed once an object has
 been moved out of ordinary holding.
 
-Known failure modes include authorization mismatch, underestimated irreversibility, staging lock bypass attempt,
-incomplete Research attachment, Containment custody gap, false neutralization assumption, preparation-state reaction,
-outcome drift, review-office delay, and unauthorized personnel treating the lock as a procedural obstacle rather than
-a containment device.
+Known failure modes include authorization mismatch, underestimated irreversibility, staging lock
+bypass attempt, incomplete Research attachment, Containment custody gap, false neutralization
+assumption, preparation-state reaction, outcome drift, review-office delay, and unauthorized
+personnel treating the lock as a procedural obstacle rather than a containment device.
 
 FAILURE HISTORY
 
@@ -285,10 +285,10 @@ procedure preserves return routes for residents judged unsuitable for transforma
 
 DIVISION USE
 
-Transformation Division operates evaluation and staging. Research provides characterization and hazard basis.
-Containment maintains resident custody until authorized transfer. Security enforces lock integrity and personnel
-access. Archive preserves the authorization record so the object's future is never separated from the decision that
-allowed it.
+Transformation Division operates evaluation and staging. Research provides characterization
+and hazard basis. Containment maintains resident custody until authorized transfer.
+Security enforces lock integrity and personnel access. Archive preserves the authorization
+record so the object's future is never separated from the decision that allowed it.
 
 AATSL doctrine holds that the Facility may change what it holds, but only when
 the authority behind the change is

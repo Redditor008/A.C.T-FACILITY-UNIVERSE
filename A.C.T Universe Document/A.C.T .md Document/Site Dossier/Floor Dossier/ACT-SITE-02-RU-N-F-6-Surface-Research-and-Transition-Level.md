@@ -172,9 +172,9 @@ is built on work that can withstand scrutiny.
 
 ### 7.3 The Airstrip and Maintenance Facilities
 
-The airstrip and vehicle maintenance facilities tie the station to the seasonal transport schedule: flights and
-overland convoys arrive on schedule, delivering personnel and material that transition through the level into the
-buried station.
+The airstrip and vehicle maintenance facilities tie the station to the seasonal
+transport schedule: flights and overland convoys arrive on schedule, delivering
+personnel and material that transition through the level into the buried station.
 
 ### 7.4 The Transition Architecture
 
@@ -188,8 +188,8 @@ is concealed — indistinguishable from ordinary station infrastructure to anyon
 
 ### 8.1 Power
 
-The level's power plant supplies the legitimate surface campus and the buried station, under the station's redundant
-power doctrine.
+The level's power plant supplies the legitimate surface campus and
+the buried station, under the station's redundant power doctrine.
 
 ### 8.2 Environment
 
@@ -198,15 +198,15 @@ that makes year-round surface operations possible in one of the Facility's colde
 
 ### 8.3 Monitoring
 
-Monitoring on F-6 is boundary-oriented: surface traffic, transport arrivals, and personnel movement are monitored
-under the Security Division's doctrine, with the monitoring architecture concealed as part of the level's surface
-design.
+Monitoring on F-6 is boundary-oriented: surface traffic, transport arrivals, and
+personnel movement are monitored under the Security Division's doctrine, with
+the monitoring architecture concealed as part of the level's surface design.
 
 ### 8.4 Communication
 
-The level maintains the station's external communications — the seasonal transport coordination and legitimate
-scientific communications that tie the surface station to the outside world — alongside the buried station's secure
-internal networks.
+The level maintains the station's external communications — the seasonal transport
+coordination and legitimate scientific communications that tie the surface station
+to the outside world — alongside the buried station's secure internal networks.
 
 ---
 
@@ -227,9 +227,9 @@ indistinguishable from ordinary station logistics.
 
 ### 9.3 The Seasonal Boundary
 
-The station's arctic environment is itself a security asset: the seasonal transport schedule means the station is
-physically reachable only during defined windows, and the level's boundary doctrine uses the schedule as a natural
-access control.
+The station's arctic environment is itself a security asset: the seasonal transport
+schedule means the station is physically reachable only during defined windows, and
+the level's boundary doctrine uses the schedule as a natural access control.
 
 ### 9.4 Incident Response
 
@@ -262,9 +262,9 @@ is the station's visible surface, not its working depth.
 
 ### 11.1 Staffing
 
-F-6's population comprises the surface station's personnel: conventional research staff whose published work maintains
-the cover, administrators, logistics and engineering personnel, and the boundary security staff who control the
-transition architecture.
+F-6's population comprises the surface station's personnel: conventional research staff
+whose published work maintains the cover, administrators, logistics and engineering
+personnel, and the boundary security staff who control the transition architecture.
 
 ### 11.2 Duty Life
 
@@ -274,9 +274,9 @@ know that their visible work conceals the station's true purpose.
 
 ### 11.3 Cover Discipline
 
-The level's personnel work under strict cover discipline: their published research, their professional reputations,
-and their daily operations are part of the station's concealment. The science is genuine, and so is the discipline of
-those who conduct it.
+The level's personnel work under strict cover discipline: their published research,
+their professional reputations, and their daily operations are part of the station's
+concealment. The science is genuine, and so is the discipline of those who conduct it.
 
 ---
 

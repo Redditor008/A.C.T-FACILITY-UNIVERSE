@@ -70,9 +70,9 @@ Approved roles include:
 
 RRI was developed after A.C.T found that ordinary ink could be perfectly preserved and
 still say something else after
-a regression event. Lamination, copying, locked storage, and chemical fixatives protected paper but failed to protect
-historical priority. Archive Division needed writing that remembered being written even when the file system around it
-changed.
+a regression event. Lamination, copying, locked storage, and chemical fixatives
+protected paper but failed to protect historical priority. Archive Division needed
+writing that remembered being written even when the file system around it changed.
 
 Custody belongs to Archive Division and Materials Custody Desk. O5 Liaison controls restricted stock for council-level
 logs. Info-Hazard Division approves use on dangerous content. Site-03 Kurokawa Archive Node holds the main writing and
@@ -241,8 +241,8 @@ Regression-Resistant Ink cannot force a record to be correct, cannot survive all
 the reader from info-hazardous meaning, and cannot preserve digital files. It can be overwhelmed by severe causal
 rewrite, burned if the page is destroyed, trapped under hostile varnish, or misused to
 preserve error. It also cannot
-prevent a document from gaining dangerous importance simply because staff see resistant ink and assume the content is
-final.
+prevent a document from gaining dangerous importance simply
+because staff see resistant ink and assume the content is final.
 
 Known failure modes include particle settling, forged batch labels, ink refusal on contaminated paper, overpreserved
 mistakes, hostile marginalia avoiding treated lines, and violet smear after partial regression. Violet smear is not
@@ -267,18 +267,18 @@ the page; it attached a larger RRI
 correction. The incident created the rule that resistant ink is not for premature authority.
 
 ### RRI-2023 Particle Settling Alert
-An inkwell from long storage passed cap inspection but failed violet response. The bottom layer had become overly
-dense with causal particles. No record was written. Materials Custody added reservoir agitation checks before every
-restricted use.
+An inkwell from long storage passed cap inspection but failed violet response. The
+bottom layer had become overly dense with causal particles. No record was written.
+Materials Custody added reservoir agitation checks before every restricted use.
 
 ---
 
 ## DIVISION USE
 
-Archive Division writes and stores RRI records. O5 Liaison authorizes council stock. Materials Custody tracks
-inkwells, batch seals, nibs, and waste. Info-Hazard Division approves dangerous descriptions. Site-03 stores active
-use protocols. Engineering maintains reservoirs and solvent testing. QNB staff determine which RRI source pages
-require buffer mirroring.
+Archive Division writes and stores RRI records. O5 Liaison authorizes council stock. Materials
+Custody tracks inkwells, batch seals, nibs, and waste. Info-Hazard Division approves dangerous
+descriptions. Site-03 stores active use protocols. Engineering maintains reservoirs and
+solvent testing. QNB staff determine which RRI source pages require buffer mirroring.
 
 Standing reminder: RRI is not truth. It is stubbornness given liquid form.
 

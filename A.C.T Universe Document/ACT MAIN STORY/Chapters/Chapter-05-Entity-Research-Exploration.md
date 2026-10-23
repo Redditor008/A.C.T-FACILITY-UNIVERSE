@@ -25,8 +25,8 @@ enough to trust under ordinary white light.
 
 Sera preferred it immediately.
 
-The main archive floors still pretended to belong to a functioning institution. This branch had the honesty to feel
-haunted.
+The main archive floors still pretended to belong to a functioning
+institution. This branch had the honesty to feel haunted.
 
 Her temporary extension did not open the ERE ledgers by itself. She needed Mila
 for that.
@@ -84,9 +84,9 @@ as a single unified descent project. It
 had been a scattered collection of impossible cases folded together by obsession and necessity: a corpse that would
 not decay yet never woke, a forest that returned people out of sequence, tremors
 without geological cause, a
-noblewoman who had not aged since before her grandchildren were born, coastal serpent die-offs around moonless nights,
-and recurring private journals from unrelated scholars all drawing nearly identical spiral cross-sections of a depth
-no survey had confirmed.
+noblewoman who had not aged since before her grandchildren were born, coastal serpent
+die-offs around moonless nights, and recurring private journals from unrelated scholars
+all drawing nearly identical spiral cross-sections of a depth no survey had confirmed.
 
 That last pattern appeared too often to ignore.
 
@@ -130,10 +130,10 @@ They had not found the route by drilling blind. They had followed something.
 
 She pulled the next carton toward her and opened it with shaking fingers. Inside
 were map sheets layered in protective
-mesh, each more chaotic than the clean architectural plans used in modern Facility archives. Measurements sprawled
-into margins. Tunnel lines crossed out and redrawn. Pressure guesses corrected by hand. And through all of it, in gold
-pencil now faded almost to nothing, the same descent path appeared over and over—tightening, correcting, refusing to
-vanish.
+mesh, each more chaotic than the clean architectural plans used in modern Facility archives.
+Measurements sprawled into margins. Tunnel lines crossed out and redrawn. Pressure guesses
+corrected by hand. And through all of it, in gold pencil now faded almost to nothing, the
+same descent path appeared over and over—tightening, correcting, refusing to vanish.
 
 One corner note had been underlined so heavily it had torn the paper fibers.
 

@@ -194,9 +194,9 @@ East stairwell. Dead maintenance rail. Somewhere. Anywhere.
 
 Then reason returned with all its buried cruelty.
 
-Run where? To the surface, carrying half-assembled abyssal continuity in her head? Into the world the Facility had
-spent centuries protecting by forgetting? Into a reality that might not survive her memory intact if the founders had
-judged correctly?
+Run where? To the surface, carrying half-assembled abyssal continuity in her head?
+Into the world the Facility had spent centuries protecting by forgetting? Into a
+reality that might not survive her memory intact if the founders had judged correctly?
 
 No.
 
@@ -370,8 +370,8 @@ tasted metal. Once she forgot what year it was for three full breaths and
 came back with tears on her face she had not
 felt forming.
 
-At some point someone said, “Retention degrading.” At another point someone else answered, “Not enough for
-escalation.”
+At some point someone said, “Retention degrading.” At another
+point someone else answered, “Not enough for escalation.”
 
 Those words became the only prayer left in the room.
 

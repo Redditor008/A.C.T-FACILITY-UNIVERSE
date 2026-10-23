@@ -11,7 +11,7 @@ Dossier Number: FLOOR-DOSSIER-02-RU-N-F-2
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard / ACT Floor Record Standard
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Note
 
@@ -31,7 +31,7 @@ what it holds, how it is built, how it is monitored, and how the
 station
 holds residents that work against the very idea of holding.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 1. Floor Registry Identity Summary
 
@@ -51,7 +51,7 @@ systems, and high-frequency monitoring
 Access Posture: Heavily restricted
 Current Status: Active
 
----
+═══════════════════════════════════════════════════════════════════════
 
 2. Dossier Purpose
 
@@ -68,7 +68,7 @@ a
 response to one fact: its residents work against their own containment, and
 the floor must therefore be built to fail less slowly than they fail it.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 3. Position in the Site Stack
 
@@ -94,7 +94,7 @@ the Long Sleep, while F-2 holds entropic and unstable material that remains
 within the station's active holding system. The boundary between the floors
 is strict.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 4. Historical Foundation
 
@@ -121,7 +121,7 @@ the level where the Facility holds material that works against the act of
 holding, under infrastructure built for the specific war of attrition that
 entropic containment requires.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5. Command and Authority
 
@@ -146,7 +146,7 @@ authority is custodial: to hold entropic and unstable residents under
 failure-tolerant infrastructure for as long as their restriction sets
 require.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 6. Divisional Presence
 
@@ -180,7 +180,7 @@ Archive personnel maintain F-2's holding documentation, preserving the
 infrastructure records and resident histories that the floor's maintenance
 doctrine requires.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 7. Physical Plant and Architecture
 
@@ -219,7 +219,7 @@ selected for resistance to entropic effects, structures designed for
 redundancy, and infrastructure arranged so that no single failure can
 compromise a unit's containment.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 8. Systems and Infrastructure
 
@@ -249,7 +249,7 @@ The floor maintains hardened communication with the station's command
 levels, with the redundancy appropriate to a floor whose systems are under
 continuous assault.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 9. Security and Containment Architecture
 
@@ -281,7 +281,7 @@ F-2's access core connects to the route used for F-1 access, and the floor
 participates in the station's F-1 closure drills. When F-1 is closed, F-2's
 link to the lower access route is sealed with it.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 10. Resident Holdings and Filing Doctrine
 
@@ -306,7 +306,7 @@ accordance with its containment and study doctrine. F-2's population is the
 station's entropic and unstable holding class, whose designations are
 preserved in the Annex Register under the floor's restriction-set doctrine.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 11. Personnel and Duty Life
 
@@ -332,7 +332,7 @@ infrastructure as doctrine: the floor's redundant structures and
 self-repairing systems are its containment, and the personnel who maintain
 them are containment personnel.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 12. Floor Doctrine
 
@@ -358,7 +358,7 @@ one: residents are under continuous assessment, and the floor's duty
 includes recognizing when a resident's character has changed enough to
 require the Long Sleep below or to permit return to standard holding above.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 13. Incident Archive
 
@@ -368,7 +368,7 @@ accumulation of damage that entropic holding entails. The incidents that
 established the station's failure-tolerant doctrine are preserved in the
 station's history files.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 14. Current Status and Projected Development
 
@@ -379,7 +379,7 @@ priorities include:
 - coordination with the station's escalation doctrine on the movement of
   material between holding levels.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 15. Cross-Referenced Files
 
@@ -390,7 +390,7 @@ priorities include:
 - ACT_Site_Doctrine_and_Installation_Structure.md / .txt
 - White Grave Annex Register (clearance-gated)
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Closing
 

@@ -30,9 +30,9 @@ secrecy, attention, memory, or story pressure. BWB is the acoustic cousin of tha
 it makes the room too
 administratively ordinary for certain dramatic forces to find a clean rhythm.
 
-BWB is not music, propaganda, hypnosis, or morale audio. It is controlled dullness. When functioning correctly,
-personnel barely notice it except during checks. When functioning incorrectly, everyone notices it, and that is
-already a warning.
+BWB is not music, propaganda, hypnosis, or morale audio. It is controlled dullness.
+When functioning correctly, personnel barely notice it except during checks. When
+functioning incorrectly, everyone notices it, and that is already a warning.
 
 Controlled label: **BWB MANIFEST LIBRARY LIMIT**.
 
@@ -93,10 +93,10 @@ identify cover sites, or build counter-broadcasts that ride inside the dullness.
 
 A standard BWB node is a wall-mounted digital speaker with a Banal-Status Monitor. The
 monitor displays output health,
-entropy level, pattern risk, volume band, local override state, and library freshness. The internal Pattern-Randomizer
-Disc selects, cuts, overlaps, and de-emphasizes audio fragments so that the broadcast stays boring without becoming
-repetitive. Site-wide installations use chained nodes, ceiling speakers, corridor emitters, and control panels tied to
-Site Command.
+entropy level, pattern risk, volume band, local override state, and library freshness. The
+internal Pattern-Randomizer Disc selects, cuts, overlaps, and de-emphasizes audio fragments
+so that the broadcast stays boring without becoming repetitive. Site-wide installations use
+chained nodes, ceiling speakers, corridor emitters, and control panels tied to Site Command.
 
 Known components include:
 
@@ -111,9 +111,9 @@ Known components include:
 - local maintenance jack;
 - emergency mute and emergency flood settings.
 
-Civil Covert variants may disguise nodes as ordinary public-address speakers, ventilation rattle, elevator chime
-boxes, or waiting-room noise systems. Containment variants are more visible because staff need fast status checks
-during breach response.
+Civil Covert variants may disguise nodes as ordinary public-address speakers,
+ventilation rattle, elevator chime boxes, or waiting-room noise systems. Containment
+variants are more visible because staff need fast status checks during breach response.
 
 ---
 
@@ -141,10 +141,9 @@ and 1 more. They are filed under OPEN QUESTIONS.
 | Entropy scale definition | NOT MEASURED |
 | Library refresh interval | NOT MEASURED |
 
-The library is built from harmless administrative fragments: manifests, inventory tones, hallway air
-movement, copier hum, unimportant route codes, empty schedule language, synthetic footstep smear, and dull
-weather reports. The randomizer disc exists to stop that material becoming a chant, song, command, prayer,
-or recognizable message.
+The library is built from harmless administrative fragments: manifests, inventory tones, hallway air movement,
+copier hum, unimportant route codes, empty schedule language, synthetic footstep smear, and dull weather reports.
+The randomizer disc exists to stop that material becoming a chant, song, command, prayer, or recognizable message.
 
 ## INTERFACE AND OPERATING ENVELOPE
 
@@ -254,10 +253,10 @@ bureaucracy, monotony, boredom, paperwork, radio hiss, public announcements, or 
 physical containment, 004 aftercare, QNB preservation, CSG response, or direct evacuation. It does not make personnel
 immune to memetic sound, and it may interfere with verbal communication if tuned poorly.
 
-Known failure modes include pattern collapse, dead-air pockets, phrase emergence, over-boring fatigue, volume creep,
-speaker synchronization, library contamination, and public suspicion when cover audio feels too artificial. The most
-dangerous failure is meaningful dullness: a broadcast that remains boring to staff but has become a structured
-invitation to an anomaly.
+Known failure modes include pattern collapse, dead-air pockets, phrase emergence, over-boring
+fatigue, volume creep, speaker synchronization, library contamination, and public suspicion
+when cover audio feels too artificial. The most dangerous failure is meaningful dullness: a
+broadcast that remains boring to staff but has become a structured invitation to an anomaly.
 
 ---
 

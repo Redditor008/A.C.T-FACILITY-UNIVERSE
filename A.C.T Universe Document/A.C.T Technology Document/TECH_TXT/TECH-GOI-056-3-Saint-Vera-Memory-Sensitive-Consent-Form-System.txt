@@ -99,14 +99,14 @@ Whether the change is visible text, an added mark, or a legibility shift is
 not recorded. Field teams have reported
 forms that read differently on second inspection; none has produced a controlled comparison.
 
-Body-state contradiction. The line *patient said no while sedated hand said yes* describes the system detecting
+Body-state contradiction. The line patient said no while sedated hand said yes describes the system detecting
 disagreement between channels of the same person. This is the capability A.C.T has no
 parallel for. Standard A.C.T
 consent practice records a signature and a witness; it does not test whether the
 signature contradicts speech, and it
 does not distinguish sedated agreement from agreement.
 
-Payer separation. The reason *payer asked for obedience, not healing* shows the system evaluating who is asking. A
+Payer separation. The reason payer asked for obedience, not healing shows the system evaluating who is asking. A
 form can therefore reject a procedure that is technically consented to by an authorized
 party, on the grounds that the
 authorized party is not the patient.

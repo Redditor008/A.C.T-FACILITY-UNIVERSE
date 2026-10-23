@@ -114,9 +114,9 @@ administers the floor's watch coordination, monitoring schedules, and staging op
 
 ### 5.2 Authority over Watch
 
-The Watch Officer holds authority over the floor's watch functions: observation schedules, coordination with the
-parent relay on watch assignments, and the routing of watch findings. Authority over emergency intake is shared with
-the Intake Officer of F-1.
+The Watch Officer holds authority over the floor's watch functions: observation
+schedules, coordination with the parent relay on watch assignments, and the routing of
+watch findings. Authority over emergency intake is shared with the Intake Officer of F-1.
 
 ### 5.3 Authority Limits
 
@@ -147,8 +147,8 @@ coordination, and the staging of operations that route through the intake floor 
 
 ### 6.4 Security Staff
 
-Security personnel guard the floor's access architecture and the watch spaces, enforcing the access rules that govern
-the floor.
+Security personnel guard the floor's access architecture and the
+watch spaces, enforcing the access rules that govern the floor.
 
 ---
 
@@ -171,9 +171,9 @@ is the watchpoint's eye — the space where the coast is watched without interru
 
 ### 7.3 The Seismic Monitoring Suites
 
-The floor's monitoring suites track the region's volcanic and seismic activity: instruments watching the restless
-geology that gives the watchpoint its name, and the reporting architecture that carries irregular activity to the
-parent relay.
+The floor's monitoring suites track the region's volcanic and seismic activity:
+instruments watching the restless geology that gives the watchpoint its name, and
+the reporting architecture that carries irregular activity to the parent relay.
 
 ### 7.4 The Recovery Staging Area
 
@@ -262,9 +262,9 @@ monitoring staff, recovery support personnel, and the security staff who guard t
 
 ### 11.2 Duty Life
 
-Duty on F-2 is watch work: observing the coastal corridors, monitoring the volcanoes, coordinating operations, and
-reporting findings to the parent relay. The floor's rhythm follows the watch — continuous, attentive, and unbroken by
-schedule.
+Duty on F-2 is watch work: observing the coastal corridors, monitoring the
+volcanoes, coordinating operations, and reporting findings to the parent relay. The
+floor's rhythm follows the watch — continuous, attentive, and unbroken by schedule.
 
 ### 11.3 The Watch Discipline
 
@@ -279,9 +279,9 @@ report without delay, and to remain ready for the arrivals their watch may revea
 
 ### 12.1 Watch Doctrine
 
-F-2 doctrine holds that the watchpoint's purpose is watch: the floor's continuous observation of the assigned coastal
-corridors and volcanic signatures is the watchpoint's defining function, and the watchpoint sees what the parent relay
-cannot see from its core.
+F-2 doctrine holds that the watchpoint's purpose is watch: the floor's continuous
+observation of the assigned coastal corridors and volcanic signatures is the watchpoint's
+defining function, and the watchpoint sees what the parent relay cannot see from its core.
 
 ### 12.2 Reporting Doctrine
 

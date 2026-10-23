@@ -22,9 +22,9 @@ level of the built installation of **ACT-SITE-04-BR-C, Verde Null Bio-Reserve**.
 
 The Verde Null Bio-Reserve holds most of its residents in the open — but
 not every biological anomaly can live in a
-field enclosure. Some require built containment: climate-controlled chambers, containment habitats, and specialized
-environments where non-natural organisms are studied under close control. F-2 is the reserve's interior holding level
-for that population.
+field enclosure. Some require built containment: climate-controlled chambers, containment
+habitats, and specialized environments where non-natural organisms are studied under
+close control. F-2 is the reserve's interior holding level for that population.
 
 This dossier records the floor in full institutional language: what it is, what it
 holds, how it is built, how it is
@@ -71,8 +71,8 @@ reserve's main interior holding level, serving as the built complement to the en
 
 F-2 coordinates with the Laboratory and Medical level above: material held on F-2 is
 studied in the laboratories above
-under controlled conditions, and medical care for anomalous subjects requiring built-environment care is provided from
-the medical facilities above.
+under controlled conditions, and medical care for anomalous subjects requiring
+built-environment care is provided from the medical facilities above.
 
 ### 3.3 Relationship to F-1
 
@@ -113,9 +113,9 @@ appointed by the Site Director.
 
 ### 5.2 Authority over Holdings
 
-The Holding Chief holds standard custodial authority over the floor's residents: habitat assignment, environmental
-management, and routine handling under the reserve's interior holding doctrine. Disposition decisions are made above
-the floor.
+The Holding Chief holds standard custodial authority over the floor's residents:
+habitat assignment, environmental management, and routine handling under the
+reserve's interior holding doctrine. Disposition decisions are made above the floor.
 
 ### 5.3 Authority Limits
 
@@ -142,13 +142,13 @@ built interiors where the doctrine must be engineered rather than found.
 
 ### 6.3 Medical Division Liaison
 
-Medical personnel support F-2's operations, providing care for anomalous subjects in the floor's habitats and for
-personnel working with them.
+Medical personnel support F-2's operations, providing care for anomalous
+subjects in the floor's habitats and for personnel working with them.
 
 ### 6.4 Security Division
 
-Security guards the floor's access architecture and the habitat units, and enforces the handling rules governing
-movement within the floor.
+Security guards the floor's access architecture and the habitat units,
+and enforces the handling rules governing movement within the floor.
 
 ---
 
@@ -217,9 +217,9 @@ within the floor is governed by the handling rules of the material being accesse
 
 ### 9.2 Habitat Access
 
-Habitat access follows standard interior holding procedure: authorized personnel, documented handling, and observation
-maintained throughout. Most routine work is conducted through the monitoring architecture rather than through physical
-entry.
+Habitat access follows standard interior holding procedure: authorized personnel,
+documented handling, and observation maintained throughout. Most routine work is
+conducted through the monitoring architecture rather than through physical entry.
 
 ### 9.3 Transfer Procedures
 

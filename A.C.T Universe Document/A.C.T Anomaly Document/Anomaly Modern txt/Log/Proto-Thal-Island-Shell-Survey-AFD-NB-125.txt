@@ -47,7 +47,7 @@ INCLUDED LOG TYPES:
 
 LOG ID:              AFD-NB-125/SRV-01
 DATE:                2012-04-12
-ROV:                 *Nusantara-4* (Heavy-Pressure Variant)
+ROV:                 Nusantara-4 (Heavy-Pressure Variant)
 
 [00:00:00] — ROV Launch. Primary descent toward the Sunda Trench
               seafloor.
@@ -108,7 +108,7 @@ ROV OPERATOR:        "We're seeing a current shift. The ROV is losing
                       subject's mouth-parts. It's... it's a whirlpool."
 
 [10:46:00] — THE EVENT: Proto-Thal initiates a filter-feeding suction.
-              The ROV *Nusantara-4* is pulled into the primary intake
+              The ROV Nusantara-4 is pulled into the primary intake
               vortex (Velocity: 80 knots).
 
 [10:46:12] — AUDIO: A massive, grinding vibration is heard. It is the

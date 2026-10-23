@@ -37,12 +37,12 @@ TECHNOLOGY RECORD - DOCUMENT QUARANTINE CELLS
 +----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
-Document Quarantine Cells are the fifty-ninth main A.C.T technology expanded into an individual record. Redwood Veil's
-F-7 floor dossier identifies Central Archive and Records as the complex's document repository and states that it
-includes document quarantine cells where information-borne hazards are held. The dossier specifies that such cells
-contain documents that act on readers, rewrite themselves, or carry memetic content, keeping them out of the general
-repository. It also states that F-7 is QNB-hardened against external causal rewrites in accordance with central
-archival doctrine.
+Document Quarantine Cells are the fifty-ninth main A.C.T technology expanded into an individual
+record. Redwood Veil's F-7 floor dossier identifies Central Archive and Records as the complex's
+document repository and states that it includes document quarantine cells where information-borne
+hazards are held. The dossier specifies that such cells contain documents that act on readers, rewrite
+themselves, or carry memetic content, keeping them out of the general repository. It also states that
+F-7 is QNB-hardened against external causal rewrites in accordance with central archival doctrine.
 
 DQC exists because some documents are not records of residents. Some documents are residents.
 
@@ -138,8 +138,7 @@ archive: Environmental band, Comparison interval, Cell capacity. They are filed 
 
 A quarantine cell is a small containment unit whose resident happens to be a
 document. It treats reading as
-an access event, copying as a possible reproduction event, and preservation as evidence rather than
-convenience.
+an access event, copying as a possible reproduction event, and preservation as evidence rather than convenience.
 
 INTERFACE AND OPERATING ENVELOPE
 
@@ -191,10 +190,10 @@ replaced. Emergency: a comparison ledger showing self-rewrite escalates the cell
 because a file that retains identity while its access condition changes is a different
 problem.
 
-Before admission, Archive staff create a quarantine entry that records origin, carrier, suspected hazard, current
-format, known readers, and required restrictions. Containment provides material characterization when the document
-behaves like an active anomaly. Medical adds cognitive warnings where exposure has harmed personnel. Recovery
-preserves chain of custody.
+Before admission, Archive staff create a quarantine entry that records origin, carrier,
+suspected hazard, current format, known readers, and required restrictions. Containment provides
+material characterization when the document behaves like an active anomaly. Medical adds
+cognitive warnings where exposure has harmed personnel. Recovery preserves chain of custody.
 
 During storage, the cell remains sealed under monitoring. Staff check environmental stability, access logs,
 QNB-hardening status, and whether the document has changed relative to its comparison ledger. Reading does not occur
@@ -269,9 +268,9 @@ can be quiet and still be waiting.
 FAILURE HISTORY
 
 DQC-Development Trigger
-F-7 records state that the cells developed from encounters with information-borne hazards: documents that act on
-readers, rewrite themselves, or carry memetic content. The specific founding incidents remain in Archive Division
-history files.
+F-7 records state that the cells developed from encounters with information-borne
+hazards: documents that act on readers, rewrite themselves, or carry memetic
+content. The specific founding incidents remain in Archive Division history files.
 
 DQC-QNB Hardening Review
 F-7's QNB-hardened structure was adopted after A.C.T recognized that some anomalous forces can reach into documents

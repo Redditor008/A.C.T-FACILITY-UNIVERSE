@@ -60,8 +60,8 @@ Her current personality is:
 - severe toward predatory intent;
 - unwilling to perform friendliness for another person’s comfort.
 
-Kazumi chooses when and with whom she interacts. Her silence comes from control, caution, age, and authority—not
-social helplessness.
+Kazumi chooses when and with whom she interacts. Her silence comes
+from control, caution, age, and authority—not social helplessness.
 
 She can judge an approaching person before meeting them eye to eye. This is
 not unrestricted omniscience. She
@@ -115,9 +115,9 @@ Kazumi’s manner of speaking combines:
 - old-fashioned or archaic phrasing;
 - modern vocabulary and directness learned across centuries.
 
-The result should remain understandable. She does not fill every sentence with random archaic words. Her age is
-expressed through rhythm, patience, formality, and perspective, while her familiarity with the modern world keeps her
-speech precise.
+The result should remain understandable. She does not fill every sentence with
+random archaic words. Her age is expressed through rhythm, patience, formality, and
+perspective, while her familiarity with the modern world keeps her speech precise.
 
 She normally speaks with few words. The fewer words she uses, the more deliberate
 they are.
@@ -190,8 +190,8 @@ Current capabilities include:
 - warning without direct eye contact;
 - brief, small-scale hallucinations.
 
-Her hallucinations are not normally used as arbitrary illusions. They communicate meaning or consequence. A person may
-briefly experience:
+Her hallucinations are not normally used as arbitrary illusions. They
+communicate meaning or consequence. A person may briefly experience:
 
 - what their intended action would feel like if returned to them;
 - the perspective of the person or place they intended to exploit;
@@ -250,8 +250,8 @@ This pressure exists even when she is:
 - not looking directly at anyone;
 - not consciously attacking.
 
-Her presence may cause people, anomalies, and Will-bearing surroundings to recognize that they are near a governing or
-superior intent.
+Her presence may cause people, anomalies, and Will-bearing surroundings
+to recognize that they are near a governing or superior intent.
 
 Sovereign pressure is not the same as constant hostility. Kazumi can be calm, respectful, or protective while still
 feeling overwhelmingly authoritative.
@@ -308,8 +308,8 @@ A Will-bearing place or object may:
 - participate in the enforcement of her boundary;
 - retain care, memory, and accumulated meaning.
 
-Kazumi does not simply control her surroundings like puppets. Long proximity causes those surroundings to learn the
-direction of her intent.
+Kazumi does not simply control her surroundings like puppets. Long
+proximity causes those surroundings to learn the direction of her intent.
 
 ---
 
@@ -425,5 +425,5 @@ her intent without becoming
 alive or fully sentient. Kazumi can also establish Boundary Exchange, an intention-reading boundary governed by the
 rule: “Bring respect, receive passage. Bring hunger, receive hunger. Bring violence, receive the weight
 of what
-violence intended to take.” The boundary reads intention, consequence, and exchange rather than simplistic categories
-of good and evil.**
+violence intended to take.” The boundary reads intention, consequence,
+and exchange rather than simplistic categories of good and evil.**

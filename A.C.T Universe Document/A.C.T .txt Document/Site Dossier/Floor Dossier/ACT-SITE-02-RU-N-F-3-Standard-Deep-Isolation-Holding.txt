@@ -11,7 +11,7 @@ Dossier Number: FLOOR-DOSSIER-02-RU-N-F-3
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard / ACT Floor Record Standard
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Note
 
@@ -31,7 +31,7 @@ what it holds, how it is built, how it is run, and how standard
 holding at
 White Grave is different from standard holding anywhere else.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 1. Floor Registry Identity Summary
 
@@ -53,7 +53,7 @@ doctrine
 Current Status: Active
 Scale Note: The main holding level of the station by population
 
----
+═══════════════════════════════════════════════════════════════════════
 
 2. Dossier Purpose
 
@@ -70,7 +70,7 @@ for the working population of the facility — in biological suppression
 chambers and climate-controlled holding units, under the standard
 doctrines that the deeper floors exist to exceed.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 3. Position in the Site Stack
 
@@ -95,7 +95,7 @@ the station's escalation doctrine. F-3 is the station's sorting level:
 most residents remain, and the rest move down according to their
 demonstrated character.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 4. Historical Foundation
 
@@ -121,7 +121,7 @@ In its modern configuration, F-3 is the main holding level of White Grave
 Station, holding the working population of the facility under the standard
 doctrines that give the station its operational identity.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5. Command and Authority
 
@@ -147,7 +147,7 @@ on its residents beyond standard observation. Its role is to hold the
 standard population safely and to recognize when a resident no longer
 belongs on the floor.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 6. Divisional Presence
 
@@ -180,7 +180,7 @@ and returning it under documented sample control.
 Archive personnel maintain the floor's resident documentation under the
 station's records standard.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 7. Physical Plant and Architecture
 
@@ -218,7 +218,7 @@ construction, compartmented services, and the cold-capable infrastructure
 the station's environment demands. The floor is designed for durability
 and long-duration holding.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 8. Systems and Infrastructure
 
@@ -248,7 +248,7 @@ continuous and exact, because the floor's population is held for long
 periods and its records must carry the history that personnel rotation
 cannot.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 9. Security and Containment Architecture
 
@@ -281,7 +281,7 @@ F-3 maintains standing transfer procedures:
   sample control.
 Both routes are documented under the station's chain-of-custody standard.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 10. Resident Holdings and Filing Doctrine
 
@@ -310,7 +310,7 @@ The station's signature resident is held under the station's authority in
 accordance with its containment and study doctrine. F-3's own population is
 documented in the Annex Register under standard holding procedure.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 11. Personnel and Duty Life
 
@@ -335,7 +335,7 @@ White Grave is patient, deliberate, and long. Personnel on F-3 learn the
 station's defining skill — the ability to maintain exacting standards over
 durations that would exhaust personnel at faster facilities.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 12. Floor Doctrine
 
@@ -359,7 +359,7 @@ demonstrates entropic character moves down, material approved for research
 moves up, and the floor's duty includes recognizing both movements without
 delay.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 13. Incident Archive
 
@@ -369,7 +369,7 @@ Because the floor's population is held under mature standard doctrine,
 major incidents are rare; when they occur, they are recorded as the
 station's holding lessons and reflected in doctrine.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 14. Current Status and Projected Development
 
@@ -381,7 +381,7 @@ priorities include:
 — coordination with the Research floor on the study of the floor's
   residents.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 15. Cross-Referenced Files
 
@@ -392,7 +392,7 @@ priorities include:
 - ACT_Site_Doctrine_and_Installation_Structure.md / .txt
 - White Grave Annex Register (clearance-gated)
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Closing
 

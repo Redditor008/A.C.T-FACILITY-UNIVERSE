@@ -23,8 +23,8 @@ This file is the complete individual record of **F-9, the Surface Transition Lev
 F-9 is the uppermost operational level of the buried core: vehicle screening, delivery intake, loading bay processing,
 and the primary elevator bank connecting the campus to the levels below. It is
 the only level of the complex where
-legitimate civilian activity and Facility activity share physical space — separated by an unmarked wall that has never
-been breached.
+legitimate civilian activity and Facility activity share physical
+space — separated by an unmarked wall that has never been breached.
 
 This dossier records the floor in full institutional language: what it is, how it
 conceals, how it is built, and how
@@ -94,10 +94,10 @@ revealing the Facility beneath.
 
 ### 4.2 The Unmarked Wall
 
-The floor's defining feature — the separation between legitimate civilian activity and Facility activity — was
-engineered as an **unmarked wall**: a boundary indistinguishable from ordinary campus construction, behind which the
-complex's screening and intake operations occur. The wall has never been breached, and the floor's design maintains
-that record.
+The floor's defining feature — the separation between legitimate civilian activity and
+Facility activity — was engineered as an **unmarked wall**: a boundary indistinguishable from
+ordinary campus construction, behind which the complex's screening and intake operations
+occur. The wall has never been breached, and the floor's design maintains that record.
 
 ### 4.3 Modern Configuration
 
@@ -122,9 +122,9 @@ movement of personnel and material between the surface and the buried core.
 
 ### 5.3 Authority Limits
 
-F-9 holds no authority over resident disposition and no authority over the legitimate campus's ordinary operations.
-Its authority begins where the boundary begins: at the point where surface traffic meets the complex's screening
-architecture.
+F-9 holds no authority over resident disposition and no authority over the legitimate
+campus's ordinary operations. Its authority begins where the boundary begins: at the
+point where surface traffic meets the complex's screening architecture.
 
 ---
 
@@ -182,8 +182,8 @@ processed here under the boundary control doctrine before moving downward.
 The floor's central architectural feature is the wall that separates legitimate civilian activity from Facility
 activity. The wall is unmarked — built to appear as ordinary construction — and
 behind it, the complex's screening and
-intake operations occur. The wall has never been breached, and the floor's security doctrine is built around
-maintaining that record.
+intake operations occur. The wall has never been breached, and the
+floor's security doctrine is built around maintaining that record.
 
 ---
 
@@ -191,8 +191,8 @@ maintaining that record.
 
 ### 8.1 Power
 
-F-9 draws on the campus's legitimate power infrastructure, with the buried-core systems protected by the complex's
-backup architecture.
+F-9 draws on the campus's legitimate power infrastructure, with the
+buried-core systems protected by the complex's backup architecture.
 
 ### 8.2 Environment
 
@@ -287,9 +287,9 @@ human equivalent.
 
 ### 12.1 Boundary Doctrine
 
-F-9 doctrine holds that the complex's security begins at the surface: the boundary between the ordinary world and the
-buried core is the first containment line, and the floor's screening and separation functions are containment
-functions.
+F-9 doctrine holds that the complex's security begins at the surface: the boundary
+between the ordinary world and the buried core is the first containment line, and
+the floor's screening and separation functions are containment functions.
 
 ### 12.2 Concealment Doctrine
 

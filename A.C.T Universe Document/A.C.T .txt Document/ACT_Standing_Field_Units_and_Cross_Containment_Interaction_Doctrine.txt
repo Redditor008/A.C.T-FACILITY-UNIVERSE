@@ -1,25 +1,25 @@
 A.C.T FACILITY ARCHIVE FILE — FIELD UNIT AND INTERACTION FOUNDATION
 Standing Field Units and Cross-Containment Interaction Protocol
----------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Archive Status: Active
 Distribution: Internal / Recovery / Containment / Tactical / Site Command
 Authority: Field Operating Chief Council, Recovery Division, Containment Division, and Central Archive
 
 Archive Note
-------------
+═══════════════════════════════════════════════════════════════════════
 This doctrine records the difference between divisions, desks, temporary task groups, and standing field units. It
 also establishes the basic rule for one of the most dangerous operational shortcuts in
 A.C.T: letting anomalies,
 anomaly-derived tools, or anomaly-influenced subjects interact with each other.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 FIELD UNIT AND INTERACTION FOUNDATION
--------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 5.1 Purpose
------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T anomaly files already name many response bodies: Recovery Teams, Review Cells, Tactical Desks, Maritime units,
 Biohazard teams, Chronometric reviewers, and regional support groups. Until this doctrine, those names existed as
@@ -32,32 +32,32 @@ This file defines:
 3. how temporary teams differ from permanent cells;
 4. how anomaly-to-anomaly interaction is requested, denied, or contained.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5.2 Division, Desk, Cell, Team, and Unit
-----------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Division
---------
-A major institutional body such as Recovery Division, Containment Division, Subject Care Division, Archiver Division,
-or Civil Covert Division.
+═══════════════════════════════════════════════════════════════════════
+A major institutional body such as Recovery Division, Containment Division,
+Subject Care Division, Archiver Division, or Civil Covert Division.
 
 Desk
-----
-A specialized review or coordination body inside or across divisions. Desks often own doctrine, analysis, approvals,
-or case families.
+═══════════════════════════════════════════════════════════════════════
+A specialized review or coordination body inside or across divisions.
+Desks often own doctrine, analysis, approvals, or case families.
 
 Cell
-----
-A compact expert group maintained for repeated problem types. Cells are smaller than divisions but more persistent
-than temporary mission teams.
+═══════════════════════════════════════════════════════════════════════
+A compact expert group maintained for repeated problem types. Cells are
+smaller than divisions but more persistent than temporary mission teams.
 
 Team
-----
+═══════════════════════════════════════════════════════════════════════
 A mission-deployed group assembled for one operation or a short series of related operations.
 
 Standing Field Unit
--------------------
+═══════════════════════════════════════════════════════════════════════
 A recurring, registered operational group with name, role, jurisdiction,
 activation conditions, equipment profile, and review history.
 
@@ -65,10 +65,10 @@ A.C.T records often blur these words. This doctrine does not retcon every older 
 It gives future files a cleaner
 rule.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5.3 Standing Field Unit Registry Format
----------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Standing Field Unit designation format:
 
@@ -86,10 +86,10 @@ SFU-PL-SUB-C-SCR-001
 The public-facing name may remain more natural, such as Recovery Team Alpha-9 or Chronometric Review Cell. The SFU
 designation exists so the archive can track the unit across files.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5.4 Required Unit Fields
-------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Every standing field unit register entry must include:
 
@@ -109,13 +109,13 @@ Every standing field unit register entry must include:
 - known failures;
 - retirement or renaming condition.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5.5 Known Unit and Desk Seeds From Existing Anomaly Records
------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
-The following names already appear in anomaly records and should be treated as candidates for future full register
-entries:
+The following names already appear in anomaly records and should
+be treated as candidates for future full register entries:
 
 - Recovery Team Alpha-9 - future-origin weapon recovery / AFD-OB-312 chain;
 - Recovery Team Alpha-7 - combat-object recovery / Ball of Knife chain;
@@ -135,36 +135,36 @@ Circus chain;
 This list is a seed list, not a full registry. It does not automatically
 create new unit dossiers.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5.6 Activation Authority
-------------------------
+═══════════════════════════════════════════════════════════════════════
 
 A standing field unit activates under one of four conditions:
 
 Scheduled Deployment
---------------------
+═══════════════════════════════════════════════════════════════════════
 Known operation, planned recovery, routine transfer, escort, review, or maintenance.
 
 Incident Response
------------------
+═══════════════════════════════════════════════════════════════════════
 Immediate anomaly emergence, breach, witness cluster, public exposure, or casualty event.
 
 Escalation Call
----------------
+═══════════════════════════════════════════════════════════════════════
 A lower team discovers hazard complexity beyond its assignment.
 
 Sealed Command
---------------
+═══════════════════════════════════════════════════════════════════════
 O5, Site Director, or Field Operating Chief activates the unit without full explanation due to sensitive information.
 
 Sealed command must be logged after the fact. A blank command chain is not
 mystery. It is a future disaster.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5.7 Field Handoff Rule
-----------------------
+═══════════════════════════════════════════════════════════════════════
 
 When a field team transfers custody to another unit, the handoff record must state:
 
@@ -180,10 +180,10 @@ When a field team transfers custody to another unit, the handoff record must sta
 A.C.T has lost containment before because one team carried a fact and another team
 received only an object.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5.8 Cross-Containment Interaction Definition
---------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 A Cross-Containment Interaction occurs when A.C.T intentionally or negligently allows one anomaly, anomaly-derived
 asset, anomalously altered subject, or active anomaly field to affect another.
@@ -198,40 +198,40 @@ Examples include:
 - asking a sentient anomaly to stabilize another subject;
 - letting a GOI-derived system interface with A.C.T containment hardware.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5.9 Cross-Containment Request Tiers
------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 CCI-0 — Incidental Avoidance
-----------------------------
+═══════════════════════════════════════════════════════════════════════
 No interaction intended. Record only if accidental proximity occurs.
 
 CCI-1 — Passive Comparison
---------------------------
+═══════════════════════════════════════════════════════════════════════
 Files are compared. No physical, cognitive, digital, biological, or memetic contact.
 
 CCI-2 — Controlled Indirect Contact
------------------------------------
+═══════════════════════════════════════════════════════════════════════
 Outputs are compared under sealed conditions without direct anomaly-to-anomaly contact.
 
 CCI-3 — Direct Limited Contact
-------------------------------
+═══════════════════════════════════════════════════════════════════════
 Direct interaction occurs under active containment, time limit, abort signal, and medical/technical monitoring.
 
 CCI-4 — Hazard Interaction
---------------------------
+═══════════════════════════════════════════════════════════════════════
 Interaction may amplify, transform, damage, contaminate, or unpredictably stabilize either anomaly.
 
 CCI-5 — Structural Interaction
-------------------------------
+═══════════════════════════════════════════════════════════════════════
 Interaction may affect reality structure, site integrity, identity
 continuity, time, memory, cosmic boundary, or public normalcy.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5.10 Approval Requirements
---------------------------
+═══════════════════════════════════════════════════════════════════════
 
 CCI-0 and CCI-1 may be logged by the responsible division.
 
@@ -245,35 +245,35 @@ CCI-5 requires O5 authorization or emergency action with post-event O5 review.
 
 No team may create a cross-containment interaction because it is faster than building correct containment.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5.11 Subject Interaction Safeguard
-----------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 If either anomaly is a sentient subject, the interaction must pass Subject Care review.
 A.C.T may not use one
 contained person as therapy, weapon, bait, interpreter, restraint, or emotional regulator for another contained person
 without clear authority and aftercare.
 
-Friendship, trust, fear, dependence, and curiosity are containment variables. They are also real. The file must record
-both.
+Friendship, trust, fear, dependence, and curiosity are containment
+variables. They are also real. The file must record both.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5.12 GOI-Derived Systems
-------------------------
+═══════════════════════════════════════════════════════════════════════
 
 GOI-derived tools, archives, software, rituals, medical substances, or weapons must not interface with A.C.T
 containment hardware unless cleared under CCI rules and GOI evidence review.
 
-This is especially important for groups such as Mysterious Guild, DREAM .INC, Anstrall Market, Amazoo Circus, and
-Liberty Freedoms, where recovered systems may be designed to call home, recruit, condition, leak, or punish
-unauthorized handlers.
+This is especially important for groups such as Mysterious Guild, DREAM .INC,
+Anstrall Market, Amazoo Circus, and Liberty Freedoms, where recovered systems may be
+designed to call home, recruit, condition, leak, or punish unauthorized handlers.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5.13 Failed Interaction Rule
-----------------------------
+═══════════════════════════════════════════════════════════════════════
 
 If an interaction produces unexpected benefit, it is still a failed interaction until reviewed. A.C.T must not allow
 lucky success to become hidden policy.
@@ -287,10 +287,10 @@ Failure review must ask:
 - Which public narrative would fail if the interaction repeated outside the Facility?
 - Did A.C.T create a new anomaly by forcing old anomalies together?
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5.14 Red Lines
---------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T will not:
 
@@ -302,10 +302,10 @@ A.C.T will not:
 - let field teams improvise cross-use because a breach is embarrassing;
 - call an interaction harmless only because nothing exploded.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5.15 Related Records
---------------------
+═══════════════════════════════════════════════════════════════════════
 
 - ACT_Divisions_Personnel_and_Operational_Life_Archive.md
 - ACT_Anomaly_Log_Categories_In_World_Explanation.md
@@ -314,10 +314,10 @@ A.C.T will not:
 - Transformation Review Board determinations
 - GOI dossiers for recovered outside systems
 
----
+═══════════════════════════════════════════════════════════════════════
 
 File Metadata
--------------
+═══════════════════════════════════════════════════════════════════════
 
 text
 FILE CREATED:        12/12/1909

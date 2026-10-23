@@ -201,9 +201,9 @@ core behind the transition level.
 | Quarterly | test both communication separators |
 | Annually | exercise the emergency core-seal actuator |
 
-Boundary servicing is scheduled to look like ordinary campus maintenance. The sensor route is walked on a
-cycle that matches grounds inspection so that the people performing it are not themselves an anomaly on the
-campus side of the wall.
+Boundary servicing is scheduled to look like ordinary campus maintenance. The
+sensor route is walked on a cycle that matches grounds inspection so that the
+people performing it are not themselves an anomaly on the campus side of the wall.
 
 ## FAULT ISOLATION
 
@@ -231,9 +231,9 @@ wall maintenance anomaly, and emergency seal activation that reveals the boundar
 ## FAILURE HISTORY
 
 ### UWSBLTS-Unbreached Wall Record
-The unmarked wall's unbreached status is preserved as an operational record rather than a comfort. Current procedure
-treats every maintenance request, delivery error, and civilian proximity event near the wall as part of the boundary
-history.
+The unmarked wall's unbreached status is preserved as an operational record rather
+than a comfort. Current procedure treats every maintenance request, delivery
+error, and civilian proximity event near the wall as part of the boundary history.
 
 ### UWSBLTS-Screening Visibility Review
 A security review found that thorough screening can become suspicious if it looks too

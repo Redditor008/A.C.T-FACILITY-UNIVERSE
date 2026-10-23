@@ -11,7 +11,7 @@ Dossier Number: FLOOR-DOSSIER-SUB-05-ID-C-F-2
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard / ACT Floor Record Standard
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Note
 
@@ -31,7 +31,7 @@ what it watches, how it is built, how it is run, and how the
 watchpoint's
 watch is concentrated on a single buried level above the water it observes.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 1. Floor Registry Identity Summary
 
@@ -54,7 +54,7 @@ Current Status: Active
 Doctrine Note: The level where the watchpoint's defining protocol —
 watch — is practiced
 
----
+═══════════════════════════════════════════════════════════════════════
 
 2. Dossier Purpose
 
@@ -71,7 +71,7 @@ activity, and where recovery support and emergency intake operations are
 staged. The floor is the watchpoint's watch made physical — the buried
 level that sees what the water and the earth reveal.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 3. Position in the Site Stack
 
@@ -95,7 +95,7 @@ Operations coordinated on F-2 route their results downward: recoveries and
 emergency arrivals are received on the Emergency Intake floor below, and
 the staging area on F-2 coordinates with the intake floor's operations.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 4. Historical Foundation
 
@@ -119,7 +119,7 @@ In its modern configuration, F-2 is the watchpoint's operational heart:
 watch coordination, seismic monitoring, and staging operating under the
 watch doctrine that defines the watchpoint.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5. Command and Authority
 
@@ -144,7 +144,7 @@ and no authority to act on watch findings beyond the parent relay's
 direction. Its role is watch and coordination — the observation of the
 coast and the organization of the watchpoint's response.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 6. Divisional Presence
 
@@ -171,7 +171,7 @@ operations that route through the intake floor below.
 Security personnel guard the floor's access architecture and the watch
 spaces, enforcing the access rules that govern the floor.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 7. Physical Plant and Architecture
 
@@ -205,7 +205,7 @@ The floor's staging area coordinates recovery support: vessel operations,
 sea-entry coordination, and the staging of recovery operations that route
 their results through the intake floor below.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 8. Systems and Infrastructure
 
@@ -231,7 +231,7 @@ The floor maintains the watchpoint's operational communications: watch
 reporting to the parent relay, coordination with recovery operations, and
 the watchpoint's internal networks.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 9. Security and Operational Architecture
 
@@ -263,7 +263,7 @@ The floor's staging area coordinates with the intake floor below on
 emergency operations: recoveries and emergency arrivals are received on
 F-1 under the coordination that F-2 provides.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 10. Function and Character
 
@@ -285,7 +285,7 @@ F-2 holds no anomalous material. Its population is the watchpoint's
 operational personnel, and its function is the watch and coordination that
 define the watchpoint.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 11. Personnel and Duty Life
 
@@ -310,7 +310,7 @@ does not schedule its movement. Personnel on F-2 learn to watch without
 interruption, to report without delay, and to remain ready for the
 arrivals their watch may reveal.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 12. Floor Doctrine
 
@@ -334,7 +334,7 @@ reveals: the floor's staging coordinates with the intake level below, so
 that recoveries and emergency arrivals are received the moment the watch
 produces them.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 13. Incident Archive
 
@@ -344,7 +344,7 @@ incidents. Material that exceeds the watchpoint's capacity moves to the
 parent relay, and the floor's history is largely the history of the watch
 held.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 14. Current Status and Projected Development
 
@@ -354,7 +354,7 @@ priorities include:
 - refinement of watch coordination with the parent relay;
 - maintenance of the floor's recovery staging readiness.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 15. Cross-Referenced Files
 
@@ -366,7 +366,7 @@ priorities include:
 - ACT_Site_Doctrine_and_Installation_Structure.md / .txt
 - Parent command Annex Register (clearance-gated)
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Closing
 

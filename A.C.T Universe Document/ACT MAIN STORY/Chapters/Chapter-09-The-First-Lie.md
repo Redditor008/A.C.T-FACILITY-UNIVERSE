@@ -30,8 +30,8 @@ had been made to appear
 ordinary. Administrative succession lists. seal approvals. authorization bridges. oversight handoffs. review phrases
 repeated until they looked like legal habit instead of personal syntax.
 
-Every buried institution learned the same trick eventually: make the extraordinary look procedural and no one would
-think to question it.
+Every buried institution learned the same trick eventually: make the
+extraordinary look procedural and no one would think to question it.
 
 But procedure still left fingerprints.
 
@@ -273,9 +273,9 @@ time. She looked at the shadow file, at the survivor lines, at the rewritten
 founder signatures, at the
 pharmacological dependency chain, and felt the story converge at last.
 
-ERE was drawn downward. NEMNOLIA came with the abyss. The founders erased themselves. The O5 inherited a structure
-built over self-inflicted forgetting. And the institution that controlled memory did so because its own memory had
-become part of containment.
+ERE was drawn downward. NEMNOLIA came with the abyss. The founders erased themselves.
+The O5 inherited a structure built over self-inflicted forgetting. And the institution
+that controlled memory did so because its own memory had become part of containment.
 
 She opened a fresh page and wrote the line she had spent days circling.
 

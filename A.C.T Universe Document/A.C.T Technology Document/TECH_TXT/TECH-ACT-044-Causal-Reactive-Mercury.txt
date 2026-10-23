@@ -63,8 +63,8 @@ A.C.T does not treat CRM as a general engineering fluid. It is studied in
 magnetic containment and stasis-field flasks
 because ordinary containers only hold where the liquid is, not when the liquid believes
 it is. The material can
-imprint observers, especially when viewed directly during active second-hand regression or near an unstable temporal
-device.
+imprint observers, especially when viewed directly during active
+second-hand regression or near an unstable temporal device.
 
 Approved roles include Stop-Watch internal material tracking; temporal fluctuation detection; chronometric vault
 calibration; reverse-flow laboratory study; controlled comparison with Static-Pulse Crystal heat response;
@@ -262,9 +262,9 @@ magnetic flask drift, false stillness, toxic exposure, and regression echo. Fals
 may appear calm while responding to a future disturbance.
 
 FAILURE HISTORY
-CRM-1958 Stop-Watch Verification: Analysis of AFD-TI-560 confirmed the absence of gears or springs and identified CRM
-as the internal medium. The finding created the first formal Temporal Analysis custody chain for liquid anomalous
-metals.
+CRM-1958 Stop-Watch Verification: Analysis of AFD-TI-560 confirmed the absence of
+gears or springs and identified CRM as the internal medium. The finding created
+the first formal Temporal Analysis custody chain for liquid anomalous metals.
 
 CRM-1999 Terminal Emergency Record: The Stop-Watch was used during a restricted Site-01 breach prevention event. CRM
 behavior during the following seven-day regression remains partially censored, but the event confirmed that the

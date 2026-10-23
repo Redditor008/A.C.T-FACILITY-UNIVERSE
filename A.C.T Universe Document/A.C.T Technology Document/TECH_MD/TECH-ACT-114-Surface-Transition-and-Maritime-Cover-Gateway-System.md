@@ -24,9 +24,9 @@
 Surface Transition and Maritime Cover Gateway System is the one-hundred-fourteenth main A.C.T technology expanded into
 an individual record. The F-6 Surface Research and Transition Level dossier identifies F-6 as the relay's legitimate
 face and physical boundary: research laboratories, monitoring stations, administrative buildings, port facility
-surface operations, campus access architecture, and the transition of personnel and recovered material between the
-island surface and the buried relay. It also records concealed transition doctrine, maritime separation doctrine, and
-surface response doctrine.
+surface operations, campus access architecture, and the transition of personnel and
+recovered material between the island surface and the buried relay. It also records
+concealed transition doctrine, maritime separation doctrine, and surface response doctrine.
 
 STMCGS exists because Nusantara's surface is both a research institute and a doorway into the buried relay. The
 gateway must move personnel and recovered material without teaching the outside world where the door is.
@@ -230,9 +230,9 @@ observation, surface seal delay, material odor or residue, and movement records 
 ## FAILURE HISTORY
 
 ### STMCGS-Pattern-of-Use Review
-A surface-security review found that a hidden entrance can remain unseen while repeated staff movement still reveals
-that something is being used. Current STMCGS doctrine masks pattern, timing, and explanation, not only the physical
-doorway.
+A surface-security review found that a hidden entrance can remain unseen while
+repeated staff movement still reveals that something is being used. Current STMCGS
+doctrine masks pattern, timing, and explanation, not only the physical doorway.
 
 ### STMCGS-Port Separation Correction
 A port logistics exercise showed that legitimate research vessels and concealed maritime operations could create

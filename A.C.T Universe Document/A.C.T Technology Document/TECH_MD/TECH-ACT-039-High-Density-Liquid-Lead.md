@@ -72,11 +72,11 @@ Approved roles include:
 
 ## ORIGIN AND DEPLOYMENT
 
-A.C.T's early shielding traditions relied on dense lead, stone, iron, and later Abyssal Masonry. Solid barriers worked
-until hazards learned to move through seams, dust, acoustic vibration, heat, or residue. Engineers needed a material
-that carried lead's shielding logic while behaving like a fluid trap. HDLL was developed as a high-density suspension
-that remains pourable under controlled conditions while retaining enough mass to absorb and smother dangerous
-emissions.
+A.C.T's early shielding traditions relied on dense lead, stone, iron, and later Abyssal Masonry.
+Solid barriers worked until hazards learned to move through seams, dust, acoustic vibration,
+heat, or residue. Engineers needed a material that carried lead's shielding logic while behaving
+like a fluid trap. HDLL was developed as a high-density suspension that remains pourable under
+controlled conditions while retaining enough mass to absorb and smother dangerous emissions.
 
 The technology moved from artifact shielding into biological containment after dust-based anomalies proved that a
 clean-looking floor could be lethal. Crystal Butterfly files show the practical reason: the subject's crystalline
@@ -84,8 +84,8 @@ particulates use water inside the body to grow through tissue. A dry sweep can
 miss them. A wet mop can activate them.
 HDLL gives the dust a heavy place to fall and stay.
 
-Current deployment is pipe-controlled. Open HDLL use requires Site Safety review, spill recovery equipment, and
-post-use environmental survey.
+Current deployment is pipe-controlled. Open HDLL use requires Site Safety
+review, spill recovery equipment, and post-use environmental survey.
 
 ---
 
@@ -111,8 +111,8 @@ Known components include:
 - contamination alarm strip;
 - hazardous waste transfer canister.
 
-HDLL must not be improvised into ordinary plumbing. Its weight can rupture systems designed for water, oil, or
-coolant.
+HDLL must not be improvised into ordinary plumbing. Its weight
+can rupture systems designed for water, oil, or coolant.
 
 ---
 
@@ -140,8 +140,8 @@ per litre, Pipe load rating are not measured here. Those 3 gaps sit in OPEN QUES
 
 The fluid traps and absorbs; it does not dissolve hazards and it does not
 forgive poor containment. It must
-never be improvised into ordinary plumbing, because its weight can rupture systems designed for water, oil,
-or coolant.
+never be improvised into ordinary plumbing, because its weight
+can rupture systems designed for water, oil, or coolant.
 
 ## INTERFACE AND OPERATING ENVELOPE
 
@@ -220,8 +220,8 @@ Crystal Butterfly-class chambers is never returned to general shielding loops.
 
 The fluid is the consumable: it is spent by capture and transferred out for
 disposal, so calendar interval
-NOT MEASURED. The 2017 review is why lead-glass rating and floor-load confirmation are mandatory for every
-installation.
+NOT MEASURED. The 2017 review is why lead-glass rating and
+floor-load confirmation are mandatory for every installation.
 
 ## FAULT ISOLATION
 

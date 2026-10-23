@@ -57,10 +57,10 @@ FUNCTION SUMMARY
 
 The Emergency Intake and Secure Storage System is the hidden F-1 infrastructure used by
 Ash Tide Watchpoint to receive
-recovered material, emergency personnel, maritime arrivals, and time-sensitive objects under operational pressure.
-It combines a concealed intake bay, temporary secure storage, personnel stabilization space, transfer preparation
-area, monitoring coverage, communications with the parent relay, and a rolling manifest that follows every intake to
-transfer.
+recovered material, emergency personnel, maritime arrivals, and time-sensitive objects under
+operational pressure. It combines a concealed intake bay, temporary secure storage, personnel
+stabilization space, transfer preparation area, monitoring coverage, communications with the
+parent relay, and a rolling manifest that follows every intake to transfer.
 
 EISSS is not long-term containment. It is a controlled pause between the coast and
 Nusantara Deep Relay. Its purpose
@@ -234,9 +234,9 @@ SERVICING AND CALIBRATION
 | Transfer clock expired     | escalate to the parent relay              | Intake Officer                            |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 
-No calendar interval is recorded; readiness is verified per watch, so interval NOT MEASURED. Transfer crates
-and stabilization stock are the consumables. The temporary doctrine review is why the clock is set before
-storage rather than after.
+No calendar interval is recorded; readiness is verified per watch, so interval NOT
+MEASURED. Transfer crates and stabilization stock are the consumables. The
+temporary doctrine review is why the clock is set before storage rather than after.
 
 FAULT ISOLATION
 

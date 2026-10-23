@@ -59,8 +59,8 @@ incoming force can be answered with the correct harmonic disagreement. The arm i
 effective against defined
 impacts: lunges, strikes, projectiles, burst-waves, and short contact events. It is much weaker against
 sustained
-crushing, fluid engulfment, psychic attack, heat, acid, infection, narrative command, or anything that does not
-present a parryable edge.
+crushing, fluid engulfment, psychic attack, heat, acid, infection,
+narrative command, or anything that does not present a parryable edge.
 
 Approved roles include:
 
@@ -267,9 +267,9 @@ attempts as a behavioral hazard.
 ## FAILURE HISTORY
 
 ### TFA-2018 First Deployment Bruising
-The first field-rated operator successfully redirected a high-energy training projectile but suffered deep shoulder
-bruising because the feedback sink was under-calibrated. This led to mandatory Medical signoff after every red-window
-parry.
+The first field-rated operator successfully redirected a high-energy training
+projectile but suffered deep shoulder bruising because the feedback sink was
+under-calibrated. This led to mandatory Medical signoff after every red-window parry.
 
 ### TFA-1985 Expedition Pale Retrospective
 Expedition Pale-01 predates the 2018 standard model but used an early Feedbacker Arm under field conditions. Novak

@@ -80,9 +80,9 @@ became the indicator.
 
 The textile's dark purple body and shifting star field were retained because they made
 contamination and movement
-easier to see under facility lighting. Early flat-black suits hid too much. Bright white suits invited glare and false
-confidence. The star-motive pattern gives handlers a way to notice folds, dragging cuffs, residue trails, and abnormal
-darkening at the hem.
+easier to see under facility lighting. Early flat-black suits hid too much. Bright white
+suits invited glare and false confidence. The star-motive pattern gives handlers a way
+to notice folds, dragging cuffs, residue trails, and abnormal darkening at the hem.
 
 Crystal Butterfly procedures formalized the current use case. Workers in the secondary chamber wear hydrophobic GMT so
 dust does not meet water on the cloth surface. Chrono-Stuttered Visors protect the eyes
@@ -99,8 +99,8 @@ under changing light, but it should not pulse with the wearer's heartbeat. Each 
 includes a radiation-counter
 strip in the hem. Under safe conditions the strip remains violet. Under high gamma
 exposure the strip darkens toward
-black. Hydrophobic-treated units bead water aggressively and must be inspected for gaps after laundering, repair, or
-field use.
+black. Hydrophobic-treated units bead water aggressively and must
+be inspected for gaps after laundering, repair, or field use.
 
 Known components include:
 
@@ -253,9 +253,9 @@ Materials Custody approval can destroy exposure-routing threads.
 ## FAILURE HISTORY
 
 ### GMT-2008 Crystal Butterfly Adoption
-Crystal Butterfly containment established GMT as approved secondary-chamber apparel after hydrophobic treatment
-prevented crystalline dust from activating on suit surfaces. The file now requires GMT and full-face Chrono-Stuttered
-Visors for chamber entry.
+Crystal Butterfly containment established GMT as approved secondary-chamber apparel
+after hydrophobic treatment prevented crystalline dust from activating on suit surfaces.
+The file now requires GMT and full-face Chrono-Stuttered Visors for chamber entry.
 
 ### GMT-2015 Hem Strip Saturation
 A radiation-counter strip reached black while the wearer continued working because the rest of the garment looked

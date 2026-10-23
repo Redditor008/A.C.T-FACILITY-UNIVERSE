@@ -71,9 +71,9 @@ Many confirmed anomalous
 documents can be held under standard doctrine if their behavior is watched, their environment is controlled, and their
 routes of transmission are blocked.
 
-F-3 developed as that working floor. SIADSS formalizes the signal-isolated portion of its storage system, giving the
-node a way to hold transmitting or receiving documents without either overclassifying them into F-2 or underestimating
-them as ordinary records.
+F-3 developed as that working floor. SIADSS formalizes the signal-isolated portion of its
+storage system, giving the node a way to hold transmitting or receiving documents without
+either overclassifying them into F-2 or underestimating them as ordinary records.
 
 ---
 
@@ -239,9 +239,9 @@ contained residents. Current SIADSS doctrine records active behavior, monitoring
 part of the storage assignment.
 
 ### SIADSS-Signal Isolation Correction
-A media item once stopped visible transmission while producing irregular behavior in nearby documentation fields.
-Current storage checks include metadata, logging surfaces, and adjacent record behavior, not only obvious signal
-output.
+A media item once stopped visible transmission while producing irregular behavior
+in nearby documentation fields. Current storage checks include metadata, logging
+surfaces, and adjacent record behavior, not only obvious signal output.
 
 ### SIADSS-Transfer Threshold Review
 A quarantine case remained on F-3 after repeated signs of understanding-linked escalation. Current procedure requires

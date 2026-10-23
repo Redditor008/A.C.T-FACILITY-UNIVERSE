@@ -40,9 +40,9 @@ explanation is stable. The Directorate is not an A.C.T branch, not GAA, not a
 military anomaly command, not a city
 fire department, and not a single harbor office. It qualifies as a Group of
 Interest because it possesses national
-command structure, rescue fleets, trained personnel, shelters, records, public legitimacy, and a repeated ability to
-change A.C.T field outcomes when civilians are trapped between breach, disaster, secrecy, and delayed containment
-jurisdiction.
+command structure, rescue fleets, trained personnel, shelters, records, public
+legitimacy, and a repeated ability to change A.C.T field outcomes when civilians are
+trapped between breach, disaster, secrecy, and delayed containment jurisdiction.
 
 The relationship class is **POSITIVE**. Grey Harbor Civil Rescue Directorate repeatedly saves civilians, extracts
 children, stabilizes shelters, preserves hospitals, and prevents panic deaths during abnormal events. The Directorate
@@ -107,9 +107,9 @@ identified several regional rescue chiefs, harbor captains, medical commanders, 
 central anomaly-response office is compartmented behind disaster-continuity law. The Directorate can issue orders
 faster than normal government channels during restricted events, which suggests preauthorized emergency powers.
 
-A.C.T has not confirmed whether all national ministers know the Directorate's anomalous function. Some documents imply
-full state authorization. Others imply that the Directorate survives by hiding its restricted manuals inside public
-rescue law.
+A.C.T has not confirmed whether all national ministers know the Directorate's
+anomalous function. Some documents imply full state authorization. Others imply that
+the Directorate survives by hiding its restricted manuals inside public rescue law.
 
 ### Internal Structure
 
@@ -123,11 +123,10 @@ A.C.T assessment identifies these functional layers:
 - signal rooms that preserve emergency calls, siren activation logs, and responder radio traffic;
 - family-notification clerks who keep relatives informed without exposing classified causes;
 - grey-tag teams who mark survivors requiring A.C.T review without treating them as prisoners;
- child extraction teams trained to remove minors from panic zones, shelters, schools, and flooded
- rooms.
+ child extraction teams trained to remove minors from panic zones, shelters, schools, and flooded rooms.
 
-This structure makes the Directorate a real government GOI. It has command, law, personnel, public-facing authority,
-equipment, and doctrine.
+This structure makes the Directorate a real government GOI. It has
+command, law, personnel, public-facing authority, equipment, and doctrine.
 
 ### Membership and Recruitment
 
@@ -176,10 +175,10 @@ an excuse to delay extraction, hide casualty counts, abandon responders, or eras
 
 A.C.T assesses that Grey Harbor seeks to preserve civilian life and civil trust during
 abnormal disasters. It wants
-reliable evacuation, practical shelters, responder safety, casualty accounting, hospital continuity, and enough truth
-for families to survive grief. Its goal aligns with A.C.T when saving civilians supports containment and normalcy. It
-conflicts with A.C.T when A.C.T prioritizes perimeter closure, evidence control, or memory alteration before rescue is
-finished.
+reliable evacuation, practical shelters, responder safety, casualty accounting, hospital
+continuity, and enough truth for families to survive grief. Its goal aligns with A.C.T when
+saving civilians supports containment and normalcy. It conflicts with A.C.T when A.C.T
+prioritizes perimeter closure, evidence control, or memory alteration before rescue is finished.
 
 The Directorate is not a broad containment institution. It does not want long-term custody of most anomalies. It wants
 authority to enter, extract, triage, shelter, document, and notify.
@@ -199,8 +198,8 @@ engineer reality effects. Confirmed or strongly assessed capabilities include:
 - identifying child witnesses who describe hazards before adults perceive them;
 - keeping hospitals operating during public-cover disasters with hidden anomaly layers.
 
-Some tools, including grey-tag kits and siren lanterns, may require later object review, but the Directorate itself
-remains classed as Handler.
+Some tools, including grey-tag kits and siren lanterns, may require later
+object review, but the Directorate itself remains classed as Handler.
 
 ### Secrecy and Civilian Exposure
 
@@ -285,9 +284,9 @@ reports described industrial flooding. A.C.T records show that streets were repe
 and at least nine evacuees heard their own distress calls from rescue radios before
 calling for help.
 
-Grey Harbor's shelter registrar refused an A.C.T request to merge duplicate family entries until all evacuees were
-physically accounted for. That refusal identified three children who would have been erased as paperwork duplication
-under the initial cover plan.
+Grey Harbor's shelter registrar refused an A.C.T request to merge duplicate family entries
+until all evacuees were physically accounted for. That refusal identified three children
+who would have been erased as paperwork duplication under the initial cover plan.
 
 ### Current Relationship
 
@@ -298,9 +297,9 @@ It is not Neutral because it actively intervenes to protect people. It is not
 Negative because obstruction events are
 tied to rescue and accountability rather than anti-containment doctrine.
 
-A.C.T must expect disagreement. Grey Harbor will prioritize living civilians in reach. If A.C.T wants delayed
-extraction, full amnestic processing, or silent casualty adjustment, it must justify those decisions against rescue
-law and survivor care.
+A.C.T must expect disagreement. Grey Harbor will prioritize living civilians in reach.
+If A.C.T wants delayed extraction, full amnestic processing, or silent casualty
+adjustment, it must justify those decisions against rescue law and survivor care.
 
 ---
 
@@ -339,9 +338,9 @@ when a survivor poses immediate danger to others. A.C.T will not permit responde
 self-deploy into known
 nonrecoverable zones without command review.
 
-A.C.T will also not order responder amnestics solely to avoid embarrassment over delayed rescue, contradictory
-casualty counts, or public-cover weakness. Memory review must follow established aftercare doctrine and account for
-responder trauma.
+A.C.T will also not order responder amnestics solely to avoid embarrassment over
+delayed rescue, contradictory casualty counts, or public-cover weakness. Memory
+review must follow established aftercare doctrine and account for responder trauma.
 
 ---
 
@@ -365,9 +364,9 @@ Keep the lights grey. White light shows the wrong pier.
 PULL FIRST. EXPLAIN WHEN BREATHING.
 ```
 
-A.C.T review confirmed that the three children were physically present despite their removal from the first transport
-manifest. The grey lighting condition corresponded with reduced route confusion in the shelter corridor. No causal
-mechanism confirmed.
+A.C.T review confirmed that the three children were physically present despite their
+removal from the first transport manifest. The grey lighting condition corresponded
+with reduced route confusion in the shelter corridor. No causal mechanism confirmed.
 
 ```text
 A.C.T CIVIL COVERT ADDENDUM
@@ -426,8 +425,7 @@ wanting control over anomalies.
 
 - How many national officials know the Directorate's restricted anomalous-disaster function?
 - Are grey-tag kits anomalous, symbolic, or both?
- Who authorizes Grey Harbor responders to override ordinary road closure and shelter orders during
- A.C.T incidents?
+ Who authorizes Grey Harbor responders to override ordinary road closure and shelter orders during A.C.T incidents?
 - Why do some siren tones reduce panic while increasing witness memory retention?
  Has Grey Harbor ever hidden a survivor from A.C.T after deciding that containment
  custody
@@ -469,10 +467,10 @@ record must not replace disaster casualty records or survivor care.
 
 ### Dual Filing
 
-Under review. Grey Harbor is a government GOI, but some equipment, shelters, siren tones, rescue tags, or dispatch
-recordings may require separate filing. Dual filing is mandatory when a Grey Harbor asset acts independently, changes
-route access, preserves or alters memory, produces abnormal shelter counts, or remains active after the rescue
-incident closes.
+Under review. Grey Harbor is a government GOI, but some equipment, shelters, siren tones,
+rescue tags, or dispatch recordings may require separate filing. Dual filing is mandatory
+when a Grey Harbor asset acts independently, changes route access, preserves or alters
+memory, produces abnormal shelter counts, or remains active after the rescue incident closes.
 
 ---
 

@@ -37,13 +37,13 @@ TECHNOLOGY RECORD - VACUUM ISOLATION SPHERES
 +----------------------------+---------------------------------------------------------------------------------------+
 
 ARCHIVE NOTE
-Vacuum Isolation Spheres are the seventeenth main A.C.T technology expanded into an individual record. The Master
-Catalog defines them as zero-atmosphere glass-ceramic chambers used to isolate memetic acoustic signatures and
-info-hazard frequencies. The technological timeline places their development in the 1740s as hand-blown glass-ceramic
-vacuum chambers from the Foundational Era. The visual guide describes seamless two-meter spheres made of milky-white
-opaque ceramic, with exterior acoustic decibel sensors, a mechanical pressure disc, a heavy circular entry hatch,
-digital keypad, anti-magnetic brass manual override wheel, and a hatch monitor displaying internal atmospheric purity
-and decibel count.
+Vacuum Isolation Spheres are the seventeenth main A.C.T technology expanded into an individual record.
+The Master Catalog defines them as zero-atmosphere glass-ceramic chambers used to isolate memetic
+acoustic signatures and info-hazard frequencies. The technological timeline places their development in
+the 1740s as hand-blown glass-ceramic vacuum chambers from the Foundational Era. The visual guide
+describes seamless two-meter spheres made of milky-white opaque ceramic, with exterior acoustic decibel
+sensors, a mechanical pressure disc, a heavy circular entry hatch, digital keypad, anti-magnetic brass
+manual override wheel, and a hatch monitor displaying internal atmospheric purity and decibel count.
 
 VIS technology is old because the problem is old. Some hazards do not need
 teeth, hands, ink, or light. They need air.
@@ -193,8 +193,8 @@ Loading and isolation, Level 3 Containment.
 
 Step-down: atmosphere cycling is a Level 4 procedure and is never used to shorten
 a review. Emergency:
-decibel activity while vacuum is stable is logged as shell transmission or a non-atmospheric signal, and the
-unit is not opened.
+decibel activity while vacuum is stable is logged as shell
+transmission or a non-atmospheric signal, and the unit is not opened.
 
 Before loading, personnel identify the hazard channel: sound, breath, vibration, pressure, speech, recording,
 instrument action, or unknown acoustic effect. The sphere is inspected for shell cracks, seal residue, decibel sensor
@@ -207,8 +207,8 @@ No one opens a VIS because the object inside has gone quiet. Quiet is
 the expected condition. No one taps the shell to
 see if a subject responds. No one plays back internal audio directly into the
 room. If the decibel sensors show
-activity while vacuum is stable, the event is logged as shell transmission or non-atmospheric signal and Info-Hazard
-attaches.
+activity while vacuum is stable, the event is logged as shell
+transmission or non-atmospheric signal and Info-Hazard attaches.
 
 Manual override is not a convenience feature. The brass wheel exists for power failure,
 rescue, or command-authorized
@@ -233,9 +233,8 @@ SERVICING AND CALIBRATION
 | Acoustic evidence release  | Archive review                            | Archive Division                          |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 
-No calendar interval is recorded; interval NOT MEASURED. There is no consumable, because the sphere is
-sealed hardware. The 1987 disagreement is why clearance requires the mechanical disc and the digital monitor
-to agree.
+No calendar interval is recorded; interval NOT MEASURED. There is no consumable, because the sphere is sealed
+hardware. The 1987 disagreement is why clearance requires the mechanical disc and the digital monitor to agree.
 
 FAULT ISOLATION
 

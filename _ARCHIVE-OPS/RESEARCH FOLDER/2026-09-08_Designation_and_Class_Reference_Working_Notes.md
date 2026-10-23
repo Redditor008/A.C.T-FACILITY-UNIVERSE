@@ -249,14 +249,13 @@ wants short codes (for example LOG-I style naming), that would be a new conventi
    state
    which scale is in use.
    Reference restates both; no file content changed.
-   **[BLANK] spelling discipline.** Class = unspaced `[BLANK]`; redaction = spaced `[ BLANK ]`. Audits
-   should flag mixed
+   **[BLANK] spelling discipline.** Class = unspaced `[BLANK]`;
+   redaction = spaced `[ BLANK ]`. Audits should flag mixed
    spellings (the reference entry is the enforcement text).
-   **Registry continuity.** GOI live register ends at 050 (Liberty Freedoms). The next owner-directed GOI
-   should take 051
+   **Registry continuity.** GOI live register ends at 050 (Liberty
+   Freedoms). The next owner-directed GOI should take 051
    unless the owner overrides. Roadmap §6 still governs: one new GOI per owner prompt.
-   **Box Class vs Containment Class confusion** — the owner's cited failure example. Reference states
-   both fields and
+   **Box Class vs Containment Class confusion** — the owner's cited failure example. Reference states both fields and
    their difference; no draft files corrected in this pass (audit would be a separate
    owner-approved sweep).
    **RCT range shorthand** (INERT → [BLANK], 0 → 10, INVIOLABLE → INTEGRATED) is
@@ -267,8 +266,7 @@ wants short codes (for example LOG-I style naming), that would be a new conventi
    official
    tables. The reference keeps `?.H`. Any
    draft file using `?H` or `.H` variants is non-standard (none found in this pass).
-    **Numbers with leading structure.** UFD/AFD registry is three digits, ANM four digits, GOI three
-    digits, sites two
+    **Numbers with leading structure.** UFD/AFD registry is three digits, ANM four digits, GOI three digits, sites two
     digits. Files that overflow or truncate these widths should be flagged in review.
 
 ---

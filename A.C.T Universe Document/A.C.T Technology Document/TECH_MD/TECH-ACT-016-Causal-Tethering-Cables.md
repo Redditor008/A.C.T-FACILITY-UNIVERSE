@@ -21,12 +21,12 @@
 | AUTHORITY | Engineering Division, Recovery Division, and Central Archive |
 
 #### Archive Note
-Causal Tethering Cables are the sixteenth main A.C.T technology expanded into an individual record. The Master Catalog
-defines them as phase-existent high-tensile lines designed to secure artifacts within unstable or stretched spatial
-environments without material failure. The visual guide describes thick iridescent industrial cables five centimeters
-in diameter, wrapped in carbon-fiber reinforcement weave, fitted with oversized connectors, redacted phase locks,
-internal liquid-cooling channels, and digital shunt displays every five meters showing causal tension and ontological
-drag.
+Causal Tethering Cables are the sixteenth main A.C.T technology expanded into an individual record.
+The Master Catalog defines them as phase-existent high-tensile lines designed to secure artifacts
+within unstable or stretched spatial environments without material failure. The visual guide
+describes thick iridescent industrial cables five centimeters in diameter, wrapped in carbon-fiber
+reinforcement weave, fitted with oversized connectors, redacted phase locks, internal liquid-cooling
+channels, and digital shunt displays every five meters showing causal tension and ontological drag.
 
 CTC exists because ordinary cables fail in places where distance, direction, weight, and attachment do not agree. A
 recovered artifact may be physically near and causally far. A doorway may pull a
@@ -60,8 +60,8 @@ The cable is phase-existent, meaning the working line occupies enough ordinary s
 maintaining a partial hold across the local causal relationship it has been assigned. It can restrain a crate against
 drift, keep an operator attached to a known exit, hold a probe at a
 set relationship to an aperture, or prevent a
-recovered object from returning to its preferred place before Causal Anchor Nails, RSA support, or FCA loading systems
-are ready.
+recovered object from returning to its preferred place before
+Causal Anchor Nails, RSA support, or FCA loading systems are ready.
 
 Approved roles include:
 
@@ -179,8 +179,7 @@ run instead of sitting only at the ends.
 - Weakest against contradictory anchors and hostile phase shifts.
 - Weakest against objects that change what they are attached to while attached.
 
-Temperature, humidity, and deployed length limits are not recorded in this file. Deployment envelope: NOT
-MEASURED.
+Temperature, humidity, and deployed length limits are not recorded in this file. Deployment envelope: NOT MEASURED.
 
 ## OPERATING PROCEDURE
 

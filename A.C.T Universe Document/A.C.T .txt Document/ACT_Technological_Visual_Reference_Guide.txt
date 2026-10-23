@@ -17,7 +17,7 @@ Main A.C.T. Reality. Personnel are to use this document to identify
 official hardware, detect unauthorized modifications, and perform
 standard maintenance calibrations.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 CATEGORY I — REALITY & SPATIAL INFRASTRUCTURE
 
@@ -89,7 +89,7 @@ Aether-Filter can be engaged to view through localized temporal fog.
 Instead of a needle, it uses a gyro-stabilized sensor array to
 highlight "Narrative Density" in real-time.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 CATEGORY II — ARCHIVAL & CAUSAL SAFEGUARDS
 
@@ -155,7 +155,7 @@ the nail is driven into a surface. The metal is internally heated by a
 exceptionally heavy and feel "magnetically stuck" in the hand even
 before deployment.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 CATEGORY III — BIO-CHEMICAL & TRANSMUTATION
 
@@ -213,7 +213,7 @@ Signal-Sink for incoming info-hazardous data. On a patient, it
 appears as a small, surgical scar protected by a [ REDACTED ]
 patch.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 CATEGORY IV — MEDICAL & STASIS SYSTEMS
 
@@ -265,7 +265,7 @@ A thick, translucent green slime stored in refrigerated tubs. Features
 an Automated Agitator Disc in the lid to prevent anomalous
 separation. Emits a strong medicinal and minty scent.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 CATEGORY V — FIELD GEAR & TACTICAL LOGISTICS
 
@@ -318,7 +318,7 @@ Armored black cube with a Rotating Sensor-Turret. The green eye
 lens uses [ REDACTED ]-Pattern Recognition and features a Wired
 Tactical Uplink Port for mission-parameter input.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 CATEGORY VI — ANOMALOUS & REFINED MATERIALS
 

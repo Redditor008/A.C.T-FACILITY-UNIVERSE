@@ -1,7 +1,7 @@
 A.C.T FACILITY ARCHIVE FILE — REALITY STABILIZATION ANCHOR SYSTEM
 ===========================
 TECHNOLOGY RECORD - REALITY STABILIZATION ANCHOR SYSTEM
--------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                                                         |
@@ -41,12 +41,12 @@ TECHNOLOGY RECORD - REALITY STABILIZATION ANCHOR SYSTEM
 
 Archive Note
 ............
-The Reality Stabilization Anchor System is the first A.C.T-owned technology to receive an individual expanded
-technology record in this archive because it is the main A.C.T containment infrastructure already present across the
-master technology index, technological timeline, visual reference guide, and site dossiers. The RSA is the primary
-pillar of modern containment. It broadcasts a calibrated causal baseline that holds local space, sequence, object
-presence, chamber geometry, and procedural reality close enough to Earth-standard conditions for A.C.T facilities to
-function.
+The Reality Stabilization Anchor System is the first A.C.T-owned technology to receive an individual
+expanded technology record in this archive because it is the main A.C.T containment infrastructure
+already present across the master technology index, technological timeline, visual reference guide,
+and site dossiers. The RSA is the primary pillar of modern containment. It broadcasts a calibrated
+causal baseline that holds local space, sequence, object presence, chamber geometry, and procedural
+reality close enough to Earth-standard conditions for A.C.T facilities to function.
 
 The RSA is not a weapon, not a general shield, not a miracle generator,
 not a replacement for containment structure,
@@ -59,13 +59,13 @@ This file expands the short master-index entry into a working technical record. 
 angles, synchronization frequencies, and full emergency override
 sequences remain censored under RSA CORE DISCLOSURE LIMIT.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 FUNCTION SUMMARY
-----------------
+═══════════════════════════════════════════════════════════════════════
 
 Practical Function
-------------------
+═══════════════════════════════════════════════════════════════════════
 
 A Reality Stabilization Anchor maintains a local causal baseline. In practical terms, it reduces the ability of
 anomalous pressure to warp the area around the Anchor. A calibrated RSA field can
@@ -92,7 +92,7 @@ apertures. It is also a site-wide
 habit of making reality behave long enough for humans to work.
 
 Operational Role
-----------------
+═══════════════════════════════════════════════════════════════════════
 
 RSA support appears in four major roles:
 
@@ -104,16 +104,16 @@ identity;
 system, tool, warning, or
 institutional doctrine.
 
-The RSA is one reason A.C.T can develop technologies from anomalies without every experiment becoming a new
-uncontrolled fracture.
+The RSA is one reason A.C.T can develop technologies from anomalies
+without every experiment becoming a new uncontrolled fracture.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 ORIGIN AND CUSTODY
-------------------
+═══════════════════════════════════════════════════════════════════════
 
 Development History
--------------------
+═══════════════════════════════════════════════════════════════════════
 
 The technological timeline records the first successful RSA prototype in 1965, using static-pulse crystal resonance to
 maintain local space-time coherence. Earlier A.C.T methods relied on dense vaulting, iron cages, clockwork causal
@@ -132,30 +132,30 @@ cutting, and long-term stress behavior are Level 5 restricted because hostile gr
 mimic, jam, fracture, or poison stabilization grids.
 
 Custody
--------
+═══════════════════════════════════════════════════════════════════════
 
 Primary custody belongs to Engineering Division and Containment Division. Engineering
 controls manufacture, calibration, core servicing, firmware isolation, field geometry, and
 replacement parts. Containment controls deployment standards, chamber requirements, breach
 activation, and minimum stabilization thresholds for each class of holding environment.
 
-Site Command controls local emergency activation and shutdown authority. Logistics controls transport anchors and
-RSA-equipped containers. Recovery controls temporary field units. Archive Division receives logs because RSA failure
-can alter records. Civil Covert attaches when RSA malfunction creates public architectural, road, time, or perception
-evidence.
+Site Command controls local emergency activation and shutdown authority. Logistics controls
+transport anchors and RSA-equipped containers. Recovery controls temporary field units.
+Archive Division receives logs because RSA failure can alter records. Civil Covert attaches
+when RSA malfunction creates public architectural, road, time, or perception evidence.
 
 No GOI owns RSA technology. Multiple GOIs have seen RSA effects. Iron Meridian Authority is suspected of attempting to
 imitate perimeter-stabilization behavior. Ninefold Ark may possess low-power seal patterns that resemble A.C.T
 fallback concepts. No confirmed non-A.C.T actor has reproduced a full RSA unit.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 
 PHYSICAL AND SYSTEM DESCRIPTION
--------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Standard Pillar Unit
---------------------
+═══════════════════════════════════════════════════════════════════════
 
 The visual reference guide describes the standard RSA unit as a 1.5-meter tall hexagonal pillar composed of
 matte-black non-reflective tungsten alloy. The unit is supported by a heavy-duty tungsten tripod base with adjustable
@@ -169,7 +169,7 @@ Those details are approved for identification training. They are not sufficient 
 a visible RSA pillar as site-critical infrastructure unless it is explicitly marked as a training shell.
 
 Core Components
----------------
+═══════════════════════════════════════════════════════════════════════
 
 Known components include:
 
@@ -186,13 +186,13 @@ Known components include:
 - local field geometry memory;
 - hardline or isolated relay connection to site stabilization monitor.
 
-The four-split crystal core appears to distribute causal load across four quarter segments rather than one continuous
-crystal. Engineering notes indicate that single-core prototypes suffered catastrophic stress bloom under high
-distortion. The split design allows controlled disagreement inside the core instead of uncontrolled disagreement in
-the room.
+The four-split crystal core appears to distribute causal load across four quarter segments
+rather than one continuous crystal. Engineering notes indicate that single-core prototypes
+suffered catastrophic stress bloom under high distortion. The split design allows
+controlled disagreement inside the core instead of uncontrolled disagreement in the room.
 
 Site Grid and Transport Variants
---------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Fixed site units are installed as grids. Redwood Veil maintains continuous RSA support through the buried core, with
 the densest concentration on F-1 through F-3. White Grave maintains RSA support throughout holding levels,
@@ -203,12 +203,12 @@ Transport variants include RSA-equipped sealed containers, RSA-equipped intermod
 into Facility Converted Aircraft. Transport anchors are weaker than fixed grids and are not authorized for long-term
 holding unless paired with static site support.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 
 
 TECHNICAL SPECIFICATION
------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Figures below are restated from the Visual Reference Guide entry and this record's component list. 4 figures below are
 blank: Unit mass, Power draw, Field radius per unit, and 1 more. Each is filed under OPEN QUESTIONS.
@@ -250,10 +250,10 @@ high distortion. The four-quarter design allows controlled disagreement
 inside the core instead of uncontrolled disagreement in the room.
 
 INTERFACE AND OPERATING ENVELOPE
---------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Controls
---------
+═══════════════════════════════════════════════════════════════════════
 
 - front mechanical hatch with manual interlock, opening to the pressurized core
 - folding detachable tablet connector
@@ -261,14 +261,14 @@ Controls
 - manual hatch interlock
 
 Readouts
---------
+═══════════════════════════════════════════════════════════════════════
 
 - violet sweep pattern from the laser point dynamic sensor
 - LCD waveforms of the synchronization link
 - RSA-GREEN through RSA-BLACK working states
 
 Envelope And Personnel Limits
------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 - Do not stand inside the violet sweep pattern during calibration without approved sensor-safe
   gear.
@@ -285,10 +285,10 @@ Temperature, humidity, altitude, and power tolerance limits are not recorded any
 catalog. Environmental envelope: NOT MEASURED.
 
 OPERATING PROCEDURE
--------------------
+═══════════════════════════════════════════════════════════════════════
 
 Numbered Operating Sequence
----------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Normal calibration, Level 4 Engineering or Containment.
 
@@ -309,10 +309,10 @@ anchor locks the field for breach response, and Command approval is required bef
 is paired with unreviewed
 amnestic dispersal, narrative static, or ARM reset.
 
--------------------
+═══════════════════════════════════════════════════════════════════════
 
 Authorized Use
---------------
+═══════════════════════════════════════════════════════════════════════
 
 Only Level 4 Engineering or Containment personnel may perform normal RSA calibration. Level 3 staff may read status
 indicators and report alarms if locally certified. Level 5 authorization is required for core access,
@@ -330,7 +330,7 @@ Basic deployment rule:
 ANCHOR THE ROOM BEFORE YOU ARGUE WITH WHAT IS INSIDE IT.
 
 Monitoring States
------------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T uses the following working labels. These are technical states, not anomaly classes:
 
@@ -345,19 +345,19 @@ RSA-BLACK is treated as a site movement hazard. Personnel must not assume the ne
 exit remains an exit.
 
 Handling Rules
---------------
+═══════════════════════════════════════════════════════════════════════
 
 Do not open the front hatch during drift unless Engineering authorizes stress release. Do not stand inside the violet
 sweep pattern during calibration unless wearing approved sensor-safe gear. Do not connect an uncertified tablet to the
 folding connector. Do not move a tripod unit after it has been grid-accepted unless
 the field has been stepped down.
-Do not pair RSA hard anchor with unreviewed amnestic dispersal, narrative static, or ARM reset unless Command approves
-the combined effect.
+Do not pair RSA hard anchor with unreviewed amnestic dispersal, narrative
+static, or ARM reset unless Command approves the combined effect.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 SERVICING AND CALIBRATION
--------------------------
+═══════════════════════════════════════════════════════════════════════
 
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | TRIGGER                    | ACTION                                    | AUTHORITY                                 |
@@ -384,7 +384,7 @@ No calendar interval is recorded. Calibration is event-triggered by drift state;
 is recorded. Crystal replacement is a Level 5 procedure, not a scheduled part change.
 
 FAULT ISOLATION
----------------
+═══════════════════════════════════════════════════════════════════════
 
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
@@ -415,10 +415,10 @@ FAULT ISOLATION
 
 
 KNOWN LIMITS
-------------
+═══════════════════════════════════════════════════════════════════════
 
 What RSA Cannot Do
-------------------
+═══════════════════════════════════════════════════════════════════════
 
 RSA cannot contain every anomaly by itself. It cannot make a hostile entity harmless,
 cannot repair a broken
@@ -437,7 +437,7 @@ RSA is weakest against:
 - overconfident staff who keep working after RSA-YELLOW becomes RSA-AMBER.
 
 Misuse Risk
------------
+═══════════════════════════════════════════════════════════════════════
 
 Misuse can make an incident worse. Over-anchoring can pin a hazardous state in place.
 Under-anchoring can let a
@@ -449,13 +449,13 @@ Field Command note:
 
 The RSA is not courage. It is permission to begin being careful.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 FAILURE HISTORY
----------------
+═══════════════════════════════════════════════════════════════════════
 
 RSA-1965-PROTOTYPE STRESS BLOOM
--------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 The earliest successful prototype proved the principle and revealed the cost. During a controlled aperture test, the
 single crystal core accepted too much disagreement at once. The test chamber remained rectangular, but three observer
@@ -467,7 +467,7 @@ Engineering replaced the single-core architecture with split-core stress
 distribution after this incident. The full report remains restricted.
 
 REDWOOD VEIL F-2 AMBER DRIFT
-----------------------------
+═══════════════════════════════════════════════════════════════════════
 
 A later near miss occurred on Redwood Veil F-2 when an object gallery entered
 RSA-AMBER without triggering evacuation.
@@ -475,11 +475,11 @@ The room's dimensions remained stable, but camera timestamps began repeating nin
 instrument fault. The affected chamber later showed containment-log duplication and inconsistent inventory tags.
 Archive Division identified the event because two identical retrieval entries had different handwriting.
 
-Corrective action established the rule that timestamp disagreement counts as geometry risk even when walls remain
-still.
+Corrective action established the rule that timestamp disagreement
+counts as geometry risk even when walls remain still.
 
 TRANSPORT CONTAINER WHITE LOCK EVENT
-------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 An RSA-equipped intermodal container entered RSA-WHITE during overland movement after a contained object began
 shifting mass through recorded ownership labels. The hard anchor prevented road distortion but locked the container's
@@ -490,52 +490,52 @@ provided a step-down sequence.
 
 No casualties occurred. The event remains training material for transport crews.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 DIVISION USE
-------------
+═══════════════════════════════════════════════════════════════════════
 
 Engineering Division
---------------------
+═══════════════════════════════════════════════════════════════════════
 
 Engineering owns design, manufacture, calibration standards, crystal service, firmware isolation, stress-release
 procedure, and component retirement. Engineering also maintains the redacted core geometry tables. No other division
 may improvise crystal replacement.
 
 Containment Division
---------------------
+═══════════════════════════════════════════════════════════════════════
 
 Containment defines minimum RSA support for chamber classes, aperture work, breach response, spatial residents,
 entropic residents, and transformation staging. Containment may request emergency hard anchor but must accept
 Engineering override if the anchor would worsen structural load.
 
 Site Command
-------------
+═══════════════════════════════════════════════════════════════════════
 
 Site Command authorizes site-level RSA posture during breach, lockdown, evacuation, or F-1 closure. Command must
 record why any area remains occupied during RSA-RED or RSA-BLACK.
 
 Recovery and Logistics
-----------------------
+═══════════════════════════════════════════════════════════════════════
 
 Recovery uses temporary field anchors and transport containers. Logistics maintains
 movement schedules for RSA-equipped containers and Facility Converted Aircraft
 integration. Transport anchors require return inspection after any drift event.
 
 Archive and Civil Covert
-------------------------
+═══════════════════════════════════════════════════════════════════════
 
-Archive Division reviews RSA logs when records, timestamps, map labels, retrieval entries, or object identities
-disagree. Civil Covert manages public traces if RSA failure causes a building, road, camera feed, or civilian memory
-chain to misbehave.
+Archive Division reviews RSA logs when records, timestamps, map labels, retrieval
+entries, or object identities disagree. Civil Covert manages public traces if RSA
+failure causes a building, road, camera feed, or civilian memory chain to misbehave.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 CROSS-REFERENCES
-----------------
+═══════════════════════════════════════════════════════════════════════
 
 Related A.C.T Records
----------------------
+═══════════════════════════════════════════════════════════════════════
 
 - ACT-MASTER-INDEX-50-SYSTEMS-AND-MATERIALS, Archive Record
 - Internal Engineering Record: 1598 – 2026, Archive Record
@@ -546,7 +546,7 @@ Related A.C.T Records
 - TECHNOLOGY RECORD TEMPLATE, Technology Record
 
 Technology Relationship
------------------------
+═══════════════════════════════════════════════════════════════════════
 
 The RSA system interacts with, but is distinct from:
 
@@ -557,13 +557,13 @@ The RSA system interacts with, but is distinct from:
 - Facility Converted Aircraft, which incorporate RSA support for high-priority transport;
 - Cryo-Seismic Stabilizers, which use RSA intervals during world-scale events.
 
-Each system requires its own individual technology record. This file covers only the Reality Stabilization Anchor
-System.
+Each system requires its own individual technology record.
+This file covers only the Reality Stabilization Anchor System.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 OPEN ENGINEERING AND INTELLIGENCE QUESTIONS
--------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 - How long can a split Static-Pulse Crystal core operate after repeated RSA-WHITE events
 before replacement becomes
@@ -584,10 +584,10 @@ not visible in single-system tests?
 - What is the true long-term source limit for Static-Pulse Crystal extracted from the
 Abyss Floor?
 
----
+═══════════════════════════════════════════════════════════════════════
 
 FILE METADATA
--------------
+═══════════════════════════════════════════════════════════════════════
 
 FILE CREATED:            21/04/2026
 FILE LAST UPDATED:       04/11/2026

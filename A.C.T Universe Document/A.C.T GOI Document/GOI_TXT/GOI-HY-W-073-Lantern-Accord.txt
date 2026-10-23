@@ -1,7 +1,7 @@
 A.C.T FACILITY ARCHIVE FILE — GOI HY W 073 Lantern Accord
 ===========================
 GROUP OF INTEREST REGISTRY - LANTERN ACCORD
--------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                                                         |
@@ -89,13 +89,13 @@ Signatory seats, beacon codes, neutral-line maps, violation ledgers, and A.C.T c
 LANTERN DISCLOSURE LIMIT. Some redactions protect active safe routes. Some protect covert groups that prevent greater
 harm. Some protect A.C.T from hostile reconstruction of emergency compromises.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 IDENTITY AND INSTITUTIONAL FUNCTION
------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Group Function
---------------
+═══════════════════════════════════════════════════════════════════════
 
 Lantern Accord functions as a crisis table for groups that normally mistrust each other. When an anomaly breaks across
 borders, when a quarantine route intersects a hospital, when a hostile containment force approaches a survivor convoy,
@@ -103,13 +103,13 @@ or when a false road cuts through a public evacuation, the Accord can establish
 a temporary lantern line. That line
 marks an emergency rule set: no seizure inside the line, no sale of passage
 inside the line, no conversion of rescued
-persons into prisoners, no weapon testing, no recruitment, no public spectacle, and no ownership claim until the line
-is closed.
+persons into prisoners, no weapon testing, no recruitment, no
+public spectacle, and no ownership claim until the line is closed.
 
-A.C.T tracks the Accord because the ability to create temporary order outside A.C.T command is consequential. In
-several incidents the Accord has prevented a second catastrophe. In others it has delayed A.C.T recovery while
-delegates argued whether a person, object, or ward belonged under A.C.T custody, Mercy Lock custody, municipal
-shelter, or local law.
+A.C.T tracks the Accord because the ability to create temporary order outside A.C.T command
+is consequential. In several incidents the Accord has prevented a second catastrophe. In
+others it has delayed A.C.T recovery while delegates argued whether a person, object, or
+ward belonged under A.C.T custody, Mercy Lock custody, municipal shelter, or local law.
 
 The Accord's repeated lantern rule is:
 
@@ -119,7 +119,7 @@ This line appears on beacon crates, handover forms, and meeting minutes. It is p
 Light marks a safe line before authority is decided.
 
 Public Presence and Concealment
--------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Publicly, Lantern Accord appears as disaster mutual-aid networks, emergency logistics conferences, specialist
 firefighting contractors, humanitarian corridor advisers, municipal resilience offices, field-hospital coordination
@@ -130,31 +130,31 @@ Known marks include yellow lantern stickers on the inside of depot doors, chalk 
 around temporary triage tents,
 relay vans with covered roof lamps, sealed handover cards, and the phrase THE DOOR
 IS LIT written at the bottom of
-evacuation notices. A.C.T has confirmed that ordinary civilians sometimes copy these marks after disasters, creating
-false positives.
+evacuation notices. A.C.T has confirmed that ordinary civilians
+sometimes copy these marks after disasters, creating false positives.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-----------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Leadership Condition
---------------------
+═══════════════════════════════════════════════════════════════════════
 
-Lantern Accord has no sovereign leader. Authority is distributed through Signatory Seats and crisis roles. A Signatory
-Seat represents a recognized group, ward, municipal covert office, route system, or custody institution. Lantern
-Marshals establish safe lines in the field. Accord Clerks record terms, violations, transfers, and delayed custody
-claims. Safe-Line Arbiters decide whether an action breaks emergency neutrality. Crisis Delegates negotiate under time
-pressure.
+Lantern Accord has no sovereign leader. Authority is distributed through Signatory Seats and
+crisis roles. A Signatory Seat represents a recognized group, ward, municipal covert office,
+route system, or custody institution. Lantern Marshals establish safe lines in the field. Accord
+Clerks record terms, violations, transfers, and delayed custody claims. Safe-Line Arbiters decide
+whether an action breaks emergency neutrality. Crisis Delegates negotiate under time pressure.
 
 A.C.T has not confirmed how a group becomes a recognized Signatory Seat. Recovered minutes mention a First Lantern
 Table, but the phrase may refer to the founding meeting, a physical table, an
 old neutral room, or the minimum number
-of signatories needed to light a line. This uncertainty matters because false Accord declarations could redirect
-entire evacuations.
+of signatories needed to light a line. This uncertainty matters
+because false Accord declarations could redirect entire evacuations.
 
 Internal Structure
-------------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T identifies these functional layers:
 
@@ -174,7 +174,7 @@ its own. It needs enough recognized procedure
 that rival groups obey for the duration of crisis.
 
 Membership and Recruitment
---------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Membership is institutional more than individual. Known or assessed participants include municipal covert response
 cells, independent containment houses, Mercy Lock Institute wards, Saint Morrow Passage route offices, Grey Harbor
@@ -188,13 +188,13 @@ infiltrate a seat and has been denied in at least two recorded meetings. Denial
 is not permanent unless the violation
 ledger is accepted by enough Signatory Seats.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
--------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Stated Belief
--------------
+═══════════════════════════════════════════════════════════════════════
 
 Lantern Accord believes that containment failure often worsens because groups fight over authority while civilians,
 witnesses, patients, and field teams die in the gap. Its doctrine does not require
@@ -214,7 +214,7 @@ A claim written before evacuation is written in smoke.
 These phrases appear across multiple language translations, suggesting a common charter text.
 
 Assessed Objective
-------------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T assesses that Lantern Accord seeks to preserve neutral crisis procedure across the hidden world. It wants
 recognized signals, safe-line rules, emergency handover rooms, temporary custody freezes, violation evidence, and
@@ -230,7 +230,7 @@ unnecessary. If ten actors are already inside the fire, the Accord may be the
 only reason the fire line holds.
 
 Anomalous Capability Assessment
--------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Lantern Accord is assigned Containment capability. The Accord itself is procedural, but it maintains and deploys tools
 that affect containment conditions. Confirmed or strongly assessed capabilities include:
@@ -247,24 +247,24 @@ The Accord does not create containment from nothing. It creates shared behavior 
 separate technology documents after the GOI creation phase.
 
 Secrecy and Civilian Exposure
------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Lantern Accord is Leaking because crisis coordination leaves visible traces: lit depots, yellow lines, repeated
 phrases, unusual handover rooms, nonstandard emergency escorts, missing jurisdiction records, and witnesses who saw
 rival groups stop fighting under a lamp. The Accord reduces immediate exposure by preventing chaos, but the method
 itself can become evidence that ordinary emergency systems were not in charge.
 
-A.C.T may tolerate limited leakage when the alternative is mass casualty, public breach, or hostile capture of
-evacuees. Civil Covert must later fold Accord traces into disaster logistics, mutual-aid confusion, or private
-contractor cover.
+A.C.T may tolerate limited leakage when the alternative is mass casualty, public
+breach, or hostile capture of evacuees. Civil Covert must later fold Accord traces
+into disaster logistics, mutual-aid confusion, or private contractor cover.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
---------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Operational Regions
--------------------
+═══════════════════════════════════════════════════════════════════════
 
 Lantern Accord activates wherever multiple hidden actors converge during abnormal crisis: ports, border crossings,
 hospitals, evacuation corridors, quarantine rings, false-road zones, collapsed industrial sites, flooded towns, museum
@@ -273,7 +273,7 @@ competing claims. It has no fixed territory. Its territory is the line it can
 convince others to respect.
 
 Known Assets and Holdings
--------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Known or assessed assets include:
 
@@ -295,7 +295,7 @@ A.C.T has recovered one broken lantern beacon, three expired seals, two yellow-l
 violation ledger. Full codebooks remain unrecovered.
 
 Operating Method
-----------------
+═══════════════════════════════════════════════════════════════════════
 
 A typical Accord activation begins when a recognized Signatory Seat or crisis delegate lights a beacon under charter
 terms. A Lantern Marshal marks the line. An Accord Clerk writes immediate terms: hazard
@@ -315,13 +315,13 @@ BLACK LANTERN: dead, missing, or nonhuman persons present; identity and custody 
 Do not treat Lantern colors as A.C.T hazard classes. They are accord statuses and
 may vary by region.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 HISTORY WITH A.C.T
-------------------
+═══════════════════════════════════════════════════════════════════════
 
 Contact History
----------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T first consolidated Lantern Accord references after a hospital evacuation where A.C.T, a municipal covert rescue
 cell, a Mercy Lock transfer team, and an unknown route office all arrived for
@@ -347,12 +347,12 @@ Municipal claim: public evacuation.
 Route claim: child must leave before old road hears her new name.
 Ruling: light first; claim later.
 
-Since then, A.C.T contact has included controlled use of lantern lines, disputes over custody freezes, beacon code
-monitoring, joint evacuations, and conflict after Accord delegates refused A.C.T immediate seizure of a protected
-witness.
+Since then, A.C.T contact has included controlled use of lantern lines, disputes
+over custody freezes, beacon code monitoring, joint evacuations, and conflict
+after Accord delegates refused A.C.T immediate seizure of a protected witness.
 
 Current Relationship
---------------------
+═══════════════════════════════════════════════════════════════════════
 
 The current relationship is WORK. A.C.T uses Lantern Accord when the operational field is too crowded or too unstable
 for unilateral action without unacceptable harm. A.C.T also resists Accord attempts to limit Command authority,
@@ -363,13 +363,13 @@ procedure because disobedience would endanger civilians or field teams.
 The Accord has formally censured A.C.T twice for line violations. A.C.T recognizes one censure as justified and
 disputes the other. Both records are Level 5 restricted.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
----------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Responsible Jurisdiction
-------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Primary jurisdiction rests with Intelligence Division, Containment Division, Legal Division, Field Command, and
 Recovery Division. Subject Care attaches when civilians, children, altered persons, witnesses, or patients are inside
@@ -377,20 +377,20 @@ the line. Civil Covert attaches after activation to manage public traces. Site 0
 equipment. Site 03 attaches when violation ledgers, identity lag, or memory-altered testimony are involved.
 
 Posture Implementation
-----------------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T posture is COOPERATED / MONITOR / MISDIRECT / APPROPRIATE. Cooperation is authorized for evacuation, medical
 transfer, breach deconfliction, temporary safe lines, false-road coordination, handover of protected persons, and
 prevention of hostile containment seizure. Monitoring includes signatory rosters, beacon codes, line maps, neutral
 keys, violation ledgers, crisis-room locations, and repeat delegates.
 
-Misdirection is authorized when hostile actors attempt to exploit Accord marks, when public attention gathers around a
-lantern line, or when false beacons appear. Appropriation is authorized for active tools that threaten containment,
-counterfeit line warrants, compromised codebooks, or accord seals used to shield offenders after emergency conditions
-end.
+Misdirection is authorized when hostile actors attempt to exploit Accord marks, when public
+attention gathers around a lantern line, or when false beacons appear. Appropriation is
+authorized for active tools that threaten containment, counterfeit line warrants, compromised
+codebooks, or accord seals used to shield offenders after emergency conditions end.
 
 Response Limits and Red Lines
------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T personnel must not violate an active lantern line casually. If the line protects
 civilians, patients, witnesses,
@@ -404,13 +404,13 @@ A.C.T will not permit Lantern Accord to protect Iron Meridian operations, freeze
 indefinitely, hide offenders behind emergency neutrality, recruit survivors inside safe lines, or declare A.C.T sites
 neutral without Command recognition.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 OPERATIONAL RECORDS
--------------------
+═══════════════════════════════════════════════════════════════════════
 
 Restricted Operational Extract
-------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 LANTERN MINUTE FRAGMENT: LTA / YELLOW SIGNAL COMPACT
 LOCATION: [CENSOR: HOSPITAL BAY]
@@ -438,8 +438,8 @@ Act: attempted seizure of altered workers before civilian exit complete.
 Witnesses: Lantern Marshal, A.C.T observer, Saint Morrow driver, two municipal medics.
 Result: line held after warning; breaker withdrew; later identified as Iron Meridian proxy.
 
-The extract is retained because it shows the Accord opposing a hostile containment force while A.C.T was present but
-not in full control.
+The extract is retained because it shows the Accord opposing a hostile
+containment force while A.C.T was present but not in full control.
 
 FIELD COMMAND NOTE
 
@@ -447,13 +447,13 @@ The Accord is not command. It is a tool other people will use when
 command is contested. Learn the tool before hostile
 groups learn to counterfeit it better than we can read it.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
--------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Confirmed Operational Facts
----------------------------
+═══════════════════════════════════════════════════════════════════════
 
 - Lantern Accord is an outside containment compact and not an A.C.T treaty office.
 - It establishes temporary safe lines and handover rules during multi-actor abnormal crises.
@@ -464,7 +464,7 @@ prevention.
 - Iron Meridian Authority has attempted to exploit or enter Accord structures.
 
 Active Intelligence Assessment
-------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T assesses Lantern Accord as a specialized WORK containment GOI. Its strongest value is deconfliction when the
 field is crowded. Its strongest risk is authority dilution. A.C.T should not romanticize the Accord as a hidden-world
@@ -479,7 +479,7 @@ hostile groups find harder to deny. That makes it a pressure instrument as well
 as a humanitarian mechanism.
 
 Persistent Questions
---------------------
+═══════════════════════════════════════════════════════════════════════
 
 - Does the First Lantern Table exist as a physical room, founding meeting, or
 activation threshold?
@@ -495,20 +495,20 @@ recovered?
 custody?
 
 Intelligence Confidence
------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Moderate. A.C.T has witnessed activations, recovered minutes, handled expired seals, and interrogated false-beacon
 cases. Confidence is limited by incomplete signatory lists, regional variation, partial tool recovery, and the
 Accord's deliberate refusal to centralize authority. Confidence may rise through controlled joint exercises, recovery
 of a current codebook, or verified access to First Lantern Table records.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 CROSS-REFERENCE STATUS
-----------------------
+═══════════════════════════════════════════════════════════════════════
 
 Anomaly and Record Relationship
--------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Lantern Accord is an organization and therefore belongs in the GOI archive. Individual lantern beacons, yellow-line
 warrants, neutral keys, accord seals, safe-line maps, violation ledgers, relay vans, handover rooms, and crisis-room
@@ -516,7 +516,7 @@ tents may require separate technology, anomaly, logistics, legal, incident, or r
 dossier must not replace incident-specific command review.
 
 Related A.C.T Records
----------------------
+═══════════════════════════════════════════════════════════════════════
 
 - CONTROLLED RECORD FORM, Group of Interest Registry
 - GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE, Group of Interest Registry
@@ -530,17 +530,17 @@ Related A.C.T Records
 files held under Central Archive routing.
 
 Dual Filing
------------
+═══════════════════════════════════════════════════════════════════════
 
 Mandatory when Accord tools or line records demonstrate active anomalous behavior. Lantern beacons, yellow-line
 warrants, neutral keys, accord seals, safe-line maps, violation ledgers, and relay vans should receive individual
 technology documents during the dedicated technology-document phase if they recur across cases. Legal filing is
 mandatory for any accord minute that limits A.C.T command authority.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 FILE METADATA
--------------
+═══════════════════════════════════════════════════════════════════════
 
 FILE CREATED:            14/12/1943
 FILE LAST UPDATED:       18/02/1962

@@ -52,8 +52,8 @@ heavily clearance-gated **Current Status:** Active **Doctrine Note:** Subject to
 Most containment holds residents for a time, until study, transformation, or routing resolves their future. A smaller
 class of residents has no such future: they are too unstable to study safely,
 too sensitive to expose to the normal
-holding system, and too dangerous to permit anything but the deepest, longest, most reinforced confinement the
-Facility can provide.
+holding system, and too dangerous to permit anything but the deepest,
+longest, most reinforced confinement the Facility can provide.
 
 F-1 exists for that class. It is the station's long-term isolation vault, where the
 most unstable and most sensitive
@@ -216,9 +216,9 @@ is compartmented so that the atmosphere of one vault cannot reach another.
 
 ### 8.3 Monitoring
 
-F-1 monitoring is continuous and layered: structural, environmental, and sleep-state monitoring for every vault.
-Monitoring feeds the floor command post and the station's central watch, and is designed to observe the sleep without
-disturbing it.
+F-1 monitoring is continuous and layered: structural, environmental, and sleep-state
+monitoring for every vault. Monitoring feeds the floor command post and the
+station's central watch, and is designed to observe the sleep without disturbing it.
 
 ### 8.4 Communication
 
@@ -272,9 +272,9 @@ that no single document can reveal it all.
 
 ### 10.2 Holding Character
 
-F-1 holds the station's most unstable and most sensitive residents — material whose containment failure would be
-unacceptable, whose stability cannot be guaranteed under standard holding, and whose sleep must be maintained without
-schedule.
+F-1 holds the station's most unstable and most sensitive residents — material whose
+containment failure would be unacceptable, whose stability cannot be guaranteed
+under standard holding, and whose sleep must be maintained without schedule.
 
 ### 10.3 Signature Resident — AFD-OB-412, "Soul Pendant"
 

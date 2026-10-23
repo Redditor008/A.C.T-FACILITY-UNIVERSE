@@ -68,11 +68,11 @@ Approved roles include:
 
 ## ORIGIN AND DEPLOYMENT
 
-VPT-AI was developed after A.C.T learned that some tactical environments injure the operator before the operation
-begins. A human planner can be hypnotized by a lure, frightened into predictable behavior, recruited by narrative
-pressure, drained by an artifact, or tempted to improvise around a beautiful opening. Unmanned platforms help, but
-unmanned platforms still require command logic. VPT-AI fills that gap without placing a human mind at the center of
-every hostile pattern.
+VPT-AI was developed after A.C.T learned that some tactical environments injure the operator before
+the operation begins. A human planner can be hypnotized by a lure, frightened into predictable
+behavior, recruited by narrative pressure, drained by an artifact, or tempted to improvise around a
+beautiful opening. Unmanned platforms help, but unmanned platforms still require command logic.
+VPT-AI fills that gap without placing a human mind at the center of every hostile pattern.
 
 The Vesper pattern is based on a future-operative filtering model, not on an uploaded
 person. It imitates
@@ -82,8 +82,8 @@ A.C.T policy. It cannot approve
 containment philosophy. It cannot declare a subject expendable. It can choose which drone enters a corridor first
 after command has already defined the mission.
 
-Current deployment remains isolated by hardware. Wired uplink is required so operators can prove when and how mission
-parameters entered the cube.
+Current deployment remains isolated by hardware. Wired uplink is required
+so operators can prove when and how mission parameters entered the cube.
 
 ---
 
@@ -265,10 +265,10 @@ was efficient and unacceptable. Sovereign-site operations now require manners an
 
 ## DIVISION USE
 
-Tactical Review controls mission templates and after-action analysis. Engineering maintains isolation, turret motion,
-lens calibration, and wired uplink integrity. Recovery uses the AI for unmanned operation planning. Security uses it
-for tactical rehearsal. Artifact Storage uses it to model handling of dangerous tools. Simulation Command stores
-sealed scenario libraries.
+Tactical Review controls mission templates and after-action analysis. Engineering maintains
+isolation, turret motion, lens calibration, and wired uplink integrity. Recovery uses the AI
+for unmanned operation planning. Security uses it for tactical rehearsal. Artifact Storage uses
+it to model handling of dangerous tools. Simulation Command stores sealed scenario libraries.
 
 Standing reminder: the cube can calculate how to enter a room. It cannot decide
 whether A.C.T deserves to enter.

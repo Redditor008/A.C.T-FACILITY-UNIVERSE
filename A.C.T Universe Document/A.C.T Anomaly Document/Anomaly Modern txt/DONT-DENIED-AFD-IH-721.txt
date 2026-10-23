@@ -145,7 +145,7 @@ BREACH PROTOCOL:         The subject poses no physical threat. If a
 ═══════════════════════════════════════════════════════════════════════
 
 AFD-IH-721 represents a "Pure Information Anomaly." It does not
-manipulate reality; it manipulates the *reporting* of reality.
+manipulate reality; it manipulates the reporting of reality.
 
 Researchers are investigating whether this effect can be transformed
 into a training tool for new Recruits. By exposing staff to a

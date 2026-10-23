@@ -9,15 +9,15 @@ Archive Note
 This file is the complete internal archive version of the Facility overview. It preserves the core doctrine, mission,
 secrecy logic, and operational philosophy of A.C.T in full internal language.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 1. A.C.T = Anomaly Containment Transformation
 A.C.T stands for Anomaly Containment Transformation, the central doctrine and operational foundation of the Facility.
 The name defines the three pillars of its purpose: to identify anomalous phenomena, to
 contain them before they can
-threaten the world, and to transform them through research, control, or adaptation into something that can be
-understood, stabilized, or made useful. A.C.T is not merely a reactionary organization—it exists to impose order on
-the impossible.
+threaten the world, and to transform them through research, control, or adaptation
+into something that can be understood, stabilized, or made useful. A.C.T is not
+merely a reactionary organization—it exists to impose order on the impossible.
 
 2. Main Goal
 The primary goal of the A.C.T Facility is to preserve the structural stability of
@@ -69,9 +69,9 @@ ignorance of the anomalous is one of the foundations that keeps civilization int
 7. Site Network
 A.C.T does not exist only as one buried core installation. In modern doctrine, the
 Facility operates through a wider
-network of recognized SITES and SUB-SITES, each assigned to specific regional, recovery, secrecy, containment,
-archive, or research functions. Detailed installation logic is preserved separately in Site Doctrine, Site Registry,
-and Jurisdiction records.
+network of recognized SITES and SUB-SITES, each assigned to specific regional, recovery,
+secrecy, containment, archive, or research functions. Detailed installation logic is
+preserved separately in Site Doctrine, Site Registry, and Jurisdiction records.
 
 8. Gray Morality
 A.C.T is neither purely benevolent nor openly tyrannical. It is a gray organization, one defined by necessity,
@@ -119,13 +119,13 @@ willing to sacrifice ethics, truth, and even human life if it believes such meas
 are required to preserve reality
 and ensure humanity’s survival.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T Universe — Part One
 This document serves as Part One of the A.C.T Universe.
 
 Series Position
----------------
+═══════════════════════════════════════════════════════════════════════
 
 This record is Part One of the A.C.T Universe reading order, Facility Overview. Part One of the A.C.T Universe
 establishes the foundational overview of the A.C.T Facility, its mission, methods, doctrine, and guiding philosophy.

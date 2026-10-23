@@ -41,9 +41,9 @@ containment injury. The group is not filed as a monster fan club, a mutation
 cult, a single chapel, a medical charity,
 or an A.C.T aftercare program. It qualifies as a Group of Interest because it
 has recurring refuge houses, ritual
-vocabulary, trained caregivers, membership continuity, concealment routes, altered-body doctrine, and a repeated
-ability to affect whether transformed persons enter A.C.T custody, accept reversal, remain with family, or disappear
-into community protection.
+vocabulary, trained caregivers, membership continuity, concealment routes, altered-body
+doctrine, and a repeated ability to affect whether transformed persons enter A.C.T
+custody, accept reversal, remain with family, or disappear into community protection.
 
 The relationship class is **POSITIVE**. The Kindly Molt repeatedly reduces suicide risk, abandonment, untreated
 injury, self-harm, exposure panic, and family rejection among altered survivors. It gives care where fear would
@@ -133,8 +133,7 @@ A.C.T assessment identifies these functional layers:
 - quiet escorts who move members between clinics, shelters, chapels, and homes;
  red-bath reviewers who decide when a body condition is too dangerous for refuge
  alone;
- memory callers who help survivors keep names, pronouns, family ties, and preferred body language
- intact.
+ memory callers who help survivors keep names, pronouns, family ties, and preferred body language intact.
 
 This structure distinguishes the Kindly Molt from a vague cult label. It is organized
 care, belief, and practical
@@ -355,8 +354,8 @@ who is actively harming others. A.C.T will not allow religious language to overr
 
 A.C.T will also not treat all Molt members as cult threats. If a refuge
 practice is preserving life and identity, it
-must be documented before removal. Force used against a refuge house can create long-term noncooperation across
-survivor communities.
+must be documented before removal. Force used against a refuge house
+can create long-term noncooperation across survivor communities.
 
 ---
 
@@ -379,9 +378,9 @@ If A.C.T refuses, ring the small bell and move the family to the kitchen.
 The person remains through the shedding.
 ```
 
-Medical Division confirmed that the survivor's skin temperature and self-injury risk were lower than hospital
-baseline. Recovery Division confirmed that the refuge delayed required reporting. Both findings remain active in the
-file.
+Medical Division confirmed that the survivor's skin temperature and self-injury
+risk were lower than hospital baseline. Recovery Division confirmed that the
+refuge delayed required reporting. Both findings remain active in the file.
 
 ```text
 SUBJECT CARE ADDENDUM
@@ -403,8 +402,8 @@ Family: sister may enter if she does not cry at the door.
 Danger: claws during panic only.
 ```
 
-The fragment is retained because it shows the group's practical care language and refusal to treat altered anatomy as
-automatic loss of personhood.
+The fragment is retained because it shows the group's practical care language
+and refusal to treat altered anatomy as automatic loss of personhood.
 
 ---
 
@@ -438,15 +437,14 @@ alternative body doctrine can become a major operational factor even when its pu
  or
  response to one catastrophic
  transformation event?
- Are House Mothers and Shed Fathers elected, inherited, trained, or chosen by successful care
- outcomes?
+ Are House Mothers and Shed Fathers elected, inherited, trained, or chosen by successful care outcomes?
 — Which rites are psychologically supportive, and which produce measurable anomalous effects?
 — How many Molt houses exist outside current A.C.T awareness?
  Has the group ever sheltered a person who later caused a breach because
  A.C.T
  was not notified?
- Do any members maintain contact with Saint-Vera Restoration Concern, Lullaby Works, or Office for
- Witness Continuance?
+ Do any members maintain contact with Saint-Vera Restoration
+ Concern, Lullaby Works, or Office for Witness Continuance?
  What does the group do when a survivor wants reversal but the local
  house
  believes the new body should remain?
@@ -468,9 +466,9 @@ negotiates a Subject Care memorandum, or verifies whether multiple Molt houses a
 
 The Kindly Molt is an organization and therefore belongs in the GOI archive. Individual
 rites, body maps, red-bath
-rooms, altered-body conditions, refuge bells, or skin ledgers may require separate anomaly, medical, transformation,
-witness, or E-Class review records. The organization record must not replace survivor files or transformation-board
-determinations.
+rooms, altered-body conditions, refuge bells, or skin ledgers may require separate
+anomaly, medical, transformation, witness, or E-Class review records. The organization
+record must not replace survivor files or transformation-board determinations.
 
 ### Related A.C.T Records
 
@@ -489,9 +487,9 @@ determinations.
 
 Under review. The Kindly Molt is a cultic GOI, but some rites, refuge rooms,
 ledgers, or altered-body support objects
-may require separate filing. Dual filing is mandatory when a rite produces measurable anomalous effect, a refuge room
-changes physical conditions, a skin ledger preserves identity beyond normal memory, or a care object remains active
-after leaving the Molt house.
+may require separate filing. Dual filing is mandatory when a rite produces measurable
+anomalous effect, a refuge room changes physical conditions, a skin ledger preserves
+identity beyond normal memory, or a care object remains active after leaving the Molt house.
 
 ---
 

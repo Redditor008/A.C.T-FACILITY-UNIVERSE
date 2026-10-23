@@ -294,8 +294,8 @@ Containment Division operates the sleep vaults and maintains deep-hold regimens.
 architecture, and closure execution. Medical responds on call for personnel and resident-linked stasis conditions.
 Research is limited by resident restriction sets and exists to enforce limits as much
 as pursue findings. Archive
-preserves minimal condition and regimen records without concentrating the full F-1 resident register in one
-unrestricted file.
+preserves minimal condition and regimen records without concentrating
+the full F-1 resident register in one unrestricted file.
 
 LSVF1CCS doctrine holds that the deepest promise of White Grave is not that the
 sleepers will wake safely. It is that

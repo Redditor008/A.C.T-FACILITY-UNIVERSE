@@ -6,11 +6,11 @@ Distribution: Internal / Clearance Required
 Authority: Central Archive and Command Review
 
 Archive Note
-This file is the complete internal archive version of the Facility's structure, classification logic, and reality
-doctrine. It is intended to preserve not only summary understanding, but full explanatory reference for authorized
-personnel.
+This file is the complete internal archive version of the Facility's structure,
+classification logic, and reality doctrine. It is intended to preserve not only
+summary understanding, but full explanatory reference for authorized personnel.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Introduction
 If Part One establishes what the A.C.T Facility is, then Part Two establishes how
@@ -44,11 +44,11 @@ structural reality, and classified cosmological knowledge. In practice, they are
 custodians of the line between reality and collapse.
 
 Facility Administrator
-The Facility Administrator functions as the highest executive authority beneath the O5 Council. Where the O5 defines
-policy and direction, the Administrator ensures that the Facility itself remains functional, obedient, and capable.
-This role oversees all site-level governance, inter-divisional coordination, resource distribution, long-term internal
-stability, and disciplinary authority. The Administrator is effectively the living mechanism through which O5 will
-becomes operational reality.
+The Facility Administrator functions as the highest executive authority beneath the O5 Council. Where
+the O5 defines policy and direction, the Administrator ensures that the Facility itself remains
+functional, obedient, and capable. This role oversees all site-level governance, inter-divisional
+coordination, resource distribution, long-term internal stability, and disciplinary authority. The
+Administrator is effectively the living mechanism through which O5 will becomes operational reality.
 
 High Threat Administrator
 A High Threat Administrator is a senior Administrator-track officer appointed to govern responses, research, and
@@ -77,10 +77,10 @@ reality-breaking phenomena. Their role bridges science and policy, especially wh
 broader containment logic or structural reality.
 
 Senior Researcher
-A Senior Researcher manages active study teams, laboratory direction, experiment oversight, and field interpretation
-of anomalous evidence. They translate high-level scientific theory into workable procedures. In many cases, Senior
-Researchers are the individuals who first determine whether an anomaly is merely dangerous, scientifically invaluable,
-or potentially transformative.
+A Senior Researcher manages active study teams, laboratory direction, experiment oversight, and
+field interpretation of anomalous evidence. They translate high-level scientific theory into
+workable procedures. In many cases, Senior Researchers are the individuals who first determine
+whether an anomaly is merely dangerous, scientifically invaluable, or potentially transformative.
 
 Field Operating Chief
 A Field Operating Chief is the senior commander of field, recovery, and tactical operations within a site or regional
@@ -94,9 +94,9 @@ hostile anomaly suppression, and blacksite intervention. They operate where rese
 authority is tactical and immediate, particularly in live crisis zones.
 
 Field Operator
-A Field Operator serves on the ground in direct contact with anomalous incidents, recoveries, witness suppression,
-perimeter establishment, and site support. They are often the first true agents of A.C.T to encounter newly emerged
-anomalies.
+A Field Operator serves on the ground in direct contact with anomalous incidents,
+recoveries, witness suppression, perimeter establishment, and site support. They
+are often the first true agents of A.C.T to encounter newly emerged anomalies.
 
 Junior Researcher
 A Junior Researcher supports laboratory and archive operations under supervision. Their access is limited, but they
@@ -258,9 +258,9 @@ Assigned to the Facility Administrator and High Threat Administrators. This leve
 full administrative oversight, and access to highly restricted truth sets.
 
 O5 Access Card
-Reserved exclusively for O5 Council members. This clearance does not simply exceed Level 5; it bypasses ordinary
-compartmentalization entirely. O5 access permits entry into truths that may be hidden even from Administrators and
-Site Directors.
+Reserved exclusively for O5 Council members. This clearance does not simply exceed
+Level 5; it bypasses ordinary compartmentalization entirely. O5 access permits
+entry into truths that may be hidden even from Administrators and Site Directors.
 
 4. Anomaly Designation System
 A.C.T uses a structured designation system to identify the fundamental nature of an anomaly before full study is
@@ -297,75 +297,75 @@ Containment Class: REACTIVE
 Threat Level: 4
 Transformation Viability: CONTAINED-STUDY
 
-This allows personnel to identify the anomaly’s type, danger, containment behavior, and conversion potential at a
-glance.
+This allows personnel to identify the anomaly’s type, danger,
+containment behavior, and conversion potential at a glance.
 
 5. Containment Class
-A.C.T’s containment classes do not merely describe danger—they describe the relationship between the anomaly and the
-act of containment itself.
+A.C.T’s containment classes do not merely describe danger—they describe
+the relationship between the anomaly and the act of containment itself.
 
 INERT
-*Will not leave the box, even if it can.*
+Will not leave the box, even if it can.
 These anomalies remain stable and passive under confinement, posing little active resistance.
 
 RESIDUAL
-*Scratches the walls, nothing more.*
+Scratches the walls, nothing more.
 The anomaly exerts minor interference but rarely escalates beyond manageable disruption.
 
 SPORADIC
-*Rarely breaks out, nothing unpredictable.*
+Rarely breaks out, nothing unpredictable.
 Containment failure is uncommon and follows recognizable patterns.
 
 UNDISCLOSED
-*Leaves by unknown means, returns by known ones.*
-A deeply unsettling class in which exit conditions remain unexplained, even if recontainment patterns have been
-observed.
+Leaves by unknown means, returns by known ones.
+A deeply unsettling class in which exit conditions remain
+unexplained, even if recontainment patterns have been observed.
 
 ENTROPIC
-*Containment decays around it without maintenance.*
+Containment decays around it without maintenance.
 The anomaly degrades systems, order, or structural consistency simply by existing.
 
 REACTIVE
-*Containment fails the moment you look away.*
+Containment fails the moment you look away.
 These anomalies require active monitoring and rapid procedural enforcement.
 
 EXIGENT
-*Containment is a full-time 24/7 operation.*
+Containment is a full-time 24/7 operation.
 The anomaly demands constant labor, resources, surveillance, and intervention.
 
 INVERTED
-*It contains — does not merely need containing.*
+It contains — does not merely need containing.
 This class implies that the anomaly itself is acting as a vessel, seal, barrier,
 or prison for something else.
 
 UNENCLOSABLE
-*Too vast to enclose.*
+Too vast to enclose.
 These anomalies cannot be boxed, chambered, or physically bounded in a conventional sense.
 
 INTANGIBLE
-*Cannot be touched, only witnessed.*
+Cannot be touched, only witnessed.
 Containment depends on perception control, information restriction, ritual procedure, or indirect interaction.
 
 TIAMAT
-*Beyond the frame of reference.*
-The anomaly exceeds conventional containment logic and may operate on scales outside ordinary ontology, space-time, or
-causal law.
+Beyond the frame of reference.
+The anomaly exceeds conventional containment logic and may operate
+on scales outside ordinary ontology, space-time, or causal law.
 
 [BLANK]
-*Engagement is itself the threat.*
-The most conceptually dangerous category, reserved for anomalies where observation, contact, naming, pursuit, or study
-may trigger escalation.
+Engagement is itself the threat.
+The most conceptually dangerous category, reserved for anomalies where
+observation, contact, naming, pursuit, or study may trigger escalation.
 
 6. Threat Level
 Threat Level measures the scale of harm an anomaly may inflict if uncontained, mismanaged, or triggered.
 
-- 0 = *no threat — harmless to all forms of life and environment*
-- 1 = *minor threat — slight risk to an unprotected individual*
-- 2 = *moderate threat — can injure or endanger a single person*
-- 3 = *elevated threat — lethal to an individual, manageable with preparation*
-- 4 = *severe threat — lethal to multiple individuals, team-level response required*
-- 5 = *critical threat — city-wide danger, mass casualties if uncontained*
-- 6 = *regional threat — devastation spans across multiple cities or a province*
+- 0 = no threat — harmless to all forms of life and environment
+- 1 = minor threat — slight risk to an unprotected individual
+- 2 = moderate threat — can injure or endanger a single person
+- 3 = elevated threat — lethal to an individual, manageable with preparation
+- 4 = severe threat — lethal to multiple individuals, team-level response required
+- 5 = critical threat — city-wide danger, mass casualties if uncontained
+- 6 = regional threat — devastation spans across multiple cities or a province
 - 7 = *national threat — an entire country is at risk of collapse
 or destruction*
 - 8 = *continental threat — the scale swallows whole regions and crosses borders
@@ -384,33 +384,33 @@ Transformation is what distinguishes A.C.T from organizations that only imprison
 anomalies, once understood, may be altered in status.
 
 INVIOLABLE
-*Transformation is not an option.*
+Transformation is not an option.
 The anomaly cannot be altered, influenced, or repurposed without catastrophic consequence.
 
 NEUTRAL
-*Transformation is inadvisable.*
+Transformation is inadvisable.
 The anomaly is stable enough in containment, and the risk of experimentation outweighs the benefit.
 
 CONTAINED-STUDY
-*Not ready for transformation.*
+Not ready for transformation.
 Research is active, but no operational transformation is authorized yet.
 
 STABILIZED
-*The anomaly has crossed the first threshold.*
+The anomaly has crossed the first threshold.
 Its behavior is predictable enough for controlled use beyond strict isolation.
 
 NEUTRALIZED
-*Its harmful effect has been suppressed or nullified.*
+Its harmful effect has been suppressed or nullified.
 The anomaly no longer poses its original danger, though it may no longer be
 useful.
 
 REPURPOSED
-*Its function has been redirected.*
-The anomaly now serves a defined Facility purpose, such as logistics, surveillance, defense, medicine, or energy
-support.
+Its function has been redirected.
+The anomaly now serves a defined Facility purpose, such as
+logistics, surveillance, defense, medicine, or energy support.
 
 INTEGRATED
-*The anomaly has become part of A.C.T itself.*
+The anomaly has become part of A.C.T itself.
 At this stage, it is no longer treated as an external object of study,
 but as a permanent system component embedded
 within infrastructure, doctrine, or operational capacity.
@@ -543,7 +543,7 @@ from monsters, objects, or strange phenomena—it is defending the balance of St
 reset, and the impossible pressures of a universe that does not always continue smoothly.
 
 Series Position
----------------
+═══════════════════════════════════════════════════════════════════════
 
 This record is Part Two of the A.C.T Universe reading order, Internal Structure and Reality Doctrine. Part Two of the
 A.C.T Universe defines how the Facility is organised internally and what doctrine governs its treatment of reality.

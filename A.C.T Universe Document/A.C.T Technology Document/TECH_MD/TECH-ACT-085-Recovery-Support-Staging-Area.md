@@ -29,8 +29,8 @@ route their results through F-1 Emergency Intake and Secure Storage.
 
 RSSA exists because a watchpoint that sees danger must be ready without pretending it
 owns the response. Ash Tide can
-stage recovery, brief crews, prepare routes, and coordinate intake. It cannot convert staging into independent
-containment authority.
+stage recovery, brief crews, prepare routes, and coordinate intake.
+It cannot convert staging into independent containment authority.
 
 Controlled label: **RSSA READY-BUT-NOT-OWNER**.
 
@@ -80,10 +80,10 @@ while still obeying parent-relay command.
 
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
-A standard RSSA installation includes briefing boards, equipment cages, route-status panels, vessel contact terminals,
-intake handoff forms, protective gear racks, field kit benches, security alert controls, decontamination pre-check
-stations, and post-action reconstruction storage. It is placed on F-2 so staging remains near watch coordination and
-above the intake floor.
+A standard RSSA installation includes briefing boards, equipment cages, route-status panels,
+vessel contact terminals, intake handoff forms, protective gear racks, field kit benches, security
+alert controls, decontamination pre-check stations, and post-action reconstruction storage. It is
+placed on F-2 so staging remains near watch coordination and above the intake floor.
 
 Known components include:
 

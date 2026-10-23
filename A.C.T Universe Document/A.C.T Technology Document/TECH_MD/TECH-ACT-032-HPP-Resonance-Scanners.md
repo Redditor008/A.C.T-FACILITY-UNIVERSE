@@ -69,11 +69,11 @@ Approved roles include:
 
 ## ORIGIN AND DOCTRINE
 
-HPP screening grew out of cases where artifacts reacted differently to people who looked medically ordinary. The Soul
-Pendant is the cautionary foundation. Before the Thorne Incident, AFD-OB-412 appeared to do little more than emit blue
-luminescence when held by HPP-sensitive individuals. That harmless-looking glow became meaningful only after fresh
-blood from an HPP subject triggered consciousness displacement. A.C.T does not treat resonance glow as decoration
-anymore.
+HPP screening grew out of cases where artifacts reacted differently to people who looked medically
+ordinary. The Soul Pendant is the cautionary foundation. Before the Thorne Incident, AFD-OB-412
+appeared to do little more than emit blue luminescence when held by HPP-sensitive individuals.
+That harmless-looking glow became meaningful only after fresh blood from an HPP subject triggered
+consciousness displacement. A.C.T does not treat resonance glow as decoration anymore.
 
 The scanner was built to remove guesswork from assignment. Without HPP-RS, staff learn they are significant when the
 anomaly learns it first. That order is unacceptable. Personnel Screening therefore places scanner gates at intake,
@@ -135,8 +135,8 @@ the archive: Scan duration, Site static calibration. They are filed under OPEN Q
 
 The scanner is not a personality test and not proof of supernatural talent. A
 high score may mean
-sensitivity, danger, suitability, or fragility, and a low score only means the scanner did not detect that
-profile on that day.
+sensitivity, danger, suitability, or fragility, and a low score
+only means the scanner did not detect that profile on that day.
 
 ## INTERFACE AND OPERATING ENVELOPE
 
@@ -193,9 +193,9 @@ equipment, or other implanted resonance controls are present, operation requires
 
 During screening, the subject walks through the gate once, stops at the center mark,
 and remains silent until the scan
-resolves. The operator records score band, pillar color, instability notes, and any physical reaction. Deep-violet
-response requires secondary scan after rest. Conflicting results are not averaged. They are treated as evidence of
-unstable resonance.
+resolves. The operator records score band, pillar color, instability notes, and any
+physical reaction. Deep-violet response requires secondary scan after rest. Conflicting
+results are not averaged. They are treated as evidence of unstable resonance.
 
 After screening, Personnel Screening updates assignment flags. The subject does not receive full score access unless
 cleared, because knowledge of a high score can cause reckless volunteering, fear, or self-mythology.
@@ -215,8 +215,8 @@ cleared, because knowledge of a high score can cause reckless volunteering, fear
 
 No calendar interval is recorded; the gate is calibrated on relocation rather than on
 a schedule, so
-interval NOT MEASURED. There is no consumable. The 2016 review is why consecutive HPP-reactive assignments
-are limited.
+interval NOT MEASURED. There is no consumable. The 2016 review
+is why consecutive HPP-reactive assignments are limited.
 
 ## FAULT ISOLATION
 
@@ -247,8 +247,8 @@ as much as a resource category.
 ### HPP-1992 Pendant Retrospective
 The Soul Pendant's early blue glow was not treated as sufficient cause for severe
 handling controls. After the Thorne
-Incident, HPP glow response was reclassified as an activation warning. HPP-RS assignment doctrine now treats luminous
-preference as a risk signal.
+Incident, HPP glow response was reclassified as an activation warning.
+HPP-RS assignment doctrine now treats luminous preference as a risk signal.
 
 ### HPP-2016 Candidate Overuse Review
 A small number of high-score staff were repeatedly routed toward artifact studies because they produced clearer

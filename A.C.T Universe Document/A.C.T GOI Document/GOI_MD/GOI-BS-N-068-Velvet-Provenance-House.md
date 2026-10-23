@@ -34,12 +34,12 @@
 | AUTHORITY | Intelligence Division, Legal Division, Recovery Division, Civil Covert Division, and Central Archive |
 
 #### Archive Note
-Velvet Provenance House is the active business filing for an outside provenance, authentication, and private-sale
-institution that services anomalous and anomaly-adjacent objects. The House does not present itself as a marketplace
-for miracles. Its public face resembles old auction families, restoration consultants, insurance investigators, estate
-appraisers, and private collection advisers. Its private work concerns origin, custody chain, liability, authenticity,
-inheritance, concealment, and the controlled return of objects whose histories cannot survive ordinary court, museum,
-or insurance review.
+Velvet Provenance House is the active business filing for an outside provenance, authentication, and
+private-sale institution that services anomalous and anomaly-adjacent objects. The House does not present
+itself as a marketplace for miracles. Its public face resembles old auction families, restoration
+consultants, insurance investigators, estate appraisers, and private collection advisers. Its private
+work concerns origin, custody chain, liability, authenticity, inheritance, concealment, and the
+controlled return of objects whose histories cannot survive ordinary court, museum, or insurance review.
 
 The relationship class is **NEUTRAL**. Velvet Provenance House does not primarily help survivors, attack A.C.T, expose
 anomalies, or worship abnormal power. It preserves transaction order. It will certify an object for a harmless widow,
@@ -50,10 +50,10 @@ House has prevented fraudulent sales and
 returned unstable objects before harm occurred. It has also enabled ownership transfers that A.C.T would have blocked.
 Its morality is procedural, not benevolent.
 
-Buyer books, living heir identities, return clauses, and active sale rooms are censored under **VELVET DISCLOSURE
-LIMIT**. Some redactions protect civilians whose inherited objects have not harmed anyone. Some protect A.C.T seizure
-operations. Some protect ongoing monitoring of collectors who use House papers as social permission to possess
-dangerous things.
+Buyer books, living heir identities, return clauses, and active sale rooms are censored under
+**VELVET DISCLOSURE LIMIT**. Some redactions protect civilians whose inherited objects have
+not harmed anyone. Some protect A.C.T seizure operations. Some protect ongoing monitoring of
+collectors who use House papers as social permission to possess dangerous things.
 
 ---
 
@@ -68,10 +68,10 @@ who died near it, which story is forged, which seal matters, what curse travels
 with title, what family still has a
 claim, and whether possession creates a duty rather than a right.
 
-Unlike Anstrall Market, the House does not center spectacle or open bidding. Unlike Candle-Under Exchange, it does not
-center emergency survival. Velvet Provenance House sells confidence. A thing with a Velvet receipt becomes easier to
-buy, insure, hide, donate, inherit, smuggle, reclaim, or surrender. That makes the House powerful even when it never
-manufactures an anomaly.
+Unlike Anstrall Market, the House does not center spectacle or open bidding. Unlike Candle-Under
+Exchange, it does not center emergency survival. Velvet Provenance House sells confidence. A
+thing with a Velvet receipt becomes easier to buy, insure, hide, donate, inherit, smuggle,
+reclaim, or surrender. That makes the House powerful even when it never manufactures an anomaly.
 
 The most repeated internal rule is:
 
@@ -113,8 +113,7 @@ procedures more readily when those procedures feel older than the client.
 A.C.T identifies these functional layers:
 
 - Provenance Masters who approve high-value certification and final sale permissions;
- Receipt Factors who reconstruct custody chains and compare signatures, marks, stains, oral claims, and
- deaths;
+ Receipt Factors who reconstruct custody chains and compare signatures, marks, stains, oral claims, and deaths;
 - Velvet Notaries who witness transfer language and attach liability clauses;
 - Lot Readers who examine objects for responsive history, false origin, and harmful attachment;
 - Seal Stewards who maintain wax, paper, ink, thread, and locked-case standards;
@@ -205,8 +204,8 @@ make danger legible.
 The House is **Veiled** because most of its work is hidden behind legitimate elite
 markets. Its clients already expect
 confidentiality: private sales, estate settlements, museum swaps, insurance valuations, inheritance disputes, and
-cultural-property claims. Public exposure risk rises only when a certified object acts in public or when a Velvet
-receipt appears in court.
+cultural-property claims. Public exposure risk rises only when a certified
+object acts in public or when a Velvet receipt appears in court.
 
 Civilian danger comes from respectability. An object with a Velvet certificate may be treated as controlled,
 prestigious, or legally safe when it is only better described. Buyers mistake documentation for containment.
@@ -217,11 +216,11 @@ prestigious, or legally safe when it is only better described. Buyers mistake do
 
 ### Operational Regions
 
-Velvet Provenance House operates transnationally through private sale routes, old estate centers, museum districts,
-port cities, bonded warehouses, art fairs, university collections, restoration studios, and collector homes. Confirmed
-or suspected activity appears in London, Paris, Geneva, Prague, Istanbul, Cairo, Mumbai, Singapore, New York, Buenos
-Aires, and unnamed freeport storage zones. Region lists are incomplete because House agents often work under
-legitimate firms.
+Velvet Provenance House operates transnationally through private sale routes, old estate centers,
+museum districts, port cities, bonded warehouses, art fairs, university collections, restoration
+studios, and collector homes. Confirmed or suspected activity appears in London, Paris, Geneva,
+Prague, Istanbul, Cairo, Mumbai, Singapore, New York, Buenos Aires, and unnamed freeport storage
+zones. Region lists are incomplete because House agents often work under legitimate firms.
 
 ### Known Assets and Holdings
 
@@ -264,8 +263,8 @@ UNSALEABLE: House refuses transfer but may still document custody.
 RED HOLD: viewing suspended; higher authority required.
 ```
 
-The House sometimes refuses payment after assigning Red Hold. This supports Neutral rather than purely predatory
-classification.
+The House sometimes refuses payment after assigning Red Hold. This
+supports Neutral rather than purely predatory classification.
 
 ---
 
@@ -281,8 +280,8 @@ HEIR-BOUND / DO NOT HANG ABOVE SLEEPING CHILDREN**.
 
 The House did not notify A.C.T. It did, however, prevent public auction by marking
 the lot unsaleable until the heir
-question was resolved. A.C.T seized the mirror after the second sleep-witness event. The House later sent an unsigned
-complaint:
+question was resolved. A.C.T seized the mirror after the second
+sleep-witness event. The House later sent an unsigned complaint:
 
 ```text
 You removed the object and left the argument alive.
@@ -424,18 +423,17 @@ marks accurately, dangerous lots can be intercepted before public incidents.
 — How many House notaries can detect ownership attachments without instruments?
  What buyer-book marks are shared with Anstrall Market, Candle-Under Exchange, or other hidden markets?
 — Has the House certified any object currently inside A.C.T custody?
- Do return clauses reduce anomalous harm, or do they only describe conditions discovered by
- other means?
+ Do return clauses reduce anomalous harm, or do they only describe conditions discovered by other means?
 — Who pays the House when an object is declared unsaleable?
 — What does the House do with objects whose rightful owners no longer exist?
 
 ### Intelligence Confidence
 
-Moderate. Physical receipts, forged receipt comparisons, estate testimony, buyer-card fragments, and repeated House
-vocabulary confirm institutional reality. Confidence is limited by client secrecy, legitimate legal cover, incomplete
-ledger access, and uncertainty around whether some House procedures are anomalous or merely disciplined tradecraft.
-Confidence may rise through controlled purchase attempts, protected legal cooperation, or recovery of a full Velvet
-ledger section.
+Moderate. Physical receipts, forged receipt comparisons, estate testimony, buyer-card fragments, and
+repeated House vocabulary confirm institutional reality. Confidence is limited by client secrecy,
+legitimate legal cover, incomplete ledger access, and uncertainty around whether some House
+procedures are anomalous or merely disciplined tradecraft. Confidence may rise through controlled
+purchase attempts, protected legal cooperation, or recovery of a full Velvet ledger section.
 
 ---
 
@@ -443,10 +441,10 @@ ledger section.
 
 ### Anomaly and Record Relationship
 
-Velvet Provenance House is an organization and therefore belongs in the GOI archive. Individual lots, receipts, seals,
-ledgers, inspection cloths, buyer cards, return clauses, and disputed estate objects may require separate anomaly,
-recovered-document, legal, or technology/equipment files. A receipt is not the same as containment, but it may be
-evidence.
+Velvet Provenance House is an organization and therefore belongs in the GOI archive.
+Individual lots, receipts, seals, ledgers, inspection cloths, buyer cards, return clauses,
+and disputed estate objects may require separate anomaly, recovered-document, legal, or
+technology/equipment files. A receipt is not the same as containment, but it may be evidence.
 
 ### Related A.C.T Records
 
@@ -461,10 +459,10 @@ evidence.
 
 ### Dual Filing
 
-Required when a House receipt, seal, ledger page, velvet cloth, return clause, or lot-status mark demonstrates active
-anomalous behavior. Required when a certified object changes custody risk, inheritance behavior, memory, physical
-location, or legal identity after sale. Legal Division must attach before any public filing or court-facing
-substitution.
+Required when a House receipt, seal, ledger page, velvet cloth, return clause, or lot-status
+mark demonstrates active anomalous behavior. Required when a certified object changes
+custody risk, inheritance behavior, memory, physical location, or legal identity after sale.
+Legal Division must attach before any public filing or court-facing substitution.
 
 ---
 

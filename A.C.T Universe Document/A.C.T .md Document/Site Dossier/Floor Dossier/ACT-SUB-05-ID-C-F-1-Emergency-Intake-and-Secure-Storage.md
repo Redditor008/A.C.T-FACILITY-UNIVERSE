@@ -99,10 +99,10 @@ where emergency arrivals and time-sensitive recoveries could be received.
 
 ### 4.2 The Emergency Intake Doctrine
 
-The floor's defining principle — that emergency intake is temporary — was established as the watchpoint's doctrine
-matured. The watchpoint is not a containment installation; its intake capacity exists to receive material and
-personnel under operational pressure, stabilize them briefly, and move them to the parent relay under the relay's
-authority.
+The floor's defining principle — that emergency intake is temporary — was established as
+the watchpoint's doctrine matured. The watchpoint is not a containment installation; its
+intake capacity exists to receive material and personnel under operational pressure,
+stabilize them briefly, and move them to the parent relay under the relay's authority.
 
 ### 4.3 Modern Configuration
 
@@ -237,8 +237,8 @@ watchpoint's cover and personnel until the environment stabilizes.
 
 F-1 does not maintain a resident register in the holding sense. Its manifest is
 a rolling record of transients:
-emergency intake material and personnel held briefly and transferred. The floor's documentation follows each intake to
-its transfer.
+emergency intake material and personnel held briefly and transferred.
+The floor's documentation follows each intake to its transfer.
 
 ### 10.2 Holding Character
 
@@ -264,9 +264,9 @@ who also serve the watchpoint's watch functions.
 
 ### 11.2 Duty Life
 
-Duty on F-1 is readiness work: intake maintenance, secure storage verification, and preparation for the emergency
-arrivals that define the floor's purpose. The floor's rhythm is quiet between operations — and decisive when the sea
-gives something back.
+Duty on F-1 is readiness work: intake maintenance, secure storage verification, and
+preparation for the emergency arrivals that define the floor's purpose. The floor's
+rhythm is quiet between operations — and decisive when the sea gives something back.
 
 ### 11.3 The Readiness Discipline
 

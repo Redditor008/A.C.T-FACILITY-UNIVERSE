@@ -60,8 +60,8 @@ to a specific place.
 
 The reserve's doctrine is built on a recognition that some anomalies are less like
 prisoners and more like ecosystems:
-they must be managed in context, studied in place, and contained through the environment around them rather than
-through walls.
+they must be managed in context, studied in place, and contained
+through the environment around them rather than through walls.
 
 ---
 
@@ -76,8 +76,8 @@ required to house biological anomalies with different habitat needs.
 
 The site's name, "Verde Null," reflects its dual nature: it is a green place
 (verde) that exists as a null space in
-the ordinary world — a wilderness officially designated as protected research land, excluded from the normal patterns
-of human use.
+the ordinary world — a wilderness officially designated as protected
+research land, excluded from the normal patterns of human use.
 
 ### 3.2 Cover Identity
 
@@ -117,8 +117,8 @@ their anomalous properties are bound to their native location, or the act of rel
 triggers behavior that makes
 containment impossible. For these anomalies, the Facility had only two options: manage them in place or destroy them.
 
-The Facility chose management. The field enclosures grew into permanent enclosures, and the permanent enclosures grew
-into a coordinated reserve.
+The Facility chose management. The field enclosures grew into permanent
+enclosures, and the permanent enclosures grew into a coordinated reserve.
 
 ### 4.3 Formalization as a Site
 
@@ -231,9 +231,9 @@ meters — a task that relies on surveillance technology, ecological knowledge, 
 
 ### 7.1 The Research Core
 
-The reserve's operational heart is a research campus concealed within the wilderness: laboratories, medical
-facilities, administrative buildings, personnel housing, and the command center. The campus appears as a legitimate
-ecological research station.
+The reserve's operational heart is a research campus concealed within the wilderness:
+laboratories, medical facilities, administrative buildings, personnel housing, and
+the command center. The campus appears as a legitimate ecological research station.
 
 ### 7.2 The Enclosure Network
 
@@ -261,8 +261,8 @@ this site.
 
 The reserve's containment capacity is not limited to its built levels — most of
 its residents are held in the
-enclosure sectors above and around the built installation. The floor register governs the campus's internal
-operations.
+enclosure sectors above and around the built installation.
+The floor register governs the campus's internal operations.
 
 ### F-5 — Surface Research Campus
 The legitimate face of the reserve: research laboratories, ecological monitoring stations, personnel housing,
@@ -395,8 +395,8 @@ The reserve routes material:
 — to the **Primary Facility** for high-clearance biological anomalies and
   final doctrinal authority
 
-Place-bound residents never leave. The reserve's doctrine assumes that what is rooted in the wilderness remains in the
-wilderness.
+Place-bound residents never leave. The reserve's doctrine assumes
+that what is rooted in the wilderness remains in the wilderness.
 
 ### 11.3 Support Relationship — Hollow Canopy Enclosure
 
@@ -423,9 +423,9 @@ defined operational justification.
 
 ### 12.3 Wilderness Recovery Protocol
 
-Recovery operations in the reserve's surrounding wilderness follow specialized protocols: environmental preservation,
-concealed movement, and the recognition that the wilderness may be the anomaly's habitat rather than an obstacle to
-recovery.
+Recovery operations in the reserve's surrounding wilderness follow specialized
+protocols: environmental preservation, concealed movement, and the recognition that
+the wilderness may be the anomaly's habitat rather than an obstacle to recovery.
 
 ### 12.4 Breach Response
 
@@ -458,8 +458,8 @@ Personnel at the reserve live in genuine remoteness — the site is their world.
 Their burden is the reverse of the
 urban-site burden: instead of maintaining cover lives among civilians, they must maintain the boundary
 between their
-work and the legitimate research conducted around them, and they must accept long periods of separation from the
-ordinary world.
+work and the legitimate research conducted around them, and they
+must accept long periods of separation from the ordinary world.
 
 ---
 
@@ -522,8 +522,8 @@ development priorities include:
 - environmental monitoring improvements across the reserve's perimeter
   network
 
-The reserve's long-term function — to be the Facility's wilderness instrument for biological containment — is not
-expected to change.
+The reserve's long-term function — to be the Facility's wilderness
+instrument for biological containment — is not expected to change.
 
 ---
 

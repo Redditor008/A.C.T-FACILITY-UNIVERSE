@@ -91,9 +91,9 @@ character.
 
 ### 4.1 Development of the Holding Floor
 
-F-3's character developed with the node's mission: as Kurokawa's role as the eastern region's archive authority came
-into focus, the node developed a dedicated holding level for the confirmed anomalous documents that its intake process
-delivered.
+F-3's character developed with the node's mission: as Kurokawa's role as the eastern
+region's archive authority came into focus, the node developed a dedicated holding
+level for the confirmed anomalous documents that its intake process delivered.
 
 ### 4.2 The Quarantine and Isolation Standard
 
@@ -120,9 +120,9 @@ the floor's storage operations, intake assignment, and monitoring schedules.
 
 ### 5.2 Authority over Holdings
 
-The Holding Archivist holds standard custodial authority over the floor's holdings: storage assignment, monitoring
-schedules, and routine handling under the node's standard anomalous document doctrine. Disposition decisions are made
-above the floor.
+The Holding Archivist holds standard custodial authority over the floor's holdings:
+storage assignment, monitoring schedules, and routine handling under the node's
+standard anomalous document doctrine. Disposition decisions are made above the floor.
 
 ### 5.3 Authority Limits
 
@@ -288,9 +288,9 @@ node's intake flow.
 
 ### 11.3 Documentation Culture
 
-The floor's personnel work under the Archive Division's exacting documentation culture: every holding is logged, every
-access is recorded, and every monitoring observation is preserved. The floor treats its records as the archive's
-memory.
+The floor's personnel work under the Archive Division's exacting documentation
+culture: every holding is logged, every access is recorded, and every monitoring
+observation is preserved. The floor treats its records as the archive's memory.
 
 ---
 
@@ -303,15 +303,15 @@ documented under the same discipline the Facility applies to anomalous residents
 
 ### 12.2 Quarantine Doctrine
 
-F-3 doctrine holds that assessment precedes assignment: material whose character is not yet determined is held in
-quarantine until its status is established, and nothing moves through the node's holding system without documented
-assessment.
+F-3 doctrine holds that assessment precedes assignment: material whose character
+is not yet determined is held in quarantine until its status is established, and
+nothing moves through the node's holding system without documented assessment.
 
 ### 12.3 Sorting Doctrine
 
-F-3 doctrine holds that the floor is a sorting level: material that demonstrates memetic character moves down,
-material approved for research moves up, and material cleared of anomalous character returns to ordinary archival
-processing.
+F-3 doctrine holds that the floor is a sorting level: material that demonstrates
+memetic character moves down, material approved for research moves up, and
+material cleared of anomalous character returns to ordinary archival processing.
 
 ---
 

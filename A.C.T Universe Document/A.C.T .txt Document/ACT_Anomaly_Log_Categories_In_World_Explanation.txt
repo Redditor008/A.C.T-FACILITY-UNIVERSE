@@ -6,7 +6,7 @@ Applicable Divisions: Archiver Division, Field Containment Division, Research Re
 Use Case: Organization of supplementary anomaly documentation
 Status: Active Archive Standard
 
----
+═══════════════════════════════════════════════════════════════════════
 
 1. Purpose of Anomaly Log Categories
 
@@ -30,7 +30,7 @@ category. It does not replace the main anomaly file. It supports it.
 The main anomaly file remains the official containment reference. The log category document preserves the evidence,
 history, dialogue, and procedural development behind that reference.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 2. Why Logs Are Grouped Into Categories
 
@@ -50,15 +50,15 @@ Modern A.C.T practice therefore groups logs by function.
 A single Recovery & Discovery Dossier may contain discovery logs, recovery logs, witness intake, evidence collection,
 transport records, and after-action review.
 
-A single Experiment & Testing Dossier may contain many individual tests instead of creating one separate file per
-test.
+A single Experiment & Testing Dossier may contain many
+individual tests instead of creating one separate file per test.
 
 A single Incident & Breach Dossier may contain the incident summary, security transcript, response timeline,
 post-incident interview, and procedure revision.
 
 This keeps archive structure readable, operationally useful, and harder for record-sensitive anomalies to fracture.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 3. Difference Between Main File and Log Category Document
 
@@ -107,7 +107,7 @@ The log category document answers:
 
 How did A.C.T learn this, and what evidence supports the current file?
 
----
+═══════════════════════════════════════════════════════════════════════
 
 4. Primary A.C.T Log Categories
 
@@ -115,14 +115,14 @@ A.C.T currently recognizes twelve standard anomaly log categories.
 
 These categories are not containment classes. They are archive organization types.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 CATEGORY I — Recovery & Discovery Dossier
 
 Function
 
-A Recovery & Discovery Dossier records how A.C.T first detected, verified, approached, recovered, transported, or
-stabilized an anomaly.
+A Recovery & Discovery Dossier records how A.C.T first detected,
+verified, approached, recovered, transported, or stabilized an anomaly.
 
 It is used to preserve the first chain of custody.
 
@@ -163,7 +163,7 @@ Maid-Of-Gear-VESPER-Recovery-Dossier-AFD-SU-020.txt
 This file would contain the alleyway recovery, low-metabolism condition, first-contact behavior, recovered future
 database, and transport to containment.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 CATEGORY II — Interview & Testimony Dossier
 
@@ -206,10 +206,10 @@ text
 Helping-Hand-Testimony-Dossier-AFD-SU-019.txt
 
 
-This file would preserve first-hour survivor accounts before the memory-softening effect reduces the rescuer into a
-“miracle” narrative.
+This file would preserve first-hour survivor accounts before the
+memory-softening effect reduces the rescuer into a “miracle” narrative.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 CATEGORY III — Experiment & Testing Dossier
 
@@ -252,10 +252,10 @@ text
 I-AM-A-Test-Testing-Dossier-AFD-OB-001.txt
 
 
-This file records baseline intake, digital revision attempts, erasure tests, copy tests, and archive training use for
-AFD-OB-001.
+This file records baseline intake, digital revision attempts,
+erasure tests, copy tests, and archive training use for AFD-OB-001.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 CATEGORY IV — Incident & Breach Dossier
 
@@ -302,10 +302,10 @@ text
 MACHINE-Heart-Stage-Two-Incident-Dossier-AFD-OB-017.txt
 
 
-This file would record a Stage Two activation, security response, exclusion-zone behavior, and resulting procedure
-changes.
+This file would record a Stage Two activation, security response,
+exclusion-zone behavior, and resulting procedure changes.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 CATEGORY V — Exploration & Survey Dossier
 
@@ -352,7 +352,7 @@ The-Unwritten-Return-Exploration-Dossier-ANM-UA-AS-0001.txt
 
 This file would collect route surveys, drone mapping, corridor contradictions, and archive map comparison.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 CATEGORY VI — Research & Analysis Dossier
 
@@ -401,7 +401,7 @@ Maid-Of-Gear-VESPER-Research-Dossier-AFD-SU-020.txt
 This file would analyze future-origin evidence, cybernetic systems,
 non-combatant recognition, and contradictions in the recovered database.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 CATEGORY VII — Recovered Document & Archive Dossier
 
@@ -458,14 +458,14 @@ Maid-Of-Gear-VESPER-Recovered-Document-Dossier-AFD-SU-020.txt
 This file would contain excerpts from Vesper_Full_Master_Database.pdf, including registry header, operative
 designation, cybernetic systems, weapon records, and future context.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 CATEGORY VIII — Behavioral & Observation Dossier
 
 Function
 
-A Behavioral & Observation Dossier records repeated behavior, care notes, habits, routines, responses, and long-term
-monitoring.
+A Behavioral & Observation Dossier records repeated behavior, care
+notes, habits, routines, responses, and long-term monitoring.
 
 It is used for subjects whose containment depends on understanding behavior rather than simply locking them away.
 
@@ -506,7 +506,7 @@ Annoyingly-Indestructible-Lizard-GRUMBLESAIL-Observation-Dossier-AFD-SU-012.txt
 
 This file would document feeding response, nuisance escalation, staff interaction, and enrichment methods.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 CATEGORY IX — Transformation & Utilization Dossier
 
@@ -554,7 +554,7 @@ The-Forgetting-Bloom-Transformation-Dossier-AFD-NB-004.txt
 
 This file would record sap extraction, amnestic compound development, stabilization trials, and ethical objections.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 CATEGORY X — Communication & Internal Correspondence Dossier
 
@@ -599,17 +599,17 @@ text
 OBSERVING-BIRD-Internal-Correspondence-Dossier-AFD-CH-014.txt
 
 
-This file would preserve command arguments over whether A.C.T should interfere with a cosmic entity that judges
-apocalyptic anomalies.
+This file would preserve command arguments over whether A.C.T should
+interfere with a cosmic entity that judges apocalyptic anomalies.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 CATEGORY XI — Audio / Video / Sensor Dossier
 
 Function
 
-An Audio / Video / Sensor Dossier preserves recorded evidence where timing, image, sound, or instrument readings are
-central.
+An Audio / Video / Sensor Dossier preserves recorded evidence
+where timing, image, sound, or instrument readings are central.
 
 It is used when the record is more important than a written summary.
 
@@ -648,7 +648,7 @@ Shadow-Shark-Sensor-Dossier-AFD-SU-010.txt
 
 This file would preserve feeding footage, shadow mapping, CCTV timestamps, and visual analysis.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 CATEGORY XII — Personal & Recovered Journal Dossier
 
@@ -692,7 +692,7 @@ Dream-Eater-THEMESY-Personal-Dossier-AFD-SU-011.txt
 
 This file would preserve pre-feeding dream records, post-slumber notes, and care staff observations.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5. Category Selection Rule
 
@@ -770,7 +770,7 @@ text
 Personal & Recovered Journal Dossier
 
 
----
+═══════════════════════════════════════════════════════════════════════
 
 6. Dossier Naming Standard
 
@@ -807,7 +807,7 @@ The category should be short but clear:
 - Sensor
 - Personal
 
----
+═══════════════════════════════════════════════════════════════════════
 
 7. Archive Warning
 

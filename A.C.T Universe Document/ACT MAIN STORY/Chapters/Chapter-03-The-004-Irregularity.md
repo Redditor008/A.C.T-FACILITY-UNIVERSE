@@ -29,9 +29,9 @@ They were internal.
 
 And not low-level internal, either.
 
-They belonged to people whose work should have placed them above accidental sedation, above procedural confusion,
-above routine memory correction. High-clearance names stripped away, rank markers preserved, all of them tied to the
-same phrase:
+They belonged to people whose work should have placed them above accidental sedation,
+above procedural confusion, above routine memory correction. High-clearance names
+stripped away, rank markers preserved, all of them tied to the same phrase:
 
 **ABYSS ACCESS RECOVERY**.
 
@@ -112,9 +112,9 @@ That was the moment the theory became structure.
 
 Sera leaned back from the terminal and became abruptly aware of the room around
 her. Archive Administration was in
-full shift rhythm. Sleeves moved. Carts rolled. Someone argued softly over redaction priority near the east aisle.
-Ventilation whispered from the upper ducts. The ordinary life of the buried institution continued in the same steady
-pattern as always.
+full shift rhythm. Sleeves moved. Carts rolled. Someone argued softly over redaction
+priority near the east aisle. Ventilation whispered from the upper ducts. The ordinary
+life of the buried institution continued in the same steady pattern as always.
 
 How many of them, she wondered, were carrying holes they did not know existed?
 

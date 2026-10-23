@@ -13,10 +13,10 @@
 
 ### 1. What this roadmap does - and does not do
 
-This roadmap preserves a **twenty-slot structural scaffold** that was created during earlier planning. The scaffold
-demonstrates possible GOI distribution across nature classes, alignment classes, narrative functions, and site
-jurisdictions. It does **not** mean Central Archive approved the names, designations, or premises chosen for those
-slots.
+This roadmap preserves a **twenty-slot structural scaffold** that was created during
+earlier planning. The scaffold demonstrates possible GOI distribution across nature
+classes, alignment classes, narrative functions, and site jurisdictions. It does **not**
+mean Central Archive approved the names, designations, or premises chosen for those slots.
 
 This Markdown roadmap is retained because deleting the scaffold would lose useful structure. Its matching plain-text
 reading copy is kept in 00 GOI Development Roadmap, Group of Interest Registry. The
@@ -34,8 +34,8 @@ be treated as approved names.
 
 **Direct commission record note:** `GOI-CU-X-048` — Children of the Deep / CoTD — and
 `GOI-CP-B-049` — DREAM .INC /
-DREAM — were commissioned directly outside this scaffold. Their creation does not select, replace, number, or activate
-any scaffold slot.
+DREAM — were commissioned directly outside this scaffold. Their creation
+does not select, replace, number, or activate any scaffold slot.
 
 **Archive control note, 11 September 2026:** The twenty listed GOI slots are structure only. They are not finished
 GOIs, not approved names, and not a required creation order. Future GOI work should
@@ -184,18 +184,17 @@ already mentioned in an anomaly file, or discarded when Central Archive directs 
  **Class direction:** Government / Neutral / National / Handler / Threat 3 /
  Leaking
  / Monitor + Misdirect
- **Core premise:** A quiet state continuity office that manages civic aftermaths that cannot be
- explained cleanly:
+ **Core premise:** A quiet state continuity office that manages civic aftermaths that cannot be explained cleanly:
  uninhabitable streets, vanished infrastructure, impossible
  casualty lists, and municipal records that no longer agree.
  **Why it is not GAA:** GAA is A.C.T.'s controlled government bridge. The Office
  of
  Public Continuity believes the
- state must retain its own civilian continuity records and refuses to surrender every anomaly-adjacent decision to
- A.C.T.
+ state must retain its own civilian continuity records and
+ refuses to surrender every anomaly-adjacent decision to A.C.T.
 - **Likely jurisdiction:** Site 01 with Central legal/archive review.
- **Key drafting question:** When does protecting ordinary people's practical lives become a demand to
- control the truth
+ **Key drafting question:** When does protecting ordinary
+ people's practical lives become a demand to control the truth
  of those lives?
 
 ### 02 - Treaty of Closed Harbors
@@ -206,8 +205,8 @@ already mentioned in an anomaly file, or discarded when Central Archive directs 
  / Monitor + Infiltrate
  **Core premise:** A concealed maritime treaty secretariat whose member authorities quietly remove dangerous waters,
  missing vessels, and recurring navigation failures from public shipping records.
- **Distinctive pressure:** It treats routes and coastlines as sovereignty problems rather than containment problems;
- it
+ **Distinctive pressure:** It treats routes and coastlines as
+ sovereignty problems rather than containment problems; it
  may close a sea lane even when A.C.T needs it for emergency access.
 - **Likely jurisdiction:** Site 05, with cross-site routing review.
  **Key drafting question:** Is the treaty hiding anomalies, or hiding a pattern of
@@ -224,13 +223,12 @@ already mentioned in an anomaly file, or discarded when Central Archive directs 
  Infiltrate
  **Core premise:** A disaster-indemnity and redevelopment
  corporation that identifies "impossible loss" before ordinary
- insurers can understand it, then buys damaged property, claims, and silence at a profit.
- **Distinctive pressure:** It does not sell anomalous objects like Anstrall Market. It monetizes the
- human and
+ insurers can understand it, then buys damaged property, claims, and silence at a profit. **Distinctive
+ pressure:** It does not sell anomalous objects like Anstrall Market. It monetizes the human and
  geographic aftermath of incidents, turning cleanup into ownership.
 - **Likely jurisdiction:** Site 01, with Site 04 consultation for contaminated properties.
- **Key drafting question:** Can A.C.T. use the company's cover infrastructure without becoming complicit in
- dispossession?
+ **Key drafting question:** Can A.C.T. use the company's cover
+ infrastructure without becoming complicit in dispossession?
 
 ### 04 - Nacre Vector Biologics
 
@@ -242,8 +240,7 @@ already mentioned in an anomaly file, or discarded when Central Archive directs 
  "unexplainable recoveries" through front clinics and clinical
  trials, then races to commercialize results before their
  risks are understood.
- **Distinctive pressure:** It is a corrupt mirror of Transformation: it seeks conversion into saleable
- medicine, not
+ **Distinctive pressure:** It is a corrupt mirror of Transformation: it seeks conversion into saleable medicine, not
  stable coexistence or containment.
 - **Likely jurisdiction:** Site 04 with Medical and Transformation Division review.
  **Key drafting question:** What happens when a cure is medically real but its
@@ -257,11 +254,9 @@ already mentioned in an anomaly file, or discarded when Central Archive directs 
  **Class direction:** Cultic / Unknown / Regional / Practitioner / Threat 2 /
  Veiled
  / Monitor
- **Core premise:** A small religious movement whose members observe carefully timed periods of silence,
- covered
+ **Core premise:** A small religious movement whose members observe carefully timed periods of silence, covered
  mirrors, and suspended work because they believe reality "counts its breaths" and must not be interrupted.
- **Distinctive pressure:** Their rites may accidentally reduce a local causal instability, leaving A.C.T unable
- to
+ **Distinctive pressure:** Their rites may accidentally reduce a local causal instability, leaving A.C.T unable to
  dismiss them as merely deluded or hostile.
 - **Likely jurisdiction:** Site 03 with temporal/reality-theory review.
  **Key drafting question:** Does the group understand a real pattern, or is its
@@ -274,14 +269,13 @@ already mentioned in an anomaly file, or discarded when Central Archive directs 
  **Class direction:** Cultic / Neutral / Transnational / Practitioner / Threat 2 /
  Veiled
  / Cooperated + Monitor
- **Core premise:** A dispersed pilgrimage tradition that preserves unwritten routes around dangerous places. Its
- members refuse artificial light at certain thresholds and maintain roadside markers whose purpose has been lost to
- outsiders.
+ **Core premise:** A dispersed pilgrimage tradition that preserves unwritten routes
+ around dangerous places. Its members refuse artificial light at certain thresholds
+ and maintain roadside markers whose purpose has been lost to outsiders.
  **Distinctive pressure:** Some of their customs demonstrably reduce place-anomaly incidents, while their refusal to
  disclose routes prevents A.C.T. from applying ordinary survey and containment procedure.
 - **Likely jurisdiction:** Site 04 and Site 05, depending on the route.
- **Key drafting question:** What does ethical cooperation look like when the only effective containment
- practice
+ **Key drafting question:** What does ethical cooperation look like when the only effective containment practice
  belongs to a community A.C.T. does not control?
 
 ### 07 - Meridian Survey
@@ -290,16 +284,14 @@ already mentioned in an anomaly file, or discarded when Central Archive directs 
  **Class direction:** Scientific / Positive / Transnational / Practitioner / Threat 2 /
  Leaking
  / Cooperated + Monitor
- **Core premise:** An independent network of geologists, mathematicians, and signal analysts who map unusual
- pressure
+ **Core premise:** An independent network of geologists, mathematicians, and signal analysts who map unusual pressure
  patterns, impossible fault lines, and repeatable discontinuities without fully knowing what causes them.
  **Distinctive pressure:** Their predictions can save lives and help Site 05, but their
  insistence
  on open peer review
  clashes directly with A.C.T.'s secrecy doctrine.
 - **Likely jurisdiction:** Site 05 with Site 02 technical support.
- **Key drafting question:** How much true information can A.C.T. share before the existence of
- the pattern becomes a
+ **Key drafting question:** How much true information can A.C.T. share before the existence of the pattern becomes a
  danger itself?
 
 ### 08 - The Second Observation Society
@@ -308,16 +300,13 @@ already mentioned in an anomaly file, or discarded when Central Archive directs 
  **Class direction:** Scientific / Unknown / National / Practitioner / Threat 3 /
  Veiled
  / Infiltrate
- **Core premise:** A private research society that believes all first observations are contaminated. It
- only trusts
+ **Core premise:** A private research society that believes all first observations are contaminated. It only trusts
  replicated witness sets, duplicate instruments, and delayed
  reports, treating immediate knowledge as a potential hazard.
- **Distinctive pressure:** Its cautious methods sometimes detect failures in A.C.T.'s record chain, but its
- members
+ **Distinctive pressure:** Its cautious methods sometimes detect failures in A.C.T.'s record chain, but its members
  have begun conducting unauthorized observation protocols on civilians.
 - **Likely jurisdiction:** Site 03 / Kurokawa Archive Node.
- **Key drafting question:** Is the Society preventing information hazards, or manufacturing them to prove
- its theory?
+ **Key drafting question:** Is the Society preventing information hazards, or manufacturing them to prove its theory?
 
 ### 09 - Quiet Harbor Mutual
 
@@ -325,15 +314,12 @@ already mentioned in an anomaly file, or discarded when Central Archive directs 
  **Class direction:** Civil / Positive / Regional / Exposed / Threat 1 /
  Leaking
  / Help + Cooperated
- **Core premise:** A mutual-aid association of coastal workers, fishers, medics, and families who share
- warnings about
- impossible currents, missing boats, and returned survivors before authorities can erase the evidence.
- **Distinctive pressure:** It is not secretly powerful; its importance is trust. A.C.T. can gain
- early warnings only by
+ **Core premise:** A mutual-aid association of coastal workers, fishers, medics, and families who share warnings about
+ impossible currents, missing boats, and returned survivors before authorities can erase the evidence. **Distinctive
+ pressure:** It is not secretly powerful; its importance is trust. A.C.T. can gain early warnings only by
  respecting the people who already know their coast has been changed.
 - **Likely jurisdiction:** Site 05.
- **Key drafting question:** Can a secrecy-driven institution genuinely partner with a community whose first
- duty is to
+ **Key drafting question:** Can a secrecy-driven institution genuinely partner with a community whose first duty is to
  its own missing people?
 
 ### 10 - The Last Address Network
@@ -345,14 +331,12 @@ already mentioned in an anomaly file, or discarded when Central Archive directs 
  **Core premise:** A loose survivor network for people displaced by anomalous sites and
  impossible
  routes. Members
- leave letters, local maps, and recovery instructions at addresses that intermittently return people who were declared
- missing.
- **Distinctive pressure:** The network's compassion creates a resilient public evidence trail that A.C.T. cannot
- erase
+ leave letters, local maps, and recovery instructions at addresses
+ that intermittently return people who were declared missing.
+ **Distinctive pressure:** The network's compassion creates a resilient public evidence trail that A.C.T. cannot erase
  without harming people who have already lost too much.
 - **Likely jurisdiction:** Site 01 and Site 03.
- **Key drafting question:** Can a civilian archive preserve enough truth to save victims without
- triggering a larger
+ **Key drafting question:** Can a civilian archive preserve enough truth to save victims without triggering a larger
  exposure event?
 
 ### 11 - The Iron Quiet
@@ -361,8 +345,8 @@ already mentioned in an anomaly file, or discarded when Central Archive directs 
  **Class direction:** Militant / Negative / National / Engineering / Threat 4 /
  Normalcy-Breaching
  / Dismantle
- **Core premise:** A contract-driven armed organization that takes control of contaminated districts, seals them
- behind
+ **Core premise:** A contract-driven armed organization that
+ takes control of contaminated districts, seals them behind
  "public safety" cordons, and uses untested stabilizing equipment to make a problem disappear fast.
  **Why it is not A-GA:** A-GA wants all anomalies destroyed. The Iron Quiet
  wants
@@ -378,8 +362,8 @@ already mentioned in an anomaly file, or discarded when Central Archive directs 
  **Class direction:** Militant / Guild / Local / Handler / Threat 2 /
  Veiled
  / Cooperated + Monitor
- **Core premise:** A multigenerational local defense guild that guards a fixed dangerous boundary using
- inherited watch
+ **Core premise:** A multigenerational local defense guild
+ that guards a fixed dangerous boundary using inherited watch
  schedules, practical rules, and a strict prohibition against extraction.
  **Distinctive pressure:** The Wardens can hold a place safely but may resist A.C.T.
  authority,
@@ -402,8 +386,7 @@ already mentioned in an anomaly file, or discarded when Central Archive directs 
  **Core premise:** A self-constituting deliberative body whose membership, minutes, and decisions cannot be fully
  fixed: every meeting produces a new but internally consistent version of the group's civic
  authority.
- **Distinctive pressure:** It must be treated through dual filing. Its organizational actions have real
- consequences,
+ **Distinctive pressure:** It must be treated through dual filing. Its organizational actions have real consequences,
  yet the group itself may be an anomalous condition rather than a stable institution.
 - **Likely jurisdiction:** Site 03 with Central Archive review.
  **Key drafting question:** What must A.C.T. preserve when the act of documenting the
@@ -419,9 +402,9 @@ already mentioned in an anomaly file, or discarded when Central Archive directs 
  **Core premise:** A small community of separate people who share a controlled portion
  of
  memory and sensation through
- a standing vow, allowing them to recognize danger, grief, and injury across distances without becoming a single mind.
- **Distinctive pressure:** A.C.T. cannot decide whether the Chorus is a vulnerable population, an anomalous
- collective,
+ a standing vow, allowing them to recognize danger, grief, and injury across
+ distances without becoming a single mind. **Distinctive pressure:** A.C.T. cannot
+ decide whether the Chorus is a vulnerable population, an anomalous collective,
  or both; forced separation may be as harmful as uncontrolled contact.
 - **Likely jurisdiction:** Site 04 with Medical and Archiver consultation.
  **Key drafting question:** Can containment respect personhood when personhood is shared but not erased?
@@ -440,8 +423,7 @@ already mentioned in an anomaly file, or discarded when Central Archive directs 
  to recruit. Its interests may be
  ecological, territorial, or linked to an unknown nonhuman survival system.
 - **Likely jurisdiction:** Site 05 / Nusantara Deep Relay.
- **Key drafting question:** How can A.C.T. establish reciprocity with a group whose communication is
- evidence, not
+ **Key drafting question:** How can A.C.T. establish reciprocity with a group whose communication is evidence, not
  language?
 
 ### 16 - Hushfield Court
@@ -451,14 +433,12 @@ already mentioned in an anomaly file, or discarded when Central Archive directs 
  Exposure-Active
  / Contain +
  Infiltrate
- **Core premise:** A nonhuman legalistic court that appears wherever binding promises are made under
- extreme pressure.
+ **Core premise:** A nonhuman legalistic court that appears wherever binding promises are made under extreme pressure.
  It enforces its own interpretation of agreements by turning broken obligations into physical or social consequences.
 - **Distinctive pressure:** It weaponizes ordinary human institutions-contracts, oaths, emergency promises-rather than
  attacking from outside them.
 - **Likely jurisdiction:** Central legal/archive review with Site 03 support.
- **Key drafting question:** Is the Court exploiting human promises, or exposing the harm already
- hidden inside them?
+ **Key drafting question:** Is the Court exploiting human promises, or exposing the harm already hidden inside them?
 
 ### 17 - Pale Freight Compact
 
@@ -466,8 +446,7 @@ already mentioned in an anomaly file, or discarded when Central Archive directs 
  **Class direction:** Business / Trade / Transnational / Handler / Threat 3 /
  Leaking
  / Monitor + Infiltrate
- **Core premise:** A clandestine logistics compact that can move sealed cargo through difficult borders
- and unstable
+ **Core premise:** A clandestine logistics compact that can move sealed cargo through difficult borders and unstable
  routes because it treats every shipment as an obligation with its own containment ritual. **Distinctive
  pressure:** Unlike Anstrall Market, it does not principally sell anomalies. It sells movement,
  concealment, and contractual reliability-services A.C.T. may sometimes need but cannot safely trust.
@@ -488,8 +467,7 @@ already mentioned in an anomaly file, or discarded when Central Archive directs 
  pressure:** The network makes anomalous objects socially desirable and widely dispersed. It presents
  itself as a legal luxury business rather than an overt black market.
 - **Likely jurisdiction:** Site 01 / Redwood Veil Complex.
- **Key drafting question:** How does A.C.T. retrieve an object once prestige, private ownership, and
- public curiosity
+ **Key drafting question:** How does A.C.T. retrieve an object once prestige, private ownership, and public curiosity
  have become its containment breach?
 
 ### 19 - Threshold Census
@@ -498,16 +476,14 @@ already mentioned in an anomaly file, or discarded when Central Archive directs 
  **Class direction:** Hybrid / Unknown / National / Reality-Active / Threat 4 /
  Leaking
  / Monitor + Contain
- **Core premise:** A planning body built around human statisticians and an anomalous predictive archive
- that issues
+ **Core premise:** A planning body built around human statisticians and an anomalous predictive archive that issues
  unusually accurate evacuation, housing, and mortality forecasts. The forecasts become more accurate when obeyed, but
  may alter the pressures they claim merely to measure.
- **Distinctive pressure:** It turns civic planning into a possible containment system while making consent,
- prediction,
+ **Distinctive pressure:** It turns civic planning into a
+ possible containment system while making consent, prediction,
  and causality inseparable.
 - **Likely jurisdiction:** Site 03 with Site 01 civil-continuity coordination.
- **Key drafting question:** Is the Census preventing disasters, selecting who is allowed to survive
- them, or both?
+ **Key drafting question:** Is the Census preventing disasters, selecting who is allowed to survive them, or both?
 
 ### 20 - Deep-Pressure Accord
 
@@ -516,16 +492,13 @@ already mentioned in an anomaly file, or discarded when Central Archive directs 
  Normalcy-Breaching
  / Dismantle +
  Contain
- **Core premise:** A coalition of extraction firms, private divers, salvage crews, and ritual navigators
- that drills,
+ **Core premise:** A coalition of extraction firms, private divers, salvage crews, and ritual navigators that drills,
  maps, and removes material from deep maritime pressure zones because it believes the seabed contains controllable
  infrastructure rather than living risk.
- **Distinctive pressure:** Its method destabilizes sites and routes that must remain undisturbed. It is
- a direct
+ **Distinctive pressure:** Its method destabilizes sites and routes that must remain undisturbed. It is a direct
  challenge to the principle that some foundations must be maintained, not exploited.
 - **Likely jurisdiction:** Site 05 with Central abyssal-restriction review.
- **Key drafting question:** What is the difference between resource extraction and waking a system
- that has only
+ **Key drafting question:** What is the difference between resource extraction and waking a system that has only
  survived because no one touched it?
 
 ---
@@ -545,8 +518,8 @@ Create one GOI dossier for [approved GOI name / anomaly-mentioned group / revise
 slot].
 ```
 
-A later registry order may rename, reorder, combine, replace, or reject any scaffold slot before creation. A scaffold
-name is not assumed accepted.
+A later registry order may rename, reorder, combine, replace, or reject any
+scaffold slot before creation. A scaffold name is not assumed accepted.
 
 ### 6.2 What one registry creation order will contain
 
@@ -556,8 +529,7 @@ For the selected approved GOI only, the work will:
  RECORD FORM, Group of Interest Registry, plus a matching `.txt`
  reading
  copy in `Group of Interest Registry collection, plain-text reading copies`;
- turn the short seed into a concrete institutional structure, ideology, assets, history with A.C.T.,
- responsible site,
+ turn the short seed into a concrete institutional structure, ideology, assets, history with A.C.T., responsible site,
  current posture, and open questions;
 3. verify that every classification value is legal under the existing GOI doctrine;
 4. cross-reference only approved independent-core records;

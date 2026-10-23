@@ -63,9 +63,9 @@ interface studies, and restricted anomalous material tests.
 
 The alloy's value is also its danger. Blood is not a neutral input in
 A.C.T files. AFD-OB-412 demonstrates that blood
-contact can activate a soul-anchor. Synthetic Sanguine-Fuel demonstrates that biological input can become machine
-support. SCA sits between those lessons. It lets a biological substance speak through metal, but A.C.T must decide who
-is allowed to listen.
+contact can activate a soul-anchor. Synthetic Sanguine-Fuel demonstrates that biological
+input can become machine support. SCA sits between those lessons. It lets a biological
+substance speak through metal, but A.C.T must decide who is allowed to listen.
 
 Approved roles include biological data transfer through blood contact; restricted medical interface testing; pulse
 identity comparison; emergency diagnostic surface work; blood-analog compatibility research; subject-specific signal
@@ -75,19 +75,19 @@ ORIGIN AND CONTROL DOCTRINE
 SCA development followed repeated failures of ordinary sensors to preserve biological context. A blood sample on a
 slide can show chemistry. A pulse monitor can show rhythm. A genetic scanner can
 show sequence. None of these
-automatically show how anomalous tissue, memory, hunger, resonance, and identity speak to one another through living
-fluid. A.C.T needed a material that could conduct biological signal without forcing it into ordinary electrical
-categories too early.
+automatically show how anomalous tissue, memory, hunger, resonance, and identity
+speak to one another through living fluid. A.C.T needed a material that could conduct
+biological signal without forcing it into ordinary electrical categories too early.
 
 The first successful sheets used a blue metallic matrix threaded with micro-vein channels. When blood touched the
 prepared contact surface, the alloy carried a readable data pulse across the sheet and
 into isolated instruments. The
-Data-Flow Indicator LED was added after technicians failed to notice low-level transfer during cleaning. If the LED
-blinks, the alloy is not idle.
+Data-Flow Indicator LED was added after technicians failed to notice
+low-level transfer during cleaning. If the LED blinks, the alloy is not idle.
 
-Custody moved to Materials Custody and Medical Engineering after early proposals attempted to use SCA as a convenience
-bridge for multiple subjects. That is prohibited. Blood-data channels must remain subject-specific unless O5 Review
-authorizes mixed-sample study.
+Custody moved to Materials Custody and Medical Engineering after early proposals attempted
+to use SCA as a convenience bridge for multiple subjects. That is prohibited. Blood-data
+channels must remain subject-specific unless O5 Review authorizes mixed-sample study.
 
 PHYSICAL OR SYSTEM DESCRIPTION
 SCA appears as blue metal sheet stock, usually stored as plates, narrow bridge strips,
@@ -205,8 +205,8 @@ During use, blood or approved blood analog is applied only to the designated con
 well. Staff watch the LED, not
 the color of the blood. If the LED blinks outside an active test, the
 plate is treated as conducting and the room
-enters bio-data lockdown. No second sample touches the same plate until decontamination and memory of prior transfer
-are cleared by scan.
+enters bio-data lockdown. No second sample touches the same plate until
+decontamination and memory of prior transfer are cleared by scan.
 
 After use, residue is swabbed, the plate is sealed, and all readout data is
 tagged as biological data rather than
@@ -233,8 +233,8 @@ SERVICING AND CALIBRATION
 
 Plates are the consumable: a plate carries one subject and is then sealed or
 withdrawn, so calendar interval
-NOT MEASURED. The indicator LED is mandatory hardware rather than a convenience, which is what the 2018
-handling event established.
+NOT MEASURED. The indicator LED is mandatory hardware rather than
+a convenience, which is what the 2018 handling event established.
 
 FAULT ISOLATION
 

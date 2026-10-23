@@ -43,9 +43,9 @@ observation suites, and controlled research environments for cold-suppressed ano
 authorization, sample control, study restriction enforcement, environmental separation, observation streams, and the
 doctrine that slow behavior is data.
 
-LTBOCSS exists because White Grave studies biological residents on the timescale their containment demands. Some
-answers appear only after seasons of cold, years of suppression, and patient observation that faster facilities would
-mistake for inactivity.
+LTBOCSS exists because White Grave studies biological residents on the timescale their
+containment demands. Some answers appear only after seasons of cold, years of
+suppression, and patient observation that faster facilities would mistake for inactivity.
 
 Controlled label: LTBOCSS SLOW-BEHAVIOR-IS-DATA SUITE.
 
@@ -66,10 +66,10 @@ doctrine depends on cold, depth, and duration. The system allows researchers to 
 breaking their suppression conditions, to process samples without losing custody, and to treat multi-year observation
 as an active study rather than storage with instruments attached.
 
-Approved roles include cold-suppressed anomaly study, biological sample processing, long-term resident observation,
-controlled research environment maintenance, study restriction enforcement, slow-behavior documentation, Medical
-exposure liaison, Containment regimen refinement, and research data preservation as part of the Facility knowledge
-estate.
+Approved roles include cold-suppressed anomaly study, biological sample processing,
+long-term resident observation, controlled research environment maintenance, study
+restriction enforcement, slow-behavior documentation, Medical exposure liaison, Containment
+regimen refinement, and research data preservation as part of the Facility knowledge estate.
 
 ORIGIN AND DEVELOPMENT
 
@@ -230,8 +230,8 @@ SERVICING AND CALIBRATION
 
 Drift review is monthly even though studies run for years, because a lock that
 has drifted for a season has
-already invalidated the interval it drifted through, and the correction is cheaper the sooner the affected
-period is identified.
+already invalidated the interval it drifted through, and the
+correction is cheaper the sooner the affected period is identified.
 
 FAULT ISOLATION
 
@@ -281,8 +281,8 @@ Research Division operates LTBOCSS study programs. Medical advises on biological
 Containment controls resident custody and receives holding-regimen findings. Security enforces access and restriction
 compliance. Archive preserves long observation data under the station's knowledge standards.
 
-LTBOCSS doctrine holds that understanding is containment, but at White Grave, understanding often arrives slowly and
-cold.
+LTBOCSS doctrine holds that understanding is containment, but
+at White Grave, understanding often arrives slowly and cold.
 
 CROSS-REFERENCES
 

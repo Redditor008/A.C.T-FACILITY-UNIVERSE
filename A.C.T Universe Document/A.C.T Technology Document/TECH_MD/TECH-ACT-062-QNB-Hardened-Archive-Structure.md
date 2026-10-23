@@ -232,9 +232,9 @@ rather than as one result.
 
 QHAS cannot prove that an original record was true. It can only help preserve
 what the archive wrote and reveal when
-continuity has been attacked. It also cannot safely harden every public or low-risk record; too much hardening can
-make old mistakes difficult to correct. The system must preserve record identity without turning clerical error into
-sacred fact.
+continuity has been attacked. It also cannot safely harden every public or low-risk
+record; too much hardening can make old mistakes difficult to correct. The system
+must preserve record identity without turning clerical error into sacred fact.
 
 Known failure modes include false continuity, overhardening, restoration bias, checksum echo, access-log freeze,
 quarantine mismatch, floor-state drift, and staff treating the hardened version as morally correct because it

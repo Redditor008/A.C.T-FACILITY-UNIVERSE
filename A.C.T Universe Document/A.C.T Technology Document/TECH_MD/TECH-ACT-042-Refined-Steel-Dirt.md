@@ -245,9 +245,9 @@ Refinement reduces risk but does not erase Blue Haze danger. The material may st
 outgas, adhere to skin,
 incorporate tools, and turn a temporary patch into a long-term contaminated obstacle.
 
-Known failure modes include premature bloom, hopper humidity breach, nozzle clogging, toxic fume release, false dry
-reading, overwide spray pattern, edge adhesion to unintended surfaces, and staff forgetting that rapid sealing can
-become rapid entombment.
+Known failure modes include premature bloom, hopper humidity breach, nozzle clogging,
+toxic fume release, false dry reading, overwide spray pattern, edge adhesion to
+unintended surfaces, and staff forgetting that rapid sealing can become rapid entombment.
 
 ---
 

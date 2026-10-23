@@ -11,7 +11,7 @@ Dossier Number: FLOOR-DOSSIER-02-RU-N-F-5
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard / ACT Floor Record Standard
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Note
 
@@ -30,7 +30,7 @@ This dossier records the floor in full institutional language: what it is,
 how it shelters, how it is organized, and how the station sustains the
 people who perform its cold, deep, long work.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 1. Floor Registry Identity Summary
 
@@ -52,7 +52,7 @@ by the station's main security checkpoint
 Access Posture: Personnel-access controlled
 Current Status: Active
 
----
+═══════════════════════════════════════════════════════════════════════
 
 2. Dossier Purpose
 
@@ -70,7 +70,7 @@ The floor is the station's human habitat — engineered for the long
 rotation, and bounded by the checkpoint that lets its people leave their
 work behind when their duty day ends.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 3. Position in the Site Stack
 
@@ -97,7 +97,7 @@ level and its operational levels. The checkpoint gives the station's
 personnel a physical passage between their lives and their work — a
 separation the station treats as essential to sustaining its people.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 4. Historical Foundation
 
@@ -123,7 +123,7 @@ where the station's population lives, supported by the facilities that
 make long rotations sustainable in one of the Facility's most isolated
 installations.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5. Command and Authority
 
@@ -145,7 +145,7 @@ F-5 holds no authority over the station's operational or containment
 functions. Its authority is over the station's domestic life — and over
 the boundary checkpoint that separates that life from the work below.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 6. Divisional Presence
 
@@ -172,7 +172,7 @@ lives — command at White Grave is domestic as well as operational.
 Security operates the floor's checkpoint function: the main security
 checkpoint that separates habitation from the operational levels below.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 7. Physical Plant and Architecture
 
@@ -209,7 +209,7 @@ from the operational levels: the controlled boundary through which
 personnel pass when they descend to work and when they ascend from it. The
 checkpoint is the station's deliberate division between life and duty.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 8. Systems and Infrastructure
 
@@ -236,7 +236,7 @@ station's personnel security doctrine.
 The floor maintains station communications, with the command offices
 serving as the station's internal command nexus.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 9. Security and Access Architecture
 
@@ -263,7 +263,7 @@ personnel who cannot leave their work behind cannot sustain their duty.
 The boundary between F-5 and the operational levels is maintained as
 deliberately as the boundary between the surface and the station itself.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 10. Function and Character
 
@@ -283,7 +283,7 @@ day-to-day command in the domestic level.
 F-5 holds no residents. Its population is the station's personnel, and its
 function is the sustainment of the people who perform the station's work.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 11. Personnel and Duty Life
 
@@ -308,7 +308,7 @@ The rhythm is the station's psychology made architectural — the deliberate
 boundary between the work of containment and the life that makes the work
 sustainable.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 12. Floor Doctrine
 
@@ -333,7 +333,7 @@ and routine medical care are not luxuries at an arctic station — they are
 the infrastructure of a functional population, and the station maintains
 them with the same seriousness as its containment systems.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 13. Incident Archive
 
@@ -343,7 +343,7 @@ long-rotation population produces. The station's history records the
 lessons of sustaining personnel in isolation, reflected in the floor's
 design and doctrine.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 14. Current Status and Projected Development
 
@@ -354,7 +354,7 @@ priorities include:
 - preservation of the boundary separation between the living level and the
   operational depths.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 15. Cross-Referenced Files
 
@@ -365,7 +365,7 @@ priorities include:
 - ACT_Site_Doctrine_and_Installation_Structure.md / .txt
 - White Grave Annex Register (clearance-gated)
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Closing
 

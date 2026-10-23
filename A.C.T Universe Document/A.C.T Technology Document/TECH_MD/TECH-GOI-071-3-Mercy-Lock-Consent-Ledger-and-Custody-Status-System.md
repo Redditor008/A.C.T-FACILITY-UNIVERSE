@@ -63,11 +63,11 @@ review when a restraint technically worked but care or consent failed.
 
 ## ORIGIN, CUSTODY, AND OWNERSHIP
 
-Mercy Lock likely developed consent ledgers from medical consent forms, guardianship records, hospice directives,
-disability advocacy files, and anomaly-specific identity safeguards. A.C.T has not confirmed whether ledger
-persistence through memory or identity fluctuation is legal discipline, anomalous record behavior, or a combination of
-both. The Institute's own persistent question asks whether consent ledgers resist NEMNOLIA-series amnestic effects or
-only ordinary record loss.
+Mercy Lock likely developed consent ledgers from medical consent forms, guardianship records,
+hospice directives, disability advocacy files, and anomaly-specific identity safeguards. A.C.T has
+not confirmed whether ledger persistence through memory or identity fluctuation is legal discipline,
+anomalous record behavior, or a combination of both. The Institute's own persistent question asks
+whether consent ledgers resist NEMNOLIA-series amnestic effects or only ordinary record loss.
 
 A.C.T custody is limited to copies of transfer-relevant fields, inactive forms, and incident extracts. Mercy Lock
 withholds full patient ledgers, original ward books, and First Key Table references.
@@ -157,9 +157,9 @@ can be accurate and still ignored, and A.C.T has no instrument that detects the 
 Before A.C.T accepts a Mercy Lock transfer, MLCLCSS fields must record patient condition, lawful custody basis, who
 may authorize care, what the patient objects to, what the patient must not be
 called, whether the bell travels,
-whether hand restraints are prohibited, and which conditions trigger emergency override. Legal must verify custody
-authority. Medical must verify clinical necessity. Subject Care must review whether communication or advocacy has been
-erased.
+whether hand restraints are prohibited, and which conditions trigger emergency
+override. Legal must verify custody authority. Medical must verify clinical necessity.
+Subject Care must review whether communication or advocacy has been erased.
 
 During joint operation, changes to patient identity, memory, body, risk, or communication must update the ledger
 before staff treat an old restraint plan as current. A red or disputed status
@@ -221,10 +221,10 @@ unable to consent in ordinary speech but still
 communicate refusal. Emergency custody can become ordinary custody if staff stop reviewing it. A hostile actor could
 imitate ledger language to make abuse appear merciful.
 
-Known failure modes include outdated identity markers, missing advocate objection, invalid substitute authority,
-emergency status never reviewed, forbidden name exposure, family-contact misuse, gentle lock marker mismatch, custody
-paperwork separated from patient, digital copy drift, and staff treating consent as completed history rather than
-active condition.
+Known failure modes include outdated identity markers, missing advocate objection, invalid
+substitute authority, emergency status never reviewed, forbidden name exposure, family-contact
+misuse, gentle lock marker mismatch, custody paperwork separated from patient, digital copy
+drift, and staff treating consent as completed history rather than active condition.
 
 ---
 
@@ -255,8 +255,8 @@ condition. Subject Care owns advocacy escalation when communication, dependency,
 or altered status is unstable. Containment may not override ledger restrictions
 for convenience. Intelligence reviews withheld fields and possible hostile misuse.
 
-MLCLCSS doctrine holds that if a resident's personhood is not recorded, restraint will eventually treat that person as
-only the danger they produce.
+MLCLCSS doctrine holds that if a resident's personhood is not recorded,
+restraint will eventually treat that person as only the danger they produce.
 
 ---
 

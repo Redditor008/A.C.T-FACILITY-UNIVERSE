@@ -242,8 +242,8 @@ Every GOI file should include the following sections:
 - Current Status
 - Cross-Referenced Anomalies
 
-This keeps GOI records consistent with A.C.T’s broader archive doctrine while preserving their distinct organizational
-focus.
+This keeps GOI records consistent with A.C.T’s broader archive
+doctrine while preserving their distinct organizational focus.
 
 ## 4.4.1 Site Monitoring and Jurisdiction
 Where relevant, GOI records should note which A.C.T SITE, SUB-SITE, or regional command body maintains primary
@@ -302,8 +302,8 @@ This prevents A.C.T from confusing:
 with
 — what the group **is as an anomalous condition**
 
-A cult may worship an anomaly without being anomalous itself. A collective intelligence may be both a GOI and an
-anomaly at once.
+A cult may worship an anomaly without being anomalous itself. A
+collective intelligence may be both a GOI and an anomaly at once.
 
 ---
 
@@ -376,16 +376,16 @@ Region:** Midwestern United States
 **Summary:** The **Children of the Deep**, or **CoTD**, is a cultic congregation network gathered around a single
 apocalyptic objective: the awakening of a separately sealed deep-sea sleeper whose release is believed
 to return the
-world to an older, submerged order. Its congregations operate through ritual preparation, coastal and inland
-recruitment, and the patient accumulation of the means to reach the sleeper; the network's own name for its work is
-the Inland Tide.
+world to an older, submerged order. Its congregations operate through ritual
+preparation, coastal and inland recruitment, and the patient accumulation of the
+means to reach the sleeper; the network's own name for its work is the Inland Tide.
 
 **Role in Doctrine:** CoTD is treated as a severe, patient threat rather than an
 immediate one. Because its objective
-is the awakening of a separately contained apocalyptic anomaly, A.C.T posture is infiltration to map the
-congregations, containment to interrupt ritual and supply activity, and dismantling of awakening preparations that
-remain interrupted but not ended. The target anomaly is filed separately and kept distinct from the organization
-record.
+is the awakening of a separately contained apocalyptic anomaly, A.C.T posture is
+infiltration to map the congregations, containment to interrupt ritual and supply
+activity, and dismantling of awakening preparations that remain interrupted but not ended.
+The target anomaly is filed separately and kept distinct from the organization record.
 
 ---
 

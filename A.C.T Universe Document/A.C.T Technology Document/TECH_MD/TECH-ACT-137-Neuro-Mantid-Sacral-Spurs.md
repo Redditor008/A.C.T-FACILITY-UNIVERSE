@@ -80,18 +80,16 @@ Engineering reference set.
 The Mysterious Guild holds a related asset under the designation **Item-M2 Neuro-Mantid Sacral-Scythes**. Whether
 A.C.T's spurs are a copy of Guild hardware, a parallel development from the same
 displaced source, or an earlier
-variant of it is unresolved. The Guild dossier does not describe Item-M2's construction, and no Guild unit has ever
-been recovered intact.
+variant of it is unresolved. The Guild dossier does not describe
+Item-M2's construction, and no Guild unit has ever been recovered intact.
 
 What Engineering has established:
 
 - the carbon-tungsten spur body can be manufactured to specification using A.C.T metallurgy;
 - the **High-Speed Pneumatic Pistons** can be manufactured, serviced, and replaced;
- the **Bio-Feed Connector** cannot be manufactured from first principles. It is reproduced by copying
- recovered
+ the **Bio-Feed Connector** cannot be manufactured from first principles. It is reproduced by copying recovered
  geometry, and Engineering cannot explain why the copied geometry works;
- no A.C.T-built connector has ever been fitted without a recovered reference unit present during
- calibration.
+ no A.C.T-built connector has ever been fitted without a recovered reference unit present during calibration.
 
 That last point is the operational bottleneck. A.C.T can build spurs. A.C.T cannot build the interface that makes them
 usable, and cannot verify a new interface against anything except an existing one.
@@ -107,15 +105,12 @@ reverse.
 
 Components:
 
- **spur bodies**, carbon-tungsten, replaceable, wear visibly and are retired on measurement rather than on
- schedule;
- **High-Speed Pneumatic Pistons**, one per spur, serviceable by Engineering, the only fully understood part
- of the
+ **spur bodies**, carbon-tungsten, replaceable, wear visibly and are retired on measurement rather than on schedule;
+ **High-Speed Pneumatic Pistons**, one per spur, serviceable by Engineering, the only fully understood part of the
  system;
 — **Bio-Feed Connector**, seated against the sacral nerve group, the sole control path;
-— **pelvic frame**, adjustable, load-bearing, transfers stroke recoil into the operator's core;
-**manual disconnect**, present on every fitted unit, which severs the bio-feed but does not
- remove the implant.
+— **pelvic frame**, adjustable, load-bearing, transfers stroke recoil into the operator's core; **manual
+disconnect**, present on every fitted unit, which severs the bio-feed but does not remove the implant.
 
 The connector has no readable output, no indicator, and no diagnostic port. An operator
 knows the spurs are live by
@@ -252,11 +247,11 @@ reference connector.
 Anchoring destroys the surface it enters. On heritage architecture, on occupied structure, or on any surface that is
 itself anomalous, firing a spur may cause more damage than the event being survived.
 
-The bio-feed has no redundancy. A degraded connector produces degraded control with no warning, and the operator is
-the only sensor.
+The bio-feed has no redundancy. A degraded connector produces degraded
+control with no warning, and the operator is the only sensor.
 
-Recoil is transmitted through the operator's core. Repeated use produces cumulative injury that Medical Division
-tracks and that ends careers.
+Recoil is transmitted through the operator's core. Repeated use produces
+cumulative injury that Medical Division tracks and that ends careers.
 
 The provenance gap is not a paperwork problem. A.C.T is issuing a permanent nerve
 interface it cannot explain, built

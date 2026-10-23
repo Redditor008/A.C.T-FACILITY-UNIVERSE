@@ -23,12 +23,12 @@
 #### Archive Note
 The Anti Reality Mesh System is the second main A.C.T technology expanded into an
 individual record because it is the
-site-wide concealment and perceptual damping system paired with the Reality Stabilization Anchor System across A.C.T
-infrastructure. The master technology index identifies ARM as a multi-vector cloaking field operating on physical and
-perceptual levels to render Facility locations unremarkable to civilian observation. The technological timeline
-records full site-wide deployment in 1982, following the earlier 1940 Alpha prototype used to mask the Siena Estate
-from surface detection. Site dossiers identify ARM as the system maintaining public cover identity for major
-facilities.
+site-wide concealment and perceptual damping system paired with the Reality Stabilization Anchor
+System across A.C.T infrastructure. The master technology index identifies ARM as a multi-vector
+cloaking field operating on physical and perceptual levels to render Facility locations unremarkable
+to civilian observation. The technological timeline records full site-wide deployment in 1982,
+following the earlier 1940 Alpha prototype used to mask the Siena Estate from surface detection.
+Site dossiers identify ARM as the system maintaining public cover identity for major facilities.
 
 ARM is not invisibility in the simple sense. It does not make a facility
 cease to exist. It makes the facility fail to
@@ -36,12 +36,12 @@ become important to the wrong observer. A road remains a road, a research statio
 remains a research station, an
 estate remains an estate, a service door remains a service door, and a civilian
 mind walks past without turning
-ordinary noticing into dangerous attention. RSA keeps the place stable. ARM keeps the place socially and perceptually
-unremarkable.
+ordinary noticing into dangerous attention. RSA keeps the place
+stable. ARM keeps the place socially and perceptually unremarkable.
 
-This record expands the short catalog entry into a working technology document. Aperture-node manufacture, civilian
-perception weighting, emergency mesh reset, and full normalcy routing tables remain censored under **ARM FIELD
-DISCLOSURE LIMIT**.
+This record expands the short catalog entry into a working technology document.
+Aperture-node manufacture, civilian perception weighting, emergency mesh reset, and
+full normalcy routing tables remain censored under **ARM FIELD DISCLOSURE LIMIT**.
 
 ---
 
@@ -82,8 +82,7 @@ ARM appears in five major roles:
 - civilian perception management around A.C.T buildings, false companies, and restricted infrastructure;
 - surveillance dampening against ordinary cameras, map services, delivery systems, and casual drone observation;
 - emergency misdirection during breach response, transport arrival, or surface lockdown;
- post-incident normalcy support when an area must remain publicly boring long enough for Civil
- Covert to replace the
+ post-incident normalcy support when an area must remain publicly boring long enough for Civil Covert to replace the
  story.
 
 ARM is therefore a normalcy technology as much as a site technology. It is
@@ -168,11 +167,11 @@ uninteresting. If an event is structurally dangerous, RSA and Containment alerts
 
 ### Site and Mobile Variants
 
-Fixed ARM grids cover surface campuses, approach roads, exterior walls, access corridors, vehicle bays, delivery
-gates, and some administrative floors. Redwood Veil uses ARM across the campus and primary nodes to maintain
-unremarkable status. White Grave uses ARM to preserve its public identity as a legitimate arctic research station.
-Other facilities tune ARM according to cover: reserve, relay, archive node, estate, warehouse, office, or restricted
-industrial site.
+Fixed ARM grids cover surface campuses, approach roads, exterior walls, access corridors,
+vehicle bays, delivery gates, and some administrative floors. Redwood Veil uses ARM across the
+campus and primary nodes to maintain unremarkable status. White Grave uses ARM to preserve its
+public identity as a legitimate arctic research station. Other facilities tune ARM according to
+cover: reserve, relay, archive node, estate, warehouse, office, or restricted industrial site.
 
 Mobile ARM variants exist but are weaker and shorter-lived. They are used on convoy
 tarps, temporary doors, emergency
@@ -339,10 +338,10 @@ service life are both NOT MEASURED.
 
 ### What ARM Cannot Do
 
-ARM cannot erase witnesses, cannot rewrite all records, cannot defeat high-grade hostile reconnaissance, cannot make a
-catastrophic breach harmless, cannot hide a facility after the public has already learned to care about it, and cannot
-substitute for normalcy doctrine. It lowers attention and supports boring explanations. It does not make consequences
-vanish.
+ARM cannot erase witnesses, cannot rewrite all records, cannot defeat high-grade hostile
+reconnaissance, cannot make a catastrophic breach harmless, cannot hide a facility after the
+public has already learned to care about it, and cannot substitute for normalcy doctrine. It
+lowers attention and supports boring explanations. It does not make consequences vanish.
 
 ARM is weakest against:
 
@@ -409,9 +408,9 @@ The combined failure mode is still under review.
 
 ### Engineering Division
 
-Engineering owns node design, lattice installation, aperture-node service, tablet diagnostics, reset procedure, and
-physical maintenance. Engineering must certify any structural work that cuts, coats, drills, or reroutes mesh-bearing
-walls.
+Engineering owns node design, lattice installation, aperture-node service, tablet
+diagnostics, reset procedure, and physical maintenance. Engineering must certify
+any structural work that cuts, coats, drills, or reroutes mesh-bearing walls.
 
 ### Civil Covert Division
 
@@ -421,9 +420,9 @@ contractors, or emergency services.
 
 ### Site Command and Containment
 
-Site Command controls site-level ARM posture during breach, lockdown, surface events, and evacuation. Containment
-ensures ARM does not mask internal hazard signals or interfere with chamber monitoring. A hidden breach is still a
-breach.
+Site Command controls site-level ARM posture during breach, lockdown, surface
+events, and evacuation. Containment ensures ARM does not mask internal hazard
+signals or interfere with chamber monitoring. A hidden breach is still a breach.
 
 ### Intelligence, Archive, and Logistics
 

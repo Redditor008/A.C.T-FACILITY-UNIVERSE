@@ -10,7 +10,7 @@ Dossier Number: SUB-SITE-DOSSIER-02-RU-N
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Note
 
@@ -30,7 +30,7 @@ what it does, why it exists as a sub-site, how it is governed, and
 how it
 supports the parent station.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 1. Registry Identity Summary
 
@@ -50,7 +50,7 @@ incidents.
 Security Notes: Personnel rotation is tightly controlled due to long-duration cold exposure and isolation
 stress.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 2. Dossier Purpose
 
@@ -65,7 +65,7 @@ where incoming biological material is held in interim cold storage, assessed
 under quarantine, and prepared for transfer to the parent station — or, when
 the material requires it, silently removed from the transport chain entirely.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 3. Site Profile and Cover Architecture
 
@@ -91,7 +91,7 @@ interim cold storage, quarantine, and transfer staging. It has no mandate for
 long-term containment, no independent research authority, and no standing
 beyond support for the parent station.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 4. Historical Foundation and Evolution
 
@@ -119,7 +119,7 @@ Today the depot functions as:
 - the facility through which hazardous organic material is silently removed
   from the transport chain when required
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5. Command and Governance
 
@@ -146,7 +146,7 @@ The depot's command limits are explicit:
 
 Material requiring long-term holding transfers to White Grave Station.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 6. Divisional Presence and Daily Function
 
@@ -172,7 +172,7 @@ The depot maintains limited containment support for the temporary housing of
 material in transit: cryogenic storage units, quarantine chambers, and the
 environmental systems required for interim biological suppression.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 7. Physical Plant and Internal Floor Register
 
@@ -196,7 +196,7 @@ awaiting transfer to White Grave Station. During a breach response,
 closing F-1 to the outside seals this level. Holding here is measured in
 days to weeks — the depot is not a long-term home.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 8. Containment and Operational Doctrine
 
@@ -222,7 +222,7 @@ transferred, or whose disposition demands disappearance rather than delivery,
 is handled at the depot under the parent station's authority — without
 disturbing the cover or the transport schedule.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 9. Resident Holdings
 
@@ -230,7 +230,7 @@ The depot does not maintain permanent residents. Its holding levels are
 occupied only by material in quarantine or transit. The depot's manifest is a
 rolling record of staging material rather than a register of residents.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 10. Secrecy and Security Posture
 
@@ -243,7 +243,7 @@ Security procedures emphasize:
   isolation stress
 — silent handling of material whose disposition requires discretion
 
----
+═══════════════════════════════════════════════════════════════════════
 
 11. Personnel and Operational Life
 
@@ -259,7 +259,7 @@ A working day at the depot may include:
 - preparing a material batch for transfer to the parent station
 - managing the silent removal of material whose disposition requires it
 
----
+═══════════════════════════════════════════════════════════════════════
 
 12. Incident Archive
 
@@ -268,7 +268,7 @@ assessment incidents, suppression system events, and transfer coordination
 issues. Material that exceeds the depot's capacity moves to the parent
 station, and the depot's history is largely the history of successful staging.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 13. Current Status and Projected Development
 
@@ -283,7 +283,7 @@ The depot's function — to be the waiting room before the long sleep —
 is not
 expected to change.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 14. Cross-Referenced Files
 
@@ -292,7 +292,7 @@ expected to change.
 - ACT-SITE-02-RU-N — White Grave Station Site Dossier
 - Parent command: ACT-SITE-02-RU-N Annex Register (clearance-gated)
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Closing
 

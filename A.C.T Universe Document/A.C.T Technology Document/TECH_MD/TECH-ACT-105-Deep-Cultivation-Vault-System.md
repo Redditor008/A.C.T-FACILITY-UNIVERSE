@@ -51,9 +51,9 @@ systems, service ring controls, secure archive alcove, access checkpoints, and F
 
 DCVS is not gardening, not ordinary research, and not medical holding. It is a
 restricted cultivation system where
-biological containment, transformation study, and command authority meet. The system exists below the interior holding
-floor because its subjects require deeper isolation, stronger access rules, and closer command review than standard
-habitat chambers.
+biological containment, transformation study, and command authority meet. The system
+exists below the interior holding floor because its subjects require deeper isolation,
+stronger access rules, and closer command review than standard habitat chambers.
 
 Approved roles include high-security biological containment, long-term cultivation program support, transformation
 doctrine support, unstable material isolation, restricted observation, service-ring environmental control, secure
@@ -78,10 +78,10 @@ the vault architecture and procedure that keeps such work command-bound.
 
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
-A DCVS installation includes cultivation vault chambers, reinforced chamber walls, access core checkpoints,
-observation and monitoring gallery, service ring, power and environmental routes, secure archive alcove, command post,
-Medical liaison point, Environmental Containment review station, and closure hardware capable of sealing the level to
-the outside.
+A DCVS installation includes cultivation vault chambers, reinforced chamber walls, access
+core checkpoints, observation and monitoring gallery, service ring, power and environmental
+routes, secure archive alcove, command post, Medical liaison point, Environmental Containment
+review station, and closure hardware capable of sealing the level to the outside.
 
 Known components include:
 
@@ -161,9 +161,9 @@ Chamber count, ring volume, and escalations are NOT MEASURED.
 
 ### Numbered Operating Sequence
 
-The sequence requires comparison with the native field before alteration. Cultivation decisions made without
-that comparison are decisions about the vault alone, and the enclosure has repeatedly found that is where
-escalation begins.
+The sequence requires comparison with the native field before alteration.
+Cultivation decisions made without that comparison are decisions about the vault
+alone, and the enclosure has repeatedly found that is where escalation begins.
 
 1. Clear the access checkpoint sequence before entry.
 2. Read the resident-program authorization ledger at the door.
@@ -201,9 +201,8 @@ the vault to the outside and locks the command record to the event clock.
 | Monthly | review alterations against the authorization ledger |
 | Quarterly | rehearse F-1 closure with programmes suspended |
 
-Monthly review of alterations is the control against drift by accumulation. Each individual change is
-authorised and recorded; the escalation appears only when a year of small authorised changes is read as a
-single trajectory.
+Monthly review of alterations is the control against drift by accumulation. Each individual change is authorised
+and recorded; the escalation appears only when a year of small authorised changes is read as a single trajectory.
 
 ## FAULT ISOLATION
 
@@ -222,10 +221,10 @@ Biological holdings may adapt to vault conditions, manipulate environmental syst
 change growth rate, or create medical and ethical pressure through signs of cognition or distress. The vault also
 cannot substitute for native fields when the resident's containment depends on place.
 
-Known failure modes include cultivation escalation, service ring contamination, access checkpoint failure,
-unauthorized program change, observation blind spot, medical-care conflict, resident breach, archive alcove
-contamination, F-1 closure during occupied work, and command pressure to continue a program after containment signs
-have changed.
+Known failure modes include cultivation escalation, service ring contamination, access
+checkpoint failure, unauthorized program change, observation blind spot, medical-care
+conflict, resident breach, archive alcove contamination, F-1 closure during occupied
+work, and command pressure to continue a program after containment signs have changed.
 
 ---
 

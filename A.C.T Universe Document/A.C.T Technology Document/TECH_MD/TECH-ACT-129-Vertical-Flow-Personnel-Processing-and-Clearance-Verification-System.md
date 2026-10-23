@@ -204,9 +204,8 @@ Director can coordinate operational decisions without disconnecting F-8 from the
 | Quarterly | test the command-suite communication relay |
 | Annually | re-validate descent gate criteria |
 
-The weekly ascent audit is the floor's earliest warning that verification is being treated as formality.
-Unsigned ascent entries cluster at shift boundaries and at rotation changes, which is where clearance drift
-starts.
+The weekly ascent audit is the floor's earliest warning that verification is being treated as formality. Unsigned
+ascent entries cluster at shift boundaries and at rotation changes, which is where clearance drift starts.
 
 ## FAULT ISOLATION
 

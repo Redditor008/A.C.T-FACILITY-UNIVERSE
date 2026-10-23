@@ -11,7 +11,7 @@ Dossier Number: FLOOR-DOSSIER-04-BR-C-F-2
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard / ACT Floor Record Standard
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Note
 
@@ -30,7 +30,7 @@ what it holds, how it is built, how it is run, and how the
 reserve's
 built interior complements its open exterior.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 1. Floor Registry Identity Summary
 
@@ -53,7 +53,7 @@ Access Posture: Controlled operational access under interior holding
 doctrine
 Current Status: Active
 
----
+═══════════════════════════════════════════════════════════════════════
 
 2. Dossier Purpose
 
@@ -69,7 +69,7 @@ the built floor where biological material requiring built containment is
 held in climate-controlled chambers, containment habitats, and specialized
 environments — the reserve's indoor answer to its outdoor doctrine.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 3. Position in the Site Stack
 
@@ -93,7 +93,7 @@ material: F-1 holds the reserve's most sensitive material under maximum
 security, while F-2 holds the working interior population requiring built
 containment under standard interior doctrine.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 4. Historical Foundation
 
@@ -118,7 +118,7 @@ In its modern configuration, F-2 is the reserve's main interior holding
 level, holding the working built population of the reserve under the
 interior doctrine that complements the reserve's open-air philosophy.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5. Command and Authority
 
@@ -143,7 +143,7 @@ transformation work. Its role is to hold the interior population under
 built containment and to recognize when a resident no longer belongs on the
 floor.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 6. Divisional Presence
 
@@ -169,7 +169,7 @@ subjects in the floor's habitats and for personnel working with them.
 Security guards the floor's access architecture and the habitat units, and
 enforces the handling rules governing movement within the floor.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 7. Physical Plant and Architecture
 
@@ -204,7 +204,7 @@ The floor's specialized chambers hold material requiring environments
 beyond standard climate control: conditions engineered for organisms whose
 biology demands unusual atmosphere, light, chemistry, or structure.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 8. Systems and Infrastructure
 
@@ -231,7 +231,7 @@ The floor maintains standard reserve communications. Documentation is
 continuous and exact, because the floor's residents are long-term holdings
 whose records must carry their history.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 9. Security and Containment Architecture
 
@@ -265,7 +265,7 @@ handling incidents, and environmental failures are met with the reserve's
 interior response doctrine, with escalation to the deep vault below when a
 resident proves to be more than the floor can hold.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 10. Holdings and Filing Doctrine
 
@@ -292,7 +292,7 @@ within a managed habitat sector of the reserve under controlled conditions,
 in accordance with her stabilized care regimen. F-2's own population is
 registered in the Annex Register under interior holding procedure.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 11. Personnel and Duty Life
 
@@ -315,7 +315,7 @@ The floor's personnel work under the reserve's interior discipline:
 habitats are engineered, environments are documented, and residents are
 observed under the close control that the floor exists to provide.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 12. Floor Doctrine
 
@@ -339,7 +339,7 @@ requires deeper security moves down to F-1, material assessed as suitable
 for the open may move to the enclosure network, and the floor's duty
 includes recognizing both movements.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 13. Incident Archive
 
@@ -349,7 +349,7 @@ Because the floor's population is held under mature interior doctrine,
 major incidents are rare; when they occur, they are recorded as the
 reserve's interior lessons and reflected in doctrine.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 14. Current Status and Projected Development
 
@@ -360,7 +360,7 @@ priorities include:
 - coordination with the laboratory level and the enclosure network on the
   placement of the reserve's residents.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 15. Cross-Referenced Files
 
@@ -371,7 +371,7 @@ priorities include:
 - ACT_Site_Doctrine_and_Installation_Structure.md / .txt
 - Verde Null Annex Register (clearance-gated)
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Closing
 

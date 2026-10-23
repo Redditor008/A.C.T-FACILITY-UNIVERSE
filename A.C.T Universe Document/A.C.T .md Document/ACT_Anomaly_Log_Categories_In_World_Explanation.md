@@ -65,8 +65,8 @@ Modern A.C.T practice therefore groups logs by function.
 A single **Recovery & Discovery Dossier** may contain discovery logs, recovery logs, witness intake, evidence
 collection, transport records, and after-action review.
 
-A single **Experiment & Testing Dossier** may contain many individual tests instead of creating one separate file per
-test.
+A single **Experiment & Testing Dossier** may contain many
+individual tests instead of creating one separate file per test.
 
 A single **Incident & Breach Dossier** may contain the incident summary, security transcript, response timeline,
 post-incident interview, and procedure revision.
@@ -136,8 +136,8 @@ These categories are not containment classes. They are archive organization type
 
 ### Function
 
-A Recovery & Discovery Dossier records how A.C.T first detected, verified, approached, recovered, transported, or
-stabilized an anomaly.
+A Recovery & Discovery Dossier records how A.C.T first detected,
+verified, approached, recovered, transported, or stabilized an anomaly.
 
 It is used to preserve the first chain of custody.
 
@@ -221,8 +221,8 @@ Example:
 Helping-Hand-Testimony-Dossier-AFD-SU-019.txt
 ```
 
-This file would preserve first-hour survivor accounts before the memory-softening effect reduces the rescuer into a
-“miracle” narrative.
+This file would preserve first-hour survivor accounts before the
+memory-softening effect reduces the rescuer into a “miracle” narrative.
 
 ---
 
@@ -267,8 +267,8 @@ Example:
 I-AM-A-Test-Testing-Dossier-AFD-OB-001.txt
 ```
 
-This file records baseline intake, digital revision attempts, erasure tests, copy tests, and archive training use for
-AFD-OB-001.
+This file records baseline intake, digital revision attempts,
+erasure tests, copy tests, and archive training use for AFD-OB-001.
 
 ---
 
@@ -317,8 +317,8 @@ Example:
 MACHINE-Heart-Stage-Two-Incident-Dossier-AFD-OB-017.txt
 ```
 
-This file would record a Stage Two activation, security response, exclusion-zone behavior, and resulting procedure
-changes.
+This file would record a Stage Two activation, security response,
+exclusion-zone behavior, and resulting procedure changes.
 
 ---
 
@@ -479,8 +479,8 @@ designation, cybernetic systems, weapon records, and future context.
 
 ### Function
 
-A Behavioral & Observation Dossier records repeated behavior, care notes, habits, routines, responses, and long-term
-monitoring.
+A Behavioral & Observation Dossier records repeated behavior, care
+notes, habits, routines, responses, and long-term monitoring.
 
 It is used for subjects whose containment depends on understanding behavior rather than simply locking them away.
 
@@ -614,8 +614,8 @@ Example:
 OBSERVING-BIRD-Internal-Correspondence-Dossier-AFD-CH-014.txt
 ```
 
-This file would preserve command arguments over whether A.C.T should interfere with a cosmic entity that judges
-apocalyptic anomalies.
+This file would preserve command arguments over whether A.C.T should
+interfere with a cosmic entity that judges apocalyptic anomalies.
 
 ---
 
@@ -623,8 +623,8 @@ apocalyptic anomalies.
 
 ### Function
 
-An Audio / Video / Sensor Dossier preserves recorded evidence where timing, image, sound, or instrument readings are
-central.
+An Audio / Video / Sensor Dossier preserves recorded evidence
+where timing, image, sound, or instrument readings are central.
 
 It is used when the record is more important than a written summary.
 

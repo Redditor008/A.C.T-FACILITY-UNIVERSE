@@ -134,8 +134,8 @@ quarantine information-borne hazards and to deny access to records under the com
 
 ### 6.1 Archive Division
 
-The Archive Division operates F-7: record accession, preservation, retrieval, and the operation of the document
-quarantine cells.
+The Archive Division operates F-7: record accession, preservation,
+retrieval, and the operation of the document quarantine cells.
 
 ### 6.2 Containment Division Liaison
 
@@ -155,8 +155,8 @@ confidentiality doctrine that governs clinical documentation.
 
 ### 6.5 Administration Liaison
 
-The Administration floor above coordinates with F-7 on the complex's command records, personnel files, and
-authorization documentation.
+The Administration floor above coordinates with F-7 on the complex's
+command records, personnel files, and authorization documentation.
 
 ---
 
@@ -227,9 +227,9 @@ restricted records vaults and quarantine cells are separately gated to personnel
 
 ### 9.2 Quarantine Doctrine
 
-The floor's quarantine cells are governed by quarantine doctrine: information-borne hazard documents are held in
-isolation, accessed under restriction, and never admitted to the general repository until — if ever — they are
-assessed as safe.
+The floor's quarantine cells are governed by quarantine doctrine: information-borne
+hazard documents are held in isolation, accessed under restriction, and never
+admitted to the general repository until — if ever — they are assessed as safe.
 
 ### 9.3 Preservation Doctrine
 
@@ -263,9 +263,9 @@ perception-sensitive residents.
 
 ### 10.3 Filing Doctrine
 
-The floor's holdings are indexed under the Archive Division's filing doctrine: material is accessible by clearance,
-quarantine material is accessible by restriction set, and the floor's own access records are preserved as part of the
-complex's documentary estate.
+The floor's holdings are indexed under the Archive Division's filing doctrine: material
+is accessible by clearance, quarantine material is accessible by restriction set, and the
+floor's own access records are preserved as part of the complex's documentary estate.
 
 ---
 
@@ -309,8 +309,8 @@ material.
 
 F-7 doctrine holds that the record must survive — and that survival includes resisting
 the forces that would rewrite
-it. The floor's QNB-hardened structure embodies the principle that the complex's records are written once and kept as
-written.
+it. The floor's QNB-hardened structure embodies the principle
+that the complex's records are written once and kept as written.
 
 ---
 

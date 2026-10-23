@@ -187,8 +187,8 @@ the buried work.
 
 ### 8.1 Power
 
-F-7 draws on the node's main supply with standard backup. The command floor's communications systems are on protected
-circuits.
+F-7 draws on the node's main supply with standard backup. The
+command floor's communications systems are on protected circuits.
 
 ### 8.2 Environment
 
@@ -223,9 +223,9 @@ whose clearance extends into the depths. The distinction is administered on F-7.
 
 ### 9.3 Clearance Verification
 
-Clearance verification is conducted on F-7 as a standing function: the floor maintains the node's clearance
-architecture, verifying that personnel have the clearances their duties require and that those clearances remain
-valid.
+Clearance verification is conducted on F-7 as a standing function: the floor
+maintains the node's clearance architecture, verifying that personnel have
+the clearances their duties require and that those clearances remain valid.
 
 ### 9.4 Incident Response
 
@@ -250,8 +250,8 @@ legitimate archive and the operational archive.
 
 ### 10.3 Holding Character
 
-F-7 holds no residents. Its population is administrative and command personnel, and its function is the governance of
-the node's operational floors.
+F-7 holds no residents. Its population is administrative and command personnel,
+and its function is the governance of the node's operational floors.
 
 ---
 
@@ -281,8 +281,8 @@ face separate from its buried purpose.
 
 F-7 doctrine holds that the node's command belongs at its boundary: the Site Director
 commands from the floor where
-the legitimate archive meets the operational archive, because the node's central task is the management of that
-boundary.
+the legitimate archive meets the operational archive, because
+the node's central task is the management of that boundary.
 
 ### 12.2 Personnel Doctrine
 

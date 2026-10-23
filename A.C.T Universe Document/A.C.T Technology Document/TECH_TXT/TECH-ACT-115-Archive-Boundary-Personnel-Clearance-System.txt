@@ -69,10 +69,10 @@ archive depends on cleared personnel who know what the public floor must never b
 ABPCS keeps those populations
 distinct without damaging the public institution that covers the node.
 
-Approved roles include personnel arrival processing, identity verification, public-role limitation, operational-depth
-clearance, access-core enrollment, clearance expiry review, reassignment screening, denial recording,
-boundary-incident investigation, and command review of any person whose work threatens to collapse the archive's two
-identities into one.
+Approved roles include personnel arrival processing, identity verification, public-role
+limitation, operational-depth clearance, access-core enrollment, clearance expiry review,
+reassignment screening, denial recording, boundary-incident investigation, and command
+review of any person whose work threatens to collapse the archive's two identities into one.
 
 ORIGIN AND DEVELOPMENT
 
@@ -204,11 +204,11 @@ grant, and permanent grants are how a node ends up with operational-depth access
 by somebody who no
 longer works at depth.
 
-Before personnel cross from the public archive into operational eligibility, ABPCS verifies identity, employment
-cover, division sponsorship, prior exposure, training status, document-handling history, security record, and reason
-for operational-depth access. Personnel are marked as public-only, supervised-transition, operational-cleared,
-command-cleared, or denied. Each status controls both physical access and what institutional explanations the person
-may receive.
+Before personnel cross from the public archive into operational eligibility, ABPCS verifies
+identity, employment cover, division sponsorship, prior exposure, training status,
+document-handling history, security record, and reason for operational-depth access. Personnel are
+marked as public-only, supervised-transition, operational-cleared, command-cleared, or denied. Each
+status controls both physical access and what institutional explanations the person may receive.
 
 Clearance remains active only while the role requires it. When a person changes assignment, completes a temporary
 project, shows boundary confusion, receives exposure concern, or attempts to move material outside approved route,
@@ -260,10 +260,10 @@ useful to the buried archive than their cover can safely allow. An operational w
 may become too casual near
 public staff. The system depends on supervisors respecting separation even when collaboration would be convenient.
 
-Known failure modes include public-role overreach, expired clearance left active, escort abuse, training status
-misread, operational slang used on the public floor, staff identity bleed, command override for convenience,
-denial-file avoidance, access-core tailgating, and clearance granted because a worker is valuable rather than because
-the boundary can survive it.
+Known failure modes include public-role overreach, expired clearance left active, escort abuse,
+training status misread, operational slang used on the public floor, staff identity bleed,
+command override for convenience, denial-file avoidance, access-core tailgating, and clearance
+granted because a worker is valuable rather than because the boundary can survive it.
 
 FAILURE HISTORY
 

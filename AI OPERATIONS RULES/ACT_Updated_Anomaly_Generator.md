@@ -34,11 +34,9 @@ To maintain chronological and causal integrity, all documentation must be saved 
 
 #### **2.3 Emergent Reality File (The 715 Series)**
 *   Reserved exclusively for **Exogenous Record Manifestations**.
-    **Note:** These are not physical anomalies. They are mundane artifacts (USBs, paper scripts, photos)
-    that appeared
+    **Note:** These are not physical anomalies. They are mundane artifacts (USBs, paper scripts, photos) that appeared
     without a source and describe other worlds.
-    **Scrubbing Rule:** In-universe files must NEVER contain "Reality X" labels. Use only standard AFD
-    numbers.
+    **Scrubbing Rule:** In-universe files must NEVER contain "Reality X" labels. Use only standard AFD numbers.
 
 ---
 
@@ -50,8 +48,8 @@ To maintain chronological and causal integrity, all documentation must be saved 
     `Death-Angler-Behavioral-Observation-Dossier-AFD-NB-964.txt`)
 
 #### **3.2 The 715-Series Rule**
-    All items originating from the "Displacement Event" of 2021-2024 are designated under the **715**
-    numerical registry.
+    All items originating from the "Displacement Event" of
+    2021-2024 are designated under the **715** numerical registry.
 — They are categorized as **Information-Only Manifestations** and stored as "Static Artifacts."
 
 #### **3.3 Path 1 Foundation Fields**
@@ -98,8 +96,8 @@ All documentation must utilize the **Master Catalog of Operational Assets (Index
 
 ## 6. HISTORICAL TIMELINE SPREAD
 
-Detection and verification dates must be spread logically across the organization’s history to avoid "Data
-Clustering."
+Detection and verification dates must be spread logically
+across the organization’s history to avoid "Data Clustering."
 
 *   **1890s – 1920s:** ERE Era (Search for the Cure).
 *   **1930s – 1960s:** Early ACT Expansion (Site Network establishment).
@@ -116,8 +114,8 @@ Realism**.
 
 > **"Manners are the only Anti Reality Mesh that doesn't require a power supply."**
 
-Respect the designation. Confirm the registry band. Prove the hazard tags. Preserve the lifecycle state. Protect the
-survivor. Stabilize the world.
+Respect the designation. Confirm the registry band. Prove the hazard tags.
+Preserve the lifecycle state. Protect the survivor. Stabilize the world.
 
 ---
 **END OF GENERATOR STANDARD**

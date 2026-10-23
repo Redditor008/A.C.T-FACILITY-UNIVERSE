@@ -11,7 +11,7 @@ Dossier Number: FLOOR-DOSSIER-05-ID-C-F-5
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard / ACT Floor Record Standard
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Note
 
@@ -29,7 +29,7 @@ This dossier records the floor in full institutional language: what it is,
 how it shelters, how it commands, and how the relay sustains and directs
 the personnel who watch the deep.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 1. Floor Registry Identity Summary
 
@@ -48,7 +48,7 @@ Director's command floor, and the relay's internal logistics center
 Access Posture: Relay-clearance-gated access
 Current Status: Active
 
----
+═══════════════════════════════════════════════════════════════════════
 
 2. Dossier Purpose
 
@@ -64,7 +64,7 @@ logistics center. The floor is where the relay's people live, and where
 the relay's command directs their work — the level that keeps the watch
 manned and the watchers governed.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 3. Position in the Site Stack
 
@@ -88,7 +88,7 @@ F-5 commands the operational floors below: the holding, research,
 monitoring, and vault levels operate under the direction of the Site
 Director's command floor on this level.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 4. Historical Foundation
 
@@ -112,7 +112,7 @@ In its modern configuration, F-5 is the relay's human heart: the level
 where the relay's people are housed, its command is exercised, and its
 internal logistics are coordinated.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5. Command and Authority
 
@@ -136,7 +136,7 @@ Director commands through the division chiefs — Recovery, Containment,
 Research, Security, and Medical — and the divisions command their
 operations.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 6. Divisional Presence
 
@@ -166,7 +166,7 @@ coordinated from this floor.
 Medical support for the relay's personnel is provided in coordination with
 the personnel level, serving the relay's on-site population.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 7. Physical Plant and Architecture
 
@@ -198,7 +198,7 @@ The floor's logistics center coordinates the relay's internal operations:
 the movement of material and personnel within the built installation, and
 the support of the relay's far-flung maritime and monitoring operations.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 8. Systems and Infrastructure
 
@@ -225,7 +225,7 @@ F-5 is the relay's command communications nexus: the command floor
 maintains the links through which the Site Director commands the relay and
 coordinates with the Facility network beyond.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 9. Security and Access Architecture
 
@@ -256,7 +256,7 @@ the relay operates in a region of genuine tectonic activity, and the
 personnel level's procedures include the response doctrine for large-scale
 tectonic shifts.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 10. Function and Character
 
@@ -275,7 +275,7 @@ the administrative machinery that governs the relay's operations.
 F-5 holds no residents. Its population is the relay's personnel, and its
 function is the sustainment and command of the people who watch the deep.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 11. Personnel and Duty Life
 
@@ -298,7 +298,7 @@ volcanic, seismically active region, whose domestic routines are shaped by
 the environment and by the knowledge that the ground beneath them is part
 of what they watch.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 12. Floor Doctrine
 
@@ -321,7 +321,7 @@ personnel level's procedures include response to the tectonic activity that
 defines the region, and the floor maintains the preparedness its setting
 demands.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 13. Incident Archive
 
@@ -330,7 +330,7 @@ personnel incidents, command events, and the logistics events of an island
 installation. The relay's history records the lessons of sustaining and
 commanding its population in a demanding operational setting.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 14. Current Status and Projected Development
 
@@ -340,7 +340,7 @@ priorities include:
 - maintenance of the command and logistics infrastructure;
 - preservation of seismic preparedness.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 15. Cross-Referenced Files
 
@@ -351,7 +351,7 @@ priorities include:
 - ACT_Site_Doctrine_and_Installation_Structure.md / .txt
 - Nusantara Annex Register (clearance-gated)
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Closing
 

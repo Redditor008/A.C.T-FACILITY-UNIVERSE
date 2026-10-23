@@ -1,7 +1,7 @@
 A.C.T FACILITY ARCHIVE FILE — CAUSAL STATIC GENERATOR SYSTEM
 ===========================
 TECHNOLOGY RECORD - CAUSAL STATIC GENERATOR SYSTEM
---------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                                                         |
@@ -64,13 +64,13 @@ This file expands the short catalog entry into a working technology record. Bore
 starvation thresholds, high-entropy seed libraries, counter-script tests, and site-wide overlap settings remain
 censored under CAUSAL STATIC DISCLOSURE LIMIT.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 FUNCTION SUMMARY
-----------------
+═══════════════════════════════════════════════════════════════════════
 
 Practical Function
-------------------
+═══════════════════════════════════════════════════════════════════════
 
 Causal Static Generators broadcast controlled high-entropy information patterns into an area, channel, file
 environment, recording system, or field operation. The broadcast is designed to starve narrative-dependent anomalies
@@ -79,17 +79,17 @@ administrative load, and non-escalating signal fragments that make it harder for
 
 The master catalog describes Causal Static Generators as:
 
-High-entropy data broadcasters. Used to induce Narrative Starvation in anomalies that utilize dramatic causality to
-escalate.
+High-entropy data broadcasters. Used to induce Narrative Starvation
+in anomalies that utilize dramatic causality to escalate.
 
-That description remains accurate. The expanded record adds the operational meaning: Causal Static is used when an
-anomaly appears to grow stronger because events are becoming narratively charged. Examples include witnesses repeating
-the same phrase, doors opening on symbolic timing, media stories aligning around a heroic or doomed structure, field
-teams being assigned roles by circumstance, or recovered documents arranging themselves into a plot that staff begin
-to obey.
+That description remains accurate. The expanded record adds the operational meaning: Causal
+Static is used when an anomaly appears to grow stronger because events are becoming narratively
+charged. Examples include witnesses repeating the same phrase, doors opening on symbolic timing,
+media stories aligning around a heroic or doomed structure, field teams being assigned roles by
+circumstance, or recovered documents arranging themselves into a plot that staff begin to obey.
 
 Operational Role
-----------------
+═══════════════════════════════════════════════════════════════════════
 
 Causal Static appears in five major roles:
 
@@ -106,13 +106,13 @@ The system's field rule is:
 
 BREAK THE SHAPE BEFORE THE SHAPE BREAKS THE TEAM.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 ORIGIN AND CUSTODY
-------------------
+═══════════════════════════════════════════════════════════════════════
 
 Development History
--------------------
+═══════════════════════════════════════════════════════════════════════
 
 The technological timeline records the introduction of Causal Static Generators in 2011, during the Modern Synthesis
 era, as high-entropy data broadcasters used to starve narrative-based singularities of their plot weight. The system
@@ -126,7 +126,7 @@ dangerous readings. Those practices sometimes helped, but they were unreliable. 
 into controlled broadcast hardware with adjustable entropy, direction, medium, and cooling support.
 
 Custody
--------
+═══════════════════════════════════════════════════════════════════════
 
 Primary custody belongs to Engineering Division and Containment Division. Engineering controls hardware, signal-disc
 maintenance, cooling, entropy seed isolation, frequency tuning, and repairs. Containment controls deployment
@@ -137,14 +137,14 @@ monitors hostile GOI adaptation and counterfeit static. Medical Care attaches wh
 cognition, sleep, stress, or memory. Site Command authorizes broad facility use because Causal Static can interfere
 with communication, testimony, morale, and emergency clarity.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 
 PHYSICAL AND SYSTEM DESCRIPTION
--------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Standard Broadcast Unit
------------------------
+═══════════════════════════════════════════════════════════════════════
 
 The visual reference guide describes the standard Causal Static Generator as a heavy signal-broadcaster resembling a
 modern server unit. It features an oscillating signal disc behind reinforced glass and a digital tuner for calibrating
@@ -155,7 +155,7 @@ Those details are approved for recognition training. They are not sufficient for
 can strengthen the wrong pattern by making the static itself feel meaningful.
 
 Known Components
-----------------
+═══════════════════════════════════════════════════════════════════════
 
 Known components include:
 
@@ -174,12 +174,12 @@ Known components include:
 - CSG to QNB logging link;
 - Medical pulse and stress monitor attachment for crew exposure.
 
-The boredom-frequency tuner is poorly named for public-facing explanation but accurate in field use. It does not make
-people simply bored. It reduces dramatic coherence inside a target environment by flooding available attention with
-low-value procedural signal.
+The boredom-frequency tuner is poorly named for public-facing explanation but accurate
+in field use. It does not make people simply bored. It reduces dramatic coherence inside
+a target environment by flooding available attention with low-value procedural signal.
 
 Fixed, Archive, and Field Variants
-----------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Fixed generators are installed in selected containment corridors, archive quarantine rooms, media-analysis suites,
 Site 03 narrative emergence monitors, and chambers holding song-based or script-based anomalies. Archive variants can
@@ -187,12 +187,12 @@ inject static into read rooms, transcription systems, or isolated document displ
 ordinary portable equipment and must be handled by Recovery or Engineering personnel trained to avoid
 over-broadcasting into civilians.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 
 
 TECHNICAL SPECIFICATION
------------------------
+═══════════════════════════════════════════════════════════════════════
 
 The boredom-frequency range and output figures have never been published. The unit is described as heavier than
 ordinary portable equipment without a mass being recorded.
@@ -235,10 +235,10 @@ Two fitted links define how this unit sits beside other systems: a CSG-to-ARM se
 logging link. Neither is optional and neither is adjustable in the field.
 
 INTERFACE AND OPERATING ENVELOPE
---------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Controls
---------
+═══════════════════════════════════════════════════════════════════════
 
 - boredom-frequency digital tuner
 - emergency silence lever
@@ -246,14 +246,14 @@ Controls
 - field tripod mount
 
 Readouts
---------
+═══════════════════════════════════════════════════════════════════════
 
 - oscillating signal disc behind reinforced glass
 - CSG-GREEN through CSG-BLACK working states
 - Medical pulse and stress monitor attachment for crew exposure
 
 Envelope And Personnel Limits
------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 - Do not activate because an incident merely feels dramatic.
 - Do not broadcast over medical alarms, evacuation orders, or subject-care instructions.
@@ -267,10 +267,10 @@ time: constant high-volume
 fan whir, plus ionized-air venting at high intensity. This unit cannot be run silently.
 
 OPERATING PROCEDURE
--------------------
+═══════════════════════════════════════════════════════════════════════
 
 Numbered Operating Sequence
----------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Deployment, Level 4 Engineering, Containment, Archive, or Civil Covert.
 
@@ -289,10 +289,10 @@ Deployment, Level 4 Engineering, Containment, Archive, or Civil Covert.
 
 Emergency: pull the emergency silence lever. On CSG-BLACK, shut down if possible and distrust
 all repeated phrases.
--------------------
+═══════════════════════════════════════════════════════════════════════
 
 Authorized Use
---------------
+═══════════════════════════════════════════════════════════════════════
 
 Level 4 Engineering, Containment, Archive, or Civil Covert personnel may deploy Causal Static in approved contexts.
 Level 5 authorization is required for site-wide broadcast, public media injection, high-intensity narrative
@@ -301,11 +301,11 @@ restoration, or 004-series amnestic administration.
 
 Standard operation begins with pattern confirmation. The operator must identify what narrative behavior is being
 interrupted: prophecy loop, hero fixation, doom sequence, song recruitment, audience formation, role assignment,
-repeating dialogue, symbolic escalation, or document scripting. Static cannot be tuned safely if the target pattern is
-unknown.
+repeating dialogue, symbolic escalation, or document scripting.
+Static cannot be tuned safely if the target pattern is unknown.
 
 Monitoring States
------------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T uses the following working labels. These are technical states, not anomaly classes:
 
@@ -316,11 +316,11 @@ CSG-RED: high-intensity suppression; restrict speech, recording, and civilian ac
 CSG-WHITE: emergency narrative starvation; Site Command and Medical attach.
 CSG-BLACK: broadcast compromised; shut down if possible and distrust all repeated phrases.
 
-CSG-BLACK includes cases where the anomaly begins using the static as drumbeat, prophecy, chant, countdown, or proof
-of persecution.
+CSG-BLACK includes cases where the anomaly begins using the static
+as drumbeat, prophecy, chant, countdown, or proof of persecution.
 
 Handling Rules
---------------
+═══════════════════════════════════════════════════════════════════════
 
 Do not activate Causal Static because an incident merely feels dramatic. Do not broadcast over medical alarms,
 evacuation orders, or subject-care instructions. Do not combine static with amnestic treatment unless Memory Review
@@ -329,11 +329,11 @@ are annoyed rather than afraid.
 Irritation can be the first sign that attention is being pulled into the static
 field.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 
 SERVICING AND CALIBRATION
--------------------------
+═══════════════════════════════════════════════════════════════════════
 
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | TRIGGER                    | ACTION                                    | AUTHORITY                                 |
@@ -358,7 +358,7 @@ become a hook if repeated too
 rigidly, and the checklist involved was rewritten with rotating fields.
 
 FAULT ISOLATION
----------------
+═══════════════════════════════════════════════════════════════════════
 
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | SYMPTOM                    | PROBABLE CAUSE                            | REQUIRED ACTION                           |
@@ -388,10 +388,10 @@ FAULT ISOLATION
 
 
 KNOWN LIMITS
-------------
+═══════════════════════════════════════════════════════════════════════
 
 What Causal Static Cannot Do
-----------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Causal Static cannot physically contain an entity, cannot erase memory, cannot hide a site, cannot preserve a record
 by itself, cannot silence all songs, cannot make an audience forget what it saw,
@@ -409,7 +409,7 @@ Causal Static is weakest against:
 - ARM fields that make a static event publicly unremarkable while internally dangerous.
 
 Misuse Risk
------------
+═══════════════════════════════════════════════════════════════════════
 
 Over-broadcasting can harm operations. It can make orders harder to follow, witnesses harder to interview, patients
 more distressed, documents harder to interpret, and public cover stories less coherent. Under-broadcasting can leave
@@ -420,13 +420,13 @@ Containment note:
 Static is not silence. Static is a crowd of small interruptions. Some things can
 hide in crowds.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 FAILURE HISTORY
----------------
+═══════════════════════════════════════════════════════════════════════
 
 CSG-2011 FIRST STARVATION TEST
-------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 The first successful generator test weakened a scripted escalation pattern inside a controlled chamber. The anomaly
 stopped aligning staff dialogue into repeated lines, but the maintenance checklist became compulsively important to
@@ -437,7 +437,7 @@ This test established that procedural banality can itself become a hook if repea
 rigidly.
 
 KUROKAWA MEDIA-SUITE SECONDARY CHANT
-------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Site 03 used Causal Static during review of an emerging media narrative connected to
 a repeating symbol. Public clips
@@ -450,7 +450,7 @@ This incident remains a training case for public static use. Boring material mus
 become memorable.
 
 FIELD TEAM HERO-FIXATION INTERRUPTION
--------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 During a recovery operation, a field team began assigning informal roles after repeated impossible
 coincidences: the
@@ -461,47 +461,47 @@ team withdrew and completed recovery with a second unit tuned to intermittent ra
 
 The event established intermittent broadcast as preferred field mode when command clarity matters.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 DIVISION USE
-------------
+═══════════════════════════════════════════════════════════════════════
 
 Engineering Division
---------------------
+═══════════════════════════════════════════════════════════════════════
 
 Engineering owns hardware maintenance, signal-disc replacement, tuner calibration,
 cooling systems, entropy cartridge handling, and field-safe modifications. Engineering
 may refuse deployment if cooling, grounding, or frequency isolation is compromised.
 
 Containment Division
---------------------
+═══════════════════════════════════════════════════════════════════════
 
 Containment defines pattern-confirmation requirements, chamber use, overlap
 restrictions, shutdown thresholds, and anomaly compatibility. Containment must verify
 that the target anomaly escalates through narrative pressure before high-intensity use.
 
 Archive and Site 03 Review
---------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Archive uses Causal Static in document quarantine, recovered media review, transcription rooms, and read-only display
 systems. Site 03 Kurokawa Archive Node uses Causal Static concepts during monitoring of anomalous symbol and narrative
 emergence. QNB logging is required when static affects records under review.
 
 Civil Covert, Intelligence, and Medical Care
---------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Civil Covert uses limited static concepts to prevent public narratives from hardening around anomalous meaning.
 Intelligence tracks hostile use, especially GOIs that might counterfeit static as proof of A.C.T manipulation. Medical
 Care monitors cognitive irritation, flattened urgency, command
 confusion, sleep disturbance, and post-broadcast recall problems.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 CROSS-REFERENCES
-----------------
+═══════════════════════════════════════════════════════════════════════
 
 Related A.C.T Records
----------------------
+═══════════════════════════════════════════════════════════════════════
 
 - ACT-MASTER-INDEX-50-SYSTEMS-AND-MATERIALS, Archive Record
 - Internal Engineering Record: 1598 – 2026, Archive Record
@@ -513,7 +513,7 @@ Related A.C.T Records
 - TECHNOLOGY RECORD TEMPLATE, Technology Record
 
 Technology Relationship
------------------------
+═══════════════════════════════════════════════════════════════════════
 
 The Causal Static Generator System interacts with, but is distinct from:
 
@@ -528,10 +528,10 @@ exposure.
 
 Each system requires its own individual technology record. This file covers only the Causal Static Generator System.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 OPEN ENGINEERING AND INTELLIGENCE QUESTIONS
--------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 - Can long-term low-level static exposure reduce staff ability to recognize real urgency?
 - Which anomalies feed on static itself rather than on narrative coherence?
@@ -547,10 +547,10 @@ pattern?
 - Can Causal Static suppress beneficial narratives, including survival rituals, evacuation trust, or stabilizing
 testimony?
 
----
+═══════════════════════════════════════════════════════════════════════
 
 FILE METADATA
--------------
+═══════════════════════════════════════════════════════════════════════
 
 FILE CREATED:            13/08/2026
 FILE LAST UPDATED:       05/11/2026

@@ -40,8 +40,8 @@ Archive Note
 Surface Cover Research Campus is the seventy-ninth main A.C.T technology expanded into an individual record. The F-6
 Surface Research and Transition Level dossier identifies the surface campus as the legitimate face of Nusantara Deep
 Relay: research laboratories, monitoring stations, administrative buildings, and port facility surface operations. The
-dossier states that the cover is built on genuine marine, volcanic, and geological science that can withstand scrutiny
-because it is real.
+dossier states that the cover is built on genuine marine, volcanic,
+and geological science that can withstand scrutiny because it is real.
 
 SCRC exists because a concealed island installation cannot survive on absence alone. It requires a visible reason to
 exist, and that reason must be strong enough to be questioned.
@@ -86,10 +86,10 @@ need to invent questions about what lies below it.
 
 PHYSICAL OR SYSTEM DESCRIPTION
 
-An SCRC installation includes visible research laboratories, administrative offices, monitoring stations, public
-communications, campus signage, professional records, staff schedules, civilian-safe traffic paths, storage spaces,
-visitor-control areas, and controlled connection points to the buried relay. The architecture must appear useful
-before it appears secure.
+An SCRC installation includes visible research laboratories, administrative offices, monitoring
+stations, public communications, campus signage, professional records, staff schedules,
+civilian-safe traffic paths, storage spaces, visitor-control areas, and controlled connection
+points to the buried relay. The architecture must appear useful before it appears secure.
 
 Known components include:
 

@@ -22,9 +22,9 @@ This file is the complete individual record of **F-4, Transformation Staging**, 
 
 F-4 is the floor where the complex asks the question that holding alone never
 answers: what is this object for? The
-floor's workshops and staging chambers are where the Transformation Division evaluates whether contained objects can
-be stabilized, neutralized, repurposed, or integrated — and where objects approved for transformation study pass under
-ascending authorization.
+floor's workshops and staging chambers are where the Transformation Division evaluates
+whether contained objects can be stabilized, neutralized, repurposed, or integrated —
+and where objects approved for transformation study pass under ascending authorization.
 
 This dossier records the floor in full institutional language: what it is, what it
 does, how it is built, how it is
@@ -95,9 +95,9 @@ controlled doctrine rather than merely preserving it.
 
 ### 4.2 Establishment of the Staging Floor
 
-As the Transformation Division's mandate grew, the complex dedicated F-4 to transformation work: staging chambers,
-evaluation workshops, and the authorization architecture that governs what may be transformed and under what
-conditions.
+As the Transformation Division's mandate grew, the complex dedicated F-4 to
+transformation work: staging chambers, evaluation workshops, and the authorization
+architecture that governs what may be transformed and under what conditions.
 
 ### 4.3 Modern Configuration
 
@@ -115,10 +115,10 @@ The Chief administers the floor's evaluation and staging operations under the di
 
 ### 5.2 Ascending Authorization
 
-Transformation work on F-4 proceeds under **ascending authorization**: the more consequential the proposed
-transformation — the more irreversible, the more experimental, the more dangerous — the higher the authority required
-to approve it. The floor's architecture of evaluation chambers, staging locks, and approval gates gives that principle
-physical form.
+Transformation work on F-4 proceeds under **ascending authorization**: the more consequential
+the proposed transformation — the more irreversible, the more experimental, the more
+dangerous — the higher the authority required to approve it. The floor's architecture of
+evaluation chambers, staging locks, and approval gates gives that principle physical form.
 
 ### 5.3 Authority Limits
 
@@ -148,8 +148,8 @@ controlled conditions under which objects are evaluated and prepared.
 
 ### 6.4 Security Division
 
-Security guards the floor's access architecture and the staging locks that separate evaluation chambers from the
-floor's operational spaces.
+Security guards the floor's access architecture and the staging locks
+that separate evaluation chambers from the floor's operational spaces.
 
 ### 6.5 Archive Division Liaison
 
@@ -205,9 +205,9 @@ the staging areas maintain atmospheric separation from the floor's operational s
 
 ### 8.3 Monitoring
 
-Monitoring on F-4 is continuous across the evaluation and staging areas, with observation feeds routed to the floor
-command post and the Transformation Division's oversight. Monitoring records are preserved as part of the floor's
-transformation documentation.
+Monitoring on F-4 is continuous across the evaluation and staging areas, with observation
+feeds routed to the floor command post and the Transformation Division's oversight.
+Monitoring records are preserved as part of the floor's transformation documentation.
 
 ### 8.4 Communication
 
@@ -226,9 +226,9 @@ structure: personnel are cleared for the specific chambers and operations their 
 
 ### 9.2 Staging Locks
 
-The floor's staging chambers are separated from the evaluation areas by **staging locks** — controlled transition
-spaces that prevent any object from passing between evaluation and preparation states without documented, authorized
-handling.
+The floor's staging chambers are separated from the evaluation areas by **staging
+locks** — controlled transition spaces that prevent any object from passing
+between evaluation and preparation states without documented, authorized handling.
 
 ### 9.3 Transfer Security
 
@@ -263,8 +263,8 @@ Objects on F-4 are present under one of the floor's operational states:
 
 ### 10.3 Holding Note
 
-No signature resident is held on F-4. High-inviolability material from F-1 is not subject to transformation evaluation
-under the complex's doctrine.
+No signature resident is held on F-4. High-inviolability material from F-1
+is not subject to transformation evaluation under the complex's doctrine.
 
 ---
 
@@ -284,9 +284,9 @@ study.
 
 ### 11.3 Authorization Culture
 
-The floor's personnel work under the division's ascending-authorization culture: every assessment is documented, every
-approval is recorded, and every transformation outcome is reviewed. The floor treats authorization as a containment
-parameter.
+The floor's personnel work under the division's ascending-authorization culture:
+every assessment is documented, every approval is recorded, and every transformation
+outcome is reviewed. The floor treats authorization as a containment parameter.
 
 ---
 
@@ -299,15 +299,15 @@ responsibility extends beyond keeping objects to deciding what they may become.
 
 ### 12.2 Ascending-Authorization Doctrine
 
-F-4 doctrine holds that the weight of a transformation decision must match the authority that approves it. The floor's
-architecture and culture give that principle force: nothing consequential happens without the documented authority it
-requires.
+F-4 doctrine holds that the weight of a transformation decision must match the
+authority that approves it. The floor's architecture and culture give that principle
+force: nothing consequential happens without the documented authority it requires.
 
 ### 12.3 Limits Doctrine
 
-F-4 doctrine acknowledges the floor's limits: not everything may be transformed, and the floor's duty includes
-recognizing material that must remain unchanged — including the high-inviolability residents whose containment is the
-complex's deepest commitment.
+F-4 doctrine acknowledges the floor's limits: not everything may be transformed, and
+the floor's duty includes recognizing material that must remain unchanged — including
+the high-inviolability residents whose containment is the complex's deepest commitment.
 
 ---
 

@@ -16,9 +16,9 @@
 
 ## Archive Note
 
-This file is the complete individual dossier for **ACT-SUB-04-BR-C**, the **Hollow Canopy Enclosure**, a recognized
-SUB-SITE installation of the A.C.T Facility network operating under the command authority of **ACT-SITE-04-BR-C, Verde
-Null Bio-Reserve**.
+This file is the complete individual dossier for **ACT-SUB-04-BR-C**, the **Hollow
+Canopy Enclosure**, a recognized SUB-SITE installation of the A.C.T Facility network
+operating under the command authority of **ACT-SITE-04-BR-C, Verde Null Bio-Reserve**.
 
 Hollow Canopy is not a building-dominant installation. It is a concealed perimeter: a network of fixed-enclosure
 sectors within the Bio-Reserve where non-movable flora anomalies are observed, managed, and contained in place. It
@@ -75,8 +75,8 @@ is concealed by the reserve's overall cover — protected wilderness sectors tha
 
 The enclosure exists as a sub-site because it is a specialized extension of the
 reserve rather than an independent
-installation. It has no campus, no independent command, and no mandate beyond the in-place management of its flora
-residents.
+installation. It has no campus, no independent command, and no
+mandate beyond the in-place management of its flora residents.
 
 ---
 
@@ -91,16 +91,16 @@ containment failure.
 
 ### 4.2 Development of Native Containment Fields
 
-The reserve responded by developing native containment fields: perimeter- defined sectors where flora anomalies were
-managed in the environment they required. The earliest fields were simple; over time they grew into a coordinated
-enclosure network.
+The reserve responded by developing native containment fields: perimeter- defined
+sectors where flora anomalies were managed in the environment they required. The
+earliest fields were simple; over time they grew into a coordinated enclosure network.
 
 ### 4.3 Recognition as a Sub-Site
 
 The enclosure network was recognized as a formal sub-site after its distinct role became
 clear: a dedicated body
-managing the reserve's fixed flora holdings under in-place doctrine, with transport denial built into its containment
-design.
+managing the reserve's fixed flora holdings under in-place
+doctrine, with transport denial built into its containment design.
 
 ### 4.4 Modern Role
 
@@ -161,9 +161,9 @@ The enclosure is not a building-dominant installation. Its "plant" is the sector
 
 ### 7.1 Concealed Perimeter Sectors
 
-Each sector is a perimeter-defined area containing one or more flora residents. Perimeters are concealed — monitoring
-infrastructure is disguised as natural terrain, and the boundary between anomalous flora and ordinary forest is
-deliberately invisible.
+Each sector is a perimeter-defined area containing one or more flora residents.
+Perimeters are concealed — monitoring infrastructure is disguised as natural terrain,
+and the boundary between anomalous flora and ordinary forest is deliberately invisible.
 
 ### 7.2 Field Stations
 

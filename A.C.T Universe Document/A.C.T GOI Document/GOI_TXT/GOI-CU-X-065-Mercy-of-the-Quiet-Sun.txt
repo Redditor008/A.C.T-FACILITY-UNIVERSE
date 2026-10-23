@@ -1,7 +1,7 @@
 A.C.T FACILITY ARCHIVE FILE — GOI CU X 065 Mercy of the Quiet Sun
 ===========================
 GROUP OF INTEREST REGISTRY - MERCY OF THE QUIET SUN
----------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                                                         |
@@ -94,13 +94,13 @@ Sedation formulae, child shelter cases, active quieting liturgies, and reference
 under QUIET-SUN DISCLOSURE LIMIT. Several redactions prevent imitation of mass-sedation rites. Other redactions
 protect survivors who were nearly convinced to accept disappearance as mercy.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 IDENTITY AND INSTITUTIONAL FUNCTION
------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Group Function
---------------
+═══════════════════════════════════════════════════════════════════════
 
 Mercy of the Quiet Sun functions as an apocalypse-worshiper and surrender-care network. Its repeated activity is the
 identification of disasters it interprets as unavoidable, followed by attempts to reduce panic through sedation, soft
@@ -125,7 +125,7 @@ THE SUN WILL BE QUIET. LET YOUR FEAR BE QUIET FIRST.
 A.C.T classifies the line as non-hazardous by itself. Full liturgical sequences remain restricted.
 
 Public Presence and Concealment
--------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 The sect hides inside care work: hospice volunteering, grief counseling, disaster shelters, closed clinics,
 retreat
@@ -139,13 +139,13 @@ reading NO SHADOW PAST THIS POINT, and cards stamped REST IS NOT FAILURE. A.C.T
 Medical Division notes that some of
 these objects are ordinary. Others may be ritual anchors used to normalize surrender.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-----------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Leadership Condition
---------------------
+═══════════════════════════════════════════════════════════════════════
 
 Known leadership is decentralized. Local cells answer to Mercy Readers, Noon Nurses, Quiet Cantors, and Sleep Wardens.
 Mercy Readers interpret whether an event is survivable or should be quieted. Noon Nurses administer comfort practices
@@ -159,7 +159,7 @@ Materials bearing the Warm
 Witness mark show stronger recruitment effect and are held at Level 5.
 
 Internal Structure
-------------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T assessment identifies these functional layers:
 
@@ -179,7 +179,7 @@ has roles, procedure, doctrine,
 logistics, and specialized practice.
 
 Membership and Recruitment
---------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Membership includes grieving relatives, failed-rescue survivors, hospice volunteers, palliative nurses, disaster
 workers, frightened witnesses, former cult members from other end groups, persons traumatized by repeated evacuation
@@ -194,13 +194,13 @@ the sun does not shout.
 The sect recruits through exhaustion. It offers rest to people tired of alarms, debriefings, treatment, relocation,
 and impossible hope. This makes Subject Care involvement essential during response.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
--------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Stated Belief
--------------
+═══════════════════════════════════════════════════════════════════════
 
 Mercy of the Quiet Sun believes that some endings are fixed and that resisting
 them multiplies pain. The sect teaches
@@ -218,7 +218,7 @@ Only noon, only warmth, only the fear falling asleep.
 A.C.T treats this doctrine as high-risk because it can override survival instinct in vulnerable groups.
 
 Assessed Objective
-------------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T assesses that Mercy of the Quiet Sun seeks to create prepared communities willing
 to accept local or global
@@ -232,7 +232,7 @@ Restoration Concern, and other groups that prioritize survival. Mercy of the Qui
 cruel because they keep people awake through terror.
 
 Anomalous Capability Assessment
--------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Mercy of the Quiet Sun is assigned Practitioner capability because several rites and materials produce repeatable
 effects beyond ordinary counseling, sedation, or religious
@@ -251,7 +251,7 @@ The sect is not assessed as Engineering. It uses rites, substances, rooms, light
 rather than complex manufactured devices.
 
 Secrecy and Civilian Exposure
------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Mercy of the Quiet Sun is Exposure-Active because its rites occur in shelters, clinics,
 vigils, and disaster zones
@@ -264,13 +264,13 @@ will only prolong suffering. This can collapse evacuation compliance without a s
 Exposure risk increases when the sect publicly contradicts A.C.T or civil rescue instructions. A quiet crowd refusing
 evacuation can be more dangerous than a panicked crowd if the hazard is advancing.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
---------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Operational Regions
--------------------
+═══════════════════════════════════════════════════════════════════════
 
 Mercy of the Quiet Sun operates transnationally through clinic-chapels, hospice rooms, care homes, disaster shelters,
 post-breach neighborhoods, retreat houses, closed summer camps, mobile tea kitchens, and private homes after failed
@@ -282,7 +282,7 @@ The group often follows other disasters rather than causing them. A.C.T must not
 proof of original responsibility.
 
 Known Assets and Holdings
--------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Known or assessed assets include:
 
@@ -303,7 +303,7 @@ A.C.T has recovered inert cloth, incomplete ledgers, and one sedative sample. Me
 identified all active compounds.
 
 Operating Method
-----------------
+═══════════════════════════════════════════════════════════════════════
 
 A typical Mercy intervention begins when the sect identifies a population that is frightened, exhausted, injured,
 grieving, or convinced rescue has failed. Members enter as volunteers, nurses, chaplains, relatives, or quiet shelter
@@ -320,13 +320,13 @@ If anyone says run, ask who they left behind last time.
 
 These instructions attack trust in rescue and are treated as active counter-response material.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 HISTORY WITH A.C.T
-------------------
+═══════════════════════════════════════════════════════════════════════
 
 Contact History
----------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T first encountered Mercy of the Quiet Sun as unexplained evacuation refusal during covered disasters. Groups of
 civilians remained seated while hazards advanced. Survivors described warm rooms, quiet songs, and a feeling that
@@ -347,24 +347,24 @@ Thirty-nine civilians were evacuated after intervention. Five required medical t
 exposure. Two remain under memory-aftercare review.
 
 Current Relationship
---------------------
+═══════════════════════════════════════════════════════════════════════
 
 The current relationship is NEGATIVE. Mercy of the Quiet Sun obstructs survival, rescue, containment, and aftercare
 when it decides an ending should be accepted. It is not classified Negative because
 its members are loud, cruel, or
 openly destructive. It is Negative because its mercy doctrine makes victims easier to lose.
 
-A.C.T must separate victims from active sect personnel. Many recruits are traumatized and may need care, not
-punishment. Mercy Readers, Noon Nurses, and Sleep Wardens conducting active quieting rites are GOI operators and must
-be treated accordingly.
+A.C.T must separate victims from active sect personnel. Many recruits are traumatized
+and may need care, not punishment. Mercy Readers, Noon Nurses, and Sleep Wardens
+conducting active quieting rites are GOI operators and must be treated accordingly.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
----------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Responsible Jurisdiction
-------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Primary jurisdiction rests with Intelligence Division, Medical Division, Subject Care Division, and Civil Covert
 Division. Recovery Division attaches when evacuation is active. Site 03 reviews persuasion, memory-softening,
@@ -372,7 +372,7 @@ emotional compliance, and hymn effects. Site 05 reviews coastal, maritime, volca
 the sect interprets disaster as ending. Central Command attaches for mass-sedation or child-shelter cases.
 
 Posture Implementation
-----------------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T posture is INFILTRATE / MISDIRECT / CONTAIN / DISMANTLE. Infiltration is authorized to identify Mercy Readers,
 sedative routes, clinic-chapels, retreat houses, and planned quieting events. Misdirection is authorized to separate
@@ -381,11 +381,11 @@ sedatives, surrender cards, hymn recordings, noon-room curtains, or clinic space
 measurable compliance effects. Dismantling is authorized for cells that administer
 substances, obstruct evacuation, hide children, or interfere with medical rescue.
 
-Subject Care must be attached after operations because aggressive disruption can intensify the despair that recruited
-victims in the first place.
+Subject Care must be attached after operations because aggressive disruption
+can intensify the despair that recruited victims in the first place.
 
 Response Limits and Red Lines
------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T will not permit Mercy of the Quiet Sun to administer unapproved sedatives, restrain survivors under comfort
 cover, block evacuation, conceal minors, falsify discharge papers, or encourage passive death during active hazards.
@@ -394,13 +394,13 @@ A.C.T will not allow the sect to override medical consent through spiritual lang
 A.C.T will also not treat all quieted civilians as willing cultists. Sedation, shock, grief, and persuasion can make
 consent unreliable. Medical screening and witness support are mandatory after recovery.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 OPERATIONAL RECORDS
--------------------
+═══════════════════════════════════════════════════════════════════════
 
 Restricted Operational Extract
-------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 SURRENDER CARD: MQS / QUIET NOON SHELTER
 LOCATION: [CENSOR: TEMPORARY EVACUATION SHELTER]
@@ -435,13 +435,13 @@ Failure note: one witness woke screaming.
 The ledger fragment is retained because it confirms operational self-assessment, child-handling distinction, and
 resentment toward rescue recovery.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
--------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Confirmed Operational Facts
----------------------------
+═══════════════════════════════════════════════════════════════════════
 
 - Mercy of the Quiet Sun is an outside cultic apocalypse-mercy sect and not
 an A.C.T body.
@@ -454,7 +454,7 @@ containment requires
 survival action.
 
 Active Intelligence Assessment
-------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T assesses Mercy of the Quiet Sun as a specialized NEGATIVE apocalypse-worshiper GOI. Its danger is emotional,
 medical, and doctrinal. It does not need weapons to defeat a rescue plan if
@@ -463,12 +463,12 @@ another form of suffering. It is most effective after official systems have alre
 
 The sect should remain distinct from Last Bell Congregation and Children of the Deep.
 Last Bell warns so people can
-survive. Children of the Deep seeks awakening of an external apocalyptic entity. Mercy of the Quiet Sun seeks quiet
-surrender when it believes survival is cruel or impossible. These are separate apocalypse relationships and must not
-be merged.
+survive. Children of the Deep seeks awakening of an external apocalyptic entity.
+Mercy of the Quiet Sun seeks quiet surrender when it believes survival is cruel or
+impossible. These are separate apocalypse relationships and must not be merged.
 
 Persistent Questions
---------------------
+═══════════════════════════════════════════════════════════════════════
 
 - Who or what is the Warm Witness?
 - Are quieting effects produced primarily by substances, hymn cadence, room light, grief state,
@@ -483,20 +483,20 @@ it?
 - Can safer palliative care and truthful aftercare reduce recruitment without validating surrender doctrine?
 
 Intelligence Confidence
------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Moderate. Recovered cards, sedative evidence, shelter incidents, repeated terminology, and operator roles confirm
 organizational reality. Confidence is limited by disguised care channels, traumatized witness reliability, incomplete
 chemical analysis, and uncertainty around the Warm Witness. Confidence may rise if A.C.T secures a full mercy ledger,
 identifies an active Mercy Reader cell, or conducts controlled analysis of quieting rites without civilian exposure.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 CROSS-REFERENCE STATUS
-----------------------
+═══════════════════════════════════════════════════════════════════════
 
 Anomaly and Record Relationship
--------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Mercy of the Quiet Sun is an organization and therefore belongs in the GOI
 archive. Individual sedatives, hymn
@@ -505,7 +505,7 @@ separate anomaly, medical, incident, witness, or recovered-document files. The o
 survivor medical review or criminal responsibility assessment for active operators.
 
 Related A.C.T Records
----------------------
+═══════════════════════════════════════════════════════════════════════
 
 - CONTROLLED RECORD FORM, Group of Interest Registry
 - GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE, Group of Interest Registry
@@ -520,7 +520,7 @@ Forms/ACT_Amnestic_Administration_and_Memory_Aftercare_Review_Form.md
 under Central Archive routing.
 
 Dual Filing
------------
+═══════════════════════════════════════════════════════════════════════
 
 Under review. Mercy of the Quiet Sun is a cultic GOI, but specific quieting
 substances, hymn recordings, room
@@ -528,10 +528,10 @@ conditions, surrender cards, or ledgers may require separate filing. Dual filing
 produces compliance without live operators, alters memory, suppresses evacuation response, changes sleep state, or
 remains active after removal from the clinic-chapel environment.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 FILE METADATA
--------------
+═══════════════════════════════════════════════════════════════════════
 
 FILE CREATED:            12/04/2000
 FILE LAST UPDATED:       06/02/2007

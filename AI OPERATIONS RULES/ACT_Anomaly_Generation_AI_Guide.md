@@ -157,11 +157,10 @@ Every new anomaly should identify its registry band before the file is drafted.
 
 Use these bands:
 
-  **ENTITY Historical Band** — closed pre-standard historical records only; do not create new ordinary
-  ENTITY files.
-— **000 Foundational Reserve** — origin-level or foundation-level subjects only; do not use casually. **LEGACY
-ACCEPTED 001–120** — legacy-era anomalies, early accepted anomalies, and records where UFD/AFD coexistence
-  preserves intake history.
+  **ENTITY Historical Band** — closed pre-standard historical records only; do not create new ordinary ENTITY files.
+— **000 Foundational Reserve** — origin-level or foundation-level subjects only; do
+not use casually. **LEGACY ACCEPTED 001–120** — legacy-era anomalies, early
+accepted anomalies, and records where UFD/AFD coexistence preserves intake history.
 — **Modern Registry 121–999** — ordinary modern UFD/AFD anomalies.
 — **ANM Fracture-State 0001–9999** — fracture-state records where normal archive logic is insufficient.
   **Reserved / Obscured** — use when the number is intentionally hidden, unsettled, or
@@ -292,12 +291,11 @@ Use these examples as guidance:
   **6** — a regional-scale anomaly affecting multiple settlements,
   a province-sized environment, or broad infrastructure
   systems
-  **7** — a national-scale anomaly capable of breaking one country’s continuity, government, or population
-  stability
+  **7** — a national-scale anomaly capable of breaking one country’s continuity, government, or population stability
   **8** — a continental anomaly whose influence or destructive spread naturally exceeds national borders
 — **9** — a global anomaly threatening the entire world directly
-  **10** — an existential anomaly threatening reality, existence, continuity, or the framework that allows
-  the world to
+  **10** — an existential anomaly threatening reality, existence,
+  continuity, or the framework that allows the world to
   remain itself
 
 ---
@@ -319,14 +317,12 @@ the anomaly is simultaneously contained and not contained, with observation affe
 Use when the anomaly’s threat behaves strangely:
 
 - **HARMLESS** — the anomaly produces little or no direct damage despite classification concern
-  **BENEFICIAL** — the anomaly improves, heals, repairs, or positively alters conditions instead of harming
-  them
+  **BENEFICIAL** — the anomaly improves, heals, repairs, or positively alters conditions instead of harming them
 — **REVERTED** — the anomaly’s damage reverses, undoes itself, or self-corrects after manifestation
   **ABSENT** — the danger exists in record or theory, but is not meaningfully
   present
   in observable operation
-  **NULLIFIED** — the anomaly’s harmful process has stopped on its own without requiring complete
-  destruction
+  **NULLIFIED** — the anomaly’s harmful process has stopped on its own without requiring complete destruction
 
 If fracture logic is not needed, use:
 - **NONE**
@@ -372,8 +368,8 @@ Use one of these:
 - **ACTIVE-UNCONTAINED** — active and not under reliable A.C.T control.
 - **UNDER REVIEW** — classification, containment, transformation, or record integrity is being formally reviewed.
 - **TRANSFORMATION-CANDIDATE** — being considered for controlled change or use.
-  **INTEGRATED** — the anomaly or derivative is part of A.C.T infrastructure, procedure, medicine, equipment,
-  or archive
+  **INTEGRATED** — the anomaly or derivative is part of A.C.T
+  infrastructure, procedure, medicine, equipment, or archive
   function.
   **RETIRED** — no longer an active operational problem, but retained as a controlled
   record.
@@ -407,8 +403,7 @@ Possible site type values include:
 - In-Place
 
 Current major recognized site network includes:
-  **Primary Facility** — the original abyss-founded central body of A.C.T; jurisdiction type: central command,
-  abyssal
+  **Primary Facility** — the original abyss-founded central body of A.C.T; jurisdiction type: central command, abyssal
   containment, doctrinal authority
   **ACT-SITE-01-US-W** — Redwood Veil Complex; jurisdiction
   type: urban, artifact, western continental, high-population
@@ -465,8 +460,7 @@ Use the smallest useful set from these families:
 - **SPAT** — nonlocal space, thresholds, transit, impossible interiors, distance errors.
 - **STR** — reality fracture, classification failure, observation instability, archive drift.
 - **COS** — abyssal, divine, world-scale, foundational, origin-level, cosmic.
-  **SOC / OPR** — recruitment, market exposure, cover risk, GOI interference, handler risk, asset
-  dependency.
+  **SOC / OPR** — recruitment, market exposure, cover risk, GOI interference, handler risk, asset dependency.
 
 Example tag line:
 
@@ -537,8 +531,8 @@ to struggle to understand and manage.
 ---
 
 ## 14. Continuity and Generation Rules
-When generating multiple anomalies for A.C.T, the AI must preserve setting consistency across time, geography, and
-personnel.
+When generating multiple anomalies for A.C.T, the AI must preserve
+setting consistency across time, geography, and personnel.
 
 ### 14.1 Date Logic
 - dates on the document must make sense internally
@@ -571,8 +565,7 @@ personnel.
   if a staff name appears in more than one anomaly file, there must
   be
   a reason
-  repeated names should imply connection, such as the same researcher, same archive reviewer, same
-  recovery operator,
+  repeated names should imply connection, such as the same researcher, same archive reviewer, same recovery operator,
   same medical specialist, or the same command authority
 — do not reuse names randomly across unrelated files
 
@@ -582,8 +575,7 @@ personnel.
   unless
   the generation request
   specifically requires it
-  A.C.T is global, so anomaly origins, recovery zones, and containment routes should reflect multiple
-  countries and
+  A.C.T is global, so anomaly origins, recovery zones, and containment routes should reflect multiple countries and
   multiple regions
   if a location repeats, there should be a meaningful narrative, doctrinal, or operational reason
 

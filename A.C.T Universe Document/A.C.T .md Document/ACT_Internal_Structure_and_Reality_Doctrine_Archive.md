@@ -27,9 +27,9 @@
 | AUTHORITY | Central Archive and Command Review |
 
 ### Archive Note
-This file is the complete internal archive version of the Facility's structure, classification logic, and reality
-doctrine. It is intended to preserve not only summary understanding, but full explanatory reference for authorized
-personnel.
+This file is the complete internal archive version of the Facility's structure,
+classification logic, and reality doctrine. It is intended to preserve not only
+summary understanding, but full explanatory reference for authorized personnel.
 
 ---
 
@@ -116,9 +116,9 @@ hostile anomaly suppression, and blacksite intervention. They operate where rese
 authority is tactical and immediate, particularly in live crisis zones.
 
 ### Field Operator
-A **Field Operator** serves on the ground in direct contact with anomalous incidents, recoveries, witness suppression,
-perimeter establishment, and site support. They are often the first true agents of A.C.T to encounter newly emerged
-anomalies.
+A **Field Operator** serves on the ground in direct contact with anomalous incidents,
+recoveries, witness suppression, perimeter establishment, and site support. They are
+often the first true agents of A.C.T to encounter newly emerged anomalies.
 
 ### Junior Researcher
 A **Junior Researcher** supports laboratory and archive operations under supervision. Their access is limited, but
@@ -196,8 +196,8 @@ The **East Wings** represent information control, bureaucratic stability, and op
 ### South Wings
 The **South Wings** hold the highest administrative and covert strategic functions of the Facility.
 
-  **O5 Headquarters**: The secure operational seat for the Overseer Five Council’s presence, communications, and
-  restricted directives.
+  **O5 Headquarters**: The secure operational seat for the Overseer
+  Five Council’s presence, communications, and restricted directives.
 — **Company Development**: The arm responsible for institutional growth, shell-company networks, black-budget
   operations, acquisition planning, and the logistical evolution of A.C.T’s influence.
   **Civil Covert Division**: Handles public-facing manipulation
@@ -260,8 +260,8 @@ Assigned to **Janitors** and **Recruiters**. These individuals are acknowledged 
 only the most minimal controlled awareness.
 
 ### Level 1
-Assigned to **Junior Employees**. They possess limited institutional knowledge and access only to low-risk support
-areas.
+Assigned to **Junior Employees**. They possess limited
+institutional knowledge and access only to low-risk support areas.
 
 ### Level 2
 Assigned to **Guards**, **Archivers**, and **Junior Archivers**. These personnel require controlled access to security
@@ -281,9 +281,9 @@ Assigned to the **Facility Administrator** and **High Threat Administrators**. T
 authority, full administrative oversight, and access to highly restricted truth sets.
 
 ### O5 Access Card
-Reserved exclusively for **O5 Council members**. This clearance does not simply exceed Level 5; it bypasses ordinary
-compartmentalization entirely. O5 access permits entry into truths that may be hidden even from Administrators and
-Site Directors.
+Reserved exclusively for **O5 Council members**. This clearance does not simply
+exceed Level 5; it bypasses ordinary compartmentalization entirely. O5 access permits
+entry into truths that may be hidden even from Administrators and Site Directors.
 
 ## 4. Anomaly Designation System
 A.C.T uses a structured designation system to identify the fundamental nature of an anomaly before full study is
@@ -316,12 +316,12 @@ A.C.T anomaly files may be structured in layered format, such as:
 
 **AFD-OB-042** **Containment Class:** REACTIVE **Threat Level:** 4 **Transformation Viability:** CONTAINED-STUDY
 
-This allows personnel to identify the anomaly’s type, danger, containment behavior, and conversion potential at a
-glance.
+This allows personnel to identify the anomaly’s type, danger,
+containment behavior, and conversion potential at a glance.
 
 ## 5. Containment Class
-A.C.T’s containment classes do not merely describe danger—they describe **the relationship between the anomaly and the
-act of containment itself**.
+A.C.T’s containment classes do not merely describe danger—they describe
+**the relationship between the anomaly and the act of containment itself**.
 
 ### **INERT**
 *Will not leave the box, even if it can.* These anomalies remain stable and
@@ -329,8 +329,8 @@ passive under confinement, posing little
 active resistance.
 
 ### **RESIDUAL**
-*Scratches the walls, nothing more.* The anomaly exerts minor interference but rarely escalates beyond manageable
-disruption.
+*Scratches the walls, nothing more.* The anomaly exerts minor
+interference but rarely escalates beyond manageable disruption.
 
 ### **SPORADIC**
 *Rarely breaks out, nothing unpredictable.* Containment failure is uncommon and follows recognizable patterns.
@@ -345,8 +345,8 @@ unexplained, even if recontainment patterns have been observed.
 degrades systems, order, or structural consistency simply by existing.
 
 ### **REACTIVE**
-*Containment fails the moment you look away.* These anomalies require active monitoring and rapid procedural
-enforcement.
+*Containment fails the moment you look away.* These anomalies
+require active monitoring and rapid procedural enforcement.
 
 ### **EXIGENT**
 *Containment is a full-time 24/7 operation.* The anomaly demands
@@ -403,19 +403,19 @@ Transformation is what distinguishes A.C.T from organizations that only imprison
 anomalies, once understood, may be altered in status.
 
 ### **INVIOLABLE**
-*Transformation is not an option.* The anomaly cannot be altered, influenced, or repurposed without catastrophic
-consequence.
+*Transformation is not an option.* The anomaly cannot be altered,
+influenced, or repurposed without catastrophic consequence.
 
 ### **NEUTRAL**
-*Transformation is inadvisable.* The anomaly is stable enough in containment, and the risk of experimentation
-outweighs the benefit.
+*Transformation is inadvisable.* The anomaly is stable enough in
+containment, and the risk of experimentation outweighs the benefit.
 
 ### **CONTAINED-STUDY**
 *Not ready for transformation.* Research is active, but no operational transformation is authorized yet.
 
 ### **STABILIZED**
-*The anomaly has crossed the first threshold.* Its behavior is predictable enough for controlled use beyond strict
-isolation.
+*The anomaly has crossed the first threshold.* Its behavior is
+predictable enough for controlled use beyond strict isolation.
 
 ### **NEUTRALIZED**
 *Its harmful effect has been suppressed or nullified.* The anomaly no longer poses its
@@ -441,11 +441,10 @@ MAINTAIN**
 
 Each step reflects the Facility’s worldview.
 
-  **DETECT**: Locate the anomaly, trace its effects, and identify emergent signs of law-breaking behavior.
-  **VERIFY**: Confirm anomalous status and distinguish true anomaly from hoax, malfunction, folklore, or hostile
-  misinformation.
-  **CONCEAL**: Suppress public exposure, remove evidence, isolate witnesses, and stabilize the narrative before panic
-  can spread.
+  **DETECT**: Locate the anomaly, trace its effects, and identify emergent signs of law-breaking behavior. **VERIFY**:
+  Confirm anomalous status and distinguish true anomaly from hoax, malfunction, folklore, or hostile misinformation.
+  **CONCEAL**: Suppress public exposure, remove evidence, isolate
+  witnesses, and stabilize the narrative before panic can spread.
 — **CONTAIN**: Apply immediate control, restriction, transport, or isolation measures.
 — **ASSESS**: Determine type, threat level, containment class, spread pattern, and interaction risk. —
 **RESEARCH**: Study origin, behavior, cosmological significance, and transformation potential. **TRANSFORM**:
@@ -490,9 +489,9 @@ stress, hesitation, and fracture points where impossible things may enter, emerg
 **Structural Reality** is the balanced phase of existence in which the world remains coherent, habitable, and
 intelligible. A.C.T doctrine describes it as existing on a scale between two catastrophic extremes:
 
-**Void Collapse** — where reality loses coherence and falls into nullity, meaninglessness, or total dissolution.
-**Reality Reset** — where existence is forcibly overwritten, restarted, or reformatted, erasing continuity as it was
-known.
+**Void Collapse** — where reality loses coherence and falls into nullity,
+meaninglessness, or total dissolution. **Reality Reset** — where existence is
+forcibly overwritten, restarted, or reformatted, erasing continuity as it was known.
 
 Human civilization survives only while Structural Reality remains balanced between those two outcomes.
 

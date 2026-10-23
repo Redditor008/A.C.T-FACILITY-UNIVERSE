@@ -97,8 +97,8 @@ The level's defining principle — that nothing anomalous is handled on the surf
 without immediate transfer
 below — was established early in the node's history, after the facility recognized that
 the boundary between its
-public archive and its operational archive must be absolute. The principle protects the cover: the public floor must
-be genuinely clean.
+public archive and its operational archive must be absolute. The
+principle protects the cover: the public floor must be genuinely clean.
 
 ### 4.3 Modern Configuration
 
@@ -142,9 +142,9 @@ conservation, digitization, and the ordinary archival work that the foundation p
 
 ### 6.3 Security Division (Boundary)
 
-Security operates the level's boundary functions: the control architecture through which personnel and material pass
-between the public archive and the operational archive below, and the monitoring that ensures nothing anomalous
-remains on the public floor.
+Security operates the level's boundary functions: the control architecture through which
+personnel and material pass between the public archive and the operational archive
+below, and the monitoring that ensures nothing anomalous remains on the public floor.
 
 ### 6.4 Administrative Liaison
 
@@ -189,8 +189,8 @@ designed to be indistinguishable from ordinary foundation infrastructure.
 
 ### 8.1 Power
 
-F-8 draws on the foundation's legitimate power infrastructure, with the operational archive's systems protected by the
-node's backup architecture.
+F-8 draws on the foundation's legitimate power infrastructure, with the
+operational archive's systems protected by the node's backup architecture.
 
 ### 8.2 Environment
 
@@ -199,9 +199,9 @@ spaces held to professional archive standards.
 
 ### 8.3 Monitoring
 
-Monitoring on F-8 is boundary-oriented: public traffic, material movement, and the transition points are monitored
-under the Security Division's doctrine, with the monitoring architecture concealed as part of the foundation's
-ordinary systems.
+Monitoring on F-8 is boundary-oriented: public traffic, material movement, and the
+transition points are monitored under the Security Division's doctrine, with the
+monitoring architecture concealed as part of the foundation's ordinary systems.
 
 ### 8.4 Communication
 
@@ -252,9 +252,9 @@ ordinary world and the buried archive.
 
 ### 10.3 Holding Character
 
-F-8 holds no anomalous material. Its holdings are the legitimate foundation's ordinary collections, and its population
-is the public institution's users and staff. Nothing anomalous remains on this level beyond the time required for
-immediate transfer below.
+F-8 holds no anomalous material. Its holdings are the legitimate foundation's ordinary
+collections, and its population is the public institution's users and staff. Nothing
+anomalous remains on this level beyond the time required for immediate transfer below.
 
 ---
 
@@ -297,9 +297,9 @@ immediate transfer below, and the separation between the foundation and the oper
 
 ### 12.3 Transition Doctrine
 
-F-8 doctrine holds that the passage between worlds must be controlled: the level's transition architecture governs the
-movement of cleared personnel and confirmed material between the public archive and the buried archive, documented at
-every step.
+F-8 doctrine holds that the passage between worlds must be controlled: the level's
+transition architecture governs the movement of cleared personnel and confirmed
+material between the public archive and the buried archive, documented at every step.
 
 ---
 

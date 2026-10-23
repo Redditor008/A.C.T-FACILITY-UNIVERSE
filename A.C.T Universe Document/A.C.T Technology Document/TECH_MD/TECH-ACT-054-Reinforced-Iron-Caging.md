@@ -105,8 +105,8 @@ Known components include:
 - emergency drop shutter;
 - repair plate ledger mark.
 
-No RIC structure is treated as resident-ready without modern review. Iron can preserve old force while hiding old
-fatigue.
+No RIC structure is treated as resident-ready without modern
+review. Iron can preserve old force while hiding old fatigue.
 
 ---
 
@@ -188,9 +188,9 @@ reading of the 1874 bar memory event.
 
 No new anomaly may be assigned to RIC as a primary containment structure without
 Level 4 review and a written
-explanation of why modern Massive Box or Enclosure Box construction is unavailable. Surviving cages must be inspected
-for corrosion, hinge wear, floor-pin integrity, deformation, and residue before staff enter or lean equipment against
-them.
+explanation of why modern Massive Box or Enclosure Box construction is unavailable.
+Surviving cages must be inspected for corrosion, hinge wear, floor-pin integrity,
+deformation, and residue before staff enter or lean equipment against them.
 
 If a legacy cage remains inside an active chamber, Containment treats it as a
 structure with memory. It may influence
@@ -247,9 +247,9 @@ the last category because containment that damages a resident can become an esca
 ## FAILURE HISTORY
 
 ### RIC-1874 Bar Memory Event
-A retired cage segment continued to flex outward after removal from its chamber, returning to the shape forced into it
-by its former resident. The segment was sealed as evidence that heavy containment structures can preserve stress
-history.
+A retired cage segment continued to flex outward after removal from its chamber,
+returning to the shape forced into it by its former resident. The segment was
+sealed as evidence that heavy containment structures can preserve stress history.
 
 ### RIC-1912 Masonry Transition Review
 The introduction of Abyssal Masonry shifted heavy containment away from iron-only logic. Reviewers concluded that

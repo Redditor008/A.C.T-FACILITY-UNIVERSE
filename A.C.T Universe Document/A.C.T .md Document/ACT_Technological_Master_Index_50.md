@@ -17,8 +17,8 @@
 This document serves as the standardized catalog for the fifty (50) primary technological systems and refined
 materials utilized within the A.C.T Site Network.
 
-Personnel are required to utilize the formal nomenclature provided herein for all maintenance logs and requisition
-forms.
+Personnel are required to utilize the formal nomenclature
+provided herein for all maintenance logs and requisition forms.
 
 ---
 
@@ -58,17 +58,17 @@ that utilize dramatic causality to escalate.
 **08. NARRATIVE SEAL VARNISH** A protective chemical coating for physical documents. Stabilizes ink-presence against
 auto-redaction and archival-spite effects.
 
-**09. CHRONO-STUTTERED VISORS** Optics with a 0.5-second processing delay. Allows for the safe monitoring of
-visual-trigger hazards.
+**09. CHRONO-STUTTERED VISORS** Optics with a 0.5-second processing
+delay. Allows for the safe monitoring of visual-trigger hazards.
 
 **10. DIGITAL RESONANCE SENSORS** High-sensitivity arrays used to "hear" the unique causal pulse of unclassified
 artifacts to determine Field Type prior to contact.
 
-**28. REGRESSION-RESISTANT INK** A liquid medium infused with [ REDACTED ] particles possessing causal memory. Used
-for O5-level log preservation.
+**28. REGRESSION-RESISTANT INK** A liquid medium infused with [ REDACTED
+] particles possessing causal memory. Used for O5-level log preservation.
 
-**29. SPECTRAL VIBRATION SENSORS** Early-warning sensors tuned to detect the acoustic "Leaking" of narrative scripts
-or song-based anomalies.
+**29. SPECTRAL VIBRATION SENSORS** Early-warning sensors tuned to detect
+the acoustic "Leaking" of narrative scripts or song-based anomalies.
 
 **30. CAUSAL ANCHOR NAILS** Portable, single-use stabilization units used to "fix" an object within 3D space for
 short-duration transport or recovery.
@@ -95,8 +95,8 @@ for the non-hostile relocation of ectothermic (cold-blooded) subjects.
 **31. BIOMETRIC RESONANCE DAMPENERS** Wearable patches that mask a human's pulse and emotional rhythm from anomalies
 possessing heart-signature detection.
 
-**32. GOLD-TIPPED MINING DRILLS** Industrial boring equipment required for the modification of Pale Wood structures
-and Dark World architecture.
+**32. GOLD-TIPPED MINING DRILLS** Industrial boring equipment required
+for the modification of Pale Wood structures and Dark World architecture.
 
 **33. NEURAL LACING (TYPE 004-MOD)** Permanent neural lattice providing an internal "Auto-Forget" filter against
 specific high-tier info-hazards.
@@ -168,20 +168,20 @@ future-operative filtering for coordinating unmanned recovery operations.
 **41. HARVESTED PALE WOOD** Indestructible timber derived from the Dark World. Used for internal structural
 reinforcement. Vulnerable to 24k gold.
 
-**42. REFINED STEEL-DIRT** Stabilized byproduct of Blue Dirt. Possesses the tensile strength of steel but the mass of
-topsoil.
+**42. REFINED STEEL-DIRT** Stabilized byproduct of Blue Dirt.
+Possesses the tensile strength of steel but the mass of topsoil.
 
 **43. GALAXY-MOTIVE TEXTILE** Self-luminous radiation-resistant fabric woven from [ REDACTED ] fibers. Used in
 specialized containment apparel.
 
-**44. STATIC-PULSE CRYSTAL** Raw mineral extracted from the Abyss Floor. Resonates with Earth-Standard reality; powers
-all RSA core units.
+**44. STATIC-PULSE CRYSTAL** Raw mineral extracted from the Abyss Floor.
+Resonates with Earth-Standard reality; powers all RSA core units.
 
-**45. CAUSAL-REACTIVE MERCURY** Liquid metal that flows in reverse-chronological order in the presence of temporal
-fluctuations.
+**45. CAUSAL-REACTIVE MERCURY** Liquid metal that flows in
+reverse-chronological order in the presence of temporal fluctuations.
 
-**46. REFINED NEMNOLIA SAP** The active ingredient in all 004-Series amnestics. Functions as a targeted
-memory-solvent.
+**46. REFINED NEMNOLIA SAP** The active ingredient in all
+004-Series amnestics. Functions as a targeted memory-solvent.
 
 **47. SANGUINE-CONDUCTIVE ALLOY** A blue metallic composite capable of data-transmission via biological blood contact.
 

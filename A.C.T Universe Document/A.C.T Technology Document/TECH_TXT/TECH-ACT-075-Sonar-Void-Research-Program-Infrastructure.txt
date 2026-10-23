@@ -63,9 +63,9 @@ oceanic absence and abyss-linked seismic gaps.
 
 SVRPI is not merely sonar equipment. It is a research architecture: data intake from
 field platforms, laboratory
-replay rooms, acoustic-safe analysis stations, comparison archives, resident case links, and routing rules for void
-events that may require containment or restricted review. The program treats absence as data rather than a lack of
-data.
+replay rooms, acoustic-safe analysis stations, comparison archives, resident case
+links, and routing rules for void events that may require containment or
+restricted review. The program treats absence as data rather than a lack of data.
 
 Approved roles include Sonar Void event study, Death Angler comparison, maritime recovery briefing, acoustic hazard
 reconstruction, submersible-loss analysis, false-absence review, and
@@ -269,10 +269,10 @@ act of observation. Laboratory
 replay can also make an event feel more controlled than it was for the
 crew that encountered it.
 
-Known failure modes include false empty classification, overfitting to Death Angler precedent, replay-induced analyst
-fixation, corrupted field telemetry, missing crew notes, equipment failure disguised as anomaly, anomaly disguised as
-equipment failure, and unsafe confidence after reconstruction. The program's greatest hazard is certainty about what
-was not heard.
+Known failure modes include false empty classification, overfitting to Death Angler precedent,
+replay-induced analyst fixation, corrupted field telemetry, missing crew notes, equipment
+failure disguised as anomaly, anomaly disguised as equipment failure, and unsafe confidence
+after reconstruction. The program's greatest hazard is certainty about what was not heard.
 
 FAILURE HISTORY
 
@@ -281,14 +281,14 @@ AFD-NB-964's discovery through intermittent Sonar Voids and lost submersibles re
 proves that absence can precede lethal encounter.
 
 SVRPI-F-4 Program Standardization
-The F-4 dossier identifies Sonar Void research as an active program contributing to understanding of how deep-sea
-anomalies conceal themselves. SVRPI was formalized to connect field sonar data, laboratory analysis, and containment
-warning.
+The F-4 dossier identifies Sonar Void research as an active program contributing to
+understanding of how deep-sea anomalies conceal themselves. SVRPI was formalized to
+connect field sonar data, laboratory analysis, and containment warning.
 
 SVRPI-False Absence Review
-A void-event package once proved to be ordinary instrument misalignment after storm damage. The file was kept as a
-training record because failed equipment created the same operational temptation as an anomalous void: crews wanted to
-move closer.
+A void-event package once proved to be ordinary instrument misalignment after storm
+damage. The file was kept as a training record because failed equipment created the
+same operational temptation as an anomalous void: crews wanted to move closer.
 
 DIVISION USE
 

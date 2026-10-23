@@ -193,9 +193,9 @@ emotional pressure, and any sign that the influence is interacting with the room
 The patient is not interrogated as a suspect unless separate authority exists. Research may receive clinical findings,
 but research questions do not override care.
 
-After evaluation, Medical determines whether the patient may return to duty, requires extended care, needs restricted
-assignment, or must be escalated to containment review. Records balance confidentiality with the operational knowledge
-the Facility requires.
+After evaluation, Medical determines whether the patient may return to duty, requires
+extended care, needs restricted assignment, or must be escalated to containment review.
+Records balance confidentiality with the operational knowledge the Facility requires.
 
 ---
 
@@ -234,10 +234,10 @@ suite also cannot remove moral
 responsibility from staff: isolation can be clinically necessary and still frightening to the person
 inside it.
 
-Known failure modes include isolation breach, exposure through notes, false recovery, staff overidentification,
-patient distrust, security overreach, research pressure, confidentiality failure, delayed escalation, and treating the
-patient as an anomaly before the evaluation supports it. AIIS doctrine specifically warns against converting care into
-custody by habit.
+Known failure modes include isolation breach, exposure through notes, false recovery, staff
+overidentification, patient distrust, security overreach, research pressure, confidentiality
+failure, delayed escalation, and treating the patient as an anomaly before the evaluation
+supports it. AIIS doctrine specifically warns against converting care into custody by habit.
 
 ---
 

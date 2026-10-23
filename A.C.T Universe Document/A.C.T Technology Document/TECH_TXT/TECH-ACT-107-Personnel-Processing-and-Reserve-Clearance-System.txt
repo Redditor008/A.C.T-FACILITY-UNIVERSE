@@ -69,18 +69,18 @@ site where the wrong
 assignment can expose a concealed boundary, endanger a resident habitat, compromise a biological-care routine, or
 break the cover discipline of a legitimate ecological research campus.
 
-Approved roles include arrival processing, clearance administration, reserve-duty suitability review, personnel
-record custody, access-core enrollment, field-sector assignment screening, biological exposure flagging, cover-role
-separation, Medical monitoring integration, and denial or removal recommendation when a person cannot safely remain
-assigned to reserve work.
+Approved roles include arrival processing, clearance administration, reserve-duty suitability
+review, personnel record custody, access-core enrollment, field-sector assignment screening,
+biological exposure flagging, cover-role separation, Medical monitoring integration, and
+denial or removal recommendation when a person cannot safely remain assigned to reserve work.
 
 ORIGIN AND DEVELOPMENT
 
-Verde Null's staffing problem emerged from its geography. Personnel assigned to the reserve are not merely working
-inside a secure building; they are living and operating inside protected wilderness that is also a containment system.
-Early field-enclosure crews needed patience, ecological discipline, and the ability to follow hidden boundaries
-without drawing attention. As the reserve formalized, those requirements became too important to leave to informal
-supervisor judgment.
+Verde Null's staffing problem emerged from its geography. Personnel assigned to the reserve are not
+merely working inside a secure building; they are living and operating inside protected wilderness
+that is also a containment system. Early field-enclosure crews needed patience, ecological
+discipline, and the ability to follow hidden boundaries without drawing attention. As the reserve
+formalized, those requirements became too important to leave to informal supervisor judgment.
 
 F-4's personnel processing center was developed to centralize the decision. PPRCS grew from that center into a full
 clearance technology: a combined record, access, screening, and duty-route system that treats personnel assignment
@@ -106,8 +106,8 @@ Known components include:
 - field-sector assignment approval queue;
 - denial and removal review file.
 
-The system keeps personnel records close to command because staffing failures at Verde Null can become containment
-failures.
+The system keeps personnel records close to command because
+staffing failures at Verde Null can become containment failures.
 
 
 
@@ -259,14 +259,14 @@ KNOWN LIMITS
 
 PPRCS can document and control access, but it cannot perfectly predict how a person
 will respond to wilderness
-isolation, living containment, biological transformation material, or the pressure of performing real public science
-while knowing the reserve's concealed purpose. The system depends on honest supervisor reporting and Medical
-follow-through.
+isolation, living containment, biological transformation material, or the pressure
+of performing real public science while knowing the reserve's concealed purpose.
+The system depends on honest supervisor reporting and Medical follow-through.
 
-Known failure modes include outdated clearance, informal escort abuse, public-campus role confusion, field-sector
-overassignment, unreported exposure, isolation fatigue, personnel bond with resident overriding procedure, credential
-retention after duty removal, command override for convenience, and research staff treating cover access as
-containment access.
+Known failure modes include outdated clearance, informal escort abuse, public-campus role
+confusion, field-sector overassignment, unreported exposure, isolation fatigue, personnel
+bond with resident overriding procedure, credential retention after duty removal, command
+override for convenience, and research staff treating cover access as containment access.
 
 FAILURE HISTORY
 

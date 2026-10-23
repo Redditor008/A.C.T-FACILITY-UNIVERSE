@@ -91,9 +91,9 @@ REALITY INTERACTION: Local Distortion / Causal Violation / Record-path
 ANM-UA-AS-0001 is not to be treated as an ordinary architectural fault. Any corridor segment appearing without
 approved registry correspondence is considered active until disproven by direct structural verification.
 
-Personnel are not authorized to enter newly manifested service corridors alone. All suspected appearances are to be
-photographed, mapped, and sealed behind temporary hard barriers until Archive, Security, and Site Review have
-completed route comparison.
+Personnel are not authorized to enter newly manifested service corridors alone. All
+suspected appearances are to be photographed, mapped, and sealed behind temporary hard
+barriers until Archive, Security, and Site Review have completed route comparison.
 
 No permanent map of the anomaly is to be trusted once created. All corridor
 records must be cross-verified against
@@ -114,10 +114,10 @@ BREACH PROTOCOL:         Route Lock / Archive Fork Comparison / Personnel Recall
 
 BREACH CONDITIONS — THIS ANOMALY IS CONSIDERED IN BREACH IF IT: [ ] Breaks
 formal containment [x] Endangers public
-normalcy [x] Causes distortion in reality, Earth, time, or cosmic law [x] Resists classification and escalates beyond
-predicted behavior [ ] Spreads memetic, informational, or biological contamination [ ] Transforms its environment into
-an anomalous zone [x] Other: produces contradictory movement history severe enough to invalidate secure route
-confidence inside the Facility
+normalcy [x] Causes distortion in reality, Earth, time, or cosmic law [x] Resists classification and
+escalates beyond predicted behavior [ ] Spreads memetic, informational, or biological contamination
+[ ] Transforms its environment into an anomalous zone [x] Other: produces contradictory movement
+history severe enough to invalidate secure route confidence inside the Facility
 
 ### RESEARCH LOG — SUMMARY
 
@@ -126,13 +126,13 @@ CURRENT RESEARCH PHASE:  Observation / Archive comparison / structural modeling
 
 SUMMARY OF FINDINGS: The anomaly's greatest danger is not bodily harm, but documentary damage.
 Personnel can usually
-survive traversal. The records surrounding that traversal often cannot. For this reason, the anomaly is classified
-under UNAUTHORED containment fracture: the corridor appears to rewrite the logic by which the Facility confirms where
-someone has been.
+survive traversal. The records surrounding that traversal often cannot. For this
+reason, the anomaly is classified under UNAUTHORED containment fracture: the corridor
+appears to rewrite the logic by which the Facility confirms where someone has been.
 
-The anomaly's threat is considered ABSENT rather than HARMLESS because it rarely manifests as direct violence. The
-danger exists in command confusion, route uncertainty, unauthorized access drift, and possible exploitation by other
-hidden anomalies.
+The anomaly's threat is considered ABSENT rather than HARMLESS because it rarely
+manifests as direct violence. The danger exists in command confusion, route uncertainty,
+unauthorized access drift, and possible exploitation by other hidden anomalies.
 
 ### TRANSFORMATION STATUS
 

@@ -90,10 +90,10 @@ a hungry will.
 
 A standard ABM block is dark grey-black with a rough volcanic texture. It feels
 colder and heavier than standard
-concrete. Each block is hollowed around an internal lead-shielded restricted core. The surface may show faint tooling
-seams, anchor sockets, or joint channels depending on site generation. Blocks installed in older corridors are usually
-larger and less regular. Modern blocks are manufactured for easier replacement, but their composition remains
-restricted.
+concrete. Each block is hollowed around an internal lead-shielded restricted core. The
+surface may show faint tooling seams, anchor sockets, or joint channels depending on site
+generation. Blocks installed in older corridors are usually larger and less regular. Modern
+blocks are manufactured for easier replacement, but their composition remains restricted.
 
 Known components include:
 
@@ -238,9 +238,9 @@ treated as part of a containment ecology.
 
 Abyssal Masonry does not make an enclosure absolute. It can dampen seismic and psychic
 fluctuation, but it cannot
-guarantee containment of entities that cut through causal relationships, siphon biological energy through walls,
-rewrite architecture, or treat matter as suggestion. ABM can reduce symptoms while hiding escalation if staff assume
-the wall is enough.
+guarantee containment of entities that cut through causal relationships, siphon
+biological energy through walls, rewrite architecture, or treat matter as suggestion.
+ABM can reduce symptoms while hiding escalation if staff assume the wall is enough.
 
 Known failure modes include core saturation, joint cracking, echo return, cold seep, psychic hum, residue shedding,
 improper orientation, tool contamination, and overconfidence by vault teams. Blocks

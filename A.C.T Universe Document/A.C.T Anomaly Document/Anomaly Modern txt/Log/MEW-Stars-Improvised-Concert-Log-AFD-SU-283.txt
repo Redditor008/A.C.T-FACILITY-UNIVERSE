@@ -31,8 +31,8 @@ between Mimi and Shu Shu and the anomalous background chanting.
 LOG ID:              AFD-SU-283/TRN-CONCERT-MASTER
 STATUS:              Verified / Absolute Sync
 
-[00:00-00:08][DIALOGUE] "Ahuhuhu... alright, dearies! This is gonna be a long battle, so why don't you have an
-appetizer, first!?" [SHU SHU]
+[00:00-00:08][DIALOGUE] "Ahuhuhu... alright, dearies! This is gonna be
+a long battle, so why don't you have an appetizer, first!?" [SHU SHU]
 [00:00-00:03][BACKGROUND CHANTING] [ドキドキ！あなたが好き好き]
 [00:04-00:05][BACKGROUND CHANTING] [ビクビク！ミューミューちゃんは混乱！]
 [00:06-00:07][BACKGROUND CHANTING] [Lovey-dovey! Make your heart stop!]
@@ -58,8 +58,8 @@ your face!] [BOTH]
 
 [00:36][Annoyed & Pouty] [Your tactics are the worst!] [SHU SHU]
 [00:38][Embarrassed Affection] [You’re gonna make me purr~] [MIMI]
-[00:40][Overwhelmed Climax] [Stop flirting with my] [SHU SHU] [BODY OR MY HEART IS GONNA BURST!] [start SHU SHU middle
-BOTH]
+[00:40][Overwhelmed Climax] [Stop flirting with my] [SHU SHU]
+[BODY OR MY HEART IS GONNA BURST!] [start SHU SHU middle BOTH]
 
 [00:43][Anthem-like Hype] [She’s a MEW MEW girl, and shе’s lighting the way!] [BOTH]
 [00:46][Fierce & Magical] [With her PRETTY REVOLUTION, she’ll sеnd evil to the grave!] [BOTH]

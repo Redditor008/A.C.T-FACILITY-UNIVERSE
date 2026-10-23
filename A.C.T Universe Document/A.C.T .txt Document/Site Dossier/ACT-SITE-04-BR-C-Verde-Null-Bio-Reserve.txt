@@ -10,7 +10,7 @@ Dossier Number: SITE-DOSSIER-04-BR-C
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Note
 
@@ -35,7 +35,7 @@ Resident holdings are not enumerated in full. The reserve's complete manifest
 is preserved in clearance-gated annex registers. This file identifies the
 reserve's signature resident and leaves the rest to those registers.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 1. Registry Identity Summary
 
@@ -57,7 +57,7 @@ Security Notes: Some anomalies are managed in-place under perimeter doctrine rat
 interior
 vaults.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 2. Dossier Purpose
 
@@ -72,7 +72,7 @@ less like prisoners and more like ecosystems: they must be managed in context,
 studied in place, and contained through the environment around them rather
 than through walls.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 3. Site Profile and Cover Architecture
 
@@ -112,7 +112,7 @@ The reserve is the Facility's largest experiment in containment through
 environmental stewardship: a wilderness managed for the purpose of keeping
 impossible biology alive, contained, and hidden.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 4. Historical Foundation and Evolution
 
@@ -153,7 +153,7 @@ Today the reserve functions as:
 — the Facility's largest experiment in perimeter doctrine and environmental
   containment
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5. Command and Governance
 
@@ -190,7 +190,7 @@ The reserve's jurisdiction overlaps with:
 — ACT-SUB-04-BR-C (Hollow Canopy Enclosure) — its principal support
   sub-site for fixed flora enclosures.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 6. Divisional Presence and Daily Function
 
@@ -251,7 +251,7 @@ Security personnel at Verde Null guard perimeters measured in kilometers
 rather than meters — a task that relies on surveillance technology,
 ecological knowledge, and the natural remoteness of the site.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 7. Physical Plant and Surface Layout
 
@@ -277,7 +277,7 @@ towers disguised as trees, sensor networks buried in the undergrowth, and
 access routes that follow natural terrain features. The boundary between
 anomalous wilderness and ordinary wilderness is deliberately invisible.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 8. Internal Floor Register
 
@@ -317,7 +317,7 @@ The reserve's deepest built level: high-security interior cultivation and
 holding space for the reserve's most sensitive biological material. During a
 breach response, closing F-1 to the outside seals this level entirely.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 9. Containment Infrastructure
 
@@ -352,7 +352,7 @@ transformation programs: environments where anomalous flora can be grown
 under controlled conditions for study and, where authorized, for repurposed
 use under the Facility's transformation doctrine.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 10. Resident Anomaly Holdings
 
@@ -416,7 +416,7 @@ across the enclosure sectors and interior levels under standard doctrine.
 Their designations are preserved in the Verde Null Annex Register. Personnel
 without specific assignment to those files do not require their names.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 11. Site Doctrine and Routing
 
@@ -448,7 +448,7 @@ specialized extension for fixed-enclosure observation of non-movable flora
 anomalies. The Enclosure manages specific reserve sectors under the reserve's
 authority, with transport denial built into its containment doctrine.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 12. Special Operations and Site Protocols
 
@@ -484,7 +484,7 @@ the enclosure network is contained through perimeter doctrine — the sector
 boundaries are designed to hold residents even when an individual enclosure
 fails.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 13. Secrecy and Security Posture
 
@@ -510,7 +510,7 @@ cover lives among civilians, they must maintain the boundary between their
 work and the legitimate research conducted around them, and they must accept
 long periods of separation from the ordinary world.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 14. Personnel and Operational Life
 
@@ -539,7 +539,7 @@ demands. Medical staff monitor personnel for the specific failure modes of
 wilderness service: isolation stress, environmental fatigue, and the slow
 erosion of the boundary between the natural world and the anomalous one.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 15. Incident Archive
 
@@ -564,7 +564,7 @@ exposure events, are preserved in the reserve's incident archive and in
 individual log dossiers. Specific narratives are not reproduced in this file;
 they are held to the clearance of personnel who must learn from them.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 16. Current Status and Projected Development
 
@@ -579,7 +579,7 @@ development priorities include:
 The reserve's long-term function — to be the Facility's wilderness instrument
 for biological containment — is not expected to change.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 17. Cross-Referenced Files
 
@@ -592,7 +592,7 @@ for biological containment — is not expected to change.
 - Resident file: Vivienne-Argent-AFD-SU-827.txt
 - Resident manifest records (clearance-gated)
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Closing
 

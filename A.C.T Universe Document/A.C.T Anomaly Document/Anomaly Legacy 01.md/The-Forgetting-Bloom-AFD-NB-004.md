@@ -46,10 +46,10 @@ NARRATIVE STATUS:    Controlled
 
 ### DESCRIPTION
 
-AFD-NB-004 is a 3 meter tall giant pale white-blue flowering plant with translucent petals and vein-like golden
-structures running through the stem, leaves, and inner petal roots. During blooming cycles, the organism emits a faint
-cold golden mist. It continuously secretes a glowing translucent golden sap from fissures along its internal golden
-vein lattice.
+AFD-NB-004 is a 3 meter tall giant pale white-blue flowering plant with translucent petals
+and vein-like golden structures running through the stem, leaves, and inner petal roots.
+During blooming cycles, the organism emits a faint cold golden mist. It continuously secretes
+a glowing translucent golden sap from fissures along its internal golden vein lattice.
 
 The anomaly does not conform to ordinary botanical behavior. It shows no fully reliable
 dependence on conventional
@@ -120,9 +120,9 @@ CURRENT RESEARCH PHASE:  Integrated utility / controlled derivative review
 
 SUMMARY OF FINDINGS: AFD-NB-004 is the primary source anomaly used in the production of
 A.C.T amnestic compounds. Raw
-sap is dangerously unstable and biologically harmful, but refinement and dilution procedures have produced multiple
-graded memory- wipe compounds. The anomaly remains one of the most strategically important integrated biological
-assets under Facility control.
+sap is dangerously unstable and biologically harmful, but refinement and dilution
+procedures have produced multiple graded memory- wipe compounds. The anomaly remains one
+of the most strategically important integrated biological assets under Facility control.
 
 ### TRANSFORMATION STATUS
 

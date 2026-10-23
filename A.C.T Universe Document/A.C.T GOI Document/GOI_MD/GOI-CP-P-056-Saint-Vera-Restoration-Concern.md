@@ -66,11 +66,11 @@ bodies or senses have been damaged by anomalous contact. The Concern operates in
 space between hospital care,
 subject care, field triage, transformation review, and civilian reintegration.
 
-Known service categories include limb reconstruction after predatory-space incidents, voice restoration after memetic
-speech loss, ocular replacement after sight-feeding anomalies, skin stabilization after symbol-burn exposure, nerve
-rerouting after nonstandard electric contact, sensory filtering after impossible sound injury, prosthetics that
-remember missing movement, and care plans for people whose altered bodies cannot be fully returned to pre-incident
-condition.
+Known service categories include limb reconstruction after predatory-space incidents, voice
+restoration after memetic speech loss, ocular replacement after sight-feeding anomalies, skin
+stabilization after symbol-burn exposure, nerve rerouting after nonstandard electric contact,
+sensory filtering after impossible sound injury, prosthetics that remember missing movement, and
+care plans for people whose altered bodies cannot be fully returned to pre-incident condition.
 
 A.C.T tracks Saint-Vera because the group answers a question official containment often delays: after survival, what
 kind of life is still available? A.C.T can classify an injury, isolate a subject,
@@ -79,11 +79,11 @@ Transformation review. Saint-Vera treats the survivor first and argues about cla
 
 ### Public Presence and Concealment
 
-Saint-Vera appears publicly through restoration clinics, charitable surgery funds, mobile prosthetic vans,
-trauma-recovery wards, discreet rehabilitation houses, religious medical foundations, refugee health partnerships,
-anonymous hospital grants, and private surgical consultancies. Some front clinics are legally registered and perform
-ordinary reconstructive work. Others appear only after abnormal mass-casualty events and close before civil licensing
-bodies can inspect them.
+Saint-Vera appears publicly through restoration clinics, charitable surgery funds, mobile prosthetic
+vans, trauma-recovery wards, discreet rehabilitation houses, religious medical foundations, refugee
+health partnerships, anonymous hospital grants, and private surgical consultancies. Some front
+clinics are legally registered and perform ordinary reconstructive work. Others appear only after
+abnormal mass-casualty events and close before civil licensing bodies can inspect them.
 
 Public branding uses white thread, pale green glass, a three-drop mark, and the phrase
 **restore what can be restored;
@@ -126,8 +126,7 @@ A.C.T assessment identifies these functional layers:
  cold ledger offices that preserve names of patients officially recorded as dead or
  missing;
 - refusal boards that deny procedures considered exploitative, cosmetic, coercive, or unsafe;
- donor and material channels that acquire tissue, glass, thread, bone substitute, nerve media, and
- unknown restoration
+ donor and material channels that acquire tissue, glass, thread, bone substitute, nerve media, and unknown restoration
  compounds.
 
 This structure separates the Concern from a secret hospital. It is a corporate and
@@ -141,8 +140,8 @@ handlers, legal advocates, donors, and patient escorts. Some staff appear to be 
 into specialized humanitarian work. Others know the anomalous source of the procedures and use vocabulary that does
 not match conventional medicine.
 
-Recruitment appears strongest among clinicians who have seen official systems fail altered survivors. One recovered
-offer letter states:
+Recruitment appears strongest among clinicians who have seen official
+systems fail altered survivors. One recovered offer letter states:
 
 ```text
 Applicants must know the difference between saving a life and returning a body to
@@ -203,9 +202,9 @@ procedures, and materials not explainable by ordinary medicine. Confirmed or str
 - memory-sensitive consent forms that reveal coercion, sedation gaps, or false agreement;
 - recovery beds that reduce panic without functioning as standard amnestics.
 
-The Concern is not assessed as capable of broad resurrection. Claims that Saint-Vera can restore the dead are treated
-as rumor unless a case file confirms biological death, identity continuity, and post-procedure condition under A.C.T
-observation.
+The Concern is not assessed as capable of broad resurrection. Claims that Saint-Vera
+can restore the dead are treated as rumor unless a case file confirms biological
+death, identity continuity, and post-procedure condition under A.C.T observation.
 
 ### Secrecy and Civilian Exposure
 
@@ -249,8 +248,7 @@ Known or assessed assets include:
 - rehabilitation houses for patients unable to return home immediately;
 - donor channels for rare tissue substitutes and unknown compounds;
 - sealed failure archives marked **DO NOT CALL THIS MERCY**;
- patient escorts trained to resist unlawful seizure by police, private collectors, hostile GOIs, and
- containment
+ patient escorts trained to resist unlawful seizure by police, private collectors, hostile GOIs, and containment
  rivals.
 
 A.C.T has recovered small tool kits and incomplete patient cards but no full surgical
@@ -402,12 +400,10 @@ consent-screening method not yet understood by A.C.T.
 
 ### Confirmed Operational Facts
 
- Saint-Vera Restoration Concern is an outside corporate medical network and not an A.C.T medical
- division.
+ Saint-Vera Restoration Concern is an outside corporate medical network and not an A.C.T medical division.
 — The Concern has repeatedly treated anomaly survivors across separate jurisdictions.
 — Its procedures produce restoration outcomes beyond conventional medical explanation.
- The group protects patient dignity and consent but withholds leadership, source materials, route maps,
- and full
+ The group protects patient dignity and consent but withholds leadership, source materials, route maps, and full
  failure records.
  Several Saint-Vera interventions have obstructed A.C.T custody
  while preventing patient death or severe deterioration.

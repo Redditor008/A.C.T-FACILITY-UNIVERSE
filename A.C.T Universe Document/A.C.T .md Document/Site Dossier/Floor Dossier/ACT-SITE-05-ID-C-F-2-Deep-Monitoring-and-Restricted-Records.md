@@ -20,10 +20,10 @@
 This file is the complete individual record of **F-2, the Deep Monitoring and Restricted Records**, the second-deepest
 numbered floor of the built installation of **ACT-SITE-05-ID-C, Nusantara Deep Relay**.
 
-F-2 is the level housing the relay's most sensitive deep-earth monitoring infrastructure and its restricted seismic
-records — including the partially sealed deep-earth files routed under abyss-related review standards. Access is
-heavily restricted. The floor is where the relay's deepest observations are processed, recorded, and — where the
-records demand it — sealed.
+F-2 is the level housing the relay's most sensitive deep-earth monitoring infrastructure and
+its restricted seismic records — including the partially sealed deep-earth files routed under
+abyss-related review standards. Access is heavily restricted. The floor is where the relay's
+deepest observations are processed, recorded, and — where the records demand it — sealed.
 
 This dossier records the floor in full institutional language: what it is, what it
 monitors, what it records, how it
@@ -67,8 +67,8 @@ contents demand.
 
 F-2 lies between the Maritime and Island Holding level of F-3 above and the
 Deep Listening Vault of F-1 below. It is
-the relay's records and monitoring level, positioned between the relay's holding operations and its deepest sensor
-nexus.
+the relay's records and monitoring level, positioned between
+the relay's holding operations and its deepest sensor nexus.
 
 ### 3.2 Relationship to F-1
 
@@ -89,9 +89,9 @@ levels, under the access rules their sensitivity requires.
 
 ### 4.1 Development of the Records Level
 
-F-2's character developed with the relay's elevation to major site status: as Nusantara's deep-earth mandate expanded,
-the relay required a dedicated level for the processing, recording, and restricted storage of its deepest
-observations.
+F-2's character developed with the relay's elevation to major site status: as
+Nusantara's deep-earth mandate expanded, the relay required a dedicated level for
+the processing, recording, and restricted storage of its deepest observations.
 
 ### 4.2 The Abyss-Related Review Standard
 
@@ -115,9 +115,9 @@ the Archive Division. Day-to-day operations are administered by a **Records and 
 
 ### 5.2 Authority over Records
 
-The Records and Monitoring Chief administers the floor's records and monitoring operations. Authority over the
-partially sealed deep-earth files is shared with the restricted review chain that governs abyss-related records beyond
-normal site governance.
+The Records and Monitoring Chief administers the floor's records and monitoring
+operations. Authority over the partially sealed deep-earth files is shared with the
+restricted review chain that governs abyss-related records beyond normal site governance.
 
 ### 5.3 Authority Limits
 
@@ -147,8 +147,8 @@ govern the floor's restricted records.
 
 ### 6.4 Security Division
 
-Security guards the floor's access architecture and enforces the heavy restrictions that govern the floor's records
-and monitoring spaces.
+Security guards the floor's access architecture and enforces the heavy
+restrictions that govern the floor's records and monitoring spaces.
 
 ---
 
@@ -176,9 +176,9 @@ monitoring, maintained under the Archive Division's custody.
 
 ### 7.4 The Restricted Records Vaults
 
-The floor's restricted vaults hold the partially sealed deep-earth files: records routed under abyss-related review
-standards, sealed under the review chain that governs them, and accessible only under the restrictions the review
-chain imposes.
+The floor's restricted vaults hold the partially sealed deep-earth files: records
+routed under abyss-related review standards, sealed under the review chain that
+governs them, and accessible only under the restrictions the review chain imposes.
 
 ---
 
@@ -215,9 +215,9 @@ vaults, and restricted spaces, with the restricted records vaults gated to perso
 
 ### 9.2 Records Doctrine
 
-The floor's records doctrine governs the relay's deep-earth documentation: observations are processed, recorded, and
-distributed under access rules matched to their sensitivity, with the most sensitive files sealed under restricted
-review.
+The floor's records doctrine governs the relay's deep-earth documentation:
+observations are processed, recorded, and distributed under access rules matched to
+their sensitivity, with the most sensitive files sealed under restricted review.
 
 ### 9.3 The Abyss-Linked Review Chain
 
@@ -228,9 +228,9 @@ beyond normal site governance, and the floor administers them under that chain's
 
 ### 9.4 Incident Response
 
-F-2 maintains incident response for records events: access violations, records incidents, and attempts to reach the
-restricted files are met with the relay's response doctrine, with escalation to the review chain where abyss-linked
-material is involved.
+F-2 maintains incident response for records events: access violations, records
+incidents, and attempts to reach the restricted files are met with the relay's response
+doctrine, with escalation to the review chain where abyss-linked material is involved.
 
 ---
 
@@ -291,9 +291,9 @@ maintaining the seismic record that the Facility's deepest doctrines depend on.
 
 ### 12.2 Restriction Doctrine
 
-F-2 doctrine holds that some records must not circulate: deep-earth files that may correlate with the structure
-beneath the Primary Facility are sealed under abyss-related review standards, and the floor administers them under the
-review chain's authority.
+F-2 doctrine holds that some records must not circulate: deep-earth files that may
+correlate with the structure beneath the Primary Facility are sealed under abyss-related
+review standards, and the floor administers them under the review chain's authority.
 
 ### 12.3 Processing Doctrine
 
@@ -305,9 +305,9 @@ assessed, recorded, and distributed under the floor's doctrine — the relay's w
 
 ## 13. Incident Archive
 
-The floor's incident record is dominated by records and monitoring events: access violations, records incidents, and
-processing events. The events that established the relay's abyss-related review standards are preserved in the relay's
-restricted history files.
+The floor's incident record is dominated by records and monitoring events: access violations,
+records incidents, and processing events. The events that established the relay's
+abyss-related review standards are preserved in the relay's restricted history files.
 
 ---
 

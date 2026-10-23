@@ -11,7 +11,7 @@ Dossier Number: FLOOR-DOSSIER-01-US-W-F-4
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard / ACT Floor Record Standard
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Note
 
@@ -31,7 +31,7 @@ sits between
 the holding system that keeps objects and the doctrine that decides what
 objects may become.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 1. Floor Registry Identity Summary
 
@@ -50,7 +50,7 @@ transformation study
 Access Posture: Ascending-authorization controlled access
 Current Status: Active
 
----
+═══════════════════════════════════════════════════════════════════════
 
 2. Dossier Purpose
 
@@ -67,7 +67,7 @@ conducting the controlled work that holding doctrine cannot conduct on the
 holding floors. The floor is the complex's instrument for changing what it
 holds — not by destroying, but by transforming under doctrine.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 3. Position in the Site Stack
 
@@ -92,7 +92,7 @@ F-4 coordinates with F-5's Research and Analysis level: research findings
 inform transformation evaluation, and transformation work returns findings
 to the research floor's understanding of contained objects.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 4. Historical Foundation
 
@@ -116,7 +116,7 @@ In its modern configuration, F-4 is the complex's transformation
 instrument — the floor where the question of an object's future is asked
 with the full weight of the Facility's doctrine behind it.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5. Command and Authority
 
@@ -141,7 +141,7 @@ The complex's doctrine holds that certain residents are not to be
 transformed at all; the floor's mandate extends only to material approved
 for transformation study under the Facility's standards.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 6. Divisional Presence
 
@@ -173,7 +173,7 @@ Archive personnel maintain F-4's documentation: every evaluation, every
 authorization, and every transformation outcome is recorded under the
 division's exacting standard.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 7. Physical Plant and Architecture
 
@@ -209,7 +209,7 @@ chambers open onto staging locks, staging locks open onto preparation
 spaces, and each boundary is gated by the authority required to cross it.
 The architecture makes ascending authorization visible.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 8. Systems and Infrastructure
 
@@ -237,7 +237,7 @@ The floor maintains hardened communication with the division's command
 above and the holding floors below. Authorization communications are
 recorded under the floor's documentation standard.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 9. Security and Containment Architecture
 
@@ -268,7 +268,7 @@ alarms, handling incidents, and authorization violations are met with the
 division's response doctrine, with escalation to the deep-hold levels below
 when an object in transformation demonstrates more than was assessed.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 10. Resident and Operational Holdings
 
@@ -291,7 +291,7 @@ Objects on F-4 are present under one of the floor's operational states:
 No signature resident is held on F-4. High-inviolability material from F-1
 is not subject to transformation evaluation under the complex's doctrine.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 11. Personnel and Duty Life
 
@@ -315,7 +315,7 @@ culture: every assessment is documented, every approval is recorded, and
 every transformation outcome is reviewed. The floor treats authorization as
 a containment parameter.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 12. Floor Doctrine
 
@@ -339,7 +339,7 @@ transformed, and the floor's duty includes recognizing material that must
 remain unchanged — including the high-inviolability residents whose
 containment is the complex's deepest commitment.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 13. Incident Archive
 
@@ -349,7 +349,7 @@ violations. Transformation outcomes that exceed assessment are recorded as
 the floor's doctrine lessons; the floor's history is the history of the
 Facility's careful, documented work on what it holds.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 14. Current Status and Projected Development
 
@@ -361,7 +361,7 @@ priorities include:
 — coordination with Research on the analysis that informs transformation
   decisions.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 15. Cross-Referenced Files
 
@@ -372,7 +372,7 @@ priorities include:
 - ACT_Site_Doctrine_and_Installation_Structure.md / .txt
 - Redwood Veil Annex Register (clearance-gated)
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Closing
 

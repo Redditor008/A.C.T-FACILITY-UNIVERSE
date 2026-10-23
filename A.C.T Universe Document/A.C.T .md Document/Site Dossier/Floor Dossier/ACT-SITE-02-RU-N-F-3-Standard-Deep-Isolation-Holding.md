@@ -20,10 +20,10 @@
 This file is the complete individual record of **F-3, the Standard Deep-Isolation Holding**, the third-deepest
 numbered floor of **ACT-SITE-02-RU-N, White Grave Station**.
 
-F-3 is the station's main holding level: the floor for anomalies requiring cold suppression or long-term isolation
-under standard conditions. The floor contains biological suppression chambers and climate-controlled individual
-holding units — the working infrastructure of an installation whose entire purpose is the long, cold containment of
-what must not thrive.
+F-3 is the station's main holding level: the floor for anomalies requiring cold suppression
+or long-term isolation under standard conditions. The floor contains biological suppression
+chambers and climate-controlled individual holding units — the working infrastructure of an
+installation whose entire purpose is the long, cold containment of what must not thrive.
 
 This dossier records the floor in full institutional language: what it is, what it
 holds, how it is built, how it is
@@ -33,14 +33,14 @@ run, and how standard holding at White Grave is different from standard holding 
 
 ## 1. Floor Registry Identity Summary
 
-**Site Designation:** ACT-SITE-02-RU-N **Site Codename:** White Grave Station **Floor Designation:** F-3 **Floor
-Name:** Standard Deep-Isolation Holding **Floor Type:** Main Holding Level **Vertical Position:** Third-deepest
-numbered floor of the station **Floor Above:** F-4 (Research and Biological Study) **Floor Below:** F-2 (Entropic and
-Unstable Resident Holding) **Containment Character:** Cold-suppression and long-term isolation holding under standard
-station doctrine **Primary Function:** Holding of anomalies requiring cold suppression or long-term isolation, in
-biological suppression chambers and climate-controlled individual holding units **Access Posture:** Controlled
-operational access under standard holding doctrine **Current Status:** Active **Scale Note:** The main holding level
-of the station by population
+**Site Designation:** ACT-SITE-02-RU-N **Site Codename:** White Grave Station **Floor Designation:** F-3
+**Floor Name:** Standard Deep-Isolation Holding **Floor Type:** Main Holding Level **Vertical Position:**
+Third-deepest numbered floor of the station **Floor Above:** F-4 (Research and Biological Study) **Floor
+Below:** F-2 (Entropic and Unstable Resident Holding) **Containment Character:** Cold-suppression and
+long-term isolation holding under standard station doctrine **Primary Function:** Holding of anomalies
+requiring cold suppression or long-term isolation, in biological suppression chambers and climate-controlled
+individual holding units **Access Posture:** Controlled operational access under standard holding doctrine
+**Current Status:** Active **Scale Note:** The main holding level of the station by population
 
 ---
 
@@ -94,10 +94,10 @@ long-term isolation without needing the extreme measures of the deeper floors.
 
 ### 4.2 The Suppression and Isolation Standard
 
-The floor's defining infrastructure — biological suppression chambers and climate-controlled individual holding units
-— was developed as the station's standard response to its typical resident: material that must be held cold, held
-suppressed, and held long, under conditions that prevent activity without requiring the maximum reinforcement of the
-deep floors.
+The floor's defining infrastructure — biological suppression chambers and climate-controlled
+individual holding units — was developed as the station's standard response to its typical
+resident: material that must be held cold, held suppressed, and held long, under conditions
+that prevent activity without requiring the maximum reinforcement of the deep floors.
 
 ### 4.3 Modern Configuration
 
@@ -116,9 +116,9 @@ Chief**. The Holding Chief administers the floor's chamber operations, intake as
 
 ### 5.2 Authority over Residents
 
-The Holding Chief holds standard custodial authority over the floor's residents: chamber assignment, suppression
-schedules, and routine handling under the station's standard holding doctrine. Disposition decisions are made above
-the floor.
+The Holding Chief holds standard custodial authority over the floor's residents:
+chamber assignment, suppression schedules, and routine handling under the station's
+standard holding doctrine. Disposition decisions are made above the floor.
 
 ### 5.3 Authority Limits
 
@@ -229,15 +229,15 @@ within the floor is governed by the handling rules of the material being accesse
 
 ### 9.2 Unit Access
 
-Unit access follows standard holding procedure: authorized personnel, documented handling, and observation maintained
-throughout. Most routine work on F-3 is conducted through the monitoring architecture rather than through physical
-entry.
+Unit access follows standard holding procedure: authorized personnel, documented
+handling, and observation maintained throughout. Most routine work on F-3 is
+conducted through the monitoring architecture rather than through physical entry.
 
 ### 9.3 Suppression Administration
 
-The floor's suppression work is administered under the station's suppression doctrine: schedules are documented,
-chambers are monitored, and suppression states are verified continuously. The administration of suppression is treated
-as a containment procedure.
+The floor's suppression work is administered under the station's suppression doctrine:
+schedules are documented, chambers are monitored, and suppression states are verified
+continuously. The administration of suppression is treated as a containment procedure.
 
 ### 9.4 Transfer Procedures
 

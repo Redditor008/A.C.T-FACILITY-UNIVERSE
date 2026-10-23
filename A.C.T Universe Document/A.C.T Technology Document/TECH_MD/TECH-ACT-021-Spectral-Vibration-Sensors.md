@@ -86,8 +86,8 @@ Command receives alerts during amber and red response. The CSG desk uses SVS rea
 as one trigger for static
 response review.
 
-Calibration remains restricted because a hostile song or script could be written to move just below published
-thresholds.
+Calibration remains restricted because a hostile song or script
+could be written to move just below published thresholds.
 
 ---
 
@@ -194,11 +194,11 @@ Step-down: sensitivity returns to the calibrated setting after any test and neve
 quieter one.
 Emergency: an amber flash starts script-risk response even when nothing audible has happened yet.
 
-SVS units run continuously in assigned zones. At shift start, personnel confirm that the needle rests within local
-baseline and that the amber light test functions. Sensitivity is never changed because the clicking is annoying. If
-the needle begins regular movement without an obvious source, staff reduce speech, check BWB status if present, and
-notify Info-Hazard. If the amber light flashes, the zone enters script-risk response and CSG review begins where
-applicable.
+SVS units run continuously in assigned zones. At shift start, personnel confirm that the needle
+rests within local baseline and that the amber light test functions. Sensitivity is never changed
+because the clicking is annoying. If the needle begins regular movement without an obvious
+source, staff reduce speech, check BWB status if present, and notify Info-Hazard. If the amber
+light flashes, the zone enters script-risk response and CSG review begins where applicable.
 
 Operators must distinguish observation from participation. Do not tap along with the sensor. Do not hum to test
 whether it answers. Do not speak the suspected rhythm aloud. Do not record a
@@ -240,10 +240,10 @@ accepted as calibration evidence.
 
 ## KNOWN LIMITS
 
-SVS cannot identify every song hazard, cannot suppress anything by itself, and cannot prove that a script will
-manifest. It may false alarm on machinery, footsteps, ventilation, repeated announcements, nervous tapping, rainfall,
-or distant construction. It may miss hazards that avoid sound, use visual rhythm, exploit silence, or deliberately
-imitate random noise.
+SVS cannot identify every song hazard, cannot suppress anything by itself, and cannot prove
+that a script will manifest. It may false alarm on machinery, footsteps, ventilation, repeated
+announcements, nervous tapping, rainfall, or distant construction. It may miss hazards that
+avoid sound, use visual rhythm, exploit silence, or deliberately imitate random noise.
 
 Known failure modes include overtuning, needle fatigue, amber-light failure, clicker contamination, rhythm sympathy,
 false baseline after long exposure, and staff habituation. Staff habituation is serious: the sensor can work perfectly
@@ -260,9 +260,9 @@ day, three unrelated files gained matching line breaks. Archive restored the rec
 script leakage. Vent rhythms are now checked against file behavior.
 
 ### SVS-2015 Overtuned Corridor
-A supervisor reduced sensor sensitivity because the needle reacted to every bootstep. The corridor later hosted a
-minor song-based compulsion that should have triggered amber warning. The incident created the rule that annoyance is
-not calibration evidence.
+A supervisor reduced sensor sensitivity because the needle reacted to every bootstep.
+The corridor later hosted a minor song-based compulsion that should have triggered amber
+warning. The incident created the rule that annoyance is not calibration evidence.
 
 ### SVS-2021 Boredom Pattern Event
 A BWB zone stayed dull but began repeating micro-pauses between manifest fragments. SVS detected the timing before

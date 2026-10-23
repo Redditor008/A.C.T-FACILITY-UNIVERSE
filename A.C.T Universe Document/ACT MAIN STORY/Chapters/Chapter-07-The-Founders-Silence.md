@@ -10,9 +10,9 @@ seals, and redacted command strings. She had expected secrets to look like denia
 she had not expected was how
 often they looked like repetition.
 
-The same signature under different names. The same review language across different decades. The same gaps in
-personnel continuity clustered around the same floors, the same support routes, the same sealed references to recovery
-from below.
+The same signature under different names. The same review language across different
+decades. The same gaps in personnel continuity clustered around the same floors,
+the same support routes, the same sealed references to recovery from below.
 
 By the seventh day the pattern had become too deliberate to dismiss as corruption.
 
@@ -102,8 +102,8 @@ full.
 
 **The founders erased themselves.**
 
-Not metaphorically. Not in the ordinary historical sense where institutions smooth out inconvenient people and leave
-behind only titles.
+Not metaphorically. Not in the ordinary historical sense where
+institutions smooth out inconvenient people and leave behind only titles.
 
 Literally.
 

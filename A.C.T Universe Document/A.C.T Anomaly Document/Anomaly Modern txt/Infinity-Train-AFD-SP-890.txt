@@ -85,8 +85,8 @@ The subject follows a rigid temporal-mechanical cycle:
 
 CARRIAGE TYPOLOGY:
 The infinite carriages are generated via a probabilistic lottery:
-*   Normal Seated Carriage (45%): Standard passenger seating.
-*   Cafeteria Carriage (25%): Contains self-replenishing, non-
+- Normal Seated Carriage (45%): Standard passenger seating.
+- Cafeteria Carriage (25%): Contains self-replenishing, non-
     anomalous food supplies.
 — Storage Carriage (15%): Contains industrial crates, salvage, and
     [ BLANK ] materials.

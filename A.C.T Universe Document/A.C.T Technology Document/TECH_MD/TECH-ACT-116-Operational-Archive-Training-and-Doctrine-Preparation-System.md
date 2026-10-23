@@ -28,9 +28,9 @@ work in the
 operational archive below. It places those spaces beside clearance processing and the command floor, confirming that
 training is part of the boundary between Kurokawa's legitimate archive and its buried archive.
 
-OATDPS exists because archive work can injure through meaning, handling, reading, and procedural confidence. A person
-must be trained before the archive below becomes available, not after the first dangerous document teaches them
-incorrectly.
+OATDPS exists because archive work can injure through meaning, handling, reading,
+and procedural confidence. A person must be trained before the archive below
+becomes available, not after the first dangerous document teaches them incorrectly.
 
 Controlled label: **OATDPS TEACH-BEFORE-DESCENT**.
 
@@ -93,8 +93,8 @@ Known components include:
 - instructor observation station;
 - training certification ledger.
 
-The system uses harmless substitutes, censored procedure sets, and staged failures so personnel encounter mistakes
-before real files punish them.
+The system uses harmless substitutes, censored procedure sets, and staged
+failures so personnel encounter mistakes before real files punish them.
 
 ---
 
@@ -200,9 +200,9 @@ deeper archive assignment until reviewed.
 | Quarterly | re-validate course material against doctrine |
 | Annually | re-certify instructors at the observation station |
 
-Quarterly re-validation of course material matters because doctrine changes and teaching material does not.
-A trainee certified against last year's procedure arrives on the floor confident and wrong, which is worse
-than arriving untrained.
+Quarterly re-validation of course material matters because doctrine changes and
+teaching material does not. A trainee certified against last year's procedure
+arrives on the floor confident and wrong, which is worse than arriving untrained.
 
 ## FAULT ISOLATION
 
@@ -218,9 +218,9 @@ than arriving untrained.
 
 OATDPS can prepare personnel, but it cannot fully simulate the pressure of a real
 anomalous document. Harmless
-substitutes do not possess malice, beauty, threat, promise, or the personal relevance that actual hazardous files may
-present. Training can also create false confidence if personnel believe passing a drill means they understand the
-archive.
+substitutes do not possess malice, beauty, threat, promise, or the personal
+relevance that actual hazardous files may present. Training can also create false
+confidence if personnel believe passing a drill means they understand the archive.
 
 Known failure modes include rote compliance, instructor overdisclosure, training file
 contamination, public-archive habit resurfacing under stress, reluctance to report confusion,
@@ -232,9 +232,9 @@ document hazards as ordinary contraband, and researchers confusing curiosity wit
 ## FAILURE HISTORY
 
 ### OATDPS-Preservation Reflex Review
-A training review found that preservation specialists instinctively tried to save unstable material before asking
-whether it should be touched. Current training includes deliberate stop-and-report drills where non-action is the
-correct response.
+A training review found that preservation specialists instinctively tried to save
+unstable material before asking whether it should be touched. Current training
+includes deliberate stop-and-report drills where non-action is the correct response.
 
 ### OATDPS-Controlled Reading Failure
 A mock exercise showed that personnel could obey access rules while still reading too
@@ -242,9 +242,9 @@ far into a dangerous document
 out of professional habit. Current doctrine trains controlled reading as a physical procedure, not a suggestion.
 
 ### OATDPS-Overtraining Concern
-Command review noted that training can reveal operational archive structure to personnel who may never be approved for
-descent. Current OATDPS modules are staged by provisional access and reveal only the level of doctrine needed for the
-next decision.
+Command review noted that training can reveal operational archive structure to
+personnel who may never be approved for descent. Current OATDPS modules are staged by
+provisional access and reveal only the level of doctrine needed for the next decision.
 
 ---
 

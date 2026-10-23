@@ -121,9 +121,9 @@ Route capacity, Escort pool size. Those 2 gaps are carried in OPEN QUESTIONS.
 | Route capacity | NOT MEASURED |
 | Escort pool size | NOT MEASURED |
 
-The center must know the difference between movement that is convenient and movement that is permitted. It
-stays connected to command communications but keeps its own custody record, so movement history never
-vanishes inside an order.
+The center must know the difference between movement that is convenient and
+movement that is permitted. It stays connected to command communications but
+keeps its own custody record, so movement history never vanishes inside an order.
 
 ## INTERFACE AND OPERATING ENVELOPE
 
@@ -198,9 +198,9 @@ event.
 | Route altered by seismic activity | re-survey before reuse | Security Division |
 | Incident reconstruction request | file release | Relay Administration |
 
-No calendar interval is recorded; the center reconciles per movement, so interval NOT MEASURED. There is no
-consumable. The sample route notice is why destination readiness is confirmed before movement begins rather
-than on arrival.
+No calendar interval is recorded; the center reconciles per movement, so interval
+NOT MEASURED. There is no consumable. The sample route notice is why destination
+readiness is confirmed before movement begins rather than on arrival.
 
 ## FAULT ISOLATION
 
@@ -244,10 +244,10 @@ now maintains priority route tables for seismic, maritime, containment, and medi
 
 ## DIVISION USE
 
-Administration operates ILCC. Recovery uses it for port and field handoff. Containment uses it for chamber supplies
-and resident-support transfer. Research uses it for samples and instruments. Security uses it for escorts and movement
-freezes. Medical uses it for personnel support and exposure response. Command uses ILCC records when reconstructing
-incidents.
+Administration operates ILCC. Recovery uses it for port and field handoff. Containment uses
+it for chamber supplies and resident-support transfer. Research uses it for samples and
+instruments. Security uses it for escorts and movement freezes. Medical uses it for personnel
+support and exposure response. Command uses ILCC records when reconstructing incidents.
 
 ILCC doctrine holds that logistics is containment when the site is deep, wet, restricted, and alive with movement.
 

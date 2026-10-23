@@ -151,8 +151,8 @@ operational.
 
 ### 6.4 Security Division
 
-Security operates the floor's checkpoint function: the main security checkpoint that separates habitation from the
-operational levels below.
+Security operates the floor's checkpoint function: the main security
+checkpoint that separates habitation from the operational levels below.
 
 ---
 
@@ -177,9 +177,9 @@ the Facility's people live between shifts of work that would weigh heavily on an
 
 ### 7.3 The Mess and Recreation Facilities
 
-The floor's mess and recreation facilities sustain the station's social life: dining, gathering, and the ordinary
-human activities that keep a long-rotation population functional. The station treats recreation as an operational
-requirement.
+The floor's mess and recreation facilities sustain the station's social life:
+dining, gathering, and the ordinary human activities that keep a long-rotation
+population functional. The station treats recreation as an operational requirement.
 
 ### 7.4 The Main Security Checkpoint
 
@@ -281,9 +281,9 @@ between the work of containment and the life that makes the work sustainable.
 
 ### 12.1 Sustainment Doctrine
 
-F-5 doctrine holds that the station's personnel are its most critical containment resource: the people who perform the
-station's work must be sustained through long rotations in arctic isolation, and the habitation level exists for that
-purpose.
+F-5 doctrine holds that the station's personnel are its most critical containment
+resource: the people who perform the station's work must be sustained through long
+rotations in arctic isolation, and the habitation level exists for that purpose.
 
 ### 12.2 Separation Doctrine
 

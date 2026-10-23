@@ -82,9 +82,9 @@ or familiar family streets can be moved without total sedation.
 
 A.C.T Acquisition and Custody
 
-A.C.T access remains partial and cooperative. Mercy Lock has not surrendered a complete vehicle because the Institute
-argues that a shielded ambulance without trained transfer nurses becomes a moving cell. Current A.C.T holdings are
-limited to:
+A.C.T access remains partial and cooperative. Mercy Lock has not surrendered a
+complete vehicle because the Institute argues that a shielded ambulance without
+trained transfer nurses becomes a moving cell. Current A.C.T holdings are limited to:
 
 - one torn route-curtain segment, inactive but still light-reactive;
 - two consent-card sleeves removed from a decommissioned interior panel;
@@ -93,10 +93,10 @@ limited to:
 - one photographic set of a rear-door gentle lock transfer plate;
 - one incomplete maintenance checklist with vehicle registration and ward names redacted.
 
-All physical components are stored under Medical-Engineering joint custody. Handling requires gloves, line-of-sight
-camera recording, and consent-ledger cross-reference when a component is still attached to an active patient transfer.
-Components removed from context must not be installed in A.C.T vehicles without Mercy Lock consultation and Legal
-approval.
+All physical components are stored under Medical-Engineering joint custody. Handling
+requires gloves, line-of-sight camera recording, and consent-ledger cross-reference when a
+component is still attached to an active patient transfer. Components removed from context
+must not be installed in A.C.T vehicles without Mercy Lock consultation and Legal approval.
 
 TECHNICAL SPECIFICATION
 
@@ -313,7 +313,7 @@ and the Institute's refusal to allow unsupervised reproduction. The system shoul
 diplomatically sensitive, and dangerous when removed from Mercy Lock's care discipline.
 
 FILE METADATA
--------------
+═══════════════════════════════════════════════════════════════════════
 
 FILE CREATED:            17/04/1988
 FILE LAST UPDATED:       22/09/2013

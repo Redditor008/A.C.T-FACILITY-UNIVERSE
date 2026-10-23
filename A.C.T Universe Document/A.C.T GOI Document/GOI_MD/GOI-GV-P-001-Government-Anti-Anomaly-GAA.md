@@ -94,9 +94,9 @@ structures. The apparent origin of an instruction is selected according to what 
 
 This is not merely secrecy for its own sake. A visible anomaly office would
 attract political ambition, investigative
-attention, public fear, commercial interest, and hostile GOI targeting. The GAA functions by appearing as ordinary
-authority at the exact moment ordinary authority is required, then becoming administratively unremarkable again once
-an A.C.T operation has passed.
+attention, public fear, commercial interest, and hostile GOI targeting. The GAA functions
+by appearing as ordinary authority at the exact moment ordinary authority is required,
+then becoming administratively unremarkable again once an A.C.T operation has passed.
 
 Where cover continuity cannot be maintained, the GAA does not decide concealment policy alone. It submits the exposure
 condition to A.C.T Intelligence, Civil Covert, and the responsible Site command body. The GAA may supply the legal or
@@ -145,10 +145,10 @@ coordinate a plausible road closure, utility interruption, evacuation notice, in
 category, disaster-recovery notice, or infrastructure repair explanation. Its purpose is to stop an anomalous incident
 from becoming a lasting contradiction in ordinary life.
 
-This office is tightly constrained. Civil continuity measures must not become an excuse to erase people from their own
-lives, seize civilian property without operational necessity, or convert a localized event into permanent political
-control. When a proposed measure threatens to exceed ordinary containment need, A.C.T Civil Covert and Archive review
-are required.
+This office is tightly constrained. Civil continuity measures must not become an excuse to
+erase people from their own lives, seize civilian property without operational necessity, or
+convert a localized event into permanent political control. When a proposed measure threatens
+to exceed ordinary containment need, A.C.T Civil Covert and Archive review are required.
 
 #### 4.4 Restricted Intelligence Interface
 
@@ -212,18 +212,18 @@ cannot be distributed through ordinary accountability structures. GAA's useful p
 than transformational. It creates lawful-looking movement, restricted authorization, and continuity cover while
 leaving anomaly classification, containment, and transformation authority with A.C.T.
 
-The practice becomes dangerous when state continuity is reinterpreted as state entitlement. Any GAA component that
-argues an anomaly should be retained, weaponized, publicly administered, or politically owned has moved beyond the
-purpose recognized by this record. Cooperation exists to maintain the boundary, not to give one institution control
-over all others.
+The practice becomes dangerous when state continuity is reinterpreted as state entitlement. Any
+GAA component that argues an anomaly should be retained, weaponized, publicly administered, or
+politically owned has moved beyond the purpose recognized by this record. Cooperation exists to
+maintain the boundary, not to give one institution control over all others.
 ---
 
 ## OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
 
 ### Known Operational Assets
 
-The GAA's most significant assets are institutional rather than anomalous. A.C.T recognizes the following controlled
-capacities:
+The GAA's most significant assets are institutional rather than
+anomalous. A.C.T recognizes the following controlled capacities:
 
 - access to lawful-looking emergency mechanisms;
 - compartmented administrative authority;
@@ -288,10 +288,10 @@ because these concerns overlap; it remains limited because they are not identica
 
 ### Restricted Contact History
 
-The original contact sequence between A.C.T and the GAA is retained under restricted liaison routing. The absence of a
-broad historical narrative in ordinary GAA-facing records is intentional. A complete account would identify legacy
-state channels, older access arrangements, and individuals whose association with the concealed system is safer when
-it remains unassembled.
+The original contact sequence between A.C.T and the GAA is retained under restricted liaison
+routing. The absence of a broad historical narrative in ordinary GAA-facing records is
+intentional. A complete account would identify legacy state channels, older access arrangements,
+and individuals whose association with the concealed system is safer when it remains unassembled.
 
 What is operationally established is that the relationship was built around necessity rather than incorporation. A.C.T
 required limited access to the visible powers that regulate movement, property, emergency action, and administrative
@@ -316,16 +316,16 @@ or that GAA personnel are admitted into all operational matters. Cooperation is 
 
 The normal sequence is as follows:
 
-   A.C.T identifies an event requiring state-facing authority, legal masking, protected logistics, or civil continuity
-   support.
+   A.C.T identifies an event requiring state-facing authority,
+   legal masking, protected logistics, or civil continuity support.
 2. Intelligence Division determines the smallest GAA interface capable of supporting the requirement.
-   The responsible Site command body confirms whether disclosure of the operational need threatens containment,
-   personnel
+   The responsible Site command body confirms whether disclosure
+   of the operational need threatens containment, personnel
    safety, or a protected archive boundary.
 4. GAA receives a bounded task request rather than a full anomaly explanation.
 5. The action is documented through a restricted cross-reference chain.
-   Archive and Intelligence conduct a post-action review for leakage, unauthorized retention, political overreach, and
-   future dependency risk.
+   Archive and Intelligence conduct a post-action review for leakage,
+   unauthorized retention, political overreach, and future dependency risk.
 
 The smallest possible disclosure is preferred. A larger briefing is not proof of trust;
 it is a risk condition that
@@ -342,8 +342,7 @@ viability, secrecy urgency, recovery speed, specialization, and active command p
   and black-market-sensitive government interfaces.
   **ACT-SITE-02-RU-N / White Grave Station** may require GAA assistance for remote cold-zone transport, quarantine
   cover, or restricted infrastructure actions.
-  **ACT-SITE-03-JP-E / Kurokawa Archive Node** is consulted when a government records path, media channel,
-  or digital
+  **ACT-SITE-03-JP-E / Kurokawa Archive Node** is consulted when a government records path, media channel, or digital
   document chain becomes an information hazard.
 — **ACT-SITE-04-BR-C / Verde Null Bio-Reserve** may request restricted environmental, quarantine, or land-use support
   where in-place biological containment affects civilian territory.
@@ -379,16 +378,16 @@ immediate confrontation. Intelligence Division identifies the affected individua
 determines whether the breach arose from personal ambition, hostile manipulation, institutional panic, or a legitimate
 misunderstanding of task scope.
 
-Civil Covert Division then restricts the compromised channel through revised cover procedures, rerouted authority, and
-controlled legal correction. If anomalous material has been retained, Recovery and Containment personnel reclaim it
-under an appropriate surface explanation. If exposure has occurred, the response must preserve both public normalcy
-and the lawful continuity needed to prevent the government body from generating a second crisis while defending
-itself.
+Civil Covert Division then restricts the compromised channel through revised cover procedures,
+rerouted authority, and controlled legal correction. If anomalous material has been retained,
+Recovery and Containment personnel reclaim it under an appropriate surface explanation. If
+exposure has occurred, the response must preserve both public normalcy and the lawful continuity
+needed to prevent the government body from generating a second crisis while defending itself.
 
-Direct dismantling of a government-facing interface is authorized only when ordinary restriction has failed and the
-interface has become a source of systemic leak, hostile control, or unauthorized anomaly action. Such action requires
-Level 4 review and must preserve the distinction between a compromised component and the broader state structure
-around it.
+Direct dismantling of a government-facing interface is authorized only when ordinary
+restriction has failed and the interface has become a source of systemic leak, hostile
+control, or unauthorized anomaly action. Such action requires Level 4 review and must preserve
+the distinction between a compromised component and the broader state structure around it.
 
 ---
 ---
@@ -414,10 +413,10 @@ A controlled transfer required surface documentation, route protection, and a pl
 separate A.C.T containment team retained direct custody of the anomalous load. GAA logistics supplied the ordinary
 movement layer. Containment Division supplied the handling rules. Neither body was permitted to replace the other.
 
-Post-action review identified no unauthorized material retention, but it noted that repeated reliance on the same
-liaison path could create a recognizable pattern. Future transfers were distributed across approved channels. The
-record demonstrates that useful cooperation must be varied enough to remain veiled and limited enough to remain
-survivable.
+Post-action review identified no unauthorized material retention, but it noted that
+repeated reliance on the same liaison path could create a recognizable pattern. Future
+transfers were distributed across approved channels. The record demonstrates that useful
+cooperation must be varied enough to remain veiled and limited enough to remain survivable.
 ---
 
 ## INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS

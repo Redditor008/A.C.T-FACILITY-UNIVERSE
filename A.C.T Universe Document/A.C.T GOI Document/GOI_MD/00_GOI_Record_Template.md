@@ -34,9 +34,9 @@
 | AUTHORITY | [Responsible archive and operational authority] |
 
 #### Archive Note
-[State the filing condition, the limit of current certainty, and whether the record concerns an organization, an
-anomalous group requiring dual filing, or an unresolved structure. This field establishes scope; it is not a short
-description.]
+[State the filing condition, the limit of current certainty, and whether the record
+concerns an organization, an anomalous group requiring dual filing, or an
+unresolved structure. This field establishes scope; it is not a short description.]
 
 ---
 
@@ -57,8 +57,8 @@ it matters to containment, Structural Reality, secrecy, or ordinary life.]
 
 ### Leadership Condition
 
-[Identify confirmed leadership, explain why leadership is unknown, or distinguish an office from the people occupying
-it.]
+[Identify confirmed leadership, explain why leadership is
+unknown, or distinguish an office from the people occupying it.]
 
 ### Internal Structure
 
@@ -67,8 +67,8 @@ material structure. Separate confirmed information from A.C.T assessment.]
 
 ### Membership and Recruitment
 
-[Record size, recruitment pattern, access layers, vulnerable participants, or the reason a total census cannot be
-established.]
+[Record size, recruitment pattern, access layers, vulnerable
+participants, or the reason a total census cannot be established.]
 
 ---
 
@@ -89,8 +89,8 @@ weaponizes, avoids, or is affected by anomalies without assigning unproven capac
 
 ### Secrecy and Civilian Exposure
 
-[Explain how the group preserves, damages, uses, or exploits normalcy. Connect the explanation to the assigned Secrecy
-Risk.]
+[Explain how the group preserves, damages, uses, or exploits
+normalcy. Connect the explanation to the assigned Secrecy Risk.]
 
 ---
 

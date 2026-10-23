@@ -94,8 +94,8 @@ Known components include:
 - emergency lockout shutter;
 - partial-seal audit tag.
 
-The partial-seal audit tag records whether a file is closed, partially opened, comparison-open, transfer-locked, or
-downgraded.
+The partial-seal audit tag records whether a file is closed,
+partially opened, comparison-open, transfer-locked, or downgraded.
 
 ---
 
@@ -185,8 +185,8 @@ reclassification, or transfer. Reading stations record who viewed the file, whic
 comparison data was requested, and whether the seal state changed. Copies are never made because staff want
 convenience. Copies require custody reason.
 
-If unauthorized access is attempted, the vault locks the file family and alerts Security, Central Archive, and the
-review chain.
+If unauthorized access is attempted, the vault locks the file
+family and alerts Security, Central Archive, and the review chain.
 
 ---
 
@@ -245,9 +245,9 @@ returned to storage without a clear seal-state update. Current RRV procedure req
 or reaffirm the seal tag before closure.
 
 ### RRV-Emergency Access Drill
-A simulated containment warning required rapid opening of a restricted file. Security granted the route, but Archive
-delayed the audit packet. Current drill standards require emergency access and audit creation to occur in the same
-action chain.
+A simulated containment warning required rapid opening of a restricted file. Security
+granted the route, but Archive delayed the audit packet. Current drill standards
+require emergency access and audit creation to occur in the same action chain.
 
 ---
 

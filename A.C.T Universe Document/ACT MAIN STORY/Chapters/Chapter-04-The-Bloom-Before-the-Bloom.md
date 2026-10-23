@@ -91,8 +91,8 @@ Integration.
 
 This file had none of that.
 
-This file suggested the Facility had touched the bloom—or something like it—before the world ever officially knew it
-existed.
+This file suggested the Facility had touched the bloom—or something
+like it—before the world ever officially knew it existed.
 
 And if that was true, then every modern narrative about AFD-NB-004 had been built
 on a false starting point.

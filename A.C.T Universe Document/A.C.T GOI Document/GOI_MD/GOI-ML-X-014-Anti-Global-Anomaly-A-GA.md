@@ -179,8 +179,8 @@ This belief supports transnational recruitment and movement. A cell may form aro
 document, an ideological contact, a previous disaster, a former security specialist, a frightened civilian witness, or
 an individual who mistakes trauma for expertise. Once linked to the wider network, the
 cell is given a target logic:
-identify anomaly-associated infrastructure, obtain or build a means of destruction, and remove the anomaly before
-containment can preserve it.
+identify anomaly-associated infrastructure, obtain or build a means of
+destruction, and remove the anomaly before containment can preserve it.
 
 A-GA is not made less dangerous by its dispersed structure. Dispersion reduces the value of a single arrest, raid, or
 false-flag disruption. A cell that loses contact with another cell can still act on
@@ -278,8 +278,8 @@ A-GA's secrecy classification is **LEAKING**. The network does not consistently 
 its methods create recurring pathways by which concealed information reaches unauthorized people. A raid produces
 witnesses. A stolen image produces a copy chain. A sabotage attempt can draw emergency
 responders. A member may
-recruit by revealing a partial truth. A failed demolition can leave physical evidence that no conventional explanation
-absorbs cleanly.
+recruit by revealing a partial truth. A failed demolition can leave
+physical evidence that no conventional explanation absorbs cleanly.
 
 Some cells treat leaks as recruitment material. Others treat them as unavoidable collateral. Both conditions are
 dangerous. An unplanned leak can cause panic and misdirection; a controlled leak can give A-GA a supply of frightened
@@ -316,10 +316,10 @@ follows.
 
 The earliest reliable A.C.T records do not preserve a single clean founding event for
 A-GA. The hostile network
-appears in the archive through recurring patterns: people seeking anomalous targets before they understand them,
-technical preparations built around destruction rather than containment, and operations that treat the Facility itself
-as evidence of betrayal. Whether these patterns originated from one organization or converged into the present network
-remains contested.
+appears in the archive through recurring patterns: people seeking anomalous targets before
+they understand them, technical preparations built around destruction rather than containment,
+and operations that treat the Facility itself as evidence of betrayal. Whether these patterns
+originated from one organization or converged into the present network remains contested.
 
 The current designation exists because the recurring pattern became operationally coherent. Separate incidents showed
 the same refusal to distinguish a harmful anomaly from a stabilizing or unknown one,
@@ -332,9 +332,9 @@ actor.
 The relationship has remained hostile because A-GA's central premise leaves no durable negotiation ground. The
 Facility can alter a route, recover an object, contain a dangerous member, or prevent
 one attack. It cannot concede
-that every anomaly must be destroyed without abandoning the doctrine that exists to preserve Structural Reality. This
-conflict is not a temporary jurisdictional dispute. It is a continuing clash between eradication certainty and
-responsible containment.
+that every anomaly must be destroyed without abandoning the doctrine that exists to
+preserve Structural Reality. This conflict is not a temporary jurisdictional dispute.
+It is a continuing clash between eradication certainty and responsible containment.
 ---
 
 ## A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
@@ -373,8 +373,8 @@ Security Division establishes access control. Recovery Division secures any expo
 Containment Division evaluates whether the target condition is stable, interrupted, or falsely reported. Intelligence
 Division isolates the likely cell network and examines whether the reported target is a
 deception. Military Division
-is deployed only where hostile force, breach severity, or cross-site escalation exceeds normal Security and Recovery
-capacity.
+is deployed only where hostile force, breach severity, or cross-site
+escalation exceeds normal Security and Recovery capacity.
 
 No staff member is to confront an A-GA cell by arguing that the anomaly
 is useful. The cell's doctrine treats such a
@@ -417,9 +417,9 @@ Recovered material is to be split into three handling streams:
 archive intake; **Exposure material** — media, symbols, recordings, diagrams, or texts that may propagate hazardous
 information and require information-quarantine procedure.
 
-No recovered A-GA equipment is to be repurposed by Transformation Division without O5-level exception. The group's
-methods are built on unverified destruction logic, and copying that logic risks importing its failures into Facility
-doctrine.
+No recovered A-GA equipment is to be repurposed by Transformation Division without
+O5-level exception. The group's methods are built on unverified destruction logic,
+and copying that logic risks importing its failures into Facility doctrine.
 
 ---
 ---
@@ -435,10 +435,10 @@ been moved to a stable condition and the route offered a credible opportunity to
 identify additional procurement
 contacts.
 
-The subsequent recovery confirmed that the equipment had been assembled from individually mundane components. Several
-components had no anomalous function until combined under A-GA instruction. This reinforces the standing requirement
-that procurement analysis examine pattern and intended use rather than waiting for a visibly anomalous device to
-appear.
+The subsequent recovery confirmed that the equipment had been assembled from individually
+mundane components. Several components had no anomalous function until combined under A-GA
+instruction. This reinforces the standing requirement that procurement analysis examine
+pattern and intended use rather than waiting for a visibly anomalous device to appear.
 
 ### False Target Review - Restricted Extract
 
@@ -458,14 +458,14 @@ becomes vulnerable.
 
 ### What Makes A-GA Persistent
 
-A-GA persists because the anomalous world gives it constant raw material: fear, injury, secrecy, partial truth, and
-events that ordinary people cannot explain. Every poorly handled leak can become evidence for its worldview. Every
-necessary concealment action can be recast as corruption. Every Facility error can be flattened into a claim that all
-containment is complicity.
+A-GA persists because the anomalous world gives it constant raw material: fear, injury, secrecy,
+partial truth, and events that ordinary people cannot explain. Every poorly handled leak can
+become evidence for its worldview. Every necessary concealment action can be recast as corruption.
+Every Facility error can be flattened into a claim that all containment is complicity.
 
-The correct response is not self-justification through public exposure. The correct response is competent containment,
-narrowly controlled truth, protection of civilians, and active interruption of the pathways by which fear becomes
-militant certainty.
+The correct response is not self-justification through public exposure. The correct
+response is competent containment, narrowly controlled truth, protection of civilians,
+and active interruption of the pathways by which fear becomes militant certainty.
 
 ### Current Intelligence Priorities
 
@@ -486,8 +486,7 @@ militant certainty.
   Does the network maintain an internal archive of failed eradication attempts, and if
   so,
   where is it protected?
-  How often do cells obtain anomaly intelligence from theft versus observation, coercion, commercial purchase,
-  or
+  How often do cells obtain anomaly intelligence from theft versus observation, coercion, commercial purchase, or
   accidental leak?
   Has any A-GA cell been knowingly redirected by another GOI toward a target
   whose

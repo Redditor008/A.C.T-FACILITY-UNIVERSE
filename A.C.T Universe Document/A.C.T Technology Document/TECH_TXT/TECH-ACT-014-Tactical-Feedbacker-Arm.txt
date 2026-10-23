@@ -69,8 +69,8 @@ incoming force can be answered with the correct harmonic disagreement. The arm i
 effective against defined
 impacts: lunges, strikes, projectiles, burst-waves, and short contact events. It is much weaker against
 sustained
-crushing, fluid engulfment, psychic attack, heat, acid, infection, narrative command, or anything that does not
-present a parryable edge.
+crushing, fluid engulfment, psychic attack, heat, acid, infection,
+narrative command, or anything that does not present a parryable edge.
 
 Approved roles include field defense during Recovery expeditions; protection against high-energy projectiles where
 cover is unavailable; controlled contact with brittle anomalous limbs or charging entities; tactical training in
@@ -301,9 +301,9 @@ Feedbacker Arm under field conditions. Novak shattered a Bones Hound limb throug
 experience deterrent pain and continued pack behavior. The review remains attached to TFA doctrine because it proves
 interruption is not neutralization.
 
-TFA-2021 False Ding Incident: A worn wrist-screen speaker produced a success ding during a late parry. The operator
-survived but took rib fractures from transferred impact. Current models require visual, haptic, and log confirmation
-after high-force events.
+TFA-2021 False Ding Incident: A worn wrist-screen speaker produced a success ding during
+a late parry. The operator survived but took rib fractures from transferred impact.
+Current models require visual, haptic, and log confirmation after high-force events.
 
 DIVISION USE
 Tactical Engineering maintains hardware, capacitors, fins, and timing software. Medical Prosthetics manages bonding,

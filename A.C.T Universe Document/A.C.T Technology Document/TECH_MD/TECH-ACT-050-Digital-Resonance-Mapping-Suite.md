@@ -56,9 +56,9 @@ touch, observation, proximity, doubt, memory, or procedural error.
 
 The suite is part of Redwood Veil's 2026 intake standard. Objects brought to F-5
 can be placed in instrumented
-chambers where atmospheric, electromagnetic, observational, and data conditions are regulated. Operators collect pulse
-profiles, compare them to archive records, and produce a pre-contact handling advisory before ordinary laboratory
-study begins.
+chambers where atmospheric, electromagnetic, observational, and data conditions are
+regulated. Operators collect pulse profiles, compare them to archive records, and
+produce a pre-contact handling advisory before ordinary laboratory study begins.
 
 ---
 
@@ -84,9 +84,9 @@ already participating in reality before staff disturb it.
 
 The DRM Suite is a room-scale instrument environment rather than a handheld device. The
 suite contains instrumented
-chambers, isolation architecture, regulated power, data processing offices, observation feeds, and archive-mirrored
-storage. It operates on isolated power with precision regulation because false noise can become a false identity
-reading.
+chambers, isolation architecture, regulated power, data processing offices,
+observation feeds, and archive-mirrored storage. It operates on isolated power
+with precision regulation because false noise can become a false identity reading.
 
 Known components include:
 
@@ -195,10 +195,10 @@ interprets the result aloud until the first data pass is complete. The suite rec
 signature strength, rhythm,
 instability, resistance to measurement, and any environmental response that follows the act of being mapped.
 
-Afterward, Research issues a handling advisory. Containment uses it to confirm storage and movement. Transformation
-uses it to decide whether the object can be altered, stabilized, neutralized, or integrated. Archive preserves raw
-data and interpretation separately so later reviewers can see what the instrument measured and what staff believed it
-meant.
+Afterward, Research issues a handling advisory. Containment uses it to confirm storage and
+movement. Transformation uses it to decide whether the object can be altered, stabilized,
+neutralized, or integrated. Archive preserves raw data and interpretation separately so
+later reviewers can see what the instrument measured and what staff believed it meant.
 
 ---
 
@@ -248,8 +248,8 @@ permission to proceed carefully, not permission to stop fearing the object.
 ### DRM-2026 Baseline Echo Event
 An inert control cradle produced a weak pulse after a previous artifact scan. The
 cradle was not anomalous; the
-chamber had retained environmental residue. F-5 added empty-chamber baseline checks before and after every high-risk
-scan.
+chamber had retained environmental residue. F-5 added empty-chamber
+baseline checks before and after every high-risk scan.
 
 ### DRM-2026 Advisory Overreach
 A research team treated a stable pulse as proof that direct handling was safe.
@@ -258,9 +258,9 @@ measurement but reacted to skin contact. Advisory language
 now distinguishes measurement stability from handling safety.
 
 ### DRM-2026 Archive Drift Correction
-A pulse profile matched an older record closely enough to suggest duplicate identity. Archive review found the older
-record had been stored under a narrower sensor standard. F-5 now records instrument generation and chamber state with
-every comparison.
+A pulse profile matched an older record closely enough to suggest duplicate identity.
+Archive review found the older record had been stored under a narrower sensor standard.
+F-5 now records instrument generation and chamber state with every comparison.
 
 ---
 

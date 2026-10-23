@@ -107,9 +107,9 @@ The space before `.INC` is retained in the file because the stylized mark is
 repeated across recovered material and
 customer-facing packaging.
 
-A.C.T personnel should use the full designation in internal records. Public-facing cover operations must not repeat
-the mark unnecessarily. The company gains from every unqualified person who learns there may be a purchasable way to
-alter dreams.
+A.C.T personnel should use the full designation in internal records. Public-facing
+cover operations must not repeat the mark unnecessarily. The company gains from
+every unqualified person who learns there may be a purchasable way to alter dreams.
 
 ---
 
@@ -123,10 +123,10 @@ same information. Some describe their employer as a legitimate private health co
 contracted service chain. None of the confirmed public-facing personnel has supplied a reliable path to the person or
 body that controls the Dream Nectar source and the extraction machine.
 
-A.C.T therefore records leadership as **unresolved**. This does not mean the company lacks command. A company that can
-operate at least twelve open buildings, maintain controlled product supply, manage repeated consumer demand, and
-prevent staff from assembling the full picture has a functioning leadership system whether or not its executives are
-visible.
+A.C.T therefore records leadership as **unresolved**. This does not mean the company lacks
+command. A company that can operate at least twelve open buildings, maintain controlled
+product supply, manage repeated consumer demand, and prevent staff from assembling the full
+picture has a functioning leadership system whether or not its executives are visible.
 
 The most likely command conditions are a concealed board, a single protected owner, a
 rotating custody group around
@@ -137,8 +137,8 @@ Nectar can be extracted from a Dream-Type Anomaly.
 
 ### Building Layers
 
-Confirmed buildings display different public functions, but their internal structure follows a recurring separation of
-access.
+Confirmed buildings display different public functions, but their
+internal structure follows a recurring separation of access.
 
 #### Public Layer
 
@@ -283,17 +283,17 @@ effectively as it exploits a customer.
 
 ### Engineering Capability Assessment
 
-DREAM .INC is classified **ENGINEERING** because it uses a machine-based extraction process to obtain, process,
-package, and distribute an anomalous substance. This classification does not state that the company designed the
-apparatus or understands the underlying anomaly. It reflects the scale of its direct technical interaction with
-anomalous material.
+DREAM .INC is classified **ENGINEERING** because it uses a machine-based extraction process
+to obtain, process, package, and distribute an anomalous substance. This classification
+does not state that the company designed the apparatus or understands the underlying
+anomaly. It reflects the scale of its direct technical interaction with anomalous material.
 
 The distinction matters. A handler can move an object according to learned rules. DREAM
 .INC has built a commercial
-supply system around active extraction. Its employees or contractors can maintain enough of a process to convert a
-Dream-Type Anomaly into recurring product. That makes the company capable of causing harm through overuse,
-miscalibration, unauthorized modification, product dilution, data misuse, or a failure to recognize that the machine
-has changed state.
+supply system around active extraction. Its employees or contractors can maintain enough of
+a process to convert a Dream-Type Anomaly into recurring product. That makes the company
+capable of causing harm through overuse, miscalibration, unauthorized modification, product
+dilution, data misuse, or a failure to recognize that the machine has changed state.
 
 ### Secrecy and Civilian Exposure
 
@@ -305,9 +305,9 @@ otherwise reject an impossible claim.
 
 The company does not need a public advertising campaign to expand. It can market
 through trusted referrals, private
-consultations, message groups, paid intermediaries, false medical discretion, and the shame that prevents consumers
-from reporting a product associated with their deepest desires. This creates an active exposure system even when the
-company appears quiet.
+consultations, message groups, paid intermediaries, false medical discretion, and the
+shame that prevents consumers from reporting a product associated with their deepest
+desires. This creates an active exposure system even when the company appears quiet.
 
 ---
 
@@ -342,10 +342,10 @@ operate multiple open buildings under coordinated secrecy. No verified evidence 
 classification. Conversely, treating the network as merely local would ignore the demonstrated capacity to spread
 product, staffing, data, and cover methods beyond one isolated community.
 
-The primary active region is recorded as a distributed national corporate footprint rather than one named city.
-Precise regional concentration is still under review. This wording prevents A.C.T from making an unsupported
-geographic claim while recognizing that at least twelve functioning sites cannot be managed as unrelated local
-incidents.
+The primary active region is recorded as a distributed national corporate footprint
+rather than one named city. Precise regional concentration is still under review. This
+wording prevents A.C.T from making an unsupported geographic claim while recognizing
+that at least twelve functioning sites cannot be managed as unrelated local incidents.
 
 ### Known Assets
 
@@ -397,10 +397,10 @@ care.
 
 A prospective customer may enter through a normal building, be directed to a private
 consultant, complete an
-apparently confidential discussion, receive a suggested product route, and be warned not to discuss the experience
-with ordinary medical staff. The consultation may also gather the very information needed to make the later dream feel
-personally accurate. Whether this information guides the product, feeds the machine, or simply helps the company claim
-success is unresolved.
+apparently confidential discussion, receive a suggested product route, and be warned not to
+discuss the experience with ordinary medical staff. The consultation may also gather the very
+information needed to make the later dream feel personally accurate. Whether this information
+guides the product, feeds the machine, or simply helps the company claim success is unresolved.
 
 A.C.T response cannot treat consumer contact as a simple narcotics case. The product is
 tied to a dream condition,
@@ -430,9 +430,9 @@ product whose value is built on private desperation.
 
 ### Current Relationship
 
-DREAM .INC has no formal relationship with A.C.T. The company benefits from remaining unidentified as an anomalous
-actor, while the Facility must prevent product expansion without warning the network before source and machine custody
-can be secured.
+DREAM .INC has no formal relationship with A.C.T. The company benefits from remaining
+unidentified as an anomalous actor, while the Facility must prevent product expansion
+without warning the network before source and machine custody can be secured.
 
 A direct raid on every known building would be premature if it leaves the
 source anomaly and extraction apparatus
@@ -451,10 +451,10 @@ take custody of the machine when safe.
 **Central Command** and the **Intelligence Division, Corporate Exploitation Desk** hold primary file authority
 because DREAM .INC is a multi-building corporate structure with an unresolved source location and national reach.
 
-**ACT-SITE-03-JP-E / Kurokawa Archive Node** provides cognitive, dream-content, recording, data, and
-information-hazard review. Its role follows the product's relationship to memory, subjective experience, private
-reporting, and potentially contagious dream narratives rather than any claim that the company operates in the Site's
-geographic region.
+**ACT-SITE-03-JP-E / Kurokawa Archive Node** provides cognitive, dream-content, recording,
+data, and information-hazard review. Its role follows the product's relationship to memory,
+subjective experience, private reporting, and potentially contagious dream narratives
+rather than any claim that the company operates in the Site's geographic region.
 
 **ACT-SITE-01-US-W / Redwood Veil Complex** supports corporate-front tracing,
 artifact-route interdiction, covert recovery, building-entry planning, and black-market
@@ -556,10 +556,10 @@ An internal company communication referenced an interruption described only as a
 directed selected staff to delay appointments, reclassify client reports, and avoid accepting certain wishes until an
 unspecified correction had been completed. No public building announced a closure.
 
-The communication did not reveal the apparatus location, but it established that machine condition can alter
-consumer-facing business behavior. A.C.T now treats sudden appointment restrictions, changes in product claims,
-unusual batch scarcity, or urgent collection of dream reports as possible indicators of a source or machine-state
-change.
+The communication did not reveal the apparatus location, but it established that
+machine condition can alter consumer-facing business behavior. A.C.T now treats sudden
+appointment restrictions, changes in product claims, unusual batch scarcity, or urgent
+collection of dream reports as possible indicators of a source or machine-state change.
 
 ---
 
@@ -568,8 +568,7 @@ change.
 ### Confirmed Operational Facts
 
 - DREAM .INC is a large company using a distributed corporate structure.
-  The company possesses a mysterious anomalous machine that extracts Dream Nectar from at least
-  one [REDACTED]
+  The company possesses a mysterious anomalous machine that extracts Dream Nectar from at least one [REDACTED]
   Dream-Type Anomaly.
 - DREAM .INC sells Dream Nectar as underground medicine.
   The product is sold with the claim that a consumer's wish will come
@@ -616,8 +615,8 @@ infiltration.
   affect
   extraction output and
   source-anomaly behavior?
-  Do repeated users develop a dependency on dream fulfillment, false memory, altered desire, or
-  a waking effect not yet
+  Do repeated users develop a dependency on dream fulfillment,
+  false memory, altered desire, or a waking effect not yet
   reported to A.C.T?
   What event would force the company to abandon open buildings and move its
   machine
@@ -655,8 +654,7 @@ removing this organizational dossier.
 - Site Map and Jurisdiction Doctrine — cross-site assignment and corporate-route response.
 - Facility Divisions, Personnel Roles, and Operational Life — Intelligence, Medical, Recovery, Containment, Civil
   Covert, and Security responsibilities.
-  Anomaly Classification Manual Archive — separate filing of the Dream-Type Anomaly, extraction apparatus, and
-  Dream
+  Anomaly Classification Manual Archive — separate filing of the Dream-Type Anomaly, extraction apparatus, and Dream
   Nectar material.
 - Anomaly Log Categories In-World Explanation — controlled recovery, medical, incident, and exposure documentation.
 

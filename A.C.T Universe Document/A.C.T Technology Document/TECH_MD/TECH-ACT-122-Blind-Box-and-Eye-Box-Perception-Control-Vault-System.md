@@ -57,10 +57,10 @@ material that is too dangerous for active storage but not always assigned to the
 absolute non-reading condition of
 F-1.
 
-Approved roles include memetic symbol vaulting, infohazard storage, visual-denial containment, Eye Box observation,
-Blind Box preservation, Dread EYE support custody, cognitive-care linked access, restriction-set enforcement,
-specific-unit access control, and transfer assessment when a holding must move upward to readable storage or downward
-to the Unread Archive.
+Approved roles include memetic symbol vaulting, infohazard storage, visual-denial containment,
+Eye Box observation, Blind Box preservation, Dread EYE support custody, cognitive-care linked
+access, restriction-set enforcement, specific-unit access control, and transfer assessment
+when a holding must move upward to readable storage or downward to the Unread Archive.
 
 ---
 
@@ -228,10 +228,10 @@ of the restriction rather than an exception to it.
 
 ## KNOWN LIMITS
 
-BBEBPCVS can deny or discipline perception, but it cannot make perception harmless. A symbol may act through partial
-sight, reflection, description, anticipation, or memory. An infohazard may trigger through the act of knowing why it
-is restricted. Blind denial can conceal environmental failure, and Eye Box observation can create overconfidence when
-a prior session appears safe.
+BBEBPCVS can deny or discipline perception, but it cannot make perception harmless. A symbol may
+act through partial sight, reflection, description, anticipation, or memory. An infohazard may
+trigger through the act of knowing why it is restricted. Blind denial can conceal environmental
+failure, and Eye Box observation can create overconfidence when a prior session appears safe.
 
 Known failure modes include Blind Box boundary degradation, Eye Box apparatus misalignment, restriction-set ambiguity,
 exposure timer failure, observer fixation, forbidden reference in documentation, cognitive-care delay, general-access

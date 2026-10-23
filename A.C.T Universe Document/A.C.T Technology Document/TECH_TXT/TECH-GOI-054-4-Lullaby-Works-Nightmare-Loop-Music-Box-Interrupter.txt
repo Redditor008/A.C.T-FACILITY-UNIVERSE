@@ -56,7 +56,7 @@ Core handling rule:
 
 IT DOES NOT END THE NIGHTMARE. IT SPENDS NIGHTS UNTIL THE NIGHTMARE STOPS REPEATING.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 FUNCTION SUMMARY
 
@@ -84,7 +84,7 @@ The device does not detect threats, does not relay distress, and does not protec
 a room. It intervenes in a sleep
 pattern.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 ORIGIN AND CUSTODY
 
@@ -100,7 +100,7 @@ Division must record the night count for every unit in service.
 A.C.T has deliberately not sought a working unit for destructive study, following the Listening Plush force-opening
 loss recorded in TECH-GOI-054-2.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 PHYSICAL OR SYSTEM DESCRIPTION
 
@@ -138,7 +138,7 @@ warranty card.
 Whether the winding key is functional, decorative, or a ritual control is unresolved. Whether the finite night count
 is stored mechanically, materially, or not at all is unresolved.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 TECHNICAL SPECIFICATION
 
@@ -173,7 +173,7 @@ Service life is the row that drives the operating procedure. The count is confir
 every night in service is logged, because nobody can tell from outside how much remains and the end of the
 unit is not the end of the risk.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 INTERFACE AND OPERATING ENVELOPE
 
@@ -203,7 +203,7 @@ Handling Limits And Weaknesses
 Night count per unit, charge consumed per night, and restoration behaviour are NOT MEASURED. Medical Division holds
 the written query on whether three quiet nights was ever a promise at all.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 OPERATING PROCEDURE
 
@@ -248,7 +248,7 @@ without either the device or the care.
 Step 8 is the reason the record exists in this form. An exhausted unit looks identical to a broken one
 and to a finished treatment, and only the night log distinguishes them.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 SERVICING AND CALIBRATION
 
@@ -269,7 +269,7 @@ SERVICING AND CALIBRATION
 Servicing is bookkeeping. The only quantity A.C.T can actually track is the number of nights a unit has been in
 service, and that number is the entire basis on which an exhausted unit can be distinguished from a failed one.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 FAULT ISOLATION
 
@@ -287,7 +287,7 @@ FAULT ISOLATION
 | Unit opened                | policy breach                             | withdraw, Engineering                     |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 
----
+═══════════════════════════════════════════════════════════════════════
 
 KNOWN LIMITS
 
@@ -308,7 +308,7 @@ counting, but night counting only
 works while A.C.T knows the unit exists, and most units are in homes A.C.T
 has never visited.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 FAILURE HISTORY
 
@@ -331,7 +331,7 @@ difference has been observed between a recording in the family's language and on
 determined whether the language matters, whether it is a manufacturing artefact, or whether it is intentional.
 Recorded here because it is a repeatable observation with no explanation.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 DIVISION USE
 
@@ -344,7 +344,7 @@ holds inspection records, instruction text, and recovered recordings under restr
 half-moon mark, the three-quiet-nights line, and the language distribution of recovered recordings. Civil Covert
 maintains the cover position for families.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 CROSS-REFERENCES
 
@@ -362,7 +362,7 @@ cannot be replaced is not issuable, so it is not numbered. The Visual Reference
 Guide has no convention for describing
 a device whose only important property is how much of its life is left.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 OPEN QUESTIONS
 
@@ -380,7 +380,7 @@ the charge?
 - Does a music box line lot label exist?
 - What does the manufacturer expect a family to do when the box stops?
 
----
+═══════════════════════════════════════════════════════════════════════
 
 FILE METADATA
 

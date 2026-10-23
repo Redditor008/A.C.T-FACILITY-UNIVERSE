@@ -71,9 +71,9 @@ access, and operate quietly without appearing strange.
 
 The F-3 dossier records the Quiet Cover Doctrine: the annex's cover was designed around
 silence. DPSCS developed to
-make that silence operational rather than theatrical. Staff perform genuine restoration. Administration keeps real
-client and conservation records. Security protects restricted routes without turning the studio into a visible guard
-post.
+make that silence operational rather than theatrical. Staff perform genuine
+restoration. Administration keeps real client and conservation records. Security
+protects restricted routes without turning the studio into a visible guard post.
 
 ---
 
@@ -127,8 +127,8 @@ archive: Client throughput, Restricted work share, Cover challenges. They are fi
 A preservation studio is an unusually good cover because its ordinary business already involves receiving
 documents, restricting access to them, and refusing to discuss client work. The difficulty is
 scale: a small
-studio can only carry a small number of restricted-work explanations before the pattern of refusal becomes
-the noticeable thing.
+studio can only carry a small number of restricted-work explanations
+before the pattern of refusal becomes the noticeable thing.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

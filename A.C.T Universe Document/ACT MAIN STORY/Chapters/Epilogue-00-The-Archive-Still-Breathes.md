@@ -87,8 +87,7 @@ She did not yet have the language for the difference.
 By the end of shift she had three flagged irregularities:
 - a hidden checksum fragment carrying a direct warning
 - a founder signature that did not belong to the person named beneath it
-  an old biological site note mentioning memory-loss symptoms before the official discovery date of
-  AFD-NB-004
+  an old biological site note mentioning memory-loss symptoms before the official discovery date of AFD-NB-004
 
 Nothing enough to report upward dramatically. Everything enough to make her keep reading.
 

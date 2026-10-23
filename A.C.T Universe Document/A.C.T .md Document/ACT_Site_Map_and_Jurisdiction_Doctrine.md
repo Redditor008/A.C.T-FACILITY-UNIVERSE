@@ -32,8 +32,8 @@ jurisdiction, and inter-site support boundaries across its global installation n
 
 A.C.T does not treat geography in a civilian sense. Borders matter only where they
 affect secrecy, logistics,
-transport, political risk, anomaly density, or response timing. Site map doctrine exists to answer four practical
-questions:
+transport, political risk, anomaly density, or response timing.
+Site map doctrine exists to answer four practical questions:
 
 - which SITE is responsible for an anomaly event
 - which SUB-SITE supports that response
@@ -103,8 +103,7 @@ When multiple sites could claim an event, A.C.T resolves control according to th
 3. **Recovery speed** — which site can physically reach it first
 4. **Anomaly specialization** — which site is best suited to the anomaly profile
 5. **Command proximity** — which command chain is already active in the region
-   **Cross-site review** — if conflict persists, Site Governance Review or higher authority resolves final
-   assignment
+   **Cross-site review** — if conflict persists, Site Governance Review or higher authority resolves final assignment
 
 The nearest site is not always the correct site.
 
@@ -214,8 +213,8 @@ control**.
 ---
 
 ## 9. Central Jurisdiction and the Main Facility
-All regional site jurisdictions ultimately sit beneath the doctrinal gravity of the main buried Facility and its
-abyssal inheritance.
+All regional site jurisdictions ultimately sit beneath the doctrinal
+gravity of the main buried Facility and its abyssal inheritance.
 
 Where lower sites manage:
 - events

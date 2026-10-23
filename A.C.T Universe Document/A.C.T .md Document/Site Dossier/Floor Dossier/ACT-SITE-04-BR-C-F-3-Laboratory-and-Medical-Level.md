@@ -74,9 +74,9 @@ medical care are treated in the medical facilities on this floor.
 
 ### 3.3 Relationship to the Surface and Enclosure Network
 
-F-3's laboratories serve the reserve's wider work: samples from the enclosure sectors and the surface research
-programs are processed here, and the floor's findings inform both the reserve's ecological science and its containment
-doctrine.
+F-3's laboratories serve the reserve's wider work: samples from the enclosure
+sectors and the surface research programs are processed here, and the floor's
+findings inform both the reserve's ecological science and its containment doctrine.
 
 ---
 
@@ -84,9 +84,9 @@ doctrine.
 
 ### 4.1 Development of the Laboratory Level
 
-F-3's character developed with the reserve's research mandate: as Verde Null's holdings grew, the reserve required a
-built level for the biological analysis, sample processing, and containment research that outdoor work alone could not
-support.
+F-3's character developed with the reserve's research mandate: as Verde Null's
+holdings grew, the reserve required a built level for the biological analysis, sample
+processing, and containment research that outdoor work alone could not support.
 
 ### 4.2 The Medical Mandate
 
@@ -131,8 +131,8 @@ research under the reserve's doctrine.
 
 ### 6.2 Medical Division
 
-The Medical Division operates the floor's medical facilities: care for personnel and for anomalous subjects requiring
-built-environment care.
+The Medical Division operates the floor's medical facilities: care for
+personnel and for anomalous subjects requiring built-environment care.
 
 ### 6.3 Environmental Containment Division Liaison
 
@@ -141,8 +141,8 @@ linking the floor's laboratory work to the reserve's outdoor operations.
 
 ### 6.4 Security Division
 
-Security guards the floor's access architecture and the laboratory and medical spaces, enforcing the access rules that
-govern the floor.
+Security guards the floor's access architecture and the laboratory
+and medical spaces, enforcing the access rules that govern the floor.
 
 ### 6.5 Archive Division Liaison
 
@@ -222,9 +222,9 @@ transfer, controlled handling, and verified return under the reserve's chain-of-
 
 ### 9.3 Medical Containment
 
-The floor's medical care for anomalous subjects is governed by medical containment doctrine: subjects are cared for
-under conditions that respect both their medical needs and their containment status, with the balance documented and
-reviewed.
+The floor's medical care for anomalous subjects is governed by medical containment
+doctrine: subjects are cared for under conditions that respect both their medical
+needs and their containment status, with the balance documented and reviewed.
 
 ### 9.4 Incident Response
 

@@ -44,11 +44,11 @@ BREACH.
 
 ## FUNCTION OUTLINE
 
-Medical Isolation and Cognitive Recovery Ward System is Redwood Veil's F-6 ward technology for personnel affected by
-trauma, memetic contamination, cognitive injury, and artifact influence. It combines isolation suites,
-exposure-limited treatment rooms, clinical monitoring, atmospheric separation, patient-status access controls, medical
-record confidentiality, and escalation links to Containment and Security when a patient's condition involves active
-anomalous influence.
+Medical Isolation and Cognitive Recovery Ward System is Redwood Veil's F-6 ward technology for
+personnel affected by trauma, memetic contamination, cognitive injury, and artifact influence.
+It combines isolation suites, exposure-limited treatment rooms, clinical monitoring, atmospheric
+separation, patient-status access controls, medical record confidentiality, and escalation links
+to Containment and Security when a patient's condition involves active anomalous influence.
 
 MICRWS is not a prison disguised as a hospital. It is a medical system
 built for a facility where staff can become
@@ -64,16 +64,16 @@ escalation, confidential record custody, and post-exposure return-to-duty review
 
 ## ORIGIN AND DEVELOPMENT
 
-Redwood Veil's early medical capacity began as an infirmary, but ordinary emergency care could not answer what the
-site's work did to personnel. Recovery teams returned with memory gaps. Containment staff developed exposure patterns.
-Researchers carried ideas that behaved like symptoms. Security personnel sometimes became unsafe because they had done
-their duty correctly.
+Redwood Veil's early medical capacity began as an infirmary, but ordinary emergency care could
+not answer what the site's work did to personnel. Recovery teams returned with memory gaps.
+Containment staff developed exposure patterns. Researchers carried ideas that behaved like
+symptoms. Security personnel sometimes became unsafe because they had done their duty correctly.
 
 F-6 developed as a full ward level when the complex recognized that personnel care
 had to be part of containment
-doctrine. MICRWS formalizes that recognition into a technology of clinical rooms, isolation controls, cognitive
-recovery procedure, and confidentiality rules that allow care to occur without converting patients into unrecorded
-hazards.
+doctrine. MICRWS formalizes that recognition into a technology of clinical rooms,
+isolation controls, cognitive recovery procedure, and confidentiality rules that
+allow care to occur without converting patients into unrecorded hazards.
 
 ---
 
@@ -231,9 +231,9 @@ operational detail than a patient's restriction set allows.
 ## FAILURE HISTORY
 
 ### MICRWS-Patient-First Correction
-A review of isolation procedure found that artifact-influence patients could be described more like contained
-residents than injured personnel. Current doctrine states that the patient remains personnel first unless command
-formally changes their status.
+A review of isolation procedure found that artifact-influence patients could be
+described more like contained residents than injured personnel. Current doctrine states
+that the patient remains personnel first unless command formally changes their status.
 
 ### MICRWS-Confidentiality Balance Review
 Medical records once carried unnecessary duty details in order to explain exposure origin. Current record handling

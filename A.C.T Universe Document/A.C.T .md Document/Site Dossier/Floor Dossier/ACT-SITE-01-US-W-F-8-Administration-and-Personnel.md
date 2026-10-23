@@ -138,9 +138,9 @@ administrative machinery of the complex.
 
 ### 6.2 Personnel and Clearance
 
-Personnel processing and clearance verification are conducted on F-8: personnel arriving at the complex are processed
-here, clearances are verified and administered here, and the complex's personnel records are maintained from this
-floor.
+Personnel processing and clearance verification are conducted on F-8: personnel
+arriving at the complex are processed here, clearances are verified and administered
+here, and the complex's personnel records are maintained from this floor.
 
 ### 6.3 Training
 
@@ -197,8 +197,8 @@ architecture appropriate to a floor that commands the site and processes its peo
 
 ### 8.1 Power
 
-F-8 draws on the complex's main supply with standard backup. The command suite's communications systems are on
-protected circuits.
+F-8 draws on the complex's main supply with standard backup. The
+command suite's communications systems are on protected circuits.
 
 ### 8.2 Environment
 
@@ -235,9 +235,9 @@ documented here under the Facility's personnel security doctrine.
 
 ### 9.3 Clearance Verification
 
-Clearance verification is conducted on F-8 as a standing function: the floor maintains the complex's clearance
-architecture, verifying that personnel have the clearances their duties require and that those clearances remain
-valid.
+Clearance verification is conducted on F-8 as a standing function: the floor
+maintains the complex's clearance architecture, verifying that personnel have
+the clearances their duties require and that those clearances remain valid.
 
 ### 9.4 Incident Response
 

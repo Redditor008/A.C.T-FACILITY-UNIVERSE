@@ -43,17 +43,17 @@ Interest because it has recurring
 exchange rules, table keepers, barter clerks, coded ledgers, safe-house routes, medical suppliers, charm handlers,
 debt witnesses, and a repeated ability to help or hide witnesses outside A.C.T control.
 
-The relationship class is **POSITIVE**. Candle-Under Exchange primarily helps survivors remain alive, housed,
-medicated, believed, and protected after anomaly incidents. Its aid can keep people away from predators, exploitative
-markets, abusive families, hostile GOIs, and institutions that cannot publicly acknowledge what happened. A.C.T still
-monitors the Exchange because it moves anomalous items without registration, protects witnesses from official contact,
-preserves dangerous testimony, and can break custody or aftercare chains. Positive does not mean lawful, transparent,
-or safe.
+The relationship class is **POSITIVE**. Candle-Under Exchange primarily helps survivors remain alive,
+housed, medicated, believed, and protected after anomaly incidents. Its aid can keep people away from
+predators, exploitative markets, abusive families, hostile GOIs, and institutions that cannot
+publicly acknowledge what happened. A.C.T still monitors the Exchange because it moves anomalous
+items without registration, protects witnesses from official contact, preserves dangerous testimony,
+and can break custody or aftercare chains. Positive does not mean lawful, transparent, or safe.
 
-Safe-house names, child-witness routes, medical suppliers, and living survivor boards are censored under
-**CANDLE-UNDER DISCLOSURE LIMIT**. Some redactions protect vulnerable civilians from hostile GOIs. Some protect A.C.T
-operations from public reconstruction. Some protect the Exchange from collapse, which could leave active survivors
-without support.
+Safe-house names, child-witness routes, medical suppliers, and living survivor boards are
+censored under **CANDLE-UNDER DISCLOSURE LIMIT**. Some redactions protect vulnerable
+civilians from hostile GOIs. Some protect A.C.T operations from public reconstruction. Some
+protect the Exchange from collapse, which could leave active survivors without support.
 
 ---
 
@@ -65,8 +65,8 @@ Candle-Under Exchange functions as a mutual-aid and barter market for anomaly su
 movement of goods and services that ordinary systems cannot name: medicine for impossible burns, rooms that do not ask
 why a family cannot go home, names of doctors who will not report extra
 shadows, protective charms with limited use,
-witness advice, safe transport, replacement documents, child comfort objects, and warnings about people who buy
-survivors as curiosities.
+witness advice, safe transport, replacement documents, child comfort
+objects, and warnings about people who buy survivors as curiosities.
 
 A.C.T tracks the Exchange because containment leaves civilian aftermath. Survivors need food, rent, doctors, blankets,
 legal papers, childcare, and someone who believes them before an official explanation exists. If A.C.T cannot openly
@@ -106,9 +106,9 @@ room. A Candle Clerk records need,
 payment, debt forgiveness, and unsafe goods. A Debt Witness confirms that no survivor is trapped in obligation after
 receiving emergency aid. Route Moderators move trusted information between nodes.
 
-The absence of a proprietor separates Candle-Under from Anstrall Market. Anstrall is organized around profit,
-leverage, and access through anomalous trade. Candle-Under is organized around survival, debt limits, and keeping
-harmful buyers out.
+The absence of a proprietor separates Candle-Under from Anstrall Market. Anstrall is
+organized around profit, leverage, and access through anomalous trade. Candle-Under
+is organized around survival, debt limits, and keeping harmful buyers out.
 
 ### Internal Structure
 
@@ -133,8 +133,8 @@ Membership includes survivors, relatives, sympathetic nurses, social workers, sh
 witnesses, small-shop owners, altered persons, legal helpers, and people who once received aid and returned to provide
 it. Some participants do not know the full anomalous context. They may believe they
 help domestic abuse victims,
-undocumented migrants, disaster survivors, or families fleeing organized crime. That partial ignorance is part of the
-concealment system.
+undocumented migrants, disaster survivors, or families fleeing organized
+crime. That partial ignorance is part of the concealment system.
 
 Recruitment often begins through need. A person receives a card after an incident:
 
@@ -170,8 +170,8 @@ the Exchange's identity.
 A.C.T assesses that Candle-Under seeks to keep survivors alive and outside predatory markets until safer options
 appear. It does not seek broad anomaly control. It does not seek public exposure.
 It does not reject all A.C.T
-contact. It rejects abandonment, exploitative debt, and official procedures that arrive too late to help with
-immediate life.
+contact. It rejects abandonment, exploitative debt, and official
+procedures that arrive too late to help with immediate life.
 
 The objective aligns with A.C.T Subject Care when survivors receive safe assistance. It conflicts with A.C.T
 Intelligence and Containment when witnesses disappear into safe houses, protective objects remain undocumented, and
@@ -199,9 +199,9 @@ Candle-Under is **Leaking** because help creates records. A survivor card, bad-b
 charm instruction can reveal that the official story is incomplete. The Exchange avoids public spectacle, but it
 cannot help people while pretending nothing happened.
 
-This leakage is often stabilizing. A survivor who receives medicine, housing, and advice is less likely to panic
-publicly or seek help from worse groups. A.C.T must balance normalcy control against the cost of destroying a network
-that reduces civilian harm.
+This leakage is often stabilizing. A survivor who receives medicine, housing, and advice
+is less likely to panic publicly or seek help from worse groups. A.C.T must balance
+normalcy control against the cost of destroying a network that reduces civilian harm.
 
 ---
 
@@ -266,11 +266,11 @@ warning cards from strangers before A.C.T aftercare reached them. Recovery Divis
 tokens in unrelated cases. Intelligence Division opened a consolidated review after an Anstrall Market interdiction
 recovered a bad-buyer board warning survivors against three collectors already under A.C.T investigation.
 
-Formal GOI designation followed the [CENSOR: SHELTER TABLE RAID] incident. A local police operation mistook a
-Candle-Under table for stolen medical supply trafficking. During the raid, several survivors fled, including one child
-witness whose testimony was needed for a predatory entity case. A.C.T Subject Care intervened after discovering the
-table was distributing protective salve, safe-house referrals, and names of doctors willing to treat unexplained
-wounds.
+Formal GOI designation followed the [CENSOR: SHELTER TABLE RAID] incident. A local police
+operation mistook a Candle-Under table for stolen medical supply trafficking. During the raid,
+several survivors fled, including one child witness whose testimony was needed for a predatory
+entity case. A.C.T Subject Care intervened after discovering the table was distributing
+protective salve, safe-house referrals, and names of doctors willing to treat unexplained wounds.
 
 The recovered ledger included the line:
 
@@ -283,9 +283,9 @@ They call it evidence after we call it pain.
 The current relationship is **POSITIVE**. Candle-Under Exchange reduces harm to survivors and keeps vulnerable people
 away from worse markets. A.C.T may cooperate with table keepers when trust exists, but
 no stable agreement controls
-the network. The relationship is not Work because cooperation is local and inconsistent. It is not Neutral because the
-Exchange actively intervenes to help people. It is not Negative because its core pattern is survivor aid, even when it
-obstructs A.C.T interviews.
+the network. The relationship is not Work because cooperation is local and inconsistent. It
+is not Neutral because the Exchange actively intervenes to help people. It is not Negative
+because its core pattern is survivor aid, even when it obstructs A.C.T interviews.
 
 A.C.T must distinguish between the Exchange and Anstrall Market. Both move anomalous goods. Anstrall trades for profit
 and leverage. Candle-Under trades for survival under debt limits.
@@ -364,8 +364,8 @@ No sale if the seller cannot say no.
 Report red gloves to the back room.
 ```
 
-The bad-buyer card is retained because it shows internal ethical enforcement and a direct distinction from predatory
-anomalous markets.
+The bad-buyer card is retained because it shows internal ethical
+enforcement and a direct distinction from predatory anomalous markets.
 
 ---
 
@@ -374,8 +374,7 @@ anomalous markets.
 ### Confirmed Operational Facts
 
 - Candle-Under Exchange is an outside survivor-aid market and not an A.C.T body.
- The Exchange trades aid, medicine, shelter, advice, routes, and limited protective objects among anomaly
- survivors.
+ The Exchange trades aid, medicine, shelter, advice, routes, and limited protective objects among anomaly survivors.
 - Its network can protect witnesses and also prevent A.C.T from locating them promptly.
  The Exchange maintains ethical debt limits and bad-buyer warnings distinct from Anstrall Market behavior.
 - Some exchanged items may be anomalous and require separate custody review.
@@ -408,11 +407,11 @@ build formal aid channels that reduce Exchange dependence without forcing witnes
 
 ### Intelligence Confidence
 
-Moderate. Recovered ledgers, tokens, survivor statements, bad-buyer cards, and repeated table rules confirm
-organizational reality. Confidence is limited by decentralized structure, partial ignorance among participants,
-and the difficulty of distinguishing ordinary mutual aid from informed market nodes. Confidence may rise if A.C.T
-completes a protected table visit, verifies route moderators, or negotiates safe reporting rules with multiple Table
-Keepers.
+Moderate. Recovered ledgers, tokens, survivor statements, bad-buyer cards, and repeated table
+rules confirm organizational reality. Confidence is limited by decentralized structure,
+partial ignorance among participants, and the difficulty of distinguishing ordinary mutual aid
+from informed market nodes. Confidence may rise if A.C.T completes a protected table visit,
+verifies route moderators, or negotiates safe reporting rules with multiple Table Keepers.
 
 ---
 
@@ -420,10 +419,10 @@ Keepers.
 
 ### Anomaly and Record Relationship
 
-Candle-Under Exchange is an organization and therefore belongs in the GOI archive. Individual charms, medicines,
-boards, tokens, safe houses, routes, ledgers, or testimony packets may require separate anomaly, incident, witness,
-medical, or recovered-document files. The organization record must not replace care review for survivors using the
-Exchange.
+Candle-Under Exchange is an organization and therefore belongs in the GOI archive. Individual
+charms, medicines, boards, tokens, safe houses, routes, ledgers, or testimony packets may
+require separate anomaly, incident, witness, medical, or recovered-document files. The
+organization record must not replace care review for survivors using the Exchange.
 
 ### Related A.C.T Records
 

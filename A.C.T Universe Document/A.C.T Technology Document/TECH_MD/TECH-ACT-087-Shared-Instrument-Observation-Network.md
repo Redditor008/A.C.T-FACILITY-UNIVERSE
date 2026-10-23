@@ -68,10 +68,10 @@ it solved two problems at once. Ash Tide needed credible surface equipment, and 
 buried watch needed continuous
 coastal and geologic information.
 
-Early cover planning rejected unnecessary duplication. A secret instrument beside a public one creates questions when
-it breaks, draws power, or requires maintenance. SION instead makes ordinary instruments work hard enough to satisfy
-both duties, while using routing discipline to prevent the station's public records from exposing watchpoint
-priorities.
+Early cover planning rejected unnecessary duplication. A secret instrument beside a public
+one creates questions when it breaks, draws power, or requires maintenance. SION instead
+makes ordinary instruments work hard enough to satisfy both duties, while using routing
+discipline to prevent the station's public records from exposing watchpoint priorities.
 
 ---
 
@@ -179,13 +179,12 @@ quietly altered.
 
 Step 5 carries the whole method. Suppression is not a deletion but a routing
 decision with a stated cause,
-and a suppression without a cause is indistinguishable from tampering when an outside party asks about the
-gap.
+and a suppression without a cause is indistinguishable from tampering when an outside party asks about the gap.
 
-During routine operation, legitimate station staff use SION for open research work. They record coastal, marine,
-volcanic, and wildlife observations according to station procedure. Watch-linked feeds are routed to F-2 under
-controlled access, where Watch Coordination evaluates them for anomaly indicators without rewriting the public station
-record.
+During routine operation, legitimate station staff use SION for open research work. They
+record coastal, marine, volcanic, and wildlife observations according to station procedure.
+Watch-linked feeds are routed to F-2 under controlled access, where Watch Coordination
+evaluates them for anomaly indicators without rewriting the public station record.
 
 When an instrument captures sensitive activity, the Station Manager and Watch Officer determine whether the public
 record can remain ordinary, requires a natural explanation, or must be withheld under cover incident procedure.

@@ -76,10 +76,10 @@ disposition control. A stable frozen case is still a transient case.
 
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
-An ICHS installation includes intake and staging bay, cryogenic storage units, suppression monitoring stations,
-transfer preparation area, environmental control trunks, documentation alcove, floor command post, emergency power,
-sealed access controls, and F-1 closure hardware. Storage units are arranged for observation and extraction rather
-than resident comfort.
+An ICHS installation includes intake and staging bay, cryogenic storage units, suppression
+monitoring stations, transfer preparation area, environmental control trunks, documentation
+alcove, floor command post, emergency power, sealed access controls, and F-1 closure hardware.
+Storage units are arranged for observation and extraction rather than resident comfort.
 
 Known components include:
 
@@ -161,8 +161,7 @@ Unit count, buffer endurance, and failure rate are NOT MEASURED.
 ### Numbered Operating Sequence
 
 The sequence records the biological state before cooling. A state recorded only after suppression cannot be
-distinguished from the suppression's own effect, and that ambiguity is inherited by the assessment level
-above.
+distinguished from the suppression's own effect, and that ambiguity is inherited by the assessment level above.
 
 1. Receive material at the cold intake staging bay.
 2. Record the biological state baseline before cooling.
@@ -216,10 +215,10 @@ whatever the custody clock says.
 
 ## KNOWN LIMITS
 
-ICHS cannot replace permanent deep-cold holding, cannot study biological material independently, cannot perform
-transformation work, and cannot keep permanent residents. It is vulnerable to transfer delays, seasonal overload,
-biological adaptation to cold, sensor failure, environmental imbalance, and staff fatigue caused by isolation and
-long-duration cold exposure.
+ICHS cannot replace permanent deep-cold holding, cannot study biological material independently,
+cannot perform transformation work, and cannot keep permanent residents. It is vulnerable to
+transfer delays, seasonal overload, biological adaptation to cold, sensor failure, environmental
+imbalance, and staff fatigue caused by isolation and long-duration cold exposure.
 
 Known failure modes include suppression collapse, thaw-cycle error, overstay, unit
 mismatch, silent removal dispute, parent-station scheduling failure, F-1 closure during
@@ -245,9 +244,9 @@ suppression failure to trigger White Grave review before local staff attempt adj
 
 ## DIVISION USE
 
-Medical Quarantine operates biological suppression and condition assessment. Security controls access, closure, and
-movement. Limited Containment Support maintains the cryogenic units. White Grave Site Command owns final disposition
-and transfer authority.
+Medical Quarantine operates biological suppression and condition assessment. Security
+controls access, closure, and movement. Limited Containment Support maintains the
+cryogenic units. White Grave Site Command owns final disposition and transfer authority.
 
 ICHS doctrine holds that cold delay is useful only while everyone remembers it is
 delay.

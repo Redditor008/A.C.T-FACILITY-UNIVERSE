@@ -21,11 +21,11 @@
 | AUTHORITY | Enclosure Supervisor, Limited Security Lead, Verde Null Site Command, and Central Archive |
 
 #### Archive Note
-Concealed Perimeter Sector Network is the one-hundred-first main A.C.T technology expanded into an individual record.
-The Hollow Canopy Enclosure dossier states that the sub-site is not building-dominant; it is a concealed perimeter
-composed of fixed-enclosure sectors within the Bio-Reserve. Each sector is a perimeter-defined area where monitoring
-infrastructure is disguised as natural terrain and the boundary between anomalous flora and ordinary forest is
-deliberately invisible.
+Concealed Perimeter Sector Network is the one-hundred-first main A.C.T technology expanded into an
+individual record. The Hollow Canopy Enclosure dossier states that the sub-site is not
+building-dominant; it is a concealed perimeter composed of fixed-enclosure sectors within the
+Bio-Reserve. Each sector is a perimeter-defined area where monitoring infrastructure is disguised as
+natural terrain and the boundary between anomalous flora and ordinary forest is deliberately invisible.
 
 CPSN exists because Hollow Canopy must contain without announcing where containment begins.
 
@@ -220,9 +220,9 @@ and ordinary forest complexity. Concealed markers can be swallowed by vegetation
 routes can become accidental trails, and residents can alter the meaning of a boundary
 by growing through it.
 
-Known failure modes include boundary drift, marker exposure, incursion, false wildlife alarm, resident perimeter
-expansion, staff route discovery, sensor decay, research misentry, and external mapping that turns invisible sectors
-into visible patterns.
+Known failure modes include boundary drift, marker exposure, incursion, false wildlife
+alarm, resident perimeter expansion, staff route discovery, sensor decay, research
+misentry, and external mapping that turns invisible sectors into visible patterns.
 
 ---
 

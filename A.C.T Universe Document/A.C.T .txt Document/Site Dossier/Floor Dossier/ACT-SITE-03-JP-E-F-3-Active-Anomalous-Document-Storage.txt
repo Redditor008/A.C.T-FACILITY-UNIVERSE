@@ -11,7 +11,7 @@ Dossier Number: FLOOR-DOSSIER-03-JP-E-F-3
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard / ACT Floor Record Standard
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Note
 
@@ -30,7 +30,7 @@ what it holds, how it is built, how it is run, and how the
 node holds the
 documents that behave like residents.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 1. Floor Registry Identity Summary
 
@@ -53,7 +53,7 @@ Current Status: Active
 Scale Note: The node's main holding level by population of anomalous
 documents
 
----
+═══════════════════════════════════════════════════════════════════════
 
 2. Dossier Purpose
 
@@ -70,7 +70,7 @@ is held in document quarantine cells and signal-isolated storage under
 continuous monitoring. The floor is where the node's holding doctrine meets
 its daily work.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 3. Position in the Site Stack
 
@@ -96,7 +96,7 @@ standard storage unsafe — is transferred down to F-2 under restricted-vault
 procedure. F-3 is the node's sorting level: most material remains, and the
 rest moves down according to its demonstrated character.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 4. Historical Foundation
 
@@ -123,7 +123,7 @@ holding level, holding the working population of the node's archive under
 the standard doctrines that give the Kurokawa Archive Node its operational
 identity.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5. Command and Authority
 
@@ -149,7 +149,7 @@ unauthorized reading of its holdings. Its role is to hold the assessed
 population safely and to recognize when material no longer belongs on the
 floor.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 6. Divisional Presence
 
@@ -177,7 +177,7 @@ Security guards the floor's access architecture and the storage rows, and
 enforces the handling rules that govern movement of material within the
 floor and between floors.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 7. Physical Plant and Architecture
 
@@ -215,7 +215,7 @@ behavior includes transmission: documents and media that emit, receive, or
 propagate signals. The units are engineered to contain the holding's
 transmission activity within the storage environment.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 8. Systems and Infrastructure
 
@@ -244,7 +244,7 @@ quarantine history, and monitoring log is preserved under the Archive
 Division's custody. The floor treats documentation as the archive's
 containment layer.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 9. Security and Containment Architecture
 
@@ -278,7 +278,7 @@ F-3 maintains standing transfer procedures:
 — material cleared of anomalous character returns to the node's general
   archival processing.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 10. Holdings and Filing Doctrine
 
@@ -304,7 +304,7 @@ containment. F-3 holds the node's active anomalous document population,
 whose designations are preserved in the Annex Register under standard
 holding procedure.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 11. Personnel and Duty Life
 
@@ -328,7 +328,7 @@ documentation culture: every holding is logged, every access is recorded,
 and every monitoring observation is preserved. The floor treats its
 records as the archive's memory.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 12. Floor Doctrine
 
@@ -352,7 +352,7 @@ demonstrates memetic character moves down, material approved for research
 moves up, and material cleared of anomalous character returns to ordinary
 archival processing.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 13. Incident Archive
 
@@ -362,7 +362,7 @@ Because the floor's population is held under mature standard doctrine,
 major incidents are rare; when they occur, they are recorded as the node's
 holding lessons and reflected in doctrine.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 14. Current Status and Projected Development
 
@@ -373,7 +373,7 @@ priorities include:
 - coordination with the Research floor on the study of the floor's
   holdings.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 15. Cross-Referenced Files
 
@@ -384,7 +384,7 @@ priorities include:
 - ACT_Site_Doctrine_and_Installation_Structure.md / .txt
 - Kurokawa Annex Register (clearance-gated)
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Closing
 

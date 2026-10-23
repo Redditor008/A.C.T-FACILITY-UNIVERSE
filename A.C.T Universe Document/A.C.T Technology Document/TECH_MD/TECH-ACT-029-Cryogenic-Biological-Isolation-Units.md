@@ -47,11 +47,11 @@ KEEP THE BODY WAITING WITHOUT MAKING WAITING THE NEW DISEASE.
 
 ## FUNCTION SUMMARY
 
-Cryogenic Biological Isolation Units preserve living tissue, altered bodies, biological samples, host bodies,
-and unstable patients by combining cold, resonance control, oxygenation support, and isolation architecture. The
-unit lowers biological activity enough to slow decay, mutation, infection, or collapse while preventing ordinary
-ice-crystal formation from tearing tissue apart. Resonant cooling is the critical difference between storage and
-damage.
+Cryogenic Biological Isolation Units preserve living tissue, altered bodies, biological
+samples, host bodies, and unstable patients by combining cold, resonance control, oxygenation
+support, and isolation architecture. The unit lowers biological activity enough to slow
+decay, mutation, infection, or collapse while preventing ordinary ice-crystal formation from
+tearing tissue apart. Resonant cooling is the critical difference between storage and damage.
 
 CBI is used when a patient or sample must remain biologically present but not
 fully active. It may preserve a body
@@ -72,11 +72,11 @@ Approved roles include:
 
 ## ORIGIN AND CUSTODY
 
-CBI development came from repeated failure of ordinary cryogenic storage. A.C.T subjects often brought anomalous
-metabolism, nonstandard blood, external anchors, transmutation decay, or regeneration loops that did not respond to
-conventional freezing. Some tissue shattered. Some continued thinking. Some thawed with extra structures. Medical
-Division and Engineering developed resonant cooling to reduce biological activity without allowing cold to become a
-blunt instrument.
+CBI development came from repeated failure of ordinary cryogenic storage. A.C.T subjects often
+brought anomalous metabolism, nonstandard blood, external anchors, transmutation decay, or
+regeneration loops that did not respond to conventional freezing. Some tissue shattered. Some
+continued thinking. Some thawed with extra structures. Medical Division and Engineering developed
+resonant cooling to reduce biological activity without allowing cold to become a blunt instrument.
 
 Custody belongs to Medical Division and the Stasis Technology Desk. Biological Containment controls use for hazardous
 organisms and samples. Logistics coordinates movement of sealed units. Site Command approves long-duration patient
@@ -187,8 +187,8 @@ Stasis placement, Medical with Stasis Technology Desk.
 
 Step-down: thaw is an authorized procedure through the port and never a convenience. Emergency:
 a power
-interruption moves the room to two-person hand-pump rotation, because a single technician missed a pressure
-dip in the 2008 event.
+interruption moves the room to two-person hand-pump rotation,
+because a single technician missed a pressure dip in the 2008 event.
 
 Before use, Medical confirms patient identity, biological status, stasis reason, expected duration, anchor
 dependencies, thaw plan, aftercare capacity, and transport status. The subject is placed inside under sterile and
@@ -241,9 +241,9 @@ stasis field conflicts with an anchor, if the glass coating breaks, or if the
 patient continues changing at a rhythm
 the machine cannot slow.
 
-Known failure modes include frost bloom, rhythm drift, manual pump fatigue, lid condensation, anti-crystallization
-failure, false stillness, transport shock, and anchor-distance distress. The most dangerous assumption is that a cold
-body is a simple body.
+Known failure modes include frost bloom, rhythm drift, manual pump fatigue, lid condensation,
+anti-crystallization failure, false stillness, transport shock, and anchor-distance distress.
+The most dangerous assumption is that a cold body is a simple body.
 
 ---
 
@@ -255,14 +255,14 @@ review because tissue color remained normal. The sample thawed with unfamiliar c
 rhythm disagreement as priority evidence.
 
 ### CBI-2008 Hand-Pump Reliance
-A temporary power interruption forced manual oxygenation for a long-duration patient. The hand-pump maintained life
-support, but the assigned technician developed fatigue and missed a pressure dip. CBI rooms now require two-person
-emergency pump rotation.
+A temporary power interruption forced manual oxygenation for a long-duration patient.
+The hand-pump maintained life support, but the assigned technician developed fatigue
+and missed a pressure dip. CBI rooms now require two-person emergency pump rotation.
 
 ### CBI-1992 Anchor Proximity Warning
-During early Soul Pendant relocation planning, moving the host body and pendant on separate carts caused distress
-readings before the distance became formally dangerous. CBI procedures now attach anchor-distance checks to all
-consciousness-linked patients.
+During early Soul Pendant relocation planning, moving the host body and pendant on
+separate carts caused distress readings before the distance became formally dangerous.
+CBI procedures now attach anchor-distance checks to all consciousness-linked patients.
 
 ---
 

@@ -88,10 +88,10 @@ a hungry will.
 PHYSICAL OR SYSTEM DESCRIPTION
 A standard ABM block is dark grey-black with a rough volcanic texture. It feels
 colder and heavier than standard
-concrete. Each block is hollowed around an internal lead-shielded restricted core. The surface may show faint tooling
-seams, anchor sockets, or joint channels depending on site generation. Blocks installed in older corridors are usually
-larger and less regular. Modern blocks are manufactured for easier replacement, but their composition remains
-restricted.
+concrete. Each block is hollowed around an internal lead-shielded restricted core. The
+surface may show faint tooling seams, anchor sockets, or joint channels depending on site
+generation. Blocks installed in older corridors are usually larger and less regular. Modern
+blocks are manufactured for easier replacement, but their composition remains restricted.
 
 Known components include high-density mineral aggregate; abyssal residue infusion layer; lead-shielded restricted
 core; seismic echo absorption channel; cold-binding structural matrix; joint-lock grooves; resonance survey marks;
@@ -260,9 +260,9 @@ FAULT ISOLATION
 KNOWN LIMITS
 Abyssal Masonry does not make an enclosure absolute. It can dampen seismic and psychic
 fluctuation, but it cannot
-guarantee containment of entities that cut through causal relationships, siphon biological energy through walls,
-rewrite architecture, or treat matter as suggestion. ABM can reduce symptoms while hiding escalation if staff assume
-the wall is enough.
+guarantee containment of entities that cut through causal relationships, siphon
+biological energy through walls, rewrite architecture, or treat matter as suggestion.
+ABM can reduce symptoms while hiding escalation if staff assume the wall is enough.
 
 Known failure modes include core saturation, joint cracking, echo return, cold seep, psychic hum, residue shedding,
 improper orientation, tool contamination, and overconfidence by vault teams. Blocks
@@ -302,10 +302,10 @@ TECH-ACT-027 - Gold-Tipped Mining Drills; Abyssal Anchor Plating, Item 34.
 OPEN QUESTIONS
 How much ITHYOS-residue can a block carry before it becomes a source instead of
 a sink? Can ABM be safely recycled
-after exposure to living artifacts? Does the listening sensation come from residue behavior, staff expectation, or
-actual echo retention? Should ABM corridors require periodic HPP personnel exclusion? Can Honey Obsidian reinforcement
-improve joints without trapping hostile vibration inside them? When should an ABM failure trigger relocation rather
-than wall replacement?
+after exposure to living artifacts? Does the listening sensation come from residue behavior,
+staff expectation, or actual echo retention? Should ABM corridors require periodic HPP personnel
+exclusion? Can Honey Obsidian reinforcement improve joints without trapping hostile vibration
+inside them? When should an ABM failure trigger relocation rather than wall replacement?
 - What is in the ITHYOS-residue infusion, and why is the core lead-shielded?
 - What compression rating does a modern block hold, and how was it measured?
 - What did the 1912 listening reports become, and are those corridors still in

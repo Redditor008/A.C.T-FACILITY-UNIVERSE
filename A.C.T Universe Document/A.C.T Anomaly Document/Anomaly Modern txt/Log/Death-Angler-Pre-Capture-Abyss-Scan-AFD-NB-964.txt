@@ -29,7 +29,7 @@ DOSSIER STATUS:      Open / Mission Log Archived
 
 This dossier contains the reconstructed sonar and audio logs from
 Mission Sunda-09, the final deep-sea drone survey conducted before
-the successful capture of AFD-NB-964. The drone, *Nusantara-9*, was
+the successful capture of AFD-NB-964. The drone, Nusantara-9, was
 lost during this mission but the data was successfully transmitted via
 Sub-Abyssal Sonar (Item 37).
 
@@ -47,7 +47,7 @@ INCLUDED LOG TYPES:
 LOG ID:              AFD-NB-964/SRV-09
 DATE:                2024-01-20
 
-[00:00:00] — *Nusantara-9* enters the trench.
+[00:00:00] — Nusantara-9 enters the trench.
 [03:45:00] — DEPTH 7,500m: High-intensity floodlights are activated.
               The external cameras show only clear water.
 [03:45:14] — ANALYSIS: Digital Resonance Sensors (Item 10) detect
@@ -103,7 +103,7 @@ THORNE NOTE:         "The subject was measuring the drone. It realized
 
 THE EVENT:
 Despite the drone being non-biological, the screech caused a mechanical
-failure in the *Nusantara-9*'s navigation computer. The subject
+failure in the Nusantara-9's navigation computer. The subject
 instantly appeared on the optical cameras—a massive, croc-scaled
 nightmare with armored plates and jagged teeth.
 

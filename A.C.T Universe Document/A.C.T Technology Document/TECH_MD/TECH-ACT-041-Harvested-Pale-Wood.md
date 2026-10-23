@@ -21,13 +21,13 @@
 | AUTHORITY | Materials Custody, Dark World Survey, Engineering Division, and Central Archive |
 
 #### Archive Note
-Harvested Pale Wood is the forty-first main A.C.T technology expanded into an individual record. The Master Catalog
-defines it as indestructible timber derived from the Dark World, used for internal structural reinforcement and
-vulnerable to twenty-four karat gold. The visual guide describes stacks of white barkless timber, microscopic
-restricted ID tags, a polished-bone feel, and a low-level pearlescent sheen. Dark World Door files identify Pale Wood
-as the material composing the AFD-PL-932 threshold and the dominant tree growth inside the Dark World. Expedition
-Pale-01 confirmed that ordinary knives produce no vibration against it, while gold-plated probes pass through it as if
-through butter.
+Harvested Pale Wood is the forty-first main A.C.T technology expanded into an individual record. The
+Master Catalog defines it as indestructible timber derived from the Dark World, used for internal
+structural reinforcement and vulnerable to twenty-four karat gold. The visual guide describes stacks of
+white barkless timber, microscopic restricted ID tags, a polished-bone feel, and a low-level pearlescent
+sheen. Dark World Door files identify Pale Wood as the material composing the AFD-PL-932 threshold and
+the dominant tree growth inside the Dark World. Expedition Pale-01 confirmed that ordinary knives
+produce no vibration against it, while gold-plated probes pass through it as if through butter.
 
 HPW is not lumber. It is a piece of another world's refusal to break.
 
@@ -73,8 +73,8 @@ HPW harvest begins at AFD-PL-932, the Dark World Door. The door itself is compos
 of pale non-terrestrial wood and
 opens into a dimension of perpetual night, red and blue moon cycles, red grass,
 Blue Dirt, Red River acid, and Bones
-Hounds. The dominant flora are Pale Woods: smooth barkless trees twelve to fifteen meters tall with gray stiff leaves
-and clear ozone-scented sap.
+Hounds. The dominant flora are Pale Woods: smooth barkless trees twelve to
+fifteen meters tall with gray stiff leaves and clear ozone-scented sap.
 
 Expedition Pale-01 established the first handling doctrine. Standard steel failed. Gold worked. Moisture discipline
 was critical because Blue Dirt tracked from the same environment can harden into toxic
@@ -110,8 +110,8 @@ Known material and custody elements include:
 - dry storage cradle;
 - Dark World residue inspection swab.
 
-HPW dust is active custody material. Dust from cutting, drilling, shaping, or sample preparation is sealed and
-tracked.
+HPW dust is active custody material. Dust from cutting,
+drilling, shaping, or sample preparation is sealed and tracked.
 
 ---
 
@@ -139,8 +139,8 @@ Plank dimensions, Harvest yield per expedition, Gold loss per cut. Each is filed
 
 The same property that lets A.C.T shape the material lets a careless or hostile
 handler with gold alter what
-ordinary force cannot. Dust is active custody material, not waste, and shared work zones are treated as
-contamination events.
+ordinary force cannot. Dust is active custody material, not
+waste, and shared work zones are treated as contamination events.
 
 ## INTERFACE AND OPERATING ENVELOPE
 
@@ -190,10 +190,10 @@ gold bit is not
 pulled free; the section is cut out whole, which is what the 1997 drill
 closure event required.
 
-Before handling, Materials Custody verifies plank ID, storage history, gold exposure, residue swabs, and intended use.
-Engineering or Medical must provide a written modification plan before any gold tool approaches the material. Staff
-confirm that no ordinary moisture, open water, wet cleaning, or unsealed biological sample is present in the work
-zone.
+Before handling, Materials Custody verifies plank ID, storage history, gold exposure,
+residue swabs, and intended use. Engineering or Medical must provide a written modification
+plan before any gold tool approaches the material. Staff confirm that no ordinary moisture,
+open water, wet cleaning, or unsealed biological sample is present in the work zone.
 
 During modification, only approved gold-contact tools are used. Gold-tipped mining drills, gold shears, or controlled
 gold probes must be weighed before and after contact. Operators watch for dust escape,
@@ -201,8 +201,8 @@ sap release, acoustic change,
 or hollow agreement readings. If the wood begins to feel warm, hum, close around
 a bit, or change sheen, work stops.
 
-After modification, all fragments, dust, tools, tags, and waste are reconciled. A missing shaving is a reportable
-incident.
+After modification, all fragments, dust, tools, tags, and waste
+are reconciled. A missing shaving is a reportable incident.
 
 ---
 
@@ -241,18 +241,18 @@ risk. It can encourage overbuilding, unauthorized trophy cutting, black-market i
 where gold jewelry, gold instruments, or related materials are present. It may also interact with Dark World
 organisms, Blue Dirt, Red River residue, Pale Wood Scalpels, or ordinary wood contaminated by Pale Wood dust.
 
-Known failure modes include gold-contact overcutting, dust spread, structural memory activation, sample closure
-around tools, ID-tag loss, residue carryover, false clean storage, and operators assuming a plank is inert because it
-resembles timber.
+Known failure modes include gold-contact overcutting, dust spread, structural memory
+activation, sample closure around tools, ID-tag loss, residue carryover, false clean
+storage, and operators assuming a plank is inert because it resembles timber.
 
 ---
 
 ## FAILURE HISTORY
 
 ### HPW-1985 First Gold Probe Confirmation
-Expedition Pale-01 confirmed that a tactical knife produced no vibration against living Pale Wood, while a gold-plated
-probe pierced the trunk easily. This established the gold-vulnerability doctrine and ended all standard-tool harvest
-proposals.
+Expedition Pale-01 confirmed that a tactical knife produced no vibration against
+living Pale Wood, while a gold-plated probe pierced the trunk easily. This established
+the gold-vulnerability doctrine and ended all standard-tool harvest proposals.
 
 ### HPW-1997 Drill Closure Event
 A gold-tipped drill lost sufficient gold contact while boring a Pale Wood section. The

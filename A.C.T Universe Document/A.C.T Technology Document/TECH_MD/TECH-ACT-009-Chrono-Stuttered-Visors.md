@@ -46,11 +46,11 @@ IF THE HAZARD NEEDS YOUR FIRST LOOK, NEVER GIVE IT YOUR FIRST LOOK.
 
 ## FUNCTION SUMMARY
 
-CSV units protect personnel from visual-trigger, temporal-imprint, chromatic, memetic, and direct-observation hazards
-by inserting a controlled delay between the outside image and the user's perception. The standard delay is listed as
-0.5 seconds, but field supervisors may authorize adjusted timing within approved bands. The visor captures the scene,
-processes the frame, checks for known hazard probability, and shows the wearer a delayed version rather than direct
-sight.
+CSV units protect personnel from visual-trigger, temporal-imprint, chromatic, memetic, and
+direct-observation hazards by inserting a controlled delay between the outside image and the user's
+perception. The standard delay is listed as 0.5 seconds, but field supervisors may authorize
+adjusted timing within approved bands. The visor captures the scene, processes the frame, checks
+for known hazard probability, and shows the wearer a delayed version rather than direct sight.
 
 This does not make the visor a blindfold. It is a managed witness. The
 wearer can still navigate, read instruments,
@@ -77,9 +77,9 @@ Approved uses include:
 CSV development followed A.C.T's repeated discovery that many hazards punish immediacy. Some did not harm cameras.
 Some harmed the first biological observer. Some did not mind being seen after a
 fraction of a second, after a frame
-loss, or through enough digital mediation. Early trials used ordinary camera screens, then helmet feeds, then delayed
-goggles. The modern visor emerged after temporal shielding and info-hazard scoring were combined into one PPE
-standard.
+loss, or through enough digital mediation. Early trials used ordinary camera
+screens, then helmet feeds, then delayed goggles. The modern visor emerged after
+temporal shielding and info-hazard scoring were combined into one PPE standard.
 
 Custody is controlled by Field Safety Desk and Info-Hazard Division. Temporal Analysis maintains separate sealed units
 for time-object vaults. Biological Containment holds full-face variants for dust, chromatic, and gaze-linked
@@ -94,11 +94,11 @@ optical core is logged, patched, inspected, and reclaimed.
 
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
-A standard CSV resembles rugged tactical goggles with multi-layer digital lenses and an integrated HUD. The frame is
-thicker than normal field eyewear because it contains the processing stack, shielded battery housing, temporal
-insulation, and fail-shut relay. The external focus dial physically adjusts lens gap and processing depth. The HUD
-displays delay in milliseconds, battery life, hazard threat probability, filter state, and recording status where
-recording is permitted.
+A standard CSV resembles rugged tactical goggles with multi-layer digital lenses and an integrated
+HUD. The frame is thicker than normal field eyewear because it contains the processing stack,
+shielded battery housing, temporal insulation, and fail-shut relay. The external focus dial
+physically adjusts lens gap and processing depth. The HUD displays delay in milliseconds, battery
+life, hazard threat probability, filter state, and recording status where recording is permitted.
 
 Known components include:
 
@@ -113,9 +113,9 @@ Known components include:
 - emergency blackout shutter;
 - post-exposure log chip.
 
-Full-face biological models seal over respirators and hydrophobic textile hoods. Temporal vault models have reduced
-decoration, hardened clock shielding, and stricter log chips. Archive station models are heavier and not field
-wearable.
+Full-face biological models seal over respirators and hydrophobic textile hoods.
+Temporal vault models have reduced decoration, hardened clock shielding, and
+stricter log chips. Archive station models are heavier and not field wearable.
 
 ---
 
@@ -196,8 +196,8 @@ moving equipment.
 
 Step-down: the visor comes off outside the zone and never inside it. Emergency: the
 blackout shutter closes
-the feed outright, and a wearer who needs it withdraws immediately rather than continuing the task from
-memory of the last frame.
+the feed outright, and a wearer who needs it withdraws immediately
+rather than continuing the task from memory of the last frame.
 
 Before use, personnel confirm the hazard profile and select the approved delay band. A
 wearer never adjusts the frame

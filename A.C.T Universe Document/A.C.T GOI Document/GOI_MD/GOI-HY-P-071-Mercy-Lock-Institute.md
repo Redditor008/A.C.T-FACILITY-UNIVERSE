@@ -62,12 +62,12 @@ prisons.
 
 ### Group Function
 
-Mercy Lock Institute functions as a non-A.C.T containment hospital and legal-care network. Its central work is custody
-without abandonment. It accepts cases that ordinary hospitals cannot explain and that state prisons, families,
-markets, or hostile groups would mishandle: people who involuntarily injure rooms while sleeping, children whose
-shadows open doors, elderly entities that feed only on remembered songs, transformed workers who cannot pass public
-medical review, harmless but contagious grief phenomena, and subjects whose bodies or names make ordinary guardianship
-impossible.
+Mercy Lock Institute functions as a non-A.C.T containment hospital and legal-care network. Its central
+work is custody without abandonment. It accepts cases that ordinary hospitals cannot explain and that
+state prisons, families, markets, or hostile groups would mishandle: people who involuntarily injure
+rooms while sleeping, children whose shadows open doors, elderly entities that feed only on remembered
+songs, transformed workers who cannot pass public medical review, harmless but contagious grief
+phenomena, and subjects whose bodies or names make ordinary guardianship impossible.
 
 A.C.T tracks the Institute because it proves containment can exist outside A.C.T command and still be organized,
 ethical, technically competent, and consequential. It also creates jurisdictional tension. A.C.T cannot ignore a group
@@ -131,12 +131,12 @@ and hidden logistics.
 
 ### Membership and Recruitment
 
-Membership includes physicians, nurses, paramedics, psychologists, occupational therapists, hospice workers,
-disability advocates, containment engineers, locksmiths, structural technicians, social workers, legal guardians,
-former A.C.T contractors, altered-person relatives, and survivors of abusive containment. Some are recruited after
-witnessing a public system fail a patient. Some are recruited through medical schools and rare-disease networks. Some
-arrive after Candle-Under Exchange or Grey Harbor Civil Rescue Directorate refers a survivor who cannot be safely
-housed elsewhere.
+Membership includes physicians, nurses, paramedics, psychologists, occupational therapists, hospice
+workers, disability advocates, containment engineers, locksmiths, structural technicians, social
+workers, legal guardians, former A.C.T contractors, altered-person relatives, and survivors of
+abusive containment. Some are recruited after witnessing a public system fail a patient. Some are
+recruited through medical schools and rare-disease networks. Some arrive after Candle-Under Exchange
+or Grey Harbor Civil Rescue Directorate refers a survivor who cannot be safely housed elsewhere.
 
 Mercy Lock does not recruit with promises of power. It recruits through duty and
 outrage. A training sheet recovered
@@ -224,11 +224,11 @@ frightened relatives may target residents. A.C.T must treat some secrecy as pati
 
 ### Operational Regions
 
-Mercy Lock operates transnationally through private clinics, hospice trusts, sealed care houses, hospital basements,
-disability-law offices, mobile medical units, religious care charities, and unlisted rehabilitation farms. Confirmed
-or suspected activity appears in the United Kingdom, Ireland, France, Germany, Canada, Japan, India, Brazil, South
-Africa, and several maritime transfer points. Regional variation is high because public medical law shapes local
-cover.
+Mercy Lock operates transnationally through private clinics, hospice trusts, sealed care houses,
+hospital basements, disability-law offices, mobile medical units, religious care charities, and
+unlisted rehabilitation farms. Confirmed or suspected activity appears in the United Kingdom,
+Ireland, France, Germany, Canada, Japan, India, Brazil, South Africa, and several maritime
+transfer points. Regional variation is high because public medical law shapes local cover.
 
 ### Known Assets and Holdings
 
@@ -268,8 +268,8 @@ BLACK LOCK: resident can kill or spread harm without intent; dual-key review req
 RED LOCK: current plan failed; ward closed until Red Key review.
 ```
 
-A.C.T may use these categories for field communication only after local confirmation. Mercy Lock color categories are
-not A.C.T containment classes.
+A.C.T may use these categories for field communication only after local
+confirmation. Mercy Lock color categories are not A.C.T containment classes.
 
 ---
 
@@ -314,8 +314,8 @@ or exploit them. It has also challenged A.C.T custody decisions and hidden ward 
 
 A.C.T does not classify refusal as hostility when the refusal is grounded in patient
 safety. A.C.T does classify
-refusal as obstruction when Mercy Lock conceals active contagion, prevents emergency containment, or fails to report
-escape risk.
+refusal as obstruction when Mercy Lock conceals active contagion,
+prevents emergency containment, or fails to report escape risk.
 
 ---
 
@@ -323,11 +323,11 @@ escape risk.
 
 ### Responsible Jurisdiction
 
-Primary jurisdiction rests with Medical Division, Containment Division, Subject Care Division, Legal Division, and
-Intelligence Division. Recovery attaches during transfer, escape, or hostile GOI approach. Civil Covert attaches when
-public cover, clinic licensing, guardianship, or family court action is involved. Site 02 attaches when ward
-engineering or vehicle transfer is relevant. Site 03 attaches when patient identity, memory, or communication is
-unstable.
+Primary jurisdiction rests with Medical Division, Containment Division, Subject Care Division,
+Legal Division, and Intelligence Division. Recovery attaches during transfer, escape, or
+hostile GOI approach. Civil Covert attaches when public cover, clinic licensing, guardianship,
+or family court action is involved. Site 02 attaches when ward engineering or vehicle transfer
+is relevant. Site 03 attaches when patient identity, memory, or communication is unstable.
 
 ### Posture Implementation
 
@@ -375,9 +375,9 @@ Institute requirement: no visible firearm, no handcuffs, advocate present, bell 
 Lock the harm. Do not lock away the person.
 ```
 
-The transfer succeeded after Containment removed visible weapons and Medical allowed the bell to travel inside a
-shielded pouch. Heat output remained below injury threshold. The patient later provided usable testimony regarding the
-first manifestation event.
+The transfer succeeded after Containment removed visible weapons and Medical allowed the
+bell to travel inside a shielded pouch. Heat output remained below injury threshold. The
+patient later provided usable testimony regarding the first manifestation event.
 
 ```text
 SUBJECT CARE ADDENDUM
@@ -436,8 +436,7 @@ explained in this dossier because they belong in separate technology or equipmen
 — Do consent ledgers resist NEMNOLIA-series amnestic effects or only ordinary record loss?
 — Which hostile GOIs have attempted to buy resident locations?
 — How many former A.C.T contractors work inside the Institute?
- Can A.C.T create formal transfer protocols without turning Mercy Lock into an unofficial A.C.T
- ward system?
+ Can A.C.T create formal transfer protocols without turning Mercy Lock into an unofficial A.C.T ward system?
 
 ### Intelligence Confidence
 
@@ -466,8 +465,8 @@ substitute for resident-specific files.
 - GOI-CU-X-065 — Mercy of the Quiet Sun, Group of Interest Registry
 - Complete Designation and Class Reference, Archive Record
 - Standing Field Units and Cross-Containment Interaction Protocol, Archive Record
- Restricted medical, hospice, restraint, altered-person, low-risk custody, legal guardianship, and transfer files held
- under Central Archive routing.
+ Restricted medical, hospice, restraint, altered-person, low-risk custody,
+ legal guardianship, and transfer files held under Central Archive routing.
 
 ### Dual Filing
 

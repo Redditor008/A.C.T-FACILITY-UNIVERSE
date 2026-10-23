@@ -152,8 +152,8 @@ personnel enforce the resident-specific rules that govern entry.
 
 ### 6.4 Medical Division (On-Call)
 
-Medical presence on F-2 is on-call, with personnel rotating from the station's medical level under the floor's access
-restrictions.
+Medical presence on F-2 is on-call, with personnel rotating from
+the station's medical level under the floor's access restrictions.
 
 ### 6.5 Archive Liaison
 
@@ -190,9 +190,9 @@ the floor's second containment layer — the layer that responds to damage witho
 
 ### 7.4 Construction Standard
 
-F-2 is built to the station's maximum failure-tolerant standard: materials selected for resistance to entropic
-effects, structures designed for redundancy, and infrastructure arranged so that no single failure can compromise a
-unit's containment.
+F-2 is built to the station's maximum failure-tolerant standard: materials selected
+for resistance to entropic effects, structures designed for redundancy, and
+infrastructure arranged so that no single failure can compromise a unit's containment.
 
 ---
 
@@ -278,9 +278,9 @@ the Annex Register under the floor's restriction-set doctrine.
 
 ### 11.1 Rotation and Selection
 
-F-2 personnel are selected from the Containment Division's most experienced staff, with engineering support personnel
-assigned from the station's infrastructure corps. Rotation is controlled to preserve continuity of resident and
-infrastructure knowledge.
+F-2 personnel are selected from the Containment Division's most experienced staff, with
+engineering support personnel assigned from the station's infrastructure corps.
+Rotation is controlled to preserve continuity of resident and infrastructure knowledge.
 
 ### 11.2 Duty Life
 
@@ -290,9 +290,9 @@ their charges are working against them — slowly, but continuously.
 
 ### 11.3 Technical Culture
 
-The floor's personnel work under a technical culture that treats infrastructure as doctrine: the floor's redundant
-structures and self-repairing systems are its containment, and the personnel who maintain them are containment
-personnel.
+The floor's personnel work under a technical culture that treats infrastructure
+as doctrine: the floor's redundant structures and self-repairing systems are
+its containment, and the personnel who maintain them are containment personnel.
 
 ---
 
@@ -309,8 +309,8 @@ F-2 — it is the containment.
 
 F-2 doctrine holds that entropic degradation must be detected early to be responded to
 at all. The floor's
-high-frequency monitoring is a containment measure: damage that is caught in time is damage that has not yet become
-failure.
+high-frequency monitoring is a containment measure: damage that
+is caught in time is damage that has not yet become failure.
 
 ### 12.3 Escalation Doctrine
 

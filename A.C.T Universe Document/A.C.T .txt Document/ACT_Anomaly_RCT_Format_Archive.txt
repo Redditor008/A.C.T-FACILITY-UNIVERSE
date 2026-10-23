@@ -10,9 +10,9 @@ This file is the complete internal archive version of the official RCT Anomaly F
 Format, preserving the
 Containment, Research, and Transformation block structure in full.
 
----
+═══════════════════════════════════════════════════════════════════════
 
----
+═══════════════════════════════════════════════════════════════════════
 
 
 ═══════════════════════════════════════════════════════════════════════
@@ -316,7 +316,7 @@ DESIGNATION HISTORY:     [UFD-XX-### → AFD-XX-### — DD/MM/YYYY]
 ═══════════════════════════════════════════════════════════════════════
 
 
----
+═══════════════════════════════════════════════════════════════════════
 
 FILE SAVING CONVENTION
 
@@ -341,7 +341,7 @@ Example:
 - I-AM-A-Test-AFD-OB-001, Archive Record
 - I AM A Test AFD OB 001, Archive Record
 
----
+═══════════════════════════════════════════════════════════════════════
 
 BLOCK REFERENCE
 
@@ -374,7 +374,7 @@ OB Object · SU Subject · PL Place · TI Time · SP Space
 · ME Memetic · IH Info Hazard · CH Cosmic
 Hazard · NB Non-Natural Bio Hazard · ?.H Shifting Hazard
 
----
+═══════════════════════════════════════════════════════════════════════
 
 EXAMPLE TEST ANOMALY
 

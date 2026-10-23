@@ -72,10 +72,10 @@ separation, civilian vessel deconfliction, and emergency harbor response.
 
 ORIGIN AND DEVELOPMENT
 
-Nusantara's maritime mandate made a port unavoidable. Its cover identity made the port useful. Research vessels could
-legitimately travel, monitor, sample, and return. But A.C.T recovery vessels and submersible platforms also needed
-staging, repair, and offload paths. Early practice separated missions by secrecy alone, which proved too fragile for a
-working harbor.
+Nusantara's maritime mandate made a port unavoidable. Its cover identity made the port useful.
+Research vessels could legitimately travel, monitor, sample, and return. But A.C.T recovery
+vessels and submersible platforms also needed staging, repair, and offload paths. Early
+practice separated missions by secrecy alone, which proved too fragile for a working harbor.
 
 MSPOS developed as operational separation inside one believable port. It does not make every vessel mysterious.
 Instead, it makes ordinary maritime work strong enough to carry concealed movement around it. Legitimate science has
@@ -261,9 +261,9 @@ KNOWN LIMITS
 
 MSPOS can separate operations, but it cannot make a harbor private in every direction.
 Weather, civilian boats, port
-labor, vessel damage, customs curiosity, research collaborators, and emergency arrivals can disrupt clean separation.
-A concealed vessel may arrive damaged, late, followed, or carrying material that cannot wait for ideal cover
-conditions.
+labor, vessel damage, customs curiosity, research collaborators, and emergency
+arrivals can disrupt clean separation. A concealed vessel may arrive damaged,
+late, followed, or carrying material that cannot wait for ideal cover conditions.
 
 Known failure modes include schedule collision, wrong-berth assignment, visible restricted cargo, civilian sightline
 exposure, paperwork contradiction, water-transfer delay, pressure-interface mismatch, contaminated sample lane, and

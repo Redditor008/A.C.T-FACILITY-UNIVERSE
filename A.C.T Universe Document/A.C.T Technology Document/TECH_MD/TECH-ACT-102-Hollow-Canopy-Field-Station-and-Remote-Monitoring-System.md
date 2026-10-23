@@ -25,8 +25,8 @@ Hollow Canopy Field Station and Remote Monitoring System is the one-hundred-seco
 an individual record. The Hollow Canopy Enclosure dossier identifies small concealed field stations within or adjacent
 to sectors: minimal structures housing monitoring equipment, observation posts, and the limited staff presence
 the
-enclosure requires. It also states that observation is conducted at distance and on ecological timescales with minimal
-intrusion.
+enclosure requires. It also states that observation is conducted
+at distance and on ecological timescales with minimal intrusion.
 
 HCFSRMS exists because in-place flora containment cannot be understood by standing over the roots. The enclosure
 watches slowly, from hidden places, without teaching the resident that it is being watched.
@@ -50,9 +50,9 @@ rotation shelters, resident behavior recording, perimeter status relays, and par
 
 HCFSRMS is not a research campus placed in the forest. It is minimal presence
 by design. The resident's environment is
-part of containment, so monitoring equipment and staff access must not become new ecological pressure. The system
-gives A.C.T enough awareness to manage the sector while preserving the native field conditions that make containment
-possible.
+part of containment, so monitoring equipment and staff access must not become new
+ecological pressure. The system gives A.C.T enough awareness to manage the sector
+while preserving the native field conditions that make containment possible.
 
 Approved roles include remote resident observation, ecological condition tracking, concealed staff shelter, perimeter
 relay, environmental monitoring, low-intrusion research support, incident detection, parent-reserve reporting, and
@@ -121,10 +121,9 @@ Data gaps are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
 | Feed continuity | NOT MEASURED |
 | Data gaps | NOT MEASURED |
 
-Remote monitoring trades resolution for intrusion. A continuous feed can miss the exact relationship that a
-person standing in the sector would notice immediately, and the enclosure accepts that loss deliberately
-because presence disturbs what is being measured. Physical entry is therefore gated on a data gap rather
-than on curiosity.
+Remote monitoring trades resolution for intrusion. A continuous feed can miss the exact relationship that a person
+standing in the sector would notice immediately, and the enclosure accepts that loss deliberately because presence
+disturbs what is being measured. Physical entry is therefore gated on a data gap rather than on curiosity.
 
 ## INTERFACE AND OPERATING ENVELOPE
 
@@ -180,10 +179,10 @@ During routine operation, assigned personnel enter by approved low-intrusion rou
 sensor status, review environmental readings, document resident behavior, and transmit approved reports to Verde Null.
 Observation schedules are built around ecological timescales rather than ordinary shift impatience.
 
-Research Support may request additional data, but sensor placement requires Environmental Containment review.
-Limited Security receives perimeter alerts and route-status reports. If a station becomes visible, attracts
-wildlife attention, alters local growth, or changes resident behavior, it is withdrawn, moved, or redesigned under
-parent-reserve authority.
+Research Support may request additional data, but sensor placement requires Environmental
+Containment review. Limited Security receives perimeter alerts and route-status reports.
+If a station becomes visible, attracts wildlife attention, alters local growth, or changes
+resident behavior, it is withdrawn, moved, or redesigned under parent-reserve authority.
 
 ---
 

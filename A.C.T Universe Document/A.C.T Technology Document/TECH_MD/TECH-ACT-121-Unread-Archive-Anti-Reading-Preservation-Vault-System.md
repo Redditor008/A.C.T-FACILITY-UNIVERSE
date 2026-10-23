@@ -53,13 +53,13 @@ UAARPV is not a library shelf and not ordinary sealed storage. It is a
 preservation machine for knowledge judged too
 dangerous to know. The system must keep the item intact, prevent decay, record its
 existence, support long-term
-custody, and deny the ordinary archival impulse to inspect, describe, understand, quote, or condense into substitute
-prose.
+custody, and deny the ordinary archival impulse to inspect,
+describe, understand, quote, or condense into substitute prose.
 
-Approved roles include unreadable material preservation, maximum-security informational custody, content-blind
-environmental maintenance, access denial, anti-reading monitoring, non-comprehensive cataloging, F-1 closure support,
-and transfer review when another Kurokawa level discovers that a holding has exceeded readable or restricted-vault
-capacity.
+Approved roles include unreadable material preservation, maximum-security informational
+custody, content-blind environmental maintenance, access denial, anti-reading monitoring,
+non-comprehensive cataloging, F-1 closure support, and transfer review when another
+Kurokawa level discovers that a holding has exceeded readable or restricted-vault capacity.
 
 ---
 
@@ -242,9 +242,9 @@ A record review found that safe cataloging could still become dangerous if entri
 was unreadable. Current UAARPV doctrine records enough for custody and preservation but not enough for understanding.
 
 ### UAARPV-Blind Maintenance Drill
-A preservation drill showed that technicians requested content detail when ordinary maintenance questions became
-difficult. Current procedure requires vault-service instructions to be written as condition tasks rather than content
-tasks.
+A preservation drill showed that technicians requested content detail when ordinary
+maintenance questions became difficult. Current procedure requires vault-service
+instructions to be written as condition tasks rather than content tasks.
 
 ### UAARPV-Reading-as-Breach Standard
 F-1 doctrine established that an opened door is not the only escape condition. Current

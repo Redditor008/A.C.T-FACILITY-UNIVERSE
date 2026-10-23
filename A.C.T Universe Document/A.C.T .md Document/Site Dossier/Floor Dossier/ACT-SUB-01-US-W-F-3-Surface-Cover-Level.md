@@ -36,15 +36,15 @@ the relay's cover is maintained through genuine science conducted above a buried
 
 ## 1. Floor Registry Identity Summary
 
-**Site Designation:** ACT-SUB-01-US-W **Site Codename:** Glass Orchard Relay **Parent Command:** ACT-SITE-01-US-W —
-Redwood Veil Complex **Floor Designation:** F-3 **Floor Name:** Surface Cover Level **Floor Type:** Surface Cover and
-Transition Level **Vertical Position:** Surface-adjacent floor of the relay's buried component **Floor Above:** None
-numbered — the legitimate surface campus structures **Floor Below:** F-2 (Processing and Staging Level) **Containment
-Character:** Non-resident surface cover and research infrastructure **Primary Function:** Greenhouses, legitimate
-laboratories, and the administrative face of the relay's agricultural biotech cover; transition point for material and
-personnel entering the buried component **Distinctive Feature:** The relay's cover identity — genuine agricultural
-research conducted in the open **Access Posture:** Public and semi-public access under cover doctrine **Current
-Status:** Active
+**Site Designation:** ACT-SUB-01-US-W **Site Codename:** Glass Orchard Relay **Parent Command:**
+ACT-SITE-01-US-W — Redwood Veil Complex **Floor Designation:** F-3 **Floor Name:** Surface Cover Level **Floor
+Type:** Surface Cover and Transition Level **Vertical Position:** Surface-adjacent floor of the relay's buried
+component **Floor Above:** None numbered — the legitimate surface campus structures **Floor Below:** F-2
+(Processing and Staging Level) **Containment Character:** Non-resident surface cover and research
+infrastructure **Primary Function:** Greenhouses, legitimate laboratories, and the administrative face of the
+relay's agricultural biotech cover; transition point for material and personnel entering the buried component
+**Distinctive Feature:** The relay's cover identity — genuine agricultural research conducted in the open
+**Access Posture:** Public and semi-public access under cover doctrine **Current Status:** Active
 
 ---
 
@@ -61,8 +61,8 @@ its name: a campus of
 greenhouses and laboratories where genuine genetically-improved-crop research is conducted in the open. The name
 "Glass Orchard" is drawn directly from the cover — the glasshouses are a genuine
 part of the site's legitimate face,
-and the biotech framing explains the laboratories, climate-controlled structures, and quiet rural location that the
-buried relay requires.
+and the biotech framing explains the laboratories, climate-controlled
+structures, and quiet rural location that the buried relay requires.
 
 ---
 
@@ -77,15 +77,15 @@ boundary with the ordinary world.
 
 ### 3.2 Relationship to the Surface Campus
 
-The level's greenhouses, laboratories, and administrative buildings rise above the buried component, presenting the
-relay to the world as an agricultural biotech station. The campus's genuine research activity is conducted openly on
-this level.
+The level's greenhouses, laboratories, and administrative buildings rise above the
+buried component, presenting the relay to the world as an agricultural biotech
+station. The campus's genuine research activity is conducted openly on this level.
 
 ### 3.3 Relationship to F-2
 
-Personnel and material that must pass between the surface and the relay's operational levels descend through F-3 into
-F-2, under the transition control that the cover requires. F-3 is the physical boundary; the processing floor below is
-the operational boundary.
+Personnel and material that must pass between the surface and the relay's operational
+levels descend through F-3 into F-2, under the transition control that the cover requires.
+F-3 is the physical boundary; the processing floor below is the operational boundary.
 
 ---
 
@@ -103,9 +103,9 @@ was genuine.
 
 The relay's name — and the level's character — derive from the cover's defining
 feature: the glasshouses of the
-agricultural biotech station. The "Glass Orchard" framing explains the site's greenhouses, its climate-controlled
-structures, its restricted growing areas, and its quiet rural location — every physical feature the buried relay
-requires.
+agricultural biotech station. The "Glass Orchard" framing explains the site's
+greenhouses, its climate-controlled structures, its restricted growing areas,
+and its quiet rural location — every physical feature the buried relay requires.
 
 ### 4.3 Modern Configuration
 
@@ -128,9 +128,9 @@ greenhouses and laboratories, and the campus's public administration.
 
 ### 5.3 Authority Limits
 
-F-3 holds no authority over the relay's operational functions. Its authority is over the cover campus — and its most
-important duty is the maintenance of the boundary between the campus's visible science and the buried relay's
-processing work.
+F-3 holds no authority over the relay's operational functions. Its authority is over
+the cover campus — and its most important duty is the maintenance of the boundary
+between the campus's visible science and the buried relay's processing work.
 
 ---
 
@@ -191,8 +191,8 @@ give no sign of what lies beneath.
 
 ### 8.1 Power
 
-F-3 draws on the campus's legitimate power infrastructure, with the buried relay protected by the installation's
-backup systems.
+F-3 draws on the campus's legitimate power infrastructure, with
+the buried relay protected by the installation's backup systems.
 
 ### 8.2 Environment
 
@@ -201,9 +201,9 @@ environments, and the ordinary systems of a working biotech campus.
 
 ### 8.3 Monitoring
 
-Monitoring on F-3 is boundary-oriented: campus traffic, delivery flow, and the concealed transition points are
-monitored under the relay's security doctrine, with the monitoring architecture concealed within the campus's ordinary
-systems.
+Monitoring on F-3 is boundary-oriented: campus traffic, delivery flow, and the
+concealed transition points are monitored under the relay's security doctrine,
+with the monitoring architecture concealed within the campus's ordinary systems.
 
 ### 8.4 Communication
 
@@ -258,9 +258,9 @@ the relay's processing levels.
 
 ### 10.3 Holding Character
 
-F-3 holds no anomalous material. Its holdings are the legitimate campus's research operations, and its population is
-the biotech station's staff and legitimate visitors. Nothing anomalous remains on this level beyond the time required
-for transition below.
+F-3 holds no anomalous material. Its holdings are the legitimate campus's research
+operations, and its population is the biotech station's staff and legitimate visitors.
+Nothing anomalous remains on this level beyond the time required for transition below.
 
 ---
 

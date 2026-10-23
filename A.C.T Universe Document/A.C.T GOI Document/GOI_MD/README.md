@@ -43,10 +43,10 @@ Every completed individual GOI dossier uses the same controlled archive format:
 10. FILE METADATA
 ```
 
-The registry header in every completed dossier uses the same ASCII-only reStructuredText-style grid table. Tables,
-boxes, and complex structured layouts use portable ASCII characters only; Unicode box-drawing characters are not used.
-Each dossier also uses the same header-field order, archive-control fields, section order, plain-text mirror rule, and
-in-world A.C.T archive voice.
+The registry header in every completed dossier uses the same ASCII-only reStructuredText-style
+grid table. Tables, boxes, and complex structured layouts use portable ASCII characters only;
+Unicode box-drawing characters are not used. Each dossier also uses the same header-field order,
+archive-control fields, section order, plain-text mirror rule, and in-world A.C.T archive voice.
 
 The controlled form is maintained at [CONTROLLED RECORD FORM](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20GOI%20Document/GOI_MD/00_GOI_Record_Template.md). It is the required
 starting structure for every future original dossier.
@@ -169,8 +169,8 @@ Children of the Deep is a Cultic / Negative / Regional / Practitioner group
 assessed at Threat Level 5. Its primary
 active region is the Midwestern United States, and its active objective is awakening a
 separately sealed, apocalyptic
-deep-sea anomaly. Its dossier preserves the supplied redactions and keeps the target anomaly separate from the
-organization record.
+deep-sea anomaly. Its dossier preserves the supplied redactions and
+keeps the target anomaly separate from the organization record.
 
 DREAM .INC is a Corporate / Business / National / Engineering group assessed at
 Threat Level 4. It possesses a
@@ -179,12 +179,12 @@ Anomaly, sells the substance as underground medicine, and has at least twelve co
 
 Liberty Freedoms is a Militant / Negative / Transnational / Handler group assessed at
 Threat Level 4 and classified
-Exposure-Active. It is a dispersed insurgency of assessed defector origin that treats A.C.T custody itself —
-containment, Transformation, secrecy, and research alike — as the enemy, raids transport and recovery operations,
-publishes controlled document leaks, transports anomalies that have left containment with it, and recruits former
-A.C.T personnel through staged disclosure of verifiable truth. Its dossier is written to keep it distinct from A-GA
-(which seeks the destruction of anomalies), Anstrall Market (which trades them), and the state-aligned GAA (which
-partners with A.C.T).
+Exposure-Active. It is a dispersed insurgency of assessed defector origin that treats A.C.T custody
+itself — containment, Transformation, secrecy, and research alike — as the enemy, raids transport and
+recovery operations, publishes controlled document leaks, transports anomalies that have left
+containment with it, and recruits former A.C.T personnel through staged disclosure of verifiable truth.
+Its dossier is written to keep it distinct from A-GA (which seeks the destruction of anomalies),
+Anstrall Market (which trades them), and the state-aligned GAA (which partners with A.C.T).
 
 Mysterious Guild is a Hybrid / Unknown / Structural / Engineering group assessed at
 Threat Level 4 and classified
@@ -271,11 +271,11 @@ that a changed body is not proof that the person inside has ended.
 
 Choir of the Unforgotten Name is a Cultic / Negative / Transnational / Practitioner
 group assessed at Threat Level 4
-and classified Exposure-Active. It is an outside memory-preservation and anti-amnestic faith network that
-restores, preserves, repeats, and publicly reattaches names removed by disaster, containment secrecy, false death,
-memory alteration, or anomalous identity damage. Its dossier preserves refrain censorship, child-singer limits,
-NEMNOLIA-adjacent uncertainty, and the operational rule that a name erased for safety remains a wound when no
-protected remembrance exists.
+and classified Exposure-Active. It is an outside memory-preservation and anti-amnestic faith network
+that restores, preserves, repeats, and publicly reattaches names removed by disaster, containment
+secrecy, false death, memory alteration, or anomalous identity damage. Its dossier preserves refrain
+censorship, child-singer limits, NEMNOLIA-adjacent uncertainty, and the operational rule that a name
+erased for safety remains a wound when no protected remembrance exists.
 
 Keepers of the Ninth Reliquary is a Cultic / Neutral / Regional / Practitioner
 group assessed at Threat Level 3 and
@@ -312,11 +312,11 @@ safe-house censorship, medical supplier uncertainty, survivor-board gaps, and th
 should not have to buy safety from predators or beg institutions that cannot publicly
 admit their injuries.
 
-Velvet Provenance House is a Business / Neutral / Transnational / Handler group assessed at Threat Level 3 and
-classified Veiled. It is an outside provenance, authentication, and private-sale institution that documents origin,
-custody chain, ownership duty, and return conditions for anomalous or anomaly-adjacent objects. Its dossier preserves
-buyer-book censorship, Red Room uncertainty, estate-chain gaps, and the operational rule that a thing without origin
-belongs first to its harm.
+Velvet Provenance House is a Business / Neutral / Transnational / Handler group assessed at Threat
+Level 3 and classified Veiled. It is an outside provenance, authentication, and private-sale
+institution that documents origin, custody chain, ownership duty, and return conditions for anomalous
+or anomaly-adjacent objects. Its dossier preserves buyer-book censorship, Red Room uncertainty,
+estate-chain gaps, and the operational rule that a thing without origin belongs first to its harm.
 
 Namewright Bazaar is a Business / Negative / Transnational / Practitioner group assessed at Threat Level 4 and
 classified Exposure-Active. It is an outside identity market that buys, sells, cuts, leases, disguises, stores, and
@@ -333,12 +333,12 @@ cold-map gaps, and the operational rule that tomorrow is a place and passage mus
 be handled before the road decides
 who the passenger was.
 
-Mercy Lock Institute is a Hybrid / Positive / Transnational / Containment group assessed at Threat Level 3 and
-classified Veiled. It is an outside allied containment and abnormal-care institution that houses, treats, restrains,
-protects, and legally advocates for low-violence anomalous persons, altered civilians, nonhuman dependents, and
-dangerous patients who cannot safely live in public. Its dossier preserves ward-location censorship, First Key Table
-uncertainty, patient-rights friction, and the operational rule that the harm should be locked without locking away the
-person.
+Mercy Lock Institute is a Hybrid / Positive / Transnational / Containment group assessed at Threat
+Level 3 and classified Veiled. It is an outside allied containment and abnormal-care institution
+that houses, treats, restrains, protects, and legally advocates for low-violence anomalous persons,
+altered civilians, nonhuman dependents, and dangerous patients who cannot safely live in public.
+Its dossier preserves ward-location censorship, First Key Table uncertainty, patient-rights
+friction, and the operational rule that the harm should be locked without locking away the person.
 
 Iron Meridian Authority is a Hybrid / Negative / Transnational / Containment group assessed at Threat Level 4 and
 classified Exposure-Active. It is an outside hostile containment power that asserts emergency jurisdiction over
@@ -440,8 +440,8 @@ Central Archive issues a registry creation order for the GOI or GOIs. A selected
 GOI may come from an anomaly mention,
 a new approved name, or a rewritten scaffold slot; scaffold names are not assumed
 approved. Each selected new GOI
-receives one detailed Markdown dossier in `Group of Interest Registry collection, Central Archive` and one matching
-plain-text reading copy in
+receives one detailed Markdown dossier in `Group of Interest Registry
+collection, Central Archive` and one matching plain-text reading copy in
 `Group of Interest Registry collection, plain-text reading copies`. Each pair
 is checked for universal format, continuity, classification, originality, tone, and requested revisions. No extra
 unselected original GOI dossier pair is created from the scaffold list or from scan

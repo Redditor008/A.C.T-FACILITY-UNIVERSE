@@ -50,9 +50,9 @@ Notes:** Originally established as a covert witness routing point before being u
 
 Glass Orchard Relay exists to keep the parent site from being overwhelmed by its
 own success. Redwood Veil Complex
-processes a constant flow of urban recoveries, interdicted artifacts, and witness traffic — and no containment
-facility can absorb that flow directly without its core becoming congested, its holding levels filling, and its
-secrecy burden compounding.
+processes a constant flow of urban recoveries, interdicted artifacts, and witness
+traffic — and no containment facility can absorb that flow directly without its core
+becoming congested, its holding levels filling, and its secrecy burden compounding.
 
 The relay is the pressure valve. It holds what can safely wait, processes witnesses
 who must not reach the core,

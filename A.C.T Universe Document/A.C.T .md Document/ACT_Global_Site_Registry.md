@@ -122,14 +122,14 @@ controlled due to long-duration cold exposure and isolation stress.
 ---
 
 ### 8. ACT-SUB-03-JP-E
-**Codename:** Silent Reed Annex **Site Type:** Sub-Site **Location:** Eastern Japan **Command Authority:** Reports to
-ACT-SITE-03-JP-E **Primary Function:** Minor memetic quarantine, controlled infohazard review, and temporary redaction
-buffering **Divisions Present:** Archive, Intelligence, Limited Medical Cognitive Staff **Containment Profile:**
-Low-to-Mid Memetic / Infohazard Buffer / Document Quarantine **Regional Jurisdiction:** Overflow support for Kurokawa
-Archive Node **Notable Features:** Built for cases too dangerous for ordinary records but too minor for full black
-archive burial **Current Status:** Active **History Notes:** Created after repeated archive spillover events stressed
-the main East-region records body. **Security Notes:** No solo review shifts authorized during active memetic
-contamination cycles.
+**Codename:** Silent Reed Annex **Site Type:** Sub-Site **Location:** Eastern Japan **Command Authority:**
+Reports to ACT-SITE-03-JP-E **Primary Function:** Minor memetic quarantine, controlled infohazard review,
+and temporary redaction buffering **Divisions Present:** Archive, Intelligence, Limited Medical Cognitive
+Staff **Containment Profile:** Low-to-Mid Memetic / Infohazard Buffer / Document Quarantine **Regional
+Jurisdiction:** Overflow support for Kurokawa Archive Node **Notable Features:** Built for cases too
+dangerous for ordinary records but too minor for full black archive burial **Current Status:** Active
+**History Notes:** Created after repeated archive spillover events stressed the main East-region records
+body. **Security Notes:** No solo review shifts authorized during active memetic contamination cycles.
 
 ---
 
@@ -167,9 +167,9 @@ impossible has been given an address, a doctrine,
 and a chain of command.
 
 ### Site Dossier Reference
-Individual full dossiers for each recognized SITE and SUB-SITE — preserving the complete operational, historical,
-architectural, floor-register, personnel, and incident record of every installation — are maintained as separate Site
-Dossier files under:
+Individual full dossiers for each recognized SITE and SUB-SITE — preserving the complete
+operational, historical, architectural, floor-register, personnel, and incident record
+of every installation — are maintained as separate Site Dossier files under:
 
 - `Site Dossier collection, Central Archive` (authoritative Markdown)
 - `Site Dossier collection, plain-text reading copies` (plain-text reading copies)
@@ -181,9 +181,9 @@ in the `SITE-DOSSIER` /
 #### Floor Dossier Reference
 Individual full dossiers for each numbered floor of the primary SITES and SUB-SITES —
 preserving the complete
-operational, architectural, systems, security, holdings, personnel, and incident record of every level, from the
-deepest numbered floor (F-1) to the surface-adjacent floor (F-N) — are maintained as separate Floor Dossier files
-under:
+operational, architectural, systems, security, holdings, personnel, and incident
+record of every level, from the deepest numbered floor (F-1) to the surface-adjacent
+floor (F-N) — are maintained as separate Floor Dossier files under:
 
 - `Floor Dossier collection, Central Archive` (authoritative Markdown)
 - `Floor Dossier collection, plain-text reading copies` (plain-text reading copies)

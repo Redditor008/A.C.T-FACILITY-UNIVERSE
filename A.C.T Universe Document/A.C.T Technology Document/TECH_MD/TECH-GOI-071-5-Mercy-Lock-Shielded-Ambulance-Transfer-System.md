@@ -57,11 +57,10 @@ identified several recurring parts:
   threshold;
 - consent-card sleeves visible from the patient cot;
 - low-stimulation lighting and acoustic baffling drawn from Mercy Lock quiet rooms;
-  dual-staff key points requiring both a medical custodian and transfer nurse to convert the
-  bay from care mode to hard
+  dual-staff key points requiring both a medical custodian and
+  transfer nurse to convert the bay from care mode to hard
   seal;
-  public-cover medical storage sufficient to survive police, hospital, or insurance inspection at a surface
-  level.
+  public-cover medical storage sufficient to survive police, hospital, or insurance inspection at a surface level.
 
 The route curtain is the most distinctive recovered component. Mercy Lock records describe it as a curtain, but the
 recovered segment is not ordinary fabric. It behaves like white medical drape under light, dull grey plastic under
@@ -72,9 +71,9 @@ or familiar family streets can be moved without total sedation.
 
 ## A.C.T Acquisition and Custody
 
-A.C.T access remains partial and cooperative. Mercy Lock has not surrendered a complete vehicle because the Institute
-argues that a shielded ambulance without trained transfer nurses becomes a moving cell. Current A.C.T holdings are
-limited to:
+A.C.T access remains partial and cooperative. Mercy Lock has not surrendered a
+complete vehicle because the Institute argues that a shielded ambulance without
+trained transfer nurses becomes a moving cell. Current A.C.T holdings are limited to:
 
 - one torn route-curtain segment, inactive but still light-reactive;
 - two consent-card sleeves removed from a decommissioned interior panel;
@@ -83,10 +82,10 @@ limited to:
 - one photographic set of a rear-door gentle lock transfer plate;
 - one incomplete maintenance checklist with vehicle registration and ward names redacted.
 
-All physical components are stored under Medical-Engineering joint custody. Handling requires gloves, line-of-sight
-camera recording, and consent-ledger cross-reference when a component is still attached to an active patient transfer.
-Components removed from context must not be installed in A.C.T vehicles without Mercy Lock consultation and Legal
-approval.
+All physical components are stored under Medical-Engineering joint custody. Handling
+requires gloves, line-of-sight camera recording, and consent-ledger cross-reference when a
+component is still attached to an active patient transfer. Components removed from context
+must not be installed in A.C.T vehicles without Mercy Lock consultation and Legal approval.
 
 ## TECHNICAL SPECIFICATION
 
@@ -269,8 +268,7 @@ Unanswered questions include:
   Can A.C.T safely mount an inactive route curtain in a non-Mercy vehicle for
   testing?
 - Do route curtains depend on consent-ledger status before they work correctly?
-  Are the ambulances built by Mercy Lock engineers, ordinary medical-vehicle contractors, or a third
-  GOI supplier?
+  Are the ambulances built by Mercy Lock engineers, ordinary medical-vehicle contractors, or a third GOI supplier?
 - Can hostile groups reproduce the public-facing ambulance marks without the stabilizing interior system?
 - How many Red Key incident files involve ambulance transfer rather than room restraint?
 

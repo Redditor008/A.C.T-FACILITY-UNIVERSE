@@ -82,7 +82,7 @@ current high-tech era.
 ═══════════════════════════════════════════════════════════════════════
 
 SPECIAL SKILLS:
-*   Causal-Pulse Sensing: Thorne can "hear" the resonance of other
+- Causal-Pulse Sensing: Thorne can "hear" the resonance of other
     anomalies. He describes it as a hum or a specific tone that
     identifies the Field Type (OB, SU, PL, etc.) of an object before
     it is even scanned.

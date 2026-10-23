@@ -103,9 +103,9 @@ The following trials were conducted to find an anomalous explanation for
 the staff's irritation. Each test represents a failed attempt to blame
 the irritation on anomaly physics.
 
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 TEST A:              INFRASONIC FREQUENCY SCAN
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 HYPOTHESIS:          The subject's groans contain infrasonic waves that
                      vibrate the human inner ear to induce nausea and
                      agitation.
@@ -116,9 +116,9 @@ RESULT:              NEGATIVE. The groan is within the standard
                      vibrations detected.
 CONCLUSION:          The groan is just a very annoying sound.
 
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 TEST B:              PHEROMONE & BIO-GAS AUDIT
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 HYPOTHESIS:          The subject's skin or breath secretes an airborne
                      chemical irritant that triggers an anger response.
 METHOD:              Air-quality sampling inside a sealed room after
@@ -128,9 +128,9 @@ RESULT:              NEGATIVE. Samples contained only moisture, CO2,
 CONCLUSION:          The subject does not smell like a hazard. He just
                      smells like a lizard.
 
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 TEST C:              ELECTROMAGNETIC (EM) PULSE RADIANCE
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 HYPOTHESIS:          The subject's "Indestructibility" is maintained by
                      an EM field that interferes with human brain-wave
                      stability.
@@ -141,9 +141,9 @@ CONCLUSION:          The brain-wave interference reported by staff is
                      caused by the subject refusing to move, not by a
                      field.
 
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 TEST D:              MEMETIC PATTERN RECOGNITION (VISUAL)
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 HYPOTHESIS:          The pattern of the subject's scales or the shape of
                      his dorsal sail is a memetic trigger for impatience.
 METHOD:              Visual algorithms analyzed the subject’s surface
@@ -152,9 +152,9 @@ RESULT:              NEGATIVE. No hidden symbols or patterns found.
 CONCLUSION:          The red color is vivid, but it does not contain
                      information-hazards.
 
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 TEST E:              CAUSAL LEECHING (LUCK-THEFT)
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 HYPOTHESIS:          The subject is a passive "Luck Leech," making local
                      reality slightly more inconvenient for everyone
                      else.
@@ -175,9 +175,9 @@ To conclude the search for an anomalous trigger, the Facility conducted
 four standardized "Interaction Endurance" trials across different
 personnel classes.
 
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 TRIAL 001:           RESEARCHER INTERACTION (LOGIC TEST)
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 SUBJECT:             Dr. Nathan Brooks (PR Score: 82)
 TASK:                Attempt to teach AFD-SU-012 to move for a
                      high-value food reward.
@@ -190,9 +190,9 @@ REACTION:            Dr. Brooks began arguing with the lizard about the
 ANOMALY CHECK:       NEGATIVE. EEG showed standard frustration.
                      No memetic hijacking recorded.
 
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 TRIAL 002:           SECURITY GUARD INTERACTION (ORDER TEST)
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 SUBJECT:             Officer Ethan Ward
 TASK:                Maintain a "No-Entry" post in a hallway that
                      Grumblesail has decided to block.
@@ -206,9 +206,9 @@ REACTION:            Officer Ward began shouting at his own boots after
 ANOMALY CHECK:       NEGATIVE. No external EM or psychic influence.
                      The officer was simply tired of being tripped.
 
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 TRIAL 003:           FIELD AGENT INTERACTION (TACTICAL TEST)
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 SUBJECT:             Agent Marcus Hale
 TASK:                Perform a simulated "Tactical Extraction" while
                      AFD-SU-012 is present in the training room.
@@ -224,9 +224,9 @@ ANOMALY CHECK:       NEGATIVE. No "Fear-Pulse" or "Hate-Bleed."
                      Just a complete tactical breakdown caused by
                      unforeseen nuisance.
 
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 TRIAL 004:           E-CLASS INTERACTION (SOCIAL FRICTION TEST)
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 SUBJECT:             E-Class Subject E-12-09
 TASK:                Share a designated "Rest Suite" with the subject
                      for 24 hours.
@@ -257,7 +257,7 @@ and we get a 3-meter red obstacle. We expect a god, and we get
 a
 lizard that wants our chips.
 
-He is the only anomaly in the archive that makes us wish he *was*
+He is the only anomaly in the archive that makes us wish he was
 a
 memetic hazard, because then we could use a pill to fix the problem. As
 it stands, the only cure is a deep breath and a large box of

@@ -1,5 +1,5 @@
 A.C.T FACILITY ARCHIVE FILE
----------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Lantern Accord Yellow-Line Warrant Fragment
 ===========================================
@@ -12,7 +12,7 @@ Origin: Lantern Accord (GOI-HY-W-073), White Clerk issue from warrant book stock
 Clearance: Level 3 for examination; Level 4 for handling outside storage
 
 Archive Note
-------------
+═══════════════════════════════════════════════════════════════════════
 
 The archive holds two yellow-line warrant fragments. No complete warrant is held.
 
@@ -35,7 +35,7 @@ These are fragments and not warrants. Personnel must not cite one as a complete 
 reconstruct one without Level 4 and Legal approval, and must not copy one into any route file.
 
 THE DOCUMENT
-------------
+═══════════════════════════════════════════════════════════════════════
 
 1.1 What a warrant is for
 =========================
@@ -71,7 +71,7 @@ cannot be validated, extended or reissued.
 The warrant depends on the route books, which are unrecovered.
 
 HANDLING
---------
+═══════════════════════════════════════════════════════════════════════
 
 2.1 Custody
 ===========
@@ -93,7 +93,7 @@ has travelled a route that ordinary transport could not carry, and that is a Sub
 before it is an intelligence one.
 
 DIVISION USE
-------------
+═══════════════════════════════════════════════════════════════════════
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | DIVISION                   | USE                                                                                   |
@@ -108,7 +108,7 @@ DIVISION USE
 +----------------------------+---------------------------------------------------------------------------------------+
 
 OPEN QUESTIONS
---------------
+═══════════════════════════════════════════════════════════════════════
 
 - how many fragments are held, and whether they came from one book or several;
 - what the route-specific language says, and whether the route books would explain it;
@@ -121,7 +121,7 @@ The last question is live. The archive holds a piece of a document that authoris
 and the person is not known. Legal has not ruled on whether that carries any obligation toward them.
 
 CROSS-REFERENCES
-----------------
+═══════════════════════════════════════════════════════════════════════
 
 - GOI-HY-W-073 — Lantern Accord, Group of Interest Dossier
 - TECH-GOI-073-1 — Lantern Accord Collapsible Signal Beacon, Technology Record
@@ -134,7 +134,7 @@ water crossing and requires Saint Morrow or local passage review, so the two org
 the same routes and their paperwork describes the same journeys from opposite ends.
 
 FILE METADATA
--------------
+═══════════════════════════════════════════════════════════════════════
 
 Record Type: Technology Record — Recovered Adversary Device
 Created: 05/02/2020

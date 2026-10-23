@@ -85,11 +85,11 @@ room, and disaster shelter before official containment language can arrive.
 
 ### Public Presence and Concealment
 
-Lullaby Works does not operate under one stable public brand. Its products appear through small child-care companies,
-discontinued nursery catalogues, hospital charity drives, local toy shops, anonymous shelter donations, online
-secondhand listings, school-supply relief crates, and unmarked repair vans. The visible brands are gentle,
-forgettable, and regionally plausible. Parents remember buying a comfort object, not joining an anomalous supply
-chain.
+Lullaby Works does not operate under one stable public brand. Its products appear through
+small child-care companies, discontinued nursery catalogues, hospital charity drives, local
+toy shops, anonymous shelter donations, online secondhand listings, school-supply relief
+crates, and unmarked repair vans. The visible brands are gentle, forgettable, and regionally
+plausible. Parents remember buying a comfort object, not joining an anomalous supply chain.
 
 Known public-facing marks include a stitched half-moon, a paper lantern with closed eyes, a warranty line promising
 **three quiet nights**, and a printed instruction stating that no adult should open the
@@ -119,8 +119,8 @@ countries. Its supply chain demonstrates corporate continuity even when its shel
 A.C.T assessment identifies the following probable layers:
 
 - design rooms that create protective object forms around child psychology and domestic concealment;
- anomalous materials staff who work with thread, wax, paper, music, lullaby recordings, sleep residue,
- and unknown soft
+ anomalous materials staff who work with thread, wax, paper,
+ music, lullaby recordings, sleep residue, and unknown soft
  composites;
 - child-trauma consultants or clinicians who shape products around real fear responses;
  donation coordinators who place items in hospitals, shelters, schools, and homes after abnormal events;
@@ -223,10 +223,10 @@ confiscation can reproduce abandonment trauma and reduce witness cooperation.
 
 ### Operational Regions
 
-Lullaby Works operates across transnational child-care and disaster-relief channels. Confirmed or strongly assessed
-points of appearance include pediatric wards, foster placement bags, emergency shelters, school counseling offices,
-refugee-family supply crates, post-breach relocation homes, rural toy shops, and online resale listings that cannot be
-traced after purchase.
+Lullaby Works operates across transnational child-care and disaster-relief channels. Confirmed or
+strongly assessed points of appearance include pediatric wards, foster placement bags, emergency
+shelters, school counseling offices, refugee-family supply crates, post-breach relocation homes,
+rural toy shops, and online resale listings that cannot be traced after purchase.
 
 The group favors places where children are least able to control their environment: bedrooms, temporary housing,
 hospitals, shelters, transport vehicles, dormitories, and classrooms after traumatic events. A.C.T should not assume

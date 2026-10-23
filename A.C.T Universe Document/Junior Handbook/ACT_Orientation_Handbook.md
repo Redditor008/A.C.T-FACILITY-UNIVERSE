@@ -66,8 +66,8 @@ use the term **Anomaly.**
 
 An Anomaly is a **Broken Sentence** in the law of the universe. It is
 a thing that should not be, yet it is. Whether
-it is an indestructible lizard (AFD-SU-012) or a door to another world (AFD-PL-932), every anomaly represents a
-"System Error" of reality.
+it is an indestructible lizard (AFD-SU-012) or a door to another world
+(AFD-PL-932), every anomaly represents a "System Error" of reality.
 
 As a researcher or technician, you must never view an anomaly as an "Enemy."
 Many anomalies are survivors of the very
@@ -78,8 +78,8 @@ reality to hold.
 
 #### **2. CONTAINMENT: THE ACT OF RESPECT**
 
-The second pillar of our name is **Containment.** Junior staff often mistake containment for "imprisonment." This is
-incorrect.
+The second pillar of our name is **Containment.** Junior staff
+often mistake containment for "imprisonment." This is incorrect.
 
 Containment is the **Maintenance of Balance.**
 
@@ -88,10 +88,8 @@ effective layer of containment is **Manners.** As Senior Researcher Thorne (SR-4
 Anti Reality Mesh that doesn't require a power supply."*
 
 *   **Physical Containment:** Using "Boxes" (Small, Medium, Massive) to physically isolate an object.
-    **Perceptual Containment:** Using the **ARM (Anti Reality Mesh)** to hide our Sites from the
-    world.
-    **Social Containment:** Using "Politeness Protocols" to ensure that sentient subjects feel like guests rather
-    than
+    **Perceptual Containment:** Using the **ARM (Anti Reality Mesh)** to hide our Sites from the world.
+    **Social Containment:** Using "Politeness Protocols" to ensure that sentient subjects feel like guests rather than
     prisoners.
 
 #### **3. THE DUAL DUTY**
@@ -153,18 +151,18 @@ to the Abyss.
 ##### **III. THE RESEARCHER CADRE (HIGH, SENIOR, JUNIOR)**
 Researchers are our eyes.
 — **High Researchers** bridge the gap between policy and science.
-    **Senior Researchers** (like Dr. Aris Thorne) are the frontline masters of the anomaly. They
-    translate raw chaos into
+    **Senior Researchers** (like Dr. Aris Thorne) are the frontline
+    masters of the anomaly. They translate raw chaos into
     workable logs.
-    **Junior Researchers** provide the essential labor of observation and data-mending. You are the future
-    of the archive;
+    **Junior Researchers** provide the essential labor of
+    observation and data-mending. You are the future of the archive;
     do not mistake your low clearance for a lack of importance. Every typo you
     fix prevents a causal error.
 
 ##### **IV. TACTICAL & FIELD OPERATIONS**
-The limbs of the Facility. **Field Operators** and **Task Force Commanders** are the ones who step into the
-"Fractures" first. **Facility Guards** protect the internal peace. They are trained to see the "Static" before a
-breach happens.
+The limbs of the Facility. **Field Operators** and **Task Force Commanders** are
+the ones who step into the "Fractures" first. **Facility Guards** protect the
+internal peace. They are trained to see the "Static" before a breach happens.
 
 ##### **V. THE SUPPORT PILLARS (ARCHIVERS, JANITORS, RECRUITERS)**
 The cells of the body. **Archivers** are the most critical support role. In A.C.T.,
@@ -205,8 +203,8 @@ notices the concrete fortress in their backyard.
 
 #### **4. THE CENTRAL SPINE: THE ABYSSAL AXIS**
 
-Everything in the Facility turns around the **Central Sector.** This is the vertical core where the **Anomaly
-Containment Elevator** moves.
+Everything in the Facility turns around the **Central Sector.** This
+is the vertical core where the **Anomaly Containment Elevator** moves.
 
 It is a reminder of our origin: **We were not built downward from an
 office; we were built upward from a sleeping
@@ -277,8 +275,8 @@ to a specific type of "Pressure."
 ##### **ACT-SITE-01-US-W: REDWOOD VEIL COMPLEX**
 *   **Location:** Western United States.
 *   **Specialization:** Urban Artifacts and High-Stress Recovery.
-    **Culture:** Fast-paced and clinical. Site-01 handles the items that "bleed" into the public eye
-    first. If a cursed
+    **Culture:** Fast-paced and clinical. Site-01 handles the
+    items that "bleed" into the public eye first. If a cursed
     coin or a self-writing diary is found in a city, it goes to Redwood
     Veil. It is our primary shield against the
     collapse of public normalcy.
@@ -286,8 +284,8 @@ to a specific type of "Pressure."
 ##### **ACT-SITE-02-RU-N: WHITE GRAVE STATION**
 *   **Location:** Northern Russia (Arctic).
 *   **Specialization:** Biological Isolation and Unwilling Immortals.
-    **Culture:** Silent, analog, and disciplined. This is the current home of **Dr. Aris Thorne
-    (SR-412)**. The extreme
+    **Culture:** Silent, analog, and disciplined. This is the
+    current home of **Dr. Aris Thorne (SR-412)**. The extreme
     cold is used as a natural suppression layer for anomalies that are too volatile
     for warmer climates. Here, "Patience"
     is the primary law.
@@ -295,16 +293,15 @@ to a specific type of "Pressure."
 ##### **ACT-SITE-03-JP-E: KUROKAWA ARCHIVE NODE**
 *   **Location:** Eastern Japan (Tokyo Annex).
 *   **Specialization:** Memetic, Informational, and Exogenous Records.
-    **Culture:** Intellectual and highly restricted. Site-03 is the "Brain" of the archive. It houses
-    the **715-Series
+    **Culture:** Intellectual and highly restricted. Site-03 is the "Brain" of the archive. It houses the **715-Series
     (Emergent Reality)** ghost-files. Personnel here are masters of "Causal Scrubbing"—ensuring that the information
     within a file doesn't become more dangerous than the subject it describes.
 
 ##### **ACT-SITE-04-BR-C: VERDE NULL BIO-RESERVE**
 *   **Location:** Central Brazil (Amazon).
 *   **Specialization:** Non-Natural Biological Organisms and Enclosures.
-    **Culture:** Adaptive and protective. Site-04 is the home of **Vivienne Argent (AFD-SU-827)** and the
-    **Paper Flower
+    **Culture:** Adaptive and protective. Site-04 is the home
+    of **Vivienne Argent (AFD-SU-827)** and the **Paper Flower
     (AFD-NB-204)**. It is a "Neutral Good" paradise where we provide a natural home for
     anomalies that are victims of
     their own biology.
@@ -312,8 +309,8 @@ to a specific type of "Pressure."
 ##### **ACT-SITE-05-ID-C: NUSANTARA DEEP RELAY**
 *   **Location:** Central Indonesia (Archipelago).
 *   **Specialization:** Maritime, Tectonic, and Abyssal Watch.
-    **Culture:** Vigilant and technical. Site-05 monitors the **Proto-Thal (AFD-NB-125)** and serves as the primary
-    relay
+    **Culture:** Vigilant and technical. Site-05 monitors the
+    **Proto-Thal (AFD-NB-125)** and serves as the primary relay
     for the Abyss Floor. They are the guardians of the Fault Lines, watching for
     any sign that the "Sleeper" is shifting.
 
@@ -374,9 +371,9 @@ do we "hate" it. We treat every subject as a set of variables that
 must be balanced. If we allow our feelings to
 dictate the change, we risk a "Narrative Feedback Loop" that can kill us all.
 **Why it is GOOD:** The ultimate
-objective is the prevention of suffering. We transform the **Paper Flower (AFD-NB-204)** from a child's tragedy into a
-staff blessing. We transform **NEMNOLIA (AFD-NB-004)** from a memory-killer into the very medicine that prevents
-global panic.
+objective is the prevention of suffering. We transform the **Paper Flower
+(AFD-NB-204)** from a child's tragedy into a staff blessing. We transform **NEMNOLIA
+(AFD-NB-004)** from a memory-killer into the very medicine that prevents global panic.
 
 We are taking the things that meant us harm and forcing them to become
 the things that keep us safe. It is a "Good"
@@ -524,8 +521,8 @@ We categorize anomalies by the law they break:
 *   **NB (Non-Natural Bio-Hazard):** Organisms that defy biological law.
 
 ##### **II. THE FRACTURE INDEX (HOW IS IT BROKEN?)**
-Sometimes, standard classification fails. We use the **Fracture Index** to describe anomalies that break our own
-documentation logic.
+Sometimes, standard classification fails. We use the **Fracture
+Index** to describe anomalies that break our own documentation logic.
 — **ABSURD:** The anomaly shouldn't fit in the box, but somehow it does.
     **UNAUTHORED:** The anomaly rewrites its own file or changes its name when we
     aren't

@@ -90,10 +90,10 @@ monitored procedure.
 PHYSICAL OR SYSTEM DESCRIPTION
 A PSCG panel appears almost ordinary from a distance. Close inspection shows a faint
 rainbow oil-slick sheen,
-especially along angled light. The pane is mounted inside a reinforced frame containing a polarizing dial, a digital
-phase-slider, power couplers, and safety locks. The slider adjusts observation phase. The dial adjusts polarization
-and visual fidelity. Some frames include operator presets for interview, medical check, visual hazard, spatial phase,
-and emergency opaque mode.
+especially along angled light. The pane is mounted inside a reinforced frame containing a
+polarizing dial, a digital phase-slider, power couplers, and safety locks. The slider adjusts
+observation phase. The dial adjusts polarization and visual fidelity. Some frames include operator
+presets for interview, medical check, visual hazard, spatial phase, and emergency opaque mode.
 
 Known components include multi-layer transparent phase medium; oil-slick resonance sheen; polarizing dial; digital
 phase-slider; reinforced containment frame; emergency opacity circuit; gaze-diffusion laminate; tangibility-offset
@@ -234,9 +234,9 @@ SERVICING AND CALIBRATION
 | Sheen or laminate damage   | panel withdrawal                          | Engineering Division                      |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 
-No calendar interval is recorded; the panel is calibrated on installation and on relocation, so interval NOT
-MEASURED. There is no consumable. The 2014 over-clarity case is why clarity adjustment is never accepted in
-place of an audio repair.
+No calendar interval is recorded; the panel is calibrated on installation and on
+relocation, so interval NOT MEASURED. There is no consumable. The 2014 over-clarity
+case is why clarity adjustment is never accepted in place of an audio repair.
 
 FAULT ISOLATION
 

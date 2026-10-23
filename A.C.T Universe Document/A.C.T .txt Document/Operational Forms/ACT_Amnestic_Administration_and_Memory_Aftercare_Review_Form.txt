@@ -1,6 +1,6 @@
 A.C.T FACILITY ARCHIVE FILE — AMNESTIC REVIEW FOUNDATION
 AMNESTIC ADMINISTRATION AND MEMORY-AFTERCARE REVIEW FORM
---------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Archive Status: Active Working Form
 Distribution: Medical Care Division / Civil Covert Division / Archiver Division / Site Command
@@ -8,7 +8,7 @@ Distribution: Medical Care Division / Civil Covert Division / Archiver Division 
 Authority: Medical Care Division, Civil Covert Division, and Central Archive
 
 Archive Note
-------------
+═══════════════════════════════════════════════════════════════════════
 This form governs the review, authorization, administration, and aftercare record for amnestic use. It exists because
 memory treatment is not a cleanup tool. It is an intervention against a person's
 continuity, and every intervention
@@ -18,16 +18,16 @@ The 004-series amnestic lineage demonstrates that A.C.T can transform anomalous 
 It also demonstrates that protection can become habit. This form is designed to make
 that habit visible.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 AMNESTIC REVIEW FOUNDATION
---------------------------
+═══════════════════════════════════════════════════════════════════════
 
 1. Use Conditions
------------------
+═══════════════════════════════════════════════════════════════════════
 
-Use this form whenever A.C.T considers, approves, denies, administers, withholds, reverses, audits, or follows up on
-memory alteration.
+Use this form whenever A.C.T considers, approves, denies, administers,
+withholds, reverses, audits, or follows up on memory alteration.
 
 Required use cases include:
 
@@ -50,10 +50,10 @@ A denied amnestic request must still be recorded if the request reached Medical 
 Civil Covert, Site Command, or
 Central Archive.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 2. Review Header
-----------------
+═══════════════════════════════════════════════════════════════════════
 
 text
 AMNESTIC REVIEW ID:
@@ -82,10 +82,10 @@ If the person cannot safely be named, use the sealed identifier already establis
 the witness, personnel,
 subject-care, or custody record.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 3. Person Category
-------------------
+═══════════════════════════════════════════════════════════════════════
 
 Mark all applicable categories.
 
@@ -111,10 +111,10 @@ text
 Person category affects safeguards. It does not erase personhood. A.C.T may alter memory under authority, but it may
 not pretend the altered person has become only a record problem.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 4. Request Reason
------------------
+═══════════════════════════════════════════════════════════════════════
 
 text
 PRIMARY REQUEST REASON:
@@ -139,10 +139,10 @@ DETAILED REASON:
 The request must describe the memory or exposure condition to be treated. "Knows too
 much" is not sufficient.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5. Memory Scope Assessment
---------------------------
+═══════════════════════════════════════════════════════════════════════
 
 text
 MEMORY TARGET:
@@ -174,10 +174,10 @@ RISK IF MEMORY IS REMOVED:
 Some memories are load-bearing. Removing them may break grief processing, location avoidance, family continuity,
 subject trust, or the person's ability to explain their own scars.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 6. Amnestic Grade and Method
-----------------------------
+═══════════════════════════════════════════════════════════════════════
 
 text
 PROPOSED AMNESTIC GRADE:
@@ -198,10 +198,10 @@ TRANSFORMATION-DERIVED MATERIAL INVOLVED:
 If 004-series material or NEMNOLIA-lineage derivatives are involved, the review must acknowledge transformation
 provenance. A.C.T cannot safely use transformed memory tools while forgetting the anomaly that made them possible.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 7. Partial Truth Shard Review
------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 A partial truth shard is a controlled fragment of truth left intact because full
 erasure would cause worse
@@ -224,10 +224,10 @@ A partial truth shard is not mercy by default. It is controlled damage left
 visible because invisible damage would
 spread.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 8. Consent, Refusal, and Authority
-----------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 text
 PERSON CAPABLE OF CONSENT:
@@ -246,10 +246,10 @@ GOI-RISK REVIEW PRESENT:
 A.C.T may administer amnestics without consent under restricted authority. The form must record that authority
 plainly. Memory removed under command is not consent retroactively created.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 9. Administration Record
-------------------------
+═══════════════════════════════════════════════════════════════════════
 
 text
 ADMINISTRATION APPROVED:
@@ -279,10 +279,10 @@ False memory insertion requires its own justification. A blank space may be safe
 a lie. A lie may be safer than
 a blank space. Neither is clean.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 10. Post-Amnestic Aftercare
----------------------------
+═══════════════════════════════════════════════════════════════════════
 
 text
 AFTERCARE REQUIRED:
@@ -312,10 +312,10 @@ Aftercare belongs to the person, not to the cover story. A successful public nar
 does not prove the treated
 person is stable.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 11. Personnel Repeated-Use Review
----------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Complete when the person is A.C.T personnel, contractor, embedded liaison, E-Class, or recurring witness.
 
@@ -336,10 +336,10 @@ PERSONNEL RESILIENCE PROFILE UPDATED:
 A person cannot be made safe for repeated harm by repeatedly removing the memory
 of harm.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 12. GOI Exposure Attachment
----------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Complete when memory treatment is tied to a Group of Interest.
 
@@ -365,10 +365,10 @@ RISK OF RECONTACT:
 
 Some GOI words are hooks. Some are evidence. Some are both.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 13. Archive and Narrative Closure
----------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 text
 TRUE EVENT RECORD UPDATED:
@@ -388,10 +388,10 @@ A.C.T must preserve both the treatment and the reason for treatment. If the arch
 forgets why a memory was removed,
 the institution inherits the same wound it created in the person.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 14. Red Lines
--------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T will not:
 
@@ -405,10 +405,10 @@ A.C.T will not:
 - remove a memory anchor required for survival, grief, medical care, or identity continuity;
 - call a normalcy operation complete merely because the witness no longer remembers.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 15. Blank Field Copy
---------------------
+═══════════════════════════════════════════════════════════════════════
 
 text
 A.C.T FACILITY ARCHIVE FILE
@@ -557,10 +557,10 @@ NEXT REVIEW DATE:
 CLOSING AUTHORITY:
 CLOSING DATE:
 
----
+═══════════════════════════════════════════════════════════════════════
 
 File Metadata
--------------
+═══════════════════════════════════════════════════════════════════════
 
 text
 FILE CREATED:        15/08/1926

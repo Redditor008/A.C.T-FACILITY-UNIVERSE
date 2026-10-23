@@ -145,8 +145,8 @@ You are not appointed to own the key. You are appointed to survive holding
 it.
 ```
 
-The Office does not recruit publicly. Membership often follows inheritance, oath selection, or discovery of a key that
-burns cold in the hand.
+The Office does not recruit publicly. Membership often follows inheritance,
+oath selection, or discovery of a key that burns cold in the hand.
 
 ---
 
@@ -226,10 +226,10 @@ cleanly without creating new contradictions.
 
 ### Operational Regions
 
-The Office is assigned Regional reach. Its strongest confirmed operations cluster around old estates, former royal
-holdings, charter towns, chapel crypts, museum vaults, inherited land parcels, treaty roads, ruined fortifications,
-and private houses built over sealed rooms. Its historical roots appear older and possibly wider, but A.C.T cannot
-verify transnational command.
+The Office is assigned Regional reach. Its strongest confirmed operations cluster around old
+estates, former royal holdings, charter towns, chapel crypts, museum vaults, inherited land
+parcels, treaty roads, ruined fortifications, and private houses built over sealed rooms. Its
+historical roots appear older and possibly wider, but A.C.T cannot verify transnational command.
 
 Site 01 is often involved because estate law, museum records, urban property transfer, and public concealment create
 records pressure. Central Archive attaches because Office ledgers may contradict modern A.C.T histories. Site-specific
@@ -260,10 +260,10 @@ the door they served.
 
 The Office acts when an old custody condition is disturbed. Triggers include death of
 an heir, sale of an estate,
-museum acquisition, renovation of sealed rooms, marriage transfer of relic-bearing property, bankruptcy of a family
-trust, attempted theft, fire, demolition, or A.C.T seizure. The Office sends notice, asserts custody language,
-identifies the relevant lock or oath, and either blocks access, witnesses transfer, or requests that A.C.T accept a
-burden under specified terms.
+museum acquisition, renovation of sealed rooms, marriage transfer of relic-bearing property,
+bankruptcy of a family trust, attempted theft, fire, demolition, or A.C.T seizure. The Office
+sends notice, asserts custody language, identifies the relevant lock or oath, and either blocks
+access, witnesses transfer, or requests that A.C.T accept a burden under specified terms.
 
 Its instructions often sound legal rather than occult:
 
@@ -298,8 +298,8 @@ buyers. A.C.T delayed entry for
 ninety minutes. During the delay, three false heirs named in the sales documents disappeared from the title record.
 The surviving heir refused the room. The lullaby stopped without breach.
 
-A.C.T later determined that immediate forced entry would likely have transferred custody to the nearest child in the
-house.
+A.C.T later determined that immediate forced entry would likely
+have transferred custody to the nearest child in the house.
 
 ### Current Relationship
 
@@ -367,10 +367,10 @@ If A.C.T becomes claimant, A.C.T must feed the lock a name.
 The lock burned. The duty did not.
 ```
 
-A.C.T delayed forced entry. The surviving heir refused the room under Office witness and did not inherit the contents.
-The false title claimants disappeared from property records but remained physically alive. The nursery room ceased
-audible activity for six hours, allowing Recovery Division to install temporary containment without naming a child
-claimant.
+A.C.T delayed forced entry. The surviving heir refused the room under Office witness and did
+not inherit the contents. The false title claimants disappeared from property records but
+remained physically alive. The nursery room ceased audible activity for six hours, allowing
+Recovery Division to install temporary containment without naming a child claimant.
 
 ```text
 CENTRAL ARCHIVE ADDENDUM
@@ -418,8 +418,8 @@ modernize, and unresolved obligations that may attach to A.C.T if accepted witho
 The Office should not be romanticized as wise tradition or dismissed as obsolete nobility. It is an institution that
 survived because some locks still answer to it. Its best use in the setting
 is friction: old law meeting modern
-containment, survivor inheritance meeting object custody, and A.C.T discovering that some dangers were already named
-before A.C.T existed.
+containment, survivor inheritance meeting object custody, and A.C.T
+discovering that some dangers were already named before A.C.T existed.
 
 ### Persistent Questions
 
@@ -439,8 +439,7 @@ before A.C.T existed.
  How many public museums hold objects tagged by the Office under names ordinary
  curators
  do not understand?
- Did any founder-era containment records rely on Crown Office ledgers before being absorbed into
- A.C.T archives?
+ Did any founder-era containment records rely on Crown Office ledgers before being absorbed into A.C.T archives?
 
 ### Intelligence Confidence
 
@@ -457,9 +456,9 @@ verifies the living holder of the Lord Clerk title.
 
 The Crown Office of Ash Keys is an organization and therefore belongs in the
 GOI archive. Individual relics, rooms,
-keys, ledgers, seals, estates, or inherited obligations may require separate anomaly, site, incident, legal, or
-recovered-document files. The organization record must not be used as a substitute for object classification or
-heir-protection review.
+keys, ledgers, seals, estates, or inherited obligations may require separate anomaly,
+site, incident, legal, or recovered-document files. The organization record must not
+be used as a substitute for object classification or heir-protection review.
 
 ### Related A.C.T Records
 

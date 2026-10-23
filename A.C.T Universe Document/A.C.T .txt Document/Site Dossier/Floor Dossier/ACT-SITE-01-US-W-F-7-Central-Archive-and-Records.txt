@@ -11,7 +11,7 @@ Dossier Number: FLOOR-DOSSIER-01-US-W-F-7
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard / ACT Floor Record Standard
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Note
 
@@ -32,7 +32,7 @@ Archive
 Division treats the floor's documents as part of the complex's containment
 system.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 1. Floor Registry Identity Summary
 
@@ -54,7 +54,7 @@ rewrites (central archival doctrine)
 Access Posture: Archive-clearance-gated access
 Current Status: Active
 
----
+═══════════════════════════════════════════════════════════════════════
 
 2. Dossier Purpose
 
@@ -69,7 +69,7 @@ the Archive Division preserves the material record of the site's work — and
 where information-borne hazards are quarantined in cells engineered for
 material that must not be read, copied, or rewritten by the wrong hand.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 3. Position in the Site Stack
 
@@ -94,7 +94,7 @@ from the holding levels, study records from Research, evaluation records
 from Transformation, and clinical records from Medical. The floor is the
 convergence point of the complex's written memory.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 4. Historical Foundation
 
@@ -127,7 +127,7 @@ In its modern configuration, F-7 is the complex's documentary estate: a
 repository of the site's written memory, guarded by quarantine capacity and
 hardened against the forces that would rewrite it.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5. Command and Authority
 
@@ -149,7 +149,7 @@ F-7 holds no authority over resident disposition. Its authority is over
 documents — including the authority to quarantine information-borne hazards
 and to deny access to records under the complex's clearance doctrine.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 6. Divisional Presence
 
@@ -181,7 +181,7 @@ clinical documentation.
 The Administration floor above coordinates with F-7 on the complex's
 command records, personnel files, and authorization documentation.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 7. Physical Plant and Architecture
 
@@ -218,7 +218,7 @@ architectural and documentary systems that would resist forces attempting
 to change the record are integrated into the floor's design. The complex's
 records are written once, and the floor is built to keep them that way.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 8. Systems and Infrastructure
 
@@ -245,7 +245,7 @@ The floor maintains the complex's record systems: accession logs, retrieval
 records, and quarantine documentation are themselves preserved under the
 floor's own standards — the archive keeps the archive's records.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 9. Security and Containment Architecture
 
@@ -276,7 +276,7 @@ F-7 maintains incident response for archive events: quarantine-cell
 incidents, record-access violations, and attempts — anomalous or otherwise —
 to alter the complex's documentation.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 10. Holdings and Filing Doctrine
 
@@ -304,7 +304,7 @@ doctrine: material is accessible by clearance, quarantine material is
 accessible by restriction set, and the floor's own access records are
 preserved as part of the complex's documentary estate.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 11. Personnel and Duty Life
 
@@ -327,7 +327,7 @@ The floor's personnel work under the Archive Division's culture: records
 are treated as the complex's memory, and the floor's staff are its
 custodians. The work is quiet, exact, and permanent.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 12. Floor Doctrine
 
@@ -351,7 +351,7 @@ resisting the forces that would rewrite it. The floor's QNB-hardened
 structure embodies the principle that the complex's records are written once
 and kept as written.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 13. Incident Archive
 
@@ -361,7 +361,7 @@ encounters with information-borne hazards — and the incidents that led to
 the QNB-hardening of the floor — are recorded in the Archive Division's
 history.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 14. Current Status and Projected Development
 
@@ -371,7 +371,7 @@ priorities include:
 - refinement of quarantine-cell doctrine for information-borne hazards;
 - maintenance of the floor's QNB-hardened structure.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 15. Cross-Referenced Files
 
@@ -382,7 +382,7 @@ priorities include:
 - ACT_Site_Doctrine_and_Installation_Structure.md / .txt
 - Redwood Veil Annex Register (clearance-gated)
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Closing
 

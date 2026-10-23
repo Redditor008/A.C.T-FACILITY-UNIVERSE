@@ -61,8 +61,8 @@ Thermal-Lure Beacons create a directional heat target that ectothermic, thermore
 heat-prioritizing subjects may choose over aggression, escape, feeding, or panic. The beacon projects a controlled
 infrared lure rather than a visible command. Proper use can move an organism toward
 a feeding bay, medical bay, return
-path, resting zone, collection point, or safe enclosure without gunfire, shouting, electric prods, or unnecessary
-sedation.
+path, resting zone, collection point, or safe enclosure without
+gunfire, shouting, electric prods, or unnecessary sedation.
 
 The technology is especially valuable for living anomalies whose behavior is animal-like rather than malicious. It
 respects the fact that some subjects are dangerous because they are large, hungry, frightened, territorial, or
@@ -253,10 +253,10 @@ FAULT ISOLATION
 +----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
-TLB fails against subjects that are not heat-motivated, subjects in pain, starving predators, mating cycles,
-territorial defense, cold-resistant entities, heat-feeding hazards, and organisms that interpret warmth as prey. It
-may also produce accidental conditioning: a subject learns that heat appears before feeding, medicine, or containment
-closure.
+TLB fails against subjects that are not heat-motivated, subjects in pain, starving predators,
+mating cycles, territorial defense, cold-resistant entities, heat-feeding hazards, and
+organisms that interpret warmth as prey. It may also produce accidental conditioning: a
+subject learns that heat appears before feeding, medicine, or containment closure.
 
 Known failure modes include beam scatter, heat-dial drift, cooling failure, lure competition, thermal panic, habitat
 overheating, subject overconditioning, and staff complacency around non-hostile subjects.
@@ -264,16 +264,16 @@ overheating, subject overconditioning, and staff complacency around non-hostile 
 FAILURE HISTORY
 TLB-2009 Split Beam Event: A damaged Focus Hood produced two thermal targets inside a
 habitat. The subject alternated
-between both until agitation rose. No breach occurred, but the event established mandatory beam-shape checks before
-use.
+between both until agitation rose. No breach occurred, but
+the event established mandatory beam-shape checks before use.
 
 TLB-2024 Spinosaurus Bay Hesitation: A medical bay beacon ramped too quickly and created a heat spike above the
 subject's normal route preference. The Spinosaurus stopped at the threshold and struck the bay wall. Procedures now
 require slow ramping except during emergency redirection.
 
-TLB-2025 Toy Dragon Food Association: Repeated pairing of beacon return with fatty-fruit reward caused the Toy Dragon
-to sit beside inactive units and refuse enrichment. Subject Care separated heat guidance from food reward in juvenile
-habitats.
+TLB-2025 Toy Dragon Food Association: Repeated pairing of beacon return with
+fatty-fruit reward caused the Toy Dragon to sit beside inactive units and refuse
+enrichment. Subject Care separated heat guidance from food reward in juvenile habitats.
 
 DIVISION USE
 Subject Care operates habitat beacons and trains handlers. Biological Containment approves subject profiles. Recovery

@@ -1,5 +1,5 @@
 A.C.T FACILITY ARCHIVE FILE
----------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Ninefold Ark Seized Sample Coffer
 =================================
@@ -11,7 +11,7 @@ Designation: TECH-GOI-074-1
 Origin: Ninefold Ark (GOI-HY-N-074), Ark preservation stock
 
 Archive Note
-------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T seized one sample coffer from the Ninefold Ark after a custody dispute. It is the only Ark object
 the Facility holds. Everything else in the relationship is at a distance: one seed annex was inspected
@@ -25,7 +25,7 @@ disputed object belonging to a party it also works with, and the archive does no
 The coffer has not been opened. Its nine-line seal is intact.
 
 ASSESSMENT
-----------
+═══════════════════════════════════════════════════════════════════════
 
 1.1 What the coffer is
 ======================
@@ -81,7 +81,7 @@ something about the seizure; accepting one would concede something about the hol
 not ruled and this file does not decide for it.
 
 OPEN QUESTIONS
---------------
+═══════════════════════════════════════════════════════════════════════
 
 - what the custody dispute concerned, and whether it is concluded;
 - what the coffer contains, and whether opening it would answer that or destroy it;
@@ -94,7 +94,7 @@ The last question governs the seal rule. A network that stores things it has not
 may hand over something nobody knows how to hold, and until that category is named the coffer stays shut.
 
 CROSS-REFERENCES
-----------------
+═══════════════════════════════════════════════════════════════════════
 
 - GOI-HY-N-074 — Ninefold Ark, Group of Interest Dossier
 - TECH-GOI-073-1 — Lantern Accord Collapsible Signal Beacon, Technology Record
@@ -105,7 +105,7 @@ The two references beside it are the nearest comparable files rather than a set:
 broken and never restored, a ticket held and never presented.
 
 FILE METADATA
--------------
+═══════════════════════════════════════════════════════════════════════
 
 Record Type: Technology Record — Recovered Adversary Device
 Created: 12/06/2022

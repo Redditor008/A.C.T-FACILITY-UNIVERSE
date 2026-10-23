@@ -80,11 +80,11 @@ it. Earlier medical practice could keep a patient alive while the patient's cell
 pattern, or genome they belonged to. Transformation Review demanded that any automated repair suite carry ethical
 constraints as strongly as medical ones.
 
-Custody belongs to Medical Division and the Transformation Review Board. Medical controls operation, patient care,
-sedation, infection review, and aftercare. Transformation Review controls baseline selection and use on irreversible
-alterations. Engineering maintains scanners, scrubbers, pod seals, vector delivery, and progress displays. Biological
-Containment assists when patient biology remains hazardous. Site Command authorizes emergency use during mass rewrite
-events.
+Custody belongs to Medical Division and the Transformation Review Board. Medical controls
+operation, patient care, sedation, infection review, and aftercare. Transformation Review controls
+baseline selection and use on irreversible alterations. Engineering maintains scanners, scrubbers,
+pod seals, vector delivery, and progress displays. Biological Containment assists when patient
+biology remains hazardous. Site Command authorizes emergency use during mass rewrite events.
 
 Viral-vector libraries are Level 5 because a hostile or careless repair vector could rewrite a patient into a more
 convenient shape and call the result health.
@@ -260,10 +260,10 @@ FAULT ISOLATION
 +----------------------------+-------------------------------------------+-------------------------------------------+
 
 KNOWN LIMITS
-GPP cannot restore a missing soul, recover erased memory by itself, reverse every transformation, distinguish identity
-from biology without records, or guarantee that the pre-anomaly baseline is ethically correct. It may fail when the
-anomaly defines itself through genetic change, when the patient has multiple lawful baselines, or when repair would
-kill the adapted survivor.
+GPP cannot restore a missing soul, recover erased memory by itself, reverse every transformation,
+distinguish identity from biology without records, or guarantee that the pre-anomaly baseline is
+ethically correct. It may fail when the anomaly defines itself through genetic change, when the
+patient has multiple lawful baselines, or when repair would kill the adapted survivor.
 
 Known failure modes include overcorrection, baseline mismatch, vector rebellion, scrubber saturation, mist
 concentration drift, glass-lid stress, patient identity distress, and false Mending Progress. The most dangerous
@@ -283,10 +283,10 @@ nineteen seconds. No injury occurred. Engineering added visibility thresholds an
 patient has already failed supervision.
 
 DIVISION USE
-Medical operates GPP suites and manages aftercare. Transformation Review approves baselines and irreversible repair
-aims. Engineering maintains pods and vector systems. Biological Containment supports hazardous patients. Site Command
-authorizes emergency mass exposure use. Ethics review is attached when patient consent is impaired, disputed, or
-unavailable.
+Medical operates GPP suites and manages aftercare. Transformation Review approves baselines
+and irreversible repair aims. Engineering maintains pods and vector systems. Biological
+Containment supports hazardous patients. Site Command authorizes emergency mass exposure
+use. Ethics review is attached when patient consent is impaired, disputed, or unavailable.
 
 Standing reminder: repaired tissue is not automatically restored life. Ask the patient what survived.
 

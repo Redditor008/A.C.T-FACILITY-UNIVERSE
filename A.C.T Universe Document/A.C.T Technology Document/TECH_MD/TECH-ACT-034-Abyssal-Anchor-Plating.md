@@ -79,10 +79,10 @@ floor, or cause structural elements to disagree about distance.
 
 Abyssal Masonry gave A.C.T a way to dampen deep pressure. Abyssal Anchor Plating was
 the next step: a hardened skin
-that could distribute that pressure across a deliberate grid instead of letting it concentrate into one wall joint.
-The tungsten reinforcement was added for direct force. The plate grooves were added after repeated heavy-entity shifts
-cracked older flat panels. The thermal-sink layer was added after large enclosures began storing impossible heat in
-the seams.
+that could distribute that pressure across a deliberate grid instead of letting it concentrate
+into one wall joint. The tungsten reinforcement was added for direct force. The plate grooves
+were added after repeated heavy-entity shifts cracked older flat panels. The thermal-sink
+layer was added after large enclosures began storing impossible heat in the seams.
 
 Modern AAP doctrine treats every Massive Box as an ecosystem of structural promises. The floor promises not to sink.
 The wall promises not to flex. The plate promises not to ring. The anchor
@@ -113,8 +113,8 @@ Known components include:
 - cold-contact diagnostic strip;
 - anchor-load inspection port.
 
-The plate is not installed alone. It requires masonry backing, load mapping, seam survey, and post-installation quiet
-testing.
+The plate is not installed alone. It requires masonry backing,
+load mapping, seam survey, and post-installation quiet testing.
 
 ---
 
@@ -261,15 +261,15 @@ initially treated the sound as ordinary expansion. Engineering found three tiles
 instead of spreading it. Current doctrine classifies ringing as an immediate inspection trigger.
 
 ### AAP-2019 Cryo-Seismic Coupling Review
-A Cryo-Seismic Stabilizer array reduced floor movement but increased cold stress through an adjacent plating grid. The
-plate held, but thermal-sink readings lagged. AAP and CSS maintenance schedules are now linked for Massive Box
-installations.
+A Cryo-Seismic Stabilizer array reduced floor movement but increased cold stress
+through an adjacent plating grid. The plate held, but thermal-sink readings lagged.
+AAP and CSS maintenance schedules are now linked for Massive Box installations.
 
 ### AAP-2026 Quiet Wall Dispute
 An operator reported that a plated wall had become too quiet during high-mass subject
 rest. No visible damage was
-found. Later seam inspection showed partial acoustic dead-zone formation. Silence survey is now included in monthly
-heavy-containment review.
+found. Later seam inspection showed partial acoustic dead-zone formation.
+Silence survey is now included in monthly heavy-containment review.
 
 ---
 

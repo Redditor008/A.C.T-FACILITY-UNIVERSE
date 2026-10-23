@@ -77,8 +77,8 @@ Ash Tide was established in a region where coastal anomaly corridors overlap wit
 volcanic and tectonic activity.
 The site's name records that overlap: ash and tide, restless ground and restless water.
 A watchpoint that ignored
-geology would misunderstand the coast it watched, and a watchpoint that treated every tremor as anomaly would exhaust
-its parent relay.
+geology would misunderstand the coast it watched, and a watchpoint
+that treated every tremor as anomaly would exhaust its parent relay.
 
 The monitoring suites developed as the geological half of the watchpoint's operational heart. They give staff a way to
 distinguish ordinary regional activity from irregular signatures, to warn Recovery when sea-entry staging is unsafe,

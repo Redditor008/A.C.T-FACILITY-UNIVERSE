@@ -1,6 +1,6 @@
 A.C.T FACILITY — ANOMALY STANDARD FILE FORMAT
 
----
+═══════════════════════════════════════════════════════════════════════
 
 
 ═══════════════════════════════════════════════════════════════════════
@@ -292,7 +292,7 @@ DESIGNATION HISTORY:     [UFD-XX-### → AFD-XX-###]
 ═══════════════════════════════════════════════════════════════════════
 
 
----
+═══════════════════════════════════════════════════════════════════════
 
 FILE SAVING CONVENTION
 
@@ -317,7 +317,7 @@ Example:
 - I-AM-A-Test-AFD-OB-001, Archive Record
 - I AM A Test AFD OB 001, Archive Record
 
----
+═══════════════════════════════════════════════════════════════════════
 
 FIELD TYPE CODE REFERENCE
 
@@ -367,7 +367,7 @@ FIELD TYPE CODE REFERENCE
 |                            |                                           | unpredictably                             |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 
----
+═══════════════════════════════════════════════════════════════════════
 
 DESIGNATION FORMAT
 
@@ -416,7 +416,7 @@ containment behavior, and
 conversion potential at a glance. Everything else in this file is detail. This block
 is the truth.*
 
----
+═══════════════════════════════════════════════════════════════════════
 
 EXAMPLE TEST ANOMALY
 

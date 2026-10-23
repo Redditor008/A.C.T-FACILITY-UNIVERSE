@@ -11,7 +11,7 @@ Dossier Number: FLOOR-DOSSIER-05-ID-C-F-6
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard / ACT Floor Record Standard
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Note
 
@@ -30,7 +30,7 @@ This dossier records the floor in full institutional language: what it is,
 how it conceals, how it is built, and how the relay's public science and
 its concealed work share one island.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 1. Floor Registry Identity Summary
 
@@ -54,7 +54,7 @@ geological research conducted in the open
 Access Posture: Public and semi-public access under cover doctrine
 Current Status: Active
 
----
+═══════════════════════════════════════════════════════════════════════
 
 2. Dossier Purpose
 
@@ -71,7 +71,7 @@ concealed operations continue in the built levels below and the waters
 beyond. The island campus reinforces the cover, presenting the relay as
 what it appears to be: a legitimate research institute in the archipelago.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 3. Position in the Site Stack
 
@@ -94,7 +94,7 @@ Personnel and recovered material that must pass between the surface and the
 buried relay descend through F-5, where the relay's personnel level receives
 them. F-6 is the physical boundary; F-5 is the administrative boundary.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 4. Historical Foundation
 
@@ -119,7 +119,7 @@ In its modern configuration, F-6 is the relay's legitimate face: an island
 research campus whose genuine science and port operations conceal the
 buried relay beneath it.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5. Command and Authority
 
@@ -142,7 +142,7 @@ functions. Its authority is over the legitimate campus — and its most
 important duty is the maintenance of the boundary between the campus's
 visible science and the relay's concealed work.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 6. Divisional Presence
 
@@ -170,7 +170,7 @@ Security operates the campus's boundary functions, monitoring the
 transition between the legitimate campus and the relay's concealed
 operations.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 7. Physical Plant and Architecture
 
@@ -205,7 +205,7 @@ operations of an island research institute — while the same waters serve
 the relay's concealed maritime operations under the separation the cover
 requires.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 8. Systems and Infrastructure
 
@@ -233,7 +233,7 @@ The campus maintains its legitimate communications — the scientific
 outreach and professional operations of the research institute — alongside
 the relay's secure internal networks.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 9. Security and Boundary Architecture
 
@@ -266,7 +266,7 @@ operations are met with the relay's surface response doctrine, with the
 buried installation sealed behind the level if the surface boundary is
 threatened.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 10. Function and Character
 
@@ -288,7 +288,7 @@ F-6 holds no anomalous residents. Its population is the campus's legitimate
 personnel and research population; the relay's holdings are maintained in
 the built levels below and the relay's maritime platforms beyond.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 11. Personnel and Duty Life
 
@@ -313,7 +313,7 @@ research, professional reputations, and daily operations are part of the
 relay's concealment. The science is genuine, and so is the discipline of
 those who conduct it.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 12. Floor Doctrine
 
@@ -338,7 +338,7 @@ concealed work must remain separate: the legitimate world sees a research
 institute, and the relay's operations continue beneath and beyond it,
 undisturbed and unseen.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 13. Incident Archive
 
@@ -347,7 +347,7 @@ boundary incidents, public-exposure incidents, and attempts to penetrate
 the relay's concealed operations. The relay's history records the incidents
 that have tested the campus boundary — and the cover has held.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 14. Current Status and Projected Development
 
@@ -358,7 +358,7 @@ priorities include:
   buried relay;
 — preservation of the campus's cover discipline.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 15. Cross-Referenced Files
 
@@ -369,7 +369,7 @@ priorities include:
 - ACT_Site_Doctrine_and_Installation_Structure.md / .txt
 - Nusantara Annex Register (clearance-gated)
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Closing
 

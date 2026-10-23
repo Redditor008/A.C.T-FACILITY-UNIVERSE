@@ -63,8 +63,8 @@ accounts describe the sound as a child's voice rather than a mechanical tone, an
 describe it carrying further than a
 normal cry from the same room. **Bite response.** At least one unit bit an
 adult hand. The warranty fragment treats
-this as a product failure rather than as intended behaviour, which indicates the manufacturer considers the bite a
-misfire.
+this as a product failure rather than as intended behaviour,
+which indicates the manufacturer considers the bite a misfire.
 
 The dossier assigns the trigger set for Lullaby Works products generally as fear spike,
 intruder presence, nightmare
@@ -84,8 +84,8 @@ a soft exterior.
 
 Manufactured by Lullaby Works. No lot label has been recovered for the plush line,
 in contrast to the nightlight line
-which carries **LW / NIGHTLIGHT LOT SLEEP-SAFE-7**. A.C.T cannot state a production volume, a distribution route, or a
-manufacturing site.
+which carries **LW / NIGHTLIGHT LOT SLEEP-SAFE-7**. A.C.T cannot state
+a production volume, a distribution route, or a manufacturing site.
 
 Units reach children through purchase, donation, inheritance, misplaced delivery, school counsellor issue, hospital
 discharge bag, or shelter supply. A.C.T has no reliable way to enumerate units in
@@ -218,8 +218,8 @@ The recovered warranty fragment gives the manufacturer's own procedure and A.C.T
 caregiver's statement in plain paper, do not punish the child for teaching it fear,
 and submit for replacement review.
 
-External inspection proceeds seam, tag, plate, shell, weight, warmth. Warmth at rest is recorded, not investigated in
-the field.
+External inspection proceeds seam, tag, plate, shell, weight,
+warmth. Warmth at rest is recorded, not investigated in the field.
 
 ### Numbered Operating Sequence
 
@@ -281,12 +281,12 @@ It cannot be silenced on command and cannot be tested. A.C.T has no method
 to verify that a unit still functions
 without endangering a child.
 
-It cannot be repaired by A.C.T. The manufacturer's own route is replacement after review, and A.C.T cannot reach the
-manufacturer.
+It cannot be repaired by A.C.T. The manufacturer's own route is
+replacement after review, and A.C.T cannot reach the manufacturer.
 
-The bite response is the clearest operational limit. A protective device that injures the adult who comes to help can
-delay response, and the warranty fragment confirms the manufacturer treats this as a known failure rather than an edge
-case.
+The bite response is the clearest operational limit. A protective device that
+injures the adult who comes to help can delay response, and the warranty fragment
+confirms the manufacturer treats this as a known failure rather than an edge case.
 
 ---
 

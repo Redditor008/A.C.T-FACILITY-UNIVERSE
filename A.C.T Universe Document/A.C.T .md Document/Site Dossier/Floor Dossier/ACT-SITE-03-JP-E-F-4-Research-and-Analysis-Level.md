@@ -111,9 +111,9 @@ by the division and the Site Director.
 
 ### 5.2 Authority over Study
 
-Research access to the node's holdings is governed by the node's research authorization doctrine: each study is
-documented, each holding's restriction set governs how it may be studied, and each program is authorized at the
-appropriate level.
+Research access to the node's holdings is governed by the node's research authorization
+doctrine: each study is documented, each holding's restriction set governs how it may
+be studied, and each program is authorized at the appropriate level.
 
 ### 5.3 Authority Limits
 
@@ -151,8 +151,8 @@ study material and enforcing the exposure limits that govern the floor.
 
 ### 6.5 Security Division
 
-Security guards the floor's access architecture and enforces the restriction protocols governing entry to the floor's
-study spaces.
+Security guards the floor's access architecture and enforces the
+restriction protocols governing entry to the floor's study spaces.
 
 ---
 

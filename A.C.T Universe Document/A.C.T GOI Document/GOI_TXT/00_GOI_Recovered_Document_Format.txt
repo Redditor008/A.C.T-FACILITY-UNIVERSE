@@ -1,13 +1,13 @@
 A.C.T FACILITY ARCHIVE FILE — RECOVERED GOI DOCUMENT FOUNDATION
 GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE
-----------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Archive Status: Active
 Distribution: Intelligence Division / Archiver Division / Civil Covert / GOI Desk
 Authority: Central Archive, Intelligence Division, and External Threat Review
 
 Archive Note
-------------
+═══════════════════════════════════════════════════════════════════════
 This doctrine governs documents that originate from a Group of Interest, appear to originate from a Group of Interest,
 or imitate a Group of Interest well enough to affect A.C.T operations. It exists
 so a GOI may speak in its own voice
@@ -17,13 +17,13 @@ A GOI dossier records what A.C.T believes about an organization. A recovered doc
 said, printed, hid, sold, sang, worshipped, ordered, forged, performed, or wanted A.C.T to believe. These are
 different records and must remain different even when they describe the same event.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 RECOVERED GOI DOCUMENT FOUNDATION
----------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 1. Purpose
-----------
+═══════════════════════════════════════════════════════════════════════
 
 Groups of Interest do not only act through weapons, markets, rituals, buildings, or anomalous subjects. They act
 through documents. A flyer can recruit. A price list can move an anomaly. A
@@ -38,35 +38,35 @@ devotional texts, or fragments of an institution that no longer exists.
 
 This doctrine gives those records a working form.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 2. Separation of Voices
------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Every recovered GOI document must preserve three voices separately:
 
 Source Voice
-------------
-The words, style, claims, formatting, slogans, threats, prayers, prices, jokes, commands, or technical language used
-by the GOI or suspected GOI.
+═══════════════════════════════════════════════════════════════════════
+The words, style, claims, formatting, slogans, threats, prayers, prices,
+jokes, commands, or technical language used by the GOI or suspected GOI.
 
 A.C.T Handling Voice
---------------------
+═══════════════════════════════════════════════════════════════════════
 The archive note, recovery context, translation notice, hazard warning, redaction rule, containment limitation, and
 custody chain written by A.C.T personnel.
 
 Intelligence Assessment Voice
------------------------------
+═══════════════════════════════════════════════════════════════════════
 The interpretation of what the recovered document probably means, what remains uncertain, how it changes the GOI file,
 and what operational action follows.
 
 A recovered document fails if the reader cannot tell whether a statement belongs to
 the GOI, A.C.T, or later analysis.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 3. Recovered Document Designation
----------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Recovered GOI documents use the following designation structure:
 
@@ -88,10 +88,10 @@ GOI-RD-UNK-[YEAR]-[SEQUENCE]
 
 The recovered document designation does not replace the GOI designation. It attaches evidence to the GOI record.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 4. Required Header Fields
--------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Every recovered GOI document record must include:
 
@@ -122,92 +122,92 @@ created it. A document may be planted, forged, stolen, translated badly, edited 
 anomaly, or designed to make
 A.C.T classify the wrong enemy.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5. Document Type Classes
-------------------------
+═══════════════════════════════════════════════════════════════════════
 
 RD-INT — Intercepted Communication
-----------------------------------
+═══════════════════════════════════════════════════════════════════════
 Messages captured during transmission: radio traffic, letters, encrypted message threads, dead-drop notes, maintenance
 signals, internal emails, command pings, and courier documents.
 
 RD-REC — Recovered Physical Document
-------------------------------------
+═══════════════════════════════════════════════════════════════════════
 Paper, books, tickets, posters, labels, prayer cards, catalogues, manuals, invoices, ledgers, surgical forms, or
 documents recovered from a scene.
 
 RD-DIG — Recovered Digital Archive
-----------------------------------
+═══════════════════════════════════════════════════════════════════════
 Databases, drives, tablets, corrupted files, executable records,
 wiki pages, internal indexes, machine logs, or recovered interfaces.
 
 RD-PUB — Public-Facing Mask
----------------------------
+═══════════════════════════════════════════════════════════════════════
 Advertisements, press releases, product labels, fake legal notices, fairground posters, public charity material,
 corporate brochures, or official-looking public cover documents.
 
 RD-RIT — Ritual / Devotional Text
----------------------------------
+═══════════════════════════════════════════════════════════════════════
 Chants, hymns, prayers, vows, liturgy, initiations, curse texts,
 offering records, dream instructions, or sacramental instructions.
 
 RD-COM — Commercial / Transaction Record
-----------------------------------------
+═══════════════════════════════════════════════════════════════════════
 Price lists, auction sheets, market catalogues, shipping manifests, receipts, ownership transfers, client notes,
 broker records, and product instructions.
 
 RD-OPS — Operational Order
---------------------------
+═══════════════════════════════════════════════════════════════════════
 Orders, mission briefs, purge instructions, recruitment instructions, route
 sheets, equipment deployment notes, target lists, or training material.
 
 RD-PER — Personal GOI-Affiliated Record
----------------------------------------
+═══════════════════════════════════════════════════════════════════════
 Diary, confession, performer writing, employee complaint, field notebook, survivor note, handler journal, or other
 personal text linked to GOI activity.
 
 RD-FRG — Fragment / Unstable Record
------------------------------------
+═══════════════════════════════════════════════════════════════════════
 Partial, damaged, looping, redacted, burned, corrupted, anomalously incomplete, or self-altering records.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 6. Authenticity Status
-----------------------
+═══════════════════════════════════════════════════════════════════════
 
 AUTHENTIC
----------
+═══════════════════════════════════════════════════════════════════════
 Confirmed as produced by the linked GOI or its authorized apparatus.
 
 PROBABLE
---------
+═══════════════════════════════════════════════════════════════════════
 Strong evidence supports GOI origin, but full proof is absent.
 
 CLAIMED
--------
+═══════════════════════════════════════════════════════════════════════
 The document names a GOI, but the origin is not verified.
 
 FORGED
-------
+═══════════════════════════════════════════════════════════════════════
 The document imitates a GOI and is confirmed false.
 
 CONTESTED
----------
+═══════════════════════════════════════════════════════════════════════
 Evidence supports more than one origin or intent.
 
 ANOMALOUSLY UNSETTLED
----------------------
+═══════════════════════════════════════════════════════════════════════
 The record's origin changes, cannot be fixed, or is affected by anomalous conditions.
 
 ARCHIVE-ONLY
-------------
+═══════════════════════════════════════════════════════════════════════
 The document survives only as an A.C.T transcription, witness copy, recovered photograph, or partial reconstruction.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 7. Information Hazard Status
-----------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Recovered GOI documents use the same caution as anomaly files. A document may be
 dangerous because of what it is, what
@@ -226,10 +226,10 @@ sync;
 - RITUAL QUARANTINE - reading, recitation, performance, or copying may complete a ritual effect;
 - SEALED - no general reproduction authorized.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 8. Recovery Context Block
--------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Every recovered GOI document must include a recovery context before the source text.
 
@@ -246,10 +246,10 @@ Required recovery context:
 
 This block is written in A.C.T voice.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 9. Source Text Handling
------------------------
+═══════════════════════════════════════════════════════════════════════
 
 The source text section must preserve the GOI's voice without cleaning it into A.C.T
 tone. It may include slang,
@@ -267,10 +267,10 @@ Rules:
 - do not make a hostile GOI sound like A.C.T unless the document itself
 is impersonating A.C.T.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 10. A.C.T Commentary Block
---------------------------
+═══════════════════════════════════════════════════════════════════════
 
 After the source text, A.C.T commentary must identify:
 
@@ -286,58 +286,58 @@ After the source text, A.C.T commentary must identify:
 Commentary is not allowed to solve every mystery. A good recovered document may create
 more questions than answers.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 11. GOI-Specific Voice Examples
--------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Government Anti Anomaly / GAA
------------------------------
+═══════════════════════════════════════════════════════════════════════
 Recovered GAA material may resemble lawful memoranda, emergency powers, infrastructure exceptions, classified liaison
 notes, or jurisdictional language. It usually tries to make impossible events look administratively survivable.
 
 Anti-Global Anomaly / A-GA
---------------------------
+═══════════════════════════════════════════════════════════════════════
 Recovered A-GA material often reads as militant certainty: eradication orders, target lists, anti-containment
 manifestos, martyr statements, or instructions for destroying anomalies without understanding what they stabilize.
 
 Anstrall Market
----------------
+═══════════════════════════════════════════════════════════════════════
 Recovered Anstrall material may be catalogues, broker notes, price tiers, provenance masks, route phrases, and
 ownership chains. It usually hides danger under value.
 
 Children of the Deep
---------------------
+═══════════════════════════════════════════════════════════════════════
 Recovered CoTD material may be hymns, tide calendars, initiation fragments, inland-route maps, devotional warnings, or
 body-of-water metaphors. It should sound patient rather than loud.
 
 DREAM .INC
-----------
+═══════════════════════════════════════════════════════════════════════
 Recovered DREAM material may be company emails, medicine instructions, client forms, extraction logs, building memos,
 or product language. It should hide extraction under wellness and service.
 
 Liberty Freedoms
-----------------
+═══════════════════════════════════════════════════════════════════════
 Recovered L.F. material may be leaks, recruitment letters, defector testimony, rescue claims, propaganda, or transport
 instructions. It may contain enough truth to be more dangerous than a lie.
 
 Mysterious Guild
-----------------
+═══════════════════════════════════════════════════════════════════════
 Recovered Guild material may appear as technical database pages, registry maintenance instructions, surgical logs,
 weapon specifications, OMEGA platform files, Ghost File markers, or machine-readable leash warnings. It must preserve
 uncertainty over whether the Guild is a living group, a future archive, or a
 system calling through evidence.
 
 Amazoo Circus
--------------
-Recovered Amazoo material may be posters, tickets, stage directions, performer ledgers, cage labels, chant sheets,
-diary fragments, route notes, animal-handler records, or ringmaster commands. It must not convert survivor writing
-into spectacle.
+═══════════════════════════════════════════════════════════════════════
+Recovered Amazoo material may be posters, tickets, stage directions, performer
+ledgers, cage labels, chant sheets, diary fragments, route notes, animal-handler
+records, or ringmaster commands. It must not convert survivor writing into spectacle.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 12. Sample Blank Form
----------------------
+═══════════════════════════════════════════════════════════════════════
 
 text
 A.C.T FACILITY ARCHIVE FILE
@@ -383,10 +383,10 @@ REVIEWED BY:
 FILE STATUS:
 RECORD CONDITION:
 
----
+═══════════════════════════════════════════════════════════════════════
 
 13. Storage Rule
-----------------
+═══════════════════════════════════════════════════════════════════════
 
 Recovered GOI document records may be stored beside the relevant GOI dossier or inside
 a dedicated recovered-record
@@ -398,10 +398,10 @@ subfolder when volume grows. The storage decision must preserve three things:
 
 If a recovered document is itself anomalous, the document requires anomaly filing in addition to GOI evidence filing.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 14. Red Lines
--------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T will not:
 
@@ -416,10 +416,10 @@ A.C.T will not:
 - use a Guild maintenance instruction as permission to contact the Guild;
 - use a circus poster as permission to make pain into performance again.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 15. Related Records
--------------------
+═══════════════════════════════════════════════════════════════════════
 
 - 00_GOI_Record_Template.md
 - ACT_GOI_Registry_and_External_Threat_Doctrine_Archive.md
@@ -428,10 +428,10 @@ A.C.T will not:
 - GOI dossiers in Group of Interest Registry collection, Central Archive
 - Plain-text reading copies in Group of Interest Registry collection, plain-text reading copies
 
----
+═══════════════════════════════════════════════════════════════════════
 
 File Metadata
--------------
+═══════════════════════════════════════════════════════════════════════
 
 text
 FILE CREATED:        15/02/2026

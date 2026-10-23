@@ -56,8 +56,8 @@ decisions all depend on knowledge.
 F-5 exists for that knowledge. Its laboratories and analysis decks are where contained objects are studied under
 controlled conditions: where an artifact's behavior is measured, its properties are characterized, and its
 history is
-reconstructed. The floor is the complex's instrument for understanding — and understanding, at Redwood Veil, is itself
-a containment measure.
+reconstructed. The floor is the complex's instrument for understanding
+— and understanding, at Redwood Veil, is itself a containment measure.
 
 ---
 
@@ -67,8 +67,8 @@ a containment measure.
 
 F-5 lies between the Medical and Cognitive Care level of F-6 above and the
 Transformation Staging level of F-4 below.
-Its position reflects its function: the floor studies what the holding levels contain and informs what the
-transformation level changes.
+Its position reflects its function: the floor studies what the holding
+levels contain and informs what the transformation level changes.
 
 ### 3.2 Relationship to F-4
 
@@ -116,9 +116,9 @@ administers the floor's laboratory operations and analysis programs under the di
 
 ### 5.2 Authority over Study
 
-Research access to contained objects is governed by the complex's research authorization doctrine: each study is
-documented, each object's restriction set governs how it may be studied, and each program is authorized at the
-appropriate level.
+Research access to contained objects is governed by the complex's research
+authorization doctrine: each study is documented, each object's restriction set governs
+how it may be studied, and each program is authorized at the appropriate level.
 
 ### 5.3 Authority Limits
 
@@ -137,18 +137,18 @@ the operation of the floor's analysis instruments.
 
 ### 6.2 Transformation Division Liaison
 
-Transformation assessors from F-4 coordinate with F-5's research programs, drawing on the floor's findings for their
-evaluations.
+Transformation assessors from F-4 coordinate with F-5's research
+programs, drawing on the floor's findings for their evaluations.
 
 ### 6.3 Containment Division Liaison
 
-Containment personnel support the controlled conditions under which F-5 studies material drawn from the holding
-floors.
+Containment personnel support the controlled conditions under
+which F-5 studies material drawn from the holding floors.
 
 ### 6.4 Medical Division Liaison
 
-Medical personnel coordinate with F-5 on exposure monitoring for research staff handling anomalous material under
-study.
+Medical personnel coordinate with F-5 on exposure monitoring
+for research staff handling anomalous material under study.
 
 ### 6.5 Archive Division Liaison
 
@@ -226,9 +226,9 @@ suites are individually gated to the personnel cleared for each program.
 
 ### 9.2 Sample Control
 
-Material drawn from the holding floors for study is controlled at every step: documented transfer, controlled
-handling, and verified return. The floor's sample-control doctrine treats every object as the property of its
-containment assignment.
+Material drawn from the holding floors for study is controlled at every step: documented
+transfer, controlled handling, and verified return. The floor's sample-control doctrine
+treats every object as the property of its containment assignment.
 
 ### 9.3 Instrument Security
 

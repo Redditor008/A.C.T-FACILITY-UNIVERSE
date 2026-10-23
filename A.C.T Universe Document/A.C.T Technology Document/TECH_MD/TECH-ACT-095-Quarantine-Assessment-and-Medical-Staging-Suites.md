@@ -27,8 +27,8 @@ incoming biological material is held under assessment until its status is confir
 transfer authorized. The F-2 floor dossier identifies quarantine chambers, assessment laboratories, and medical
 staging suites as the operational heart of the depot.
 
-QAMSS exists because nothing biological moves toward White Grave unassessed. The depot's cold is not enough unless the
-material's status is known.
+QAMSS exists because nothing biological moves toward White Grave unassessed.
+The depot's cold is not enough unless the material's status is known.
 
 Controlled label: **QAMSS ASSESS-BEFORE-SLEEP**.
 
@@ -124,8 +124,8 @@ the archive: Chamber count, Median assessment time, False release events. They a
 Assessment and suppression work against each other. Suppression exists to make a subject quiet enough to
 hold safely, and the quiet it produces is the same quiet the assessment is
 trying to interpret. The suites
-therefore record suppressed and unsuppressed observations separately, and a release decision may not rest on
-suppressed data alone.
+therefore record suppressed and unsuppressed observations separately,
+and a release decision may not rest on suppressed data alone.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

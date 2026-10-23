@@ -53,8 +53,8 @@ A.C.T does not treat CRM as a general engineering fluid. It is studied in
 magnetic containment and stasis-field flasks
 because ordinary containers only hold where the liquid is, not when the liquid believes
 it is. The material can
-imprint observers, especially when viewed directly during active second-hand regression or near an unstable temporal
-device.
+imprint observers, especially when viewed directly during active
+second-hand regression or near an unstable temporal device.
 
 Approved roles include:
 
@@ -256,9 +256,9 @@ seven-day regression remains partially censored, but the event confirmed that th
 treated as active containment time, not aftermath.
 
 ### CRM-2021 Inscription Monitoring Review
-During back-case translation of the Stop-Watch, staff noted second-hand position through delayed observation to avoid
-CRM imprinting. The translation was retained without assigning a story to the watch, preserving temporal caution and
-narrative discipline.
+During back-case translation of the Stop-Watch, staff noted second-hand position through
+delayed observation to avoid CRM imprinting. The translation was retained without
+assigning a story to the watch, preserving temporal caution and narrative discipline.
 
 ---
 

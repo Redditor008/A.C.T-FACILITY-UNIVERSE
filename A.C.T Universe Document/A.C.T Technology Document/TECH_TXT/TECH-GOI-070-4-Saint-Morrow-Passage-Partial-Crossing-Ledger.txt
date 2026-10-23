@@ -1,5 +1,5 @@
 A.C.T FACILITY ARCHIVE FILE
----------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Saint Morrow Passage Partial Crossing Ledger
 ============================================
@@ -12,7 +12,7 @@ Origin: Saint Morrow Passage (GOI-BS-W-070), Passage clerk maintained
 Clearance: Level 4 for reading; Level 5 for any disclosure decision
 
 Archive Note
-------------
+═══════════════════════════════════════════════════════════════════════
 
 The archive holds partial crossing ledgers. No count is recorded and the full route books remain unrecovered.
 
@@ -33,7 +33,7 @@ without Level 5 and Legal approval, must not extract any entry into any other sy
 treat any recorded debt as live or as settled.
 
 THE RECORD
-----------
+═══════════════════════════════════════════════════════════════════════
 
 1.1 What a crossing ledger is for
 =================================
@@ -61,7 +61,7 @@ proportion missing is unknown, so no inference may be drawn from an absence. A p
 appear in a partial ledger is not a passenger the Passage did not carry.
 
 HANDLING
---------
+═══════════════════════════════════════════════════════════════════════
 
 2.1 Custody
 ===========
@@ -175,7 +175,7 @@ and why its disclosure rule runs to Level 5. The difference is not the sensitivi
 It is that the other three describe a system and this one describes people inside it.
 
 DIVISION USE
-------------
+═══════════════════════════════════════════════════════════════════════
 
 +--------------+------------------------------------------------------------------------+
 | DIVISION     | USE                                                                    |
@@ -190,7 +190,7 @@ DIVISION USE
 +--------------+------------------------------------------------------------------------+
 
 OPEN QUESTIONS
---------------
+═══════════════════════════════════════════════════════════════════════
 
 - how many ledgers are held, and what proportion of the whole they represent;
 - whether every ledger carries all four divisions or only some;
@@ -204,7 +204,7 @@ The archive holds a record of what people owe a cooperating partner, and what to
 been decided. Until it is, no debt is treated as live and none is treated as settled.
 
 CROSS-REFERENCES
-----------------
+═══════════════════════════════════════════════════════════════════════
 
 - GOI-BS-W-070 — Saint Morrow Passage, Group of Interest Dossier
 - TECH-GOI-070-1 — Saint Morrow Passage White Ticket, Technology Record
@@ -216,7 +216,7 @@ The Lantern Accord reference is the nearest comparable record rather than part o
 recording what was done along a line, held by an archive that did not write it and cannot attest to it.
 
 FILE METADATA
--------------
+═══════════════════════════════════════════════════════════════════════
 
 Record Type: Technology Record — Recovered Adversary Device
 Created: 30/01/2021

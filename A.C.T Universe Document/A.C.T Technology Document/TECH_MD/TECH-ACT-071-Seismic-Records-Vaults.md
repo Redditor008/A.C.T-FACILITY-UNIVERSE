@@ -66,9 +66,9 @@ uncertainty, nearby maritime events, local volcanic background, and previous mat
 
 SRV developed as a dedicated vault standard for this long memory. The vaults keep
 ordinary seismic records separate
-from partially sealed deep-earth files while allowing controlled comparison when new events require it. They are less
-restricted than abyss-linked vaults but more disciplined than ordinary site archives. Their value lies in accumulated
-continuity.
+from partially sealed deep-earth files while allowing controlled comparison when new
+events require it. They are less restricted than abyss-linked vaults but more
+disciplined than ordinary site archives. Their value lies in accumulated continuity.
 
 ---
 
@@ -92,8 +92,8 @@ Known components include:
 - environmental stability monitor;
 - Records Chief access seal.
 
-The vault's practical design keeps ordinary records available without letting staff treat availability as permission
-to speculate beyond clearance.
+The vault's practical design keeps ordinary records available without letting
+staff treat availability as permission to speculate beyond clearance.
 
 ---
 
@@ -168,8 +168,8 @@ Records custody, Level 3 archive with Level 4 for deep sets.
 
 Step-down: the record joins the comparison base and the audit seal closes. Emergency: a
 record matching a
-restricted pattern later is re-tagged rather than rewritten, so reviewers can still see how the event first
-entered the archive.
+restricted pattern later is re-tagged rather than rewritten, so
+reviewers can still see how the event first entered the archive.
 
 After DMPC processing, ordinary and controlled seismic records are packaged for SRV custody. Archive personnel verify
 event classification, timestamp, sensor source, processing session, analyst identity, and whether the record has any
@@ -213,10 +213,10 @@ never overwritten.
 
 ## KNOWN LIMITS
 
-SRV preserves records, but it cannot guarantee that the first classification was correct. Ordinary files may later
-become important. A mundane tremor may become suspicious only after a future pattern appears. Too much trust in
-historical baseline can cause analysts to ignore new behavior; too little trust can make every tremor look like a
-hidden message.
+SRV preserves records, but it cannot guarantee that the first classification was correct.
+Ordinary files may later become important. A mundane tremor may become suspicious only
+after a future pattern appears. Too much trust in historical baseline can cause analysts
+to ignore new behavior; too little trust can make every tremor look like a hidden message.
 
 Known failure modes include baseline corruption, duplicate records, missing sensor-health notes, stale classification,
 unauthorized comparison, environmental damage, over-broad research access, and archival confidence replacing live

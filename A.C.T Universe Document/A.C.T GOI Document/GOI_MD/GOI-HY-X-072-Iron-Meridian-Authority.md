@@ -74,8 +74,8 @@ THE LINE HOLDS BECAUSE MERCY BREAKS.
 
 The phrase is used on training walls, warrant stamps, and custody-train doors. It is
 deliberately opposed to Mercy
-Lock Institute doctrine. Where Mercy Lock tries to lock harm without erasing personhood, Iron Meridian treats mercy as
-structural weakness.
+Lock Institute doctrine. Where Mercy Lock tries to lock harm without
+erasing personhood, Iron Meridian treats mercy as structural weakness.
 
 ### Public Presence and Concealment
 
@@ -121,8 +121,8 @@ A.C.T identifies these functional layers:
 - Survey Lancers who mark expanding perimeters after incidents;
 - Clean Exit Officers who fabricate public explanations for missing communities.
 
-This structure gives Iron Meridian the scale required of a major hostile containment GOI. It is not a single rogue
-prison.
+This structure gives Iron Meridian the scale required of a
+major hostile containment GOI. It is not a single rogue prison.
 
 ### Membership and Recruitment
 
@@ -289,24 +289,24 @@ inside the line. The warrant included the phrase:
 Ordinary law resumes when ordinary risk resumes.
 ```
 
-A.C.T Legal rejected the warrant. Containment retrieved thirty-one captives during a night operation. Seven died
-before recovery. Forty-two remained unaccounted for. The Authority later accused A.C.T of releasing hazards into the
-world.
+A.C.T Legal rejected the warrant. Containment retrieved thirty-one captives during
+a night operation. Seven died before recovery. Forty-two remained unaccounted for.
+The Authority later accused A.C.T of releasing hazards into the world.
 
 Since then, contact has included convoy interception, black-ledger recovery, court-cover disputes, custody-train
 sabotage, witness extraction, and failed attempts by Meridian agents to enter A.C.T-adjacent evacuation records.
 
 ### Current Relationship
 
-The current relationship is **NEGATIVE**. A.C.T does not recognize Iron Meridian authority, warrants, tribunals,
-charters, or emergency classifications. Any cooperation claim must be treated as coercion, deception, or tactical
-delay unless Command verifies otherwise. Field teams may negotiate only to preserve captives, delay executions, obtain
-maps, or prevent immediate crossfire. Formal exchange of prisoners is prohibited without Central Command and Legal
-review.
+The current relationship is **NEGATIVE**. A.C.T does not recognize Iron Meridian authority,
+warrants, tribunals, charters, or emergency classifications. Any cooperation claim must be
+treated as coercion, deception, or tactical delay unless Command verifies otherwise. Field teams
+may negotiate only to preserve captives, delay executions, obtain maps, or prevent immediate
+crossfire. Formal exchange of prisoners is prohibited without Central Command and Legal review.
 
-Iron Meridian propaganda depicts A.C.T as sentimental, unstable, and irresponsible. It specifically attacks Mercy Lock
-Institute as proof that humane containment invites breach. A.C.T assesses this as ideological rivalry and recruitment
-messaging.
+Iron Meridian propaganda depicts A.C.T as sentimental, unstable, and irresponsible.
+It specifically attacks Mercy Lock Institute as proof that humane containment invites
+breach. A.C.T assesses this as ideological rivalry and recruitment messaging.
 
 ---
 
@@ -383,8 +383,8 @@ crimes. Recovery priority remains living
 captives, ledgers, devices, and charter chain.
 ```
 
-The note is retained because it corrects the recurring operational temptation to admire Meridian efficiency without
-naming its abuse.
+The note is retained because it corrects the recurring operational
+temptation to admire Meridian efficiency without naming its abuse.
 
 ---
 
@@ -402,10 +402,10 @@ naming its abuse.
 
 ### Active Intelligence Assessment
 
-A.C.T assesses Iron Meridian Authority as a specialized NEGATIVE containment GOI. Its danger is not chaos but order
-without personhood. It uses the language of safety to build permanent detention economies. It is especially dangerous
-after public disasters because frightened authorities may sign away zones before they understand what Meridian custody
-means.
+A.C.T assesses Iron Meridian Authority as a specialized NEGATIVE containment GOI. Its danger
+is not chaos but order without personhood. It uses the language of safety to build permanent
+detention economies. It is especially dangerous after public disasters because frightened
+authorities may sign away zones before they understand what Meridian custody means.
 
 Iron Meridian must be opposed differently from predatory markets or cults. It has lawyers, uniforms, trains,
 hospitals, ledgers, and clients who want deniable control. Public exposure can help in some cases, but full anomaly
@@ -431,11 +431,11 @@ separate ordinary corruption, human-rights abuse, and anomalous evidence with ca
 
 ### Intelligence Confidence
 
-Moderate to High. A.C.T has recovered warrants, devices, captive statements, photographs, contractor records, and
-tribunal fragments from multiple regions. Confidence is limited by shell charters, destroyed prisoner lists, coerced
-staff testimony, and the difficulty of entering active Meridian compounds without risking captives. Confidence may
-rise through black-ledger recovery, technical review of suppression devices, and identification of the Prime Meridian
-Seat.
+Moderate to High. A.C.T has recovered warrants, devices, captive statements, photographs,
+contractor records, and tribunal fragments from multiple regions. Confidence is limited by shell
+charters, destroyed prisoner lists, coerced staff testimony, and the difficulty of entering
+active Meridian compounds without risking captives. Confidence may rise through black-ledger
+recovery, technical review of suppression devices, and identification of the Prime Meridian Seat.
 
 ---
 
@@ -462,11 +462,11 @@ or recovered-document files. This GOI dossier must not replace captive recovery 
 
 ### Dual Filing
 
-Mandatory. Iron Meridian devices and detention systems are often active hazards. Any suppression collar, survey gun,
-custody train, black ledger, restraint door, tribunal room, or perimeter marker recovered from Authority custody must
-be separately filed if it produces containment, memory, identity, pain, route, legal, or behavioral effects. Subject
-Care filing is mandatory for living captives. Legal filing is mandatory for charters, warrants, tribunals, and
-public-cover actions.
+Mandatory. Iron Meridian devices and detention systems are often active hazards. Any suppression
+collar, survey gun, custody train, black ledger, restraint door, tribunal room, or perimeter marker
+recovered from Authority custody must be separately filed if it produces containment, memory,
+identity, pain, route, legal, or behavioral effects. Subject Care filing is mandatory for living
+captives. Legal filing is mandatory for charters, warrants, tribunals, and public-cover actions.
 
 ---
 

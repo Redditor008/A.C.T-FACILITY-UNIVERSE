@@ -37,9 +37,9 @@ when it is handled without manners.
                  SECTION 001 — THE WEIGHT OF THE PEN
 ═══════════════════════════════════════════════════════════════════════
 
-The first correction involves the digitalization of primary logs. I have reviewed the recent UFD intake files from
-Site-03 and Site-05. The entries are clean, the timestamps are precise to the millisecond, and the data is utterly
-hollow.
+The first correction involves the digitalization of primary logs. I have reviewed
+the recent UFD intake files from Site-03 and Site-05. The entries are clean, the
+timestamps are precise to the millisecond, and the data is utterly hollow.
 
 Modern researchers rely on tablets and voice-to-text interfaces. You believe that "Data" is something that happens in
 the air. It is not. True documentation requires friction. In the ERE era, we
@@ -82,16 +82,16 @@ you are a foreign object. Reality reacts to foreign objects with friction.
 
 The "Slamming Door" effect I have studied for decades is the universe’s way of
 saying "I am here first." If you do not
-acknowledge the anomaly's presence, the anomaly will eventually acknowledge yours in a way that usually results in a
-medical-incident report.
+acknowledge the anomaly's presence, the anomaly will eventually acknowledge
+yours in a way that usually results in a medical-incident report.
 
 MANDATORY DIRECTIVE 02:
 Address the room. I do not care if the object is a "Small Box"
 or an "Inverted Singularity." Before you touch the
 lock, you are to speak your name and your intent clearly. If you feel
 foolish talking to a lead-lined box, then you
-lack the imagination required to survive this career. Manners are the only "Anti Reality Mesh" that doesn't require a
-power supply.
+lack the imagination required to survive this career. Manners are
+the only "Anti Reality Mesh" that doesn't require a power supply.
 
 ═══════════════════════════════════════════════════════════════════════
                  SECTION 003 — CLASSIFICATION AND COARSE LANGUAGE
@@ -171,7 +171,7 @@ If you want to work on my projects, you must master "Sensory Discipline." You
 must be able to stand in a room with a
 TI-class artifact and not count the seconds. If you count, you are already caught
 in its rhythm. You must be able to
-look at a [ BLANK ] and see the space it *isn't* occupying.
+look at a [ BLANK ] and see the space it isn't occupying.
 
 PRACTICE EXERCISE:
 Spend 20 minutes a day staring at a blank wall. Do not think. Do
@@ -219,15 +219,15 @@ MANDATORY PHRASE FOR RECEIPT ACKNOWLEDGMENT:
 
 SIGNED,
 
-*Dr. Aris Thorne*
+Dr. Aris Thorne
 Senior Researcher
 White Grave Station (Site-02)
 
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 [FOOTNOTE FOR SHARP EYES]:
 If you noticed the ultraviolet pulse in the room's speakers while
 reading Section 004, report to my office immediately. You are
 hearing the "Causal Drift." We have work to do.
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 END OF MEMORANDUM

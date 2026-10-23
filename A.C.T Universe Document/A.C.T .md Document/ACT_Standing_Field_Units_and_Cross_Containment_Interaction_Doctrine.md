@@ -39,16 +39,16 @@ This file defines:
 ### 5.2 Division, Desk, Cell, Team, and Unit
 
 #### Division
-A major institutional body such as Recovery Division, Containment Division, Subject Care Division, Archiver Division,
-or Civil Covert Division.
+A major institutional body such as Recovery Division, Containment Division,
+Subject Care Division, Archiver Division, or Civil Covert Division.
 
 #### Desk
-A specialized review or coordination body inside or across divisions. Desks often own doctrine, analysis, approvals,
-or case families.
+A specialized review or coordination body inside or across divisions.
+Desks often own doctrine, analysis, approvals, or case families.
 
 #### Cell
-A compact expert group maintained for repeated problem types. Cells are smaller than divisions but more persistent
-than temporary mission teams.
+A compact expert group maintained for repeated problem types. Cells are
+smaller than divisions but more persistent than temporary mission teams.
 
 #### Team
 A mission-deployed group assembled for one operation or a short series of related operations.
@@ -109,14 +109,13 @@ Every standing field unit register entry must include:
 
 ### 5.5 Known Unit and Desk Seeds From Existing Anomaly Records
 
-The following names already appear in anomaly records and should be treated as candidates for future full register
-entries:
+The following names already appear in anomaly records and should
+be treated as candidates for future full register entries:
 
 - **Recovery Team Alpha-9** — future-origin weapon recovery / AFD-OB-312 chain;
 - **Recovery Team Alpha-7** — combat-object recovery / Ball of Knife chain;
 - **Recovery Team Beta-2** — Site-03 archival recovery / Book of Hero chain;
-  **Recovery Team Gamma-6** — Tactical Containment raid unit / Circus Monster and Amazoo Circus
-  chain;
+  **Recovery Team Gamma-6** — Tactical Containment raid unit / Circus Monster and Amazoo Circus chain;
 - **Recovery Team Gamma-9** — dimensional/place recovery / Dark World Door chain;
 - **ERE Tactical Divers** — maritime recovery and hostile biological contact / Death-Angler chain;
 - **Chronometric Review Cell** — time-injury, loop, and clock anomaly review;
@@ -234,8 +233,8 @@ A.C.T may not use one
 contained person as therapy, weapon, bait, interpreter, restraint, or emotional regulator for another contained person
 without clear authority and aftercare.
 
-Friendship, trust, fear, dependence, and curiosity are containment variables. They are also real. The file must record
-both.
+Friendship, trust, fear, dependence, and curiosity are containment
+variables. They are also real. The file must record both.
 
 ---
 
@@ -244,9 +243,9 @@ both.
 GOI-derived tools, archives, software, rituals, medical substances, or weapons must not interface with A.C.T
 containment hardware unless cleared under CCI rules and GOI evidence review.
 
-This is especially important for groups such as Mysterious Guild, DREAM .INC, Anstrall Market, Amazoo Circus, and
-Liberty Freedoms, where recovered systems may be designed to call home, recruit, condition, leak, or punish
-unauthorized handlers.
+This is especially important for groups such as Mysterious Guild, DREAM .INC,
+Anstrall Market, Amazoo Circus, and Liberty Freedoms, where recovered systems may be
+designed to call home, recruit, condition, leak, or punish unauthorized handlers.
 
 ---
 

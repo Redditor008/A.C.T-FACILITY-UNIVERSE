@@ -11,7 +11,7 @@ Dossier Number: FLOOR-DOSSIER-SUB-02-RU-N-F-3
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard / ACT Floor Record Standard
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Note
 
@@ -30,7 +30,7 @@ This dossier records the floor in full institutional language: what it is,
 how it conceals, how it is built, and how the depot's natural cover serves
 an installation whose work must be silent.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 1. Floor Registry Identity Summary
 
@@ -55,7 +55,7 @@ raises no questions in the region
 Access Posture: Semi-public access under cover doctrine
 Current Status: Active
 
----
+═══════════════════════════════════════════════════════════════════════
 
 2. Dossier Purpose
 
@@ -72,7 +72,7 @@ storage; quarantine-capable facilities support the region's research and
 logistics activity; and the depot's cover is so ordinary that it is
 effectively invisible.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 3. Position in the Site Stack
 
@@ -96,7 +96,7 @@ levels descends through F-3 into F-2, under the transition control that the
 cover requires. F-3 is the physical boundary; the quarantine floor below is
 the operational boundary.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 4. Historical Foundation
 
@@ -120,7 +120,7 @@ In its modern configuration, F-3 is the depot's legitimate face: an arctic
 cold-storage facility whose ordinary presence conceals the quarantine and
 holding operations below.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5. Command and Authority
 
@@ -143,7 +143,7 @@ authority is over the legitimate facility — and its most important duty is
 the maintenance of the boundary between the facility's visible operations
 and the buried depot's quarantine work.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 6. Divisional Presence
 
@@ -164,7 +164,7 @@ and the buried depot, concealed within the facility's ordinary operations.
 Administrative personnel operate the level's public functions,
 maintaining the legitimate paperwork and operations of the cover facility.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 7. Physical Plant and Architecture
 
@@ -199,7 +199,7 @@ control points through which screened material passes from the receiving
 areas into the depot's operational levels. The architecture is designed to
 be indistinguishable from ordinary cold-storage logistics.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 8. Systems and Infrastructure
 
@@ -227,7 +227,7 @@ The facility maintains its legitimate communications — the operational
 traffic of an arctic support facility — alongside the depot's secure
 internal networks.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 9. Security and Boundary Architecture
 
@@ -259,7 +259,7 @@ boundary incidents, and attempts to penetrate the transition architecture
 are met with the depot's response doctrine, with the buried component
 sealed behind the level if the surface boundary is threatened.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 10. Function and Character
 
@@ -280,7 +280,7 @@ facility's receiving, storage, and administrative functions; hazardous
 material passes through the level only in transit, under the cover's
 protection.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 11. Personnel and Duty Life
 
@@ -304,7 +304,7 @@ The level's personnel work under cover discipline: their daily operations
 and professional conduct are part of the depot's concealment. The facility
 is genuine, and so is the discipline of those who run it.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 12. Floor Doctrine
 
@@ -328,7 +328,7 @@ buried work must remain separate: the region sees an arctic cold-storage
 operation, and the depot's quarantine and holding continue beneath it,
 undisturbed and unseen.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 13. Incident Archive
 
@@ -337,7 +337,7 @@ cover incidents, boundary incidents, and attempts to penetrate the
 transition architecture. The depot's history records the incidents that
 have tested the surface boundary — and the cover has held.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 14. Current Status and Projected Development
 
@@ -347,7 +347,7 @@ priorities include:
 - maintenance of the concealed transition architecture;
 - preservation of the facility's cover discipline.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 15. Cross-Referenced Files
 
@@ -358,7 +358,7 @@ priorities include:
 - ACT_Site_Doctrine_and_Installation_Structure.md / .txt
 - Parent command Annex Register (clearance-gated)
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Closing
 

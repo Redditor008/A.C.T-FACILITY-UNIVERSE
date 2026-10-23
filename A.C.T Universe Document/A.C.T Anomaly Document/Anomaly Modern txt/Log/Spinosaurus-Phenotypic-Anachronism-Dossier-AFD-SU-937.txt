@@ -48,7 +48,7 @@ DATE:                2024-06-25
 
 The A.C.T Paleontological Desk has performed a side-by-side comparison
 between AFD-SU-937 and the latest 2025 terrestrial/aquatic reconstruction
-of the *Spinosaurus aegyptiacus*.
+of the Spinosaurus aegyptiacus.
 
 1. LEGS AND LOCOMOTION:
    - FOSSIL RECORD (2025): Short hind-limbs, indicating a primarily
@@ -64,11 +64,11 @@ of the *Spinosaurus aegyptiacus*.
 3. AGGRESSION PROFILE:
    - FOSSIL RECORD (2025): Piscivorous (fish-eating) snout geometry.
    - AFD-SU-937: Pronounced bite-force and skull reinforcement designed
-     for the suppression of other large apex predators (e.g. *T. rex*).
+     for the suppression of other large apex predators (e.g. T. rex).
 
 CONCLUSION:
 AFD-SU-937 is a 100% match for the "Movie Monster" depicted in the 2001
-film *Jurassic Park III*. The divergence is too precise to be random.
+film Jurassic Park III. The divergence is too precise to be random.
 
 ═══════════════════════════════════════════════════════════════════════
                SECTION 002 — RESEARCHER NOTE: DR. BROOKS
@@ -77,7 +77,7 @@ film *Jurassic Park III*. The divergence is too precise to be random.
 LOG ID:              AFD-SU-937/LOG-01
 AUTHOR:              Dr. Nathan Brooks
 
-"I have spent my life digging up the real *Spinosaurus*. I know its bones.
+"I have spent my life digging up the real Spinosaurus. I know its bones.
 I know its history. When we pulled 937 out of that forest, I didn't
 see
 an animal from the Cretaceous. I saw a nightmare from a VHS tape.
@@ -88,7 +88,7 @@ Instead, it looks like it was designed by a special effects team to win
 an audience's favor.
 
 The question we have to answer is whether the [ REDACTED ] source
-didn't just reinforce its bones, but actually *rewrote its body* to
+didn't just reinforce its bones, but actually rewrote its body to
 match our cultural expectation of what a Spinosaurus should be. It’s as
 if reality saw our movies and decided to make them true."
 
@@ -104,7 +104,7 @@ AUTHOR:              Aris Thorne (SR-412)
 I listened to 937's resonance this morning. Its 'Pulse' is heavy with
 Tungsten, yes, but there is an undertone of Narrative Friction.
 
-This subject didn't evolve; it was *edited.* The [ REDACTED ] source
+This subject didn't evolve; it was edited. The [ REDACTED ] source
 acting on that forest wasn't just a temporal pause; it was a
 high-intensity Causal Overwrite. This is similar to what I see in the
 715-Series, but in a physical biological host.

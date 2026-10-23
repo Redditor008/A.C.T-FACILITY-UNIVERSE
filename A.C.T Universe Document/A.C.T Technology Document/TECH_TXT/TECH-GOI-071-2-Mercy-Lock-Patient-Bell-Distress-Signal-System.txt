@@ -257,9 +257,9 @@ sustained an advocate complaint and suspended a Quiet Engineer. A.C.T Medical us
 mechanical containment success can coexist with care failure.
 
 MLPBDSS-Transfer Retention Finding
-During a cooperative heat-manifestation transfer, A.C.T's first plan would have removed the patient's bell and added
-hand restraints. Mercy Lock objected. The bell remained with the patient inside a shielded pouch; heat output stayed
-below injury threshold.
+During a cooperative heat-manifestation transfer, A.C.T's first plan would have removed
+the patient's bell and added hand restraints. Mercy Lock objected. The bell remained
+with the patient inside a shielded pouch; heat output stayed below injury threshold.
 
 MLPBDSS-Cleaning Restriction Note
 Inactive component inspection found residue damage on a cloth-wrapped bell interface. Current handling prohibits

@@ -11,14 +11,13 @@ narrative isolation for all A.C.T content.
 The A.C.T Facility operates within the **Main A.C.T Reality**.
 
 #### **The "715" Separation Rule:**
-Anomalies designated under the **715-Series** (Realities A through G) are formally classified as **Exogenous Reality
-Nodes**.
+Anomalies designated under the **715-Series** (Realities A through
+G) are formally classified as **Exogenous Reality Nodes**.
 — **Independent:** They are external causal planes detected by the Facility.
-    **Disconnected:** Their histories, logic, and outcomes (like the "PLAYER" in Reality E) are **not**
-    connected to the
+    **Disconnected:** Their histories, logic, and outcomes (like
+    the "PLAYER" in Reality E) are **not** connected to the
     Main A.C.T timeline.
-    **Scrubbing Rule:** In-universe anomaly files for these subjects must **not** contain the words "Reality
-    A" or
+    **Scrubbing Rule:** In-universe anomaly files for these subjects must **not** contain the words "Reality A" or
     "Reality-F." Site staff only see the AFD/OB-715 number. Only the
     O5-level `ACT-715-Unknown-ACT-Reality-List.txt` tracks the mapping.
 
@@ -54,8 +53,8 @@ All future anomaly files and logs must utilize the **Master Catalog of Operation
 #### **AFD-SU-005 (Anny)**
 *   **Linguistic Standard:** 80% normal speech mimicking 19th-century literature; 20% unique "mechanical/archive"
     metaphors.
-    **Social Hierarchy:** Addresses staff as "Dr. [Name]" or "Technician [Name]." Uses nicknames (e.g., "Dr.
-    M") only for
+    **Social Hierarchy:** Addresses staff as "Dr. [Name]" or
+    "Technician [Name]." Uses nicknames (e.g., "Dr. M") only for
     close bonds.
 
 ---

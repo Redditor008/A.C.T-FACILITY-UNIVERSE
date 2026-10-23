@@ -255,8 +255,8 @@ as **lower than mapped**.
 
 Wrong. Wrong. Wrong in the same direction.
 
-By the time the shift alarm chimed first-quarter review, Sera had stopped making corrections and started making
-copies.
+By the time the shift alarm chimed first-quarter review, Sera
+had stopped making corrections and started making copies.
 
 Not official copies. Not removable copies. Just private notes in her local reconciliation pad, disguised inside
 standard format notation so that anyone glancing at the screen would see only ordinary

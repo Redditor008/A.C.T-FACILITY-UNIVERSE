@@ -30,8 +30,8 @@ the level entirely.
 
 This dossier records the floor in full institutional language: what it is, what it
 holds, how it is built, how it is
-guarded, and how the depot's deepest cold serves an installation whose entire purpose is the staging of material for
-the long sleep at White Grave.
+guarded, and how the depot's deepest cold serves an installation whose
+entire purpose is the staging of material for the long sleep at White Grave.
 
 ---
 
@@ -124,9 +124,9 @@ handling under the depot's interim doctrine. Transfer scheduling is coordinated 
 
 F-1 holds no authority to keep material beyond the depot's interim window, no authority
 over material requiring the
-parent station's long-term containment, and no authority to transfer material to any destination other than the parent
-station or the destinations it authorizes. Its role is to hold incoming biological material briefly and to prepare it
-for the long sleep.
+parent station's long-term containment, and no authority to transfer material to any
+destination other than the parent station or the destinations it authorizes. Its role
+is to hold incoming biological material briefly and to prepare it for the long sleep.
 
 ---
 
@@ -139,8 +139,8 @@ staging of material for transfer.
 
 ### 6.2 Security Staff
 
-Security personnel guard the floor's access architecture and enforce the handling rules that govern the floor's
-holdings.
+Security personnel guard the floor's access architecture and
+enforce the handling rules that govern the floor's holdings.
 
 ### 6.3 Limited Containment Support
 
@@ -195,9 +195,9 @@ continuity on the floor is treated as a containment parameter.
 
 ### 8.2 Environment
 
-The floor's environmental systems maintain the cold conditions that the depot's interim holding requires: cryogenic
-regulation per unit, compartmented air handling, and the thermal infrastructure that makes cold holding possible in
-the arctic.
+The floor's environmental systems maintain the cold conditions that the depot's
+interim holding requires: cryogenic regulation per unit, compartmented air handling,
+and the thermal infrastructure that makes cold holding possible in the arctic.
 
 ### 8.3 Monitoring
 
@@ -246,8 +246,8 @@ station's schedule, and never without the authorization the material's status re
 
 F-1 does not maintain a resident register in the holding sense. Its manifest is
 a rolling record of staging material:
-incoming biological material held briefly and transferred. The floor's documentation is tied to the transfer schedule
-that governs every holding.
+incoming biological material held briefly and transferred. The floor's
+documentation is tied to the transfer schedule that governs every holding.
 
 ### 10.2 Holding Character
 
@@ -298,9 +298,9 @@ Grave.
 
 ### 12.2 Suppression Doctrine
 
-F-1 doctrine holds that interim holding is maintained suppression: material on the floor is held in stable, suppressed
-states sufficient to carry it through the staging period, without the long-term environmental commitment of the parent
-station's doctrine.
+F-1 doctrine holds that interim holding is maintained suppression: material on the floor
+is held in stable, suppressed states sufficient to carry it through the staging period,
+without the long-term environmental commitment of the parent station's doctrine.
 
 ### 12.3 Closure Doctrine
 

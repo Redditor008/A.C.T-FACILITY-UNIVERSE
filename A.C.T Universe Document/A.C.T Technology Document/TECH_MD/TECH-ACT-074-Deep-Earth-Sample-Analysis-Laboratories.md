@@ -49,9 +49,9 @@ possible correlation with the relay's deep-earth observations.
 
 DESAL does not treat all stone, ash, glass, sediment, or mineral residue as inert.
 At Nusantara, geological matter can
-be ordinary background, anomalous material, evidence of movement below the facility, or a carrier of restricted
-correlation. The laboratories provide a route for study without prematurely moving a sample into ordinary research or
-maximum restricted custody.
+be ordinary background, anomalous material, evidence of movement below the facility, or
+a carrier of restricted correlation. The laboratories provide a route for study without
+prematurely moving a sample into ordinary research or maximum restricted custody.
 
 Approved roles include foundation sample testing, volcanic material analysis,
 trench sediment review, pressure-affected mineral study, resonance comparison,
@@ -120,9 +120,9 @@ Resonance resolution are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
 | Thermal range | NOT MEASURED |
 | Resonance resolution | NOT MEASURED |
 
-Geological matter at the relay can be ordinary background, anomalous material, evidence of movement below
-the facility, or a carrier. False resonance can distort both research and seismic interpretation, which is
-why the equipment is isolated.
+Geological matter at the relay can be ordinary background, anomalous material,
+evidence of movement below the facility, or a carrier. False resonance can distort
+both research and seismic interpretation, which is why the equipment is isolated.
 
 ## INTERFACE AND OPERATING ENVELOPE
 
@@ -168,8 +168,8 @@ Geological analysis, Level 3 ordinary with Level 4 abyss-linked.
 
 Step-down: the sample returns to its cabinet or safe and the ledger closes. Emergency:
 a sample showing
-activation is isolated in the restricted safe and the study stops, because stimulation is what turns
-evidence into an event.
+activation is isolated in the restricted safe and the study
+stops, because stimulation is what turns evidence into an event.
 
 Before analysis, the sample's recovery point, depth, temperature, pressure condition, collection tool, nearby sensor
 event, and handling history are entered into the ledger. Research assigns the study track. Seismic Analysis identifies
@@ -180,8 +180,8 @@ During analysis, staff proceed from passive observation to limited measurement b
 changes temperature, emits sound, alters mass, attracts water, rejects light, resonates with F-1 readings, or causes
 data restriction flags, the study pauses and the sample moves to sealed review.
 
-After analysis, ordinary results enter the seismic and geological comparison base. Sensitive results enter restricted
-routing.
+After analysis, ordinary results enter the seismic and geological
+comparison base. Sensitive results enter restricted routing.
 
 ---
 
@@ -237,9 +237,9 @@ A foundation sample once appeared to match an abyss-linked vibration family befo
 the source. Current procedure requires equipment isolation confirmation before restricted escalation.
 
 ### DESAL-Volcanic Material Review
-A volcanic sample cooled into stable form before analysis and was nearly downgraded. Later thermal reactivation showed
-that inactive temperature state did not equal non-anomalous state. Thermal history is now preserved as part of the
-sample record.
+A volcanic sample cooled into stable form before analysis and was nearly downgraded.
+Later thermal reactivation showed that inactive temperature state did not equal
+non-anomalous state. Thermal history is now preserved as part of the sample record.
 
 ---
 

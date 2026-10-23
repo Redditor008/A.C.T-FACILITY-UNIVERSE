@@ -10,7 +10,7 @@ Dossier Number: SITE-DOSSIER-01-US-W
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Note
 
@@ -33,7 +33,7 @@ concentrate knowledge of what it holds in any single record that could be lost,
 leaked, or read by the wrong eyes. This dossier identifies the site's signature
 resident and leaves the rest to clearance-gated annex registers.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 1. Registry Identity Summary
 
@@ -55,7 +55,7 @@ after sustained urban anomaly
 density increase.
 Security Notes: Maintains multiple false civilian infrastructure overlays and layered city-entry cover identities.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 2. Dossier Purpose
 
@@ -75,7 +75,7 @@ physical — and the Redwood Veil Complex is the doctrine of the city as
 a
 containment environment.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 3. Site Profile and Cover Architecture
 
@@ -129,7 +129,7 @@ In practice this means Redwood Veil is simultaneously the site most likely to
 encounter an anomaly inside a shopping mall and the site most likely to be
 asked to move one across an ocean.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 4. Historical Foundation and Evolution
 
@@ -183,7 +183,7 @@ Today the complex is the Facility's primary western instrument for:
 It is the site most frequently called upon to turn a public impossibility into
 a private one.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5. Command and Governance
 
@@ -227,7 +227,7 @@ applies: containment viability first, secrecy risk second, recovery speed
 third, specialization fourth, command proximity fifth, and Site Governance
 Review as final arbiter.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 6. Divisional Presence and Daily Function
 
@@ -304,7 +304,7 @@ Personnel exposed to artifact influence — particularly objects with memetic or
 informational components — are evaluated here before they are permitted to
 return to duty or to leave the site.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 7. Physical Plant and Surface Layout
 
@@ -347,7 +347,7 @@ space, sealed operational space, and finally the core itself. Every transition
 is monitored. Every transition is reversible — the site can shed a compromised
 node and rebuild its cover elsewhere without losing the core.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 8. Internal Floor Register
 
@@ -414,7 +414,7 @@ and procedural reinforcement. During a breach response, closing F-1 to the
 outside seals this level entirely — the procedural origin of the site's
 "F-1 closure" drills.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 9. Containment Infrastructure
 
@@ -445,7 +445,7 @@ developed:
 — sealed rail corridors for bulk movement between the complex and Glass Orchard
   Relay
 
----
+═══════════════════════════════════════════════════════════════════════
 
 10. Resident Anomaly Holdings
 
@@ -514,7 +514,7 @@ are held on F-1 through F-3 under standard doctrine. Their designations are
 preserved in the Annex Register. Personnel without specific assignment to those
 files do not require their names.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 11. Site Doctrine and Routing
 
@@ -551,7 +551,7 @@ processed there; archive overflow is buffered there. The Relay is denied
 long-term holding authority for high-threat anomalies — such material moves to
 the core or onward.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 12. Special Operations and Site Protocols
 
@@ -581,7 +581,7 @@ evacuate all non-containment personnel. Urban breach response adds one local
 requirement: the cover frame must hold until the site decides whether the
 breach is containable within it.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 13. Secrecy and Security Posture
 
@@ -611,7 +611,7 @@ Halvorsen Medical Foundation and must be able to answer questions about that
 employment convincingly. Personnel who cannot sustain the double life are
 reassigned to sites where separation from the civilian world is more complete.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 14. Personnel and Operational Life
 
@@ -645,7 +645,7 @@ urban work: cover leakage, civilian attachment, reality fatigue from sustained
 double consciousness, and the slow erosion of the boundary between the
 operational self and the cover self.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 15. Incident Archive
 
@@ -672,7 +672,7 @@ in the complex's incident archive and in individual log dossiers. Specific
 incident narratives are not reproduced in this file; they are held to the
 clearance of the personnel who must learn from them.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 16. Current Status and Projected Development
 
@@ -688,7 +688,7 @@ development priorities include:
 The site's long-term function — to be the Facility's face in the densest
 human places — is not expected to change.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 17. Cross-Referenced Files
 
@@ -701,7 +701,7 @@ human places — is not expected to change.
 - Resident file: Butcher-Vanity-AFD-OB-801.txt (and log dossiers)
 - Resident manifest records (clearance-gated)
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Closing
 

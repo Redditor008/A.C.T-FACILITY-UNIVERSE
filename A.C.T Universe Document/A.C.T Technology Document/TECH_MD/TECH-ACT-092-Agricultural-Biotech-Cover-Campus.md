@@ -70,9 +70,9 @@ containment-adjacent infrastructure, and a staff trained to avoid casual disclos
 
 The F-3 dossier states that the campus was built to conduct real research from
 the beginning. That decision shaped
-ABCC doctrine. False fronts decay under scrutiny. Real research produces routine, fatigue, successes, failures,
-paperwork, professional pride, and ordinary reasons for equipment and secrecy. The relay hides under work that can
-survive being seen.
+ABCC doctrine. False fronts decay under scrutiny. Real research produces routine,
+fatigue, successes, failures, paperwork, professional pride, and ordinary reasons
+for equipment and secrecy. The relay hides under work that can survive being seen.
 
 ---
 

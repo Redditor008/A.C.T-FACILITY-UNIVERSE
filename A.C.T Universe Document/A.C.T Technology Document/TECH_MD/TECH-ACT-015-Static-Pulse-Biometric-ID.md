@@ -34,8 +34,8 @@ continuity, not merely the right hand.
 SPBID is not a normal biometric lock with stranger vocabulary. Fingerprints, palm geometry, blood, retina patterns,
 and passcodes can all be stolen, grown, copied, rewritten, or worn by something else.
 Static Pulse verification asks
-whether a senior individual remains causally themselves enough to open a door that should not trust ordinary flesh
-alone.
+whether a senior individual remains causally themselves enough
+to open a door that should not trust ordinary flesh alone.
 
 Controlled label: **SPBID O5 PULSE LIBRARY LIMIT**.
 
@@ -206,8 +206,8 @@ the scanner denial is treated as meaningful until proven otherwise. If Static Pu
 fails, Medical and Identity Control review for transformation,
 replacement limb, prosthetic integration, or body-state change.
 
-Receipts are not souvenirs. Every receipt is an access record. Lost receipts from restricted doors are reported as
-security material.
+Receipts are not souvenirs. Every receipt is an access record. Lost
+receipts from restricted doors are reported as security material.
 
 ---
 

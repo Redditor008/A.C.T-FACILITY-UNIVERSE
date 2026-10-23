@@ -11,9 +11,9 @@
 ---
 
 ## Core Premise
-A low-to-mid clearance **Facility Archiver** is assigned to reconcile old **ENTITY** records with modern **AFD**
-anomaly files. What begins as archival cleanup gradually exposes contradictions surrounding the oldest buried records
-in A.C.T history.
+A low-to-mid clearance **Facility Archiver** is assigned to reconcile old **ENTITY**
+records with modern **AFD** anomaly files. What begins as archival cleanup gradually
+exposes contradictions surrounding the oldest buried records in A.C.T history.
 
 At the same time, a minor breach involving the **004-Series amnestic compounds** reveals that several senior personnel
 have undergone repeated memory erasure across many years. All evidence leads back to the **ABYSS Floor**.

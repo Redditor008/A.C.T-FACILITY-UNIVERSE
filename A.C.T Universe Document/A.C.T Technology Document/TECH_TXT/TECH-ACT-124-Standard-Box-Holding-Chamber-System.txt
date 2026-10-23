@@ -37,12 +37,12 @@ TECHNOLOGY RECORD - STANDARD BOX HOLDING CHAMBER SYSTEM
 +----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
-Standard Box Holding Chamber System is the one-hundred-twenty-fourth main A.C.T technology expanded into an individual
-record. The Redwood Veil F-3 Standard Object Chambers dossier identifies F-3 as the complex's largest containment
-level by volume and the main holding level for INERT, RESIDUAL, and SPORADIC object-class anomalies. It records
-chamber rows of Small, Medium, and Large Boxes, independent monitoring connections, adjustable environment, handling
-corridors, observation routes, intake and triage bays, transfer routes to F-2 and F-4, and the doctrine that
-documentation is containment.
+Standard Box Holding Chamber System is the one-hundred-twenty-fourth main A.C.T technology expanded
+into an individual record. The Redwood Veil F-3 Standard Object Chambers dossier identifies F-3 as the
+complex's largest containment level by volume and the main holding level for INERT, RESIDUAL, and
+SPORADIC object-class anomalies. It records chamber rows of Small, Medium, and Large Boxes, independent
+monitoring connections, adjustable environment, handling corridors, observation routes, intake and
+triage bays, transfer routes to F-2 and F-4, and the doctrine that documentation is containment.
 
 SBHCS exists because most anomalous objects do not require spectacle. They require a durable room, an honest record,
 continuous watch, and a system that knows when an ordinary holding is no longer

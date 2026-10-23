@@ -51,10 +51,10 @@ to partner institutions, or to the world in filtered form — and the art
 of releasing such documents is redaction: the
 discipline of removing, filtering, and reformatting content so that what remains is safe to read.
 
-F-5 exists for that discipline. It is the node's redaction workshop, where documents are studied, filtered, and
-prepared for restricted release under the Facility's redaction doctrine. Its controlled-reading cells, equipped with
-memetic filtering, are where dangerous documents are read safely — by personnel trained to read what must not be
-understood too quickly.
+F-5 exists for that discipline. It is the node's redaction workshop, where documents are
+studied, filtered, and prepared for restricted release under the Facility's redaction doctrine.
+Its controlled-reading cells, equipped with memetic filtering, are where dangerous documents
+are read safely — by personnel trained to read what must not be understood too quickly.
 
 ---
 
@@ -64,8 +64,8 @@ understood too quickly.
 
 F-5 lies between the General Records and Anomalous Intake level of F-6 above and
 the Research and Analysis level of
-F-4 below. Its position places redaction between the intake that receives documents and the research that studies
-them.
+F-4 below. Its position places redaction between the intake
+that receives documents and the research that studies them.
 
 ### 3.2 Relationship to F-6
 
@@ -141,8 +141,8 @@ understanding, supporting the floor's analysis of documents that cannot be read 
 
 ### 6.4 Security Division
 
-Security guards the floor's access architecture and the controlled-reading cells, enforcing the protocols that govern
-reading on the floor.
+Security guards the floor's access architecture and the controlled-reading
+cells, enforcing the protocols that govern reading on the floor.
 
 ### 6.5 Medical Division (Cognitive Care)
 
@@ -269,9 +269,9 @@ safe for the world to read.
 
 ### 11.3 The Reader's Discipline
 
-The floor's controlled readers work under a specific discipline: reading what must not be understood too quickly,
-under protocols that filter the document's effects and document the reader's exposure. The discipline is the floor's
-defining culture.
+The floor's controlled readers work under a specific discipline: reading what must
+not be understood too quickly, under protocols that filter the document's effects
+and document the reader's exposure. The discipline is the floor's defining culture.
 
 ---
 
@@ -285,9 +285,9 @@ and reformatted so that what remains in the world is safe to exist there.
 
 ### 12.2 Controlled-Reading Doctrine
 
-F-5 doctrine holds that dangerous documents can be read safely under controlled conditions: trained personnel,
-filtered environments, documented protocols, and exposure limits make reading possible where ordinary reading would be
-the breach.
+F-5 doctrine holds that dangerous documents can be read safely under controlled
+conditions: trained personnel, filtered environments, documented protocols, and
+exposure limits make reading possible where ordinary reading would be the breach.
 
 ### 12.3 Minimum-Release Doctrine
 
@@ -299,9 +299,9 @@ be safe forever.
 
 ## 13. Incident Archive
 
-The floor's incident record is dominated by redaction events: controlled-reading incidents, filtering failures, and
-unauthorized reading attempts. The incidents that shaped the node's redaction doctrine are preserved in the node's
-history files.
+The floor's incident record is dominated by redaction events: controlled-reading
+incidents, filtering failures, and unauthorized reading attempts. The incidents that
+shaped the node's redaction doctrine are preserved in the node's history files.
 
 ---
 

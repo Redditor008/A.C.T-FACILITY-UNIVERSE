@@ -90,8 +90,8 @@ it may be hidden because it is displaced from another time or structural conditi
 it may be hidden because its own
 archive censors the parts that would explain it; it may be hidden because no
 Guild remains active and only
-machine-record fragments survive; it may be hidden because the Guild is watching whether A.C.T completes the missing
-pattern.
+machine-record fragments survive; it may be hidden because the
+Guild is watching whether A.C.T completes the missing pattern.
 
 ---
 
@@ -99,10 +99,10 @@ pattern.
 
 ### Leadership Condition
 
-No supreme leader is confirmed. The only named internal actor is **Chief Surgeon Valerius**, and the PDF only confirms
-that Valerius performed or authorized Lyra's surgical reconstruction. Valerius may be a person, title, surgical
-office, automated operator label, inherited name, or false author tag inserted to make the procedure appear
-accountable.
+No supreme leader is confirmed. The only named internal actor is **Chief Surgeon
+Valerius**, and the PDF only confirms that Valerius performed or authorized Lyra's surgical
+reconstruction. Valerius may be a person, title, surgical office, automated operator label,
+inherited name, or false author tag inserted to make the procedure appear accountable.
 
 The recovered wording includes archivists, registry functions, vanguard roles, sector purges, tactical jobs, and
 maintenance instructions. This implies departments, but it does not reveal who commands them. A.C.T has not found a
@@ -112,14 +112,12 @@ Guild charter, oath, payroll, command roster, founding declaration, or surrender
 
 The following internal or associated structures are confirmed or strongly indicated by recovered material:
 
- **Guild Registry** — a maintenance, indexing, and authority layer tied to equipment messages and
- operative records.
+ **Guild Registry** — a maintenance, indexing, and authority layer tied to equipment messages and operative records.
 — **GUILD_WIKI / VESPERSYS** — archive and encyclopedia structure containing tactical and clinical records.
 — **Vanguard Division** — named in VESPER-related material and likely attached to OMEGA-level deployment.
 — **MNT Program** — inferred from MNT-092 designation, OMEGA-platform records, and operative conversion language.
 — **Ghost File system** — record erasure condition after high-grade operations.
- **OMEGA-KERN / Gamification Protocol control layer** — neural operating framework that converts reality into
- combat
+ **OMEGA-KERN / Gamification Protocol control layer** — neural operating framework that converts reality into combat
  interface logic.
  **Sector operation command** — implied by Jobs 1-5, Sector 7 Purge, Sector 4
  Purge,
@@ -170,8 +168,8 @@ suppression of civilian/domestic stimuli.
 The Gamification Protocol is the clearest ideological artifact. It reframes living beings as tactical icons, health
 bars, and nodes. The operative does not kill; the operative clears nodes and achieves
 high scores. If that language
-reflects Guild belief rather than only software design, the Guild may not distinguish between war, work,
-entertainment, and disposal.
+reflects Guild belief rather than only software design, the Guild
+may not distinguish between war, work, entertainment, and disposal.
 
 ### Assessed Objective
 
@@ -212,10 +210,10 @@ refugee, scavenger, or survivor an asset.
 
 ### Operational Regions
 
-The Guild's region is not a normal geography. Recovered records use sector language: Sector 12 Backwall Rim, Sector 12
-Rim collapse, Sector 7 Purge, Sector 4 Purge, Middle District, Industrial Way, and Node-4. These may be districts in a
-future megastructure, alternate civic grid, corporate zone map, tactical simulation namespace, or false labels used by
-the archive.
+The Guild's region is not a normal geography. Recovered records use sector language: Sector
+12 Backwall Rim, Sector 12 Rim collapse, Sector 7 Purge, Sector 4 Purge, Middle District,
+Industrial Way, and Node-4. These may be districts in a future megastructure, alternate civic
+grid, corporate zone map, tactical simulation namespace, or false labels used by the archive.
 
 No A.C.T site has matched these regions to present-day infrastructure with acceptable confidence.
 
@@ -242,10 +240,10 @@ center, the Ghost File storage layer, and whatever authority ordered the Sector 
 
 ### Operating Method
 
-The Guild appears to operate by converting candidates into purpose-built platforms, equipping them with specialized
-hardware, suppressing incompatible emotional responses, deploying them into high-casualty missions, recording
-performance as jobs or levels, and hiding them once they become mythologically useful or administratively
-inconvenient.
+The Guild appears to operate by converting candidates into purpose-built platforms,
+equipping them with specialized hardware, suppressing incompatible emotional responses,
+deploying them into high-casualty missions, recording performance as jobs or levels, and
+hiding them once they become mythologically useful or administratively inconvenient.
 
 The Guild's most disturbing method is not the weapon. It is the conversion of
 personhood into interface. Lyra was made
@@ -296,9 +294,9 @@ logs, equipment messages, recovered metadata, and future-displaced hardware.
 connected to A.C.T networks without air-gapped review. No Guild command phrase, maintenance prompt, sync routine, or
 leash protocol is to be tested in the presence of AFD-SU-020.
 
-**Misdirect** requires preventing public or outside-GOI interpretation of VESPER as proof of a recoverable future
-military program. If outside actors believe the Guild can be contacted, they may attempt to call something that A.C.T
-cannot yet define.
+**Misdirect** requires preventing public or outside-GOI interpretation of VESPER as
+proof of a recoverable future military program. If outside actors believe the Guild
+can be contacted, they may attempt to call something that A.C.T cannot yet define.
 
 ### Response Limits and Red Lines
 
@@ -354,12 +352,11 @@ A.C.T NOTE: The term "leash" is treated as a coercive control marker until
 
 ### Confirmed Operational Facts
 
- Recovered VESPER material repeatedly names the Guild, Guild Registry, GUILD_WIKI, VESPERSYS, Vanguard Division, and
- Ghost File systems.
+ Recovered VESPER material repeatedly names the Guild, Guild Registry,
+ GUILD_WIKI, VESPERSYS, Vanguard Division, and Ghost File systems.
 — The recovered PDF identifies VESPER as MNT-092-OMEGA and as a Guild vanguard-assassin. — A separate
-future-origin equipment test record displayed a Guild Registry maintenance instruction. VESPER's
-conversion record names Lyra, Chief Surgeon Valerius, the Genesis Event, and multiple body-integrated
- weapons
+future-origin equipment test record displayed a Guild Registry maintenance instruction. VESPER's conversion
+record names Lyra, Chief Surgeon Valerius, the Genesis Event, and multiple body-integrated weapons
  systems.
 — The Guild archive deliberately excludes post-disconnection
 domestic/civilian material involving Elara Vance and the Comfy Protocol.
@@ -401,8 +398,8 @@ cross-linked, and mechanically consistent with other future-origin anomaly trace
  Does the Comfy Protocol heal VESPER, hide her, corrupt Guild systems, or threaten
  the
  Guild's definition of control?
- Is the Guild's sector map physical geography, simulation geography, class geography, or after-disaster administrative
- language?
+ Is the Guild's sector map physical geography, simulation geography,
+ class geography, or after-disaster administrative language?
  If the Guild can erase public records into Ghost Files, why did this
  PDF
  survive?

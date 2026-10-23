@@ -48,11 +48,11 @@ FORGET THE HAZARD, NOT THE PERSON WHO SURVIVED IT.
 
 ## FUNCTION SUMMARY
 
-Neural Lacing Type 004-MOD is a surgically implanted neural lattice that intercepts selected info-hazardous input and
-routes it into an internal signal-sink before it can become stable memory, compulsion, or cognitive infection. It is
-derived from 004-Series memory-control doctrine but does not act like an ordinary amnestic. A dose removes or alters
-memory after exposure. NL-004 attempts to prevent specific dangerous information from completing memory formation in
-the first place.
+Neural Lacing Type 004-MOD is a surgically implanted neural lattice that intercepts selected
+info-hazardous input and routes it into an internal signal-sink before it can become stable memory,
+compulsion, or cognitive infection. It is derived from 004-Series memory-control doctrine but does
+not act like an ordinary amnestic. A dose removes or alters memory after exposure. NL-004 attempts
+to prevent specific dangerous information from completing memory formation in the first place.
 
 The implant is used for personnel who must repeatedly encounter narrow classes of high-tier info-hazard, archival
 contamination, hostile symbol sets, auditory triggers, or recognition effects that cannot be avoided by ordinary PPE.
@@ -260,14 +260,14 @@ benign signage, map marks, and one colleague's handwritten initials. The filter 
 remained missing. Current doctrine requires filter minimalism.
 
 ### NL-004-2018 Signal-Sink Saturation
-A document archivist with NL-004 processed more contaminated fragments than approved in one shift. The implant did not
-fail, but the patient developed severe headaches and reported hearing blank spaces between sentences. Exposure caps
-became mandatory.
+A document archivist with NL-004 processed more contaminated fragments than approved
+in one shift. The implant did not fail, but the patient developed severe headaches
+and reported hearing blank spaces between sentences. Exposure caps became mandatory.
 
 ### NL-004-2024 Unauthorized Expansion Attempt
-A supervisor requested that a filter be expanded to include a distressing incident phrase unrelated to the original
-info-hazard. Medical denied the request and referred the case to Personnel Resilience. The denial is retained as
-standing precedent.
+A supervisor requested that a filter be expanded to include a distressing incident
+phrase unrelated to the original info-hazard. Medical denied the request and referred
+the case to Personnel Resilience. The denial is retained as standing precedent.
 
 ---
 

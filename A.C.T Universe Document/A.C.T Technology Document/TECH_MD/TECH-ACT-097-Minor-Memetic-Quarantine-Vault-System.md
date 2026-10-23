@@ -213,10 +213,10 @@ than entry by entry.
 
 ## KNOWN LIMITS
 
-MMQVS cannot safely hold major memetic residents, aggressive self-copying documents, high-grade infohazards, or
-material requiring full Kurokawa black archive burial. It is vulnerable to accidental sight, reflection, copy drift,
-manifest contamination, staff curiosity, overstay, and pressure to keep difficult files out of the parent node longer
-than doctrine allows.
+MMQVS cannot safely hold major memetic residents, aggressive self-copying documents, high-grade
+infohazards, or material requiring full Kurokawa black archive burial. It is vulnerable to
+accidental sight, reflection, copy drift, manifest contamination, staff curiosity, overstay,
+and pressure to keep difficult files out of the parent node longer than doctrine allows.
 
 Known failure modes include spillover, unauthorized reading, visual-denial failure, document reproduction, buffer
 overstay, exposure aftercare delay, wrong destination routing, F-1 closure during transfer, and staff mistaking minor

@@ -62,8 +62,8 @@ a city.
 
 For all of these, the Facility maintains White Grave Station: an installation built in
 a place where the environment
-itself is part of the containment doctrine, and where the nearest civilian population is measured in hundreds of
-kilometers rather than meters.
+itself is part of the containment doctrine, and where the nearest civilian
+population is measured in hundreds of kilometers rather than meters.
 
 ---
 
@@ -108,10 +108,10 @@ anywhere near the human world.
 
 ### 4.1 The Cold-Holding Problem
 
-The station's origins lie in a recurring operational problem: anomalies that could not be held safely in
-population-adjacent sites. Biologically unstable material, entropic objects that decayed containment infrastructure,
-and subjects requiring environmental suppression all placed unacceptable strain on sites whose primary obligation was
-urban secrecy.
+The station's origins lie in a recurring operational problem: anomalies that could not be
+held safely in population-adjacent sites. Biologically unstable material, entropic objects
+that decayed containment infrastructure, and subjects requiring environmental suppression
+all placed unacceptable strain on sites whose primary obligation was urban secrecy.
 
 The Facility's answer was to build a site whose location performed containment work. Early operations in the region
 consisted of temporary cold-holding outposts — remote structures where unstable material could be frozen and studied
@@ -248,9 +248,9 @@ a fortress whose primary enemy is the cold and the things kept in it.
 
 The surface structure of White Grave Station appears as a cluster of arctic research
 buildings: dormitories,
-laboratories, a power plant, vehicle maintenance structures, and a small airstrip capable of seasonal fixed-wing and
-helicopter operations. The buildings are real; the research is real; only the purpose of the deepest structures is
-otherwise.
+laboratories, a power plant, vehicle maintenance structures, and a small airstrip
+capable of seasonal fixed-wing and helicopter operations. The buildings are real;
+the research is real; only the purpose of the deepest structures is otherwise.
 
 ### 7.2 The Permafrost Descent
 
@@ -270,15 +270,15 @@ degradation of containment function.
 
 ## 8. Internal Floor Register
 
-The station's occupied strata are registered on **six numbered levels**, from **F-1** (deepest) to **F-6**
-(surface-adjacent), consistent with Facility floor doctrine: **F-1** is the deepest numbered level and higher numbers
-rise toward the surface. Below F-1 lies permafrost and the station's deepest utility routing; there is no abyssal
-access beneath this site.
+The station's occupied strata are registered on **six numbered levels**, from **F-1** (deepest)
+to **F-6** (surface-adjacent), consistent with Facility floor doctrine: **F-1** is the deepest
+numbered level and higher numbers rise toward the surface. Below F-1 lies permafrost and the
+station's deepest utility routing; there is no abyssal access beneath this site.
 
 ### F-6 — Surface Research and Transition Level
-The legitimate face of the station: administrative buildings, conventional research laboratories, the power plant,
-vehicle maintenance, and the airstrip. Personnel arriving by seasonal transport transition through this level before
-descending.
+The legitimate face of the station: administrative buildings, conventional research
+laboratories, the power plant, vehicle maintenance, and the airstrip. Personnel
+arriving by seasonal transport transition through this level before descending.
 
 ### F-5 — Personnel Habitation and Support
 Living quarters, mess facilities, medical clinics for routine care, recreation spaces, and the station's internal
@@ -340,8 +340,8 @@ Transport to and from the station is seasonal and weather-conditional:
 - RSA-equipped sealed transport containers for biological material movement
 - Facility Converted Aircraft for high-priority trans-regional transfer
 
-The seasonal nature of transport is part of the station's containment doctrine: for much of the year, nothing leaves
-White Grave.
+The seasonal nature of transport is part of the station's containment
+doctrine: for much of the year, nothing leaves White Grave.
 
 ---
 
@@ -420,15 +420,15 @@ The station routes material:
   anomalies requiring central authority
 — to specialized research destinations only under direct central authorization
 
-Cold-requiring material rarely leaves White Grave. The station's doctrine assumes that what arrives in the far north
-will remain there.
+Cold-requiring material rarely leaves White Grave. The station's
+doctrine assumes that what arrives in the far north will remain there.
 
 ### 11.3 Support Relationship — Frost Hollow Depot
 
-ACT-SUB-02-RU-N, the **Frost Hollow Depot**, functions as the station's interim cold storage and quarantine staging
-extension. Material awaiting transfer to the station, material undergoing quarantine assessment, and seasonal overflow
-are held at the Depot. The Depot reduces over-concentration pressure on the main station during seasonal biological
-incidents.
+ACT-SUB-02-RU-N, the **Frost Hollow Depot**, functions as the station's interim cold storage
+and quarantine staging extension. Material awaiting transfer to the station, material
+undergoing quarantine assessment, and seasonal overflow are held at the Depot. The Depot
+reduces over-concentration pressure on the main station during seasonal biological incidents.
 
 ---
 

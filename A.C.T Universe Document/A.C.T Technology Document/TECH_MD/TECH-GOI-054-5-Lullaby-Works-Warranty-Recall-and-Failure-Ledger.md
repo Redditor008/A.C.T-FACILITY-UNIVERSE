@@ -97,14 +97,12 @@ The system is documentary and logistical rather than mechanical. Its recovered c
  incident;
 - **warranty ledger pages** storing child drawings and caregiver notes;
 - **recall lists** naming product lots, some unknown to A.C.T;
- **product catalogues with missing pages**, where the removed pages are presumed to describe items
- A.C.T has not
+ **product catalogues with missing pages**, where the removed pages are presumed to describe items A.C.T has not
  recovered;
 - **sealed failure crates** marked **DO NOT RETURN TO CHILD**;
- **caregiver instruction cards** written to be understood by a frightened adult, shared across the
- whole product range;
- **production tags** stitched under seams or hidden behind battery plates, which are the only
- per-unit identifiers
+ **caregiver instruction cards** written to be understood by
+ a frightened adult, shared across the whole product range;
+ **production tags** stitched under seams or hidden behind battery plates, which are the only per-unit identifiers
  A.C.T has ever located.
 
 The blue card is the only live interface A.C.T has observed. When called, the
@@ -239,8 +237,8 @@ keeping the fragment record complete and the lot gaps visible.
 
 ## KNOWN LIMITS
 
-A.C.T holds fragments, not the ledger. No complete failure file has ever been recovered, and the dossier states this
-directly.
+A.C.T holds fragments, not the ledger. No complete failure file
+has ever been recovered, and the dossier states this directly.
 
 The system cannot be read from the outside. A.C.T cannot determine how many lots
 exist, how many recalls have been
@@ -271,10 +269,10 @@ and it established the standing rule that contact requires Command-level excepti
 ### WARRANTY FRAGMENT RECOVERY — BEAR BITE CASE
 A single warranty card fragment was recovered acknowledging that a plush bit an adult
 hand, instructing that the
-caregiver's statement be wrapped in plain paper, and approving replacement after review. The full failure file was
-never recovered. A.C.T preserves the fragment because it proves that a failure-review process exists and that the
-manufacturer understands misuse and unintended injury. It is the only documentary proof that the ledger functions at
-all.
+caregiver's statement be wrapped in plain paper, and approving replacement after review.
+The full failure file was never recovered. A.C.T preserves the fragment because it proves
+that a failure-review process exists and that the manufacturer understands misuse and
+unintended injury. It is the only documentary proof that the ledger functions at all.
 
 ### UNRECONCILED RECALL LOTS — OPEN
 Recall lists recovered by A.C.T name product lots that A.C.T has never encountered. The

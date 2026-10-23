@@ -74,10 +74,10 @@ boundary monitoring, and surface incident response.
 
 ORIGIN AND DEVELOPMENT
 
-Frost Hollow was built to reduce seasonal over-concentration at White Grave Station. That mission demanded a surface
-facility capable of receiving hazardous organic material without exposing White Grave's transfer corridors or the
-depot's buried work. The chosen cover was deliberately ordinary: an arctic cold-storage facility with quarantine
-capability.
+Frost Hollow was built to reduce seasonal over-concentration at White Grave Station. That
+mission demanded a surface facility capable of receiving hazardous organic material without
+exposing White Grave's transfer corridors or the depot's buried work. The chosen cover was
+deliberately ordinary: an arctic cold-storage facility with quarantine capability.
 
 The F-3 dossier records that the cover's strength is naturalness. In the far north,
 cold infrastructure explains

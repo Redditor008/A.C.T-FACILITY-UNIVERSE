@@ -11,7 +11,7 @@ Dossier Number: FLOOR-DOSSIER-SUB-03-JP-E-F-1
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard / ACT Floor Record Standard
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Note
 
@@ -34,7 +34,7 @@ what it holds, how it is built, how it is guarded, and how a
 vault built
 for temporary quarantine serves the eastern archive's buffer doctrine.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 1. Floor Registry Identity Summary
 
@@ -59,7 +59,7 @@ Doctrine Note: Material here is temporary — the annex buffers, it does
 not bury; subject to the annex's "F-1 closure" response — closing F-1 to
 the outside seals the level
 
----
+═══════════════════════════════════════════════════════════════════════
 
 2. Dossier Purpose
 
@@ -76,7 +76,7 @@ transfer to the parent node. The floor exists for cases too dangerous for
 ordinary records but too minor for full black archive burial — held
 temporarily, and never permanently.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 3. Position in the Site Stack
 
@@ -100,7 +100,7 @@ review and redaction level and the cover. The distance is short — the
 annex's purpose is proximity to the parent node's overflow, not depth —
 and the vault's security depends on control rather than on distance.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 4. Historical Foundation
 
@@ -125,7 +125,7 @@ In its modern configuration, F-1 is the annex's secure quarantine level:
 low-to-mid memetic and infohazard material held under visual denial and
 document quarantine while it awaits its documented disposition.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5. Command and Authority
 
@@ -150,7 +150,7 @@ handling, and no authority to conduct review beyond the floor's quarantine
 function. Its role is to hold minor memetic and infohazard material
 temporarily and to move it to its documented disposition.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 6. Divisional Presence
 
@@ -177,7 +177,7 @@ duties touch the floor's material.
 Security personnel guard the floor's access architecture and enforce the
 restriction sets that govern the floor's holdings.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 7. Physical Plant and Architecture
 
@@ -214,7 +214,7 @@ or for transfer to the Kurokawa Archive Node. The area is the floor's most
 important space — the point where the annex's buffering purpose is
 fulfilled.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 8. Systems and Infrastructure
 
@@ -241,7 +241,7 @@ The floor maintains communication with the annex's levels and with the
 parent node's coordination. Documentation is exact and tied to each
 holding's disposition schedule.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 9. Security and Containment Architecture
 
@@ -273,7 +273,7 @@ The floor's transfer operations move material to review, redaction, or the
 parent node under documented chain-of-custody, on the schedules the annex's
 buffer doctrine requires.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 10. Holdings and Filing Doctrine
 
@@ -300,7 +300,7 @@ redaction, return to the parent node's ordinary processing where cleared,
 or transfer to the Kurokawa Archive Node for deeper archival handling.
 Nothing on the floor is permanent — the annex buffers, it does not bury.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 11. Personnel and Duty Life
 
@@ -324,7 +324,7 @@ is always temporary. Personnel on F-1 learn to hold material that must not
 be read without reading it, and to prepare every holding for the
 disposition that ends its stay.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 12. Floor Doctrine
 
@@ -346,7 +346,7 @@ F-1 doctrine holds that the floor must be sealable: the level is designed
 to close during a breach response, and the annex maintains the procedure so
 that closure is executed without hesitation.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 13. Incident Archive
 
@@ -356,7 +356,7 @@ Material that exceeds the annex's capacity moves to the parent node or to
 deeper archival handling, and the floor's history is largely the history of
 successful buffering.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 14. Current Status and Projected Development
 
@@ -366,7 +366,7 @@ priorities include:
 - maintenance of the visual-denial and document-quarantine infrastructure;
 - coordination with the parent node on buffering schedules and disposition.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 15. Cross-Referenced Files
 
@@ -377,7 +377,7 @@ priorities include:
 - ACT_Site_Doctrine_and_Installation_Structure.md / .txt
 - Parent command Annex Register (clearance-gated)
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Closing
 

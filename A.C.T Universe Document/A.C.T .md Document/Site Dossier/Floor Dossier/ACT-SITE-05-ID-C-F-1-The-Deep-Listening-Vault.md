@@ -25,8 +25,8 @@ Nusantara Deep Relay exists to watch what comes from below: maritime anomalies, 
 tectonic irregularity, and the abyss-linked seismic movement that may connect to the buried structure beneath the
 Primary Facility. Its deepest floor, F-1, is where that watch converges — the sensor
 nexus where the relay's
-deep-earth monitoring arrays meet, and the secure holding space for the relay's most sensitive deep-earth and maritime
-material.
+deep-earth monitoring arrays meet, and the secure holding space
+for the relay's most sensitive deep-earth and maritime material.
 
 This dossier records the floor in full institutional language: what it is, what it
 holds, how it is built, how it
@@ -74,9 +74,9 @@ and it holds what the deep gives back.
 
 ### 3.1 Vertical Position
 
-F-1 occupies the lowest numbered level of the relay's built installation, beneath F-2, the Deep Monitoring and
-Restricted Records level. It sits within an island-embedded facility, surrounded by the geological structure of the
-island itself.
+F-1 occupies the lowest numbered level of the relay's built installation, beneath F-2,
+the Deep Monitoring and Restricted Records level. It sits within an island-embedded
+facility, surrounded by the geological structure of the island itself.
 
 ### 3.2 What Lies Below F-1
 
@@ -150,8 +150,8 @@ the deep-earth sensor arrays that converge on the floor.
 
 ### 6.2 Containment Division (Deep-Hold)
 
-The Containment Division operates the floor's vault functions: monitoring, environmental control, and the execution of
-each holding's regimen.
+The Containment Division operates the floor's vault functions: monitoring,
+environmental control, and the execution of each holding's regimen.
 
 ### 6.3 Research Division Liaison
 
@@ -179,9 +179,9 @@ relay's ear — the physical point of its deepest listening.
 
 ### 7.3 The Vault Chambers
 
-The floor's vault chambers hold the relay's most sensitive deep-earth and maritime material under maximum security.
-Chambers are engineered individually, with the environmental and containment systems matched to the material they
-hold.
+The floor's vault chambers hold the relay's most sensitive deep-earth and
+maritime material under maximum security. Chambers are engineered individually,
+with the environmental and containment systems matched to the material they hold.
 
 ### 7.4 Island Foundation Integration
 
@@ -211,9 +211,9 @@ the relay's deepest observations.
 
 ### 8.4 Communication
 
-The floor maintains hardened communication with the relay's command levels and with the restricted review chain that
-governs abyss-linked records. Communications discipline follows the sensitivity of the material and data the floor
-handles.
+The floor maintains hardened communication with the relay's command levels and
+with the restricted review chain that governs abyss-linked records. Communications
+discipline follows the sensitivity of the material and data the floor handles.
 
 ---
 
@@ -278,8 +278,8 @@ are registered in the Annex Register; personnel without specific assignment to t
 
 ### 11.1 Rotation
 
-F-1 personnel serve on tightly controlled rotations drawn from the Seismic Analysis and Containment Divisions' most
-experienced staff.
+F-1 personnel serve on tightly controlled rotations drawn from the
+Seismic Analysis and Containment Divisions' most experienced staff.
 
 ### 11.2 Duty Life
 

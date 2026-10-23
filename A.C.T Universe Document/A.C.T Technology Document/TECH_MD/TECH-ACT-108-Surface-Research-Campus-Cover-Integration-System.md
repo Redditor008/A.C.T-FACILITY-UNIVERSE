@@ -72,10 +72,10 @@ developed as that institution: a campus that performs ecological science in the 
 gives the reserve an ordinary
 reason to exist.
 
-The genuine science doctrine emerged early. A false front collapses when inspected; a real research campus can answer
-questions, publish findings, invite limited professional contact, and create a durable explanation for exclusion.
-SRCCIS formalizes the systems that keep that genuine work from crossing into concealed sectors or exposing the built
-levels below.
+The genuine science doctrine emerged early. A false front collapses when inspected; a real
+research campus can answer questions, publish findings, invite limited professional contact,
+and create a durable explanation for exclusion. SRCCIS formalizes the systems that keep that
+genuine work from crossing into concealed sectors or exposing the built levels below.
 
 ---
 
@@ -132,8 +132,7 @@ This campus is the reserve's largest cover and its largest exposure at the same
 time, because genuine
 ecological research is exactly the activity that draws outside scientists into the same forest the enclosure
 occupies. The system therefore treats research output as the primary control: a campus publishing real
-results is uninteresting, and a campus publishing nothing invites the questions the boundary exists to
-avoid.
+results is uninteresting, and a campus publishing nothing invites the questions the boundary exists to avoid.
 
 ## INTERFACE AND OPERATING ENVELOPE
 
@@ -237,9 +236,9 @@ more suspicious than the event it conceals.
 ## FAILURE HISTORY
 
 ### SRCCIS-Genuine Science Review
-Early cover planning found that a purely fictional research station would require constant narrative maintenance and
-invite scrutiny. Current SRCCIS doctrine requires the campus's ecological science to remain genuine, useful, and
-professionally defensible.
+Early cover planning found that a purely fictional research station would require
+constant narrative maintenance and invite scrutiny. Current SRCCIS doctrine requires the
+campus's ecological science to remain genuine, useful, and professionally defensible.
 
 ### SRCCIS-Boundary Route Correction
 A field team once scheduled legitimate monitoring near a concealed perimeter during sector maintenance. The current

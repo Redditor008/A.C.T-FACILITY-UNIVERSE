@@ -93,8 +93,8 @@ look like ordinary medical
 silicone until angled light reveals faint internal alignment bands. Each roll includes a Tear-Resistance Gauge along
 the outer edge and a Thermal-Alignment Strip that changes shade across safe, cold, hot,
 and phase-stress ranges.
-Surgical strips are cut with sterile nonreactive tools. Chassis-grade sheets are thicker and include embedded mount
-points.
+Surgical strips are cut with sterile nonreactive tools.
+Chassis-grade sheets are thicker and include embedded mount points.
 
 Known components include:
 
@@ -184,21 +184,21 @@ Fabrication and application, Level 3 stock with Level 4 surgical use.
 
 Step-down: unused stock returns to its sterile core and the tag is closed. Emergency:
 a strip reading phase
-stress halts bonding until Engineering re-surveys, because a technically stable chassis is not the same
-thing as an acceptable one.
+stress halts bonding until Engineering re-surveys, because a
+technically stable chassis is not the same thing as an acceptable one.
 
-Before use, Engineering or Medical confirms the intended category: surgical, prosthetic, interface, seal, or chassis.
-Medical checks patient consent, tissue condition, temperature, and phase exposure. Artificial Cognition review is
-mandatory for any proposed sentient host shell or AI chassis. Materials Custody confirms roll age, gauge state, and
-storage history.
+Before use, Engineering or Medical confirms the intended category: surgical, prosthetic,
+interface, seal, or chassis. Medical checks patient consent, tissue condition, temperature,
+and phase exposure. Artificial Cognition review is mandatory for any proposed sentient host
+shell or AI chassis. Materials Custody confirms roll age, gauge state, and storage history.
 
 During application, staff align the Thermal-Alignment Strip before pressure bonding. If the strip shows phase stress,
 work stops until the environment stabilizes. Surgical use requires minimal stretch; overstretching may pass the
 Tear-Resistance Gauge while ruining phase retention. For digital-hosting prototypes, the material is tested with dummy
 signal fields before a conscious subject is involved.
 
-After use, all offcuts are collected. PSS fragments exposed to digital-hosting signals are archived or destroyed under
-Data Security review.
+After use, all offcuts are collected. PSS fragments exposed to
+digital-hosting signals are archived or destroyed under Data Security review.
 
 ---
 
@@ -215,8 +215,8 @@ Data Security review.
 
 Stock is the consumable and is issued by roll rather than serviced on a
 schedule, so calendar interval NOT
-MEASURED. The 2023 revision is why bend and stretch testing precedes patient contact instead of following
-visual inspection.
+MEASURED. The 2023 revision is why bend and stretch testing
+precedes patient contact instead of following visual inspection.
 
 ## FAULT ISOLATION
 
@@ -237,18 +237,18 @@ experiences as a hospital room instead of a home. It also fails if exposed
 to excessive heat, aggressive solvents,
 high shear, misaligned phase fields, or untested digital consciousness transfer.
 
-Known failure modes include phase slippage, edge lift, heat misalignment, false tear safety, bonding refusal, signal
-echo in chassis sheets, tissue irritation, consent bypass, and staff mistaking flesh-colored material for humane
-design.
+Known failure modes include phase slippage, edge lift, heat misalignment, false
+tear safety, bonding refusal, signal echo in chassis sheets, tissue irritation,
+consent bypass, and staff mistaking flesh-colored material for humane design.
 
 ---
 
 ## FAILURE HISTORY
 
 ### PSS-2023 Surgical Strip Revision
-Early medical strips held phase stability but tore under repeated joint movement. The Tear-Resistance Gauge was added
-after operators overtrusted visual inspection. Current surgical stock must pass bend and stretch testing before
-patient contact.
+Early medical strips held phase stability but tore under repeated joint movement.
+The Tear-Resistance Gauge was added after operators overtrusted visual inspection.
+Current surgical stock must pass bend and stretch testing before patient contact.
 
 ### PSS-2024 Argon Chassis Refusal
 Technician Hruby proposed a Phase-Stable Silicone chassis or QNB transfer for Argon Internal. Argon refused,

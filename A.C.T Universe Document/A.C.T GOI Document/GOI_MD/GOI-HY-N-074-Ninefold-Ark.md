@@ -45,8 +45,8 @@ The relationship class is **NEUTRAL**. Ninefold Ark does not primarily help A.C.
 stabilize ordinary incidents. It preserves continuance according to its own selection logic. It may save a species
 while abandoning a town. It may protect an anomalous cure while refusing seats to
 the people who discovered it. It may
-cooperate with A.C.T during extinction threats and obstruct A.C.T when A.C.T demands access to Ark holds. Its morality
-is selection, not rescue.
+cooperate with A.C.T during extinction threats and obstruct A.C.T when
+A.C.T demands access to Ark holds. Its morality is selection, not rescue.
 
 Ark coordinates, living samples, selection ledgers, rejected evacuation requests, vessel contents, and all Ninth Hold
 references are censored under **NINEFOLD DISCLOSURE LIMIT**. Some redactions protect survival stores from raiders,
@@ -98,11 +98,11 @@ marks are non-anomalous, but several ark holds appear to respond badly to incorr
 
 ### Leadership Condition
 
-Ninefold Ark is governed by a distributed stewardship model. Ark Stewards hold authority over selection principles and
-long-term survival ethics. Fold Captains control mobile vessels, convoy timing, route concealment, and emergency
-closure. Continuance Trustees control funding, legal shells, and inheritance structures. Vessel Curators decide what
-records, samples, objects, and tools are assigned to each hold. Ninth Hold Auditors appear in references but have not
-been identified.
+Ninefold Ark is governed by a distributed stewardship model. Ark Stewards hold authority over
+selection principles and long-term survival ethics. Fold Captains control mobile vessels, convoy
+timing, route concealment, and emergency closure. Continuance Trustees control funding, legal
+shells, and inheritance structures. Vessel Curators decide what records, samples, objects, and tools
+are assigned to each hold. Ninth Hold Auditors appear in references but have not been identified.
 
 No single executive has been confirmed. A.C.T has recovered references to the **Nine Seats**, but the phrase may refer
 to vessel classes, a council, nine founding disasters, nine preservation categories, or nine literal seats inside a
@@ -240,8 +240,7 @@ research corridors, and shipping lanes with complex ownership.
 
 Known or assessed assets include:
 
- ark holds divided by living, seed, memory, tool, medical, animal, culture, containment, and unknown
- categories;
+ ark holds divided by living, seed, memory, tool, medical, animal, culture, containment, and unknown categories;
 — fold vaults with inconsistent external dimensions;
 — species ledgers and denied-species registers;
 — cold cradles for viable tissue, seed, eggs, blood, spores, and unknown samples;
@@ -277,8 +276,8 @@ EIGHTH HOLD: art, ritual, play, meaning, and materials not necessary until they 
 NINTH HOLD: [CENSOR: NINTH HOLD CONTENT]
 ```
 
-Do not assume the holds are physically separate. Some documents describe categories, not rooms. Ninth Hold references
-remain Level 5 restricted.
+Do not assume the holds are physically separate. Some documents describe
+categories, not rooms. Ninth Hold references remain Level 5 restricted.
 
 ---
 
@@ -294,8 +293,8 @@ When Recovery opened the coffer early, three inventory labels changed from speci
 
 The Ark did not deny possession. An Ark Steward claimed the sample was necessary
 for a Seventh Hold package because
-the originating hazard might outlive all current institutions. A.C.T rejected the custody claim and seized the coffer.
-The Steward replied:
+the originating hazard might outlive all current institutions. A.C.T
+rejected the custody claim and seized the coffer. The Steward replied:
 
 ```text
 You contain for the present. We are accused because we contain for whoever inherits
@@ -443,17 +442,16 @@ seats than names.
  material
  were accepted?
 - Would the Ark sabotage an evacuation if panic boarding threatened a critical vessel?
- Can A.C.T create ethical continuity protocols strong enough to negotiate with or replace Ark
- decisions during mass
+ Can A.C.T create ethical continuity protocols strong enough to negotiate with or replace Ark decisions during mass
  failure?
 
 ### Intelligence Confidence
 
-Moderate. A.C.T holds one seized sample coffer, and has inspected one seed annex under cooperation and photographed
-one mobile hold from outside. Documentary material recovered includes selection fragments, denial cards, trust
-paperwork and partial inspection reports. Confidence is limited by decoy holdings, unknown Ninth Hold references,
-uncertain anomalous mechanics, and the Ark's ability to hide within legitimate preservation work. Confidence may rise
-through controlled
+Moderate. A.C.T holds one seized sample coffer, and has inspected one seed annex under cooperation
+and photographed one mobile hold from outside. Documentary material recovered includes selection
+fragments, denial cards, trust paperwork and partial inspection reports. Confidence is limited by
+decoy holdings, unknown Ninth Hold references, uncertain anomalous mechanics, and the Ark's
+ability to hide within legitimate preservation work. Confidence may rise through controlled
 vault inspection, negotiated inventory comparison, or recovery of a full selection ledger.
 
 ---

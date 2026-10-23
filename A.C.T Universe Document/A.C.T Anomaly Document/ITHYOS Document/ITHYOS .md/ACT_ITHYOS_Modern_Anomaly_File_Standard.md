@@ -60,9 +60,9 @@ with planetary stability, and the fact that meaningful containment does not cons
 body. Modern A.C.T containment recognizes that the Facility does not contain the entity in the ordinary sense; rather,
 it contains access, observation, disturbance, and wake-state conditions surrounding the entity.
 
-The anomaly remains in a sleep-like state. Even so, minor involuntary movement during dormancy is sufficient to
-generate measurable seismic activity across the globe. No verified full waking event exists in surviving A.C.T
-records.
+The anomaly remains in a sleep-like state. Even so, minor involuntary movement
+during dormancy is sufficient to generate measurable seismic activity across
+the globe. No verified full waking event exists in surviving A.C.T records.
 
 ### ANOMALOUS PROPERTIES
 
@@ -161,9 +161,9 @@ HISTORY:                 Number of attempts: 0
                          Result of most recent attempt: N/A
 
 TRANSFORMATION NOTES: Transformation is permanently prohibited. Any structural interference, wake-state manipulation,
-biological sampling, psychic extraction, or containment-conversion concept is judged existentially irresponsible.
-ITHYOS is not a candidate for stabilization beyond preserved dormancy, nor for repurposing, neutralization, or
-integration.
+biological sampling, psychic extraction, or containment-conversion concept is
+judged existentially irresponsible. ITHYOS is not a candidate for stabilization
+beyond preserved dormancy, nor for repurposing, neutralization, or integration.
 
 ### INCIDENT LOG — SUMMARY
 

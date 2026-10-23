@@ -33,12 +33,12 @@
 ---
 
 ## Purpose
-This archive records the officially recognized derivative amnestic compounds refined from the sap of **AFD-NB-004**.
-These compounds form the basis of A.C.T memory suppression, witness sanitation, secrecy preservation, and restricted
-recall erasure protocols.
+This archive records the officially recognized derivative amnestic compounds refined from
+the sap of **AFD-NB-004**. These compounds form the basis of A.C.T memory suppression,
+witness sanitation, secrecy preservation, and restricted recall erasure protocols.
 
-Raw sap is not considered safe for unrestricted use. All 004-series compounds are classified as anomaly-derived
-neurological erasure agents.
+Raw sap is not considered safe for unrestricted use. All 004-series
+compounds are classified as anomaly-derived neurological erasure agents.
 
 ---
 

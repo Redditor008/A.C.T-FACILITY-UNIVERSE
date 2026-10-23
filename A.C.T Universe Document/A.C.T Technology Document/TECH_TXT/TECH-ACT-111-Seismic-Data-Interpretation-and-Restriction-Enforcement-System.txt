@@ -150,10 +150,9 @@ by the archive: Console count, Median review time, Refusal records. They are fil
 
 Interpretation is where raw deep-earth data becomes a claim, and a claim is more
 hazardous than the data it
-came from. The system separates the two stages physically: the console reads, the correlation workstation
-interprets, and the refusal gate records what an analyst was not permitted to correlate. A refusal is kept
-as a record rather than as an absence, because an unrecorded refusal is indistinguishable from data that was
-never examined.
+came from. The system separates the two stages physically: the console reads, the correlation workstation interprets,
+and the refusal gate records what an analyst was not permitted to correlate. A refusal is kept as a record rather
+than as an absence, because an unrecorded refusal is indistinguishable from data that was never examined.
 
 INTERFACE AND OPERATING ENVELOPE
 
@@ -268,9 +267,9 @@ refusal record loss, and command pressure to release a useful conclusion before 
 FAILURE HISTORY
 
 SDIRES-Meaning Before File Review
-A research review found that analysts could reach restricted conclusions before a formal record existed, leaving
-sensitive meaning outside Archive control. Current SDIRES doctrine treats interpretation events as recordable from the
-first authorized comparison.
+A research review found that analysts could reach restricted conclusions before a formal
+record existed, leaving sensitive meaning outside Archive control. Current SDIRES
+doctrine treats interpretation events as recordable from the first authorized comparison.
 
 SDIRES-Correlation Overreach Incident
 A deep-earth pattern was once compared against a library beyond the study's approved scope because the workstation

@@ -174,10 +174,10 @@ Emergency: an
 unexplained change in a foundation reading is reviewed as possible movement toward the vault, because the
 array is both a sensor system and a monitored approach path.
 
-Seismic Analysis personnel maintain continuous watch through F-1. Routine readings are compared against known
-volcanic, tectonic, maritime, and site-structure baselines. When an unusual signal appears, analysts confirm whether
-the signal is local machinery, ordinary geology, marine impact, chamber vibration, sensor failure, or abyss-linked
-anomaly candidate.
+Seismic Analysis personnel maintain continuous watch through F-1. Routine readings are
+compared against known volcanic, tectonic, maritime, and site-structure baselines. When an
+unusual signal appears, analysts confirm whether the signal is local machinery, ordinary
+geology, marine impact, chamber vibration, sensor failure, or abyss-linked anomaly candidate.
 
 Maintenance crews do not enter array service paths without Seismic Analysis and Security clearance. Work orders must
 identify the affected node, last stable reading, surrounding node agreement, and whether any restricted review flags
@@ -252,8 +252,8 @@ Seismic Analysis owns live interpretation. Containment uses readings to adjust d
 readiness. Research studies long-pattern signals under restricted review. Engineering maintains buried hardware and
 isolation collars. Security treats array disturbance as possible route activity below the floor.
 
-DESA doctrine recognizes that A.C.T cannot guard only doors. At Nusantara, the earth under the site is also a
-boundary.
+DESA doctrine recognizes that A.C.T cannot guard only doors.
+At Nusantara, the earth under the site is also a boundary.
 
 ---
 

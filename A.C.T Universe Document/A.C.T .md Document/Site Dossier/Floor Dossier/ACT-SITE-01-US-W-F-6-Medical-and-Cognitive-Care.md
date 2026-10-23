@@ -77,9 +77,9 @@ them, and deep enough to isolate what medical care must isolate.
 
 ### 3.2 Relationship to the Working Floors
 
-F-6 serves personnel from every floor of the complex: holding, research, transformation, security, and archive. Its
-isolation suites are used for personnel whose contact with anomalous material requires separation from the working
-population.
+F-6 serves personnel from every floor of the complex: holding, research,
+transformation, security, and archive. Its isolation suites are used for personnel
+whose contact with anomalous material requires separation from the working population.
 
 ### 3.3 Relationship to the Deep Floors
 
@@ -153,8 +153,8 @@ personnel — feeding clinical findings back into the complex's understanding of
 
 ### 6.4 Security Division Liaison
 
-Security coordinates with F-6 on the handling of patients whose treatment involves anomalous influence, and on the
-floor's own access security.
+Security coordinates with F-6 on the handling of patients whose treatment
+involves anomalous influence, and on the floor's own access security.
 
 ### 6.5 Archive Division Liaison
 
@@ -270,9 +270,9 @@ The floor treats:
 
 ### 10.3 Evaluation Character
 
-The floor's artifact-influence evaluation serves the complex's operational doctrine: personnel who may have been
-influenced by contained material are evaluated in isolation, and the evaluation informs the complex's decisions about
-their duties and their access.
+The floor's artifact-influence evaluation serves the complex's operational doctrine:
+personnel who may have been influenced by contained material are evaluated in isolation,
+and the evaluation informs the complex's decisions about their duties and their access.
 
 ---
 
@@ -354,8 +354,8 @@ priorities include:
 
 F-6, Medical and Cognitive Care, is the floor where Redwood Veil treats the people
 who do its work: trauma ward,
-memetic treatment suites, cognitive recovery center, and isolation suites for those who have carried too much of what
-the complex contains.
+memetic treatment suites, cognitive recovery center, and isolation
+suites for those who have carried too much of what the complex contains.
 
 It is the complex's acknowledgment that containment has a human cost — and its
 commitment to paying that cost with

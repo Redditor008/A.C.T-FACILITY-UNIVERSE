@@ -11,7 +11,7 @@ Dossier Number: FLOOR-DOSSIER-SUB-01-US-W-F-2
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard / ACT Floor Record Standard
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Note
 
@@ -32,7 +32,7 @@ what it does, how it is built, how it is run, and how the
 relay's daily
 purpose is concentrated on a single buried level.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 1. Floor Registry Identity Summary
 
@@ -54,7 +54,7 @@ Access Posture: Controlled operational access
 Current Status: Active
 Doctrine Note: The level where most of the relay's work occurs
 
----
+═══════════════════════════════════════════════════════════════════════
 
 2. Dossier Purpose
 
@@ -69,7 +69,7 @@ temporary cells, and archive material is buffered for transfer to the
 parent site. The floor is the relay's working level — the place where the
 western apparatus's overflow is absorbed and redirected.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 3. Position in the Site Stack
 
@@ -92,7 +92,7 @@ Holding Vault below; material ready for transfer moves up through F-2 on
 its way out of the relay. F-2 is the floor that decides which material
 needs the vault and which is ready to move.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 4. Historical Foundation
 
@@ -116,7 +116,7 @@ In its modern configuration, F-2 is the relay's operational heart: witness
 processing, intake staging, temporary holding, and archive buffering
 concentrated on one level.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5. Command and Authority
 
@@ -141,7 +141,7 @@ emergency handling, and no authority to archive material permanently. Its
 role is processing and staging — the movement of material and people
 through the relay.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 6. Divisional Presence
 
@@ -169,7 +169,7 @@ Recovery support personnel coordinate with F-2 on intake staging: recovered
 material arriving from field operations is received, logged, and staged on
 the floor before moving to F-1 or onward.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 7. Physical Plant and Architecture
 
@@ -213,7 +213,7 @@ the relay until the scheduled batch transfer to the parent site's archive.
 Nothing of permanent value accumulates here — the buffer is a staging area,
 not a repository.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 8. Systems and Infrastructure
 
@@ -240,7 +240,7 @@ below, and the parent site's coordination. Documentation is exact, because
 the floor's population turns over constantly and its records must carry
 the history that personnel rotation cannot.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 9. Security and Containment Architecture
 
@@ -273,7 +273,7 @@ site immediately, under maximum procedural restriction, and any person
 whose processing exceeds the relay's capacity is moved to the parent site's
 facilities.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 10. Holdings and Filing Doctrine
 
@@ -298,7 +298,7 @@ The floor's temporary cells hold only low-threat material within the
 relay's holding window. High-threat anomalies are never staged on F-2
 beyond emergency transit handling under the parent site's authority.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 11. Personnel and Duty Life
 
@@ -323,7 +323,7 @@ process the overflow of a larger apparatus. Personnel on F-2 learn to move
 people and material through the relay without disruption and without
 delay.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 12. Floor Doctrine
 
@@ -346,7 +346,7 @@ F-2 doctrine holds that nothing on the floor is permanent: staged material,
 buffered documents, and temporary cell occupants are all in transit, and
 the floor's success is measured in material moved on.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 13. Incident Archive
 
@@ -356,7 +356,7 @@ issues. Material that exceeds the relay's capacity or its authority is
 recorded and transferred, and the floor's history is largely the history
 of successful redirection.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 14. Current Status and Projected Development
 
@@ -366,7 +366,7 @@ priorities include:
 - refinement of witness processing doctrine;
 - coordination with the parent site's archive on buffering schedules.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 15. Cross-Referenced Files
 
@@ -378,7 +378,7 @@ priorities include:
 - ACT_Site_Doctrine_and_Installation_Structure.md / .txt
 - Parent command Annex Register (clearance-gated)
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Closing
 

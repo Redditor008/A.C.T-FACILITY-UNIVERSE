@@ -281,10 +281,10 @@ repetitive. Current practice varies movement within credible surface logistics p
 
 DIVISION USE
 
-Research Division operates the visible scientific program. Station Administration maintains cover identity and surface
-command. Logistics and Engineering sustain transport, power, and maintenance. Security controls the transition
-architecture and surface boundary. Command uses SARCTCS to keep the buried station supplied without making supply
-itself a disclosure.
+Research Division operates the visible scientific program. Station Administration maintains
+cover identity and surface command. Logistics and Engineering sustain transport, power, and
+maintenance. Security controls the transition architecture and surface boundary. Command
+uses SARCTCS to keep the buried station supplied without making supply itself a disclosure.
 
 SARCTCS doctrine holds that a cover is strongest when it is also true, and
 the arctic is safest when the station lets

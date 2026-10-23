@@ -70,8 +70,8 @@ emergency self-containment, post-closure reentry control, and documentation of c
 F-1 closure developed from an early containment incident in which Redwood Veil learned that a threat on the deepest
 floor must never use the floor's infrastructure as an escape path. The details of
 that incident are not repeated in
-the floor dossier, but its consequence is visible in the site's operating language: every member of the site knows the
-phrase F-1 closure.
+the floor dossier, but its consequence is visible in the site's operating
+language: every member of the site knows the phrase F-1 closure.
 
 The Hanging Vault's architecture supports the doctrine. Resident vaults hang in independent structural shafts. Service
 routes pass around the vault gallery rather than across it. Monitoring feeds the floor

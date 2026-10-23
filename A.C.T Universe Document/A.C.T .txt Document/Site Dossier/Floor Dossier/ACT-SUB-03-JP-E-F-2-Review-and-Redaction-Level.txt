@@ -11,7 +11,7 @@ Dossier Number: FLOOR-DOSSIER-SUB-03-JP-E-F-2
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard / ACT Floor Record Standard
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Note
 
@@ -32,7 +32,7 @@ annex's controlled
 review protects the eastern archive from the material that must not be read
 freely.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 1. Floor Registry Identity Summary
 
@@ -54,7 +54,7 @@ Current Status: Active
 Doctrine Note: During active memetic contamination cycles, no solo
 review shifts are authorized
 
----
+═══════════════════════════════════════════════════════════════════════
 
 2. Dossier Purpose
 
@@ -70,7 +70,7 @@ release or transfer; and its review staging areas manage the flow of
 material through the annex. The floor is where the annex's buffering
 becomes judgment.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 3. Position in the Site Stack
 
@@ -94,7 +94,7 @@ descends to the Minor Memetic Quarantine Vault below. Material cleared by
 review moves up through F-2 toward redaction or transfer. F-2 is the floor
 that decides what each holding needs.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 4. Historical Foundation
 
@@ -119,7 +119,7 @@ In its modern configuration, F-2 is the annex's operational heart:
 controlled-reading cells, redaction workrooms, and review staging areas
 operating under the review discipline that defines the annex.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5. Command and Authority
 
@@ -144,7 +144,7 @@ beyond the redaction doctrine, and no authority to conduct review outside
 the annex's controlled conditions. Its role is review and redaction — the
 assessment of buffered material under the discipline the material demands.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 6. Divisional Presence
 
@@ -172,7 +172,7 @@ Security personnel guard the floor's access architecture and the
 controlled-reading cells, enforcing the protocols that govern reading on
 the floor.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 7. Physical Plant and Architecture
 
@@ -207,7 +207,7 @@ buffered holdings enter review, move between reading and redaction, and
 are staged for their documented disposition — return, transfer, or deeper
 archival handling.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 8. Systems and Infrastructure
 
@@ -234,7 +234,7 @@ quarantine floor below, and the parent node's coordination. Documentation
 is exact, because every disposition decision rests on the floor's review
 record.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 9. Security and Containment Architecture
 
@@ -266,7 +266,7 @@ prepared for transfer to the Kurokawa Archive Node under documented
 procedure; material that cannot be safely reviewed at all remains in
 quarantine on F-1 until the parent node assumes control.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 10. Holdings and Filing Doctrine
 
@@ -290,7 +290,7 @@ return to the parent node's ordinary processing where cleared, transfer to
 the parent node for deeper archival handling, or restricted release under
 the redaction doctrine.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 11. Personnel and Duty Life
 
@@ -317,7 +317,7 @@ disposition of material the eastern archive cannot process itself.
 Personnel on F-2 learn to read carefully, to judge exactly, and to never
 read alone when the material demands otherwise.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 12. Floor Doctrine
 
@@ -341,7 +341,7 @@ that does not require the parent node's full capacity is staged at the
 annex, under the parent's redaction doctrine, before transfer to final
 destination.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 13. Incident Archive
 
@@ -351,7 +351,7 @@ issues. Material that exceeds the annex's capacity moves to the parent node
 or to deeper archival handling, and the floor's history is largely the
 history of successful review.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 14. Current Status and Projected Development
 
@@ -361,7 +361,7 @@ priorities include:
 - maintenance of the controlled-reading cells and redaction infrastructure;
 - refinement of the annex's review discipline.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 15. Cross-Referenced Files
 
@@ -373,7 +373,7 @@ priorities include:
 - ACT_Site_Doctrine_and_Installation_Structure.md / .txt
 - Parent command Annex Register (clearance-gated)
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Closing
 

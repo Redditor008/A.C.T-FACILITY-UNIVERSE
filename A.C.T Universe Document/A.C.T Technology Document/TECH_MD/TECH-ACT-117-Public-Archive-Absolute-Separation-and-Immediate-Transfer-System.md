@@ -70,10 +70,10 @@ real scholarly contact. That legitimacy created exposure risk. The public floor 
 difference between a normal damaged record and an anomalous file may not be obvious
 at the first moment of contact.
 
-The absolute separation doctrine developed from that risk. F-8 would remain clean not because nothing suspicious ever
-reached it, but because nothing suspicious would be studied there. PAASITS formalizes the immediate-transfer
-architecture that lets the foundation remain a true public institution while routing danger downward before it teaches
-the public floor its rules.
+The absolute separation doctrine developed from that risk. F-8 would remain clean not because
+nothing suspicious ever reached it, but because nothing suspicious would be studied there.
+PAASITS formalizes the immediate-transfer architecture that lets the foundation remain a true
+public institution while routing danger downward before it teaches the public floor its rules.
 
 ---
 
@@ -247,9 +247,9 @@ suspicious item is secretly interesting. Current PAASITS doctrine requires publi
 archivists first: isolate, document, transfer, and continue ordinary service where safe.
 
 ### PAASITS-Digitization Halt Incident
-A suspect image nearly entered a public digitization workflow before transfer review. Current procedure gives
-digitization workers explicit halt authority and requires operational review before any uncertain capture is stored or
-indexed.
+A suspect image nearly entered a public digitization workflow before transfer
+review. Current procedure gives digitization workers explicit halt authority and
+requires operational review before any uncertain capture is stored or indexed.
 
 ### PAASITS-Explanation Mismatch Correction
 A boundary event produced conflicting public explanations from reading-room and preservation staff. Current PAASITS

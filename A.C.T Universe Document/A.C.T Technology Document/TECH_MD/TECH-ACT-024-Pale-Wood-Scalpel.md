@@ -74,11 +74,11 @@ Approved roles include:
 
 ## ORIGIN AND CUSTODY
 
-PWS originates from Harvested Pale Wood taken from Dark World material chains and shaped into surgical edges under
-A.C.T control. Pale Wood's resistance to ordinary damage made it valuable for containment and medicine, while its
-vulnerability to 24k gold allowed limited machining, shaping, and emergency neutralization. The scalpel program began
-after Medical Division required a tool that could cut anomalous tissue without bringing a full industrial cutting rig
-into a patient room.
+PWS originates from Harvested Pale Wood taken from Dark World material chains and shaped into
+surgical edges under A.C.T control. Pale Wood's resistance to ordinary damage made it valuable for
+containment and medicine, while its vulnerability to 24k gold allowed limited machining, shaping,
+and emergency neutralization. The scalpel program began after Medical Division required a tool that
+could cut anomalous tissue without bringing a full industrial cutting rig into a patient room.
 
 Custody belongs to Medical Division and Surgical Materials Custody. Engineering prepares blade blanks and verifies
 laser-tracking rail behavior. Biological Containment authorizes use on contained subjects. Recovery may request
@@ -196,10 +196,10 @@ during a rope-analog breach the target must already be pinned by Causal Anchor N
 or equivalent
 restraints, because an unpinned cut whips.
 
-Before use, Medical confirms authority, patient or subject file, cut purpose, sedation status, containment posture,
-gold emergency tool availability, and signature-tracking calibration. The operator does not begin until the laser rail
-confirms the approved path. Biological Containment remains attached when the target can move, graft, absorb, or
-reinterpret the cut.
+Before use, Medical confirms authority, patient or subject file, cut purpose, sedation status,
+containment posture, gold emergency tool availability, and signature-tracking calibration. The
+operator does not begin until the laser rail confirms the approved path. Biological
+Containment remains attached when the target can move, graft, absorb, or reinterpret the cut.
 
 During Hang Snake breach response, PWS may be used only if Causal Anchor Nails
 or other restraints have pinned enough
@@ -273,8 +273,8 @@ strips.
 ### PWS-2022 Hang Snake Drill
 A breach drill against rope analogs showed that a PWS cut without prior pinning
 caused the target line to whip around
-the operator's wrist. Current Hang Snake response requires Causal Anchor Nails or equivalent restraint before
-disarticulation attempt.
+the operator's wrist. Current Hang Snake response requires Causal
+Anchor Nails or equivalent restraint before disarticulation attempt.
 
 ---
 

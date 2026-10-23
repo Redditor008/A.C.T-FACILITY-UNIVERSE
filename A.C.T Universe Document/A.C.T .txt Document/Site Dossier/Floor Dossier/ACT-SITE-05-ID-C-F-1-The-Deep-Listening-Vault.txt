@@ -11,7 +11,7 @@ Dossier Number: FLOOR-DOSSIER-05-ID-C-F-1
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard / ACT Floor Record Standard
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Note
 
@@ -32,7 +32,7 @@ what it holds, how it is built, how it listens, and how the relay's
 deepest
 commitment is measured not in walls but in signals from below.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 1. Floor Registry Identity Summary
 
@@ -56,7 +56,7 @@ Current Status: Active
 Doctrine Note: Subject to the relay's "F-1 closure" doctrine — closing
 F-1 to the outside seals the level entirely
 
----
+═══════════════════════════════════════════════════════════════════════
 
 2. Dossier Purpose
 
@@ -74,7 +74,7 @@ maritime material too sensitive for the relay's upper levels. The floor is
 where the relay's mandate comes home: it listens to the deep, and it holds
 what the deep gives back.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 3. Position in the Site Stack
 
@@ -100,7 +100,7 @@ island's geological structure can be sensed directly, and its vault holds
 material whose connection to the deep makes it the relay's most sensitive
 responsibility.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 4. Historical Foundation
 
@@ -125,7 +125,7 @@ In its modern configuration, F-1 is the relay's deepest commitment: the
 sensor nexus where deep-earth monitoring converges, and the secure holding
 space for the material the deep has given the Facility.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5. Command and Authority
 
@@ -151,7 +151,7 @@ F-1 holds no authority to release abyss-linked records outside the
 restricted review chain, and no authority over the disposition of the
 deep-earth material it holds beyond custodial maintenance.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 6. Divisional Presence
 
@@ -177,7 +177,7 @@ the relay's most sensitive holdings.
 Security guards the floor's access architecture and enforces the protocols
 governing the floor's vault spaces.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 7. Physical Plant and Architecture
 
@@ -208,7 +208,7 @@ F-1 is built into the island's geological structure: its position within
 the foundation gives the sensor nexus its direct contact with the deep, and
 gives the vault the island itself as its outermost containment layer.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 8. Systems and Infrastructure
 
@@ -238,7 +238,7 @@ and with the restricted review chain that governs abyss-linked records.
 Communications discipline follows the sensitivity of the material and data
 the floor handles.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 9. Security and Containment Architecture
 
@@ -270,7 +270,7 @@ surrounding F-1 is monitored for intrusion, seismic anomaly, and
 structural change. The deep monitoring infrastructure below the floor is
 both the relay's sensor system and a monitored approach path.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 10. Holdings and Filing Doctrine
 
@@ -304,7 +304,7 @@ containment infrastructure rather than in the island's built levels. F-1's
 own vault holdings are registered in the Annex Register; personnel without
 specific assignment to those files do not require their names.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 11. Personnel and Duty Life
 
@@ -327,7 +327,7 @@ understanding that what they hear may be ordinary geology — or may be
 something the Facility's deepest doctrines are built around. The discipline
 is attentive, exact, and undisturbed by the weight of the question.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 12. Floor Doctrine
 
@@ -351,7 +351,7 @@ F-1 doctrine holds that the floor must be sealable: the vault is designed
 to close completely, and the relay drills the procedure so that closure,
 when it comes, is executed without hesitation.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 13. Incident Archive
 
@@ -360,7 +360,7 @@ events: sensor incidents, vault monitoring events, and access-verification
 incidents. The events that shaped the relay's abyss-linked review doctrine
 are preserved in the relay's restricted history files.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 14. Current Status and Projected Development
 
@@ -370,7 +370,7 @@ priorities include:
 - maintenance of the vault holdings under abyss-related review standards;
 - periodic re-verification of the closure procedure.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 15. Cross-Referenced Files
 
@@ -381,7 +381,7 @@ priorities include:
 - Nusantara Annex Register (clearance-gated)
 - Restricted review chain files (abyss-related; clearance-gated beyond site governance)
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Closing
 

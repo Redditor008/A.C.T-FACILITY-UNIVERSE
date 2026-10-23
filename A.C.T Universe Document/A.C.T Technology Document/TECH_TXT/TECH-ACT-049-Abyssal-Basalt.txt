@@ -257,23 +257,23 @@ FAULT ISOLATION
 
 KNOWN LIMITS
 
-Abyssal Basalt can be pierced or damaged by sufficiently anomalous weapons. AFS-312 focused-charge records show that a
-future-origin solar railgun can pierce a five-centimeter hole through it after a five-minute charge. The material is
-also not interchangeable with Abyssal Masonry or Abyssal Anchor Plating. Masonry is a composite construction material.
-Anchor plating is tungsten-reinforced shielding. Basalt is the raw heavy stone from which some heavy containment logic
-begins.
+Abyssal Basalt can be pierced or damaged by sufficiently anomalous weapons. AFS-312 focused-charge
+records show that a future-origin solar railgun can pierce a five-centimeter hole through it after
+a five-minute charge. The material is also not interchangeable with Abyssal Masonry or Abyssal
+Anchor Plating. Masonry is a composite construction material. Anchor plating is tungsten-reinforced
+shielding. Basalt is the raw heavy stone from which some heavy containment logic begins.
 
-Known failure modes include mass drift, edge glassing, compression bloom, floor-load miscalculation, silent cracking,
-code mismatch, installation inversion, and false confidence. The greatest danger is believing that a heavy thing
-cannot move.
+Known failure modes include mass drift, edge glassing, compression bloom, floor-load
+miscalculation, silent cracking, code mismatch, installation inversion, and false
+confidence. The greatest danger is believing that a heavy thing cannot move.
 
 FAILURE HISTORY
 
 AB-BAS-1995 Pallet Bowing Event
 A small block listed as portable was placed on a standard industrial pallet during
 archive transfer. The pallet bent
-without the block visibly shifting. Lift standards were revised to classify all Abyssal Basalt as heavy material
-regardless of apparent size.
+without the block visibly shifting. Lift standards were revised to
+classify all Abyssal Basalt as heavy material regardless of apparent size.
 
 AB-BAS-2021 Railgun Penetration Benchmark
 AFS-312 testing confirmed that a one-hundred percent focused charge could pierce five centimeters of Abyssal Basalt at

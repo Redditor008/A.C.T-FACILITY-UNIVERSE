@@ -48,9 +48,9 @@ universal rescue. It is not classed
 Neutral because practical cooperation exists. It is not classed Negative because the primary observed outcome is life
 preservation and structural stabilization, even when the group obstructs A.C.T access.
 
-Several city contracts, shelter addresses, and inhabited floor plans are censored under **OCCUPIED-SHELTER DISCLOSURE
-LIMIT**. Disclosure could turn protected spaces into target lists for hostile GOIs or cause civilian trespass into
-incomplete threshold work.
+Several city contracts, shelter addresses, and inhabited floor plans are censored under
+**OCCUPIED-SHELTER DISCLOSURE LIMIT**. Disclosure could turn protected spaces into
+target lists for hostile GOIs or cause civilian trespass into incomplete threshold work.
 
 ---
 
@@ -118,17 +118,14 @@ Door Ledger offices.
 
 A.C.T identifies several recurring layers:
 
- threshold architects who design doors, stairwells, and exits able to remain coherent during abnormal
- spatial stress;
+ threshold architects who design doors, stairwells, and exits able to remain coherent during abnormal spatial stress;
  stone crews who place cairn markers, anchor blocks, wall bones, and sealed corner
  weights;
 — shelter wardens who manage inhabited protected spaces and refuse unsafe entry;
- municipal contract handlers who acquire legal access to roads, schools, tunnels, hospitals, and housing
- blocks;
+ municipal contract handlers who acquire legal access to roads, schools, tunnels, hospitals, and housing blocks;
  emergency-key offices that issue keys, knock patterns, or route phrases for one incident only;
 — blueprint keepers who maintain paper plans that disagree with public records;
- old-work depots that store salvaged doors, hinges, lintels, stair railings, and bricks from prior
- anomaly sites;
+ old-work depots that store salvaged doors, hinges, lintels, stair railings, and bricks from prior anomaly sites;
  red-line reviewers who decide when a building must be closed, abandoned, hidden, or
  allowed
  to keep sheltering
@@ -346,9 +343,9 @@ use, hospital route stabilization, emergency corridor verification, and civilian
 builder plates, contract names, censored municipal permits, unusual repair schedules, old-work depots, door marks,
 shelter keys, and floor plans that disagree with civic records.
 
-Appropriation is limited to components or plans no longer protecting civilians. A.C.T may not remove an active lintel,
-cairn stone, shelter key, or threshold map until Recovery and Civil Covert review confirms that no current residents
-depend on it.
+Appropriation is limited to components or plans no longer protecting civilians. A.C.T
+may not remove an active lintel, cairn stone, shelter key, or threshold map until
+Recovery and Civil Covert review confirms that no current residents depend on it.
 
 ### Response Limits and Red Lines
 
@@ -357,9 +354,9 @@ subjects inside civilian shelters, obstruct medical evacuation, or conceal struc
 residents. A.C.T will not allow the group to sell protected rooms to private clients
 while public shelters fail.
 
-A.C.T will also not destroy protected architecture solely because it creates paperwork conflict. If a Cairn & Lintel
-structure is keeping civilians alive, preserving access takes priority over clean seizure unless a higher hazard is
-confirmed.
+A.C.T will also not destroy protected architecture solely because it creates paperwork
+conflict. If a Cairn & Lintel structure is keeping civilians alive, preserving access
+takes priority over clean seizure unless a higher hazard is confirmed.
 
 ---
 
@@ -420,8 +417,7 @@ this view as general policy but allows case-by-case Subject Care review.
  Cairn & Lintel is an outside corporate infrastructure network and not an A.C.T
  engineering
  program.
- The group has repeatedly produced or maintained structures that assisted evacuation, shelter, or route
- stability
+ The group has repeatedly produced or maintained structures that assisted evacuation, shelter, or route stability
  during abnormal incidents.
 — Its marks, contracts, and route instructions appear across separate jurisdictions.
 — The group possesses engineering knowledge sufficient to build localized anomalous structural protections.
@@ -440,10 +436,8 @@ belief can save lives and still obstruct A.C.T command.
 
 ### Persistent Questions
 
- Who controls the central old-work depots, and how many contain materials recovered from prior
- anomaly sites?
- Can Cairn & Lintel predict which neighborhoods will require protected architecture, or does it
- respond to signs
+ Who controls the central old-work depots, and how many contain materials recovered from prior anomaly sites?
+ Can Cairn & Lintel predict which neighborhoods will require protected architecture, or does it respond to signs
  already present in the built environment?
 — Why do some lintels taken from demolished buildings retain route memory after relocation?
  Has the group ever built a shelter that refused entry to A.C.T personnel
@@ -481,8 +475,8 @@ access-and-egress records. The organization record must not be used as a substit
 - Site Map and Jurisdiction Doctrine, Archive Record
 - Site Doctrine, Site Classification, and Installation Structure, Archive Record
 - Normalcy Management and Public Narrative Doctrine, Archive Record
- Restricted building, shelter, tunnel, hospital, school, and evacuation-route case chains held under Central Archive
- routing.
+ Restricted building, shelter, tunnel, hospital, school, and
+ evacuation-route case chains held under Central Archive routing.
 
 ### Dual Filing
 

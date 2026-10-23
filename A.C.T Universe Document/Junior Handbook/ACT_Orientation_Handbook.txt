@@ -10,7 +10,7 @@ DISTRIBUTION: Junior Employees / Level 1-2 Personnel
 AUTHORITY: Administrative Division / O5 Council
 STATUS: Active Educational Standard
 
----
+═══════════════════════════════════════════════════════════════════════
 
 CHAPTER 1: THE FOUNDATION
 THE GUARDIANS OF THE FRAGILE WORLD
@@ -55,7 +55,7 @@ maintain this silence to rule the world, but to protect it. We choose to
 live in the dark so that the billions of
 people above can live in the light.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 CHAPTER 2: THE FIRST TWO PILLARS
 ANOMALY AND CONTAINMENT
@@ -67,8 +67,8 @@ use the term Anomaly.
 
 An Anomaly is a Broken Sentence in the law of the universe. It is
 a thing that should not be, yet it is. Whether it is
-an indestructible lizard (AFD-SU-012) or a door to another world (AFD-PL-932), every anomaly represents a "System
-Error" of reality.
+an indestructible lizard (AFD-SU-012) or a door to another world
+(AFD-PL-932), every anomaly represents a "System Error" of reality.
 
 As a researcher or technician, you must never view an anomaly as an "Enemy."
 Many anomalies are survivors of the very
@@ -79,8 +79,8 @@ reality to hold.
 
 2. CONTAINMENT: THE ACT OF RESPECT
 
-The second pillar of our name is Containment. Junior staff often mistake containment for "imprisonment." This is
-incorrect.
+The second pillar of our name is Containment. Junior staff often
+mistake containment for "imprisonment." This is incorrect.
 
 Containment is the Maintenance of Balance.
 
@@ -88,8 +88,8 @@ While we use advanced technology like the RSA (Reality Stabilization Anchor) and
 layer of containment is Manners. As Senior Researcher Thorne (SR-412) often says, *"Manners are the only Anti Reality
 Mesh that doesn't require a power supply."*
 
-*   Physical Containment: Using "Boxes" (Small, Medium, Massive) to physically isolate an object.
-* Perceptual Containment: Using the ARM (Anti Reality Mesh) to hide our Sites from
+- Physical Containment: Using "Boxes" (Small, Medium, Massive) to physically isolate an object.
+- Perceptual Containment: Using the ARM (Anti Reality Mesh) to hide our Sites from
 the world.
 - Social Containment: Using "Politeness Protocols" to ensure that sentient subjects feel like guests
 rather than
@@ -112,7 +112,7 @@ MANDATORY ORIENTATION PHRASE:
                       and we build the home so
                       the anomaly can be at peace."
 
----
+═══════════════════════════════════════════════════════════════════════
 
 CHAPTER 3: THE BODY OF THE FACILITY
 STRUCTURE, COMMAND, AND THE ARCHITECTURE OF ORDER
@@ -247,7 +247,7 @@ MANDATORY ORIENTATION PHRASE:
                       so reality moves as
                       it should."
 
----
+═══════════════════════════════════════════════════════════════════════
 
 CHAPTER 4: THE GLOBAL LATTICE
 SITES, JURISDICTION, AND THE ARCHITECTURE OF THE MAP
@@ -356,7 +356,7 @@ MANDATORY ORIENTATION PHRASE:
                       duty, and my duty is
                       the world's stability."
 
----
+═══════════════════════════════════════════════════════════════════════
 
 CHAPTER 5: THE THIRD PILLAR
 TRANSFORMATION, HARMONIZATION, AND THE NEUTRAL GOOD
@@ -383,7 +383,7 @@ In your orientation, you may have heard senior staff use the term "Neutral Good.
 This is the philosophical engine of
 the Transformation Division.
 
-* Why it is NEUTRAL: We must remain clinical. We do not transform out
+- Why it is NEUTRAL: We must remain clinical. We do not transform out
 of emotion. We do not "pity" the anomaly, nor
 do we "hate" it. We treat every subject as a set of variables that
 must be balanced. If we allow our feelings to
@@ -406,20 +406,20 @@ care sits somewhere on this scale.
 I. STABILIZATION (CALMING THE STORM)
 The first step is moving a subject from an "Agitated" state to a "Content"
 state.
-— *Example:* We provided Anny (AFD-SU-005) with books. This wasn't just to be "nice."
+— Example: We provided Anny (AFD-SU-005) with books. This wasn't just to be "nice."
 By allowing her to mimic
 19th-century literature, we "fixed" her linguistic glitches and stabilized her sense of self. She stopped being an
 error and started being a person.
 
 II. REPURPOSING (FINDING A ROLE)
 Once stable, we ask: "Can this anomaly help us maintain the world?"
-— *Example:* The Infinite Water Jug (AFD-OB-492). It was once a religious artifact in
+— Example: The Infinite Water Jug (AFD-OB-492). It was once a religious artifact in
 a tomb. Now, it provides
 clean, microplastic-free water for the O5 Council. We didn't change its nature; we changed its job.
 
 III. INTEGRATION (BECOMING THE MACHINE)
 The final stage is when the anomaly becomes part of our very existence.
-— *Example:* 004-Series Amnestics. We don't even think of them as anomalies anymore. They are "Integrated Assets."
+— Example: 004-Series Amnestics. We don't even think of them as anomalies anymore. They are "Integrated Assets."
 They are the tools we use to maintain the "First Lie." We have successfully
 "harvested" a reality-break and turned it
 into a pillar of our foundation.
@@ -452,7 +452,7 @@ the dam will burst.
 Transformation is a burden. It is the realization that we are no longer "Normal"
 ourselves. We are a Facility that
 runs on the blood of anomalies and speaks in the tongue of ghosts. We
-have transformed *ourselves* just to keep the
+have transformed ourselves just to keep the
 world above ignorant of the dark.
 
 6. SUMMARY FOR JUNIOR STAFF
@@ -470,7 +470,7 @@ MANDATORY ORIENTATION PHRASE:
                       light never has to see
                       the dark."
 
----
+═══════════════════════════════════════════════════════════════════════
 
 CHAPTER 6: THE ARCHITECTURE OF REALITY
 REALITY DOCTRINE, ANOMALY LOGIC, AND THE COSMIC TIMER
@@ -530,19 +530,19 @@ reality-break with another.
 
 I. FIELD TYPE CODES (WHAT IS IT?)
 We categorize anomalies by the law they break:
-*   OB (Object): Items, tools, or materials.
-*   SU (Subject): Living, sentient, or moving entities.
-*   PL (Place): Locations or structures.
-*   TI (Time): Loops, slips, or chronological distortions.
-*   SP (Space): Folded rooms, rifts, or non-Euclidean geometry.
-*   ME (Memetic): Ideas, symbols, or cognitive triggers.
-*   IH (Info-Hazard): Knowledge that is dangerous to possess.
-*   CH (Cosmic Hazard): Forces or beings from beyond Earth-Standard reality.
-*   NB (Non-Natural Bio-Hazard): Organisms that defy biological law.
+- OB (Object): Items, tools, or materials.
+- SU (Subject): Living, sentient, or moving entities.
+- PL (Place): Locations or structures.
+- TI (Time): Loops, slips, or chronological distortions.
+- SP (Space): Folded rooms, rifts, or non-Euclidean geometry.
+- ME (Memetic): Ideas, symbols, or cognitive triggers.
+- IH (Info-Hazard): Knowledge that is dangerous to possess.
+- CH (Cosmic Hazard): Forces or beings from beyond Earth-Standard reality.
+- NB (Non-Natural Bio-Hazard): Organisms that defy biological law.
 
 II. THE FRACTURE INDEX (HOW IS IT BROKEN?)
-Sometimes, standard classification fails. We use the Fracture Index to describe anomalies that break our own
-documentation logic.
+Sometimes, standard classification fails. We use the Fracture Index
+to describe anomalies that break our own documentation logic.
 — ABSURD: The anomaly shouldn't fit in the box, but somehow it does.
 — UNAUTHORED: The anomaly rewrites its own file or changes its name when we
 aren't looking.
@@ -580,5 +580,5 @@ MANDATORY ORIENTATION PHRASE:
                       does not have to
                       stop."
 
----
+═══════════════════════════════════════════════════════════════════════
 END OF HANDBOOK (VOL 1.0)

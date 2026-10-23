@@ -21,19 +21,19 @@
 | AUTHORITY | Medical Division, Biological Containment Division, and Central Archive |
 
 #### Archive Note
-Synthetic Sanguine-Fuel is the twenty-second main A.C.T technology expanded into an individual record. The Master
-Catalog defines SSF as a bio-engineered mammalian blood substitute that sustains blood-fuel requirements for
-mechanical and biological NB-class entities. The technological timeline records 2004 as the year SSF was perfected and
-standardized for all mechanical subjects requiring mammalian biological input. The visual reference guide describes a
-deep red viscous liquid stored in industrial-grade blue canisters, fitted with a friction-less magnetic pump, a
-digital O2-saturation monitor in the dispensing valve, and an internal thermal coil maintaining the canister at 37
-degrees C.
+Synthetic Sanguine-Fuel is the twenty-second main A.C.T technology expanded into an individual record.
+The Master Catalog defines SSF as a bio-engineered mammalian blood substitute that sustains blood-fuel
+requirements for mechanical and biological NB-class entities. The technological timeline records 2004
+as the year SSF was perfected and standardized for all mechanical subjects requiring mammalian
+biological input. The visual reference guide describes a deep red viscous liquid stored in
+industrial-grade blue canisters, fitted with a friction-less magnetic pump, a digital O2-saturation
+monitor in the dispensing valve, and an internal thermal coil maintaining the canister at 37 degrees C.
 
 SSF exists because A.C.T containment cannot depend on live feeding when a subject's biology demands blood-like fuel.
 It is not a kindness substitute alone, though it often reduces harm. It is
 also a normalcy, logistics, and safety
-technology that keeps dangerous beings from learning that staff, prisoners, witnesses, or civilians are easier to
-obtain than supply canisters.
+technology that keeps dangerous beings from learning that staff, prisoners,
+witnesses, or civilians are easier to obtain than supply canisters.
 
 Controlled label: **SSF FORMULA AND SUBJECT-MIX LIMIT**.
 
@@ -80,8 +80,8 @@ approval and adverse response review. Biological Containment controls feeding sc
 Logistics moves canisters under temperature chain. Engineering maintains pumps, thermal coils, and saturation
 monitors. Transformation Division reviews cases where SSF might slow or reverse transmutation-linked decay.
 
-Formula details remain restricted because hostile groups could use SSF to bait, sustain, or weaponize blood-fuel
-dependent entities.
+Formula details remain restricted because hostile groups could use
+SSF to bait, sustain, or weaponize blood-fuel dependent entities.
 
 ---
 
@@ -182,8 +182,7 @@ Contained feeding, Medical authority with Biological Containment.
 
 Step-down: the line is discarded or subject-coded before the next feeding and never reused.
 Emergency: a
-refusal after a stable history goes to Medical for contamination and mixture review rather than to live
-feed.
+refusal after a stable history goes to Medical for contamination and mixture review rather than to live feed.
 
 Before feeding, staff confirm subject file, mixture band, temperature, oxygen saturation, canister seal, pump
 response, and disposal plan. Feeding must occur through approved lines, trays, or automated systems. Manual pouring is
@@ -230,10 +229,10 @@ only at issue.
 
 ## KNOWN LIMITS
 
-SSF cannot satisfy entities that require a named victim, fresh fear, living heartbeat, soul proximity, pain,
-confession, sacrifice, or criminal history. It may fail if overheated, chilled, contaminated, over-oxygenated,
-under-oxygenated, or delivered through a line carrying previous subject scent. It can also create dependence if used
-as a universal calming tool.
+SSF cannot satisfy entities that require a named victim, fresh fear, living heartbeat, soul
+proximity, pain, confession, sacrifice, or criminal history. It may fail if overheated,
+chilled, contaminated, over-oxygenated, under-oxygenated, or delivered through a line carrying
+previous subject scent. It can also create dependence if used as a universal calming tool.
 
 Known failure modes include clotting, pump lock, false O2 reading, thermal coil drift, subject rejection, hunger
 escalation, microbial bloom, scent contamination, and staff overconfidence around fed predators.
@@ -252,9 +251,9 @@ A feeding line retained trace odor from a previous subject. The receiving organi
 follow the line path after feeding. Backflow locks and disposable subject-coded line tips became mandatory.
 
 ### SSF-2020 Overfeeding Calm
-A containment team increased SSF frequency to keep a mechanical subject docile during repairs. The subject later
-refused normal cadence and struck only when canisters were visible. Medical classified the incident as hunger training
-by staff error.
+A containment team increased SSF frequency to keep a mechanical subject docile during
+repairs. The subject later refused normal cadence and struck only when canisters were
+visible. Medical classified the incident as hunger training by staff error.
 
 ---
 

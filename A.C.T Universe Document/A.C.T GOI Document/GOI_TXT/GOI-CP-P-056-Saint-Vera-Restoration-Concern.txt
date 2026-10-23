@@ -1,7 +1,7 @@
 A.C.T FACILITY ARCHIVE FILE — GOI CP P 056 Saint Vera Restoration Concern
 ===========================
 GROUP OF INTEREST REGISTRY - SAINT-VERA RESTORATION CONCERN
------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                                                         |
@@ -90,13 +90,13 @@ Patient names, mobile clinic routes, and restoration failures are censored under
 Several omissions are not for A.C.T reputation control. They protect survivors from becoming research targets, public
 curiosities, or bargaining assets between containment authorities.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 IDENTITY AND INSTITUTIONAL FUNCTION
------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Group Function
---------------
+═══════════════════════════════════════════════════════════════════════
 
 Saint-Vera Restoration Concern functions as an outside post-anomaly medical restoration institution. Its repeated
 activity is the treatment, stabilization, reconstruction, prosthetic support, and long-term aftercare of people whose
@@ -104,11 +104,11 @@ bodies or senses have been damaged by anomalous contact. The Concern operates in
 space between hospital care,
 subject care, field triage, transformation review, and civilian reintegration.
 
-Known service categories include limb reconstruction after predatory-space incidents, voice restoration after memetic
-speech loss, ocular replacement after sight-feeding anomalies, skin stabilization after symbol-burn exposure, nerve
-rerouting after nonstandard electric contact, sensory filtering after impossible sound injury, prosthetics that
-remember missing movement, and care plans for people whose altered bodies cannot be fully returned to pre-incident
-condition.
+Known service categories include limb reconstruction after predatory-space incidents, voice
+restoration after memetic speech loss, ocular replacement after sight-feeding anomalies, skin
+stabilization after symbol-burn exposure, nerve rerouting after nonstandard electric contact,
+sensory filtering after impossible sound injury, prosthetics that remember missing movement, and
+care plans for people whose altered bodies cannot be fully returned to pre-incident condition.
 
 A.C.T tracks Saint-Vera because the group answers a question official containment often delays: after survival, what
 kind of life is still available? A.C.T can classify an injury, isolate a subject,
@@ -116,13 +116,13 @@ issue amnestics, or open
 Transformation review. Saint-Vera treats the survivor first and argues about classification later.
 
 Public Presence and Concealment
--------------------------------
+═══════════════════════════════════════════════════════════════════════
 
-Saint-Vera appears publicly through restoration clinics, charitable surgery funds, mobile prosthetic vans,
-trauma-recovery wards, discreet rehabilitation houses, religious medical foundations, refugee health partnerships,
-anonymous hospital grants, and private surgical consultancies. Some front clinics are legally registered and perform
-ordinary reconstructive work. Others appear only after abnormal mass-casualty events and close before civil licensing
-bodies can inspect them.
+Saint-Vera appears publicly through restoration clinics, charitable surgery funds, mobile prosthetic
+vans, trauma-recovery wards, discreet rehabilitation houses, religious medical foundations, refugee
+health partnerships, anonymous hospital grants, and private surgical consultancies. Some front
+clinics are legally registered and perform ordinary reconstructive work. Others appear only after
+abnormal mass-casualty events and close before civil licensing bodies can inspect them.
 
 Public branding uses white thread, pale green glass, a three-drop mark, and the phrase
 restore what can be restored;
@@ -134,13 +134,13 @@ YOU ARE NOT EVIDENCE FIRST.
 This phrase appears in multiple languages and is the clearest reason Subject Care Division treats the Concern as a
 moral pressure on A.C.T procedure.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-----------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Leadership Condition
---------------------
+═══════════════════════════════════════════════════════════════════════
 
 No founder is confirmed. Recovered documents refer to the Vera Board, the Glass Theatre, the Green Thread Directorate,
 the Office of Gentle Refusal, and a surgical authority called First Restorer. A.C.T has
@@ -154,7 +154,7 @@ least two were conventional physicians before joining Saint-Vera. One is an alte
 reconstructed after [CENSOR: SITE-TRANSFER INCIDENT]. No confirmed leader has accepted direct A.C.T interview.
 
 Internal Structure
-------------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T assessment identifies these functional layers:
 
@@ -176,15 +176,15 @@ charitable medical network with
 doctrine, professional roles, routes, records, funding, and repeated behavior.
 
 Membership and Recruitment
---------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Membership includes surgeons, nurses, prosthetic makers, trauma counselors, medical drivers, clerks, material
 handlers, legal advocates, donors, and patient escorts. Some staff appear to be ordinary medical professionals hired
 into specialized humanitarian work. Others know the anomalous source of the procedures and use vocabulary that does
 not match conventional medicine.
 
-Recruitment appears strongest among clinicians who have seen official systems fail altered survivors. One recovered
-offer letter states:
+Recruitment appears strongest among clinicians who have seen official
+systems fail altered survivors. One recovered offer letter states:
 
 Applicants must know the difference between saving a life and returning a body to
 a shape acceptable to frightened
@@ -193,13 +193,13 @@ administrators.
 A.C.T has not confirmed whether Saint-Vera recruits from former A.C.T personnel. No evidence currently supports
 classifying the Concern as a defector network.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
--------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Stated Belief
--------------
+═══════════════════════════════════════════════════════════════════════
 
 The most repeated internal doctrine line reads:
 
@@ -217,7 +217,7 @@ thresholds, locked wards, and transfer protocols. Its objection is to reducing e
 the survivor is asked what they remember, want, fear, or can still do.
 
 Assessed Objective
-------------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T assesses that Saint-Vera seeks to build a parallel care route for anomaly survivors who might otherwise
 disappear into containment, institutional fear, family rejection, or medical impossibility. Its objective is not open
@@ -230,7 +230,7 @@ capacity. This creates long-term risk. A positive group with a growing archive o
 memory-sensitive consent forms, and surgical failure data can become a power even without hostile intent.
 
 Anomalous Capability Assessment
--------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Saint-Vera is assigned Engineering capability because it repeatedly produces restoration outcomes through tools,
 procedures, and materials not explainable by ordinary medicine. Confirmed or strongly assessed capabilities include:
@@ -245,12 +245,12 @@ exposure;
 - memory-sensitive consent forms that reveal coercion, sedation gaps, or false agreement;
 - recovery beds that reduce panic without functioning as standard amnestics.
 
-The Concern is not assessed as capable of broad resurrection. Claims that Saint-Vera can restore the dead are treated
-as rumor unless a case file confirms biological death, identity continuity, and post-procedure condition under A.C.T
-observation.
+The Concern is not assessed as capable of broad resurrection. Claims that Saint-Vera
+can restore the dead are treated as rumor unless a case file confirms biological
+death, identity continuity, and post-procedure condition under A.C.T observation.
 
 Secrecy and Civilian Exposure
------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Saint-Vera is Leaking because its patients return to civilian life changed, repaired, or partially restored. A person
 with a living prosthetic, impossible scar, replacement voice, or nonstandard organ support can expose anomaly reality
@@ -261,13 +261,13 @@ This leakage often occurs through compassion. Families want explanations. Surviv
 them. Doctors outside the network notice impossible recovery. A.C.T field teams must treat Saint-Vera cases as both
 medical evidence and living people with aftercare needs.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
---------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Operational Regions
--------------------
+═══════════════════════════════════════════════════════════════════════
 
 Saint-Vera operates through transnational post-incident care routes. Confirmed or strongly assessed appearances
 include disaster shelters, refugee corridors, pediatric and adult trauma wards, private rehabilitation houses,
@@ -281,7 +281,7 @@ hospitals, insurance records, and public concealment are active. Central review 
 transformation, or patient disappearance from civic systems appears.
 
 Known Assets and Holdings
--------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Known or assessed assets include:
 
@@ -304,7 +304,7 @@ manual. Medical Division warns
 that copying Saint-Vera technique from fragments could permanently worsen survivor condition.
 
 Operating Method
-----------------
+═══════════════════════════════════════════════════════════════════════
 
 A typical Saint-Vera intervention begins after a person survives injury that conventional medicine cannot stabilize or
 explain. A clinic, ambulance, nurse, patient advocate, or anonymous funding offer appears. The patient is moved,
@@ -324,13 +324,13 @@ A.C.T CONTACT DELAYED FOR MEDICAL REASON.
 These labels are clinically useful and politically provocative. They imply that some containment systems make
 decisions before the survivor is stable enough to answer.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 HISTORY WITH A.C.T
-------------------
+═══════════════════════════════════════════════════════════════════════
 
 Contact History
----------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T's consolidated contact history began after Medical Division found repeated restoration signatures in unrelated
 survivor cases. Patients from separate incidents displayed similar green-thread scar closures, identical consent-card
@@ -348,7 +348,7 @@ Medical Division confirmed that the intervention prevented airway failure. Intel
 ambulance route had been altered by unauthorized personnel. Both findings remain true.
 
 Current Relationship
---------------------
+═══════════════════════════════════════════════════════════════════════
 
 The current relationship is POSITIVE. Saint-Vera saves survivors, reduces suffering, and preserves patient dignity in
 cases where fear of anomaly status can lead to abandonment or excessive restriction. A.C.T may cooperate with the
@@ -358,13 +358,13 @@ The relationship is not Work because no stable operating agreement exists and th
 before intervention. It is not Neutral because the group actively intervenes to protect patients. It is not Negative
 because the primary observed pattern is care rather than exploitation, even when its methods obstruct custody.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
----------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Responsible Jurisdiction
-------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Primary jurisdiction rests with Medical Division and Subject Care Division, with Intelligence Division monitoring
 corporate structure, funding, and patient movement. Recovery Division attaches when a Saint-Vera route removes a
@@ -377,7 +377,7 @@ survivors whose relationship to A.C.T duty, memory, body status, or public ident
 Saint-Vera file may redefine E-Class as exposure classification.
 
 Posture Implementation
-----------------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T posture is COOPERATED / MONITOR / HELP / APPROPRIATE. Cooperation is authorized for patient stabilization,
 restorative consultation, prosthetic safety review, and aftercare planning when the Concern agrees to verified
@@ -389,7 +389,7 @@ Appropriation is limited to tools, material samples, or records not required for
 seize a life-sustaining prosthetic or stabilizer for research convenience.
 
 Response Limits and Red Lines
------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T will not permit Saint-Vera to hide contagious transformation, prevent emergency quarantine, falsify consent,
 experiment without patient understanding, sell restored patients to private backers, or obstruct necessary containment
@@ -400,13 +400,13 @@ alive because of outside care, the
 care must be evaluated before seizure. Medical stabilization, consent preservation, and Subject Care review are
 mandatory unless an immediate lethal hazard overrides them.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 OPERATIONAL RECORDS
--------------------
+═══════════════════════════════════════════════════════════════════════
 
 Restricted Operational Extract
-------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 PATIENT TRANSFER CARD: SVRC / GREEN THREAD ROUTE
 PATIENT: [CENSOR: SURVIVOR NAME]
@@ -440,13 +440,13 @@ Do not call this mercy.
 The failure label is retained because it proves that Saint-Vera refuses some procedures and possesses a
 consent-screening method not yet understood by A.C.T.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
--------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Confirmed Operational Facts
----------------------------
+═══════════════════════════════════════════════════════════════════════
 
 - Saint-Vera Restoration Concern is an outside corporate medical network and not an A.C.T
 medical division.
@@ -459,7 +459,7 @@ failure records.
 deterioration.
 
 Active Intelligence Assessment
-------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T assesses Saint-Vera as a specialized positive corporate GOI. Its strongest value is survivor restoration after
 anomaly harm. Its strongest danger is independent medical authority over bodies A.C.T may classify as hazardous,
@@ -471,7 +471,7 @@ with corporate shells, routes, doctrine, technology, patient ledgers, and refusa
 to distinguish containment from care, custody from protection, and restoration from forced normalization.
 
 Persistent Questions
---------------------
+═══════════════════════════════════════════════════════════════════════
 
 - Who or what is First Restorer?
 - What is the source of green-thread stabilizer and glass theatre lighting?
@@ -486,20 +486,20 @@ communities?
 - How many Saint-Vera patients later enter Excommunicated Class review?
 
 Intelligence Confidence
------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Moderate. Patient outcomes, repeated labels, restoration signatures, and mobile clinic patterns confirm organizational
 continuity and anomalous medical capability. Leadership, material source, total patient count, and long-term procedure
 cost remain unresolved. Confidence may rise if A.C.T secures a full cold ledger, conducts a monitored joint surgery,
 or interviews a verified member of the Green Thread Directorate.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 CROSS-REFERENCE STATUS
-----------------------
+═══════════════════════════════════════════════════════════════════════
 
 Anomaly and Record Relationship
--------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Saint-Vera Restoration Concern is an organization and therefore belongs in the GOI archive. Individual tools,
 prosthetics, restored organs, surgical theaters, consent forms, or patient conditions may require separate anomaly,
@@ -507,7 +507,7 @@ medical, transformation, incident, or E-Class review records. The organization r
 Patient files must not reduce the organization to a single procedure.
 
 Related A.C.T Records
----------------------
+═══════════════════════════════════════════════════════════════════════
 
 - CONTROLLED RECORD FORM, Group of Interest Registry
 - GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE, Group of Interest Registry
@@ -520,17 +520,17 @@ Forms/ACT_Amnestic_Administration_and_Memory_Aftercare_Review_Form.md
 Central Archive routing.
 
 Dual Filing
------------
+═══════════════════════════════════════════════════════════════════════
 
 Under review. Saint-Vera is a corporate GOI, but specific medical objects or patient conditions may require dual
 filing. Dual filing is mandatory for any prosthetic, organ support, surgical tool, consent form, or restoration
 theater that acts independently, reproduces, alters memory, changes identity continuity, or remains active after
 separation from Saint-Vera personnel.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 FILE METADATA
--------------
+═══════════════════════════════════════════════════════════════════════
 
 FILE CREATED:            05/08/1903
 FILE LAST UPDATED:       13/01/1913

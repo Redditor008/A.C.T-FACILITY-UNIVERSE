@@ -88,9 +88,9 @@ what the open cannot hold, while the sectors hold what the floor need not.
 
 ### 4.1 Development of Interior Capacity
 
-F-1's character developed as the reserve's doctrine matured: the recognition that open-air containment, however
-effective for the reserve's typical residents, required a built complement for material that could not be exposed to
-the wilderness environment.
+F-1's character developed as the reserve's doctrine matured: the recognition that
+open-air containment, however effective for the reserve's typical residents, required a
+built complement for material that could not be exposed to the wilderness environment.
 
 ### 4.2 The Cultivation Mandate
 
@@ -142,8 +142,8 @@ replace the conditions that open containment would provide.
 
 ### 6.3 Security Division
 
-Security guards the floor's access architecture and enforces the restriction sets that govern the floor's vault
-spaces.
+Security guards the floor's access architecture and enforces
+the restriction sets that govern the floor's vault spaces.
 
 ### 6.4 Medical Division Liaison
 
@@ -265,8 +265,8 @@ assignment to those files do not require their names.
 
 ### 11.1 Rotation
 
-F-1 personnel serve on tightly controlled rotations drawn from the Research and Environmental Containment Divisions'
-most experienced staff.
+F-1 personnel serve on tightly controlled rotations drawn from the
+Research and Environmental Containment Divisions' most experienced staff.
 
 ### 11.2 Duty Life
 

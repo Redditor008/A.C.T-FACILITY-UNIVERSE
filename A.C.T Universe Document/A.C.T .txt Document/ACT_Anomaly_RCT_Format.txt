@@ -1,7 +1,7 @@
 A.C.T FACILITY — ANOMALY FILE FORMAT
 Research / Containment / Transformation Focus
 
----
+═══════════════════════════════════════════════════════════════════════
 
 
 ═══════════════════════════════════════════════════════════════════════
@@ -310,7 +310,7 @@ DESIGNATION HISTORY:     [UFD-XX-### → AFD-XX-### — DD/MM/YYYY]
 ═══════════════════════════════════════════════════════════════════════
 
 
----
+═══════════════════════════════════════════════════════════════════════
 
 FILE SAVING CONVENTION
 
@@ -335,7 +335,7 @@ Example:
 - I-AM-A-Test-AFD-OB-001, Archive Record
 - I AM A Test AFD OB 001, Archive Record
 
----
+═══════════════════════════════════════════════════════════════════════
 
 SITE INTEGRATION NOTE
 
@@ -343,7 +343,7 @@ RCT-format anomaly records should include the installation body responsible for 
 the exact site designation, the site type, and the jurisdictional authority overseeing containment. This keeps live
 Containment / Research / Transformation review aligned with wider A.C.T site doctrine.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 BLOCK REFERENCE
 
@@ -376,7 +376,7 @@ OB Object · SU Subject · PL Place · TI Time · SP Space
 · ME Memetic · IH Info Hazard · CH Cosmic
 Hazard · NB Non-Natural Bio Hazard · ?.H Shifting Hazard
 
----
+═══════════════════════════════════════════════════════════════════════
 
 EXAMPLE TEST ANOMALY
 

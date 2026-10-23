@@ -1,5 +1,5 @@
 A.C.T FACILITY ARCHIVE FILE
----------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Saint Morrow Passage Route Bell
 ===============================
@@ -12,7 +12,7 @@ Origin: Saint Morrow Passage (GOI-BS-W-070), Passage fitting issue
 Clearance: Level 3 for examination; Level 4 for handling outside storage
 
 Archive Note
-------------
+═══════════════════════════════════════════════════════════════════════
 
 The archive holds one route bell. It is not mounted and it has not been rung in service.
 
@@ -32,7 +32,7 @@ The bell is a transit signal and not an instrument. Personnel must not mount it 
 in service, because ringing it emits a Passage signal into whatever environment it is rung in.
 
 THE FITTING
------------
+═══════════════════════════════════════════════════════════════════════
 
 1.1 What a bell does
 ====================
@@ -57,7 +57,7 @@ The dossier also describes sleeper cars for passengers whose names cannot be spo
 implies sound matters on these routes. Whether the bell is part of that is not established and is not inferred.
 
 HANDLING
---------
+═══════════════════════════════════════════════════════════════════════
 
 2.1 Custody
 ===========
@@ -185,7 +185,7 @@ operates while the crossing is under way. Only the bell is live during the event
 can therefore change an outcome rather than describe one. Its custody is set accordingly.
 
 DIVISION USE
-------------
+═══════════════════════════════════════════════════════════════════════
 
 +--------------+---------------------------------------------------------------------+
 | DIVISION     | USE                                                                 |
@@ -202,7 +202,7 @@ DIVISION USE
 +--------------+---------------------------------------------------------------------+
 
 OPEN QUESTIONS
---------------
+═══════════════════════════════════════════════════════════════════════
 
 - which vehicle or premises the bell came from, and whether it was mounted when recovered;
 - who hears the bell and what they do when it sounds;
@@ -215,7 +215,7 @@ The second question governs the handling rule and has no answer
 here. Until it does, the bell stays unmounted and unrun.
 
 CROSS-REFERENCES
-----------------
+═══════════════════════════════════════════════════════════════════════
 
 - GOI-BS-W-070 — Saint Morrow Passage, Group of Interest Dossier
 - TECH-GOI-070-1 — Saint Morrow Passage White Ticket, Technology Record
@@ -226,7 +226,7 @@ The ticket authorises the crossing, the bell marks it in transit, the map carrie
 ledger records what was carried and what is owed.
 
 FILE METADATA
--------------
+═══════════════════════════════════════════════════════════════════════
 
 Record Type: Technology Record — Recovered Adversary Device
 Created: 23/07/2020

@@ -88,9 +88,9 @@ govern the relay's most sensitive holdings.
 
 ### 4.1 Development of the Research Mandate
 
-F-4's character developed with the relay's elevation to major site status: as Nusantara's maritime and deep-earth
-mandate expanded, the relay required a laboratory level capable of studying the material and signals its operations
-returned.
+F-4's character developed with the relay's elevation to major site status: as
+Nusantara's maritime and deep-earth mandate expanded, the relay required a laboratory
+level capable of studying the material and signals its operations returned.
 
 ### 4.2 The Dual Research Track
 
@@ -118,8 +118,8 @@ Research access to the relay's holdings and data is governed by the relay's rese
 authorization doctrine: each
 study is documented, each resident's restriction set governs how it may be studied, and
 each program is authorized at
-the appropriate level. Deep-earth data is studied under the access rules of the restricted review chain where its
-sensitivity demands.
+the appropriate level. Deep-earth data is studied under the access
+rules of the restricted review chain where its sensitivity demands.
 
 ### 5.3 Authority Limits
 
@@ -144,13 +144,13 @@ relay's seismic data processing to the research floor's analytical capacity.
 
 ### 6.3 Containment Division Liaison
 
-Containment personnel support the controlled conditions under which F-4 studies material drawn from the holding
-floors.
+Containment personnel support the controlled conditions under
+which F-4 studies material drawn from the holding floors.
 
 ### 6.4 Medical Division Liaison
 
-Medical personnel coordinate with F-4 on the biological dimensions of the relay's research and on care for anomalous
-subjects under study.
+Medical personnel coordinate with F-4 on the biological dimensions of
+the relay's research and on care for anomalous subjects under study.
 
 ### 6.5 Security Division
 
@@ -204,14 +204,14 @@ per suite and atmospheric separation between study areas.
 
 ### 8.3 Monitoring
 
-Monitoring on F-4 is continuous across the study spaces, documenting the material under study and the integrity of the
-research environments.
+Monitoring on F-4 is continuous across the study spaces, documenting the
+material under study and the integrity of the research environments.
 
 ### 8.4 Data Systems
 
-F-4 maintains the relay's research data infrastructure: study data, sample records, and seismic interpretation are
-stored under standards matched to their sensitivity, with deep-earth interpretation handled under the access rules of
-the review chain.
+F-4 maintains the relay's research data infrastructure: study data, sample records,
+and seismic interpretation are stored under standards matched to their sensitivity,
+with deep-earth interpretation handled under the access rules of the review chain.
 
 ---
 
@@ -282,9 +282,9 @@ deep arrive without schedule, and the floor's work follows them.
 
 ### 11.3 The Dual Watch
 
-The floor's personnel work under the relay's dual watch: researchers study the sea's material and the earth's signals
-with the understanding that both may connect to structures deeper than the relay itself. The dual watch is the floor's
-defining culture.
+The floor's personnel work under the relay's dual watch: researchers study the sea's
+material and the earth's signals with the understanding that both may connect to
+structures deeper than the relay itself. The dual watch is the floor's defining culture.
 
 ---
 

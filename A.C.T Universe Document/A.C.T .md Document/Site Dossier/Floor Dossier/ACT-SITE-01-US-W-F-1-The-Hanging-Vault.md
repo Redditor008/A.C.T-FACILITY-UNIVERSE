@@ -41,10 +41,10 @@ Name:** The Hanging Vault **Floor Type:** High-Inviolability Object Vault **Vert
 floor of the complex **Floors Above:** F-2 (Deep Object and Memetic-Component Vaults) **Floors Below:** None numbered
 — below F-1 lies only deep utility and emergency routing connecting the complex to
 regional transport corridors
-**Containment Character:** Maximum structural and procedural reinforcement **Primary Function:** Long-term secure
-housing of the site's signature and high-inviolability residents **Access Posture:** Restricted; observation governed
-by each resident's individual restriction set **Current Status:** Active **Doctrine Note:** Subject to the site's "F-1
-closure" drills
+**Containment Character:** Maximum structural and procedural reinforcement **Primary
+Function:** Long-term secure housing of the site's signature and high-inviolability residents
+**Access Posture:** Restricted; observation governed by each resident's individual restriction
+set **Current Status:** Active **Doctrine Note:** Subject to the site's "F-1 closure" drills
 
 ---
 
@@ -71,8 +71,8 @@ treats it accordingly.
 
 F-1 occupies the lowest numbered stratum of the buried core below the Redwood Veil
 campus. It sits beneath F-2, the
-Deep Object and Memetic-Component Vaults, and is reached only by descending through every operational level of the
-complex.
+Deep Object and Memetic-Component Vaults, and is reached only
+by descending through every operational level of the complex.
 
 ### 3.2 What Lies Below F-1
 
@@ -156,9 +156,9 @@ and the execution of each resident's containment regimen.
 
 ### 6.2 Security Division
 
-Security personnel guard the floor's access points and patrol its perimeter architecture. F-1 security is drawn from
-the site's most experienced personnel and operates under standing rules that prioritize the floor's isolation over
-every other consideration.
+Security personnel guard the floor's access points and patrol its perimeter architecture.
+F-1 security is drawn from the site's most experienced personnel and operates under
+standing rules that prioritize the floor's isolation over every other consideration.
 
 ### 6.3 Medical Division (On-Call)
 
@@ -215,9 +215,9 @@ The floor's plan comprises:
 
 ### 8.1 Power
 
-F-1 draws primary power from the complex's main supply and maintains an independent emergency plant sized to carry the
-floor's full environmental and containment load. Power continuity on F-1 is treated as a containment parameter, not a
-convenience.
+F-1 draws primary power from the complex's main supply and maintains an independent
+emergency plant sized to carry the floor's full environmental and containment load.
+Power continuity on F-1 is treated as a containment parameter, not a convenience.
 
 ### 8.2 Environment
 

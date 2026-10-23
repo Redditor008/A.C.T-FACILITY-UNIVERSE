@@ -46,9 +46,9 @@ pre-loading fixation tools before Facility Converted Aircraft movement.
 
 Causal Anchor Nails do not replace an RSA. They are field nails, not rooms.
 Their job is to buy a small amount of
-trustworthy position when a recovered object, sample, doorway, vehicle, body, fragment, or container is likely to
-slide through space, detach from its own history, refuse loading, or pull surrounding matter into the wrong
-relationship.
+trustworthy position when a recovered object, sample, doorway, vehicle, body,
+fragment, or container is likely to slide through space, detach from its own
+history, refuse loading, or pull surrounding matter into the wrong relationship.
 
 Controlled label: CAN DEPLOYMENT GEOMETRY LIMIT.
 
@@ -297,18 +297,18 @@ as if containment has succeeded. CAN
 doctrine rejects that assumption. A pinned object is still anomalous. It is only less
 mobile for a while.
 
-Known failure modes include skipped lock clicks, delayed release, surface rejection, thermal runaway, nail-to-nail
-argument, stress transfer into floor plates, cargo tearing at the fixed point, false dead-core readings, and post-use
-memory of the wrong location.
+Known failure modes include skipped lock clicks, delayed release, surface rejection,
+thermal runaway, nail-to-nail argument, stress transfer into floor plates, cargo tearing
+at the fixed point, false dead-core readings, and post-use memory of the wrong location.
 
 FAILURE HISTORY
 CAN-1998 Loading Bay Gouge: During a night transfer, two nails were used to fix
 a shifting crate to a loading bay
 floor before RSA container arrival. The crate held position. The floor did not. When
 the forklift raised the crate, a
-rectangular section of floor attempted to rise with it and cracked along service channels. No anomaly escaped, but the
-bay remained closed for six weeks. Field doctrine now requires surface strength confirmation before every nail
-deployment.
+rectangular section of floor attempted to rise with it and cracked along service
+channels. No anomaly escaped, but the bay remained closed for six weeks. Field
+doctrine now requires surface strength confirmation before every nail deployment.
 
 CAN-2006 Triangle Argument: A Recovery team deployed three nails around an artifact whose position changed whenever
 its name was spoken. The nails fixed three slightly different positions. The artifact appeared blurred between them

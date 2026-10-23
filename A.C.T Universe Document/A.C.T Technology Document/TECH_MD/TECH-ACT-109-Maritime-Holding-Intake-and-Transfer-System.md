@@ -70,9 +70,9 @@ the critical moment often occurred between
 sea retrieval and stable chamber assignment. Recovered material changed condition during transport, required immediate
 environmental replication, or proved more dangerous while being moved than while held.
 
-The F-3 floor dossier formalizes intake and transfer as central architecture. MHITS grew out of that architecture as
-the procedure set that connects Recovery, Containment, Security, Medical, and Research without leaving an undocumented
-gap between them.
+The F-3 floor dossier formalizes intake and transfer as central architecture. MHITS
+grew out of that architecture as the procedure set that connects Recovery, Containment,
+Security, Medical, and Research without leaving an undocumented gap between them.
 
 ---
 
@@ -174,13 +174,12 @@ lock is the only evidence of what the recovery survived.
 
 Step 2 is the step most likely to be skipped when a recovery is
 urgent and least recoverable once skipped.
-Every later question about whether the material changed in transit is answered from that baseline or not at
-all.
+Every later question about whether the material changed in transit is answered from that baseline or not at all.
 
-Before a recovery arrives, MHITS receives preliminary information from Recovery: origin environment, depth, island or
-sea route, container condition, resident behavior, sample risk, escort status, and emergency needs. The Floor Holding
-Chief assigns an intake bay and provisional holding path. Environmental settings are prepared before material crosses
-the threshold.
+Before a recovery arrives, MHITS receives preliminary information from Recovery: origin
+environment, depth, island or sea route, container condition, resident behavior, sample risk,
+escort status, and emergency needs. The Floor Holding Chief assigns an intake bay and provisional
+holding path. Environmental settings are prepared before material crosses the threshold.
 
 On arrival, personnel confirm the recovery seal, document custody, stabilize environment, and classify the next route.
 Deep-sensitive material moves downward under restricted procedure. Research-approved material moves upward only
@@ -233,29 +232,29 @@ exposure, Medical standby absence, and downward transfer before deep sensitivity
 ## FAILURE HISTORY
 
 ### MHITS-Arrival Gap Review
-A review of maritime intake found that some early records treated recovery completion and holding start as separate
-events, creating uncertainty during handoff. Current MHITS doctrine keeps one event clock from vessel receipt to
-chamber acceptance.
+A review of maritime intake found that some early records treated recovery completion
+and holding start as separate events, creating uncertainty during handoff. Current
+MHITS doctrine keeps one event clock from vessel receipt to chamber acceptance.
 
 ### MHITS-Research Pullback Rule
 Research demand for fresh material once caused pressure on F-3 staff to move material
 upward before its holding
-condition stabilized. Current procedure lets the Floor Holding Chief delay laboratory transfer until containment state
-is documented.
+condition stabilized. Current procedure lets the Floor Holding Chief
+delay laboratory transfer until containment state is documented.
 
 ### MHITS-Port Interface Drill
-A port transfer drill showed that water-capable material assigned to specialized vessels can become a custody
-ambiguity between floor, port, and vessel crews. Current MHITS records require signed relay authority at every
-transfer boundary.
+A port transfer drill showed that water-capable material assigned to specialized
+vessels can become a custody ambiguity between floor, port, and vessel crews.
+Current MHITS records require signed relay authority at every transfer boundary.
 
 ---
 
 ## DIVISION USE
 
-Containment uses MHITS to assign chambers and maintain environmental continuity. Recovery uses it to hand off material
-without losing field context. Research uses it to request study transfer under sample control. Medical uses it to
-prepare resident and personnel support during intake. Security uses it to enforce route access, escort rules, and
-custody accountability.
+Containment uses MHITS to assign chambers and maintain environmental continuity. Recovery uses
+it to hand off material without losing field context. Research uses it to request study
+transfer under sample control. Medical uses it to prepare resident and personnel support during
+intake. Security uses it to enforce route access, escort rules, and custody accountability.
 
 MHITS doctrine holds that the sea's material remains in containment even while it is
 moving.

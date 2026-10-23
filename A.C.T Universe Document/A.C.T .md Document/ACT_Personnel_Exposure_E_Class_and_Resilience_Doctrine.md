@@ -8,10 +8,10 @@
 | AUTHORITY | Administration, Medical Care Division, Subject Care Division, and Personnel Review |
 
 #### Archive Note
-This doctrine formalizes the human side of A.C.T operations: Excommunicated Class personnel, exposure rotation,
-resilience review, aftercare, and the limit between necessary risk and institutional cruelty. It does not replace the
-Divisions and Personnel archive. It supplies the missing operational rules that keep personnel from becoming invisible
-equipment.
+This doctrine formalizes the human side of A.C.T operations: Excommunicated Class personnel,
+exposure rotation, resilience review, aftercare, and the limit between necessary risk and
+institutional cruelty. It does not replace the Divisions and Personnel archive. It supplies
+the missing operational rules that keep personnel from becoming invisible equipment.
 
 
 ---
@@ -43,10 +43,10 @@ This doctrine exists to answer five standing questions:
 
 ### 2.2 E-Class Personnel Definition
 
-**E-Class** means **Excommunicated Class**. The term refers to personnel who have been removed from normal
-institutional protection, normal civic identity, and normal career standing because A.C.T has judged them condemned,
-censured, legally erased, operationally isolated, or already lost to a condition that ordinary staff cannot be asked
-to carry.
+**E-Class** means **Excommunicated Class**. The term refers to personnel who have been
+removed from normal institutional protection, normal civic identity, and normal career
+standing because A.C.T has judged them condemned, censured, legally erased, operationally
+isolated, or already lost to a condition that ordinary staff cannot be asked to carry.
 
 E-Class is not the same as ordinary exposed personnel. Many A.C.T workers face anomaly
 exposure. They do not become
@@ -115,13 +115,11 @@ discipline, loyalty, debt, memory alteration, and lack of civilian alternatives 
 
 For that reason:
 
-  E-Class assignment must be explained in task-specific language when the individual is capable of
-  understanding the
+  E-Class assignment must be explained in task-specific language when the individual is capable of understanding the
   assignment;
   refusal must be recorded as evidence, even where refusal does not halt the
   assignment;
-  refusal by an Excommunicated Class subject may trigger command review, not automatic escalation to
-  cruelty;
+  refusal by an Excommunicated Class subject may trigger command review, not automatic escalation to cruelty;
   high-risk exposure cannot be approved by the same officer who benefits from the
   exposure
   result unless a second
@@ -176,12 +174,12 @@ Ability to resist or recover from compulsive messages, symbolic contamination, d
 hostile songs, and dangerous visual patterns.
 
 #### Reality-Stability Tolerance
-Ability to remain functional when local cause, body condition, spatial rules, time order, or object permanence becomes
-unreliable.
+Ability to remain functional when local cause, body condition,
+spatial rules, time order, or object permanence becomes unreliable.
 
 #### Emotional Recovery Capacity
-Ability to process fear, guilt, grief, shame, violent exposure, and subject empathy without collapsing into numbness
-or cruelty.
+Ability to process fear, guilt, grief, shame, violent exposure,
+and subject empathy without collapsing into numbness or cruelty.
 
 #### Identity Integrity
 Ability to retain self-recognition, personal history, name
@@ -296,8 +294,7 @@ The following are prohibited under this doctrine:
 - using amnestics to pretend excommunication equals consent;
 - forcing a handler to continue because a subject prefers them;
 - classifying compassion as contamination without evidence;
-  pushing BRUISED E-Class personnel into high-risk duty to meet schedule pressure without recording the
-  institutional
+  pushing BRUISED E-Class personnel into high-risk duty to meet schedule pressure without recording the institutional
   violation;
 - keeping transformed personnel on payroll without identity review;
   calling a person "asset" in medical-care files unless the person is no longer

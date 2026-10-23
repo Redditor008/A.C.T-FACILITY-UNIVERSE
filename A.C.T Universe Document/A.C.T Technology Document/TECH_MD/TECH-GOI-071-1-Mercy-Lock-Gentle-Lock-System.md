@@ -66,9 +66,9 @@ The core operating rule is:
 LOCK THE HARM. DO NOT LOCK AWAY THE PERSON.
 ```
 
-In technical terms, the system attempts to separate manifestation vector, patient movement, staff access, observation,
-consent, and emergency release into different control layers instead of forcing one locked door to perform every
-function.
+In technical terms, the system attempts to separate manifestation vector, patient
+movement, staff access, observation, consent, and emergency release into different
+control layers instead of forcing one locked door to perform every function.
 
 ### Difference From Standard Containment Locks
 
@@ -134,10 +134,8 @@ Observed gentle lock installations include the following repeated components:
  without opening the door;
  a staff-side keyway hidden behind a sliding medical label rather than a prison-style
  keyhole;
- a manifestation buffer strip along the hinge, threshold, handle, window, or vent, depending on
- patient risk;
- a consent marker slot where voluntary, substitute, emergency, and disputed custody states can be
- displayed;
+ a manifestation buffer strip along the hinge, threshold, handle, window, or vent, depending on patient risk;
+ a consent marker slot where voluntary, substitute, emergency, and disputed custody states can be displayed;
  an emergency release path requiring two staff roles or one staff role plus
  patient-specific
  safe action;
@@ -255,9 +253,9 @@ light control more than heavier bolts.
 
 During transfer, Mercy Lock may request that a portable gentle lock plate be installed
 on an ambulance interior,
-temporary room, or A.C.T medical-wing door. A.C.T Medical must record tolerated conditions, escalation conditions,
-release language, bell status, visible weapon limits, family-contact limits, and whether the patient may use their own
-name safely.
+temporary room, or A.C.T medical-wing door. A.C.T Medical must record tolerated
+conditions, escalation conditions, release language, bell status, visible weapon
+limits, family-contact limits, and whether the patient may use their own name safely.
 
 Minimum transfer notation:
 
@@ -404,8 +402,8 @@ considered a successful near miss because the first A.C.T plan would likely have
 Iron Meridian Authority appears to have sought Mercy Lock technology or staff knowledge. A.C.T has no confirmed copied
 gentle lock in Iron Meridian custody, but a seized Meridian restraint door contained a
 soft interior plate attached to
-a punishment collar circuit. Mercy Lock denies any involvement. A.C.T assesses the device as imitation or theft rather
-than cooperation.
+a punishment collar circuit. Mercy Lock denies any involvement. A.C.T
+assesses the device as imitation or theft rather than cooperation.
 
 If confirmed, hostile adaptation would invert the gentle lock principle: use patient-specific tuning to produce
 compliance rather than safety. This risk justifies Level 5 control of full schematics.
@@ -435,9 +433,9 @@ creates unnecessary isolation.
 
 ### Engineering Division
 
-Engineering may inspect, document, and test nonactive components. Engineering may not reproduce full systems without
-authorization. Any recovered material must be logged by plate, latch, buffer strip, signal input, and
-patient-interface condition.
+Engineering may inspect, document, and test nonactive components. Engineering may
+not reproduce full systems without authorization. Any recovered material must be
+logged by plate, latch, buffer strip, signal input, and patient-interface condition.
 
 ### Legal Division
 
@@ -456,17 +454,16 @@ used without consent review may become unlawful detention even if it is technica
 - ACT-MASTER-INDEX-50-SYSTEMS-AND-MATERIALS, Archive Record
 - Comprehensive Visual and Mechanical Specifications for Asset Index 50, Archive Record
 - Standing Field Units and Cross-Containment Interaction Protocol, Archive Record
- Restricted Mercy Lock transfer notes, Red Key incident fragments, patient care files, and Site
- 02 medical-wing
+ Restricted Mercy Lock transfer notes, Red Key incident fragments, patient care files, and Site 02 medical-wing
  transfer records held under Central Archive routing.
 
 ### Dual Filing
 
 Mandatory when a gentle lock is attached to a living patient, a specific ward,
 a containment transfer, a failed
-restraint plan, a recovered GOI component, or suspected hostile-use modification. This technology record describes the
-system family. It does not replace patient files, ward inspection records, anomaly files, GOI files, medical reports,
-or legal custody review.
+restraint plan, a recovered GOI component, or suspected hostile-use modification. This
+technology record describes the system family. It does not replace patient files, ward
+inspection records, anomaly files, GOI files, medical reports, or legal custody review.
 
 ---
 

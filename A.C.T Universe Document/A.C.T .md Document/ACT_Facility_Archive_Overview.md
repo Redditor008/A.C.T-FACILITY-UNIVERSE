@@ -30,11 +30,11 @@ secrecy logic, and operational philosophy of A.C.T in full internal language.
 ---
 
 ## 1. A.C.T = Anomaly Containment Transformation
-**A.C.T** stands for **Anomaly Containment Transformation**, the central doctrine and operational foundation of the
-Facility. The name defines the three pillars of its purpose: to identify anomalous phenomena, to contain them before
-they can threaten the world, and to transform them through research, control, or adaptation into something that can be
-understood, stabilized, or made useful. A.C.T is not merely a reactionary organization—it exists to impose order on
-the impossible.
+**A.C.T** stands for **Anomaly Containment Transformation**, the central doctrine and operational
+foundation of the Facility. The name defines the three pillars of its purpose: to identify
+anomalous phenomena, to contain them before they can threaten the world, and to transform them
+through research, control, or adaptation into something that can be understood, stabilized, or made
+useful. A.C.T is not merely a reactionary organization—it exists to impose order on the impossible.
 
 ## 2. Main Goal
 The primary goal of the **A.C.T Facility** is to preserve the structural stability of
@@ -86,9 +86,9 @@ ignorance of the anomalous is one of the foundations that keeps civilization int
 ## 7. Site Network
 A.C.T does not exist only as one buried core installation. In modern doctrine, the
 Facility operates through a wider
-network of recognized **SITES** and **SUB-SITES**, each assigned to specific regional, recovery, secrecy, containment,
-archive, or research functions. Detailed installation logic is preserved separately in Site Doctrine, Site Registry,
-and Jurisdiction records.
+network of recognized **SITES** and **SUB-SITES**, each assigned to specific regional,
+recovery, secrecy, containment, archive, or research functions. Detailed installation
+logic is preserved separately in Site Doctrine, Site Registry, and Jurisdiction records.
 
 ## 8. Gray Morality
 A.C.T is neither purely benevolent nor openly tyrannical. It is a **gray organization**, one defined by necessity,

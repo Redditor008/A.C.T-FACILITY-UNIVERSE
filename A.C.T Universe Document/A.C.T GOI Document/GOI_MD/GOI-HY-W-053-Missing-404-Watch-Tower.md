@@ -187,9 +187,9 @@ None of these are upgraded to Engineering or Structural capability without stron
 The group is **Leaking** because its work naturally touches families, volunteers, rescue workers, clerks, and local
 witnesses. Missing 404 Watch Tower cannot function if every human memory of a missing
 person is erased. It often
-preserves exactly the kind of marginal records A.C.T normalcy doctrine may try to close: old posters, family
-recordings, broken websites, unofficial trail maps, local songs, memorial plaques, and handwritten lists of the
-unfound.
+preserves exactly the kind of marginal records A.C.T normalcy doctrine may try
+to close: old posters, family recordings, broken websites, unofficial trail
+maps, local songs, memorial plaques, and handwritten lists of the unfound.
 
 This leakage is usually not malicious. The group does not broadly publish A.C.T files.
 The problem is that its
@@ -209,8 +209,8 @@ routes, and old municipal record chains.
 The assigned Reach Class is **Transnational** because records connected to the group show repeated patterns across
 national boundaries, but A.C.T has not confirmed a single global command. The Tower may
 be a federation of stations,
-an inherited network of watcher families, a compact between recovery groups, or a distributed archive that gives
-orders through absence marks.
+an inherited network of watcher families, a compact between recovery
+groups, or a distributed archive that gives orders through absence marks.
 
 ### Known Assets and Holdings
 
@@ -309,9 +309,9 @@ containment equals disappearance. A.C.T will not permit publication of active Si
 identities, or sealed anomaly methods. A.C.T will not destroy Tower records solely because they are inconvenient to
 normalcy if those records are the last proof of a missing civilian's existence.
 
-Escalation is required if Tower personnel knowingly guide civilians into hazardous absent locations, conceal a
-recovered subject from medical triage, sell dead-address data to market GOIs, or preserve an active cognitohazard in a
-public memorial format.
+Escalation is required if Tower personnel knowingly guide civilians into hazardous
+absent locations, conceal a recovered subject from medical triage, sell dead-address
+data to market GOIs, or preserve an active cognitohazard in a public memorial format.
 
 ---
 
@@ -367,8 +367,8 @@ dead-address, and vanished-record cases. The group uses the phrase **Not found i
 across multiple recovered materials. The group has provided actionable location, signal, or record-preservation
 assistance in more than one A.C.T recovery case. The group is not an A.C.T
 internal division and does not accept A.C.T
-command authority. The group preserves names and records that may otherwise disappear from civic, digital, or internal
-lookup systems.
+command authority. The group preserves names and records that may
+otherwise disappear from civic, digital, or internal lookup systems.
 
 ### Active Intelligence Assessment
 

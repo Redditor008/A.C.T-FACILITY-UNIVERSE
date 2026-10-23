@@ -62,10 +62,10 @@ and dampens detectable rhythmic features so the person reads as background biolo
 an approved decoy profile depending on mission settings. The micro-injector supports short-duration biological
 smoothing. The Pulse-Sync Chip manages the masking field and adjusts to ordinary stress changes.
 
-BRD use is common during recovery missions involving predators, empathic hazards, rhythm-sensitive organisms,
-heart-tracking devices, and containment rooms where staff fear or elevated pulse may escalate the subject. The patch
-is worn behind the ear because that location gives reliable vascular and neural-adjacent readings while remaining easy
-for Medical to inspect.
+BRD use is common during recovery missions involving predators, empathic hazards,
+rhythm-sensitive organisms, heart-tracking devices, and containment rooms where staff fear or
+elevated pulse may escalate the subject. The patch is worn behind the ear because that location
+gives reliable vascular and neural-adjacent readings while remaining easy for Medical to inspect.
 
 Approved roles include masking personnel from heart-signature detection; reducing panic-readable exposure during
 biological containment; allowing handlers to enter rooms without becoming rhythmic targets; supporting stealth
@@ -277,8 +277,8 @@ Training now teaches BRD as support for calm, not replacement for calm.
 
 BRD-2024 Overwear Rebound: A guard kept a patch on after mission end to avoid
 tremor readings during debrief. Removal
-triggered delayed panic and irregular pulse. Medical classified misuse as concealment of symptoms and required
-disposal accountability.
+triggered delayed panic and irregular pulse. Medical classified misuse
+as concealment of symptoms and required disposal accountability.
 
 DIVISION USE
 Field Safety issues BRD for approved missions. Medical screens users and controls injector load. Recovery wears

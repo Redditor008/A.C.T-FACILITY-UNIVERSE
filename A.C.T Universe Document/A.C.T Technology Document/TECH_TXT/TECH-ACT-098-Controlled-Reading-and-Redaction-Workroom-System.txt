@@ -83,10 +83,10 @@ enough to stop reading.
 
 PHYSICAL OR SYSTEM DESCRIPTION
 
-A CRRWS installation includes controlled-reading cells, redaction desks, shielded copy stands, exposure timers,
-observer stations, review staging trays, redact-safe ink and covers, parent-node format terminals, cognitive condition
-check points, and sealed disposal containers. Workrooms are designed to limit sightlines and prevent unplanned
-replication.
+A CRRWS installation includes controlled-reading cells, redaction desks, shielded copy
+stands, exposure timers, observer stations, review staging trays, redact-safe ink and
+covers, parent-node format terminals, cognitive condition check points, and sealed disposal
+containers. Workrooms are designed to limit sightlines and prevent unplanned replication.
 
 Known components include:
 

@@ -91,10 +91,10 @@ monitored procedure.
 
 A PSCG panel appears almost ordinary from a distance. Close inspection shows a faint
 rainbow oil-slick sheen,
-especially along angled light. The pane is mounted inside a reinforced frame containing a polarizing dial, a digital
-phase-slider, power couplers, and safety locks. The slider adjusts observation phase. The dial adjusts polarization
-and visual fidelity. Some frames include operator presets for interview, medical check, visual hazard, spatial phase,
-and emergency opaque mode.
+especially along angled light. The pane is mounted inside a reinforced frame containing a
+polarizing dial, a digital phase-slider, power couplers, and safety locks. The slider adjusts
+observation phase. The dial adjusts polarization and visual fidelity. Some frames include operator
+presets for interview, medical check, visual hazard, spatial phase, and emergency opaque mode.
 
 Known components include:
 
@@ -222,9 +222,9 @@ scratches, sheen uniformity, phase-slider lag, and seal temperature.
 | Desynchronized-subject override | Level 5 procedure | Level 5 |
 | Sheen or laminate damage | panel withdrawal | Engineering Division |
 
-No calendar interval is recorded; the panel is calibrated on installation and on relocation, so interval NOT
-MEASURED. There is no consumable. The 2014 over-clarity case is why clarity adjustment is never accepted in
-place of an audio repair.
+No calendar interval is recorded; the panel is calibrated on installation and on
+relocation, so interval NOT MEASURED. There is no consumable. The 2014 over-clarity
+case is why clarity adjustment is never accepted in place of an audio repair.
 
 ## FAULT ISOLATION
 
@@ -255,9 +255,9 @@ much of the subject's real frequency.
 ## FAILURE HISTORY
 
 ### PSCG-2014 Interview Over-Clarity
-An interview pane was tuned to improve lip-reading after audio failure. The subject recognized the observer's eye line
-and reacted as if direct contact had occurred. PSCG procedure now forbids clarity adjustment as a substitute for audio
-repair.
+An interview pane was tuned to improve lip-reading after audio failure. The subject
+recognized the observer's eye line and reacted as if direct contact had occurred.
+PSCG procedure now forbids clarity adjustment as a substitute for audio repair.
 
 ### PSCG-2024 Terra Filter Confirmation
 During Terra's Pulse monitoring, PSCG reduced visual fidelity enough to support safe observation when paired with
@@ -265,9 +265,9 @@ personnel restriction and Adrenaline Micro-Surge Detector monitoring. The event 
 not a standalone permission to stare.
 
 ### PSCG-2026 Visor Delay Conflict
-A Chrono-Stuttered Visor test through a high-offset PSCG panel produced doubled timing. The observer saw a delayed
-image of an already phase-delayed image. Current procedure requires combined calibration before pairing PSCG with
-delayed-vision PPE.
+A Chrono-Stuttered Visor test through a high-offset PSCG panel produced doubled
+timing. The observer saw a delayed image of an already phase-delayed image. Current
+procedure requires combined calibration before pairing PSCG with delayed-vision PPE.
 
 ---
 

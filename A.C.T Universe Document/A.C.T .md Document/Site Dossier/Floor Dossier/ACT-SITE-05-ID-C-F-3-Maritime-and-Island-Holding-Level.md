@@ -114,9 +114,9 @@ Chief** appointed by the Site Director.
 
 ### 5.2 Authority over Residents
 
-The Holding Chief holds standard custodial authority over the floor's residents: chamber assignment, environmental
-management, and routine handling under the relay's maritime holding doctrine. Disposition decisions are made above the
-floor.
+The Holding Chief holds standard custodial authority over the floor's residents:
+chamber assignment, environmental management, and routine handling under the
+relay's maritime holding doctrine. Disposition decisions are made above the floor.
 
 ### 5.3 Authority Limits
 
@@ -222,9 +222,9 @@ within the floor is governed by the handling rules of the material being accesse
 
 ### 9.2 Chamber Access
 
-Chamber access follows standard holding procedure: authorized personnel, documented handling, and observation
-maintained throughout. Most routine work is conducted through the monitoring architecture rather than through physical
-entry.
+Chamber access follows standard holding procedure: authorized personnel,
+documented handling, and observation maintained throughout. Most routine work is
+conducted through the monitoring architecture rather than through physical entry.
 
 ### 9.3 Transfer Procedures
 
@@ -269,20 +269,20 @@ held in the relay's water-capable, pressure-rated deep holding environment under
 a 10.4-meter aquatic organism resembling a hybrid of a deep-sea anglerfish and the armored prehistoric *Dunkleosteus*,
 first detected through investigation of intermittent **Sonar Voids** — regions of ocean where sound returned nothing.
 
-The resident is classified **REACTIVE**, at **Threat Level 4 (High Lethality)**, with **Transformation Viability:
-NEUTRAL** — a resident whose containment is the achievement, not a candidate for transformation. Its recovery required
-one of the Facility's most significant maritime containment operations, and its holding environment — water-capable,
-pressure-rated, and continuously monitored — is maintained under the relay's maritime doctrine as the physical
-counterpart of that achievement. The relay's study of AFD-NB-964 contributes to the Facility's understanding of
-deep-sea anomalous biology and the relationship between deep-ocean anomalies and the deeper structures the relay
-exists to watch.
+The resident is classified **REACTIVE**, at **Threat Level 4 (High Lethality)**, with **Transformation
+Viability: NEUTRAL** — a resident whose containment is the achievement, not a candidate for
+transformation. Its recovery required one of the Facility's most significant maritime containment
+operations, and its holding environment — water-capable, pressure-rated, and continuously monitored —
+is maintained under the relay's maritime doctrine as the physical counterpart of that achievement. The
+relay's study of AFD-NB-964 contributes to the Facility's understanding of deep-sea anomalous biology
+and the relationship between deep-ocean anomalies and the deeper structures the relay exists to watch.
 
 ### 10.4 Additional Holdings
 
 Other maritime and island holdings are held on F-3 and across the relay's maritime
 platforms under standard doctrine,
-with designations preserved in the Annex Register. Personnel without specific assignment to those files do not require
-their names.
+with designations preserved in the Annex Register. Personnel without
+specific assignment to those files do not require their names.
 
 ---
 
@@ -296,9 +296,9 @@ maritime-hold staff, supported by Recovery, Research, Medical, and Security pers
 
 ### 11.2 Duty Life
 
-Duty on F-3 is maritime holding work: environmental rounds, chamber maintenance, biological monitoring, and
-documentation. The floor's rhythm follows the relay's recovery flow — the arrivals of the sea's material and the
-patient holding that follows.
+Duty on F-3 is maritime holding work: environmental rounds, chamber maintenance,
+biological monitoring, and documentation. The floor's rhythm follows the relay's
+recovery flow — the arrivals of the sea's material and the patient holding that follows.
 
 ### 11.3 The Maritime Discipline
 

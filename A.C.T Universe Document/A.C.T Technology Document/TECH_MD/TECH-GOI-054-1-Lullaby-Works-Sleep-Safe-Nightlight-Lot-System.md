@@ -32,9 +32,9 @@ product recovery label reading **LW / NIGHTLIGHT LOT SLEEP-SAFE-7**, an instruct
 cover, and production tags stitched under seams or hidden behind battery plates. Those four details are the technical
 basis of this file. Everything beyond them is inspection result or unresolved question.
 
-A.C.T recovered three units from the sealed pediatric shelter incident and deliberately left fourteen in place under
-monitored-care authority. Removal was assessed as a greater risk to the children than continued operation of an
-unverified device.
+A.C.T recovered three units from the sealed pediatric shelter incident and deliberately
+left fourteen in place under monitored-care authority. Removal was assessed as a
+greater risk to the children than continued operation of an unverified device.
 
 Controlled label: **LULLABY WORKS CHILD-CARE DISCLOSURE LIMIT**.
 
@@ -119,8 +119,7 @@ Known external features:
  may
  be stitched or adhered;
 - an **instruction slip** stored beneath the battery cover, printed rather than handwritten;
- a **shell casing** that remains structurally complete after the active components are removed, and
- that A.C.T has
+ a **shell casing** that remains structurally complete after the active components are removed, and that A.C.T has
  confirmed retains comforting value to a child even when inert.
 
 Known marking and packaging features:
@@ -210,8 +209,8 @@ Units in service are left in service. Field personnel do not switch them off,
 move them, or clean them without Subject
 Care authorization.
 
-Recovered instruction, reproduced from the slip found under the battery cover, is treated as operating doctrine until
-superseded:
+Recovered instruction, reproduced from the slip found under the
+battery cover, is treated as operating doctrine until superseded:
 
 - do not unscrew the moon while children are sleeping;
 - do not test the light by pretending to be afraid;
@@ -351,8 +350,8 @@ shelter and does not disclose A.C.T involvement.
 Neither the ACT Technological Master Index 50 nor the Visual Reference Guide carries this product, and neither should.
 The Master Catalog numbers assets A.C.T can issue; fourteen of these nightlights sit in
 a shelter A.C.T does not
-control. The Visual Reference Guide describes hardware personnel can identify and maintain; A.C.T has never opened one
-and does not intend to.
+control. The Visual Reference Guide describes hardware personnel can
+identify and maintain; A.C.T has never opened one and does not intend to.
 
 ---
 

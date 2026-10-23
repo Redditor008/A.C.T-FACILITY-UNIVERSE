@@ -87,15 +87,15 @@ vault and which is ready to move.
 
 ### 4.1 Development of the Processing Floor
 
-F-2's character developed from the relay's origins as a covert witness routing point: as the relay's function expanded
-to include intake staging and archive buffering, its operational activity consolidated on a single buried level
-beneath the cover campus.
+F-2's character developed from the relay's origins as a covert witness routing point:
+as the relay's function expanded to include intake staging and archive buffering, its
+operational activity consolidated on a single buried level beneath the cover campus.
 
 ### 4.2 The Witness Processing Tradition
 
-The floor's witness processing suites carry the relay's oldest tradition: the relay began as a place where witnesses
-could be brought, processed, and either sanitized or assimilated without ever approaching the deeper installations.
-F-2 continues that work today.
+The floor's witness processing suites carry the relay's oldest tradition: the relay began
+as a place where witnesses could be brought, processed, and either sanitized or assimilated
+without ever approaching the deeper installations. F-2 continues that work today.
 
 ### 4.3 Modern Configuration
 
@@ -113,9 +113,9 @@ administers the floor's processing, staging, and buffering operations.
 
 ### 5.2 Authority over Processing
 
-The Processing Chief holds authority over the floor's operational functions: witness processing schedules, intake
-staging, and archive buffering under the relay's doctrine. Authority over temporary holding is shared with the Holding
-Officer of F-1.
+The Processing Chief holds authority over the floor's operational functions: witness
+processing schedules, intake staging, and archive buffering under the relay's
+doctrine. Authority over temporary holding is shared with the Holding Officer of F-1.
 
 ### 5.3 Authority Limits
 
@@ -249,9 +249,9 @@ processing exceeds the relay's capacity is moved to the parent site's facilities
 
 ### 10.1 Rolling Manifest
 
-F-2 does not maintain permanent holdings. Its manifest is a rolling record of transients: witnesses in processing,
-staged material, temporary cell occupants, and buffered documents. The floor's documentation is tied to the movement
-of its population.
+F-2 does not maintain permanent holdings. Its manifest is a rolling record of
+transients: witnesses in processing, staged material, temporary cell occupants, and
+buffered documents. The floor's documentation is tied to the movement of its population.
 
 ### 10.2 Population Character
 
@@ -302,8 +302,8 @@ moves it on, under documentation and control.
 
 F-2 doctrine holds that witnesses who enter the relay need never learn that a
 larger installation exists: the floor's
-processing suites conduct the Facility's witness work in isolation from the parent core, under the full witness
-doctrine.
+processing suites conduct the Facility's witness work in
+isolation from the parent core, under the full witness doctrine.
 
 ### 12.3 Transience Doctrine
 

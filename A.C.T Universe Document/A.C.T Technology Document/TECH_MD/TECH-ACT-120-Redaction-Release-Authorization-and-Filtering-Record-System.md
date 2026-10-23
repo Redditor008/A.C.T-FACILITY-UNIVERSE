@@ -231,10 +231,10 @@ context. A document may become dangerous when quoted, translated, reformatted, r
 restored from memory, or placed inside a public narrative. Redaction also cannot remove every risk if the danger lies
 in the fact that something was withheld.
 
-Known failure modes include underredaction, overredaction that hides needed warning, dangerous implication through
-gaps, unsafe title retention, formatting-trigger survival, release audience drift, objection ignored, recall route
-failure, safe copy altered after export, and staff believing redaction has destroyed the source hazard rather than
-controlled one form of it.
+Known failure modes include underredaction, overredaction that hides needed warning, dangerous
+implication through gaps, unsafe title retention, formatting-trigger survival, release audience
+drift, objection ignored, recall route failure, safe copy altered after export, and staff
+believing redaction has destroyed the source hazard rather than controlled one form of it.
 
 ---
 

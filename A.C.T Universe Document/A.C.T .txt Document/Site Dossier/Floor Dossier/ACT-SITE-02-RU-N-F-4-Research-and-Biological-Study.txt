@@ -11,7 +11,7 @@ Dossier Number: FLOOR-DOSSIER-02-RU-N-F-4
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard / ACT Floor Record Standard
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Note
 
@@ -31,7 +31,7 @@ what it studies, how it is built, how it is run, and how the
 knowledge it
 produces flows through the station's entire containment system.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 1. Floor Registry Identity Summary
 
@@ -50,7 +50,7 @@ cold-suppressed anomalies
 Access Posture: Clearance-gated research access
 Current Status: Active
 
----
+═══════════════════════════════════════════════════════════════════════
 
 2. Dossier Purpose
 
@@ -66,7 +66,7 @@ biological study chambers, sample processing, long-term observation suites,
 and controlled environments where research on cold-suppressed anomalies is
 conducted under the station's exacting standards.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 3. Position in the Site Stack
 
@@ -94,7 +94,7 @@ governed by the restriction sets of the material held there. Some residents
 are studied continuously; others are studied rarely; others are not studied
 at all. The floor's duty includes knowing the difference.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 4. Historical Foundation
 
@@ -119,7 +119,7 @@ laboratory level where the facility studies the biology it contains, under
 the controlled conditions and long observation schedules that define White
 Grave's research culture.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5. Command and Authority
 
@@ -142,7 +142,7 @@ F-4 holds no authority over resident disposition. Its role is analytical:
 the floor may study, process, and observe — it may not decide what happens
 to the material it studies.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 6. Divisional Presence
 
@@ -175,7 +175,7 @@ Archive personnel maintain F-4's research documentation: study records,
 sample data, and observation logs are preserved under the Archive
 Division's custody.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 7. Physical Plant and Architecture
 
@@ -213,7 +213,7 @@ cold-suppressed anomalies: chambers where temperature, atmosphere, and
 observation conditions are matched to the requirements of the material
 under study, under the station's cold research doctrine.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 8. Systems and Infrastructure
 
@@ -241,7 +241,7 @@ observation streams, and sample records are stored and mirrored under
 standards that treat research data as part of the Facility's knowledge
 estate.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 9. Security and Containment Architecture
 
@@ -271,7 +271,7 @@ F-4 maintains incident response for study events: biological incidents,
 exposure events, and sample-control breaches are met with the station's
 response doctrine, with medical and containment escalation as required.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 10. Research Character and Programs
 
@@ -297,7 +297,7 @@ restriction set that governs it. Research on the floor's most sensitive
 material proceeds under the deepest study restrictions — or does not
 proceed at all.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 11. Personnel and Duty Life
 
@@ -320,7 +320,7 @@ are designed before they run, documented while they run, and reviewed after
 they run. The floor treats biological knowledge as a controlled substance —
 valuable, and dangerous in the wrong hands.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 12. Floor Doctrine
 
@@ -343,7 +343,7 @@ know which residents may be studied and how, and must refuse study that
 exceeds a resident's restriction set. Knowledge is pursued within the
 limits that containment requires.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 13. Incident Archive
 
@@ -352,7 +352,7 @@ incidents, exposure events, and sample-control discrepancies. The incidents
 that shaped the station's research doctrine are preserved in the station's
 history files.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 14. Current Status and Projected Development
 
@@ -363,7 +363,7 @@ priorities include:
 - refinement of controlled-environment research for cold-suppressed
   anomalies.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 15. Cross-Referenced Files
 
@@ -374,7 +374,7 @@ priorities include:
 - ACT_Site_Doctrine_and_Installation_Structure.md / .txt
 - White Grave Annex Register (clearance-gated)
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Closing
 

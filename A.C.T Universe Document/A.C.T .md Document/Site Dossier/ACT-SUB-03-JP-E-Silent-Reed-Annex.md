@@ -79,8 +79,8 @@ restricted work areas, and its quiet, low-profile presence.
 
 The annex exists as a sub-site because its function is deliberately narrow: it is
 a buffer. It has no mandate for
-long-term memetic containment, no permanent holdings, and no standing beyond support for the parent node's archive
-doctrine.
+long-term memetic containment, no permanent holdings, and no
+standing beyond support for the parent node's archive doctrine.
 
 ---
 
@@ -94,9 +94,9 @@ that could not be processed immediately had nowhere to wait safely.
 
 ### 4.2 Creation of the Annex
 
-The Facility established Silent Reed Annex as a dedicated buffer: a place where low-to-mid memetic material,
-controlled infohazard reviews, and temporary redaction work could be staged without congesting the parent node's
-archive.
+The Facility established Silent Reed Annex as a dedicated buffer: a place where
+low-to-mid memetic material, controlled infohazard reviews, and temporary
+redaction work could be staged without congesting the parent node's archive.
 
 ### 4.3 Modern Role
 
@@ -118,9 +118,9 @@ the parent node's Archive and Intelligence dual review structure.
 
 ### 5.2 Relationship to the Parent Node
 
-The annex reports to ACT-SITE-03-JP-E for all operational matters: quarantine policy, review scheduling, redaction
-standards, and material disposition. Material held at the annex moves to the parent node or onward under the parent's
-authority.
+The annex reports to ACT-SITE-03-JP-E for all operational matters: quarantine
+policy, review scheduling, redaction standards, and material disposition. Material
+held at the annex moves to the parent node or onward under the parent's authority.
 
 ### 5.3 Command Limits
 
@@ -147,9 +147,9 @@ and ensuring that buffered material does not create an information-risk blind sp
 
 ### 6.3 Limited Medical Cognitive Staff
 
-The annex maintains limited medical cognitive support for personnel exposed to buffered material during review —
-sufficient capacity to manage the cognitive effects of controlled exposure until personnel can return to the parent
-node's fuller medical care.
+The annex maintains limited medical cognitive support for personnel exposed to buffered
+material during review — sufficient capacity to manage the cognitive effects of
+controlled exposure until personnel can return to the parent node's fuller medical care.
 
 ---
 
@@ -198,9 +198,9 @@ filtered, and formatted under the parent's redaction doctrine before transfer to
 
 ## 9. Resident Holdings
 
-The annex does not maintain permanent residents. Its holdings are temporary by design: buffered documents, quarantined
-material awaiting review, and redaction work in progress. The annex's manifest is a rolling record of material in
-buffer.
+The annex does not maintain permanent residents. Its holdings are temporary by
+design: buffered documents, quarantined material awaiting review, and redaction
+work in progress. The annex's manifest is a rolling record of material in buffer.
 
 ---
 

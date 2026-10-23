@@ -30,9 +30,9 @@ pre-loading fixation tools before Facility Converted Aircraft movement.
 
 Causal Anchor Nails do not replace an RSA. They are field nails, not rooms.
 Their job is to buy a small amount of
-trustworthy position when a recovered object, sample, doorway, vehicle, body, fragment, or container is likely to
-slide through space, detach from its own history, refuse loading, or pull surrounding matter into the wrong
-relationship.
+trustworthy position when a recovered object, sample, doorway, vehicle, body,
+fragment, or container is likely to slide through space, detach from its own
+history, refuse loading, or pull surrounding matter into the wrong relationship.
 
 Controlled label: **CAN DEPLOYMENT GEOMETRY LIMIT**.
 
@@ -270,9 +270,9 @@ as if containment has succeeded. CAN
 doctrine rejects that assumption. A pinned object is still anomalous. It is only less
 mobile for a while.
 
-Known failure modes include skipped lock clicks, delayed release, surface rejection, thermal runaway, nail-to-nail
-argument, stress transfer into floor plates, cargo tearing at the fixed point, false dead-core readings, and post-use
-memory of the wrong location.
+Known failure modes include skipped lock clicks, delayed release, surface rejection,
+thermal runaway, nail-to-nail argument, stress transfer into floor plates, cargo tearing
+at the fixed point, false dead-core readings, and post-use memory of the wrong location.
 
 ---
 

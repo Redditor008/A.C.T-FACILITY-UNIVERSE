@@ -50,10 +50,10 @@ vulnerability interface. The acoustic vibration disc monitors density response s
 drill is cutting material, waking material, or arguing with a structural rule. Pressure gauges and RPM readouts help
 operators avoid forcing the bit into a state where the surrounding architecture reacts.
 
-The drills support construction, sampling, emergency access, surgical-material preparation, and controlled
-deconstruction. They are not general-purpose mining equipment. Every use consumes trust, gold, bit integrity, and
-source material. Improper boring may change a structure's behavior or create a route through which Dark World pressure
-can enter ordinary space.
+The drills support construction, sampling, emergency access, surgical-material preparation, and
+controlled deconstruction. They are not general-purpose mining equipment. Every use consumes
+trust, gold, bit integrity, and source material. Improper boring may change a structure's
+behavior or create a route through which Dark World pressure can enter ordinary space.
 
 Approved roles include:
 

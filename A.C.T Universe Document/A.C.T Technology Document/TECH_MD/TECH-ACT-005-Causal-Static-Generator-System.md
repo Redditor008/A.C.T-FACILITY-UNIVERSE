@@ -61,11 +61,11 @@ to
 escalate.
 ```
 
-That description remains accurate. The expanded record adds the operational meaning: Causal Static is used when an
-anomaly appears to grow stronger because events are becoming narratively charged. Examples include witnesses repeating
-the same phrase, doors opening on symbolic timing, media stories aligning around a heroic or doomed structure, field
-teams being assigned roles by circumstance, or recovered documents arranging themselves into a plot that staff begin
-to obey.
+That description remains accurate. The expanded record adds the operational meaning: Causal
+Static is used when an anomaly appears to grow stronger because events are becoming narratively
+charged. Examples include witnesses repeating the same phrase, doors opening on symbolic timing,
+media stories aligning around a heroic or doomed structure, field teams being assigned roles by
+circumstance, or recovered documents arranging themselves into a plot that staff begin to obey.
 
 ### Operational Role
 
@@ -75,8 +75,7 @@ Causal Static appears in five major roles:
 - field suppression during recovery operations where events begin repeating dramatic beats;
  archive quarantine when documents, recordings, or testimony attempt to recruit readers into a story;
 - Civil Covert support when public narratives are becoming anomalously self-reinforcing;
- personnel protection when field teams need dull procedural interruption before panic, prophecy, or heroic
- fixation
+ personnel protection when field teams need dull procedural interruption before panic, prophecy, or heroic fixation
  takes hold.
 
 The system's field rule is:
@@ -146,9 +145,9 @@ Known components include:
 - CSG to QNB logging link;
 - Medical pulse and stress monitor attachment for crew exposure.
 
-The boredom-frequency tuner is poorly named for public-facing explanation but accurate in field use. It does not make
-people simply bored. It reduces dramatic coherence inside a target environment by flooding available attention with
-low-value procedural signal.
+The boredom-frequency tuner is poorly named for public-facing explanation but accurate
+in field use. It does not make people simply bored. It reduces dramatic coherence inside
+a target environment by flooding available attention with low-value procedural signal.
 
 ### Fixed, Archive, and Field Variants
 
@@ -246,8 +245,8 @@ restoration, or 004-series amnestic administration.
 
 Standard operation begins with pattern confirmation. The operator must identify what narrative behavior is being
 interrupted: prophecy loop, hero fixation, doom sequence, song recruitment, audience formation, role assignment,
-repeating dialogue, symbolic escalation, or document scripting. Static cannot be tuned safely if the target pattern is
-unknown.
+repeating dialogue, symbolic escalation, or document scripting.
+Static cannot be tuned safely if the target pattern is unknown.
 
 ### Monitoring States
 
@@ -262,8 +261,8 @@ CSG-WHITE: emergency narrative starvation; Site Command and Medical attach.
 CSG-BLACK: broadcast compromised; shut down if possible and distrust all repeated phrases.
 ```
 
-CSG-BLACK includes cases where the anomaly begins using the static as drumbeat, prophecy, chant, countdown, or proof
-of persecution.
+CSG-BLACK includes cases where the anomaly begins using the static
+as drumbeat, prophecy, chant, countdown, or proof of persecution.
 
 ### Handling Rules
 

@@ -8,9 +8,9 @@
 | AUTHORITY | Civil Covert Division, Intelligence Division, and Central Archive |
 
 #### Archive Note
-This doctrine defines how A.C.T manufactures public explanations after anomalous incidents. It does not celebrate
-deception. It records the machinery that keeps civilian life from collapsing under truths it has not been allowed to
-survive.
+This doctrine defines how A.C.T manufactures public explanations after anomalous
+incidents. It does not celebrate deception. It records the machinery that keeps
+civilian life from collapsing under truths it has not been allowed to survive.
 
 ---
 
@@ -31,9 +31,9 @@ cover stories, witness handling, institutional liaison, document adjustment, med
 media quieting, memory treatment, and the careful use of truth when a lie would
 create more damage.
 
-A.C.T does not preserve normalcy because normal life is naturally true. It preserves normalcy because mass exposure to
-the anomalous can create panic, imitation, worship, weaponization, political collapse, or a second anomaly made from
-public belief.
+A.C.T does not preserve normalcy because normal life is naturally true. It preserves
+normalcy because mass exposure to the anomalous can create panic, imitation, worship,
+weaponization, political collapse, or a second anomaly made from public belief.
 
 ---
 
@@ -48,8 +48,8 @@ Tracks leak probability, GOI interference, hostile documentation, online pattern
 whether a cover story will attract the wrong attention.
 
 #### Recovery Division
-Secures the physical scene, removes anomalous material, isolates witnesses, and preserves the first raw truth before
-Civil Covert replaces it.
+Secures the physical scene, removes anomalous material, isolates witnesses,
+and preserves the first raw truth before Civil Covert replaces it.
 
 #### Medical Care Division
 Provides medical-compatible explanations, hospital redirection,
@@ -165,9 +165,9 @@ Amnestics are a normalcy tool, not a universal eraser. Their use must account fo
 - risk of repeated exposure;
 - whether the witness needs a truth shard to remain psychologically stable.
 
-The NEMNOLIA 004-series remains the major institutional example of transformation becoming normalcy infrastructure.
-That origin must remain visible to authorized staff. If A.C.T forgets where its amnestics came from, the normalcy
-system begins lying to itself.
+The NEMNOLIA 004-series remains the major institutional example of transformation
+becoming normalcy infrastructure. That origin must remain visible to authorized staff. If
+A.C.T forgets where its amnestics came from, the normalcy system begins lying to itself.
 
 ---
 

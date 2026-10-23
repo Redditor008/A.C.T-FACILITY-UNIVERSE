@@ -68,8 +68,8 @@ Latest confirmed pushed commit before this Patch Saver was created:
 - Working tree was clean after verification.
 
 ## Active Task
-Continue the main A.C.T technology-document phase. Main A.C.T technologies from existing A.C.T material come before
-GOI technology.
+Continue the main A.C.T technology-document phase. Main A.C.T
+technologies from existing A.C.T material come before GOI technology.
 
 ## Numbering State
 Current completed A.C.T-origin technology records before this prompt:
@@ -206,8 +206,7 @@ Immediate next work after this prompt:
 - Commit and push.
 - Explicit-refspec fetch verify.
 - Next technology number after successful push will be `TECH-ACT-091`.
-  Next source area should continue from fully read existing A.C.T material, likely remaining Glass
-  Orchard F-2/F-3
+  Next source area should continue from fully read existing A.C.T material, likely remaining Glass Orchard F-2/F-3
   systems or the next sub-site/floor dossier after checking for overlap.
 
 ## Prompt Start Update — 2026-09-16, Continuation After `ba4b78f`
@@ -240,8 +239,7 @@ Immediate next action for this prompt:
 Work completed during this prompt:
 
 - Verified branch state at prompt start: active session branch, HEAD `ba4b78f3de4cd570a6febc7f1007c8a8fcc4ee92`.
-  Rechecked relevant Glass Orchard Relay source passages from the sub-site dossier, F-2 Processing and
-  Staging Level
+  Rechecked relevant Glass Orchard Relay source passages from the sub-site dossier, F-2 Processing and Staging Level
   dossier, and F-3 Surface Cover Level dossier.
 — Created `TECH-ACT-091` Intake Staging and Routing System as Markdown/TXT twins.
 — Created `TECH-ACT-092` Agricultural Biotech Cover Campus as Markdown/TXT twins.
@@ -275,8 +273,7 @@ Immediate next work after this prompt:
 - Commit and push this batch.
 - Explicit-refspec fetch verify local/remote/FETCH_HEAD match.
 - If successful, next A.C.T-origin technology number will be `TECH-ACT-094`.
-  Continue with existing A.C.T source-backed technology only. Likely next source area should be another
-  sub-site/floor
+  Continue with existing A.C.T source-backed technology only. Likely next source area should be another sub-site/floor
   dossier already present, after reading fully before drafting.
 
 ## Post-Push Verification Update — 2026-09-16
@@ -301,11 +298,9 @@ User prompt received: `p`.
 
 Patch Saver compliance action:
 
-  Branch state initially drifted back to the old `22c3ec5` main-base workspace with many stale
-  modifications and
+  Branch state initially drifted back to the old `22c3ec5` main-base workspace with many stale modifications and
   untracked files.
-  Corrected state by fetching `origin` for the active session branch, hard-resetting to `FETCH_HEAD`, and
-  cleaning
+  Corrected state by fetching `origin` for the active session branch, hard-resetting to `FETCH_HEAD`, and cleaning
   untracked files.
 — Current confirmed restored HEAD is `8257ae6fdb601a6f393fae78313fed4ae516d8de`,
 commit title `Update technology phase patch saver`.
@@ -320,14 +315,12 @@ Immediate next action for this prompt:
 - Read the next selected A.C.T source documents fully before drafting.
 - Draft a manual three-record batch if the source supports it.
 - Update technology indexes and root README.
-  Run validation, commit, push, explicit-refspec fetch verify, and update this Patch Saver again at
-  the end.
+  Run validation, commit, push, explicit-refspec fetch verify, and update this Patch Saver again at the end.
 
 ## Prompt End Update — 2026-09-16, Frost Hollow Continuation Through `TECH-ACT-096`
 Work completed during this prompt:
 
-  Restored branch state after stale workspace drift: fetched `origin` for the active session branch,
-  hard-reset to
+  Restored branch state after stale workspace drift: fetched `origin` for the active session branch, hard-reset to
   `FETCH_HEAD`, and cleaned untracked files.
 — Verified restored HEAD before drafting: `8257ae6fdb601a6f393fae78313fed4ae516d8de`.
   Read the Frost Hollow Depot sub-site dossier and its three floor dossiers for
@@ -365,8 +358,7 @@ Immediate next work after this prompt:
 - Commit and push this batch.
 - Explicit-refspec fetch verify local/remote/FETCH_HEAD match.
 - If successful, next A.C.T-origin technology number will be `TECH-ACT-097`.
-  Continue with existing A.C.T source-backed technology only. Likely next source area should be another
-  sub-site/floor
+  Continue with existing A.C.T source-backed technology only. Likely next source area should be another sub-site/floor
   dossier already present, after reading fully before drafting.
 
 ## Post-Push Verification Update — 2026-09-16
@@ -501,8 +493,8 @@ Immediate next action for this prompt:
   prompt-start Patch Saver
   update.
 — Read the next relevant A.C.T source documents fully before drafting.
-  Continue with source-backed technology records; since `TECH-ACT-100` is the next number, treat it as
-  a clean milestone
+  Continue with source-backed technology records; since
+  `TECH-ACT-100` is the next number, treat it as a clean milestone
   record if the source supports it.
 — Update technology indexes and root README.
   Run validation, commit, push, fetch-verify, and update this Patch Saver again before final reporting.
@@ -545,8 +537,8 @@ Immediate next work after this prompt:
 - Commit and push this batch.
 - Explicit-refspec fetch verify local/remote/FETCH_HEAD match.
 - If successful, next A.C.T-origin technology number will be `TECH-ACT-103`.
-  Continue with existing A.C.T source-backed technology only. Next source area can return to larger
-  site dossiers/floor
+  Continue with existing A.C.T source-backed technology only.
+  Next source area can return to larger site dossiers/floor
   dossiers or another already-present document after reading fully before drafting.
 
 ## Post-Push Verification Update — 2026-09-16
@@ -634,8 +626,7 @@ Immediate next work after this prompt:
 - Commit and push this batch.
 - Explicit-refspec fetch verify local/remote/FETCH_HEAD match.
 - If successful, next A.C.T-origin technology number will be `TECH-ACT-106`.
-  Continue with existing A.C.T source-backed technology only. Next source area can continue Verde Null
-  F-4/F-5 or
+  Continue with existing A.C.T source-backed technology only. Next source area can continue Verde Null F-4/F-5 or
   another already-present document after reading fully before drafting.
 
 ## Post-Push Verification Update — 2026-09-16
@@ -665,12 +656,11 @@ Required continuation state:
 - Preserve the completed Verde Null technology batch through `TECH-ACT-105`.
 - Next A.C.T-origin technology number is `TECH-ACT-106`.
 - Continue main A.C.T technology from existing A.C.T source material before GOI technology.
-  Read the next selected source documents fully or by complete non-truncated targeted reads before
-  drafting.
-— Keep using direct/manual record creation for this continuation pattern, not generator-script drafting. — Validate
-word counts, final newlines, TXT formatting, stale designation strings, E-Class wording, unwanted out-of-world
-wording, pair integrity, broken local Markdown links, repository document integrity, and diff whitespace
-  before commit.
+  Read the next selected source documents fully or by complete non-truncated targeted reads before drafting.
+— Keep using direct/manual record creation for this continuation pattern, not
+generator-script drafting. — Validate word counts, final newlines, TXT formatting, stale
+designation strings, E-Class wording, unwanted out-of-world wording, pair integrity, broken
+local Markdown links, repository document integrity, and diff whitespace before commit.
 
 ## Prompt End Update — 2026-09-16, Verde Null Command and Cover Continuation Through `TECH-ACT-108`
 Work completed during this prompt:
@@ -741,12 +731,10 @@ Required continuation state:
 - Preserve completed technology records through `TECH-ACT-108`.
 - Next A.C.T-origin technology number is `TECH-ACT-109`.
 - Continue main A.C.T technology from existing A.C.T source material before GOI technology.
-  Read the next selected source documents fully or by complete non-truncated targeted reads before
-  drafting.
-— Keep manual/direct record creation for this continuation pattern, not generator-script drafting. — Validate
-word counts, final newlines, TXT formatting, stale designation strings, E-Class wording, unwanted out-of-world
-wording, pair integrity, broken local Markdown links, repository document integrity, and diff whitespace
-  before commit.
+  Read the next selected source documents fully or by complete non-truncated targeted reads before drafting.
+— Keep manual/direct record creation for this continuation pattern, not generator-script drafting. — Validate word
+counts, final newlines, TXT formatting, stale designation strings, E-Class wording, unwanted out-of-world wording,
+pair integrity, broken local Markdown links, repository document integrity, and diff whitespace before commit.
 
 ## Prompt End Update — 2026-09-16, Nusantara F-3/F-4 Continuation Through `TECH-ACT-111`
 Work completed during this prompt:
@@ -816,12 +804,10 @@ Required continuation state:
 - Preserve completed technology records through `TECH-ACT-111`.
 - Next A.C.T-origin technology number is `TECH-ACT-112`.
 - Continue main A.C.T technology from existing A.C.T source material before GOI technology.
-  Read the next selected source documents fully or by complete non-truncated targeted reads before
-  drafting.
-— Keep manual/direct record creation for this continuation pattern, not generator-script drafting. — Validate
-word counts, final newlines, TXT formatting, stale designation strings, E-Class wording, unwanted out-of-world
-wording, pair integrity, broken local Markdown links, repository document integrity, and diff whitespace
-  before commit.
+  Read the next selected source documents fully or by complete non-truncated targeted reads before drafting.
+— Keep manual/direct record creation for this continuation pattern, not generator-script drafting. — Validate word
+counts, final newlines, TXT formatting, stale designation strings, E-Class wording, unwanted out-of-world wording,
+pair integrity, broken local Markdown links, repository document integrity, and diff whitespace before commit.
 
 ## Prompt End Update — 2026-09-16, Nusantara F-5/F-6 Continuation Through `TECH-ACT-114`
 Work completed during this prompt:
@@ -890,12 +876,10 @@ Required continuation state:
 - Preserve completed technology records through `TECH-ACT-114`.
 - Next A.C.T-origin technology number is `TECH-ACT-115`.
 - Continue main A.C.T technology from existing A.C.T source material before GOI technology.
-  Read the next selected source documents fully or by complete non-truncated targeted reads before
-  drafting.
-— Keep manual/direct record creation for this continuation pattern, not generator-script drafting. — Validate
-word counts, final newlines, TXT formatting, stale designation strings, E-Class wording, unwanted out-of-world
-wording, pair integrity, broken local Markdown links, repository document integrity, and diff whitespace
-  before commit.
+  Read the next selected source documents fully or by complete non-truncated targeted reads before drafting.
+— Keep manual/direct record creation for this continuation pattern, not generator-script drafting. — Validate word
+counts, final newlines, TXT formatting, stale designation strings, E-Class wording, unwanted out-of-world wording,
+pair integrity, broken local Markdown links, repository document integrity, and diff whitespace before commit.
 
 ## Prompt End Update — 2026-09-16, Kurokawa F-7/F-8 Continuation Through `TECH-ACT-117`
 Work completed during this prompt:
@@ -973,26 +957,24 @@ Required continuation state:
 - Preserve completed technology records through `TECH-ACT-117`.
 - Next A.C.T-origin technology number is `TECH-ACT-118`.
 - Continue main A.C.T technology from existing A.C.T source material before GOI technology.
-  Read the next selected source documents fully or by complete non-truncated targeted reads before
-  drafting.
-— Keep manual/direct record creation for this continuation pattern, not generator-script drafting. — Validate
-word counts, final newlines, TXT formatting, stale designation strings, E-Class wording, unwanted out-of-world
-wording, pair integrity, broken local Markdown links, repository document integrity, and diff whitespace
-  before commit.
+  Read the next selected source documents fully or by complete non-truncated targeted reads before drafting.
+— Keep manual/direct record creation for this continuation pattern, not generator-script drafting. — Validate word
+counts, final newlines, TXT formatting, stale designation strings, E-Class wording, unwanted out-of-world wording,
+pair integrity, broken local Markdown links, repository document integrity, and diff whitespace before commit.
 
 ## Prompt End Update — 2026-09-16, Kurokawa F-4/F-5 Research and Redaction Continuation Through `TECH-ACT-120`
 Work completed during this prompt:
 
 - Prompt-start Patch Saver update was appended before continuing work.
-  Workspace drift was detected after the first prompt-start write; local HEAD had fallen back
-  to base commit with stale
+  Workspace drift was detected after the first prompt-start
+  write; local HEAD had fallen back to base commit with stale
   modified and untracked files. Corrected with explicit fetch, hard reset to the arena remote branch, clean, and
   re-applied this prompt-start Patch Saver update before continuing.
 — Verified branch state after correction: branch the active session branch, HEAD
   `60bad19acfc8442680cee44ae5c29a7b75e4fff9`.
-— Read `ACT-SITE-03-JP-E-F-4 Research and Analysis Level`, `ACT-SITE-03-JP-E-F-5 Redaction and Controlled-Reading
-Laboratory`, and `ACT-SITE-03-JP-E-F-6 General Records and Anomalous Intake` through non-truncated targeted reads for
-  the new records.
+— Read `ACT-SITE-03-JP-E-F-4 Research and Analysis Level`, `ACT-SITE-03-JP-E-F-5
+Redaction and Controlled-Reading Laboratory`, and `ACT-SITE-03-JP-E-F-6 General Records
+and Anomalous Intake` through non-truncated targeted reads for the new records.
 — Created `TECH-ACT-118` Symbol Behavior Controlled Observation Suites as Markdown/TXT twins.
 — Created `TECH-ACT-119` Media Propagation Tracking Center System as Markdown/TXT twins.
 — Created `TECH-ACT-120` Redaction Release Authorization and Filtering Record System as Markdown/TXT twins.
@@ -1053,12 +1035,10 @@ Required continuation state:
 - Preserve completed technology records through `TECH-ACT-120`.
 - Next A.C.T-origin technology number is `TECH-ACT-121`.
 - Continue main A.C.T technology from existing A.C.T source material before GOI technology.
-  Read the next selected source documents fully or by complete non-truncated targeted reads before
-  drafting.
-— Keep manual/direct record creation for this continuation pattern, not generator-script drafting. — Validate
-word counts, final newlines, TXT formatting, stale designation strings, E-Class wording, unwanted out-of-world
-wording, pair integrity, broken local Markdown links, repository document integrity, and diff whitespace
-  before commit.
+  Read the next selected source documents fully or by complete non-truncated targeted reads before drafting.
+— Keep manual/direct record creation for this continuation pattern, not generator-script drafting. — Validate word
+counts, final newlines, TXT formatting, stale designation strings, E-Class wording, unwanted out-of-world wording,
+pair integrity, broken local Markdown links, repository document integrity, and diff whitespace before commit.
 
 ## Prompt End Update — 2026-09-16, Kurokawa F-1/F-2/F-3 Deep-Archive Continuation Through `TECH-ACT-123`
 Work completed during this prompt:
@@ -1067,8 +1047,7 @@ Work completed during this prompt:
   Verified active branch state at the start of the continuation: active session branch,
   HEAD
   `c7c15d085232b5228f31ceb81668693b398d4fc8`, with only this Patch Saver modified at that time.
-  Reran targeted, non-truncated source reads for Kurokawa F-1, F-2, and F-3 material used in
-  this batch, including F-1
+  Reran targeted, non-truncated source reads for Kurokawa F-1, F-2, and F-3 material used in this batch, including F-1
   anti-reading preservation vaults and closure doctrine, F-2 Blind Box/Eye Box perception-control vaulting, and F-3
   signal-isolated active anomalous document storage.
 — Created `TECH-ACT-121` Unread Archive Anti-Reading Preservation Vault System as Markdown/TXT twins.
@@ -1085,8 +1064,7 @@ Validation results before staging:
 - `TECH-ACT-123` Markdown word count: `1278`.
 - `TECH-ACT-123` TXT word count: `1201`.
 - New TXT twins had no Markdown-only marker hits.
-  Old designation scan produced only known numeric-title path hits for `TECH-ACT-004` and `TECH-ACT-058`; no
-  bad new
+  Old designation scan produced only known numeric-title path hits for `TECH-ACT-004` and `TECH-ACT-058`; no bad new
   designation strings were present in the new records.
 — No stale or misspelled E-Class wording found in the new records.
   New technology files had no unwanted out-of-world wording hits after changing Markdown headings to
@@ -1121,8 +1099,7 @@ Next prompt start action remains mandatory:
 - Update this Patch Saver first.
   Verify branch state and restore exact arena branch if stale workspace drift appears
   again.
-  Read the next selected A.C.T source documents fully or by complete non-truncated targeted reads
-  before drafting.
+  Read the next selected A.C.T source documents fully or by complete non-truncated targeted reads before drafting.
 — Continue source-backed main A.C.T technology records before GOI technology.
 
 ## Prompt Start Update — 2026-09-16, Continue After Kurokawa `TECH-ACT-123`
@@ -1134,12 +1111,10 @@ Required continuation state:
 - Preserve completed technology records through `TECH-ACT-123`.
 - Next A.C.T-origin technology number is `TECH-ACT-124`.
 - Continue main A.C.T technology from existing A.C.T source material before GOI technology.
-  Read the next selected source documents fully or by complete non-truncated targeted reads before
-  drafting.
-— Keep manual/direct record creation for this continuation pattern, not generator-script drafting. — Validate
-word counts, final newlines, TXT formatting, stale designation strings, E-Class wording, unwanted out-of-world
-wording, pair integrity, broken local Markdown links, repository document integrity, and diff whitespace
-  before commit.
+  Read the next selected source documents fully or by complete non-truncated targeted reads before drafting.
+— Keep manual/direct record creation for this continuation pattern, not generator-script drafting. — Validate word
+counts, final newlines, TXT formatting, stale designation strings, E-Class wording, unwanted out-of-world wording,
+pair integrity, broken local Markdown links, repository document integrity, and diff whitespace before commit.
 
 ## Prompt End Update — 2026-09-16, Redwood Veil F-3/F-4/F-5 Continuation Through `TECH-ACT-126`
 Work completed during this prompt:
@@ -1148,8 +1123,7 @@ Work completed during this prompt:
   Verified active branch state at the start of the continuation: active session branch,
   HEAD
   `46009acbe8f69af1280425563dfa2e22e1f0e641`, clean before the prompt-start Patch Saver write.
-  Read selected Redwood Veil F-3, F-4, and F-5 source sections through non-truncated targeted reads
-  before drafting,
+  Read selected Redwood Veil F-3, F-4, and F-5 source sections through non-truncated targeted reads before drafting,
   including F-3 standard object chambers and Box system, F-4
   transformation staging and ascending authorization, and F-5
   controlled study, sample control, and research data doctrine.
@@ -1167,8 +1141,7 @@ Validation results before staging:
 - `TECH-ACT-126` Markdown word count: `1280`.
 - `TECH-ACT-126` TXT word count: `1200`.
 - New TXT twins had no Markdown-only marker hits.
-  Old designation scan produced only known numeric-title path hits for `TECH-ACT-004` and `TECH-ACT-058`; no
-  bad new
+  Old designation scan produced only known numeric-title path hits for `TECH-ACT-004` and `TECH-ACT-058`; no bad new
   designation strings were present in the new records.
 — No stale or misspelled E-Class wording found in the new records.
 — New technology files had no unwanted out-of-world wording hits.
@@ -1202,8 +1175,7 @@ Next prompt start action remains mandatory:
 - Update this Patch Saver first.
   Verify branch state and restore exact arena branch if stale workspace drift appears
   again.
-  Read the next selected A.C.T source documents fully or by complete non-truncated targeted reads
-  before drafting.
+  Read the next selected A.C.T source documents fully or by complete non-truncated targeted reads before drafting.
 — Continue source-backed main A.C.T technology records before GOI technology.
 
 ## Prompt Start Update — 2026-09-16, Continue After Redwood Veil `TECH-ACT-126`
@@ -1215,12 +1187,10 @@ Required continuation state:
 - Preserve completed technology records through `TECH-ACT-126`.
 - Next A.C.T-origin technology number is `TECH-ACT-127`.
 - Continue main A.C.T technology from existing A.C.T source material before GOI technology.
-  Read the next selected source documents fully or by complete non-truncated targeted reads before
-  drafting.
-— Keep manual/direct record creation for this continuation pattern, not generator-script drafting. — Validate
-word counts, final newlines, TXT formatting, stale designation strings, E-Class wording, unwanted out-of-world
-wording, pair integrity, broken local Markdown links, repository document integrity, and diff whitespace
-  before commit.
+  Read the next selected source documents fully or by complete non-truncated targeted reads before drafting.
+— Keep manual/direct record creation for this continuation pattern, not generator-script drafting. — Validate word
+counts, final newlines, TXT formatting, stale designation strings, E-Class wording, unwanted out-of-world wording,
+pair integrity, broken local Markdown links, repository document integrity, and diff whitespace before commit.
 
 ## Prompt End Update — 2026-09-16, Redwood Veil F-6/F-7/F-8 Continuation Through `TECH-ACT-129`
 Work completed during this prompt:
@@ -1229,8 +1199,7 @@ Work completed during this prompt:
   Verified active branch state at the start of the continuation: active session branch,
   HEAD
   `6c091a0e829cc9a70f34ff20115c2674bc8a49bf`, clean before the prompt-start Patch Saver write.
-  Read selected Redwood Veil F-6, F-7, and F-8 source sections through non-truncated targeted reads
-  before drafting,
+  Read selected Redwood Veil F-6, F-7, and F-8 source sections through non-truncated targeted reads before drafting,
   including F-6 medical isolation and cognitive care, F-7 QNB-hardened repository and retrieval doctrine, and F-8
   vertical-flow personnel processing and clearance verification.
 — Created `TECH-ACT-127` Medical Isolation and Cognitive Recovery Ward System as Markdown/TXT twins.
@@ -1247,8 +1216,7 @@ Validation results before staging:
 - `TECH-ACT-129` Markdown word count: `1317`.
 - `TECH-ACT-129` TXT word count: `1236`.
 - New TXT twins had no Markdown-only marker hits.
-  Old designation scan produced only known numeric-title path hits for `TECH-ACT-004` and `TECH-ACT-058`; no
-  bad new
+  Old designation scan produced only known numeric-title path hits for `TECH-ACT-004` and `TECH-ACT-058`; no bad new
   designation strings were present in the new records.
 — No stale or misspelled E-Class wording found in the new records.
 — New technology files had no unwanted out-of-world wording hits.
@@ -1282,8 +1250,7 @@ Next prompt start action remains mandatory:
 - Update this Patch Saver first.
   Verify branch state and restore exact arena branch if stale workspace drift appears
   again.
-  Read the next selected A.C.T source documents fully or by complete non-truncated targeted reads
-  before drafting.
+  Read the next selected A.C.T source documents fully or by complete non-truncated targeted reads before drafting.
 — Continue source-backed main A.C.T technology records before GOI technology.
 
 ## Prompt Start Update — 2026-09-16, Continue After Redwood Veil `TECH-ACT-129` and Count Remaining
@@ -1297,19 +1264,16 @@ Required continuation state:
 - Continue main A.C.T technology from existing A.C.T source material before GOI technology.
   Answer the user's "how many more" directly from repository evidence where possible; distinguish confirmed
   source-backed candidates from uncertain future extraction.
-  Read the next selected source documents fully or by complete non-truncated targeted reads before
-  drafting.
-— Keep manual/direct record creation for this continuation pattern, not generator-script drafting. — Validate
-word counts, final newlines, TXT formatting, stale designation strings, E-Class wording, unwanted out-of-world
-wording, pair integrity, broken local Markdown links, repository document integrity, and diff whitespace
-  before commit.
+  Read the next selected source documents fully or by complete non-truncated targeted reads before drafting.
+— Keep manual/direct record creation for this continuation pattern, not generator-script drafting. — Validate word
+counts, final newlines, TXT formatting, stale designation strings, E-Class wording, unwanted out-of-world wording,
+pair integrity, broken local Markdown links, repository document integrity, and diff whitespace before commit.
 
 ## Prompt End Update — 2026-09-16, Redwood F-9 and White Grave F-6/F-5 Continuation Through
 `TECH-ACT-132` Work completed during this prompt:
 
 - Prompt-start Patch Saver update was appended before continuing work.
-  User asked `how many more`; current evidence-based answer is that the immediate confirmed site/floor
-  technology pass
+  User asked `how many more`; current evidence-based answer is that the immediate confirmed site/floor technology pass
   has four obvious White Grave floor-system records remaining after this batch: F-4 Research and Biological Study, F-3
   Standard Deep-Isolation Holding, F-2 Entropic and Unstable Resident Holding, and F-1 The Long Sleep. This does not
   count later optional extraction from anomaly files, material files, or GOI-linked technology.
@@ -1335,8 +1299,7 @@ Validation results before staging:
 - `TECH-ACT-132` Markdown word count: `1318`.
 - `TECH-ACT-132` TXT word count: `1242`.
 - New TXT twins had no Markdown-only marker hits.
-  Old designation scan produced only known numeric-title path hits for `TECH-ACT-004` and `TECH-ACT-058`; no
-  bad new
+  Old designation scan produced only known numeric-title path hits for `TECH-ACT-004` and `TECH-ACT-058`; no bad new
   designation strings were present in the new records.
 — No stale or misspelled E-Class wording found in the new records.
 — New technology files had no unwanted out-of-world wording hits.
@@ -1354,8 +1317,7 @@ Immediate next work after this prompt:
 - Commit and push this batch.
 - Explicit-refspec fetch verify local/remote/FETCH_HEAD match.
 - If successful, next A.C.T-origin technology number will be `TECH-ACT-133`.
-  Four obvious confirmed site/floor technology candidates remain after this batch before the immediate site/floor
-  pass
+  Four obvious confirmed site/floor technology candidates remain after this batch before the immediate site/floor pass
   is exhausted.
 
 ## Post-Push Verification Update — 2026-09-16
@@ -1373,16 +1335,15 @@ Current answer to the user's count question:
 Four obvious confirmed site/floor technology records remain in the immediate A.C.T site-floor pass: White Grave F-4,
 F-3, F-2, and F-1. After those four, any further technology work should be treated
 as a new extraction pass from
-anomaly files, material files, operational doctrine, or GOI-linked technology, not part of the immediate confirmed
-site-floor backlog.
+anomaly files, material files, operational doctrine, or GOI-linked
+technology, not part of the immediate confirmed site-floor backlog.
 
 Next prompt start action remains mandatory:
 
 - Update this Patch Saver first.
   Verify branch state and restore exact arena branch if stale workspace drift appears
   again.
-  Read the next selected A.C.T source documents fully or by complete non-truncated targeted reads
-  before drafting.
+  Read the next selected A.C.T source documents fully or by complete non-truncated targeted reads before drafting.
 — Continue source-backed main A.C.T technology records before GOI technology.
 
 ## Prompt Start Update — 2026-09-16, Continue After `TECH-ACT-132` and Report A.C.T Technology Progress
@@ -1393,35 +1354,30 @@ Required continuation state:
 
 - Continue on the active session branch only.
 - Preserve completed technology records through `TECH-ACT-132`.
-  Current immediate site/floor A.C.T technology pass is counted as `132/136` complete before new drafting,
-  with `4/136`
+  Current immediate site/floor A.C.T technology pass is counted
+  as `132/136` complete before new drafting, with `4/136`
   remaining before this prompt's work.
 — Next A.C.T-origin technology number is `TECH-ACT-133`.
-— Continue main A.C.T technology from existing A.C.T source material before GOI technology.
-Answer the user's count in direct `X/X` form and distinguish immediate confirmed A.C.T site/floor
-  pass from later
+— Continue main A.C.T technology from existing A.C.T source material before GOI technology. Answer the
+user's count in direct `X/X` form and distinguish immediate confirmed A.C.T site/floor pass from later
   optional extraction passes.
-  Read the next selected source documents fully or by complete non-truncated targeted reads before
-  drafting.
-— Keep manual/direct record creation for this continuation pattern, not generator-script drafting. — Validate
-word counts, final newlines, TXT formatting, stale designation strings, E-Class wording, unwanted out-of-world
-wording, pair integrity, broken local Markdown links, repository document integrity, and diff whitespace
-  before commit.
+  Read the next selected source documents fully or by complete non-truncated targeted reads before drafting.
+— Keep manual/direct record creation for this continuation pattern, not generator-script drafting. — Validate word
+counts, final newlines, TXT formatting, stale designation strings, E-Class wording, unwanted out-of-world wording,
+pair integrity, broken local Markdown links, repository document integrity, and diff whitespace before commit.
 
 ## Prompt End Update — 2026-09-16, White Grave F-4/F-3/F-2 Continuation Through `TECH-ACT-135`
 Work completed during this prompt:
 
 - Prompt-start Patch Saver update was appended before continuing work.
-  User clarified they want A.C.T technology count as `X/X`; current immediate site/floor pass moved
-  from `132/136`
+  User clarified they want A.C.T technology count as `X/X`; current immediate site/floor pass moved from `132/136`
   complete before this prompt to `135/136` complete after this
   prompt, with `1/136` remaining in the immediate confirmed
   site/floor pass.
   Verified active branch state at the start of the continuation: active session branch,
   HEAD
   `e8f854200d174d853d001fe0edeae8c32cc3b6fd`, clean before the prompt-start Patch Saver write.
-  Read selected White Grave F-4, F-3, and F-2 source sections through non-truncated targeted reads
-  before drafting,
+  Read selected White Grave F-4, F-3, and F-2 source sections through non-truncated targeted reads before drafting,
   including F-4 long-term biological observation and cold-suppressed study, F-3
   standard deep-isolation and biological suppression holding, and F-2 failure-tolerant
   entropic holding with redundant structures and self-repairing environmental systems.
@@ -1441,8 +1397,7 @@ Validation results before staging:
 - `TECH-ACT-135` Markdown word count: `1277`.
 - `TECH-ACT-135` TXT word count: `1197`.
 - New TXT twins had no Markdown-only marker hits.
-  Old designation scan produced only known numeric-title path hits for `TECH-ACT-004` and `TECH-ACT-058`; no
-  bad new
+  Old designation scan produced only known numeric-title path hits for `TECH-ACT-004` and `TECH-ACT-058`; no bad new
   designation strings were present in the new records.
 — No stale or misspelled E-Class wording found in the new records.
 — New technology files had no unwanted out-of-world wording hits.
@@ -1460,8 +1415,7 @@ Immediate next work after this prompt:
 - Commit and push this batch.
 - Explicit-refspec fetch verify local/remote/FETCH_HEAD match.
 - If successful, next A.C.T-origin technology number will be `TECH-ACT-136`.
-  Immediate confirmed site/floor pass will stand at `135/136`, with `1/136` remaining: White Grave F-1
-  The Long Sleep.
+  Immediate confirmed site/floor pass will stand at `135/136`, with `1/136` remaining: White Grave F-1 The Long Sleep.
 
 ## Post-Push Verification Update — 2026-09-16
 Technology batch commit completed and pushed:
@@ -1486,8 +1440,7 @@ Next prompt start action remains mandatory:
   Read White Grave F-1 The Long Sleep fully or by complete non-truncated targeted
   reads
   before drafting `TECH-ACT-136`.
-  Continue source-backed main A.C.T technology records before GOI technology unless user redirects after the
-  immediate
+  Continue source-backed main A.C.T technology records before GOI technology unless user redirects after the immediate
   site/floor pass completes.
 
 ## Prompt Start Update — 2026-09-16, Continue After `TECH-ACT-135`
@@ -1503,14 +1456,12 @@ Required continuation state:
 — Next A.C.T-origin technology number is `TECH-ACT-136`.
   Draft the remaining immediate site/floor pass record from White Grave F-1 The Long
   Sleep.
-  Continue main A.C.T technology from existing A.C.T source material before GOI technology unless user
-  redirects after
+  Continue main A.C.T technology from existing A.C.T source material before GOI technology unless user redirects after
   the immediate site/floor pass completes.
-— Read White Grave F-1 fully or by complete non-truncated targeted reads before drafting. — Keep
-manual/direct record creation for this continuation pattern, not generator-script drafting. — Validate word
-counts, final newlines, TXT formatting, stale designation strings, E-Class wording, unwanted out-of-world
-wording, pair integrity, broken local Markdown links, repository document integrity, and diff whitespace
-  before commit.
+— Read White Grave F-1 fully or by complete non-truncated targeted reads before drafting. — Keep manual/direct
+record creation for this continuation pattern, not generator-script drafting. — Validate word counts, final
+newlines, TXT formatting, stale designation strings, E-Class wording, unwanted out-of-world wording, pair
+integrity, broken local Markdown links, repository document integrity, and diff whitespace before commit.
 
 ## Prompt End Update — 2026-09-16, White Grave F-1 Completion Through `TECH-ACT-136`
 Work completed during this prompt:
@@ -1522,8 +1473,7 @@ Work completed during this prompt:
   Verified active branch state at the start of the continuation: active session branch,
   HEAD
   `08c129da6222f4817020a7b34936a51d4dc4eb97`, clean before the prompt-start Patch Saver write.
-  Read White Grave F-1 The Long Sleep through complete non-truncated targeted reads before drafting,
-  including Long
+  Read White Grave F-1 The Long Sleep through complete non-truncated targeted reads before drafting, including Long
   Sleep doctrine, individual sleep vaults, deep-cold reinforcement, sleep-state monitoring, resident-specific access,
   Soul Pendant maximum isolation, and F-1 closure procedure.
 — Created `TECH-ACT-136` Long Sleep Vault and F-1 Closure Containment System as Markdown/TXT twins.
@@ -1534,8 +1484,7 @@ Validation results before staging:
 - `TECH-ACT-136` Markdown word count: `1439`.
 - `TECH-ACT-136` TXT word count: `1361`.
 - New TXT twin had no Markdown-only marker hits.
-  Old designation scan produced only known numeric-title path hits for `TECH-ACT-004` and `TECH-ACT-058`; no
-  bad new
+  Old designation scan produced only known numeric-title path hits for `TECH-ACT-004` and `TECH-ACT-058`; no bad new
   designation strings were present in the new record.
 — No stale or misspelled E-Class wording found in the new record.
 — New technology file had no unwanted out-of-world wording hits.
@@ -1596,16 +1545,14 @@ Required continuation state:
   GOI-linked numbering: `TECH-GOI-xxx-y`, where `xxx` is the GOI number and `y` is that GOI's
   individual technology
   number.
-  Existing GOI-linked technology before this phase is `TECH-GOI-071-1` for Mercy Lock Institute, so Mercy
-  Lock requires
+  Existing GOI-linked technology before this phase is
+  `TECH-GOI-071-1` for Mercy Lock Institute, so Mercy Lock requires
   four more records to reach five.
-  Continue source-backed extraction from existing GOI files before drafting. Read each selected GOI source
-  dossier and
+  Continue source-backed extraction from existing GOI files before drafting. Read each selected GOI source dossier and
   any existing GOI tech record before adding new acquired tech.
-— Keep manual/direct record creation for this continuation pattern, not generator-script drafting. — Validate
-word counts, final newlines, TXT formatting, stale designation strings, E-Class wording, unwanted out-of-world
-wording, pair integrity, broken local Markdown links, repository document integrity, and diff whitespace
-  before commit.
+— Keep manual/direct record creation for this continuation pattern, not generator-script drafting. — Validate word
+counts, final newlines, TXT formatting, stale designation strings, E-Class wording, unwanted out-of-world wording,
+pair integrity, broken local Markdown links, repository document integrity, and diff whitespace before commit.
 
 ## Prompt End Update — 2026-09-16, GOI-Acquired Technology Phase Start Through `TECH-GOI-071-4`
 Work completed during this prompt:
@@ -1638,8 +1585,7 @@ Validation results before staging:
 - `TECH-GOI-071-4` Markdown word count: `1328`.
 - `TECH-GOI-071-4` TXT word count: `1248`.
 - New TXT twins had no Markdown-only marker hits.
-  Old designation scan produced only known numeric-title path hits for `TECH-ACT-004` and `TECH-ACT-058`; no
-  bad new
+  Old designation scan produced only known numeric-title path hits for `TECH-ACT-004` and `TECH-ACT-058`; no bad new
   designation strings were present in the new records.
 — No stale or misspelled E-Class wording found in the new records.
 — New technology files had no unwanted out-of-world wording hits.
@@ -1656,15 +1602,14 @@ Immediate next work after this prompt:
 - Run cached diff whitespace validation.
 - Commit and push this batch.
 - Explicit-refspec fetch verify local/remote/FETCH_HEAD match.
-  Continue Mercy Lock Institute with `TECH-GOI-071-5` next to complete its five-record set, then proceed
-  to another GOI
+  Continue Mercy Lock Institute with `TECH-GOI-071-5` next to
+  complete its five-record set, then proceed to another GOI
   source dossier.
 
 ## Continuation Update — 2026-09-16, Mercy Lock Institute Set Completed at `5/5`
 Additional work completed in the same continuation:
 
-  Created `TECH-GOI-071-5` Mercy Lock Shielded Ambulance Transfer System as Markdown/TXT twins from Mercy Lock
-  source
+  Created `TECH-GOI-071-5` Mercy Lock Shielded Ambulance Transfer System as Markdown/TXT twins from Mercy Lock source
   material naming shielded ambulances, interior route curtains, patient transfer agreements, portable gentle lock
   transfer use, patient bells, and nonviolent transfer practice.
 — Updated `TECH_MD/README.md`, `TECH_TXT/README.txt`, and root `README.md` through `TECH-GOI-071-5`.
@@ -1672,8 +1617,8 @@ Additional work completed in the same continuation:
   Current GOI-acquired technology count is now `5/150` if the active 30 GOI dossier
   set
   is treated as the total batch
-  scope. Remaining GOI-acquired technology work is `145/150`, beginning with the next GOI selected by source-backed
-  acquisition evidence.
+  scope. Remaining GOI-acquired technology work is `145/150`, beginning
+  with the next GOI selected by source-backed acquisition evidence.
 
 Next prompt instruction:
 
@@ -1703,8 +1648,7 @@ Immediate continuation instructions:
 - Read the relevant GOI dossier carefully before drafting.
 - Create five manually drafted `TECH-GOI-xxx-y` Markdown/TXT twin records for that GOI.
 - Update technology README Markdown/TXT and root README.
-  Validate word counts, final newlines, pair integrity, TXT formatting, no unwanted meta wording, no
-  E-Class error,
+  Validate word counts, final newlines, pair integrity, TXT formatting, no unwanted meta wording, no E-Class error,
   broken links, and whitespace before commit/push.
 
 ## Prompt End Update — 2026-09-16, DREAM .INC Acquired Technology Set Completed at `5/5`
@@ -1718,8 +1662,8 @@ Work completed during this prompt:
   remote head `196003032c936c3e1e904bb11ac9fabb35969ad4`, and
   reapplied the prompt-start Patch Saver block. Working tree
   then contained only the intended Patch Saver modification before new work continued.
-  Selected DREAM .INC (`GOI-CP-B-049`) as the next GOI-acquired technology set because its dossier explicitly
-  identifies
+  Selected DREAM .INC (`GOI-CP-B-049`) as the next GOI-acquired
+  technology set because its dossier explicitly identifies
   the Dream Nectar Extraction Apparatus, Dream-Type source relationship, product supply, buildings, consumer data,
   customer screening, appointment/payment/confidential-report systems, product batches, and a quiet machine condition
   communication that A.C.T targets for infiltration, containment, and appropriation.
@@ -1738,13 +1682,11 @@ Validation results before staging:
 - `TECH-GOI-049-3` Markdown word count: `588`; TXT word count after plain-text cleanup: above 200.
 - `TECH-GOI-049-4` Markdown word count: `563`; TXT word count after plain-text cleanup: above 200.
 - `TECH-GOI-049-5` Markdown word count: `564`; TXT word count after plain-text cleanup: above 200.
-  Removed accidental heading `#` characters from the new TXT reading copies after validation caught
-  them.
+  Removed accidental heading `#` characters from the new TXT reading copies after validation caught them.
   New technology records had no unwanted meta wording hits and no stale E-Class
   wording
   hits.
-  Repo-wide document check after drafting: no below-200 files, no empty files, no missing final
-  newlines, no UTF-8
+  Repo-wide document check after drafting: no below-200 files, no empty files, no missing final newlines, no UTF-8
   decode errors, and no exact conflict markers.
 — Technology pair check after drafting: `TECH_MD 146`, `TECH_TXT 146`, no missing pairs.
 — Broken local Markdown links: `0`.
@@ -1789,16 +1731,14 @@ Immediate continuation instructions:
 - Read the relevant GOI dossier carefully before drafting.
 - Create five manually drafted `TECH-GOI-xxx-y` Markdown/TXT twin records for that GOI.
 - Update technology README Markdown/TXT and root README.
-  Validate word counts, final newlines, pair integrity, TXT formatting, no unwanted meta wording, no
-  E-Class error,
+  Validate word counts, final newlines, pair integrity, TXT formatting, no unwanted meta wording, no E-Class error,
   broken links, and whitespace before commit/push.
 
 ## Prompt End Update — 2026-09-16, Mysterious Guild Acquired Technology Set Completed at `5/5`
 Work completed during this prompt:
 
 - Prompt-start Patch Saver update was appended before continuing.
-  Local branch again showed historical stale uncommitted drift at prompt start. Saved the prompt-start
-  Patch Saver
+  Local branch again showed historical stale uncommitted drift at prompt start. Saved the prompt-start Patch Saver
   block, explicitly fetched the active session branch, hard reset to confirmed remote head
   `e9d8ef24865d15af21e36be81cdcc659c59ef5b1`, cleaned stale untracked files, and reapplied the prompt-start Patch
   Saver
@@ -1873,8 +1813,7 @@ Immediate continuation instructions:
 - Read the relevant GOI dossier carefully before drafting.
 - Create five manually drafted `TECH-GOI-xxx-y` Markdown/TXT twin records for that GOI.
 - Update technology README Markdown/TXT and root README.
-  Validate word counts, final newlines, pair integrity, TXT formatting, no unwanted meta wording, no
-  E-Class error,
+  Validate word counts, final newlines, pair integrity, TXT formatting, no unwanted meta wording, no E-Class error,
   broken links, and whitespace before commit/push.
 
 ## Prompt End Update — 2026-09-16, Amazoo Circus Acquired Technology Set Completed at `5/5`
@@ -1956,32 +1895,27 @@ Immediate continuation instructions:
 - Read the relevant GOI dossier carefully before drafting.
 - Create five manually drafted `TECH-GOI-xxx-y` Markdown/TXT twin records for that GOI.
 - Update technology README Markdown/TXT and root README.
-  Validate word counts, final newlines, pair integrity, TXT formatting, no unwanted meta wording, no
-  E-Class error,
+  Validate word counts, final newlines, pair integrity, TXT formatting, no unwanted meta wording, no E-Class error,
   broken links, and whitespace before commit/push.
 
 ## Prompt End Update — 2026-09-16, Missing 404 Watch Tower Acquired Technology Set Completed
 at `5/5` Work completed during this prompt:
 
 - Prompt-start Patch Saver update was appended before continuing.
-  Local branch showed historical stale uncommitted drift at prompt start again. Saved the prompt-start
-  Patch Saver
+  Local branch showed historical stale uncommitted drift at prompt start again. Saved the prompt-start Patch Saver
   block, explicitly fetched the active session branch, hard reset to confirmed remote head
   `0d3a7c5f5eb9ac6aa4fadefe85141ce6c8278824`, cleaned stale untracked files, and reapplied the prompt-start Patch
   Saver
   block before new work continued.
-  Selected Missing 404 Watch Tower (`GOI-HY-W-053`) as the next GOI-acquired technology set because its
-  dossier
-  explicitly identifies watch towers, signal ledgers, missing-person registers, null-coordinate maps, archived
-  dead links, rescue bells, dead-address ledgers, analog photograph vaults, microfilm/paper archives, private
-  radio relays, locked emergency phones, trail-marking kits, portable signal lamps, and cooperative A.C.T recovery
-  notices. Read the Missing 404 Watch Tower dossier carefully through full and targeted non-truncated sections
-  before drafting.
+  Selected Missing 404 Watch Tower (`GOI-HY-W-053`) as the next GOI-acquired technology set because its dossier
+  explicitly identifies watch towers, signal ledgers, missing-person registers, null-coordinate maps, archived dead
+  links, rescue bells, dead-address ledgers, analog photograph vaults, microfilm/paper archives, private radio relays,
+  locked emergency phones, trail-marking kits, portable signal lamps, and cooperative A.C.T recovery notices. Read the
+  Missing 404 Watch Tower dossier carefully through full and targeted non-truncated sections before drafting.
 — Created `TECH-GOI-053-1` Missing 404 Watch Tower Dead-Address Ledger System as Markdown/TXT twins. —
-Created `TECH-GOI-053-2` Missing 404 Watch Tower Null-Coordinate Map Set as Markdown/TXT twins. —
-Created `TECH-GOI-053-3` Missing 404 Watch Tower Rescue Bell Continuance Register as Markdown/TXT twins.
-Created `TECH-GOI-053-4` Missing 404 Watch Tower Locked Emergency Phone and Signal Relay as Markdown/TXT
-  twins.
+Created `TECH-GOI-053-2` Missing 404 Watch Tower Null-Coordinate Map Set as Markdown/TXT twins. — Created
+`TECH-GOI-053-3` Missing 404 Watch Tower Rescue Bell Continuance Register as Markdown/TXT twins. Created
+`TECH-GOI-053-4` Missing 404 Watch Tower Locked Emergency Phone and Signal Relay as Markdown/TXT twins.
   Created `TECH-GOI-053-5` Missing 404 Watch Tower Analog Photograph and Dead-Link Vault as Markdown/TXT twins.
 — Updated `TECH_MD/README.md`, `TECH_TXT/README.txt`, and root `README.md` through `TECH-GOI-053-5`.
 
@@ -2047,16 +1981,14 @@ Immediate continuation instructions:
 - Read the relevant GOI dossier carefully before drafting.
 - Create five manually drafted `TECH-GOI-xxx-y` Markdown/TXT twin records for that GOI.
 - Update technology README Markdown/TXT and root README.
-  Validate word counts, final newlines, pair integrity, TXT formatting, no unwanted meta wording, no
-  E-Class error,
+  Validate word counts, final newlines, pair integrity, TXT formatting, no unwanted meta wording, no E-Class error,
   broken links, and whitespace before commit/push.
 
 ## Prompt End Update — 2026-09-16, Lullaby Works Acquired Technology Set Completed at `5/5`
 Work completed during this prompt:
 
 - Prompt-start Patch Saver update was appended before continuing.
-  Local branch showed historical stale uncommitted drift at prompt start again. Saved the prompt-start
-  Patch Saver
+  Local branch showed historical stale uncommitted drift at prompt start again. Saved the prompt-start Patch Saver
   block, explicitly fetched the active session branch, hard reset to confirmed remote head
   `a434a6595997b9f494fc60186b058944da18c18f`, cleaned stale untracked files, and reapplied the prompt-start Patch
   Saver
@@ -2064,9 +1996,9 @@ Work completed during this prompt:
   Selected Lullaby Works (`GOI-CP-P-054`) as the next GOI-acquired technology set because its dossier explicitly
   identifies protective toys, comfort objects, nursery devices,
   recalled product lots, donor routes, care instructions,
-  warranty ledgers, nightlights, stuffed animals, blankets, music boxes, paper masks, toy radios, soft dolls, play
-  tents, repair vans, donation lockers, product tags, failure crates, recall lists, and child-safety product recovery
-  cases.
+  warranty ledgers, nightlights, stuffed animals, blankets, music boxes, paper
+  masks, toy radios, soft dolls, play tents, repair vans, donation lockers, product
+  tags, failure crates, recall lists, and child-safety product recovery cases.
   Read the Lullaby Works dossier carefully through full and targeted non-truncated sections before drafting.
 — Created `TECH-GOI-054-1` Lullaby Works Sleep-Safe Nightlight Lot System as Markdown/TXT twins.
 — Created `TECH-GOI-054-2` Lullaby Works Listening Plush Distress Transducer as Markdown/TXT twins.
@@ -2082,8 +2014,7 @@ Validation results before staging:
 - `TECH-GOI-054-3` Markdown word count: `373`; TXT word count: `368`.
 - `TECH-GOI-054-4` Markdown word count: `378`; TXT word count: `373`.
 - `TECH-GOI-054-5` Markdown word count: `392`; TXT word count: `387`.
-  New TXT twins initially had accidental heading `#` characters from mechanical conversion; removed all
-  such
+  New TXT twins initially had accidental heading `#` characters from mechanical conversion; removed all such
   Markdown-only markers and confirmed the TXT marker scan passed.
   New technology records had no unwanted meta wording hits and no stale E-Class
   wording
@@ -2125,8 +2056,8 @@ Current confirmed pushed head before this prompt:
 
 Current count before new drafting in this prompt:
 
-  Completed GOI-acquired technology sets: Mercy Lock Institute, DREAM .INC, Mysterious Guild, Amazoo Circus, Missing
-  404
+  Completed GOI-acquired technology sets: Mercy Lock Institute,
+  DREAM .INC, Mysterious Guild, Amazoo Circus, Missing 404
   Watch Tower, and Lullaby Works.
 — Completed GOIs in the GOI-acquired technology phase: `6/30`.
 — Remaining GOIs in the GOI-acquired technology phase: `24/30`.
@@ -2140,8 +2071,7 @@ Precaution-file standing instruction reaffirmed:
   continuing
   work.
 — Keep branch fixed to the active session branch.
-  If stale historical workspace drift appears again, save this prompt-start block, explicit-refspec fetch the
-  fixed
+  If stale historical workspace drift appears again, save this prompt-start block, explicit-refspec fetch the fixed
   branch, hard reset/clean to remote head, then reapply this prompt-start block before proceeding.
 
 ## Prompt End Update — 2026-09-16, GOI Count Answer Logged
@@ -2166,8 +2096,8 @@ Completed GOI technology sets at this point:
 Immediate next work:
 
 - On the next prompt, append a new prompt-start Patch Saver update first.
-  Then select another source-backed GOI technology set and create five `TECH-GOI-xxx-y` Markdown/TXT twin records
-  manually.
+  Then select another source-backed GOI technology set and create
+  five `TECH-GOI-xxx-y` Markdown/TXT twin records manually.
 
 ## Prompt Start Update — 2026-09-16, Continue GOI-Acquired Technology After GOI Count Check
 User sent `p`, meaning proceed/continue. Continue the GOI-acquired technology phase after the count confirmation.
@@ -2193,8 +2123,7 @@ Immediate continuation instructions:
 - Read the relevant GOI dossier carefully before drafting.
 - Create five manually drafted `TECH-GOI-xxx-y` Markdown/TXT twin records for that GOI.
 - Update technology README Markdown/TXT and root README.
-  Validate word counts, final newlines, pair integrity, TXT formatting, no unwanted meta wording, no
-  E-Class error,
+  Validate word counts, final newlines, pair integrity, TXT formatting, no unwanted meta wording, no E-Class error,
   broken links, and whitespace before commit/push.
 — Commit, push, explicit-refspec fetch verify, and confirm clean status.
 
@@ -2204,13 +2133,11 @@ Immediate continuation instructions:
 - Prompt-start Patch Saver update was appended before continuing.
   Confirmed working tree only had the intended Patch Saver modification before new work
   began.
-  Selected Cairn & Lintel (`GOI-CP-W-055`) as the next GOI-acquired technology set because its dossier
-  explicitly
+  Selected Cairn & Lintel (`GOI-CP-W-055`) as the next GOI-acquired technology set because its dossier explicitly
   identifies protected buildings, threshold stones, emergency corridors, impossible rooms, shelter keys,
   construction records, sealed floor plans, front construction firms, municipal contracts, repair yards, shelter
-  houses, old-work depots, unregistered stairwells, route cards, green-key cases, and promised-exit lintel
-  evidence. Read the Cairn & Lintel dossier carefully through full and targeted non-truncated sections before
-  drafting.
+  houses, old-work depots, unregistered stairwells, route cards, green-key cases, and promised-exit lintel evidence.
+  Read the Cairn & Lintel dossier carefully through full and targeted non-truncated sections before drafting.
 — Created `TECH-GOI-055-1` Cairn & Lintel Threshold Stone Marking System as Markdown/TXT twins.
 — Created `TECH-GOI-055-2` Cairn & Lintel Emergency Corridor Stabilization Array as Markdown/TXT twins.
 — Created `TECH-GOI-055-3` Cairn & Lintel Shelter Key Activation System as Markdown/TXT twins.
@@ -2237,8 +2164,8 @@ Validation results before staging:
 
 Current count after this prompt's content if committed:
 
-  Completed GOI-acquired technology sets: DREAM .INC, Mysterious Guild, Amazoo Circus, Missing 404 Watch Tower,
-  Lullaby
+  Completed GOI-acquired technology sets: DREAM .INC, Mysterious
+  Guild, Amazoo Circus, Missing 404 Watch Tower, Lullaby
   Works, Cairn & Lintel, and Mercy Lock Institute.
 — Completed GOIs in the GOI-acquired technology phase: `7/30`.
 — Remaining GOIs in the GOI-acquired technology phase: `23/30`.
@@ -2279,8 +2206,7 @@ Immediate continuation instructions:
 - Read the relevant GOI dossier carefully before drafting.
 - Create five manually drafted `TECH-GOI-xxx-y` Markdown/TXT twin records for that GOI.
 - Update technology README Markdown/TXT and root README.
-  Validate word counts, final newlines, pair integrity, TXT formatting, no unwanted meta wording, no
-  E-Class error,
+  Validate word counts, final newlines, pair integrity, TXT formatting, no unwanted meta wording, no E-Class error,
   broken links, and whitespace before commit/push.
 — Commit, push, explicit-refspec fetch verify, and confirm clean status.
 
@@ -2295,8 +2221,8 @@ Immediate continuation instructions:
   memory-sensitive consent forms, living prosthetics, tissue
   stabilizers, sealed patient ledgers, cold ledgers, green-thread route evidence, prosthetic components, restoration
   failures, and patient-transfer cases.
-  Read the Saint-Vera Restoration Concern dossier carefully through full and targeted non-truncated sections before
-  drafting.
+  Read the Saint-Vera Restoration Concern dossier carefully through
+  full and targeted non-truncated sections before drafting.
 — Created `TECH-GOI-056-1` Saint-Vera Restoration Theater Surgical Environment as Markdown/TXT twins.
 — Created `TECH-GOI-056-2` Saint-Vera Green-Thread Tissue Stabilizer as Markdown/TXT twins.
 — Created `TECH-GOI-056-3` Saint-Vera Memory-Sensitive Consent Form System as Markdown/TXT twins.
@@ -2323,8 +2249,8 @@ Validation results before staging:
 
 Current count after this prompt's content if committed:
 
-  Completed GOI-acquired technology sets: DREAM .INC, Mysterious Guild, Amazoo Circus, Missing 404 Watch Tower,
-  Lullaby
+  Completed GOI-acquired technology sets: DREAM .INC, Mysterious
+  Guild, Amazoo Circus, Missing 404 Watch Tower, Lullaby
   Works, Cairn & Lintel, Saint-Vera Restoration Concern, and Mercy Lock Institute.
 — Completed GOIs in the GOI-acquired technology phase: `8/30`.
 — Remaining GOIs in the GOI-acquired technology phase: `22/30`.
@@ -2358,8 +2284,7 @@ Patch Saver compliance action:
   `git
   rev-parse --abbrev-ref HEAD`
   instead of read from this file.
-  Replaced all 52 hard-coded branch-name occurrences across the historical log with the neutral phrase
-  "the active
+  Replaced all 52 hard-coded branch-name occurrences across the historical log with the neutral phrase "the active
   session branch", preserving each entry's commit hash and factual content.
   Verified that no session branch name appears anywhere in this file after the
   rewrite.
@@ -2367,11 +2292,9 @@ Patch Saver compliance action:
 
 State entering this prompt:
 
-  Active session branch resolved live with `git rev-parse --abbrev-ref HEAD`; its name is deliberately
-  not recorded
+  Active session branch resolved live with `git rev-parse --abbrev-ref HEAD`; its name is deliberately not recorded
   here. HEAD `a17dfd048c8666ce55c1dc2363bc40a0cfa0bf80`, working tree clean.
-  Completed GOI technology sets before this prompt: DREAM .INC, Mysterious Guild, Amazoo Circus, Missing
-  404 Watch
+  Completed GOI technology sets before this prompt: DREAM .INC, Mysterious Guild, Amazoo Circus, Missing 404 Watch
   Tower, Lullaby Works, Cairn & Lintel, Saint-Vera Restoration Concern, Mercy Lock Institute
   (`8/30`). — Next source-backed GOI selected: **Anstrall Market (`GOI-BS-T-027`)**, chosen
   because its dossier explicitly identifies broker claim narrowing, controlled descriptions,
@@ -2469,12 +2392,10 @@ Next action on the following prompt:
   Resolve the active session branch live; do not look for a branch name
   in
   this file.
-  Select another source-backed GOI technology set. Candidates with the largest existing dossiers and no
-  technology set
+  Select another source-backed GOI technology set. Candidates with the largest existing dossiers and no technology set
   yet: Children of the Deep (`GOI-CU-X-048`), Liberty Freedoms (`GOI-ML-X-050`), Anti-Global Anomaly (`GOI-ML-X-014`),
   Government Anti Anomaly (`GOI-GV-P-001`), Ninefold Ark (`GOI-HY-N-074`).
-  Read the selected dossier fully before drafting, then produce five `TECH-GOI-xxx-y` Markdown/TXT twins, update
-  the
+  Read the selected dossier fully before drafting, then produce five `TECH-GOI-xxx-y` Markdown/TXT twins, update the
   three indexes, validate, commit, push, and fetch-verify.
 
 ## Workspace Drift Recovery Note — 2026-09-17, Second Occurrence Pattern
@@ -2487,8 +2408,8 @@ Observed on recovery:
 - Local `HEAD` had reverted to `a17dfd048c8666ce55c1dc2363bc40a0cfa0bf80` with only `clone` and `checkout` in the
   reflog.
 — Local commits `94ad50e` and `8b13c28` were gone from the object database.
-  The remote still held the active session branch ref at `8b13c286c3d3447bb3f60b5d7d3d1317fcb28d74`, so the pushed
-  work
+  The remote still held the active session branch ref at
+  `8b13c286c3d3447bb3f60b5d7d3d1317fcb28d74`, so the pushed work
   was never lost.
   All ten `TECH-GOI-027` files on disk were byte-identical to their blobs in `8b13c28`;
   only
@@ -2517,8 +2438,8 @@ Patch Saver compliance action:
   Local head confirmed equal to the remote head before any drafting began; working
   tree
   clean.
-  Selected Children of the Deep (`GOI-CU-X-048`) as the next GOI-acquired technology set because its
-  dossier explicitly
+  Selected Children of the Deep (`GOI-CU-X-048`) as the next
+  GOI-acquired technology set because its dossier explicitly
   identifies low-frequency sound work, sound-capable equipment,
   handwritten timing sheets, non-cult commercial transport
   cover, inland mouth overlay maps with depth and tide terminology,
@@ -2549,8 +2470,7 @@ at `5/5` Work completed during this prompt:
   drafting;
   no branch name is recorded
   in this file.
-  Read the `GOI-CU-X-048` Children of the Deep dossier in full before drafting, including the
-  previously truncated
+  Read the `GOI-CU-X-048` Children of the Deep dossier in full before drafting, including the previously truncated
   membership-layer, practitioner-capability, awakening-preparation,
   inland-mouth, assets, holdings, and operational-record sections.
   Corrected a script fault that derived the record code from three stem segments
@@ -2560,9 +2480,8 @@ at `5/5` Work completed during this prompt:
   already written. Re-ran insertion with guarded assertions
   so no index could be written twice.
   Created `TECH-GOI-048-1` Children of the Deep Low-Frequency Sounding and Timing Apparatus as Markdown/TXT twins.
-  Created `TECH-GOI-048-2` Children of the Deep Inland Mouth Overlay Map Set as Markdown/TXT twins.
-  Created `TECH-GOI-048-3` Children of the Deep Pressure Ritual Equipment and Sealed Container Set as
-  Markdown/TXT
+  Created `TECH-GOI-048-2` Children of the Deep Inland Mouth Overlay Map Set as Markdown/TXT twins. Created
+  `TECH-GOI-048-3` Children of the Deep Pressure Ritual Equipment and Sealed Container Set as Markdown/TXT
   twins.
 — Created `TECH-GOI-048-4` Children of the Deep Compartmented Devotional Text, Distributed Recording, and Synchronized
   Calendar Set as Markdown/TXT twins.
@@ -2574,8 +2493,7 @@ at `5/5` Work completed during this prompt:
   redaction.
 — Inserted all five entries between `TECH-GOI-027-5` and `TECH-GOI-049-1` in `TECH_MD/README.md` and
   `TECH_TXT/README.txt`, preserving ascending GOI-number ordering.
-  Prepended five `TECH-GOI-048-x` sentences to the Current Status paragraph in both technology indexes and
-  added the
+  Prepended five `TECH-GOI-048-x` sentences to the Current Status paragraph in both technology indexes and added the
   five records to the technology-records row of the root `README.md`.
 
 Validation results before staging:
@@ -2601,10 +2519,9 @@ Validation results before staging:
 
 Current count after this prompt's content if committed:
 
-  Completed GOI-acquired technology sets: Children of the Deep, Anstrall Market, DREAM .INC, Mysterious Guild,
-  Amazoo
-  Circus, Missing 404 Watch Tower, Lullaby Works, Cairn & Lintel, Saint-Vera Restoration Concern, and Mercy Lock
-  Institute.
+  Completed GOI-acquired technology sets: Children of the Deep, Anstrall Market, DREAM .INC, Mysterious Guild, Amazoo
+  Circus, Missing 404 Watch Tower, Lullaby Works, Cairn & Lintel,
+  Saint-Vera Restoration Concern, and Mercy Lock Institute.
 — Completed GOIs in the GOI-acquired technology phase: `10/30`. Remaining: `20/30`.
 — GOI-acquired technology total: `50/150`. Remaining: `100/150`.
 
@@ -2621,11 +2538,10 @@ Ark (`GOI-HY-N-074`), Archivists of the Final Dawn (`GOI-CU-W-066`).
 
 Patch Saver compliance action:
 
-  Branch resolved live with `git rev-parse --abbrev-ref HEAD`; no branch name is recorded in
-  this file.
+  Branch resolved live with `git rev-parse --abbrev-ref HEAD`; no branch name is recorded in this file.
 — Local head confirmed equal to the remote head before drafting; working tree clean.
-  Selected Liberty Freedoms (`GOI-ML-X-050`) as the next GOI-acquired technology set because it is the
-  largest remaining
+  Selected Liberty Freedoms (`GOI-ML-X-050`) as the next
+  GOI-acquired technology set because it is the largest remaining
   dossier without a technology set and because it explicitly identifies adapted A.C.T equipment, seized transport
   fixtures, improvised restraint borrowing Facility procedure, diverted sealed restraint
   fixtures, Facility-format identification, seized route and schedule records, defector
@@ -2655,8 +2571,7 @@ Work completed during this prompt:
   drafting;
   no branch name is recorded
   in this file.
-  Read the `GOI-ML-X-050` Liberty Freedoms dossier in full across ranged reads before drafting, covering
-  the dispersed
+  Read the `GOI-ML-X-050` Liberty Freedoms dossier in full across ranged reads before drafting, covering the dispersed
   revolutionary structure, leadership condition, staged recruitment, custody doctrine, handler capability assessment,
   exposure discipline, assets and holdings, operating method, first-response and Site responsibilities, defector
   handling, standing red lines, and both operational-record extracts.
@@ -2674,8 +2589,7 @@ Verification and Compartmentation System as Markdown/TXT twins.
   instead so no source-adjacent clearance term is propagated into new technology files.
 — Inserted all five entries between `TECH-GOI-049-5` and `TECH-GOI-051-1` in `TECH_MD/README.md` and
   `TECH_TXT/README.txt`, preserving ascending GOI-number ordering.
-  Prepended five `TECH-GOI-050-x` sentences to the Current Status paragraph in both technology indexes and
-  added the
+  Prepended five `TECH-GOI-050-x` sentences to the Current Status paragraph in both technology indexes and added the
   five records to the technology-records row of the root `README.md`.
 
 Validation results before staging:
@@ -2720,25 +2634,21 @@ User sent `p`, meaning proceed/continue. Continue the GOI-acquired technology ph
 
 Patch Saver compliance action:
 
-  Branch resolved live with `git rev-parse --abbrev-ref HEAD`; no branch name is recorded in
-  this file.
+  Branch resolved live with `git rev-parse --abbrev-ref HEAD`; no branch name is recorded in this file.
 — Local head confirmed equal to the remote head before drafting; working tree clean.
-  Selected Anti-Global Anomaly (`GOI-ML-X-014`) as the next GOI-acquired technology set because it is the
-  largest
+  Selected Anti-Global Anomaly (`GOI-ML-X-014`) as the next GOI-acquired technology set because it is the largest
   remaining dossier without a technology set and because its Engineering capability section explicitly enumerates
   forced-entry and chamber-breach equipment, modified surveillance and tracking systems, remote detonation or
   area-denial tools, improvised environmental disruption systems, transport interception equipment,
   containment-interference devices, data extraction and document-copying tools, low-visibility field workshops, and
   adapted protective gear intended for unverified anomaly contact.
-  Read the `GOI-ML-X-014` dossier in full across two ranged passes before drafting, covering the
-  dispersed militia
+  Read the `GOI-ML-X-014` dossier in full across two ranged passes before drafting, covering the dispersed militia
   structure, leadership condition, recruitment pattern, operational security, eradication
   premise, refusal of containment, internal contradiction, engineering capability list,
   target selection, leak production, structural harm potential, posture and first response,
   Site responsibilities, detained personnel and three recovered-material streams,
   both operational-record extracts, and the standing restriction order.
-  The dossier's `O5-level exception` phrasing is not to be propagated into derived technology records;
-  write
+  The dossier's `O5-level exception` phrasing is not to be propagated into derived technology records; write
   `Command-level exception` instead.
 
 Counts before new drafting in this prompt:
@@ -2759,8 +2669,7 @@ Work completed during this prompt:
   drafting;
   no branch name is recorded
   in this file.
-  Read the `GOI-ML-X-014` Anti-Global Anomaly dossier in full across two ranged passes before drafting,
-  covering the
+  Read the `GOI-ML-X-014` Anti-Global Anomaly dossier in full across two ranged passes before drafting, covering the
   dispersed militia structure, leadership condition, recruitment pattern, operational security, eradication premise,
   refusal of containment, internal contradiction, the enumerated engineering capability list, target selection, leak
   production, structural harm potential, posture and first response, Site responsibilities, detained personnel and
@@ -2782,11 +2691,10 @@ Document Copying, and Leak Production Set as Markdown/TXT twins.
   in
   `TECH_MD/README.md` and
   `TECH_TXT/README.txt`, preserving ascending GOI-number ordering.
-  Prepended five `TECH-GOI-014-x` sentences to the Current Status paragraph in both technology indexes and
-  added the
+  Prepended five `TECH-GOI-014-x` sentences to the Current Status paragraph in both technology indexes and added the
   five records to the technology-records row of the root `README.md`.
-  Used guarded insertion with an explicit already-present check on all three indexes, following the
-  duplicated-insertion
+  Used guarded insertion with an explicit already-present check
+  on all three indexes, following the duplicated-insertion
   risk identified in the Children of the Deep batch.
 
 Validation results before staging:
@@ -2852,8 +2760,7 @@ Repair applied to the Markdown edition:
   were never treated as
   headings.
 — Left headings already at H6 in place; none were encountered.
-  Guarded every file with two assertions: marker-stripped text must be byte-identical before and after,
-  and the result
+  Guarded every file with two assertions: marker-stripped text must be byte-identical before and after, and the result
   must contain exactly one H1.
 
 Result: `208` files restructured, `5278` headings demoted, `git diff --numstat` reporting `5278` added and
@@ -2895,8 +2802,8 @@ Plain-text heading lines whose text does not appear in the Markdown were left un
 rather than guessed at. Files
 whose mapping was not a clean function of heading level were skipped and reported.
 Rewrote only the underline
-character, keeping underline length, line count, and every non-underline line byte-identical, asserting both for every
-file.
+character, keeping underline length, line count, and every
+non-underline line byte-identical, asserting both for every file.
 
 Open structural item not yet actioned: `53` plain-text files carry underline headings and the remaining `448` render
 every heading as an identical bare line, so the plain-text corpus is internally inconsistent about whether structure
@@ -2909,29 +2816,24 @@ User sent `p`, meaning proceed/continue. Continue the GOI-acquired technology ph
 
 Patch Saver compliance action:
 
-  Branch resolved live with `git rev-parse --abbrev-ref HEAD`; no branch name is recorded in
-  this file.
+  Branch resolved live with `git rev-parse --abbrev-ref HEAD`; no branch name is recorded in this file.
 — Local head confirmed equal to the remote head before drafting; working tree clean.
-  Selected Government Anti Anomaly (`GOI-GV-P-001`) as the next GOI technology set because it is
-  the largest remaining
-  dossier without one and because its four liaison interfaces are explicitly enumerated: the legal masking interface
-  covering emergency restrictions, protected transfer permissions, sealed procurement exemptions,
-  controlled property access, limited jurisdictional waivers, and oversight-limiting review language;
-  the classified logistics interface covering controlled aviation routing, records-safe border passage,
-  unlisted storage windows, medical transfer cover, and irregular procurement scheduling; the civil
-  continuity interface covering road closure, utility interruption, evacuation notice, inspection
-  order, hospital intake category, disaster-recovery notice, and infrastructure repair explanation; and
-  the restricted intelligence interface with its secure document-routing channels and regulated liaison
-  contact points.
-  Read the `GOI-GV-P-001` dossier in full across two ranged passes before drafting, covering the
-  limited state body
+  Selected Government Anti Anomaly (`GOI-GV-P-001`) as the next GOI technology set because it is the largest remaining
+  dossier without one and because its four liaison interfaces are explicitly enumerated: the legal masking
+  interface covering emergency restrictions, protected transfer permissions, sealed procurement exemptions,
+  controlled property access, limited jurisdictional waivers, and oversight-limiting review language; the
+  classified logistics interface covering controlled aviation routing, records-safe border passage, unlisted
+  storage windows, medical transfer cover, and irregular procurement scheduling; the civil continuity
+  interface covering road closure, utility interruption, evacuation notice, inspection order, hospital
+  intake category, disaster-recovery notice, and infrastructure repair explanation; and the restricted
+  intelligence interface with its secure document-routing channels and regulated liaison contact points.
+  Read the `GOI-GV-P-001` dossier in full across two ranged passes before drafting, covering the limited state body
   definition, the ten-percent compartmented awareness estimate, public absence and cover discipline, all four liaison
   interfaces, authority boundaries in both directions, controlled state continuity doctrine, operational assets,
   holdings and the four-condition access-point evaluation, personnel profile, restricted contact history, the six-step
   cooperation sequence, site coordination, compromise indicators, response to governmental overreach, both
   operational-record extracts, and the standing restriction order.
-  This is the first POSITIVE-alignment, COOPERATED-posture GOI in the phase, so Acquisition Status wording
-  reflects
+  This is the first POSITIVE-alignment, COOPERATED-posture GOI in the phase, so Acquisition Status wording reflects
   bounded task authorization rather than hostile recovery.
   The dossier's `O5-level directive` phrasing is not to be propagated into derived records; write
   `Command-level
@@ -2950,10 +2852,9 @@ Work completed during this prompt:
   no branch name is recorded
   in this file.
 — Read the `GOI-GV-P-001` dossier in full across two ranged passes before drafting.
-  Wrote `Command-level directive` rather than the dossier's `O5-level directive` in the standing restriction material
-  carried into `TECH-GOI-001-1`.
-  A first index-insertion attempt aborted on an assertion before commit. Its shared helper asserted
-  that the Current
+  Wrote `Command-level directive` rather than the dossier's `O5-level directive`
+  in the standing restriction material carried into `TECH-GOI-001-1`.
+  A first index-insertion attempt aborted on an assertion before commit. Its shared helper asserted that the Current
   Status prose anchor existed in every index, but the root `README.md` holds a comma-separated list rather than prose,
   so it has no such paragraph. The two technology indexes had already been written
   when the assertion fired. The helper
@@ -3120,8 +3021,8 @@ is drawn from `GOI-CP-P-054`.
 
 Remaining after this batch: 55 `TECH-GOI` records still on the old four-section shape. `TECH-GOI-054`
 Lullaby Works is
-now complete at house standard (all 5 records). The five `TECH-GOI-071` Mercy Lock records already carried the house
-sections.
+now complete at house standard (all 5 records). The five
+`TECH-GOI-071` Mercy Lock records already carried the house sections.
 
 Audit result on the A.C.T reference documents, run at the user's request: `ACT_Technological_Master_Index_50.md`
 numbers 50 assets and 49 of them had a `TECH-ACT` record. **Item 23, NEURO-MANTID
@@ -3216,8 +3117,8 @@ diff --cached --check` rc=0.
 
 ## Prompt Log — 2026-09-18 01:59 UTC
 
-**Request.** `p` — proceed with the queued next action: remediate the `TECH-GOI` records still on the obsolete
-four-section shape.
+**Request.** `p` — proceed with the queued next action: remediate
+the `TECH-GOI` records still on the obsolete four-section shape.
 
 **Pre-work recovery.** The workspace had been re-cloned onto stale base `a17dfd0` a fifth time (835 uncommitted paths,
 52 files / 4088 deletions against the remote). Recovered with `git fetch` then `git
@@ -3242,10 +3143,10 @@ template stamping the user forbade.
 | `TECH-GOI-056-4` Living Prosthetic | 1338 | 10/10 | memory-linked nerve media; voice grafts; glass ocular residue filters; nonstandard organ support; per-patient molds |
 | `TECH-GOI-056-5` Cold Ledger | 1338 | 10/10 | cold ledgers; sealed failure archive marked DO NOT CALL THIS MERCY; sealed restoration licenses; patient cards; rehabilitation houses |
 
-The two 9/10 scores are deliberate heading variants (THEATER LAYOUT AND GLASS LIGHTING / TEMPERATURE, DRAINAGE, AND
-RECOVERY BEDS; PHYSICAL AND MECHANICAL DESCRIPTION), not missing sections. Registry fields were varied per record —
-host network, confirmed hold time, output form, component scope, and subdivisions each appear in only one file — so no
-two records share a field set.
+The two 9/10 scores are deliberate heading variants (THEATER LAYOUT AND GLASS LIGHTING / TEMPERATURE,
+DRAINAGE, AND RECOVERY BEDS; PHYSICAL AND MECHANICAL DESCRIPTION), not missing sections. Registry
+fields were varied per record — host network, confirmed hold time, output form, component scope, and
+subdivisions each appear in only one file — so no two records share a field set.
 
 **Anti-templating and doctrine checks on the new files.** `O5` absent (Command-level wording not needed); single H1
 each; no ASCII box in `.md`; fences balanced; Excommunicated Class used in full where
@@ -7151,16 +7052,14 @@ files whose words changed.** The re-flow moves line breaks and touches nothing e
 ### Two attempts were rejected before this one shipped
 
 **Attempt one joined every run of consecutive non-blank lines.** It merged the six-line metadata
-registry in the plain-text twins into one run-on paragraph. Caught on a single test file before
-anything was written to the corpus. The rule is now narrow: only a run of full lines ending in one
-short tail is treated as a paragraph, so a registry field, a list item, a box row and a rule each
-keep their own line.
+registry in the plain-text twins into one run-on paragraph. Caught on a single test file before anything
+was written to the corpus. The rule is now narrow: only a run of full lines ending in one short tail is
+treated as a paragraph, so a registry field, a list item, a box row and a rule each keep their own line.
 
-**Attempt two treated bold spans, code spans and links as unbreakable units.** Splitting around them
-and rejoining with spaces corrupted the text: `[ BLANK ]` became `[]`, which is a canonical term the
-owner ruled must never be rewritten, and `(\`QU\`)` became `( \`QU\`)`. **45 files changed words
-and the attempt was reverted in full.** Both markers are intact: 109 spaced redaction markers, 82
-unspaced containment classes.
+**Attempt two treated bold spans, code spans and links as unbreakable units.** Splitting around them and
+rejoining with spaces corrupted the text: `[ BLANK ]` became `[]`, which is a canonical term the owner ruled
+must never be rewritten, and `(\`QU\`)` became `( \`QU\`)`. **45 files changed words and the attempt was
+reverted in full.** Both markers are intact: 109 spaced redaction markers, 82 unspaced containment classes.
 
 **Recorded: a line-break tool must be proved content-neutral by word comparison against the pre-run
 commit, not by reading its own output.**
@@ -7219,4 +7118,78 @@ standards and the three legacy anomaly records.
 | `MD_WIDE_PROSE_LINES` | 0 |
 | `═` lines loose in markdown | 0, was 154 |
 | `PATCH_SAVER_ENTRIES` | 103 |
+
+## Prompt End Update — 2026-10-23, Markdown Purged From The Plain-Text Half
+
+Owner report: the `.txt` half is filled with markdown. Review them visually first, then fix and
+upgrade. The visual review came first and it contradicted the gates.
+
+### The gates were wrong, not the owner
+
+`corpus_numbers.py` carried four `.txt` markdown gates — bold, link, backtick, heading. All four read
+**0**. The owner was still right. A gate is only as good as the pattern it checks, and those four
+never looked for a horizontal rule or for italics.
+
+What the eye found instead:
+
+| ARTEFACT | COUNT | VERDICT |
+|---|---|---|
+| markdown `---` rules | 3,584 | defect, converted |
+| markdown `*` bullets | 16 | defect, converted |
+| markdown `*italics*` spans | 93 | defect, stripped |
+| `|` pipe rows | 12,028 | **not a defect** — ASCII box cells |
+| unbalanced lone `*` | 6 files | **not a defect** — in-world notation |
+
+The 12,028 `|` rows are the recorded trap repeating: counting lines that start with a pipe in a
+`.txt` counts box cell rows. Those boxes are correct house style and were left alone. The 6
+unbalanced asterisks are `^_*`, a stage direction in the MAGICAL MEW lyric scripts, and a lone `*`
+scene break in two tales. Neither is emphasis.
+
+### What was done
+
+The house reference twin `TECH-GOI-055-1` settled the target style: `- ` bullets, `+---+` boxes,
+zero `---` rules, zero `═`. Against that:
+
+- 3,584 markdown rules became 71-character house bars, the width already used by every other bar.
+- 16 markdown bullets became house `- ` bullets.
+- 93 italics spans lost their asterisks and kept every word.
+- The re-flow was re-run over the result, because turning rules into bars exposed new paragraph
+  boundaries. **512 files rebalanced, 372 orphan paragraphs fixed, orphan lines 2,564 → 689.**
+
+**632 files changed, 0 files whose words changed**, proved by token comparison against `0b64688`
+after stripping every punctuation character.
+
+### Three new gates, and proof they fire
+
+`TXT_MD_RULE_LINES`, `TXT_MD_ITALIC_SPANS`, `TXT_NARROW_BAR_LINES` — all read **0** now. Run against
+the pre-fix state they would have read **3,584** and **91**, so they are proven to catch what the old
+four missed. The 93 against 91 gap is per-line matching in the fix against whole-text matching in
+the gate.
+
+`TXT_NARROW_BAR_LINES` exists because of a mistake made and corrected in this same batch: the new
+bars were first reported as narrower than the text they separate. They were not — all **6,050** bars
+are 71 wide and **0** are narrower than their own file's widest line. The report was wrong, the files
+were fine. The gate now holds that invariant so it cannot drift.
+
+### Gates after the purge
+
+| GATE | RESULT |
+|---|---|
+| `DOCUMENT_COUNT` | 1002 |
+| `TXT_MD_RULE_LINES` | 0, was 3,584 |
+| `TXT_MD_ITALIC_SPANS` | 0, was 91 |
+| `TXT_NARROW_BAR_LINES` | 0 |
+| `TXT_BOLD_FILES` / `TXT_LINK_FILES` / `TXT_BACKTICK_FILES` / `TXT_MD_HEADING_FILES` | 0 / 0 / 0 / 0 |
+| `TXT_WIDE_PROSE_LINES` | 0 |
+| `MD_WIDE_PROSE_LINES` | 0 |
+| `RECORDS_NOT_ONE_H1` / `BAD_EOF` / `ODD_FENCE` | 0 / 0 / 0 |
+| `TECH_UNPAIRED_TWINS` | 0 |
+| `STORY_MANUSCRIPT_LOCKSTEP_FAILURES` | 0 |
+| `PATCH_SAVER_ENTRIES` | 104 |
+
+### Still open, by owner choice
+
+The house is split on the separator itself. The reference twin uses `+---+` boxes with no `═` at
+all, while **6,050** bar lines across **305** files use `═`. Both read as house style in their own
+document family, so unifying them was left to the owner rather than decided here.
 

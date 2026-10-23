@@ -76,9 +76,9 @@ reserve's concealed containment share one wilderness.
 
 ### 3.3 Relationship to F-4
 
-The legitimate campus is commanded from the buried operational level below: the reserve's public science operates
-under the direction of the operational command, which governs the boundary between the campus's visible work and the
-reserve's concealed purpose.
+The legitimate campus is commanded from the buried operational level below: the reserve's
+public science operates under the direction of the operational command, which governs the
+boundary between the campus's visible work and the reserve's concealed purpose.
 
 ---
 
@@ -174,10 +174,10 @@ surface, in the legitimate setting of an ecological research campus.
 
 ### 7.4 The Boundary with the Reserve
 
-The campus's most important architecture is its boundary with the reserve: the concealed line between the legitimate
-research areas and the enclosure sectors where anomalous residents are held. The boundary is maintained to be
-invisible — the campus's science and the reserve's containment share one wilderness without the public world seeing
-the join.
+The campus's most important architecture is its boundary with the reserve: the concealed
+line between the legitimate research areas and the enclosure sectors where anomalous
+residents are held. The boundary is maintained to be invisible — the campus's science and
+the reserve's containment share one wilderness without the public world seeing the join.
 
 ---
 
@@ -185,8 +185,8 @@ the join.
 
 ### 8.1 Power
 
-F-5 draws on the campus's legitimate power infrastructure, with the buried installation protected by the reserve's
-backup architecture.
+F-5 draws on the campus's legitimate power infrastructure, with the
+buried installation protected by the reserve's backup architecture.
 
 ### 8.2 Environment
 
@@ -222,9 +222,9 @@ the reserve's first containment line.
 
 ### 9.3 Campus Access Control
 
-Access within the campus is controlled under the reserve's cover doctrine: legitimate personnel operate freely, while
-the transition into the buried installation and the concealed sectors is governed by the reserve's clearance
-architecture.
+Access within the campus is controlled under the reserve's cover doctrine: legitimate
+personnel operate freely, while the transition into the buried installation and the
+concealed sectors is governed by the reserve's clearance architecture.
 
 ### 9.4 Incident Response
 
@@ -293,8 +293,8 @@ anomalous sectors is concealed, monitored, and never acknowledged. The wildernes
 
 F-5 doctrine holds that the campus's public science and the reserve's concealed work must
 remain separate: the
-legitimate world sees a research campus, and the reserve's operations continue beneath and beyond it, undisturbed and
-unseen.
+legitimate world sees a research campus, and the reserve's
+operations continue beneath and beyond it, undisturbed and unseen.
 
 ---
 

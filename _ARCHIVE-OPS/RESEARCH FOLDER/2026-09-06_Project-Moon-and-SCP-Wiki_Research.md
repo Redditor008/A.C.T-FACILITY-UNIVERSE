@@ -69,8 +69,8 @@ wiki page as complete authority:
 Fandom counterparts in order to identify continuity, legacy material, and update gaps; SCP's official
 hubs for object classes, the optional Anomaly Classification System (ACS), article construction,
   facilities, canons, Groups of Interest, image policy, site rules, and licensing;
-  the current A.C.T. repository documentation, formats, internal story archive, existing Project Moon research, and
-  existing crossover materials.
+  the current A.C.T. repository documentation, formats, internal story
+  archive, existing Project Moon research, and existing crossover materials.
 
 The result is deliberately an **analysis of reusable structural ideas**, not a replacement for the source works.
 
@@ -81,17 +81,14 @@ For a future A.C.T. wiki, sources should be ranked in this order:
    **Official Project Moon game text, official publisher
    announcements, and officially released supplementary media** —
    strongest authority for Project Moon facts.
-   **The official English SCP Wiki** — strongest authority for SCP material, licenses, policies, and
-   individual SCP
+   **The official English SCP Wiki** — strongest authority for SCP material, licenses, policies, and individual SCP
    authorship.
-   **wiki.gg Project Moon wikis** — strong community reference sources, particularly for current gameplay systems
-   and
-   cross-linked lore. They are fan-maintained rather than publisher-owned canon declarations. **Fandom
-   Project Moon wikis** — useful historical and navigational references, but dates and coverage
-   must be checked
+   **wiki.gg Project Moon wikis** — strong community reference sources, particularly for current gameplay systems and
+   cross-linked lore. They are fan-maintained rather than publisher-owned canon declarations. **Fandom Project
+   Moon wikis** — useful historical and navigational references, but dates and coverage must be checked
    page by page.
-   **Community essays, Reddit, Steam guides, videos, and discussion posts** — useful leads only; never
-   the final source
+   **Community essays, Reddit, Steam guides, videos, and
+   discussion posts** — useful leads only; never the final source
    for a factual claim or rights decision.
 6. **This dossier** — a design/research reference. It does not supersede primary source material.
 
@@ -105,8 +102,7 @@ useful definition of completion is:
 - its function, coverage, update reliability, and core navigation are documented;
 - foundational themes and documentation practices are understood;
 - source-specific material is isolated from original A.C.T. content;
-  exact-page research becomes a mandatory pre-writing step for any named crossover, character, artifact, or
-  SCP
+  exact-page research becomes a mandatory pre-writing step for any named crossover, character, artifact, or SCP
   reference.
 
 This gives the A.C.T. project a durable research basis without falsely claiming that a
@@ -184,8 +180,8 @@ that:
 
 A classification, a file interface, a staff role, an equipment category, or a facility
 floor can tell the reader what
-the institution fears, values, hides, or exploits. Information design is therefore not neutral decoration. It is part
-of the story.
+the institution fears, values, hides, or exploits. Information
+design is therefore not neutral decoration. It is part of the story.
 
 A.C.T. already has a strong version of this idea. Its central three-part doctrine —
 **Anomaly / Containment /
@@ -319,11 +315,11 @@ too.
 
 #### Avoid
 
-Copying the source game’s risk names, codes, departments, work types, staff entities, visual UI, or metaphysical
-explanations. Making every A.C.T. anomaly produce a useful resource. That would flatten the existing distinction
-between **INVIOLABLE**, **NEUTRAL**, **CONTAINED-STUDY**, **STABILIZED**, **REPURPOSED**, and **INTEGRATED**. Treating
-staff casualty or psychological injury only as spectacle. The research sources work best when the human effect
-matters.
+Copying the source game’s risk names, codes, departments, work types, staff entities, visual UI,
+or metaphysical explanations. Making every A.C.T. anomaly produce a useful resource. That would
+flatten the existing distinction between **INVIOLABLE**, **NEUTRAL**, **CONTAINED-STUDY**,
+**STABILIZED**, **REPURPOSED**, and **INTEGRATED**. Treating staff casualty or psychological
+injury only as spectacle. The research sources work best when the human effect matters.
 
 ### 4.5 A.C.T. feature opportunity: the Transformation Ledger
 
@@ -389,8 +385,8 @@ These use A.C.T.'s own archive logic rather than the Library of Ruina premise.
 
 ### 5.3 The invitation/reception model as an abstract design principle
 
-The source game has proprietary concepts and terminology which A.C.T. should not copy. The underlying dramatic pattern
-is reusable:
+The source game has proprietary concepts and terminology which
+A.C.T. should not copy. The underlying dramatic pattern is reusable:
 
 1. an institution issues or receives a signal, request, artifact, or lead;
 2. the lead attracts the exact people or forces relevant to it;
@@ -398,15 +394,15 @@ is reusable:
 4. the encounter produces records and changes the archive;
 5. the reader sees how systems produce history.
 
-An original A.C.T. equivalent might be called a **Recovery Order**, **Archive Summons**, **Jurisdictional Notice**,
-**Containment Review**, or **Signal Response**. It should have different rules, aesthetics, and consequences from any
-Project Moon system.
+An original A.C.T. equivalent might be called a **Recovery Order**, **Archive Summons**,
+**Jurisdictional Notice**, **Containment Review**, or **Signal Response**. It should
+have different rules, aesthetics, and consequences from any Project Moon system.
 
 ### 5.4 The City lesson: power should have geography
 
-The Library of Ruina and Limbus Company setting pages make geography matter. Administrative regions, corporations,
-protected zones, neglected areas, hazards, institutions, and social roles are interlinked instead of existing as
-isolated lore bullets.
+The Library of Ruina and Limbus Company setting pages make geography matter. Administrative
+regions, corporations, protected zones, neglected areas, hazards, institutions, and social
+roles are interlinked instead of existing as isolated lore bullets.
 
 A.C.T. already has a strong parallel in a distinct, original form:
 
@@ -499,9 +495,9 @@ A.C.T. has an original archive-variant foothold in the material that remains wit
 - ANM designation logic;
 - the narrative premise of archive records that should not exist when they do.
 
-The excluded 715/Emergent Reality material is not a future core-wiki application of this pattern. Any A.C.T.
-archive-variant page should never be a mere character-skin or list of “what if” variants. It should answer at least
-one of these questions:
+The excluded 715/Emergent Reality material is not a future core-wiki application of
+this pattern. Any A.C.T. archive-variant page should never be a mere character-skin
+or list of “what if” variants. It should answer at least one of these questions:
 
 - What causal rule changed?
 - What did the observer lose or misremember?
@@ -608,8 +604,7 @@ original form:
 - **Core Canon** — baseline independent A.C.T. universe documents;
 - **Abyssal Archive Continuity** — the First Lie / ITHYOS-focused story layer;
 - **Legacy Records** — earlier documents retained as in-world historical material;
-  **Crossover Continuities** — explicitly non-core fan works involving Project Moon, SCP, or other source
-  properties;
+  **Crossover Continuities** — explicitly non-core fan works involving Project Moon, SCP, or other source properties;
 — **Experimental / Apocryphal Files** — optional alternate or disputed records.
 
 The reader should always know which continuity a page belongs to.
@@ -620,8 +615,8 @@ This is one of the most important SCP research findings. The SCP Object Classes
 guide repeatedly explains that its
 primary classes are primarily about **how difficult an anomaly is to contain**, not how
 dangerous it is. A
-catastrophic effect can be easy to keep locked away; a low-lethality mobile or unpredictable entity can be much harder
-to contain.
+catastrophic effect can be easy to keep locked away; a low-lethality
+mobile or unpredictable entity can be much harder to contain.
 
 The guide’s informal Locked Box Test turns that idea into a fast decision tool.
 The source also describes
@@ -707,16 +702,16 @@ serve a clear narrative/emotional purpose.
 
 #### A.C.T. application
 
-A.C.T. already uses expanded standard and RCT record formats. The SCP research supports keeping a clear narrative
-order:
+A.C.T. already uses expanded standard and RCT record formats.
+The SCP research supports keeping a clear narrative order:
 
 1. **Immediate operational truth** — what staff must do now;
 2. **Known description** — what the anomaly is/does, with uncertainty clearly marked;
 3. **Why this procedure exists** — incident, recovery, interview, experiment, or archive contradiction;
 4. **Present consequence** — transformation decision, unresolved question, or changed status.
 
-A.C.T. should avoid adding logs just because SCP articles often have logs. Every addendum must change a reader’s
-understanding.
+A.C.T. should avoid adding logs just because SCP articles often
+have logs. Every addendum must change a reader’s understanding.
 
 ### 8.6 Special containment procedures: specificity without empty jargon
 
@@ -730,8 +725,7 @@ tension.
 Use current A.C.T. concepts with a concrete cause-and-effect chain:
 
 - **Bad generic version:** “Keep subject in a reinforced room guarded at all times.”
-  **Better A.C.T.-specific version:** “The subject’s chamber remains at a humidity level below X because
-  condensation
+  **Better A.C.T.-specific version:** “The subject’s chamber remains at a humidity level below X because condensation
   allows the effect to cross reflective surfaces; guards are
   not stationed inside the sightline because witnesses become
   secondary vectors.”
@@ -758,8 +752,8 @@ For A.C.T. records:
 
 ### 8.8 Addenda: formats with real narrative work
 
-The SCP model makes supporting documents useful because each format has a different evidentiary strength and emotional
-texture.
+The SCP model makes supporting documents useful because each
+format has a different evidentiary strength and emotional texture.
 
 A.C.T.'s existing log-category document already provides rich original categories. Recommended uses include:
 
@@ -832,11 +826,10 @@ honestly classified. Examples:
 - **Bureaucratic mystery** — a document that predates its own system;
 - **Field thriller** — jurisdiction conflicts and recovery pressure;
 - **Darkly humane slice-of-life** — a janitor, archivist, or medic doing dangerous ordinary work;
-  **Archive metafiction** — an UNAUTHORED or [BLANK] record that tests whether the archive can
-  describe itself.
+  **Archive metafiction** — an UNAUTHORED or [BLANK] record that tests whether the archive can describe itself.
 
-The page should set reader expectations through tags and content advisories, rather than hiding a major tonal pivot in
-navigation text.
+The page should set reader expectations through tags and content
+advisories, rather than hiding a major tonal pivot in navigation text.
 
 ### 8.12 SCP community process: quality is part of worldbuilding
 
@@ -876,8 +869,7 @@ core already exists in the repository:
 - the universe’s major cosmological model is the **Cosmic Timer** and **Minor Pause**;
 - A.C.T. is built around a founding abyssal fact: **ITHYOS, the World-Sleeper**;
 - anomaly status has an explicit ethical/operational **Transformation Viability** axis;
-  archive failure is itself a meaningful phenomenon, especially in the **First Lie**, founder continuity
-  failure,
+  archive failure is itself a meaningful phenomenon, especially in the **First Lie**, founder continuity failure,
   NEMNOLIA material, and legacy-to-modern record conflicts;
 — its global site network is a deliberately strategic containment lattice;
   its doctrine is **Detect → Verify → Conceal → Contain → Assess →
@@ -902,11 +894,11 @@ That question should be visible on every anomaly page that reaches the Transform
 
 Future record writers should build entries around one or more of these tensions:
 
-**Containment versus care** — A sentient or suffering anomaly may be dangerous and deserving of more than cruelty.
-**Knowledge versus exposure** — Learning enough to protect people can also activate or spread the danger. **Utility
-versus corruption** — A transformed asset may save lives while making the institution dependent on an unethical
-practice. **Continuity versus truth** — The archive’s official story may be safer than reality, but a false record can
-become its own disaster.
+**Containment versus care** — A sentient or suffering anomaly may be dangerous and deserving of
+more than cruelty. **Knowledge versus exposure** — Learning enough to protect people can also
+activate or spread the danger. **Utility versus corruption** — A transformed asset may save lives
+while making the institution dependent on an unethical practice. **Continuity versus truth** — The
+archive’s official story may be safer than reality, but a false record can become its own disaster.
 
 These tensions are grounded in the repository’s existing docs and give A.C.T. a coherent emotional identity.
 
@@ -1056,8 +1048,8 @@ classified correctly if they appear on a public wiki:
 - do not imply Project Moon approval or affiliation;
 - do not use official Project Moon assets, logos, music, or copied prose;
 - retain source-attribution and a rights note;
-  isolate them from core A.C.T. navigation so an original-universe reader is never confused about
-  what belongs to whom.
+  isolate them from core A.C.T. navigation so an original-universe
+  reader is never confused about what belongs to whom.
 
 This report does not alter or delete those files. It identifies the presentation and
 legal boundary the future site
@@ -1293,9 +1285,9 @@ Notable Incidents
 
 ### 12.5 GOI page
 
-Use the existing registry standard with an optional one-paragraph field intelligence abstract. It should show both the
-organisation’s official A.C.T. assessment and what it is actually known to want. Contradiction is allowed, but must be
-labelled.
+Use the existing registry standard with an optional one-paragraph field intelligence
+abstract. It should show both the organisation’s official A.C.T. assessment and what
+it is actually known to want. Contradiction is allowed, but must be labelled.
 
 ### 12.6 Story page
 
@@ -1337,8 +1329,8 @@ The SCP Wiki Licensing Guide says derivative works using SCP material must:
 
 The guide also says that merely crediting the SCP Wiki is not enough when
 the work is derivative; ShareAlike is
-required. It flags the former SCP-173 image, Izumi Kato’s *Untitled 2004*, as not CC-licensed for commercial
-derivative use.
+required. It flags the former SCP-173 image, Izumi Kato’s
+*Untitled 2004*, as not CC-licensed for commercial derivative use.
 
 #### Safe SCP choices for A.C.T.
 
@@ -1356,8 +1348,8 @@ For the **core A.C.T. universe**, do not import SCP-specific entities, prose, lo
 organisation names, or cited SCP entries. This preserves the project’s independent identity and avoids turning the
 entire core into a ShareAlike derivative by accident.
 
-If the project wants a deliberate SCP crossover, place it in the **Unofficial Crossover** section and maintain a
-per-page attribution ledger.
+If the project wants a deliberate SCP crossover, place it in the
+**Unofficial Crossover** section and maintain a per-page attribution ledger.
 
 ### 13.3 Project Moon: treat source assets and text as protected
 
@@ -1479,10 +1471,9 @@ This prevents a later wiki migration from losing vital attribution data.
 ### 14.2 Taxonomy guardrails
 
 - Keep **Containment Class**, **Threat Level**, **Fracture Index**, and **Transformation Viability** separate.
-  Use `[BLANK]`, `UNAUTHORED`, and `SCHRÖDINGER` sparingly; they lose force if every record is a
-  metafictional anomaly.
-  Use `TIAMAT` only for conditions genuinely beyond conventional framing, not as a synonym for
-  “very powerful.”
+  Use `[BLANK]`, `UNAUTHORED`, and `SCHRÖDINGER` sparingly;
+  they lose force if every record is a metafictional anomaly.
+  Use `TIAMAT` only for conditions genuinely beyond conventional framing, not as a synonym for “very powerful.”
   Use `UFD` only while a record is genuinely provisional; record the promotion chain
   to
   `AFD` when verified.
@@ -1523,8 +1514,8 @@ This prevents a later wiki migration from losing vital attribution data.
    and
    E-Class.
 4. Add a `SOURCES_AND_RIGHTS.md` or public-facing rights page before publishing any external-property material.
-   Mark existing Project Moon crossover chapters as Unofficial Crossover rather than silently treating them
-   as core lore.
+   Mark existing Project Moon crossover chapters as Unofficial
+   Crossover rather than silently treating them as core lore.
 
 ### Phase 2 — Wiki information design
 
@@ -1549,8 +1540,7 @@ This prevents a later wiki migration from losing vital attribution data.
 
 1. Design original A.C.T. iconography for field type, containment, fracture, threat, transformation, and clearance.
 2. Build an original archive header and classification panel.
-   Establish document styles for Standard File, RCT File, Vault Record, Interview, Incident, Personal Log,
-   and GOI
+   Establish document styles for Standard File, RCT File, Vault Record, Interview, Incident, Personal Log, and GOI
    Registry.
 4. Create an original site map/lattice with a documented art source trail.
 5. Add accessibility and print/plain-text tests.
@@ -1586,8 +1576,8 @@ on or around **06 September
 
 3. **Lobotomy Corporation Wiki — Risk Level**
    <https://lobotomycorporation.wiki.gg/wiki/Risk_Level>
-   Used for the lesson that a risk label can imply multiple operational consequences rather than acting as a cosmetic
-   power ranking.
+   Used for the lesson that a risk label can imply multiple operational
+   consequences rather than acting as a cosmetic power ranking.
 
 4. **Lobotomy Corporation Wiki — Equipment**
    <https://lobotomycorporation.wiki.gg/wiki/Equipment>
@@ -1595,8 +1585,8 @@ on or around **06 September
 
 5. **Lobotomy Corporation Wiki — Employees**
    <https://lobotomycorporation.wiki.gg/wiki/Employees>
-   Used for the lesson that personnel, roles, health, fear, training, and routine can be part of the setting’s
-   operational logic.
+   Used for the lesson that personnel, roles, health, fear, training,
+   and routine can be part of the setting’s operational logic.
 
 6. **Library of Ruina Wiki — game page/directory**
    <https://libraryofruina.wiki.gg/wiki/Library_of_Ruina>
@@ -1605,8 +1595,8 @@ on or around **06 September
 
 7. **Library of Ruina Wiki — The City**
    <https://libraryofruina.wiki.gg/wiki/The_City>
-   Used for the general lesson that geography, institutions, social strata, and hazards can be interdependent
-   worldbuilding systems.
+   Used for the general lesson that geography, institutions, social
+   strata, and hazards can be interdependent worldbuilding systems.
 
 8. **Library of Ruina Wiki — Books**
    <https://libraryofruina.wiki.gg/wiki/Books>
@@ -1614,8 +1604,8 @@ on or around **06 September
 
 9. **Library of Ruina Wiki — Invitations**
    <https://libraryofruina.wiki.gg/wiki/Invitations>
-   Used only for the abstract lead/encounter/consequence story pattern; no proprietary terms or mechanics should be
-   copied into core A.C.T.
+   Used only for the abstract lead/encounter/consequence story pattern;
+   no proprietary terms or mechanics should be copied into core A.C.T.
 
 10. **Library of Ruina Wiki — Reception**
     <https://libraryofruina.wiki.gg/wiki/Reception>
@@ -1633,8 +1623,8 @@ on or around **06 September
 
 13. **Limbus Company Wiki — Project Moon**
     <https://limbuscompany.wiki.gg/wiki/Project_Moon>
-    Used for the franchise’s basic release/media map and the warning that game, comic, and novel sources need separate
-    provenance.
+    Used for the franchise’s basic release/media map and the warning
+    that game, comic, and novel sources need separate provenance.
 
 14. **Limbus Company Wiki — The City**
     <https://limbuscompany.wiki.gg/wiki/The_City>
@@ -1667,8 +1657,8 @@ on or around **06 September
 
 20. **Project Moon Wiki (Russian wiki.gg portal)**
     <https://projectmoon.wiki.gg/ru/>
-    Used to identify a franchise-wide portal and its migration/maintenance context. It is not used as an English-only
-    primary source.
+    Used to identify a franchise-wide portal and its migration/maintenance
+    context. It is not used as an English-only primary source.
 
 ### Project Moon: Fandom
 

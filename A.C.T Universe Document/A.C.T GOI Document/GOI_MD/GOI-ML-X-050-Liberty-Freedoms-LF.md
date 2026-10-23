@@ -104,11 +104,9 @@ defector origin. Observed operational functions include:
 
  **Raid Cells:** locate and strike Facility transport, recovery convoys, temporary holding, and low-security storage
  where an anomaly can be removed or an operation disrupted;
- **Carry Cells:** receive, secure, transport, and temporarily tend anomalies that have left containment with
- L.F.,
+ **Carry Cells:** receive, secure, transport, and temporarily tend anomalies that have left containment with L.F.,
  using handling knowledge that A.C.T assesses as defector-derived;
- **Gate Cells:** recruit, protect, and vet former A.C.T personnel, contractors, and their families, managing
- the
+ **Gate Cells:** recruit, protect, and vet former A.C.T personnel, contractors, and their families, managing the
  highest-risk asset the network holds — inside knowledge;
  **Publication Cells:** prepare, release, and maintain controlled
  leaks, leaflets, and recordings, treating information
@@ -120,9 +118,9 @@ jurisdictions through changing routes, safehouses, and transport seams;
 — **Residual Contacts:** sympathetic workers, frightened intermediaries,
 former members, and opportunists who assist without full initiation.
 
-These labels describe function, not confirmed internal titles. Seized documents suggest L.F. changes its own
-terminology deliberately, and that a captured record may use older names to mislead analysis about a cell's current
-role.
+These labels describe function, not confirmed internal titles. Seized documents
+suggest L.F. changes its own terminology deliberately, and that a captured
+record may use older names to mislead analysis about a cell's current role.
 
 ### Leadership Condition
 
@@ -260,8 +258,7 @@ Confirmed and assessed assets include:
  capacity;
 - **Adapted equipment:** seized or diverted A.C.T transport fixtures, restraint systems, monitoring tools, and
  protective gear;
- **Carried subjects:** anomalies assessed to travel with L.F. cells, each requiring separate case-chain handling
- and
+ **Carried subjects:** anomalies assessed to travel with L.F. cells, each requiring separate case-chain handling and
  each representing both an asset and a vulnerability;
 - **Sympathizer network:** drivers, landlords, archivists, and logistics workers providing cover without full
  initiation.
@@ -352,14 +349,12 @@ or drawn response resources toward a decoy corridor.
 - Security Division secures the scene and establishes witness control.
 - Recovery Division stabilizes any subject, transport, or material left behind.
 - Containment Division assesses whether a carried subject was destabilized by the network's handling.
- Intelligence Division maps the corridor pattern and examines whether the visible action is the
- real action.
+ Intelligence Division maps the corridor pattern and examines whether the visible action is the real action.
  Civil Covert Division treats the incident as a leak event from the first
  minute,
  assuming publication material exists
  even if none is found.
- Military Division is deployed only where hostile force or breach severity exceeds Security and
- Recovery capacity.
+ Military Division is deployed only where hostile force or breach severity exceeds Security and Recovery capacity.
 
 No staff member is to argue with an L.F. member by defending the anomaly's
 containment as kindness. The network's
@@ -437,10 +432,10 @@ overview, a declassified personnel list, and a transport manifest stripped of cu
 internally consistent and its fragments individually verifiable, but its implication — that the Facility maintains
 open, unguarded custody of dangerous subjects — was false.
 
-Interdiction occurred before release. Source analysis traced the fragments to a sequence of lawful archive requests,
-indicating that L.F. had assembled the document without a single theft. The case reinforced the standing rule that
-L.F. publications must be treated as both intelligence and weapon, and that the network's most effective leaks are
-those it never has to steal.
+Interdiction occurred before release. Source analysis traced the fragments to a sequence of
+lawful archive requests, indicating that L.F. had assembled the document without a single theft.
+The case reinforced the standing rule that L.F. publications must be treated as both intelligence
+and weapon, and that the network's most effective leaks are those it never has to steal.
 
 ---
 
@@ -454,23 +449,21 @@ be presented as proof of custody. Every severe containment decision can be flatt
 a prison with better paperwork. Every defector carries a true account of something the
 world was not told.
 
-The correct response is not public self-justification. It is competent containment, narrow and disciplined truth,
-protection of subjects and civilians, and active interruption of the pathways by which verifiable grievance becomes
-armed certainty.
+The correct response is not public self-justification. It is competent containment,
+narrow and disciplined truth, protection of subjects and civilians, and active
+interruption of the pathways by which verifiable grievance becomes armed certainty.
 
 ### Current Intelligence Priorities
 
  identify corridor seams shared by more than one cell and the sympathizers who
  keep
  them open;
- determine which publications are assembled from lawful access and which indicate an active insider
- source;
+ determine which publications are assembled from lawful access and which indicate an active insider source;
  map contact between L.F. and other hostile or market actors without assuming shared
  allegiance;
 — locate carried subjects and assess their condition before cells move or abandon them;
-— identify gate-cell recruiters who approach current staff, and the vulnerability profiles they
-exploit; distinguish doctrine from knowledge in recovered L.F. material, so that a captured text is
- not mistaken for an
+— identify gate-cell recruiters who approach current staff, and the vulnerability profiles they exploit;
+distinguish doctrine from knowledge in recovered L.F. material, so that a captured text is not mistaken for an
  operations manual;
  determine whether any L.F. cell has been redirected by another actor toward a
  target
@@ -483,16 +476,14 @@ exploit; distinguish doctrine from knowledge in recovered L.F. material, so that
  shared
  doctrine and defector
  culture?
- Which former personnel left voluntarily, which were recruited after leaving, and which were coerced
- or deceived by
+ Which former personnel left voluntarily, which were recruited after leaving, and which were coerced or deceived by
  staged truth?
 — How many subjects currently travel with L.F. cells, and how many travel willingly?
  Has any carried subject influenced or controlled the cell carrying it, and would
  L.F.
  recognize that condition if it
  occurred?
- Does the network possess a standing capacity to fabricate containment-grade equipment, or does it
- remain dependent on
+ Does the network possess a standing capacity to fabricate containment-grade equipment, or does it remain dependent on
  seizure and diversion?
 — What event would push L.F. from controlled rupture toward uncontrolled revelation?
 

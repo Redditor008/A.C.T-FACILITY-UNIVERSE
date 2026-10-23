@@ -209,8 +209,7 @@ are filtered for safe circulation and preserved under confidentiality doctrine.
 
 No calendar interval is recorded; the bay is reset per admission, so interval NOT
 MEASURED. Disposal stock
-is the consumable. The note transmission review is why clinical detail is separated from wider medical
-circulation.
+is the consumable. The note transmission review is why clinical detail is separated from wider medical circulation.
 
 ## FAULT ISOLATION
 
@@ -246,9 +245,9 @@ no longer cover the injuries personnel
 were bringing back from containment work.
 
 ### MCTS-Note Transmission Review
-A clinician's detailed description of a patient's repeated phrase was later flagged as unsafe for general medical
-circulation. The suite's record procedure now uses filtered note entry and separates clinical detail from wider
-duty-risk advisories.
+A clinician's detailed description of a patient's repeated phrase was later flagged
+as unsafe for general medical circulation. The suite's record procedure now uses
+filtered note entry and separates clinical detail from wider duty-risk advisories.
 
 ### MCTS-Amnestic Restraint Review
 A treatment team requested memory erasure as a convenience measure after a mild exposure. Medical review denied the
@@ -258,11 +257,11 @@ request and reinforced that amnestics are not routine cleanup for staff discomfo
 
 ## DIVISION USE
 
-Medical Division and Cognitive Care operate MCTS, own treatment decisions, and protect patient confidentiality.
-Containment provides exposure context and hazard restrictions. Research helps characterize memetic behavior observed
-in treatment without directing care. Archive preserves records under confidentiality and operational evidence
-standards. Security supports access control when a patient is unstable or when contaminated speech may spread beyond
-the suite.
+Medical Division and Cognitive Care operate MCTS, own treatment decisions, and protect patient
+confidentiality. Containment provides exposure context and hazard restrictions. Research helps
+characterize memetic behavior observed in treatment without directing care. Archive preserves
+records under confidentiality and operational evidence standards. Security supports access
+control when a patient is unstable or when contaminated speech may spread beyond the suite.
 
 Standing reminder: a mind can be contaminated without becoming untrustworthy. Care comes first, and
 containment

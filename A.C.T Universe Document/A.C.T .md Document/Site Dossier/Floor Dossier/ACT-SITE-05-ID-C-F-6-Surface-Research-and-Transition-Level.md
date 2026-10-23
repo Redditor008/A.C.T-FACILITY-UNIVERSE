@@ -34,15 +34,15 @@ the relay's public science and its concealed work share one island.
 
 ## 1. Floor Registry Identity Summary
 
-**Site Designation:** ACT-SITE-05-ID-C **Site Codename:** Nusantara Deep Relay **Floor Designation:** F-6 **Floor
-Name:** Surface Research and Transition Level **Floor Type:** Surface Cover and Transition Level **Vertical
-Position:** Surface-adjacent floor of the relay's built installation **Floor Above:** None numbered — the island
-surface, port, and sea **Floor Below:** F-5 (Personnel and Command Level) **Containment Character:** Non-resident
-surface cover and transition infrastructure **Primary Function:** Research laboratories, monitoring stations,
-administrative buildings, and the port facility's surface operations; transition of personnel and recovered material
-between the surface and the buried relay **Distinctive Feature:** The relay's legitimate face — genuine marine and
-geological research conducted in the open **Access Posture:** Public and semi-public access under cover doctrine
-**Current Status:** Active
+**Site Designation:** ACT-SITE-05-ID-C **Site Codename:** Nusantara Deep Relay **Floor Designation:** F-6
+**Floor Name:** Surface Research and Transition Level **Floor Type:** Surface Cover and Transition Level
+**Vertical Position:** Surface-adjacent floor of the relay's built installation **Floor Above:** None
+numbered — the island surface, port, and sea **Floor Below:** F-5 (Personnel and Command Level)
+**Containment Character:** Non-resident surface cover and transition infrastructure **Primary Function:**
+Research laboratories, monitoring stations, administrative buildings, and the port facility's surface
+operations; transition of personnel and recovered material between the surface and the buried relay
+**Distinctive Feature:** The relay's legitimate face — genuine marine and geological research conducted in
+the open **Access Posture:** Public and semi-public access under cover doctrine **Current Status:** Active
 
 ---
 
@@ -147,8 +147,8 @@ under the separation that the cover requires.
 
 ### 6.4 Security Division (Boundary)
 
-Security operates the campus's boundary functions, monitoring the transition between the legitimate campus and the
-relay's concealed operations.
+Security operates the campus's boundary functions, monitoring the transition
+between the legitimate campus and the relay's concealed operations.
 
 ---
 
@@ -187,8 +187,8 @@ concealed maritime operations under the separation the cover requires.
 
 ### 8.1 Power
 
-F-6 draws on the island's legitimate power infrastructure, with the buried relay protected by the installation's
-backup architecture.
+F-6 draws on the island's legitimate power infrastructure, with the
+buried relay protected by the installation's backup architecture.
 
 ### 8.2 Environment
 
@@ -197,9 +197,9 @@ the infrastructure of a working research installation in the archipelago.
 
 ### 8.3 Monitoring
 
-Monitoring on F-6 is boundary-oriented: campus traffic, research activity, port operations, and the transition points
-are monitored under the Security Division's doctrine, with the monitoring architecture concealed as part of the
-campus's ordinary systems.
+Monitoring on F-6 is boundary-oriented: campus traffic, research activity, port operations,
+and the transition points are monitored under the Security Division's doctrine, with the
+monitoring architecture concealed as part of the campus's ordinary systems.
 
 ### 8.4 Communication
 
@@ -225,9 +225,9 @@ indistinguishable from ordinary institute infrastructure.
 
 ### 9.3 Maritime Separation Doctrine
 
-The port's dual use is governed by maritime separation doctrine: the legitimate research vessels and the relay's
-concealed maritime operations share the same waters under a separation that the cover requires and the Security
-Division enforces.
+The port's dual use is governed by maritime separation doctrine: the legitimate
+research vessels and the relay's concealed maritime operations share the same waters
+under a separation that the cover requires and the Security Division enforces.
 
 ### 9.4 Incident Response
 
@@ -297,8 +297,8 @@ watches.
 
 F-6 doctrine holds that the campus's public science and the relay's concealed work must
 remain separate: the
-legitimate world sees a research institute, and the relay's operations continue beneath and beyond it, undisturbed and
-unseen.
+legitimate world sees a research institute, and the relay's
+operations continue beneath and beyond it, undisturbed and unseen.
 
 ---
 

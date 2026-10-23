@@ -12,18 +12,18 @@
 ---
 
 ## Initial Record
-A giant pale flowering organism was recovered and documented after repeated incidents involving memory loss,
-disorientation, missing time, and contradictory witness testimony. The organism stands approximately **3 meters in
-height** and resembles an oversized ornamental plant, though no ordinary botanical classification has been found to
-match it.
+A giant pale flowering organism was recovered and documented after repeated incidents
+involving memory loss, disorientation, missing time, and contradictory witness testimony.
+The organism stands approximately **3 meters in height** and resembles an oversized
+ornamental plant, though no ordinary botanical classification has been found to match it.
 
 Its petals are pale white-blue and semi-translucent, while vein-like **golden structures** run through the stem, leaf
 system, and petal roots. During blooming cycles, the organism emits a faint **cold golden mist**. This mist produces
 mild cognitive disturbance in prolonged exposure, including confusion, recent memory instability, and delayed recall.
 
-The organism secretes a glowing **translucent golden sap**. This sap is the anomaly’s most dangerous property. When
-consumed, introduced into the bloodstream, or improperly inhaled in concentrated form, it causes immediate and often
-irreversible memory erasure.
+The organism secretes a glowing **translucent golden sap**. This sap is the anomaly’s
+most dangerous property. When consumed, introduced into the bloodstream, or improperly
+inhaled in concentrated form, it causes immediate and often irreversible memory erasure.
 
 ---
 

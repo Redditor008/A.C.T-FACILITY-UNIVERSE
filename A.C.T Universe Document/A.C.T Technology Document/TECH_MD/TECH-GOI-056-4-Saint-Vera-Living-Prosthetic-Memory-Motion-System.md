@@ -59,8 +59,8 @@ listed among the Concern's known assets, implying the parts are formed per patie
 
 A.C.T holds no implant and has never held one. Custody is barred where the
 implant is life-sustaining or
-function-sustaining. This is the strictest appropriation limit in the Saint-Vera set, because the object is inside a
-person.
+function-sustaining. This is the strictest appropriation limit
+in the Saint-Vera set, because the object is inside a person.
 
 The Concern's secrecy classification is **Leaking** largely because of this technology. A person with a living
 prosthetic, an impossible scar, a replacement voice, or nonstandard organ support can expose anomaly reality through
@@ -69,9 +69,9 @@ but it will not always erase a survivor's memory to protect normalcy.
 
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
-**Limb assemblies.** Formed from a per-patient mold and connected through what the source record calls memory-linked
-nerve media. Sensation is restored, not simulated: patients report feeling through the limb. The medium itself has not
-been recovered or described.
+**Limb assemblies.** Formed from a per-patient mold and connected through what the source
+record calls memory-linked nerve media. Sensation is restored, not simulated: patients
+report feeling through the limb. The medium itself has not been recovered or described.
 
 **Voice grafts.** Used where original speech was consumed or forbidden by anomalous exposure. The dossier does
 not describe the graft physically. What is recorded is the outcome — a patient
@@ -83,9 +83,9 @@ implant is a filter, not a replacement eye, and it preserves sight while removin
 something from what is seen. This is
 the same glass family reported in Saint-Vera theatre lighting, and the relationship between the two is unresolved.
 
-**Organ support.** For patients whose internal anatomy has become partially nonstandard. No component description
-exists. Medical Division notes that such support cannot be fully returned to pre-incident condition, which makes it
-permanent by design.
+**Organ support.** For patients whose internal anatomy has become partially
+nonstandard. No component description exists. Medical Division notes that such support
+cannot be fully returned to pre-incident condition, which makes it permanent by design.
 
 **Mould and fitting.** Living prosthetic molds are prepared before fitting. Whether a mold is a negative cast, a
 growth substrate, or a record of the missing limb is not established.
@@ -220,8 +220,8 @@ incident?
 
 At least one voice graft produced speech that family members did not recognize as
 the patient's. The patient retained
-the voice and declined reversal. Subject Care recorded the refusal under `DO NOT REVERSE BEFORE ASKING` and took no
-further action.
+the voice and declined reversal. Subject Care recorded the refusal
+under `DO NOT REVERSE BEFORE ASKING` and took no further action.
 
 ## DIVISION USE
 

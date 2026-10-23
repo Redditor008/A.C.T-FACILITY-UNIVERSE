@@ -45,11 +45,11 @@ WHEN THE CAMERA SHOWS NOTHING, MEASURE WHAT NOTHING DISPLACES.
 
 ## FUNCTION SUMMARY
 
-Sub-Abyssal Sonar maps mass, void, pressure, and moving structure in environments where optics are useless or actively
-dangerous. It is used beneath ocean trenches, under heavy containment floors, inside high-density rock, near
-extra-terrestrial surfaces, and in Blind Box systems where the subject cannot safely be watched by direct light. SAS
-does not rely on beauty, color, silhouette, or visible behavior. It listens for displacement, echo refusal, pressure
-contours, and acoustic return.
+Sub-Abyssal Sonar maps mass, void, pressure, and moving structure in environments where optics are
+useless or actively dangerous. It is used beneath ocean trenches, under heavy containment floors,
+inside high-density rock, near extra-terrestrial surfaces, and in Blind Box systems where the
+subject cannot safely be watched by direct light. SAS does not rely on beauty, color, silhouette, or
+visible behavior. It listens for displacement, echo refusal, pressure contours, and acoustic return.
 
 The system became critical in Death Angler recovery because AFD-NB-964 could vanish from cameras while remaining
 physically present. Standard visual tracking showed empty water. SAS showed the predator. That distinction saved later
@@ -238,9 +238,9 @@ stretched geometry, moving sediment, living shell ecosystems, or deliberate fals
 mass exists without explaining what the mass intends. It can also produce dangerous confidence if operators forget
 that some predators listen back.
 
-Known failure modes include spike drift, cable pressure fracture, wireframe lag, echo inversion, false empty return,
-over-bright acoustic rendering, and operator fixation on the cleanest map rather than the most cautious
-interpretation.
+Known failure modes include spike drift, cable pressure fracture, wireframe lag,
+echo inversion, false empty return, over-bright acoustic rendering, and operator
+fixation on the cleanest map rather than the most cautious interpretation.
 
 ---
 
@@ -252,9 +252,9 @@ through optical invisibility. The capture doctrine now states that light-based s
 gated-existence predator operations.
 
 ### SAS-2012 Proto-Thal Survey Loss
-The Nusantara-4 survey mapped stretched trench geometry and shell ecology before filter-feeding suction destroyed the
-ROV. SAS transmission survived long enough to validate the island-body model. Drone loss is now considered acceptable
-if the map escapes.
+The Nusantara-4 survey mapped stretched trench geometry and shell ecology before
+filter-feeding suction destroyed the ROV. SAS transmission survived long enough to validate
+the island-body model. Drone loss is now considered acceptable if the map escapes.
 
 ### SAS-2026 Empty Map Incident
 A training console displayed a clean void during a simulated pressure zone because one
@@ -265,10 +265,10 @@ Operators who trusted the image failed the exercise. Current training repeats th
 
 ## DIVISION USE
 
-Maritime Observation controls Site-05 deployments. Engineering maintains consoles, spikes, pistons, and rendering
-systems. Recovery uses SAS for blind tracking. Heavy Containment uses it to inspect large enclosures and anchor
-plating. Abyss Survey uses it below normal geological ranges. Site Command approves active pinging near subjects that
-respond to sound.
+Maritime Observation controls Site-05 deployments. Engineering maintains consoles, spikes,
+pistons, and rendering systems. Recovery uses SAS for blind tracking. Heavy Containment uses
+it to inspect large enclosures and anchor plating. Abyss Survey uses it below normal
+geological ranges. Site Command approves active pinging near subjects that respond to sound.
 
 Standing reminder: do not stare at the empty screen until you have proved the
 emptiness is not staring back.

@@ -9,8 +9,8 @@ Archive Note
 This file is the consolidated meaning reference for every designation, code, marker, and class used on A.C.T records.
 Until this file was opened, the same code could be read differently by an
 Archiver, a Field Operator, a Site Director,
-and a Transformation specialist, because its definition lived in a different supporting file each time. This reference
-ends that condition.
+and a Transformation specialist, because its definition lived in a
+different supporting file each time. This reference ends that condition.
 
 The file explains, in full, every entry that appears in an anomaly file, a
 GOI record, or a Site record:
@@ -48,18 +48,18 @@ value without expansion, the working interpretation is stated openly in the entr
 - ACT_GOI_Registry_and_External_Threat_Doctrine_Archive (with Part Four)
 - ACT_Site_Registry_File_Standard, ACT_Site_Doctrine_and_Installation_Structure, ACT_Global_Site_Registry
 
----
+═══════════════════════════════════════════════════════════════════════
 
 PART I — ANOMALY FILE DESIGNATIONS AND CLASSES
 
 This Part explains the designation and classification system that appears on every modern anomaly file. It is
 organized in the same order the fields appear on the Standard Format file: designation
 first, then registry band,
-field type, fracture logic, containment class, threat level, transformation viability, lifecycle state, clearance,
-hazard tags, and finally the operational fields (structure class, breach state, restrictions, redaction, and record
-state).
+field type, fracture logic, containment class, threat level, transformation
+viability, lifecycle state, clearance, hazard tags, and finally the operational
+fields (structure class, breach state, restrictions, redaction, and record state).
 
----
+═══════════════════════════════════════════════════════════════════════
 
 I-1 Designation Anatomy — Reading an Anomaly Designation
 
@@ -133,19 +133,19 @@ those terms.
 
 ENTITY-### — Historical Vault Designation
 
-Meaning. The oldest designation series in the archive, used before the formal anomaly system existed. In that era the
-impossible was recorded in survival documents as ENTITY files: no standardized field type, containment class, threat
-level, or transformation viability was attached. An ENTITY number means the file belongs to the first-vault era of
-A.C.T archive history.
+Meaning. The oldest designation series in the archive, used before the formal anomaly system
+existed. In that era the impossible was recorded in survival documents as ENTITY files: no
+standardized field type, containment class, threat level, or transformation viability was
+attached. An ENTITY number means the file belongs to the first-vault era of A.C.T archive history.
 
 Assigned when. The record predates the Anomaly Era transition. No new ENTITY files are
 opened; modern records use
 UFD/AFD/ANM. Existing ENTITY records may be re-filed under the modern system when their subject is re-documented (see
 the AFD-CH-000 example above), while the historical file is preserved.
 
-Reading example. ENTITY-000 — the first preserved vault record, the Slumbering Serpent God / ITHYOS, The
-World-Sleeper. Naming note: the historical designation is written ENTITY-000; sealed file titles use the underscore
-form ENTITY_000_ITHYOS.
+Reading example. ENTITY-000 — the first preserved vault record, the Slumbering
+Serpent God / ITHYOS, The World-Sleeper. Naming note: the historical designation is
+written ENTITY-000; sealed file titles use the underscore form ENTITY_000_ITHYOS.
 
 Do not confuse with. Registry numbers. ENTITY numbers do not share the modern ###
 registry; they are a closed
@@ -195,9 +195,9 @@ LEGACY ACCEPTED Band
 
 Range. 001–120 in UFD/AFD-style three-digit anomaly records.
 
-Meaning. This band is accepted for legacy-era anomalies that predate, strain, or were later re-housed inside modern
-doctrine. Records in this band may preserve older tone, older intake history, and UFD-to-AFD traces without being
-treated as format errors.
+Meaning. This band is accepted for legacy-era anomalies that predate, strain, or were
+later re-housed inside modern doctrine. Records in this band may preserve older tone,
+older intake history, and UFD-to-AFD traces without being treated as format errors.
 
 Rule. A legacy anomaly may have both a UFD and an AFD record when
 the UFD preserves the provisional intake state and
@@ -210,8 +210,8 @@ Modern Registry Band
 
 Range. 121–999 in standard UFD/AFD three-digit anomaly records.
 
-Meaning. This is the ordinary modern registry range for verified and provisional anomalies after the legacy accepted
-range.
+Meaning. This is the ordinary modern registry range for verified
+and provisional anomalies after the legacy accepted range.
 
 Rule. A modern UFD may become an AFD after verification, but the designation history
 must preserve the intake path. If
@@ -237,7 +237,7 @@ Closed numbers are numbers retired from new assignment because the previous reco
 No registry number should be reused merely because an anomaly is neutralized, lost, explained, transformed, or
 archived. The archive preserves the wound even when the wound stops moving.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 I-2 Field Type Codes
 
@@ -259,8 +259,8 @@ Assigned when. The anomaly is a discrete non-living thing, or behaves as one for
 filing purposes, regardless of origin
 or apparent age.
 
-Reading example. AFD-OB-502 Ball of Knife — an object-type hazard. AFD-OB-142 Book of Hero; AFD-OB-312 AFS-312 Anti
-Force Shock.
+Reading example. AFD-OB-502 Ball of Knife — an object-type hazard.
+AFD-OB-142 Book of Hero; AFD-OB-312 AFS-312 Anti Force Shock.
 
 Do not confuse with. Box Class (I-8), which describes the structure used to hold
 an object; and with Subject, when an
@@ -268,9 +268,9 @@ object displays sentience or agency strong enough to reclassify it.
 
 SU — Subject
 
-Meaning. The anomaly is a living or sentient being: a creature, entity, person, organism, or presence that acts,
-reacts, or is treated as an individual. Subject-type records place the anomaly's behavior and welfare at the center of
-the file.
+Meaning. The anomaly is a living or sentient being: a creature, entity, person,
+organism, or presence that acts, reacts, or is treated as an individual. Subject-type
+records place the anomaly's behavior and welfare at the center of the file.
 
 Assigned when. The anomaly is alive, self-moving, self-aware, or entity-like enough that containment must account for
 its behavior, care, and responses.
@@ -291,8 +291,8 @@ Assigned when. The anomalous condition is bound to a location rather than to a
 movable thing or being, and containment
 must therefore operate on the place.
 
-Reading example. AFD-PL-932 Dark World Door — a place-type anomaly with its own expedition and reactivity dossiers.
-AFD-PL-384 Haunting Terror.
+Reading example. AFD-PL-932 Dark World Door — a place-type anomaly with
+its own expedition and reactivity dossiers. AFD-PL-384 Haunting Terror.
 
 Do not confuse with. SP. Place is a location with a fixed identity; Space
 anomalies (below) attack spatial logic
@@ -398,8 +398,8 @@ memetic-adjacent behavior notwithstanding, its filing category is biological). A
 
 Do not confuse with. SU. A non-natural bio hazard that is also sentient is
 still filed NB when its biology is the
-dominant anomaly; sentience is then handled inside the file and in Behavioral & Observation dossiers (Part IV,
-Category VIII).
+dominant anomaly; sentience is then handled inside the file and
+in Behavioral & Observation dossiers (Part IV, Category VIII).
 
 ?.H — Shifting Hazard
 
@@ -427,7 +427,7 @@ logic; ?.H describes anomalies whose category of existence shifts. A ?.H anomaly
 may not require fracture
 filing.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 I-3 Fracture Designation and the Fracture Index Codes
 
@@ -459,8 +459,8 @@ QU — QUESTIONED
 
 Meaning. Did we even put it in the box — it's so passive you
 wonder if containment ever happened. The anomaly is so
-unresponsive that A.C.T cannot confirm its containment is doing anything; the question is whether containment exists
-or is theater.
+unresponsive that A.C.T cannot confirm its containment is doing
+anything; the question is whether containment exists or is theater.
 
 Reading example. ANM-QU-AS-0003.
 
@@ -534,7 +534,7 @@ when standard categories no longer
 describe the anomaly honestly.
 
 
----
+═══════════════════════════════════════════════════════════════════════
 
 I-4 Containment Class
 
@@ -574,8 +574,8 @@ Meaning. The anomaly exerts minor interference with containment but rarely escal
 tests the box in small ways — noise, movement, low-level effect — without mounting
 a real escape attempt.
 
-Reading example. AFD-NB-004 The Forgetting Bloom (Threat 3), whose residual activity stays within manageable bounds
-under procedure.
+Reading example. AFD-NB-004 The Forgetting Bloom (Threat 3), whose
+residual activity stays within manageable bounds under procedure.
 
 SPORADIC
 
@@ -594,8 +594,8 @@ Meaning. A deeply unsettling class in which exit conditions remain unexplained, 
 been observed. The anomaly demonstrably leaves — and demonstrably comes back — but A.C.T cannot explain the leaving.
 Records of this class carry permanent uncertainty about the mechanism of departure.
 
-Reading example. AFD-SU-019 Helping Hand (Threat 1); AFD-PL-384 Haunting Terror (Threat 3); AFD-SU-015 Hunting Deer
-(Threat 4).
+Reading example. AFD-SU-019 Helping Hand (Threat 1); AFD-PL-384
+Haunting Terror (Threat 3); AFD-SU-015 Hunting Deer (Threat 4).
 
 Do not confuse with. Undisclosed information. The class name records a known condition (undisclosed means of exit),
 not a decision to withhold data — though files of this class are often
@@ -631,8 +631,8 @@ Reading example. AFD-SU-714 Mogi-At (Threat 1); AFD-OB-021 The Ledger of the Thr
 Argon Internal AI (Threat 2) — a spread of threat levels that shows REACTIVE
 describes monitoring demand, not danger.
 
-Do not confuse with. EXIGENT. REACTIVE fails when you look away; EXIGENT demands full-time operation even while you
-watch (below).
+Do not confuse with. EXIGENT. REACTIVE fails when you look away;
+EXIGENT demands full-time operation even while you watch (below).
 
 EXIGENT
 
@@ -642,11 +642,11 @@ Meaning. The anomaly demands constant labor, resources, surveillance, and interv
 stable under watch, an EXIGENT anomaly consumes the watch itself — staffing rotations, material upkeep, procedure
 enforcement, and intervention drills are never off.
 
-Reading example. AFD-OB-502 Ball of Knife (Threat 4); AFD-PL-932 Dark World Door (Threat 4); AFD-NB-007 RED HOUND
-(Threat 4).
+Reading example. AFD-OB-502 Ball of Knife (Threat 4); AFD-PL-932
+Dark World Door (Threat 4); AFD-NB-007 RED HOUND (Threat 4).
 
-Do not confuse with. REACTIVE (above). The distinction is workload: REACTIVE needs your eyes; EXIGENT needs your whole
-operation.
+Do not confuse with. REACTIVE (above). The distinction is workload:
+REACTIVE needs your eyes; EXIGENT needs your whole operation.
 
 INVERTED
 
@@ -682,9 +682,9 @@ INTANGIBLE
 
 Defining line. Cannot be touched, only witnessed.
 
-Meaning. Containment depends on perception control, information restriction, ritual procedure, or indirect
-interaction. The anomaly cannot be physically gripped, so the file's real work is controlling how it is seen, known,
-and approached.
+Meaning. Containment depends on perception control, information restriction, ritual
+procedure, or indirect interaction. The anomaly cannot be physically gripped, so
+the file's real work is controlling how it is seen, known, and approached.
 
 Reading example. AFD-ME-018 Dread EYE (Threat 3); AFD-SU-010 Shadow Shark (Threat 3); ANM-QU-AS-0003
 At-the-end-of-the-day (Threat 5).
@@ -732,7 +732,7 @@ whole archive:
 text that must not be read (see I-12).
 A file that mixes the two spellings has already corrupted its own classification.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 I-5 Threat Level
 
@@ -766,16 +766,16 @@ response, the degree of secrecy enforcement, evacuation priority, transformation
 required for intervention. Two anomalies of the same field type and containment class may still demand entirely
 different operational responses because their threat levels differ.
 
-Reading examples. Threat 0: AFD-OB-492 Infinite Water Jug. Threat 3: AFD-OB-312 AFS-312. Threat 4: AFD-OB-502 Ball of
-Knife, AFD-PL-932 Dark World Door. Threat 6: AFD-CH-647 Jormungandr. Threat 9: AFD-NB-125 Proto-Thal. Threat 10:
-AFD-CH-703 Nyxara.
+Reading examples. Threat 0: AFD-OB-492 Infinite Water Jug. Threat 3: AFD-OB-312
+AFS-312. Threat 4: AFD-OB-502 Ball of Knife, AFD-PL-932 Dark World Door. Threat 6:
+AFD-CH-647 Jormungandr. Threat 9: AFD-NB-125 Proto-Thal. Threat 10: AFD-CH-703 Nyxara.
 
 Do not confuse with. GOI Threat Level. Anomaly threat runs 0–10 on the scale
 above; GOI threat runs 0–5 and measures
 an organization's threat to A.C.T and the masquerade, not an anomaly's destructive capacity (see Part II, II-7). The
 two scales share the word "threat" and share no numbers.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 I-6 Transformation Viability
 
@@ -803,8 +803,8 @@ CONTAINED-STUDY
 Meaning. Not ready for transformation. Research is active, but no operational transformation is authorized yet. The
 anomaly is being studied under containment with transformation as a possible future, not a present program.
 
-Reading example. The source doctrine's suggested file format block shows the combination: AFD-OB-042 — REACTIVE /
-Threat 4 / CONTAINED-STUDY.
+Reading example. The source doctrine's suggested file format block shows
+the combination: AFD-OB-042 — REACTIVE / Threat 4 / CONTAINED-STUDY.
 
 STABILIZED
 
@@ -829,13 +829,13 @@ Meaning. The anomaly has become part of A.C.T itself. At this stage it is
 no longer treated as an external object of
 study, but as a permanent system component embedded within infrastructure, doctrine, or operational capacity.
 
-Reading example of the full ladder. The scale runs from refusal (INVIOLABLE, NEUTRAL) through study (CONTAINED-STUDY)
-to achieved states (STABILIZED, NEUTRALIZED, REPURPOSED, INTEGRATED). The RCT template renders the range as INVIOLABLE
-→ INTEGRATED.
+Reading example of the full ladder. The scale runs from refusal (INVIOLABLE, NEUTRAL)
+through study (CONTAINED-STUDY) to achieved states (STABILIZED, NEUTRALIZED,
+REPURPOSED, INTEGRATED). The RCT template renders the range as INVIOLABLE → INTEGRATED.
 
-Do not confuse with. Containment Class. Class describes the relationship between the anomaly and the act of
-containment; viability describes whether and how the anomaly may be changed. A REACTIVE anomaly may be INVIOLABLE; an
-INERT one may be INTEGRATED.
+Do not confuse with. Containment Class. Class describes the relationship between the
+anomaly and the act of containment; viability describes whether and how the anomaly
+may be changed. A REACTIVE anomaly may be INVIOLABLE; an INERT one may be INTEGRATED.
 
 Supporting Transformation Statuses
 
@@ -876,8 +876,8 @@ PROHIBITED-FROM-TRANSFORMATION.
 
 PROVISIONAL
 
-Meaning. The anomaly is suspected, detected, or partially documented, but verification remains incomplete. Most UFD
-records begin here.
+Meaning. The anomaly is suspected, detected, or partially documented,
+but verification remains incomplete. Most UFD records begin here.
 
 ACTIVE-CONTAINED
 
@@ -946,7 +946,7 @@ Do not confuse with. Transformation Viability. An anomaly may be INVIOLABLE as a
 as a lifecycle state. A different anomaly may be REPURPOSED as a viability value
 and INTEGRATED as a lifecycle state.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 I-7 Clearance Levels
 
@@ -975,8 +975,8 @@ receive only the most minimal controlled awareness.
 
 Level 1
 
-Meaning. Assigned to Junior Employees. They possess limited institutional knowledge and access only to low-risk
-support areas.
+Meaning. Assigned to Junior Employees. They possess limited
+institutional knowledge and access only to low-risk support areas.
 
 Level 2
 
@@ -1015,7 +1015,7 @@ file's standing access rule; a
 level marker on a redaction tells the reader that a specific passage is locked
 to that tier or higher.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 I-8 Box Class — Containment Structure Category
 
@@ -1112,7 +1112,7 @@ containment; the Box Class records the structure reality tolerates. The two must
 — for example, an INTANGIBLE anomaly held under a Monitoring Field, or a small
 INERT object in a Small Box.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 I-9 Containment Location, Condition, Exposure, and Transport Fields
 
@@ -1122,8 +1122,8 @@ source of abbreviation errors in the archive.
 
 Containment Location Behavior Category
 
-Every anomaly is assigned one of four location-behavior statements, describing the required relationship between the
-anomaly and its monitoring:
+Every anomaly is assigned one of four location-behavior statements,
+describing the required relationship between the anomaly and its monitoring:
 
 - LEFT ALONE — the anomaly is safer when undisturbed; the correct posture is
 non-intervention.
@@ -1170,7 +1170,7 @@ Movable anomalies must be transported using REALITY STABILIZATION ANCHOR / RSA s
 the anomaly
 itself.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 I-10 Breach States
 
@@ -1201,7 +1201,7 @@ Transformation link. A file marked Content, Unstable, or under a Don't Touch / D
 See / Don't Fix standing mark is
 barred from transformation (see I-6).
 
----
+═══════════════════════════════════════════════════════════════════════
 
 I-11 Observation and Handling Restrictions
 
@@ -1239,12 +1239,12 @@ under stress conditions.
 not interact with the
 anomaly.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 I-12 Redaction and Suppression Markers
 
-Information suppression is part of containment. Authorized markers tell the reader why a passage is missing and what
-regime governs it:
+Information suppression is part of containment. Authorized markers
+tell the reader why a passage is missing and what regime governs it:
 
 - [ BLANK ] — spaced — the standard redaction marker: text has been
 removed. It carries no reason and asserts nothing;
@@ -1278,7 +1278,7 @@ containment class (I-4). The distinction is load-bearing: a file that mixes the 
 classification, and a reader who treats a class as a redaction (or a redaction
 as a class) has misread the file.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 I-13 RCT Format and Its Axes
 
@@ -1313,7 +1313,7 @@ of the scale and the right value the most; the live value sits somewhere
 on that span. The span is a filing
 convenience, not a promise that classes escalate in a strict order.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 I-14 Record and File State Vocabulary
 
@@ -1321,8 +1321,8 @@ Anomaly files and their supporting records carry state fields whose vocabulary i
 
 - Archive Status (on the file header): Active — the file is in current
 operational use; Active Restricted Record —
-active but distribution-limited; Archived — retired from active use; Sealed — closed by authority and not to be opened
-without higher clearance.
+active but distribution-limited; Archived — retired from active use; Sealed
+— closed by authority and not to be opened without higher clearance.
 - FILE STATUS (in metadata): Active / Restricted / Sealed follow the same meaning
 as above; other file-status values
 appear in context (Under Review, Dormant).
@@ -1351,8 +1351,8 @@ archive can find similar risks across different files.
 
 Rule of evidence. A Hazard Tag may appear on a file only when the
 description, anomalous properties, containment
-procedure, incident history, log dossier, or research summary demonstrates the hazard. Tags are not mood labels and
-not guesses.
+procedure, incident history, log dossier, or research summary
+demonstrates the hazard. Tags are not mood labels and not guesses.
 
 Rule of restraint. A file should carry the smallest useful set of tags. If
 every danger is tagged, the tags stop
@@ -1402,8 +1402,8 @@ Example tags: SPAT-NONLOCAL, SPAT-THRESHOLD, SPAT-TRANSIT, SPAT-INTERIOR, SPAT-D
 
 STR — Structural-Reality Hazard Tags
 
-Used when the anomaly affects the rules that allow reality, containment, documentation, causality, classification, or
-observation to remain stable.
+Used when the anomaly affects the rules that allow reality, containment,
+documentation, causality, classification, or observation to remain stable.
 
 Example tags: STR-REALITY-FRACTURE, STR-CLASSIFICATION-FAILURE, STR-CONTAINMENT-LOGIC, STR-OBSERVATION,
 STR-ARCHIVE-DRIFT.
@@ -1428,7 +1428,7 @@ A beautiful object that primarily rewrites memory is filed with a cognitive or m
 hazard tag before a physical
 one.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 PART II — GOI DESIGNATION AND CLASSIFICATION STACK
 
@@ -1467,24 +1467,24 @@ or official apparatus —
 operating within or across national authority.
 
 CP — Corporate
-Meaning. The group is a company or commercial enterprise whose structure, profit motive, or corporate form is the
-operative reality.
+Meaning. The group is a company or commercial enterprise whose
+structure, profit motive, or corporate form is the operative reality.
 
 CU — Cultic
-Meaning. The group is organized around belief, ritual, worship, or doctrinal commitment, whether harmful, useful, or
-mixed.
+Meaning. The group is organized around belief, ritual, worship,
+or doctrinal commitment, whether harmful, useful, or mixed.
 
 SC — Scientific
-Meaning. The group is organized around research, knowledge, or method — an epistemic actor rather than a commercial or
-political one.
+Meaning. The group is organized around research, knowledge, or method
+— an epistemic actor rather than a commercial or political one.
 
 CV — Civil
 Meaning. The group is a civilian or community organization: mutual aid, survivor networks, associations, or ordinary
 people organized around shared circumstance.
 
 ML — Militant
-Meaning. The group is armed or force-capable and uses organized violence, coercion, or military-style action as a core
-method.
+Meaning. The group is armed or force-capable and uses organized
+violence, coercion, or military-style action as a core method.
 
 AN — Anomalous
 Meaning. The group is itself anomalous — its existence, membership, or operation cannot be explained without anomalous
@@ -1501,8 +1501,8 @@ than corporate form is the defining feature (distinct from CP in that the group
 may have no single corporate body).
 
 HY — Hybrid
-Meaning. The group's structure crosses human, technological, and anomalous boundaries — part institution, part system,
-part anomaly.
+Meaning. The group's structure crosses human, technological, and
+anomalous boundaries — part institution, part system, part anomaly.
 
 II-3 Alignment Class Markers
 
@@ -1631,7 +1631,7 @@ anomalous condition is not reduced to organizational misconduct. Each dossier's 
 the ruling: dual filing required, not required, or under review.
 
 
----
+═══════════════════════════════════════════════════════════════════════
 
 PART III — SITE, SUB-SITE, AND FLOOR DESIGNATIONS
 
@@ -1706,8 +1706,8 @@ containment profile, or jurisdiction.
 
 III-5 Floor Designations (F-1 to F-N)
 
-Floors are designated by the F-series, with a fixed reading rule: floor designations run F-1 (deepest) upward to F-N
-at the surface level.
+Floors are designated by the F-series, with a fixed reading rule: floor
+designations run F-1 (deepest) upward to F-N at the surface level.
 
 Reading rule. F-1 is always the deepest numbered floor of an installation, not the
 first floor a visitor meets. The
@@ -1744,7 +1744,7 @@ Do not confuse with. The ABYSS. The F-series numbers only the main floors of
 an installation; the ABYSS is a deeper
 access route, not a numbered floor, and ABYSS records carry their own access restrictions.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 PART IV — SUPPORTING RECORD AND LOG CATEGORIES
 
@@ -1896,7 +1896,7 @@ Journal, Confession Note, Survivor Diary, Automatic Writing Sample, Private Audi
 Reliability note. Personal dossiers are not automatically less reliable than formal reports. In some anomalies,
 subjective records are the only records that survive contact with the event.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 CLOSING NOTE
 

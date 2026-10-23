@@ -78,6 +78,39 @@ def main() -> int:
     r["TXT_MD_HEADING_FILES"] = sum(
         1 for p in tx if re.search(r"^#{1,6} ", read(p), re.M)
     )
+    # The four gates above never caught the markdown that was actually leaking.
+    # TXT_BOLD/LINK/BACKTICK/HEADING all read 0 on 2026-10-23 while 3,584 markdown
+    # horizontal rules and 93 markdown italics spans sat in the corpus. A gate is
+    # only as good as the pattern it checks, so these two close that hole:
+    # a bare --- line is a markdown rule (the house bar is 71 box characters), and
+    # a single-asterisk pair is markdown italics. In-world notation is exempt:
+    # ^_* is a stage direction in the MAGICAL MEW lyric scripts and a lone * is a
+    # scene break, so only paired spans on one line count.
+    r["TXT_MD_RULE_LINES"] = sum(
+        1
+        for p in tx
+        for line in read(p).split("\n")
+        if re.match(r"^[ \t]*(---+|\*\*\*+|___+)[ \t]*$", line)
+    )
+    r["TXT_MD_ITALIC_SPANS"] = sum(
+        1
+        for p in tx
+        for m in re.finditer(r"(?<!\*)\*(?!\s)([^*\n]{1,120}?)(?<!\s)\*(?!\*)", read(p))
+    )
+    # A house bar narrower than the widest line in its own file reads as a broken
+    # rule, so the bar must span the text it separates.
+    r["TXT_NARROW_BAR_LINES"] = 0
+    for p in tx:
+        ls = read(p).split("\n")
+        widest = max(
+            (len(x) for x in ls if x.strip() and set(x.strip()) > set("═ ")),
+            default=0,
+        )
+        r["TXT_NARROW_BAR_LINES"] += sum(
+            1
+            for x in ls
+            if x.strip() and set(x.strip()) <= set("═") and len(x.strip()) < min(widest, 118)
+        )
     r["TXT_WIDE_PROSE_LINES"] = sum(
         1
         for p in tx

@@ -59,10 +59,10 @@ response, and surface-to-buried separation.
 
 ## ORIGIN AND DEVELOPMENT
 
-Glass Orchard's agricultural cover solved the problem of why a restricted rural campus existed, but it did not
-automatically solve the problem of movement. Witnesses arrive. Recovery teams deliver material. Archive packets leave.
-Medical supplies enter. Holding transfers occur. If those movements follow no ordinary pattern, the cover becomes a
-map to the relay.
+Glass Orchard's agricultural cover solved the problem of why a restricted rural campus existed,
+but it did not automatically solve the problem of movement. Witnesses arrive. Recovery teams
+deliver material. Archive packets leave. Medical supplies enter. Holding transfers occur. If
+those movements follow no ordinary pattern, the cover becomes a map to the relay.
 
 The F-3 dossier's Low-Visibility Doctrine and Concealed Transition Doctrine became the basis for LVPLS. Loading areas,
 service corridors, utility spaces, and greenhouse logistics are not decorative concealment; they are the routes by
@@ -119,10 +119,9 @@ throughput, Weekly operational moves, Transition breaches. Those 3 gaps are carr
 | Weekly operational moves | NOT MEASURED |
 | Transition breaches | NOT MEASURED |
 
-Low visibility here means unremarkable rather than unseen. The system hides operational movement inside a
-volume of ordinary agricultural traffic large enough that no single movement is worth watching. That makes
-traffic volume a control parameter: reduce the ordinary traffic and the operational movement becomes the
-only movement on the road.
+Low visibility here means unremarkable rather than unseen. The system hides operational movement inside a volume of
+ordinary agricultural traffic large enough that no single movement is worth watching. That makes traffic volume a
+control parameter: reduce the ordinary traffic and the operational movement becomes the only movement on the road.
 
 ## INTERFACE AND OPERATING ENVELOPE
 
@@ -169,8 +168,7 @@ produces precisely the visibility the system exists to avoid.
 
 Step 1 exists so the ledger holds evidence of a check rather than an
 assumption. When a movement is later
-questioned, the useful answer is the traffic volume recorded that week, not a recollection that the road was
-busy.
+questioned, the useful answer is the traffic volume recorded that week, not a recollection that the road was busy.
 
 During routine operation, Campus Administration maintains legitimate supply, staff, maintenance, and visitor
 schedules. Security Boundary staff compare ordinary movement with operational needs from F-2 and F-1. Recovery Support
@@ -241,10 +239,10 @@ sense. Current doctrine treats corridor use, cargo labels, and staff behavior as
 
 ## DIVISION USE
 
-Security operates boundary controls and transition review. Campus Administration maintains public-facing schedules and
-logistics. Recovery Support requests movement for field arrivals and transfers. Limited Archive moves sealed packets
-through approved windows. Medical coordinates witness or patient movement without exposing care beyond the campus
-explanation.
+Security operates boundary controls and transition review. Campus Administration maintains
+public-facing schedules and logistics. Recovery Support requests movement for field arrivals
+and transfers. Limited Archive moves sealed packets through approved windows. Medical
+coordinates witness or patient movement without exposing care beyond the campus explanation.
 
 LVPLS doctrine holds that a hidden route is not secure unless the ordinary route
 around it also holds.

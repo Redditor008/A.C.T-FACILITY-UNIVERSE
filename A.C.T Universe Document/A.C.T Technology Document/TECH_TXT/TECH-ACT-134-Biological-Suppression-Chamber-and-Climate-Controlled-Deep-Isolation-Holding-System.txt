@@ -69,10 +69,10 @@ biological, environmental, and behavioral requirements. The system treats suppre
 as containment: not a passive temperature setting, but a maintained state verified
 continuously through environmental, biological, structural, and behavioral monitoring.
 
-Approved roles include standard deep-isolation holding, cold-suppression custody, climate-controlled individual
-residency, biological activity reduction, long-duration resident monitoring, suppression schedule administration, F-4
-research transfer, F-2 entropic escalation, intake assignment, and exact documentation for residents held longer than
-staff rotations.
+Approved roles include standard deep-isolation holding, cold-suppression custody,
+climate-controlled individual residency, biological activity reduction, long-duration resident
+monitoring, suppression schedule administration, F-4 research transfer, F-2 entropic escalation,
+intake assignment, and exact documentation for residents held longer than staff rotations.
 
 ORIGIN AND DEVELOPMENT
 
@@ -289,8 +289,8 @@ routes. Medical advises on biological hazard and personnel exposure. Research re
 findings to holding regimens. Archive preserves long-duration custody
 records so the resident's history survives personnel rotation.
 
-BSCCDIHS doctrine holds that standard White Grave containment is quiet only because the cold is being maintained every
-minute.
+BSCCDIHS doctrine holds that standard White Grave containment is
+quiet only because the cold is being maintained every minute.
 
 CROSS-REFERENCES
 

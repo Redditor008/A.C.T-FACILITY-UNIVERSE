@@ -40,8 +40,8 @@ Deep, not a death cult, not a panic hoax network, not a single bell
 tower, and not an A.C.T civil-defense program. It
 qualifies as a Group of Interest because it has clergy, lay cells, shelter logistics,
 recurring prophecies, bell
-rites, calendars, route cards, food stores, warning songs, and a repeated ability to affect A.C.T response before and
-during abnormal disasters.
+rites, calendars, route cards, food stores, warning songs, and a repeated
+ability to affect A.C.T response before and during abnormal disasters.
 
 The relationship class is **POSITIVE**. Last Bell Congregation wants people to survive. It warns, shelters, feeds,
 reconciles, counts children, and moves frightened families before official systems can publicly admit danger. A.C.T
@@ -67,10 +67,10 @@ bird silence, broken clocks, repeated dreams, wrong tides, ash in clean rooms, a
 
 A.C.T tracks the group because some of its warnings have aligned with genuine anomaly
 pressure. The Congregation has
-prepared shelters before breach weather, moved children before impossible floods, warned fishing towns before
-deep-water disturbances, and kept families inside during street-repetition events. It has also caused false
-evacuations, public fear, and media attention when warnings did not correspond to confirmed threats. The file must
-preserve both outcomes.
+prepared shelters before breach weather, moved children before impossible floods, warned
+fishing towns before deep-water disturbances, and kept families inside during street-repetition
+events. It has also caused false evacuations, public fear, and media attention when warnings
+did not correspond to confirmed threats. The file must preserve both outcomes.
 
 The Congregation's most repeated line is:
 
@@ -108,9 +108,9 @@ early signs. Shelter Deacons
 manage stores and basement readiness. Calendar Mothers maintain
 date books, dream logs, and failed-warning corrections.
 
-A.C.T records mention a First Ringer, but no living officeholder has been confirmed. The First Ringer may be a
-founder, a myth, a rotating role activated during major warnings, or an absent authority invoked to restrain local
-panic.
+A.C.T records mention a First Ringer, but no living officeholder has been
+confirmed. The First Ringer may be a founder, a myth, a rotating role activated
+during major warnings, or an absent authority invoked to restrain local panic.
 
 ### Internal Structure
 
@@ -184,9 +184,9 @@ control of anomalies. It does not seek to awaken a god, collapse normalcy, or
 punish unbelievers. It wants people to
 have food, routes, bells, apologies, and names before the dangerous sky arrives.
 
-This objective aligns with A.C.T when early preparation reduces casualties. It conflicts with A.C.T when public
-warnings expose restricted patterns, move civilians through unapproved routes, or create panic before field teams can
-verify hazard.
+This objective aligns with A.C.T when early preparation reduces casualties. It
+conflicts with A.C.T when public warnings expose restricted patterns, move civilians
+through unapproved routes, or create panic before field teams can verify hazard.
 
 ### Anomalous Capability Assessment
 
@@ -232,8 +232,8 @@ shelters, migrant communities, border roads, old schools, and neighborhoods repe
 endings. Site 05 is frequently attached due to coastal, maritime, volcanic, and deep-earth warning patterns. Site 01
 attaches when urban shelters and public panic are active. Site 03 attaches when dreams,
 calendars, messages, or bell
-sounds carry informational hazard. Site 04 attaches when wilderness routes and isolated refuge communities are
-involved.
+sounds carry informational hazard. Site 04 attaches when
+wilderness routes and isolated refuge communities are involved.
 
 ### Known Assets and Holdings
 
@@ -252,8 +252,8 @@ Known or assessed assets include:
 - false-alarm confession records;
 - sealed cupboards containing failed calendars.
 
-A.C.T has recovered several route cards and one inactive bell-ribbon set. Active true-bell notation remains
-restricted.
+A.C.T has recovered several route cards and one inactive
+bell-ribbon set. Active true-bell notation remains restricted.
 
 ### Operating Method
 
@@ -281,16 +281,16 @@ A.C.T treats unapproved prayer routes as an access-and-egress risk, especially w
 
 ### Contact History
 
-A.C.T first encountered Last Bell as public warning irregularities before covered disasters. Bells rang before
-official sirens. Chapel shelters filled before evacuation notices. Families moved inland before waters rose without
-forecast. Early files treated these events as coincidence, rumor, local preparedness, or leakage from municipal
-contacts.
+A.C.T first encountered Last Bell as public warning irregularities before covered
+disasters. Bells rang before official sirens. Chapel shelters filled before evacuation
+notices. Families moved inland before waters rose without forecast. Early files treated
+these events as coincidence, rumor, local preparedness, or leakage from municipal contacts.
 
-Formal GOI designation followed the [CENSOR: THIRD-RING COAST] incident. A coastal town's church bell rang three times
-without human contact forty-one minutes before a deep-water pressure event. Last Bell members moved sixty-two
-residents into a chapel shelter and delayed others from approaching the pier. A.C.T Site 05 observers confirmed that
-public warnings reduced casualties but also revealed that some civilians had prepared for a disaster the public
-weather service denied.
+Formal GOI designation followed the [CENSOR: THIRD-RING COAST] incident. A coastal town's church
+bell rang three times without human contact forty-one minutes before a deep-water pressure event.
+Last Bell members moved sixty-two residents into a chapel shelter and delayed others from
+approaching the pier. A.C.T Site 05 observers confirmed that public warnings reduced casualties but
+also revealed that some civilians had prepared for a disaster the public weather service denied.
 
 After the event, an A.C.T field interviewer asked a Bellwarden why the church had
 not waited for official evacuation.
@@ -320,10 +320,10 @@ apocalypse. Their objectives are opposite.
 
 ### Responsible Jurisdiction
 
-Primary jurisdiction rests with Intelligence Division, Civil Covert Division, and Recovery Division. Site 05 reviews
-maritime, seismic, volcanic, and coastal warnings. Site 01 reviews urban shelters and public movement. Site 03 reviews
-dreams, calendars, bell tones, and informational hazard. Subject Care attaches when families, children, grief, or
-post-warning panic are active.
+Primary jurisdiction rests with Intelligence Division, Civil Covert Division, and Recovery
+Division. Site 05 reviews maritime, seismic, volcanic, and coastal warnings. Site 01 reviews urban
+shelters and public movement. Site 03 reviews dreams, calendars, bell tones, and informational
+hazard. Subject Care attaches when families, children, grief, or post-warning panic are active.
 
 Access and egress ledgers must record Last Bell movement separately from A.C.T evacuation. A prayer route can save
 civilians while still breaking containment accounting.
@@ -352,8 +352,8 @@ ending.
 
 A.C.T will also not dismantle a working shelter network merely because it knows too
 much. If Last Bell shelter
-practice reduces casualties, Civil Covert and Recovery must review whether controlled cooperation is safer than
-suppression.
+practice reduces casualties, Civil Covert and Recovery must
+review whether controlled cooperation is safer than suppression.
 
 ---
 
@@ -434,8 +434,7 @@ indicators, with containment of hazardous bell tones or reckless public alarms.
  anomalous
  bell, or a title for whoever first
  hears an active warning?
- Do true-bell tones predict danger, detect danger, or participate in causing the warning condition
- to stabilize?
+ Do true-bell tones predict danger, detect danger, or participate in causing the warning condition to stabilize?
 — Which end calendar entries are prophecy, pattern analysis, inherited memory, or post-event correction?
  How many shelters are structurally anomalous, and were any built by Cairn &
  Lintel

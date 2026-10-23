@@ -1,7 +1,7 @@
 A.C.T FACILITY ARCHIVE FILE — GOI GV X 060 Office for Witness Continuance
 ===========================
 GROUP OF INTEREST REGISTRY - OFFICE FOR WITNESS CONTINUANCE
------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | REGISTRY FIELD             | CURRENT VALUE                                                                         |
@@ -90,13 +90,13 @@ Witness names, tribunal statutes, sealed appeal exhibits, and protected shelter 
 WITNESS-CONTINUANCE DISCLOSURE LIMIT. Several omissions are required by law as well as containment policy. A.C.T
 personnel are not authorized to use this file to identify protected witnesses for informal contact.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 IDENTITY AND INSTITUTIONAL FUNCTION
------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Group Function
---------------
+═══════════════════════════════════════════════════════════════════════
 
 The Office for Witness Continuance functions as a government-backed legal authority for survival after witnessing. Its
 repeated activity is the defense of people whose testimony, identity, memory, body, or civil status has become
@@ -120,7 +120,7 @@ In longer legal form, the phrase reads:
 The event may be sealed. The person shall not be.
 
 Public Presence and Concealment
--------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 The Office operates through courts, health-rights desks, witness-protection statutes, family notification offices,
 hospital legal liaisons, ombudsman boards, detention appeals, missing-person correction channels, and sealed
@@ -134,13 +134,13 @@ grey thread binding, and injunction forms that remain legible after ordinary sca
 Office paperwork resists unauthorized alteration, though this
 may be procedural redundancy rather than anomalous durability.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 ORGANIZATION, LEADERSHIP, AND MEMBERSHIP
-----------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Leadership Condition
---------------------
+═══════════════════════════════════════════════════════════════════════
 
 The highest confirmed title is Continuance Commissioner. A.C.T has identified multiple tribunal chairs, regional legal
 protectors, and sealed archive custodians, but the Office's ministerial sponsor remains unresolved. Some records imply
@@ -154,7 +154,7 @@ fiction that allows orders to be issued without exposing officials to retaliatio
 enough to affect hospitals, police custody, court registries, family records, and transport orders.
 
 Internal Structure
-------------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T assessment identifies these functional layers:
 
@@ -171,7 +171,7 @@ A.C.T assessment identifies these functional layers:
 This structure establishes the Office as a real state institution with repeated legal and operational force.
 
 Membership and Recruitment
---------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Membership includes lawyers, judges, tribunal clerks, survivor advocates, medical-rights observers, former public
 defenders, hospital administrators, forensic record specialists, social workers, and sealed archive staff. Some
@@ -187,13 +187,13 @@ If you have seen a person become paperwork before becoming safe, apply under Con
 A.C.T has no confirmed evidence that the Office recruits from A.C.T personnel. However, several advocates display
 knowledge of A.C.T debriefing cadence, amnestic review language, and transport custody weaknesses.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 IDEOLOGY, OBJECTIVE, AND ANOMALOUS PRACTICE
--------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Stated Belief
--------------
+═══════════════════════════════════════════════════════════════════════
 
 The most repeated Office doctrine line reads:
 
@@ -201,15 +201,15 @@ Memory is testimony until lawfully reviewed.
 
 The Office does not claim that every memory should remain public. It claims that
 memory alteration, detention, and
-disappearance require review because they affect personhood. A witness may carry dangerous information, but the Office
-argues that danger does not automatically cancel rights, kinship, identity, grief, or the right to be told what is
-happening to one's own body.
+disappearance require review because they affect personhood. A witness may carry dangerous
+information, but the Office argues that danger does not automatically cancel rights,
+kinship, identity, grief, or the right to be told what is happening to one's own body.
 
 Office doctrine uses the term continuance to mean survival across institutional handling. A person continues if their
 name, body, memory, family connection, and legal existence remain meaningfully attached after the event.
 
 Assessed Objective
-------------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T assesses that the Office seeks to preserve legal personhood during anomaly response. It wants witnesses and
 survivors to remain legally findable, medically described, and represented before containment systems alter memory or
@@ -222,7 +222,7 @@ detention, and witness relocation. A.C.T may see immediate memory control as nec
 injury unless the survivor is represented and the decision is recorded.
 
 Anomalous Capability Assessment
--------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 The Office is assigned Handler capability. It handles anomalous testimony, memory records, transformed-person legal
 status, sealed evidence, and documents affected by abnormal events. It does not consistently create anomalous objects
@@ -239,28 +239,28 @@ Confirmed or strongly assessed capabilities include:
 - forcing family-notification review before complete disappearance cover;
 - distinguishing witness hazard from witness personhood in tribunal language.
 
-The Office is not assessed as Practitioner. Its force comes primarily from law, records, procedure, and public
-legitimacy.
+The Office is not assessed as Practitioner. Its force comes
+primarily from law, records, procedure, and public legitimacy.
 
 Secrecy and Civilian Exposure
------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 The Office is Leaking because it preserves testimony by design. It does not usually
 publish full anomaly details, but
-it keeps original words, first statements, body descriptions, names, photographs, and family claims in protected
-channels. These records can survive A.C.T normalcy operations and may surface during litigation, inquiry, medical
-review, or political conflict.
+it keeps original words, first statements, body descriptions, names, photographs, and
+family claims in protected channels. These records can survive A.C.T normalcy operations
+and may surface during litigation, inquiry, medical review, or political conflict.
 
 A.C.T cannot treat every preserved record as hostile exposure. Some records protect survivors from erasure and prevent
 institutional abuse. The danger is that protected truth can move before containment is ready for it.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 OPERATIONAL REGIONS, ASSETS, HOLDINGS, AND METHODS
---------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Operational Regions
--------------------
+═══════════════════════════════════════════════════════════════════════
 
 The Office operates nationally through courts, hospitals, detention review panels, family-record offices, witness
 shelters, public legal aid channels, sealed tribunal rooms, and administrative archives. It appears most often near
@@ -269,7 +269,7 @@ information hazards, or archive instability are central. Site 04 attaches when t
 are involved. Central Command attaches whenever the Office challenges A.C.T authority directly.
 
 Known Assets and Holdings
--------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Known or assessed assets include:
 
@@ -290,17 +290,17 @@ A.C.T has recovered copies of continuance forms but not a master witness ledger.
 trigger public-court consequences if not routed through Legal Liaison.
 
 Operating Method
-----------------
+═══════════════════════════════════════════════════════════════════════
 
 A typical Office intervention begins when a survivor, family, doctor, lawyer, municipal clerk, or responder notices
 procedural disappearance. Warning signs include vanished medical files, unexplained death certificates, missing
 consent forms, blocked family access, unreviewed memory treatment, altered names, and transport orders that remove a
 person before legal counsel can arrive.
 
-The Office then issues a continuance hold, assigns an advocate, copies testimony, reviews medical condition, blocks
-non-emergency amnestics, and demands that A.C.T justify custody or memory action through restricted legal channels.
-A.C.T field teams most often experience this as delay, interference, or a hostile packet arriving at the worst
-possible time.
+The Office then issues a continuance hold, assigns an advocate, copies testimony, reviews
+medical condition, blocks non-emergency amnestics, and demands that A.C.T justify custody
+or memory action through restricted legal channels. A.C.T field teams most often experience
+this as delay, interference, or a hostile packet arriving at the worst possible time.
 
 Office instructions are direct:
 
@@ -309,13 +309,13 @@ Do not let a changed body erase an unchanged name.
 Do not certify death because containment cannot explain survival.
 Do not call silence consent.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 HISTORY WITH A.C.T
-------------------
+═══════════════════════════════════════════════════════════════════════
 
 Contact History
----------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T first treated Office activity as isolated legal obstruction. Hospitals refused transfers. Families produced
 sealed questions. Witnesses arrived with advocates before A.C.T scheduled interview. Police clerks rejected amended
@@ -331,25 +331,25 @@ During the delay, Subject Care discovered that the witness had been carrying a s
 another missing civilian. Immediate amnestics would likely have destroyed the only recoverable lead.
 
 Current Relationship
---------------------
+═══════════════════════════════════════════════════════════════════════
 
 The current relationship is NEGATIVE. The Office's practical effect on A.C.T operations is adversarial. It blocks,
 delays, challenges, preserves, and litigates against containment secrecy. A.C.T must not soften the classification
 because the Office sometimes protects people from harm. Relationship labels describe the operational relationship with
 A.C.T, not the moral worth of the group.
 
-A.C.T does not classify the Office as Positive because its interventions often undermine containment stability. It
-does not classify the Office as Work because no reliable operational cooperation exists. It does not classify the
-Office as Neutral because the Office actively intervenes against A.C.T authority when witness continuance is
-threatened.
+A.C.T does not classify the Office as Positive because its interventions often undermine
+containment stability. It does not classify the Office as Work because no reliable
+operational cooperation exists. It does not classify the Office as Neutral because the
+Office actively intervenes against A.C.T authority when witness continuance is threatened.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T COORDINATION, CONTAINMENT, AND RESPONSE
----------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Responsible Jurisdiction
-------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Primary jurisdiction rests with Intelligence Division, Civil Covert Division, Legal Liaison, and Subject Care. Medical
 Division attaches when injury, consent, memory care, or transformed-body status is under dispute. Site jurisdiction
@@ -360,7 +360,7 @@ E-Class references must use the correct term: Excommunicated Class. The Office m
 personnel, survivors, or altered persons, but no Office file may redefine E-Class as exposure classification.
 
 Posture Implementation
-----------------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T posture is MONITOR / MISDIRECT / INFILTRATE. Monitoring includes continuance writs, tribunal notices, witness
 advocate appearances, amnestic challenge forms, hospital legal holds, false death corrections, and family notification
@@ -372,7 +372,7 @@ Field teams must route all Office documents through Legal Liaison. Destroying or
 escalate a contained incident into a state-level exposure event.
 
 Response Limits and Red Lines
------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T will not permit the Office to publish active containment details, move hazardous survivors without medical
 review, interfere with emergency amnestics required to prevent immediate mass harm, or disclose Site routes through
@@ -382,13 +382,13 @@ A.C.T will also not use amnestics, false death records, or emergency detention o
 defeat the Office's legal
 process. If a witness can be protected without erasure, that option must be reviewed.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 OPERATIONAL RECORDS
--------------------
+═══════════════════════════════════════════════════════════════════════
 
 Restricted Operational Extract
-------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 CONTINUANCE WRIT: OWC / TRIBUNAL CHAIR THREE
 CASE: [CENSOR: CONTINUANCE HEARING 17]
@@ -423,13 +423,13 @@ The card was found in the witness's coat after transfer to protected medical hou
 Ink remained visible after
 standard document-cleaning attempt.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 INTELLIGENCE ASSESSMENT AND OPEN CONDITIONS
--------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Confirmed Operational Facts
----------------------------
+═══════════════════════════════════════════════════════════════════════
 
 - The Office for Witness Continuance is an outside government legal authority and not
 an A.C.T internal review body.
@@ -442,7 +442,7 @@ secrecy and
 custody control.
 
 Active Intelligence Assessment
-------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 A.C.T assesses the Office as a specialized NEGATIVE government GOI. Its danger is not
 simple hostility. Its danger is
@@ -458,7 +458,7 @@ people. It can also endanger many
 people by preserving truth in the wrong channel at the wrong time.
 
 Persistent Questions
---------------------
+═══════════════════════════════════════════════════════════════════════
 
 - What incident caused the creation of the Office, and was A.C.T involved?
 - Does [CENSOR: LEGAL ACT NAME] exist in a sealed statute, an anomalous legal
@@ -474,22 +474,22 @@ through procedural symptoms only?
 - How many A.C.T public-cover deaths have been reversed by Office action?
 
 Intelligence Confidence
------------------------
+═══════════════════════════════════════════════════════════════════════
 
 High for institutional reality and operational effect. The Office has identifiable legal channels, repeated filings,
 tribunal orders, and witness outcomes. Confidence is Moderate for origin, ministerial sponsor, document durability,
 and the full scope of protected archives. Confidence may rise if A.C.T obtains an
 uncensored copy of [CENSOR: LEGAL
-ACT NAME], completes a controlled tribunal exchange, or verifies whether the Continuance Commissioner is a person,
-office, or legal condition.
+ACT NAME], completes a controlled tribunal exchange, or verifies whether
+the Continuance Commissioner is a person, office, or legal condition.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 CROSS-REFERENCE STATUS
-----------------------
+═══════════════════════════════════════════════════════════════════════
 
 Anomaly and Record Relationship
--------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 The Office for Witness Continuance is an organization and therefore belongs in the GOI
 archive. Individual writs,
@@ -498,7 +498,7 @@ require separate anomaly, incident, witness, amnestic, or legal files. The organ
 witness statements or memory-aftercare review.
 
 Related A.C.T Records
----------------------
+═══════════════════════════════════════════════════════════════════════
 
 - CONTROLLED RECORD FORM, Group of Interest Registry
 - GOI RECOVERED DOCUMENT AND INTERCEPT FORMAT DOCTRINE, Group of Interest Registry
@@ -512,17 +512,17 @@ Forms/ACT_Amnestic_Administration_and_Memory_Aftercare_Review_Form.md
 under Central Archive routing.
 
 Dual Filing
------------
+═══════════════════════════════════════════════════════════════════════
 
 Under review. The Office is a government GOI, but some documents, tribunal rooms, protected witness ledgers, or
 memory-preservation tools may require separate filing. Dual filing is mandatory when an Office asset preserves
 hazardous testimony independently, alters records, resists amnestic side effects, stores memory fragments, or moves a
 protected witness through an unregistered route.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 FILE METADATA
--------------
+═══════════════════════════════════════════════════════════════════════
 
 FILE CREATED:            04/02/1982
 FILE LAST UPDATED:       14/02/1987

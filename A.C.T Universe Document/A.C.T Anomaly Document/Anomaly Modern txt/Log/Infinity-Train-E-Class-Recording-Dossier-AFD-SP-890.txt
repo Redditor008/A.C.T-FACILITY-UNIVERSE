@@ -107,7 +107,7 @@ appears to be influenced by the subject's biological needs (e.g., the
 Cafeteria appears more frequently when blood-sugar is low).
 
 CARRIAGE TYPE       | ENCOUNTERS | DESCRIPTION
------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 Normal Seated       | 540        | Standard upholstery; zero occupants.
 Cafeteria           | 300        | Self-replenishing; variable menus.
 Storage             | 180        | Boxes of rusted gears and [ BLANK ].

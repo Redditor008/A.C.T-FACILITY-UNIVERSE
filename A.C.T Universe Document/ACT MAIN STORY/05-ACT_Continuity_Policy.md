@@ -54,8 +54,8 @@ Core Doctrine Canon governs:
 - Structural Reality doctrine;
 - technology and institutional reference material.
 
-When a future file needs a rule, class, designation, clearance structure, or official A.C.T. term, Core Doctrine Canon
-is the first place to check.
+When a future file needs a rule, class, designation, clearance structure,
+or official A.C.T. term, Core Doctrine Canon is the first place to check.
 
 ### 2.2 Part Series Canon
 
@@ -226,8 +226,8 @@ The current `docs/` scaffold may remain minimal until wiki implementation is aut
 
 ### 2.12 Crossover / Non-Core Material
 
-Crossover material is not Core A.C.T. Canon unless Central Archive explicitly declares a specific element to be
-imported into core continuity.
+Crossover material is not Core A.C.T. Canon unless Central Archive
+explicitly declares a specific element to be imported into core continuity.
 
 Known crossover/example location:
 
@@ -235,9 +235,9 @@ Known crossover/example location:
 A.C.T Universe Document/A.C.T Anomaly Document/Anomaly Legacy 01 .txt/STORY/
 ```
 
-Crossover stories may be preserved in the repository as creative work, experiments, alternate material, or non-core
-tales. They must not be used as automatic evidence for core A.C.T. doctrine, technology, organizations, cosmology, or
-visual identity.
+Crossover stories may be preserved in the repository as creative work, experiments,
+alternate material, or non-core tales. They must not be used as automatic evidence
+for core A.C.T. doctrine, technology, organizations, cosmology, or visual identity.
 
 This rule especially protects the independent A.C.T. core from accidental dependence on external properties.
 

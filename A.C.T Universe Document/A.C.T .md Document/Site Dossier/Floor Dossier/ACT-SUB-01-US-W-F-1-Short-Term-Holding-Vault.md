@@ -29,8 +29,8 @@ outside** seals the level entirely.
 
 This dossier records the floor in full institutional language: what it is, what it
 holds, how it is built, how it is
-guarded, and how a floor built for transience serves an installation whose entire doctrine is defined by the same
-limit.
+guarded, and how a floor built for transience serves an
+installation whose entire doctrine is defined by the same limit.
 
 ---
 
@@ -52,9 +52,9 @@ level
 
 The Glass Orchard Relay exists to keep the parent site from being overwhelmed by
 its own flow. That purpose is served
-above all on F-1: the level where recovered material waits. The relay's holding authority is deliberately limited — no
-high-threat anomaly, no long-term residency, no permanent residents — and F-1 is the physical expression of those
-limits.
+above all on F-1: the level where recovered material waits. The relay's holding
+authority is deliberately limited — no high-threat anomaly, no long-term residency,
+no permanent residents — and F-1 is the physical expression of those limits.
 
 F-1 exists to hold what can safely wait: low-threat anomalies recovered by field operations, staged at the relay until
 the parent site has capacity to receive them. The floor is built for the
@@ -97,10 +97,10 @@ requirement — short-term capacity sized to the relay's limited mandate.
 
 ### 4.2 The Limit Doctrine
 
-The floor's defining principle — that holding here is always temporary — was established as the relay's doctrine
-matured. The relay learned early that a staging installation which began keeping material permanently would cease to
-be a staging installation, and F-1 was built to enforce the distinction physically: days-to-weeks holding, never
-long-term residency.
+The floor's defining principle — that holding here is always temporary — was established as
+the relay's doctrine matured. The relay learned early that a staging installation which began
+keeping material permanently would cease to be a staging installation, and F-1 was built to
+enforce the distinction physically: days-to-weeks holding, never long-term residency.
 
 ### 4.3 Modern Configuration
 
@@ -227,18 +227,18 @@ holding authorization, with the floor's transient population governed by documen
 
 ### 9.2 The F-1 Closure Procedure
 
-The floor's defining security procedure is the **F-1 closure**: sealing the level to the outside during a breach
-response. Because the relay's holding population is low-threat and temporary, the closure procedure is designed to
-contain the floor's material and personnel within the sealed level until the condition that triggered the closure is
-resolved.
+The floor's defining security procedure is the **F-1 closure**: sealing the level to the
+outside during a breach response. Because the relay's holding population is low-threat and
+temporary, the closure procedure is designed to contain the floor's material and personnel
+within the sealed level until the condition that triggered the closure is resolved.
 
 ### 9.3 Escalation Handling
 
 The relay's doctrine is explicit: any anomaly that demonstrates higher threat, instability, or long-term
 holding
-requirements is transferred to the parent site immediately. F-1 maintains the emergency transit procedures for such
-escalation — containing the material under maximum procedural restriction only long enough for the parent site to
-assume control.
+requirements is transferred to the parent site immediately. F-1 maintains the
+emergency transit procedures for such escalation — containing the material under
+maximum procedural restriction only long enough for the parent site to assume control.
 
 ### 9.4 Transfer Security
 
@@ -284,9 +284,9 @@ serve the relay's processing and staging functions.
 
 ### 11.2 Duty Life
 
-Duty on F-1 is staging work: intake, monitoring, documentation, and transfer preparation. The floor's rhythm is set by
-the relay's flow — periods of heavy staging following field operations, followed by consolidation as material
-transfers to the parent site.
+Duty on F-1 is staging work: intake, monitoring, documentation, and transfer preparation.
+The floor's rhythm is set by the relay's flow — periods of heavy staging following field
+operations, followed by consolidation as material transfers to the parent site.
 
 ### 11.3 The Transience Discipline
 

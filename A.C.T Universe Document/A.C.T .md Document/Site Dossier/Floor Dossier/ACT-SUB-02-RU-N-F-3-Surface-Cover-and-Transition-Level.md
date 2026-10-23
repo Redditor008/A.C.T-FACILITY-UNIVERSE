@@ -35,15 +35,15 @@ the depot's natural cover serves an installation whose work must be silent.
 
 ## 1. Floor Registry Identity Summary
 
-**Site Designation:** ACT-SUB-02-RU-N **Site Codename:** Frost Hollow Depot **Parent Command:** ACT-SITE-02-RU-N —
-White Grave Station **Floor Designation:** F-3 **Floor Name:** Surface Cover and Transition Level **Floor Type:**
-Surface Cover and Transition Level **Vertical Position:** Surface-adjacent floor of the depot's buried component
-**Floor Above:** None numbered — the legitimate arctic cold-storage surface structures **Floor Below:** F-2
-(Quarantine and Assessment Level) **Containment Character:** Non-resident surface cover and logistics infrastructure
-**Primary Function:** Receiving areas, administrative spaces, and the surface face of the depot's arctic cold-storage
-cover; transition point for material entering the buried component **Distinctive Feature:** Natural cover — the arctic
-cold-storage identity raises no questions in the region **Access Posture:** Semi-public access under cover doctrine
-**Current Status:** Active
+**Site Designation:** ACT-SUB-02-RU-N **Site Codename:** Frost Hollow Depot **Parent Command:**
+ACT-SITE-02-RU-N — White Grave Station **Floor Designation:** F-3 **Floor Name:** Surface Cover and Transition
+Level **Floor Type:** Surface Cover and Transition Level **Vertical Position:** Surface-adjacent floor of the
+depot's buried component **Floor Above:** None numbered — the legitimate arctic cold-storage surface
+structures **Floor Below:** F-2 (Quarantine and Assessment Level) **Containment Character:** Non-resident
+surface cover and logistics infrastructure **Primary Function:** Receiving areas, administrative spaces, and
+the surface face of the depot's arctic cold-storage cover; transition point for material entering the buried
+component **Distinctive Feature:** Natural cover — the arctic cold-storage identity raises no questions in the
+region **Access Posture:** Semi-public access under cover doctrine **Current Status:** Active
 
 ---
 
@@ -78,9 +78,9 @@ component, presenting the depot to the region as an ordinary arctic support faci
 
 ### 3.3 Relationship to F-2
 
-Material that must pass between the surface and the depot's operational levels descends through F-3 into F-2, under
-the transition control that the cover requires. F-3 is the physical boundary; the quarantine floor below is the
-operational boundary.
+Material that must pass between the surface and the depot's operational levels
+descends through F-3 into F-2, under the transition control that the cover requires.
+F-3 is the physical boundary; the quarantine floor below is the operational boundary.
 
 ---
 
@@ -119,9 +119,9 @@ the surface face of the cover identity.
 
 ### 5.3 Authority Limits
 
-F-3 holds no authority over the depot's operational functions. Its authority is over the legitimate facility — and its
-most important duty is the maintenance of the boundary between the facility's visible operations and the buried
-depot's quarantine work.
+F-3 holds no authority over the depot's operational functions. Its authority is over the
+legitimate facility — and its most important duty is the maintenance of the boundary
+between the facility's visible operations and the buried depot's quarantine work.
 
 ---
 
@@ -158,9 +158,9 @@ facility:
 
 ### 7.2 The Receiving Areas
 
-The facility's receiving areas receive the legitimate traffic of an arctic cold-storage operation — and absorb the
-movement of material into the buried depot. The receiving architecture is designed so that the two traffics are
-indistinguishable.
+The facility's receiving areas receive the legitimate traffic of an arctic
+cold-storage operation — and absorb the movement of material into the buried depot.
+The receiving architecture is designed so that the two traffics are indistinguishable.
 
 ### 7.3 The Cold-Storage Structures
 
@@ -180,8 +180,8 @@ indistinguishable from ordinary cold-storage logistics.
 
 ### 8.1 Power
 
-F-3 draws on the facility's legitimate power infrastructure, with the buried depot protected by the installation's
-backup systems.
+F-3 draws on the facility's legitimate power infrastructure, with
+the buried depot protected by the installation's backup systems.
 
 ### 8.2 Environment
 
@@ -234,8 +234,8 @@ if the surface boundary is threatened.
 
 ### 10.1 Cover Function
 
-F-3 is the depot's legitimate face: the arctic cold-storage facility whose ordinary presence conceals the quarantine
-and holding operations below.
+F-3 is the depot's legitimate face: the arctic cold-storage facility whose
+ordinary presence conceals the quarantine and holding operations below.
 
 ### 10.2 Transition Function
 
@@ -289,8 +289,8 @@ level is absorbed into ordinary facility traffic, without disturbance to the cov
 
 F-3 doctrine holds that the facility's visible operations and the depot's buried work must
 remain separate: the region
-sees an arctic cold-storage operation, and the depot's quarantine and holding continue beneath it, undisturbed and
-unseen.
+sees an arctic cold-storage operation, and the depot's quarantine
+and holding continue beneath it, undisturbed and unseen.
 
 ---
 

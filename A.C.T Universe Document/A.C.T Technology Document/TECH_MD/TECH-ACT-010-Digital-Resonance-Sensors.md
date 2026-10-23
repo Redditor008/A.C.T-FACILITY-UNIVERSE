@@ -115,9 +115,9 @@ Known components include:
 - glove-safe lock switch;
 - warning light for library mismatch.
 
-Fixed models use wall mounts, pressure-hardened housings, tank brackets, or locker wiring. Maritime models connect to
-sonar and deep pressure rigs. Artifact-vault models listen for narrow signatures such as crimson-frequency blade
-vibration.
+Fixed models use wall mounts, pressure-hardened housings, tank brackets, or locker
+wiring. Maritime models connect to sonar and deep pressure rigs. Artifact-vault
+models listen for narrow signatures such as crimson-frequency blade vibration.
 
 ---
 
@@ -178,8 +178,8 @@ display layer; resonance describes what is actually being measured.
 - Weakest where heavy RSA fields, CSG output, sonar return, or active QNB equipment
  distort the reading.
 
-Detection range, threshold bands, and battery runtime are not recorded in this file. Environmental envelope:
-NOT MEASURED.
+Detection range, threshold bands, and battery runtime are not
+recorded in this file. Environmental envelope: NOT MEASURED.
 
 ## OPERATING PROCEDURE
 
@@ -248,11 +248,11 @@ filed against the survey rather than reused.
 
 ## KNOWN LIMITS
 
-Digital Resonance Sensors may fail against anomalies that mimic environmental rhythm, distribute their pulse through
-several objects, sleep until contact, attack the sensor channel, or possess no stable causal pulse. Heavy RSA fields,
-CSG output, sonar return, active QNB equipment, Causal-Reactive Mercury, and hostile jamming may distort readings.
-Biological anomalies with adaptive imperceptibility may let the sensor detect mass while still hiding form, intention,
-lure, or attack timing.
+Digital Resonance Sensors may fail against anomalies that mimic environmental rhythm, distribute their
+pulse through several objects, sleep until contact, attack the sensor channel, or possess no stable
+causal pulse. Heavy RSA fields, CSG output, sonar return, active QNB equipment, Causal-Reactive
+Mercury, and hostile jamming may distort readings. Biological anomalies with adaptive imperceptibility
+may let the sensor detect mass while still hiding form, intention, lure, or attack timing.
 
 Common operator errors include confusing loud resonance with higher threat, treating a familiar pulse as harmless,
 ignoring library mismatch, and trusting a Field Type suggestion as a full classification. DRS cannot replace field

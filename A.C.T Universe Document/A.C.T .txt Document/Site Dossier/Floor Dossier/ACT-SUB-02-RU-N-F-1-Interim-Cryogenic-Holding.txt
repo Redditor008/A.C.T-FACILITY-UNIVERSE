@@ -11,7 +11,7 @@ Dossier Number: FLOOR-DOSSIER-SUB-02-RU-N-F-1
 Compiled By: Central Archive, Site Records Office
 Compilation Standard: ACT Site Registry File Standard / ACT Floor Record Standard
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Note
 
@@ -34,7 +34,7 @@ depot's
 deepest cold serves an installation whose entire purpose is the staging of
 material for the long sleep at White Grave.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 1. Floor Registry Identity Summary
 
@@ -59,7 +59,7 @@ Doctrine Note: Holding measured in days to weeks — the depot is not a
 long-term home; subject to the depot's "F-1 closure" response — closing F-1
 to the outside seals the level
 
----
+═══════════════════════════════════════════════════════════════════════
 
 2. Dossier Purpose
 
@@ -74,7 +74,7 @@ transfer to White Grave. The floor exists to buy the parent station time —
 holding material in a stable, suppressed, interim state for the days to
 weeks that the transfer schedule requires, and never for longer.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 3. Position in the Site Stack
 
@@ -97,7 +97,7 @@ quarantine and assessment level and the surface cover. The floor's
 security depends on the depot's control architecture and on the arctic
 isolation that surrounds the entire installation.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 4. Historical Foundation
 
@@ -122,7 +122,7 @@ In its modern configuration, F-1 is the depot's interim cryogenic holding
 level: the floor where incoming biological material is held in the cold
 until the transfer schedule carries it to White Grave.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5. Command and Authority
 
@@ -148,7 +148,7 @@ than the parent station or the destinations it authorizes. Its role is to
 hold incoming biological material briefly and to prepare it for the long
 sleep.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 6. Divisional Presence
 
@@ -168,7 +168,7 @@ The depot's limited containment support maintains the floor's cryogenic
 infrastructure: storage units, environmental systems, and the interim
 biological suppression equipment the floor requires.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 7. Physical Plant and Architecture
 
@@ -206,7 +206,7 @@ F-1 is built to the depot's cold-capable standard: robust insulated
 structure, compartmented services, and the cryogenic infrastructure that
 the arctic environment and the depot's purpose both demand.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 8. Systems and Infrastructure
 
@@ -236,7 +236,7 @@ The floor maintains communication with the depot's levels and with White
 Grave Station's transfer coordination. Documentation is exact and
 time-limited: every holding's record is tied to its transfer schedule.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 9. Security and Containment Architecture
 
@@ -268,7 +268,7 @@ The floor's transfer operations move material to White Grave under
 documented chain-of-custody, on the parent station's schedule, and never
 without the authorization the material's status requires.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 10. Holdings and Filing Doctrine
 
@@ -294,7 +294,7 @@ authority determines it — silent removal from the transport chain. The
 floor holds both dispositions in the same interim cold, without
 disturbing the cover or the schedule.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 11. Personnel and Duty Life
 
@@ -319,7 +319,7 @@ is always short. Personnel on F-1 learn to hold material in stable cold
 without attachment, preparing every holding for the transfer that defines
 its purpose.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 12. Floor Doctrine
 
@@ -342,7 +342,7 @@ F-1 doctrine holds that the floor must be sealable: the level is designed
 to close during a breach response, and the depot maintains the procedure
 so that closure is executed without hesitation.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 13. Incident Archive
 
@@ -351,7 +351,7 @@ incidents, suppression system events, and transfer coordination issues.
 Material that exceeds the depot's capacity moves to the parent station,
 and the floor's history is largely the history of successful staging.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 14. Current Status and Projected Development
 
@@ -362,7 +362,7 @@ priorities include:
 — maintenance of the cryogenic and suppression infrastructure;
 — coordination with the parent station on transfer scheduling.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 15. Cross-Referenced Files
 
@@ -373,7 +373,7 @@ priorities include:
 - ACT_Site_Doctrine_and_Installation_Structure.md / .txt
 - Parent command Annex Register (clearance-gated)
 
----
+═══════════════════════════════════════════════════════════════════════
 
 Archive Closing
 

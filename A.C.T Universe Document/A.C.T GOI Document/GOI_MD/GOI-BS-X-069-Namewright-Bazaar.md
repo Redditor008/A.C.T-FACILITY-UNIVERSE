@@ -46,10 +46,10 @@ operations by stealing names, replacing testimony, severing family recognition, 
 identities, and selling vulnerable people into debt conditions based on who can legally or magically say their name.
 It is not merely illegal. Its business model depends on turning personhood into merchandise.
 
-All true-name fragments, child ledgers, active witness substitutions, and A.C.T registry penetration notes are
-censored under **NAMEWRIGHT DISCLOSURE LIMIT**. Some redactions prevent further harm to victims whose names remain
-unstable. Some prevent hostile readers from reconstructing sale methods. Some hide operational stings still inside
-Bazaar routes.
+All true-name fragments, child ledgers, active witness substitutions, and A.C.T registry
+penetration notes are censored under **NAMEWRIGHT DISCLOSURE LIMIT**. Some redactions
+prevent further harm to victims whose names remain unstable. Some prevent hostile readers
+from reconstructing sale methods. Some hide operational stings still inside Bazaar routes.
 
 ---
 
@@ -103,17 +103,17 @@ relatives start answering to someone else.
 
 ### Leadership Condition
 
-No central master has been confirmed. A.C.T uses the term Namewright for senior practitioners able to cut, bind, or
-transfer names with anomalous effect. Mouth Factors arrange contracts and introductions. Ledger Mothers maintain
-family rolls and child-name inventories. Alias Cutters prepare disposable identities. Debt Registrars enforce payment
-through legal, social, or ritual recognition. Auction Callers appear during high-value sales and may not be human in
-all cases.
+No central master has been confirmed. A.C.T uses the term Namewright for senior practitioners
+able to cut, bind, or transfer names with anomalous effect. Mouth Factors arrange contracts and
+introductions. Ledger Mothers maintain family rolls and child-name inventories. Alias Cutters
+prepare disposable identities. Debt Registrars enforce payment through legal, social, or ritual
+recognition. Auction Callers appear during high-value sales and may not be human in all cases.
 
 Leadership is distributed by ledger access. A person who controls a ledger controls the
 names inside it. That fact
-makes raids difficult. Destroying a ledger may free victims, kill a record, create nameless conditions, or transfer
-control to the last reader. Current procedure requires Memory Review before destructive action when living names are
-present.
+makes raids difficult. Destroying a ledger may free victims, kill a record, create
+nameless conditions, or transfer control to the last reader. Current procedure
+requires Memory Review before destructive action when living names are present.
 
 ### Internal Structure
 
@@ -203,8 +203,8 @@ abnormal effects. Confirmed or strongly assessed capabilities include:
 
 The Bazaar is not assessed as Engineering because its power rests in ritual, contract,
 speech, and ledger practice
-rather than device manufacture. Some instruments, such as alias knives and registry mirrors, may require separate
-technology or anomaly filing.
+rather than device manufacture. Some instruments, such as alias knives
+and registry mirrors, may require separate technology or anomaly filing.
 
 ### Secrecy and Civilian Exposure
 
@@ -365,9 +365,9 @@ WARNING: old debt may answer at churches
 Everyone is someone. Someone is always for sale.
 ```
 
-A.C.T assessed the lot as a stolen emergency identity from a post-incident shelter. Hospital weak likely means medical
-records would not fully accept the buyer without additional alteration. The phrase old debt may answer at churches
-remains unresolved.
+A.C.T assessed the lot as a stolen emergency identity from a post-incident shelter.
+Hospital weak likely means medical records would not fully accept the buyer without
+additional alteration. The phrase old debt may answer at churches remains unresolved.
 
 ```text
 VICTIM STATEMENT FRAGMENT
@@ -412,10 +412,10 @@ The dog attachment is preserved as evidence that non-human recognition may resis
 
 A.C.T assesses Namewright Bazaar as a specialized NEGATIVE market GOI. Its recurring pressure is
 institutional: it
-attacks the assumption that a person can be found, protected, charged, treated, released, or mourned by name. It is
-especially dangerous in the aftermath of incidents where A.C.T normalcy work creates temporary confusion. Cover
-stories, evacuations, substitute death records, and emergency documents can become Bazaar raw material if not
-protected.
+attacks the assumption that a person can be found, protected, charged, treated, released,
+or mourned by name. It is especially dangerous in the aftermath of incidents where A.C.T
+normalcy work creates temporary confusion. Cover stories, evacuations, substitute death
+records, and emergency documents can become Bazaar raw material if not protected.
 
 The Bazaar also threatens other GOIs. Candle-Under Exchange reports bad-buyer warnings consistent with Namewright
 scouts seeking survivor names. Velvet Provenance House has barred at least one client for attempted heir-name
@@ -444,11 +444,11 @@ supply-chain evidence remains incomplete.
 
 ### Intelligence Confidence
 
-Moderate to High. A.C.T has recovered instruments, sale cards, victim statements, ledgers, forged records, and
-repeated contract phrases from separate regions. Confidence is limited by living-name hazards, reluctance to destroy
-ledgers without mapping victims, and uncertainty over whether all identified stalls answer to a central Bazaar
-authority. Confidence may rise through controlled buyer operations and recovery of an intact child ledger under Memory
-Review containment.
+Moderate to High. A.C.T has recovered instruments, sale cards, victim statements, ledgers, forged
+records, and repeated contract phrases from separate regions. Confidence is limited by living-name
+hazards, reluctance to destroy ledgers without mapping victims, and uncertainty over whether all
+identified stalls answer to a central Bazaar authority. Confidence may rise through controlled
+buyer operations and recovery of an intact child ledger under Memory Review containment.
 
 ---
 
@@ -475,10 +475,10 @@ used as a substitute for victim restoration files.
 
 ### Dual Filing
 
-Mandatory. Namewright instruments and ledgers are often active hazards. Any recovered alias knife, registry mirror,
-mouth contract, dead-name cupboard, child ledger, or seal ink must be separately filed if it causes measurable
-identity, memory, testimony, legal, or pursuit alteration. Witness and Subject Care filing is mandatory for living
-victims.
+Mandatory. Namewright instruments and ledgers are often active hazards. Any recovered
+alias knife, registry mirror, mouth contract, dead-name cupboard, child ledger, or seal
+ink must be separately filed if it causes measurable identity, memory, testimony, legal,
+or pursuit alteration. Witness and Subject Care filing is mandatory for living victims.
 
 ---
 

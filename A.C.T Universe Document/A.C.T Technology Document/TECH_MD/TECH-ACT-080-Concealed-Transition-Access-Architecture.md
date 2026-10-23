@@ -50,9 +50,9 @@ and administrative boundary between visible science and concealed A.C.T operatio
 
 CTAA protects two truths at once. The surface campus must remain believable as a
 legitimate institute, and the buried
-relay must remain accessible enough to function. Personnel, samples, supplies, instruments, sealed records, and
-recovered material all require routes that do not announce themselves to visitors, contractors, collaborators, or
-unauthorized staff.
+relay must remain accessible enough to function. Personnel, samples, supplies,
+instruments, sealed records, and recovered material all require routes that do not
+announce themselves to visitors, contractors, collaborators, or unauthorized staff.
 
 Approved roles include authorized descent, surface-to-F-5 handoff, concealed
 material intake, visitor separation, route monitoring, emergency surface sealing,
@@ -175,10 +175,10 @@ transition outright, and a clean surface entry that F-5 cannot receive is held a
 the boundary rather than
 pushed downward.
 
-Routine transition begins with authorization, purpose, timing, route assignment, and destination confirmation.
-Personnel entering the buried relay are received by F-5 administrative boundary systems. Material entering from the
-surface or port is checked for custody, environmental requirement, and whether it should move to F-5, F-4, F-3, F-2,
-or special handling.
+Routine transition begins with authorization, purpose, timing, route assignment, and destination
+confirmation. Personnel entering the buried relay are received by F-5 administrative boundary
+systems. Material entering from the surface or port is checked for custody, environmental
+requirement, and whether it should move to F-5, F-4, F-3, F-2, or special handling.
 
 If public traffic is present, CTAA delays or reroutes transition rather than exposing pattern. If recovered material
 cannot safely wait, Security and Logistics coordinate a cover-compatible movement. During surface exposure threats,

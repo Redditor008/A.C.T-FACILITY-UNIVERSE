@@ -16,9 +16,9 @@
 
 ## Archive Note
 
-This file is the complete individual dossier for **ACT-SUB-02-RU-N**, the **Frost Hollow Depot**, a recognized
-SUB-SITE installation of the A.C.T Facility network operating under the command authority of **ACT-SITE-02-RU-N, White
-Grave Station**.
+This file is the complete individual dossier for **ACT-SUB-02-RU-N**, the **Frost
+Hollow Depot**, a recognized SUB-SITE installation of the A.C.T Facility network
+operating under the command authority of **ACT-SITE-02-RU-N, White Grave Station**.
 
 Frost Hollow Depot is the cold apparatus's quarantine and staging extension: an interim cold-storage and quarantine
 facility designed to absorb the seasonal pressure that would otherwise over-concentrate biological material at the
@@ -47,10 +47,10 @@ controlled due to long-duration cold exposure and isolation stress.
 
 ## 2. Dossier Purpose
 
-White Grave Station exists to hold the Facility's most unstable and most biologically dangerous material in permanent
-deep-cold isolation. But a containment station cannot receive everything at once — seasonal biological incidents,
-transfer waves, and quarantine demands can over-concentrate material at the parent station faster than its holding
-levels can absorb it.
+White Grave Station exists to hold the Facility's most unstable and most biologically
+dangerous material in permanent deep-cold isolation. But a containment station cannot receive
+everything at once — seasonal biological incidents, transfer waves, and quarantine demands can
+over-concentrate material at the parent station faster than its holding levels can absorb it.
 
 Frost Hollow Depot exists to absorb that pressure. It is the staging ground where
 incoming biological material is held
@@ -163,8 +163,8 @@ buried component registered on **three
 numbered levels**, from **F-1** (deepest) to **F-3** (surface-adjacent), consistent with Facility floor doctrine.
 
 ### F-3 — Surface Cover and Transition Level
-The legitimate arctic cold-storage facility: receiving areas, administrative spaces, and the surface face of the
-cover.
+The legitimate arctic cold-storage facility: receiving areas,
+administrative spaces, and the surface face of the cover.
 
 ### F-2 — Quarantine and Assessment Level
 The depot's operational heart: quarantine chambers, assessment laboratories, and the medical staging suites where
@@ -183,9 +183,9 @@ the depot is not a long-term home.
 
 ### 8.1 Quarantine Doctrine
 
-The depot's defining protocol is quarantine: every item of incoming biological material is held under assessment until
-its status is confirmed, its containment verified, and its transfer authorized. Nothing moves to the parent station
-unassessed.
+The depot's defining protocol is quarantine: every item of incoming biological
+material is held under assessment until its status is confirmed, its containment
+verified, and its transfer authorized. Nothing moves to the parent station unassessed.
 
 ### 8.2 Interim Suppression Doctrine
 

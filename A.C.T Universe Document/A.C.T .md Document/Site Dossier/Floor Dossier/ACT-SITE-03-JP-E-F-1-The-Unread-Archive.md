@@ -93,10 +93,10 @@ authorization its danger requires. For the material on F-1, that principle is ab
 
 ### 4.1 The Recognition of the Unreadable
 
-F-1's character developed from the node's earliest encounters with material whose danger increased with understanding:
-documents that harmed their readers, symbols that compelled their viewers, and information that could not be safely
-known. The node learned that such material required an archive where the primary containment measure was the
-prohibition of reading itself.
+F-1's character developed from the node's earliest encounters with material whose danger
+increased with understanding: documents that harmed their readers, symbols that compelled their
+viewers, and information that could not be safely known. The node learned that such material
+required an archive where the primary containment measure was the prohibition of reading itself.
 
 ### 4.2 Development of the Unread Archive
 
@@ -153,8 +153,8 @@ enforce those limits, not to exceed them.
 
 ### 6.3 Security Division
 
-Security guards the floor's access architecture and enforces the anti-reading protocols that govern the floor's
-operation.
+Security guards the floor's access architecture and enforces
+the anti-reading protocols that govern the floor's operation.
 
 ### 6.4 Medical Division (On-Call)
 
@@ -291,9 +291,9 @@ read.
 
 ### 11.1 Rotation
 
-F-1 personnel serve on tightly controlled rotations drawn from the Archive and Security Divisions' most experienced
-staff. Rotation balances continuity of preservation knowledge with protection of personnel from exposure to the
-floor's material.
+F-1 personnel serve on tightly controlled rotations drawn from the Archive and Security
+Divisions' most experienced staff. Rotation balances continuity of preservation
+knowledge with protection of personnel from exposure to the floor's material.
 
 ### 11.2 Duty Life
 
@@ -327,8 +327,8 @@ them, cataloguing them without comprehending them, and maintaining them without 
 
 F-1 doctrine holds that a breach is not a door opened but a text
 read: the floor's closure procedure is designed to
-contain uncontrolled reading as a breach event, sealing the archive against the escape that knowledge itself
-represents.
+contain uncontrolled reading as a breach event, sealing the
+archive against the escape that knowledge itself represents.
 
 ---
 

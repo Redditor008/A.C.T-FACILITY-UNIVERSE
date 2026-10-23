@@ -58,8 +58,8 @@ NARRATIVE STATUS:    The 3-month capture effort was masked as a deep-sea
 
 AFD-NB-964 is a massive aquatic organism measuring 10.4 meters in
 length. Morphologically, the subject resembles a hybrid of a female
-deep-sea anglerfish (*Melanocetus johnsonii*) and the armored
-prehistoric *Dunkleosteus*.
+deep-sea anglerfish (Melanocetus johnsonii) and the armored
+prehistoric Dunkleosteus.
 
 PHYSICAL CHARACTERISTICS:
 1. ARMORED INTEGUMENT: The subject’s body is covered in thick, dark

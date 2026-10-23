@@ -55,27 +55,27 @@ STATUS:              [ O5-ONLY ]
 The following entities exist in the Deep Archive. They do not have AFD
 numbers. They do not have containment staff. They are held by us.
 
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 ENTITY-001:          The [ BLANK ] Anchor
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 SUMMARY:             Located at the site of the 1598 incident. It is a
                      [STRUCTURAL DATA OMITTED] emitting a continuous
                      [ INFO-HAZARD ] pulse. It is the source of the
                      [ REDACTED ] condition in the Five.
 CURRENT STATUS:      In-Place / [ BLANK ]
 
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 ENTITY-019:          The Bleeding Tapestry
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 SUMMARY:             Recovered in 1642 from [ REDACTED ]. A textile
                      object that depicts the [ BLANK ] of every
                      Facility Administrator. The final panel is currently
                      [ REDACTED ].
 CURRENT STATUS:      First Vault / Sealed in [STRUCTURAL DATA OMITTED]
 
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 ENTITY-084:          The "Unaltered" Infant
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 SUMMARY:             A biological humanoid recovered in 1704. Despite
                      being 320 years old, the subject remains in a state
                      of [ BLANK ]. Blood analysis confirms [ REDACTED ].
@@ -83,51 +83,51 @@ SUMMARY:             A biological humanoid recovered in 1704. Despite
                      cure trials.
 CURRENT STATUS:      [ REDACTED ] / Cryogenic stasis failure in 1881.
 
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 ENTITY-112:          The Echo of the First Stone
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 SUMMARY:             A [ INFO-HAZARD ] frequency captured in 1756.
                      Anyone who hears the full sequence begins to
                      believe they are [ REDACTED ].
 CURRENT STATUS:      Stored in [ BLANK ] / Digital conversion denied.
 
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 ENTITY-256:          The "Map of What Isn't"
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 SUMMARY:             A spatial displacement document. It shows the
                      location of [STRUCTURAL DATA OMITTED] beneath
                      the Italian peninsula. Led to the discovery of
                      the [ REDACTED ] and eventually the Countess.
 CURRENT STATUS:      Held by O5-3.
 
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 ENTITY-410:          The Glass Lung
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 SUMMARY:             A mechanical organ of unknown origin. It breathes
                      [ BLANK ] instead of air. When it inhales,
                      local reality [ REDACTED ].
 CURRENT STATUS:      [STRUCTURAL DATA OMITTED] / Leak detected in 1844.
 
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 ENTITY-555:          The Mirror That Remembers Faces
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 SUMMARY:             A reflective [ BLANK ]. It does not show the
                      present; it shows the [ REDACTED ] of the
                      viewer's ancestors. In 1812, O5-4 saw [ BLANK ]
                      and ordered the object [ REDACTED ].
 CURRENT STATUS:      Smashed / Fragments held in five separate vaults.
 
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 ENTITY-612:          The Seven-Chambered Heart
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 SUMMARY:             A [STRUCTURAL DATA OMITTED] device that beats
                      once every [ REDACTED ] years. Each beat
                      corresponds with a [ BLANK ] event.
 CURRENT STATUS:      Deep Archive / [ Level 4-5 Lock ]
 
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 ENTITY-899:          The "Regression" Key
-------------------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 SUMMARY:             A non-physical [ INFO-HAZARD ] concept. It
                      suggests that A.C.T is not the first [ REDACTED ].
                      The document claims that the World-Sleeper

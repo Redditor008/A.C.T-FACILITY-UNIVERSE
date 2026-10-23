@@ -43,8 +43,8 @@ This doctrine gives those records a working form.
 Every recovered GOI document must preserve three voices separately:
 
 #### Source Voice
-The words, style, claims, formatting, slogans, threats, prayers, prices, jokes, commands, or technical language used
-by the GOI or suspected GOI.
+The words, style, claims, formatting, slogans, threats, prayers, prices,
+jokes, commands, or technical language used by the GOI or suspected GOI.
 
 #### A.C.T Handling Voice
 The archive note, recovery context, translation notice, hazard warning, redaction rule, containment limitation, and
@@ -295,9 +295,9 @@ uncertainty over whether the Guild is a living group, a future archive, or a
 system calling through evidence.
 
 #### Amazoo Circus
-Recovered Amazoo material may be posters, tickets, stage directions, performer ledgers, cage labels, chant sheets,
-diary fragments, route notes, animal-handler records, or ringmaster commands. It must not convert survivor writing
-into spectacle.
+Recovered Amazoo material may be posters, tickets, stage directions, performer
+ledgers, cage labels, chant sheets, diary fragments, route notes, animal-handler
+records, or ringmaster commands. It must not convert survivor writing into spectacle.
 
 ---
 

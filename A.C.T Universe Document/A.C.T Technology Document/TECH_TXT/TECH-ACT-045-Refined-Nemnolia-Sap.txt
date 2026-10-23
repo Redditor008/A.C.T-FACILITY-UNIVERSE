@@ -195,18 +195,18 @@ Emergency: a cap failure evacuates the bench to the hood and treats the air
 as hazardous, because
 evaporation is an airborne memetic release.
 
-Before handling, Medical verifies clearance, batch identity, intended grade, aftercare plan, and disposal path.
-Transformation Division confirms provenance records so the material's anomaly origin remains attached to the work.
-Memory Review confirms that use is connected to an approved amnestic order, research protocol, or emergency normalcy
-action.
+Before handling, Medical verifies clearance, batch identity, intended grade, aftercare
+plan, and disposal path. Transformation Division confirms provenance records so the
+material's anomaly origin remains attached to the work. Memory Review confirms that use is
+connected to an approved amnestic order, research protocol, or emergency normalcy action.
 
 During handling, staff keep vials sealed until inside controlled preparation conditions. The stabilizer cap is
 inspected before opening. If the cap is loose, cloudy, humming, warm, or marked by
 evaporative residue, the vial is
 quarantined. Staff do not smell the sap, describe its glow poetically, or let exposed
 material remain open while
-discussing dosage. Conversation in RNS preparation rooms stays procedural because memory and attention are part of the
-hazard field.
+discussing dosage. Conversation in RNS preparation rooms stays
+procedural because memory and attention are part of the hazard field.
 
 After handling, all tools, hood surfaces, gloves, notes, and waste are checked for residue. Personnel complete
 memory-continuity self checks after leaving the room.
@@ -261,10 +261,10 @@ RNS does not know which memories A.C.T wants removed. Targeting comes from grade
 context, and controlled protocol. Mishandled sap may erase too much, too little, the wrong continuity, or the staff's
 awareness of the handling error. Evaporation risk makes open-vial time a serious hazard.
 
-Known failure modes include stabilizer cap leak, airborne memetic vapor, residue transfer, concentration drift, false
-dilution confidence, memory misbinding, identity fragmentation, delayed neurological failure, and administrative
-normalization. Administrative normalization is the slow failure in which staff begin treating golden memory-solvent as
-ordinary supply stock.
+Known failure modes include stabilizer cap leak, airborne memetic vapor, residue transfer,
+concentration drift, false dilution confidence, memory misbinding, identity fragmentation,
+delayed neurological failure, and administrative normalization. Administrative normalization is
+the slow failure in which staff begin treating golden memory-solvent as ordinary supply stock.
 
 FAILURE HISTORY
 RNS-1952 Refinement Standardization: Industrial-scale refinement created the modern graded 004 system. The event is

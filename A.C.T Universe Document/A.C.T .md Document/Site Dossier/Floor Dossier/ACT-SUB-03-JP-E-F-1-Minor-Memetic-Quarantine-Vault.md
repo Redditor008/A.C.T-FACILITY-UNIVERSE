@@ -149,8 +149,8 @@ exposure for personnel whose duties touch the floor's material.
 
 ### 6.4 Security Staff
 
-Security personnel guard the floor's access architecture and enforce the restriction sets that govern the floor's
-holdings.
+Security personnel guard the floor's access architecture and
+enforce the restriction sets that govern the floor's holdings.
 
 ---
 
@@ -275,8 +275,8 @@ the floor is permanent — the annex buffers, it does not bury.
 
 ### 11.1 Rotation
 
-F-1 personnel serve on controlled rotations from the annex's staff, drawn from the archive personnel who also serve
-the annex's review functions.
+F-1 personnel serve on controlled rotations from the annex's staff, drawn
+from the archive personnel who also serve the annex's review functions.
 
 ### 11.2 Duty Life
 

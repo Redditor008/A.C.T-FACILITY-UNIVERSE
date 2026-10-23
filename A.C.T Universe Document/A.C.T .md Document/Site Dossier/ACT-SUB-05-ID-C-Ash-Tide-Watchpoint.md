@@ -149,9 +149,9 @@ posture includes preparation for silent withdrawal during large-scale tectonic s
 
 ### 6.3 Seismic Monitoring
 
-Seismic Monitoring staff operate the watchpoint's volcanic and seismic observation equipment: watching the region's
-restless geology, reporting irregular activity to the parent relay, and supporting the relay's deep-earth observation
-mandate.
+Seismic Monitoring staff operate the watchpoint's volcanic and seismic observation
+equipment: watching the region's restless geology, reporting irregular activity to
+the parent relay, and supporting the relay's deep-earth observation mandate.
 
 ### 6.4 Limited Medical Staff
 
@@ -171,8 +171,8 @@ The legitimate coastal research station: observation decks, monitoring equipment
 dock used for legitimate research vessel operations.
 
 ### F-2 — Operations and Watch Level
-The watchpoint's operational heart: watch coordination, seismic monitoring suites, and the staging area for recovery
-support and emergency intake.
+The watchpoint's operational heart: watch coordination, seismic monitoring
+suites, and the staging area for recovery support and emergency intake.
 
 ### F-1 — Emergency Intake and Secure Storage (Deepest)
 The watchpoint's secure level: hidden emergency intake capacity for material and personnel, plus secure
@@ -186,9 +186,9 @@ the outside** seals this level.
 
 ### 8.1 Watch Doctrine
 
-The watchpoint's defining protocol is watch: continuous observation of its assigned coastal corridors for anomalous
-maritime activity, volcanic signature, and sea-entry traffic. The watchpoint sees what the parent relay cannot see
-from its core.
+The watchpoint's defining protocol is watch: continuous observation of its assigned
+coastal corridors for anomalous maritime activity, volcanic signature, and sea-entry
+traffic. The watchpoint sees what the parent relay cannot see from its core.
 
 ### 8.2 Sea-Entry Relay Doctrine
 
@@ -197,9 +197,9 @@ coordinating with the parent relay, and receiving recovered material for transfe
 
 ### 8.3 Emergency Intake Doctrine
 
-The watchpoint maintains hidden emergency intake capacity: the ability to receive material and personnel under
-operational pressure, stabilize them briefly, and move them to the parent relay. Emergency intake is temporary by
-design.
+The watchpoint maintains hidden emergency intake capacity: the ability to receive
+material and personnel under operational pressure, stabilize them briefly, and
+move them to the parent relay. Emergency intake is temporary by design.
 
 ### 8.4 Silent Withdrawal Doctrine
 
@@ -246,9 +246,9 @@ A working day at the watchpoint may include:
 
 ## 12. Incident Archive
 
-The watchpoint's incident records are dominated by watch and relay events: coastal anomaly sightings, volcanic
-observation events, and emergency intake operations. Material that exceeds the watchpoint's capacity moves to the
-parent relay.
+The watchpoint's incident records are dominated by watch and relay events: coastal
+anomaly sightings, volcanic observation events, and emergency intake operations.
+Material that exceeds the watchpoint's capacity moves to the parent relay.
 
 ---
 

@@ -71,11 +71,11 @@ inside a built installation instead of treating the surrounding ocean as the onl
 
 ORIGIN AND DEVELOPMENT
 
-Early maritime recovery proved that depth-origin material could not be treated as ordinary cargo. Some recovered
-organisms died before arrival. Others became violent when pressure fell. Some nonliving material changed shape,
-released gas, cracked, or produced anomalous readings only after surfacing. A.C.T records from Nusantara describe
-maritime holding doctrine as the practice of building environments that stand in for the water and pressure residents
-came from.
+Early maritime recovery proved that depth-origin material could not be treated as ordinary
+cargo. Some recovered organisms died before arrival. Others became violent when pressure fell.
+Some nonliving material changed shape, released gas, cracked, or produced anomalous readings
+only after surfacing. A.C.T records from Nusantara describe maritime holding doctrine as the
+practice of building environments that stand in for the water and pressure residents came from.
 
 PRETS developed as the pressure component of that doctrine. Its first purpose was humane and practical survival of
 marine-dependent subjects. Its second purpose was containment: a resident that remains in its expected pressure state
@@ -237,8 +237,8 @@ SERVICING AND CALIBRATION
 
 No calendar interval is recorded; the system is verified per transfer, so interval NOT
 MEASURED. Seals and
-isolation sleeves are the wear items. The formation review is why deep-origin material no longer moves
-through ordinary wet rooms.
+isolation sleeves are the wear items. The formation review is why
+deep-origin material no longer moves through ordinary wet rooms.
 
 FAULT ISOLATION
 

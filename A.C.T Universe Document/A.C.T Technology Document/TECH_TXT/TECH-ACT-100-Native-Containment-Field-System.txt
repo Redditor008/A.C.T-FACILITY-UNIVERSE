@@ -45,8 +45,8 @@ contained in place. It states that repeated relocation failures proved some flor
 containable, where they grow. The dossier identifies native containment fields as perimeter-defined sectors where
 flora anomalies are managed in the environment they require.
 
-NCFS exists because for place-bound anomalous flora, the environment is not background. The environment is part of
-containment.
+NCFS exists because for place-bound anomalous flora, the environment
+is not background. The environment is part of containment.
 
 Controlled label: NCFS DO-NOT-UPROOT FIELD.
 
@@ -152,8 +152,8 @@ This is containment by geography rather than by structure. The resident cannot b
 without failure, so
 the field itself is the container and every intervention is judged against whether it
 changes the place the
-resident depends on. That inverts the usual priority: staff intrusion is a containment risk, not merely an
-inconvenience.
+resident depends on. That inverts the usual priority: staff
+intrusion is a containment risk, not merely an inconvenience.
 
 INTERFACE AND OPERATING ENVELOPE
 
@@ -255,10 +255,10 @@ FAULT ISOLATION
 
 KNOWN LIMITS
 
-NCFS depends on environmental continuity. Weather, disease, fire, flood, soil contamination, animal movement, human
-incursion, fungal shift, seasonal stress, or anomaly-driven growth can all change containment conditions. The system
-also depends on staff patience. In-place containment can appear passive, but passive-looking containment may require
-constant ecological attention.
+NCFS depends on environmental continuity. Weather, disease, fire, flood, soil contamination,
+animal movement, human incursion, fungal shift, seasonal stress, or anomaly-driven growth can all
+change containment conditions. The system also depends on staff patience. In-place containment
+can appear passive, but passive-looking containment may require constant ecological attention.
 
 Known failure modes include root-shock, field drift, perimeter erosion, canopy loss, water change, invasive species
 introduction, unauthorized sampling, resident misread, research intrusion, and command pressure to relocate material
@@ -267,9 +267,9 @@ that doctrine says must remain in place.
 FAILURE HISTORY
 
 NCFS-Relocation-Failure Formation
-The Hollow Canopy dossier records repeated failed relocation attempts as the origin of the enclosure's doctrine. NCFS
-formalizes the lesson that some flora anomalies are contained by preserving location rather than by removing them from
-it.
+The Hollow Canopy dossier records repeated failed relocation attempts as the origin
+of the enclosure's doctrine. NCFS formalizes the lesson that some flora anomalies
+are contained by preserving location rather than by removing them from it.
 
 NCFS-Native Field Expansion Review
 Early native fields relied on simple boundaries. Later review added environmental monitoring because the resident's

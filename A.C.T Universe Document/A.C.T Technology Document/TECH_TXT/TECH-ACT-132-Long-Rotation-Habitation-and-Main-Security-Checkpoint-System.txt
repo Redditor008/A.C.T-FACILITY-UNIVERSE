@@ -64,10 +64,10 @@ supporting long-duration arctic station life while controlling the boundary betw
 operational duty. It combines living quarters, mess facilities, recreation spaces, routine medical clinics, internal
 command offices, access monitoring, and the main security checkpoint into a single support architecture.
 
-LRHMSCS is not ordinary dormitory infrastructure. It is a containment-support system for the people who operate a
-remote station under cold, deep, and psychologically demanding conditions. The system keeps personnel housed, fed,
-treated, socially functional, and separated from the operational levels by a checkpoint that marks when duty begins
-and when duty ends.
+LRHMSCS is not ordinary dormitory infrastructure. It is a containment-support system for the
+people who operate a remote station under cold, deep, and psychologically demanding conditions.
+The system keeps personnel housed, fed, treated, socially functional, and separated from the
+operational levels by a checkpoint that marks when duty begins and when duty ends.
 
 Approved roles include long-rotation housing, mess support, recreation scheduling, routine medical access, domestic
 environmental stability, personnel security monitoring, command-office support, duty descent control, post-duty ascent
@@ -75,16 +75,16 @@ control, and preservation of the boundary between habitation and containment wor
 
 ORIGIN AND DEVELOPMENT
 
-White Grave's isolation made ordinary staffing impossible. Personnel could not commute from nearby communities, and
-seasonal transport meant rotations had to last long enough to strain ordinary morale and domestic tolerance. Early
-station arrangements proved that a remote containment installation fails if it treats living space as leftover
-engineering.
+White Grave's isolation made ordinary staffing impossible. Personnel could not commute
+from nearby communities, and seasonal transport meant rotations had to last long enough to
+strain ordinary morale and domestic tolerance. Early station arrangements proved that a
+remote containment installation fails if it treats living space as leftover engineering.
 
 F-5 developed into a dedicated habitation level as the station grew. The main security
 checkpoint became its defining
-feature after command recognized that personnel needed a physical separation between life and duty. LRHMSCS formalizes
-that separation, making domestic support part of the station's containment architecture rather than an administrative
-afterthought.
+feature after command recognized that personnel needed a physical separation between
+life and duty. LRHMSCS formalizes that separation, making domestic support part of
+the station's containment architecture rather than an administrative afterthought.
 
 PHYSICAL OR SYSTEM DESCRIPTION
 
@@ -105,8 +105,8 @@ Known components include:
 - main security checkpoint gate;
 - duty descent and ascent ledger.
 
-The checkpoint is not only security hardware. It is the station's deliberate line between the human habitat and the
-work that habitat sustains.
+The checkpoint is not only security hardware. It is the station's deliberate
+line between the human habitat and the work that habitat sustains.
 
 
 
@@ -213,11 +213,11 @@ limitation if flagged for checkpoint use, equipment status, and command schedule
 security checkpoint from habitation into operational depth. The checkpoint records the passage because the station
 treats crossing from life into duty as an operational event.
 
-After duty, personnel ascend through the checkpoint into F-5. The system records return, flags incidents or missed
-debrief requirements, routes personnel toward routine medical care when needed, and restores them to the domestic
-level. Habitation staff maintain quarters, mess, recreation, and routine clinical functions as critical
-infrastructure, not comfort extras. Command offices coordinate daily station life from inside the same level the
-population inhabits.
+After duty, personnel ascend through the checkpoint into F-5. The system records return, flags
+incidents or missed debrief requirements, routes personnel toward routine medical care when
+needed, and restores them to the domestic level. Habitation staff maintain quarters, mess,
+recreation, and routine clinical functions as critical infrastructure, not comfort extras.
+Command offices coordinate daily station life from inside the same level the population inhabits.
 
 SERVICING AND CALIBRATION
 
@@ -258,10 +258,10 @@ FAULT ISOLATION
 
 KNOWN LIMITS
 
-LRHMSCS can create separation, but it cannot guarantee that personnel leave duty behind. Long rotations compress
-private life, professional hierarchy, fear, boredom, and fatigue into the same sealed population. The checkpoint can
-become comforting or oppressive depending on conditions. Domestic monitoring can protect personnel while also making
-rest feel supervised.
+LRHMSCS can create separation, but it cannot guarantee that personnel leave duty behind. Long
+rotations compress private life, professional hierarchy, fear, boredom, and fatigue into the
+same sealed population. The checkpoint can become comforting or oppressive depending on
+conditions. Domestic monitoring can protect personnel while also making rest feel supervised.
 
 Known failure modes include checkpoint routine erosion, duty bleed into habitation, habitation conflict, recreation
 failure, mess supply strain, untreated minor illness, command overpresence in domestic life, personnel hiding

@@ -66,8 +66,8 @@ governed.
 
 F-5 lies between the Surface Research and Transition level of F-6 above and the
 Laboratory and Research level of F-4
-below. It is the relay's human level, positioned beneath the legitimate surface campus and above the operational
-depths.
+below. It is the relay's human level, positioned beneath the
+legitimate surface campus and above the operational depths.
 
 ### 3.2 Relationship to F-6
 
@@ -133,8 +133,8 @@ coordination, scheduling, and the administrative machinery of the relay.
 
 ### 6.2 Personnel
 
-Personnel functions are conducted on F-5: housing administration, personnel processing, and the support of the relay's
-on-site population.
+Personnel functions are conducted on F-5: housing administration,
+personnel processing, and the support of the relay's on-site population.
 
 ### 6.3 Command
 
@@ -147,8 +147,8 @@ built installation is coordinated from this floor.
 
 ### 6.5 Medical Support
 
-Medical support for the relay's personnel is provided in coordination with the personnel level, serving the relay's
-on-site population.
+Medical support for the relay's personnel is provided in coordination
+with the personnel level, serving the relay's on-site population.
 
 ---
 
@@ -186,8 +186,8 @@ within the built installation, and the support of the relay's far-flung maritime
 
 ### 8.1 Power
 
-F-5 draws on the relay's main supply with standard backup. The command floor's communications systems are on protected
-circuits.
+F-5 draws on the relay's main supply with standard backup. The
+command floor's communications systems are on protected circuits.
 
 ### 8.2 Environment
 
@@ -236,8 +236,8 @@ tectonic activity, and the personnel level's procedures include the response doc
 
 ### 10.1 Personnel Function
 
-F-5 is where the relay's people live: housing, medical support, and the domestic infrastructure of the relay's on-site
-population.
+F-5 is where the relay's people live: housing, medical support,
+and the domestic infrastructure of the relay's on-site population.
 
 ### 10.2 Command Function
 

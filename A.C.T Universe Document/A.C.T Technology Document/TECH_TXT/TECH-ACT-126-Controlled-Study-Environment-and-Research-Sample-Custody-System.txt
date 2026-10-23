@@ -263,10 +263,10 @@ study meant to create. Data preservation can also spread a hazard if a finding
 contains an anomalous pattern rather
 than a harmless measurement.
 
-Known failure modes include undocumented side observation, condition leak between suites, sample identity drift,
-delayed return verification, instrument contamination, Medical watch underestimation, Archive mirror hazard
-propagation, custody ledger mismatch, study purpose expansion, and researchers treating generated data as safer than
-the object that produced it.
+Known failure modes include undocumented side observation, condition leak between suites,
+sample identity drift, delayed return verification, instrument contamination, Medical watch
+underestimation, Archive mirror hazard propagation, custody ledger mismatch, study purpose
+expansion, and researchers treating generated data as safer than the object that produced it.
 
 FAILURE HISTORY
 
@@ -280,9 +280,9 @@ suite separation was treated as ordinary laboratory isolation. Current CSERSCS o
 boundaries and post-study leakage checks.
 
 CSERSCS-Archive Mirror Review
-A data preservation incident showed that research records may contain hazard-bearing patterns. Current Archive mirror
-handling preserves research data under restriction-set logic rather than assuming measurements are safe because they
-are secondary.
+A data preservation incident showed that research records may contain hazard-bearing
+patterns. Current Archive mirror handling preserves research data under restriction-set
+logic rather than assuming measurements are safe because they are secondary.
 
 DIVISION USE
 

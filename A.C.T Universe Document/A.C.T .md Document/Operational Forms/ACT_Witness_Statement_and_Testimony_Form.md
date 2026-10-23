@@ -10,8 +10,8 @@
 #### Archive Note
 This form is used when a civilian, personnel member, contained subject, GOI contact, or
 other witness provides
-testimony connected to an anomalous event. The purpose is to preserve what was perceived before A.C.T normalcy work
-reshapes the public record.
+testimony connected to an anomalous event. The purpose is to preserve
+what was perceived before A.C.T normalcy work reshapes the public record.
 
 A witness statement is not automatically true. It is not automatically false. It is
 evidence of contact between a mind

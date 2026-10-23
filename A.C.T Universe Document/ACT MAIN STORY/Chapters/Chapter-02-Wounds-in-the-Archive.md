@@ -149,9 +149,9 @@ at content and started looking at signatures.
 
 People lied. Paper lied. But patterns of handwriting lied differently.
 
-She pulled up scanned ledger margins, transfer initials, review marks, seal notations. At first the result looked like
-noise. Different centuries of pen pressure. Different inks. Different levels of fatigue. Then one little inconsistency
-split open the whole field.
+She pulled up scanned ledger margins, transfer initials, review marks, seal notations. At
+first the result looked like noise. Different centuries of pen pressure. Different inks.
+Different levels of fatigue. Then one little inconsistency split open the whole field.
 
 A looping capital on a review note in an early abyss transfer record matched
 the hand on a later inventory correction
@@ -302,8 +302,8 @@ wish I’d taken the long corridor?”
 
 “Casually,” Sera lied.
 
-He sighed. “Then I’ll answer casually. Pre-standard medical language is garbage. Half of it got retrofitted after the
-fact.”
+He sighed. “Then I’ll answer casually. Pre-standard medical
+language is garbage. Half of it got retrofitted after the fact.”
 
 “Could 004-linked symptoms appear in records before official anomaly recovery?”
 

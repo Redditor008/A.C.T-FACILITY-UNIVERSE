@@ -57,7 +57,7 @@ Core handling rule:
 IT DOES NOT MAKE THE CHILD FORGET. IT MAKES THE REMEMBERING BEARABLE. THAT IS
 NOT THE SAME TOOL.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 FUNCTION SUMMARY
 
@@ -83,7 +83,7 @@ The blanket does not detect anything, does not relay anything, and does not dete
 anything. It is a damping surface,
 not a sensor.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 ORIGIN AND CUSTODY
 
@@ -101,14 +101,14 @@ A.C.T holds no complete unit. The decision not to seek one deliberately was made
 after the Listening Plush
 force-opening loss, recorded in TECH-GOI-054-2.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 PHYSICAL OR SYSTEM DESCRIPTION
 
 The unit presents as an ordinary child's blanket of domestic size and weight. Nothing
 about the exterior indicates
-function, consistent with the Lullaby Works design preference for soft materials, low-threat shapes, and familiar
-domestic objects.
+function, consistent with the Lullaby Works design preference for
+soft materials, low-threat shapes, and familiar domestic objects.
 
 Known external features:
 
@@ -145,7 +145,7 @@ only item A.C.T can watch improve
 a child's condition and the only one that can fail slowly enough for nobody
 to notice until it has.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 TECHNICAL SPECIFICATION
 
@@ -180,7 +180,7 @@ The memory-suppression row is the one A.C.T is bound by rather than the one it r
 this product as amnestic is incorrect, and the distinction matters because the blanket preserves witness value while
 reducing harm, which no A.C.T amnestic does.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 INTERFACE AND OPERATING ENVELOPE
 
@@ -210,12 +210,12 @@ Handling Limits And Weaknesses
 Episode counts, accumulation curve, and transfer behaviour between children are NOT MEASURED. The laundering gap is
 carried as an open safety risk rather than as a theoretical concern.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 OPERATING PROCEDURE
 
-Blankets in a child's possession stay there. Field personnel do not confiscate, cut, weigh, wash, or test a service
-unit.
+Blankets in a child's possession stay there. Field personnel
+do not confiscate, cut, weigh, wash, or test a service unit.
 
 Standing rules:
 
@@ -238,8 +238,8 @@ directly and does not deflect. The
 product is protective in every case A.C.T has observed, and refusal to say so
 damages trust without improving safety.
 
-Sample inspection proceeds fibre, weave, hem, tag, plate, warmth at rest. Warmth is recorded, not investigated in the
-field.
+Sample inspection proceeds fibre, weave, hem, tag, plate, warmth
+at rest. Warmth is recorded, not investigated in the field.
 
 Numbered Operating Sequence
 
@@ -259,7 +259,7 @@ Step 5 is a Subject Care rule rather than a technical one, and it is included be
 worse: a caregiver who cannot get a straight answer about safety tends to remove the item, and removal is the
 outcome the whole record is trying to prevent.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 SERVICING AND CALIBRATION
 
@@ -280,7 +280,7 @@ SERVICING AND CALIBRATION
 Servicing is clinical rather than mechanical. There is nothing to calibrate and nothing to adjust, so the schedule
 tracks the child's nights and the integrity of the textile, and nothing else.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 FAULT ISOLATION
 
@@ -298,7 +298,7 @@ FAULT ISOLATION
 | Referral closed early      | false reassurance                         | reopen, Subject Care                      |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 
----
+═══════════════════════════════════════════════════════════════════════
 
 KNOWN LIMITS
 
@@ -319,10 +319,10 @@ protective item the child has, and A.C.T currently has no guidance to give them.
 This is recorded as an open safety
 gap rather than as a theoretical concern.
 
-The product does not replace care. Subject Care Division warns against allowing a blanket to become the reason a child
-is not referred for follow-up.
+The product does not replace care. Subject Care Division warns against
+allowing a blanket to become the reason a child is not referred for follow-up.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 FAILURE HISTORY
 
@@ -349,7 +349,7 @@ authorized. The gap remains open and is carried in OPEN QUESTIONS. It is logged
 here so that the absence of guidance
 is visible rather than assumed.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 DIVISION USE
 
@@ -361,7 +361,7 @@ during an incident. Archive holds inspection records and sample provenance under
 tracks the half-moon stitch, the three-quiet-nights line, and any appearance of the weave in unrelated textile
 products. Civil Covert maintains the cover position for families.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 CROSS-REFERENCES
 
@@ -379,7 +379,7 @@ with no recovered lot label cannot be numbered in the Master Catalog. The omissi
 follows from what A.C.T failed to
 recover, not from a filing decision.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 OPEN QUESTIONS
 
@@ -396,7 +396,7 @@ in the reference set?
 ethical position or a technical limit?
 - Does the blanket retain anything of the event it damps?
 
----
+═══════════════════════════════════════════════════════════════════════
 
 FILE METADATA
 

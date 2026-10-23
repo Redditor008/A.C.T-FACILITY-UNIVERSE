@@ -83,10 +83,10 @@ could not master it.
 
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
-Surviving CCAs resemble heavy clock regulators mounted inside iron anchor frames. Most are cabinet-sized or
-wall-mounted. Smaller desk units exist but are considered unstable because their light frames transmit vibration too
-easily. The face usually lacks ordinary hours and instead carries sequence marks, witness ticks, and a final locking
-notch.
+Surviving CCAs resemble heavy clock regulators mounted inside iron anchor frames. Most
+are cabinet-sized or wall-mounted. Smaller desk units exist but are considered unstable
+because their light frames transmit vibration too easily. The face usually lacks ordinary
+hours and instead carries sequence marks, witness ticks, and a final locking notch.
 
 Known components include:
 

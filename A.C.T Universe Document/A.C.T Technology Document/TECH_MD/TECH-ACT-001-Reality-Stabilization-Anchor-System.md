@@ -21,12 +21,12 @@
 | AUTHORITY | Engineering Division, Containment Division, Site Command, and Central Archive |
 
 #### Archive Note
-The Reality Stabilization Anchor System is the first A.C.T-owned technology to receive an individual expanded
-technology record in this archive because it is the main A.C.T containment infrastructure already present across the
-master technology index, technological timeline, visual reference guide, and site dossiers. The RSA is the primary
-pillar of modern containment. It broadcasts a calibrated causal baseline that holds local space, sequence, object
-presence, chamber geometry, and procedural reality close enough to Earth-standard conditions for A.C.T facilities to
-function.
+The Reality Stabilization Anchor System is the first A.C.T-owned technology to receive an individual
+expanded technology record in this archive because it is the main A.C.T containment infrastructure
+already present across the master technology index, technological timeline, visual reference guide,
+and site dossiers. The RSA is the primary pillar of modern containment. It broadcasts a calibrated
+causal baseline that holds local space, sequence, object presence, chamber geometry, and procedural
+reality close enough to Earth-standard conditions for A.C.T facilities to function.
 
 The RSA is not a weapon, not a general shield, not a miracle generator,
 not a replacement for containment structure,
@@ -80,12 +80,11 @@ RSA support appears in four major roles:
 - transport stabilization inside sealed containers, heavy aircraft, intermodal shipping units, and convoy equipment;
 - breach-response stabilization when a zone is losing geometry, sequence, observation reliability, or containment-room
  identity;
- research and transformation support when an anomaly is being evaluated for conversion into system,
- tool, warning, or
+ research and transformation support when an anomaly is being evaluated for conversion into system, tool, warning, or
  institutional doctrine.
 
-The RSA is one reason A.C.T can develop technologies from anomalies without every experiment becoming a new
-uncontrolled fracture.
+The RSA is one reason A.C.T can develop technologies from anomalies
+without every experiment becoming a new uncontrolled fracture.
 
 ---
 
@@ -116,10 +115,10 @@ controls manufacture, calibration, core servicing, firmware isolation, field geo
 replacement parts. Containment controls deployment standards, chamber requirements, breach
 activation, and minimum stabilization thresholds for each class of holding environment.
 
-Site Command controls local emergency activation and shutdown authority. Logistics controls transport anchors and
-RSA-equipped containers. Recovery controls temporary field units. Archive Division receives logs because RSA failure
-can alter records. Civil Covert attaches when RSA malfunction creates public architectural, road, time, or perception
-evidence.
+Site Command controls local emergency activation and shutdown authority. Logistics controls
+transport anchors and RSA-equipped containers. Recovery controls temporary field units.
+Archive Division receives logs because RSA failure can alter records. Civil Covert attaches
+when RSA malfunction creates public architectural, road, time, or perception evidence.
 
 No GOI owns RSA technology. Multiple GOIs have seen RSA effects. Iron Meridian Authority is suspected of attempting to
 imitate perimeter-stabilization behavior. Ninefold Ark may possess low-power seal patterns that resemble A.C.T
@@ -160,10 +159,10 @@ Known components include:
 - local field geometry memory;
 - hardline or isolated relay connection to site stabilization monitor.
 
-The four-split crystal core appears to distribute causal load across four quarter segments rather than one continuous
-crystal. Engineering notes indicate that single-core prototypes suffered catastrophic stress bloom under high
-distortion. The split design allows controlled disagreement inside the core instead of uncontrolled disagreement in
-the room.
+The four-split crystal core appears to distribute causal load across four quarter segments
+rather than one continuous crystal. Engineering notes indicate that single-core prototypes
+suffered catastrophic stress bloom under high distortion. The split design allows
+controlled disagreement inside the core instead of uncontrolled disagreement in the room.
 
 ### Site Grid and Transport Variants
 
@@ -301,8 +300,8 @@ Do not open the front hatch during drift unless Engineering authorizes stress re
 sweep pattern during calibration unless wearing approved sensor-safe gear. Do not connect an uncertified tablet to the
 folding connector. Do not move a tripod unit after it has been grid-accepted unless
 the field has been stepped down.
-Do not pair RSA hard anchor with unreviewed amnestic dispersal, narrative static, or ARM reset unless Command approves
-the combined effect.
+Do not pair RSA hard anchor with unreviewed amnestic dispersal, narrative
+static, or ARM reset unless Command approves the combined effect.
 
 ---
 
@@ -390,8 +389,8 @@ The room's dimensions remained stable, but camera timestamps began repeating nin
 instrument fault. The affected chamber later showed containment-log duplication and inconsistent inventory tags.
 Archive Division identified the event because two identical retrieval entries had different handwriting.
 
-Corrective action established the rule that timestamp disagreement counts as geometry risk even when walls remain
-still.
+Corrective action established the rule that timestamp disagreement
+counts as geometry risk even when walls remain still.
 
 ### TRANSPORT CONTAINER WHITE LOCK EVENT
 
@@ -433,9 +432,9 @@ integration. Transport anchors require return inspection after any drift event.
 
 ### Archive and Civil Covert
 
-Archive Division reviews RSA logs when records, timestamps, map labels, retrieval entries, or object identities
-disagree. Civil Covert manages public traces if RSA failure causes a building, road, camera feed, or civilian memory
-chain to misbehave.
+Archive Division reviews RSA logs when records, timestamps, map labels, retrieval
+entries, or object identities disagree. Civil Covert manages public traces if RSA
+failure causes a building, road, camera feed, or civilian memory chain to misbehave.
 
 ---
 
@@ -462,8 +461,8 @@ The RSA system interacts with, but is distinct from:
 - Facility Converted Aircraft, which incorporate RSA support for high-priority transport;
 - Cryo-Seismic Stabilizers, which use RSA intervals during world-scale events.
 
-Each system requires its own individual technology record. This file covers only the Reality Stabilization Anchor
-System.
+Each system requires its own individual technology record.
+This file covers only the Reality Stabilization Anchor System.
 
 ---
 
@@ -473,8 +472,7 @@ System.
  before
  replacement becomes
  mandatory?
- Can hostile actors reproduce partial RSA effects using stolen crystal fragments or Ninefold Ark
- low-power seal
+ Can hostile actors reproduce partial RSA effects using stolen crystal fragments or Ninefold Ark low-power seal
  patterns?
 — Does prolonged RSA exposure alter staff tolerance for unanchored spaces?
 — Are some anomalies learning to mimic baseline pulse rather than overpower it?
@@ -484,8 +482,7 @@ System.
  How much RSA support is safe in spaces used by transformed or partially
  anomalous
  A.C.T personnel?
- Does coupling RSA, ARM, NEMNOLIA-derived memory control, and Causal Static generation create a combined
- failure mode
+ Does coupling RSA, ARM, NEMNOLIA-derived memory control, and Causal Static generation create a combined failure mode
  not visible in single-system tests?
  What is the true long-term source limit for Static-Pulse Crystal extracted from the
  Abyss

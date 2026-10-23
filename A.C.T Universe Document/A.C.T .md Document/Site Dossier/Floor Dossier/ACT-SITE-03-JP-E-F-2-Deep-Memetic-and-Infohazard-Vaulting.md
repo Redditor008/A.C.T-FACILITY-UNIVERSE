@@ -21,10 +21,10 @@ This file is the complete individual record of **F-2, the Deep Memetic and Infoh
 Vaulting**, the second-deepest
 numbered floor of **ACT-SITE-03-JP-E, Kurokawa Archive Node**.
 
-F-2 is the level for the node's most dangerous readable material: memetic symbols requiring visual denial, information
-hazards requiring knowledge restriction, and material that must never be fully read. The floor is dominated by Blind
-Box and Eye Box configurations — the containment architectures through which the node holds material whose danger
-grows with understanding.
+F-2 is the level for the node's most dangerous readable material: memetic symbols requiring
+visual denial, information hazards requiring knowledge restriction, and material that must never
+be fully read. The floor is dominated by Blind Box and Eye Box configurations — the containment
+architectures through which the node holds material whose danger grows with understanding.
 
 This dossier records the floor in full institutional language: what it is, what it
 holds, how it is built, how it is
@@ -147,8 +147,8 @@ knowledge-restriction doctrine that governs the floor.
 
 ### 6.3 Security Division
 
-Security guards the floor's access architecture and enforces the holding-specific access rules that govern entry to
-the floor's vaults.
+Security guards the floor's access architecture and enforces the
+holding-specific access rules that govern entry to the floor's vaults.
 
 ### 6.4 Medical Division (Cognitive Care)
 
@@ -184,8 +184,8 @@ perception of the holding is itself the hazard.
 
 An Eye Box unit is engineered to govern how its contents may be perceived:
 observation is structured through specific
-viewing apparatus, under specific conditions, and by specific personnel. Where a Blind Box denies perception, an Eye
-Box disciplines it.
+viewing apparatus, under specific conditions, and by specific personnel.
+Where a Blind Box denies perception, an Eye Box disciplines it.
 
 ### 7.4 Visual-Denial Infrastructure
 
@@ -256,8 +256,8 @@ modified access conditions until the closure is resolved.
 
 ### 10.1 Filing Doctrine
 
-F-2's holding manifest is preserved in the clearance-gated Kurokawa Annex Register. This dossier does not enumerate
-the floor's holdings.
+F-2's holding manifest is preserved in the clearance-gated Kurokawa
+Annex Register. This dossier does not enumerate the floor's holdings.
 
 ### 10.2 Holding Character
 

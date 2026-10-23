@@ -8,7 +8,7 @@ Current age: 324 years old
 Species/type: Long-lived kitsune-class humanoid
 Current personality classification: Non-extrovert / selectively social / supernaturally cautious
 
----
+═══════════════════════════════════════════════════════════════════════
 
 1. Age calculation
 
@@ -20,7 +20,7 @@ From 1934 to 2026, 92 years passed:
 
 Therefore, Kazumi’s correct age in 2026 is 324.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 2. Current appearance and physical identity
 
@@ -37,7 +37,7 @@ Kazumi remains a female-presenting kitsune-class humanoid with:
 No later canon has established additional tails or a replacement physical form. Her sovereign status comes from the
 maturation of her presence and abilities, not from a confirmed change in tail number.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 3. Current personality
 
@@ -58,8 +58,8 @@ Her current personality is:
 - severe toward predatory intent;
 - unwilling to perform friendliness for another person’s comfort.
 
-Kazumi chooses when and with whom she interacts. Her silence comes from control, caution, age, and authority—not
-social helplessness.
+Kazumi chooses when and with whom she interacts. Her silence comes
+from control, caution, age, and authority—not social helplessness.
 
 She can judge an approaching person before meeting them eye to eye. This is
 not unrestricted omniscience. She
@@ -87,7 +87,7 @@ Kazumi retains her historical concern for:
 She does not like being treated as a deity, pet, animal, specimen, morale asset,
 or institutional tool.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 4. Communication and manner of speech
 
@@ -113,9 +113,9 @@ Kazumi’s manner of speaking combines:
 - old-fashioned or archaic phrasing;
 - modern vocabulary and directness learned across centuries.
 
-The result should remain understandable. She does not fill every sentence with random archaic words. Her age is
-expressed through rhythm, patience, formality, and perspective, while her familiarity with the modern world keeps her
-speech precise.
+The result should remain understandable. She does not fill every sentence with
+random archaic words. Her age is expressed through rhythm, patience, formality, and
+perspective, while her familiarity with the modern world keeps her speech precise.
 
 She normally speaks with few words. The fewer words she uses, the more deliberate
 they are.
@@ -128,11 +128,11 @@ Telepathic speech
 
 Telepathy uses bold italics around dialogue enclosed by single quotation marks:
 
-> *'I implore you to keep what you think to your own mind.'*
+> 'I implore you to keep what you think to your own mind.'
 
 Required pattern:
 
-> *'Telepathic dialogue.'*
+> 'Telepathic dialogue.'
 
 Do not use double quotation marks for Kazumi’s telepathy. Do not place telepathy inside
 square brackets.
@@ -150,7 +150,7 @@ Required pattern:
 This distinction lets the reader recognize immediately whether Kazumi is speaking directly into the mind or using her
 physical voice. Spoken commands may also carry her supernatural verbal pressure.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 5. Telekinesis
 
@@ -172,7 +172,7 @@ Kazumi’s telekinesis should not be presented only as raw lifting strength. Fin
 important qualities. She can apply force with careful selection, manipulate smaller objects without disturbing nearby
 material, and combine telekinesis with her awareness of intent and boundary conditions.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 6. Advanced telepathy
 
@@ -188,8 +188,8 @@ Current capabilities include:
 - warning without direct eye contact;
 - brief, small-scale hallucinations.
 
-Her hallucinations are not normally used as arbitrary illusions. They communicate meaning or consequence. A person may
-briefly experience:
+Her hallucinations are not normally used as arbitrary illusions. They
+communicate meaning or consequence. A person may briefly experience:
 
 - what their intended action would feel like if returned to them;
 - the perspective of the person or place they intended to exploit;
@@ -199,7 +199,7 @@ briefly experience:
 
 The hallucinations are currently defined as small-scale and short-lived. They are not unlimited reality rewriting.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 7. Weighted spoken words
 
@@ -209,14 +209,14 @@ When she deliberately speaks aloud, a word can carry supernatural weight, pressu
 
 For example:
 
-> *“KNEEL.”*
+> “KNEEL.”
 
 The command does not function as ordinary intimidation. The word creates pressure that can force the target to
 experience the weight of Kazumi’s authority.
 
 Another example is:
 
-> *“NO.”*
+> “NO.”
 
 The word can reject or interrupt a hostile action, especially inside a space aligned
 with Kazumi’s presence.
@@ -234,7 +234,7 @@ This ability should not be treated as unlimited mind control. Its force comes fr
 Kazumi’s sovereign authority,
 intent, and relationship with the surrounding space.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 8. Domineering sovereign pressure
 
@@ -248,8 +248,8 @@ This pressure exists even when she is:
 - not looking directly at anyone;
 - not consciously attacking.
 
-Her presence may cause people, anomalies, and Will-bearing surroundings to recognize that they are near a governing or
-superior intent.
+Her presence may cause people, anomalies, and Will-bearing surroundings
+to recognize that they are near a governing or superior intent.
 
 Sovereign pressure is not the same as constant hostility. Kazumi can be calm, respectful, or protective while still
 feeling overwhelmingly authoritative.
@@ -262,7 +262,7 @@ Her presence should communicate:
 - territorial authority;
 - the certainty that careless action will have consequences.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 9. Supernatural caution
 
@@ -282,7 +282,7 @@ This ability does not mean she knows every fact about a person. She reads
 what they bring toward the encounter, not
 their complete biography.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 10. Will alignment
 
@@ -306,10 +306,10 @@ A Will-bearing place or object may:
 - participate in the enforcement of her boundary;
 - retain care, memory, and accumulated meaning.
 
-Kazumi does not simply control her surroundings like puppets. Long proximity causes those surroundings to learn the
-direction of her intent.
+Kazumi does not simply control her surroundings like puppets. Long
+proximity causes those surroundings to learn the direction of her intent.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 11. Boundary Exchange
 
@@ -363,7 +363,7 @@ intention remains predatory.
 - exploitation;
 - desire to strip value from Kazumi or her surroundings.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 12. Current behavioral summary
 
@@ -396,7 +396,7 @@ She is:
 
 Her authority should be felt before it is explained.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 13. Quick-copy profile
 
@@ -420,7 +420,7 @@ improved substantially.
 
 Objects and places kept around Kazumi for long periods may acquire Will aligned with
 her intent without becoming alive
-or fully sentient. Kazumi can also establish Boundary Exchange, an intention-reading boundary governed by the rule:
-“Bring respect, receive passage. Bring hunger, receive hunger. Bring violence, receive the weight of what violence
-intended to take.” The boundary reads intention, consequence, and exchange rather than simplistic categories of good
-and evil.
+or fully sentient. Kazumi can also establish Boundary Exchange, an intention-reading boundary
+governed by the rule: “Bring respect, receive passage. Bring hunger, receive hunger. Bring
+violence, receive the weight of what violence intended to take.” The boundary reads
+intention, consequence, and exchange rather than simplistic categories of good and evil.

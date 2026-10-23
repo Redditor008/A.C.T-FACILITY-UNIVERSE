@@ -77,10 +77,10 @@ STHVS therefore makes time, transfer destination, and parent authority part of e
 
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
-A standard STHVS installation includes an intake bay, holding unit rows, a monitoring gallery, transfer preparation
-area, command post, documentation alcove, access controls, environmental service lines, communication panels, and an
-F-1 closure system. The holding units are sized for low-threat object and subject material, not heavy residents or
-high-instability anomalies.
+A standard STHVS installation includes an intake bay, holding unit rows, a monitoring gallery,
+transfer preparation area, command post, documentation alcove, access controls, environmental
+service lines, communication panels, and an F-1 closure system. The holding units are sized
+for low-threat object and subject material, not heavy residents or high-instability anomalies.
 
 Known components include:
 
@@ -127,8 +127,7 @@ The vault exists to hold, briefly, things that are not yet classified. Its contr
 parameter is time
 rather than capacity: every unit carries a custody clock so that an unclassified item
 cannot drift into
-permanent local custody through inertia. Overstay is recorded as a custody failure, not as an administrative
-delay.
+permanent local custody through inertia. Overstay is recorded as a custody failure, not as an administrative delay.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

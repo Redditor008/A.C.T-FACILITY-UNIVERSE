@@ -1,5 +1,5 @@
 A.C.T FACILITY ARCHIVE FILE
----------------------------
+═══════════════════════════════════════════════════════════════════════
 
 Saint Morrow Passage White Ticket
 =================================
@@ -12,7 +12,7 @@ Origin: Saint Morrow Passage (GOI-BS-W-070), White Clerk issue from ticket book 
 Clearance: Level 3 for examination; Level 4 for handling outside storage
 
 Archive Note
-------------
+═══════════════════════════════════════════════════════════════════════
 
 The archive holds white tickets recovered during work contact with the Saint Morrow Passage. No
 count is recorded and no complete ticket book is held. The full route books remain unrecovered.
@@ -35,7 +35,7 @@ A white ticket is not a fare and not A.C.T authority. Personnel must not present
 office or passenger, must not issue one, and must not copy one, because a copy of a ticket is a ticket.
 
 THE DOCUMENT
-------------
+═══════════════════════════════════════════════════════════════════════
 
 1.1 What a ticket carries
 =========================
@@ -63,7 +63,7 @@ cannot be validated, extended or reissued.
 The ticket depends on the route books, which are unrecovered.
 
 HANDLING
---------
+═══════════════════════════════════════════════════════════════════════
 
 2.1 Custody
 ===========
@@ -177,7 +177,7 @@ get authorisation will find a white ticket attractive, and the presentation rule
 person rather than for anyone acting in bad faith.
 
 DIVISION USE
-------------
+═══════════════════════════════════════════════════════════════════════
 
 +--------------+----------------------------------------------------------------------------+
 | DIVISION     | USE                                                                        |
@@ -192,7 +192,7 @@ DIVISION USE
 +--------------+----------------------------------------------------------------------------+
 
 OPEN QUESTIONS
---------------
+═══════════════════════════════════════════════════════════════════════
 
 - how many tickets are held, and whether they came from one book or several;
 - what the route-specific language says, and whether the route books would explain it;
@@ -206,7 +206,7 @@ monitoring and the archive holds its documents. Whether that holding is understo
 not been established and Legal has not ruled.
 
 CROSS-REFERENCES
-----------------
+═══════════════════════════════════════════════════════════════════════
 
 - GOI-BS-W-070 — Saint Morrow Passage, Group of Interest Dossier
 - TECH-GOI-070-2 — Saint Morrow Passage Route Bell, Technology Record
@@ -218,7 +218,7 @@ ledger records what was carried and what is owed. All four turn on the same thre
 none can be operated by the Facility.
 
 FILE METADATA
--------------
+═══════════════════════════════════════════════════════════════════════
 
 Record Type: Technology Record — Recovered Adversary Device
 Created: 08/05/2020

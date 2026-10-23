@@ -21,11 +21,11 @@ This file is the complete individual record of **F-3, the Surface Cover Level**,
 surface-adjacent floor of
 **ACT-SUB-05-ID-C, the Ash Tide Watchpoint**.
 
-F-3 is the legitimate coastal research station that forms the watchpoint's cover: observation decks, monitoring
-equipment, administrative spaces, and the small dock used for legitimate research vessel operations. In the
-archipelago, coastal research stations are ordinary features — and a small station conducting oceanographic, volcanic,
-and wildlife observation raises no questions. Beneath the station, the watchpoint's operational levels do the work the
-cover exists to conceal.
+F-3 is the legitimate coastal research station that forms the watchpoint's cover: observation
+decks, monitoring equipment, administrative spaces, and the small dock used for legitimate research
+vessel operations. In the archipelago, coastal research stations are ordinary features — and a
+small station conducting oceanographic, volcanic, and wildlife observation raises no questions.
+Beneath the station, the watchpoint's operational levels do the work the cover exists to conceal.
 
 This dossier records the floor in full institutional language: what it is, how it
 conceals, how it is built, and how
@@ -119,9 +119,9 @@ administration, and the public face of the cover identity.
 
 ### 5.3 Authority Limits
 
-F-3 holds no authority over the watchpoint's operational functions. Its authority is over the legitimate station — and
-its most important duty is the maintenance of the boundary between the station's visible observation and the buried
-watchpoint's concealed watch.
+F-3 holds no authority over the watchpoint's operational functions. Its authority is over
+the legitimate station — and its most important duty is the maintenance of the boundary
+between the station's visible observation and the buried watchpoint's concealed watch.
 
 ---
 
@@ -181,8 +181,8 @@ indistinguishable from ordinary station infrastructure.
 
 ### 8.1 Power
 
-F-3 draws on the station's legitimate power infrastructure, with the buried watchpoint protected by the installation's
-backup systems.
+F-3 draws on the station's legitimate power infrastructure, with the
+buried watchpoint protected by the installation's backup systems.
 
 ### 8.2 Environment
 
@@ -240,8 +240,8 @@ wildlife observation conceals the watch operations below.
 
 ### 10.2 Transition Function
 
-F-3 is the watchpoint's surface gateway: the level through which operational traffic passes between the coast and the
-buried watchpoint.
+F-3 is the watchpoint's surface gateway: the level through which
+operational traffic passes between the coast and the buried watchpoint.
 
 ### 10.3 Holding Character
 
@@ -281,9 +281,9 @@ natural to the archipelago, and the level maintains the ordinariness that makes 
 
 ### 12.2 Shared-Instrument Doctrine
 
-F-3 doctrine holds that the cover and the mission share their instruments: the station's genuine observation equipment
-serves both the legitimate science and the concealed watch, and the station's public work reinforces the watchpoint's
-hidden purpose.
+F-3 doctrine holds that the cover and the mission share their instruments: the station's
+genuine observation equipment serves both the legitimate science and the concealed
+watch, and the station's public work reinforces the watchpoint's hidden purpose.
 
 ### 12.3 Separation Doctrine
 

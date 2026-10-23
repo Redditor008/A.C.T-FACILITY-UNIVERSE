@@ -60,7 +60,7 @@ Core issue rule:
 THE SPURS DO NOT COME OFF. ANYONE ASKING TO BE FITTED IS ASKING FOR
 A PERMANENT CHANGE, NOT A LOADOUT.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 FUNCTION SUMMARY
 
@@ -84,7 +84,7 @@ and the recoil is transmitted through the operator's pelvis rather than through 
 or a grip. This is not a
 stealth system and has never been issued as one.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 PROVENANCE AND REVERSE-ENGINEERING STATUS
 
@@ -96,8 +96,8 @@ Engineering reference set.
 The Mysterious Guild holds a related asset under the designation Item-M2 Neuro-Mantid Sacral-Scythes. Whether
 A.C.T's spurs are a copy of Guild hardware, a parallel development from the same
 displaced source, or an earlier
-variant of it is unresolved. The Guild dossier does not describe Item-M2's construction, and no Guild unit has ever
-been recovered intact.
+variant of it is unresolved. The Guild dossier does not describe
+Item-M2's construction, and no Guild unit has ever been recovered intact.
 
 What Engineering has established:
 
@@ -112,7 +112,7 @@ during calibration.
 That last point is the operational bottleneck. A.C.T can build spurs. A.C.T cannot build the interface that makes them
 usable, and cannot verify a new interface against anything except an existing one.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 PHYSICAL AND SYSTEM DESCRIPTION
 
@@ -143,7 +143,7 @@ stroke count, and retired spurs
 have been observed to differ in mass from their recorded issue weight by amounts
 Engineering cannot account for.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 
 
@@ -222,7 +222,7 @@ for.
 Removal has never been performed. No procedure exists. An operator who leaves service keeps the implant, and Medical
 Division maintains follow-up for every former fitted operator it can still reach.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 DEPLOYMENT ENVELOPE
 
@@ -258,7 +258,7 @@ The spurs do not function as a general mobility aid. They fire, they hold,
 and they must be withdrawn. An operator
 moving continuously across open ground gains nothing from them and loses time.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 SERVICING AND CALIBRATION
 
@@ -306,18 +306,18 @@ reference connector.
 Anchoring destroys the surface it enters. On heritage architecture, on occupied structure, or on any surface that is
 itself anomalous, firing a spur may cause more damage than the event being survived.
 
-The bio-feed has no redundancy. A degraded connector produces degraded control with no warning, and the operator is
-the only sensor.
+The bio-feed has no redundancy. A degraded connector produces degraded
+control with no warning, and the operator is the only sensor.
 
-Recoil is transmitted through the operator's core. Repeated use produces cumulative injury that Medical Division
-tracks and that ends careers.
+Recoil is transmitted through the operator's core. Repeated use produces
+cumulative injury that Medical Division tracks and that ends careers.
 
 The provenance gap is not a paperwork problem. A.C.T is issuing a permanent nerve
 interface it cannot explain, built
 by copying a part it cannot derive. Every fitted operator is carrying the consequence
 of that.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 FAILURE HISTORY
 
@@ -344,7 +344,7 @@ and produced the standing rule that no fitment is scheduled without the referenc
 site. Whether the copied
 connector was inert, misaligned, or partially live was never determined.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 OPERATOR QUALIFICATION AND DIVISION USE
 
@@ -359,7 +359,7 @@ Fitted operators are a small population by design. Field Command has never sough
 expand it, and this record does
 not recommend expansion.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 CROSS-REFERENCES
 
@@ -376,7 +376,7 @@ The ACT Technological Evolution Timeline does not place this system. The spurs a
 development history, which is consistent with their provenance and is the reason no era
 entry exists for them.
 
----
+═══════════════════════════════════════════════════════════════════════
 
 OPEN QUESTIONS
 
@@ -395,7 +395,7 @@ does it send back?
 - Can a spur body be re-fitted to a second operator, or is it matched?
 - What inspection finds a connector seated well enough to work and badly enough to injure?
 
----
+═══════════════════════════════════════════════════════════════════════
 
 FILE METADATA
 

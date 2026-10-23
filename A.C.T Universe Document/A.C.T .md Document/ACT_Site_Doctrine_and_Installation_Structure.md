@@ -44,8 +44,8 @@ Site doctrine exists so that personnel can distinguish between them clearly.
 ---
 
 ## 1. Definition of a SITE
-Within A.C.T terminology, a **SITE** is a **major permanent installation** recognized as an official operational body
-of the Facility.
+Within A.C.T terminology, a **SITE** is a **major permanent installation**
+recognized as an official operational body of the Facility.
 
 A SITE is not merely a structure. It is a complete institutional node capable
 of maintaining one or more essential
@@ -90,8 +90,8 @@ not a true SITE under formal doctrine.
 ---
 
 ## 3. Definition of a SUB-SITE
-A **SUB-SITE** is a secondary A.C.T installation attached to a larger site, command body, or regional authority
-structure.
+A **SUB-SITE** is a secondary A.C.T installation attached to
+a larger site, command body, or regional authority structure.
 
 A SUB-SITE is still official and operationally valid, but it does not possess the
 same degree of institutional
@@ -100,8 +100,8 @@ depends on a higher command body
 for broader authority, support, or oversight.
 
 ### Simple Doctrine Statement
-A **SUB-SITE** is a smaller or specialized A.C.T installation operating under a larger SITE or regional command
-structure.
+A **SUB-SITE** is a smaller or specialized A.C.T installation
+operating under a larger SITE or regional command structure.
 
 ---
 
@@ -164,8 +164,8 @@ A major official installation responsible for one large region of a country, con
 A secondary installation attached to a larger site or regional command structure.
 
 ### 6.4 Relay Site
-A low-footprint support location used for archive transfer, secure movement, witness routing, or controlled logistical
-continuity.
+A low-footprint support location used for archive transfer, secure
+movement, witness routing, or controlled logistical continuity.
 
 ### 6.5 Black Site
 A highly restricted installation not broadly acknowledged even inside the Facility. Usually associated with sealed

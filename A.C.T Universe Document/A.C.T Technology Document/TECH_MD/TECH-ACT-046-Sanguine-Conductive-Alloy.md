@@ -52,9 +52,9 @@ interface studies, and restricted anomalous material tests.
 
 The alloy's value is also its danger. Blood is not a neutral input in
 A.C.T files. AFD-OB-412 demonstrates that blood
-contact can activate a soul-anchor. Synthetic Sanguine-Fuel demonstrates that biological input can become machine
-support. SCA sits between those lessons. It lets a biological substance speak through metal, but A.C.T must decide who
-is allowed to listen.
+contact can activate a soul-anchor. Synthetic Sanguine-Fuel demonstrates that biological
+input can become machine support. SCA sits between those lessons. It lets a biological
+substance speak through metal, but A.C.T must decide who is allowed to listen.
 
 Approved roles include:
 
@@ -73,19 +73,19 @@ Approved roles include:
 SCA development followed repeated failures of ordinary sensors to preserve biological context. A blood sample on a
 slide can show chemistry. A pulse monitor can show rhythm. A genetic scanner can
 show sequence. None of these
-automatically show how anomalous tissue, memory, hunger, resonance, and identity speak to one another through living
-fluid. A.C.T needed a material that could conduct biological signal without forcing it into ordinary electrical
-categories too early.
+automatically show how anomalous tissue, memory, hunger, resonance, and identity
+speak to one another through living fluid. A.C.T needed a material that could conduct
+biological signal without forcing it into ordinary electrical categories too early.
 
 The first successful sheets used a blue metallic matrix threaded with micro-vein channels. When blood touched the
 prepared contact surface, the alloy carried a readable data pulse across the sheet and
 into isolated instruments. The
-Data-Flow Indicator LED was added after technicians failed to notice low-level transfer during cleaning. If the LED
-blinks, the alloy is not idle.
+Data-Flow Indicator LED was added after technicians failed to notice
+low-level transfer during cleaning. If the LED blinks, the alloy is not idle.
 
-Custody moved to Materials Custody and Medical Engineering after early proposals attempted to use SCA as a convenience
-bridge for multiple subjects. That is prohibited. Blood-data channels must remain subject-specific unless O5 Review
-authorizes mixed-sample study.
+Custody moved to Materials Custody and Medical Engineering after early proposals attempted
+to use SCA as a convenience bridge for multiple subjects. That is prohibited. Blood-data
+channels must remain subject-specific unless O5 Review authorizes mixed-sample study.
 
 ---
 
@@ -199,8 +199,8 @@ During use, blood or approved blood analog is applied only to the designated con
 well. Staff watch the LED, not
 the color of the blood. If the LED blinks outside an active test, the
 plate is treated as conducting and the room
-enters bio-data lockdown. No second sample touches the same plate until decontamination and memory of prior transfer
-are cleared by scan.
+enters bio-data lockdown. No second sample touches the same plate until
+decontamination and memory of prior transfer are cleared by scan.
 
 After use, residue is swabbed, the plate is sealed, and all readout data is
 tagged as biological data rather than
@@ -221,8 +221,8 @@ ordinary telemetry.
 
 Plates are the consumable: a plate carries one subject and is then sealed or
 withdrawn, so calendar interval
-NOT MEASURED. The indicator LED is mandatory hardware rather than a convenience, which is what the 2018
-handling event established.
+NOT MEASURED. The indicator LED is mandatory hardware rather than
+a convenience, which is what the 2018 handling event established.
 
 ## FAULT ISOLATION
 
@@ -252,9 +252,9 @@ scenario is treating blood-data as property because it traveled through metal.
 ## FAILURE HISTORY
 
 ### SCA-2018 Indicator Addition
-A cleaning technician handled a plate that was still carrying residual biological transfer. No injury occurred, but
-the readout captured stress hormone traces from the technician's skin abrasion. Data-Flow Indicator LEDs became
-mandatory after this event.
+A cleaning technician handled a plate that was still carrying residual biological
+transfer. No injury occurred, but the readout captured stress hormone traces from the
+technician's skin abrasion. Data-Flow Indicator LEDs became mandatory after this event.
 
 ### SCA-2022 Mixed Sample Denial
 A proposal to compare multiple NB-class blood samples on one alloy bridge was denied
@@ -263,9 +263,9 @@ cross-subject identity bleed could create false compatibility data. Current doct
 unless O5 Review approves the exception.
 
 ### SCA-2026 Anchor-Proximity Warning
-A Soul Pendant support review prohibited SCA testing near AFD-OB-412. Blood-contact technologies and consciousness
-anchors are not colocated unless the purpose is explicitly to test anchor activation, which remains denied under
-current policy.
+A Soul Pendant support review prohibited SCA testing near AFD-OB-412. Blood-contact
+technologies and consciousness anchors are not colocated unless the purpose is
+explicitly to test anchor activation, which remains denied under current policy.
 
 ---
 

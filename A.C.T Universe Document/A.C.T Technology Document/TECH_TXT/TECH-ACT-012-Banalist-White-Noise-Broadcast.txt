@@ -47,9 +47,9 @@ secrecy, attention, memory, or story pressure. BWB is the acoustic cousin of tha
 it makes the room too
 administratively ordinary for certain dramatic forces to find a clean rhythm.
 
-BWB is not music, propaganda, hypnosis, or morale audio. It is controlled dullness. When functioning correctly,
-personnel barely notice it except during checks. When functioning incorrectly, everyone notices it, and that is
-already a warning.
+BWB is not music, propaganda, hypnosis, or morale audio. It is controlled dullness.
+When functioning correctly, personnel barely notice it except during checks. When
+functioning incorrectly, everyone notices it, and that is already a warning.
 
 Controlled label: BWB MANIFEST LIBRARY LIMIT.
 
@@ -67,10 +67,10 @@ repeated motifs, heightened attention, or clean dramatic timing. BWB makes the a
 harder for a script to declare an entrance, reveal, betrayal, chase, transformation, or ritual when the room keeps
 insisting that nothing narratively useful is happening.
 
-Approved roles include passive support in containment wings with scripting pressure; archive rooms that hold
-story-reactive files; Civil Covert waiting areas during witness sanitation; corridors where attention must remain low;
-backup support during CSG yellow or amber states; and normalcy operations where public panic may be guided away from
-dramatic focus.
+Approved roles include passive support in containment wings with scripting pressure; archive
+rooms that hold story-reactive files; Civil Covert waiting areas during witness sanitation;
+corridors where attention must remain low; backup support during CSG yellow or amber states;
+and normalcy operations where public panic may be guided away from dramatic focus.
 
 ORIGIN AND CUSTODY
 BWB was developed after A.C.T noticed that some anomalies fed on attention while others
@@ -93,18 +93,18 @@ identify cover sites, or build counter-broadcasts that ride inside the dullness.
 PHYSICAL OR SYSTEM DESCRIPTION
 A standard BWB node is a wall-mounted digital speaker with a Banal-Status Monitor. The
 monitor displays output health,
-entropy level, pattern risk, volume band, local override state, and library freshness. The internal Pattern-Randomizer
-Disc selects, cuts, overlaps, and de-emphasizes audio fragments so that the broadcast stays boring without becoming
-repetitive. Site-wide installations use chained nodes, ceiling speakers, corridor emitters, and control panels tied to
-Site Command.
+entropy level, pattern risk, volume band, local override state, and library freshness. The
+internal Pattern-Randomizer Disc selects, cuts, overlaps, and de-emphasizes audio fragments
+so that the broadcast stays boring without becoming repetitive. Site-wide installations use
+chained nodes, ceiling speakers, corridor emitters, and control panels tied to Site Command.
 
 Known components include wall-mounted digital speaker; Banal-Status Monitor; Pattern-Randomizer Disc; dullness entropy
 meter; volume governor; manifest fragment library; dead-air alarm; phrase repetition warning; local maintenance jack;
 and emergency mute and emergency flood settings.
 
-Civil Covert variants may disguise nodes as ordinary public-address speakers, ventilation rattle, elevator chime
-boxes, or waiting-room noise systems. Containment variants are more visible because staff need fast status checks
-during breach response.
+Civil Covert variants may disguise nodes as ordinary public-address speakers,
+ventilation rattle, elevator chime boxes, or waiting-room noise systems. Containment
+variants are more visible because staff need fast status checks during breach response.
 
 
 
@@ -149,10 +149,9 @@ and 1 more. They are filed under OPEN QUESTIONS.
 | Library refresh interval   | NOT MEASURED                                                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-The library is built from harmless administrative fragments: manifests, inventory tones, hallway air
-movement, copier hum, unimportant route codes, empty schedule language, synthetic footstep smear, and dull
-weather reports. The randomizer disc exists to stop that material becoming a chant, song, command, prayer,
-or recognizable message.
+The library is built from harmless administrative fragments: manifests, inventory tones, hallway air movement,
+copier hum, unimportant route codes, empty schedule language, synthetic footstep smear, and dull weather reports.
+The randomizer disc exists to stop that material becoming a chant, song, command, prayer, or recognizable message.
 
 INTERFACE AND OPERATING ENVELOPE
 
@@ -278,22 +277,22 @@ bureaucracy, monotony, boredom, paperwork, radio hiss, public announcements, or 
 physical containment, 004 aftercare, QNB preservation, CSG response, or direct evacuation. It does not make personnel
 immune to memetic sound, and it may interfere with verbal communication if tuned poorly.
 
-Known failure modes include pattern collapse, dead-air pockets, phrase emergence, over-boring fatigue, volume creep,
-speaker synchronization, library contamination, and public suspicion when cover audio feels too artificial. The most
-dangerous failure is meaningful dullness: a broadcast that remains boring to staff but has become a structured
-invitation to an anomaly.
+Known failure modes include pattern collapse, dead-air pockets, phrase emergence, over-boring
+fatigue, volume creep, speaker synchronization, library contamination, and public suspicion
+when cover audio feels too artificial. The most dangerous failure is meaningful dullness: a
+broadcast that remains boring to staff but has become a structured invitation to an anomaly.
 
 FAILURE HISTORY
 BWB-2013 Repetition Hook: A corridor installation repeated the same three inventory fragments every forty-seven
 seconds after a randomizer disc fault. Staff ignored the loop because it was dull.
 An adjacent script-reactive file
-began inserting the repeated manifest words into unrelated reports. The corridor was scrubbed, and phrase repetition
-warnings became mandatory.
+began inserting the repeated manifest words into unrelated reports. The
+corridor was scrubbed, and phrase repetition warnings became mandatory.
 
-BWB-2016 Witness Room Fatigue: Civil Covert used a high dullness setting during extended witness processing after a
-public anomaly event. The witnesses became calmer, but two staff members developed severe irritability and one forgot
-the purpose of the interview twice. Medical established maximum exposure windows and required human breaks in long
-witness operations.
+BWB-2016 Witness Room Fatigue: Civil Covert used a high dullness setting during extended witness
+processing after a public anomaly event. The witnesses became calmer, but two staff members
+developed severe irritability and one forgot the purpose of the interview twice. Medical
+established maximum exposure windows and required human breaks in long witness operations.
 
 BWB-2022 Dead-Air Stage: A speaker chain failed in one corner of a containment hallway,
 creating a silent pocket

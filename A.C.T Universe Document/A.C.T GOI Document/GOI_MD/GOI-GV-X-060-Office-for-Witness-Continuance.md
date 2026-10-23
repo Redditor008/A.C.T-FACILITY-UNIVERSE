@@ -165,9 +165,9 @@ Memory is testimony until lawfully reviewed.
 
 The Office does not claim that every memory should remain public. It claims that
 memory alteration, detention, and
-disappearance require review because they affect personhood. A witness may carry dangerous information, but the Office
-argues that danger does not automatically cancel rights, kinship, identity, grief, or the right to be told what is
-happening to one's own body.
+disappearance require review because they affect personhood. A witness may carry dangerous
+information, but the Office argues that danger does not automatically cancel rights,
+kinship, identity, grief, or the right to be told what is happening to one's own body.
 
 Office doctrine uses the term continuance to mean survival across institutional handling. A person continues if their
 name, body, memory, family connection, and legal existence remain meaningfully attached after the event.
@@ -201,16 +201,16 @@ Confirmed or strongly assessed capabilities include:
 - forcing family-notification review before complete disappearance cover;
 - distinguishing witness hazard from witness personhood in tribunal language.
 
-The Office is not assessed as Practitioner. Its force comes primarily from law, records, procedure, and public
-legitimacy.
+The Office is not assessed as Practitioner. Its force comes
+primarily from law, records, procedure, and public legitimacy.
 
 ### Secrecy and Civilian Exposure
 
 The Office is **Leaking** because it preserves testimony by design. It does not usually
 publish full anomaly details,
-but it keeps original words, first statements, body descriptions, names, photographs, and family claims in protected
-channels. These records can survive A.C.T normalcy operations and may surface during litigation, inquiry, medical
-review, or political conflict.
+but it keeps original words, first statements, body descriptions, names, photographs, and
+family claims in protected channels. These records can survive A.C.T normalcy operations
+and may surface during litigation, inquiry, medical review, or political conflict.
 
 A.C.T cannot treat every preserved record as hostile exposure. Some records protect survivors from erasure and prevent
 institutional abuse. The danger is that protected truth can move before containment is ready for it.
@@ -254,10 +254,10 @@ procedural disappearance. Warning signs include vanished medical files, unexplai
 consent forms, blocked family access, unreviewed memory treatment, altered names, and transport orders that remove a
 person before legal counsel can arrive.
 
-The Office then issues a continuance hold, assigns an advocate, copies testimony, reviews medical condition, blocks
-non-emergency amnestics, and demands that A.C.T justify custody or memory action through restricted legal channels.
-A.C.T field teams most often experience this as delay, interference, or a hostile packet arriving at the worst
-possible time.
+The Office then issues a continuance hold, assigns an advocate, copies testimony, reviews
+medical condition, blocks non-emergency amnestics, and demands that A.C.T justify custody
+or memory action through restricted legal channels. A.C.T field teams most often experience
+this as delay, interference, or a hostile packet arriving at the worst possible time.
 
 Office instructions are direct:
 
@@ -294,10 +294,10 @@ delays, challenges, preserves, and litigates against containment secrecy. A.C.T 
 because the Office sometimes protects people from harm. Relationship labels describe the operational relationship with
 A.C.T, not the moral worth of the group.
 
-A.C.T does not classify the Office as Positive because its interventions often undermine containment stability. It
-does not classify the Office as Work because no reliable operational cooperation exists. It does not classify the
-Office as Neutral because the Office actively intervenes against A.C.T authority when witness continuance is
-threatened.
+A.C.T does not classify the Office as Positive because its interventions often undermine
+containment stability. It does not classify the Office as Work because no reliable
+operational cooperation exists. It does not classify the Office as Neutral because the
+Office actively intervenes against A.C.T authority when witness continuance is threatened.
 
 ---
 
@@ -390,10 +390,9 @@ standard document-cleaning attempt.
  an
  A.C.T internal review body.
 — The Office repeatedly challenges A.C.T amnestic, detention, witness, and survivor-record procedures. It
-possesses tribunals, advocates, protected records, and emergency legal instruments with real operational effect.
-— Some Office interventions have preserved evidence and protected witnesses from premature erasure. The
-Office's active relationship to A.C.T remains negative because it directly obstructs containment secrecy
- and
+possesses tribunals, advocates, protected records, and emergency legal instruments with real operational
+effect. — Some Office interventions have preserved evidence and protected witnesses from premature erasure. The
+Office's active relationship to A.C.T remains negative because it directly obstructs containment secrecy and
  custody control.
 
 ### Active Intelligence Assessment
@@ -420,8 +419,7 @@ people by preserving truth in the wrong channel at the wrong time.
  appears during continuance disputes?
  How many protected witness hostels exist, and are all free from hostile GOI
  infiltration?
- Do some continuance writs resist alteration because of legal procedure, anomalous ink, or witness
- memory attachment?
+ Do some continuance writs resist alteration because of legal procedure, anomalous ink, or witness memory attachment?
 - Has the Office ever knowingly preserved a cognitohazard as testimony?
  Are tribunal chairs aware of the full anomaly details, or do they rule
  through
@@ -434,8 +432,8 @@ High for institutional reality and operational effect. The Office has identifiab
 tribunal orders, and witness outcomes. Confidence is Moderate for origin, ministerial sponsor, document durability,
 and the full scope of protected archives. Confidence may rise if A.C.T obtains an
 uncensored copy of [CENSOR: LEGAL
-ACT NAME], completes a controlled tribunal exchange, or verifies whether the Continuance Commissioner is a person,
-office, or legal condition.
+ACT NAME], completes a controlled tribunal exchange, or verifies whether
+the Continuance Commissioner is a person, office, or legal condition.
 
 ---
 

@@ -67,8 +67,8 @@ That document remains preserved as the oldest known sealed vault record and serv
 the historical beginning of
 A.C.T anomaly doctrine.
 
-**Naming note:** the historical designation is written **ENTITY-000**; sealed file titles use the underscore form,
-**ENTITY_000_ITHYOS**.
+**Naming note:** the historical designation is written **ENTITY-000**;
+sealed file titles use the underscore form, **ENTITY_000_ITHYOS**.
 
 Supporting file:
 - First Preserved Document, Archive Record
@@ -102,9 +102,9 @@ structural reality preservation.
 A.C.T recognizes two primary official documentation categories for anomaly records.
 
 ### 3.2.1 FILE SAVING CONVENTION, Archive Record
-The **Standard Format** is the primary anomaly archive structure used for the majority of documented anomalies. It is
-used for stable, verified, and conventionally recordable cases where the anomaly can be described within a complete
-archival file.
+The **Standard Format** is the primary anomaly archive structure used for the
+majority of documented anomalies. It is used for stable, verified, and conventionally
+recordable cases where the anomaly can be described within a complete archival file.
 
 The Standard Format includes:
 - designation
@@ -225,14 +225,14 @@ number as a simple sequence mark.
 
   **ENTITY Historical Band** — `ENTITY-###`, closed historical series. Preserved for First Vault and pre-standard
   records. No new ordinary ENTITY files are opened.
-  **000 Foundational Reserve** — `000` marks origin-level or foundation-level significance. ITHYOS is the controlling
-  example.
-  **LEGACY ACCEPTED Band** — `001–120` accepts legacy-era anomalies inside modern UFD/AFD handling. A legacy
-  anomaly may
+  **000 Foundational Reserve** — `000` marks origin-level or
+  foundation-level significance. ITHYOS is the controlling example.
+  **LEGACY ACCEPTED Band** — `001–120` accepts legacy-era
+  anomalies inside modern UFD/AFD handling. A legacy anomaly may
   preserve both UFD and AFD files when those files record different intake states.
 — **Modern Registry Band** — `121–999` is the ordinary modern UFD/AFD anomaly range.
-  **ANM Fracture-State Band** — `ANM-XX-XX-0001` through `ANM-XX-XX-9999`, with `XXXX` used for unresolved or obscured
-  numbers.
+  **ANM Fracture-State Band** — `ANM-XX-XX-0001` through
+  `ANM-XX-XX-9999`, with `XXXX` used for unresolved or obscured numbers.
   **Obscured / Reserved / Closed Numbers** — numbers may be hidden, reserved, or
   retired
   when the number itself is
@@ -276,15 +276,15 @@ entirely on its own*
 
 
 ### Official Fracture Index Codes
-When a fracture-sensitive designation is written in `ANM-XX-XX-####` form, the two letter segments abbreviate the
-Fracture Index:
+When a fracture-sensitive designation is written in `ANM-XX-XX-####`
+form, the two letter segments abbreviate the Fracture Index:
 
 **QUESTIONED** (`QU`) / **ABSURD** (`AB`) / **MUTATED** (`MU`) / **UNAUTHORED** (`UA`) / **SCHRÖDINGER** (`SC`) — used
 in the **Fracture Containment Index** segment **HARMLESS** (`HM`) / **BENEFICIAL** (`BE`) / **REVERTED** (`RV`) /
 **ABSENT** (`AS`) / **NULLIFIED** (`NU`) — used in the **Fracture Sub-Threat Index** segment
 
-Under this rule, a designation such as `ANM-AB-HM-0002` is read as **ABSURD** containment, **HARMLESS** sub-threat,
-registry number 0002.
+Under this rule, a designation such as `ANM-AB-HM-0002` is read as
+**ABSURD** containment, **HARMLESS** sub-threat, registry number 0002.
 
 The Fracture Index exists so the Facility does not lie to itself when standard
 categories no longer describe the
@@ -459,14 +459,14 @@ An anomaly is considered an unstable asset if:
 - **Repurposed** = anomaly has been turned into a Facility asset
 
 ### 3.8.5 Inviolable
-**Inviolable** indicates that attempting to change the anomaly’s structure or nature may itself trigger catastrophic
-harm.
+**Inviolable** indicates that attempting to change the anomaly’s
+structure or nature may itself trigger catastrophic harm.
 
 ---
 
 ## 3.9 Anomaly Lifecycle State
-Lifecycle State records the anomaly's current archive and operational condition. It is separate from Containment Class
-and Transformation Viability.
+Lifecycle State records the anomaly's current archive and operational
+condition. It is separate from Containment Class and Transformation Viability.
 
 Recognized lifecycle states are:
 - **PROVISIONAL** — suspected or partially documented, usually during UFD intake.
@@ -510,14 +510,12 @@ Recognized tag families are:
 - **PHYS** — physical danger such as impact, cutting, pressure, temperature, or weaponization.
 - **BIO** — anomalous life, infection, growth, mutation, parasitism, or ecological disruption.
 - **COG** — memory, compulsion, perception, identity, dream, or cognition hazards.
-  **MEM / INFO** — memetic, language, symbol, audio, visual, reading, naming, or information hazards.
-— **TEMP** — loops, time loss, pre-echoes, delay, chronology damage, or predictive contamination. — **SPAT**
-— nonlocal space, thresholds, transit, impossible interiors, distance errors, or spatial instability. **STR**
-— Structural Reality fracture, classification failure, containment-logic failure, observation instability, or
-  archive drift.
-— **COS** — abyssal, divine, world-scale, foundational, cosmic, or origin-level hazards. **SOC
-/ OPR** — recruitment, markets, cover risk, GOI interference, handler risk, asset dependency,
-  or institutional
+  **MEM / INFO** — memetic, language, symbol, audio, visual, reading, naming, or information hazards. — **TEMP**
+  — loops, time loss, pre-echoes, delay, chronology damage, or predictive contamination. — **SPAT** — nonlocal
+  space, thresholds, transit, impossible interiors, distance errors, or spatial instability. **STR** — Structural
+  Reality fracture, classification failure, containment-logic failure, observation instability, or archive drift.
+— **COS** — abyssal, divine, world-scale, foundational, cosmic, or origin-level hazards. **SOC / OPR**
+— recruitment, markets, cover risk, GOI interference, handler risk, asset dependency, or institutional
   exposure.
 
 Hazard tags should be few, evidenced, and operationally useful. The first tag family should name the most urgent

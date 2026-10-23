@@ -90,16 +90,16 @@ material remains, and the rest moves up or down according to its demonstrated ch
 F-3's character was set early in the complex's history, when the site's recovery operations began returning a steady
 flow of object-class material. The floor was developed as the standard response to that
 flow: chamber rows of
-graduated size, holding objects under continuous monitoring, with the disposition classes recorded in the site's
-holding doctrine.
+graduated size, holding objects under continuous monitoring, with
+the disposition classes recorded in the site's holding doctrine.
 
 ### 4.2 The Box System
 
 The floor's holding units — the **Small, Medium, and Large Boxes** that define its
 architecture — developed from the
-site's early standardized containers. The Box system proved durable because it matched the material: most object-class
-anomalies require structure, monitoring, and documentation rather than exotic confinement, and the Box system provides
-those at scale.
+site's early standardized containers. The Box system proved durable because it matched
+the material: most object-class anomalies require structure, monitoring, and
+documentation rather than exotic confinement, and the Box system provides those at scale.
 
 ### 4.3 Modern Configuration
 
@@ -233,9 +233,9 @@ being accessed.
 
 ### 9.2 Chamber Access
 
-Chamber access follows standard holding procedure: authorized personnel, documented handling, and observation
-maintained throughout. Most routine work on F-3 is conducted through the observation architecture rather than through
-physical entry.
+Chamber access follows standard holding procedure: authorized personnel, documented
+handling, and observation maintained throughout. Most routine work on F-3 is
+conducted through the observation architecture rather than through physical entry.
 
 ### 9.3 Transfer Procedures
 
@@ -258,9 +258,9 @@ deep-hold levels below when a resident proves to be more than standard.
 
 ### 10.1 Filing Doctrine
 
-F-3's resident population is large and turnover is constant. The floor's full manifest is preserved in the
-clearance-gated Redwood Veil Annex Register; this dossier confirms the general character of the floor's holdings
-without enumerating them.
+F-3's resident population is large and turnover is constant. The floor's full manifest
+is preserved in the clearance-gated Redwood Veil Annex Register; this dossier confirms
+the general character of the floor's holdings without enumerating them.
 
 ### 10.2 Holding Character
 
@@ -362,8 +362,8 @@ priorities include:
 
 F-3, the Standard Object Chambers, is the working floor of Redwood Veil: the largest
 holding level in the complex,
-where the recovered majority of the site's object population lives in graduated Boxes under continuous monitoring and
-exact documentation.
+where the recovered majority of the site's object population lives in
+graduated Boxes under continuous monitoring and exact documentation.
 
 It is the floor where the complex does most of its containing — not
 the deepest, not the most restricted, but the

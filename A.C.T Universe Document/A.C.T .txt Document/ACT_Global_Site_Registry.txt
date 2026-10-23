@@ -39,7 +39,7 @@ after sustained urban anomaly
 density increase.
 Security Notes: Maintains multiple false civilian infrastructure overlays and layered city-entry cover identities.
 
-------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 2. ACT-SITE-02-RU-N
 Codename: White Grave Station
@@ -62,7 +62,7 @@ Security Notes: Access during deep winter periods is heavily restricted; some tr
 seasonal and
 weather-conditional.
 
-------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 3. ACT-SITE-03-JP-E
 Codename: Kurokawa Archive Node
@@ -82,7 +82,7 @@ History Notes: Expanded from a specialized records-monitoring site into a major 
 hub.
 Security Notes: Any uncontrolled digital leak is treated as a priority containment breach.
 
-------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 4. ACT-SITE-04-BR-C
 Codename: Verde Null Bio-Reserve
@@ -102,7 +102,7 @@ Security Notes: Some anomalies are managed in-place under perimeter doctrine rat
 interior
 vaults.
 
-------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 5. ACT-SITE-05-ID-C
 Codename: Nusantara Deep Relay
@@ -145,7 +145,7 @@ sub-site
 classification.
 Security Notes: Strictly denied long-term holding authority for high-threat anomalies.
 
-------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 7. ACT-SUB-02-RU-N
 Codename: Frost Hollow Depot
@@ -163,7 +163,7 @@ incidents.
 Security Notes: Personnel rotation is tightly controlled due to long-duration cold exposure and isolation
 stress.
 
-------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 8. ACT-SUB-03-JP-E
 Codename: Silent Reed Annex
@@ -180,7 +180,7 @@ Current Status: Active
 History Notes: Created after repeated archive spillover events stressed the main East-region records body.
 Security Notes: No solo review shifts authorized during active memetic contamination cycles.
 
-------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 9. ACT-SUB-04-BR-C
 Codename: Hollow Canopy Enclosure
@@ -198,7 +198,7 @@ anomalies safer
 in native containment fields.
 Security Notes: Transport denial is built into containment doctrine for several housed anomalies.
 
-------------------------------------------------------------
+═══════════════════════════════════════════════════════════════════════
 
 10. ACT-SUB-05-ID-C
 Codename: Ash Tide Watchpoint
@@ -227,9 +227,9 @@ A site is where the impossible has been given an address, a doctrine, and
 a chain of command.
 
 Site Dossier Reference
-Individual full dossiers for each recognized SITE and SUB-SITE — preserving the complete operational, historical,
-architectural, floor-register, personnel, and incident record of every installation — are maintained as separate Site
-Dossier files under:
+Individual full dossiers for each recognized SITE and SUB-SITE — preserving the complete
+operational, historical, architectural, floor-register, personnel, and incident record
+of every installation — are maintained as separate Site Dossier files under:
 
 - Site Dossier collection, Central Archive (authoritative Markdown)
 - Site Dossier collection, plain-text reading copies (plain-text reading copies)
@@ -241,9 +241,9 @@ SUB-SITE-DOSSIER series.
 Floor Dossier Reference
 Individual full dossiers for each numbered floor of the primary SITES and SUB-SITES —
 preserving the complete
-operational, architectural, systems, security, holdings, personnel, and incident record of every level, from the
-deepest numbered floor (F-1) to the surface-adjacent floor (F-N) — are maintained as separate Floor Dossier files
-under:
+operational, architectural, systems, security, holdings, personnel, and incident
+record of every level, from the deepest numbered floor (F-1) to the surface-adjacent
+floor (F-N) — are maintained as separate Floor Dossier files under:
 
 - Floor Dossier collection, Central Archive (authoritative Markdown)
 - Floor Dossier collection, plain-text reading copies (plain-text reading copies)

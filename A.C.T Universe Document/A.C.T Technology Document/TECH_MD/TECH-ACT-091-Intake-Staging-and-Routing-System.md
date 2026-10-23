@@ -53,8 +53,8 @@ and prevents material from moving through the floor without a record.
 ISRS is separate from the Short-Term Holding Vault System. The vault holds. ISRS decides whether holding is allowed,
 where it occurs, and whether the item or person must instead move directly to
 transfer preparation or parent-site
-escalation. The system sits between the surface cover, witness processing, temporary holding cells, archive buffering,
-and the F-1 vault.
+escalation. The system sits between the surface cover, witness processing,
+temporary holding cells, archive buffering, and the F-1 vault.
 
 Approved roles include field arrival receipt, intake logging, threat-limit assessment, witness/object/person
 separation, temporary cell routing, F-1 vault routing, direct transfer preparation, high-threat refusal, parent-site
@@ -181,15 +181,15 @@ intention, and an intention
 cannot be reconciled against a floor position when somebody later asks where the item
 actually went.
 
-On receipt, ISRS staff record source team, arrival time, field condition, provisional threat category, required
-environment, witness relation, medical need, archive attachments, and parent-site instruction. Security confirms
-containment posture and access boundary. Medical reviews living arrivals. Limited Archive opens or attaches the
-temporary file.
+On receipt, ISRS staff record source team, arrival time, field condition, provisional
+threat category, required environment, witness relation, medical need, archive attachments,
+and parent-site instruction. Security confirms containment posture and access boundary.
+Medical reviews living arrivals. Limited Archive opens or attaches the temporary file.
 
-The Processing Officer assigns a route: witness processing, temporary holding cell, F-1 vault, direct transfer
-preparation, archive buffering, or immediate parent-site escalation. If the arrival exceeds relay limits, ISRS must
-refuse local holding and request transfer under maximum procedural restriction. No item or person leaves intake
-staging without a route entry.
+The Processing Officer assigns a route: witness processing, temporary holding cell, F-1 vault,
+direct transfer preparation, archive buffering, or immediate parent-site escalation. If the
+arrival exceeds relay limits, ISRS must refuse local holding and request transfer under
+maximum procedural restriction. No item or person leaves intake staging without a route entry.
 
 ---
 
@@ -203,9 +203,8 @@ staging without a route entry.
 | Monthly | audit routing records for undocumented moves |
 | Quarterly | rehearse a high-threat refusal at the lane |
 
-Board-to-floor reconciliation is the meaningful check here. The board is a claim about where things are, and
-the relay's routing errors have almost always been visible on that comparison before they became visible
-anywhere else.
+Board-to-floor reconciliation is the meaningful check here. The board is a claim about where things are, and the
+relay's routing errors have almost always been visible on that comparison before they became visible anywhere else.
 
 ## FAULT ISOLATION
 

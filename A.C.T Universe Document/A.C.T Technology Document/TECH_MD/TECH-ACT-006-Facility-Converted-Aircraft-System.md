@@ -25,9 +25,9 @@ The Facility Converted Aircraft System is the sixth main A.C.T technology expand
 corrected A.C.T-owned technology numbering. It is already present in the Master Catalog of Operational Assets as Item
 22, in the technological timeline as a 1995 heavy VTOL transport platform, in the
 visual reference guide as a
-lifting-body cargo plane with VTOL turbofans, ARM-emitter nodes, Magnetic RSA-Rails, and a Cargo-Weight Stabilizer,
-and in site dossiers as the long-range transport option for oversized anomalies, high-priority biological material,
-and trans-regional recovery.
+lifting-body cargo plane with VTOL turbofans, ARM-emitter nodes, Magnetic RSA-Rails, and
+a Cargo-Weight Stabilizer, and in site dossiers as the long-range transport option for
+oversized anomalies, high-priority biological material, and trans-regional recovery.
 
 FCA is not a normal cargo aircraft with hidden paint. It is a mobile
 containment bridge. It exists because some
@@ -68,10 +68,8 @@ fragile, or too politically exposed.
 FCA appears in five major roles:
 
 - oversized anomaly transport where RSA-equipped ground containers cannot maintain mass or geometry;
- high-priority biological material movement to and from White Grave, Verde Null, and other specialized
- sites;
- long-range recovery support when field teams must carry containment equipment into remote or unstable
- territory;
+ high-priority biological material movement to and from White Grave, Verde Null, and other specialized sites;
+ long-range recovery support when field teams must carry containment equipment into remote or unstable territory;
 - emergency evacuation of contained material from compromised facilities;
  covert trans-regional logistics where public aviation records, customs, or road routes would create exposure.
 
@@ -267,8 +265,8 @@ FCA-WHITE: emergency stabilization flight; public cover secondary to safe arriva
 FCA-BLACK: aircraft, cargo, route, or record identity unreliable; trust only direct command confirmation.
 ```
 
-FCA-BLACK may involve wrong destination behavior, duplicate flight plans, cargo mass contradiction, or QNB recorder
-disagreement.
+FCA-BLACK may involve wrong destination behavior, duplicate flight
+plans, cargo mass contradiction, or QNB recorder disagreement.
 
 ### Handling Rules
 
@@ -366,10 +364,10 @@ Corrective action centralized FCA manifest scrubber authority and prohibited imp
 
 ### WHITE GRAVE BIOLOGICAL TRANSFER FREEZE
 
-A high-priority trans-regional transfer to White Grave entered FCA-AMBER when biological cargo stabilized to aircraft
-climate rather than destination climate. The sample remained alive, but post-arrival thaw behavior differed from
-pre-flight estimates. Medical and Containment disagreed whether the flight preserved the sample or taught it a new
-environmental expectation.
+A high-priority trans-regional transfer to White Grave entered FCA-AMBER when biological cargo
+stabilized to aircraft climate rather than destination climate. The sample remained alive, but
+post-arrival thaw behavior differed from pre-flight estimates. Medical and Containment
+disagreed whether the flight preserved the sample or taught it a new environmental expectation.
 
 The case remains under review and is used to warn crews that successful arrival
 is not the same as unchanged cargo.
@@ -399,9 +397,9 @@ crash narratives, and public witness suppression if a flight becomes visible.
 
 ### Medical Care and Site Command
 
-Medical Care attaches to living cargo, biological samples, altered civilians, and anomalous patients. Site Command
-must approve departure and receiving conditions. No FCA mission is complete until receiving site custody confirms
-stable arrival.
+Medical Care attaches to living cargo, biological samples, altered civilians, and
+anomalous patients. Site Command must approve departure and receiving conditions.
+No FCA mission is complete until receiving site custody confirms stable arrival.
 
 ---
 
@@ -431,15 +429,14 @@ The FCA system interacts with, but is distinct from:
 - Cryogenic Biological Isolation Units, which may be loaded into FCA-MED or FCA-LIFT missions;
 - Facility ground transport containers, which remain preferred when air movement is unnecessary.
 
-Each system requires its own individual technology record. This file covers only the Facility Converted Aircraft
-System.
+Each system requires its own individual technology record.
+This file covers only the Facility Converted Aircraft System.
 
 ---
 
 ## OPEN ENGINEERING AND INTELLIGENCE QUESTIONS
 
- How much Cargo-Weight Stabilizer use changes landing consequence rather than true mass remains under
- study.
+ How much Cargo-Weight Stabilizer use changes landing consequence rather than true mass remains under study.
  Can hostile GOIs identify FCA routes by tracking impossible weather gaps or boring
  radar
  behavior?

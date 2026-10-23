@@ -70,7 +70,7 @@ LOG ID:              AFD-OB-612/THORNE-05
 AUTHOR:              Aris Thorne (SR-412)
 
 "The 'Nudge' is the most dangerous part of this artifact. It doesn't
-just calm the subject; it makes them *grateful* for the rewrite. It
+just calm the subject; it makes them grateful for the rewrite. It
 replaces their history with a state of biological satisfaction.
 
 I checked the subject's DNA after the trial. He had early-stage

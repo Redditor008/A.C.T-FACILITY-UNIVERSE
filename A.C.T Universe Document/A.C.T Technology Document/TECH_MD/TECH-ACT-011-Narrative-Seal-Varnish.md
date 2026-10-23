@@ -27,9 +27,9 @@ and archival-spite effects. The visual guide describes a pressurized spray canis
 surface-tension gauge, remaining-volume display, estimated narrative half-life readout, a clear ozone-and-old-paper
 liquid, and a matte invisible finish. AFD-OB-142 Book of Hero uses NSV on the
 cover and existing pages to stabilize
-ink and prevent external editing. AFD-IH-721 DONT DENIED uses NSV because describing the object can create dangerous
-certainty, and the experiment dossier records varnish use so that describing the hazard does not spread it beyond
-authorized review.
+ink and prevent external editing. AFD-IH-721 DONT DENIED uses NSV because describing
+the object can create dangerous certainty, and the experiment dossier records varnish
+use so that describing the hazard does not spread it beyond authorized review.
 
 NSV protects a document's presence. It does not make every sentence true. It does
 not turn dangerous writing into safe
@@ -200,8 +200,8 @@ pass.
 
 Step-down: the canister is purged and capped before it leaves the bench. Emergency: a
 batch that dries
-glossy is quarantined and every document treated from that batch is re-inspected, which is what the 2019
-event required.
+glossy is quarantined and every document treated from that
+batch is re-inspected, which is what the 2019 event required.
 
 Before application, the archivist confirms whether the document is passive, self-writing, self-erasing, cognitively
 hazardous, or under active revision. Passive documents may be sealed under Level 3 authority. Active or hazardous
@@ -287,11 +287,11 @@ assembly. Gloss finish is now treated as a possible narrative emphasis fault.
 
 ## DIVISION USE
 
-Archive Division applies NSV to physical records, recovered documents, evidence tags, and selected file covers.
-Info-Hazard Division approves treatment of dangerous descriptions. Engineering maintains canisters and investigates
-nozzle faults. Containment requests NSV when labels, warning cards, or object-bound documents show alteration. Site-03
-maintains sealed storage for treated files. QNB staff decide whether a varnished record also requires buffer
-preservation.
+Archive Division applies NSV to physical records, recovered documents, evidence tags, and selected
+file covers. Info-Hazard Division approves treatment of dangerous descriptions. Engineering
+maintains canisters and investigates nozzle faults. Containment requests NSV when labels, warning
+cards, or object-bound documents show alteration. Site-03 maintains sealed storage for treated
+files. QNB staff decide whether a varnished record also requires buffer preservation.
 
 Standing reminder: a sealed page is not an obedient page. It is only a
 page that must work harder to betray the file.

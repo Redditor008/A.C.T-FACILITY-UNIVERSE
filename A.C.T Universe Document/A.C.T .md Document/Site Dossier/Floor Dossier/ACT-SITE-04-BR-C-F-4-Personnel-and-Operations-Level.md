@@ -23,8 +23,8 @@ numbered level of the built installation of **ACT-SITE-04-BR-C, Verde Null Bio-R
 F-4 is the reserve's internal operational level: the Site Director's command floor, personnel processing, security
 command, and the reserve's internal logistics center. It is the floor from which the
 reserve is governed — the command
-heart of an installation whose operational territory extends across enclosure sectors and wilderness terrain far
-beyond its built campus.
+heart of an installation whose operational territory extends across
+enclosure sectors and wilderness terrain far beyond its built campus.
 
 This dossier records the floor in full institutional language: what it is, how it
 commands, how it is built, and how
@@ -65,14 +65,14 @@ is ecological science in the open.
 
 F-4 lies between the Surface Research Campus of F-5 above and the Laboratory and
 Medical level of F-3 below. It is the
-reserve's operational level, positioned beneath the campus's legitimate face and above its scientific and holding
-floors.
+reserve's operational level, positioned beneath the campus's
+legitimate face and above its scientific and holding floors.
 
 ### 3.2 Relationship to F-5
 
-F-4 commands the surface campus above: the legitimate research laboratories, ecological monitoring stations, personnel
-housing, and administrative buildings of the reserve's public face operate under the operational direction of the
-floors below.
+F-4 commands the surface campus above: the legitimate research laboratories,
+ecological monitoring stations, personnel housing, and administrative buildings of the
+reserve's public face operate under the operational direction of the floors below.
 
 ### 3.3 Relationship to the Enclosure Network
 
@@ -92,8 +92,8 @@ enclosure sectors and wilderness terrain required a built command level from whi
 
 The reserve's command structure was deliberately placed in the built installation beneath the surface
 campus: the
-reserve's operational command is a buried function, separated from the legitimate ecological science conducted in the
-open above.
+reserve's operational command is a buried function, separated from
+the legitimate ecological science conducted in the open above.
 
 ### 4.3 Modern Configuration
 
@@ -126,8 +126,8 @@ chiefs — Research, Environmental Containment, Security, and Medical — and th
 
 ### 6.1 Reserve Command
 
-The reserve's command staff operate from F-4: operations coordination, scheduling, and the administrative machinery of
-the reserve.
+The reserve's command staff operate from F-4: operations coordination,
+scheduling, and the administrative machinery of the reserve.
 
 ### 6.2 Personnel Processing
 
@@ -165,9 +165,9 @@ adjacent to the operations spaces where the reserve's status is watched and its 
 
 ### 7.3 The Security Command Center
 
-The floor's security command center directs the reserve's security operations: the monitoring and response
-architecture for the enclosure sectors, the concealed perimeters, and the built installation is coordinated from this
-space.
+The floor's security command center directs the reserve's security operations:
+the monitoring and response architecture for the enclosure sectors, the
+concealed perimeters, and the built installation is coordinated from this space.
 
 ### 7.4 The Operations Architecture
 
@@ -180,8 +180,8 @@ positioned around the command floor, reflecting the command relationships that g
 
 ### 8.1 Power
 
-F-4 draws on the reserve's main supply with standard backup. The command floor's communications systems are on
-protected circuits.
+F-4 draws on the reserve's main supply with standard backup. The
+command floor's communications systems are on protected circuits.
 
 ### 8.2 Environment
 
@@ -242,8 +242,8 @@ for an installation whose operational territory extends far beyond its built cam
 
 ### 10.3 Holding Character
 
-F-4 holds no residents. Its population is command and operations personnel, and its function is the governance of the
-reserve.
+F-4 holds no residents. Its population is command and operations
+personnel, and its function is the governance of the reserve.
 
 ---
 
@@ -290,9 +290,9 @@ operations level is the boundary between the legitimate campus above and the res
 
 ## 13. Incident Archive
 
-The floor's incident record is dominated by operational and command events: security events, personnel incidents, and
-logistics disruptions. The floor's history is the history of the reserve's command, preserved in the reserve's
-administrative archives.
+The floor's incident record is dominated by operational and command events: security
+events, personnel incidents, and logistics disruptions. The floor's history is the
+history of the reserve's command, preserved in the reserve's administrative archives.
 
 ---
 

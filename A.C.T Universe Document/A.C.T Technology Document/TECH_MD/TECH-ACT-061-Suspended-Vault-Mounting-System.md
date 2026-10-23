@@ -66,14 +66,14 @@ F-1 was not always the Hanging Vault. Redwood Veil's deepest level began as gene
 deep storage before the complex
 was elevated into a regional site and its most difficult holdings were transferred into
 the buried core. As resident
-risk increased, ordinary room containment became insufficient. The site needed vaults that did not share failure
-through a common floor.
+risk increased, ordinary room containment became insufficient. The
+site needed vaults that did not share failure through a common floor.
 
-The hanging arrangement developed from that need. By suspending primary resident vaults in shafts, Engineering and
-Containment reduced shared vibration, improved separation between cells, and made each vault easier to isolate during
-F-1 closure. The architecture also changed staff culture. Personnel working on F-1 do not forget where they are. The
-residents are literally above, within, and around them in suspended masses whose stability must be checked rather than
-assumed.
+The hanging arrangement developed from that need. By suspending primary resident vaults in shafts,
+Engineering and Containment reduced shared vibration, improved separation between cells, and made
+each vault easier to isolate during F-1 closure. The architecture also changed staff culture.
+Personnel working on F-1 do not forget where they are. The residents are literally above, within,
+and around them in suspended masses whose stability must be checked rather than assumed.
 
 ---
 
@@ -173,8 +173,8 @@ Vault inspection, Level 4 with Containment and Engineering.
 
 Step-down: the gallery port is closed and the vibration history is filed against the
 shaft. Emergency: a
-witness line showing movement stops work and the lowering denial lock stays set, because lowering is a
-decision rather than a reflex.
+witness line showing movement stops work and the lowering denial
+lock stays set, because lowering is a decision rather than a reflex.
 
 Before inspection, Containment confirms the resident's restriction set and whether the vault may be approached,
 viewed, named, or mechanically disturbed. Engineering confirms mount load, damper condition, shaft movement,
@@ -186,8 +186,8 @@ loosened, heated, cut, struck, or lubricated without written Engineering authori
 against normal floor activity and resident regimen timing. If a mount reports movement while the vault appears still,
 the reading is treated as real until proven otherwise.
 
-After inspection, the shaft log, mount condition, resident-state note, and any service-route strain are entered into
-the F-1 archive record.
+After inspection, the shaft log, mount condition, resident-state note,
+and any service-route strain are entered into the F-1 archive record.
 
 ---
 

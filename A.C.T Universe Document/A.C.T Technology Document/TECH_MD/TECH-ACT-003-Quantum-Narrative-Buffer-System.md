@@ -68,10 +68,8 @@ Archive that change occurred rather than silently accepting the new version.
 
 QNB appears in five major roles:
 
- central archive hardening for anomaly files, GOI records, technology records, site logs, and command
- minutes;
- floor and site structural hardening, especially F-7 Central Archive and Site 03 Kurokawa Archive
- Node;
+ central archive hardening for anomaly files, GOI records, technology records, site logs, and command minutes;
+ floor and site structural hardening, especially F-7 Central Archive and Site 03 Kurokawa Archive Node;
 — field evidence capture through portable or head-mounted buffers used in unstable locations;
 — recovered-document quarantine for texts that rewrite themselves or their readers' memory of them;
 — restoration review after temporal, causal, narrative, or public-record disturbance.
@@ -95,9 +93,9 @@ agree that nothing had happened.
 
 QNB emerged as A.C.T's answer to that archival weakness. Instead of storing data only
 as ordinary bits, the system
-uses crystal-canister etching to preserve content at a sub-atomic and causal-reference level. Early prototypes were
-unstable, but by 1992 A.C.T deployed central archive buffers sufficient to preserve selected records through
-controlled regression tests.
+uses crystal-canister etching to preserve content at a sub-atomic and causal-reference
+level. Early prototypes were unstable, but by 1992 A.C.T deployed central archive
+buffers sufficient to preserve selected records through controlled regression tests.
 
 ### Custody
 
@@ -106,10 +104,10 @@ are accessioned, which versions are considered legally active, and when a preser
 Engineering controls hardware, canister pressure, etching laser maintenance,
 rack isolation, manual override cranks, and drift-monitor calibration.
 
-Memory Review attaches when QNB records conflict with staff memory, amnestic history, NEMNOLIA-derived treatment, or
-witness continuity. Intelligence attaches when hostile GOIs attempt record alteration. Containment attaches when
-a document is an active hazard. Site Command controls emergency restoration authority during breach or timeline
-disturbance.
+Memory Review attaches when QNB records conflict with staff memory, amnestic history,
+NEMNOLIA-derived treatment, or witness continuity. Intelligence attaches when hostile GOIs
+attempt record alteration. Containment attaches when a document is an active hazard. Site
+Command controls emergency restoration authority during breach or timeline disturbance.
 
 No GOI owns QNB. Several GOIs may possess weaker continuity ledgers, memory banks, or
 ark records with similar goals.
@@ -154,10 +152,10 @@ failed in early trials when the digital environment accepted the rewritten past 
 
 ### Site and Field Variants
 
-Fixed QNB racks serve Central Archive, F-7 archive structures, Site 03 Kurokawa Archive Node, major command archives,
-and selected high-risk document vaults. Kurokawa records are hardened with QNB technology against causal rewrites and
-temporal resets. F-7's QNB-hardened structure is built around the principle that the complex's records must remain the
-records the complex wrote.
+Fixed QNB racks serve Central Archive, F-7 archive structures, Site 03 Kurokawa Archive Node,
+major command archives, and selected high-risk document vaults. Kurokawa records are hardened
+with QNB technology against causal rewrites and temporal resets. F-7's QNB-hardened structure is
+built around the principle that the complex's records must remain the records the complex wrote.
 
 Field variants include portable evidence buffers, head-mounted recording buffers, sealed testimony buffers, and
 temporary document-ingest units. Field QNB can preserve footage or testimony from unstable spaces, but it is weaker
@@ -368,10 +366,10 @@ This incident established that QNB output is evidence requiring judgment, not an
 
 ### KUROKAWA NODE FALSE CLEAN FILE
 
-Site 03 Kurokawa Archive Node later reported QNB-YELLOW after a recovered digital file appeared clean in ordinary
-storage but produced drift when etched. The QNB register preserved three prior titles for the same document, each
-connected to a different reader injury. The current file contained none of those warnings. Archive quarantine
-prevented general release.
+Site 03 Kurokawa Archive Node later reported QNB-YELLOW after a recovered digital file
+appeared clean in ordinary storage but produced drift when etched. The QNB register preserved
+three prior titles for the same document, each connected to a different reader injury. The
+current file contained none of those warnings. Archive quarantine prevented general release.
 
 Corrective action required recovered documents to be compared against QNB title memory before downgrade.
 
@@ -458,9 +456,8 @@ Each system requires its own individual technology record. This file covers only
  anchor,
  and NEMNOLIA-derived
  amnestic treatment overlap?
-— Are [BLANK] crystal canisters finite in supply, reusable, or slowly accumulating narrative fatigue?
-What does QNB-BLACK mean if both current history and preserved history contain matching evidence
- of tampering?
+— Are [BLANK] crystal canisters finite in supply, reusable, or slowly accumulating narrative fatigue? What
+does QNB-BLACK mean if both current history and preserved history contain matching evidence of tampering?
 
 ---
 

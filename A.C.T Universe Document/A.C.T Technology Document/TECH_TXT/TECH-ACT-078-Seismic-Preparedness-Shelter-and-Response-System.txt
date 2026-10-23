@@ -61,9 +61,9 @@ doctrine for tectonic, volcanic, structural, and anomaly-adjacent ground events.
 
 SPSRS is not a simple earthquake alarm. It is a site survival system for
 a facility whose ordinary environment and
-anomalous mandate both involve movement below the ground. It keeps personnel alive, counted, routed, and commanded
-while the relay decides whether an event is ordinary tectonic motion, anomalous deep movement, facility damage, or a
-combined incident.
+anomalous mandate both involve movement below the ground. It keeps personnel alive,
+counted, routed, and commanded while the relay decides whether an event is ordinary
+tectonic motion, anomalous deep movement, facility damage, or a combined incident.
 
 Approved roles include seismic alert response, personnel sheltering, emergency route selection, command continuity
 support, medical staging, evacuation freeze, floor accountability, and post-event status reconciliation.
@@ -201,10 +201,10 @@ movement is more dangerous than
 sheltering. Security confirms access cores. Medical prepares triage stations. Command determines whether the event is
 ordinary geological, site-structural, maritime-linked, or anomaly candidate.
 
-During severe events, SPSRS may freeze nonessential movement while preserving priority paths for Containment,
-Security, Medical, and command response. After motion ceases, floor accountability is reconciled against duty rosters,
-access logs, and movement records. No all-clear is issued until Engineering, Security, and Seismic Analysis each clear
-their part of the event.
+During severe events, SPSRS may freeze nonessential movement while preserving priority paths for
+Containment, Security, Medical, and command response. After motion ceases, floor accountability
+is reconciled against duty rosters, access logs, and movement records. No all-clear is issued
+until Engineering, Security, and Seismic Analysis each clear their part of the event.
 
 SERVICING AND CALIBRATION
 
@@ -284,8 +284,8 @@ Security operates shelter activation and route control. Administration maintains
 stages care and triage. Command decides site posture. Engineering clears structural safety. Seismic Analysis
 determines whether ground movement remains ordinary or requires restricted review.
 
-SPSRS doctrine holds that personnel safety is not separate from containment. A site that cannot protect its watchers
-cannot keep watching.
+SPSRS doctrine holds that personnel safety is not separate from
+containment. A site that cannot protect its watchers cannot keep watching.
 
 CROSS-REFERENCES
 

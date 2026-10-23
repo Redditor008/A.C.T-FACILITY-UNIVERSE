@@ -72,16 +72,16 @@ restricted subjects; coordinating sedative-vapor release; warning staff through 
 before command intervention; and documenting stress profiles after near-breach events.
 
 ORIGIN AND DEPLOYMENT
-AMSD doctrine matured after repeated biological and memetic containment incidents proved that ordinary observation was
-too slow. Early A.C.T staff expected visible distress before removing personnel from a suite. This failed in cases
-where the hazard acted through attraction, loyalty, sudden dread, or the nervous system's preparation for forbidden
-contact.
+AMSD doctrine matured after repeated biological and memetic containment incidents proved that
+ordinary observation was too slow. Early A.C.T staff expected visible distress before
+removing personnel from a suite. This failed in cases where the hazard acted through
+attraction, loyalty, sudden dread, or the nervous system's preparation for forbidden contact.
 
-The Terra's Pulse file remains the clearest public-facing internal example. AFD-SU-952 produces a
-biological-compulsion field in male observers. Staff may experience amatory arousal, existential panic, or the urge to
-test a barrier before conscious refusal catches up. AMSD units provide an external tripwire for that internal
-acceleration. They let the room respond while the person is still becoming dangerous rather than after the person has
-already crossed a line.
+The Terra's Pulse file remains the clearest public-facing internal example. AFD-SU-952 produces
+a biological-compulsion field in male observers. Staff may experience amatory arousal,
+existential panic, or the urge to test a barrier before conscious refusal catches up. AMSD units
+provide an external tripwire for that internal acceleration. They let the room respond while the
+person is still becoming dangerous rather than after the person has already crossed a line.
 
 Current deployment is mandatory in select Subject Care, Biological Containment, and visual-filtered suites. Command
 may also require AMSD wear during interviews with attraction hazards, fear accelerators, predator-recognition
@@ -145,8 +145,8 @@ refills, Vibration latency are not measured here. Those 3 gaps sit in OPEN QUEST
 
 The detector exists because some anomalies need a breach in judgment rather than in
 walls. An affected
-person may walk normally, speak clearly, and claim procedural control, so the wristband record matters more
-than the wearer's own account.
+person may walk normally, speak clearly, and claim procedural control,
+so the wristband record matters more than the wearer's own account.
 
 INTERFACE AND OPERATING ENVELOPE
 
@@ -195,8 +195,7 @@ Containment-suite entry, Level 2 wear with Level 3 calibration.
 
 Step-down: the band comes off outside the active radius and the log buffer is
 filed. Emergency: the
-auto-release pin disables sedative release only, never monitoring, and pulling it for comfort is the 2026
-misuse case.
+auto-release pin disables sedative release only, never monitoring, and pulling it for comfort is the 2026 misuse case.
 
 Before entry, Medical records the wearer's current baseline. The wearer confirms medication use, heart condition,
 known panic disorder, recent amnestic exposure, and assignment role. Security confirms the wristband is linked to the

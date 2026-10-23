@@ -92,11 +92,11 @@ how the lock thinks.
 
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
-A fixed MTR station consists of wall-mounted rings of brushed surgical steel surrounding a target position, locker
-mouth, specimen cradle, or weapon arc. Liquid-helium circulation vents keep the superconducting array within safe
-operating range. Gravity-compensation arms adjust pitch when the subject changes mass or load direction. The control
-console holds manual lockdown levers, the redacted frequency dial, load gauge, field-balance indicators, and an
-emergency dump cover.
+A fixed MTR station consists of wall-mounted rings of brushed surgical steel surrounding a target
+position, locker mouth, specimen cradle, or weapon arc. Liquid-helium circulation vents keep the
+superconducting array within safe operating range. Gravity-compensation arms adjust pitch when
+the subject changes mass or load direction. The control console holds manual lockdown levers, the
+redacted frequency dial, load gauge, field-balance indicators, and an emergency dump cover.
 
 Known components include:
 
@@ -210,8 +210,8 @@ status remain attached to the response decision.
 
 Do not climb inside an inactive ring. Do not store ordinary tools within a
 restraint arc. Do not use MTR as a crane,
-weapon rack, or demonstration magnet. Do not adjust frequency while the subject is learning unless Tactical Review
-gives the order.
+weapon rack, or demonstration magnet. Do not adjust frequency while
+the subject is learning unless Tactical Review gives the order.
 
 ---
 

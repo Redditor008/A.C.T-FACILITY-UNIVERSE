@@ -228,10 +228,10 @@ eighteen-hour figure comes from, and it is the only one.
 
 ### Airway Preservation Case - DATE WITHHELD
 
-In the transformation-care transfer case, Medical Division confirmed that Saint-Vera intervention prevented airway
-failure before ordinary transport could reach secure care. The addendum ordered that stabilizing thread not be removed
-for study. No failure occurred; the entry is filed because it establishes the precedence of stabilization over
-evidence collection.
+In the transformation-care transfer case, Medical Division confirmed that Saint-Vera
+intervention prevented airway failure before ordinary transport could reach secure care. The
+addendum ordered that stabilizing thread not be removed for study. No failure occurred; the
+entry is filed because it establishes the precedence of stabilization over evidence collection.
 
 ## DIVISION USE
 

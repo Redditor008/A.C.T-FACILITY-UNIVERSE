@@ -21,12 +21,12 @@
 | AUTHORITY | Kurokawa Redaction Chief, Archiver Division, and Central Archive |
 
 #### Archive Note
-Memetic Filtering Infrastructure is the fifty-sixth main A.C.T technology expanded into an individual record. The
-Kurokawa F-5 floor dossier identifies memetic filtering infrastructure as the defining technology of the Redaction and
-Controlled-Reading Laboratory. It states that controlled-reading cells use memetic filtering to interrupt or
-discipline the perceptual effects of dangerous documents while trained personnel read under documented protocols. The
-Complete Designation and Class Reference preserves the marker `[MEMETIC FILTER APPLIED]` for text that has been
-processed for safe reading.
+Memetic Filtering Infrastructure is the fifty-sixth main A.C.T technology expanded into an individual
+record. The Kurokawa F-5 floor dossier identifies memetic filtering infrastructure as the defining
+technology of the Redaction and Controlled-Reading Laboratory. It states that controlled-reading
+cells use memetic filtering to interrupt or discipline the perceptual effects of dangerous documents
+while trained personnel read under documented protocols. The Complete Designation and Class Reference
+preserves the marker `[MEMETIC FILTER APPLIED]` for text that has been processed for safe reading.
 
 MFI is not permission to read everything. It is the difference between a reader
 meeting a document and a document
@@ -99,8 +99,8 @@ Known components include:
 - filtered copy output tray;
 - release authorization terminal.
 
-The most important component is the protocol binding reader, document, filter setting, and exposure limit into one
-recorded event.
+The most important component is the protocol binding reader,
+document, filter setting, and exposure limit into one recorded event.
 
 ---
 
@@ -182,11 +182,11 @@ Before reading, the Redaction Chief or delegated authority defines the reading p
 source document, current restriction marker, and intended output. Research or Intelligence may add questions, but they
 do not control the filter settings. Medical Cognitive Care checks reader status and establishes exposure limits.
 
-During reading, the document is revealed in controlled segments. The filter may reduce contrast, break image
-continuity, delay semantic completion, mask hostile glyph order, flatten affective pressure, or require pauses between
-pages. Readers speak observations into a monitored record and do not improvise copying outside the approved output
-path. If the reader reports compulsion, missing time, sudden certainty, emotional overflow, or phrase repetition, the
-session stops.
+During reading, the document is revealed in controlled segments. The filter may reduce contrast,
+break image continuity, delay semantic completion, mask hostile glyph order, flatten affective
+pressure, or require pauses between pages. Readers speak observations into a monitored record
+and do not improvise copying outside the approved output path. If the reader reports compulsion,
+missing time, sudden certainty, emotional overflow, or phrase repetition, the session stops.
 
 After reading, the raw document returns to controlled custody. Filtered output is marked, redaction decisions are
 logged, and the reader undergoes cognitive aftercheck. No filtered document is treated as safe for general release

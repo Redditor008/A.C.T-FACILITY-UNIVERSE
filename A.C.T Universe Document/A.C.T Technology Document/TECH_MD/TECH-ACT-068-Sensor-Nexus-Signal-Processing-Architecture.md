@@ -53,8 +53,8 @@ readings without deleting anomaly behavior. It compares readings against geologi
 and abyss-linked baselines. It routes confirmed output either to ordinary site watch, containment action, research
 review, or restricted abyss-linked record custody.
 
-The architecture is not trusted to decide alone. It gives analysts disciplined structure so that their interpretation
-has a traceable path.
+The architecture is not trusted to decide alone. It gives analysts
+disciplined structure so that their interpretation has a traceable path.
 
 ---
 
@@ -69,8 +69,8 @@ SNSPA was developed to make F-1 a true sensor nexus rather than a basement
 full of instruments. The architecture gave
 the relay a way to bring signals together without flattening them. It preserves origin,
 timing, depth, direction,
-instrument confidence, and human review notes. This prevents one clean display from hiding the messy evidence beneath
-it.
+instrument confidence, and human review notes. This prevents
+one clean display from hiding the messy evidence beneath it.
 
 As F-1 became responsible for abyss-linked records, SNSPA gained restricted routing. Output that correlates with
 deeper A.C.T review standards is not allowed to circulate as ordinary seismic data.
@@ -180,10 +180,10 @@ During normal operation, SNSPA receives live readings and presents them to Seism
 comparison. Analysts classify events as ordinary geology, ordinary maritime activity, site-structure behavior,
 resident-linked activity, equipment fault, anomaly candidate, or restricted abyss-linked candidate.
 
-When a reading escalates, SNSPA freezes the relevant signal window, preserves raw and processed readings, and attaches
-analyst actions. Containment receives only the action-level data required to adjust posture unless the resident file
-demands more. Research receives study access only after routing review. Central Archive receives the preserved record
-according to sensitivity.
+When a reading escalates, SNSPA freezes the relevant signal window, preserves raw and processed
+readings, and attaches analyst actions. Containment receives only the action-level data required
+to adjust posture unless the resident file demands more. Research receives study access only
+after routing review. Central Archive receives the preserved record according to sensitivity.
 
 If F-1 closure is ordered, SNSPA shifts into local continuity mode. It preserves signal
 history inside the floor until
@@ -242,9 +242,9 @@ A deep-earth record once circulated to a normal research list before abyss-linke
 not hostile, but the routing breach created a standing rule: abyss-correlation output is gate-held until reviewed.
 
 ### SNSPA-Closure Continuity Drill
-During an F-1 closure drill, command communication was cut correctly but one analyst console attempted routine
-upstream synchronization. Closure continuity links were hardened after this event so local preservation takes priority
-over transmission.
+During an F-1 closure drill, command communication was cut correctly but one analyst
+console attempted routine upstream synchronization. Closure continuity links were
+hardened after this event so local preservation takes priority over transmission.
 
 ---
 

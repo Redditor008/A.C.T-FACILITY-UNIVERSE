@@ -261,9 +261,9 @@ language that framed her scales as damaged. Subject Care revised procedure to se
 identity judgment. The gel worked better once the room stopped making the patient defend her body.
 
 ### ERG-2024 Separation Tub Incident
-A refrigerated tub sat unused through a power fluctuation. The agitator restarted, but the gel had already separated
-into uneven repair strands. A test smear warmed at different rates. Separation indicator strips became mandatory after
-the incident.
+A refrigerated tub sat unused through a power fluctuation. The agitator restarted,
+but the gel had already separated into uneven repair strands. A test smear warmed at
+different rates. Separation indicator strips became mandatory after the incident.
 
 ### ERG-2025 Grumblesail Negative Utility Review
 ERG was applied to a harmless surface scuff that later proved to be dirt
@@ -276,11 +276,11 @@ healing utility for AFD-SU-012 and should not be used as enrichment without Subj
 
 ## DIVISION USE
 
-Medical controls formulation, storage, and application. Verde Null uses ERG for reptilian and hybrid subject support.
-Herpetology Review advises on scales, shed cycles, humidity, and thermal state. Transformation Review studies quiet
-transmutation tissue behavior without treating subjects as failed reversions. Subject Care ensures that treatment
-language respects the person receiving care. Archive stores application logs as medical records, not material harvest
-notes.
+Medical controls formulation, storage, and application. Verde Null uses ERG for reptilian and
+hybrid subject support. Herpetology Review advises on scales, shed cycles, humidity, and thermal
+state. Transformation Review studies quiet transmutation tissue behavior without treating
+subjects as failed reversions. Subject Care ensures that treatment language respects the person
+receiving care. Archive stores application logs as medical records, not material harvest notes.
 
 Standing reminder: a salve can heal skin and still wound trust if the hand
 applying it is careless.

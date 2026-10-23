@@ -136,8 +136,8 @@ unit, Nitrogen capacity and boil-off are not measured here. Those 3 gaps sit in 
 
 The visible fog is not the containment effect; it is the waste sign of
 a colder argument happening below the
-floor. Engineering describes the intended result as making the crust hesitate long enough for containment
-systems to catch up.
+floor. Engineering describes the intended result as making the
+crust hesitate long enough for containment systems to catch up.
 
 ## INTERFACE AND OPERATING ENVELOPE
 

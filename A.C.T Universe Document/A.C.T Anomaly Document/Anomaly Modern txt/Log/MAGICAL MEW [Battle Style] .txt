@@ -1,7 +1,7 @@
 [00:02][Energetic & Upbeat][Background Chanting] [ドキドキ！あなたが好き好き]
 [00:04][Frantic & Chaotic][Background Chanting] [ビクビク！ミューミューちゃんは混乱！]
-[00:00 - 00:05][Dialog][Ahuhuhu... alright, dearies! This is gonna be a long battle, so why don't you have an
-appetizer, first!?]{SHU SHU}
+[00:00 - 00:05][Dialog][Ahuhuhu... alright, dearies! This is gonna be
+a long battle, so why don't you have an appetizer, first!?]{SHU SHU}
 [00:06][Intense & Passionate] [Lovey-dovey! Make your heart stop!]
 [00:09][Explosively Joyful] [It’s Mew Mew Kissy Cutie Love!]
 
@@ -96,7 +96,7 @@ that I make disappear?][BOTH]
 
 
 
-______________________________________________________________________________________________________________________
+═══════════════════════════════════════════════════════════════════════
 
 NOTED :
 
@@ -384,12 +384,12 @@ interference. Attacks are less likely to
 misfire, movement becomes smoother, and charge attacks become easier to complete.
 
 Weakness:
-The transformation requires synchronization. If Mimi and Shu Shu begin arguing too strongly, the form may destabilize
-and end early.
+The transformation requires synchronization. If Mimi and Shu Shu
+begin arguing too strongly, the form may destabilize and end early.
 
 
 
-______________________________________________________________________________________________________________________
+═══════════════════════════════════════════════════════════════════════
 
 EXTRA NOTED :
 
@@ -471,8 +471,8 @@ Visual traits:
 - Higher chance of bombs, beams, and destructive attacks
 
 Hidden visual:
-The Star-Staff may shine pink or blue. This represents Mimi’s body-primary magic pushing through the staff while Shu
-Shu controls the body.
+The Star-Staff may shine pink or blue. This represents Mimi’s body-primary
+magic pushing through the staff while Shu Shu controls the body.
 
 Meaning:
 Shu Shu has control of the body, but Mimi’s presence still remains inside the
@@ -498,8 +498,8 @@ This state can produce powerful combined attacks such as:
 - MEWTASTICAL TRANSFORM
 - mixed healing/damage effects
 
-BOTH state is powerful because Mimi’s body-magic and Shu Shu’s spirit-magic are working together instead of fighting
-each other.
+BOTH state is powerful because Mimi’s body-magic and Shu Shu’s
+spirit-magic are working together instead of fighting each other.
 
 Synchronization and Clumsiness
 

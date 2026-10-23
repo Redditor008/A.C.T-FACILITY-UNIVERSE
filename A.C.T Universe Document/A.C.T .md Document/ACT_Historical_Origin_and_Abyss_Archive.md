@@ -43,8 +43,8 @@ that did not belong to natural law.
 A.C.T dating note: years written as **15xx** and **16xx** are deliberately approximate. The earliest chronicles
 predate reliable Facility record-keeping and carry no exact dates of their own, and the
 Facility does not assign
-precise years to events its own archives cannot fix. Only internal engineering history — such as the Technology
-Timeline — is dated exactly.
+precise years to events its own archives cannot fix. Only internal
+engineering history — such as the Technology Timeline — is dated exactly.
 
 What later ages would call **Anomalies** first appeared in early human stories as:
 - spirits,
@@ -68,10 +68,10 @@ or divine mystery.
 
 But not all humans were willing to ignore it.
 
-Small circles of scholars, explorers, occult chroniclers, proto-scientists, and forbidden historians began preserving
-accounts of these impossible things. Some attempted to locate them. Some tried to capture them. Some tried to
-understand them. Among the earliest known of these bodies was a primitive pre-Facility organization later remembered
-as:
+Small circles of scholars, explorers, occult chroniclers, proto-scientists, and forbidden
+historians began preserving accounts of these impossible things. Some attempted to locate
+them. Some tried to capture them. Some tried to understand them. Among the earliest known
+of these bodies was a primitive pre-Facility organization later remembered as:
 
 ### **Entity Research Exploration / ERE**
 
@@ -152,8 +152,8 @@ solved.
 
 It could only be **observed, monitored, and left asleep**.
 
-This discovery became the first moment in human history where the founders truly understood that the world did not
-merely contain Entities.
+This discovery became the first moment in human history where the
+founders truly understood that the world did not merely contain Entities.
 
 It contained **Anomalies**.
 
@@ -298,8 +298,8 @@ The earliest known principles of A.C.T were:
 These principles formed the emotional and philosophical core of the pre-modern Facility. Even after the institution
 became more scientific, bureaucratic, and systematized, these first ideas remained at the heart of A.C.T’s identity.
 
-The world survives because some truths remain buried. The world remains stable because some things are never allowed
-to wake.
+The world survives because some truths remain buried. The world
+remains stable because some things are never allowed to wake.
 
 ---
 
@@ -344,8 +344,8 @@ came the first deployment. From that descent came ITHYOS. And from ITHYOS came t
 realization that some things could
 never be captured—only contained, hidden, and kept asleep.
 
-The ABYSS Floor was the first foundation. The first doctrine was mercy through dormancy. And the Facility that grew
-above it became A.C.T.
+The ABYSS Floor was the first foundation. The first doctrine was mercy
+through dormancy. And the Facility that grew above it became A.C.T.
 
 ## Series Position
 
