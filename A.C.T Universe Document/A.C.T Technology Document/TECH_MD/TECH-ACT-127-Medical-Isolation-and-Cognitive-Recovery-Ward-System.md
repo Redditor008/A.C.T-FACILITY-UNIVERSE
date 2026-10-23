@@ -22,15 +22,13 @@
 
 #### Archive Note
 Medical Isolation and Cognitive Recovery Ward System is the one-hundred-twenty-seventh main A.C.T technology expanded
-into an individual record. The Redwood Veil F-6 Medical and Cognitive Care dossier identifies
-F-6 as the Medical
+into an individual record. The Redwood Veil F-6 Medical and Cognitive Care dossier identifies F-6 as the Medical
 Division's primary ward level, providing trauma care, memetic contamination treatment, cognitive recovery, and
 artifact-influence evaluation for personnel. It records clinical wards, memetic contamination treatment suites,
 cognitive recovery center, artifact-influence isolation suites, patient-status confidentiality, exposure-limited
 treatment, and isolation doctrine protecting both patient and complex.
 
-MICRWS exists because Facility personnel are not separate from containment. When people carry hazards
-in their bodies,
+MICRWS exists because Facility personnel are not separate from containment. When people carry hazards in their bodies,
 perception, memory, or behavior, care becomes operational infrastructure.
 
 Controlled label: **MICRWS CARE-WITHOUT-SPREAD WARD**.
@@ -46,20 +44,16 @@ BREACH.
 
 ## FUNCTION OUTLINE
 
-Medical Isolation and Cognitive Recovery Ward System is Redwood Veil's F-6 ward technology for
-personnel affected by
+Medical Isolation and Cognitive Recovery Ward System is Redwood Veil's F-6 ward technology for personnel affected by
 trauma, memetic contamination, cognitive injury, and artifact influence. It combines isolation suites,
 exposure-limited treatment rooms, clinical monitoring, atmospheric separation, patient-status access controls, medical
-record confidentiality, and escalation links to Containment and Security when a patient's condition involves
-active
+record confidentiality, and escalation links to Containment and Security when a patient's condition involves active
 anomalous influence.
 
 MICRWS is not a prison disguised as a hospital. It is a medical system
 built for a facility where staff can become
-carriers, victims, witnesses, partial vectors, or compromised operators through the work they perform. The
-system must
-protect the patient, protect the clinical staff, protect the working population, and still preserve
-the trust
+carriers, victims, witnesses, partial vectors, or compromised operators through the work they perform. The system must
+protect the patient, protect the clinical staff, protect the working population, and still preserve the trust
 necessary for personnel to seek care before symptoms become incidents.
 
 Approved roles include trauma care, memetic contamination treatment, cognitive recovery, artifact-influence
@@ -70,19 +64,15 @@ escalation, confidential record custody, and post-exposure return-to-duty review
 
 ## ORIGIN AND DEVELOPMENT
 
-Redwood Veil's early medical capacity began as an infirmary, but ordinary emergency care could
-not answer what the
-site's work did to personnel. Recovery teams returned with memory gaps. Containment staff developed
-exposure patterns.
-Researchers carried ideas that behaved like symptoms. Security personnel sometimes became unsafe because they
-had done
+Redwood Veil's early medical capacity began as an infirmary, but ordinary emergency care could not answer what the
+site's work did to personnel. Recovery teams returned with memory gaps. Containment staff developed exposure patterns.
+Researchers carried ideas that behaved like symptoms. Security personnel sometimes became unsafe because they had done
 their duty correctly.
 
 F-6 developed as a full ward level when the complex recognized that personnel care
 had to be part of containment
 doctrine. MICRWS formalizes that recognition into a technology of clinical rooms, isolation controls, cognitive
-recovery procedure, and confidentiality rules that allow care to occur without converting patients into
-unrecorded
+recovery procedure, and confidentiality rules that allow care to occur without converting patients into unrecorded
 hazards.
 
 ---
@@ -106,8 +96,7 @@ Known components include:
 - Containment escalation alarm;
 - return-to-duty assessment station.
 
-The isolation suite is engineered to protect both directions: the patient from the complex
-and the complex from
+The isolation suite is engineered to protect both directions: the patient from the complex and the complex from
 whatever may be acting through the patient.
 
 ---
@@ -137,11 +126,9 @@ Return-to-duty refusals are not measured here. Those 3 gaps sit in OPEN QUESTION
 
 The ward treats the person and not the artifact, and that distinction is load-bearing.
 A patient under
-artifact influence is a containment problem wearing a patient's face, so isolation is decided
-by confirmed
+artifact influence is a containment problem wearing a patient's face, so isolation is decided by confirmed
 exposure and raised through the escalation alarm rather than being assumed at admission. The
-exposure-limited channel exists to let clinicians observe without adding to the exposure they are
-treating.
+exposure-limited channel exists to let clinicians observe without adding to the exposure they are treating.
 
 ## INTERFACE AND OPERATING ENVELOPE
 
@@ -188,22 +175,19 @@ confidentiality lock is set before observation begins, not after it.
 
 Step 3 is placed ahead of step 4 deliberately. A ward that observes first
 and protects the record afterwards
-has already put the patient's condition into a channel that Containment and Command both
-read, and
+has already put the patient's condition into a channel that Containment and Command both read, and
 confidentiality restored later is a correction rather than a protection.
 
-Before admission, MICRWS records the triggering event, patient identity, exposure source if known, restriction
-set,
+Before admission, MICRWS records the triggering event, patient identity, exposure source if known, restriction set,
 immediate symptoms, duty floor, required clinical isolation level, Medical personnel roster, and whether Containment
 or Security standby is necessary. Medical authority governs treatment decisions, while resident disposition and
 division assignment remain outside F-6 authority.
 
 During care, treatment is exposure-limited and clinically documented. Patient status, treatment progress, and
 isolation conditions are monitored continuously under confidentiality doctrine. Staff do not demand unnecessary hazard
-detail if the patient's duties are restricted. If anomalous influence becomes active, the suite
-maintains care posture
-while initiating containment escalation. Release from isolation requires both medical evaluation and operational risk
-review.
+detail if the patient's duties are restricted. If anomalous influence becomes active, the suite maintains care posture
+while initiating containment escalation. Release from isolation
+requires both medical evaluation and operational risk review.
 
 ---
 
@@ -217,8 +201,7 @@ review.
 | Quarterly | exercise the escalation alarm with Containment |
 | Annually | re-validate the return-to-duty criteria |
 
-Monthly review compares how long patients stay against how long recovery takes, because the
-failure this
+Monthly review compares how long patients stay against how long recovery takes, because the failure this
 ward is most exposed to is isolation that outlives its clinical justification.
 
 ## FAULT ISOLATION
@@ -233,12 +216,9 @@ ward is most exposed to is isolation that outlives its clinical justification.
 
 ## KNOWN LIMITS
 
-MICRWS depends on trust. If personnel believe medical admission will destroy their standing, they
-may hide symptoms
-until the floor receives an incident instead of a patient. Confidentiality can also conflict
-with operational warning
-when a patient's condition affects duty safety. Isolation protects the complex, but isolation can
-worsen cognitive
+MICRWS depends on trust. If personnel believe medical admission will destroy their standing, they may hide symptoms
+until the floor receives an incident instead of a patient. Confidentiality can also conflict with operational warning
+when a patient's condition affects duty safety. Isolation protects the complex, but isolation can worsen cognitive
 injury if used as punishment rather than care.
 
 Known failure modes include delayed self-reporting, memetic recurrence during treatment, artifact-influence
@@ -251,20 +231,16 @@ operational detail than a patient's restriction set allows.
 ## FAILURE HISTORY
 
 ### MICRWS-Patient-First Correction
-A review of isolation procedure found that artifact-influence patients could be described more like
-contained
-residents than injured personnel. Current doctrine states that the patient remains personnel first unless
-command
+A review of isolation procedure found that artifact-influence patients could be described more like contained
+residents than injured personnel. Current doctrine states that the patient remains personnel first unless command
 formally changes their status.
 
 ### MICRWS-Confidentiality Balance Review
-Medical records once carried unnecessary duty details in order to explain exposure origin. Current
-record handling
+Medical records once carried unnecessary duty details in order to explain exposure origin. Current record handling
 preserves clinical need while limiting restricted operational knowledge.
 
 ### MICRWS-Exposure-Limited Treatment Finding
-Memetic treatment drills showed that clinical observation can repeat exposure if staff document the
-wrong details.
+Memetic treatment drills showed that clinical observation can repeat exposure if staff document the wrong details.
 Current suites record symptoms and response without reproducing hazardous content.
 
 ---

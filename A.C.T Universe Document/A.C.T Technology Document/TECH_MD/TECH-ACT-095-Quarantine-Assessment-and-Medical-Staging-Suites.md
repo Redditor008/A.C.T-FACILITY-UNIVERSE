@@ -21,17 +21,13 @@
 | AUTHORITY | Medical Quarantine Lead, Assessment Officer, Sub-Site Chief, White Grave Site Command, and Central Archive |
 
 #### Archive Note
-Quarantine Assessment and Medical Staging Suites are the ninety-fifth main A.C.T technology expanded into
-an
-individual record. The Frost Hollow Depot dossier defines quarantine as the depot's central protocol:
-every item of
-incoming biological material is held under assessment until its status is confirmed, containment verified,
-and
+Quarantine Assessment and Medical Staging Suites are the ninety-fifth main A.C.T technology expanded into an
+individual record. The Frost Hollow Depot dossier defines quarantine as the depot's central protocol: every item of
+incoming biological material is held under assessment until its status is confirmed, containment verified, and
 transfer authorized. The F-2 floor dossier identifies quarantine chambers, assessment laboratories, and medical
 staging suites as the operational heart of the depot.
 
-QAMSS exists because nothing biological moves toward White Grave unassessed. The depot's cold is
-not enough unless the
+QAMSS exists because nothing biological moves toward White Grave unassessed. The depot's cold is not enough unless the
 material's status is known.
 
 Controlled label: **QAMSS ASSESS-BEFORE-SLEEP**.
@@ -46,18 +42,14 @@ QUARANTINE FIRST, VERIFY STATUS, STAGE ONLY WHAT IS UNDERSTOOD ENOUGH TO MOVE.
 
 ## FUNCTION SUMMARY
 
-The Quarantine Assessment and Medical Staging Suites are the F-2 technology environment where Frost
-Hollow receives,
+The Quarantine Assessment and Medical Staging Suites are the F-2 technology environment where Frost Hollow receives,
 isolates, studies, suppresses, and prepares biological material before it enters interim cryogenic holding or
-transfers to White Grave Station. The system combines intake and quarantine bays, quarantine chambers,
-assessment
-laboratories, medical staging suites, suppression administration, rolling manifest control, and parent-station
-escalation lines.
+transfers to White Grave Station. The system combines intake and quarantine bays, quarantine chambers, assessment
+laboratories, medical staging suites, suppression administration,
+rolling manifest control, and parent-station escalation lines.
 
-QAMSS is not research authority. Its laboratories exist to determine condition, risk, containment status,
-and transfer
-requirements. The depot has no independent research mandate and no transformation work authority. Assessment
-exists so
+QAMSS is not research authority. Its laboratories exist to determine condition, risk, containment status, and transfer
+requirements. The depot has no independent research mandate and no transformation work authority. Assessment exists so
 that White Grave does not receive an unverified biological hazard and so that Frost
 Hollow does not hold material it
 is not permitted to hold.
@@ -70,17 +62,14 @@ and failed-assessment reporting.
 
 ## ORIGIN AND DEVELOPMENT
 
-Frost Hollow was built to absorb seasonal biological pressure, but cold storage alone could
-only delay a problem. The
+Frost Hollow was built to absorb seasonal biological pressure, but cold storage alone could only delay a problem. The
 parent station needed arrivals assessed before transfer. The depot therefore developed F-2 as its
 operational heart: a
 quarantine floor where biological material could be received under controlled conditions, examined without permanent
 study authority, and staged for the next lawful step.
 
-The Assessment Doctrine recorded in the F-2 dossier shaped QAMSS. The floor verifies before
-it routes. Incoming
-material may appear stable because it is cold, sedated, dormant, injured, or pretending. QAMSS
-exists to separate
+The Assessment Doctrine recorded in the F-2 dossier shaped QAMSS. The floor verifies before it routes. Incoming
+material may appear stable because it is cold, sedated, dormant, injured, or pretending. QAMSS exists to separate
 those meanings before the wrong destination is chosen.
 
 ---
@@ -89,8 +78,7 @@ those meanings before the wrong destination is chosen.
 
 A QAMSS installation includes intake and quarantine bays, sealed quarantine chambers, assessment benches, medical
 staging rooms, suppression administration cabinets, biological monitors, contamination barriers, parent-station
-terminals, rolling manifest stations, and Security access controls. The layout allows material to pass
-from surface
+terminals, rolling manifest stations, and Security access controls. The layout allows material to pass from surface
 receiving into assessment, then downward to F-1 or outward to transfer.
 
 Known components include:
@@ -133,12 +121,10 @@ the archive: Chamber count, Median assessment time, False release events. They a
 | Median assessment time | NOT MEASURED |
 | False release events | NOT MEASURED |
 
-Assessment and suppression work against each other. Suppression exists to make a subject quiet
-enough to
+Assessment and suppression work against each other. Suppression exists to make a subject quiet enough to
 hold safely, and the quiet it produces is the same quiet the assessment is
 trying to interpret. The suites
-therefore record suppressed and unsuppressed observations separately, and a release decision may not rest
-on
+therefore record suppressed and unsuppressed observations separately, and a release decision may not rest on
 suppressed data alone.
 
 ## INTERFACE AND OPERATING ENVELOPE
@@ -192,13 +178,11 @@ the suppression, and the archive
 cannot audit the difference afterwards.
 
 Upon arrival, QAMSS staff assign quarantine status, source route, biological condition, suppression requirement,
-exposure concern, and provisional transfer destination. Material is placed in a quarantine chamber or
-assessment bay.
+exposure concern, and provisional transfer destination. Material is placed in a quarantine chamber or assessment bay.
 Medical Quarantine staff monitor stability. Assessment Laboratory staff verify containment needs and biological
 behavior. Security maintains separation between persons, samples, and routes.
 
-Assessment outcomes include release to F-1 interim cryogenic holding, transfer preparation for White Grave,
-continued
+Assessment outcomes include release to F-1 interim cryogenic holding, transfer preparation for White Grave, continued
 quarantine, immediate escalation, or parent-authorized silent removal. No outcome is valid unless the rolling
 manifest, medical assessment, suppression state, and parent-station instruction match.
 
@@ -214,8 +198,7 @@ manifest, medical assessment, suppression state, and parent-station instruction 
 | Monthly | review suppression thresholds with the medical lead |
 | Seasonally | rehearse a failed-assessment isolation |
 
-Chamber integrity checks are not housekeeping at this level. A chamber that leaks compromises
-the assessment
+Chamber integrity checks are not housekeeping at this level. A chamber that leaks compromises the assessment
 as well as the containment, so a failed seal invalidates the observations taken since
 the last verified
 check rather than only those taken after it.
@@ -232,10 +215,8 @@ check rather than only those taken after it.
 
 ## KNOWN LIMITS
 
-QAMSS can verify enough for routing, but it cannot guarantee permanent understanding. Biological material
-can change
-after assessment, hide activity under suppression, react to cold over time, contaminate tools, or
-become more
+QAMSS can verify enough for routing, but it cannot guarantee permanent understanding. Biological material can change
+after assessment, hide activity under suppression, react to cold over time, contaminate tools, or become more
 dangerous when moved. The suites also cannot compensate for staff overconfidence during seasonal surges.
 
 Known failure modes include false quarantine release, wrong suppression dose, incomplete containment verification,
@@ -256,8 +237,7 @@ A simulated dormant organism passed initial cold-response checks but failed beha
 requires containment verification before any material is cleared for F-1 or transfer.
 
 ### QAMSS-Suppression Administration Review
-A medical drill showed that changing suppression during assessment can invalidate the transfer state.
-Current doctrine
+A medical drill showed that changing suppression during assessment can invalidate the transfer state. Current doctrine
 requires suppression changes to be logged against destination and parent-station instruction.
 
 ---

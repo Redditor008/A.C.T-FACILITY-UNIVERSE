@@ -65,9 +65,9 @@ KEEP THE LIGHTS GREY. WHITE LIGHT SHOWS THE WRONG PIER.
 
 FUNCTION SUMMARY
 
-The shelter holds evacuees, keeps a count that survives drift, provides a restricted back room where abnormal triage
-can occur out of public view, and keeps the corridor lighting at a level that does not misdirect people toward
-a pier that is not there.
+The shelter holds evacuees, keeps a count that survives drift, provides a restricted
+back room where abnormal triage can occur out of public view, and keeps the corridor
+lighting at a level that does not misdirect people toward a pier that is not there.
 
 - maintains a count across rooms whose numbers change between readings;
 - provides restricted back rooms for triage with concealed anomalous cause;
@@ -75,9 +75,9 @@ a pier that is not there.
 - keeps families unmerged until faces have been seen twice;
 - keeps hospitals operating during public-cover disasters.
 
-A.C.T operates containment holding, which assumes a stable population and a known cause. A Grey Harbor shelter assumes
-neither. That is why the count is maintained rather than corrected, and why the triage space is restricted rather than
-merely separate.
+A.C.T operates containment holding, which assumes a stable population and a known cause.
+A Grey Harbor shelter assumes neither. That is why the count is maintained rather than
+corrected, and why the triage space is restricted rather than merely separate.
 
 
 ORIGIN AND CUSTODY
@@ -245,9 +245,9 @@ FAULT ISOLATION
 | Shelter closed early       | A.C.T handling breach                     | Reopen count; report                      |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 
-The second row is the fault that would have caused the recorded loss. A downward drift invites correction, and
-correction in these conditions means deciding that people present are not present. The required action is to leave the
-entries alone.
+The second row is the fault that would have caused the recorded loss. A downward
+drift invites correction, and correction in these conditions means deciding that
+people present are not present. The required action is to leave the entries alone.
 
 
 KNOWN LIMITS

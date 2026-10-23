@@ -8,12 +8,9 @@
 | AUTHORITY | Transformation Division, Researcher Division, Medical Care Division, and O5 Review |
 
 #### Archive Note
-This doctrine creates the formal decision body and register language for A.C.T's most dangerous
-institutional act:
-turning anomaly contact into usable systems, materials, procedures, or field assets. It is not
-permission to transform
-more anomalies. It is the rule that makes approval, refusal, revocation, cost, and dissent
-visible.
+This doctrine creates the formal decision body and register language for A.C.T's most dangerous institutional act:
+turning anomaly contact into usable systems, materials, procedures, or field assets. It is not permission to transform
+more anomalies. It is the rule that makes approval, refusal, revocation, cost, and dissent visible.
 
 ---
 
@@ -25,8 +22,7 @@ visible.
 
 ### 4.1 Purpose
 
-A.C.T is named for containment and transformation, but transformation without record is only exploitation
-with better
+A.C.T is named for containment and transformation, but transformation without record is only exploitation with better
 lighting. The Facility must know not only what it can make from an anomaly,
 but who approved the making, who objected,
 what it cost, and what remains wounded afterward.
@@ -36,16 +32,14 @@ This doctrine establishes two linked systems:
 1. the **Transformation Review Board**;
 2. the **Transformed Field Asset Register**.
 
-Together they answer whether an anomaly may become an amnestic, tool, medicine, weapon, warning
-system, site
+Together they answer whether an anomaly may become an amnestic, tool, medicine, weapon, warning system, site
 mechanism, containment aid, archive process, or forbidden study.
 
 ---
 
 ### 4.2 Transformation Review Board
 
-The Transformation Review Board, or TRB, is the decision body that approves, denies, suspends,
-or revokes attempts to
+The Transformation Review Board, or TRB, is the decision body that approves, denies, suspends, or revokes attempts to
 derive operational use from anomalous properties.
 
 Minimum board presence:
@@ -80,8 +74,7 @@ TRB-2026-CORE-001
 TRB-2026-S03-004
 ```
 
-Determinations are not only approvals. Denials and revocations are equally important because they show
-where A.C.T
+Determinations are not only approvals. Denials and revocations are equally important because they show where A.C.T
 refused to become worse for efficiency.
 
 ---
@@ -147,8 +140,7 @@ The Board must ask:
 
 - Does the subject understand the proposed use?
 - Can refusal be meaningful inside containment?
-  Will the proposed asset require ongoing pain, fear, memory loss, obedience, or personality
-  reduction?
+  Will the proposed asset require ongoing pain, fear, memory loss, obedience, or personality reduction?
 - Is A.C.T repeating the harm that created the anomaly?
   Is the subject being called an asset because that word hurts less than
   victim?
@@ -159,8 +151,7 @@ If these cannot be answered, the proposal is denied or suspended.
 
 ### 4.7 Transformed Field Asset Register
 
-The Transformed Field Asset Register records usable outputs derived from anomalies. It is not
-a trophy shelf. It is a
+The Transformed Field Asset Register records usable outputs derived from anomalies. It is not a trophy shelf. It is a
 custody ledger for things A.C.T made possible.
 
 Asset designation format:
@@ -265,8 +256,7 @@ moral shape of its choices.
 
 ### 4.12 Legacy Assets
 
-A.C.T already has legacy transformed systems, most visibly the 004-series amnestic lineage. Older assets
-may predate
+A.C.T already has legacy transformed systems, most visibly the 004-series amnestic lineage. Older assets may predate
 this Board. They must be entered into the register with one of these authority
 tags:
 
@@ -289,8 +279,7 @@ The Board may not approve:
 - transformation that requires sentient agony as fuel;
 - transformation that permanently erases a subject's personhood for convenience;
 - weaponization of survivor trauma;
-  asset production from childlike subjects without O5 emergency seal and Subject Care dissent
-  record;
+  asset production from childlike subjects without O5 emergency seal and Subject Care dissent record;
 - field use without maintenance and recall conditions;
 - secrecy arguments that hide internal harm from the archive;
 - repeating an enemy GOI's abuse under A.C.T vocabulary.

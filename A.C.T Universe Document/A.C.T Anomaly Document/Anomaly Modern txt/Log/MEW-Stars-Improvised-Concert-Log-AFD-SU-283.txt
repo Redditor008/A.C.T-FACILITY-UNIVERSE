@@ -31,8 +31,7 @@ between Mimi and Shu Shu and the anomalous background chanting.
 LOG ID:              AFD-SU-283/TRN-CONCERT-MASTER
 STATUS:              Verified / Absolute Sync
 
-[00:00-00:08][DIALOGUE] "Ahuhuhu... alright, dearies! This is gonna be a long battle, so why don't
-you have an
+[00:00-00:08][DIALOGUE] "Ahuhuhu... alright, dearies! This is gonna be a long battle, so why don't you have an
 appetizer, first!?" [SHU SHU]
 [00:00-00:03][BACKGROUND CHANTING] [ドキドキ！あなたが好き好き]
 [00:04-00:05][BACKGROUND CHANTING] [ビクビク！ミューミューちゃんは混乱！]
@@ -51,8 +50,7 @@ your face!] [BOTH]
 
 [00:24][Heroic & Dramatic] [Who can save us all from doom?] [SHU SHU]
 [00:25][Boastful & Cute] [The cutest in the room? :3] [MIMI]
-[00:26][Awkward Realization] [It’s MEW MEW but I] [SHU SHU] [think she might’ve spoke too
-soon] [BOTH]
+[00:26][Awkward Realization] [It’s MEW MEW but I] [SHU SHU] [think she might’ve spoke too soon] [BOTH]
 
 [00:29][Anxious & Pacing] [I don’t know what to do!] [SHU SHU]
 [00:31][Accusatory yet Fond] [It’s all because of you..!] [MIMI]
@@ -60,8 +58,7 @@ soon] [BOTH]
 
 [00:36][Annoyed & Pouty] [Your tactics are the worst!] [SHU SHU]
 [00:38][Embarrassed Affection] [You’re gonna make me purr~] [MIMI]
-[00:40][Overwhelmed Climax] [Stop flirting with my] [SHU SHU] [BODY OR MY HEART IS GONNA
-BURST!] [start SHU SHU middle
+[00:40][Overwhelmed Climax] [Stop flirting with my] [SHU SHU] [BODY OR MY HEART IS GONNA BURST!] [start SHU SHU middle
 BOTH]
 
 [00:43][Anthem-like Hype] [She’s a MEW MEW girl, and shе’s lighting the way!] [BOTH]
@@ -84,8 +81,7 @@ SHU SHU: "SHUT UP!!!"
 
 [01:17][Playful] [Always in the mood for a chase!] [SHU SHU]
 [01:19][Ambitious Sci-Fi] [She’s gonna blast through outer space!] [MIMI]
-[01:21][Threatening Yandere] [She’s gonna wipe out the WHOLE human race if you don’t-] [SHU
-SHU]
+[01:21][Threatening Yandere] [She’s gonna wipe out the WHOLE human race if you don’t-] [SHU SHU]
 [01:23][Shocked Interruption] [Hey!] [MIMI]
 [01:24][Scolding & Pouty] [Take that back, that’s not nice! >:(] [MIMI]
 [01:26][Dramatic] [You’re incinerating our pride!] [SHU SHU]
@@ -94,8 +90,7 @@ SHU]
 
 [01:31][Genuinely Affectionate] [Cute, I think ur super cute,, :)))] [MIMI]
 [01:32][Embarrassed Panic] [Does this thing have a mute!?!?!?!?] [SHU SHU]
-[01:34][Optimistic & Punny] [You’re purrfect, and I’m PAWsitive that we’ll push through!] [MIMI] [huh]
-[SHU SHU]
+[01:34][Optimistic & Punny] [You’re purrfect, and I’m PAWsitive that we’ll push through!] [MIMI] [huh] [SHU SHU]
 
 [01:36][Sincere & Soft] [My love for you is true! :3] [MIMI]
 [01:37][Vulnerable] [What am I meant to do?] [SHU SHU]
@@ -103,8 +98,7 @@ SHU]
 
 [01:42][Peaceful & Serene] [You make me feel so calm…] [MIMI]
 [01:44][Sudden Violent Aggression] [I’LL MAKE YOU EAT MY BOMBS] [SHU SHU]
-[01:47][Demanding & Frustrated] [Just tell us something vague or else we’ll never get along!]
-[BOTH]
+[01:47][Demanding & Frustrated] [Just tell us something vague or else we’ll never get along!] [BOTH]
 
 [01:52][Dreamy & Sweeping] [Sweet as honey, one of two, you’re who I’m dreaming of..!]
 [SHU SHU]

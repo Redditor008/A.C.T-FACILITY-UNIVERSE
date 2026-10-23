@@ -283,8 +283,8 @@ other cases. Containment enforces isolation and severs any path found on a live 
 
 Civil Covert verifies public infrastructure records where a demolished or unlisted location is involved,
 which is the step that turned one strange call into a confirmed anomaly. Communications
-handles capture, duplication, and transcription. Command authorises escalation and holds the standing
-prohibition on routing.
+handles capture, duplication, and transcription. Command authorises
+escalation and holds the standing prohibition on routing.
 
 
 ---

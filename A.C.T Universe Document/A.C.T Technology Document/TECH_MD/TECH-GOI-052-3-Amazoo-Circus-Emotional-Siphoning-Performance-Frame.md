@@ -229,10 +229,9 @@ the people dismantling it.
 ## KNOWN LIMITS
 
 The frame cannot be confirmed as anomalous. A.C.T does not know whether it was
-mechanical, psychic, memetic, ritual, biological, or purely social until it is paired with a
-specific performer, and the dossier declines to upgrade the Circus to Engineering or Practitioner
-capability on this evidence. What is confirmed is the sequence: isolate, name, expose, command,
-force, harvest, abandon.
+mechanical, psychic, memetic, ritual, biological, or purely social until it is paired with a specific
+performer, and the dossier declines to upgrade the Circus to Engineering or Practitioner capability on
+this evidence. What is confirmed is the sequence: isolate, name, expose, command, force, harvest, abandon.
 
 The frame also cannot be measured, and the prohibition is absolute rather than temporary.
 Because the measurement and the harm are the same act, no instrument, no simulated

@@ -18,8 +18,7 @@ wanted it recorded and because I would rather have it in a note than in a corrid
 
 Two recommendations, neither of which is medical.
 
-Rotate the watch so nobody sits it twice in one week. And tell them the seal is intact, in those
-words, at the start of every shift. It is intact. Saying so costs nothing and it is the thing they
-are actually asking about.
+Rotate the watch so nobody sits it twice in one week. And tell them the seal is intact, in those words, at the
+start of every shift. It is intact. Saying so costs nothing and it is the thing they are actually asking about.
 
 I am not recommending the container be moved and I am not qualified to say whether it should be.

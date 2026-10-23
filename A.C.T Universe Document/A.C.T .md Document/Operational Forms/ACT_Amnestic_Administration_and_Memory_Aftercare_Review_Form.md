@@ -8,8 +8,7 @@
 | AUTHORITY | Medical Care Division, Civil Covert Division, and Central Archive |
 
 #### Archive Note
-This form governs the review, authorization, administration, and aftercare record for amnestic use. It
-exists because
+This form governs the review, authorization, administration, and aftercare record for amnestic use. It exists because
 memory treatment is not a cleanup tool. It is an intervention against a person's
 continuity, and every intervention
 leaves an institutional trace even when the person no longer remembers the reason.
@@ -24,8 +23,7 @@ that habit visible.
 
 ### 1. Use Conditions
 
-Use this form whenever A.C.T considers, approves, denies, administers, withholds, reverses, audits, or follows
-up on
+Use this form whenever A.C.T considers, approves, denies, administers, withholds, reverses, audits, or follows up on
 memory alteration.
 
 Required use cases include:
@@ -107,8 +105,7 @@ Mark all applicable categories.
 [ ] OTHER: ______________________________
 ```
 
-Person category affects safeguards. It does not erase personhood. A.C.T may alter memory under
-authority, but it may
+Person category affects safeguards. It does not erase personhood. A.C.T may alter memory under authority, but it may
 not pretend the altered person has become only a record problem.
 
 ---
@@ -196,8 +193,7 @@ TRANSFORMATION-DERIVED MATERIAL INVOLVED:
 ```
 
 If 004-series material or NEMNOLIA-lineage derivatives are involved, the review must acknowledge transformation
-provenance. A.C.T cannot safely use transformed memory tools while forgetting the anomaly that made
-them possible.
+provenance. A.C.T cannot safely use transformed memory tools while forgetting the anomaly that made them possible.
 
 ---
 
@@ -244,8 +240,7 @@ E-CLASS SAFEGUARD PRESENT:
 GOI-RISK REVIEW PRESENT:
 ```
 
-A.C.T may administer amnestics without consent under restricted authority. The form must record that
-authority
+A.C.T may administer amnestics without consent under restricted authority. The form must record that authority
 plainly. Memory removed under command is not consent retroactively created.
 
 ---

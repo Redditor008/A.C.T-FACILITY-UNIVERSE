@@ -136,8 +136,7 @@ recovered, Wish categories per batch. Each is filed under OPEN QUESTIONS.
 
 The claim and observed effect rows are held side by side deliberately. The narrower
 finding is what A.C.T can defend, and the wider claim is what the consumer
-was sold; collapsing one into the other either overstates the evidence or understates the
-harm.
+was sold; collapsing one into the other either overstates the evidence or understates the harm.
 
 ---
 
@@ -234,8 +233,7 @@ unknown extraction cost and possible dependency.
 It also cannot be standardised. A.C.T has not confirmed dosage, shelf life, batch standard,
 or safe storage condition, so no recovered vial can be compared reliably with another.
 Whether different batches carry different wish categories, whether refused wishes indicate source instability,
-whether expired material changes dreams, and whether dilution produces weaker effects or new ones
-are all unresolved.
+whether expired material changes dreams, and whether dilution produces weaker effects or new ones are all unresolved.
 
 ---
 
@@ -268,10 +266,9 @@ not say where the vial came from.
 ## DIVISION USE
 
 Containment Division holds the material in sleep-isolated storage. Medical Care Division reads clinical
-findings and aftereffect reports. Intelligence Division traces referral routes and scarcity patterns. Recovery
-Division secured the batch. Archive preserves packaging text and refuses reproduction requests. Command
-authorises any consumption study, which is to say that no consumption study is currently
-authorised.
+findings and aftereffect reports. Intelligence Division traces referral routes and scarcity patterns.
+Recovery Division secured the batch. Archive preserves packaging text and refuses reproduction requests.
+Command authorises any consumption study, which is to say that no consumption study is currently authorised.
 
 ---
 

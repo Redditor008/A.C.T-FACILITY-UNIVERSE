@@ -36,29 +36,24 @@
 #### Archive Note
 Keepers of the Ninth Reliquary is the active cultic filing for an outside relic-custody
 faith order that protects,
-tends, feeds, hides, records, and moves anomalous objects according to inherited reliquary law. The
-group is not an
+tends, feeds, hides, records, and moves anomalous objects according to inherited reliquary law. The group is not an
 A.C.T relic desk, not a single temple, not a harmless worship circle, not the
 Crown Office of Ash Keys, and not a
 generic object cult. It qualifies as a Group of Interest because it has organized
 membership, custody rites, reliquary
-rooms, offering schedules, routes, ledgers, leadership titles, trained handlers, and a repeated ability to
-affect
+rooms, offering schedules, routes, ledgers, leadership titles, trained handlers, and a repeated ability to affect
 A.C.T object recovery.
 
 The relationship class is **NEUTRAL**. The Keepers do not exist to help A.C.T, attack
 A.C.T, sell anomalies, or expose
-normalcy. They exist to maintain their relic obligations. Sometimes their care reduces hazard better
-than A.C.T
-storage. Sometimes their refusal to surrender a relic delays containment and endangers responders. A.C.T
-must judge
+normalcy. They exist to maintain their relic obligations. Sometimes their care reduces hazard better than A.C.T
+storage. Sometimes their refusal to surrender a relic delays containment and endangers responders. A.C.T must judge
 the order by handling behavior, not by treating all worship as hostile or all
 tradition as safe.
 
 Active reliquary locations, feeding texts, child-attendant records, and the current Ninth Custodian's identity are
 censored under **NINTH-RELIQUARY DISCLOSURE LIMIT**. Some redactions prevent unauthorized offering attempts. Others
-prevent hostile collectors, markets, or militant groups from locating objects that the Keepers have
-kept dormant for
+prevent hostile collectors, markets, or militant groups from locating objects that the Keepers have kept dormant for
 generations.
 
 ---
@@ -67,19 +62,15 @@ generations.
 
 ### Group Function
 
-Keepers of the Ninth Reliquary functions as a religious custody order for anomalous relics.
-Its repeated activity is
-the classification of certain objects as obligations rather than possessions, followed by tending practices
-meant to
-keep those objects quiet, sealed, nourished, sleeping, ashamed, remembered, or unclaimed. The order refers
-to its
+Keepers of the Ninth Reliquary functions as a religious custody order for anomalous relics. Its repeated activity is
+the classification of certain objects as obligations rather than possessions, followed by tending practices meant to
+keep those objects quiet, sealed, nourished, sleeping, ashamed, remembered, or unclaimed. The order refers to its
 holdings as relics, but A.C.T records show that the term can include bones, lamps,
 bells, cloth, tools, jars, teeth,
 icons, letters, masks, locks, sealed food, ash, and objects that do not correspond to
 any known saint or tradition.
 
-A.C.T tracks the Keepers because anomalous objects are often safest when their handling conditions
-are understood. The
+A.C.T tracks the Keepers because anomalous objects are often safest when their handling conditions are understood. The
 order may know that a bell must hear one apology each winter, that a
 jar must never be placed above a sleeping child,
 that a saint-cloth must not touch iron, or that a relic becomes predatory when
@@ -92,24 +83,18 @@ The order's core phrase is:
 DO NOT OWN WHAT REQUIRES TENDING.
 ```
 
-This line appears on offering cards, reliquary doors, and warning tags recovered from museum-storage
-disputes.
+This line appears on offering cards, reliquary doors, and warning tags recovered from museum-storage disputes.
 
 ### Public Presence and Concealment
 
-The Keepers hide in religious caretaking, shrine maintenance, rural processions, museum volunteer work, family
-chapel
+The Keepers hide in religious caretaking, shrine maintenance, rural processions, museum volunteer work, family chapel
 trusts, funeral offerings, monastery kitchens, heritage storage, private devotion rooms, and old-road charities.
-Civilians may see candles, wrapped objects, covered carts, food left at locked doors, or
-elderly attendants washing a
+Civilians may see candles, wrapped objects, covered carts, food left at locked doors, or elderly attendants washing a
 display case no one is allowed to open.
 
-Public marks include nine small nail holes in a shelf, bone-colored lamp glass, blue-black
-votive thread, wax seals
-stamped **NINTH HELD**, and paper tags reading **NOT FOR OWNERSHIP**. The order avoids spectacle.
-Its best concealment
-is the assumption that careful old people, religious volunteers, and shrine cleaners are not
-strategically
+Public marks include nine small nail holes in a shelf, bone-colored lamp glass, blue-black votive thread, wax seals
+stamped **NINTH HELD**, and paper tags reading **NOT FOR OWNERSHIP**. The order avoids spectacle. Its best concealment
+is the assumption that careful old people, religious volunteers, and shrine cleaners are not strategically
 significant.
 
 ---
@@ -118,18 +103,14 @@ significant.
 
 ### Leadership Condition
 
-The order is led locally by Reliquary Abbots and Lamp-Bearers. Bone Notaries maintain ledgers
-and witness transfers.
-Offering Clerks track feeding schedules. Procession Guards move relics during permitted hours. Shrine Nurses
-tend
-persons injured by contact. The sealed title Ninth Custodian appears in multiple records, but
-A.C.T has not confirmed
+The order is led locally by Reliquary Abbots and Lamp-Bearers. Bone Notaries maintain ledgers and witness transfers.
+Offering Clerks track feeding schedules. Procession Guards move relics during permitted hours. Shrine Nurses tend
+persons injured by contact. The sealed title Ninth Custodian appears in multiple records, but A.C.T has not confirmed
 whether this is one leader, a council, an office attached to the most dangerous
 reliquary, or a position held by the
 relic rather than a human.
 
-No central prophet is confirmed. The Keepers resist personality cult structure. Authority follows custody:
-the person
+No central prophet is confirmed. The Keepers resist personality cult structure. Authority follows custody: the person
 who knows the relic's tending rule may outrank the person with social status during
 handling.
 
@@ -140,8 +121,7 @@ A.C.T assessment identifies these functional layers:
 - reliquary abbots who supervise shrine rooms and approve opening conditions;
 - lamp-bearers who carry bone lamps during object movement and night watches;
 - bone notaries who record custody, offerings, injuries, refusals, and transfer language;
- offering clerks who prepare food, water, smoke, silence, heat, apology, music, or other
- required
+ offering clerks who prepare food, water, smoke, silence, heat, apology, music, or other required
  tending conditions;
 - procession guards who protect movement routes and prevent spectators from touching covered carts;
 - shrine nurses who treat handlers, witnesses, and civilians affected by relic contact;
@@ -155,8 +135,7 @@ This structure makes the Keepers a real GOI rather than an incidental caretaker 
 
 Membership appears to include hereditary shrine families, religious caretakers, museum conservators, old-road guides,
 cooks, nurses, archivists, former collectors who surrendered objects, and families assigned to particular relic
-duties. Some members are devout. Some are practical. Several statements suggest that belief is
-less important than
+duties. Some members are devout. Some are practical. Several statements suggest that belief is less important than
 correct tending.
 
 Recruitment often begins when a person survives a mishandled relic. One recovered invitation reads:
@@ -166,8 +145,7 @@ If the object spared you because you fed it incorrectly but kindly, report to
 the back door after dawn.
 ```
 
-A.C.T has no confirmed evidence that the Keepers intentionally expose civilians to recruit them.
-The order does,
+A.C.T has no confirmed evidence that the Keepers intentionally expose civilians to recruit them. The order does,
 however, protect some families from A.C.T interviews when those families carry inherited tending duties.
 
 ---
@@ -176,10 +154,8 @@ however, protect some families from A.C.T interviews when those families carry i
 
 ### Stated Belief
 
-The Keepers believe certain objects become dangerous when reduced to ownership, display, evidence, or
-tool use. They
-teach that a relic may be sleeping, ashamed, imprisoned, hungry, grieving, unborn, sainted, cursed,
-or merely old in a
+The Keepers believe certain objects become dangerous when reduced to ownership, display, evidence, or tool use. They
+teach that a relic may be sleeping, ashamed, imprisoned, hungry, grieving, unborn, sainted, cursed, or merely old in a
 way humans no longer have language for. The exact theology differs by house. The
 practical rule remains stable: learn
 what the object requires, provide no more than required, and do not claim mastery.
@@ -198,16 +174,13 @@ operational respect.
 
 ### Assessed Objective
 
-A.C.T assesses that the Keepers seek to preserve relic dormancy and proper custody outside
-normal ownership systems.
-They do not generally seek expansion, public conversion, or political power. They seek to
-keep specific objects in
+A.C.T assesses that the Keepers seek to preserve relic dormancy and proper custody outside normal ownership systems.
+They do not generally seek expansion, public conversion, or political power. They seek to keep specific objects in
 correct relationship with handlers, rooms, routes, offerings, and witnesses.
 
 Their objective aligns with A.C.T when a relic remains quiet. It conflicts with A.C.T
 when A.C.T needs to seize,
-relocate, test, neutralize, or classify an object against Keeper instruction. The order will sometimes
-cooperate if
+relocate, test, neutralize, or classify an object against Keeper instruction. The order will sometimes cooperate if
 A.C.T agrees to preserve tending conditions. It will resist if A.C.T treats the object
 as ordinary evidence or
 property.
@@ -232,17 +205,13 @@ through ritual knowledge, repeated practice, environment control, and inherited 
 
 ### Secrecy and Civilian Exposure
 
-The Keepers are **Veiled** because their work is naturally disguised as religious custom, museum
-preservation, rural
-superstition, family offering, or heritage procedure. They do not generally invite public anomaly exposure.
-They
-prefer closed rooms, covered carts, quiet hands, and explanations that sound old enough to
-be dismissed.
+The Keepers are **Veiled** because their work is naturally disguised as religious custom, museum preservation, rural
+superstition, family offering, or heritage procedure. They do not generally invite public anomaly exposure. They
+prefer closed rooms, covered carts, quiet hands, and explanations that sound old enough to be dismissed.
 
 Exposure risk rises when a relic enters a market, museum dispute, estate sale, police
 evidence room, or A.C.T
-transport chain without tending conditions. Civilians may then see why the shrine rules existed.
-The order's secrecy
+transport chain without tending conditions. Civilians may then see why the shrine rules existed. The order's secrecy
 problem is not publicity. It is the fragility of old care when modern systems
 move objects quickly.
 
@@ -253,12 +222,9 @@ move objects quickly.
 ### Operational Regions
 
 The Keepers operate regionally through shrine houses, hidden reliquaries, sealed chapels, museum-adjacent stores,
-rural roads, old family houses, and procession paths. Site 01 frequently attaches when objects
-enter museums, private
-collections, city estates, or market routes. Site 04 attaches when relics affect non-natural biology
-or rural
-caretaker communities. Central Archive attaches when relic ledgers contradict A.C.T object histories or connect
-to
+rural roads, old family houses, and procession paths. Site 01 frequently attaches when objects enter museums, private
+collections, city estates, or market routes. Site 04 attaches when relics affect non-natural biology or rural
+caretaker communities. Central Archive attaches when relic ledgers contradict A.C.T object histories or connect to
 older containment traditions.
 
 The order may have sister customs outside confirmed regions, but A.C.T has not verified
@@ -287,10 +253,8 @@ inventory remains unrecovered.
 
 ### Operating Method
 
-A typical Keeper intervention begins when a relic is mishandled, sold, displayed, inherited, moved,
-or seized. Quiet
-auditors identify the object, compare symptoms with reliquary ledgers, and send a notice or
-messenger. The order then
+A typical Keeper intervention begins when a relic is mishandled, sold, displayed, inherited, moved, or seized. Quiet
+auditors identify the object, compare symptoms with reliquary ledgers, and send a notice or messenger. The order then
 attempts to restore tending conditions: correct room, correct shelf, correct wrapping, correct offering, correct
 silence, correct refusal, or correct route.
 
@@ -312,39 +276,30 @@ A.C.T may use such instructions when risk is immediate, but permanent policy req
 
 ### Contact History
 
-A.C.T first encountered the Keepers as local caretakers obstructing recovery. Field teams reported elderly
-shrine
+A.C.T first encountered the Keepers as local caretakers obstructing recovery. Field teams reported elderly shrine
 attendants, museum volunteers, and rural processions interfering with object seizure. Some incidents ended without
 breach after A.C.T ignored the group. Others worsened after A.C.T ignored the group's instructions.
 
-Formal GOI designation followed the [CENSOR: RELIQUARY NINE TRANSFER] incident. A.C.T Recovery removed a
-covered lamp
+Formal GOI designation followed the [CENSOR: RELIQUARY NINE TRANSFER] incident. A.C.T Recovery removed a covered lamp
 from a private chapel after a suspected market approach. The Keepers requested that the
 lamp remain wrapped, unfed,
-and accompanied by smoke from its original room. Recovery denied the request as superstition.
-During transport, the
-lamp began producing human teeth from its chimney and three agents reported hearing their
-names spoken from inside the
+and accompanied by smoke from its original room. Recovery denied the request as superstition. During transport, the
+lamp began producing human teeth from its chimney and three agents reported hearing their names spoken from inside the
 glass.
 
 A Keeper Lamp-Bearer later arrived with a sealed pot of smoke and a refusal
 stool. After the smoke was released into
-the temporary containment room, the teeth production stopped for twenty-seven hours. The incident created
-current
+the temporary containment room, the teeth production stopped for twenty-seven hours. The incident created current
 cooperation procedures for Keeper-handled relics.
 
 ### Current Relationship
 
-The current relationship is **NEUTRAL**. The Keepers neither serve A.C.T nor seek A.C.T defeat.
-They cooperate when
-A.C.T preserves tending conditions. They resist when A.C.T treats relics as property, trophies, evidence,
-or research
+The current relationship is **NEUTRAL**. The Keepers neither serve A.C.T nor seek A.C.T defeat. They cooperate when
+A.C.T preserves tending conditions. They resist when A.C.T treats relics as property, trophies, evidence, or research
 material without obligations.
 
-A.C.T should expect slow negotiation, refusal language, and partial disclosure. The order rarely explains
-why a rule
-matters until after trust is established. Field teams must record instructions exactly even when
-the rationale is
+A.C.T should expect slow negotiation, refusal language, and partial disclosure. The order rarely explains why a rule
+matters until after trust is established. Field teams must record instructions exactly even when the rationale is
 withheld.
 
 ---
@@ -354,40 +309,30 @@ withheld.
 ### Responsible Jurisdiction
 
 Primary jurisdiction rests with Intelligence Division, Recovery Division, and Central Archive. Civil Covert Division
-attaches when public religious practice, museum access, estate transfer, or local caretaker rights are
-involved.
-Containment attaches when relic activity escalates. Subject Care attaches when handlers, child attendants, or
-families
-are affected by object duty. Site jurisdiction follows the object's current location and hazard
-type.
+attaches when public religious practice, museum access, estate transfer, or local caretaker rights are involved.
+Containment attaches when relic activity escalates. Subject Care attaches when handlers, child attendants, or families
+are affected by object duty. Site jurisdiction follows the object's current location and hazard type.
 
 ### Posture Implementation
 
-A.C.T posture is **MONITOR / COOPERATED / CONTAIN**. Monitoring includes reliquary tags, shrine visits,
-museum
+A.C.T posture is **MONITOR / COOPERATED / CONTAIN**. Monitoring includes reliquary tags, shrine visits, museum
 volunteer lists, offering schedules, processions, covered carts, bone lamps, and object-transfer notices. Cooperation
-is authorized when Keeper practices reduce hazard or supply missing custody information. Containment is
-authorized
+is authorized when Keeper practices reduce hazard or supply missing custody information. Containment is authorized
 when a rite endangers civilians, a relic is active outside secure handling, or the
 order refuses to disclose a danger
 that has moved into public space.
 
-A.C.T personnel must not mock, interrupt, or improvise Keeper rites during active handling. If
-a rite must be stopped,
+A.C.T personnel must not mock, interrupt, or improvise Keeper rites during active handling. If a rite must be stopped,
 record the exact stopped step and reason.
 
 ### Response Limits and Red Lines
 
-A.C.T will not permit the Keepers to sacrifice persons, expose children to hazardous tending,
-hide active relics
-inside occupied homes without review, prevent emergency medical care, or move objects through public
-routes during
+A.C.T will not permit the Keepers to sacrifice persons, expose children to hazardous tending, hide active relics
+inside occupied homes without review, prevent emergency medical care, or move objects through public routes during
 unstable phases. A.C.T will not allow religious custody to override immediate civilian safety.
 
-A.C.T will also not seize Keeper relics for research convenience when existing tending has
-maintained dormancy. If
-removal is necessary, Recovery Division must determine whether offering, room condition, wrapping, route, witness,
-or
+A.C.T will also not seize Keeper relics for research convenience when existing tending has maintained dormancy. If
+removal is necessary, Recovery Division must determine whether offering, room condition, wrapping, route, witness, or
 refusal protocols must travel with the object.
 
 ---
@@ -411,8 +356,7 @@ If it speaks a name, the named person must refuse ownership while seated.
 Do not own what requires tending.
 ```
 
-A.C.T complied after initial transport escalation. Teeth production ceased for twenty-seven hours, and two
-agents
+A.C.T complied after initial transport escalation. Teeth production ceased for twenty-seven hours, and two agents
 reported reduction in name-auditory symptoms. The third agent required memory-aftercare review due to persistent
 belief that the lamp had inherited his childhood surname.
 
@@ -435,8 +379,7 @@ Name: refused by two, held by one.
 Next tending: before second dark.
 ```
 
-The ledger fragment is retained because it records both ritual language and operationally relevant
-sequence data.
+The ledger fragment is retained because it records both ritual language and operationally relevant sequence data.
 
 ---
 
@@ -456,16 +399,13 @@ sequence data.
 
 A.C.T assesses the Keepers as a specialized NEUTRAL cultic GOI. Its strongest value is
 old handling knowledge for
-objects that modern custody misreads. Its strongest risk is refusal to surrender relics or
-explain rules before an
-emergency. The order should not be written as evil worshippers or harmless caretakers. It
-is an organized custodial
+objects that modern custody misreads. Its strongest risk is refusal to surrender relics or explain rules before an
+emergency. The order should not be written as evil worshippers or harmless caretakers. It is an organized custodial
 religion whose rites sometimes work and whose secrecy sometimes endangers people.
 
 The Keepers also create useful contrast with the Crown Office of Ash Keys. The
 Crown Office frames objects through old
-state law and inheritance. The Keepers frame objects through tending, offering, refusal, and sacred
-nonownership. Both
+state law and inheritance. The Keepers frame objects through tending, offering, refusal, and sacred nonownership. Both
 may appear in the same relic dispute, but they are not the same institution.
 
 ### Persistent Questions
@@ -488,10 +428,8 @@ may appear in the same relic dispute, but they are not the same institution.
 
 Moderate. Recovered notices, material outcomes, repeated markings, ledgers, and handler interactions confirm
 organizational reality. Confidence is limited by regional secrecy, missing inventory, partial theological translation,
-and the order's habit of withholding explanation until trust is established. Confidence may rise
-if A.C.T negotiates a
-controlled reliquary audit, interviews a verified Ninth Custodian, or records a full transfer rite
-under safe
+and the order's habit of withholding explanation until trust is established. Confidence may rise if A.C.T negotiates a
+controlled reliquary audit, interviews a verified Ninth Custodian, or records a full transfer rite under safe
 observation.
 
 ---
@@ -502,8 +440,7 @@ observation.
 
 Keepers of the Ninth Reliquary is an organization and therefore belongs in the GOI
 archive. Individual relics, lamps,
-bells, jars, cloths, keys, ledgers, procession carts, offering rooms, or caretaker injuries may require
-separate
+bells, jars, cloths, keys, ledgers, procession carts, offering rooms, or caretaker injuries may require separate
 anomaly, incident, site, object-custody, or recovered-document files. The organization record must not replace
 specific object classification.
 
@@ -514,16 +451,14 @@ specific object classification.
 - GOI-CU-P-061 — The Kindly Molt, Group of Interest Registry
 - GOI-GV-N-058 — Crown Office of Ash Keys, Group of Interest Registry
 - Normalcy Management and Public Narrative Doctrine, Archive Record
- Restricted relic, shrine, offering, procession, museum, caretaker, and object-custody case chains held under
- Central
+ Restricted relic, shrine, offering, procession, museum, caretaker, and object-custody case chains held under Central
  Archive routing.
 
 ### Dual Filing
 
 Under review. The Keepers are a cultic GOI, but active relics and some reliquary
 tools require separate filing. Dual
-filing is mandatory when a Keeper-tended object acts independently, alters ownership or identity, injures
-a handler,
+filing is mandatory when a Keeper-tended object acts independently, alters ownership or identity, injures a handler,
 creates a room condition, requires live offerings, or remains hazardous outside its reliquary context.
 
 ---

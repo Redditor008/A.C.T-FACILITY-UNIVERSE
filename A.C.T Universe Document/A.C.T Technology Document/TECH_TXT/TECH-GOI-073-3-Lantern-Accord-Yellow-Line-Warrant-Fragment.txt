@@ -26,9 +26,8 @@ fragment carries part of a real warrant, so it is genuine material and it reads 
 reader who does not know it is a fragment may treat a partial term as a complete one, and a partial
 term read as complete is worse than no term at all, because it looks settled.
 
-The archive therefore holds the two units separately, each in its own enclosure, so that they
-cannot be laid together and read as one document. Whether they belong to one warrant is unknown and
-is not assumed.
+The archive therefore holds the two units separately, each in its own enclosure, so that they cannot be
+laid together and read as one document. Whether they belong to one warrant is unknown and is not assumed.
 
 YELLOW-LINE FRAGMENT RULE
 
@@ -63,8 +62,7 @@ unrecovered. A held warrant therefore carries wording the archive cannot fully r
 Marked as inference.
 
 The warrant is a refusal record. It exists because ordinary transport was impossible, so it says
-something about why a route was closed to ordinary means and nothing about ordinary Passage
-traffic.
+something about why a route was closed to ordinary means and nothing about ordinary Passage traffic.
 
 The warrant is role-dependent. A Route Reader assesses, a clerk assigns the class, and terms are
 read aloud to the passenger. No A.C.T role corresponds to any of the three, so a warrant held here
@@ -84,12 +82,10 @@ recorded. Handling outside storage requires Level 4. The two units are stored fl
 2.2 What personnel must not do
 ==============================
 
-Personnel must not present a fragment to any carrier, ferry office, border room or passenger.
-Presenting one would assert a passage the Facility has not arranged and bind it to terms nobody
-here has read.
+Personnel must not present a fragment to any carrier, ferry office, border room or passenger. Presenting
+one would assert a passage the Facility has not arranged and bind it to terms nobody here has read.
 
-Personnel must not copy, photograph into a working file, or transcribe a fragment. A copy of a
-warrant is a warrant.
+Personnel must not copy, photograph into a working file, or transcribe a fragment. A copy of a warrant is a warrant.
 
 Where a person presents a white ticket or a warrant fragment to the Facility, the response is to
 record it and refer it to Legal, and to attend the person. A passenger holding Passage paperwork
@@ -121,9 +117,8 @@ OPEN QUESTIONS
 - whether the two fragments belong to one warrant, and how that would be established;
 - what happens to a passenger whose warrant the archive holds.
 
-The last question is live. The archive holds a piece of a document that authorised somebody's
-passage, and the person is not known. Legal has not ruled on whether that carries any obligation
-toward them.
+The last question is live. The archive holds a piece of a document that authorised somebody's passage,
+and the person is not known. Legal has not ruled on whether that carries any obligation toward them.
 
 CROSS-REFERENCES
 ----------------

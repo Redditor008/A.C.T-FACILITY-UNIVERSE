@@ -21,18 +21,14 @@
 | AUTHORITY | Engineering Division, Recovery Division, and Central Archive |
 
 #### Archive Note
-Causal Tethering Cables are the sixteenth main A.C.T technology expanded into an individual record.
-The Master Catalog
-defines them as phase-existent high-tensile lines designed to secure artifacts within unstable or stretched
-spatial
+Causal Tethering Cables are the sixteenth main A.C.T technology expanded into an individual record. The Master Catalog
+defines them as phase-existent high-tensile lines designed to secure artifacts within unstable or stretched spatial
 environments without material failure. The visual guide describes thick iridescent industrial cables five centimeters
 in diameter, wrapped in carbon-fiber reinforcement weave, fitted with oversized connectors, redacted phase locks,
-internal liquid-cooling channels, and digital shunt displays every five meters showing causal tension and
-ontological
+internal liquid-cooling channels, and digital shunt displays every five meters showing causal tension and ontological
 drag.
 
-CTC exists because ordinary cables fail in places where distance, direction, weight, and attachment
-do not agree. A
+CTC exists because ordinary cables fail in places where distance, direction, weight, and attachment do not agree. A
 recovered artifact may be physically near and causally far. A doorway may pull a
 sample toward a place that is not in
 the room. A crate may be light in the hand and impossible to move
@@ -53,24 +49,18 @@ NEVER TRUST A ROPE THAT ONLY EXISTS IN ONE KIND OF SPACE.
 
 ## FUNCTION SUMMARY
 
-Causal Tethering Cables secure anomalous objects, field rigs, personnel lifelines, cargo frames, doorway anchors,
-and
-sample cages in environments where ordinary tension would snap, slacken, loop into the wrong
-distance, or attach to a
+Causal Tethering Cables secure anomalous objects, field rigs, personnel lifelines, cargo frames, doorway anchors, and
+sample cages in environments where ordinary tension would snap, slacken, loop into the wrong distance, or attach to a
 surface that no longer occupies the same causal layer. They are used in stretched
 corridors, unstable thresholds,
-spatial recovery zones, heavy anomaly loading, and Dark World survey support where a team
-must maintain a reliable
+spatial recovery zones, heavy anomaly loading, and Dark World survey support where a team must maintain a reliable
 connection across unreliable geometry.
 
-The cable is phase-existent, meaning the working line occupies enough ordinary space to be
-handled while also
-maintaining a partial hold across the local causal relationship it has been assigned. It
-can restrain a crate against
+The cable is phase-existent, meaning the working line occupies enough ordinary space to be handled while also
+maintaining a partial hold across the local causal relationship it has been assigned. It can restrain a crate against
 drift, keep an operator attached to a known exit, hold a probe at a
 set relationship to an aperture, or prevent a
-recovered object from returning to its preferred place before Causal Anchor Nails, RSA support,
-or FCA loading systems
+recovered object from returning to its preferred place before Causal Anchor Nails, RSA support, or FCA loading systems
 are ready.
 
 Approved roles include:
@@ -86,35 +76,28 @@ Approved roles include:
 
 ## ORIGIN AND CUSTODY
 
-CTC development followed early A.C.T failures with chain, rope, winch cable, and aircraft-grade tow
-lines in places
-where distance behaved improperly. Ordinary materials either broke under causal tension, remained intact while
-losing
+CTC development followed early A.C.T failures with chain, rope, winch cable, and aircraft-grade tow lines in places
+where distance behaved improperly. Ordinary materials either broke under causal tension, remained intact while losing
 connection to the target, or returned from a recovery zone attached to the wrong
 point of origin. Engineering
 eventually combined high-tensile alloy, carbon-fiber reinforcement, phase-lock connectors, and liquid-cooling channels
 into a field line that could carry both physical tension and ontological drag.
 
-Custody belongs to Engineering Division and Recovery Division. Engineering certifies cable batches, phase locks,
-shunt
+Custody belongs to Engineering Division and Recovery Division. Engineering certifies cable batches, phase locks, shunt
 displays, cooling channels, and retirement thresholds. Recovery issues field spools and maintains deployment logs.
-Logistics may move sealed cable drums but cannot certify reuse after high-load events. Site
-Command approves
-stretched-space deployments inside permanent facilities. Dark World Survey maintains specialized kits for threshold
-work.
+Logistics may move sealed cable drums but cannot certify reuse after high-load events. Site Command approves
+stretched-space deployments inside permanent facilities. Dark
+World Survey maintains specialized kits for threshold work.
 
-The phase-lock geometry remains restricted because a hostile group could use stolen calibration rules
-to anchor
+The phase-lock geometry remains restricted because a hostile group could use stolen calibration rules to anchor
 contraband through site boundaries or pull A.C.T equipment out of alignment.
 
 ---
 
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
-A standard CTC line is a five-centimeter iridescent industrial cable with visible carbon-fiber reinforcement
-weave.
-The surface shifts color under stress, usually violet, blue, green, or dull silver. Oversized
-connectors sit at both
+A standard CTC line is a five-centimeter iridescent industrial cable with visible carbon-fiber reinforcement weave.
+The surface shifts color under stress, usually violet, blue, green, or dull silver. Oversized connectors sit at both
 ends and engage with a heavy bolt sound when the phase lock seats. The
 internal liquid-cooling channels prevent the
 alloy from overheating or shattering when causal load rises faster than physical load.
@@ -196,8 +179,7 @@ run instead of sitting only at the ends.
 - Weakest against contradictory anchors and hostile phase shifts.
 - Weakest against objects that change what they are attached to while attached.
 
-Temperature, humidity, and deployed length limits are not recorded in this file. Deployment envelope:
-NOT
+Temperature, humidity, and deployed length limits are not recorded in this file. Deployment envelope: NOT
 MEASURED.
 
 ## OPERATING PROCEDURE
@@ -217,19 +199,15 @@ alone.
 8. Release through the collar and tag the line for post-use review.
 
 Step-down: the collar is released before the connectors are separated, never the reverse. Emergency:
-singing, white flicker, coolant sweat, or negative drag ends the deployment and the team
-withdraws.
+singing, white flicker, coolant sweat, or negative drag ends the deployment and the team withdraws.
 
-Before deployment, the team defines what relationship the cable must preserve: operator to exit,
-artifact to
+Before deployment, the team defines what relationship the cable must preserve: operator to exit, artifact to
 container, probe to threshold, cargo frame to aircraft rail, or sample cage to anchor
 point. The connector is locked
-only after the relationship is named and recorded. The operator confirms shunt display activity
-every five meters,
+only after the relationship is named and recorded. The operator confirms shunt display activity every five meters,
 checks cooling flow, and watches for tension disagreement.
 
-During recovery, personnel avoid standing inside loops or crossing two active cables without Engineering
-approval.
+During recovery, personnel avoid standing inside loops or crossing two active cables without Engineering approval.
 Cables under phase load can tighten through routes ordinary eyes do not see. If
 ontological drag rises while physical
 tension remains low, the line is pulling against a relationship rather than a weight.
@@ -255,8 +233,7 @@ the wrong part of the room.
 | Dark World threshold use | line review before ordinary site use | Level 4 |
 | Cut or damaged line | disposal, never repair | Engineering Division |
 
-No calendar interval is recorded; servicing is triggered by load events and coolant state,
-so interval NOT
+No calendar interval is recorded; servicing is triggered by load events and coolant state, so interval NOT
 MEASURED. Coolant is the consumable. The 2021 return bias is why a spool that
 keeps rolling toward a sealed
 threshold is quarantined rather than reinspected.
@@ -274,18 +251,14 @@ threshold is quarantined rather than reinspected.
 
 ## KNOWN LIMITS
 
-Causal Tethering Cables cannot make an unsafe route safe, cannot restrain an entity with
-no stable relationship to
-local space, and cannot replace full containment. They can be overloaded by contradictory anchors,
-hostile phase
-shifts, thermal stress, meaningful knots, nonlocal pressure, or objects that change what they are
-attached to while
+Causal Tethering Cables cannot make an unsafe route safe, cannot restrain an entity with no stable relationship to
+local space, and cannot replace full containment. They can be overloaded by contradictory anchors, hostile phase
+shifts, thermal stress, meaningful knots, nonlocal pressure, or objects that change what they are attached to while
 attached. A line used in a Dark World threshold may not be safe for
 ordinary site use afterward.
 
 Known failure modes include cooling loss, shunt blackout, phase-lock partial engagement, ontological drag inversion,
-cable memory, anchor theft, false slack, impossible loop formation, and post-use attachment dreams reported
-by
+cable memory, anchor theft, false slack, impossible loop formation, and post-use attachment dreams reported by
 handlers. The cable is retired if it remembers a place more strongly than the
 current anchor.
 
@@ -294,8 +267,7 @@ current anchor.
 ## FAILURE HISTORY
 
 ### CTC-1996 False Slack Incident
-A recovery cable appeared loose while holding a sample crate inside a stretched corridor.
-The shunt display showed
+A recovery cable appeared loose while holding a sample crate inside a stretched corridor. The shunt display showed
 rising ontological drag, but the operator judged by sight and stepped across the line.
 The cable snapped into a route
 only visible on the displays and broke the operator's ankle. Field training now begins
@@ -305,15 +277,12 @@ a load gauge.
 ### CTC-2008 Cooling Channel Steam
 A cable used near an active aperture vented coolant as white steam and briefly
 displayed two contradictory anchor
-names. The object was recovered, but the line was quarantined. Engineering found that the
-cable had carried heat from
+names. The object was recovered, but the line was quarantined. Engineering found that the cable had carried heat from
 a relationship rather than from friction.
 
 ### CTC-2021 Return Bias
-A field spool repeatedly rolled toward a sealed threshold after use despite passing physical
-inspection. The line had
-developed memory of its previous anchor. Materials Custody destroyed the spool under observation and
-added post-use
+A field spool repeatedly rolled toward a sealed threshold after use despite passing physical inspection. The line had
+developed memory of its previous anchor. Materials Custody destroyed the spool under observation and added post-use
 stress memory tags to all high-load cables.
 
 ---
@@ -321,12 +290,9 @@ stress memory tags to all high-load cables.
 ## DIVISION USE
 
 Engineering certifies, repairs, retires, and quarantines CTC equipment. Recovery deploys cables during field
-operations. Containment uses installed tether points for unstable rooms. Logistics carries sealed drums and
-records
-transport conditions. Site Command approves permanent anchor installation. Dark World Survey uses CTC as
-expedition
-lifeline support. Archive stores shunt logs with related recovery files when the data is
-safe to retain.
+operations. Containment uses installed tether points for unstable rooms. Logistics carries sealed drums and records
+transport conditions. Site Command approves permanent anchor installation. Dark World Survey uses CTC as expedition
+lifeline support. Archive stores shunt logs with related recovery files when the data is safe to retain.
 
 Standing reminder: if the cable is the only thing that knows where home is,
 protect the cable more than the cargo.

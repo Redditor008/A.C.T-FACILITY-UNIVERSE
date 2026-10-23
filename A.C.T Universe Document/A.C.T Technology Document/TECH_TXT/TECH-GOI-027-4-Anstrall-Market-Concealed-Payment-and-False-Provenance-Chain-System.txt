@@ -39,10 +39,9 @@ Archive Note
 The settlement and ownership layer lets an anomalous object change hands without leaving a
 traceable record of who sold it, who carried it, or who received it. The
 dossier lists concealed payment and exchange mechanisms and false or incomplete provenance chains among
-the Market's known assets, and records the cycle phases of Exchange and Dispersal: value
-transfers while contact between source, broker, handler, and buyer remains fragmented, after which
-participants separate, records are reduced or rerouted, and the next destination becomes harder to
-reconstruct.
+the Market's known assets, and records the cycle phases of Exchange and Dispersal: value transfers
+while contact between source, broker, handler, and buyer remains fragmented, after which participants
+separate, records are reduced or rerouted, and the next destination becomes harder to reconstruct.
 
 The design property worth recording is that the chain is built to survive the
 loss of any node. No single permanent Market holding is confirmed as the complete
@@ -53,8 +52,7 @@ not reveal the rest.
 That is why this material is unreconstructable rather than merely hidden. A recovered document
 is not a fragment of a chain waiting to be completed; it is a
 link that was engineered to be sufficient on its own and useless in combination,
-and interdiction that treats it otherwise will keep closing transactions without ever closing the
-route.
+and interdiction that treats it otherwise will keep closing transactions without ever closing the route.
 
 Controlled label: ANSTRALL MARKET PROVENANCE-CHAIN COMPLETENESS PROHIBITION.
 
@@ -258,8 +256,7 @@ KNOWN LIMITS
 
 The system fails where fragmentation cannot be maintained: when a payment step requires a
 live meeting, when a provenance document must survive legal scrutiny, or when a buyer
-refuses to pay before delivery. Those are the only windows interdiction reliably gets, and
-they are short.
+refuses to pay before delivery. Those are the only windows interdiction reliably gets, and they are short.
 
 It cannot be completed by accumulation. A.C.T has not reconstructed a complete provenance chain
 from source seller to final holder, and which payment mechanisms are Market-wide practice and

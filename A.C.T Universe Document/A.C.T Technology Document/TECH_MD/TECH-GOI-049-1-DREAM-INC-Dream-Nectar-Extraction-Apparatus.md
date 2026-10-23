@@ -109,8 +109,8 @@ No full schematic is held. The apparatus is assessed to require the following st
 The wish-category logic is the stage whose existence is inferred rather than observed. Internal
 communication directing staff to avoid accepting certain wishes implies that something about a wish
 changes what the machine can safely do, but A.C.T has not confirmed whether recognition
-occurs inside the machine, inside the product, through consumer screening, through the source anomaly,
-or through a combined system.
+occurs inside the machine, inside the product, through consumer
+screening, through the source anomaly, or through a combined system.
 
 ---
 

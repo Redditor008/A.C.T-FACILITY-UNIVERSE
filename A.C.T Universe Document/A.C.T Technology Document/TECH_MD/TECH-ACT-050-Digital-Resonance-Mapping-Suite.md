@@ -21,14 +21,11 @@
 | AUTHORITY | Research Division, Redwood Veil F-5, and Central Archive |
 
 #### Archive Note
-The Digital Resonance Mapping Suite is the fiftieth main A.C.T technology expanded into an
-individual record. The
-Technological Evolution Timeline records Digital Resonance Mapping as the 2026 standard for detecting the
-unique
+The Digital Resonance Mapping Suite is the fiftieth main A.C.T technology expanded into an individual record. The
+Technological Evolution Timeline records Digital Resonance Mapping as the 2026 standard for detecting the unique
 causal pulse of an object before physical contact. The Redwood Veil F-5 floor dossier
 identifies the suite as the
-level's most distinctive instrument and states that F-5 measures an artifact's causal pulse before
-handling, allowing
+level's most distinctive instrument and states that F-5 measures an artifact's causal pulse before handling, allowing
 characterization without exposing personnel to the artifact's direct effects.
 
 DRM is not a scanner that asks what an object looks like. It asks
@@ -47,36 +44,29 @@ MEASURE BEFORE CONTACT. DOCUMENT BEFORE INTERPRETATION. TOUCH ONLY AFTER BOTH.
 
 ## FUNCTION SUMMARY
 
-The Digital Resonance Mapping Suite is a non-contact intake and analysis instrument used to
-measure an object's causal
-pulse before personnel handle it directly. A causal pulse is the repeatable signature by
-which an anomalous object
+The Digital Resonance Mapping Suite is a non-contact intake and analysis instrument used to measure an object's causal
+pulse before personnel handle it directly. A causal pulse is the repeatable signature by which an anomalous object
 asserts identity, persistence, resistance, instability, or relationship to surrounding reality. The suite does not
 replace containment classification. It gives the first safe map that classification can stand on.
 
 Primary uses include artifact intake, pre-handling risk comparison, signature matching, routing decisions,
 Transformation review support, and post-incident analysis. F-5 doctrine treats knowledge as containment. DRM embodies
-that doctrine by reducing the period between recovery and safe characterization, especially when an
-object may punish
+that doctrine by reducing the period between recovery and safe characterization, especially when an object may punish
 touch, observation, proximity, doubt, memory, or procedural error.
 
 The suite is part of Redwood Veil's 2026 intake standard. Objects brought to F-5
 can be placed in instrumented
 chambers where atmospheric, electromagnetic, observational, and data conditions are regulated. Operators collect pulse
-profiles, compare them to archive records, and produce a pre-contact handling advisory before ordinary
-laboratory
+profiles, compare them to archive records, and produce a pre-contact handling advisory before ordinary laboratory
 study begins.
 
 ---
 
 ## ORIGIN AND DEVELOPMENT
 
-Digital Resonance Mapping developed from repeated recognition that a held object can already be
-harming staff before
-the first test begins. Earlier intake practice relied on visual inspection, witness reports, manual
-cataloging,
-material sampling, and containment guesswork. Those methods remain useful, but they are too slow
-against objects whose
+Digital Resonance Mapping developed from repeated recognition that a held object can already be harming staff before
+the first test begins. Earlier intake practice relied on visual inspection, witness reports, manual cataloging,
+material sampling, and containment guesswork. Those methods remain useful, but they are too slow against objects whose
 danger begins with touch or whose behavior changes when handled incorrectly.
 
 The 2026 timeline entry marks the method as the current standard for detecting unique
@@ -95,8 +85,7 @@ already participating in reality before staff disturb it.
 The DRM Suite is a room-scale instrument environment rather than a handheld device. The
 suite contains instrumented
 chambers, isolation architecture, regulated power, data processing offices, observation feeds, and archive-mirrored
-storage. It operates on isolated power with precision regulation because false noise can become
-a false identity
+storage. It operates on isolated power with precision regulation because false noise can become a false identity
 reading.
 
 Known components include:
@@ -143,8 +132,7 @@ Pulse resolution, Baseline noise floor, Scan duration range. Those 3 gaps are ca
 
 The suite's most important component is not a sensor head; it is the isolation
 of the measurement
-environment from the artifact's effects. False noise can become a false identity reading, which
-is why power
+environment from the artifact's effects. False noise can become a false identity reading, which is why power
 is regulated rather than merely stable.
 
 ## INTERFACE AND OPERATING ENVELOPE
@@ -196,27 +184,20 @@ Emergency: a pulse appearing on an inert control cradle voids the scan, which is
 the standing outcome of the
 2026 baseline echo event.
 
-Before a scan, Containment confirms the object's transfer authorization and restriction set. Research confirms
-test
-purpose, chamber conditions, and allowed observation modes. Archive prepares a record shell so that
-data is stored as
+Before a scan, Containment confirms the object's transfer authorization and restriction set. Research confirms test
+purpose, chamber conditions, and allowed observation modes. Archive prepares a record shell so that data is stored as
 evidence rather than informal notes. Medical reviews exposure risk for operators and standby staff.
 
 During a scan, the object is placed into the chamber without direct study beyond
 the approved transfer method.
-Operators establish baseline room behavior, then collect pulse data across controlled environmental states. No
-one
+Operators establish baseline room behavior, then collect pulse data across controlled environmental states. No one
 interprets the result aloud until the first data pass is complete. The suite records
 signature strength, rhythm,
-instability, resistance to measurement, and any environmental response that follows the act of being
-mapped.
+instability, resistance to measurement, and any environmental response that follows the act of being mapped.
 
-Afterward, Research issues a handling advisory. Containment uses it to confirm storage and movement.
-Transformation
-uses it to decide whether the object can be altered, stabilized, neutralized, or integrated.
-Archive preserves raw
-data and interpretation separately so later reviewers can see what the instrument measured and
-what staff believed it
+Afterward, Research issues a handling advisory. Containment uses it to confirm storage and movement. Transformation
+uses it to decide whether the object can be altered, stabilized, neutralized, or integrated. Archive preserves raw
+data and interpretation separately so later reviewers can see what the instrument measured and what staff believed it
 meant.
 
 ---
@@ -234,8 +215,7 @@ meant.
 
 No calendar interval is recorded; the chamber is baselined per scan rather than per
 period, so interval NOT
-MEASURED. There is no consumable. The 2026 drift correction is why matches are reconciled
-against the ledger
+MEASURED. There is no consumable. The 2026 drift correction is why matches are reconciled against the ledger
 instead of accepted on similarity.
 
 ## FAULT ISOLATION
@@ -253,15 +233,12 @@ instead of accepted on similarity.
 
 DRM cannot make an unsafe object safe. It can only reduce ignorance before contact.
 The suite may fail or produce
-incomplete readings when an anomaly hides its pulse, imitates background reality, changes identity under
-observation,
-acts only through human witnesses, or punishes attempts at measurement. Some [BLANK]-class or heavy
-infohazard
+incomplete readings when an anomaly hides its pulse, imitates background reality, changes identity under observation,
+acts only through human witnesses, or punishes attempts at measurement. Some [BLANK]-class or heavy infohazard
 material may be inappropriate for DRM if mapping itself becomes engagement.
 
 Known failure modes include false baseline, pulse echo, operator interpretation bias, archive mismatch, contact
-escalation after scan, data overconfidence, and contamination of the chamber by a prior object.
-A clean reading is
+escalation after scan, data overconfidence, and contamination of the chamber by a prior object. A clean reading is
 permission to proceed carefully, not permission to stop fearing the object.
 
 ---
@@ -271,33 +248,27 @@ permission to proceed carefully, not permission to stop fearing the object.
 ### DRM-2026 Baseline Echo Event
 An inert control cradle produced a weak pulse after a previous artifact scan. The
 cradle was not anomalous; the
-chamber had retained environmental residue. F-5 added empty-chamber baseline checks before and after every
-high-risk
+chamber had retained environmental residue. F-5 added empty-chamber baseline checks before and after every high-risk
 scan.
 
 ### DRM-2026 Advisory Overreach
 A research team treated a stable pulse as proof that direct handling was safe.
 The object did not change during
-measurement but reacted to skin contact. Advisory language now distinguishes measurement stability from handling
-safety.
+measurement but reacted to skin contact. Advisory language
+now distinguishes measurement stability from handling safety.
 
 ### DRM-2026 Archive Drift Correction
-A pulse profile matched an older record closely enough to suggest duplicate identity. Archive
-review found the older
-record had been stored under a narrower sensor standard. F-5 now records instrument generation
-and chamber state with
+A pulse profile matched an older record closely enough to suggest duplicate identity. Archive review found the older
+record had been stored under a narrower sensor standard. F-5 now records instrument generation and chamber state with
 every comparison.
 
 ---
 
 ## DIVISION USE
 
-Research operates the suite and writes the primary analysis. Containment uses the results to
-define handling, storage,
-and transfer posture. Transformation uses pulse behavior to judge whether intervention is possible or
-reckless.
-Archive preserves raw and interpreted data as part of the Facility knowledge estate. Medical
-tracks staff exposure and
+Research operates the suite and writes the primary analysis. Containment uses the results to define handling, storage,
+and transfer posture. Transformation uses pulse behavior to judge whether intervention is possible or reckless.
+Archive preserves raw and interpreted data as part of the Facility knowledge estate. Medical tracks staff exposure and
 watches for delayed effects from objects whose pulse interacts with cognition or biology.
 
 Standing reminder: a mapped anomaly is not a known anomaly. It is only an

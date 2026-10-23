@@ -256,10 +256,9 @@ FAILURE HISTORY
 
 ENGINEERING ROUTE INTERDICTION — MUNDANE COMPONENT CONVERGENCE
 
-In one restricted engineering route interdiction, recovered equipment had been assembled from individually mundane
-components, and several components had no anomalous function until combined under A-GA instruction. The
-interdiction is the origin of the rule that assessment follows the assembly sequence rather
-than the parts list.
+In one restricted engineering route interdiction, recovered equipment had been assembled from individually
+mundane components, and several components had no anomalous function until combined under A-GA instruction. The
+interdiction is the origin of the rule that assessment follows the assembly sequence rather than the parts list.
 
 DEVICE SUCCEEDING IN THE WRONG WAY — STANDING PATTERN
 

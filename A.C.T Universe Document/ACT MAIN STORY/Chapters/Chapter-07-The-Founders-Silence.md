@@ -10,10 +10,8 @@ seals, and redacted command strings. She had expected secrets to look like denia
 she had not expected was how
 often they looked like repetition.
 
-The same signature under different names. The same review language across different decades. The
-same gaps in
-personnel continuity clustered around the same floors, the same support routes, the same sealed
-references to recovery
+The same signature under different names. The same review language across different decades. The same gaps in
+personnel continuity clustered around the same floors, the same support routes, the same sealed references to recovery
 from below.
 
 By the seventh day the pattern had become too deliberate to dismiss as corruption.
@@ -44,8 +42,7 @@ Sera swallowed, slid the strip into her sleeve pocket, and opened the comparison
 
 The first two records were years apart. The first signer had officially died in
 a containment collapse long before the
-second document existed. The second signer belonged to a review authority who, according to
-the official personnel
+second document existed. The second signer belonged to a review authority who, according to the official personnel
 chain, had never worked that archive corridor at all.
 
 But Mila was right.
@@ -54,8 +51,7 @@ The names were lies. The hand beneath them was the same.
 
 The capital turns matched. The pressure points at the end of the line matched.
 The habit of pressing too hard on the
-lower cross-stroke of certain letters matched. Even fatigue showed itself the same way, in
-the slight downward drag at
+lower cross-stroke of certain letters matched. Even fatigue showed itself the same way, in the slight downward drag at
 the ends of repeated notation words.
 
 One person. Three identities. Separated by a timeline that should have made that impossible.
@@ -73,8 +69,7 @@ In every case, the official personnel line said one thing. The hand said another
 Some names belonged to the dead.
 Some belonged to people reassigned before the document date. One belonged to a review
 official whose recorded age
-would have made the signature impossible unless they had begun signing restricted abyss files
-as a child.
+would have made the signature impossible unless they had begun signing restricted abyss files as a child.
 
 None of it could survive direct submission through ordinary channels.
 
@@ -88,8 +83,7 @@ So instead she did what the archive had taught her.
 
 She built the truth sideways.
 
-A hidden comparison ledger. Cross-indexed stroke notes. Signature geometry stripped of names. Date-line overlays
-built
+A hidden comparison ledger. Cross-indexed stroke notes. Signature geometry stripped of names. Date-line overlays built
 from dead records and surviving maintenance references. No one proof by itself. Only a
 pattern too coherent to remain
 accidental once seen whole.
@@ -108,8 +102,7 @@ full.
 
 **The founders erased themselves.**
 
-Not metaphorically. Not in the ordinary historical sense where institutions smooth out inconvenient people
-and leave
+Not metaphorically. Not in the ordinary historical sense where institutions smooth out inconvenient people and leave
 behind only titles.
 
 Literally.
@@ -122,10 +115,8 @@ trying to break through her throat.
 
 If the same hands moved beneath different names across impossible spans of time, then
 one of two things had happened.
-Either the archive had fabricated continuity to preserve command structure, or the people who
-became the O5 had
-severed themselves from their own stable identity lines and allowed later records to rebuild
-them under safer forms.
+Either the archive had fabricated continuity to preserve command structure, or the people who became the O5 had
+severed themselves from their own stable identity lines and allowed later records to rebuild them under safer forms.
 
 Neither possibility was survivable in plain language.
 
@@ -133,8 +124,7 @@ She took the long way to Medical that evening.
 
 Tavian found her before she had decided what to ask.
 
-He was leaning against the corridor rail outside the sealed records room, reading something
-too intently for it to be
+He was leaning against the corridor rail outside the sealed records room, reading something too intently for it to be
 real reading. He looked up when he heard her footsteps and, for the first
 time since they had begun circling the same
 wound together, he looked tired enough not to hide it.
@@ -192,8 +182,7 @@ A flicker. Small, involuntary, and devastating.
 
 She pushed forward before caution could stop her.
 
-“They reached the abyss, learned something intolerable, and used primitive forms of the 004
-compounds to remove it.
+“They reached the abyss, learned something intolerable, and used primitive forms of the 004 compounds to remove it.
 Maybe not all of it. Maybe not cleanly. But enough to destroy continuity. Enough
 that the archive had to rebuild them
 under safer names.”
@@ -310,8 +299,7 @@ When she encrypted the file, her hands were steady again.
 
 That frightened her more than the discovery itself.
 
-Because steadiness meant adaptation. And adaptation was how people began to survive impossible truths
-long enough to
+Because steadiness meant adaptation. And adaptation was how people began to survive impossible truths long enough to
 become part of the machinery that hid them.
 
 Before sleep, she stood at the narrow window slit in her quarters. It showed
@@ -319,20 +307,16 @@ nothing except a black reinforced shaft
 wall and the reflected outline of her own face in the glass. Yet tonight
 even that felt untrustworthy.
 
-Somewhere below, the sleeping foundation remained asleep. Somewhere in sealed chambers, the bloom still
-fed the
-compounds that let the Facility shape memory. And somewhere in the oldest wounded layers
-of the archive, the first
-architects of A.C.T had already decided that self-amputation was preferable to carrying the abyss
-upward in thought.
+Somewhere below, the sleeping foundation remained asleep. Somewhere in sealed chambers, the bloom still fed the
+compounds that let the Facility shape memory. And somewhere in the oldest wounded layers of the archive, the first
+architects of A.C.T had already decided that self-amputation was preferable to carrying the abyss upward in thought.
 
 Sera touched the cold glass once, as if testing whether reflection itself could still
 be trusted.
 
 Then she turned out the light and lay awake in darkness, thinking not of
 the world above, but of the founders
-below—those first impossible survivors who had chosen to forget themselves so the institution after
-them could go on
+below—those first impossible survivors who had chosen to forget themselves so the institution after them could go on
 remembering just little enough to function.
 
 Their silence, she understood now, was not an absence.

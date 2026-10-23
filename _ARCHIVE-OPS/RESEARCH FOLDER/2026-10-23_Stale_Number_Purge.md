@@ -9,10 +9,9 @@
 
 ## Why this record exists
 
-Two figures quoted in nearly every report for many batches turned out to be false. `TECH_MD` was
-reported at 231 files and 229 records; it measures 244 and 242. The GOI alignment letters were
-reported as an open discrepancy against the root README; the README already lists all seven and
-there was never a conflict.
+Two figures quoted in nearly every report for many batches turned out to be false. `TECH_MD` was reported
+at 231 files and 229 records; it measures 244 and 242. The GOI alignment letters were reported as an open
+discrepancy against the root README; the README already lists all seven and there was never a conflict.
 
 Neither error came from a bad measurement. Both came from a good measurement that was carried
 forward through later batches and never re-run while the corpus changed underneath it. The purge
@@ -70,10 +69,9 @@ count is unaffected, which confirms the long lines were an `.md`-only defect.
 ## What the 80 remaining wide `.md` lines are
 
 Not prose. Seventy-nine sit in `TECH_MD/README.md` and one in `GOI_MD/README.md`. Every one is a
-markdown link to a technology record whose filename is long enough that the link target alone
-exceeds the limit. A link target is an atomic token and cannot be broken across lines without
-breaking the link. These stay as they are and are recorded here so they are not re-found as a
-defect.
+markdown link to a technology record whose filename is long enough that the link target alone exceeds
+the limit. A link target is an atomic token and cannot be broken across lines without breaking the
+link. These stay as they are and are recorded here so they are not re-found as a defect.
 
 ## Standing rule from this purge
 

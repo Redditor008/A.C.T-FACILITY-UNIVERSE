@@ -21,15 +21,12 @@
 | AUTHORITY | Medical Division, Cognitive Care, and Central Archive |
 
 #### Archive Note
-Memetic Contamination Treatment Suites are the sixty-third main A.C.T technology expanded into an individual
-record.
-Redwood Veil's F-6 floor dossier identifies Medical and Cognitive Care as the level responsible
-for trauma care,
+Memetic Contamination Treatment Suites are the sixty-third main A.C.T technology expanded into an individual record.
+Redwood Veil's F-6 floor dossier identifies Medical and Cognitive Care as the level responsible for trauma care,
 memetic contamination treatment, cognitive recovery, and artifact-influence evaluation. It describes the memetic
-treatment suites as controlled environments engineered for work with material that acts on the
-mind, using
-exposure-limited treatment protocols and observation architecture that documents treatment without compounding
-exposure.
+treatment suites as controlled environments engineered for work with material that acts on the mind, using
+exposure-limited treatment protocols and observation architecture
+that documents treatment without compounding exposure.
 
 MCTS is not a reading cell and not an amnestic chair. It is where
 A.C.T treats the wound left by meaning after meaning
@@ -49,17 +46,13 @@ TREAT THE MEME WITHOUT MAKING TREATMENT INTO A SECOND EXPOSURE.
 
 Memetic Contamination Treatment Suites are clinical environments used to treat personnel exposed to
 perception-sensitive material, hostile phrases, dangerous symbols, cognitively adhesive documents, artifact influence,
-or other mind-acting effects. Their function is to provide care while controlling further exposure.
-The suite must
-allow clinicians to observe, question, stabilize, and document the patient without repeating the harmful
-stimulus or
+or other mind-acting effects. Their function is to provide care while controlling further exposure. The suite must
+allow clinicians to observe, question, stabilize, and document the patient without repeating the harmful stimulus or
 spreading it through staff, records, equipment, or later review.
 
 MCTS supports trauma care, cognitive recovery, duty assessment, medical confidentiality, and containment learning. It
-differs from Memetic Filtering Infrastructure because MFI controls dangerous documents during reading. MCTS treats
-a
-person after exposure has already occurred. It differs from Artifact-Influence Isolation Suites because AIIS
-isolates
+differs from Memetic Filtering Infrastructure because MFI controls dangerous documents during reading. MCTS treats a
+person after exposure has already occurred. It differs from Artifact-Influence Isolation Suites because AIIS isolates
 a patient whose influence status may be active, while MCTS focuses on treatment of
 cognitive contamination and memetic
 injury. The systems may overlap during severe cases.
@@ -72,16 +65,12 @@ containment-linked mental effects.
 
 ## ORIGIN AND DEVELOPMENT
 
-F-6 developed as Redwood Veil's recognition that anomalous work harms personnel in both body
-and mind. Its
-cognitive-care mandate formed when the complex's holdings came to include material that acts on
-thought, perception,
-memory, or speech. Ordinary medical rooms could treat burns, fractures, and shock. They could
-not safely treat a
+F-6 developed as Redwood Veil's recognition that anomalous work harms personnel in both body and mind. Its
+cognitive-care mandate formed when the complex's holdings came to include material that acts on thought, perception,
+memory, or speech. Ordinary medical rooms could treat burns, fractures, and shock. They could not safely treat a
 phrase that grows stronger when repeated or a symbol that re-infects through clinical notes.
 
-The memetic treatment suites were built to answer that gap. They provide controlled environments,
-exposure-limited
+The memetic treatment suites were built to answer that gap. They provide controlled environments, exposure-limited
 treatment protocols, and observation architecture that records care without compounding exposure. The design follows
 F-6 doctrine: personnel are part of the containment system, and the system fails if
 its people are not cared for.
@@ -139,8 +128,7 @@ the archive: Treatment course length, Stimulus floor, Recovery success measure. 
 | Stimulus floor | NOT MEASURED |
 | Recovery success measure | NOT MEASURED |
 
-The note terminal is restricted because careless description can become transmission. The suite exists
-so
+The note terminal is restricted because careless description can become transmission. The suite exists so
 clinicians can observe, question, stabilise, and document without repeating the harmful stimulus or
 spreading it through staff, records, or equipment.
 
@@ -189,28 +177,21 @@ Memetic treatment, Medical authorization with Cognitive Care.
 
 Step-down: the bay returns to minimal stimulus, waste and notes leave through the sealed
 path, and duty
-review follows treatment rather than replacing it. Emergency: a phrase repetition alarm pauses the
-interview
+review follows treatment rather than replacing it. Emergency: a phrase repetition alarm pauses the interview
 and the guide is reset, because repeating the stimulus is how treatment becomes transmission.
 
-Before treatment, Medical receives an exposure report and determines whether the case belongs in
-MCTS, AIIS, ordinary
-ward care, or containment escalation. Staff identify known trigger words, images, gestures, sounds, or
-memories. If
+Before treatment, Medical receives an exposure report and determines whether the case belongs in MCTS, AIIS, ordinary
+ward care, or containment escalation. Staff identify known trigger words, images, gestures, sounds, or memories. If
 the contaminant is unknown, the room is set to minimal-stimulus default and the patient
 is not asked to reproduce the
 hazardous content.
 
 During treatment, clinicians monitor speech, memory continuity, emotional state, compulsion, headache pattern, visual
-fixation, and whether the patient tries to complete or repeat an unsafe phrase. Questions
-are structured to gather
-necessary clinical data without forcing re-exposure. If recall is required, it is performed in
-fragments and stopped
-when the patient's condition worsens. Amnestic review is not automatic; memory treatment must be
-medically justified.
+fixation, and whether the patient tries to complete or repeat an unsafe phrase. Questions are structured to gather
+necessary clinical data without forcing re-exposure. If recall is required, it is performed in fragments and stopped
+when the patient's condition worsens. Amnestic review is not automatic; memory treatment must be medically justified.
 
-After treatment, the patient receives a duty recommendation, follow-up schedule, and exposure warning. Clinical
-notes
+After treatment, the patient receives a duty recommendation, follow-up schedule, and exposure warning. Clinical notes
 are filtered for safe circulation and preserved under confidentiality doctrine.
 
 ---
@@ -228,8 +209,7 @@ are filtered for safe circulation and preserved under confidentiality doctrine.
 
 No calendar interval is recorded; the bay is reset per admission, so interval NOT
 MEASURED. Disposal stock
-is the consumable. The note transmission review is why clinical detail is separated from
-wider medical
+is the consumable. The note transmission review is why clinical detail is separated from wider medical
 circulation.
 
 ## FAULT ISOLATION
@@ -245,16 +225,14 @@ circulation.
 
 ## KNOWN LIMITS
 
-MCTS cannot guarantee full removal of a memetic effect. Some exposures remain dormant, return
-under stress, or attach
+MCTS cannot guarantee full removal of a memetic effect. Some exposures remain dormant, return under stress, or attach
 to ordinary words after initial treatment. The suite also cannot cure damage caused by
 operational culture. Personnel
 may underreport symptoms if they fear removal from duty, containment suspicion, or stigma.
 
 Known failure modes include re-exposure during interview, unsafe note wording, clinician contamination, false
 recovery, patient concealment, overuse of amnestics, underuse of isolation, delayed recurrence, symbol contamination,
-and treatment amplification. Treatment amplification occurs when the attempt to discuss or analyze a
-contaminant
+and treatment amplification. Treatment amplification occurs when the attempt to discuss or analyze a contaminant
 strengthens it in the patient's mind.
 
 ---
@@ -262,24 +240,19 @@ strengthens it in the patient's mind.
 ## FAILURE HISTORY
 
 ### MCTS-Cognitive Care Mandate Formation
-F-6 records state that the cognitive-care mandate developed as Redwood Veil's holdings came to
-include material that
+F-6 records state that the cognitive-care mandate developed as Redwood Veil's holdings came to include material that
 acts on the mind. MCTS grew from that shift, when ordinary clinical care could
 no longer cover the injuries personnel
 were bringing back from containment work.
 
 ### MCTS-Note Transmission Review
-A clinician's detailed description of a patient's repeated phrase was later flagged as unsafe
-for general medical
-circulation. The suite's record procedure now uses filtered note entry and separates clinical detail
-from wider
+A clinician's detailed description of a patient's repeated phrase was later flagged as unsafe for general medical
+circulation. The suite's record procedure now uses filtered note entry and separates clinical detail from wider
 duty-risk advisories.
 
 ### MCTS-Amnestic Restraint Review
-A treatment team requested memory erasure as a convenience measure after a mild exposure.
-Medical review denied the
-request and reinforced that amnestics are not routine cleanup for staff discomfort or administrative
-simplicity.
+A treatment team requested memory erasure as a convenience measure after a mild exposure. Medical review denied the
+request and reinforced that amnestics are not routine cleanup for staff discomfort or administrative simplicity.
 
 ---
 
@@ -288,8 +261,7 @@ simplicity.
 Medical Division and Cognitive Care operate MCTS, own treatment decisions, and protect patient confidentiality.
 Containment provides exposure context and hazard restrictions. Research helps characterize memetic behavior observed
 in treatment without directing care. Archive preserves records under confidentiality and operational evidence
-standards. Security supports access control when a patient is unstable or when contaminated speech
-may spread beyond
+standards. Security supports access control when a patient is unstable or when contaminated speech may spread beyond
 the suite.
 
 Standing reminder: a mind can be contaminated without becoming untrustworthy. Care comes first, and

@@ -63,10 +63,9 @@ mouth, access to it becomes a devotional act rather than trespass, and the map
 has done the work that doctrine would otherwise have to repeat at every gathering.
 
 The consequence for A.C.T is that the maps must be read for convergence rather
-than for accuracy. Not every listed location had anomalous value, and several were selected
-because they were emotionally powerful to local members or easy to access without attention.
-Two unconnected cells ranking the same culvert highly is information; one cell ranking it
-highly is a preference.
+than for accuracy. Not every listed location had anomalous value, and several were selected because
+they were emotionally powerful to local members or easy to access without attention. Two unconnected
+cells ranking the same culvert highly is information; one cell ranking it highly is a preference.
 
 ---
 
@@ -107,8 +106,8 @@ The set exists as handwritten and digital variants. Known components are:
 
 Site ranking by depth language rather than address is the component that defeats ordinary
 geographic analysis. A list ordered by address can be checked against a cadastre; a
-list ordered by remembered flood events cannot, and the ordering is nevertheless consistent between
-authors who have never met.
+list ordered by remembered flood events cannot, and the ordering
+is nevertheless consistent between authors who have never met.
 
 ---
 
@@ -171,9 +170,8 @@ Recovered map counts and confirmed mouth sites are NOT MEASURED.
 ### Numbered Operating Sequence
 
 The sequence classifies a site before it is approached, and it classifies through two
-criteria at once. The inland mouth review established that requirement: a site cannot be
-dismissed as symbolic until its materials, participants, technical links, and target-related communications
-have been examined.
+criteria at once. The inland mouth review established that requirement: a site cannot be dismissed as symbolic
+until its materials, participants, technical links, and target-related communications have been examined.
 
 1. Route the map to Kurokawa Archive Node for mapped-data review.
 2. Seal any mapped target data at Level 5.
@@ -185,9 +183,8 @@ have been examined.
 8. Report convergence and classification, not doctrine.
 
 Step 5 is the step that saves the operation. The cult uses spectacle to
-bind believers and silence doubt, so the most theatrical location is frequently the least
-important, and the preparation work sits in a quiet storage room or a water-infrastructure
-access point.
+bind believers and silence doubt, so the most theatrical location is frequently the least important,
+and the preparation work sits in a quiet storage room or a water-infrastructure access point.
 
 ---
 

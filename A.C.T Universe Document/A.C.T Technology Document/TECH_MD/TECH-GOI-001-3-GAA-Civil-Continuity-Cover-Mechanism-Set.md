@@ -52,8 +52,7 @@ LARGER.
 
 The set works by giving an event an ordinary administrative shape before witnesses, responders,
 or records supply one. A recovery team can expose itself if nobody can lawfully
-explain a perimeter. An intelligence lead can disappear if every government record route is
-hostile or visible.
+explain a perimeter. An intelligence lead can disappear if every government record route is hostile or visible.
 
 The set is therefore preventive rather than corrective. Once an explanation exists in a
 public record it cannot be withdrawn without drawing attention to the withdrawal, so the
@@ -97,9 +96,8 @@ Known components include:
 - exposure submission channel;
 - aftermath absorption ledger.
 
-The proportionality review record and the exposure submission channel are the components that carry
-the constraint. Without them the set is indistinguishable from an ordinary emergency authority with
-unusual reach.
+The proportionality review record and the exposure submission channel are the components that carry the
+constraint. Without them the set is indistinguishable from an ordinary emergency authority with unusual reach.
 
 ---
 
@@ -122,8 +120,7 @@ Median measure life, Proportionality reductions, and 1 more are not measured her
 | Exposure submissions | NOT MEASURED |
 
 Median measure life is the unmeasured figure that carries the most risk. An emergency
-mechanism intended to last one night produces permanent consequences if nobody confirms that it
-ended.
+mechanism intended to last one night produces permanent consequences if nobody confirms that it ended.
 
 ---
 
@@ -160,9 +157,8 @@ Measure counts, median life, and reduction counts are NOT MEASURED.
 
 ### Numbered Operating Sequence
 
-The sequence places the sizing decision before the mechanism choice, because a correctly sized
-measure can be delivered through several mechanisms while an oversized one cannot be rescued
-by any of them.
+The sequence places the sizing decision before the mechanism choice, because a correctly sized measure
+can be delivered through several mechanisms while an oversized one cannot be rescued by any of them.
 
 1. Establish what a bystander can actually observe.
 2. Size the measure to that observation and no larger.
@@ -215,8 +211,7 @@ form accommodates, produces a contradiction regardless of the notice issued arou
 
 It cannot reverse a measure already in force. Once an evacuation is filed, a
 building is condemned, or a road is closed on a public record, the entry
-remains, and the only available correction is a second ordinary explanation layered over the
-first.
+remains, and the only available correction is a second ordinary explanation layered over the first.
 
 ---
 
@@ -265,8 +260,7 @@ observable at the scene. Medical supplies intake-category requirements. Archive 
 
 Neither the Master Catalog nor the Visual Reference Guide carries this set. The Catalog
 numbers issuable assets and this set issues nothing a Facility officer can carry. The
-Visual Reference Guide describes hardware, and the components here are notices, orders, and intake
-categories.
+Visual Reference Guide describes hardware, and the components here are notices, orders, and intake categories.
 
 ---
 

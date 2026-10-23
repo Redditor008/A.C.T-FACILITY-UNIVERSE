@@ -22,15 +22,13 @@
 
 #### Archive Note
 Unread Archive Anti-Reading Preservation Vault System is the one-hundred-twenty-first main A.C.T technology expanded
-into an individual record. The F-1 Unread Archive dossier identifies the deepest Kurokawa level
-as a maximum-security
+into an individual record. The F-1 Unread Archive dossier identifies the deepest Kurokawa level as a maximum-security
 archive for material that must never be read, viewed, or fully understood. It records
 independent preservation vaults,
 anti-reading architecture, environmental and structural monitoring, a monitoring gallery that watches without reading,
 and a closure doctrine where uncontrolled reading is treated as an escape.
 
-UAARPV exists because some holdings must be preserved without becoming knowledge. The system's purpose
-is not to make
+UAARPV exists because some holdings must be preserved without becoming knowledge. The system's purpose is not to make
 reading difficult; it is to make preservation possible without reading.
 
 Controlled label: **UAARPV KEEP-WITHOUT-KNOWING VAULT**.
@@ -55,14 +53,12 @@ UAARPV is not a library shelf and not ordinary sealed storage. It is a
 preservation machine for knowledge judged too
 dangerous to know. The system must keep the item intact, prevent decay, record its
 existence, support long-term
-custody, and deny the ordinary archival impulse to inspect, describe, understand, quote, or condense
-into substitute
+custody, and deny the ordinary archival impulse to inspect, describe, understand, quote, or condense into substitute
 prose.
 
 Approved roles include unreadable material preservation, maximum-security informational custody, content-blind
 environmental maintenance, access denial, anti-reading monitoring, non-comprehensive cataloging, F-1 closure support,
-and transfer review when another Kurokawa level discovers that a holding has exceeded readable
-or restricted-vault
+and transfer review when another Kurokawa level discovers that a holding has exceeded readable or restricted-vault
 capacity.
 
 ---
@@ -70,14 +66,12 @@ capacity.
 ## ORIGIN AND DEVELOPMENT
 
 Kurokawa's earliest dangerous-information incidents produced a distinction sharper than ordinary clearance. Some files
-could be read by trained personnel. Some could be read through controlled apparatus. Some
-could be redacted. A final
+could be read by trained personnel. Some could be read through controlled apparatus. Some could be redacted. A final
 category could not be safely understood at all. The node needed an archive where
 the point of preservation was not
 future access but future containment.
 
-F-1 became that archive. UAARPV formalizes the vaulting logic inside the Unread Archive: independent
-vaults, blind
+F-1 became that archive. UAARPV formalizes the vaulting logic inside the Unread Archive: independent vaults, blind
 monitoring, content-avoidant access, and preservation records written to avoid becoming substitute texts. It developed
 from the realization that an archive can serve the Facility by keeping a record
 present and unknown at the same time.
@@ -134,8 +128,7 @@ count, Retrieval frequency, Preservation failures. Those 3 gaps are carried in O
 
 This vault preserves material that must never be read, which makes it the only
 archive in the node whose
-success is measured by absence of knowledge. Every component is therefore blind by design:
-sensors report
+success is measured by absence of knowledge. Every component is therefore blind by design: sensors report
 condition without reporting content, the custody marker obscures rather than describes, and the retrieval
 frame moves an item without presenting it. Reading is not a privilege here but
 a recorded breach.
@@ -171,8 +164,7 @@ Vault count, retrieval rate, and failures are NOT MEASURED.
 
 ### Numbered Operating Sequence
 
-The sequence performs preservation without inspection. Condition is inferred from blind sensors and from
-the
+The sequence performs preservation without inspection. Condition is inferred from blind sensors and from the
 envelope's own readings, and where those disagree the item is escalated rather than examined.
 
 1. Clear the access-core authorization gate before entry.
@@ -190,19 +182,14 @@ looked at, and a retrieval frame bypassed for convenience presents the item to t
 person moving it, which
 is the one event this floor exists to prevent.
 
-Before any vault work, UAARPV verifies the holding's restriction set, service purpose, access authority,
-paired
-personnel rule, Medical standby requirement, monitoring method, and whether the task can be completed
-without opening
-a content line. Personnel perform maintenance through blind service points whenever possible. If vault
-opening is
+Before any vault work, UAARPV verifies the holding's restriction set, service purpose, access authority, paired
+personnel rule, Medical standby requirement, monitoring method, and whether the task can be completed without opening
+a content line. Personnel perform maintenance through blind service points whenever possible. If vault opening is
 unavoidable, the holding remains shielded unless the authorization specifically includes content exposure.
 
 Documentation avoids full description. A record may state vault identity, preservation condition, service action,
-custody status, and restriction state. It must not reproduce content, explain forbidden meaning, or
-create a readable
-substitute for the holding. If any person reads, sees, hears, infers, or reconstructs forbidden
-content beyond
+custody status, and restriction state. It must not reproduce content, explain forbidden meaning, or create a readable
+substitute for the holding. If any person reads, sees, hears, infers, or reconstructs forbidden content beyond
 authority, the event is treated as an F-1 breach condition.
 
 ---
@@ -237,47 +224,41 @@ vault whose doors can be opened.
 
 UAARPV can deny reading, but it cannot remove the pressure created by the existence
 of unreadable knowledge. Personnel
-may become curious about what requires such protection. Records may accidentally reveal patterns through
-catalog
-terms, service frequency, restriction codes, or silence. Preservation itself can also become difficult when
-the safest
+may become curious about what requires such protection. Records may accidentally reveal patterns through catalog
+terms, service frequency, restriction codes, or silence. Preservation itself can also become difficult when the safest
 maintenance action would require knowing what material form the holding has taken.
 
-Known failure modes include accidental content line exposure, overdescriptive cataloging, service-route reflection,
-inferred content from maintenance notes, unauthorized emergency access, environmental failure hidden by blind
-monitoring, personnel curiosity fixation, paired-personnel collusion, and closure activation after exposure has
-already occurred.
+Known failure modes include accidental content line exposure, overdescriptive cataloging,
+service-route reflection, inferred content from maintenance notes, unauthorized emergency
+access, environmental failure hidden by blind monitoring, personnel curiosity fixation,
+paired-personnel collusion, and closure activation after exposure has already occurred.
 
 ---
 
 ## FAILURE HISTORY
 
 ### UAARPV-Unreadable Register Correction
-A record review found that safe cataloging could still become dangerous if entries described
-too much of why a holding
-was unreadable. Current UAARPV doctrine records enough for custody and preservation but not enough
-for understanding.
+A record review found that safe cataloging could still become dangerous if entries described too much of why a holding
+was unreadable. Current UAARPV doctrine records enough for custody and preservation but not enough for understanding.
 
 ### UAARPV-Blind Maintenance Drill
 A preservation drill showed that technicians requested content detail when ordinary maintenance questions became
-difficult. Current procedure requires vault-service instructions to be written as condition tasks rather than
-content
+difficult. Current procedure requires vault-service instructions to be written as condition tasks rather than content
 tasks.
 
 ### UAARPV-Reading-as-Breach Standard
 F-1 doctrine established that an opened door is not the only escape condition. Current
 UAARPV procedure treats
-uncontrolled reading, viewing, or full understanding as a breach event even if the vault
-remains physically sealed.
+uncontrolled reading, viewing, or full understanding as a breach event even if the vault remains physically sealed.
 
 ---
 
 ## DIVISION USE
 
-Archive Division maintains preservation and custody. Security controls access, pairing, and closure response.
-Intelligence enforces knowledge limits rather than expanding them. Medical provides cognitive-care standby for
-personnel whose duties approach restricted material. Command authorizes the rare decisions that alter restriction,
-release, or closure status.
+Archive Division maintains preservation and custody. Security controls access, pairing, and
+closure response. Intelligence enforces knowledge limits rather than expanding them. Medical
+provides cognitive-care standby for personnel whose duties approach restricted material.
+Command authorizes the rare decisions that alter restriction, release, or closure status.
 
 UAARPV doctrine holds that the deepest archive is successful when it remembers without teaching.
 

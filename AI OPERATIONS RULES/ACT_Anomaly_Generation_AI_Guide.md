@@ -137,22 +137,17 @@ Use these examples as guidance:
 
 **OB / Object** — a statue, relic, machine, paper, tool, weapon, container, or material
 with anomalous function **SU /
-Subject** — a living human, non-human being, creature, humanoid, or active entity with anomalous
-traits **PL / Place**
-— a forest, room, building, tunnel, district, ruin, or geographic location that is itself
-anomalous **TI / Time** — a
+Subject** — a living human, non-human being, creature, humanoid, or active entity with anomalous traits **PL / Place**
+— a forest, room, building, tunnel, district, ruin, or geographic location that is itself anomalous **TI / Time** — a
 loop, repeating date, delayed event, erased duration, future bleed, or historical contradiction that behaves
 temporally **SP / Space** — a corridor that should not exist, impossible room, folded
 distance, internal passage
-anomaly, or dimensional displacement zone **ME / Memetic** — a phrase, symbol, image, idea,
-instruction, or
-thought-pattern that alters perception or behavior when understood **IH / Info Hazard** — a
-file, fact, signal, truth,
+anomaly, or dimensional displacement zone **ME / Memetic** — a phrase, symbol, image, idea, instruction, or
+thought-pattern that alters perception or behavior when understood **IH / Info Hazard** — a file, fact, signal, truth,
 or piece of knowledge that becomes dangerous by being known **CH / Cosmic Hazard**
 — a godlike being, world-scale
 force, deep-space pressure, abyssal cosmic entity, or large-scale reality-threatening presence **NB / Non-Natural Bio
-Hazard** — a plant, fungus, parasite, pathogen, body-fluid source, or impossible organism that violates
-normal biology
+Hazard** — a plant, fungus, parasite, pathogen, body-fluid source, or impossible organism that violates normal biology
 **?.H / Shifting Hazard** — an anomaly that changes category over time, resists stable
 definition, or behaves as more
 than one field type depending on state or observer
@@ -162,12 +157,10 @@ Every new anomaly should identify its registry band before the file is drafted.
 
 Use these bands:
 
-  **ENTITY Historical Band** — closed pre-standard historical records only; do not create new
-  ordinary
+  **ENTITY Historical Band** — closed pre-standard historical records only; do not create new ordinary
   ENTITY files.
-— **000 Foundational Reserve** — origin-level or foundation-level subjects only; do not use casually.
-  **LEGACY ACCEPTED 001–120** — legacy-era anomalies, early accepted anomalies, and records where UFD/AFD
-  coexistence
+— **000 Foundational Reserve** — origin-level or foundation-level subjects only; do not use casually. **LEGACY
+ACCEPTED 001–120** — legacy-era anomalies, early accepted anomalies, and records where UFD/AFD coexistence
   preserves intake history.
 — **Modern Registry 121–999** — ordinary modern UFD/AFD anomalies.
 — **ANM Fracture-State 0001–9999** — fracture-state records where normal archive logic is insufficient.
@@ -242,31 +235,20 @@ class.
 
 **INERT** — a sealed object that does nothing unless directly activated and will remain
 undisturbed in storage
-**RESIDUAL** — a contained anomaly that causes small disturbances such as scratching, whispering, condensation,
-or
-low-level interference without major breach behavior **SPORADIC** — an anomaly that only rarely attempts
-escape or
-disruption, and does so in recognizable intervals or patterns **UNDISCLOSED** — an anomaly that
-leaves or reappears
+**RESIDUAL** — a contained anomaly that causes small disturbances such as scratching, whispering, condensation, or
+low-level interference without major breach behavior **SPORADIC** — an anomaly that only rarely attempts escape or
+disruption, and does so in recognizable intervals or patterns **UNDISCLOSED** — an anomaly that leaves or reappears
 through means the Facility does not fully understand, even though some part of its
 cycle is predictable **ENTROPIC** —
-an anomaly that weakens its chamber, corrodes systems, damages seals, or decays structure simply
-by continuing to
-exist nearby **REACTIVE** — an anomaly that becomes dangerous when ignored, unobserved, unsupervised, or
-left without
+an anomaly that weakens its chamber, corrodes systems, damages seals, or decays structure simply by continuing to
+exist nearby **REACTIVE** — an anomaly that becomes dangerous when ignored, unobserved, unsupervised, or left without
 active control **EXIGENT** — an anomaly requiring constant labor, active management, multiple personnel, recurring
-procedure, or uninterrupted maintenance to stay controlled **INVERTED** — an anomaly that is itself
-functioning like a
-prison, vessel, seal, or suppression body for another threat **UNENCLOSABLE** — an anomaly too
-large, too wide, too
-distributed, or too environment-bound to fit normal enclosure logic **INTANGIBLE** — an anomaly that
-cannot be
-physically held and must instead be managed through information control, ritual logic, sensory restriction,
-or
-indirect means **TIAMAT** — a world-scale or conceptually overwhelming anomaly beyond normal containment frame,
-often
-managed through state-preservation rather than ordinary enclosure **[BLANK]** — an anomaly where interaction itself
-is
+procedure, or uninterrupted maintenance to stay controlled **INVERTED** — an anomaly that is itself functioning like a
+prison, vessel, seal, or suppression body for another threat **UNENCLOSABLE** — an anomaly too large, too wide, too
+distributed, or too environment-bound to fit normal enclosure logic **INTANGIBLE** — an anomaly that cannot be
+physically held and must instead be managed through information control, ritual logic, sensory restriction, or
+indirect means **TIAMAT** — a world-scale or conceptually overwhelming anomaly beyond normal containment frame, often
+managed through state-preservation rather than ordinary enclosure **[BLANK]** — an anomaly where interaction itself is
 the danger, meaning ordinary containment procedure may be impossible or self-defeating
 
 ## 7. Threat Level System
@@ -303,22 +285,18 @@ Use these examples as guidance:
   **3** — a clearly dangerous anomaly that can kill or severely damage an
   individual
   if procedures fail
-  **4** — a team-level threat requiring organized response, multiple personnel, or urgent containment
-  action
+  **4** — a team-level threat requiring organized response, multiple personnel, or urgent containment action
   **5** — an anomaly capable of causing major urban damage, mass casualties, or
   severe
   secrecy collapse if uncontrolled
-  **6** — a regional-scale anomaly affecting multiple settlements, a province-sized environment, or broad
-  infrastructure
+  **6** — a regional-scale anomaly affecting multiple settlements,
+  a province-sized environment, or broad infrastructure
   systems
-  **7** — a national-scale anomaly capable of breaking one country’s continuity, government, or
-  population
+  **7** — a national-scale anomaly capable of breaking one country’s continuity, government, or population
   stability
-  **8** — a continental anomaly whose influence or destructive spread naturally exceeds national
-  borders
+  **8** — a continental anomaly whose influence or destructive spread naturally exceeds national borders
 — **9** — a global anomaly threatening the entire world directly
-  **10** — an existential anomaly threatening reality, existence, continuity, or the framework that
-  allows
+  **10** — an existential anomaly threatening reality, existence, continuity, or the framework that allows
   the world to
   remain itself
 
@@ -332,27 +310,22 @@ Use when the anomaly breaks normal containment logic:
 
 **QUESTIONED** — the anomaly is so passive, so unclear, or so functionally inert that
 containment itself feels
-doubtful, symbolic, or unfinished **ABSURD** — the anomaly should not fit, remain, or obey
-the enclosure, but somehow
-does **MUTATED** — the containment system itself has been altered, absorbed, infected, or transformed
-by the anomaly
-**UNAUTHORED** — the anomaly appears to rewrite procedure, records, or the rules used to
-describe it **SCHRÖDINGER** —
+doubtful, symbolic, or unfinished **ABSURD** — the anomaly should not fit, remain, or obey the enclosure, but somehow
+does **MUTATED** — the containment system itself has been altered, absorbed, infected, or transformed by the anomaly
+**UNAUTHORED** — the anomaly appears to rewrite procedure, records, or the rules used to describe it **SCHRÖDINGER** —
 the anomaly is simultaneously contained and not contained, with observation affecting which state applies
 
 ### 8.2 Sub-Threat Fracture
 Use when the anomaly’s threat behaves strangely:
 
 - **HARMLESS** — the anomaly produces little or no direct damage despite classification concern
-  **BENEFICIAL** — the anomaly improves, heals, repairs, or positively alters conditions instead of
-  harming
+  **BENEFICIAL** — the anomaly improves, heals, repairs, or positively alters conditions instead of harming
   them
 — **REVERTED** — the anomaly’s damage reverses, undoes itself, or self-corrects after manifestation
   **ABSENT** — the danger exists in record or theory, but is not meaningfully
   present
   in observable operation
-  **NULLIFIED** — the anomaly’s harmful process has stopped on its own without requiring
-  complete
+  **NULLIFIED** — the anomaly’s harmful process has stopped on its own without requiring complete
   destruction
 
 If fracture logic is not needed, use:
@@ -377,25 +350,19 @@ A.C.T anomalies often become more interesting when this field matters.
 ### 9.1 Transformation Viability Examples
 Use these examples as guidance:
 
-**INVIOLABLE** — a sleeping god, a world-anchor, or any anomaly whose alteration would itself
-be catastrophic
+**INVIOLABLE** — a sleeping god, a world-anchor, or any anomaly whose alteration would itself be catastrophic
 **NEUTRAL** — an anomaly that is stable enough in containment and not worth the
 risk of attempted conversion
 **CONTAINED-STUDY** — an anomaly under active testing where A.C.T does not yet know if
 transformation is survivable or
-useful **STABILIZED** — an anomaly made safer, calmer, or more predictable than its original
-form, but not yet
-functionally useful **NEUTRALIZED** — an anomaly whose dangerous properties have been removed or suppressed
-without
-making it useful afterward **REPURPOSED** — an anomaly actively converted into a tool, medicine,
-containment aid, or
-controlled strategic function **INTEGRATED** — an anomaly so thoroughly adapted into Facility infrastructure that
-it
+useful **STABILIZED** — an anomaly made safer, calmer, or more predictable than its original form, but not yet
+functionally useful **NEUTRALIZED** — an anomaly whose dangerous properties have been removed or suppressed without
+making it useful afterward **REPURPOSED** — an anomaly actively converted into a tool, medicine, containment aid, or
+controlled strategic function **INTEGRATED** — an anomaly so thoroughly adapted into Facility infrastructure that it
 now functions as part of A.C.T’s normal buried systems
 
 ### 9.5 Lifecycle State
-Lifecycle State records where the anomaly currently stands in A.C.T custody, knowledge, or loss.
-It is separate from
+Lifecycle State records where the anomaly currently stands in A.C.T custody, knowledge, or loss. It is separate from
 Containment Class and Transformation Viability.
 
 Use one of these:
@@ -405,8 +372,7 @@ Use one of these:
 - **ACTIVE-UNCONTAINED** — active and not under reliable A.C.T control.
 - **UNDER REVIEW** — classification, containment, transformation, or record integrity is being formally reviewed.
 - **TRANSFORMATION-CANDIDATE** — being considered for controlled change or use.
-  **INTEGRATED** — the anomaly or derivative is part of A.C.T infrastructure, procedure, medicine,
-  equipment,
+  **INTEGRATED** — the anomaly or derivative is part of A.C.T infrastructure, procedure, medicine, equipment,
   or archive
   function.
   **RETIRED** — no longer an active operational problem, but retained as a controlled
@@ -423,8 +389,7 @@ Use one of these:
 ---
 
 ## 10. Site Integration
-Modern A.C.T anomaly files should identify where the anomaly belongs inside the wider site
-network.
+Modern A.C.T anomaly files should identify where the anomaly belongs inside the wider site network.
 
 Use fields such as:
 - **CONTAINMENT SITE**
@@ -442,52 +407,43 @@ Possible site type values include:
 - In-Place
 
 Current major recognized site network includes:
-  **Primary Facility** — the original abyss-founded central body of A.C.T; jurisdiction type: central
-  command,
+  **Primary Facility** — the original abyss-founded central body of A.C.T; jurisdiction type: central command,
   abyssal
   containment, doctrinal authority
-  **ACT-SITE-01-US-W** — Redwood Veil Complex; jurisdiction type: urban, artifact, western continental,
-  high-population
+  **ACT-SITE-01-US-W** — Redwood Veil Complex; jurisdiction
+  type: urban, artifact, western continental, high-population
   secrecy control
-— **ACT-SITE-02-RU-N** — White Grave Station; jurisdiction type: arctic, cryogenic, biological isolation, deep freeze
-  containment
-— **ACT-SITE-03-JP-E** — Kurokawa Archive Node; jurisdiction type: memetic, informational, archive-sensitive, urban
-  signal density
-— **ACT-SITE-04-BR-C** — Verde Null Bio-Reserve; jurisdiction type: biological, wilderness, flora/fauna enclosure,
-  fixed-place monitoring
+— **ACT-SITE-02-RU-N** — White Grave Station; jurisdiction type:
+arctic, cryogenic, biological isolation, deep freeze containment
+— **ACT-SITE-03-JP-E** — Kurokawa Archive Node; jurisdiction type:
+memetic, informational, archive-sensitive, urban signal density
+— **ACT-SITE-04-BR-C** — Verde Null Bio-Reserve; jurisdiction type:
+biological, wilderness, flora/fauna enclosure, fixed-place monitoring
 — **ACT-SITE-05-ID-C** — Nusantara Deep Relay; jurisdiction type: maritime, seismic, volcanic, island anomaly routing
 
 Current recognized sub-site network includes:
 - **ACT-SUB-01-US-W** — Glass Orchard Relay; jurisdiction type: witness processing, archive relay, overflow intake
 - **ACT-SUB-02-RU-N** — Frost Hollow Depot; jurisdiction type: cold quarantine, interim storage, biological transfer
   staging
-— **ACT-SUB-03-JP-E** — Silent Reed Annex; jurisdiction type: minor memetic quarantine, document buffering, low-to-mid
-  infohazard handling
-— **ACT-SUB-04-BR-C** — Hollow Canopy Enclosure; jurisdiction type: fixed flora enclosure, in-place biological
-  observation
-— **ACT-SUB-05-ID-C** — Ash Tide Watchpoint; jurisdiction type: coastal watch, maritime relay, volcanic observation
-  support
+— **ACT-SUB-03-JP-E** — Silent Reed Annex; jurisdiction type: minor
+memetic quarantine, document buffering, low-to-mid infohazard handling
+— **ACT-SUB-04-BR-C** — Hollow Canopy Enclosure; jurisdiction
+type: fixed flora enclosure, in-place biological observation
+— **ACT-SUB-05-ID-C** — Ash Tide Watchpoint; jurisdiction type:
+coastal watch, maritime relay, volcanic observation support
 
 ### 10.1 Site Type Examples
 Use these examples as guidance:
 
-**Primary Facility** — the original abyss-founded central body of A.C.T, used for foundational records,
-major command,
-abyssal oversight, and the deepest containment logic **Primary Site** — a top-level full installation
-with major
-authority and strategic importance equal or near-equal to a central command body **Regional Site**
-— a major official
-installation responsible for one country-zone, territory cluster, or high-value region **Sub-Site** — a smaller
-or
-narrower installation attached to a parent site for overflow, specialization, or regional support **Relay
-Site** — a
+**Primary Facility** — the original abyss-founded central body of A.C.T, used for foundational records, major command,
+abyssal oversight, and the deepest containment logic **Primary Site** — a top-level full installation with major
+authority and strategic importance equal or near-equal to a central command body **Regional Site** — a major official
+installation responsible for one country-zone, territory cluster, or high-value region **Sub-Site** — a smaller or
+narrower installation attached to a parent site for overflow, specialization, or regional support **Relay Site** — a
 low-footprint support body used for witness handling, archive transfer, discreet movement, and logistical continuity
-**Black Site** — a sealed or politically dangerous installation used for highly restricted work,
-prohibited research,
-or morally compromised operations **Mobile** — a moving containment body such as a transport
-convoy, converted
-aircraft, sea platform, or rolling anomaly-support structure **In-Place** — a case where the anomaly
-remains where it
+**Black Site** — a sealed or politically dangerous installation used for highly restricted work, prohibited research,
+or morally compromised operations **Mobile** — a moving containment body such as a transport convoy, converted
+aircraft, sea platform, or rolling anomaly-support structure **In-Place** — a case where the anomaly remains where it
 was found and the Facility builds the containment perimeter around it instead of moving
 it
 
@@ -509,8 +465,7 @@ Use the smallest useful set from these families:
 - **SPAT** — nonlocal space, thresholds, transit, impossible interiors, distance errors.
 - **STR** — reality fracture, classification failure, observation instability, archive drift.
 - **COS** — abyssal, divine, world-scale, foundational, origin-level, cosmic.
-  **SOC / OPR** — recruitment, market exposure, cover risk, GOI interference, handler risk,
-  asset
+  **SOC / OPR** — recruitment, market exposure, cover risk, GOI interference, handler risk, asset
   dependency.
 
 Example tag line:
@@ -576,21 +531,18 @@ Avoid anomalies that are:
 - impossible to classify in a meaningful way
 - “cool” but not useful for story, doctrine, or archive structure
 
-Avoid writing anomalies that feel like random horror props. They should feel like things
-a real hidden institution had
+Avoid writing anomalies that feel like random horror props. They should feel like things a real hidden institution had
 to struggle to understand and manage.
 
 ---
 
 ## 14. Continuity and Generation Rules
-When generating multiple anomalies for A.C.T, the AI must preserve setting consistency across time,
-geography, and
+When generating multiple anomalies for A.C.T, the AI must preserve setting consistency across time, geography, and
 personnel.
 
 ### 14.1 Date Logic
 - dates on the document must make sense internally
-  detection date, verification date, file creation date, and incident history should follow believable
-  order
+  detection date, verification date, file creation date, and incident history should follow believable order
 — an anomaly should not be verified before it is detected
 — a file should not be updated before it exists
 — if the anomaly is historical, its date logic should reflect the era properly
@@ -619,8 +571,7 @@ personnel.
   if a staff name appears in more than one anomaly file, there must
   be
   a reason
-  repeated names should imply connection, such as the same researcher, same archive reviewer,
-  same
+  repeated names should imply connection, such as the same researcher, same archive reviewer, same
   recovery operator,
   same medical specialist, or the same command authority
 — do not reuse names randomly across unrelated files
@@ -631,12 +582,10 @@ personnel.
   unless
   the generation request
   specifically requires it
-  A.C.T is global, so anomaly origins, recovery zones, and containment routes should reflect
-  multiple
+  A.C.T is global, so anomaly origins, recovery zones, and containment routes should reflect multiple
   countries and
   multiple regions
-  if a location repeats, there should be a meaningful narrative, doctrinal, or operational
-  reason
+  if a location repeats, there should be a meaningful narrative, doctrinal, or operational reason
 
 ### 14.6 Batch Generation Consistency
 If generating multiple anomaly files at once, the AI should vary:
@@ -743,8 +692,7 @@ ACTIVE-CONTAINED
 ### DESCRIPTION
 A typed instruction sheet that rewrites itself after being read. The new text always
 appears to address the specific
-reader and gradually shifts from workplace instructions into intimate knowledge that the sheet should
-not possess.
+reader and gradually shifts from workplace instructions into intimate knowledge that the sheet should not possess.
 
 ### WHY IT FITS A.C.T
 - bureaucratic horror

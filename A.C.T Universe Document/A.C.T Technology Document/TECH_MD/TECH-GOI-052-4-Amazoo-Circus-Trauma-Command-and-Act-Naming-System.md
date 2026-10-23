@@ -25,8 +25,7 @@ This record covers the verbal and social control method by which Amazoo Circus r
 captive performers to roles. The dossier records that the Circus may have used the
 word act as both performance role and identity cage, that recovered writing repeats our
 act, my act, and the command to sing, that the imposed name Circus Monster
-stands in the discovery record, and that phrases used against the subject are restricted
-from casual quotation.
+stands in the discovery record, and that phrases used against the subject are restricted from casual quotation.
 
 None of it requires machinery. A name becomes a restraint when it is reinforced
 by a cage, an audience, hunger, music, threat, and abandonment, and the performer learns
@@ -67,9 +66,8 @@ performer cannot leave the role any more than they could leave the cage, and
 because the crowd supplies the enforcement the handler is not always present to apply.
 
 The operational consequence is that A.C.T holds a working restraint it did not build
-and cannot safely store. Restricted phrases are sealed into documentation and never quoted in
-briefing, training, or field speech, and every survivor-facing record is written in the name
-the survivor chose.
+and cannot safely store. Restricted phrases are sealed into documentation and never quoted in briefing,
+training, or field speech, and every survivor-facing record is written in the name the survivor chose.
 
 
 ---
@@ -266,10 +264,9 @@ material.
 
 ### ANOMALOUS AMPLIFICATION — UNRESOLVED
 
-Whether act names carried direct anomalous force, whether Grand Master Amazoo could command through
-planted audience members, and whether other survivors remain trapped under assigned act identities are
-all unresolved. The dossier holds the questions open deliberately and this record does not
-close them by assumption.
+Whether act names carried direct anomalous force, whether Grand Master Amazoo could command through planted
+audience members, and whether other survivors remain trapped under assigned act identities are all unresolved.
+The dossier holds the questions open deliberately and this record does not close them by assumption.
 
 
 ---
@@ -277,9 +274,8 @@ close them by assumption.
 ## DIVISION USE
 
 Subject Care Division controls all survivor-facing language, holds the interview protocol, and owns the
-chosen-name register. The Intelligence Division holds the escalation-phrase indicators and reads field
-encounters against rebuild patterns. Medical Care intervenes where a command reflex has been reproduced
-in a room.
+chosen-name register. The Intelligence Division holds the escalation-phrase indicators and reads field encounters
+against rebuild patterns. Medical Care intervenes where a command reflex has been reproduced in a room.
 
 Tactical Containment applies the field sequence and gives no performance cues during recovery. Info-Hazard
 Division audits training material and briefing language. Archive files the imposed names as evidence

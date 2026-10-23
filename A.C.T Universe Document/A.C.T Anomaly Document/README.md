@@ -9,8 +9,8 @@ not survive, and the records A.C.T keeps on them.
 Vault; the rest of the archive is built on top of the pressure it describes. If you read one
 file in this folder, read that one.
 
-For something shorter and stranger, `Anomaly Modern txt/` holds the modern-era files and you
-can open any of them cold.
+For something shorter and stranger, `Anomaly Modern txt/`
+holds the modern-era files and you can open any of them cold.
 
 ## What is in here
 

@@ -16,16 +16,12 @@
 
 ## Archive Note
 
-This file is the complete individual dossier for **ACT-SUB-02-RU-N**, the **Frost Hollow Depot**, a
-recognized
-SUB-SITE installation of the A.C.T Facility network operating under the command authority of **ACT-SITE-02-RU-N,
-White
+This file is the complete individual dossier for **ACT-SUB-02-RU-N**, the **Frost Hollow Depot**, a recognized
+SUB-SITE installation of the A.C.T Facility network operating under the command authority of **ACT-SITE-02-RU-N, White
 Grave Station**.
 
-Frost Hollow Depot is the cold apparatus's quarantine and staging extension: an interim cold-storage
-and quarantine
-facility designed to absorb the seasonal pressure that would otherwise over-concentrate biological material at
-the
+Frost Hollow Depot is the cold apparatus's quarantine and staging extension: an interim cold-storage and quarantine
+facility designed to absorb the seasonal pressure that would otherwise over-concentrate biological material at the
 parent station. Where White Grave is the long sleep, Frost Hollow is the waiting
 room before the sleep.
 
@@ -43,27 +39,22 @@ cold storage and quarantine staging **Divisions Present:** Security, Medical Qua
 Support **Containment Profile:** Cryogenic Overflow / Quarantine / Temporary Biological Suppression **Regional
 Jurisdiction:** Transfer support for White Grave Station and surrounding arctic recovery corridors **Notable
 Features:** Designed for rapid frozen relocation and silent disappearance of hazardous organic material **Current
-Status:** Active **History Notes:** Built to reduce over-concentration pressure on White Grave Station during
-seasonal
-biological incidents. **Security Notes:** Personnel rotation is tightly controlled due to long-duration cold exposure
-and isolation stress.
+Status:** Active **History Notes:** Built to reduce over-concentration pressure on White Grave Station during seasonal
+biological incidents. **Security Notes:** Personnel rotation is tightly
+controlled due to long-duration cold exposure and isolation stress.
 
 ---
 
 ## 2. Dossier Purpose
 
-White Grave Station exists to hold the Facility's most unstable and most biologically dangerous
-material in permanent
-deep-cold isolation. But a containment station cannot receive everything at once — seasonal biological
-incidents,
-transfer waves, and quarantine demands can over-concentrate material at the parent station faster than
-its holding
+White Grave Station exists to hold the Facility's most unstable and most biologically dangerous material in permanent
+deep-cold isolation. But a containment station cannot receive everything at once — seasonal biological incidents,
+transfer waves, and quarantine demands can over-concentrate material at the parent station faster than its holding
 levels can absorb it.
 
 Frost Hollow Depot exists to absorb that pressure. It is the staging ground where
 incoming biological material is held
-in interim cold storage, assessed under quarantine, and prepared for transfer to the parent
-station — or, when the
+in interim cold storage, assessed under quarantine, and prepared for transfer to the parent station — or, when the
 material requires it, silently removed from the transport chain entirely.
 
 ---
@@ -74,24 +65,19 @@ material requires it, silently removed from the transport chain entirely.
 
 The depot is positioned within the same arctic region as its parent station, connected
 to White Grave's transport
-corridors. Its location balances two requirements: proximity to the parent station's recovery and transfer
-routes, and
+corridors. Its location balances two requirements: proximity to the parent station's recovery and transfer routes, and
 separation sufficient that the depot's quarantine function does not compromise the parent's isolation.
 
 ### 3.2 Cover Identity
 
-The depot operates under cover as an **arctic cold-storage and quarantine facility** — a
-legitimate support
-installation for the region's research and logistics activity. The cover is natural: cold regions
-require cold
+The depot operates under cover as an **arctic cold-storage and quarantine facility** — a legitimate support
+installation for the region's research and logistics activity. The cover is natural: cold regions require cold
 storage, and a quarantine-capable facility in the far north raises no questions.
 
 ### 3.3 Why a Sub-Site
 
-The depot exists as a sub-site because its function is deliberately narrow: interim cold
-storage, quarantine, and
-transfer staging. It has no mandate for long-term containment, no independent research authority, and
-no standing
+The depot exists as a sub-site because its function is deliberately narrow: interim cold storage, quarantine, and
+transfer staging. It has no mandate for long-term containment, no independent research authority, and no standing
 beyond support for the parent station.
 
 ---
@@ -100,16 +86,13 @@ beyond support for the parent station.
 
 ### 4.1 The Seasonal Pressure Problem
 
-The depot was built to solve a recurring problem: seasonal biological incidents produced transfer
-waves that
-over-concentrated material at White Grave Station. During peak seasons, the parent station's holding levels
-and
+The depot was built to solve a recurring problem: seasonal biological incidents produced transfer waves that
+over-concentrated material at White Grave Station. During peak seasons, the parent station's holding levels and
 quarantine capacity were strained by incoming material that could not be permanently placed immediately.
 
 ### 4.2 Construction and Formalization
 
-The Facility constructed Frost Hollow Depot as a dedicated overflow and quarantine staging installation,
-formalized as
+The Facility constructed Frost Hollow Depot as a dedicated overflow and quarantine staging installation, formalized as
 a sub-site under White Grave Station's command.
 
 ### 4.3 Modern Role
@@ -135,8 +118,7 @@ the depot's operations under the parent station's authority.
 ### 5.2 Relationship to the Parent Station
 
 The depot reports to ACT-SITE-02-RU-N for all operational matters: quarantine policy, transfer scheduling, material
-disposition, and emergency response. Material held at the depot moves to the parent station
-on the parent's schedule.
+disposition, and emergency response. Material held at the depot moves to the parent station on the parent's schedule.
 
 ### 5.3 Command Limits
 
@@ -154,8 +136,7 @@ Material requiring long-term holding transfers to White Grave Station.
 
 ### 6.1 Security
 
-Security at the depot enforces access control, the quarantine perimeter, and the silent movement
-of material through
+Security at the depot enforces access control, the quarantine perimeter, and the silent movement of material through
 the facility. Personnel are drawn from the parent station's security apparatus.
 
 ### 6.2 Medical Quarantine Staff
@@ -170,8 +151,7 @@ quarantine conditions. Their work includes:
 
 ### 6.3 Limited Containment Support
 
-The depot maintains limited containment support for the temporary housing of material in transit:
-cryogenic storage
+The depot maintains limited containment support for the temporary housing of material in transit: cryogenic storage
 units, quarantine chambers, and the environmental systems required for interim biological suppression.
 
 ---
@@ -183,8 +163,7 @@ buried component registered on **three
 numbered levels**, from **F-1** (deepest) to **F-3** (surface-adjacent), consistent with Facility floor doctrine.
 
 ### F-3 — Surface Cover and Transition Level
-The legitimate arctic cold-storage facility: receiving areas, administrative spaces, and the surface face of
-the
+The legitimate arctic cold-storage facility: receiving areas, administrative spaces, and the surface face of the
 cover.
 
 ### F-2 — Quarantine and Assessment Level
@@ -204,34 +183,27 @@ the depot is not a long-term home.
 
 ### 8.1 Quarantine Doctrine
 
-The depot's defining protocol is quarantine: every item of incoming biological material is held
-under assessment until
-its status is confirmed, its containment verified, and its transfer authorized. Nothing moves to
-the parent station
+The depot's defining protocol is quarantine: every item of incoming biological material is held under assessment until
+its status is confirmed, its containment verified, and its transfer authorized. Nothing moves to the parent station
 unassessed.
 
 ### 8.2 Interim Suppression Doctrine
 
-Material held at the depot is maintained under temporary biological suppression — sufficient to
-stabilize and contain
-it during the staging period, without the long-term environmental commitment of the parent station's
-holding doctrine.
+Material held at the depot is maintained under temporary biological suppression — sufficient to stabilize and contain
+it during the staging period, without the long-term environmental commitment of the parent station's holding doctrine.
 
 ### 8.3 Silent Removal Doctrine
 
 The depot is designed for the silent removal of hazardous organic material from the
 transport chain when required.
-Material that cannot be safely transferred, or whose disposition demands disappearance rather than delivery,
-is
-handled at the depot under the parent station's authority — without disturbing the cover
-or the transport schedule.
+Material that cannot be safely transferred, or whose disposition demands disappearance rather than delivery, is
+handled at the depot under the parent station's authority — without disturbing the cover or the transport schedule.
 
 ---
 
 ## 9. Resident Holdings
 
-The depot does not maintain permanent residents. Its holding levels are occupied only by
-material in quarantine or
+The depot does not maintain permanent residents. Its holding levels are occupied only by material in quarantine or
 transit. The depot's manifest is a rolling record of staging material rather than a
 register of residents.
 
@@ -252,10 +224,8 @@ Security procedures emphasize:
 
 ## 11. Personnel and Operational Life
 
-The depot's personnel serve on tightly controlled rotations, drawn from the parent station's apparatus.
-Their work is
-the staging work of the cold apparatus: receiving, assessing, suppressing, and transferring material that
-will spend
+The depot's personnel serve on tightly controlled rotations, drawn from the parent station's apparatus. Their work is
+the staging work of the cold apparatus: receiving, assessing, suppressing, and transferring material that will spend
 its real containment life at White Grave.
 
 A working day at the depot may include:
@@ -269,10 +239,8 @@ A working day at the depot may include:
 
 ## 12. Incident Archive
 
-The depot's incident records are dominated by quarantine and staging events: assessment incidents, suppression
-system
-events, and transfer coordination issues. Material that exceeds the depot's capacity moves to the
-parent station, and
+The depot's incident records are dominated by quarantine and staging events: assessment incidents, suppression system
+events, and transfer coordination issues. Material that exceeds the depot's capacity moves to the parent station, and
 the depot's history is largely the history of successful staging.
 
 ---
@@ -302,10 +270,8 @@ is not expected to change.
 
 ## Archive Closing
 
-ACT-SUB-02-RU-N, the Frost Hollow Depot, is the cold apparatus's staging ground: a quarantine facility
-in the far
-north where incoming material is held, assessed, suppressed, and prepared for the long sleep
-at White Grave — or
+ACT-SUB-02-RU-N, the Frost Hollow Depot, is the cold apparatus's staging ground: a quarantine facility in the far
+north where incoming material is held, assessed, suppressed, and prepared for the long sleep at White Grave — or
 silently removed from the chain when the sleep is not the answer.
 
 It is called a depot because that is its nature: a place of holding,

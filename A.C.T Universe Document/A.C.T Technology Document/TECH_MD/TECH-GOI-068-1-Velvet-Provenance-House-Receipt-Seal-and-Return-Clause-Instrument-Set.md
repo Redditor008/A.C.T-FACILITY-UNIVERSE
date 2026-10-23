@@ -53,9 +53,8 @@ a claim on it. The House writes the answer onto paper, seals it, and attaches a 
 the sealed answer as confidence. The dossier records the internal rule the House repeats most often: a thing without
 origin belongs first to its harm.
 
-A.C.T holds no complete instrument and does not field any part of this set. The record exists so that a
-recovered receipt can be recognised, handled, and interpreted without a reader having to guess which part of it is
-load-bearing.
+A.C.T holds no complete instrument and does not field any part of this set. The record exists so that a recovered
+receipt can be recognised, handled, and interpreted without a reader having to guess which part of it is load-bearing.
 
 - What it does: fixes an origin story in a form other hidden markets accept.
 - What it does not do: reduce the hazard of the object it describes.
@@ -91,8 +90,7 @@ comes from the dossier's own dual-filing rule and is treated here as a hard gate
 
 The instrument set is paper, wax, and language. The certificate is a single sheet carrying lot identity, a witness
 chain, and a status line. The seal is wax impressed with a code the dossier describes as responsive. The return
-clause is a short block of text naming the conditions under which the object may be given back and to
-whom.
+clause is a short block of text naming the conditions under which the object may be given back and to whom.
 
 - Paper: heavyweight, sized for handling, no watermark identified by A.C.T.
 - Ink: two distinct hands present on the recovered fragment.
@@ -124,9 +122,9 @@ so no comparison baseline exists.
 | Forged receipts identified | 2 of 2 submitted |
 | Objects made safe | 0 confirmed |
 
-Three dates for one signature is the most consequential figure in this table. It means the fragment was either written
-across three occasions or its ink does not date linearly. Neither reading is settled, and both are filed under OPEN
-QUESTIONS.
+Three dates for one signature is the most consequential figure in this table. It
+means the fragment was either written across three occasions or its ink does not
+date linearly. Neither reading is settled, and both are filed under OPEN QUESTIONS.
 
 ---
 
@@ -221,8 +219,8 @@ without a settled method would add a fourth number to a set that is already unex
 
 ## FAULT ISOLATION
 
-Symptoms are read against the recovered fragment and the two forgeries. Each row names what a handler sees and what
-to do about it.
+Symptoms are read against the recovered fragment and the two
+forgeries. Each row names what a handler sees and what to do about it.
 
 | SYMPTOM | PROBABLE CAUSE | REQUIRED ACTION |
 |---|---|---|
@@ -255,15 +253,15 @@ Two failures are recorded, both of them intake failures rather than instrument f
 
 ### INTAKE MISS — CONFIRMED
 
-Two forged Velvet-style receipts entered an A.C.T assessment as genuine and were not caught at intake. Both were
-identified only during later comparison, and the comparison step now written into the operating procedure exists
-because of that miss.
+Two forged Velvet-style receipts entered an A.C.T assessment as genuine and were not
+caught at intake. Both were identified only during later comparison, and the
+comparison step now written into the operating procedure exists because of that miss.
 
 ### UNLOGGED SEPARATION — CONFIRMED
 
-The authentic return clause was separated from its parent certificate during that comparison and the separation was
-not logged at the time. The clause is now held apart deliberately, but the original pairing is unrecoverable from
-A.C.T records.
+The authentic return clause was separated from its parent certificate during that
+comparison and the separation was not logged at the time. The clause is now held
+apart deliberately, but the original pairing is unrecoverable from A.C.T records.
 
 ### OPERATED FAILURE — NONE RECORDED
 

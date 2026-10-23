@@ -5,8 +5,7 @@ witnesses and allied institutions that exist outside A.C.T. and act on the same 
 
 ## Start Here
 
-GOIs are not only enemies. Alignment classes run POSITIVE, NEUTRAL, NEGATIVE, WORK, BUSINESS,
-TRADE and UNKNOWN, and
+GOIs are not only enemies. Alignment classes run POSITIVE, NEUTRAL, NEGATIVE, WORK, BUSINESS, TRADE and UNKNOWN, and
 a dossier may describe an ally, a customer, or a community that simply lives somewhere
 A.C.T has decided to pretend is empty.
 

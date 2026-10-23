@@ -17,8 +17,7 @@ The Passage is not an enemy. Its posture toward the Facility is cooperated, moni
 appropriate, its threat level is 3, and its status is a passage market under monitoring. These
 tickets are therefore appropriated material from a cooperating partner, which carries an obligation
 a seizure would not: material taken from a partner has to be accounted for to that partner if the
-relationship is to survive, and whether that holding is understood on both sides has not been
-established.
+relationship is to survive, and whether that holding is understood on both sides has not been established.
 
 A white ticket is not a fare. The dossier describes a job assessed for destination, passenger
 condition, route urgency, payment ability and admissibility risk. A Route Reader then checks whether
@@ -28,9 +27,8 @@ means holding evidence of a passage ordinary means could not carry.
 
 **WHITE TICKET PRESENTATION RULE**
 
-A white ticket is not a fare and not A.C.T authority. Personnel must not present one to any carrier,
-border office or passenger, must not issue one, and must not copy one, because a copy of a ticket is
-a ticket.
+A white ticket is not a fare and not A.C.T authority. Personnel must not present one to any carrier, border
+office or passenger, must not issue one, and must not copy one, because a copy of a ticket is a ticket.
 
 ---
 
@@ -71,9 +69,8 @@ any Facility documentary stock so they cannot be mistaken for A.C.T instruments.
 
 ## 2.2 What personnel must not do
 
-Personnel must not present a ticket to any carrier, ferry office, border room or passenger.
-Presenting one would assert a passage the Facility has not arranged and bind it to terms nobody here
-has read.
+Personnel must not present a ticket to any carrier, ferry office, border room or passenger. Presenting
+one would assert a passage the Facility has not arranged and bind it to terms nobody here has read.
 
 Personnel must not copy, photograph into a working file, or transcribe a ticket.
 
@@ -107,17 +104,15 @@ statement about volume that no ledger entry can give. Whether the archive holds 
 or from several is not established, and the distinction matters: pages from one book describe one
 depot, while pages from several describe a network.
 
-The dossier records that a Route Reader checks ordinary transport before a route class is assigned,
-which means the Passage measures its own exceptions. It knows how many journeys it takes that could
-have gone by ordinary means. That is a statistic the Facility does not have and cannot derive from
-the material held here.
+The dossier records that a Route Reader checks ordinary transport before a route class is assigned, which
+means the Passage measures its own exceptions. It knows how many journeys it takes that could have gone by
+ordinary means. That is a statistic the Facility does not have and cannot derive from the material held here.
 
 ## 1.4 What a ticket does not record
 
 No ticket in the archive carries a passenger name, a fare, a date or a destination legible as such.
-Whether the Passage leaves these off, records them elsewhere, or records them in a form the archive
-has not read is not established, and this file does not treat the absence as either concealment or
-omission.
+Whether the Passage leaves these off, records them elsewhere, or records them in a form the archive has
+not read is not established, and this file does not treat the absence as either concealment or omission.
 
 The absence is nevertheless the reason the tickets cannot be used. A document that carries no
 identifying particular cannot be matched to a person, a journey or a claim, which removes the only

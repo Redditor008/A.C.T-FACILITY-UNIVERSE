@@ -41,8 +41,7 @@ The command window gave her twelve minutes to report to Lower Medical Review.
 
 That alone told her how little room remained.
 
-No ordinary review moved that quickly. No ordinary continuity examination bypassed floor routing and
-appeared directly
+No ordinary review moved that quickly. No ordinary continuity examination bypassed floor routing and appeared directly
 on a personal terminal. This had not been initiated by a nervous supervisor or
 a local medic worried about fatigue
 markers. It had risen from somewhere higher, colder, and much more certain.
@@ -70,8 +69,7 @@ Truth altered a person long before it left visible marks.
 She shut the water off, returned to the desk, and opened the false shells
 one by one.
 
-All twelve fragments remained where she had hidden them. Buried in dead migration chains,
-archive syntax anomalies,
+All twelve fragments remained where she had hidden them. Buried in dead migration chains, archive syntax anomalies,
 maintenance residue, obsolete pharmacological cross-tags, review drift, and personnel continuity errors. Invisible to
 anyone who was not already searching with the exact hunger that had brought her
 here.
@@ -95,8 +93,7 @@ She began typing.
 
 If you are reading this, then either the fragments held or the lie weakened.
 Do not try to remember all of it at once.
-Do not assemble the route inside a single mind. Follow contradiction, not revelation. The
-bloom is tied to the sleep
+Do not assemble the route inside a single mind. Follow contradiction, not revelation. The bloom is tied to the sleep
 below. The founders were not cowards. They were already too close. If you have
 reached this far, then you are too
 close as well.
@@ -184,8 +181,7 @@ into protocol.
 
 “What did they authorize?”
 
-Tavian swallowed. “004-F, if necessary. Review begins at H. If retention markers remain active,
-they escalate.”
+Tavian swallowed. “004-F, if necessary. Review begins at H. If retention markers remain active, they escalate.”
 
 One month. Then worse.
 
@@ -198,10 +194,8 @@ East stairwell. Dead maintenance rail. Somewhere. Anywhere.
 
 Then reason returned with all its buried cruelty.
 
-Run where? To the surface, carrying half-assembled abyssal continuity in her head? Into the
-world the Facility had
-spent centuries protecting by forgetting? Into a reality that might not survive her memory
-intact if the founders had
+Run where? To the surface, carrying half-assembled abyssal continuity in her head? Into the world the Facility had
+spent centuries protecting by forgetting? Into a reality that might not survive her memory intact if the founders had
 judged correctly?
 
 No.
@@ -273,8 +267,7 @@ weight of inevitability do the work.
 
 At last Sera stepped forward.
 
-Inside, the chamber was smaller than she expected. Not a dramatic surgical theater. Just
-a narrow reclined chair,
+Inside, the chamber was smaller than she expected. Not a dramatic surgical theater. Just a narrow reclined chair,
 monitoring lines, two filtered lamps, and a tray of sealed vials glowing faintly gold
 under sterile glass.
 
@@ -283,10 +276,8 @@ NEMNOLIA. The bloom reduced to medicine. The dream of the abyss made injectable.
 She sat. The restraints were present but unused. That, somehow, was worse than if
 they had bound her immediately.
 
-A technician attached the first baseline sensors in silence. Another checked the cartridge seals.
-The medic from the
-door reviewed the protocol strip with the practiced calm of someone reading weather statistics
-rather than the
+A technician attached the first baseline sensors in silence. Another checked the cartridge seals. The medic from the
+door reviewed the protocol strip with the practiced calm of someone reading weather statistics rather than the
 measured dismantling of a person’s continuity.
 
 Tavian entered last. He should not have been there, she realized. Not at her
@@ -315,8 +306,7 @@ The medic approached with the first vial.
 
 Sera laughed once under her breath.
 
-Not because anything was funny. Because the absurdity had finally completed itself. The Facility
-that had been built
+Not because anything was funny. Because the absurdity had finally completed itself. The Facility that had been built
 to make itself forget was now asking one of its archivists to prove the
 logic of its own survival by becoming part of
 it.
@@ -374,16 +364,13 @@ Tavian had not saved her. Not yet.
 But he had bought her one more margin of uncertainty. One more chance that
 the lower dose would be judged sufficient.
 
-Minutes lost shape after that. Questions. Light. Gold-cold drifting through the blood. The strange
-sensation of
-thoughts brushing against one another without fully locking. Once she remembered the old route
-so clearly she almost
+Minutes lost shape after that. Questions. Light. Gold-cold drifting through the blood. The strange sensation of
+thoughts brushing against one another without fully locking. Once she remembered the old route so clearly she almost
 tasted metal. Once she forgot what year it was for three full breaths and
 came back with tears on her face she had not
 felt forming.
 
-At some point someone said, “Retention degrading.” At another point someone else answered, “Not
-enough for
+At some point someone said, “Retention degrading.” At another point someone else answered, “Not enough for
 escalation.”
 
 Those words became the only prayer left in the room.
@@ -429,8 +416,7 @@ dropped her, the folded maintenance slip she had hidden there hours earlier.
 
 Blank to any ordinary eye. Meaningless.
 
-But inside it, somewhere beyond immediate recall, lived the reminder that she had already
-done what she needed to do.
+But inside it, somewhere beyond immediate recall, lived the reminder that she had already done what she needed to do.
 
 The truth was no longer hers to hold whole. It had been broken, hidden,
 and given away in parts.

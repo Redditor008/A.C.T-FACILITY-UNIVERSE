@@ -22,17 +22,13 @@
 
 #### Archive Note
 Seismic Data Interpretation and Restriction Enforcement System is the one-hundred-eleventh main A.C.T technology
-expanded into an individual record. The F-4 Laboratory and Research Level dossier identifies the
-Seismic Data
-Interpretation Center as the floor's support for the relay's seismic watch: deep-earth observations are
-assessed,
+expanded into an individual record. The F-4 Laboratory and Research Level dossier identifies the Seismic Data
+Interpretation Center as the floor's support for the relay's seismic watch: deep-earth observations are assessed,
 correlated against known patterns, and interpreted with the research floor's analytical capacity, including restricted
-analysis supporting the abyss-related review chain. The same dossier identifies data restriction enforcement as
-one of
+analysis supporting the abyss-related review chain. The same dossier identifies data restriction enforcement as one of
 F-4's most sensitive security functions.
 
-SDIRES exists because some data is dangerous before it becomes an object. Nusantara does
-not only collect signals; it
+SDIRES exists because some data is dangerous before it becomes an object. Nusantara does not only collect signals; it
 decides who is allowed to understand what those signals imply.
 
 Controlled label: **SDIRES READ-BELOW-WITH-LOCKS**.
@@ -50,16 +46,13 @@ INTERPRET THE SIGNAL ONLY INSIDE THE AUTHORITY THAT CAN BEAR IT.
 Seismic Data Interpretation and Restriction Enforcement System is Nusantara Deep Relay's F-4 analytical and
 security-control technology for deep-earth observation data, seismic anomalies, volcanic-geological correlations,
 abyss-linked signal interpretation, and review-chain restricted conclusions. It connects the research floor's
-interpretation center with data systems, controlled study spaces, Security access gates, Archive custody, and
-Seismic
+interpretation center with data systems, controlled study spaces, Security access gates, Archive custody, and Seismic
 Analysis Support review channels.
 
 SDIRES is not a sensor array and not a records vault. Sensors collect; vaults
 store. SDIRES interprets and restricts.
-It sits between raw deep monitoring and institutional knowledge, deciding which patterns may be
-compared, which
-conclusions may be written, which personnel may see a correlation, and when the research
-floor must refuse analysis
+It sits between raw deep monitoring and institutional knowledge, deciding which patterns may be compared, which
+conclusions may be written, which personnel may see a correlation, and when the research floor must refuse analysis
 because the available authority is not deep enough.
 
 Approved roles include seismic pattern interpretation, deep-earth data correlation, volcanic-material context review,
@@ -72,15 +65,11 @@ controlled report generation, and escalation when interpretation touches structu
 
 Nusantara was built around a dual watch: the sea above and the structure below.
 Earlier technology already allowed the
-relay to listen, record, and process deep-earth signals. F-4 created the next problem. Once
-the data existed,
-personnel had to interpret it, and interpretation could become more sensitive than the signal
-itself.
+relay to listen, record, and process deep-earth signals. F-4 created the next problem. Once the data existed,
+personnel had to interpret it, and interpretation could become more sensitive than the signal itself.
 
-The F-4 dossier records a research level where marine biology, deep-earth samples, and seismic
-data interpretation
-operate together. SDIRES developed to keep that research power under restriction. It formalizes the
-line between
+The F-4 dossier records a research level where marine biology, deep-earth samples, and seismic data interpretation
+operate together. SDIRES developed to keep that research power under restriction. It formalizes the line between
 useful analysis and forbidden overreach, especially where deep-earth interpretation may correlate with abyss-linked
 structures or the deeper architecture beneath the Primary Facility.
 
@@ -136,12 +125,9 @@ by the archive: Console count, Median review time, Refusal records. They are fil
 
 Interpretation is where raw deep-earth data becomes a claim, and a claim is more
 hazardous than the data it
-came from. The system separates the two stages physically: the console reads, the correlation
-workstation
-interprets, and the refusal gate records what an analyst was not permitted to correlate.
-A refusal is kept
-as a record rather than as an absence, because an unrecorded refusal is indistinguishable
-from data that was
+came from. The system separates the two stages physically: the console reads, the correlation workstation
+interprets, and the refusal gate records what an analyst was not permitted to correlate. A refusal is kept
+as a record rather than as an absence, because an unrecorded refusal is indistinguishable from data that was
 never examined.
 
 ## INTERFACE AND OPERATING ENVELOPE
@@ -175,8 +161,7 @@ Console count, review time, and refusal count are NOT MEASURED.
 
 ### Numbered Operating Sequence
 
-The sequence keeps reading and interpreting as separate acts with separate authorities. Combining them
-is
+The sequence keeps reading and interpreting as separate acts with separate authorities. Combining them is
 how an analyst produces a conclusion nobody authorised anybody to reach.
 
 1. Open the console at the analyst's graded clearance.
@@ -196,19 +181,13 @@ coverage, which is the one thing a later review cannot distinguish from an unexa
 hazard.
 
 Before interpretation begins, SDIRES verifies dataset origin, monitoring chain, clearance band, review-chain tags,
-known pattern permissions, and the purpose of analysis. Personnel may compare data only against
-pattern libraries
-authorized for the study. If a correlation indicates abyss-linked behavior, Primary Facility structure relevance,
-or
-restricted deep-earth continuity, the system pauses normal interpretation and routes the event to review
-authority.
+known pattern permissions, and the purpose of analysis. Personnel may compare data only against pattern libraries
+authorized for the study. If a correlation indicates abyss-linked behavior, Primary Facility structure relevance, or
+restricted deep-earth continuity, the system pauses normal interpretation and routes the event to review authority.
 
-Reports generated through SDIRES are written in graded layers. Low-sensitivity operational findings may return
-to
-command or F-3 holding doctrine. Restricted findings move to Archive custody and review-chain files.
-Refused analyses
-are documented as refusals rather than silently abandoned, so later personnel know the absence
-is an authority
+Reports generated through SDIRES are written in graded layers. Low-sensitivity operational findings may return to
+command or F-3 holding doctrine. Restricted findings move to Archive custody and review-chain files. Refused analyses
+are documented as refusals rather than silently abandoned, so later personnel know the absence is an authority
 boundary and not a missing record.
 
 ---
@@ -224,8 +203,7 @@ boundary and not a missing record.
 | Quarterly | re-confirm review-chain membership |
 
 Quarterly re-confirmation of review-chain membership is deliberate friction. Authority in this system is
-granted per person and per correlation class, and membership inherited from a previous assignment
-is the
+granted per person and per correlation class, and membership inherited from a previous assignment is the
 most common way a review boundary is crossed without anybody deciding to cross it.
 
 ## FAULT ISOLATION
@@ -240,52 +218,41 @@ most common way a review boundary is crossed without anybody deciding to cross i
 
 ## KNOWN LIMITS
 
-SDIRES can enforce access and stop unauthorized analysis, but it cannot make personnel unaware
-of patterns they have
-already recognized. It also cannot guarantee that separated datasets remain harmless; two allowed findings
-may become
-restricted when compared by a cleared but careless analyst. The system depends on disciplined
-staff and honest
+SDIRES can enforce access and stop unauthorized analysis, but it cannot make personnel unaware of patterns they have
+already recognized. It also cannot guarantee that separated datasets remain harmless; two allowed findings may become
+restricted when compared by a cleared but careless analyst. The system depends on disciplined staff and honest
 reporting when intuition outruns authorization.
 
 Known failure modes include overbroad correlation, under-tagged data, review-chain delay, unauthorized pattern
 comparison, analyst inference spillover, report-layer mismatch, Archive export error, Security denial bypass attempt,
-refusal record loss, and command pressure to release a useful conclusion before its restriction
-is resolved.
+refusal record loss, and command pressure to release a useful conclusion before its restriction is resolved.
 
 ---
 
 ## FAILURE HISTORY
 
 ### SDIRES-Meaning Before File Review
-A research review found that analysts could reach restricted conclusions before a formal record
-existed, leaving
-sensitive meaning outside Archive control. Current SDIRES doctrine treats interpretation events as recordable from
-the
+A research review found that analysts could reach restricted conclusions before a formal record existed, leaving
+sensitive meaning outside Archive control. Current SDIRES doctrine treats interpretation events as recordable from the
 first authorized comparison.
 
 ### SDIRES-Correlation Overreach Incident
-A deep-earth pattern was once compared against a library beyond the study's approved scope
-because the workstation
-permitted a broader search. Current procedure requires pattern-library access to match the review authority
-of the
+A deep-earth pattern was once compared against a library beyond the study's approved scope because the workstation
+permitted a broader search. Current procedure requires pattern-library access to match the review authority of the
 specific study, not only the analyst's personal clearance.
 
 ### SDIRES-Refusal Record Standard
-Earlier refusals to analyze sensitive data were sometimes logged as simple non-results. Current doctrine
-records
+Earlier refusals to analyze sensitive data were sometimes logged as simple non-results. Current doctrine records
 refused analysis as a controlled outcome, preserving the fact that authority stopped the study.
 
 ---
 
 ## DIVISION USE
 
-Research uses SDIRES to interpret deep-earth observations and connect them to sample studies. Seismic
-Analysis Support
+Research uses SDIRES to interpret deep-earth observations and connect them to sample studies. Seismic Analysis Support
 uses it to compare relay signals against approved patterns. Security uses it to enforce
 access and stop unauthorized
-report movement. Archive uses it to receive graded outputs and refusal records. Containment uses
-approved findings to
+report movement. Archive uses it to receive graded outputs and refusal records. Containment uses approved findings to
 adjust holding and response doctrine when seismic interpretation affects resident or site risk.
 
 SDIRES doctrine holds that understanding below the earth is itself a controlled material.

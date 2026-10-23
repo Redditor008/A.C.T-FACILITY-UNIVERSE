@@ -9,16 +9,12 @@ Authority: Archive Draft Record
 ============================================================
 
 Core Premise
-A low-to-mid clearance Facility Archiver is assigned to reconcile old ENTITY records with modern
-AFD anomaly files.
-What begins as archival cleanup gradually exposes contradictions surrounding the oldest buried records in
-A.C.T
+A low-to-mid clearance Facility Archiver is assigned to reconcile old ENTITY records with modern AFD anomaly files.
+What begins as archival cleanup gradually exposes contradictions surrounding the oldest buried records in A.C.T
 history.
 
-At the same time, a minor breach involving the 004-Series amnestic compounds reveals that
-several senior personnel
-have undergone repeated memory erasure across many years. All evidence leads back to the
-ABYSS Floor.
+At the same time, a minor breach involving the 004-Series amnestic compounds reveals that several senior personnel
+have undergone repeated memory erasure across many years. All evidence leads back to the ABYSS Floor.
 
 The protagonist begins asking questions the Facility was never meant to ask about itself.
 
@@ -49,18 +45,14 @@ Canonical Revelation Set
 This storyline is built on three chosen revelations.
 
 Revelation A — ERE Did Not Find ITHYOS by Accident
-The earliest precursor organization, Entity Research Exploration / ERE, was not simply conducting a
-normal excavation
+The earliest precursor organization, Entity Research Exploration / ERE, was not simply conducting a normal excavation
 or accidental deep-earth survey. Its descent path shows signs of pre-contact influence, dream-guidance, memory
-fracture, or anomaly-driven compulsion. The founders were being led toward the abyssal discovery before
-they
+fracture, or anomaly-driven compulsion. The founders were being led toward the abyssal discovery before they
 understood what they were following.
 
 Revelation C — NEMNOLIA Is Connected to ITHYOS
-The anomaly later classified as AFD-NB-004, known as The Forgetting Bloom / NEMNOLIA, THE
-GOLDEN VEIL, is not merely a
-useful memory-erasing plant discovered later in Facility history. It is connected to the abyssal
-origin event and to
+The anomaly later classified as AFD-NB-004, known as The Forgetting Bloom / NEMNOLIA, THE GOLDEN VEIL, is not merely a
+useful memory-erasing plant discovered later in Facility history. It is connected to the abyssal origin event and to
 the dream-state of ITHYOS itself.
 
 This implies that the very source of A.C.T’s amnestic system emerged from the same
@@ -68,8 +60,7 @@ buried truth that the Facility
 fears most.
 
 Revelation D — The Founders Erased Themselves
-The original founders, later remembered as the earliest form of the O5 Council, deliberately
-erased or mutilated their
+The original founders, later remembered as the earliest form of the O5 Council, deliberately erased or mutilated their
 own memories after the first abyssal contact. This self-erasure was not an accident and
 not merely an act of panic. It
 was a containment decision.
@@ -110,8 +101,7 @@ reconciliation work, they discover:
 What should have been routine archival correction begins to resemble hidden structural sabotage.
 
 Act II — The 004-Series Irregularity
-A minor amnestic containment or dosage irregularity reveals that multiple senior personnel have been
-repeatedly
+A minor amnestic containment or dosage irregularity reveals that multiple senior personnel have been repeatedly
 memory-wiped over many years. The erasures are not random and do not correspond only
 to standard witness-sanitation
 events.

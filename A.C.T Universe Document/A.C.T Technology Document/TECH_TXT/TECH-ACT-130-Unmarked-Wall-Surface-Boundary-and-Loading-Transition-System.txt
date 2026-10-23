@@ -38,12 +38,9 @@ TECHNOLOGY RECORD - UNMARKED WALL SURFACE BOUNDARY AND LOADING TRANSITION SYSTEM
 
 Archive Note
 Unmarked Wall Surface Boundary and Loading Transition System is the one-hundred-thirtieth main A.C.T technology
-expanded into an individual record. The Redwood Veil F-9 Surface Transition Level dossier identifies
-F-9 as the
-uppermost operational level of the buried core, handling vehicle screening, delivery intake, loading bay
-processing,
-and the primary elevator bank between legitimate campus and buried facility. It records the
-unmarked wall separating
+expanded into an individual record. The Redwood Veil F-9 Surface Transition Level dossier identifies F-9 as the
+uppermost operational level of the buried core, handling vehicle screening, delivery intake, loading bay processing,
+and the primary elevator bank between legitimate campus and buried facility. It records the unmarked wall separating
 civilian and Facility activity, concealed boundary monitoring, loading bay screening, communication separation, and
 doctrine that the surface boundary is the first containment line.
 
@@ -60,19 +57,16 @@ SCREEN EVERYTHING THAT ENTERS, CONCEAL EVERYTHING THAT SCREENS, AND KEEP THE WAL
 
 FUNCTION OUTLINE
 
-Unmarked Wall Surface Boundary and Loading Transition System is Redwood Veil's F-9 surface-to-core boundary
-technology
+Unmarked Wall Surface Boundary and Loading Transition System is Redwood Veil's F-9 surface-to-core boundary technology
 for separating legitimate campus activity from buried Facility operations while allowing vehicles, deliveries,
-personnel, and supplies to pass through controlled routes. It combines an ordinary-appearing separation wall,
-vehicle
+personnel, and supplies to pass through controlled routes. It combines an ordinary-appearing separation wall, vehicle
 screening bay, delivery intake, loading bay processing, primary elevator control, transition corridors, concealed
 monitoring, and separated communication channels.
 
 UWSBLTS is not simple camouflage. It is a logistics machine whose security depends on
 remaining indistinguishable from
 campus infrastructure. The system must receive legitimate traffic, separate Facility traffic, inspect vehicles,
-process shipments, route material downward, prevent civilian discovery, and preserve the historical record of
-an
+process shipments, route material downward, prevent civilian discovery, and preserve the historical record of an
 unmarked wall that has never been breached.
 
 Approved roles include surface boundary concealment, vehicle screening, delivery intake, loading-bay chain of custody,
@@ -81,15 +75,12 @@ enforcement, surface incident response, and buried-core seal support when the bo
 
 ORIGIN AND DEVELOPMENT
 
-Redwood Veil required a legitimate surface identity large enough to explain traffic, power, deliveries,
-vehicles, and
-personnel presence. The buried complex also required a transition level through which real operational
-traffic could
+Redwood Veil required a legitimate surface identity large enough to explain traffic, power, deliveries, vehicles, and
+personnel presence. The buried complex also required a transition level through which real operational traffic could
 move without revealing that it belonged to a containment facility. F-9 developed as the
 answer to both needs.
 
-The unmarked wall became the central design choice. Instead of making the Facility boundary
-impressive, the complex
+The unmarked wall became the central design choice. Instead of making the Facility boundary impressive, the complex
 made it forgettable. Screening, loading, monitoring, and elevator movement occur behind ordinary construction. UWSBLTS
 formalizes the engineering and procedure that keep that ordinariness functional.
 
@@ -119,8 +110,7 @@ Facility authority.
 
 TECHNICAL SPECIFICATION
 
-Values are restated from this record's boundary component list and F-9 concealment doctrine. Anything
-not
+Values are restated from this record's boundary component list and F-9 concealment doctrine. Anything not
 held is marked NOT MEASURED and filed under OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
@@ -159,12 +149,9 @@ held is marked NOT MEASURED and filed under OPEN QUESTIONS.
 
 The first containment door at Redwood Veil does not look like a door, and
 its security depends on staying
-that way. The system has to receive legitimate campus traffic, separate Facility traffic, inspect
-vehicles,
-process shipments, and route material downward without any of it reading as unusual from
-the campus side, so
-concealment is a functional requirement of the screening hardware rather than a finish applied
-over it.
+that way. The system has to receive legitimate campus traffic, separate Facility traffic, inspect vehicles,
+process shipments, and route material downward without any of it reading as unusual from the campus side, so
+concealment is a functional requirement of the screening hardware rather than a finish applied over it.
 
 INTERFACE AND OPERATING ENVELOPE
 
@@ -214,22 +201,17 @@ the elevator.
 
 Step 5 holds nothing and carries traffic, which is why it is the step
 most often treated as optional. A
-screening bay that shares a network with campus information technology has described the Facility
-to anyone
+screening bay that shares a network with campus information technology has described the Facility to anyone
 with a maintenance console, and the separators are load-bearing for exactly that reason.
 
 Before any transition movement, UWSBLTS verifies vehicle identity, delivery manifest, personnel authorization, cargo
 status, Recovery or Logistics custody, elevator destination, communication channel, and whether the movement belongs
-to legitimate campus activity or buried-core operations. Civilian activity is kept on the ordinary
-side of the wall.
+to legitimate campus activity or buried-core operations. Civilian activity is kept on the ordinary side of the wall.
 Facility movement occurs through screened routes and loading architecture hidden inside ordinary logistics.
 
-Monitoring is continuous but concealed. Screening must appear routine when observed from legitimate campus
-context. If
-an object, person, or shipment cannot be reconciled with its manifest, the boundary control
-post holds the movement
-before elevator access. If the unmarked wall is threatened, F-9 initiates boundary response and
-may seal the buried
+Monitoring is continuous but concealed. Screening must appear routine when observed from legitimate campus context. If
+an object, person, or shipment cannot be reconciled with its manifest, the boundary control post holds the movement
+before elevator access. If the unmarked wall is threatened, F-9 initiates boundary response and may seal the buried
 core behind the transition level.
 
 SERVICING AND CALIBRATION
@@ -248,10 +230,8 @@ SERVICING AND CALIBRATION
 | Annually                   | exercise the emergency core-seal actuator                                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Boundary servicing is scheduled to look like ordinary campus maintenance. The sensor route is
-walked on a
-cycle that matches grounds inspection so that the people performing it are not themselves
-an anomaly on the
+Boundary servicing is scheduled to look like ordinary campus maintenance. The sensor route is walked on a
+cycle that matches grounds inspection so that the people performing it are not themselves an anomaly on the
 campus side of the wall.
 
 FAULT ISOLATION
@@ -273,24 +253,19 @@ FAULT ISOLATION
 KNOWN LIMITS
 
 UWSBLTS depends on disciplined ordinariness. Any visible overreaction, unusual traffic rhythm, repeated denied
-delivery, or excessive security posture can teach outsiders that the wall matters. The system
-also relies on manifest
-truth; a false ordinary shipment can enter screening if its paperwork survives initial review.
-Elevator centralization
+delivery, or excessive security posture can teach outsiders that the wall matters. The system also relies on manifest
+truth; a false ordinary shipment can enter screening if its paperwork survives initial review. Elevator centralization
 creates control strength and single-route vulnerability at the same time.
 
 Known failure modes include screening complacency, manifest laundering, concealed sensor outage, loading-bay
 bottleneck, civilian misrouting, elevator access conflict, communication boundary bleed, visible Security patterning,
-wall maintenance anomaly, and emergency seal activation that reveals the boundary by reacting too
-dramatically.
+wall maintenance anomaly, and emergency seal activation that reveals the boundary by reacting too dramatically.
 
 FAILURE HISTORY
 
 UWSBLTS-Unbreached Wall Record
-The unmarked wall's unbreached status is preserved as an operational record rather than a
-comfort. Current procedure
-treats every maintenance request, delivery error, and civilian proximity event near the wall as
-part of the boundary
+The unmarked wall's unbreached status is preserved as an operational record rather than a comfort. Current procedure
+treats every maintenance request, delivery error, and civilian proximity event near the wall as part of the boundary
 history.
 
 UWSBLTS-Screening Visibility Review
@@ -299,8 +274,7 @@ different from ordinary
 logistics. Current doctrine requires screening to be complete while preserving campus-normal appearance.
 
 UWSBLTS-Elevator Route Control Finding
-Transition drills showed that the primary elevator bank is both efficient and vulnerable. Current
-operation treats
+Transition drills showed that the primary elevator bank is both efficient and vulnerable. Current operation treats
 elevator access as a boundary event, not merely vertical transportation.
 
 DIVISION USE

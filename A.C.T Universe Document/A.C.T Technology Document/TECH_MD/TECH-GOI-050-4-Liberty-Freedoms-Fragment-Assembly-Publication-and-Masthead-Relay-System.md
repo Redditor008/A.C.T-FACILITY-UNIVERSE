@@ -168,8 +168,7 @@ Seizure counts, relay mapping, and insider cases are NOT MEASURED.
 
 The sequence classifies the source before it drafts the response. The two are usually
 done in the opposite order under public pressure, and the result is a denial
-written before anyone has established whether the document was stolen, which is the error
-the network is counting on.
+written before anyone has established whether the document was stolen, which is the error the network is counting on.
 
 1. Seize or preserve the assembly before release where possible.
 2. Trace every fragment to its access route.
@@ -223,10 +222,9 @@ is the proof it claims to want. Every L.F. publication is treated as both
 intelligence and weapon.
 
 It also cannot be fully pre-empted. The network prepares leaks with archival care and
-releases them through channels that resist takedown, and its most effective leaks are those
-it never has to steal. Pre-release detection depends on recognising an assembly in progress,
-and an assembly made entirely of declassified material looks like ordinary research until it
-is finished.
+releases them through channels that resist takedown, and its most effective leaks are those it
+never has to steal. Pre-release detection depends on recognising an assembly in progress, and an
+assembly made entirely of declassified material looks like ordinary research until it is finished.
 
 ---
 

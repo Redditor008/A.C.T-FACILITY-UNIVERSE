@@ -5,8 +5,7 @@ been the wrong word for them since Tuesday. History implies distance, a settled 
 can no longer reach up through paper and procedure to touch anyone living, and these files
 had made a liar of that comfortably.
 
-History implied distance. It implied that whatever violence had produced the present had already
-settled into shape
+History implied distance. It implied that whatever violence had produced the present had already settled into shape
 and could no longer reach up through paper and procedure to touch the living.
 But the deeper she moved into the ERE
 files, the less they resembled the dead past of the Facility and the more
@@ -15,22 +14,18 @@ tension—something buried, compressed, and waiting for the wrong pressure to sp
 
 The oldest surviving ERE records were housed in a side branch of Lower Archive
 that most people only knew existed
-because its environmental diagnostics occasionally failed and produced maintenance tickets no one wanted. The
-corridor
-leading there was narrower than the other archive routes and lined with reinforced glass
-panels now rendered opaque by
+because its environmental diagnostics occasionally failed and produced maintenance tickets no one wanted. The corridor
+leading there was narrower than the other archive routes and lined with reinforced glass panels now rendered opaque by
 age and interior shielding film. Whatever had once been stored behind them had either
 been moved or sealed so
-completely that even Archive Administration no longer treated the spaces as meaningful rooms. The
-lights hummed with
+completely that even Archive Administration no longer treated the spaces as meaningful rooms. The lights hummed with
 the dim amber tone reserved for legacy material that was not dangerous enough to
 justify a black seal and not safe
 enough to trust under ordinary white light.
 
 Sera preferred it immediately.
 
-The main archive floors still pretended to belong to a functioning institution. This branch
-had the honesty to feel
+The main archive floors still pretended to belong to a functioning institution. This branch had the honesty to feel
 haunted.
 
 Her temporary extension did not open the ERE ledgers by itself. She needed Mila
@@ -59,8 +54,7 @@ interest.”
 
 The lock released.
 
-Inside the recessed shelf sat six bound ledgers, two preservation cartons, and one warped
-cylindrical case stamped
+Inside the recessed shelf sat six bound ledgers, two preservation cartons, and one warped cylindrical case stamped
 with a dead insignia Sera recognized only from the historical appendix in Part Five:
 **Entity Research Exploration**.
 The old precursor organization. The people before the Facility had become the Facility.
@@ -72,10 +66,8 @@ Back at the reading station, she opened the first volume and was struck immediat
 by how different the language
 felt.
 
-Later A.C.T files were hard, precise, armored by doctrine. Even early post-abyss records had
-begun to learn the dry
-self-protective tone of classification. But the ERE ledgers still belonged to a time when
-people wrote as if naming a
+Later A.C.T files were hard, precise, armored by doctrine. Even early post-abyss records had begun to learn the dry
+self-protective tone of classification. But the ERE ledgers still belonged to a time when people wrote as if naming a
 thing might help them survive it.
 
 The entries were dense with uncertainty:
@@ -89,14 +81,11 @@ Sera copied the phrase into her shadow file at once.
 
 She went page by page, building a timeline from fragments. ERE had not begun
 as a single unified descent project. It
-had been a scattered collection of impossible cases folded together by obsession and necessity:
-a corpse that would
+had been a scattered collection of impossible cases folded together by obsession and necessity: a corpse that would
 not decay yet never woke, a forest that returned people out of sequence, tremors
 without geological cause, a
-noblewoman who had not aged since before her grandchildren were born, coastal serpent die-offs
-around moonless nights,
-and recurring private journals from unrelated scholars all drawing nearly identical spiral cross-sections of
-a depth
+noblewoman who had not aged since before her grandchildren were born, coastal serpent die-offs around moonless nights,
+and recurring private journals from unrelated scholars all drawing nearly identical spiral cross-sections of a depth
 no survey had confirmed.
 
 That last pattern appeared too often to ignore.
@@ -122,8 +111,7 @@ Then she found the first dream logs.
 
 They were not filed as hallucinations. They were filed as field guidance.
 
-Three separate ERE members—two historians and one survey engineer—had described recurring sleep experiences in
-which
+Three separate ERE members—two historians and one survey engineer—had described recurring sleep experiences in which
 they walked through stone corridors they had never entered while following a pale light
 that did not illuminate the
 walls so much as reveal where the walls had already chosen to be. At
@@ -133,8 +121,7 @@ deep below hearing.
 
 The records did not claim certainty. That made them worse.
 
-They merely noted the practical effect: after each dream cycle, the affected personnel were
-able to sketch route
+They merely noted the practical effect: after each dream cycle, the affected personnel were able to sketch route
 structures later found to correspond closely with real subterranean formations uncovered during excavation.
 
 Sera sat back, staring at the lines until the script blurred.
@@ -143,12 +130,9 @@ They had not found the route by drilling blind. They had followed something.
 
 She pulled the next carton toward her and opened it with shaking fingers. Inside
 were map sheets layered in protective
-mesh, each more chaotic than the clean architectural plans used in modern Facility archives.
-Measurements sprawled
-into margins. Tunnel lines crossed out and redrawn. Pressure guesses corrected by hand. And
-through all of it, in gold
-pencil now faded almost to nothing, the same descent path appeared over and over—tightening,
-correcting, refusing to
+mesh, each more chaotic than the clean architectural plans used in modern Facility archives. Measurements sprawled
+into margins. Tunnel lines crossed out and redrawn. Pressure guesses corrected by hand. And through all of it, in gold
+pencil now faded almost to nothing, the same descent path appeared over and over—tightening, correcting, refusing to
 vanish.
 
 One corner note had been underlined so heavily it had torn the paper fibers.
@@ -196,8 +180,7 @@ Sera lifted her eyes. “That’s worse.”
 
 “Yes,” Mila said. “Usually.”
 
-For a while neither of them spoke. The ventilation hissed softly overhead. Somewhere deeper
-in the branch a
+For a while neither of them spoke. The ventilation hissed softly overhead. Somewhere deeper in the branch a
 preservation unit clicked on, ran for a few seconds, and fell silent again.
 
 At last Sera asked, “How much do you know?”
@@ -228,15 +211,13 @@ The rest of the afternoon became a descent of its own.
 
 Sera stopped searching for the first direct mention of ITHYOS and started searching for
 the gravitational field around
-it—the accumulation of smaller impossible things that bent toward the same point. What she
-found was not one
+it—the accumulation of smaller impossible things that bent toward the same point. What she found was not one
 expedition leading to one discovery, but a chain of encounters converging on a single
 inevitability.
 
 A non-aging founder-group thought to be suffering a limited entity event. A cluster of
 contradictory serpent behavior
-incidents. Anomalous tremors beneath regions with no stable fault explanation. Recovered tissue notes tied
-to pale
+incidents. Anomalous tremors beneath regions with no stable fault explanation. Recovered tissue notes tied to pale
 blue-white biological matter. Dream logs. Route sketches. Memory instability.
 
 The pattern did not point downward by accident. It assembled itself.
@@ -282,10 +263,8 @@ signal lamps marked end-cycle.
 
 When she finally returned the materials to their shelf, she handled them with the
 care one might reserve for live
-explosives or relic bones. The old dead insignia on the cylindrical case looked different
-now. Less like a
-predecessor. More like an early shell built around something no human institution had ever
-truly controlled.
+explosives or relic bones. The old dead insignia on the cylindrical case looked different now. Less like a
+predecessor. More like an early shell built around something no human institution had ever truly controlled.
 
 At the threshold of the branch, Mila was waiting.
 
@@ -348,8 +327,7 @@ the maps:
 She encrypted the file, closed it, and sat alone in the dark while the
 Facility around her continued its hidden labor.
 
-Somewhere below, beyond mapped floors and corrected history, a sleeping thing remained asleep beneath
-the world.
+Somewhere below, beyond mapped floors and corrected history, a sleeping thing remained asleep beneath the world.
 
 And now, for the first time, Sera understood that the first descent had not
 been an accident of human curiosity.

@@ -21,12 +21,9 @@ This file is the complete individual record of **F-2, the Deep Memetic and Infoh
 Vaulting**, the second-deepest
 numbered floor of **ACT-SITE-03-JP-E, Kurokawa Archive Node**.
 
-F-2 is the level for the node's most dangerous readable material: memetic symbols requiring
-visual denial, information
-hazards requiring knowledge restriction, and material that must never be fully read. The floor
-is dominated by Blind
-Box and Eye Box configurations — the containment architectures through which the node holds
-material whose danger
+F-2 is the level for the node's most dangerous readable material: memetic symbols requiring visual denial, information
+hazards requiring knowledge restriction, and material that must never be fully read. The floor is dominated by Blind
+Box and Eye Box configurations — the containment architectures through which the node holds material whose danger
 grows with understanding.
 
 This dossier records the floor in full institutional language: what it is, what it
@@ -42,8 +39,7 @@ Name:** Deep Memetic and Infohazard Vaulting **Floor Type:** Restricted Memetic 
 **Vertical Position:** Second-deepest numbered floor of the node **Floor Above:** F-3 (Active Anomalous Document
 Storage) **Floor Below:** F-1 (The Unread Archive) **Containment Character:** MEMETIC / INFOHAZARD holding under
 visual-denial and knowledge-restriction doctrine **Primary Function:** Holding of memetic symbols requiring visual
-denial, information hazards requiring knowledge restriction, and material that must never be fully read
-**Dominant
+denial, information hazards requiring knowledge restriction, and material that must never be fully read **Dominant
 Architecture:** Blind Box and Eye Box configurations **Access Posture:** Restricted; observation governed by each
 holding's individual restriction set **Current Status:** Active
 
@@ -51,8 +47,7 @@ holding's individual restriction set **Current Status:** Active
 
 ## 2. Dossier Purpose
 
-The Kurokawa Archive Node holds the eastern region's anomalous information — but not all
-dangerous information is
+The Kurokawa Archive Node holds the eastern region's anomalous information — but not all dangerous information is
 dangerous the same way. Some material can be safely read by trained personnel under
 controlled conditions. A smaller
 class cannot: memetic symbols that act on anyone who sees them, information hazards whose
@@ -71,17 +66,14 @@ whose danger is understanding itself.
 
 ### 3.1 Vertical Position
 
-F-2 lies directly beneath the Active Anomalous Document Storage level of F-3 and directly
-above the Unread Archive of
+F-2 lies directly beneath the Active Anomalous Document Storage level of F-3 and directly above the Unread Archive of
 F-1. It is the boundary floor between the node's readable holding system and its
 unreadable archive.
 
 ### 3.2 Relationship to F-3
 
-Material held on F-3 that demonstrates memetic or infohazard properties — whose danger escalates
-with understanding,
-or whose visual component makes standard document storage unsafe — is transferred down to
-F-2. The transfer route
+Material held on F-3 that demonstrates memetic or infohazard properties — whose danger escalates with understanding,
+or whose visual component makes standard document storage unsafe — is transferred down to F-2. The transfer route
 between the two floors is the node's most active vertical holding corridor.
 
 ### 3.3 Relationship to F-1
@@ -100,26 +92,22 @@ without admitting F-2 personnel to F-1 business.
 
 ### 4.1 The Memetic Recognition
 
-F-2's character developed from the node's early encounters with memetic material: symbols and documents
-that acted on
+F-2's character developed from the node's early encounters with memetic material: symbols and documents that acted on
 those who perceived them, regardless of the viewer's intent. The node learned that such
 material required containment
 from perception before it could be contained in structure.
 
 ### 4.2 Development of Blind and Eye Box Doctrine
 
-The floor's characteristic confinement types — the **Blind Box**, which denies perception of its
-contents, and the
+The floor's characteristic confinement types — the **Blind Box**, which denies perception of its contents, and the
 **Eye Box**, which disciplines how its contents may be perceived — were developed and
 proven on F-2, and have since
 been adopted across the Facility's informational holding standards.
 
 ### 4.3 Modern Configuration
 
-In its modern configuration, F-2 holds the node's most dangerous readable material under individual
-restriction sets,
-with the floor's architecture and doctrine organized around the principle that access to F-2
-is always access to a
+In its modern configuration, F-2 holds the node's most dangerous readable material under individual restriction sets,
+with the floor's architecture and doctrine organized around the principle that access to F-2 is always access to a
 specific holding under a specific restriction set — never general access to the floor.
 
 ---
@@ -128,23 +116,19 @@ specific holding under a specific restriction set — never general access to th
 
 ### 5.1 Floor Command
 
-F-2 operates under the Archive Division's restricted-vault command, administered day-to-day by a **Floor Vault
-Chief**
+F-2 operates under the Archive Division's restricted-vault command, administered day-to-day by a **Floor Vault Chief**
 appointed by the Site Director.
 
 ### 5.2 Authority over Access
 
 Access to F-2 holdings is governed by restriction sets established at the time of
 each holding's assignment to the
-floor. The Vault Chief administers those restrictions; the Site Director or the Archive Division
-command revises them.
+floor. The Vault Chief administers those restrictions; the Site Director or the Archive Division command revises them.
 
 ### 5.3 Authority Limits
 
-F-2 holds no authority to release material to general readable storage, to transfer material
-to F-1, or to permit
-understanding of holdings beyond their restriction sets. Its authority is custodial: to hold, preserve,
-and guard each
+F-2 holds no authority to release material to general readable storage, to transfer material to F-1, or to permit
+understanding of holdings beyond their restriction sets. Its authority is custodial: to hold, preserve, and guard each
 holding under its restriction set.
 
 ---
@@ -153,20 +137,17 @@ holding under its restriction set.
 
 ### 6.1 Archive Division
 
-The Archive Division operates F-2's vaulting regimens: preservation, environmental control, Blind Box and Eye
-Box
+The Archive Division operates F-2's vaulting regimens: preservation, environmental control, Blind Box and Eye Box
 maintenance, and the execution of each holding's restriction protocols.
 
 ### 6.2 Intelligence Division Liaison
 
-Intelligence personnel coordinate with F-2 on the assessment of memetic and infohazard material, under
-the
+Intelligence personnel coordinate with F-2 on the assessment of memetic and infohazard material, under the
 knowledge-restriction doctrine that governs the floor.
 
 ### 6.3 Security Division
 
-Security guards the floor's access architecture and enforces the holding-specific access rules that govern
-entry to
+Security guards the floor's access architecture and enforces the holding-specific access rules that govern entry to
 the floor's vaults.
 
 ### 6.4 Medical Division (Cognitive Care)
@@ -203,15 +184,13 @@ perception of the holding is itself the hazard.
 
 An Eye Box unit is engineered to govern how its contents may be perceived:
 observation is structured through specific
-viewing apparatus, under specific conditions, and by specific personnel. Where a Blind Box denies
-perception, an Eye
+viewing apparatus, under specific conditions, and by specific personnel. Where a Blind Box denies perception, an Eye
 Box disciplines it.
 
 ### 7.4 Visual-Denial Infrastructure
 
 The floor's memetic vaults are built around visual-denial infrastructure: architectural and procedural systems that
-prevent the perception of symbols whose viewing is dangerous. The infrastructure is the floor's
-first containment
+prevent the perception of symbols whose viewing is dangerous. The infrastructure is the floor's first containment
 layer — before the vault structure, before the restriction set, before the guard.
 
 ---
@@ -220,14 +199,12 @@ layer — before the vault structure, before the restriction set, before the gua
 
 ### 8.1 Power
 
-F-2 draws on the node's main supply with dedicated backup. The perception-control systems —
-the apparatus maintaining
+F-2 draws on the node's main supply with dedicated backup. The perception-control systems — the apparatus maintaining
 Blind Box and Eye Box boundaries — are on protected circuits with automatic transfer.
 
 ### 8.2 Environment
 
-Environmental systems are compartmented per unit, with the gallery kept under conditions that favor
-personnel and
+Environmental systems are compartmented per unit, with the gallery kept under conditions that favor personnel and
 preservation. Each vault's environment is individually regulated to its holding's requirements.
 
 ### 8.3 Monitoring
@@ -255,17 +232,14 @@ unit or function.
 
 ### 9.2 Unit Access
 
-Unit access follows each holding's restriction set. Personnel entering Blind Box or Eye Box
-units operate under the
+Unit access follows each holding's restriction set. Personnel entering Blind Box or Eye Box units operate under the
 perception protocols governing the specific holding, under documentation requirements, and with cognitive monitoring
 where the holding's danger warrants it.
 
 ### 9.3 Escalation and Transfer Procedures
 
-F-2 maintains standing procedures for the escalation of material: holdings whose danger increases beyond
-the floor's
-capacity are assessed for transfer to F-1's Unread Archive; holdings whose danger diminishes may
-be assessed for
+F-2 maintains standing procedures for the escalation of material: holdings whose danger increases beyond the floor's
+capacity are assessed for transfer to F-1's Unread Archive; holdings whose danger diminishes may be assessed for
 return to readable storage on F-3.
 
 ### 9.4 Relation to F-1 Closure
@@ -282,8 +256,7 @@ modified access conditions until the closure is resolved.
 
 ### 10.1 Filing Doctrine
 
-F-2's holding manifest is preserved in the clearance-gated Kurokawa Annex Register. This dossier does
-not enumerate
+F-2's holding manifest is preserved in the clearance-gated Kurokawa Annex Register. This dossier does not enumerate
 the floor's holdings.
 
 ### 10.2 Holding Character
@@ -309,8 +282,7 @@ is held where it cannot be seen, and studied only through the Eye Box
 apparatus under the restriction set that governs
 it.
 
-The node's study of AFD-ME-018 — the symbol's propagation mechanics, its perception trigger, and
-the nature of the
+The node's study of AFD-ME-018 — the symbol's propagation mechanics, its perception trigger, and the nature of the
 dread it induces — is pursued under the visual-denial protocols that make the floor's
 research possible. The floor's
 standing rule for the resident is simple: it is to be studied through apparatus
@@ -319,8 +291,7 @@ sight itself.
 
 ### 10.4 Additional Holdings
 
-Other memetic and infohazard material is held on F-2 under individual restriction sets preserved
-in the Annex
+Other memetic and infohazard material is held on F-2 under individual restriction sets preserved in the Annex
 Register. Personnel without specific assignment to those files do not require their names.
 
 ---
@@ -329,22 +300,19 @@ Register. Personnel without specific assignment to those files do not require th
 
 ### 11.1 Rotation and Selection
 
-F-2 personnel are selected from the Archive and Security Divisions' staff with demonstrated experience
-in
+F-2 personnel are selected from the Archive and Security Divisions' staff with demonstrated experience in
 perception-sensitive holding. Rotation is controlled to preserve continuity of holding knowledge.
 
 ### 11.2 Duty Life
 
-Duty on F-2 is governed by restriction sets: rounds, monitoring, vault maintenance, and documentation.
-Personnel work
+Duty on F-2 is governed by restriction sets: rounds, monitoring, vault maintenance, and documentation. Personnel work
 under the awareness that their own perception is part of the containment system —
 that on this floor, what a person
 sees and how they see it is a matter of procedure.
 
 ### 11.3 Cognitive Care
 
-The node's cognitive-care program maintains monitoring for F-2 personnel, particularly those whose duties involve
-Eye
+The node's cognitive-care program maintains monitoring for F-2 personnel, particularly those whose duties involve Eye
 Box observation. Exposure limits and evaluation schedules are enforced as containment parameters.
 
 ---
@@ -355,13 +323,11 @@ Box observation. Exposure limits and evaluation schedules are enforced as contai
 
 F-2 doctrine holds that perception is a containment channel: the floor treats the eye
 and the mind as routes into and
-out of confinement, and its architecture, procedures, and records are built to govern those
-routes.
+out of confinement, and its architecture, procedures, and records are built to govern those routes.
 
 ### 12.2 Visual-Denial Doctrine
 
-F-2 doctrine holds that some material must be denied sight: memetic symbols whose viewing
-is dangerous are held under
+F-2 doctrine holds that some material must be denied sight: memetic symbols whose viewing is dangerous are held under
 visual-denial infrastructure, and the floor's duty is to keep them unseen.
 
 ### 12.3 Restricted-Access Doctrine
@@ -407,8 +373,7 @@ priorities include:
 
 F-2, the Deep Memetic and Infohazard Vaulting, is the level where Kurokawa Archive Node
 contains the material that
-turns knowledge against the knower: memetic symbols held under visual denial, information hazards held
-under knowledge
+turns knowledge against the knower: memetic symbols held under visual denial, information hazards held under knowledge
 restriction, and documents that must never be fully read — in Blind Boxes that
 deny sight and Eye Boxes that
 discipline it.

@@ -39,14 +39,12 @@ TECHNOLOGY RECORD - INTAKE STAGING AND ROUTING SYSTEM
 +----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
-Intake Staging and Routing System is the ninety-first main A.C.T technology expanded into an
-individual record. The
+Intake Staging and Routing System is the ninety-first main A.C.T technology expanded into an individual record. The
 Glass Orchard Relay sub-site dossier defines the relay as an overflow hand for Redwood
 Veil and identifies overflow
 intake as one of its modern roles. The F-2 Processing and Staging Level dossier
 identifies the intake staging area as
-the floor space where recovered material from field operations is logged, assessed against relay
-holding limits, and
+the floor space where recovered material from field operations is logged, assessed against relay holding limits, and
 routed to temporary holding cells, the vault below, or direct transfer preparation.
 
 ISRS exists because the relay's first decision after receipt is not how to keep
@@ -61,20 +59,15 @@ LOG FIRST, TEST LIMITS, ROUTE UNDER AUTHORITY.
 
 FUNCTION SUMMARY
 
-The Intake Staging and Routing System is the F-2 procedural and physical technology that
-receives recovered material,
-exposed persons, field packets, and low-threat anomaly arrivals entering Glass Orchard Relay from recovery
-operations.
-It creates the first relay custody record, checks the arrival against the relay's limits,
-assigns the next location,
+The Intake Staging and Routing System is the F-2 procedural and physical technology that receives recovered material,
+exposed persons, field packets, and low-threat anomaly arrivals entering Glass Orchard Relay from recovery operations.
+It creates the first relay custody record, checks the arrival against the relay's limits, assigns the next location,
 and prevents material from moving through the floor without a record.
 
-ISRS is separate from the Short-Term Holding Vault System. The vault holds. ISRS decides
-whether holding is allowed,
+ISRS is separate from the Short-Term Holding Vault System. The vault holds. ISRS decides whether holding is allowed,
 where it occurs, and whether the item or person must instead move directly to
 transfer preparation or parent-site
-escalation. The system sits between the surface cover, witness processing, temporary holding cells, archive
-buffering,
+escalation. The system sits between the surface cover, witness processing, temporary holding cells, archive buffering,
 and the F-1 vault.
 
 Approved roles include field arrival receipt, intake logging, threat-limit assessment, witness/object/person
@@ -83,8 +76,7 @@ notice, and chain-of-custody initiation.
 
 ORIGIN AND DEVELOPMENT
 
-Glass Orchard Relay grew from witness routing into overflow intake because Redwood Veil's regional
-operations created
+Glass Orchard Relay grew from witness routing into overflow intake because Redwood Veil's regional operations created
 too much traffic for every arrival to go straight to the parent core. That
 growth required a disciplined intake
 decision point. Without ISRS, the relay would have a dangerous gap between arrival and
@@ -93,8 +85,7 @@ something could be placed in the wrong room, assigned the wrong file, or normali
 before anyone had decided whether
 the relay was permitted to hold it.
 
-The F-2 dossier's staging discipline became the system's foundation: every item is logged, assessed
-against relay
+The F-2 dossier's staging discipline became the system's foundation: every item is logged, assessed against relay
 limits, and routed under documentation. ISRS is therefore not only a room but a
 control method for refusing improper
 custody.
@@ -164,8 +155,7 @@ archive: Lane count, Median routing time, Misrouting events. They are filed unde
 
 Routing is the only point in a relay where a mistake is still cheap.
 Once an item is inside a unit or on a
-vehicle the relay has committed resources, staff, and reputation to the earlier judgement. The
-limit
+vehicle the relay has committed resources, staff, and reputation to the earlier judgement. The limit
 checklist therefore exists to be read before movement rather than consulted after arrival.
 
 INTERFACE AND OPERATING ENVELOPE
@@ -218,19 +208,14 @@ intention, and an intention
 cannot be reconciled against a floor position when somebody later asks where the item
 actually went.
 
-On receipt, ISRS staff record source team, arrival time, field condition, provisional threat category,
-required
+On receipt, ISRS staff record source team, arrival time, field condition, provisional threat category, required
 environment, witness relation, medical need, archive attachments, and parent-site instruction. Security confirms
-containment posture and access boundary. Medical reviews living arrivals. Limited Archive opens or attaches
-the
+containment posture and access boundary. Medical reviews living arrivals. Limited Archive opens or attaches the
 temporary file.
 
-The Processing Officer assigns a route: witness processing, temporary holding cell, F-1 vault, direct
-transfer
-preparation, archive buffering, or immediate parent-site escalation. If the arrival exceeds relay limits, ISRS
-must
-refuse local holding and request transfer under maximum procedural restriction. No item or person
-leaves intake
+The Processing Officer assigns a route: witness processing, temporary holding cell, F-1 vault, direct transfer
+preparation, archive buffering, or immediate parent-site escalation. If the arrival exceeds relay limits, ISRS must
+refuse local holding and request transfer under maximum procedural restriction. No item or person leaves intake
 staging without a route entry.
 
 SERVICING AND CALIBRATION
@@ -249,10 +234,8 @@ SERVICING AND CALIBRATION
 | Quarterly                  | rehearse a high-threat refusal at the lane                                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Board-to-floor reconciliation is the meaningful check here. The board is a claim about where
-things are, and
-the relay's routing errors have almost always been visible on that comparison before they
-became visible
+Board-to-floor reconciliation is the meaningful check here. The board is a claim about where things are, and
+the relay's routing errors have almost always been visible on that comparison before they became visible
 anywhere else.
 
 FAULT ISOLATION
@@ -277,14 +260,12 @@ KNOWN LIMITS
 
 ISRS depends on early information that may be incomplete. Field reports may be wrong,
 calm objects may become active,
-witnesses may hide exposure, and low-threat categories may fail under relay conditions. The system
-also depends on
+witnesses may hide exposure, and low-threat categories may fail under relay conditions. The system also depends on
 staff remembering that fast routing is not safe routing unless the record moves with
 the arrival.
 
 Known failure modes include wrong route assignment, missing archive attachment, witness/object confusion, temporary
-cell overuse, F-1 vault request delay, unmarked medical risk, high-threat material accepted as low-threat,
-direct
+cell overuse, F-1 vault request delay, unmarked medical risk, high-threat material accepted as low-threat, direct
 transfer without custody record, and parent-site escalation after movement has already occurred.
 
 FAILURE HISTORY
@@ -300,16 +281,13 @@ direct transfer order. Current
 procedure requires the route board and archive packet to match before movement.
 
 ISRS-High-Threat Refusal Review
-A simulated low-threat arrival escalated during intake. Current doctrine requires rejection criteria to be
-checked
+A simulated low-threat arrival escalated during intake. Current doctrine requires rejection criteria to be checked
 before any local holding assignment is accepted.
 
 DIVISION USE
 
-Recovery Support delivers field arrivals and receives routing orders. Security controls the receiving lane
-and
-movement boundary. Medical evaluates living arrivals and witness injuries. Limited Archive attaches records and
-opens
+Recovery Support delivers field arrivals and receives routing orders. Security controls the receiving lane and
+movement boundary. Medical evaluates living arrivals and witness injuries. Limited Archive attaches records and opens
 custody files. The Processing Officer owns the route decision until Redwood Veil overrides it.
 
 ISRS doctrine holds that the relay is safest when the first answer is a

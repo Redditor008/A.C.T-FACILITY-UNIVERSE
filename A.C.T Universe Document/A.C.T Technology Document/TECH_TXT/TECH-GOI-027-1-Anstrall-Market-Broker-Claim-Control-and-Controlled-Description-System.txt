@@ -96,14 +96,13 @@ actors is unresolved; unresolved identity is not evidence that the Market itself
 Material is acquired as recovered fragments from intercepted broker contact. No complete Market description
 standard is held and none is expected, because the Market's assets are commercial capacities
 rather than fixed property: a route, identity, or holding point may be abandoned after
-a single transaction. Fragments arrive attached to transaction material and are separated from it
-on intake, never afterwards.
+a single transaction. Fragments arrive attached to transaction
+material and are separated from it on intake, never afterwards.
 
-Custody is split by function. The Trade Interdiction Desk holds the record, Central Archive
-holds the designation, and ACT-SITE-01-US-W / Redwood Veil Complex holds primary file jurisdiction with
-route-specific Site transfer. Material is classed before analysis into Object Custody, Route Intelligence,
-Commercial Intelligence, Exposure Material, and Leadership Indicators, and a single fragment may belong to
-more than one.
+Custody is split by function. The Trade Interdiction Desk holds the record, Central Archive holds the
+designation, and ACT-SITE-01-US-W / Redwood Veil Complex holds primary file jurisdiction with route-specific
+Site transfer. Material is classed before analysis into Object Custody, Route Intelligence, Commercial
+Intelligence, Exposure Material, and Leadership Indicators, and a single fragment may belong to more than one.
 
 
 PHYSICAL OR SYSTEM DESCRIPTION
@@ -198,8 +197,7 @@ Numbered Operating Sequence
 
 The sequence treats a claim as a container before it treats it as text.
 Order matters: the gap is legible only while the wording is still unread, and
-an analyst who reads for content first has already spent the intelligence the withholding
-carried.
+an analyst who reads for content first has already spent the intelligence the withholding carried.
 
 1. Assign the claim to an archive class before analysis.
 2. Route acquisition-prompt wording to exposure review.
@@ -286,9 +284,8 @@ whatever it appears to be.
 CLAIM WORDING ORIGIN — UNRESOLVED
 
 Whether narrowed claim wording is deliberate leadership policy or an informal practice copied independently
-between brokers remains unresolved. The distinction is not academic: policy implies a centre that
-can be pressured, while copied practice implies a convention that survives the removal of
-everyone who began it.
+between brokers remains unresolved. The distinction is not academic: policy implies a centre that can be
+pressured, while copied practice implies a convention that survives the removal of everyone who began it.
 
 BROKER DISPOSABILITY — STANDING PATTERN
 
@@ -302,11 +299,10 @@ to be replaceable with them.
 DIVISION USE
 
 Intelligence Division and the Trade Interdiction Desk hold the record and read the gap
-profile. Recovery Division uses buyer-class indication only where an object is identified. Containment
-Division receives nothing from this record directly and is notified through Object Custody. Civil
-Covert Division prepares a surface explanation where civilian systems were drawn into a described
-exchange. Archive intakes the material and quarantines acquisition-prompt wording. Command reviews before any
-controlled market operation.
+profile. Recovery Division uses buyer-class indication only where an object is identified. Containment Division
+receives nothing from this record directly and is notified through Object Custody. Civil Covert Division
+prepares a surface explanation where civilian systems were drawn into a described exchange. Archive intakes the
+material and quarantines acquisition-prompt wording. Command reviews before any controlled market operation.
 
 
 CROSS-REFERENCES

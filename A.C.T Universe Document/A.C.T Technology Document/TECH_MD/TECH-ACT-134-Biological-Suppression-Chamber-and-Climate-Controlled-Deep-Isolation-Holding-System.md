@@ -22,16 +22,13 @@
 
 #### Archive Note
 Biological Suppression Chamber and Climate-Controlled Deep-Isolation Holding System is the one-hundred-thirty-fourth
-main A.C.T technology expanded into an individual record. The White Grave F-3 Standard Deep-Isolation
-Holding dossier
-identifies F-3 as the station's main holding level for anomalies requiring cold suppression or
-long-term isolation
+main A.C.T technology expanded into an individual record. The White Grave F-3 Standard Deep-Isolation Holding dossier
+identifies F-3 as the station's main holding level for anomalies requiring cold suppression or long-term isolation
 under standard station doctrine. It records biological suppression chambers, climate-controlled individual holding
 units, intake and assessment bays, monitoring galleries, handling corridors, suppression administration, transfer to
 F-2 for entropic escalation, and transfer to F-4 under sample control.
 
-BSCCDIHS exists because White Grave's standard holding is not ordinary holding. The station's daily
-containment work
+BSCCDIHS exists because White Grave's standard holding is not ordinary holding. The station's daily containment work
 is cold, deep, long, and exact; the chamber must keep biological activity below concern
 while preserving enough life,
 body, or behavior for continued custody.
@@ -50,22 +47,19 @@ TRUE.
 ## FUNCTION OUTLINE
 
 Biological Suppression Chamber and Climate-Controlled Deep-Isolation Holding System is White Grave's F-3 holding
-technology for residents that require cold suppression or long-term isolation but do not yet
-require F-2
+technology for residents that require cold suppression or long-term isolation but do not yet require F-2
 failure-tolerant restricted holding or F-1 Long Sleep custody. It combines biological suppression chambers,
 climate-controlled individual holding units, monitoring galleries, handling corridors, intake assignment,
 environmental control, suppression schedules, and transfer routing.
 
-BSCCDIHS is the station's normal work made into infrastructure. Each resident is held in
-a condition matched to its
-biological, environmental, and behavioral requirements. The system treats suppression as containment: not a passive
-temperature setting, but a maintained state verified continuously through environmental, biological, structural, and
-behavioral monitoring.
+BSCCDIHS is the station's normal work made into infrastructure. Each resident is held in a condition matched to its
+biological, environmental, and behavioral requirements. The system treats suppression
+as containment: not a passive temperature setting, but a maintained state verified
+continuously through environmental, biological, structural, and behavioral monitoring.
 
 Approved roles include standard deep-isolation holding, cold-suppression custody, climate-controlled individual
 residency, biological activity reduction, long-duration resident monitoring, suppression schedule administration, F-4
-research transfer, F-2 entropic escalation, intake assignment, and exact documentation for residents held longer
-than
+research transfer, F-2 entropic escalation, intake assignment, and exact documentation for residents held longer than
 staff rotations.
 
 ---
@@ -74,8 +68,7 @@ staff rotations.
 
 White Grave's mission formed around material that must be held cold and held long.
 The station needed a holding floor
-for the majority of that population: residents too demanding for ordinary facility chambers, but
-not yet so unstable
+for the majority of that population: residents too demanding for ordinary facility chambers, but not yet so unstable
 that they required the entropic floor or the Long Sleep. F-3 became the answer.
 
 BSCCDIHS developed as the station's standard response to typical residents. Biological suppression chambers reduced
@@ -113,8 +106,7 @@ resident remains assigned.
 
 ## TECHNICAL SPECIFICATION
 
-Values are restated from this record's holding component list and White Grave F-3 containment
-doctrine.
+Values are restated from this record's holding component list and White Grave F-3 containment doctrine.
 Anything not held is marked NOT MEASURED and filed under OPEN QUESTIONS.
 
 | HOLDING PARAMETER | VALUE |
@@ -135,10 +127,8 @@ Anything not held is marked NOT MEASURED and filed under OPEN QUESTIONS.
 | Median hold duration | NOT MEASURED |
 | Profile expirations | NOT MEASURED |
 
-Suppression counts as containment only while the environmental profile behind it is current. The
-floor holds
-biological residents under conditions derived from a recorded profile, and the profile expires whether
-or
+Suppression counts as containment only while the environmental profile behind it is current. The floor holds
+biological residents under conditions derived from a recorded profile, and the profile expires whether or
 not anything has gone wrong, so the schedule controller and the profile terminal are
 treated as containment
 hardware rather than as laboratory convenience.
@@ -195,14 +185,12 @@ which turns a holding decision into an unrecoverable assumption.
 
 Before assignment, BSCCDIHS verifies resident identity, intake source, cold-suppression requirement, isolation
 duration, biological activity baseline, environmental profile, handling limits, Medical risk, Research interest, and
-entropic indicators. The Floor Holding Chief assigns the resident to a suppression chamber or
-climate-controlled unit
+entropic indicators. The Floor Holding Chief assigns the resident to a suppression chamber or climate-controlled unit
 and establishes monitoring cadence.
 
 Routine operation consists of environmental checks, biological activity review, behavioral comparison, suppression
 schedule confirmation, documentation updates, and transfer-threshold review. Most work occurs through monitoring
-rather than entry. Residents approved for study move to F-4 under sample control. Residents
-whose instability or
+rather than entry. Residents approved for study move to F-4 under sample control. Residents whose instability or
 entropic character exceeds standard capacity move down to F-2 under escalation doctrine.
 
 ---
@@ -235,10 +223,8 @@ do the work properly.
 
 ## KNOWN LIMITS
 
-BSCCDIHS depends on the assumption that suppression can remain standard. A resident may adapt
-to cold. A biological
-baseline may drift slowly enough to hide inside expected variation. Long-duration custody may outlast
-the staff who
+BSCCDIHS depends on the assumption that suppression can remain standard. A resident may adapt to cold. A biological
+baseline may drift slowly enough to hide inside expected variation. Long-duration custody may outlast the staff who
 remember why a setting was chosen. Climate control can also become too trusted, causing
 personnel to treat a
 maintained low-activity state as safety rather than managed danger.
@@ -256,9 +242,8 @@ A floor review found that suppression schedules were sometimes described as envi
 doctrine records suppression state as a containment condition subject to review, alarm, and escalation.
 
 ### BSCCDIHS-Long-Duration Record Finding
-A resident held across multiple staff rotations developed documentation gaps around its original suppression
-rationale. Current records preserve why a profile exists, not only the numbers assigned to
-it.
+A resident held across multiple staff rotations developed documentation gaps around its original
+suppression rationale. Current records preserve why a profile exists, not only the numbers assigned to it.
 
 ### BSCCDIHS-Sorting Threshold Correction
 A slow entropic indicator was once interpreted as ordinary cold-system wear. Current procedure requires
@@ -269,13 +254,11 @@ restricted-hold review when a resident damages the systems that maintain its sup
 ## DIVISION USE
 
 Containment Division operates the suppression chambers and unit assignments. Security controls access and transfer
-routes. Medical advises on biological hazard and personnel exposure. Research receives authorized samples and
-returns
-findings to holding regimens. Archive preserves long-duration custody records so the resident's history survives
-personnel rotation.
+routes. Medical advises on biological hazard and personnel exposure. Research receives authorized samples and returns
+findings to holding regimens. Archive preserves long-duration custody
+records so the resident's history survives personnel rotation.
 
-BSCCDIHS doctrine holds that standard White Grave containment is quiet only because the cold
-is being maintained every
+BSCCDIHS doctrine holds that standard White Grave containment is quiet only because the cold is being maintained every
 minute.
 
 ---

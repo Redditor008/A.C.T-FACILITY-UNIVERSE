@@ -22,18 +22,14 @@
 
 #### Archive Note
 Media Propagation Tracking Center System is the one-hundred-nineteenth main A.C.T technology expanded into an
-individual record. The F-4 Research and Analysis Level dossier identifies the media propagation tracking
-center as the
-floor system that tracks the spread of anomalous media: documents, images, and recordings whose
-anomalous character
-includes transmission or replication. The dossier states that the center informs Kurokawa's media response
-operations
+individual record. The F-4 Research and Analysis Level dossier identifies the media propagation tracking center as the
+floor system that tracks the spread of anomalous media: documents, images, and recordings whose anomalous character
+includes transmission or replication. The dossier states that the center informs Kurokawa's media response operations
 and the Facility's wider secrecy doctrine.
 
 MPTCS exists because some files do not stay files. They move through copies, captions,
 thumbnails, recordings,
-quotations, fragments, corrupted versions, and the people who believe they are only sharing ordinary
-media.
+quotations, fragments, corrupted versions, and the people who believe they are only sharing ordinary media.
 
 Controlled label: **MPTCS FOLLOW-THE-COPY CHAIN**.
 
@@ -48,8 +44,7 @@ TRACK THE SPREAD BEFORE THE SPREAD BECOMES THE CONTAINMENT SITE.
 ## FUNCTION SUMMARY
 
 Media Propagation Tracking Center System is Kurokawa's F-4 tracking, correlation, and response-support technology for
-anomalous documents, images, audio, video, scans, recordings, digital captures, and copied text whose danger
-includes
+anomalous documents, images, audio, video, scans, recordings, digital captures, and copied text whose danger includes
 replication or transmission. It follows suspect media across controlled archive systems, recovered devices, field
 seizures, internal reports, and authorized public-threat watch channels.
 
@@ -64,22 +59,19 @@ spreading through study.
 
 Approved roles include replication-chain mapping, derivative identification, anomalous media family grouping,
 public-secrecy risk triage, Intelligence warning support, Archive custody correlation, redaction-floor support,
-controlled takedown recommendation, and escalation when a media object is no longer contained by
-its source file.
+controlled takedown recommendation, and escalation when a media object is no longer contained by its source file.
 
 ---
 
 ## ORIGIN AND DEVELOPMENT
 
-Kurokawa's archive originally treated dangerous media as holdings: items to be received, stored, studied,
-redacted, or
+Kurokawa's archive originally treated dangerous media as holdings: items to be received, stored, studied, redacted, or
 sealed. Propagating media broke that model. A file with copies is not a single
 holding; it is a moving population. A
 recording with viewers can become an event chain. A scan can become worse than
 the object scanned.
 
-F-4's propagation center was created to study that movement. MPTCS formalizes the center's technology:
-controlled data
+F-4's propagation center was created to study that movement. MPTCS formalizes the center's technology: controlled data
 comparison, derivative tracking, Intelligence liaison, and secrecy response support, all under exposure restrictions
 that prevent the tracker from becoming a new distribution point.
 
@@ -132,10 +124,8 @@ archive: Terminal count, Median ruling time, Replication escapes. They are filed
 | Median ruling time | NOT MEASURED |
 | Replication escapes | NOT MEASURED |
 
-Tracking replication is analysis performed on material that is still active, so the centre
-is built around
-isolation rather than throughput. The preview filter is the component most often resented and
-most often
+Tracking replication is analysis performed on material that is still active, so the centre is built around
+isolation rather than throughput. The preview filter is the component most often resented and most often
 vindicated: an analyst who previews an unfiltered copy to speed a ruling has created
 a second exposure
 inside the facility that is supposed to be counting them.
@@ -171,8 +161,7 @@ Terminal count, ruling time, and escapes are NOT MEASURED.
 
 ### Numbered Operating Sequence
 
-The sequence keeps custody and analysis connected. A derivative ruled without reference to the
-source record
+The sequence keeps custody and analysis connected. A derivative ruled without reference to the source record
 is a guess, and a guess recorded as a ruling is worse than an
 admission of uncertainty.
 
@@ -196,11 +185,9 @@ method, Intelligence relevance, and whether public-sector watch is authorized. A
 derivative views wherever possible. Each copy, fragment, caption, recompression, transcript, thumbnail, or recording
 trace is classified as source, derivative, carrier, false derivative, or unknown.
 
-If spread risk is confirmed, the system builds a response package without exporting hazardous
-content unnecessarily.
+If spread risk is confirmed, the system builds a response package without exporting hazardous content unnecessarily.
 Intelligence receives pattern, route, and urgency; Archive receives custody and derivative records; Security receives
-access risk; Redaction receives safe-release guidance if the media must be described. Public intervention
-is
+access risk; Redaction receives safe-release guidance if the media must be described. Public intervention is
 recommended only through approved secrecy channels.
 
 ---
@@ -233,17 +220,14 @@ failed.
 
 ## KNOWN LIMITS
 
-MPTCS can track propagation, but it cannot always distinguish anomalous spread from human behavior.
-People copy
+MPTCS can track propagation, but it cannot always distinguish anomalous spread from human behavior. People copy
 strange media without needing compulsion. Platforms transform files automatically. Compression, translation,
-transcription, and commentary may produce harmless derivatives or dangerous ones. The system must avoid
-both
+transcription, and commentary may produce harmless derivatives or dangerous ones. The system must avoid both
 underreaction and the creation of panic around an ordinary circulation pattern.
 
 Known failure modes include false derivative classification, analyst exposure through preview, uncontrolled
 screenshot, public-watch overreach, delayed Intelligence warning, dangerous transcript generation, deletion record
-becoming a carrier, anomalous copy appearing inside a report, platform mirror missed, and response
-action teaching
+becoming a carrier, anomalous copy appearing inside a report, platform mirror missed, and response action teaching
 outside actors that the media matters.
 
 ---
@@ -256,10 +240,8 @@ response delay while derivatives
 multiplied. Current MPTCS doctrine treats each copy chain as a living containment problem.
 
 ### MPTCS-Preview Exposure Warning
-A filtered preview once preserved enough structure to affect an analyst's attention and speech
-pattern. Current
-procedure requires preview methods to be reviewed against the specific media family, not treated
-as universally safe.
+A filtered preview once preserved enough structure to affect an analyst's attention and speech pattern. Current
+procedure requires preview methods to be reviewed against the specific media family, not treated as universally safe.
 
 ### MPTCS-Response Signal Concern
 Intelligence review found that aggressive removal can draw attention to anomalous media. Current recommendations
@@ -269,10 +251,8 @@ include secrecy impact: a response must contain spread without making curiosity 
 
 ## DIVISION USE
 
-Researcher Division operates the tracking center and analyzes propagation mechanics. Intelligence uses MPTCS to
-assess
-public spread and secrecy risk. Archive Division maintains source and derivative custody. Security enforces
-terminal
+Researcher Division operates the tracking center and analyzes propagation mechanics. Intelligence uses MPTCS to assess
+public spread and secrecy risk. Archive Division maintains source and derivative custody. Security enforces terminal
 isolation and export limits. Medical monitors analysts when media exposure carries cognitive risk.
 
 MPTCS doctrine holds that a copied anomaly is not contained by finding the first

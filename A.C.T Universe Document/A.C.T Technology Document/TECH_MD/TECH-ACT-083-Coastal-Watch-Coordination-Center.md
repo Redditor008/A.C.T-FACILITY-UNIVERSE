@@ -21,14 +21,10 @@
 | AUTHORITY | Watch Officer, Watch Chief, Nusantara Site Command, and Central Archive |
 
 #### Archive Note
-Coastal Watch Coordination Center is the eighty-third main A.C.T technology expanded into an individual
-record. The
-Ash Tide Watchpoint dossier defines the sub-site as the relay's coastal eye, responsible for
-coastal anomaly watch,
-sea-entry relay, volcanic-event observation support, and hidden emergency intake. The F-2 Operations and Watch
-Level
-dossier identifies the watch coordination center as the space where continuous observation of assigned
-coastal
+Coastal Watch Coordination Center is the eighty-third main A.C.T technology expanded into an individual record. The
+Ash Tide Watchpoint dossier defines the sub-site as the relay's coastal eye, responsible for coastal anomaly watch,
+sea-entry relay, volcanic-event observation support, and hidden emergency intake. The F-2 Operations and Watch Level
+dossier identifies the watch coordination center as the space where continuous observation of assigned coastal
 corridors, instrument feeds, and reporting coordination are conducted.
 
 CWCC exists because the coast does not schedule its anomalies. A.C.T must keep watch
@@ -50,15 +46,13 @@ SEE FIRST, REPORT CLEANLY, STAGE ONLY UNDER AUTHORITY.
 The Coastal Watch Coordination Center is the F-2 watch system that organizes Ash Tide's
 continuous observation of
 assigned coastal corridors. It receives instrument feeds, personnel observations, vessel reports, volcanic-signature
-notices, maritime traffic patterns, wildlife anomalies, and surface boundary concerns, then turns that watch
-into
+notices, maritime traffic patterns, wildlife anomalies, and surface boundary concerns, then turns that watch into
 reports to the parent Nusantara Deep Relay.
 
 CWCC is not a lookout window. It is the operational discipline that prevents a
 small coastal sub-site from missing the
 moment when ordinary coastline becomes anomaly route. It coordinates watch schedules, report categories, escalation
-thresholds, sea-entry staging requests, and handoff to the Emergency Intake and Secure Storage System
-when recovered
+thresholds, sea-entry staging requests, and handoff to the Emergency Intake and Secure Storage System when recovered
 material or personnel need receipt.
 
 Approved roles include coastal anomaly watch, maritime corridor observation, watch schedule control, parent-relay
@@ -68,17 +62,13 @@ reporting, recovery staging notice, surface-boundary warning, and post-event wat
 
 ## ORIGIN AND DEVELOPMENT
 
-Ash Tide began as a simple relay watchpoint. Repeated coastal anomaly appearances made rotating
-observation
-insufficient, and the site was upgraded to permanent staffing. Permanent staffing required a buried
-operations floor
+Ash Tide began as a simple relay watchpoint. Repeated coastal anomaly appearances made rotating observation
+insufficient, and the site was upgraded to permanent staffing. Permanent staffing required a buried operations floor
 where the watch could be more than a person looking seaward. F-2 became that
 floor.
 
-The watch coordination center developed around one principle: Ash Tide sees what Nusantara's island
-core cannot see
-directly. Its assigned corridors are local, narrow, and consequential. A missed glimmer in surf,
-an unusual vessel
+The watch coordination center developed around one principle: Ash Tide sees what Nusantara's island core cannot see
+directly. Its assigned corridors are local, narrow, and consequential. A missed glimmer in surf, an unusual vessel
 path, a volcanic signature at the wrong time, or sea-entry traffic out of sequence
 can become the first sign of a
 recovery operation, public exposure, or breach.
@@ -91,8 +81,7 @@ CWCC makes local watch accountable to parent command.
 
 A CWCC installation includes observation consoles, coastal feed panels, vessel-tracking boards, watch logs,
 parent-relay reporting terminals, event classification cards, shift boards, escalation indicators, secure
-communication links, and staging request controls. It is placed below the surface cover level
-so observation can
+communication links, and staging request controls. It is placed below the surface cover level so observation can
 continue without exposing the concealed watch to visitors or public station traffic.
 
 Known components include:
@@ -135,8 +124,7 @@ archive: Corridor count, Report latency, Watch rotation length. They are filed u
 | Report latency | NOT MEASURED |
 | Watch rotation length | NOT MEASURED |
 
-The center is the operational discipline that stops a small coastal sub-site from missing
-the moment when
+The center is the operational discipline that stops a small coastal sub-site from missing the moment when
 ordinary coastline becomes an anomaly route. A report may state that the observer is
 unsure, and that
 uncertainty is part of the record.
@@ -185,22 +173,17 @@ Coastal watch, Watch Officer with Watch Chief.
 
 Step-down: the shift board closes and the watch log files to the reconstruction drawer.
 Emergency: an
-uncertainty marker goes to the parent relay immediately, because a reporting delay review found
-staff could
+uncertainty marker goes to the parent relay immediately, because a reporting delay review found staff could
 observe locally for too long before notifying.
 
 During normal operation, watch personnel maintain continuous coverage of assigned coastal corridors. Observations are
-marked by source, time, location, confidence, environmental condition, and whether the event may involve
-maritime
-anomaly activity, volcanic signature, sea-entry traffic, ordinary civilian movement, or cover risk. The Watch
-Officer
-decides whether the event remains local, routes to the parent relay, or triggers staging
-preparation.
+marked by source, time, location, confidence, environmental condition, and whether the event may involve maritime
+anomaly activity, volcanic signature, sea-entry traffic, ordinary civilian movement, or cover risk. The Watch Officer
+decides whether the event remains local, routes to the parent relay, or triggers staging preparation.
 
 If recovery is expected, CWCC coordinates with F-1 intake, F-3 surface cover, port or
 vessel contacts, and Nusantara
-command. If the event is uncertain, staff continue watch rather than inventing clarity. Reporting
-delay is treated as
+command. If the event is uncertain, staff continue watch rather than inventing clarity. Reporting delay is treated as
 a safety issue because the parent relay cannot act on what Ash Tide failed
 to send.
 
@@ -234,30 +217,24 @@ consumable. The reporting delay review is why uncertainty travels early rather t
 
 ## KNOWN LIMITS
 
-CWCC can coordinate observation, but it cannot see through weather, false calm, faulty instruments,
-staff fatigue, or
-anomaly concealment. Coastal corridors are busy and ambiguous. Ordinary boats, wildlife, tide behavior, volcanic
-haze,
+CWCC can coordinate observation, but it cannot see through weather, false calm, faulty instruments, staff fatigue, or
+anomaly concealment. Coastal corridors are busy and ambiguous. Ordinary boats, wildlife, tide behavior, volcanic haze,
 storm light, and civilian activity can resemble early anomaly indicators.
 
 Known failure modes include missed watch window, over-reporting, under-reporting, false vessel classification, delayed
-parent-relay notice, watch fatigue, instrumentation blind spot, and staging an intake before authority is
-confirmed. A
-watchpoint's first danger is not always the anomaly. Sometimes it is confidence that nothing
-is happening.
+parent-relay notice, watch fatigue, instrumentation blind spot, and staging an intake before authority is confirmed. A
+watchpoint's first danger is not always the anomaly. Sometimes it is confidence that nothing is happening.
 
 ---
 
 ## FAILURE HISTORY
 
 ### CWCC-Permanent Watch Formation
-The F-2 dossier states that permanent watch doctrine developed after repeated coastal anomaly appearances
-required
+The F-2 dossier states that permanent watch doctrine developed after repeated coastal anomaly appearances required
 permanent staffing. CWCC was formalized as the operational seat of that permanent watch.
 
 ### CWCC-Reporting Delay Review
-A coastal sighting exercise showed that watch staff could continue local observation too long
-before notifying the
+A coastal sighting exercise showed that watch staff could continue local observation too long before notifying the
 parent relay. Current procedure sends early uncertainty markers rather than waiting for final classification.
 
 ### CWCC-Staging Authority Drill

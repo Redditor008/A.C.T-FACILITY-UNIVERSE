@@ -44,12 +44,10 @@ manufactured system with defined inputs, defined
 outputs, and a measurable effect on how the rest of the range behaves in
 the field.
 
-The dossier records warranty ledgers storing child drawings and caregiver notes, recall lists naming
-product lots that
+The dossier records warranty ledgers storing child drawings and caregiver notes, recall lists naming product lots that
 A.C.T has not recovered, sealed failure crates marked DO NOT RETURN TO CHILD, product
 catalogues with missing
-pages, and a warranty fragment proving that replacement review exists. Together these constitute a
-functioning
+pages, and a warranty fragment proving that replacement review exists. Together these constitute a functioning
 product-safety organisation operating outside every registry A.C.T can read.
 
 A.C.T holds fragments. The ledger itself has never been recovered.
@@ -95,20 +93,15 @@ which the products improve.
 
 ORIGIN AND CUSTODY
 
-Operated by Lullaby Works. Supporting infrastructure recorded in the dossier includes repair vans using
-temporary
-local registration, warehouses rented under dissolved child-care brands, donation lockers in clinics and shelters,
-and
+Operated by Lullaby Works. Supporting infrastructure recorded in the dossier includes repair vans using temporary
+local registration, warehouses rented under dissolved child-care brands, donation lockers in clinics and shelters, and
 product catalogues with missing pages.
 
-Custody of recovered material is joint between Intelligence Division and Archive Division, because the
-material is
-simultaneously an intelligence target and a documentary record. Subject Care Division holds veto authority
-over any
+Custody of recovered material is joint between Intelligence Division and Archive Division, because the material is
+simultaneously an intelligence target and a documentary record. Subject Care Division holds veto authority over any
 use of ledger material that could reach a family, and exercises it by default.
 
-No A.C.T division may contact the manufacturer through the ledger channel without Command-level exception.
-One contact
+No A.C.T division may contact the manufacturer through the ledger channel without Command-level exception. One contact
 has ever been made, described below.
 
 ---
@@ -135,12 +128,10 @@ A.C.T has ever located.
 
 The blue card is the only live interface A.C.T has observed. When called, the
 number connected to a recorded lullaby
-for thirty-two seconds, followed by a woman's voice stating: The extra child leaves when
-nobody gives it a bed.
+for thirty-two seconds, followed by a woman's voice stating: The extra child leaves when nobody gives it a bed.
 Whether that is an automated message, a live operator, or something else is unresolved.
 
-The system's most significant physical property is that it produces paper. Every contact leaves
-a document. That is
+The system's most significant physical property is that it produces paper. Every contact leaves a document. That is
 why A.C.T treats it as a recoverable target rather than as a rumour.
 
 ---
@@ -174,9 +165,9 @@ remains, and crate markings. Nothing below is inferred from contact, because onl
 | Contacts ever made         | one                                                                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-The recall-lot row is the intelligence payload of this record. A lot A.C.T has never encountered in the field is
-a product line A.C.T has never assessed, so a recovered list is read as a gap inventory rather than as
-a compliance document.
+The recall-lot row is the intelligence payload of this record. A lot A.C.T has
+never encountered in the field is a product line A.C.T has never assessed, so a
+recovered list is read as a gap inventory rather than as a compliance document.
 
 ---
 
@@ -295,20 +286,17 @@ FAULT ISOLATION
 
 KNOWN LIMITS
 
-A.C.T holds fragments, not the ledger. No complete failure file has ever been recovered,
-and the dossier states this
+A.C.T holds fragments, not the ledger. No complete failure file has ever been recovered, and the dossier states this
 directly.
 
 The system cannot be read from the outside. A.C.T cannot determine how many lots
 exist, how many recalls have been
 issued, or how many units have been returned.
 
-The contact channel cannot be tested. One call was made; repeating it without authorization
-is prohibited, and the
+The contact channel cannot be tested. One call was made; repeating it without authorization is prohibited, and the
 risk profile of a second call is unknown.
 
-Recall lists name lots A.C.T has not recovered, which means the system's coverage exceeds
-A.C.T's. Any assessment
+Recall lists name lots A.C.T has not recovered, which means the system's coverage exceeds A.C.T's. Any assessment
 built only on A.C.T holdings is incomplete by an unknown margin.
 
 The system cannot be used to reach the manufacturer. A.C.T does not know whether
@@ -320,27 +308,19 @@ organisation, a process, or something that only appears to be either.
 FAILURE HISTORY
 
 BLUE CARD CONTACT — DATE WITHHELD
-A.C.T recovered the blue card from a shelter staff member during the nightlight incident
-and called the number. The
-line connected to a recorded lullaby for thirty-two seconds, followed by a woman's voice
-stating The extra child
-leaves when nobody gives it a bed. Containment teams maintained room count protocol until
-dawn. No additional entity
-was recovered, and four minors reported uninterrupted sleep for the first time since relocation.
-This is the only
-confirmed manufacturer contact A.C.T holds. It produced no technical information and no channel that
-could be reused,
+A.C.T recovered the blue card from a shelter staff member during the nightlight incident and called the number. The
+line connected to a recorded lullaby for thirty-two seconds, followed by a woman's voice stating The extra child
+leaves when nobody gives it a bed. Containment teams maintained room count protocol until dawn. No additional entity
+was recovered, and four minors reported uninterrupted sleep for the first time since relocation. This is the only
+confirmed manufacturer contact A.C.T holds. It produced no technical information and no channel that could be reused,
 and it established the standing rule that contact requires Command-level exception.
 
 WARRANTY FRAGMENT RECOVERY — BEAR BITE CASE
 A single warranty card fragment was recovered acknowledging that a plush bit an adult
 hand, instructing that the
-caregiver's statement be wrapped in plain paper, and approving replacement after review. The full
-failure file was
-never recovered. A.C.T preserves the fragment because it proves that a failure-review process exists
-and that the
-manufacturer understands misuse and unintended injury. It is the only documentary proof that the
-ledger functions at
+caregiver's statement be wrapped in plain paper, and approving replacement after review. The full failure file was
+never recovered. A.C.T preserves the fragment because it proves that a failure-review process exists and that the
+manufacturer understands misuse and unintended injury. It is the only documentary proof that the ledger functions at
 all.
 
 UNRECONCILED RECALL LOTS — OPEN
@@ -358,12 +338,9 @@ DIVISION USE
 
 Intelligence Division owns ledger recovery, contact-channel assessment, recall reconciliation, and manufacturer
 infrastructure tracking. Archive Division holds every recovered fragment under restricted access and maintains the
-fragment catalogue. Subject Care Division holds veto authority over disclosure and owns the family-facing
-position.
-Engineering Division uses lot marks and production tags to attribute recovered units to lines.
-Logistics Division
-handles failure crates and does not route them into service stock. Civil Covert maintains
-the cover position and does
+fragment catalogue. Subject Care Division holds veto authority over disclosure and owns the family-facing position.
+Engineering Division uses lot marks and production tags to attribute recovered units to lines. Logistics Division
+handles failure crates and does not route them into service stock. Civil Covert maintains the cover position and does
 not confirm A.C.T interest in any recovered document.
 
 ---
@@ -379,8 +356,7 @@ CROSS-REFERENCES
 - Blue card contact transcript [restricted];
 - Intelligence Division unreconciled recall lot register [restricted].
 
-Both reference documents describe hardware. The Master Catalog numbers physical assets and the Visual
-Reference Guide
+Both reference documents describe hardware. The Master Catalog numbers physical assets and the Visual Reference Guide
 illustrates them. Neither has a form for a paper system operated by an organisation
 A.C.T cannot locate, and this
 entry sits in the GOI series because there was nowhere else to put it.

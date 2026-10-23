@@ -12,8 +12,7 @@
 
 ## 1. Purpose of This Policy
 
-The A.C.T. Facility Universe is built as an archive. It contains official doctrine, anomaly
-records, site dossiers,
+The A.C.T. Facility Universe is built as an archive. It contains official doctrine, anomaly records, site dossiers,
 field logs, story manuscripts, in-universe history, planning research, wiki preparation notes, and crossover material.
 Those materials do not all hold the same canon weight.
 
@@ -55,8 +54,7 @@ Core Doctrine Canon governs:
 - Structural Reality doctrine;
 - technology and institutional reference material.
 
-When a future file needs a rule, class, designation, clearance structure, or official A.C.T.
-term, Core Doctrine Canon
+When a future file needs a rule, class, designation, clearance structure, or official A.C.T. term, Core Doctrine Canon
 is the first place to check.
 
 ### 2.2 Part Series Canon
@@ -78,8 +76,7 @@ ignored.
 
 ### 2.3 Archive Copy Canon
 
-Archive copies are in-universe institutional copies of doctrine. They are canon as archive artifacts
-and should
+Archive copies are in-universe institutional copies of doctrine. They are canon as archive artifacts and should
 normally match the doctrine they mirror.
 
 Archive copies may be useful for story tone because A.C.T. is a setting where
@@ -90,8 +87,7 @@ explicitly declares the drift intentional.
 
 ### 2.4 Anomaly Record Canon
 
-Anomaly Record Canon includes the actual anomaly files, log dossiers, ITHYOS records, legacy files,
-modern files, UFD
+Anomaly Record Canon includes the actual anomaly files, log dossiers, ITHYOS records, legacy files, modern files, UFD
 records, AFD records, ANM records, and related observation material.
 
 Primary locations include:
@@ -126,8 +122,7 @@ Floor Dossier collection, Central Archive
 Floor Dossier collection, plain-text reading copies
 ```
 
-Site and floor canon governs local purpose, command role, containment profile, jurisdiction, and internal
-geography.
+Site and floor canon governs local purpose, command role, containment profile, jurisdiction, and internal geography.
 Floor designations run from F-1 upward to surface level. Below F-1 only the ABYSS
 route continues unless later
 doctrine explicitly says otherwise.
@@ -145,8 +140,7 @@ Group of Interest Registry collection, plain-text reading copies
 
 A GOI dossier is canon as A.C.T.'s institutional assessment of that group. It is
 not necessarily the group's own
-self-understanding. Future recovered documents written from a GOI voice should be clearly marked as
-recovered,
+self-understanding. Future recovered documents written from a GOI voice should be clearly marked as recovered,
 intercepted, translated, reconstructed, or otherwise separated from the A.C.T. assessment voice.
 
 GOI expansion remains gated: one new original GOI per Central Archive registry order unless
@@ -166,8 +160,7 @@ A.C.T Universe Document/ACT MAIN STORY/
 ```
 
 Story files may use scenes, dialogue, character perspective, uncertainty, and restricted knowledge. They should
-respect core doctrine unless the story is deliberately showing that a record, person, or
-institution is wrong.
+respect core doctrine unless the story is deliberately showing that a record, person, or institution is wrong.
 
 If a story chapter and its `.txt` twin drift, the drift should be fixed
 unless an alternate-version rule is explicitly
@@ -183,10 +176,8 @@ Primary location:
 A.C.T Universe Document/Junior Handbook/
 ```
 
-The handbook is deliberately simplified. It should not be forced to include every mid-level,
-senior-level, or O5-level
-doctrine detail. If the handbook omits something, that omission is not a contradiction by
-itself.
+The handbook is deliberately simplified. It should not be forced to include every mid-level, senior-level, or O5-level
+doctrine detail. If the handbook omits something, that omission is not a contradiction by itself.
 
 ### 2.9 Book Layer
 
@@ -200,13 +191,12 @@ Title Statement, Archive Record
 
 The book may explain history in a more continuous voice than the archive does.
 It should be treated as a major
-interpretive source, but not as the first authority for file format, classification grammar, or
-operational doctrine.
+interpretive source, but not as the first authority for file format, classification grammar, or operational doctrine.
 
 ### 2.10 Research / Planning Layer
 
-Research files document planning, comparisons, maintenance audits, provenance notes, and future development
-recommendations.
+Research files document planning, comparisons, maintenance
+audits, provenance notes, and future development recommendations.
 
 Primary location:
 
@@ -214,10 +204,8 @@ Primary location:
 _ARCHIVE-OPS/RESEARCH FOLDER/
 ```
 
-Research files are not canon by default. They may recommend canon additions, document archive
-decisions, or preserve
-research context. A recommendation in the research folder becomes active canon only when it
-is implemented into the
+Research files are not canon by default. They may recommend canon additions, document archive decisions, or preserve
+research context. A recommendation in the research folder becomes active canon only when it is implemented into the
 appropriate canon document or explicitly approved as binding guidance.
 
 ### 2.11 Wiki / Public Presentation Layer
@@ -238,8 +226,7 @@ The current `docs/` scaffold may remain minimal until wiki implementation is aut
 
 ### 2.12 Crossover / Non-Core Material
 
-Crossover material is not Core A.C.T. Canon unless Central Archive explicitly declares a specific
-element to be
+Crossover material is not Core A.C.T. Canon unless Central Archive explicitly declares a specific element to be
 imported into core continuity.
 
 Known crossover/example location:
@@ -248,10 +235,8 @@ Known crossover/example location:
 A.C.T Universe Document/A.C.T Anomaly Document/Anomaly Legacy 01 .txt/STORY/
 ```
 
-Crossover stories may be preserved in the repository as creative work, experiments, alternate material,
-or non-core
-tales. They must not be used as automatic evidence for core A.C.T. doctrine, technology,
-organizations, cosmology, or
+Crossover stories may be preserved in the repository as creative work, experiments, alternate material, or non-core
+tales. They must not be used as automatic evidence for core A.C.T. doctrine, technology, organizations, cosmology, or
 visual identity.
 
 This rule especially protects the independent A.C.T. core from accidental dependence on external properties.
@@ -278,8 +263,7 @@ When editing or adding files, use this practical authority order:
 13. Docs layer for public presentation.
 14. Crossover/non-core material only when explicitly working in that layer.
 
-If two canon files disagree, do not silently flatten the contradiction. Determine whether the
-disagreement is:
+If two canon files disagree, do not silently flatten the contradiction. Determine whether the disagreement is:
 
 - intentional archive drift;
 - old terminology preserved in a legacy file;
@@ -325,8 +309,7 @@ Known exceptions remain:
 
 ## 5. Crossover Protection Rule
 
-A.C.T. may contain crossover stories, research references, and comparison notes. Those materials are useful,
-but they
+A.C.T. may contain crossover stories, research references, and comparison notes. Those materials are useful, but they
 must stay visibly separated from the independent core.
 
 Do not copy external-property terminology, organizations, visual symbols, mechanics, cosmology, or named systems into
@@ -387,6 +370,5 @@ Only after those checks should a contradiction be preserved as intentional canon
 
 When uncertain, preserve A.C.T.'s independent core first.
 
-The archive may be wounded, contradictory, redacted, or afraid of itself. The repository should
-still make clear which
+The archive may be wounded, contradictory, redacted, or afraid of itself. The repository should still make clear which
 wound is story and which wound is maintenance.

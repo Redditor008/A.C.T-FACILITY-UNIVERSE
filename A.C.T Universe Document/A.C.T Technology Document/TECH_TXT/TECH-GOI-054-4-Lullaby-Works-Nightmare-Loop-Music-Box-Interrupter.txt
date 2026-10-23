@@ -37,16 +37,13 @@ TECHNOLOGY RECORD - LULLABY WORKS NIGHTMARE-LOOP MUSIC BOX INTERRUPTER
 +----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
-The Nightmare-Loop Music Box is the fourth Lullaby Works product expanded into an individual
-technology record. It is
+The Nightmare-Loop Music Box is the fourth Lullaby Works product expanded into an individual technology record. It is
 catalogued because it is the only item in the recovered range with a finite
 service life, and because that makes
 it the only one A.C.T can watch run out.
 
-The Lullaby Works dossier records music boxes that interrupt nightmare loops for a limited
-number of nights. It
-also records lullaby recordings in languages not spoken by the purchasing family, and the
-nightlight instruction line
+The Lullaby Works dossier records music boxes that interrupt nightmare loops for a limited number of nights. It
+also records lullaby recordings in languages not spoken by the purchasing family, and the nightlight instruction line
 keep the room singing. Those details are the technical basis of this file.
 
 A.C.T holds parts but no working unit. As with the rest of the range,
@@ -80,8 +77,7 @@ dossier does not state one. That the count is limited is confirmed; the number
 is not.
 - Audible output. The unit plays a lullaby. The dossier records Lullaby Works lullaby
 recordings in languages not
-spoken by the purchasing family, and the nightlight instruction directs caregivers to keep the
-room singing. A.C.T
+spoken by the purchasing family, and the nightlight instruction directs caregivers to keep the room singing. A.C.T
 treats the singing as functional rather than decorative.
 
 The device does not detect threats, does not relay distress, and does not protect
@@ -96,15 +92,12 @@ Manufactured by Lullaby Works. No lot label has been recovered for the music box
 line. Distribution routes match the
 rest of the range.
 
-Custody is joint between Subject Care Division and Medical Division, because the product's function
-is a sleep
+Custody is joint between Subject Care Division and Medical Division, because the product's function is a sleep
 intervention with a defined endpoint and therefore requires clinical tracking. Engineering Division holds
-non-functional parts. No unit in a child's possession may be removed without Subject Care
-authorization, and Medical
+non-functional parts. No unit in a child's possession may be removed without Subject Care authorization, and Medical
 Division must record the night count for every unit in service.
 
-A.C.T has deliberately not sought a working unit for destructive study, following the Listening
-Plush force-opening
+A.C.T has deliberately not sought a working unit for destructive study, following the Listening Plush force-opening
 loss recorded in TECH-GOI-054-2.
 
 ---
@@ -137,14 +130,12 @@ the shared Lullaby Works finding.
 
 The music box carries the half-moon mark and the three quiet nights line. For
 this product that phrase stops
-reading like a guarantee and starts reading like a specification. Medical Division has asked
-in writing whether
+reading like a guarantee and starts reading like a specification. Medical Division has asked in writing whether
 three quiet nights was ever a promise at all, or the manufacturer's way of
 printing the service life on the
 warranty card.
 
-Whether the winding key is functional, decorative, or a ritual control is unresolved. Whether
-the finite night count
+Whether the winding key is functional, decorative, or a ritual control is unresolved. Whether the finite night count
 is stored mechanically, materially, or not at all is unresolved.
 
 ---
@@ -216,8 +207,7 @@ the written query on whether three quiet nights was ever a promise at all.
 
 OPERATING PROCEDURE
 
-Units in a child's possession stay there. Field personnel do not confiscate, wind, open,
-or test a service unit.
+Units in a child's possession stay there. Field personnel do not confiscate, wind, open, or test a service unit.
 
 Standing rules:
 
@@ -325,40 +315,29 @@ FAILURE HISTORY
 EXHAUSTION WITHOUT NOTIFICATION — DATE WITHHELD
 A caregiver reported that the music box had stopped and asked whether it was
 broken. A.C.T could not determine whether
-the unit was exhausted, damaged, or never functional, because no baseline night count had
-been recorded before the
-report. The event produced the standing rule that every known service unit is night-counted
-from first report, and
+the unit was exhausted, damaged, or never functional, because no baseline night count had been recorded before the
+report. The event produced the standing rule that every known service unit is night-counted from first report, and
 that exhaustion is announced to the family rather than left for them to discover.
 
 EMPTY MOVEMENT HOUSING — PART SERIES
-Recovered parts contained movement housings with no mechanism capable of producing the reported tune.
-Winding the key
-produced no resistance and no sound. Engineering closed the series as inconclusive and recorded
-that the recovered
-parts may be exhausted units rather than representative specimens, which A.C.T cannot rule out.
-This is the reason no
+Recovered parts contained movement housings with no mechanism capable of producing the reported tune. Winding the key
+produced no resistance and no sound. Engineering closed the series as inconclusive and recorded that the recovered
+parts may be exhausted units rather than representative specimens, which A.C.T cannot rule out. This is the reason no
 recovered part is treated as evidence of how a working unit is built.
 
 LANGUAGE MISMATCH OBSERVATION
-Lullaby Works recordings have been recovered in languages not spoken by the purchasing family.
-No functional
-difference has been observed between a recording in the family's language and one outside
-it, and A.C.T has not
-determined whether the language matters, whether it is a manufacturing artefact, or whether it
-is intentional.
+Lullaby Works recordings have been recovered in languages not spoken by the purchasing family. No functional
+difference has been observed between a recording in the family's language and one outside it, and A.C.T has not
+determined whether the language matters, whether it is a manufacturing artefact, or whether it is intentional.
 Recorded here because it is a repeatable observation with no explanation.
 
 ---
 
 DIVISION USE
 
-Subject Care Division authorizes retention, transfer, and removal, and owns the family conversation about
-exhaustion.
-Medical Division tracks the loop, sets the intervention window, records the night count, and
-takes over care when a
-unit ends. Engineering Division inspects parts, records housing and movement findings, and holds the
-warmth
+Subject Care Division authorizes retention, transfer, and removal, and owns the family conversation about exhaustion.
+Medical Division tracks the loop, sets the intervention window, records the night count, and takes over care when a
+unit ends. Engineering Division inspects parts, records housing and movement findings, and holds the warmth
 observation. Containment Division treats the box as a care asset and does not handle
 it during an incident. Archive
 holds inspection records, instruction text, and recovered recordings under restricted access. Intelligence tracks the

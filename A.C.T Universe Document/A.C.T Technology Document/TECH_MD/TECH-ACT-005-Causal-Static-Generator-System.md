@@ -23,15 +23,12 @@
 #### Archive Note
 The Causal Static Generator System is the fifth main A.C.T technology expanded into an
 individual record under
-corrected A.C.T-owned technology numbering. It is already present in the Master Catalog of Operational
-Assets as Item
+corrected A.C.T-owned technology numbering. It is already present in the Master Catalog of Operational Assets as Item
 07, in the technological timeline as a 2011 high-entropy defense system, and in the
 visual reference guide as a heavy
 signal-broadcaster with an oscillating signal disc, boredom-frequency tuner, retractable cooling chimney, and
-high-intensity narrative suppression mode. Causal Static Generators exist because some anomalies do not only
-break
-walls, bodies, memory, or space. Some anomalies feed on meaning, attention, dramatic escalation, role
-assignment,
+high-intensity narrative suppression mode. Causal Static Generators exist because some anomalies do not only break
+walls, bodies, memory, or space. Some anomalies feed on meaning, attention, dramatic escalation, role assignment,
 repeated story shape, and the sense that events are becoming inevitable.
 
 Causal Static is not the Anti Reality Mesh. ARM makes a place unremarkable to
@@ -41,8 +38,7 @@ Narrative Buffer. QNB preserves the record
 when the story changes. Causal Static interferes while the story is trying to become
 dangerous.
 
-This file expands the short catalog entry into a working technology record. Boredom frequency
-tables, narrative
+This file expands the short catalog entry into a working technology record. Boredom frequency tables, narrative
 starvation thresholds, high-entropy seed libraries, counter-script tests, and site-wide overlap settings remain
 censored under **CAUSAL STATIC DISCLOSURE LIMIT**.
 
@@ -55,8 +51,7 @@ censored under **CAUSAL STATIC DISCLOSURE LIMIT**.
 Causal Static Generators broadcast controlled high-entropy information patterns into an area, channel, file
 environment, recording system, or field operation. The broadcast is designed to starve narrative-dependent anomalies
 of clean dramatic structure. It introduces noise, banality, procedural clutter, contradiction, routine wording, dull
-administrative load, and non-escalating signal fragments that make it harder for a hostile pattern
-to build momentum.
+administrative load, and non-escalating signal fragments that make it harder for a hostile pattern to build momentum.
 
 The master catalog describes Causal Static Generators as:
 
@@ -66,14 +61,10 @@ to
 escalate.
 ```
 
-That description remains accurate. The expanded record adds the operational meaning: Causal Static is
-used when an
-anomaly appears to grow stronger because events are becoming narratively charged. Examples include witnesses
-repeating
-the same phrase, doors opening on symbolic timing, media stories aligning around a heroic
-or doomed structure, field
-teams being assigned roles by circumstance, or recovered documents arranging themselves into a plot
-that staff begin
+That description remains accurate. The expanded record adds the operational meaning: Causal Static is used when an
+anomaly appears to grow stronger because events are becoming narratively charged. Examples include witnesses repeating
+the same phrase, doors opening on symbolic timing, media stories aligning around a heroic or doomed structure, field
+teams being assigned roles by circumstance, or recovered documents arranging themselves into a plot that staff begin
 to obey.
 
 ### Operational Role
@@ -82,11 +73,9 @@ Causal Static appears in five major roles:
 
 - fixed containment support for narrative-scripting, song-based, legend-feeding, and role-assignment anomalies;
 - field suppression during recovery operations where events begin repeating dramatic beats;
- archive quarantine when documents, recordings, or testimony attempt to recruit readers into a
- story;
+ archive quarantine when documents, recordings, or testimony attempt to recruit readers into a story;
 - Civil Covert support when public narratives are becoming anomalously self-reinforcing;
- personnel protection when field teams need dull procedural interruption before panic, prophecy, or
- heroic
+ personnel protection when field teams need dull procedural interruption before panic, prophecy, or heroic
  fixation
  takes hold.
 
@@ -102,12 +91,9 @@ BREAK THE SHAPE BEFORE THE SHAPE BREAKS THE TEAM.
 
 ### Development History
 
-The technological timeline records the introduction of Causal Static Generators in 2011, during the
-Modern Synthesis
-era, as high-entropy data broadcasters used to starve narrative-based singularities of their plot weight.
-The system
-developed after A.C.T encountered repeated cases where ordinary force, amnestics, and site masking failed
-because the
+The technological timeline records the introduction of Causal Static Generators in 2011, during the Modern Synthesis
+era, as high-entropy data broadcasters used to starve narrative-based singularities of their plot weight. The system
+developed after A.C.T encountered repeated cases where ordinary force, amnestics, and site masking failed because the
 anomaly was not only acting on matter or memory. It was acting on event
 importance.
 
@@ -124,8 +110,7 @@ thresholds, anomaly compatibility, chamber overlap, and shutdown criteria.
 
 Archive Division controls document-quarantine use. Civil Covert controls public narrative applications. Intelligence
 monitors hostile GOI adaptation and counterfeit static. Medical Care attaches when broadcasts affect personnel
-cognition, sleep, stress, or memory. Site Command authorizes broad facility use because Causal Static
-can interfere
+cognition, sleep, stress, or memory. Site Command authorizes broad facility use because Causal Static can interfere
 with communication, testimony, morale, and emergency clarity.
 
 ---
@@ -134,15 +119,12 @@ with communication, testimony, morale, and emergency clarity.
 
 ### Standard Broadcast Unit
 
-The visual reference guide describes the standard Causal Static Generator as a heavy signal-broadcaster
-resembling a
-modern server unit. It features an oscillating signal disc behind reinforced glass and a
-digital tuner for calibrating
+The visual reference guide describes the standard Causal Static Generator as a heavy signal-broadcaster resembling a
+modern server unit. It features an oscillating signal disc behind reinforced glass and a digital tuner for calibrating
 the Boredom Frequency. A retractable cooling chimney vents ionized air during high-intensity narrative suppression.
 Multiple internal cooling fans produce a constant high-volume whirring sound.
 
-Those details are approved for recognition training. They are not sufficient for safe calibration.
-A mis-tuned unit
+Those details are approved for recognition training. They are not sufficient for safe calibration. A mis-tuned unit
 can strengthen the wrong pattern by making the static itself feel meaningful.
 
 ### Known Components
@@ -164,29 +146,23 @@ Known components include:
 - CSG to QNB logging link;
 - Medical pulse and stress monitor attachment for crew exposure.
 
-The boredom-frequency tuner is poorly named for public-facing explanation but accurate in field use.
-It does not make
-people simply bored. It reduces dramatic coherence inside a target environment by flooding available
-attention with
+The boredom-frequency tuner is poorly named for public-facing explanation but accurate in field use. It does not make
+people simply bored. It reduces dramatic coherence inside a target environment by flooding available attention with
 low-value procedural signal.
 
 ### Fixed, Archive, and Field Variants
 
 Fixed generators are installed in selected containment corridors, archive quarantine rooms, media-analysis suites,
-Site 03 narrative emergence monitors, and chambers holding song-based or script-based anomalies. Archive variants
-can
-inject static into read rooms, transcription systems, or isolated document displays. Field variants are
-heavier than
-ordinary portable equipment and must be handled by Recovery or Engineering personnel trained to
-avoid
+Site 03 narrative emergence monitors, and chambers holding song-based or script-based anomalies. Archive variants can
+inject static into read rooms, transcription systems, or isolated document displays. Field variants are heavier than
+ordinary portable equipment and must be handled by Recovery or Engineering personnel trained to avoid
 over-broadcasting into civilians.
 
 ---
 
 ## TECHNICAL SPECIFICATION
 
-The boredom-frequency range and output figures have never been published. The unit is described
-as heavier than
+The boredom-frequency range and output figures have never been published. The unit is described as heavier than
 ordinary portable equipment without a mass being recorded.
 
 | PARAMETER | VALUE |
@@ -207,8 +183,7 @@ ordinary portable equipment without a mass being recorded.
 | Boredom Frequency range | NOT MEASURED |
 | Unit mass | NOT MEASURED |
 
-Two fitted links define how this unit sits beside other systems: a CSG-to-ARM separation
-warning and a CSG-to-QNB
+Two fitted links define how this unit sits beside other systems: a CSG-to-ARM separation warning and a CSG-to-QNB
 logging link. Neither is optional and neither is adjustable in the field.
 
 ## INTERFACE AND OPERATING ENVELOPE
@@ -264,18 +239,14 @@ all repeated phrases.
 
 ### Authorized Use
 
-Level 4 Engineering, Containment, Archive, or Civil Covert personnel may deploy Causal Static in
-approved contexts.
+Level 4 Engineering, Containment, Archive, or Civil Covert personnel may deploy Causal Static in approved contexts.
 Level 5 authorization is required for site-wide broadcast, public media injection, high-intensity narrative
-starvation, use around minors, use in medical wards, and combined deployment with ARM-WHITE, RSA-WHITE,
-QNB
+starvation, use around minors, use in medical wards, and combined deployment with ARM-WHITE, RSA-WHITE, QNB
 restoration, or 004-series amnestic administration.
 
-Standard operation begins with pattern confirmation. The operator must identify what narrative behavior is
-being
+Standard operation begins with pattern confirmation. The operator must identify what narrative behavior is being
 interrupted: prophecy loop, hero fixation, doom sequence, song recruitment, audience formation, role assignment,
-repeating dialogue, symbolic escalation, or document scripting. Static cannot be tuned safely if the
-target pattern is
+repeating dialogue, symbolic escalation, or document scripting. Static cannot be tuned safely if the target pattern is
 unknown.
 
 ### Monitoring States
@@ -291,16 +262,13 @@ CSG-WHITE: emergency narrative starvation; Site Command and Medical attach.
 CSG-BLACK: broadcast compromised; shut down if possible and distrust all repeated phrases.
 ```
 
-CSG-BLACK includes cases where the anomaly begins using the static as drumbeat, prophecy, chant,
-countdown, or proof
+CSG-BLACK includes cases where the anomaly begins using the static as drumbeat, prophecy, chant, countdown, or proof
 of persecution.
 
 ### Handling Rules
 
-Do not activate Causal Static because an incident merely feels dramatic. Do not broadcast
-over medical alarms,
-evacuation orders, or subject-care instructions. Do not combine static with amnestic treatment unless Memory
-Review
+Do not activate Causal Static because an incident merely feels dramatic. Do not broadcast over medical alarms,
+evacuation orders, or subject-care instructions. Do not combine static with amnestic treatment unless Memory Review
 approves the risk of confused recall. Do not assume staff are safe because they
 are annoyed rather than afraid.
 Irritation can be the first sign that attention is being pulled into the static
@@ -339,8 +307,7 @@ rigidly, and the checklist involved was rewritten with rotating fields.
 
 ### What Causal Static Cannot Do
 
-Causal Static cannot physically contain an entity, cannot erase memory, cannot hide a site,
-cannot preserve a record
+Causal Static cannot physically contain an entity, cannot erase memory, cannot hide a site, cannot preserve a record
 by itself, cannot silence all songs, cannot make an audience forget what it saw,
 and cannot defeat every narrative
 anomaly. It is a disruption tool, not a universal counter-story.
@@ -357,10 +324,8 @@ Causal Static is weakest against:
 
 ### Misuse Risk
 
-Over-broadcasting can harm operations. It can make orders harder to follow, witnesses harder to
-interview, patients
-more distressed, documents harder to interpret, and public cover stories less coherent. Under-broadcasting can
-leave
+Over-broadcasting can harm operations. It can make orders harder to follow, witnesses harder to interview, patients
+more distressed, documents harder to interpret, and public cover stories less coherent. Under-broadcasting can leave
 the pattern strong enough to adapt.
 
 Containment note:
@@ -376,12 +341,9 @@ hide in crowds.
 
 ### CSG-2011 FIRST STARVATION TEST
 
-The first successful generator test weakened a scripted escalation pattern inside a controlled chamber.
-The anomaly
-stopped aligning staff dialogue into repeated lines, but the maintenance checklist became compulsively important
-to
-two observers. Both insisted the checklist order could not be changed without letting the
-anomaly win. Medical Care
+The first successful generator test weakened a scripted escalation pattern inside a controlled chamber. The anomaly
+stopped aligning staff dialogue into repeated lines, but the maintenance checklist became compulsively important to
+two observers. Both insisted the checklist order could not be changed without letting the anomaly win. Medical Care
 removed them from the test. The checklist was later rewritten with rotating fields.
 
 This test established that procedural banality can itself become a hook if repeated too
@@ -391,8 +353,7 @@ rigidly.
 
 Site 03 used Causal Static during review of an emerging media narrative connected to
 a repeating symbol. Public clips
-stopped aligning around the symbol, but the generated filler phrases began appearing in comment
-threads as a joke. The
+stopped aligning around the symbol, but the generated filler phrases began appearing in comment threads as a joke. The
 joke spread faster than the original symbol for six hours. Civil Covert contained the
 trend by replacing the filler
 with ordinary advertising clutter and false platform moderation.
@@ -406,10 +367,8 @@ During a recovery operation, a field team began assigning informal roles after r
 coincidences: the
 brave one, the doomed one, the guide, the witness. A portable generator was activated
 at low output. The role language
-weakened, but one operator became unable to prioritize commands because every instruction sounded equally
-trivial. The
-team withdrew and completed recovery with a second unit tuned to intermittent rather than
-continuous output.
+weakened, but one operator became unable to prioritize commands because every instruction sounded equally trivial. The
+team withdrew and completed recovery with a second unit tuned to intermittent rather than continuous output.
 
 The event established intermittent broadcast as preferred field mode when command clarity matters.
 
@@ -419,32 +378,28 @@ The event established intermittent broadcast as preferred field mode when comman
 
 ### Engineering Division
 
-Engineering owns hardware maintenance, signal-disc replacement, tuner calibration, cooling systems, entropy cartridge
-handling, and field-safe modifications. Engineering may refuse deployment if cooling, grounding, or frequency
-isolation is compromised.
+Engineering owns hardware maintenance, signal-disc replacement, tuner calibration,
+cooling systems, entropy cartridge handling, and field-safe modifications. Engineering
+may refuse deployment if cooling, grounding, or frequency isolation is compromised.
 
 ### Containment Division
 
-Containment defines pattern-confirmation requirements, chamber use, overlap restrictions, shutdown thresholds, and
-anomaly compatibility. Containment must verify that the target anomaly escalates through narrative pressure before
-high-intensity use.
+Containment defines pattern-confirmation requirements, chamber use, overlap
+restrictions, shutdown thresholds, and anomaly compatibility. Containment must verify
+that the target anomaly escalates through narrative pressure before high-intensity use.
 
 ### Archive and Site 03 Review
 
-Archive uses Causal Static in document quarantine, recovered media review, transcription rooms, and read-only
-display
-systems. Site 03 Kurokawa Archive Node uses Causal Static concepts during monitoring of anomalous
-symbol and narrative
+Archive uses Causal Static in document quarantine, recovered media review, transcription rooms, and read-only display
+systems. Site 03 Kurokawa Archive Node uses Causal Static concepts during monitoring of anomalous symbol and narrative
 emergence. QNB logging is required when static affects records under review.
 
 ### Civil Covert, Intelligence, and Medical Care
 
-Civil Covert uses limited static concepts to prevent public narratives from hardening around anomalous
-meaning.
-Intelligence tracks hostile use, especially GOIs that might counterfeit static as proof of A.C.T
-manipulation. Medical
-Care monitors cognitive irritation, flattened urgency, command confusion, sleep disturbance, and post-broadcast recall
-problems.
+Civil Covert uses limited static concepts to prevent public narratives from hardening around anomalous meaning.
+Intelligence tracks hostile use, especially GOIs that might counterfeit static as proof of A.C.T manipulation. Medical
+Care monitors cognitive irritation, flattened urgency, command
+confusion, sleep disturbance, and post-broadcast recall problems.
 
 ---
 
@@ -467,15 +422,12 @@ The Causal Static Generator System interacts with, but is distinct from:
 
 - Anti Reality Mesh System, which manages attention and concealment;
 - Quantum Narrative Buffer System, which preserves records after or during narrative change;
- Banalist White-Noise Broadcast, a site-wide acoustic system that disrupts narrative scripting through manifest
- noise;
+ Banalist White-Noise Broadcast, a site-wide acoustic system that disrupts narrative scripting through manifest noise;
 - Causal Static Earpieces, which provide individual issue protection during narrative-bleed events;
 - Spectral Vibration Sensors, which detect song or script leakage rather than suppress it;
- 004-Series Amnestics, which alter memory after exposure rather than disrupt narrative coherence during
- exposure.
+ 004-Series Amnestics, which alter memory after exposure rather than disrupt narrative coherence during exposure.
 
-Each system requires its own individual technology record. This file covers only the Causal
-Static Generator System.
+Each system requires its own individual technology record. This file covers only the Causal Static Generator System.
 
 ---
 
@@ -487,8 +439,7 @@ Static Generator System.
  a
  breach?
 - Does repeated static use leave recognizable memory texture that witnesses can later identify?
- What failure mode appears when CSG-WHITE overlaps ARM-WHITE and QNB-WHITE during public narrative
- collapse?
+ What failure mode appears when CSG-WHITE overlaps ARM-WHITE and QNB-WHITE during public narrative collapse?
  Can Causal Static safely protect children or trauma survivors, or does banality worsen
  dissociation?
  How often does boring filler become memorable enough to create a secondary public

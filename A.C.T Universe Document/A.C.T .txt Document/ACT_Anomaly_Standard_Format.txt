@@ -296,8 +296,7 @@ DESIGNATION HISTORY:     [UFD-XX-### → AFD-XX-###]
 
 FILE SAVING CONVENTION
 
-When an anomaly file is saved for distribution, archive transfer, or direct download, the
-file name should place the
+When an anomaly file is saved for distribution, archive transfer, or direct download, the file name should place the
 anomaly title first, followed by the designation.
 
 Approved structure:
@@ -381,8 +380,7 @@ has been confirmed as genuine and operationally logged.
 validated, documented,
 and entered into the permanent A.C.T record.
 
-The three-digit number is assigned sequentially. It does not reflect threat level, containment difficulty,
-or
+The three-digit number is assigned sequentially. It does not reflect threat level, containment difficulty, or
 transformation viability. It is a filing number — nothing more.
 
 Example Designations

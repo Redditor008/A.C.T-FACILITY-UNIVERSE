@@ -23,33 +23,28 @@ someone who will be answerable for it.
 
 The distinction is load-bearing and the archive uses both words.
 
-A **document** is any recorded information, including drafts still changing. A **record** is a
-finalised document kept as evidence of a decision, transaction or activity, protected from further
-edit and held for a retention period. A draft containment proposal is a document. The signed and
-filed proposal is a record.
+A **document** is any recorded information, including drafts still changing. A **record** is a finalised
+document kept as evidence of a decision, transaction or activity, protected from further edit and held for
+a retention period. A draft containment proposal is a document. The signed and filed proposal is a record.
 
 Records move through a lifecycle: **active** (in frequent use, held near the user), **inactive** (no
-longer used day to day, preserved for legal, historical or operational reasons), and **archival**
-(preserved for continuing historical value). A file in this repository should be identifiable as
-one of the three.
+longer used day to day, preserved for legal, historical or operational reasons), and **archival** (preserved
+for continuing historical value). A file in this repository should be identifiable as one of the three.
 
 ## The classes an institution actually keeps
 
-Government records taxonomies divide an institution's holdings into functional classes. The
-following are drawn from standard national classes of records and are the range the A.C.T archive
-should be able to show:
+Government records taxonomies divide an institution's holdings into functional classes. The following are
+drawn from standard national classes of records and are the range the A.C.T archive should be able to show:
 
 **Operations and governance** — terms of reference, agendas, minutes, proceedings, notices,
 recommendations documents, briefing and discussion papers, orders and directives, circulars,
-instructions, memoranda, staff studies, organisational and functional charts, organisation
-histories.
+instructions, memoranda, staff studies, organisational and functional charts, organisation histories.
 
 **Policy** — manuals, regulations, interpretations issued from authority, doctrine, standing orders,
 classification standards, position descriptions.
 
-**Reporting** — annual reports, periodic progress reports, special and accomplishment reports,
-transcripts of hearings, internal audit and evaluation documentation, performance management
-reviews, proactive disclosure.
+**Reporting** — annual reports, periodic progress reports, special and accomplishment reports, transcripts of
+hearings, internal audit and evaluation documentation, performance management reviews, proactive disclosure.
 
 **Financial and materiel** — budgets and budget planning, fiscal records, procurement and
 contracting files, materiel management, real property management, hospitality, travel claims.
@@ -64,8 +59,7 @@ bodies, legal services files, records held to protect the institution against cl
 **Communications** — media relations and monitoring, strategic communications advice, institutional
 publications, public notices, backgrounders, fact sheets, handbooks and manuals, speeches.
 
-**Liaison** — cooperation and liaison files, inter-agency correspondence, boards and committees,
-external review.
+**Liaison** — cooperation and liaison files, inter-agency correspondence, boards and committees, external review.
 
 **Information management** — access to information, privacy, classification guides, declassification
 guides, retention and disposal schedules, file plans, series structures.
@@ -82,9 +76,8 @@ Every written file belongs to one of four kinds, and knowing which changes how i
   convenience.
 - **Personal record** — created and used by an individual, not by the office.
 
-An archive that holds only official records is not credible. Real institutional holdings are
-mostly transitory material with a small official core, and the texture of an archive comes from
-that mixture.
+An archive that holds only official records is not credible. Real institutional holdings are mostly
+transitory material with a small official core, and the texture of an archive comes from that mixture.
 
 ## What follows for vocabulary
 
@@ -104,10 +97,9 @@ not sound like an anomaly file and should not. The range includes:
 - the **communications** register: *backgrounders*, *talking points*, *holding line*, *attribution*,
   *release*, *embargo*.
 
-None of these belong in an anomaly file, and an anomaly file that uses them is badly written. The
-point is that the repository as a whole must be able to carry them, so that a reader moving from a
-containment record to a procurement file encounters a different office and not the same voice in a
-different hat.
+None of these belong in an anomaly file, and an anomaly file that uses them is badly written. The point
+is that the repository as a whole must be able to carry them, so that a reader moving from a containment
+record to a procurement file encounters a different office and not the same voice in a different hat.
 
 ## What this rule is not
 

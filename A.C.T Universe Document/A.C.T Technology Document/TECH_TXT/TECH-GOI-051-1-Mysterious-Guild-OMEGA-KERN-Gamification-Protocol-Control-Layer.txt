@@ -40,8 +40,7 @@ This record covers the operating framework that recovered Guild material names a
 and its Gamification Protocol layer. GOI-HY-U-051 is filed as a HYBRID nature class with
 UNKNOWN alignment, STRUCTURAL reach, ENGINEERING capability, Threat Level 4, and LEAKING secrecy risk, under
 an A.C.T posture of MONITOR / CONTAIN / MISDIRECT. A.C.T holds no executable copy.
-What the Facility holds is recovered text, an active subject whose history the framework
-shaped, and a prohibition.
+What the Facility holds is recovered text, an active subject whose history the framework shaped, and a prohibition.
 
 The framework is a display grammar before it is software. Its function is the
 substitution of interface categories for perceptual categories: a crowd becomes node data, a body
@@ -97,8 +96,7 @@ The Mysterious Guild is known to A.C.T only through recovered and displaced mate
 VESPERSYS Guild Database Archive, the AFD-SU-020 VESPER files, and a separate future-origin equipment test
 record under AFD-OB-312 that displayed the instruction MAINTENANCE OVERDUE. CONTACT GUILD REGISTRY. No A.C.T
 site has confirmed a meeting with a living Guild representative, and no envoy, demand,
-ransom, recovery team, or broadcast has claimed the subject since her filing under A.C.T
-custody.
+ransom, recovery team, or broadcast has claimed the subject since her filing under A.C.T custody.
 
 Because the source is a displaced archive, the provenance chain for this technology stops
 at the recovered text. A.C.T cannot state where OMEGA-KERN was built, on what hardware
@@ -205,8 +203,8 @@ Handling Limits And Weaknesses
 - Weakest against vocabulary that arrives inside ordinary reporting.
 - Weakest where a fragment is displayed on a connected device.
 
-Fragment counts, vocabulary occurrences, and isolation states are tracked per recovered source and are
-NOT MEASURED in this record.
+Fragment counts, vocabulary occurrences, and isolation states are
+tracked per recovered source and are NOT MEASURED in this record.
 
 
 
@@ -323,12 +321,11 @@ and each implies a different surviving capability.
 
 DIVISION USE
 
-The Intelligence Division and its Temporal Evidence Review Desk hold the fragment set and
-the provenance reading. The Tactical Review Desk assesses what the layer implies about Guild
-weapons behaviour without importing its targeting logic. Subject Care Division controls any VESPER-facing
-interpretation, holds the restraint-language prohibition, and reviews every proposal that would place the
-subject near Guild interface material. Medical Care supports that review where perception or injury
-reporting is involved.
+The Intelligence Division and its Temporal Evidence Review Desk hold the fragment set and the provenance
+reading. The Tactical Review Desk assesses what the layer implies about Guild weapons behaviour without
+importing its targeting logic. Subject Care Division controls any VESPER-facing interpretation, holds
+the restraint-language prohibition, and reviews every proposal that would place the subject near Guild
+interface material. Medical Care supports that review where perception or injury reporting is involved.
 
 Security enforces isolation of any displaying device. Central Archive holds the designation record and
 the redundant copies of recovered text. Engineering is the desk most likely to be

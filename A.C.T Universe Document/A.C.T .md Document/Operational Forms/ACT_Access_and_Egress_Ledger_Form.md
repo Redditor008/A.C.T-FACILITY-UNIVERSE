@@ -9,14 +9,12 @@
 
 #### Archive Note
 This form records controlled movement through A.C.T sites, sub-sites, containment zones, field perimeters, anomaly
-influence areas, temporary recovery scenes, and sealed archive routes. It exists because containment often
-fails at
+influence areas, temporary recovery scenes, and sealed archive routes. It exists because containment often fails at
 the threshold rather than inside the chamber.
 
 An access event is not only a door opening. It is a decision that
 a person, object, subject, record, tool, vehicle,
-animal, anomaly-derived asset, or unknown condition may cross from one operational state into another.
-An egress event
+animal, anomaly-derived asset, or unknown condition may cross from one operational state into another. An egress event
 is not only departure. It is the moment A.C.T decides what may leave with
 the moving party: memory, residue,
 contamination, pursuit, obligation, evidence, or silence.
@@ -44,8 +42,7 @@ Use this ledger when movement involves any of the following:
 - transformed field asset issue, return, or retirement;
 - emergency evacuation from anomalous influence.
 
-Do not use this ledger for ordinary staff movement through non-restricted areas unless the
-movement becomes relevant
+Do not use this ledger for ordinary staff movement through non-restricted areas unless the movement becomes relevant
 to an incident, breach, exposure review, or audit.
 
 ---
@@ -149,8 +146,7 @@ LAST MAINTENANCE CHECK:
 KNOWN ANOMALY INTERFERENCE:
 ```
 
-An anomalous threshold includes any doorway, road, train car, mirror, forest line, tent flap,
-elevator, stairwell,
+An anomalous threshold includes any doorway, road, train car, mirror, forest line, tent flap, elevator, stairwell,
 pool, screen, document margin, or other boundary where crossing may change rules.
 
 ---
@@ -178,8 +174,7 @@ EXPOSURE LEDGER REQUIRED:
 CHAIN OF CUSTODY RECORD REQUIRED:
 ```
 
-No entry should be approved solely because the person has high clearance. Clearance permits
-knowledge. It does not
+No entry should be approved solely because the person has high clearance. Clearance permits knowledge. It does not
 make a body safe to move through a hazardous threshold.
 
 ---
@@ -239,8 +234,7 @@ CHAIN OF CUSTODY BROKEN:
 REASON IF BROKEN:
 ```
 
-A.C.T has lost containment before because one team transferred an object while keeping the
-warning inside a separate
+A.C.T has lost containment before because one team transferred an object while keeping the warning inside a separate
 file. A custody transfer must carry enough truth to keep the receiving authority alive.
 
 ---
@@ -264,16 +258,14 @@ RETURN ROUTE:
 AUTHORIZED REPEAT MOVEMENT:
 ```
 
-E-Class movement must not be made invisible because the person is already excommunicated. The
-ledger must show where
+E-Class movement must not be made invisible because the person is already excommunicated. The ledger must show where
 they were taken, why they were taken there, and whether they returned.
 
 ---
 
 ### 9. Subject Care Movement Attachment
 
-Complete when a contained subject or humanoid anomaly is moved for care, interview, relocation,
-recreation, ritual
+Complete when a contained subject or humanoid anomaly is moved for care, interview, relocation, recreation, ritual
 continuity, cultural continuity, medical care, or containment revision.
 
 ```text
@@ -352,8 +344,7 @@ a moving normalcy operation.
 
 ### 12. Emergency Egress Block
 
-Use when personnel, subjects, civilians, or materials leave under breach, fire, flood, structural failure,
-hostile
+Use when personnel, subjects, civilians, or materials leave under breach, fire, flood, structural failure, hostile
 action, anomalous spread, or command evacuation.
 
 ```text

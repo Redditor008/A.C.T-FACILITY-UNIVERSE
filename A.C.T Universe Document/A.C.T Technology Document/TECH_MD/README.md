@@ -8,10 +8,8 @@
 
 This archive holds individual technology documents for A.C.T systems, GOI-derived systems, recovered equipment,
 containment tools, field instruments, medical devices, infrastructure components, memory-control systems, access
-devices, and abnormal materials that require more detail than the master technology index can
-carry. The existing
-A.C.T Technological Master Index remains the broad catalog. This folder is for per-technology working
-records.
+devices, and abnormal materials that require more detail than the master technology index can carry. The existing
+A.C.T Technological Master Index remains the broad catalog. This folder is for per-technology working records.
 
 Each technology file must identify what the technology is, who controls it, what it
 does, what it cannot do, what
@@ -19,8 +17,8 @@ materials or subsystems are known, where it is used, how A.C.T handles it, what
 failures are recorded, which divisions
 may request it, what censorship applies, and what remains unknown. A technology file is
 not a sales sheet and not an
-omniscient explanation. It should preserve working gaps, redactions, labels, test limits, and unresolved engineering
-questions.
+omniscient explanation. It should preserve working gaps, redactions,
+labels, test limits, and unresolved engineering questions.
 
 ## Current Individual Technology Records
 
@@ -34,8 +32,8 @@ questions.
 — `TECH-GOI-001-3` — GAA Civil Continuity Cover Mechanism Set / Continuity Cover Set
   — TECH-GOI-001-3 — GAA Civil Continuity Cover Mechanism Set
   — TECH-GOI-001-3 — GAA Civil Continuity Cover Mechanism Set
-— `TECH-GOI-001-4` — GAA Compartmented Awareness and Secure Document-Routing Channel System / Compartmented Awareness
-  Set
+— `TECH-GOI-001-4` — GAA Compartmented Awareness and Secure
+Document-Routing Channel System / Compartmented Awareness Set
   — TECH-GOI-001-4 — GAA Compartmented Awareness and Secure Document Routing Channel System
   — [txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-001-4-GAA-Compartmented-Awareness-and-Secure-Document-Routing-Channel-System.txt)
   `TECH-GOI-001-5` — GAA Function-Separated Access Point and Authority Boundary Architecture / Function-Separated
@@ -99,8 +97,8 @@ questions.
   Pressure Set
   — TECH-GOI-048-3 — CoTD Pressure Ritual Equipment and Sealed Container Set
   — TECH-GOI-048-3 — CoTD Pressure Ritual Equipment and Sealed Container Set
-— `TECH-GOI-048-4` — Children of the Deep Compartmented Devotional Text, Distributed Recording, and Synchronized
-  Calendar Set / Sounding Texts
+— `TECH-GOI-048-4` — Children of the Deep Compartmented Devotional Text,
+Distributed Recording, and Synchronized Calendar Set / Sounding Texts
   — [md](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_MD/TECH-GOI-048-4-CoTD-Compartmented-Devotional-Text-Distributed-Recording-and-Synchronized-Calendar-Set.md)
   — [txt](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/A.C.T%20Universe%20Document/A.C.T%20Technology%20Document/TECH_TXT/TECH-GOI-048-4-CoTD-Compartmented-Devotional-Text-Distributed-Recording-and-Synchronized-Calendar-Set.txt)
   `TECH-GOI-048-5` — Children of the Deep Concealed Contribution and Technical Procurement System /

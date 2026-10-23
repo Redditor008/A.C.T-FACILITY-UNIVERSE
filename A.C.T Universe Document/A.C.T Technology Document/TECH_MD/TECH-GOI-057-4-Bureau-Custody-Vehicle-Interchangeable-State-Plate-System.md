@@ -217,9 +217,9 @@ legally holding the subject, and it can only be detected at the moment it happen
 
 ### UNLOGGED LEG — PROHIBITION OF RECORD
 
-A transfer leg with no named holding authority produces an interval in which the subject is ownerless. A.C.T treats a
-blank leg as a reportable failure rather than an incomplete form, because the Bureau's stated purpose is to prevent
-exactly that condition.
+A transfer leg with no named holding authority produces an interval in which the subject
+is ownerless. A.C.T treats a blank leg as a reportable failure rather than an incomplete
+form, because the Bureau's stated purpose is to prevent exactly that condition.
 
 ### BODY AS CARGO — STANDING PROHIBITION
 

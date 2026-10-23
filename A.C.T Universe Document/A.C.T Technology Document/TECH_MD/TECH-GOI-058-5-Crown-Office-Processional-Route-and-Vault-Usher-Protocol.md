@@ -79,9 +79,9 @@ equivalent grant and cannot generate one.
 | Witness provision | Witness chair; quiet mourners at line endings |
 | Grant format | NOT MEASURED |
 
-The operative row is the ushers row. The protection observed during a transfer is inseparable from the usher who opens
-one door, and A.C.T has no equivalent role to substitute. An A.C.T escort can guard a route but cannot perform
-the usher function.
+The operative row is the ushers row. The protection observed during a transfer is
+inseparable from the usher who opens one door, and A.C.T has no equivalent role to
+substitute. An A.C.T escort can guard a route but cannot perform the usher function.
 
 ---
 
@@ -198,9 +198,9 @@ deviation into an unrecoverable gap.
 | Hazard observed en route | Route or object condition | Record as observed |
 | Usher substituted | A.C.T handling breach | Report; transfer unprotected |
 
-The sixth row is the fault A.C.T is most likely to produce, because substituting an escort for an usher looks
-like a staffing solution. It is not: the usher function is what the route protection depends on, and an A.C.T
-officer cannot perform it.
+The sixth row is the fault A.C.T is most likely to produce, because substituting an
+escort for an usher looks like a staffing solution. It is not: the usher function
+is what the route protection depends on, and an A.C.T officer cannot perform it.
 
 ---
 
@@ -225,9 +225,9 @@ a right is not reversible by returning to it.
 
 ### SECOND DOOR — STANDING PROHIBITION
 
-An usher opens only the correct door. A.C.T records the prohibition on requesting a second attempt as standing,
-because the request itself is what converts a protected transfer into an unprotected one. No A.C.T instance is
-recorded.
+An usher opens only the correct door. A.C.T records the prohibition on requesting
+a second attempt as standing, because the request itself is what converts a
+protected transfer into an unprotected one. No A.C.T instance is recorded.
 
 ### LINE ENDING WITHOUT WITNESS — UNRESOLVED
 

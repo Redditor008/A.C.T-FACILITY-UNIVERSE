@@ -62,9 +62,8 @@ HARM FROM NON-SPECIALIST HANDLING IS ASSESSED BEFORE THE ANOMALY IS.
 FUNCTION SUMMARY
 
 The system keeps an anomaly alive, stable, and moving after it has left Facility
-custody. Its components are ordinary logistics plus borrowed procedure: safehouses, vehicles, holding rooms,
-feeding and monitoring routines, and a documentation habit copied from the custody records its
-operators used to write.
+custody. Its components are ordinary logistics plus borrowed procedure: safehouses, vehicles, holding rooms, feeding
+and monitoring routines, and a documentation habit copied from the custody records its operators used to write.
 
 The borrowed procedure is the risk. A cell that carries an anomaly it does
 not fully understand may misjudge the subject's requirements, interrupt a stabilizing condition, or misread

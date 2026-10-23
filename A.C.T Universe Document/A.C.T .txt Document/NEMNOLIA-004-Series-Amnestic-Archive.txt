@@ -11,21 +11,17 @@ Use Status: Controlled Internal Pharmaceutical Derivative System
 ============================================================
 
 Purpose
-This archive records the officially recognized derivative amnestic compounds refined from the sap of
-AFD-NB-004. These
-compounds form the basis of A.C.T memory suppression, witness sanitation, secrecy preservation, and restricted
-recall
+This archive records the officially recognized derivative amnestic compounds refined from the sap of AFD-NB-004. These
+compounds form the basis of A.C.T memory suppression, witness sanitation, secrecy preservation, and restricted recall
 erasure protocols.
 
-Raw sap is not considered safe for unrestricted use. All 004-series compounds are classified
-as anomaly-derived
+Raw sap is not considered safe for unrestricted use. All 004-series compounds are classified as anomaly-derived
 neurological erasure agents.
 
 ============================================================
 
 Source Material
-AFD-NB-004 secretes a glowing translucent golden sap with memory-destructive properties. In raw form, it
-can erase,
+AFD-NB-004 secretes a glowing translucent golden sap with memory-destructive properties. In raw form, it can erase,
 fracture, or collapse human memory continuity. Through controlled dilution, stabilization, and pharmaceutical
 refinement, A.C.T has categorized multiple derivative classes based on concentration.
 
@@ -115,8 +111,7 @@ Authorization: lowest recognized 004 operational grade
 
 Internal Doctrine
 The lower the concentration, the safer the intended erasure window.
-The higher the concentration, the closer the compound moves from memory suppression into continuity
-destruction.
+The higher the concentration, the closer the compound moves from memory suppression into continuity destruction.
 
 A.C.T therefore distinguishes between:
 - memory wipe
@@ -140,9 +135,7 @@ Improper administration may result in:
 ============================================================
 
 Closing Note
-AFD-NB-004 remains one of the most strategically important integrated anomalies in Facility history. The
-004-series
-compounds are indispensable to secrecy preservation, but their use represents one of the clearest
-examples of A.C.T’s
+AFD-NB-004 remains one of the most strategically important integrated anomalies in Facility history. The 004-series
+compounds are indispensable to secrecy preservation, but their use represents one of the clearest examples of A.C.T’s
 gray morality: the Facility preserves the world by rewriting what the world is allowed
 to remember.

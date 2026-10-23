@@ -37,10 +37,9 @@ entry into a clean address destroys the only thing that made the case visible.
 
 The analog preference is operational rather than nostalgic, and A.C.T assessment agrees with it:
 paper, microfilm, stamped copies, and duplicate storage held away from networked indexing survive some
-record-loss effects better than automated systems do. The Facility has its own evidence on
-the point. During the North Window Relay case the first digital recovery report corrupted
-twice before Central Archive ordered analog duplication, which is the Tower's method vindicated inside
-A.C.T's own archive.
+record-loss effects better than automated systems do. The Facility has its own evidence on the point.
+During the North Window Relay case the first digital recovery report corrupted twice before Central
+Archive ordered analog duplication, which is the Tower's method vindicated inside A.C.T's own archive.
 
 Controlled label: **M404-WT DEAD-ADDRESS CONTRADICTION PRESERVATION RULE**.
 
@@ -91,8 +90,7 @@ would remove a name from an active file.
 
 Extracts are copied with the Tower source mark intact and stored with an off-index
 duplicate. Where an entry is the last proof that a missing civilian, responder, or
-team existed, normalcy cleanup is prohibited until Recovery, Legal, and Central Archive agree on
-continuance handling.
+team existed, normalcy cleanup is prohibited until Recovery, Legal, and Central Archive agree on continuance handling.
 
 
 ---
@@ -268,9 +266,8 @@ files rather than against staff.
 ### LEDGER CUSTODY — UNRESOLVED
 
 Whether full ledger custody would protect A.C.T or expose more people to absence is
-unresolved. The dossier records that Tower archives may contain vanished Site references, sealed witness
-names, and deleted incident fragments, which means the Facility could acquire records it is
-then responsible for losing.
+unresolved. The dossier records that Tower archives may contain vanished Site references, sealed witness names,
+and deleted incident fragments, which means the Facility could acquire records it is then responsible for losing.
 
 
 ---

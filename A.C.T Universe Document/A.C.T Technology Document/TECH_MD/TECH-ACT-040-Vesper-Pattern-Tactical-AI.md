@@ -21,14 +21,11 @@
 | AUTHORITY | Tactical Review Desk, Engineering Division, and Central Archive |
 
 #### Archive Note
-Vesper-Pattern Tactical AI is the fortieth main A.C.T technology expanded into an individual record.
-The Master
+Vesper-Pattern Tactical AI is the fortieth main A.C.T technology expanded into an individual record. The Master
 Catalog defines it as an isolated combat-logic program mimicking future-operative filtering for coordinating unmanned
-recovery operations. The visual guide describes an armored black cube with a rotating sensor
-turret, a green eye lens
+recovery operations. The visual guide describes an armored black cube with a rotating sensor turret, a green eye lens
 using restricted pattern recognition, and a wired tactical uplink port for mission-parameter input. HIGENMARU-KORIN
-containment procedures restrict training with the sword pair to Vesper-Pattern Tactical AI simulations because
-human
+containment procedures restrict training with the sword pair to Vesper-Pattern Tactical AI simulations because human
 wielders suffered fatal stamina collapse during prior testing.
 
 VPT-AI is not trusted because it is smart. It is used because it can
@@ -47,15 +44,12 @@ LET THE MACHINE PLAN THE APPROACH WITHOUT LETTING THE MACHINE CHOOSE THE MISSION
 ## FUNCTION SUMMARY
 
 Vesper-Pattern Tactical AI coordinates unmanned recovery operations, dangerous artifact simulations, route selection,
-and combat-response modeling where living operators would be harmed by proximity, compulsion, stamina drain,
-or
-impossible timing. It reads mission parameters through a wired tactical uplink, models hostile movement
-through its
+and combat-response modeling where living operators would be harmed by proximity, compulsion, stamina drain, or
+impossible timing. It reads mission parameters through a wired tactical uplink, models hostile movement through its
 rotating sensor turret and recognition filter, and outputs controlled instructions for drones, decoys, restraint
 systems, simulated wielders, or remote recovery frames.
 
-The system is intentionally isolated. It is not connected to general site intelligence, civilian
-networks, personnel
+The system is intentionally isolated. It is not connected to general site intelligence, civilian networks, personnel
 files, or open archive records. VPT-AI works inside a sealed tactical problem. When the
 problem ends, the unit is
 reviewed before receiving another one.
@@ -74,14 +68,10 @@ Approved roles include:
 
 ## ORIGIN AND DEPLOYMENT
 
-VPT-AI was developed after A.C.T learned that some tactical environments injure the operator before
-the operation
-begins. A human planner can be hypnotized by a lure, frightened into predictable behavior,
-recruited by narrative
-pressure, drained by an artifact, or tempted to improvise around a beautiful opening. Unmanned
-platforms help, but
-unmanned platforms still require command logic. VPT-AI fills that gap without placing a human
-mind at the center of
+VPT-AI was developed after A.C.T learned that some tactical environments injure the operator before the operation
+begins. A human planner can be hypnotized by a lure, frightened into predictable behavior, recruited by narrative
+pressure, drained by an artifact, or tempted to improvise around a beautiful opening. Unmanned platforms help, but
+unmanned platforms still require command logic. VPT-AI fills that gap without placing a human mind at the center of
 every hostile pattern.
 
 The Vesper pattern is based on a future-operative filtering model, not on an uploaded
@@ -89,12 +79,10 @@ person. It imitates
 decision-filter structure: remove dramatic options, reduce pride, prioritize retreat routes, and treat every easy
 victory as bait. The model is useful because it is narrow. It cannot decide
 A.C.T policy. It cannot approve
-containment philosophy. It cannot declare a subject expendable. It can choose which drone enters
-a corridor first
+containment philosophy. It cannot declare a subject expendable. It can choose which drone enters a corridor first
 after command has already defined the mission.
 
-Current deployment remains isolated by hardware. Wired uplink is required so operators can prove
-when and how mission
+Current deployment remains isolated by hardware. Wired uplink is required so operators can prove when and how mission
 parameters entered the cube.
 
 ---
@@ -103,10 +91,8 @@ parameters entered the cube.
 
 A standard VPT-AI core is an armored black cube mounted on a vibration-damped tactical
 base. A rotating sensor turret
-rises from the top face. The front-facing green eye lens houses restricted pattern-recognition optics.
-The rear panel
-contains the wired tactical uplink port, physical mission key slot, cooling vents, status lights,
-and an emergency
+rises from the top face. The front-facing green eye lens houses restricted pattern-recognition optics. The rear panel
+contains the wired tactical uplink port, physical mission key slot, cooling vents, status lights, and an emergency
 logic-seal switch. The cube is heavy enough that field teams do not carry it
 casually; it is usually deployed on a
 command bench, drone cradle, or sealed simulation rack.
@@ -152,8 +138,7 @@ archive: Model horizon, Concurrent asset count, Uplink latency limit. They are f
 | Concurrent asset count | NOT MEASURED |
 | Uplink latency limit | NOT MEASURED |
 
-The system is intentionally isolated: it is not connected to site intelligence, civilian networks,
-personnel
+The system is intentionally isolated: it is not connected to site intelligence, civilian networks, personnel
 files, or open archive records. The green lens stays covered when the core is
 not on an authorised mission.
 
@@ -205,19 +190,14 @@ physical stop, not a software command, and it is thrown before any diagnosis of
 why the core chose what it
 chose.
 
-Before operation, Tactical Review defines the mission in plain terms: recover, distract, map, simulate,
-delay,
-observe, or withdraw. Engineering confirms isolation. Security confirms no wireless bridges are present. The
-wired
-uplink is connected only after the mission key is inserted. Parameters must include abort
-conditions, prohibited
+Before operation, Tactical Review defines the mission in plain terms: recover, distract, map, simulate, delay,
+observe, or withdraw. Engineering confirms isolation. Security confirms no wireless bridges are present. The wired
+uplink is connected only after the mission key is inserted. Parameters must include abort conditions, prohibited
 actions, civilian protection limits, subject-care limits, and maximum acceptable equipment loss.
 
 During operation, VPT-AI may coordinate drones, decoys, remote restraints, sonar-linked recovery frames, or simulated
-combat agents. Operators monitor output rather than arguing with every calculated move. However, the
-AI cannot expand
-mission scope. If it requests authority to pursue, neutralize, harvest, interrogate, or reclassify beyond
-the approved
+combat agents. Operators monitor output rather than arguing with every calculated move. However, the AI cannot expand
+mission scope. If it requests authority to pursue, neutralize, harvest, interrogate, or reclassify beyond the approved
 plan, the request is denied until human command reviews the situation.
 
 After operation, the cube is sealed. Logs are extracted through the wired port, checked
@@ -239,8 +219,7 @@ under Tactical Review.
 
 No calendar interval is recorded; the core is verified per mission, so interval NOT
 MEASURED. There is no
-consumable. The 2022 bias review is why mission templates now carry equipment-value and archive-recovery
-constraints.
+consumable. The 2022 bias review is why mission templates now carry equipment-value and archive-recovery constraints.
 
 ## FAULT ISOLATION
 
@@ -256,15 +235,12 @@ constraints.
 ## KNOWN LIMITS
 
 VPT-AI cannot understand dignity, consent, superstition, manners, or sovereign authority unless these are translated
-into explicit mission constraints. It may model a respectful bow as useless movement unless
-command defines why the
-gesture matters. It may also fail against anomalies that read machinery as intention, recruit
-algorithmic prediction,
+into explicit mission constraints. It may model a respectful bow as useless movement unless command defines why the
+gesture matters. It may also fail against anomalies that read machinery as intention, recruit algorithmic prediction,
 or punish unmanned systems for lacking fear.
 
 Known failure modes include recognition overfit, mission creep, simulation bleed, drone-sacrifice bias, lens fixation,
-false tactical elegance, and command staff treating a calculated path as permission. A good
-plan can still be morally
+false tactical elegance, and command staff treating a calculated path as permission. A good plan can still be morally
 wrong if the mission was defined badly.
 
 ---
@@ -272,33 +248,26 @@ wrong if the mission was defined badly.
 ## FAILURE HISTORY
 
 ### VPT-2018 HIGENMARU Simulation Adoption
-After human testing with HIGENMARU-KORIN caused total stamina collapse in E-Class wielders, VPT-AI simulation
-became
-the approved training substitute. The AI could model timing, approach, and parry-window conditions without
-giving the
+After human testing with HIGENMARU-KORIN caused total stamina collapse in E-Class wielders, VPT-AI simulation became
+the approved training substitute. The AI could model timing, approach, and parry-window conditions without giving the
 sword a living metabolism to drain.
 
 ### VPT-2022 Drone-Sacrifice Bias
-A recovery simulation repeatedly selected equipment loss as the cleanest path. The outputs were
-tactically valid but
-ignored replacement scarcity and evidence preservation. Mission templates now include equipment-value and
-archive-recovery constraints.
+A recovery simulation repeatedly selected equipment loss as the cleanest path. The outputs were tactically valid but
+ignored replacement scarcity and evidence preservation. Mission
+templates now include equipment-value and archive-recovery constraints.
 
 ### VPT-2026 Courtesy Constraint Drill
-A temple-threshold simulation failed when the AI routed a drone directly across a respectful
-boundary marker. The path
-was efficient and unacceptable. Sovereign-site operations now require manners and threshold rules as hard
-constraints.
+A temple-threshold simulation failed when the AI routed a drone directly across a respectful boundary marker. The path
+was efficient and unacceptable. Sovereign-site operations now require manners and threshold rules as hard constraints.
 
 ---
 
 ## DIVISION USE
 
 Tactical Review controls mission templates and after-action analysis. Engineering maintains isolation, turret motion,
-lens calibration, and wired uplink integrity. Recovery uses the AI for unmanned operation planning.
-Security uses it
-for tactical rehearsal. Artifact Storage uses it to model handling of dangerous tools. Simulation
-Command stores
+lens calibration, and wired uplink integrity. Recovery uses the AI for unmanned operation planning. Security uses it
+for tactical rehearsal. Artifact Storage uses it to model handling of dangerous tools. Simulation Command stores
 sealed scenario libraries.
 
 Standing reminder: the cube can calculate how to enter a room. It cannot decide

@@ -17,16 +17,12 @@
 
 ## Archive Note
 
-This file is the complete individual record of **F-6, the Surface Research and Transition
-Level**, the
+This file is the complete individual record of **F-6, the Surface Research and Transition Level**, the
 surface-adjacent floor of **ACT-SITE-02-RU-N, White Grave Station**.
 
-F-6 is the legitimate face of the station: administrative buildings, conventional research laboratories, the
-power
-plant, vehicle maintenance, and the airstrip. Personnel arriving by seasonal transport transition through this
-level
-before descending — and the level's conventional research activity is the station's cover, the
-ordinary arctic science
+F-6 is the legitimate face of the station: administrative buildings, conventional research laboratories, the power
+plant, vehicle maintenance, and the airstrip. Personnel arriving by seasonal transport transition through this level
+before descending — and the level's conventional research activity is the station's cover, the ordinary arctic science
 that gives the buried containment station its reason to exist.
 
 This dossier records the floor in full institutional language: what it is, how it
@@ -39,14 +35,11 @@ it stands as the surface boundary of one of the Facility's most isolated install
 
 **Site Designation:** ACT-SITE-02-RU-N **Site Codename:** White Grave Station **Floor Designation:** F-6 **Floor
 Name:** Surface Research and Transition Level **Floor Type:** Surface Cover and Transition Level **Vertical
-Position:** Surface-adjacent floor of the station **Floor Above:** None numbered — the arctic surface
-and seasonal
+Position:** Surface-adjacent floor of the station **Floor Above:** None numbered — the arctic surface and seasonal
 transport corridors **Floor Below:** F-5 (Personnel Habitation and Support) **Containment Character:** Non-resident
 surface cover and logistics infrastructure **Primary Function:** Administrative buildings, conventional research
-laboratories, power plant, vehicle maintenance, and airstrip; transition of personnel and material between the
-surface
-and the buried station **Distinctive Feature:** The station's legitimate face — conventional arctic research
-activity
+laboratories, power plant, vehicle maintenance, and airstrip; transition of personnel and material between the surface
+and the buried station **Distinctive Feature:** The station's legitimate face — conventional arctic research activity
 as cover **Access Posture:** Boundary-control access **Current Status:** Active
 
 ---
@@ -55,16 +48,13 @@ as cover **Access Posture:** Boundary-control access **Current Status:** Active
 
 White Grave Station is buried in one of the most remote regions the Facility
 operates, but burial alone is not
-concealment. A large arctic installation with no visible purpose would draw the wrong kind
-of attention; the
+concealment. A large arctic installation with no visible purpose would draw the wrong kind of attention; the
 Facility's stations require a reason to exist that the ordinary world can see.
 
 F-6 provides that reason. The surface-adjacent level of White Grave Station is its legitimate
 face: administrative
-buildings, conventional research laboratories, the power plant, vehicle maintenance, and the airstrip that ties
-the
-station to the seasonal transport schedule. Conventional arctic research is conducted here openly —
-and beneath it,
+buildings, conventional research laboratories, the power plant, vehicle maintenance, and the airstrip that ties the
+station to the seasonal transport schedule. Conventional arctic research is conducted here openly — and beneath it,
 the buried station does the work that the surface science exists to conceal.
 
 ---
@@ -87,8 +77,7 @@ physical connection to the seasonal transport corridors that supply it.
 
 ### 3.3 Relationship to F-5
 
-Personnel arriving by seasonal transport transition through F-6 and descend to F-5, where the
-station's habitation
+Personnel arriving by seasonal transport transition through F-6 and descend to F-5, where the station's habitation
 level receives them. Material arriving at the station is processed on F-6 before moving
 downward through the
 transition architecture.
@@ -99,25 +88,20 @@ transition architecture.
 
 ### 4.1 Development of the Surface Cover
 
-F-6's character developed with the station's founding: an installation of White Grave's scale in
-the arctic required a
-legitimate identity, and the station's surface level was developed as a conventional arctic research
-station —
+F-6's character developed with the station's founding: an installation of White Grave's scale in the arctic required a
+legitimate identity, and the station's surface level was developed as a conventional arctic research station —
 conducting real science in the open while the buried facility below conducted the work
 the surface existed to conceal.
 
 ### 4.2 The Seasonal Transport System
 
-The level's transition architecture developed around the arctic's seasonal transport schedule: the station is
-supplied
-by seasonal flights and overland transport, and F-6's airstrip, vehicle maintenance, and processing facilities
-were
+The level's transition architecture developed around the arctic's seasonal transport schedule: the station is supplied
+by seasonal flights and overland transport, and F-6's airstrip, vehicle maintenance, and processing facilities were
 built to make that schedule work.
 
 ### 4.3 Modern Configuration
 
-In its modern configuration, F-6 is the station's legitimate face and its surface gateway:
-the level where
+In its modern configuration, F-6 is the station's legitimate face and its surface gateway: the level where
 conventional science is conducted, where seasonal transport arrives, and where personnel and material transition
 between the arctic surface and the buried station.
 
@@ -127,22 +111,18 @@ between the arctic surface and the buried station.
 
 ### 5.1 Floor Command
 
-F-6 operates under the station administration's surface command, administered day-to-day by a **Surface Chief**.
-The
+F-6 operates under the station administration's surface command, administered day-to-day by a **Surface Chief**. The
 Chief administers the level's cover operations, logistics, and transition functions.
 
 ### 5.2 Authority over the Cover
 
-The Surface Chief holds authority over the level's legitimate operations: the conventional research program,
-the
+The Surface Chief holds authority over the level's legitimate operations: the conventional research program, the
 station's administrative functions, and the maintenance of the cover identity.
 
 ### 5.3 Authority Limits
 
-F-6 holds no authority over the buried station's containment operations. Its authority is over
-the surface — and over
-the transition through which personnel and material pass between the surface world and the
-depths.
+F-6 holds no authority over the buried station's containment operations. Its authority is over the surface — and over
+the transition through which personnel and material pass between the surface world and the depths.
 
 ---
 
@@ -150,8 +130,7 @@ depths.
 
 ### 6.1 Research Division (Surface Program)
 
-The Research Division operates the level's conventional research program: the legitimate arctic science —
-glaciology,
+The Research Division operates the level's conventional research program: the legitimate arctic science — glaciology,
 climatology, ecology — that gives the station its visible purpose.
 
 ### 6.2 Station Administration
@@ -161,8 +140,7 @@ of the legitimate surface station.
 
 ### 6.3 Logistics and Engineering
 
-The level's power plant, vehicle maintenance, and airstrip operations are run by the station's
-logistics and
+The level's power plant, vehicle maintenance, and airstrip operations are run by the station's logistics and
 engineering personnel, who maintain the infrastructure that supplies the entire buried station.
 
 ### 6.4 Security Division (Boundary)
@@ -187,28 +165,22 @@ F-6's surface structures comprise the station's legitimate campus:
 
 ### 7.2 The Conventional Research Laboratories
 
-The level's research laboratories conduct real arctic science in the open: glaciology, climatology, and
-related fields
+The level's research laboratories conduct real arctic science in the open: glaciology, climatology, and related fields
 pursued by personnel whose published work is part of the station's cover. The science
 is genuine — the station's cover
 is built on work that can withstand scrutiny.
 
 ### 7.3 The Airstrip and Maintenance Facilities
 
-The airstrip and vehicle maintenance facilities tie the station to the seasonal transport schedule:
-flights and
-overland convoys arrive on schedule, delivering personnel and material that transition through the level
-into the
+The airstrip and vehicle maintenance facilities tie the station to the seasonal transport schedule: flights and
+overland convoys arrive on schedule, delivering personnel and material that transition through the level into the
 buried station.
 
 ### 7.4 The Transition Architecture
 
-The level's buried component is its transition architecture: the control points and vertical routes
-through which
-screened personnel and material pass from the legitimate surface into the operational station below.
-The architecture
-is concealed — indistinguishable from ordinary station infrastructure to anyone without reason to look
-deeper.
+The level's buried component is its transition architecture: the control points and vertical routes through which
+screened personnel and material pass from the legitimate surface into the operational station below. The architecture
+is concealed — indistinguishable from ordinary station infrastructure to anyone without reason to look deeper.
 
 ---
 
@@ -216,28 +188,24 @@ deeper.
 
 ### 8.1 Power
 
-The level's power plant supplies the legitimate surface campus and the buried station, under
-the station's redundant
+The level's power plant supplies the legitimate surface campus and the buried station, under the station's redundant
 power doctrine.
 
 ### 8.2 Environment
 
-The level's structures are engineered for the arctic environment: heating, weather protection, and the
-infrastructure
+The level's structures are engineered for the arctic environment: heating, weather protection, and the infrastructure
 that makes year-round surface operations possible in one of the Facility's coldest regions.
 
 ### 8.3 Monitoring
 
 Monitoring on F-6 is boundary-oriented: surface traffic, transport arrivals, and personnel movement are monitored
-under the Security Division's doctrine, with the monitoring architecture concealed as part of the
-level's surface
+under the Security Division's doctrine, with the monitoring architecture concealed as part of the level's surface
 design.
 
 ### 8.4 Communication
 
 The level maintains the station's external communications — the seasonal transport coordination and legitimate
-scientific communications that tie the surface station to the outside world — alongside the
-buried station's secure
+scientific communications that tie the surface station to the outside world — alongside the buried station's secure
 internal networks.
 
 ---
@@ -249,31 +217,24 @@ internal networks.
 F-6's defining security function is its cover: the level's conventional research activity, administrative operations,
 and surface logistics present the station to the world as an ordinary arctic research
 installation. The cover is
-maintained through genuine science and genuine operations — work that can withstand scrutiny because
-it is real.
+maintained through genuine science and genuine operations — work that can withstand scrutiny because it is real.
 
 ### 9.2 Transition Control
 
-The level's transition architecture is its second security function: every person and every shipment
-that passes from
-the surface into the buried station is screened and documented. The transition is concealed
-— designed to be
+The level's transition architecture is its second security function: every person and every shipment that passes from
+the surface into the buried station is screened and documented. The transition is concealed — designed to be
 indistinguishable from ordinary station logistics.
 
 ### 9.3 The Seasonal Boundary
 
-The station's arctic environment is itself a security asset: the seasonal transport schedule means
-the station is
-physically reachable only during defined windows, and the level's boundary doctrine uses the schedule
-as a natural
+The station's arctic environment is itself a security asset: the seasonal transport schedule means the station is
+physically reachable only during defined windows, and the level's boundary doctrine uses the schedule as a natural
 access control.
 
 ### 9.4 Incident Response
 
-F-6 maintains incident response for surface events: cover incidents, transport incidents, and attempts to
-penetrate
-the transition architecture are met with the station's surface response doctrine, with the buried
-station sealed
+F-6 maintains incident response for surface events: cover incidents, transport incidents, and attempts to penetrate
+the transition architecture are met with the station's surface response doctrine, with the buried station sealed
 behind the level if the surface boundary is threatened.
 
 ---
@@ -282,20 +243,17 @@ behind the level if the surface boundary is threatened.
 
 ### 10.1 Cover Function
 
-F-6 is the station's legitimate face: the conventional arctic research station whose genuine science
-and operations
+F-6 is the station's legitimate face: the conventional arctic research station whose genuine science and operations
 conceal the buried containment installation beneath it.
 
 ### 10.2 Transition Function
 
-F-6 is the station's surface gateway: the level through which personnel and material pass
-between the seasonal
+F-6 is the station's surface gateway: the level through which personnel and material pass between the seasonal
 transport corridors and the buried station.
 
 ### 10.3 Holding Character
 
-F-6 holds no residents and no operational material beyond transit. Its character is cover
-and transition — the level
+F-6 holds no residents and no operational material beyond transit. Its character is cover and transition — the level
 is the station's visible surface, not its working depth.
 
 ---
@@ -305,23 +263,19 @@ is the station's visible surface, not its working depth.
 ### 11.1 Staffing
 
 F-6's population comprises the surface station's personnel: conventional research staff whose published work maintains
-the cover, administrators, logistics and engineering personnel, and the boundary security staff who control
-the
+the cover, administrators, logistics and engineering personnel, and the boundary security staff who control the
 transition architecture.
 
 ### 11.2 Duty Life
 
-Duty on F-6 is surface work: conventional research, administration, logistics, and the maintenance of
-the station's
-legitimate operations. The level's personnel perform their duties in the open, under the discipline
-of personnel who
+Duty on F-6 is surface work: conventional research, administration, logistics, and the maintenance of the station's
+legitimate operations. The level's personnel perform their duties in the open, under the discipline of personnel who
 know that their visible work conceals the station's true purpose.
 
 ### 11.3 Cover Discipline
 
 The level's personnel work under strict cover discipline: their published research, their professional reputations,
-and their daily operations are part of the station's concealment. The science is genuine,
-and so is the discipline of
+and their daily operations are part of the station's concealment. The science is genuine, and so is the discipline of
 those who conduct it.
 
 ---
@@ -330,8 +284,7 @@ those who conduct it.
 
 ### 12.1 Cover Doctrine
 
-F-6 doctrine holds that concealment is built on genuine activity: the level's conventional research
-and operations
+F-6 doctrine holds that concealment is built on genuine activity: the level's conventional research and operations
 must withstand scrutiny because they are real. The station's cover is not a lie
 maintained by secrecy — it is a truth
 maintained by discipline.
@@ -340,8 +293,7 @@ maintained by discipline.
 
 F-6 doctrine holds that the passage between surface and depth must be controlled: every
 person and shipment moving
-between the arctic surface and the buried station passes through the level's transition architecture,
-screened and
+between the arctic surface and the buried station passes through the level's transition architecture, screened and
 documented under the station's boundary doctrine.
 
 ### 12.3 Seasonal Doctrine
@@ -354,10 +306,8 @@ level's boundary doctrine uses the environment as a natural layer of the station
 
 ## 13. Incident Archive
 
-The floor's incident record is dominated by cover and transition events: transport incidents, cover
-incidents, and
-attempts to penetrate the transition architecture. The station's history records the incidents that have
-tested the
+The floor's incident record is dominated by cover and transition events: transport incidents, cover incidents, and
+attempts to penetrate the transition architecture. The station's history records the incidents that have tested the
 surface boundary — and the cover has held.
 
 ---
@@ -386,12 +336,10 @@ priorities include:
 
 F-6, the Surface Research and Transition Level, is the legitimate face of White Grave
 Station: administrative
-buildings, conventional research laboratories, the power plant, vehicle maintenance, and the airstrip — the
-ordinary
+buildings, conventional research laboratories, the power plant, vehicle maintenance, and the airstrip — the ordinary
 arctic research station whose genuine science conceals the buried containment installation beneath it.
 
 It is the level where the station meets the world: a surface of real
 research and real logistics, a transition through
-which the seasonal transport schedule feeds the depths, and a cover maintained by people
-whose visible work is true —
+which the seasonal transport schedule feeds the depths, and a cover maintained by people whose visible work is true —
 because the truth is the best concealment the Facility has.

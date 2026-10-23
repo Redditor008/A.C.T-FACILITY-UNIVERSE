@@ -197,8 +197,7 @@ Numbered Operating Sequence
 
 The sequence covers a field entry made against a Tower route extract. It puts
 the paper sheet first and the digital reference second, which is the reverse of
-normal practice and is deliberate, because the digital reference is the one that quietly
-changes.
+normal practice and is deliberate, because the digital reference is the one that quietly changes.
 
 1. Duplicate the extract on paper before deployment.
 2. Record every negative direction on the team card.

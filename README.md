@@ -1,10 +1,9 @@
 # A.C.T. Facility Universe
 
-**Anomaly Containment Transformation (A.C.T.)** is an original containment-fiction universe
-about an institution that does not stop at locking the impossible away. The Facility studies
-anomalies, contains them, argues over them, transforms some of them into controlled uses,
-refuses others, and records the cost of every decision inside an archive that is never as
-clean as it pretends to be.
+**Anomaly Containment Transformation (A.C.T.)** is an original containment-fiction universe about
+an institution that does not stop at locking the impossible away. The Facility studies anomalies,
+contains them, argues over them, transforms some of them into controlled uses, refuses others, and
+records the cost of every decision inside an archive that is never as clean as it pretends to be.
 
 A.C.T. is built around one question: **what happens when containment becomes an engine for
 change instead of a permanent box?**
@@ -19,8 +18,7 @@ Licensed under **CC BY-SA 4.0** — see [`LICENSE`](LICENSE).
 
 ## Start Here
 
-You do not need to read anything in order, and nothing here assumes prior knowledge. Pick
-the door that suits you.
+You do not need to read anything in order, and nothing here assumes prior knowledge. Pick the door that suits you.
 
 | If you want... | Open this |
 |---|---|

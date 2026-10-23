@@ -169,8 +169,7 @@ would let a rebuilt Circus be missed a second time.
 - Weakest where witness agreement on the show is read as agreement on fact.
 - Weakest where a route is assumed to end at the seized node.
 
-Node counts, missing-act identifications, and inventory values are NOT MEASURED and are tracked per
-season.
+Node counts, missing-act identifications, and inventory values are NOT MEASURED and are tracked per season.
 
 
 ---

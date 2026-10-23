@@ -35,16 +35,12 @@ Core rule: a refusal is evidence and must be preserved.
 
 ## FUNCTION SUMMARY
 
-The Memory-Sensitive Consent Form System is the authorization technology the Concern uses when injury,
-transformation,
-sedation, amnestic exposure, or identity discontinuity makes ordinary consent unreliable. Its function is to
-determine
+The Memory-Sensitive Consent Form System is the authorization technology the Concern uses when injury, transformation,
+sedation, amnestic exposure, or identity discontinuity makes ordinary consent unreliable. Its function is to determine
 whether an agreement belongs to the patient.
 
-It is listed among the Concern's confirmed or strongly assessed anomalous capabilities as a
-form that reveals
-coercion, sedation gaps, or false agreement. The practical effect is that Saint-Vera can decline
-a procedure that has
+It is listed among the Concern's confirmed or strongly assessed anomalous capabilities as a form that reveals
+coercion, sedation gaps, or false agreement. The practical effect is that Saint-Vera can decline a procedure that has
 been paid for, requested by family, or ordered by an institution, and can state
 a reason.
 
@@ -68,8 +64,7 @@ patient cards, and failure
 labels, but no blank stock, no printing method, and no account of who drafts
 them.
 
-The system sits under Saint-Vera's refusal board. The source record names a Green Thread
-Directorate as a body A.C.T
+The system sits under Saint-Vera's refusal board. The source record names a Green Thread Directorate as a body A.C.T
 would like to interview, but does not confirm that the same body adjudicates consent.
 First Restorer, the unresolved
 leadership question in the parent GOI file, is not connected to this system in
@@ -86,31 +81,28 @@ A.C.T has not confirmed whether the system is a material, a procedure, or both.
 The observed behaviour divides into
 three reported effects.
 
-**Document state change.** The dossier describes consent forms that change when a patient is
-drugged or pressured.
+**Document state change.** The dossier describes consent forms that change when a patient is drugged or pressured.
 Whether the change is visible text, an added mark, or a legibility shift is
 not recorded. Field teams have reported
 forms that read differently on second inspection; none has produced a controlled comparison.
 
-**Body-state contradiction.** The line *patient said no while sedated hand said yes* describes the
-system detecting
+**Body-state contradiction.** The line *patient said no while sedated hand said yes* describes the system detecting
 disagreement between channels of the same person. This is the capability A.C.T has no
 parallel for. Standard A.C.T
 consent practice records a signature and a witness; it does not test whether the
 signature contradicts speech, and it
 does not distinguish sedated agreement from agreement.
 
-**Payer separation.** The reason *payer asked for obedience, not healing* shows the system evaluating
-who is asking. A
+**Payer separation.** The reason *payer asked for obedience, not healing* shows the system evaluating who is asking. A
 form can therefore reject a procedure that is technically consented to by an authorized
 party, on the grounds that the
 authorized party is not the patient.
 
 ## TECHNICAL SPECIFICATION
 
-Values are restated from sealed consent copies, patient cards, and failure labels. A.C.T holds no blank stock and no
-printing method, and has never observed a refusal board session, so every value below is behavioural rather than
-measured.
+Values are restated from sealed consent copies, patient cards, and failure labels.
+A.C.T holds no blank stock and no printing method, and has never observed a
+refusal board session, so every value below is behavioural rather than measured.
 
 | SPECIFICATION FIELD | RECORDED VALUE |
 |---|---|
@@ -158,41 +150,33 @@ Mechanism, false-negative rate, and board composition are NOT MEASURED. A form t
 look identical to a form that detected none, and A.C.T has no route to telling them apart.
 ## OPERATING PROCEDURE
 
-The consent read happens after stabilization and before restoration. Sequence reported across cases: the
-patient is
+The consent read happens after stabilization and before restoration. Sequence reported across cases: the patient is
 asked what they remember, want, fear, and can still do; the form is completed
 or attempted; the refusal board reviews;
 a label is issued either way.
 
 Two Saint-Vera labels govern the read. `PATIENT RECOGNIZES SELF: YES / NO / UNCERTAIN`
 records self-recognition
-without forcing a binary. `MEMORY GAP PRESENT BEFORE CARE` records that the gap predates
-Saint-Vera treatment, which
+without forcing a binary. `MEMORY GAP PRESENT BEFORE CARE` records that the gap predates Saint-Vera treatment, which
 protects the Concern from being blamed for it and protects the patient from having
 the gap treated as a new injury.
 
-When A.C.T is involved, the Concern may request a monitored-care agreement. A.C.T may witness
-the read. A.C.T may not
-substitute its own custody form for a Saint-Vera form without Medical, Legal, and Subject
-Care review, and may not
+When A.C.T is involved, the Concern may request a monitored-care agreement. A.C.T may witness the read. A.C.T may not
+substitute its own custody form for a Saint-Vera form without Medical, Legal, and Subject Care review, and may not
 treat a Saint-Vera refusal as an obstacle to be worked around.
 
 Before those limits are read, one point of comparison is worth stating. A.C.T consent
 practice assumes a single
-competent signer and a witness. Saint-Vera practice assumes that competence is a variable that
-moves with fever,
-sedation, transformation pressure, and who is standing in the room. The two assumptions are
-not compatible, and no
-A.C.T form currently bridges them. That incompatibility is the operational reason this record exists:
-not because the
-Concern's forms are better paperwork, but because A.C.T has no instrument that can answer
-the question they answer.
+competent signer and a witness. Saint-Vera practice assumes that competence is a variable that moves with fever,
+sedation, transformation pressure, and who is standing in the room. The two assumptions are not compatible, and no
+A.C.T form currently bridges them. That incompatibility is the operational reason this record exists: not because the
+Concern's forms are better paperwork, but because A.C.T has no instrument that can answer the question they answer.
 
 ### Numbered Operating Sequence
 
-The sequence is the order reported across cases: stabilisation first, consent read second, restoration third. Steps 3
-and 4 use the two Saint-Vera labels verbatim, because both exist to protect the patient from a binary the situation
-does not support.
+The sequence is the order reported across cases: stabilisation first, consent read
+second, restoration third. Steps 3 and 4 use the two Saint-Vera labels verbatim,
+because both exist to protect the patient from a binary the situation does not support.
 
 1. Ask the patient what they remember, want, fear, and can still do.
 2. Complete or attempt the form before any procedure decision.
@@ -232,14 +216,12 @@ patient cannot be run through the same form twice, so the schedule protects the 
 
 A.C.T does not know the mechanism. Every description above is behavioural.
 
-The system's judgements are not independently reproducible. A.C.T cannot run the same patient through
-the same form
+The system's judgements are not independently reproducible. A.C.T cannot run the same patient through the same form
 twice and compare, and has never been permitted to observe a refusal board session.
 
 There is no evidence about false negatives. A form that fails to detect coercion
 would look identical to a form that
-detected none. The dossier's open question — whether Saint-Vera refuses all coercive body alteration
-or only cases
+detected none. The dossier's open question — whether Saint-Vera refuses all coercive body alteration or only cases
 violating its own doctrine — is exactly this gap.
 
 ## FAILURE HISTORY
@@ -248,8 +230,7 @@ violating its own doctrine — is exactly this gap.
 
 A procedure was denied on the recorded ground that the requested body was never
 the patient's body. The payer is
-censored in the source record. Medical Division retained the label because it proves the
-Concern refuses some
+censored in the source record. Medical Division retained the label because it proves the Concern refuses some
 procedures and possesses a consent-screening method A.C.T does not understand.
 
 ### Sedated Agreement Case - DATE WITHHELD
@@ -264,8 +245,7 @@ what the system measures.
 Subject Care Division holds the file, because the system's output is a judgement about
 a person rather than about a
 device. Medical Division reviews whether a refusal was clinically justified. Intelligence Division tracks label
-language and refusal frequency across cases, since a change in refusal pattern would indicate
-a change in the
+language and refusal frequency across cases, since a change in refusal pattern would indicate a change in the
 Concern's doctrine or its payers. Legal review attaches before any form is used in
 an A.C.T custody decision.
 
@@ -281,8 +261,7 @@ is preserved as evidence.
 - `TECH-GOI-056-5` — failure labels archived in the sealed continuity record
 - AMNESTIC ADMINISTRATION AND MEMORY-AFTERCARE REVIEW FORM, Operational Form
 
-Filed under the GOI chain. A.C.T lists no equivalent authorization instrument in its own
-technology index.
+Filed under the GOI chain. A.C.T lists no equivalent authorization instrument in its own technology index.
 
 ## OPEN QUESTIONS
 

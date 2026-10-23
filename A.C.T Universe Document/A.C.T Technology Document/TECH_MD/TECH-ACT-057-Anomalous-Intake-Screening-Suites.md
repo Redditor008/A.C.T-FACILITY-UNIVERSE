@@ -21,14 +21,10 @@
 | AUTHORITY | Kurokawa Intake Chief, Archiver Division, and Central Archive |
 
 #### Archive Note
-Anomalous Intake Screening Suites are the fifty-seventh main A.C.T technology expanded into an individual
-record. The
-Kurokawa F-6 floor dossier identifies General Records and Anomalous Intake as the node's intake
-level, where documents
-and media suspected of anomalous content are received, logged, screened, and triaged. It also
-describes the screening
-suites as the places where material is assessed under controlled conditions, where cleared material
-returns to
+Anomalous Intake Screening Suites are the fifty-seventh main A.C.T technology expanded into an individual record. The
+Kurokawa F-6 floor dossier identifies General Records and Anomalous Intake as the node's intake level, where documents
+and media suspected of anomalous content are received, logged, screened, and triaged. It also describes the screening
+suites as the places where material is assessed under controlled conditions, where cleared material returns to
 legitimate archival processing, and where confirmed anomalous material moves downward under controlled protocols.
 
 AISS is the archive's first handshake with a dangerous file. If the handshake is
@@ -47,12 +43,10 @@ LOG BEFORE SCREENING. SCREEN BEFORE ROUTING. ROUTE ONLY WHAT THE RECORD CAN FOLL
 
 ## FUNCTION SUMMARY
 
-Anomalous Intake Screening Suites are controlled intake environments used to receive, log, screen, and
-route documents
+Anomalous Intake Screening Suites are controlled intake environments used to receive, log, screen, and route documents
 or media that may contain anomalous content. Their purpose is to make the first
 containment decision before a
-dangerous item is allowed deeper into the archive, returned to legitimate processing, or mishandled
-by staff who
+dangerous item is allowed deeper into the archive, returned to legitimate processing, or mishandled by staff who
 believe it is ordinary material.
 
 AISS is not only a room full of desks. It is a physical triage
@@ -60,27 +54,23 @@ system. Material arrives in a reception bay, receives
 an intake record, enters a screening suite, and exits through one of two streams.
 Cleared material returns to
 legitimate archival circulation. Confirmed anomalous material descends to controlled reading, redaction, active
-holding, or deeper confinement. The architecture makes the decision visible so that no document
-can quietly drift from
+holding, or deeper confinement. The architecture makes the decision visible so that no document can quietly drift from
 one stream to the other.
 
-Approved roles include anomalous-media intake, document logging, first-pass hazard screening, dual-route triage,
-chain-of-custody preservation, screening incident control, and support for Kurokawa's lower research and redaction
-floors.
+Approved roles include anomalous-media intake, document logging, first-pass
+hazard screening, dual-route triage, chain-of-custody preservation, screening
+incident control, and support for Kurokawa's lower research and redaction floors.
 
 ---
 
 ## ORIGIN AND CUSTODY
 
-Kurokawa Archive Node grew into the eastern region's archive authority, receiving documents and media
-from field
+Kurokawa Archive Node grew into the eastern region's archive authority, receiving documents and media from field
 operations, seizures, transfers, collection activity, and material that arrived without invitation. As intake volume
-increased, the node required a dedicated level for the first meeting between archive and
-object. F-6 developed around
+increased, the node required a dedicated level for the first meeting between archive and object. F-6 developed around
 reception, logging, screening, and triage.
 
-The screening suites formalized the principle that containment begins before storage. A document does
-not become safe
+The screening suites formalized the principle that containment begins before storage. A document does not become safe
 because it is on a desk, and a file does not become ordinary because
 it came through a normal mail tray. Every item
 must be logged before it is screened. Every screening must be documented. Every triage
@@ -94,11 +84,9 @@ a breach waiting for a label.
 
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
-AISS installations sit between reception and routing. A standard suite includes controlled tables, document
-cradles,
+AISS installations sit between reception and routing. A standard suite includes controlled tables, document cradles,
 isolated media readers, evidence trays, low-exposure viewing panels, intake terminals, route locks, item status
-lights, and monitoring that records every movement through the process. Environmental systems preserve documents
-while
+lights, and monitoring that records every movement through the process. Environmental systems preserve documents while
 allowing suite-by-suite regulation for suspect material.
 
 Known components include:
@@ -142,8 +130,7 @@ First-pass threshold, Screening throughput, Exposure panel rating. Those 3 gaps 
 | Screening throughput | NOT MEASURED |
 | Exposure panel rating | NOT MEASURED |
 
-The dual routing architecture is part of the technology: one door sends cleared material
-upward or outward,
+The dual routing architecture is part of the technology: one door sends cleared material upward or outward,
 the other sends anomalous material deeper. A screening suite is not a room full
 of desks, and screening is
 not interpretation.
@@ -196,25 +183,18 @@ record. Emergency: a route lock that will not close holds the item in the
 suite under watch, which is the
 standing response to the 2026 delay.
 
-Before screening, intake staff create or confirm an item record. The record states origin,
-carrier, condition,
-container, initial suspicion, and handling restrictions if known. Security verifies that the item is
-permitted into
-the suite. Intelligence flags seized or interdicted material with operational relevance. Research may add
-specialist
+Before screening, intake staff create or confirm an item record. The record states origin, carrier, condition,
+container, initial suspicion, and handling restrictions if known. Security verifies that the item is permitted into
+the suite. Intelligence flags seized or interdicted material with operational relevance. Research may add specialist
 questions when the item type demands it.
 
-During screening, personnel examine the document or media under controlled conditions. They do not
-read deeply unless
-the suite authorization permits it. They check for anomalous content, unsafe symbols, self-changing text,
-impossible
-metadata, hostile audio, unlogged duplication, pressure on the reader, or mismatch between container and
-contents. The
+During screening, personnel examine the document or media under controlled conditions. They do not read deeply unless
+the suite authorization permits it. They check for anomalous content, unsafe symbols, self-changing text, impossible
+metadata, hostile audio, unlogged duplication, pressure on the reader, or mismatch between container and contents. The
 screening result determines routing, not staff convenience.
 
 After screening, cleared material returns to legitimate processing. Suspect or confirmed anomalous material moves
-downward to F-5 for redaction and controlled reading, to active holding where monitoring is
-required, or to deeper
+downward to F-5 for redaction and controlled reading, to active holding where monitoring is required, or to deeper
 confinement if ordinary document handling is unsafe. The item record follows every movement.
 
 ---
@@ -232,8 +212,7 @@ confinement if ordinary document handling is unsafe. The item record follows eve
 
 No calendar interval is recorded; the suite is checked per intake shift, so interval
 NOT MEASURED. Custody
-stock is the consumable. The 2019 duplicate slip is why item-specific mark verification precedes
-any
+stock is the consumable. The 2019 duplicate slip is why item-specific mark verification precedes any
 dual-route decision.
 
 ## FAULT ISOLATION
@@ -249,18 +228,14 @@ dual-route decision.
 
 ## KNOWN LIMITS
 
-AISS is a first-pass system. It cannot replace controlled-reading cells, deep research, memetic filters,
-or
-containment vaults. It can miss hazards that activate only after prolonged reading, after a
-specific question, after
-copying, after destruction, or after a reader forms emotional attachment to the content. It
-can also be defeated by
+AISS is a first-pass system. It cannot replace controlled-reading cells, deep research, memetic filters, or
+containment vaults. It can miss hazards that activate only after prolonged reading, after a specific question, after
+copying, after destruction, or after a reader forms emotional attachment to the content. It can also be defeated by
 material that appears ordinary until it reaches a lower floor.
 
 Known failure modes include logging error, false clearance, over-routing, under-routing, container mismatch, item
 duplication, screening fatigue, status-light failure, chain-of-custody break, unauthorized deep reading, and route
-contamination. A false clearance is treated as a containment breach because it sends anomalous
-material into a stream
+contamination. A false clearance is treated as a containment breach because it sends anomalous material into a stream
 built for ordinary records.
 
 ---
@@ -268,29 +243,23 @@ built for ordinary records.
 ## FAILURE HISTORY
 
 ### AISS-2019 Duplicate Intake Slip
-Two visually identical media envelopes received the same intake slip after a printer jam.
-One was cleared and one was
+Two visually identical media envelopes received the same intake slip after a printer jam. One was cleared and one was
 held for review. Procedure now requires item-specific mark verification before any dual-route decision.
 
 ### AISS-2023 Shallow Reading Exposure
-A screener read beyond the approved first-pass threshold while trying to decide whether a
-diary was anomalous. The
-item was later routed to controlled reading. F-6 revised training to separate screening from
-interpretation.
+A screener read beyond the approved first-pass threshold while trying to decide whether a diary was anomalous. The
+item was later routed to controlled reading. F-6 revised training to separate screening from interpretation.
 
 ### AISS-2026 Route Lock Delay
-An anomalous-material route lock remained closed after triage, leaving confirmed material in the suite
-longer than
+An anomalous-material route lock remained closed after triage, leaving confirmed material in the suite longer than
 planned. Security added manual override logs and post-delay exposure checks for all staff present.
 
 ---
 
 ## DIVISION USE
 
-Archiver Division operates AISS and preserves intake records. The Kurokawa Intake Chief controls triage
-authority.
-Intelligence flags items tied to GOI activity, leak risk, or hostile documentation. Research supports
-specialist
+Archiver Division operates AISS and preserves intake records. The Kurokawa Intake Chief controls triage authority.
+Intelligence flags items tied to GOI activity, leak risk, or hostile documentation. Research supports specialist
 screening. Security controls access and route locks. Redaction receives material requiring controlled reading.
 Containment receives material whose properties exceed archive handling.
 

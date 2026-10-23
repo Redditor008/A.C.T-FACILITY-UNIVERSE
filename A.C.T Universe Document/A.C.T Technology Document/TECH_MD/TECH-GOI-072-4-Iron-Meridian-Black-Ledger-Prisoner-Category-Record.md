@@ -22,11 +22,11 @@
 
 #### Archive Note
 
-This record covers the black ledger and the classification system it carries. The dossier states that black ledgers
-preserve prisoner categories after public records are altered, names the black ledger as a priority candidate for
-individual technology documentation, and records that A.C.T holds one warrant book and no ledger volume. The dossier
-asks whether black ledgers are anomalous or hardened record systems designed to survive normalcy alteration, and A.C.T
-has not resolved it.
+This record covers the black ledger and the classification system it carries. The dossier states
+that black ledgers preserve prisoner categories after public records are altered, names the black
+ledger as a priority candidate for individual technology documentation, and records that A.C.T
+holds one warrant book and no ledger volume. The dossier asks whether black ledgers are anomalous
+or hardened record systems designed to survive normalcy alteration, and A.C.T has not resolved it.
 
 The recovered classifications are recorded here verbatim because they are the system's content: CITIZEN-HELD,
 WITNESS-IRON, HAZARD-LIVING, ASSET-BREATHING, EXILE-RELEASED, OBJECT-LEGAL, and LINE-ENEMY. Two of them treat a person
@@ -96,9 +96,9 @@ has not decided which. Both routes are kept open in this record rather than one 
 | Tribunal record | Audio fragment held; transcript partial |
 | Alteration resistance | Survives public record alteration |
 
-The labour value field is the component that makes this a hazard to A.C.T's own records rather than merely an
-enemy document. It assigns a value to a living person, and any A.C.T file that reproduces the field reproduces the
-assignment.
+The labour value field is the component that makes this a hazard to A.C.T's own
+records rather than merely an enemy document. It assigns a value to a living
+person, and any A.C.T file that reproduces the field reproduces the assignment.
 
 ---
 
@@ -181,9 +181,9 @@ Applies when A.C.T recovers a black ledger, a warrant book, or tribunal material
 | Subject Care referral | On every identifiable person |
 | Mechanism review referral | Outstanding; anomalous or hardened |
 
-The classification check is the row that keeps the Authority's vocabulary out of A.C.T's. Each year A.C.T records are
-searched for the seven categories, because a term that enters one file spreads through cross-references without anyone
-deciding to adopt it.
+The classification check is the row that keeps the Authority's vocabulary out of A.C.T's.
+Each year A.C.T records are searched for the seven categories, because a term that enters
+one file spreads through cross-references without anyone deciding to adopt it.
 
 ---
 

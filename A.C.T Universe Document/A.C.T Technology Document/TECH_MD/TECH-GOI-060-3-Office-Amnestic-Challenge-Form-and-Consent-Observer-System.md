@@ -50,9 +50,9 @@ NO MEMORY ACTION PROCEEDS WITHOUT A MEDICAL OBSERVER PRESENT.
 
 ## FUNCTION SUMMARY
 
-The system reviews whether a proposed memory action has valid consent at the moment it is proposed. A challenge form
-contests an amnestic administration; a consent observer attends the signing and records the witness's memory state
-alongside it.
+The system reviews whether a proposed memory action has valid consent at the moment
+it is proposed. A challenge form contests an amnestic administration; a consent
+observer attends the signing and records the witness's memory state alongside it.
 
 - detects gaps between medical consent and memory state;
 - blocks non-emergency amnestic administration pending review;
@@ -114,9 +114,9 @@ arguing about the witness's character.
 | Forms in Office use | Unknown |
 | Observers in Office use | Unknown |
 
-The governing row is the consent-basis row. Consent measured against a signature and consent measured against a memory
-state are different instruments, and only the second can detect a witness signing something they cannot remember
-reading.
+The governing row is the consent-basis row. Consent measured against a signature
+and consent measured against a memory state are different instruments, and only
+the second can detect a witness signing something they cannot remember reading.
 
 ---
 
@@ -195,9 +195,9 @@ equivalent to an Office-reviewed consent.
 | Full erasure after offer | A.C.T handling breach | Report; review aftercare |
 | Memory state unrecorded | Practice gap | Record before proceeding |
 
-The first row is the fault the Office's instruction names directly. Entering silence as consent is a single keystroke
-under time pressure and it converts an unconsented action into a documented one, which is harder to reverse than the
-action itself.
+The first row is the fault the Office's instruction names directly. Entering silence
+as consent is a single keystroke under time pressure and it converts an unconsented
+action into a documented one, which is harder to reverse than the action itself.
 
 ---
 

@@ -17,12 +17,10 @@
 
 ## Archive Note
 
-This file is the complete individual record of **F-5, the Personnel and Command Level**,
-the fifth-deepest numbered
+This file is the complete individual record of **F-5, the Personnel and Command Level**, the fifth-deepest numbered
 floor of the built installation of **ACT-SITE-05-ID-C, Nusantara Deep Relay**.
 
-F-5 is the relay's personnel and command level: personnel housing, administrative spaces, the Site
-Director's command
+F-5 is the relay's personnel and command level: personnel housing, administrative spaces, the Site Director's command
 floor, and the relay's internal logistics center. It is the level where the relay's
 people live and where the relay is
 commanded — the human heart of an island installation whose work reaches from the
@@ -38,8 +36,7 @@ the relay sustains and directs the personnel who watch the deep.
 
 **Site Designation:** ACT-SITE-05-ID-C **Site Codename:** Nusantara Deep Relay **Floor Designation:** F-5 **Floor
 Name:** Personnel and Command Level **Floor Type:** Personnel and Command Level **Vertical Position:** Fifth-deepest
-numbered floor of the relay's built installation **Floor Above:** F-6 (Surface Research and Transition
-Level) **Floor
+numbered floor of the relay's built installation **Floor Above:** F-6 (Surface Research and Transition Level) **Floor
 Below:** F-4 (Laboratory and Research Level) **Containment Character:** Non-resident personnel and command
 infrastructure **Primary Function:** Personnel housing, administrative spaces, the Site Director's command floor, and
 the relay's internal logistics center **Access Posture:** Relay-clearance-gated access **Current Status:** Active
@@ -55,8 +52,7 @@ the deep earth. The relay's
 people must be housed, sustained, and commanded — and the level that does all
 three is F-5.
 
-F-5 is the relay's personnel and command level: personnel housing, administrative spaces, the Site
-Director's command
+F-5 is the relay's personnel and command level: personnel housing, administrative spaces, the Site Director's command
 floor, and the internal logistics center. The floor is where the relay's people live,
 and where the relay's command
 directs their work — the level that keeps the watch manned and the watchers
@@ -70,21 +66,18 @@ governed.
 
 F-5 lies between the Surface Research and Transition level of F-6 above and the
 Laboratory and Research level of F-4
-below. It is the relay's human level, positioned beneath the legitimate surface campus and
-above the operational
+below. It is the relay's human level, positioned beneath the legitimate surface campus and above the operational
 depths.
 
 ### 3.2 Relationship to F-6
 
-Personnel arriving at the relay descend from the surface transition through F-5 on their
-way to their duty floors, and
+Personnel arriving at the relay descend from the surface transition through F-5 on their way to their duty floors, and
 ascend through F-5 on their way back to the surface. The personnel level is
 the relay's domestic gateway.
 
 ### 3.3 Relationship to the Operational Floors
 
-F-5 commands the operational floors below: the holding, research, monitoring, and vault levels operate
-under the
+F-5 commands the operational floors below: the holding, research, monitoring, and vault levels operate under the
 direction of the Site Director's command floor on this level.
 
 ---
@@ -93,15 +86,12 @@ direction of the Site Director's command floor on this level.
 
 ### 4.1 Development of the Personnel Level
 
-F-5's character developed with the relay's elevation to major site status: as Nusantara's operations
-expanded, the
-relay required a dedicated level for its personnel — housing, administration, and command in
-one integrated floor.
+F-5's character developed with the relay's elevation to major site status: as Nusantara's operations expanded, the
+relay required a dedicated level for its personnel — housing, administration, and command in one integrated floor.
 
 ### 4.2 The Integrated Command
 
-The floor's integration of personnel and command functions developed from the relay's island setting:
-an installation
+The floor's integration of personnel and command functions developed from the relay's island setting: an installation
 whose people live on-site required its command to sit among them, and the relay's
 Site Director's command floor was
 established on the personnel level.
@@ -120,8 +110,7 @@ command is exercised, and its internal logistics are coordinated.
 
 The Site Director of the Nusantara Deep Relay commands from F-5. The Director's command
 floor is the level's center of
-authority, from which the relay's operations, holdings, and personnel are governed under the Facility's
-doctrine.
+authority, from which the relay's operations, holdings, and personnel are governed under the Facility's doctrine.
 
 ### 5.2 Floor Administration
 
@@ -130,10 +119,8 @@ administration, and the administrative support that every level of the relay dep
 
 ### 5.3 Authority Structure
 
-F-5's authority structure follows the Facility's command doctrine: the Site Director commands through the
-division
-chiefs — Recovery, Containment, Research, Security, and Medical — and the divisions command their
-operations.
+F-5's authority structure follows the Facility's command doctrine: the Site Director commands through the division
+chiefs — Recovery, Containment, Research, Security, and Medical — and the divisions command their operations.
 
 ---
 
@@ -141,30 +128,26 @@ operations.
 
 ### 6.1 Relay Administration
 
-The relay's administrative staff operate from F-5: operations coordination, scheduling, and the administrative
-machinery of the relay.
+The relay's administrative staff operate from F-5: operations
+coordination, scheduling, and the administrative machinery of the relay.
 
 ### 6.2 Personnel
 
-Personnel functions are conducted on F-5: housing administration, personnel processing, and the support of
-the relay's
+Personnel functions are conducted on F-5: housing administration, personnel processing, and the support of the relay's
 on-site population.
 
 ### 6.3 Command
 
-The Site Director's command floor operates from F-5, with the command support functions that
-serve the Director.
+The Site Director's command floor operates from F-5, with the command support functions that serve the Director.
 
 ### 6.4 Internal Logistics
 
-The relay's internal logistics center operates from F-5: the movement of material, equipment, and
-personnel within the
+The relay's internal logistics center operates from F-5: the movement of material, equipment, and personnel within the
 built installation is coordinated from this floor.
 
 ### 6.5 Medical Support
 
-Medical support for the relay's personnel is provided in coordination with the personnel level,
-serving the relay's
+Medical support for the relay's personnel is provided in coordination with the personnel level, serving the relay's
 on-site population.
 
 ---
@@ -183,23 +166,19 @@ F-5's plan is organized around **personnel and command functions**:
 
 ### 7.2 The Personnel Housing
 
-The relay's housing accommodates its on-site population: quarters engineered for personnel serving in an
-island
+The relay's housing accommodates its on-site population: quarters engineered for personnel serving in an island
 installation, in a seismically active region where the environment itself demands resilience.
 
 ### 7.3 The Command Floor
 
-The Site Director's command floor is the level's architectural center: the space from which
-the relay is commanded,
+The Site Director's command floor is the level's architectural center: the space from which the relay is commanded,
 adjacent to the operations spaces where the relay's status is watched and its decisions
 are made.
 
 ### 7.4 The Logistics Center
 
-The floor's logistics center coordinates the relay's internal operations: the movement of material and
-personnel
-within the built installation, and the support of the relay's far-flung maritime and monitoring
-operations.
+The floor's logistics center coordinates the relay's internal operations: the movement of material and personnel
+within the built installation, and the support of the relay's far-flung maritime and monitoring operations.
 
 ---
 
@@ -207,8 +186,7 @@ operations.
 
 ### 8.1 Power
 
-F-5 draws on the relay's main supply with standard backup. The command floor's communications
-systems are on protected
+F-5 draws on the relay's main supply with standard backup. The command floor's communications systems are on protected
 circuits.
 
 ### 8.2 Environment
@@ -223,8 +201,7 @@ architecture are monitored under the relay's security doctrine.
 
 ### 8.4 Communications
 
-F-5 is the relay's command communications nexus: the command floor maintains the links through
-which the Site Director
+F-5 is the relay's command communications nexus: the command floor maintains the links through which the Site Director
 commands the relay and coordinates with the Facility network beyond.
 
 ---
@@ -235,8 +212,7 @@ commands the relay and coordinates with the Facility network beyond.
 
 Access to F-5 is controlled through the floor's access core, which connects the surface
 transition above to the
-operational levels below. The floor is the gateway between the relay's domestic life and
-its operational work.
+operational levels below. The floor is the gateway between the relay's domestic life and its operational work.
 
 ### 9.2 Personnel Security
 
@@ -247,15 +223,12 @@ operational population is processed, cleared, and documented here under the Faci
 ### 9.3 Command Security
 
 The floor's command security governs the relay's operational information: operations plans, monitoring assessments,
-and holding records are held under the relay's security doctrine, distributed only to personnel
-cleared for them.
+and holding records are held under the relay's security doctrine, distributed only to personnel cleared for them.
 
 ### 9.4 Seismic Preparedness
 
-The floor maintains seismic preparedness as part of its security posture: the relay operates
-in a region of genuine
-tectonic activity, and the personnel level's procedures include the response doctrine for large-scale tectonic
-shifts.
+The floor maintains seismic preparedness as part of its security posture: the relay operates in a region of genuine
+tectonic activity, and the personnel level's procedures include the response doctrine for large-scale tectonic shifts.
 
 ---
 
@@ -263,8 +236,7 @@ shifts.
 
 ### 10.1 Personnel Function
 
-F-5 is where the relay's people live: housing, medical support, and the domestic infrastructure
-of the relay's on-site
+F-5 is where the relay's people live: housing, medical support, and the domestic infrastructure of the relay's on-site
 population.
 
 ### 10.2 Command Function
@@ -296,8 +268,7 @@ personnel level — housing, meals, and the ordinary routines of an island insta
 
 ### 11.3 The Island Life
 
-The relay's personnel live the island life: an on-site population in a volcanic, seismically
-active region, whose
+The relay's personnel live the island life: an on-site population in a volcanic, seismically active region, whose
 domestic routines are shaped by the environment and by the knowledge that the ground
 beneath them is part of what they
 watch.
@@ -308,8 +279,7 @@ watch.
 
 ### 12.1 Sustainment Doctrine
 
-F-5 doctrine holds that the relay's personnel are its most critical operational resource: the
-people who watch the
+F-5 doctrine holds that the relay's personnel are its most critical operational resource: the people who watch the
 deep must be housed, sustained, and supported, and the personnel level exists for that
 purpose.
 
@@ -323,17 +293,14 @@ level, because an island installation's command must sit among the population it
 
 F-5 doctrine holds that the relay must be ready for its environment: the personnel
 level's procedures include response
-to the tectonic activity that defines the region, and the floor maintains the preparedness
-its setting demands.
+to the tectonic activity that defines the region, and the floor maintains the preparedness its setting demands.
 
 ---
 
 ## 13. Incident Archive
 
-The floor's incident record is dominated by personnel and command events: personnel incidents, command
-events, and the
-logistics events of an island installation. The relay's history records the lessons of sustaining
-and commanding its
+The floor's incident record is dominated by personnel and command events: personnel incidents, command events, and the
+logistics events of an island installation. The relay's history records the lessons of sustaining and commanding its
 population in a demanding operational setting.
 
 ---
@@ -363,8 +330,7 @@ priorities include:
 
 F-5, the Personnel and Command Level, is the human heart of the Nusantara Deep
 Relay: personnel housing,
-administrative spaces, the Site Director's command floor, and the internal logistics center — the
-level where the
+administrative spaces, the Site Director's command floor, and the internal logistics center — the level where the
 relay's people live and where the relay is commanded.
 
 It is the floor that keeps the watch manned: an island population, housed above

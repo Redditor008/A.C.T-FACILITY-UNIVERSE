@@ -34,26 +34,21 @@
 | AUTHORITY | Intelligence Division, Containment Division, Legal Division, Civil Covert Division, Field Command, and Central Archive |
 
 #### Archive Note
-Iron Meridian Authority is the active hybrid filing for an outside hostile containment power
-that asserts emergency
+Iron Meridian Authority is the active hybrid filing for an outside hostile containment power that asserts emergency
 jurisdiction over anomalous zones, altered civilians, unregistered entities, witnesses, recovered objects, and entire
-communities after incidents. The Authority presents itself as a disciplined alternative to panic: fences,
-warrants,
+communities after incidents. The Authority presents itself as a disciplined alternative to panic: fences, warrants,
 trains, tribunals, hospitals, work yards, and uniforms. A.C.T assessment rejects the presentation. Iron Meridian
 converts fear into custody and custody into power.
 
 The relationship class is **NEGATIVE**. Iron Meridian repeatedly seizes people without lawful review, imprisons
-altered civilians as hazards, extracts labor from anomaly survivors, uses suppression devices as punishment,
-obstructs
-A.C.T recovery, falsifies emergency charters, and treats contained persons as state assets. It is
-not merely strict.
+altered civilians as hazards, extracts labor from anomaly survivors, uses suppression devices as punishment, obstructs
+A.C.T recovery, falsifies emergency charters, and treats contained persons as state assets. It is not merely strict.
 Its business, state, and paramilitary branches profit from permanent emergency.
 
 Prisoner names, charter-state sponsors, suppression-device schematics, tribunal recordings, and active field-compound
-maps are censored under **IRON MERIDIAN DISCLOSURE LIMIT**. Some redactions protect living captives. Some
-prevent
-copycat security groups from reproducing Meridian practices. Some protect ongoing A.C.T infiltration cells inside
-detention corridors.
+maps are censored under **IRON MERIDIAN DISCLOSURE LIMIT**. Some redactions protect living captives. Some prevent
+copycat security groups from reproducing Meridian practices. Some
+protect ongoing A.C.T infiltration cells inside detention corridors.
 
 ---
 
@@ -61,22 +56,15 @@ detention corridors.
 
 ### Group Function
 
-Iron Meridian Authority functions as a private-state containment regime. It enters areas where public
-control has
-failed, declares a Meridian emergency, marks a perimeter, registers everyone inside as subject to
-custody review, and
-then refuses to leave. Its officers claim that abnormal danger invalidates ordinary rights until
-risk is extinguished.
+Iron Meridian Authority functions as a private-state containment regime. It enters areas where public control has
+failed, declares a Meridian emergency, marks a perimeter, registers everyone inside as subject to custody review, and
+then refuses to leave. Its officers claim that abnormal danger invalidates ordinary rights until risk is extinguished.
 Because risk can always be extended, the emergency becomes permanent.
 
-The Authority matters because it performs some acts that look like containment. It builds
-fences. It labels hazards.
-It moves dangerous objects. It isolates infectious phenomena. It prevents some public exposure. It
-also cages
-witnesses, disappears families, forces altered people into work crews, sells custody services, and claims
-ownership
-over anything found inside the Meridian line. A.C.T must therefore oppose it without pretending
-it is incompetent.
+The Authority matters because it performs some acts that look like containment. It builds fences. It labels hazards.
+It moves dangerous objects. It isolates infectious phenomena. It prevents some public exposure. It also cages
+witnesses, disappears families, forces altered people into work crews, sells custody services, and claims ownership
+over anything found inside the Meridian line. A.C.T must therefore oppose it without pretending it is incompetent.
 
 The Authority's central command phrase is:
 
@@ -86,8 +74,7 @@ THE LINE HOLDS BECAUSE MERCY BREAKS.
 
 The phrase is used on training walls, warrant stamps, and custody-train doors. It is
 deliberately opposed to Mercy
-Lock Institute doctrine. Where Mercy Lock tries to lock harm without erasing personhood, Iron
-Meridian treats mercy as
+Lock Institute doctrine. Where Mercy Lock tries to lock harm without erasing personhood, Iron Meridian treats mercy as
 structural weakness.
 
 ### Public Presence and Concealment
@@ -99,10 +86,8 @@ operate openly enough to be mistaken for a government. In stable states it hides
 behind subcontractors and temporary
 emergency powers.
 
-Visual marks include black meridian lines painted across roads, iron-colored armbands, custody warrants stamped
-with a
-vertical horizon, train cars with sealed interior windows, and warning boards reading **BEYOND THIS
-LINE, ORDINARY LAW
+Visual marks include black meridian lines painted across roads, iron-colored armbands, custody warrants stamped with a
+vertical horizon, train cars with sealed interior windows, and warning boards reading **BEYOND THIS LINE, ORDINARY LAW
 WAITS**. A.C.T classifies the last phrase as ideological intimidation and exposure risk.
 
 ---
@@ -111,18 +96,13 @@ WAITS**. A.C.T classifies the last phrase as ideological intimidation and exposu
 
 ### Leadership Condition
 
-Iron Meridian leadership is tiered and partially chartered. Meridian Governors claim authority over territories
-or
-contracts. Custody Marshals command field seizures and prisoner movement. Iron Magistrates run tribunals that
-decide
-whether a person is citizen, witness, hazard, asset, exile, or labor. Zone Commandants operate
-camps, hospitals,
-extraction yards, and transit gates. Chartered security boards fund and legitimize operations through shell
-states,
+Iron Meridian leadership is tiered and partially chartered. Meridian Governors claim authority over territories or
+contracts. Custody Marshals command field seizures and prisoner movement. Iron Magistrates run tribunals that decide
+whether a person is citizen, witness, hazard, asset, exile, or labor. Zone Commandants operate camps, hospitals,
+extraction yards, and transit gates. Chartered security boards fund and legitimize operations through shell states,
 corporations, emergency ministries, and private investors.
 
-A.C.T has not identified a single supreme director. Documents refer to the **Prime Meridian
-Seat**, but it may be an
+A.C.T has not identified a single supreme director. Documents refer to the **Prime Meridian Seat**, but it may be an
 actual command office, a rotating tribunal, an inherited legal title, or a symbol used
 to make local command look
 unified. Dismantlement planning must assume a network rather than one headquarters.
@@ -141,29 +121,25 @@ A.C.T identifies these functional layers:
 - Survey Lancers who mark expanding perimeters after incidents;
 - Clean Exit Officers who fabricate public explanations for missing communities.
 
-This structure gives Iron Meridian the scale required of a major hostile containment GOI.
-It is not a single rogue
+This structure gives Iron Meridian the scale required of a major hostile containment GOI. It is not a single rogue
 prison.
 
 ### Membership and Recruitment
 
 Membership includes former soldiers, prison guards, emergency-law lawyers, contractors, private military staff,
 engineers, border officers, corrupt doctors, interrogation specialists, disaster logisticians, and people recruited
-from zones the Authority already controls. Some members believe they prevent public catastrophe. Some
-know the system
-is exploitative and remain because it pays, protects, or grants authority. Some technical personnel
-are coerced
+from zones the Authority already controls. Some members believe they prevent public catastrophe. Some know the system
+is exploitative and remain because it pays, protects, or grants authority. Some technical personnel are coerced
 through family detention or contract debt.
 
-Recruitment language emphasizes hardness, order, and betrayal by softer institutions. A recovered induction line
-states:
+Recruitment language emphasizes hardness, order, and betrayal
+by softer institutions. A recovered induction line states:
 
 ```text
 If they wanted rights, they should not have become risks.
 ```
 
-A.C.T Legal Division classifies the line as evidence of institutional abuse rather than mere
-field rhetoric.
+A.C.T Legal Division classifies the line as evidence of institutional abuse rather than mere field rhetoric.
 
 ---
 
@@ -171,16 +147,12 @@ field rhetoric.
 
 ### Stated Belief
 
-Iron Meridian believes abnormal danger creates a new kind of jurisdiction. A person inside
-an anomalous perimeter is
-no longer only a person; they are also evidence, vector, resource, claimant, witness, and
-possible weapon. The
-Authority claims that ordinary law was built for ordinary bodies and therefore cannot govern
-zones where bodies,
+Iron Meridian believes abnormal danger creates a new kind of jurisdiction. A person inside an anomalous perimeter is
+no longer only a person; they are also evidence, vector, resource, claimant, witness, and possible weapon. The
+Authority claims that ordinary law was built for ordinary bodies and therefore cannot govern zones where bodies,
 names, memories, roads, or families become unstable.
 
-A.C.T recognizes the practical problem but rejects the conclusion. A.C.T doctrine may restrict, contain,
-classify,
+A.C.T recognizes the practical problem but rejects the conclusion. A.C.T doctrine may restrict, contain, classify,
 censor, or quarantine. Iron Meridian converts restriction into ownership.
 
 Common Authority phrases include:
@@ -201,24 +173,19 @@ These phrases appear across separate regions, proving shared doctrine.
 
 ### Assessed Objective
 
-A.C.T assesses that Iron Meridian seeks durable authority over abnormal crisis zones. Its objective
-is not simple
-profit, though profit exists. It wants recognition as the legitimate holder of dangerous territories
-and dangerous
+A.C.T assesses that Iron Meridian seeks durable authority over abnormal crisis zones. Its objective is not simple
+profit, though profit exists. It wants recognition as the legitimate holder of dangerous territories and dangerous
 persons. It sells governments and private clients the promise that someone else will do
 the cruel work cleanly. It
-then uses the resulting custody to extract labor, information, objects, medical data, and political
-leverage.
+then uses the resulting custody to extract labor, information, objects, medical data, and political leverage.
 
 The objective is Negative because its stability depends on indefinite detention, coercion, emergency-law manipulation,
-and dehumanization. It competes with A.C.T not by exposing anomalies, but by claiming that
-A.C.T is too soft and too
+and dehumanization. It competes with A.C.T not by exposing anomalies, but by claiming that A.C.T is too soft and too
 legally constrained to own the line.
 
 ### Anomalous Capability Assessment
 
-Iron Meridian is assigned **Containment** capability. Its containment capacity is real and dangerous. Confirmed
-or
+Iron Meridian is assigned **Containment** capability. Its containment capacity is real and dangerous. Confirmed or
 strongly assessed capabilities include:
 
 - perimeter fences that resist some route-folding and spatial trespass;
@@ -231,21 +198,17 @@ strongly assessed capabilities include:
 - black ledgers that preserve prisoner categories after public records are altered;
 - field hospitals that stabilize captives primarily for interrogation, transfer, or labor.
 
-The Authority's technology requires later individual technology documents. Suppression collars, survey guns, custody
-trains, black ledgers, and restraint doors are priority candidates once the GOI creation phase
-ends.
+The Authority's technology requires later individual technology documents. Suppression collars, survey guns,
+custody trains, black ledgers, and restraint doors are priority candidates once the GOI creation phase ends.
 
 ### Secrecy and Civilian Exposure
 
-Iron Meridian is **Exposure-Active** because it operates at the seam between public emergency and
-hidden anomaly.
-Camps, roadblocks, missing villages, sealed mines, black trains, and tribunal papers leave evidence. The
-Authority
+Iron Meridian is **Exposure-Active** because it operates at the seam between public emergency and hidden anomaly.
+Camps, roadblocks, missing villages, sealed mines, black trains, and tribunal papers leave evidence. The Authority
 manages exposure through emergency decrees, counterterror language, disease cover stories, military secrecy,
 private-security law, and intimidation of journalists.
 
-Unlike A.C.T normalcy work, Iron Meridian often benefits from civilians being afraid enough to
-accept visible
+Unlike A.C.T normalcy work, Iron Meridian often benefits from civilians being afraid enough to accept visible
 repression. Its secrecy strategy is not absence. It is dominance plus plausible emergency.
 
 ---
@@ -255,15 +218,12 @@ repression. Its secrecy strategy is not absence. It is dominance plus plausible 
 ### Operational Regions
 
 Iron Meridian operates transnationally in disputed borderlands, post-disaster territories, failed state corridors,
-private mining zones, offshore detention routes, sealed industrial towns, abandoned rail corridors, and regions
-where
+private mining zones, offshore detention routes, sealed industrial towns, abandoned rail corridors, and regions where
 public institutions request deniable containment. Confirmed or suspected activity has appeared in Eastern Europe,
-Central Asia, North Africa, the South Atlantic, Southeast Asian maritime routes, private Arctic logistics
-contracts,
+Central Asia, North Africa, the South Atlantic, Southeast Asian maritime routes, private Arctic logistics contracts,
 and several unnamed internal-conflict zones.
 
-The Authority prefers places where normal oversight is already weakened. An anomaly does not
-need to be large. It only
+The Authority prefers places where normal oversight is already weakened. An anomaly does not need to be large. It only
 needs to justify the first fence.
 
 ### Known Assets and Holdings
@@ -284,16 +244,14 @@ Known or assessed assets include:
 - shell security companies and emergency-law firms;
 - informants inside public militaries and private contractors.
 
-A.C.T has recovered two damaged collars, one warrant book, one tribunal audio fragment, and
-photographs of a custody
+A.C.T has recovered two damaged collars, one warrant book, one tribunal audio fragment, and photographs of a custody
 train interior. Full technical analysis remains incomplete.
 
 ### Operating Method
 
 A typical Iron Meridian operation begins with a crisis, real or engineered. A Survey
 Lancer marks the affected area. A
-Meridian Governor presents a charter, emergency contract, or security claim. Custody Marshals enter under
-armed
+Meridian Governor presents a charter, emergency contract, or security claim. Custody Marshals enter under armed
 escort. Civilians are registered. Anyone altered, injured, resistant, knowledgeable, or useful is separated for
 tribunal review. Iron Magistrates assign categories. Zone Commandants build the long-term system before public
 authorities realize the emergency has become administration.
@@ -318,27 +276,21 @@ A.C.T personnel are frequently classified as LINE-ENEMY when operating without a
 
 ### Contact History
 
-A.C.T first consolidated Iron Meridian references after a sealed mining-town incident in which local
-authorities
+A.C.T first consolidated Iron Meridian references after a sealed mining-town incident in which local authorities
 reported successful evacuation while survivor lists showed ninety-three people missing. A.C.T Recovery traced the
-missing to a private security corridor. The corridor had been marked with black meridian
-paint and guarded by
-personnel using emergency-disease language. Inside the perimeter, altered miners were being held as HAZARD-LIVING
-and
+missing to a private security corridor. The corridor had been marked with black meridian paint and guarded by
+personnel using emergency-disease language. Inside the perimeter, altered miners were being held as HAZARD-LIVING and
 used to identify ore tunnels affected by a spatial compression event.
 
-A.C.T attempted negotiated recovery. Iron Meridian presented an iron warrant claiming custody over all
-persons exposed
+A.C.T attempted negotiated recovery. Iron Meridian presented an iron warrant claiming custody over all persons exposed
 inside the line. The warrant included the phrase:
 
 ```text
 Ordinary law resumes when ordinary risk resumes.
 ```
 
-A.C.T Legal rejected the warrant. Containment retrieved thirty-one captives during a night operation. Seven
-died
-before recovery. Forty-two remained unaccounted for. The Authority later accused A.C.T of releasing hazards
-into the
+A.C.T Legal rejected the warrant. Containment retrieved thirty-one captives during a night operation. Seven died
+before recovery. Forty-two remained unaccounted for. The Authority later accused A.C.T of releasing hazards into the
 world.
 
 Since then, contact has included convoy interception, black-ledger recovery, court-cover disputes, custody-train
@@ -347,18 +299,13 @@ sabotage, witness extraction, and failed attempts by Meridian agents to enter A.
 ### Current Relationship
 
 The current relationship is **NEGATIVE**. A.C.T does not recognize Iron Meridian authority, warrants, tribunals,
-charters, or emergency classifications. Any cooperation claim must be treated as coercion, deception, or
-tactical
-delay unless Command verifies otherwise. Field teams may negotiate only to preserve captives, delay
-executions, obtain
-maps, or prevent immediate crossfire. Formal exchange of prisoners is prohibited without Central Command
-and Legal
+charters, or emergency classifications. Any cooperation claim must be treated as coercion, deception, or tactical
+delay unless Command verifies otherwise. Field teams may negotiate only to preserve captives, delay executions, obtain
+maps, or prevent immediate crossfire. Formal exchange of prisoners is prohibited without Central Command and Legal
 review.
 
-Iron Meridian propaganda depicts A.C.T as sentimental, unstable, and irresponsible. It specifically attacks Mercy
-Lock
-Institute as proof that humane containment invites breach. A.C.T assesses this as ideological rivalry
-and recruitment
+Iron Meridian propaganda depicts A.C.T as sentimental, unstable, and irresponsible. It specifically attacks Mercy Lock
+Institute as proof that humane containment invites breach. A.C.T assesses this as ideological rivalry and recruitment
 messaging.
 
 ---
@@ -368,40 +315,31 @@ messaging.
 ### Responsible Jurisdiction
 
 Primary jurisdiction rests with Intelligence Division, Containment Division, Legal Division, Civil Covert Division,
-and Field Command. Medical and Subject Care attach when captives, altered civilians, or forced
-treatment are involved.
-Recovery attaches to prisoner extraction and device seizure. Site 02 attaches for Meridian technology.
-Site 03
+and Field Command. Medical and Subject Care attach when captives, altered civilians, or forced treatment are involved.
+Recovery attaches to prisoner extraction and device seizure. Site 02 attaches for Meridian technology. Site 03
 attaches when black ledgers, tribunal rooms, or suppression devices affect memory, identity, or testimony.
 
 ### Posture Implementation
 
 A.C.T posture is **INFILTRATE / MISDIRECT / CONTAIN / DISMANTLE**. Infiltration targets contractors, black-ledger
-clerks, medical supply chains, charter lawyers, train crews, and coerced engineers. Misdirection is authorized
-to
+clerks, medical supply chains, charter lawyers, train crews, and coerced engineers. Misdirection is authorized to
 poison Meridian charters, reroute public contracts, expose ordinary corruption through safe channels, and draw
 Authority attention away from extraction routes.
 
-Containment applies to recovered suppression collars, survey guns, black ledgers, tribunal devices, and prisoners
-whose exposure was worsened by Meridian custody. Dismantlement targets active detention corridors, forced-work yards,
-child or altered-person custody lists, A.C.T impersonation, and attempts to establish emergency jurisdiction inside
-existing A.C.T response zones.
+Containment applies to recovered suppression collars, survey guns, black ledgers, tribunal devices,
+and prisoners whose exposure was worsened by Meridian custody. Dismantlement targets active
+detention corridors, forced-work yards, child or altered-person custody lists, A.C.T impersonation,
+and attempts to establish emergency jurisdiction inside existing A.C.T response zones.
 
 ### Response Limits and Red Lines
 
-A.C.T personnel must not accept Iron Meridian category language as truth. HAZARD-LIVING may mean
-victim.
-ASSET-BREATHING may mean kidnapped technician. WITNESS-IRON may mean silenced survivor. Do not destroy black
-ledgers
-until victim identities are copied and Memory Review clears record-risk. Do not remove suppression
-collars without
-medical evaluation unless the collar is causing immediate fatal harm; removal may trigger rebound
-manifestations.
+A.C.T personnel must not accept Iron Meridian category language as truth. HAZARD-LIVING may mean victim.
+ASSET-BREATHING may mean kidnapped technician. WITNESS-IRON may mean silenced survivor. Do not destroy black ledgers
+until victim identities are copied and Memory Review clears record-risk. Do not remove suppression collars without
+medical evaluation unless the collar is causing immediate fatal harm; removal may trigger rebound manifestations.
 
-A.C.T will not permit Iron Meridian to claim A.C.T detainees, operate camps inside protected
-evacuation zones, use
-forced anomaly labor, transport prisoners through public routes, sell custody services to hostile GOIs,
-or issue
+A.C.T will not permit Iron Meridian to claim A.C.T detainees, operate camps inside protected evacuation zones, use
+forced anomaly labor, transport prisoners through public routes, sell custody services to hostile GOIs, or issue
 warrants against A.C.T personnel.
 
 ---
@@ -422,8 +360,7 @@ Ordinary law resumes when ordinary risk resumes.
 The line holds because mercy breaks.
 ```
 
-A.C.T Legal finds no recognized authority behind the warrant. Intelligence assesses the charter signature
-as linked to
+A.C.T Legal finds no recognized authority behind the warrant. Intelligence assesses the charter signature as linked to
 [CENSOR: CHARTER STATE NAME], a sponsor that denies knowledge of Iron Meridian operations.
 
 ```text
@@ -446,8 +383,7 @@ crimes. Recovery priority remains living
 captives, ledgers, devices, and charter chain.
 ```
 
-The note is retained because it corrects the recurring operational temptation to admire Meridian
-efficiency without
+The note is retained because it corrects the recurring operational temptation to admire Meridian efficiency without
 naming its abuse.
 
 ---
@@ -466,18 +402,13 @@ naming its abuse.
 
 ### Active Intelligence Assessment
 
-A.C.T assesses Iron Meridian Authority as a specialized NEGATIVE containment GOI. Its danger is
-not chaos but order
-without personhood. It uses the language of safety to build permanent detention economies. It
-is especially dangerous
-after public disasters because frightened authorities may sign away zones before they understand what
-Meridian custody
+A.C.T assesses Iron Meridian Authority as a specialized NEGATIVE containment GOI. Its danger is not chaos but order
+without personhood. It uses the language of safety to build permanent detention economies. It is especially dangerous
+after public disasters because frightened authorities may sign away zones before they understand what Meridian custody
 means.
 
-Iron Meridian must be opposed differently from predatory markets or cults. It has lawyers,
-uniforms, trains,
-hospitals, ledgers, and clients who want deniable control. Public exposure can help in some
-cases, but full anomaly
+Iron Meridian must be opposed differently from predatory markets or cults. It has lawyers, uniforms, trains,
+hospitals, ledgers, and clients who want deniable control. Public exposure can help in some cases, but full anomaly
 exposure can also strengthen Meridian claims that extraordinary danger requires extraordinary custody. Operations must
 separate ordinary corruption, human-rights abuse, and anomalous evidence with care.
 
@@ -501,12 +432,9 @@ separate ordinary corruption, human-rights abuse, and anomalous evidence with ca
 ### Intelligence Confidence
 
 Moderate to High. A.C.T has recovered warrants, devices, captive statements, photographs, contractor records, and
-tribunal fragments from multiple regions. Confidence is limited by shell charters, destroyed prisoner lists,
-coerced
-staff testimony, and the difficulty of entering active Meridian compounds without risking captives. Confidence
-may
-rise through black-ledger recovery, technical review of suppression devices, and identification of the Prime
-Meridian
+tribunal fragments from multiple regions. Confidence is limited by shell charters, destroyed prisoner lists, coerced
+staff testimony, and the difficulty of entering active Meridian compounds without risking captives. Confidence may
+rise through black-ledger recovery, technical review of suppression devices, and identification of the Prime Meridian
 Seat.
 
 ---
@@ -515,8 +443,7 @@ Seat.
 
 ### Anomaly and Record Relationship
 
-Iron Meridian Authority is an organization and therefore belongs in the GOI archive. Individual
-suppression collars,
+Iron Meridian Authority is an organization and therefore belongs in the GOI archive. Individual suppression collars,
 survey guns, custody trains, black ledgers, restraint doors, tribunal rooms, perimeter fences, prisoner
 classifications, and detention corridors may require separate anomaly, technology, legal, incident, medical, witness,
 or recovered-document files. This GOI dossier must not replace captive recovery records.
@@ -535,14 +462,10 @@ or recovered-document files. This GOI dossier must not replace captive recovery 
 
 ### Dual Filing
 
-Mandatory. Iron Meridian devices and detention systems are often active hazards. Any suppression collar,
-survey gun,
-custody train, black ledger, restraint door, tribunal room, or perimeter marker recovered from Authority
-custody must
-be separately filed if it produces containment, memory, identity, pain, route, legal, or behavioral
-effects. Subject
-Care filing is mandatory for living captives. Legal filing is mandatory for charters, warrants,
-tribunals, and
+Mandatory. Iron Meridian devices and detention systems are often active hazards. Any suppression collar, survey gun,
+custody train, black ledger, restraint door, tribunal room, or perimeter marker recovered from Authority custody must
+be separately filed if it produces containment, memory, identity, pain, route, legal, or behavioral effects. Subject
+Care filing is mandatory for living captives. Legal filing is mandatory for charters, warrants, tribunals, and
 public-cover actions.
 
 ---

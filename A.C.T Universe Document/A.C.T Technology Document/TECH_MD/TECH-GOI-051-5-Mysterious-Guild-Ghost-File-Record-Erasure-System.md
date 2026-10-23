@@ -275,10 +275,9 @@ Sector 4 Purge, implies a different present risk.
 
 ## DIVISION USE
 
-Central Archive holds the record, the redundancy regime, and the hash logs. The Intelligence
-Division and its Temporal Evidence Review Desk read erasure patterns across recovered material and
-hold the escalation path. Security severs any detected reconciliation path and controls the isolation
-of Guild fragments.
+Central Archive holds the record, the redundancy regime, and the hash logs. The Intelligence Division and
+its Temporal Evidence Review Desk read erasure patterns across recovered material and hold the escalation
+path. Security severs any detected reconciliation path and controls the isolation of Guild fragments.
 
 Subject Care Division owns identity language and reviews every file that describes a person
 with a missing past. Legal Division treats absence as contested evidence and handles any
@@ -301,9 +300,8 @@ an honest gap outranks a filled one.
 
 The Liberty Freedoms publication set is cited as the nearest A.C.T-side parallel: both treat
 an archive as the battlefield, and both fail in the direction of what a
-reader is allowed to infer. The difference is direction. A defector network assembles true
-fragments into a false implication, while this practice removes fragments so that no implication
-can be assembled at all.
+reader is allowed to infer. The difference is direction. A defector network assembles true fragments into
+a false implication, while this practice removes fragments so that no implication can be assembled at all.
 
 
 ---

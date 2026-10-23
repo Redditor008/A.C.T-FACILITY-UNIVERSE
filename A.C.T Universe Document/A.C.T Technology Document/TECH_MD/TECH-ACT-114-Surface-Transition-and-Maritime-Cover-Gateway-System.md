@@ -21,21 +21,15 @@
 | AUTHORITY | Campus Director, Security Boundary Command, Site Director's Office, and Central Archive |
 
 #### Archive Note
-Surface Transition and Maritime Cover Gateway System is the one-hundred-fourteenth main A.C.T technology expanded
-into
-an individual record. The F-6 Surface Research and Transition Level dossier identifies F-6 as
-the relay's legitimate
+Surface Transition and Maritime Cover Gateway System is the one-hundred-fourteenth main A.C.T technology expanded into
+an individual record. The F-6 Surface Research and Transition Level dossier identifies F-6 as the relay's legitimate
 face and physical boundary: research laboratories, monitoring stations, administrative buildings, port facility
-surface operations, campus access architecture, and the transition of personnel and recovered material between
-the
-island surface and the buried relay. It also records concealed transition doctrine, maritime separation
-doctrine, and
+surface operations, campus access architecture, and the transition of personnel and recovered material between the
+island surface and the buried relay. It also records concealed transition doctrine, maritime separation doctrine, and
 surface response doctrine.
 
-STMCGS exists because Nusantara's surface is both a research institute and a doorway into
-the buried relay. The
-gateway must move personnel and recovered material without teaching the outside world where the
-door is.
+STMCGS exists because Nusantara's surface is both a research institute and a doorway into the buried relay. The
+gateway must move personnel and recovered material without teaching the outside world where the door is.
 
 Controlled label: **STMCGS ISLAND-GATE UNDER COVER**.
 
@@ -49,8 +43,7 @@ MOVE THROUGH THE SURFACE WITHOUT LETTING THE SURFACE LEARN THE MOVEMENT.
 
 ## FUNCTION SUMMARY
 
-Surface Transition and Maritime Cover Gateway System is Nusantara Deep Relay's F-6 controlled surface
-gateway
+Surface Transition and Maritime Cover Gateway System is Nusantara Deep Relay's F-6 controlled surface gateway
 technology. It governs the visible island campus, concealed access architecture, port-adjacent movement, personnel
 descent, recovered-material descent, public-program separation, boundary monitoring, and surface sealing response that
 connect the legitimate research institute to the buried relay below.
@@ -58,8 +51,7 @@ connect the legitimate research institute to the buried relay below.
 STMCGS is not a door disguised as a wall. It is a whole surface
 behavior system: laboratories that justify personnel
 movement, monitoring stations that justify instrument traffic, administrative buildings that justify visitors and
-paperwork, and port operations that explain vessels and equipment while concealing which movements belong
-to the
+paperwork, and port operations that explain vessels and equipment while concealing which movements belong to the
 relay. The system's purpose is not only to hide the entrance; it hides the
 pattern of use.
 
@@ -71,28 +63,24 @@ escalation, buried-installation seal coordination, and protection of the island 
 
 ## ORIGIN AND DEVELOPMENT
 
-F-6 developed because the Nusantara Deep Relay required a legitimate island identity. The site
-needed research
-laboratories, monitoring stations, administrative buildings, and a port facility that could exist openly and
-withstand
-scrutiny. Once those structures existed, they also became the natural route through which personnel,
-material, and
+F-6 developed because the Nusantara Deep Relay required a legitimate island identity. The site needed research
+laboratories, monitoring stations, administrative buildings, and a port facility that could exist openly and withstand
+scrutiny. Once those structures existed, they also became the natural route through which personnel, material, and
 operational support entered the concealed installation.
 
 The transition problem followed immediately. A campus can hide a site only if the
 movements through it remain
-ordinary. STMCGS formalizes the concealed transition and maritime cover gateway architecture that lets the
-relay use
+ordinary. STMCGS formalizes the concealed transition and maritime cover gateway architecture that lets the relay use
 its surface without making surface use suspicious.
 
 ---
 
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
-A STMCGS installation includes campus access corridors, disguised descent points, port movement buffers, equipment
-staging rooms, boundary monitors, public-program route boards, recovery receiving masks, administrative cover
-counters, transition ledgers, surface seal controls, and Security watch points concealed inside ordinary campus
-infrastructure.
+A STMCGS installation includes campus access corridors, disguised descent points, port
+movement buffers, equipment staging rooms, boundary monitors, public-program route boards,
+recovery receiving masks, administrative cover counters, transition ledgers, surface seal
+controls, and Security watch points concealed inside ordinary campus infrastructure.
 
 Known components include:
 
@@ -134,10 +122,8 @@ Transition exposures are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
 | Weekly descents | NOT MEASURED |
 | Transition exposures | NOT MEASURED |
 
-The gateway carries four kinds of traffic through one surface, and the concealment depends
-on their
-separation in time rather than in space. The separation schedule is therefore the governing
-component:
+The gateway carries four kinds of traffic through one surface, and the concealment depends on their
+separation in time rather than in space. The separation schedule is therefore the governing component:
 public programmes and descents share routes that are ordinary when used in sequence and
 conspicuous when
 used together.
@@ -173,8 +159,7 @@ Gate throughput, weekly descents, and exposures are NOT MEASURED.
 
 ### Numbered Operating Sequence
 
-The sequence schedules public traffic first and fits descent around it. A schedule built
-the other way
+The sequence schedules public traffic first and fits descent around it. A schedule built the other way
 produces gaps in the public programme that are visible from the campus itself.
 
 1. Read the separation schedule before the surface opens.
@@ -193,17 +178,13 @@ speed a transfer is a
 minute in which two unrelated operations are visibly connected.
 
 Before a transition, STMCGS checks campus schedule, public-program activity, port traffic, Security posture, Recovery
-movement, weather, legitimate visitor presence, and F-5 readiness below. Personnel descent is routed through
-ordinary
+movement, weather, legitimate visitor presence, and F-5 readiness below. Personnel descent is routed through ordinary
 campus activity whenever possible. Recovered material receives additional masking through port logistics, scientific
 sample movement, maintenance closure, or administrative restriction.
 
-If surface exposure risk increases, transition pauses before the concealed route is used. If
-material or personnel
-must move despite risk, Security Boundary Command sets the cover condition and F-5 command
-confirms receipt. During a
-surface boundary threat, STMCGS coordinates with F-6 response doctrine to seal the buried installation
-behind the
+If surface exposure risk increases, transition pauses before the concealed route is used. If material or personnel
+must move despite risk, Security Boundary Command sets the cover condition and F-5 command confirms receipt. During a
+surface boundary threat, STMCGS coordinates with F-6 response doctrine to seal the buried installation behind the
 level until the campus boundary is controlled.
 
 ---
@@ -235,41 +216,32 @@ can write down without ever seeing the gate.
 
 ## KNOWN LIMITS
 
-STMCGS can conceal movement, but it cannot make repeated patterns harmless. Regular unusual closures,
-identical
-equipment routes, staff who vanish at the same corridor, port cargo that always bypasses
-ordinary records, or visitors
-who notice inconsistent explanations can degrade the cover. The system depends on real campus
-activity remaining real
+STMCGS can conceal movement, but it cannot make repeated patterns harmless. Regular unusual closures, identical
+equipment routes, staff who vanish at the same corridor, port cargo that always bypasses ordinary records, or visitors
+who notice inconsistent explanations can degrade the cover. The system depends on real campus activity remaining real
 enough to absorb concealed movement.
 
 Known failure modes include transition timing pattern, port overlap, visitor proximity, public-program route conflict,
 recovery urgency overriding cover, Security overreaction, administrative explanation mismatch, concealed descent
-observation, surface seal delay, material odor or residue, and movement records that look too
-clean to be ordinary.
+observation, surface seal delay, material odor or residue, and movement records that look too clean to be ordinary.
 
 ---
 
 ## FAILURE HISTORY
 
 ### STMCGS-Pattern-of-Use Review
-A surface-security review found that a hidden entrance can remain unseen while repeated staff
-movement still reveals
-that something is being used. Current STMCGS doctrine masks pattern, timing, and explanation, not
-only the physical
+A surface-security review found that a hidden entrance can remain unseen while repeated staff movement still reveals
+that something is being used. Current STMCGS doctrine masks pattern, timing, and explanation, not only the physical
 doorway.
 
 ### STMCGS-Port Separation Correction
-A port logistics exercise showed that legitimate research vessels and concealed maritime operations could
-create
+A port logistics exercise showed that legitimate research vessels and concealed maritime operations could create
 suspicious overlap when cargo movements converged. Current transition schedules compare port traffic against campus
 descent needs before movement begins.
 
 ### STMCGS-Surface Seal Drill
-A boundary incident drill found that surface personnel could continue ordinary campus motion after
-a seal order if the
-cover language was unclear. Current procedure pairs buried relay seal commands with campus-facing closure
-reasons that
+A boundary incident drill found that surface personnel could continue ordinary campus motion after a seal order if the
+cover language was unclear. Current procedure pairs buried relay seal commands with campus-facing closure reasons that
 preserve the cover while stopping movement.
 
 ---
@@ -278,10 +250,8 @@ preserve the cover while stopping movement.
 
 Security operates the boundary monitoring and transition denial functions. Campus Administration provides ordinary
 explanations, scheduling, and visitor control. Research supplies legitimate activity that supports cover movement
-without becoming false. Port Operations separates visible maritime work from concealed recovery traffic. Recovery
-uses
-the gateway for material descent. Command uses STMCGS to determine when the buried relay
-may remain connected to the
+without becoming false. Port Operations separates visible maritime work from concealed recovery traffic. Recovery uses
+the gateway for material descent. Command uses STMCGS to determine when the buried relay may remain connected to the
 surface and when it must seal behind F-6.
 
 STMCGS doctrine holds that the surface is safest when every true movement has an

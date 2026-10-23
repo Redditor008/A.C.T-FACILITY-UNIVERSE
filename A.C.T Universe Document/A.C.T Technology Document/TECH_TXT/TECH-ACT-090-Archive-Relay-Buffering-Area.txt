@@ -39,17 +39,12 @@ TECHNOLOGY RECORD - ARCHIVE RELAY BUFFERING AREA
 +----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
-Archive Relay Buffering Area is the ninetieth main A.C.T technology expanded into an individual
-record. The Glass
-Orchard Relay dossier identifies the relay as an archive relay node buffering material between
-field operations and
-the parent site's archive. The F-2 Processing and Staging Level dossier identifies the archive
-relay buffering area as
-a core space and states that documents buffered there await transfer, not permanent repository
-status.
+Archive Relay Buffering Area is the ninetieth main A.C.T technology expanded into an individual record. The Glass
+Orchard Relay dossier identifies the relay as an archive relay node buffering material between field operations and
+the parent site's archive. The F-2 Processing and Staging Level dossier identifies the archive relay buffering area as
+a core space and states that documents buffered there await transfer, not permanent repository status.
 
-ARBA exists because field records, witness files, recovered documents, and custody packets must move
-through Glass
+ARBA exists because field records, witness files, recovered documents, and custody packets must move through Glass
 Orchard without becoming Glass Orchard property. It is a relay memory, not a final
 archive.
 
@@ -61,49 +56,38 @@ BUFFER THE RECORD, PRESERVE THE CHAIN, TRANSFER THE MEMORY.
 
 FUNCTION SUMMARY
 
-The Archive Relay Buffering Area is the F-2 temporary record-custody system used by Glass
-Orchard Relay to receive,
-sort, hold, protect, and transfer archive material bound for Redwood Veil Complex or another
-authorized archive
+The Archive Relay Buffering Area is the F-2 temporary record-custody system used by Glass Orchard Relay to receive,
+sort, hold, protect, and transfer archive material bound for Redwood Veil Complex or another authorized archive
 destination. It handles witness processing files, field recovery packets, temporary holding manifests, intake records,
 low-threat anomaly custody notes, and documents that require parent archive scheduling.
 
 ARBA is not a library, not a permanent vault, and not an independent interpretation
 desk. Its purpose is continuity
-during movement. Field operations create records quickly. Witness processing produces sensitive files that must
-not
-expose the parent site. Low-threat holdings require custody packets. These materials need a controlled
-place to wait
+during movement. Field operations create records quickly. Witness processing produces sensitive files that must not
+expose the parent site. Low-threat holdings require custody packets. These materials need a controlled place to wait
 before final archive routing. ARBA provides that wait without claiming final authority.
 
-Approved roles include archive intake buffering, transfer schedule custody, witness file relay, recovery packet
-preservation, holding manifest attachment, chain-of-custody verification, restricted-record flagging, and
-parent-archive handoff.
+Approved roles include archive intake buffering, transfer schedule custody, witness
+file relay, recovery packet preservation, holding manifest attachment,
+chain-of-custody verification, restricted-record flagging, and parent-archive handoff.
 
 ORIGIN AND DEVELOPMENT
 
-Glass Orchard's original witness routing mission created records before it created holding cells. Every
-processed
-witness required an accountable file. Every sanitation decision needed medical and security trace. Every
-field team
-needed confirmation that the person or object they delivered did not vanish into informal
-handling. As the relay grew
+Glass Orchard's original witness routing mission created records before it created holding cells. Every processed
+witness required an accountable file. Every sanitation decision needed medical and security trace. Every field team
+needed confirmation that the person or object they delivered did not vanish into informal handling. As the relay grew
 into a sub-site, archive relay became one of its official functions.
 
-The F-2 dossier places the archive buffering area beside witness processing, intake staging, and
-temporary holding
-cells because those functions constantly produce each other's paperwork. ARBA developed to prevent the
-relay's limited
-archive from becoming a quiet permanent repository. The record passes through; the chain remains
-intact; the parent
+The F-2 dossier places the archive buffering area beside witness processing, intake staging, and temporary holding
+cells because those functions constantly produce each other's paperwork. ARBA developed to prevent the relay's limited
+archive from becoming a quiet permanent repository. The record passes through; the chain remains intact; the parent
 archive receives custody.
 
 PHYSICAL OR SYSTEM DESCRIPTION
 
 A standard ARBA installation includes temporary record lockers, transfer trays, custody ledgers, sealed
 evidence-document drawers, witness file terminals, restricted flag stamps, duplicate packet shelves, parent-archive
-schedule boards, document hazard envelopes, and Security observation. It is built for short-term accountability
-rather
+schedule boards, document hazard envelopes, and Security observation. It is built for short-term accountability rather
 than deep preservation.
 
 Known components include:
@@ -166,8 +150,7 @@ A buffering area is where records go to be forgotten, which is exactly why
 it needs a ledger. The
 chain-of-custody ledger is the only component able to prove that a document was never
 read, altered, or lost
-while waiting. Everything else in the area exists to make that claim physically plausible
-rather than merely
+while waiting. Everything else in the area exists to make that claim physically plausible rather than merely
 asserted.
 
 INTERFACE AND OPERATING ENVELOPE
@@ -202,8 +185,7 @@ OPERATING PROCEDURE
 
 Numbered Operating Sequence
 
-The sequence treats classification as a storage decision. Envelope class and locker placement follow
-from
+The sequence treats classification as a storage decision. Envelope class and locker placement follow from
 it, and both must be settled before the record is put away.
 
 1. Receive the record and open a chain-of-custody ledger entry.
@@ -221,16 +203,12 @@ the locker, and the ledger then records a custody chain for a container that
 was already compromised before
 the entry began.
 
-When records enter ARBA, Limited Archive staff mark source, time, handler, associated witness or
-holding, hazard flag,
-destination, and transfer deadline. Files linked to living witnesses are paired with medical and
-release notes. Files
-linked to held material are paired with custody clocks and transfer authorization. Field recovery
-packets are checked
+When records enter ARBA, Limited Archive staff mark source, time, handler, associated witness or holding, hazard flag,
+destination, and transfer deadline. Files linked to living witnesses are paired with medical and release notes. Files
+linked to held material are paired with custody clocks and transfer authorization. Field recovery packets are checked
 against Recovery Support handoff records.
 
-During buffering, records remain sealed or access-limited according to hazard and clearance. ARBA staff
-do not rewrite
+During buffering, records remain sealed or access-limited according to hazard and clearance. ARBA staff do not rewrite
 final interpretation unless authorized; they preserve legibility, chain, and routing. Upon transfer, parent archive
 receipt closes the relay custody entry. If a record overstays, the Limited Archive Lead
 reports the delay as a relay
@@ -254,8 +232,7 @@ SERVICING AND CALIBRATION
 
 Buffer time is the metric worth watching. A record waiting longer than the schedule
 predicts has usually
-been forgotten rather than delayed, and forgotten records are the ones that later surface
-with no readable
+been forgotten rather than delayed, and forgotten records are the ones that later surface with no readable
 custody history behind them.
 
 FAULT ISOLATION
@@ -294,8 +271,7 @@ FAILURE HISTORY
 ARBA-Archive Relay Formation
 The Glass Orchard dossier records archive relay as one of the relay's modern functions.
 ARBA was formalized when
-witness processing, temporary holding, and recovery overflow began producing more records than informal transfer
-could
+witness processing, temporary holding, and recovery overflow began producing more records than informal transfer could
 safely handle.
 
 ARBA-Custody Chain Audit
@@ -304,15 +280,13 @@ destination is assumed rather than written.
 Current procedure requires destination, deadline, handler, and parent-archive receipt for every buffered record.
 
 ARBA-Restricted Document Drill
-A simulated anomaly-bearing document entered the relay as ordinary paperwork. Current procedure requires hazard
-flag
+A simulated anomaly-bearing document entered the relay as ordinary paperwork. Current procedure requires hazard flag
 review at intake, witness processing, holding transfer, and archive handoff.
 
 DIVISION USE
 
 Limited Archive operates ARBA. Security controls access and observes restricted transfers. Recovery Support supplies
-field packets and handoff notes. Medical attaches witness and exposure records. The Processing Officer
-coordinates
+field packets and handoff notes. Medical attaches witness and exposure records. The Processing Officer coordinates
 file flow through F-2. Redwood Veil Archive Command receives final custody.
 
 ARBA doctrine holds that a relay remembers only long enough to pass memory onward.

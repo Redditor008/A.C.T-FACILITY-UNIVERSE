@@ -16,8 +16,7 @@
 | AUTHORITY | Classification Administration |
 
 ### Archive Note
-This file is the complete internal archive version of the official Standard Anomaly File
-Format, including title
+This file is the complete internal archive version of the official Standard Anomaly File Format, including title
 placement, naming convention, designation logic, and record architecture.
 
 ---
@@ -313,8 +312,7 @@ DESIGNATION HISTORY: [UFD-XX-### → AFD-XX-###]
 
 ## FILE SAVING CONVENTION
 
-When an anomaly file is saved for distribution, archive transfer, or direct download, the
-file name should place the
+When an anomaly file is saved for distribution, archive transfer, or direct download, the file name should place the
 anomaly title first, followed by the designation.
 
 Approved structure:
@@ -359,13 +357,10 @@ Example:
 An anomaly receives one of two designation prefixes depending on its verification status:
 
 **UFD-XX-###** — Unknown Field Designation. Provisional status. Assigned during DETECT/VERIFY phase before the anomaly
-has been confirmed as genuine and operationally logged. **AFD-XX-###** — Anomaly Field Designation. Verified
-status.
-Assigned once the anomaly has been validated, documented, and entered into the permanent A.C.T
-record.
+has been confirmed as genuine and operationally logged. **AFD-XX-###** — Anomaly Field Designation. Verified status.
+Assigned once the anomaly has been validated, documented, and entered into the permanent A.C.T record.
 
-The three-digit number is assigned sequentially. It does not reflect threat level, containment difficulty,
-or
+The three-digit number is assigned sequentially. It does not reflect threat level, containment difficulty, or
 transformation viability. It is a filing number — nothing more.
 
 ### Example Designations

@@ -21,19 +21,14 @@
 | AUTHORITY | Archive Division, Engineering Division, Info-Hazard Division, and Central Archive |
 
 #### Archive Note
-Narrative Seal Varnish is the eleventh main A.C.T technology expanded into an individual record.
-The Master Catalog
-defines it as a protective chemical coating for physical documents that stabilizes ink-presence against
-auto-redaction
-and archival-spite effects. The visual guide describes a pressurized spray canister with a digital
-precision nozzle,
+Narrative Seal Varnish is the eleventh main A.C.T technology expanded into an individual record. The Master Catalog
+defines it as a protective chemical coating for physical documents that stabilizes ink-presence against auto-redaction
+and archival-spite effects. The visual guide describes a pressurized spray canister with a digital precision nozzle,
 surface-tension gauge, remaining-volume display, estimated narrative half-life readout, a clear ozone-and-old-paper
 liquid, and a matte invisible finish. AFD-OB-142 Book of Hero uses NSV on the
 cover and existing pages to stabilize
-ink and prevent external editing. AFD-IH-721 DONT DENIED uses NSV because describing the object
-can create dangerous
-certainty, and the experiment dossier records varnish use so that describing the hazard does
-not spread it beyond
+ink and prevent external editing. AFD-IH-721 DONT DENIED uses NSV because describing the object can create dangerous
+certainty, and the experiment dossier records varnish use so that describing the hazard does not spread it beyond
 authorized review.
 
 NSV protects a document's presence. It does not make every sentence true. It does
@@ -52,22 +47,18 @@ PRESERVE THE PAGE WITHOUT TRUSTING THE PAGE.
 
 ## FUNCTION SUMMARY
 
-Narrative Seal Varnish is applied to physical documents, covers, margins, folders, evidence tags, and
-selected labels
-when the writing is at risk of changing, vanishing, being overwritten, accepting outside edits,
-or dragging the
+Narrative Seal Varnish is applied to physical documents, covers, margins, folders, evidence tags, and selected labels
+when the writing is at risk of changing, vanishing, being overwritten, accepting outside edits, or dragging the
 surrounding archive into a story it did not approve. The varnish creates a thin
 invisible layer that binds
-ink-presence to the page and makes the document harder for auto-redaction, archival spite, self-authoring
-pressure,
+ink-presence to the page and makes the document harder for auto-redaction, archival spite, self-authoring pressure,
 and minor narrative drift to alter.
 
 The seal is especially useful for records that must remain legible while still allowing
 authorized personnel to read
 them. Book of Hero requires NSV because its existing pages must remain stable while
 new stories manifest on schedule.
-DONT DENIED requires NSV because the cube's description is permanently true once perceived, and
-A.C.T cannot allow the
+DONT DENIED requires NSV because the cube's description is permanently true once perceived, and A.C.T cannot allow the
 file itself to become a spreading certainty engine. NSV also supports folders that hold
 QNB mirrored records, witness
 statements, recovered inscriptions, and items that have already shown resentment toward documentation.
@@ -89,20 +80,16 @@ NSV was developed after A.C.T archivists learned that some files were not destro
 fire, theft, or error, but by
 embarrassment, denial, authorial resentment, or the document's own desire to be remembered differently. Early
 protective methods used lamination, inert gas, chemical fixatives, copied transcripts, locked cabinets, and copied
-photographs. These methods preserved material paper but did not stop ink that forgot itself,
-titles that renamed
+photographs. These methods preserved material paper but did not stop ink that forgot itself, titles that renamed
 themselves, or marginalia that argued with the official file.
 
 Archive Division controls application doctrine. Engineering controls canister design, nozzle calibration, and
 surface-tension behavior. Info-Hazard Division approves varnish use on dangerous descriptions. Site-03 Kurokawa
-Archive Node maintains the largest operational stock. Materials Custody tracks formula batches, half-life tests,
-used
+Archive Node maintains the largest operational stock. Materials Custody tracks formula batches, half-life tests, used
 canisters, and contaminated applicators.
 
-NSV formula details remain restricted because a hostile version could preserve false files, stabilize
-propaganda,
-protect forged anomaly records, or lock infected wording into a document that should have
-been allowed to fade.
+NSV formula details remain restricted because a hostile version could preserve false files, stabilize propaganda,
+protect forged anomaly records, or lock infected wording into a document that should have been allowed to fade.
 
 ---
 
@@ -110,10 +97,8 @@ been allowed to fade.
 
 The standard NSV canister is a pressurized archival spray unit with a digital precision
 nozzle. The surface-tension
-gauge confirms that the liquid is spreading evenly across paper, leather, parchment, coated tags,
-or approved
-synthetic archive sheets. The LCD shows remaining volume and estimated narrative half-life. The liquid
-appears clear,
+gauge confirms that the liquid is spreading evenly across paper, leather, parchment, coated tags, or approved
+synthetic archive sheets. The LCD shows remaining volume and estimated narrative half-life. The liquid appears clear,
 smells faintly of ozone and old paper, and dries into a matte invisible finish
 that should not shine under standard
 archive light.
@@ -163,8 +148,7 @@ figure, Dry time and coverage per canister are not measured here. Those 3 gaps s
 | Stated half-life figure | NOT MEASURED |
 | Dry time and coverage per canister | NOT MEASURED |
 
-The varnish is never poured and is brushed only under restoration-lab exception. Uneven application
-leaves
+The varnish is never poured and is brushed only under restoration-lab exception. Uneven application leaves
 sealed and unsealed zones on one page, and text responds to that boundary by
 shearing, duplicating, or
 migrating toward the untreated margin.
@@ -216,31 +200,24 @@ pass.
 
 Step-down: the canister is purged and capped before it leaves the bench. Emergency: a
 batch that dries
-glossy is quarantined and every document treated from that batch is re-inspected, which is
-what the 2019
+glossy is quarantined and every document treated from that batch is re-inspected, which is what the 2019
 event required.
 
 Before application, the archivist confirms whether the document is passive, self-writing, self-erasing, cognitively
-hazardous, or under active revision. Passive documents may be sealed under Level 3 authority.
-Active or hazardous
-documents require Level 4 review and an Info-Hazard observer. The page is photographed if
-safe, placed on a grounded
+hazardous, or under active revision. Passive documents may be sealed under Level 3 authority. Active or hazardous
+documents require Level 4 review and an Info-Hazard observer. The page is photographed if safe, placed on a grounded
 archive surface, and treated from top edge to bottom edge in one controlled pass.
 The operator waits for matte finish
 confirmation before touching, turning, or closing the document.
 
 The varnish must not be applied to blank pages expected to receive authorized future
 writing unless the file order
-explicitly allows it. Book of Hero procedures treat existing pages and cover surfaces while
-leaving manifestation
-behavior under controlled observation. DONT DENIED records use NSV to stabilize description, not to
-invite more
+explicitly allows it. Book of Hero procedures treat existing pages and cover surfaces while leaving manifestation
+behavior under controlled observation. DONT DENIED records use NSV to stabilize description, not to invite more
 description than containment requires.
 
-If text moves during application, the operator stops, covers the document with the approved
-dulling sheet, and calls
-Info-Hazard. If the varnish beads, smokes, smells like anything other than ozone and old
-paper, or dries glossy, the
+If text moves during application, the operator stops, covers the document with the approved dulling sheet, and calls
+Info-Hazard. If the varnish beads, smokes, smells like anything other than ozone and old paper, or dries glossy, the
 canister and document are quarantined.
 
 ---
@@ -258,8 +235,7 @@ canister and document are quarantined.
 
 NSV is the one technology in this batch that is consumed in use, so
 the schedule is measured in canisters
-rather than in intervals. Calendar interval NOT MEASURED. The half-life figure on the LCD
-is an estimate
+rather than in intervals. Calendar interval NOT MEASURED. The half-life figure on the LCD is an estimate
 rather than a service date, and Archive does not treat it as one.
 
 ## FAULT ISOLATION
@@ -275,20 +251,14 @@ rather than a service date, and Archive does not treat it as one.
 
 ## KNOWN LIMITS
 
-Narrative Seal Varnish cannot preserve a document against every causal regression, timeline reset, fire,
-flood, theft,
-or deliberate archival rewrite. QNB remains the stronger safeguard for records that must survive
-world-level denial.
-NSV also cannot make a false document true, prevent authorized future addenda, protect digital
-files, or remove
-info-hazardous content from a page. It can stabilize dangerous text well enough that danger
-remains legible.
+Narrative Seal Varnish cannot preserve a document against every causal regression, timeline reset, fire, flood, theft,
+or deliberate archival rewrite. QNB remains the stronger safeguard for records that must survive world-level denial.
+NSV also cannot make a false document true, prevent authorized future addenda, protect digital files, or remove
+info-hazardous content from a page. It can stabilize dangerous text well enough that danger remains legible.
 
 Known failures include uneven sealing, half-life misread, hostile text migrating to untreated edges, locked-in
-clerical errors, varnish reaction with anomalous ink, and over-preservation of statements that should have
-been
-superseded by correction orders. Archive staff must remember that preserved wording can still be
-wrong.
+clerical errors, varnish reaction with anomalous ink, and over-preservation of statements that should have been
+superseded by correction orders. Archive staff must remember that preserved wording can still be wrong.
 
 ---
 
@@ -297,37 +267,30 @@ wrong.
 ### NSV-2001 Book Margin Creep
 During early Book of Hero treatment, varnish was applied to one page spread while
 the book was between manifestation
-windows. A thin margin remained untreated. Two weeks later, a new decorative border formed
-only in that untreated
+windows. A thin margin remained untreated. Two weeks later, a new decorative border formed only in that untreated
 strip and attempted to connect to an older story. The event led to full-edge
 verification and the rule that partial
 sealing is not cheaper than complete sealing.
 
 ### NSV-2007 True Error Preservation
-An outdated incident note was sealed before correction review. The varnish preserved a wrong
-time stamp so strongly
-that later copies kept restoring the same error. Archive corrected the file through formal
-addendum rather than
+An outdated incident note was sealed before correction review. The varnish preserved a wrong time stamp so strongly
+that later copies kept restoring the same error. Archive corrected the file through formal addendum rather than
 scraping the page. This event created the current warning: NSV preserves ink-presence, not accuracy.
 
 ### NSV-2019 Gloss Dry Quarantine
 A canister from an approved batch dried glossy on three evidence tags. No text
 changed, but personnel reported that
-the labels looked too important. The batch was quarantined. Engineering found pressure irregularity in
-the nozzle
+the labels looked too important. The batch was quarantined. Engineering found pressure irregularity in the nozzle
 assembly. Gloss finish is now treated as a possible narrative emphasis fault.
 
 ---
 
 ## DIVISION USE
 
-Archive Division applies NSV to physical records, recovered documents, evidence tags, and selected file
-covers.
+Archive Division applies NSV to physical records, recovered documents, evidence tags, and selected file covers.
 Info-Hazard Division approves treatment of dangerous descriptions. Engineering maintains canisters and investigates
-nozzle faults. Containment requests NSV when labels, warning cards, or object-bound documents show alteration.
-Site-03
-maintains sealed storage for treated files. QNB staff decide whether a varnished record also
-requires buffer
+nozzle faults. Containment requests NSV when labels, warning cards, or object-bound documents show alteration. Site-03
+maintains sealed storage for treated files. QNB staff decide whether a varnished record also requires buffer
 preservation.
 
 Standing reminder: a sealed page is not an obedient page. It is only a

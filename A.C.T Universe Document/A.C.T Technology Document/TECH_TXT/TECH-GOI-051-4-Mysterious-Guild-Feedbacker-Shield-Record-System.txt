@@ -39,8 +39,8 @@ Archive Note
 This record covers the defensive armory item named in recovered Guild material as Item-A01
 Feedbacker Shield. A.C.T does not hold a confirmed complete unit, does not authorise construction
 of one, and files the item because the recovered data places it inside the
-same platform as the OMEGA-KERN layer, the Argus weapon, sacral-scythe mobility hardware, and the
-registry maintenance logic.
+same platform as the OMEGA-KERN layer, the Argus weapon,
+sacral-scythe mobility hardware, and the registry maintenance logic.
 
 The name is read as a functional warning rather than a brand. A shield
 that blocks force is a barrier. A shield that returns, stores, redirects, translates, or
@@ -78,10 +78,9 @@ Blocking is the behaviour A.C.T would expect from a defensive item and is not
 the behaviour the name describes. Returning, storing, redirecting, translating, and scoring are all consistent
 with the label, and A.C.T holds no measurement that selects between them.
 
-Because the answer is unknown, the containment posture is a prohibition on derivation. No
-field shield, training gear, or tactical armour in A.C.T service adopts a Feedbacker-derived concept
-until Engineering, Subject Care, and the Tactical Review Desk produce a joint ruling, and
-no such ruling exists.
+Because the answer is unknown, the containment posture is a prohibition on derivation. No field shield,
+training gear, or tactical armour in A.C.T service adopts a Feedbacker-derived concept until Engineering,
+Subject Care, and the Tactical Review Desk produce a joint ruling, and no such ruling exists.
 
 
 
@@ -106,8 +105,8 @@ reproduce the mechanism from the description in this file.
 
 PHYSICAL OR SYSTEM DESCRIPTION
 
-The described arrangement is a record-level structure. A.C.T lists what the recovered material supports
-and marks the rest:
+The described arrangement is a record-level structure. A.C.T
+lists what the recovered material supports and marks the rest:
 
 - Item-A01 designation, Guild armory numbering;
 - form unresolved, physical, projected, or biological;
@@ -290,8 +289,7 @@ BORROWING PRESSURE — STANDING CONDITION
 No Feedbacker-derived equipment has been identified in A.C.T service. The condition is filed because
 protective equipment is procured under pressure and justified by threat, and a described shield
 that appears to solve a containment problem is the kind of source a team
-reaches for without recording that it did. The audit is therefore run against equipment,
-not against requests.
+reaches for without recording that it did. The audit is therefore run against equipment, not against requests.
 
 PLATFORM INTEGRATION — UNRESOLVED
 
@@ -311,9 +309,8 @@ and reviews every test proposal involving a person.
 
 Medical Care advises on the operator-conditioning reading, since a feedback channel into the nervous
 system is a medical question as much as a tactical one. Security holds any
-recovered entry in isolation. Archive keeps the designation record and its contradiction with Ghost
-File practice paired, so that neither is read without the other. Command authorises nothing
-that is currently prohibited.
+recovered entry in isolation. Archive keeps the designation record and its contradiction with Ghost File practice
+paired, so that neither is read without the other. Command authorises nothing that is currently prohibited.
 
 
 

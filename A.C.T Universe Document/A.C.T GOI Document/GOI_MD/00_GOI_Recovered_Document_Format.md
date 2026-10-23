@@ -8,16 +8,13 @@
 | AUTHORITY | Central Archive, Intelligence Division, and External Threat Review |
 
 #### Archive Note
-This doctrine governs documents that originate from a Group of Interest, appear to originate
-from a Group of Interest,
+This doctrine governs documents that originate from a Group of Interest, appear to originate from a Group of Interest,
 or imitate a Group of Interest well enough to affect A.C.T operations. It exists
 so a GOI may speak in its own voice
 inside the archive without being mistaken for A.C.T's institutional assessment.
 
-A GOI dossier records what A.C.T believes about an organization. A recovered document records
-what an organization
-said, printed, hid, sold, sang, worshipped, ordered, forged, performed, or wanted A.C.T to believe.
-These are
+A GOI dossier records what A.C.T believes about an organization. A recovered document records what an organization
+said, printed, hid, sold, sang, worshipped, ordered, forged, performed, or wanted A.C.T to believe. These are
 different records and must remain different even when they describe the same event.
 
 ---
@@ -26,18 +23,15 @@ different records and must remain different even when they describe the same eve
 
 ### 1. Purpose
 
-Groups of Interest do not only act through weapons, markets, rituals, buildings, or anomalous
-subjects. They act
+Groups of Interest do not only act through weapons, markets, rituals, buildings, or anomalous subjects. They act
 through documents. A flyer can recruit. A price list can move an anomaly. A
 sermon can prepare a breach. A maintenance
 message can call a dead system home. A circus poster can hide a cage
 in plain sight. A corporate instruction can turn
 illness into product language. A government memo can make an impossible order look lawful.
 
-The Facility therefore treats recovered GOI documents as operational artifacts. They may be harmless
-paper, dangerous
-information, social bait, evidence of a route, coded orders, memetic packaging, recruitment tools, legal
-masks,
+The Facility therefore treats recovered GOI documents as operational artifacts. They may be harmless paper, dangerous
+information, social bait, evidence of a route, coded orders, memetic packaging, recruitment tools, legal masks,
 devotional texts, or fragments of an institution that no longer exists.
 
 This doctrine gives those records a working form.
@@ -49,8 +43,7 @@ This doctrine gives those records a working form.
 Every recovered GOI document must preserve three voices separately:
 
 #### Source Voice
-The words, style, claims, formatting, slogans, threats, prayers, prices, jokes, commands, or technical language
-used
+The words, style, claims, formatting, slogans, threats, prayers, prices, jokes, commands, or technical language used
 by the GOI or suspected GOI.
 
 #### A.C.T Handling Voice
@@ -58,8 +51,7 @@ The archive note, recovery context, translation notice, hazard warning, redactio
 custody chain written by A.C.T personnel.
 
 #### Intelligence Assessment Voice
-The interpretation of what the recovered document probably means, what remains uncertain, how it
-changes the GOI file,
+The interpretation of what the recovered document probably means, what remains uncertain, how it changes the GOI file,
 and what operational action follows.
 
 A recovered document fails if the reader cannot tell whether a statement belongs to
@@ -90,8 +82,7 @@ If the source GOI is unknown, use:
 GOI-RD-UNK-[YEAR]-[SEQUENCE]
 ```
 
-The recovered document designation does not replace the GOI designation. It attaches evidence to
-the GOI record.
+The recovered document designation does not replace the GOI designation. It attaches evidence to the GOI record.
 
 ---
 
@@ -140,24 +131,24 @@ Paper, books, tickets, posters, labels, prayer cards, catalogues, manuals, invoi
 documents recovered from a scene.
 
 #### RD-DIG — Recovered Digital Archive
-Databases, drives, tablets, corrupted files, executable records, wiki pages, internal indexes, machine logs, or
-recovered interfaces.
+Databases, drives, tablets, corrupted files, executable records,
+wiki pages, internal indexes, machine logs, or recovered interfaces.
 
 #### RD-PUB — Public-Facing Mask
 Advertisements, press releases, product labels, fake legal notices, fairground posters, public charity material,
 corporate brochures, or official-looking public cover documents.
 
 #### RD-RIT — Ritual / Devotional Text
-Chants, hymns, prayers, vows, liturgy, initiations, curse texts, offering records, dream instructions, or sacramental
-instructions.
+Chants, hymns, prayers, vows, liturgy, initiations, curse texts,
+offering records, dream instructions, or sacramental instructions.
 
 #### RD-COM — Commercial / Transaction Record
 Price lists, auction sheets, market catalogues, shipping manifests, receipts, ownership transfers, client notes,
 broker records, and product instructions.
 
 #### RD-OPS — Operational Order
-Orders, mission briefs, purge instructions, recruitment instructions, route sheets, equipment deployment notes, target
-lists, or training material.
+Orders, mission briefs, purge instructions, recruitment instructions, route
+sheets, equipment deployment notes, target lists, or training material.
 
 #### RD-PER — Personal GOI-Affiliated Record
 Diary, confession, performer writing, employee complaint, field notebook, survivor note, handler journal, or other
@@ -189,8 +180,7 @@ Evidence supports more than one origin or intent.
 The record's origin changes, cannot be fixed, or is affected by anomalous conditions.
 
 #### ARCHIVE-ONLY
-The document survives only as an A.C.T transcription, witness copy, recovered photograph, or partial
-reconstruction.
+The document survives only as an A.C.T transcription, witness copy, recovered photograph, or partial reconstruction.
 
 ---
 
@@ -208,8 +198,7 @@ Status values:
 - **SENSITIVE** — operationally restricted but not anomalously hazardous;
 - **COGNITIVE REVIEW** — may affect thought, attention, dream, memory, identity, or compulsion;
 - **MEMETIC RESTRICTED** — may replicate, compel, recruit, or infect through perception or repetition;
-  **TECHNICAL QUARANTINE** — digital or machine-readable components may execute, call outward, rewrite, or
-  sync;
+  **TECHNICAL QUARANTINE** — digital or machine-readable components may execute, call outward, rewrite, or sync;
 - **RITUAL QUARANTINE** — reading, recitation, performance, or copying may complete a ritual effect;
 - **SEALED** — no general reproduction authorized.
 
@@ -284,37 +273,30 @@ Recovered A-GA material often reads as militant certainty: eradication orders, t
 manifestos, martyr statements, or instructions for destroying anomalies without understanding what they stabilize.
 
 #### Anstrall Market
-Recovered Anstrall material may be catalogues, broker notes, price tiers, provenance masks, route phrases,
-and
+Recovered Anstrall material may be catalogues, broker notes, price tiers, provenance masks, route phrases, and
 ownership chains. It usually hides danger under value.
 
 #### Children of the Deep
-Recovered CoTD material may be hymns, tide calendars, initiation fragments, inland-route maps, devotional warnings,
-or
+Recovered CoTD material may be hymns, tide calendars, initiation fragments, inland-route maps, devotional warnings, or
 body-of-water metaphors. It should sound patient rather than loud.
 
 #### DREAM .INC
-Recovered DREAM material may be company emails, medicine instructions, client forms, extraction logs, building
-memos,
+Recovered DREAM material may be company emails, medicine instructions, client forms, extraction logs, building memos,
 or product language. It should hide extraction under wellness and service.
 
 #### Liberty Freedoms
-Recovered L.F. material may be leaks, recruitment letters, defector testimony, rescue claims, propaganda, or
-transport
+Recovered L.F. material may be leaks, recruitment letters, defector testimony, rescue claims, propaganda, or transport
 instructions. It may contain enough truth to be more dangerous than a lie.
 
 #### Mysterious Guild
 Recovered Guild material may appear as technical database pages, registry maintenance instructions, surgical logs,
-weapon specifications, OMEGA platform files, Ghost File markers, or machine-readable leash warnings. It must
-preserve
+weapon specifications, OMEGA platform files, Ghost File markers, or machine-readable leash warnings. It must preserve
 uncertainty over whether the Guild is a living group, a future archive, or a
 system calling through evidence.
 
 #### Amazoo Circus
-Recovered Amazoo material may be posters, tickets, stage directions, performer ledgers, cage labels, chant
-sheets,
-diary fragments, route notes, animal-handler records, or ringmaster commands. It must not convert survivor
-writing
+Recovered Amazoo material may be posters, tickets, stage directions, performer ledgers, cage labels, chant sheets,
+diary fragments, route notes, animal-handler records, or ringmaster commands. It must not convert survivor writing
 into spectacle.
 
 ---
@@ -379,8 +361,7 @@ subfolder when volume grows. The storage decision must preserve three things:
 2. the recovered document ID;
 3. separation between A.C.T assessment and source voice.
 
-If a recovered document is itself anomalous, the document requires anomaly filing in addition
-to GOI evidence filing.
+If a recovered document is itself anomalous, the document requires anomaly filing in addition to GOI evidence filing.
 
 ---
 

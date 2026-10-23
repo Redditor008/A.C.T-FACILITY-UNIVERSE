@@ -36,8 +36,7 @@ Kazumi remains a female-presenting kitsune-class humanoid with:
 - one visible fox tail;
 - anomalous longevity.
 
-No later canon has established additional tails or a replacement physical form. Her sovereign
-status comes from the
+No later canon has established additional tails or a replacement physical form. Her sovereign status comes from the
 maturation of her presence and abilities, not from a confirmed change in tail number.
 
 ---
@@ -61,8 +60,7 @@ Her current personality is:
 - severe toward predatory intent;
 - unwilling to perform friendliness for another person’s comfort.
 
-Kazumi chooses when and with whom she interacts. Her silence comes from control, caution,
-age, and authority—not
+Kazumi chooses when and with whom she interacts. Her silence comes from control, caution, age, and authority—not
 social helplessness.
 
 She can judge an approaching person before meeting them eye to eye. This is
@@ -117,10 +115,8 @@ Kazumi’s manner of speaking combines:
 - old-fashioned or archaic phrasing;
 - modern vocabulary and directness learned across centuries.
 
-The result should remain understandable. She does not fill every sentence with random archaic
-words. Her age is
-expressed through rhythm, patience, formality, and perspective, while her familiarity with the modern world
-keeps her
+The result should remain understandable. She does not fill every sentence with random archaic words. Her age is
+expressed through rhythm, patience, formality, and perspective, while her familiarity with the modern world keeps her
 speech precise.
 
 She normally speaks with few words. The fewer words she uses, the more deliberate
@@ -145,8 +141,7 @@ square brackets.
 
 #### Audible speech
 
-When Kazumi physically speaks aloud, use **bold text** around dialogue enclosed by **double quotation
-marks**:
+When Kazumi physically speaks aloud, use **bold text** around dialogue enclosed by **double quotation marks**:
 
 > **"STOP."**
 
@@ -154,16 +149,14 @@ Required pattern:
 
 > `**"Audible dialogue."**`
 
-This distinction lets the reader recognize immediately whether Kazumi is speaking directly into the
-mind or using her
+This distinction lets the reader recognize immediately whether Kazumi is speaking directly into the mind or using her
 physical voice. Spoken commands may also carry her supernatural verbal pressure.
 
 ---
 
 ## 5. Telekinesis
 
-Kazumi’s telekinesis in 2026 is **five times stronger** than the final age-282 measurements in
-her behavioral dossier.
+Kazumi’s telekinesis in 2026 is **five times stronger** than the final age-282 measurements in her behavioral dossier.
 
 ### Earlier age-282 measurements
 
@@ -177,10 +170,8 @@ her behavioral dossier.
 
 Her precision has also increased substantially.
 
-Kazumi’s telekinesis should not be presented only as raw lifting strength. Fine control remains
-one of its most
-important qualities. She can apply force with careful selection, manipulate smaller objects without disturbing
-nearby
+Kazumi’s telekinesis should not be presented only as raw lifting strength. Fine control remains one of its most
+important qualities. She can apply force with careful selection, manipulate smaller objects without disturbing nearby
 material, and combine telekinesis with her awareness of intent and boundary conditions.
 
 ---
@@ -199,8 +190,7 @@ Current capabilities include:
 - warning without direct eye contact;
 - brief, small-scale hallucinations.
 
-Her hallucinations are not normally used as arbitrary illusions. They communicate meaning or consequence.
-A person may
+Her hallucinations are not normally used as arbitrary illusions. They communicate meaning or consequence. A person may
 briefly experience:
 
 - what their intended action would feel like if returned to them;
@@ -209,8 +199,7 @@ briefly experience:
 - a memory-like impression;
 - the likely emotional or moral consequence of their approach.
 
-The hallucinations are currently defined as **small-scale and short-lived**. They are not unlimited reality
-rewriting.
+The hallucinations are currently defined as **small-scale and short-lived**. They are not unlimited reality rewriting.
 
 ---
 
@@ -218,15 +207,13 @@ rewriting.
 
 Although telepathy is her primary language, Kazumi’s audible voice has become more consequential.
 
-When she deliberately speaks aloud, a word can carry supernatural weight, pressure, and governing
-intent.
+When she deliberately speaks aloud, a word can carry supernatural weight, pressure, and governing intent.
 
 For example:
 
 > ***“KNEEL.”***
 
-The command does not function as ordinary intimidation. The word creates pressure that can
-force the target to
+The command does not function as ordinary intimidation. The word creates pressure that can force the target to
 experience the weight of Kazumi’s authority.
 
 Another example is:
@@ -263,12 +250,10 @@ This pressure exists even when she is:
 - not looking directly at anyone;
 - not consciously attacking.
 
-Her presence may cause people, anomalies, and Will-bearing surroundings to recognize that they are
-near a governing or
+Her presence may cause people, anomalies, and Will-bearing surroundings to recognize that they are near a governing or
 superior intent.
 
-Sovereign pressure is not the same as constant hostility. Kazumi can be calm, respectful,
-or protective while still
+Sovereign pressure is not the same as constant hostility. Kazumi can be calm, respectful, or protective while still
 feeling overwhelmingly authoritative.
 
 Her presence should communicate:
@@ -303,8 +288,7 @@ their complete biography.
 
 ## 10. Will alignment
 
-Objects, structures, and places that remain around Kazumi for a sufficiently long time can
-develop **Will**.
+Objects, structures, and places that remain around Kazumi for a sufficiently long time can develop **Will**.
 
 This Will is:
 
@@ -324,8 +308,7 @@ A Will-bearing place or object may:
 - participate in the enforcement of her boundary;
 - retain care, memory, and accumulated meaning.
 
-Kazumi does not simply control her surroundings like puppets. Long proximity causes those surroundings
-to learn the
+Kazumi does not simply control her surroundings like puppets. Long proximity causes those surroundings to learn the
 direction of her intent.
 
 ---
@@ -421,34 +404,26 @@ Her authority should be felt before it is explained.
 
 **Kazumi Mori is 324 years old in 2026, based on her recorded age of
 232 in 1934. She is a long-lived kitsune-class
-humanoid with one visible tail, fox ears, fox-like feet, mixed human-vulpine hands, and anomalous
-longevity. Her
-current personality is non-extroverted, selectively social, and supernaturally cautious. She is best described as
-a
+humanoid with one visible tail, fox ears, fox-like feet, mixed human-vulpine hands, and anomalous longevity. Her
+current personality is non-extroverted, selectively social, and supernaturally cautious. She is best described as a
 silent recluse: quiet but not shy, observant, authoritative, and capable of judging dangerous intention
 before direct
 eye contact.**
 
-**Telepathy is now her primary form of communication. Her telepathic speech combines ancient cadence
-with modern
-precision and can transmit words, emotions, symbols, warnings, and brief small-scale hallucinations. When she
-speaks
-aloud, individual words such as “KNEEL” or “NO” can carry supernatural weight and sovereign
-pressure. She constantly
+**Telepathy is now her primary form of communication. Her telepathic speech combines ancient cadence with modern
+precision and can transmit words, emotions, symbols, warnings, and brief small-scale hallucinations. When she speaks
+aloud, individual words such as “KNEEL” or “NO” can carry supernatural weight and sovereign pressure. She constantly
 projects a domineering sovereign presence even while calm or silent.**
 
-**Her telekinesis is five times stronger than her final age-282 measurements. Her reliable control
-increased from 16.7
+**Her telekinesis is five times stronger than her final age-282 measurements. Her reliable control increased from 16.7
 kg to 83.5 kg, while her four-second maximum increased from 18.2 kg to 91
 kg. Her precision and fine control have also
 improved substantially.**
 
 **Objects and places kept around Kazumi for long periods may acquire Will aligned with
 her intent without becoming
-alive or fully sentient. Kazumi can also establish Boundary Exchange, an intention-reading boundary governed
-by the
+alive or fully sentient. Kazumi can also establish Boundary Exchange, an intention-reading boundary governed by the
 rule: “Bring respect, receive passage. Bring hunger, receive hunger. Bring violence, receive the weight
 of what
-violence intended to take.” The boundary reads intention, consequence, and exchange rather than simplistic
-categories
+violence intended to take.” The boundary reads intention, consequence, and exchange rather than simplistic categories
 of good and evil.**

@@ -69,9 +69,8 @@ Material is recovered from target cells and interdicted routes, with observation
 before recovery. An abandoned position is still a record: it shows what was watched,
 from where, and for how long.
 
-Recovered observation material is treated as both intelligence and potential manipulation. The two readings
-are held in parallel rather than resolved, because resolving them early usually means believing
-the more convenient one.
+Recovered observation material is treated as both intelligence and potential manipulation. The two readings are held
+in parallel rather than resolved, because resolving them early usually means believing the more convenient one.
 
 Recovered tracking hardware is examined for continuing transmission before it is brought inside any
 Facility perimeter. A tracker that is still transmitting has not been recovered; it has
@@ -159,9 +158,8 @@ Set counts, package counts, and deception counts are NOT MEASURED.
 
 ### Numbered Operating Sequence
 
-The sequence verifies before concentrating and protects both possibilities until it does. The advertised
-target stays guarded while the interdiction is redirected, because dropping the guard is what
-makes the deception pay.
+The sequence verifies before concentrating and protects both possibilities until it does. The advertised target
+stays guarded while the interdiction is redirected, because dropping the guard is what makes the deception pay.
 
 1. Check recovered tracking hardware for continuing transmission.
 2. Enter the perimeter only after the check passes.
@@ -245,10 +243,10 @@ discipline or archive discipline, and the two responses do not substitute for ea
 
 ## DIVISION USE
 
-Intelligence Division assesses deception and reconstructs target packages. Security Division alters routes and
-schedules and runs perimeter entry control. Containment maintains protection of advertised objects. Recovery reports
-exposed transport legs. Civil Covert handles any exposure that reaches a civilian record. Archive
-holds the package record.
+Intelligence Division assesses deception and reconstructs target packages. Security Division
+alters routes and schedules and runs perimeter entry control. Containment maintains
+protection of advertised objects. Recovery reports exposed transport legs. Civil Covert
+handles any exposure that reaches a civilian record. Archive holds the package record.
 
 ---
 
@@ -263,9 +261,8 @@ holds the package record.
 - False target review restricted extract [Level 5].
 
 Neither the Master Catalog nor the Visual Reference Guide carries this set. The Catalog
-numbers assets A.C.T issues; this hardware is recovered and never reissued. The Visual Reference
-Guide describes identifiable equipment, and the point of adapted commercial optics is that they
-remain unremarkable.
+numbers assets A.C.T issues; this hardware is recovered and never reissued. The Visual Reference Guide
+describes identifiable equipment, and the point of adapted commercial optics is that they remain unremarkable.
 
 ---
 

@@ -202,8 +202,8 @@ OPERATING PROCEDURE
 
 Numbered Operating Sequence
 
-This sequence applies when A.C.T encounters a Bureau-sealed object during a border incident. It assumes no A.C.T
-authority to release the hold.
+This sequence applies when A.C.T encounters a Bureau-sealed object during
+a border incident. It assumes no A.C.T authority to release the hold.
 
 1. Stop handling. Do not open, move, or re-tag the sealed object.
 2. Locate the hold notice and record the issuing desk verbatim.

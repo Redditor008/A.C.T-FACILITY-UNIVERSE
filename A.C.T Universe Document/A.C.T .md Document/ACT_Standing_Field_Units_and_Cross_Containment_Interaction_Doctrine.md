@@ -8,8 +8,7 @@
 | AUTHORITY | Field Operating Chief Council, Recovery Division, Containment Division, and Central Archive |
 
 #### Archive Note
-This doctrine records the difference between divisions, desks, temporary task groups, and standing field
-units. It
+This doctrine records the difference between divisions, desks, temporary task groups, and standing field units. It
 also establishes the basic rule for one of the most dangerous operational shortcuts in
 A.C.T: letting anomalies,
 anomaly-derived tools, or anomaly-influenced subjects interact with each other.
@@ -24,10 +23,8 @@ anomaly-derived tools, or anomaly-influenced subjects interact with each other.
 
 ### 5.1 Purpose
 
-A.C.T anomaly files already name many response bodies: Recovery Teams, Review Cells, Tactical Desks,
-Maritime units,
-Biohazard teams, Chronometric reviewers, and regional support groups. Until this doctrine, those names existed
-as
+A.C.T anomaly files already name many response bodies: Recovery Teams, Review Cells, Tactical Desks, Maritime units,
+Biohazard teams, Chronometric reviewers, and regional support groups. Until this doctrine, those names existed as
 local record fragments rather than a controlled operating layer.
 
 This file defines:
@@ -42,26 +39,23 @@ This file defines:
 ### 5.2 Division, Desk, Cell, Team, and Unit
 
 #### Division
-A major institutional body such as Recovery Division, Containment Division, Subject Care Division, Archiver
-Division,
+A major institutional body such as Recovery Division, Containment Division, Subject Care Division, Archiver Division,
 or Civil Covert Division.
 
 #### Desk
-A specialized review or coordination body inside or across divisions. Desks often own doctrine,
-analysis, approvals,
+A specialized review or coordination body inside or across divisions. Desks often own doctrine, analysis, approvals,
 or case families.
 
 #### Cell
-A compact expert group maintained for repeated problem types. Cells are smaller than divisions
-but more persistent
+A compact expert group maintained for repeated problem types. Cells are smaller than divisions but more persistent
 than temporary mission teams.
 
 #### Team
 A mission-deployed group assembled for one operation or a short series of related operations.
 
 #### Standing Field Unit
-A recurring, registered operational group with name, role, jurisdiction, activation conditions, equipment profile, and
-review history.
+A recurring, registered operational group with name, role, jurisdiction,
+activation conditions, equipment profile, and review history.
 
 A.C.T records often blur these words. This doctrine does not retcon every older file.
 It gives future files a cleaner
@@ -86,8 +80,7 @@ SFU-CORE-CHR-001
 SFU-PL-SUB-C-SCR-001
 ```
 
-The public-facing name may remain more natural, such as Recovery Team Alpha-9 or Chronometric
-Review Cell. The SFU
+The public-facing name may remain more natural, such as Recovery Team Alpha-9 or Chronometric Review Cell. The SFU
 designation exists so the archive can track the unit across files.
 
 ---
@@ -116,15 +109,13 @@ Every standing field unit register entry must include:
 
 ### 5.5 Known Unit and Desk Seeds From Existing Anomaly Records
 
-The following names already appear in anomaly records and should be treated as candidates
-for future full register
+The following names already appear in anomaly records and should be treated as candidates for future full register
 entries:
 
 - **Recovery Team Alpha-9** — future-origin weapon recovery / AFD-OB-312 chain;
 - **Recovery Team Alpha-7** — combat-object recovery / Ball of Knife chain;
 - **Recovery Team Beta-2** — Site-03 archival recovery / Book of Hero chain;
-  **Recovery Team Gamma-6** — Tactical Containment raid unit / Circus Monster and Amazoo
-  Circus
+  **Recovery Team Gamma-6** — Tactical Containment raid unit / Circus Monster and Amazoo Circus
   chain;
 - **Recovery Team Gamma-9** — dimensional/place recovery / Dark World Door chain;
 - **ERE Tactical Divers** — maritime recovery and hostile biological contact / Death-Angler chain;
@@ -155,8 +146,7 @@ Immediate anomaly emergence, breach, witness cluster, public exposure, or casual
 A lower team discovers hazard complexity beyond its assignment.
 
 #### Sealed Command
-O5, Site Director, or Field Operating Chief activates the unit without full explanation due
-to sensitive information.
+O5, Site Director, or Field Operating Chief activates the unit without full explanation due to sensitive information.
 
 Sealed command must be logged after the fact. A blank command chain is not
 mystery. It is a future disaster.
@@ -216,8 +206,8 @@ Direct interaction occurs under active containment, time limit, abort signal, an
 Interaction may amplify, transform, damage, contaminate, or unpredictably stabilize either anomaly.
 
 #### CCI-5 — Structural Interaction
-Interaction may affect reality structure, site integrity, identity continuity, time, memory, cosmic boundary, or
-public normalcy.
+Interaction may affect reality structure, site integrity, identity
+continuity, time, memory, cosmic boundary, or public normalcy.
 
 ---
 
@@ -233,8 +223,7 @@ CCI-4 requires Site Director, Medical or Subject Care where applicable, and haza
 
 CCI-5 requires O5 authorization or emergency action with post-event O5 review.
 
-No team may create a cross-containment interaction because it is faster than building correct
-containment.
+No team may create a cross-containment interaction because it is faster than building correct containment.
 
 ---
 
@@ -242,12 +231,10 @@ containment.
 
 If either anomaly is a sentient subject, the interaction must pass Subject Care review.
 A.C.T may not use one
-contained person as therapy, weapon, bait, interpreter, restraint, or emotional regulator for another contained
-person
+contained person as therapy, weapon, bait, interpreter, restraint, or emotional regulator for another contained person
 without clear authority and aftercare.
 
-Friendship, trust, fear, dependence, and curiosity are containment variables. They are also real. The
-file must record
+Friendship, trust, fear, dependence, and curiosity are containment variables. They are also real. The file must record
 both.
 
 ---
@@ -257,18 +244,15 @@ both.
 GOI-derived tools, archives, software, rituals, medical substances, or weapons must not interface with A.C.T
 containment hardware unless cleared under CCI rules and GOI evidence review.
 
-This is especially important for groups such as Mysterious Guild, DREAM .INC, Anstrall Market,
-Amazoo Circus, and
-Liberty Freedoms, where recovered systems may be designed to call home, recruit, condition, leak,
-or punish
+This is especially important for groups such as Mysterious Guild, DREAM .INC, Anstrall Market, Amazoo Circus, and
+Liberty Freedoms, where recovered systems may be designed to call home, recruit, condition, leak, or punish
 unauthorized handlers.
 
 ---
 
 ### 5.13 Failed Interaction Rule
 
-If an interaction produces unexpected benefit, it is still a failed interaction until reviewed.
-A.C.T must not allow
+If an interaction produces unexpected benefit, it is still a failed interaction until reviewed. A.C.T must not allow
 lucky success to become hidden policy.
 
 Failure review must ask:

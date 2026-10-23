@@ -21,18 +21,14 @@
 | AUTHORITY | Processing Officer, Medical Lead, Sub-Site Chief, Redwood Veil Site Command, and Central Archive |
 
 #### Archive Note
-Witness Processing and Sanitation Suites are the eighty-ninth main A.C.T technology expanded into an
-individual
+Witness Processing and Sanitation Suites are the eighty-ninth main A.C.T technology expanded into an individual
 record. The Glass Orchard Relay dossier states that the relay began as a covert
 witness routing point and continues to
-function as a witness processing and sanitation center. The F-2 Processing and Staging Level
-dossier identifies the
-witness processing suites as a core space where witnesses are received, assessed, interviewed, sanitized
-where
+function as a witness processing and sanitation center. The F-2 Processing and Staging Level dossier identifies the
+witness processing suites as a core space where witnesses are received, assessed, interviewed, sanitized where
 required, and routed without approaching the parent site's deeper installations.
 
-WPSS exists to protect secrecy without treating witnesses as debris. The suite's work is
-assessment, care, narrative
+WPSS exists to protect secrecy without treating witnesses as debris. The suite's work is assessment, care, narrative
 insertion, amnestic administration where required, and safe return or assimilation under authority.
 
 Controlled label: **WPSS WITNESS-DOOR PROTOCOL**.
@@ -47,23 +43,20 @@ PROCESS THE WITNESS WITHOUT MAKING THE FACILITY VISIBLE.
 
 ## FUNCTION SUMMARY
 
-Witness Processing and Sanitation Suites are the F-2 controlled environments used to receive civilians,
-exposed
-personnel, accidental observers, and other witnesses from field operations inside Glass Orchard Relay. The
-suites
+Witness Processing and Sanitation Suites are the F-2 controlled environments used to receive civilians, exposed
+personnel, accidental observers, and other witnesses from field operations inside Glass Orchard Relay. The suites
 support assessment, interview, medical check, narrative reconstruction, amnestic administration, witness holding,
 release preparation, and assimilation routing when a witness cannot be safely returned.
 
 WPSS is part of Glass Orchard's reason to exist. Witnesses can be brought to
 the relay without learning Redwood Veil
 exists. They encounter a believable agricultural biotech station above, controlled processing below, and carefully
-limited staff. The suites preserve secrecy by keeping witness work narrow, professional, medically accountable,
-and
+limited staff. The suites preserve secrecy by keeping witness work narrow, professional, medically accountable, and
 separated from the parent site's core.
 
-Approved roles include witness reception, exposure assessment, medical stabilization, interview custody, narrative
-insertion planning, 004-Series amnestic administration support, release preparation, assimilation referral, and
-witness file relay.
+Approved roles include witness reception, exposure assessment, medical stabilization,
+interview custody, narrative insertion planning, 004-Series amnestic administration
+support, release preparation, assimilation referral, and witness file relay.
 
 ---
 
@@ -71,18 +64,14 @@ witness file relay.
 
 Glass Orchard began as a covert witness routing point. That origin remains visible in
 F-2, where the witness
-processing suites stand beside intake staging, temporary holding cells, and archive buffering. The relay's
-early value
+processing suites stand beside intake staging, temporary holding cells, and archive buffering. The relay's early value
 was simple: bring witnesses somewhere controlled, process them without revealing the larger Facility, and
 return them
 to a life that could continue.
 
-As Redwood Veil operations expanded, the witness routing point became a formal sub-site. WPSS
-developed from
-improvised witness handling into a suite technology governed by medical, security, archive, and command
-doctrine. Its
-central discipline is not erasure. Its central discipline is safe continuity: the witness must
-leave with a survivable
+As Redwood Veil operations expanded, the witness routing point became a formal sub-site. WPSS developed from
+improvised witness handling into a suite technology governed by medical, security, archive, and command doctrine. Its
+central discipline is not erasure. Its central discipline is safe continuity: the witness must leave with a survivable
 story, the archive must keep an accountable record, and the parent site must remain
 unseen.
 
@@ -137,8 +126,7 @@ Suite count, Median processing time, Post-release contradiction. Those 3 gaps ar
 
 Processing is a medical act with a secrecy purpose, and this record keeps those
 two facts in that order.
-Every procedure class has a lower-cost alternative available, so the suite must justify moving
-up the list
+Every procedure class has a lower-cost alternative available, so the suite must justify moving up the list
 rather than down it. The quiet recovery room exists because release immediately after administration
 produces measurably worse outcomes for the witness and worse records for the archive.
 
@@ -193,16 +181,13 @@ before the escalation,
 where it can be read by a later reviewer.
 
 Upon arrival, witnesses receive identity intake, exposure description, immediate medical assessment, and Security
-review. Staff determine whether the witness saw anomaly, Facility activity, both, or something too
-unclear for
-ordinary sanitation. Medical personnel determine whether amnestic use is safe. Archive staff open a
-temporary witness
+review. Staff determine whether the witness saw anomaly, Facility activity, both, or something too unclear for
+ordinary sanitation. Medical personnel determine whether amnestic use is safe. Archive staff open a temporary witness
 file and attach field reports.
 
 Processing may produce release, delayed release, continued observation, parent-site referral, or assimilation review.
 Narrative insertion must match the witness's environment, injuries, travel record, and existing relationships. If
-amnestics are used, aftercare and memory continuity are reviewed before release. The relay's strongest
-witness work is
+amnestics are used, aftercare and memory continuity are reviewed before release. The relay's strongest witness work is
 invisible because the witness can continue without feeling a missing wall in their own
 life.
 
@@ -218,10 +203,8 @@ life.
 | Monthly | audit release outcomes for contradiction |
 | Quarterly | review referral criteria with the medical lead |
 
-Cabinet reconciliation is the hardest control in the suite. Amnestic stock is consumed per
-case and must
-match the case record exactly, because an unexplained draw means either a procedure without
-approval or a
+Cabinet reconciliation is the hardest control in the suite. Amnestic stock is consumed per case and must
+match the case record exactly, because an unexplained draw means either a procedure without approval or a
 procedure without a record, and the two require different corrections.
 
 ## FAULT ISOLATION
@@ -238,14 +221,12 @@ procedure without a record, and the two require different corrections.
 
 WPSS cannot make every witness safe for return. Some exposures are too severe, some
 memories resist treatment, some
-witnesses hold evidence outside their own memory, and some events produce social gaps that
-no narrative can cover. The
+witnesses hold evidence outside their own memory, and some events produce social gaps that no narrative can cover. The
 suites also cannot be used as a substitute for full psychological care when exposure
 has caused durable harm.
 
 Known failure modes include memory injury, narrative mismatch, witness panic, release into contradictory evidence,
-excessive amnestic use, incomplete medical screening, archive file delay, staff pressure to process too
-quickly, and
+excessive amnestic use, incomplete medical screening, archive file delay, staff pressure to process too quickly, and
 accidental disclosure of the parent-site structure.
 
 ---
@@ -258,13 +239,11 @@ WPSS formalizes that origin
 into controlled suite practice.
 
 ### WPSS-Narrative Mismatch Review
-A sanitation exercise produced a release narrative that contradicted travel and injury records. Current
-procedure
+A sanitation exercise produced a release narrative that contradicted travel and injury records. Current procedure
 requires narrative insertion review against medical, field, and ordinary-life evidence before release.
 
 ### WPSS-Amnestic Aftercare Audit
-A medical audit confirmed that witness sanitation cannot end at dosage. Current procedure pairs
-amnestic
+A medical audit confirmed that witness sanitation cannot end at dosage. Current procedure pairs amnestic
 administration with recovery observation and aftercare review.
 
 ---
@@ -272,8 +251,7 @@ administration with recovery observation and aftercare review.
 ## DIVISION USE
 
 Medical leads assessment, amnestic safety, and aftercare. Security controls witness movement and exposure risk.
-Limited Archive maintains witness files and transfer records. Recovery Support supplies field context. The
-Processing
+Limited Archive maintains witness files and transfer records. Recovery Support supplies field context. The Processing
 Officer coordinates suite flow and reports exceptions to the Sub-Site Chief.
 
 WPSS doctrine holds that secrecy is not complete until the witness can survive the

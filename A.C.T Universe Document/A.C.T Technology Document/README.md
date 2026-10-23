@@ -39,5 +39,4 @@ records what it does not know rather than filling the gap.
 ## Markdown and plain-text twins
 
 `TECH_MD/` and `TECH_TXT/` carry the same 242 records. The Markdown editions use pipe
-tables; the plain-text editions draw the same tables as ASCII boxes. Neither is a summary
-of the other.
+tables; the plain-text editions draw the same tables as ASCII boxes. Neither is a summary of the other.

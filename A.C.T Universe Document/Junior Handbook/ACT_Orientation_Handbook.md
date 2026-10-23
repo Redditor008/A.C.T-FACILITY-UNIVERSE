@@ -26,14 +26,12 @@ In this Facility, we know the truth: **Reality is not secure.**
 
 Our world is like a pane of glass that is constantly being pressured from
 the other side. Across the globe, there are
-fractures—breaks in the laws of physics, biology, and causality. We call these **Anomalies.** Left
-unmanaged, even a
+fractures—breaks in the laws of physics, biology, and causality. We call these **Anomalies.** Left unmanaged, even a
 single fracture can shatter the window and expose humanity to the cold void beyond.
 
 #### **2. THE A.C.T MISSION**
 
-The **Anomaly Containment Transformation** (A.C.T) Facility is a hidden institution dedicated to standing between
-that
+The **Anomaly Containment Transformation** (A.C.T) Facility is a hidden institution dedicated to standing between that
 window and the world above. Our mission is summarized by our primary directive:
 
 **"To A.C.T is to maintain the normalcy and the stability of Earth and its
@@ -69,8 +67,7 @@ use the term **Anomaly.**
 
 An Anomaly is a **Broken Sentence** in the law of the universe. It is
 a thing that should not be, yet it is. Whether
-it is an indestructible lizard (AFD-SU-012) or a door to another world (AFD-PL-932), every
-anomaly represents a
+it is an indestructible lizard (AFD-SU-012) or a door to another world (AFD-PL-932), every anomaly represents a
 "System Error" of reality.
 
 As a researcher or technician, you must never view an anomaly as an "Enemy."
@@ -82,24 +79,19 @@ reality to hold.
 
 #### **2. CONTAINMENT: THE ACT OF RESPECT**
 
-The second pillar of our name is **Containment.** Junior staff often mistake containment for
-"imprisonment." This is
+The second pillar of our name is **Containment.** Junior staff often mistake containment for "imprisonment." This is
 incorrect.
 
 Containment is the **Maintenance of Balance.**
 
-While we use advanced technology like the **RSA (Reality Stabilization Anchor)** and **Abyssal Masonry**,
-the most
-effective layer of containment is **Manners.** As Senior Researcher Thorne (SR-412) often says, *"Manners
-are the only
+While we use advanced technology like the **RSA (Reality Stabilization Anchor)** and **Abyssal Masonry**, the most
+effective layer of containment is **Manners.** As Senior Researcher Thorne (SR-412) often says, *"Manners are the only
 Anti Reality Mesh that doesn't require a power supply."*
 
 *   **Physical Containment:** Using "Boxes" (Small, Medium, Massive) to physically isolate an object.
-    **Perceptual Containment:** Using the **ARM (Anti Reality Mesh)** to hide our Sites from
-    the
+    **Perceptual Containment:** Using the **ARM (Anti Reality Mesh)** to hide our Sites from the
     world.
-    **Social Containment:** Using "Politeness Protocols" to ensure that sentient subjects feel like guests
-    rather
+    **Social Containment:** Using "Politeness Protocols" to ensure that sentient subjects feel like guests rather
     than
     prisoners.
 
@@ -148,37 +140,31 @@ the responsibility of reality-preservation is never held by a single, brittle re
 ##### **I. THE O5 COUNCIL (THE FIVE HANDS)**
 At the apex sits the O5 Council. They are the "Final Truth." They do
 not manage day-to-day budgets; they manage the
-**Sovereignty of Existence.** They are the ones who decide which apocalypses we can survive
-and which lies the world
+**Sovereignty of Existence.** They are the ones who decide which apocalypses we can survive and which lies the world
 needs to hear. They hold the "Black Ledger" and bear the pulse of the
 organization.
 
 ##### **II. THE FACILITY ADMINISTRATOR & SITE DIRECTORS**
 If the O5 are the brain, the Administrator is the heart. They ensure the
 Facility is obedient and functional. Site
-Directors are the regional governors. They are responsible for the physical safety of their
-Site and every soul—human
+Directors are the regional governors. They are responsible for the physical safety of their Site and every soul—human
 or anomalous—within it. If a Site falls, the Director is the one who answers
 to the Abyss.
 
 ##### **III. THE RESEARCHER CADRE (HIGH, SENIOR, JUNIOR)**
 Researchers are our eyes.
 — **High Researchers** bridge the gap between policy and science.
-    **Senior Researchers** (like Dr. Aris Thorne) are the frontline masters of the anomaly.
-    They
+    **Senior Researchers** (like Dr. Aris Thorne) are the frontline masters of the anomaly. They
     translate raw chaos into
     workable logs.
-    **Junior Researchers** provide the essential labor of observation and data-mending. You are the
-    future
+    **Junior Researchers** provide the essential labor of observation and data-mending. You are the future
     of the archive;
     do not mistake your low clearance for a lack of importance. Every typo you
     fix prevents a causal error.
 
 ##### **IV. TACTICAL & FIELD OPERATIONS**
-The limbs of the Facility. **Field Operators** and **Task Force Commanders** are the ones
-who step into the
-"Fractures" first. **Facility Guards** protect the internal peace. They are trained to see the
-"Static" before a
+The limbs of the Facility. **Field Operators** and **Task Force Commanders** are the ones who step into the
+"Fractures" first. **Facility Guards** protect the internal peace. They are trained to see the "Static" before a
 breach happens.
 
 ##### **V. THE SUPPORT PILLARS (ARCHIVERS, JANITORS, RECRUITERS)**
@@ -191,43 +177,36 @@ the halls safely.
 
 #### **3. THE WINGS: DIRECTIONAL DOCTRINE**
 
-The physical layout of our Sites (especially the Primary Facility) is organized into four
-wings. Each represents a
+The physical layout of our Sites (especially the Primary Facility) is organized into four wings. Each represents a
 cardinal direction of our purpose.
 
 ##### **THE WEST WINGS: THE SHIELD (FORCE)**
-Contains the **Security, Recovery, Containment, and Military Divisions.** This is where the Facility acts.
-It is the
-side of A.C.T. that meets the anomaly with steel, magnetic fields, and tactical precision.
-If a subject attempts to
+Contains the **Security, Recovery, Containment, and Military Divisions.** This is where the Facility acts. It is the
+side of A.C.T. that meets the anomaly with steel, magnetic fields, and tactical precision. If a subject attempts to
 breach, the West Wing is the first to speak.
 
 ##### **THE EAST WINGS: THE MEMORY (ARCHIVE)**
-Contains the **Archiver, Intelligence, and Task Management Divisions.** This is where the Facility remembers.
-It is
+Contains the **Archiver, Intelligence, and Task Management Divisions.** This is where the Facility remembers. It is
 our library of scars. Here, we analyze the movements of GOIs, track the "Causal
 Pulse" of the Site Network, and decide
 what information is safe for the world to know.
 
 ##### **THE NORTH WINGS: THE MIND (SCIENCE)**
-Contains the **Researcher, Transformation, and Medical Care Divisions.** This is where the Facility thinks
-and heals.
+Contains the **Researcher, Transformation, and Medical Care Divisions.** This is where the Facility thinks and heals.
 It is the center for the "Neutral Good" path of Transformation. We study the
 subjects here not as prisoners, but as
 patients of a broken reality. The **Anomaly Lab Quarter** is located here, testing the
 limits of what can be "mended."
 
 ##### **THE SOUTH WINGS: THE SHADOW (STRATEGY)**
-Contains the **O5 Headquarters and Civil Covert Division.** This is where the Facility hides.
-This wing manages our
+Contains the **O5 Headquarters and Civil Covert Division.** This is where the Facility hides. This wing manages our
 funding, our shell companies, and the "Normalcy Masks" we wear in the civilian world.
 It ensures that the world never
 notices the concrete fortress in their backyard.
 
 #### **4. THE CENTRAL SPINE: THE ABYSSAL AXIS**
 
-Everything in the Facility turns around the **Central Sector.** This is the vertical core
-where the **Anomaly
+Everything in the Facility turns around the **Central Sector.** This is the vertical core where the **Anomaly
 Containment Elevator** moves.
 
 It is a reminder of our origin: **We were not built downward from an
@@ -242,8 +221,7 @@ organization.
 
 #### **5. WHY YOU ARE HERE**
 
-You have been recruited because you possess the discipline to follow this structure. The
-Command Chain and the Wings
+You have been recruited because you possess the discipline to follow this structure. The Command Chain and the Wings
 are not here to restrict you; they are here to **Protect You.**
 
 By only knowing what is necessary for your role, you are shielded from the
@@ -268,8 +246,7 @@ skeleton. We do not store every anomaly
 in one single vault. To do so would be to place too much "Causal
 Stress" on one geographic point.
 
-Instead, we utilize a global lattice of **SITES** and **SUB-SITES**. This distribution ensures that
-even if one anchor
+Instead, we utilize a global lattice of **SITES** and **SUB-SITES**. This distribution ensures that even if one anchor
 fails, the rest of the world remains stable. In A.C.T., we hold a fundamental
 truth: **Place is Containment.** Some
 anomalies can only be held in the cold of the Arctic, while others require
@@ -290,8 +267,7 @@ is capable of managing a regional crisis
 independently for up to 90 days without contact from the Primary Facility.
 
 ##### **II. THE SUB-SITE (SPECIALIZED SENSOR)**
-A **SUB-SITE** is a smaller, specialized installation attached to a parent Site. Sub-sites are
-our "Frontline Eyes."
+A **SUB-SITE** is a smaller, specialized installation attached to a parent Site. Sub-sites are our "Frontline Eyes."
 They are often disguised as agricultural stations, meteorological outposts, or private estates.
 
 #### **3. THE FIVE REGIONAL ANCHORS**
@@ -302,8 +278,7 @@ to a specific type of "Pressure."
 ##### **ACT-SITE-01-US-W: REDWOOD VEIL COMPLEX**
 *   **Location:** Western United States.
 *   **Specialization:** Urban Artifacts and High-Stress Recovery.
-    **Culture:** Fast-paced and clinical. Site-01 handles the items that "bleed" into the public
-    eye
+    **Culture:** Fast-paced and clinical. Site-01 handles the items that "bleed" into the public eye
     first. If a cursed
     coin or a self-writing diary is found in a city, it goes to Redwood
     Veil. It is our primary shield against the
@@ -312,8 +287,7 @@ to a specific type of "Pressure."
 ##### **ACT-SITE-02-RU-N: WHITE GRAVE STATION**
 *   **Location:** Northern Russia (Arctic).
 *   **Specialization:** Biological Isolation and Unwilling Immortals.
-    **Culture:** Silent, analog, and disciplined. This is the current home of **Dr. Aris
-    Thorne
+    **Culture:** Silent, analog, and disciplined. This is the current home of **Dr. Aris Thorne
     (SR-412)**. The extreme
     cold is used as a natural suppression layer for anomalies that are too volatile
     for warmer climates. Here, "Patience"
@@ -322,8 +296,7 @@ to a specific type of "Pressure."
 ##### **ACT-SITE-03-JP-E: KUROKAWA ARCHIVE NODE**
 *   **Location:** Eastern Japan (Tokyo Annex).
 *   **Specialization:** Memetic, Informational, and Exogenous Records.
-    **Culture:** Intellectual and highly restricted. Site-03 is the "Brain" of the archive. It
-    houses
+    **Culture:** Intellectual and highly restricted. Site-03 is the "Brain" of the archive. It houses
     the **715-Series
     (Emergent Reality)** ghost-files. Personnel here are masters of "Causal Scrubbing"—ensuring that the information
     within a file doesn't become more dangerous than the subject it describes.
@@ -331,8 +304,7 @@ to a specific type of "Pressure."
 ##### **ACT-SITE-04-BR-C: VERDE NULL BIO-RESERVE**
 *   **Location:** Central Brazil (Amazon).
 *   **Specialization:** Non-Natural Biological Organisms and Enclosures.
-    **Culture:** Adaptive and protective. Site-04 is the home of **Vivienne Argent (AFD-SU-827)** and
-    the
+    **Culture:** Adaptive and protective. Site-04 is the home of **Vivienne Argent (AFD-SU-827)** and the
     **Paper Flower
     (AFD-NB-204)**. It is a "Neutral Good" paradise where we provide a natural home for
     anomalies that are victims of
@@ -341,16 +313,14 @@ to a specific type of "Pressure."
 ##### **ACT-SITE-05-ID-C: NUSANTARA DEEP RELAY**
 *   **Location:** Central Indonesia (Archipelago).
 *   **Specialization:** Maritime, Tectonic, and Abyssal Watch.
-    **Culture:** Vigilant and technical. Site-05 monitors the **Proto-Thal (AFD-NB-125)** and serves as the
-    primary
+    **Culture:** Vigilant and technical. Site-05 monitors the **Proto-Thal (AFD-NB-125)** and serves as the primary
     relay
     for the Abyss Floor. They are the guardians of the Fault Lines, watching for
     any sign that the "Sleeper" is shifting.
 
 #### **4. THE ZERO NODE: THE PRIMARY FACILITY**
 
-Beneath all these Site Jurisdictions lies the **Primary Facility** at the Abyss Floor. This
-is not a "Regional" site;
+Beneath all these Site Jurisdictions lies the **Primary Facility** at the Abyss Floor. This is not a "Regional" site;
 it is the source. It is the place of the **First Descent (1888)** and
 the seat of the O5 Council.
 
@@ -381,16 +351,14 @@ is the world's stability."
 
 #### **1. BEYOND THE BOX: THE PURPOSE OF THE THIRD PILLAR**
 
-Junior Employee, you have been taught that **Anomaly** is the fracture and **Containment** is
-the bandage. But a
+Junior Employee, you have been taught that **Anomaly** is the fracture and **Containment** is the bandage. But a
 bandage is not a cure. If the A.C.T. Facility only "contained" anomalies, we would
 eventually run out of room, out of
 lead, and out of time. We would be a graveyard of waiting disasters.
 
 The third pillar—**Transformation**—is what makes us a civilization rather than a prison.
 
-Transformation is the process of bringing an anomaly into **Harmony** with reality. We do
-not seek to destroy the
+Transformation is the process of bringing an anomaly into **Harmony** with reality. We do not seek to destroy the
 anomaly, nor do we seek to let it destroy the world. We seek to
 find a middle path where the anomaly’s "Broken Law" is
 rewritten, stabilized, or integrated into a form that the universe can tolerate.
@@ -407,10 +375,8 @@ do we "hate" it. We treat every subject as a set of variables that
 must be balanced. If we allow our feelings to
 dictate the change, we risk a "Narrative Feedback Loop" that can kill us all.
 **Why it is GOOD:** The ultimate
-objective is the prevention of suffering. We transform the **Paper Flower (AFD-NB-204)** from a
-child's tragedy into a
-staff blessing. We transform **NEMNOLIA (AFD-NB-004)** from a memory-killer into the very medicine that
-prevents
+objective is the prevention of suffering. We transform the **Paper Flower (AFD-NB-204)** from a child's tragedy into a
+staff blessing. We transform **NEMNOLIA (AFD-NB-004)** from a memory-killer into the very medicine that prevents
 global panic.
 
 We are taking the things that meant us harm and forcing them to become
@@ -442,15 +408,13 @@ The final stage is when the anomaly becomes part of our very existence. *Example
 **004-Series Amnestics.** We don't
 even think of them as anomalies anymore. They are "Integrated Assets." They are the
 tools we use to maintain the
-"First Lie." We have successfully "harvested" a reality-break and turned it into a pillar
-of our foundation.
+"First Lie." We have successfully "harvested" a reality-break and turned it into a pillar of our foundation.
 
 #### **4. THE MORAL OBLIGATION: CARE FOR THE SURVIVOR**
 
 We have a **Duty of Care** to the sentient subjects who had the floor
 taken out from under them. **Vivienne Argent
-(AFD-SU-827)** did not choose her tail; the **Circus Monster (AFD-SU-507)** did not choose her
-claws.
+(AFD-SU-827)** did not choose her tail; the **Circus Monster (AFD-SU-507)** did not choose her claws.
 
 If we left them in their raw, untransformed states, they would live in constant
 "Causal Friction"—their bodies and
@@ -499,8 +463,7 @@ never has to see the dark."
 
 Junior Employee, to contain an anomaly, you must first understand why it exists. In
 the public world, people believe
-that "impossible" things are accidents or myths. In the A.C.T. Facility, we understand that
-anomalies are not
+that "impossible" things are accidents or myths. In the A.C.T. Facility, we understand that anomalies are not
 accidents. They are **Symptoms of Structural Weakness.**
 
 Reality is not a solid foundation. It is a complex, active system maintained by
@@ -511,14 +474,12 @@ stopped following the rules.
 
 #### **2. STRUCTURAL REALITY AND THE TWO ENDS**
 
-We define **Structural Reality** as the survivable balance point of existence. Our entire mission
-is to keep the
+We define **Structural Reality** as the survivable balance point of existence. Our entire mission is to keep the
 needle in the center of a very dangerous gauge. Reality can fail in two
 catastrophic directions:
 
 ##### **I. VOID COLLAPSE (THE DISSOLUTION)**
-The state where reality loses all coherence. Laws of physics vanish, matter becomes null,
-and existence "leaks" into a
+The state where reality loses all coherence. Laws of physics vanish, matter becomes null, and existence "leaks" into a
 state of meaningless void. If the window breaks completely, we fall into the Void.
 
 ##### **II. REALITY RESET (THE OVERWRITE)**
@@ -526,8 +487,7 @@ The state where reality is forcibly reformatted. Continuity is erased, and a new
 of laws is imposed, effectively
 "deleting" everything that came before.
 
-The A.C.T. Facility exists to maintain the narrow, stable corridor between these two terminal
-outcomes. We are the
+The A.C.T. Facility exists to maintain the narrow, stable corridor between these two terminal outcomes. We are the
 architects of the **Stable Middle.**
 
 #### **3. THE COSMIC TIMER AND THE MINOR PAUSE**
@@ -540,8 +500,7 @@ When a cycle completes, there is a **Minor Pause**—a trillionth of a second wh
 reality "hesitates" before starting
 the next iteration. It is during these pauses that most anomalies emerge. **The Leak:**
 Things from other cycles or
-"Exogenous Realities" (Reference: 715-Series) slip through the gap. **The Error:** A law of physics
-fails to restart
+"Exogenous Realities" (Reference: 715-Series) slip through the gap. **The Error:** A law of physics fails to restart
 correctly, creating a permanent "glitch" (e.g., an indestructible lizard or an infinite water jug).
 
 As a researcher, you are not just looking at a "monster." You are looking
@@ -566,8 +525,7 @@ We categorize anomalies by the law they break:
 *   **NB (Non-Natural Bio-Hazard):** Organisms that defy biological law.
 
 ##### **II. THE FRACTURE INDEX (HOW IS IT BROKEN?)**
-Sometimes, standard classification fails. We use the **Fracture Index** to describe anomalies that break
-our own
+Sometimes, standard classification fails. We use the **Fracture Index** to describe anomalies that break our own
 documentation logic.
 — **ABSURD:** The anomaly shouldn't fit in the box, but somehow it does.
     **UNAUTHORED:** The anomaly rewrites its own file or changes its name when we
@@ -579,8 +537,7 @@ documentation logic.
 
 You must understand that all our "Logic" stems from a single discovery: **The World-Sleeper.**
 
-Before ITHYOS, we were just "Seekers" looking for curiosities. ITHYOS taught us the **Doctrine
-of the Abyss.** It
+Before ITHYOS, we were just "Seekers" looking for curiosities. ITHYOS taught us the **Doctrine of the Abyss.** It
 proved that some things are so massive and so fundamental to reality that they
 cannot be "caged." They can only be
 **Maintained.**

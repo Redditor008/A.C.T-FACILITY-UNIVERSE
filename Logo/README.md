@@ -1,7 +1,6 @@
 # A.C.T. Logo Assets
 
-This folder contains the official visual identity files currently stored for the A.C.T. Facility
-Universe.
+This folder contains the official visual identity files currently stored for the A.C.T. Facility Universe.
 
 ## Files
 
@@ -24,8 +23,7 @@ Universe.
   other
   external-property visual
   symbols.
-  Public wiki use should keep the A.C.T. universe visually independent from its research
-  inspirations
+  Public wiki use should keep the A.C.T. universe visually independent from its research inspirations
   and crossover
   material.
 

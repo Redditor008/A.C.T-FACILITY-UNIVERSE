@@ -324,8 +324,7 @@ DESIGNATION HISTORY:     [UFD-XX-### → AFD-XX-### — DD/MM/YYYY]
 
 ## FILE SAVING CONVENTION
 
-When an anomaly file is saved for distribution, archive transfer, or direct download, the
-file name should place the
+When an anomaly file is saved for distribution, archive transfer, or direct download, the file name should place the
 anomaly title first, followed by the designation.
 
 Approved structure:
@@ -350,10 +349,8 @@ Example:
 
 ## SITE INTEGRATION NOTE
 
-RCT-format anomaly records should include the installation body responsible for the anomaly. Where applicable,
-list
-the exact site designation, the site type, and the jurisdictional authority overseeing containment. This
-keeps live
+RCT-format anomaly records should include the installation body responsible for the anomaly. Where applicable, list
+the exact site designation, the site type, and the jurisdictional authority overseeing containment. This keeps live
 Containment / Research / Transformation review aligned with wider A.C.T site doctrine.
 
 ---

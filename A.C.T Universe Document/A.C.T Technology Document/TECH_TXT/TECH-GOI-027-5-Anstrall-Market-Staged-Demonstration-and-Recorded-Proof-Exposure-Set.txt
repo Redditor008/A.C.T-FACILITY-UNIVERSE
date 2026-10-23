@@ -51,8 +51,7 @@ made for has been interdicted.
 That asymmetry is the reason this record sits under exposure handling rather than under
 intelligence. Market documentation is not harmless because it is commercial: a price, a false
 provenance, or a partial claim can be enough to make an object desirable to
-an unqualified buyer, and containment of market information is part of containment of market
-objects.
+an unqualified buyer, and containment of market information is part of containment of market objects.
 
 Controlled label: ANSTRALL MARKET PROOF-MATERIAL EXPOSURE CLASSIFICATION.
 
@@ -226,8 +225,8 @@ SERVICING AND CALIBRATION
 
 
 The annual review is the maintenance that matters. A circulation estimate that is never
-tested against interdiction outcomes quietly becomes an assumption, and every exposure decision built on
-it inherits the error.
+tested against interdiction outcomes quietly becomes an assumption,
+and every exposure decision built on it inherits the error.
 
 
 FAULT ISOLATION
@@ -254,8 +253,7 @@ KNOWN LIMITS
 The material cannot be used as an intelligence list. Recovered proof must be assigned
 to exposure handling rather than circulated, and field personnel are not authorised to allow
 a sale to continue solely to learn whether a claimed effect is real if
-containment risk becomes immediate. Reading a catalogue for its objects is reading it for
-the reason it was written.
+containment risk becomes immediate. Reading a catalogue for its objects is reading it for the reason it was written.
 
 It also cannot be counted. A.C.T does not know how many catalogues remain in
 circulation, which buyers received proof material that has not been recovered, or whether any

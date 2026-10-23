@@ -18,29 +18,29 @@ Direct requests were how people got noticed.
 
 Instead she used the oldest trick left to anyone buried beneath too many layers of silence: she followed maintenance.
 
-If something was too dangerous to name, too old to classify cleanly, or too structurally central to leave visible in
-ordinary archives, it still had to be serviced. Filters changed. Seal grids recalibrated. Pressure lines held.
-Observation systems cycled. There were always traces where the mechanical body of the Facility touched the truth its
-archive tried not to describe.
+If something was too dangerous to name, too old to classify cleanly, or too structurally central
+to leave visible in ordinary archives, it still had to be serviced. Filters changed. Seal grids
+recalibrated. Pressure lines held. Observation systems cycled. There were always traces where
+the mechanical body of the Facility touched the truth its archive tried not to describe.
 
-The abyss branch of maintenance history was scattered across unrelated systems—Central lift stress logs, coolant
-deviation reports, anti-reality mesh load balancing, dormant seismic buffers, old reinforcement manifests from before
-the current floor map had finished stabilizing. Each record by itself looked meaningless. Together they formed
-something close to an outline.
+The abyss branch of maintenance history was scattered across unrelated systems—Central lift
+stress logs, coolant deviation reports, anti-reality mesh load balancing, dormant seismic
+buffers, old reinforcement manifests from before the current floor map had finished stabilizing.
+Each record by itself looked meaningless. Together they formed something close to an outline.
 
 A shape beneath the shape.
 
 Sera spent two shifts threading them together.
 
-The lower route maintenance did not behave like maintenance for a chamber. It behaved like maintenance for a
-condition.
+The lower route maintenance did not behave like maintenance
+for a chamber. It behaved like maintenance for a condition.
 
 That was the first clue.
 
-A chamber required doors, locks, pressure, reinforced surfaces, localized controls. This system behaved differently.
-It distributed strain upward through structural lines that should have been independent. It fed signal into dormant
-mesh layers below mapped floors. It rerouted support around periods of what the oldest logs called “deep movement
-response.”
+A chamber required doors, locks, pressure, reinforced surfaces, localized controls. This
+system behaved differently. It distributed strain upward through structural lines that
+should have been independent. It fed signal into dormant mesh layers below mapped floors.
+It rerouted support around periods of what the oldest logs called “deep movement response.”
 
 Movement.
 
@@ -74,14 +74,14 @@ For the first time, she understood that it had never been symbolic.
 
 She was still staring at the maintenance clusters when Tavian found her.
 
-He should not have been in that section. Medical had no ordinary reason to be in old Central support storage. That
-meant he had either taken a risk to find her, or had known where she would end up once she stopped trusting official
-records.
+He should not have been in that section. Medical had no ordinary reason to be in
+old Central support storage. That meant he had either taken a risk to find her,
+or had known where she would end up once she stopped trusting official records.
 
 Possibly both.
 
-He looked worse than usual. Not tired now. Tension-thin. Like every sound in the room had already arrived in his body
-before he heard it.
+He looked worse than usual. Not tired now. Tension-thin. Like every
+sound in the room had already arrived in his body before he heard it.
 
 “You need to stop touching abyss support logs without a shadow excuse,” he said.
 
@@ -100,8 +100,8 @@ He laughed once, softly, without humor. “Helping is a generous word.”
 
 “Then why are you here?”
 
-Tavian glanced toward the dark between shelves before answering. “Because if you reach the wrong conclusion alone,
-they’ll call it instability.”
+Tavian glanced toward the dark between shelves before answering. “Because
+if you reach the wrong conclusion alone, they’ll call it instability.”
 
 “And if I reach it with you?”
 
@@ -151,9 +151,9 @@ A.C.T was not keeping ITHYOS in a cell. A.C.T was preserving a state of the worl
 
 That changed everything.
 
-It meant the abyss systems were not just support architecture. They were extensions of a global mercy. A manufactured
-continuity between human procedure and whatever condition kept the sleeping thing below from shifting fully toward
-waking.
+It meant the abyss systems were not just support architecture. They were extensions
+of a global mercy. A manufactured continuity between human procedure and whatever
+condition kept the sleeping thing below from shifting fully toward waking.
 
 Sera felt suddenly, absurdly small.
 
@@ -247,8 +247,8 @@ SLEEP-PRESERVATION MODEL
 
 Beneath it she wrote: - ITHYOS not chamber-contained - support systems preserve dormant state, not physical restraint
 - global seismic correlation suggests body movement during sleep - abyss maintenance is condition maintenance -
-NEMNOLIA viability may depend on dream-state stability - founders may have erased themselves because the support truth
-was unusable in full
+NEMNOLIA viability may depend on dream-state stability - founders may
+have erased themselves because the support truth was unusable in full
 
 She stopped there, then added one more line after a long time of staring at the cursor.
 

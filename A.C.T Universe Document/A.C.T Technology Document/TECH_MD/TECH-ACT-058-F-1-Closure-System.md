@@ -21,14 +21,12 @@
 | AUTHORITY | Deep-Hold Command, Site Director, and Central Archive |
 
 #### Archive Note
-The F-1 Closure System is the fifty-eighth main A.C.T technology expanded into an individual
-record. Redwood Veil's
+The F-1 Closure System is the fifty-eighth main A.C.T technology expanded into an individual record. Redwood Veil's
 F-1 floor dossier identifies the Hanging Vault as the deepest numbered floor of the
 complex and records its defining
 security procedure as closing F-1 to the outside. That closure cuts the access core,
 isolates the floor's service
-connections, and commits the floor to full self-containment until the triggering condition is resolved.
-The same
+connections, and commits the floor to full self-containment until the triggering condition is resolved. The same
 dossier states that closure is not a last resort but a standing option drilled
 across the site.
 
@@ -48,12 +46,10 @@ WHEN F-1 CLOSES, THE FLOOR STOPS BELONGING TO THE ROUTES ABOVE IT.
 
 ## FUNCTION SUMMARY
 
-The F-1 Closure System is the access, service, power, air, communication, and command isolation
-infrastructure that
+The F-1 Closure System is the access, service, power, air, communication, and command isolation infrastructure that
 allows Redwood Veil's Hanging Vault to seal itself from the rest of the complex.
 Its primary function is to prevent a
-high-inviolability resident or floor-level incident from using the floor's own connections as a route
-upward. It is
+high-inviolability resident or floor-level incident from using the floor's own connections as a route upward. It is
 designed around the single access core descending from F-2, the service ring around the
 vault gallery, independent
 emergency plant support, compartmented air handling, hardened communication, and command post procedures.
@@ -71,20 +67,16 @@ emergency self-containment, post-closure reentry control, and documentation of c
 
 ## ORIGIN AND DEVELOPMENT
 
-F-1 closure developed from an early containment incident in which Redwood Veil learned that
-a threat on the deepest
+F-1 closure developed from an early containment incident in which Redwood Veil learned that a threat on the deepest
 floor must never use the floor's infrastructure as an escape path. The details of
 that incident are not repeated in
-the floor dossier, but its consequence is visible in the site's operating language: every
-member of the site knows the
+the floor dossier, but its consequence is visible in the site's operating language: every member of the site knows the
 phrase F-1 closure.
 
-The Hanging Vault's architecture supports the doctrine. Resident vaults hang in independent structural shafts.
-Service
+The Hanging Vault's architecture supports the doctrine. Resident vaults hang in independent structural shafts. Service
 routes pass around the vault gallery rather than across it. Monitoring feeds the floor
 command post and central watch.
-Air handling is compartmented so one vault atmosphere cannot reach another. The closure system
-binds these pieces into
+Air handling is compartmented so one vault atmosphere cannot reach another. The closure system binds these pieces into
 one action: separate the terminal floor from everything above it.
 
 ---
@@ -196,20 +188,16 @@ drill is why
 service isolation points were relabelled and route diagrams were added to the board.
 
 Before closure, command confirms the trigger condition, resident restriction sets, personnel count, emergency plant
-readiness, medical risk, and whether F-2 must take supporting isolation action. Security clears the
-access core if
+readiness, medical risk, and whether F-2 must take supporting isolation action. Security clears the access core if
 time allows. Containment confirms vault status. Archive opens a closure event record.
 
-During closure, the access core is cut from normal passage, service connections are isolated,
-and F-1 enters full
-self-containment. Floor personnel follow resident-specific restrictions, maintain monitoring, and avoid unnecessary
-movement. Command communications remain hardened but disciplined; naming and description rules still follow resident
-restriction sets.
+During closure, the access core is cut from normal passage, service connections are isolated, and F-1 enters full
+self-containment. Floor personnel follow resident-specific restrictions, maintain
+monitoring, and avoid unnecessary movement. Command communications remain hardened
+but disciplined; naming and description rules still follow resident restriction sets.
 
-After closure, reentry requires confirmation that the triggering condition is resolved or contained, that
-service
-connections can be restored without creating an upward route, and that personnel inside the
-floor are medically and
+After closure, reentry requires confirmation that the triggering condition is resolved or contained, that service
+connections can be restored without creating an upward route, and that personnel inside the floor are medically and
 cognitively fit for extraction or debrief.
 
 ---
@@ -227,8 +215,7 @@ cognitively fit for extraction or debrief.
 
 No calendar interval is recorded; the system is drilled rather than serviced on a
 schedule, so interval NOT
-MEASURED. There is no consumable. The reentry overcheck review is why personnel are held
-against the
+MEASURED. There is no consumable. The reentry overcheck review is why personnel are held against the
 authorization lock rather than against elapsed time.
 
 ## FAULT ISOLATION
@@ -252,16 +239,14 @@ casually, but it must be activated without delay when doctrine requires it.
 
 Known failure modes include delayed authorization, partial service isolation, false all-clear, communication
 contamination, emergency plant load failure, vault-to-gallery pressure spread, F-2 route confusion, reentry
-overconfidence, and personnel panic. Training emphasizes that closure is a controlled loss, not a
-victory.
+overconfidence, and personnel panic. Training emphasizes that closure is a controlled loss, not a victory.
 
 ---
 
 ## FAILURE HISTORY
 
 ### F1-CS-Initial Doctrine Incident
-The founding incident of the closure doctrine is preserved in Redwood Veil history files
-and not repeated in floor
+The founding incident of the closure doctrine is preserved in Redwood Veil history files and not repeated in floor
 records. Its known result is the standing rule that a threat on F-1 must
 never use the floor's connections as a route
 upward.

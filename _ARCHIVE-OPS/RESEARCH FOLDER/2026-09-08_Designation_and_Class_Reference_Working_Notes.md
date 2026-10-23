@@ -11,18 +11,15 @@
 
 ## 1. Why this file exists
 
-The owner's standing instruction, in their words: every designation/class must carry an explanation —
-"like everyone
+The owner's standing instruction, in their words: every designation/class must carry an explanation — "like everyone
 will know the meaning of it" — because previous AI passes either left codes
 bare, shortened their explanations, or
 changed the meanings. This working file is the edit-side record of that instruction:
 
-The canonical reference (md + txt twin) is the authoritative in-universe document. It never
-says "draft." This file
+The canonical reference (md + txt twin) is the authoritative in-universe document. It never says "draft." This file
 records, for every code in the reference: whether the meaning is **canon text**, a
 **canon anchor with working
-expansion**, or a **working meaning drafted because canon lists the code only**. When the
-owner revises a meaning,
+expansion**, or a **working meaning drafted because canon lists the code only**. When the owner revises a meaning,
 edit the canonical entry **and** the matching row here, then append the change log
 (section 7).
 
@@ -32,8 +29,7 @@ edit the canonical entry **and** the matching row here, then append the change l
 
 **V** — the meaning in the canonical reference is canon text (verbatim or near-verbatim
 from the source record).
-**C+W** — canon provides the core meaning/anchor line; the canonical reference adds working expansion,
-reading
+**C+W** — canon provides the core meaning/anchor line; the canonical reference adds working expansion, reading
 examples, or confusion notes written for this reference. **W** — canon lists the code
 with no definition; the meaning
 in the canonical reference is the working interpretation drafted for this pass. Reviewable here.
@@ -82,8 +78,7 @@ All twelve classes: **V** for the defining line and meaning (Part Two §5, "Cont
 Class"), with reading examples
 and confusion notes added from the open register. Distribution of open files using each
 class (scanned 2026-09-08,
-top-level Modern/Legacy anomaly folders only): REACTIVE 28, INERT 9, UNDISCLOSED 7, SPORADIC 5, TIAMAT
-2, INTANGIBLE
+top-level Modern/Legacy anomaly folders only): REACTIVE 28, INERT 9, UNDISCLOSED 7, SPORADIC 5, TIAMAT 2, INTANGIBLE
 3, EXIGENT 3, RESIDUAL 2, UNENCLOSABLE 2, ENTROPIC 0, INVERTED 0, [BLANK] 0 (only
 the unfilled template file carries
 [BLANK]).
@@ -254,16 +249,13 @@ wants short codes (for example LOG-I style naming), that would be a new conventi
    state
    which scale is in use.
    Reference restates both; no file content changed.
-   **[BLANK] spelling discipline.** Class = unspaced `[BLANK]`; redaction = spaced `[ BLANK ]`.
-   Audits
+   **[BLANK] spelling discipline.** Class = unspaced `[BLANK]`; redaction = spaced `[ BLANK ]`. Audits
    should flag mixed
    spellings (the reference entry is the enforcement text).
-   **Registry continuity.** GOI live register ends at 050 (Liberty Freedoms). The next owner-directed
-   GOI
+   **Registry continuity.** GOI live register ends at 050 (Liberty Freedoms). The next owner-directed GOI
    should take 051
    unless the owner overrides. Roadmap §6 still governs: one new GOI per owner prompt.
-   **Box Class vs Containment Class confusion** — the owner's cited failure example. Reference
-   states
+   **Box Class vs Containment Class confusion** — the owner's cited failure example. Reference states
    both fields and
    their difference; no draft files corrected in this pass (audit would be a separate
    owner-approved sweep).
@@ -275,8 +267,7 @@ wants short codes (for example LOG-I style naming), that would be a new conventi
    official
    tables. The reference keeps `?.H`. Any
    draft file using `?H` or `.H` variants is non-standard (none found in this pass).
-    **Numbers with leading structure.** UFD/AFD registry is three digits, ANM four digits, GOI
-    three
+    **Numbers with leading structure.** UFD/AFD registry is three digits, ANM four digits, GOI three
     digits, sites two
     digits. Files that overflow or truncate these widths should be flagged in review.
 

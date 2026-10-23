@@ -12,10 +12,8 @@ in the Facility often made it the most dangerous of all.
 
 So instead she logged what procedure required and nothing more.
 
-The route mismatch became a deferred structural inconsistency pending legacy review. The medical slips
-returned to
-their drawer under restricted handling notation. The bloom reference in the margin was marked
-as an archival
+The route mismatch became a deferred structural inconsistency pending legacy review. The medical slips returned to
+their drawer under restricted handling notation. The bloom reference in the margin was marked as an archival
 contamination possibility, though she knew that was false the moment she wrote it. She
 sealed the ledgers, closed her
 desk, and left Lower Stack C with the slow controlled breathing of someone trying
@@ -24,12 +22,10 @@ seen the edge of something she could not name.
 
 The upper corridors were brighter than the archive descent and infinitely less comforting.
 
-At shift change the Facility entered one of its more human-looking hours. Guards rotated
-posts at the lift gates.
+At shift change the Facility entered one of its more human-looking hours. Guards rotated posts at the lift gates.
 Junior employees moved supply carts between East and Central. A pair of medics in
 silver-marked coats crossed an
-overhead passage carrying a sealed case between them with the deliberate speed of people
-transporting something that
+overhead passage carrying a sealed case between them with the deliberate speed of people transporting something that
 must not be dropped and must not be discussed. Somewhere behind reinforced walls, a
 transport alarm chimed twice and
 stopped. Nothing unusual. Everything unusual.
@@ -51,8 +47,7 @@ Not because she was afraid.
 
 Fear, in the Facility, was rarely dramatic. It settled into practical shapes. A second
 glance at a lock that had
-already closed. A hesitation before speaking a designation aloud. A habit of reading the
-same line three times because
+already closed. A hesitation before speaking a designation aloud. A habit of reading the same line three times because
 your memory had begun to feel less like certainty and more like weather.
 
 No, what kept her awake was not fear.
@@ -75,28 +70,22 @@ The next shift she arrived early enough to catch the archive floor before the
 room filled. The hanging light bars were
 still warming, and the aisles looked skeletal in the dim white pre-shift glow. She
 brewed a bitter cup from the staff
-dispenser, set it beside her terminal, and opened the reconciliation task under ordinary display
-priority. To anyone
+dispenser, set it beside her terminal, and opened the reconciliation task under ordinary display priority. To anyone
 watching, she was continuing routine cleanup.
 
 That was true.
 
 She had simply stopped believing routine meant harmless.
 
-The first thing she did was search for all pre-standard references connected to abyss-associated
-legacy transfers in
-the seventeen-year window before AFD-NB-004’s official discovery. The result should have been empty or
-near-empty.
-Instead she found seven discontinuous entries across five archive systems, most of them degraded,
-sealed, or
+The first thing she did was search for all pre-standard references connected to abyss-associated legacy transfers in
+the seventeen-year window before AFD-NB-004’s official discovery. The result should have been empty or near-empty.
+Instead she found seven discontinuous entries across five archive systems, most of them degraded, sealed, or
 redaction-spiked beyond usefulness.
 
 Not useless enough.
 
-One was a dead requisition request for specialized breathing masks tagged for “deep floral
-particulate interference.”
-Another was a preservation order for cloth samples stained with a substance initially logged
-as metallic pollen. A
+One was a dead requisition request for specialized breathing masks tagged for “deep floral particulate interference.”
+Another was a preservation order for cloth samples stained with a substance initially logged as metallic pollen. A
 third was so heavily revised that only a few lines of the original survived
 beneath later overstrike, but one of those
 surviving lines mentioned “gold discharge beneath the nail line.”
@@ -120,8 +109,7 @@ harmless in the way knives are harmless when left in drawers.
 
 “So are you.”
 
-“I’m always early when someone from memetic filtration decides redaction dust belongs in my
-aisles.” Mila deposited
+“I’m always early when someone from memetic filtration decides redaction dust belongs in my aisles.” Mila deposited
 the sleeves with a dry clatter. “You look like you slept in a ventilation
 shaft.”
 
@@ -156,16 +144,13 @@ as if nothing had been said at all.
 
 That should have helped. It did not.
 
-Sera waited until the floor settled into working rhythm again, then reopened the search.
-This time she stopped looking
+Sera waited until the floor settled into working rhythm again, then reopened the search. This time she stopped looking
 at content and started looking at signatures.
 
 People lied. Paper lied. But patterns of handwriting lied differently.
 
-She pulled up scanned ledger margins, transfer initials, review marks, seal notations. At first
-the result looked like
-noise. Different centuries of pen pressure. Different inks. Different levels of fatigue. Then one
-little inconsistency
+She pulled up scanned ledger margins, transfer initials, review marks, seal notations. At first the result looked like
+noise. Different centuries of pen pressure. Different inks. Different levels of fatigue. Then one little inconsistency
 split open the whole field.
 
 A looping capital on a review note in an early abyss transfer record matched
@@ -230,10 +215,8 @@ Instead she turned toward something safer. Construction history.
 If the route codes were false, the walls might still remember better than the
 records.
 
-A.C.T was a machine built in layers, additions, corrections, and buried expansions. Floor plans
-changed. Wings grew.
-Central was reinforced, split, and rerouted as the decades demanded. But old construction systems
-left residue in the
+A.C.T was a machine built in layers, additions, corrections, and buried expansions. Floor plans changed. Wings grew.
+Central was reinforced, split, and rerouted as the decades demanded. But old construction systems left residue in the
 archive: requisition numbers, shaft diagrams, elevator maintenance records, old pressure charts, dead ventilation
 maps. No one rewrote all of it perfectly.
 
@@ -245,8 +228,7 @@ arrow and an obsolete hazard seal.
 
 The branch had no official destination.
 
-But a handwritten notation—later scraped, not fully removed—still survived in the scan when viewed
-at low contrast.
+But a handwritten notation—later scraped, not fully removed—still survived in the scan when viewed at low contrast.
 
 **keep line clear for return**
 
@@ -258,16 +240,14 @@ Not descent. Return.
 
 Meaning whoever wrote it had expected something—or someone—to come back up.
 
-She ran the branch through later structural overlays. The route vanished from every official
-model after a certain
+She ran the branch through later structural overlays. The route vanished from every official model after a certain
 date, but support systems kept referencing a dead load-bearing line in that region for
 decades. Coolant diversion.
 Lift stress. reinforced cabling. Nothing dramatic by itself.
 
 Together, it looked like an erased road still being quietly maintained underground.
 
-By the time the second-quarter signal passed through the floor, Sera’s reconciliation pad was
-full of disguised notes,
+By the time the second-quarter signal passed through the floor, Sera’s reconciliation pad was full of disguised notes,
 cross-tags, and transposed shorthand that only she would know how to read back into
 meaning.
 
@@ -286,10 +266,8 @@ She should have stopped.
 
 Instead she went to Medical.
 
-Not officially. Not through a request chain. Medical and Archive shared a narrow service
-corridor near the lower
-administration junction, used mostly for hand-delivered contamination notices and records that were too sensitive
-to
+Not officially. Not through a request chain. Medical and Archive shared a narrow service corridor near the lower
+administration junction, used mostly for hand-delivered contamination notices and records that were too sensitive to
 trust to open routing. Sera timed her walk between transport cycles and found the
 corridor empty except for a
 half-loaded linen cart and the hum of the sterilization vents beyond the locked inner
@@ -299,8 +277,7 @@ She waited there until someone came through.
 
 It was not a stranger.
 
-Tavian Holt, junior medical records technician, Level 2, careful posture, tired eyes, the sort
-of man who always
+Tavian Holt, junior medical records technician, Level 2, careful posture, tired eyes, the sort of man who always
 looked as if he had slept in segments rather than hours.
 
 He slowed when he saw her.
@@ -315,8 +292,7 @@ He slowed when he saw her.
 
 “On?”
 
-Sera chose her words with surgical care. “Historical amnestic notation. Pre-standard coding drift. I
-hit a symptom
+Sera chose her words with surgical care. “Historical amnestic notation. Pre-standard coding drift. I hit a symptom
 profile that may not map correctly to later 004 classifications.”
 
 Tavian looked at her for a long moment.
@@ -326,8 +302,7 @@ wish I’d taken the long corridor?”
 
 “Casually,” Sera lied.
 
-He sighed. “Then I’ll answer casually. Pre-standard medical language is garbage. Half of it
-got retrofitted after the
+He sighed. “Then I’ll answer casually. Pre-standard medical language is garbage. Half of it got retrofitted after the
 fact.”
 
 “Could 004-linked symptoms appear in records before official anomaly recovery?”
@@ -400,8 +375,7 @@ Just a sentence.
 She encrypted it under a standard notation shell and buried it in her task
 file.
 
-Then she closed the terminal, signed out, and walked back through the ordinary-seeming corridors
-of the Facility
+Then she closed the terminal, signed out, and walked back through the ordinary-seeming corridors of the Facility
 while, far below, something slept beneath the Earth and a flower bloomed in memory
 of it.
 

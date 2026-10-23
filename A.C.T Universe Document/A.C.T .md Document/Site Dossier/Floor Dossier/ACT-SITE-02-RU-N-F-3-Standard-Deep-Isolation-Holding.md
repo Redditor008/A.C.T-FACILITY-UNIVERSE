@@ -17,21 +17,17 @@
 
 ## Archive Note
 
-This file is the complete individual record of **F-3, the Standard Deep-Isolation Holding**, the
-third-deepest
+This file is the complete individual record of **F-3, the Standard Deep-Isolation Holding**, the third-deepest
 numbered floor of **ACT-SITE-02-RU-N, White Grave Station**.
 
-F-3 is the station's main holding level: the floor for anomalies requiring cold suppression
-or long-term isolation
+F-3 is the station's main holding level: the floor for anomalies requiring cold suppression or long-term isolation
 under standard conditions. The floor contains biological suppression chambers and climate-controlled individual
-holding units — the working infrastructure of an installation whose entire purpose is the
-long, cold containment of
+holding units — the working infrastructure of an installation whose entire purpose is the long, cold containment of
 what must not thrive.
 
 This dossier records the floor in full institutional language: what it is, what it
 holds, how it is built, how it is
-run, and how standard holding at White Grave is different from standard holding anywhere
-else.
+run, and how standard holding at White Grave is different from standard holding anywhere else.
 
 ---
 
@@ -39,13 +35,11 @@ else.
 
 **Site Designation:** ACT-SITE-02-RU-N **Site Codename:** White Grave Station **Floor Designation:** F-3 **Floor
 Name:** Standard Deep-Isolation Holding **Floor Type:** Main Holding Level **Vertical Position:** Third-deepest
-numbered floor of the station **Floor Above:** F-4 (Research and Biological Study) **Floor Below:**
-F-2 (Entropic and
+numbered floor of the station **Floor Above:** F-4 (Research and Biological Study) **Floor Below:** F-2 (Entropic and
 Unstable Resident Holding) **Containment Character:** Cold-suppression and long-term isolation holding under standard
 station doctrine **Primary Function:** Holding of anomalies requiring cold suppression or long-term isolation, in
 biological suppression chambers and climate-controlled individual holding units **Access Posture:** Controlled
-operational access under standard holding doctrine **Current Status:** Active **Scale Note:** The main holding
-level
+operational access under standard holding doctrine **Current Status:** Active **Scale Note:** The main holding level
 of the station by population
 
 ---
@@ -61,8 +55,7 @@ define the station's mission.
 
 F-3 is the station's answer to its own question. The station exists for cold,
 deep, long containment; F-3 is where
-that containment is performed for the working population of the facility — in biological
-suppression chambers and
+that containment is performed for the working population of the facility — in biological suppression chambers and
 climate-controlled holding units, under the standard doctrines that the deeper floors exist to exceed.
 
 ---
@@ -79,14 +72,12 @@ live.
 
 ### 3.2 Relationship to F-4
 
-F-3 coordinates with the Research and Biological Study floor above: material held on F-3
-is studied on F-4 under
+F-3 coordinates with the Research and Biological Study floor above: material held on F-3 is studied on F-4 under
 controlled conditions, and research findings inform the holding regimens administered on F-3.
 
 ### 3.3 Relationship to F-2
 
-Material held on F-3 that demonstrates entropic properties, or whose instability exceeds the floor's
-capacity, is
+Material held on F-3 that demonstrates entropic properties, or whose instability exceeds the floor's capacity, is
 transferred down to F-2 under the station's escalation doctrine. F-3 is the station's sorting
 level: most residents
 remain, and the rest move down according to their demonstrated character.
@@ -97,19 +88,15 @@ remain, and the rest move down according to their demonstrated character.
 
 ### 4.1 Development of the Standard Holding Floor
 
-F-3's character developed with the station's mission: as White Grave's purpose came into focus
-as cold, deep, long
-containment, the station developed a standard holding doctrine for the residents that required cold
-suppression or
+F-3's character developed with the station's mission: as White Grave's purpose came into focus as cold, deep, long
+containment, the station developed a standard holding doctrine for the residents that required cold suppression or
 long-term isolation without needing the extreme measures of the deeper floors.
 
 ### 4.2 The Suppression and Isolation Standard
 
 The floor's defining infrastructure — biological suppression chambers and climate-controlled individual holding units
-— was developed as the station's standard response to its typical resident: material that
-must be held cold, held
-suppressed, and held long, under conditions that prevent activity without requiring the maximum reinforcement
-of the
+— was developed as the station's standard response to its typical resident: material that must be held cold, held
+suppressed, and held long, under conditions that prevent activity without requiring the maximum reinforcement of the
 deep floors.
 
 ### 4.3 Modern Configuration
@@ -130,16 +117,14 @@ Chief**. The Holding Chief administers the floor's chamber operations, intake as
 ### 5.2 Authority over Residents
 
 The Holding Chief holds standard custodial authority over the floor's residents: chamber assignment, suppression
-schedules, and routine handling under the station's standard holding doctrine. Disposition decisions are made
-above
+schedules, and routine handling under the station's standard holding doctrine. Disposition decisions are made above
 the floor.
 
 ### 5.3 Authority Limits
 
 F-3 holds no authority to release residents from the station, to transfer material to
 restricted holding on its own
-judgment, or to approve research on its residents beyond standard observation. Its role is
-to hold the standard
+judgment, or to approve research on its residents beyond standard observation. Its role is to hold the standard
 population safely and to recognize when a resident no longer belongs on the floor.
 
 ---
@@ -153,14 +138,12 @@ control, and the documentation that accompanies every resident in the station's 
 
 ### 6.2 Security Division
 
-Security guards the floor's access architecture and the holding unit rows, and enforces the
-handling rules that govern
+Security guards the floor's access architecture and the holding unit rows, and enforces the handling rules that govern
 movement of material within the floor and between floors.
 
 ### 6.3 Medical Division Liaison
 
-Medical personnel coordinate with F-3 on the biological aspects of the floor's holding work:
-suppression monitoring,
+Medical personnel coordinate with F-3 on the biological aspects of the floor's holding work: suppression monitoring,
 biological assessment, and the medical dimensions of the station's containment doctrine.
 
 ### 6.4 Research Division Liaison
@@ -193,23 +176,20 @@ chambers**:
 
 The floor's suppression chambers are engineered for material that must be held in a
 suppressed state: controlled
-environments where biological activity is held below the threshold of concern under the station's
-suppression
+environments where biological activity is held below the threshold of concern under the station's suppression
 doctrine. Chambers are individually regulated and continuously monitored.
 
 ### 7.3 Climate-Controlled Holding Units
 
 The floor's individual holding units are climate-controlled environments matched to each resident's cold-suppression
-or long-term isolation requirements. Units are arranged in rows served by handling corridors and
-monitoring galleries,
+or long-term isolation requirements. Units are arranged in rows served by handling corridors and monitoring galleries,
 under the station's standard deep-isolation doctrine.
 
 ### 7.4 Construction Standard
 
-F-3 is built to the station's standard holding specification: robust unit construction, compartmented services,
-and
-the cold-capable infrastructure the station's environment demands. The floor is designed for durability and
-long-duration holding.
+F-3 is built to the station's standard holding specification: robust unit construction, compartmented services, and
+the cold-capable infrastructure the station's environment demands.
+The floor is designed for durability and long-duration holding.
 
 ---
 
@@ -217,8 +197,7 @@ long-duration holding.
 
 ### 8.1 Power
 
-F-3 draws on the station's main supply with standard emergency backup. Individual unit monitoring
-and suppression
+F-3 draws on the station's main supply with standard emergency backup. Individual unit monitoring and suppression
 circuits are protected against interruption.
 
 ### 8.2 Environment
@@ -229,8 +208,7 @@ deep-cold holding possible at scale.
 
 ### 8.3 Monitoring
 
-Every unit and chamber on F-3 is under continuous monitoring: structural, environmental, biological, and
-behavioral.
+Every unit and chamber on F-3 is under continuous monitoring: structural, environmental, biological, and behavioral.
 Monitoring data flows to the floor command post and the station's central watch.
 
 ### 8.4 Communication
@@ -252,15 +230,13 @@ within the floor is governed by the handling rules of the material being accesse
 ### 9.2 Unit Access
 
 Unit access follows standard holding procedure: authorized personnel, documented handling, and observation maintained
-throughout. Most routine work on F-3 is conducted through the monitoring architecture rather than
-through physical
+throughout. Most routine work on F-3 is conducted through the monitoring architecture rather than through physical
 entry.
 
 ### 9.3 Suppression Administration
 
 The floor's suppression work is administered under the station's suppression doctrine: schedules are documented,
-chambers are monitored, and suppression states are verified continuously. The administration of suppression is
-treated
+chambers are monitored, and suppression states are verified continuously. The administration of suppression is treated
 as a containment procedure.
 
 ### 9.4 Transfer Procedures
@@ -278,8 +254,7 @@ Both routes are documented under the station's chain-of-custody standard.
 
 ### 10.1 Filing Doctrine
 
-F-3's resident manifest is preserved in the clearance-gated White Grave Annex Register. This dossier
-confirms the
+F-3's resident manifest is preserved in the clearance-gated White Grave Annex Register. This dossier confirms the
 general character of the floor's holdings without enumerating them.
 
 ### 10.2 Holding Character
@@ -291,14 +266,12 @@ F-3 holds anomalies requiring:
   extended periods in climate-controlled units under standard station
   doctrine.
 
-The floor's population is the station's working holding class: the material that defines the
-station's daily mission
+The floor's population is the station's working holding class: the material that defines the station's daily mission
 without requiring the extreme measures of the deeper floors.
 
 ### 10.3 Holding Note
 
-The station's signature resident is held under the station's authority in accordance with its
-containment and study
+The station's signature resident is held under the station's authority in accordance with its containment and study
 doctrine. F-3's own population is documented in the Annex Register under standard holding procedure.
 
 ---
@@ -313,8 +286,7 @@ standard-hold staff, supported by Security, Medical, Research, and Archive perso
 
 ### 11.2 Duty Life
 
-Duty on F-3 is the station's core containment work: monitoring rounds, suppression administration, documentation,
-and
+Duty on F-3 is the station's core containment work: monitoring rounds, suppression administration, documentation, and
 the long, patient labor of holding material that will be held for years. The
 floor's rhythm is slow by the standards
 of other installations — the station's work is measured in long durations, and its
@@ -323,8 +295,7 @@ tempo.
 
 ### 11.3 The Cold Tempo
 
-The floor's personnel work under the station's cold tempo: containment at White Grave is
-patient, deliberate, and
+The floor's personnel work under the station's cold tempo: containment at White Grave is patient, deliberate, and
 long. Personnel on F-3 learn the station's defining skill — the ability to maintain
 exacting standards over durations
 that would exhaust personnel at faster facilities.
@@ -342,25 +313,21 @@ lapse.
 
 ### 12.2 Suppression Doctrine
 
-F-3 doctrine holds that suppression is containment: the floor's biological suppression chambers hold material
-in
+F-3 doctrine holds that suppression is containment: the floor's biological suppression chambers hold material in
 states below the threshold of concern, and the administration of those states is a
 containment procedure subject to
 the station's exacting standards.
 
 ### 12.3 Sorting Doctrine
 
-F-3 doctrine holds that the floor is a sorting level: material that demonstrates entropic
-character moves down,
-material approved for research moves up, and the floor's duty includes recognizing both movements
-without delay.
+F-3 doctrine holds that the floor is a sorting level: material that demonstrates entropic character moves down,
+material approved for research moves up, and the floor's duty includes recognizing both movements without delay.
 
 ---
 
 ## 13. Incident Archive
 
-The floor's incident record is dominated by routine containment events: suppression incidents, monitoring alarms,
-and
+The floor's incident record is dominated by routine containment events: suppression incidents, monitoring alarms, and
 documentation discrepancies. Because the floor's population is held under mature standard doctrine, major incidents
 are rare; when they occur, they are recorded as the station's holding lessons and
 reflected in doctrine.
@@ -392,8 +359,7 @@ priorities include:
 
 ## Archive Closing
 
-F-3, the Standard Deep-Isolation Holding, is the working floor of White Grave Station: the
-main holding level where
+F-3, the Standard Deep-Isolation Holding, is the working floor of White Grave Station: the main holding level where
 anomalies requiring cold suppression or long-term isolation are kept in biological suppression chambers and
 climate-controlled individual units, under the standard doctrines that define the station's mission.
 

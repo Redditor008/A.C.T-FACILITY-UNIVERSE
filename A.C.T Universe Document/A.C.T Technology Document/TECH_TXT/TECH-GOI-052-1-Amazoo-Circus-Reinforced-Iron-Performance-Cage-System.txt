@@ -189,8 +189,7 @@ Handling Limits And Weaknesses
 - Weakest where a desk under pressure needs restraint hardware.
 - Weakest where the cage is described only by its strength.
 
-Alloy, lock, anchoring, and inventory values are NOT MEASURED, and the fabrication source remains
-open.
+Alloy, lock, anchoring, and inventory values are NOT MEASURED, and the fabrication source remains open.
 
 
 
@@ -268,8 +267,7 @@ the testimony of the person who was inside it.
 
 The cage also cannot be assessed as effective restraint, and A.C.T declines to try.
 Rating it would require loading it, and the only available subjects are survivors. The
-Facility accepts an incomplete engineering record rather than produce a complete one at that
-cost.
+Facility accepts an incomplete engineering record rather than produce a complete one at that cost.
 
 
 

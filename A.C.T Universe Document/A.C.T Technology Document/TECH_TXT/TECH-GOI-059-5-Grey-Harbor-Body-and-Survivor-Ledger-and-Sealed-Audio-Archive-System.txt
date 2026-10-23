@@ -39,11 +39,11 @@ TECHNOLOGY RECORD - GREY HARBOR BODY AND SURVIVOR LEDGER AND SEALED AUDIO ARCHIV
 
 ARCHIVE NOTE
 
-This record covers the body and survivor ledger and the sealed audio archive by which Grey Harbor Civil Rescue
-Directorate keeps casualty continuity where the public record cannot. The dossier names body and survivor ledgers kept
-outside public casualty databases, sealed audio archives from impossible calls, the Directorate's capacity to preserve
-emergency calls from places later listed as empty, and responder memory-care files. A.C.T holds no ledger volume and
-no sealed audio.
+This record covers the body and survivor ledger and the sealed audio archive by which Grey Harbor
+Civil Rescue Directorate keeps casualty continuity where the public record cannot. The dossier
+names body and survivor ledgers kept outside public casualty databases, sealed audio archives from
+impossible calls, the Directorate's capacity to preserve emergency calls from places later listed
+as empty, and responder memory-care files. A.C.T holds no ledger volume and no sealed audio.
 
 The ledger's defining choice is where it is kept. By staying outside the public casualty database it can contradict a
 public-cover narrative, and the dossier records that Grey Harbor maintains records that may contradict A.C.T
@@ -51,11 +51,10 @@ narratives. Filing the ledger into a public database would remove its only disti
 prohibition rather than treating the separation as an administrative preference.
 
 The sealed audio is the harder half. The recorded transcript has a unit reporting the same street with different
-water, nine people on a roof, and one voice under a boat saying he is still at home. The dispatcher
-ordered the roof pulled first. The audio remains sealed because the voice under the boat matched a civilian later
-found alive inside an apartment three blocks away. A.C.T records the transcript as evidence that a person existed and
-was heard, not as evidence about a location, and does not treat the mismatch as a reason to dismiss the
-call.
+water, nine people on a roof, and one voice under a boat saying he is still at home. The dispatcher ordered the
+roof pulled first. The audio remains sealed because the voice under the boat matched a civilian later found
+alive inside an apartment three blocks away. A.C.T records the transcript as evidence that a person existed and
+was heard, not as evidence about a location, and does not treat the mismatch as a reason to dismiss the call.
 
 Controlled label: SURVIVOR LEDGER AND SEALED AUDIO RULE.
 
@@ -67,10 +66,10 @@ AN IMPOSSIBLE CALL IS EVIDENCE OF A PERSON, NOT OF A PLACE. PULL THE ROOF FIRST.
 
 FUNCTION SUMMARY
 
-The ledger records bodies and survivors outside the public casualty system, so that a count can be kept that a
-public-cover narrative does not have to agree with. The sealed audio archive preserves emergency calls from places
-later listed as empty, so that a person heard once is still on record when the place they called from
-no longer appears anywhere.
+The ledger records bodies and survivors outside the public casualty system, so that a count
+can be kept that a public-cover narrative does not have to agree with. The sealed audio
+archive preserves emergency calls from places later listed as empty, so that a person heard
+once is still on record when the place they called from no longer appears anywhere.
 
 - keeps a casualty count independent of the public database;
 - preserves calls from locations later listed as empty;
@@ -78,9 +77,9 @@ no longer appears anywhere.
 - supports family notification where the public cause cannot be named;
 - holds responder memory-care files alongside the operational record.
 
-A.C.T keeps its own casualty records inside Central Archive, tied to a public cover. The Grey Harbor ledger is
-deliberately untied, which is why it can contradict the cover and why A.C.T depends on it during an incident even
-while unable to file it.
+A.C.T keeps its own casualty records inside Central Archive, tied to a public cover.
+The Grey Harbor ledger is deliberately untied, which is why it can contradict the
+cover and why A.C.T depends on it during an incident even while unable to file it.
 
 
 ORIGIN AND CUSTODY
@@ -225,9 +224,9 @@ SERVICING AND CALIBRATION
 | Memory-care query log      | On any query, recorded without request                                                |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-The empty-place register is the row that keeps the archive honest about location. Each year it lists the places
-recorded as empty that nonetheless produced a call. Repeating that list is what stops a later file from concluding
-that those places were quiet.
+The empty-place register is the row that keeps the archive honest about location. Each
+year it lists the places recorded as empty that nonetheless produced a call. Repeating
+that list is what stops a later file from concluding that those places were quiet.
 
 
 FAULT ISOLATION
@@ -249,9 +248,9 @@ FAULT ISOLATION
 | Memory-care file requested | Routine request breach                    | Withdraw; state the need                  |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 
-The first row is the fault the recorded transcript exists to prevent. The dispatcher's answer to an unresolvable
-location was to pull the roof first, which is the ordering this record adopts: confirmed living persons before
-location verification.
+The first row is the fault the recorded transcript exists to prevent. The dispatcher's
+answer to an unresolvable location was to pull the roof first, which is the ordering
+this record adopts: confirmed living persons before location verification.
 
 
 KNOWN LIMITS
@@ -274,9 +273,9 @@ a person and records the location mismatch without treating it as grounds for di
 
 SAME STREET, DIFFERENT WATER — UNRESOLVED
 
-The transcript records a unit reporting the same street with different water, and a dispatcher who could not resolve
-it. A.C.T has no explanation and no test route, and adopts the dispatcher's ordering as procedure: pull the roof
-first.
+The transcript records a unit reporting the same street with different water,
+and a dispatcher who could not resolve it. A.C.T has no explanation and no test
+route, and adopts the dispatcher's ordering as procedure: pull the roof first.
 
 MEMORY-CARE FILES — UNEXAMINED
 

@@ -21,14 +21,10 @@
 | AUTHORITY | Historical Engineering Archive, Materials Custody, and Central Archive |
 
 #### Archive Note
-High-Density Lead Vaulting is the fifty-second main A.C.T technology expanded into an individual record.
-The
-Technological Evolution Timeline places HDLV in 1598 during the Foundational Era and records the
-identification of
-shielding properties in refined lead, used to secure the foundational artifacts. Later A.C.T shielding
-traditions
-evolved into High-Density Liquid Lead, Abyssal Masonry, Abyssal Anchor Plating, and other active barrier
-systems, but
+High-Density Lead Vaulting is the fifty-second main A.C.T technology expanded into an individual record. The
+Technological Evolution Timeline places HDLV in 1598 during the Foundational Era and records the identification of
+shielding properties in refined lead, used to secure the foundational artifacts. Later A.C.T shielding traditions
+evolved into High-Density Liquid Lead, Abyssal Masonry, Abyssal Anchor Plating, and other active barrier systems, but
 HDLV remains the earliest preserved example of A.C.T treating material density as containment doctrine.
 
 HDLV is not impressive because it is old. It is important because it is
@@ -47,50 +43,38 @@ A LEAD VAULT CAN HIDE A HAZARD. IT CANNOT PROVE THE HAZARD IS QUIET.
 
 ## FUNCTION SUMMARY
 
-High-Density Lead Vaulting is a passive shielding method built from refined dense lead, layered
-stone support, and
-early archival enclosure logic. It was designed to secure foundational artifacts before A.C.T possessed
-modern RSA
-support, ARM masking, QNB protection, causal sensors, or current containment classifications. Its primary role
-was
+High-Density Lead Vaulting is a passive shielding method built from refined dense lead, layered stone support, and
+early archival enclosure logic. It was designed to secure foundational artifacts before A.C.T possessed modern RSA
+support, ARM masking, QNB protection, causal sensors, or current containment classifications. Its primary role was
 simple: place mass between the artifact and the world, reduce emission, deny casual handling,
 and keep the object from
 being mistaken for an ordinary relic.
 
-Modern HDLV remains in limited service only where legacy artifacts are still seated inside
-original vault housings or
-where an older vault cannot be safely dismantled without disturbing what it contains. It
-is also used as a reference
-point in training, because later systems such as High-Density Liquid Lead carry lead's shielding
-logic into fluid and
+Modern HDLV remains in limited service only where legacy artifacts are still seated inside original vault housings or
+where an older vault cannot be safely dismantled without disturbing what it contains. It is also used as a reference
+point in training, because later systems such as High-Density Liquid Lead carry lead's shielding logic into fluid and
 monitored formats.
 
-Approved roles include inherited artifact shielding, historical vault preservation, passive radiation and
-restricted-energy reduction, quarantine of old lead-lined compartments, and comparison study for modern shielding
-retrofits.
+Approved roles include inherited artifact shielding, historical vault
+preservation, passive radiation and restricted-energy reduction, quarantine of
+old lead-lined compartments, and comparison study for modern shielding retrofits.
 
 ---
 
 ## ORIGIN AND DEVELOPMENT
 
-The Foundational Era relied on physical containment and passive barrier logic. A.C.T had not
-yet developed a modern
+The Foundational Era relied on physical containment and passive barrier logic. A.C.T had not yet developed a modern
 site network, formal anomaly doctrine, or high-resolution classification. Early operators learned by surviving. In
-1598, refined lead became one of the first materials treated as an institutional technology
-rather than ordinary
+1598, refined lead became one of the first materials treated as an institutional technology rather than ordinary
 construction stock.
 
-The earliest lead vaults were built around foundational artifacts that could not be trusted
-in open storage. The
-method grew from practical observation: dense lead reduced certain emissions, muffled some artifact effects,
-and made
-unauthorized inspection physically difficult. It also gave early record keepers a simple rule that
-could be enforced
+The earliest lead vaults were built around foundational artifacts that could not be trusted in open storage. The
+method grew from practical observation: dense lead reduced certain emissions, muffled some artifact effects, and made
+unauthorized inspection physically difficult. It also gave early record keepers a simple rule that could be enforced
 without advanced instruments: if an item was lead-vaulted, it was not to be opened
 for curiosity.
 
-Modern engineers do not romanticize the system. HDLV solved some problems while hiding others.
-It could block, dull,
+Modern engineers do not romanticize the system. HDLV solved some problems while hiding others. It could block, dull,
 and isolate, but it could not monitor. That weakness is why later A.C.T technologies
 developed sensors, flow meters,
 resonance mapping, and active stabilization.
@@ -99,12 +83,9 @@ resonance mapping, and active stabilization.
 
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
-A standard inherited HDLV installation consists of refined lead panels, layered masonry backing, thick
-mechanical
-hinges, weight-bearing floor stone, sealed access seams, and archive tags that may predate modern
-designation rules.
-Some compartments also include lead-lined glass, waxed ledger pockets, or iron outer straps added
-during later
+A standard inherited HDLV installation consists of refined lead panels, layered masonry backing, thick mechanical
+hinges, weight-bearing floor stone, sealed access seams, and archive tags that may predate modern designation rules.
+Some compartments also include lead-lined glass, waxed ledger pockets, or iron outer straps added during later
 repairs.
 
 Known components include:
@@ -202,24 +183,17 @@ residue is bagged as both toxic material and possible anomalous evidence, which 
 standing reading of
 the 1680 weep record.
 
-Before work near HDLV, Materials Custody verifies whether the vault is active storage, retired
-housing, or sealed
-historical evidence. Site Safety checks lead exposure, dust risk, floor load, and ventilation. Archive
-confirms
-whether opening the vault would disturb a founding record chain. Engineering confirms whether the
-lead is load-bearing
+Before work near HDLV, Materials Custody verifies whether the vault is active storage, retired housing, or sealed
+historical evidence. Site Safety checks lead exposure, dust risk, floor load, and ventilation. Archive confirms
+whether opening the vault would disturb a founding record chain. Engineering confirms whether the lead is load-bearing
 or only a shield layer.
 
-Opening a legacy vault requires written authorization. Staff must not drill, cut, scrape, polish,
-heat, or chemically
-clean lead surfaces without hazardous-material control. If the vault contains an unknown artifact, modern
-non-contact
-survey is preferred before direct access. If the vault cannot be scanned because shielding
-blocks the instrument, the
+Opening a legacy vault requires written authorization. Staff must not drill, cut, scrape, polish, heat, or chemically
+clean lead surfaces without hazardous-material control. If the vault contains an unknown artifact, modern non-contact
+survey is preferred before direct access. If the vault cannot be scanned because shielding blocks the instrument, the
 vault is treated as withholding information rather than as empty.
 
-After inspection, all dust, wipes, gloves, and contact tools are logged. Lead residue from
-legacy vaults is evidence
+After inspection, all dust, wipes, gloves, and contact tools are logged. Lead residue from legacy vaults is evidence
 until Site Safety and Archive both release it.
 
 ---
@@ -254,17 +228,14 @@ inconclusive rather than clear.
 
 ## KNOWN LIMITS
 
-HDLV is passive. It cannot correct reality drift, prevent narrative rewrite, identify changes in
-the artifact, or warn
+HDLV is passive. It cannot correct reality drift, prevent narrative rewrite, identify changes in the artifact, or warn
 staff when the object inside becomes active. It is also toxic and heavy. A
 lead vault can become a second containment
 problem if it sheds dust, deforms under its own weight, or traps hazardous residue
 in seams.
 
-Known failure modes include panel creep, hinge fatigue, seam leakage, lead dust exposure, false
-quiet, blocked sensor
-readings, mislabeled contents, archive chain loss, and staff assuming that old containment is stable
-containment. HDLV
+Known failure modes include panel creep, hinge fatigue, seam leakage, lead dust exposure, false quiet, blocked sensor
+readings, mislabeled contents, archive chain loss, and staff assuming that old containment is stable containment. HDLV
 is respected, but it is not trusted alone.
 
 ---
@@ -274,20 +245,17 @@ is respected, but it is not trusted alone.
 ### HDLV-1680 Seam Weep Record
 A hand ledger notes a sealed compartment leaving grey residue along a lower seam.
 The artifact inside was never
-identified in that ledger. Current doctrine treats seam residue as both toxic material and
-possible anomalous
+identified in that ledger. Current doctrine treats seam residue as both toxic material and possible anomalous
 evidence.
 
 ### HDLV-1952 Retrofit Misread
-A refit team assumed a lead-lined historical locker was empty because instruments returned no
-reading. Later
+A refit team assumed a lead-lined historical locker was empty because instruments returned no reading. Later
 inspection found the shielding had blocked the scan. The event helped shape the rule
 that no reading through lead is
 not proof of no artifact.
 
 ### HDLV-2004 Liquid Lead Comparison
-Engineering review during High-Density Liquid Lead development used HDLV as the baseline for lead
-shielding logic. The
+Engineering review during High-Density Liquid Lead development used HDLV as the baseline for lead shielding logic. The
 review confirmed that solid lead remained useful but too rigid for dust, residue, and
 seam-hunting hazards.
 
@@ -296,10 +264,8 @@ seam-hunting hazards.
 ## DIVISION USE
 
 Historical Engineering Archive preserves design records and inherited vault layouts. Materials Custody controls lead
-panels, fragments, and shielding samples. Artifact Storage manages legacy rooms that still contain HDLV
-compartments.
-Site Safety controls toxic exposure. Archive protects founding-era ledgers and warns staff when an
-old vault is also
+panels, fragments, and shielding samples. Artifact Storage manages legacy rooms that still contain HDLV compartments.
+Site Safety controls toxic exposure. Archive protects founding-era ledgers and warns staff when an old vault is also
 an old record.
 
 Standing reminder: the first shield was heavy because A.C.T had not yet learned how

@@ -21,10 +21,8 @@
 | AUTHORITY | Campus Manager, Sub-Site Chief, Redwood Veil Site Command, and Central Archive |
 
 #### Archive Note
-Agricultural Biotech Cover Campus is the ninety-second main A.C.T technology expanded into an individual
-record. The
-Glass Orchard Relay dossier identifies the relay's cover identity as an agricultural biotech station:
-a
+Agricultural Biotech Cover Campus is the ninety-second main A.C.T technology expanded into an individual record. The
+Glass Orchard Relay dossier identifies the relay's cover identity as an agricultural biotech station: a
 greenhouse-and-laboratory complex producing genetically improved crops. The F-3 Surface Cover Level dossier identifies
 the surface campus as greenhouses, legitimate research laboratories, administrative buildings, restricted growing
 areas, and concealed transition architecture.
@@ -45,8 +43,7 @@ GROW REAL WORK ABOVE THE HIDDEN WORK.
 
 ## FUNCTION SUMMARY
 
-The Agricultural Biotech Cover Campus is the F-3 surface system that makes Glass Orchard
-Relay visible as a private
+The Agricultural Biotech Cover Campus is the F-3 surface system that makes Glass Orchard Relay visible as a private
 agricultural research station rather than a containment support installation. It combines working greenhouses,
 legitimate laboratories, restricted growing areas, public-facing administration, delivery routines, staff schedules,
 crop-improvement research, greenhouse climate systems, and campus record continuity.
@@ -54,10 +51,8 @@ crop-improvement research, greenhouse climate systems, and campus record continu
 ABCC is not the same as a generic cover identity. It is the physical
 and operational reason the relay can exist in a
 rural low-visibility setting with climate-controlled structures, laboratories, restricted spaces, security,
-deliveries, and unusual staff hours. The cover is effective because its science is genuine.
-Visitors who look at the
-surface find glasshouses, researchers, crops, laboratory notes, and administrative records that belong where they
-are.
+deliveries, and unusual staff hours. The cover is effective because its science is genuine. Visitors who look at the
+surface find glasshouses, researchers, crops, laboratory notes, and administrative records that belong where they are.
 
 Approved roles include greenhouse cover maintenance, legitimate crop research, agricultural laboratory operation,
 campus administration, delivery pattern normalization, surface visitor explanation, restricted growing area control,
@@ -76,8 +71,7 @@ containment-adjacent infrastructure, and a staff trained to avoid casual disclos
 The F-3 dossier states that the campus was built to conduct real research from
 the beginning. That decision shaped
 ABCC doctrine. False fronts decay under scrutiny. Real research produces routine, fatigue, successes, failures,
-paperwork, professional pride, and ordinary reasons for equipment and secrecy. The relay hides under
-work that can
+paperwork, professional pride, and ordinary reasons for equipment and secrecy. The relay hides under work that can
 survive being seen.
 
 ---
@@ -192,8 +186,7 @@ maintenance, sample logging, growth-condition adjustment, and laboratory reporti
 campus paperwork, delivery schedules, personnel records, research correspondence, and vendor-facing activity. Security
 remains present as campus protection rather than visible containment guard.
 
-When buried relay traffic must use surface systems, the Campus Manager and Security frame
-the movement within
+When buried relay traffic must use surface systems, the Campus Manager and Security frame the movement within
 legitimate agricultural logistics. Deliveries, equipment movement, staff changes, and utility work must match the
 campus's visible needs. If a cover incident occurs, F-3 handles it as a campus
 matter while the buried relay remains
@@ -213,8 +206,7 @@ separated behind transition control.
 
 Seasonal rotation is not decoration. A campus growing the same lines in the same
 places for years invites
-comparison against regional practice, and rotation keeps the agricultural account ordinary enough to be
-boring.
+comparison against regional practice, and rotation keeps the agricultural account ordinary enough to be boring.
 
 ## FAULT ISOLATION
 
@@ -228,11 +220,9 @@ boring.
 
 ## KNOWN LIMITS
 
-ABCC cannot protect the relay if the surface work becomes lazy, inconsistent, or theatrical.
-Agricultural biotech
+ABCC cannot protect the relay if the surface work becomes lazy, inconsistent, or theatrical. Agricultural biotech
 research attracts its own scrutiny: inspectors, vendors, collaborators, weather damage, crop failures, grant-style
-questions, equipment servicing, and professional curiosity. A cover that produces too little becomes suspicious.
-A
+questions, equipment servicing, and professional curiosity. A cover that produces too little becomes suspicious. A
 cover that produces too much may attract attention.
 
 Known failure modes include research record inconsistency, greenhouse neglect, delivery mismatch, excessive security
@@ -244,18 +234,15 @@ buried-relay traffic that cannot be explained by campus operations.
 ## FAILURE HISTORY
 
 ### ABCC-Cover Campus Formation
-The Glass Orchard dossier records the agricultural biotech station as the relay's cover identity.
-ABCC was formalized
+The Glass Orchard dossier records the agricultural biotech station as the relay's cover identity. ABCC was formalized
 when the witness routing point became a sub-site requiring durable public infrastructure.
 
 ### ABCC-Research Continuity Audit
-An internal audit found that greenhouse work must remain scientifically coherent during periods of
-low relay traffic.
+An internal audit found that greenhouse work must remain scientifically coherent during periods of low relay traffic.
 Current doctrine requires real crop records and laboratory continuity independent of operational tempo.
 
 ### ABCC-Delivery Pattern Review
-A simulated exposure review showed that buried-relay traffic can distort campus logistics if not
-balanced against
+A simulated exposure review showed that buried-relay traffic can distort campus logistics if not balanced against
 legitimate deliveries. Current procedure pairs unusual movement with plausible campus work orders.
 
 ---
@@ -264,12 +251,10 @@ legitimate deliveries. Current procedure pairs unusual movement with plausible c
 
 Cover Research Staff operate the greenhouses and laboratories. Campus Administration maintains records and
 public-facing identity. Security protects the boundary while preserving ordinary appearance. Medical uses the cover's
-controlled environments only when compatible with public explanation. The Sub-Site Chief ensures the cover
-does not
+controlled environments only when compatible with public explanation. The Sub-Site Chief ensures the cover does not
 become more important than the relay or less real than its paperwork.
 
-ABCC doctrine holds that Glass Orchard's glasshouses protect the relay because they are actually
-alive.
+ABCC doctrine holds that Glass Orchard's glasshouses protect the relay because they are actually alive.
 
 ---
 

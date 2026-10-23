@@ -17,15 +17,12 @@
 
 ## Archive Note
 
-This file is the complete individual record of **F-8, the Surface Archive and Transition
-Level**, the surface-adjacent
+This file is the complete individual record of **F-8, the Surface Archive and Transition Level**, the surface-adjacent
 floor of **ACT-SITE-03-JP-E, Kurokawa Archive Node**.
 
 F-8 is the legitimate foundation complex: reading rooms, preservation labs, digitization facilities, and
-administrative spaces. Public and semi-public document work occurs on this level — genuine preservation
-science in the
-open — and nothing anomalous is handled here without immediate transfer below. The floor
-is the node's public face,
+administrative spaces. Public and semi-public document work occurs on this level — genuine preservation science in the
+open — and nothing anomalous is handled here without immediate transfer below. The floor is the node's public face,
 and the work it does in the open is real.
 
 This dossier records the floor in full institutional language: what it is, how it
@@ -38,33 +35,25 @@ genuine.
 ## 1. Floor Registry Identity Summary
 
 **Site Designation:** ACT-SITE-03-JP-E **Site Codename:** Kurokawa Archive Node **Floor Designation:** F-8 **Floor
-Name:** Surface Archive and Transition Level **Floor Type:** Surface Cover and Transition Level **Vertical
-Position:**
-Surface-adjacent floor of the node **Floor Above:** None numbered — the legitimate foundation complex
-and the public
+Name:** Surface Archive and Transition Level **Floor Type:** Surface Cover and Transition Level **Vertical Position:**
+Surface-adjacent floor of the node **Floor Above:** None numbered — the legitimate foundation complex and the public
 surface **Floor Below:** F-7 (Personnel and Administrative Level) **Containment Character:** Non-resident public
 archive and cover infrastructure **Primary Function:** Reading rooms, preservation labs, digitization facilities, and
-administrative spaces of the legitimate foundation complex; transition of personnel and material between the
-public
-archive and the operational archive **Distinctive Feature:** The node's legitimate face — public and
-semi-public
-document work conducted openly **Access Posture:** Public and semi-public access under cover doctrine **Current
-Status:** Active
+administrative spaces of the legitimate foundation complex; transition of personnel and material between the public
+archive and the operational archive **Distinctive Feature:** The node's legitimate face — public and semi-public
+document work conducted openly **Access Posture:** Public and
+semi-public access under cover doctrine **Current Status:** Active
 
 ---
 
 ## 2. Dossier Purpose
 
-The Kurokawa Archive Node cannot operate as a purely buried installation. A document complex
-of its scale requires a
-visible purpose — a foundation engaged in preservation, digitization, and document science that the
-public, the
+The Kurokawa Archive Node cannot operate as a purely buried installation. A document complex of its scale requires a
+visible purpose — a foundation engaged in preservation, digitization, and document science that the public, the
 scholarly community, and the professional world can see and use.
 
-F-8 provides that purpose. It is the legitimate foundation complex: reading rooms, preservation labs,
-digitization
-facilities, and administrative spaces where genuine document work is conducted openly. Nothing anomalous is
-handled on
+F-8 provides that purpose. It is the legitimate foundation complex: reading rooms, preservation labs, digitization
+facilities, and administrative spaces where genuine document work is conducted openly. Nothing anomalous is handled on
 this level without immediate transfer below — the floor is the node's public face,
 and the separation between its
 visible work and its buried purpose is absolute.
@@ -82,18 +71,14 @@ world.
 
 ### 3.2 Relationship to the Public Surface
 
-The level's reading rooms, preservation labs, and digitization facilities serve the legitimate public and
-scholarly
-functions of the foundation complex. The floor's public operations are genuine: researchers use the
-reading rooms,
+The level's reading rooms, preservation labs, and digitization facilities serve the legitimate public and scholarly
+functions of the foundation complex. The floor's public operations are genuine: researchers use the reading rooms,
 preservation work is conducted openly, and digitization projects proceed on ordinary schedules.
 
 ### 3.3 Relationship to F-7
 
-Personnel and material that must pass between the public archive and the operational archive
-descend through F-7,
-where clearance and the distinction between the node's two personnel populations are administered. F-8
-is the public
+Personnel and material that must pass between the public archive and the operational archive descend through F-7,
+where clearance and the distinction between the node's two personnel populations are administered. F-8 is the public
 boundary; F-7 is the administrative boundary.
 
 ---
@@ -102,10 +87,8 @@ boundary; F-7 is the administrative boundary.
 
 ### 4.1 Development of the Foundation Complex
 
-F-8's character developed with the node's founding: an archive authority of Kurokawa's scale required
-a legitimate
-public institution, and the foundation complex was developed as the node's visible purpose —
-a real
+F-8's character developed with the node's founding: an archive authority of Kurokawa's scale required a legitimate
+public institution, and the foundation complex was developed as the node's visible purpose — a real
 document-preservation institution conducting genuine work in the open.
 
 ### 4.2 The Absolute Separation Doctrine
@@ -114,14 +97,12 @@ The level's defining principle — that nothing anomalous is handled on the surf
 without immediate transfer
 below — was established early in the node's history, after the facility recognized that
 the boundary between its
-public archive and its operational archive must be absolute. The principle protects the cover:
-the public floor must
+public archive and its operational archive must be absolute. The principle protects the cover: the public floor must
 be genuinely clean.
 
 ### 4.3 Modern Configuration
 
-In its modern configuration, F-8 is the node's legitimate face: a working document complex
-whose genuine preservation
+In its modern configuration, F-8 is the node's legitimate face: a working document complex whose genuine preservation
 science and public service conceal the operational archive beneath it.
 
 ---
@@ -135,14 +116,12 @@ Director** who answers to the node's Site Director through the administrative st
 
 ### 5.2 Authority over the Cover
 
-The Foundation Director holds authority over the level's legitimate operations: the public archive's reading
-rooms,
+The Foundation Director holds authority over the level's legitimate operations: the public archive's reading rooms,
 preservation labs, digitization facilities, and administrative functions.
 
 ### 5.3 Authority Limits
 
-F-8 holds no authority over the operational archive's containment operations. Its authority is over
-the public
+F-8 holds no authority over the operational archive's containment operations. Its authority is over the public
 foundation — and its most important duty is the enforcement of the absolute separation
 between the public floor and
 the buried archive.
@@ -163,10 +142,8 @@ conservation, digitization, and the ordinary archival work that the foundation p
 
 ### 6.3 Security Division (Boundary)
 
-Security operates the level's boundary functions: the control architecture through which personnel and material
-pass
-between the public archive and the operational archive below, and the monitoring that ensures
-nothing anomalous
+Security operates the level's boundary functions: the control architecture through which personnel and material pass
+between the public archive and the operational archive below, and the monitoring that ensures nothing anomalous
 remains on the public floor.
 
 ### 6.4 Administrative Liaison
@@ -190,26 +167,20 @@ F-8's plan is organized around the legitimate foundation's functions:
 
 ### 7.2 The Reading Rooms
 
-The floor's reading rooms serve the foundation's legitimate users: researchers, scholars, and members of
-the public
-with genuine reason to consult the foundation's collections. The rooms are ordinary, professional spaces
-— the public
+The floor's reading rooms serve the foundation's legitimate users: researchers, scholars, and members of the public
+with genuine reason to consult the foundation's collections. The rooms are ordinary, professional spaces — the public
 face of an institution that presents itself honestly.
 
 ### 7.3 The Preservation and Digitization Facilities
 
-The floor's preservation labs and digitization facilities conduct genuine document science in the open:
-conservation
-work, digitization projects, and the professional operations of a working preservation institution. The work
-is real —
+The floor's preservation labs and digitization facilities conduct genuine document science in the open: conservation
+work, digitization projects, and the professional operations of a working preservation institution. The work is real —
 the foundation's reputation is built on work that can withstand scrutiny.
 
 ### 7.4 The Transition Architecture
 
-The level's buried component is its transition architecture: the concealed control points through which
-cleared
-personnel and confirmed material pass from the public floor into the operational archive below.
-The architecture is
+The level's buried component is its transition architecture: the concealed control points through which cleared
+personnel and confirmed material pass from the public floor into the operational archive below. The architecture is
 designed to be indistinguishable from ordinary foundation infrastructure.
 
 ---
@@ -218,22 +189,18 @@ designed to be indistinguishable from ordinary foundation infrastructure.
 
 ### 8.1 Power
 
-F-8 draws on the foundation's legitimate power infrastructure, with the operational archive's systems protected
-by the
+F-8 draws on the foundation's legitimate power infrastructure, with the operational archive's systems protected by the
 node's backup architecture.
 
 ### 8.2 Environment
 
-The floor's environmental systems maintain the preservation conditions that document work requires, with the
-public
+The floor's environmental systems maintain the preservation conditions that document work requires, with the public
 spaces held to professional archive standards.
 
 ### 8.3 Monitoring
 
-Monitoring on F-8 is boundary-oriented: public traffic, material movement, and the transition points are
-monitored
-under the Security Division's doctrine, with the monitoring architecture concealed as part of the
-foundation's
+Monitoring on F-8 is boundary-oriented: public traffic, material movement, and the transition points are monitored
+under the Security Division's doctrine, with the monitoring architecture concealed as part of the foundation's
 ordinary systems.
 
 ### 8.4 Communication
@@ -248,30 +215,25 @@ legitimate institutional operations — alongside the operational archive's secu
 ### 9.1 Cover Doctrine
 
 F-8's defining security function is its cover: the legitimate foundation's genuine preservation science, public
-service, and professional operations present the node to the world as an ordinary document
-institution. The cover is
+service, and professional operations present the node to the world as an ordinary document institution. The cover is
 maintained through work that can withstand scrutiny because it is real.
 
 ### 9.2 Absolute Separation Doctrine
 
-The floor's second security function is the enforcement of absolute separation: nothing anomalous is
-handled on the
-public level, and any material requiring the operational archive's attention is transferred below immediately.
-The
+The floor's second security function is the enforcement of absolute separation: nothing anomalous is handled on the
+public level, and any material requiring the operational archive's attention is transferred below immediately. The
 public floor must be genuinely clean — because the cover depends on it.
 
 ### 9.3 Transition Control
 
-The level's transition architecture controls the passage between the public archive and the operational
-archive:
-cleared personnel descend through it, confirmed material descends through it, and nothing passes without
-documentation.
+The level's transition architecture controls the passage between the public archive and the operational archive:
+cleared personnel descend through it, confirmed material
+descends through it, and nothing passes without documentation.
 
 ### 9.4 Incident Response
 
 F-8 maintains incident response for cover events: boundary incidents, public-exposure incidents, and attempts to
-penetrate the transition architecture are met with the node's surface response doctrine, with the
-operational archive
+penetrate the transition architecture are met with the node's surface response doctrine, with the operational archive
 sealed behind the level if the public boundary is threatened.
 
 ---
@@ -280,22 +242,18 @@ sealed behind the level if the public boundary is threatened.
 
 ### 10.1 Cover Function
 
-F-8 is the node's legitimate face: the foundation complex whose genuine preservation science, reading
-rooms, and
+F-8 is the node's legitimate face: the foundation complex whose genuine preservation science, reading rooms, and
 digitization work conceal the operational archive beneath it.
 
 ### 10.2 Transition Function
 
-F-8 is the node's public gateway: the level through which cleared personnel and confirmed
-material pass between the
+F-8 is the node's public gateway: the level through which cleared personnel and confirmed material pass between the
 ordinary world and the buried archive.
 
 ### 10.3 Holding Character
 
-F-8 holds no anomalous material. Its holdings are the legitimate foundation's ordinary collections, and
-its population
-is the public institution's users and staff. Nothing anomalous remains on this level beyond
-the time required for
+F-8 holds no anomalous material. Its holdings are the legitimate foundation's ordinary collections, and its population
+is the public institution's users and staff. Nothing anomalous remains on this level beyond the time required for
 immediate transfer below.
 
 ---
@@ -309,10 +267,8 @@ digitization workers, administrators, and the boundary security staff who contro
 
 ### 11.2 Duty Life
 
-Duty on F-8 is public-archive work: preservation, digitization, reading room service, and the ordinary
-operations of a
-legitimate document institution. The level's personnel perform genuine work in the open — under
-the discipline of
+Duty on F-8 is public-archive work: preservation, digitization, reading room service, and the ordinary operations of a
+legitimate document institution. The level's personnel perform genuine work in the open — under the discipline of
 personnel who know that their visible institution conceals the archive beneath.
 
 ### 11.3 Cover Discipline
@@ -328,8 +284,7 @@ it.
 
 ### 12.1 Cover Doctrine
 
-F-8 doctrine holds that concealment is built on genuine activity: the foundation's preservation science
-and public
+F-8 doctrine holds that concealment is built on genuine activity: the foundation's preservation science and public
 service must withstand scrutiny because they are real. The node's cover is not a
 lie maintained by secrecy — it is a
 truth maintained by discipline.
@@ -338,15 +293,12 @@ truth maintained by discipline.
 
 F-8 doctrine holds that the public floor must be genuinely clean: nothing anomalous is
 handled on the level without
-immediate transfer below, and the separation between the foundation and the operational archive is
-absolute.
+immediate transfer below, and the separation between the foundation and the operational archive is absolute.
 
 ### 12.3 Transition Doctrine
 
-F-8 doctrine holds that the passage between worlds must be controlled: the level's transition
-architecture governs the
-movement of cleared personnel and confirmed material between the public archive and the buried
-archive, documented at
+F-8 doctrine holds that the passage between worlds must be controlled: the level's transition architecture governs the
+movement of cleared personnel and confirmed material between the public archive and the buried archive, documented at
 every step.
 
 ---
@@ -354,8 +306,7 @@ every step.
 ## 13. Incident Archive
 
 The floor's incident record is dominated by cover and transition events: boundary incidents, public-exposure
-incidents, and attempts to penetrate the transition architecture. The node's history records the incidents
-that have
+incidents, and attempts to penetrate the transition architecture. The node's history records the incidents that have
 tested the public boundary — and the cover has held.
 
 ---
@@ -385,9 +336,8 @@ priorities include:
 
 F-8, the Surface Archive and Transition Level, is the legitimate face of Kurokawa Archive
 Node: reading rooms,
-preservation labs, digitization facilities, and administrative spaces where genuine document science is conducted in
-the open — a working foundation whose honest public service conceals the operational archive
-beneath it.
+preservation labs, digitization facilities, and administrative spaces where genuine document science is conducted
+in the open — a working foundation whose honest public service conceals the operational archive beneath it.
 
 It is the floor where the node meets the world: a public institution of
 real preservation work, an absolute boundary

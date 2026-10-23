@@ -11,16 +11,14 @@
 ---
 
 ## Profile 001 — Sera Vey
-**Role:** Facility Archiver **Clearance:** Low-to-Mid Restricted Archive Access **Division:** Archiver Division / East
-Wings **Status:** Active
+**Role:** Facility Archiver **Clearance:** Low-to-Mid Restricted Archive
+Access **Division:** Archiver Division / East Wings **Status:** Active
 
 ### Function
-Sera Vey serves as the primary narrative protagonist. She is assigned to archival reconciliation
-work involving old
+Sera Vey serves as the primary narrative protagonist. She is assigned to archival reconciliation work involving old
 ENTITY-era records and modern AFD designations. Her value lies not in combat ability or
 command authority, but in
-pattern recognition, patience, and her ability to notice contradictions that others dismiss as clerical
-drift.
+pattern recognition, patience, and her ability to notice contradictions that others dismiss as clerical drift.
 
 ### Personality Traits
 - observant
@@ -51,12 +49,11 @@ main narrative uncovers the possibility that A.C.T deliberately erased its own o
 ---
 
 ## Profile 002 — Mila Renn
-**Role:** Senior Archiver **Clearance:** Level 2 Archive Access **Division:** Archiver Division / East Wings
-**Status:** Active
+**Role:** Senior Archiver **Clearance:** Level 2 Archive Access
+**Division:** Archiver Division / East Wings **Status:** Active
 
 ### Function
-Mila Renn is an experienced senior archivist who understands that the Facility’s oldest records
-contain patterns of
+Mila Renn is an experienced senior archivist who understands that the Facility’s oldest records contain patterns of
 intentional damage. She is not openly rebellious, but she is old enough in the
 system to recognize when history has
 been shaped instead of preserved.
@@ -75,8 +72,7 @@ does not provide answers outright, but her
 reactions confirm that the archive has layers of silence built into it.
 
 ### Core Internal Conflict
-Mila’s conflict is survival through restraint. She understands more than she says, and her
-caution comes from knowing
+Mila’s conflict is survival through restraint. She understands more than she says, and her caution comes from knowing
 how dangerous correct curiosity can become in A.C.T.
 
 ### Story Relevance
@@ -88,14 +84,13 @@ them.
 ---
 
 ## Profile 003 — Tavian Holt
-**Role:** Junior Medical Records Technician **Clearance:** Level 2 Medical Records Access **Division:** Medical Care
-Division **Status:** Active
+**Role:** Junior Medical Records Technician **Clearance:** Level 2 Medical
+Records Access **Division:** Medical Care Division **Status:** Active
 
 ### Function
 Tavian Holt works in medical records and acts as the story’s first real bridge
 between archive contradiction and
-physiological consequence. He understands the pattern of 004-Series usage better than most and recognizes
-that
+physiological consequence. He understands the pattern of 004-Series usage better than most and recognizes that
 repeated internal amnestic treatment is not normal witness sanitation.
 
 ### Personality Traits
@@ -113,20 +108,18 @@ introduces the idea that the people above the abyss were wounded before the reco
 were.
 
 ### Core Internal Conflict
-Tavian’s conflict is between self-preservation and complicity. He knows enough to fear the truth,
-but not enough to
+Tavian’s conflict is between self-preservation and complicity. He knows enough to fear the truth, but not enough to
 stop feeling responsible for helping maintain the machinery that erases it.
 
 ### Story Relevance
-He provides critical insight into the 004-Series irregularities and helps establish that amnestics are
-being used not
+He provides critical insight into the 004-Series irregularities and helps establish that amnestics are being used not
 only on civilians, but internally to preserve some deeper institutional secrecy.
 
 ---
 
 ## Profile 004 — The O5-Linked Review Authority
-**Role:** Restricted Oversight Figure **Clearance:** O5-Adjacent / Review-Sealed **Division:** South Wing Command /
-Oversight **Status:** Active
+**Role:** Restricted Oversight Figure **Clearance:** O5-Adjacent /
+Review-Sealed **Division:** South Wing Command / Oversight **Status:** Active
 
 ### Appearance and Presence
 This figure is a woman of severe bearing, pale without frailty, dressed in quiet
@@ -137,13 +130,11 @@ but spatial: she appears to possess an anomalous sense of surrounding presence. 
 movement, or living thing
 seems fully able to hide around her. Rooms tighten when she enters them. Conversation
 stops before she speaks.
-Personnel experience the immediate sensation of being located, measured, and seen whether or not
-she directly looks at
+Personnel experience the immediate sensation of being located, measured, and seen whether or not she directly looks at
 them.
 
 ### Function
-This figure represents the layer of command that knows more than ordinary administrators, archivists,
-and researchers,
+This figure represents the layer of command that knows more than ordinary administrators, archivists, and researchers,
 but may not know everything intact. She acts as a symbol of institutional continuity
 and the inherited burden of
 preserving a lie that may also be a containment system.
@@ -159,17 +150,14 @@ preserving a lie that may also be a containment system.
 ### Narrative Purpose
 This character exists to complicate the moral structure of the story. She should not
 function as a simple villain.
-Instead, she should embody the possibility that the lie survives because someone genuinely believes
-it must.
+Instead, she should embody the possibility that the lie survives because someone genuinely believes it must.
 
 ### Core Internal Conflict
-Her conflict is between command duty and buried uncertainty. She may enforce the silence
-while suspecting that the
+Her conflict is between command duty and buried uncertainty. She may enforce the silence while suspecting that the
 silence itself is all that keeps reality stable.
 
 ### Story Relevance
-She represents the upper limit of what the protagonist can eventually confront: the realization
-that the people
+She represents the upper limit of what the protagonist can eventually confront: the realization that the people
 preserving the first lie may also be trapped inside it.
 
 ---
@@ -181,10 +169,8 @@ Observation Only **Division:** Formerly Classified **Status:** Contained / Isola
 ### Appearance and Condition
 The ABYSS Survivor is not defined by a stable name in active narrative use.
 They are identified instead by condition.
-Their body appears physically intact, but wrong in small ways that unsettle sustained observation:
-delayed eye focus,
-pauses before recognizing familiar objects, and the sense that they are sometimes listening to
-a second conversation
+Their body appears physically intact, but wrong in small ways that unsettle sustained observation: delayed eye focus,
+pauses before recognizing familiar objects, and the sense that they are sometimes listening to a second conversation
 beneath the one in front of them. They may appear exhausted without looking weak,
 lucid without looking fully present,
 and familiar with rooms they should not recognize. Their speech can shift from precise
@@ -207,8 +193,7 @@ inconsistent, and dangerous to interpret directly.
 - half-detached from ordinary continuity
 
 ### Narrative Purpose
-This character allows the story to externalize what the archive cannot say clearly. They
-are living proof that the
+This character allows the story to externalize what the archive cannot say clearly. They are living proof that the
 Facility’s memory problem is not abstract. It is embodied in damaged people.
 
 ### Core Internal Conflict

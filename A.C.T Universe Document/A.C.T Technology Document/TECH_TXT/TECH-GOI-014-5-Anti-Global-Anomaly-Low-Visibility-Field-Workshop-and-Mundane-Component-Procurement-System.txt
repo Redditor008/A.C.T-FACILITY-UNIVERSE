@@ -85,13 +85,11 @@ knowledge of what to buy and how to combine it.
 
 A suspected support route may be traced before interdiction only where the target anomaly
 is already in a stable condition and the delay offers a credible opportunity to
-identify additional procurement contacts. The condition is strict because the trade is explicit: delay
-against reach.
+identify additional procurement contacts. The condition is strict because the trade is explicit: delay against reach.
 
 Detained personnel are not assumed free of anomalous contamination merely because they identify as
-anti-anomalous. Medical Care Division conducts physical, cognitive, memetic, and environmental screening before
-standard interrogation begins, since a member may be unaware that a cell's equipment has
-affected them.
+anti-anomalous. Medical Care Division conducts physical, cognitive, memetic, and environmental screening
+before standard interrogation begins, since a member may be unaware that a cell's equipment has affected them.
 
 
 PHYSICAL OR SYSTEM DESCRIPTION
@@ -116,9 +114,9 @@ and repositories are a standing intelligence priority rather than a secondary on
 
 TECHNICAL SPECIFICATION
 
-Figures are restated from the GOI-ML-X-014 dossier and from interdiction and tracing records. The archive holds no
-figure for Workshops dismantled, Contacts traced, Shared routes mapped, and 1 more. Those 4 gaps are carried in OPEN
-QUESTIONS.
+Figures are restated from the GOI-ML-X-014 dossier and from interdiction and tracing
+records. The archive holds no figure for Workshops dismantled, Contacts traced,
+Shared routes mapped, and 1 more. Those 4 gaps are carried in OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | WORKSHOP PARAMETER         | VALUE                                                                                 |
@@ -275,10 +273,10 @@ an outside actor remains unresolved.
 
 DIVISION USE
 
-Intelligence Division traces routes, contacts, and mentors and holds the convergence profile record. Engineering
-Division reads assembly instruction material. Security interdicts and dismantles. Medical Care Division screens
-detainees before interrogation. Containment confirms target stability before any tracing delay is approved. Archive
-holds the route record.
+Intelligence Division traces routes, contacts, and mentors and holds the convergence profile
+record. Engineering Division reads assembly instruction material. Security interdicts and
+dismantles. Medical Care Division screens detainees before interrogation. Containment confirms
+target stability before any tracing delay is approved. Archive holds the route record.
 
 
 CROSS-REFERENCES

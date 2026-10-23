@@ -21,22 +21,17 @@
 | AUTHORITY | Recovery Division, Engineering Division, and Central Archive |
 
 #### Archive Note
-Causal Anchor Nails are the eighth main A.C.T technology expanded into an individual record.
-The Master Catalog
-defines them as portable, single-use stabilization units used to fix an object within three-dimensional
-space for
+Causal Anchor Nails are the eighth main A.C.T technology expanded into an individual record. The Master Catalog
+defines them as portable, single-use stabilization units used to fix an object within three-dimensional space for
 short-duration transport or recovery. The visual guide describes them as thirty-centimeter violet-tinted spikes with
-revolving mechanical disc heads, internal heating, and a heavy magnetic feel even before deployment.
-TECH-ACT-001
+revolving mechanical disc heads, internal heating, and a heavy magnetic feel even before deployment. TECH-ACT-001
 already lists them as portable companions to Reality Stabilization Anchors. TECH-ACT-006 references them as
 pre-loading fixation tools before Facility Converted Aircraft movement.
 
 Causal Anchor Nails do not replace an RSA. They are field nails, not rooms.
 Their job is to buy a small amount of
-trustworthy position when a recovered object, sample, doorway, vehicle, body, fragment, or container is
-likely to
-slide through space, detach from its own history, refuse loading, or pull surrounding matter
-into the wrong
+trustworthy position when a recovered object, sample, doorway, vehicle, body, fragment, or container is likely to
+slide through space, detach from its own history, refuse loading, or pull surrounding matter into the wrong
 relationship.
 
 Controlled label: **CAN DEPLOYMENT GEOMETRY LIMIT**.
@@ -56,12 +51,10 @@ A Causal Anchor Nail is driven into an approved contact surface near, through, o
 against a target package so the
 target holds a fixed spatial claim for a short operational window. The nail tells
 local space that one object,
-surface, or cargo relation is not permitted to renegotiate position until Recovery has completed
-the next step. This
+surface, or cargo relation is not permitted to renegotiate position until Recovery has completed the next step. This
 may mean lifting a dangerous crate, cutting a wall around an embedded item, loading
 a container onto Magnetic
-RSA-Rails, holding a biological sample rig still during sealing, or preventing a doorway-shaped anomaly
-from becoming
+RSA-Rails, holding a biological sample rig still during sealing, or preventing a doorway-shaped anomaly from becoming
 an exit before the team has withdrawn.
 
 The nail does not freeze time. It does not make matter invulnerable. It does
@@ -84,26 +77,18 @@ Approved roles include:
 
 ## ORIGIN AND CUSTODY
 
-Causal Anchor Nails descend from older anchor experiments, including clockwork causal anchors recorded in
-the
-nineteenth-century timeline. Those early instruments were slow, large, and more ritual than field equipment.
-Modern
-CAN design became viable only after RSA baseline theory, Static-Pulse Crystal calibration, and compact
-heated-core
+Causal Anchor Nails descend from older anchor experiments, including clockwork causal anchors recorded in the
+nineteenth-century timeline. Those early instruments were slow, large, and more ritual than field equipment. Modern
+CAN design became viable only after RSA baseline theory, Static-Pulse Crystal calibration, and compact heated-core
 housings made a temporary portable lock predictable enough for Recovery Division use.
 
-Custody belongs jointly to Recovery Division and Engineering Division. Recovery issues nails in sealed
-field kits.
-Engineering certifies the internal cores, mechanical disc heads, heat bands, and rejection timers. Containment
-may
-request site-stocked emergency kits for corridors holding mobile objects, but those kits remain Recovery-coded
-and are
+Custody belongs jointly to Recovery Division and Engineering Division. Recovery issues nails in sealed field kits.
+Engineering certifies the internal cores, mechanical disc heads, heat bands, and rejection timers. Containment may
+request site-stocked emergency kits for corridors holding mobile objects, but those kits remain Recovery-coded and are
 counted after every drill. Logistics may carry unused kits but cannot authorize deployment.
 
-Every nail is treated as single-use because deployment alters its core. Post-use nails may
-look intact. They are not
-returned to a field kit. They enter extraction review, where Engineering decides whether the
-unit is dead,
+Every nail is treated as single-use because deployment alters its core. Post-use nails may look intact. They are not
+returned to a field kit. They enter extraction review, where Engineering decides whether the unit is dead,
 contaminated, partially loaded with site stress, or evidence in an incident file.
 
 ---
@@ -112,8 +97,7 @@ contaminated, partially loaded with site stress, or evidence in an incident file
 
 A standard CAN is a thirty-centimeter spike made of violet-tinted alloy. The point is
 reinforced for concrete, basalt
-plate, heavy containment flooring, cargo decking, and emergency ground anchors. The head contains a
-revolving
+plate, heavy containment flooring, cargo decking, and emergency ground anchors. The head contains a revolving
 mechanical disc. When the nail is fully seated, the disc clicks into a locked
 state that can be felt through gloves.
 Staff are trained to listen for the click but never to rely on sound
@@ -131,8 +115,7 @@ Known components include:
 - short-window status notch;
 - dead-core discoloration strip.
 
-The nail feels magnetically stuck in the hand before deployment because its internal core
-is already trying to agree
+The nail feels magnetically stuck in the hand before deployment because its internal core is already trying to agree
 with a surface. Personnel sometimes describe the sensation as the nail wanting to be
 somewhere. This is expected at
 low intensity. If the pull becomes directional enough to steer the handler, the nail
@@ -197,8 +180,7 @@ case.
 - Weakest against surfaces that cannot hold the reinforced point.
 - Weakest against targets that move the room instead of moving the object.
 
-Temperature, humidity, altitude, and surface-compatibility limits are not recorded. Deployment envelope: NOT
-MEASURED.
+Temperature, humidity, altitude, and surface-compatibility limits are not recorded. Deployment envelope: NOT MEASURED.
 
 ## OPERATING PROCEDURE
 
@@ -222,12 +204,10 @@ room continues to move while the nail holds, the package is at risk of
 tearing and the team withdraws
 instead of adding nails without Level 4 geometry review.
 
-Before deployment, the team identifies the intended relationship: object to floor, crate to rail,
-door to frame, wall
+Before deployment, the team identifies the intended relationship: object to floor, crate to rail, door to frame, wall
 fragment to wall, sample rack to carrier, or similar. A nail deployed without a
 named relationship may lock the wrong
-thing. The operator announces the target, confirms the surface, waits for Recovery lead approval,
-and drives the nail
+thing. The operator announces the target, confirms the surface, waits for Recovery lead approval, and drives the nail
 to the marked depth. When the disc rotates to locked state, the clock begins.
 
 Field doctrine forbids decorative patterns, superstition patterns, or improvised circles. Multi-nail geometry requires
@@ -241,10 +221,8 @@ During the active window, personnel complete the next action and leave the nail 
 Do not hammer a locked nail
 deeper. Do not try to twist the disc by hand. Do not attach ordinary
 chains to the head unless the kit includes an
-approved restraint collar. Do not place a nail through living tissue except under written
-Medical and Command
-authority during an extreme terminal incident. CAN use on living persons remains a separate
-review category.
+approved restraint collar. Do not place a nail through living tissue except under written Medical and Command
+authority during an extreme terminal incident. CAN use on living persons remains a separate review category.
 
 ---
 
@@ -278,8 +256,7 @@ review that Level 4 performs.
 
 ## KNOWN LIMITS
 
-Causal Anchor Nails are short-duration stabilizers. They cannot hold a full containment breach indefinitely,
-cannot
+Causal Anchor Nails are short-duration stabilizers. They cannot hold a full containment breach indefinitely, cannot
 restrain an entity that is not meaningfully attached to local space, cannot make a
 weak surface strong, and cannot
 decide which part of a complex object counts as the object. A nail driven
@@ -294,8 +271,7 @@ doctrine rejects that assumption. A pinned object is still anomalous. It is only
 mobile for a while.
 
 Known failure modes include skipped lock clicks, delayed release, surface rejection, thermal runaway, nail-to-nail
-argument, stress transfer into floor plates, cargo tearing at the fixed point, false dead-core
-readings, and post-use
+argument, stress transfer into floor plates, cargo tearing at the fixed point, false dead-core readings, and post-use
 memory of the wrong location.
 
 ---
@@ -312,10 +288,8 @@ but the bay remained closed
 for six weeks. Field doctrine now requires surface strength confirmation before every nail deployment.
 
 ### CAN-2006 Triangle Argument
-A Recovery team deployed three nails around an artifact whose position changed whenever its
-name was spoken. The nails
-fixed three slightly different positions. The artifact appeared blurred between them and damaged the
-container foam.
+A Recovery team deployed three nails around an artifact whose position changed whenever its name was spoken. The nails
+fixed three slightly different positions. The artifact appeared blurred between them and damaged the container foam.
 The event created the Level 4 rule for multi-nail geometry and the current phrase:
 one nail is a command, three nails
 can become a debate.
@@ -331,14 +305,10 @@ potentially location-bearing until final destruction or vaulting.
 
 ## DIVISION USE
 
-Recovery Division carries CAN kits for field stabilization and transport preparation. Engineering certifies units
-and
-investigates spent nails. Containment requests emergency use during breach response but must hand all
-spent units back
-through Recovery chain. Logistics may not use nails as ordinary cargo restraints. Medical may
-request review for
-patient or biological sample stabilization, but the default answer is denial unless the alternative
-is greater harm.
+Recovery Division carries CAN kits for field stabilization and transport preparation. Engineering certifies units and
+investigates spent nails. Containment requests emergency use during breach response but must hand all spent units back
+through Recovery chain. Logistics may not use nails as ordinary cargo restraints. Medical may request review for
+patient or biological sample stabilization, but the default answer is denial unless the alternative is greater harm.
 Site Command reviews every deployment that affects a permanent structure.
 
 Field reminder: a Causal Anchor Nail is a promise that a specific thing will

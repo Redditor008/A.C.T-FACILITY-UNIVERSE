@@ -10,8 +10,7 @@
 #### Archive Note
 This form is used when a civilian, personnel member, contained subject, GOI contact, or
 other witness provides
-testimony connected to an anomalous event. The purpose is to preserve what was perceived
-before A.C.T normalcy work
+testimony connected to an anomalous event. The purpose is to preserve what was perceived before A.C.T normalcy work
 reshapes the public record.
 
 A witness statement is not automatically true. It is not automatically false. It is
@@ -40,8 +39,7 @@ Use this form when testimony may affect:
 
 Do not use this form as a casual interview transcript when no anomalous relevance
 exists. Do not replace therapy
-notes, medical diagnosis, interrogation logs, or subject-care records with this form unless the witness
-statement
+notes, medical diagnosis, interrogation logs, or subject-care records with this form unless the witness statement
 itself is the required evidence.
 
 ---
@@ -66,8 +64,7 @@ Mark one primary category and any secondary category required.
 [ ] OTHER: ______________________________
 ```
 
-Witness category does not decide credibility by itself. A frightened civilian may be more
-accurate than a trained
+Witness category does not decide credibility by itself. A frightened civilian may be more accurate than a trained
 researcher exposed to a memetic field. A hostile witness may tell the truth for
 the wrong reason. An E-Class witness
 remains a person even when the institution has excommunicated them from ordinary protection.
@@ -365,8 +362,7 @@ GOI OFFERS MADE:
 GOI RECOVERED DOCUMENT RECORD REQUIRED:
 ```
 
-A GOI-affiliated witness may require both witness filing and recovered-document filing if they carry
-written, spoken,
+A GOI-affiliated witness may require both witness filing and recovered-document filing if they carry written, spoken,
 digital, ritual, or commercial material from the group.
 
 ---

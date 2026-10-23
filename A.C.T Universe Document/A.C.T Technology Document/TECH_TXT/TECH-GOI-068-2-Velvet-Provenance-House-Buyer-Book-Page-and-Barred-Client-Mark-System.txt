@@ -61,9 +61,9 @@ DO NOT COPY A MARK. A COPIED MARK IS A NEW ASSERTION ABOUT SOMEONE.
 
 FUNCTION SUMMARY
 
-The buyer book records what the House believes about the people who buy from it: whether they pay, whether they
-survive, whether they breach, and whether other markets should deal with them. A barred-client card is the extract of
-one entry, circulated outward.
+The buyer book records what the House believes about the people who buy from it: whether
+they pay, whether they survive, whether they breach, and whether other markets should
+deal with them. A barred-client card is the extract of one entry, circulated outward.
 
 The system functions as reputation infrastructure for the hidden object economy. A buyer marked in a Velvet book is
 harder to place elsewhere, and the dossier notes that other markets appear reluctant to ignore those marks.
@@ -139,9 +139,9 @@ All figures are taken from the one held page.
 | Barred-client cards held   | 0                                                                                     |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Zero confirmed shared marks is the figure that governs this record. The dossier raises the question of sharing as an
-open question, and A.C.T has no second market's marks to compare against. Nothing here asserts a shared vocabulary
-that has not been observed.
+Zero confirmed shared marks is the figure that governs this record. The dossier raises
+the question of sharing as an open question, and A.C.T has no second market's marks to
+compare against. Nothing here asserts a shared vocabulary that has not been observed.
 
 
 INTERFACE AND OPERATING ENVELOPE
@@ -288,14 +288,13 @@ sequence. The transcription was withdrawn and destroyed, and the current procedu
 
 MARK MEANING ASSERTED — PREVENTED
 
-A reader who studies four mark forms for long enough will believe they know what one means. No legend has
-been recovered, so that belief has no support. The fault isolation row exists to strike it before it enters a
-record.
+A reader who studies four mark forms for long enough will believe they know what one means. No legend has been
+recovered, so that belief has no support. The fault isolation row exists to strike it before it enters a record.
 
 HANDLING FAILURE — NONE RECORDED
 
-The page has not been handled outside the controlled reading room since the procedure was adopted. No further handling
-failure is on record.
+The page has not been handled outside the controlled reading room since
+the procedure was adopted. No further handling failure is on record.
 
 
 DIVISION USE

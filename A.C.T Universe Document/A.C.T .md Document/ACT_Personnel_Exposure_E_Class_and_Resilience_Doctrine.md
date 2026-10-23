@@ -9,10 +9,8 @@
 
 #### Archive Note
 This doctrine formalizes the human side of A.C.T operations: Excommunicated Class personnel, exposure rotation,
-resilience review, aftercare, and the limit between necessary risk and institutional cruelty. It does
-not replace the
-Divisions and Personnel archive. It supplies the missing operational rules that keep personnel from
-becoming invisible
+resilience review, aftercare, and the limit between necessary risk and institutional cruelty. It does not replace the
+Divisions and Personnel archive. It supplies the missing operational rules that keep personnel from becoming invisible
 equipment.
 
 
@@ -28,8 +26,7 @@ equipment.
 
 A.C.T personnel do not work beside ordinary hazards. They work beside things that can
 damage memory, identity, sleep,
-language, chronology, biology, belief, and the body's ability to remain itself. The Facility cannot
-claim to protect
+language, chronology, biology, belief, and the body's ability to remain itself. The Facility cannot claim to protect
 normalcy while treating its own people as disposable insulation between humanity and the anomalous.
 
 This doctrine exists to answer five standing questions:
@@ -46,20 +43,15 @@ This doctrine exists to answer five standing questions:
 
 ### 2.2 E-Class Personnel Definition
 
-**E-Class** means **Excommunicated Class**. The term refers to personnel who have been removed from
-normal
-institutional protection, normal civic identity, and normal career standing because A.C.T has judged them
-condemned,
-censured, legally erased, operationally isolated, or already lost to a condition that ordinary staff
-cannot be asked
+**E-Class** means **Excommunicated Class**. The term refers to personnel who have been removed from normal
+institutional protection, normal civic identity, and normal career standing because A.C.T has judged them condemned,
+censured, legally erased, operationally isolated, or already lost to a condition that ordinary staff cannot be asked
 to carry.
 
 E-Class is not the same as ordinary exposed personnel. Many A.C.T workers face anomaly
 exposure. They do not become
-E-Class merely because their assignment is dangerous. E-Class begins when the person has been
-excommunicated from
-standard personnel status and placed under restricted use rules where high-risk testing, exposure trials,
-punitive
+E-Class merely because their assignment is dangerous. E-Class begins when the person has been excommunicated from
+standard personnel status and placed under restricted use rules where high-risk testing, exposure trials, punitive
 assignment, or sacrificial operation may be authorized.
 
 The category is deliberately ugly. A.C.T doctrine does not allow the word to become
@@ -81,8 +73,7 @@ test begins.
 
 ### 2.3 Excommunicated Class Use Categories
 
-A.C.T uses contact categories to prevent the old error of calling every excommunicated person
-the same thing. These
+A.C.T uses contact categories to prevent the old error of calling every excommunicated person the same thing. These
 are not clearance levels and must not be confused with Level 0 through Level
 5 access.
 
@@ -93,8 +84,7 @@ contact with living subjects, memetic vectors, temporal loops, or transformation
 
 #### EC-CONTROLLED — Controlled Contact
 Excommunicated personnel authorized for short, supervised exposure to a verified anomaly under stable conditions.
-EC-CONTROLLED is used when standard personnel cannot ethically or operationally be risked, but the
-test does not yet
+EC-CONTROLLED is used when standard personnel cannot ethically or operationally be risked, but the test does not yet
 justify severe-contact authorization.
 
 #### EC-REPEATED — Repeated Contact
@@ -108,9 +98,8 @@ disorientation, emotional bleed, or limited temporal interference. EC-HAZARD ass
 authorization and aftercare tracking.
 
 #### EC-SEVERE — Severe Contact
-Excommunicated personnel entering high-harm exposure where injury, memory discontinuity, personality disturbance, or
-long-term medical consequence is plausible. EC-SEVERE is not approved by local enthusiasm. It requires
-division
+Excommunicated personnel entering high-harm exposure where injury, memory discontinuity, personality disturbance,
+or long-term medical consequence is plausible. EC-SEVERE is not approved by local enthusiasm. It requires division
 command, Medical Care, and site command approval.
 
 #### EC-EXISTENTIAL — Existential Contact
@@ -121,20 +110,17 @@ conditions. EC-EXISTENTIAL is emergency-only and must be reviewed afterward even
 
 ### 2.4 Consent, Refusal, and Command Pressure
 
-A.C.T recognizes that consent inside a secret institution is never simple. Clearance, command hierarchy,
-fear of
+A.C.T recognizes that consent inside a secret institution is never simple. Clearance, command hierarchy, fear of
 discipline, loyalty, debt, memory alteration, and lack of civilian alternatives can all distort consent.
 
 For that reason:
 
-  E-Class assignment must be explained in task-specific language when the individual is capable
-  of
+  E-Class assignment must be explained in task-specific language when the individual is capable of
   understanding the
   assignment;
   refusal must be recorded as evidence, even where refusal does not halt the
   assignment;
-  refusal by an Excommunicated Class subject may trigger command review, not automatic escalation
-  to
+  refusal by an Excommunicated Class subject may trigger command review, not automatic escalation to
   cruelty;
   high-risk exposure cannot be approved by the same officer who benefits from the
   exposure
@@ -145,8 +131,7 @@ For that reason:
   still
   a person.
 
-A.C.T does not call coerced obedience consent. A.C.T may still proceed under Excommunicated Class
-authority, but the
+A.C.T does not call coerced obedience consent. A.C.T may still proceed under Excommunicated Class authority, but the
 archive must name that act honestly.
 
 ---
@@ -168,8 +153,7 @@ Every E-Class assignment above EC-CONTROLLED requires an **Exposure Ledger** ent
 - return-to-duty decision;
 - aftercare date.
 
-Exposure Ledgers are not optional paperwork. They are the only reason a repeated exposure
-pattern can be seen before
+Exposure Ledgers are not optional paperwork. They are the only reason a repeated exposure pattern can be seen before
 it becomes a ghost in the personnel system.
 
 ---
@@ -184,26 +168,24 @@ a promotion shortcut.
 The profile records five domains:
 
 #### Cognitive Continuity
-Ability to preserve working memory, personal orientation, language comprehension, and decision-making after anomaly
-contact.
+Ability to preserve working memory, personal orientation, language
+comprehension, and decision-making after anomaly contact.
 
 #### Memetic Resistance
 Ability to resist or recover from compulsive messages, symbolic contamination, dream instructions, intrusive doctrine,
 hostile songs, and dangerous visual patterns.
 
 #### Reality-Stability Tolerance
-Ability to remain functional when local cause, body condition, spatial rules, time order, or
-object permanence becomes
+Ability to remain functional when local cause, body condition, spatial rules, time order, or object permanence becomes
 unreliable.
 
 #### Emotional Recovery Capacity
-Ability to process fear, guilt, grief, shame, violent exposure, and subject empathy without collapsing
-into numbness
+Ability to process fear, guilt, grief, shame, violent exposure, and subject empathy without collapsing into numbness
 or cruelty.
 
 #### Identity Integrity
-Ability to retain self-recognition, personal history, name stability, moral agency, and role separation after
-exposure.
+Ability to retain self-recognition, personal history, name
+stability, moral agency, and role separation after exposure.
 
 ---
 
@@ -218,29 +200,27 @@ No active restriction beyond standard rotation.
 Minor change observed. Return to duty allowed with monitoring.
 
 #### BRUISED
-Personnel remains functional but has taken meaningful psychological, cognitive, or biological stress. Rotation
-reduction required.
+Personnel remains functional but has taken meaningful psychological,
+cognitive, or biological stress. Rotation reduction required.
 
 #### FRAYED
 Further exposure risks permanent harm. Direct assignment suspended pending review.
 
 #### BROKEN LINE
-Continuity of duty is no longer safe. Personnel requires medical, psychological, memetic, or identity
-stabilization.
+Continuity of duty is no longer safe. Personnel requires medical, psychological, memetic, or identity stabilization.
 Command may not override without emergency O5 authorization.
 
 #### MEMORIALIZED
 Personnel is not dead by ordinary definition, but cannot return as the same operational
 person. This state covers
-severe transformation, identity loss, temporal non-return, unrecoverable cognitive collapse, or status where a normal
-retirement/death label lies.
+severe transformation, identity loss, temporal non-return, unrecoverable
+cognitive collapse, or status where a normal retirement/death label lies.
 
 ---
 
 ### 2.8 Rotation and Cooldown Rules
 
-E-Class and repeated-exposure personnel must rotate away from active anomaly contact when one of
-the following occurs,
+E-Class and repeated-exposure personnel must rotate away from active anomaly contact when one of the following occurs,
 unless O5 seals an emergency exception:
 
 - two WATCHED events in one assignment cycle;
@@ -278,8 +258,7 @@ Personnel Review approve the return.
 
 ### 2.10 Subject-Care Collision Rule
 
-Some subject anomalies require trust, calm, caretaking, or long-term emotional continuity. A handler can
-become part
+Some subject anomalies require trust, calm, caretaking, or long-term emotional continuity. A handler can become part
 of containment. A handler can also become trapped by it.
 
 Subject Care Division must open a collision review when:
@@ -298,8 +277,7 @@ and handler break.
 
 ### 2.11 Retirement, Aftercare, and Civilian Return
 
-A.C.T personnel damaged by exposure retain aftercare rights even when their clearance, memory, or
-employment ends.
+A.C.T personnel damaged by exposure retain aftercare rights even when their clearance, memory, or employment ends.
 Aftercare may include medical treatment, memory-stabilized debriefing, controlled civilian cover, family liaison,
 disability support, sealed truth packets, memorial classification, or protected employment away from anomaly contact.
 
@@ -318,8 +296,7 @@ The following are prohibited under this doctrine:
 - using amnestics to pretend excommunication equals consent;
 - forcing a handler to continue because a subject prefers them;
 - classifying compassion as contamination without evidence;
-  pushing BRUISED E-Class personnel into high-risk duty to meet schedule pressure without recording
-  the
+  pushing BRUISED E-Class personnel into high-risk duty to meet schedule pressure without recording the
   institutional
   violation;
 - keeping transformed personnel on payroll without identity review;

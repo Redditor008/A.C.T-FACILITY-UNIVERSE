@@ -21,25 +21,21 @@
 | AUTHORITY | Subject Care Division, Engineering Division, and Central Archive |
 
 #### Archive Note
-The Listening Plush is the second Lullaby Works product expanded into an individual technology
-record. It is
+The Listening Plush is the second Lullaby Works product expanded into an individual technology record. It is
 catalogued because it is the only recovered Lullaby Works item with a confirmed injury
 to an adult, and because its
 function is a relay rather than a barrier: it does not stop anything, it
 makes a child's distress audible to someone
 who can act.
 
-The Lullaby Works dossier records stuffed animals that produce adult-audible distress sounds when a
-child cannot call
-out, production tags stitched under seams or hidden behind battery plates, and a warranty
-fragment reading **We are
+The Lullaby Works dossier records stuffed animals that produce adult-audible distress sounds when a child cannot call
+out, production tags stitched under seams or hidden behind battery plates, and a warranty fragment reading **We are
 sorry the bear bit the wrong hand.** Those three details are the technical basis
 of this file.
 
 A.C.T does not hold a complete unit. One recovered plush was opened by force
 during early assessment and lost
-protective value; the dossier records that several Lullaby Works items fail violently or lose
-function when opened.
+protective value; the dossier records that several Lullaby Works items fail violently or lose function when opened.
 Inspection policy now forbids opening a service unit.
 
 Controlled label: **LULLABY WORKS CHILD-CARE DISCLOSURE LIMIT**.
@@ -55,28 +51,24 @@ WHEN A CHILD CANNOT.
 
 ## FUNCTION SUMMARY
 
-The Listening Plush converts a child's suppressed distress into sound that an adult elsewhere
-in the building can
+The Listening Plush converts a child's suppressed distress into sound that an adult elsewhere in the building can
 hear. Its design premise is that a frightened or restrained child often cannot call
 out, and that the failure mode
 A.C.T most needs to defeat is silence.
 
 Two response behaviours are confirmed:
 
-**Vocal relay.** The unit produces an adult-audible distress sound when the child holding it
-cannot call out. Witness
+**Vocal relay.** The unit produces an adult-audible distress sound when the child holding it cannot call out. Witness
 accounts describe the sound as a child's voice rather than a mechanical tone, and
 describe it carrying further than a
 normal cry from the same room. **Bite response.** At least one unit bit an
 adult hand. The warranty fragment treats
-this as a product failure rather than as intended behaviour, which indicates the manufacturer
-considers the bite a
+this as a product failure rather than as intended behaviour, which indicates the manufacturer considers the bite a
 misfire.
 
 The dossier assigns the trigger set for Lullaby Works products generally as fear spike,
 intruder presence, nightmare
-repetition, spoken name, room distortion, missing-time return, or the child's request for help. Which
-subset applies
+repetition, spoken name, room distortion, missing-time return, or the child's request for help. Which subset applies
 to the plush line is not confirmed. A.C.T's working assumption is that the plush
 responds to the child's inability to
 speak rather than to the presence of a threat, because a device that only
@@ -92,20 +84,16 @@ a soft exterior.
 
 Manufactured by Lullaby Works. No lot label has been recovered for the plush line,
 in contrast to the nightlight line
-which carries **LW / NIGHTLIGHT LOT SLEEP-SAFE-7**. A.C.T cannot state a production volume, a
-distribution route, or a
+which carries **LW / NIGHTLIGHT LOT SLEEP-SAFE-7**. A.C.T cannot state a production volume, a distribution route, or a
 manufacturing site.
 
 Units reach children through purchase, donation, inheritance, misplaced delivery, school counsellor issue, hospital
 discharge bag, or shelter supply. A.C.T has no reliable way to enumerate units in
 civilian hands.
 
-Custody of recovered material is joint. Subject Care Division owns every decision affecting a
-child in possession of a
-unit. Engineering Division holds the force-opened shell and the seam fragments for construction study.
-Medical
-Division holds the caregiver injury statement referenced by the warranty fragment. No unit in
-a child's possession may
+Custody of recovered material is joint. Subject Care Division owns every decision affecting a child in possession of a
+unit. Engineering Division holds the force-opened shell and the seam fragments for construction study. Medical
+Division holds the caregiver injury statement referenced by the warranty fragment. No unit in a child's possession may
 be removed without Subject Care authorization.
 
 ---
@@ -140,8 +128,7 @@ been located that could account for the reported vocal output; the interior of t
 force-opened unit did not match its
 external volume, and Engineering records this as a construction discrepancy rather than as concealment.
 
-The plush carries the range's stitched **half-moon** mark and the **three quiet nights** warranty
-line. Its
+The plush carries the range's stitched **half-moon** mark and the **three quiet nights** warranty line. Its
 instruction card is the shortest in the recovered set and the only one that
 gives a procedure for an injured adult
 rather than for a frightened child, which is what a manufacturer writes when it
@@ -211,8 +198,7 @@ holds is that separated material samples remain warm.
 
 ## OPERATING PROCEDURE
 
-Units in a child's possession stay there. Field personnel do not confiscate, squeeze, shake,
-or test a service unit.
+Units in a child's possession stay there. Field personnel do not confiscate, squeeze, shake, or test a service unit.
 
 Standing rules:
 
@@ -228,13 +214,11 @@ the unit last; if a unit has bitten an adult, remove the adult from
 the room, do not punish the child, and do not
 return the unit until Subject Care reviews the incident.
 
-The recovered warranty fragment gives the manufacturer's own procedure and A.C.T follows it: wrap
-the injured
+The recovered warranty fragment gives the manufacturer's own procedure and A.C.T follows it: wrap the injured
 caregiver's statement in plain paper, do not punish the child for teaching it fear,
 and submit for replacement review.
 
-External inspection proceeds seam, tag, plate, shell, weight, warmth. Warmth at rest is recorded,
-not investigated in
+External inspection proceeds seam, tag, plate, shell, weight, warmth. Warmth at rest is recorded, not investigated in
 the field.
 
 ### Numbered Operating Sequence
@@ -253,8 +237,7 @@ manufacturer's own route is replacement after review.
 8. Refer the unit and the incident to Subject Care before return.
 
 Steps 6 and 7 follow the recovered warranty fragment exactly. A.C.T adopted the manufacturer's procedure rather than
-writing its own, because the fragment is the only document that shows how the bite failure is meant to be
-handled.
+writing its own, because the fragment is the only document that shows how the bite failure is meant to be handled.
 
 ---
 
@@ -268,9 +251,9 @@ handled.
 | Quarterly | re-inspect the shell and seam fragments |
 | Annually | review the no-opening rule with Engineering |
 
-No calibration is possible and none is scheduled. Servicing is limited to custody confirmation and external
-inspection, because every diagnostic route A.C.T could construct requires damaging a unit that is still protecting a
-child.
+No calibration is possible and none is scheduled. Servicing is limited to
+custody confirmation and external inspection, because every diagnostic route
+A.C.T could construct requires damaging a unit that is still protecting a child.
 
 ---
 
@@ -298,14 +281,11 @@ It cannot be silenced on command and cannot be tested. A.C.T has no method
 to verify that a unit still functions
 without endangering a child.
 
-It cannot be repaired by A.C.T. The manufacturer's own route is replacement after review,
-and A.C.T cannot reach the
+It cannot be repaired by A.C.T. The manufacturer's own route is replacement after review, and A.C.T cannot reach the
 manufacturer.
 
-The bite response is the clearest operational limit. A protective device that injures the
-adult who comes to help can
-delay response, and the warranty fragment confirms the manufacturer treats this as a known
-failure rather than an edge
+The bite response is the clearest operational limit. A protective device that injures the adult who comes to help can
+delay response, and the warranty fragment confirms the manufacturer treats this as a known failure rather than an edge
 case.
 
 ---
@@ -313,25 +293,17 @@ case.
 ## FAILURE HISTORY
 
 ### CAREGIVER BITE INCIDENT — DATE WITHHELD
-A plush bit an adult hand. The manufacturer's warranty fragment acknowledges the event with
-the words **We are sorry
-the bear bit the wrong hand**, instructs that the injured caregiver's statement be wrapped
-in plain paper, states **Do
-not punish the child for teaching it fear**, and approves replacement after review. A.C.T
-preserves the fragment
-because it proves that a failure-review process exists at the manufacturer and that Lullaby
-Works understands misuse
-and unintended injury. The full failure file was never recovered. The incident produced the
-standing
+A plush bit an adult hand. The manufacturer's warranty fragment acknowledges the event with the words **We are sorry
+the bear bit the wrong hand**, instructs that the injured caregiver's statement be wrapped in plain paper, states **Do
+not punish the child for teaching it fear**, and approves replacement after review. A.C.T preserves the fragment
+because it proves that a failure-review process exists at the manufacturer and that Lullaby Works understands misuse
+and unintended injury. The full failure file was never recovered. The incident produced the standing
 no-hands-near-mouth handling rule.
 
 ### FORCE-OPENING LOSS — UNIT 1
-The single plush recovered for assessment was opened by force during early evaluation. It
-lost protective value and
-did not respond afterwards. Engineering could not determine whether the loss was mechanical, material,
-or something
-else, because no component identifiable as the active element was found inside. The event
-produced the standing rule
+The single plush recovered for assessment was opened by force during early evaluation. It lost protective value and
+did not respond afterwards. Engineering could not determine whether the loss was mechanical, material, or something
+else, because no component identifiable as the active element was found inside. The event produced the standing rule
 that no service unit is opened at any clearance level, and that construction study
 is limited to seams, tags, plates,
 and detached material samples.
@@ -339,8 +311,7 @@ and detached material samples.
 ### WARM SAMPLE OBSERVATION
 Material samples removed from a unit remained warm after separation from the body. The
 observation was logged and not
-escalated, because no further testing route existed that did not require damaging a unit
-still in service. It remains
+escalated, because no further testing route existed that did not require damaging a unit still in service. It remains
 the only repeatable physical measurement A.C.T holds on the plush line.
 
 ---
@@ -349,14 +320,11 @@ the only repeatable physical measurement A.C.T holds on the plush line.
 
 Subject Care Division authorizes retention, transfer, and removal, and owns the child relationship. Engineering
 Division inspects inert shells, records warmth and construction discrepancies, and holds the force-opened unit.
-Medical Division holds the caregiver injury statement and advises on bite-risk handling. Containment Division
-treats a
+Medical Division holds the caregiver injury statement and advises on bite-risk handling. Containment Division treats a
 sounding unit as a distress report requiring a welfare check, not as a containment
 event. Archive holds the warranty
-fragment, the instruction card text, and inspection records under restricted access. Intelligence tracks the
-half-moon
-stitch, the three-quiet-nights warranty line, and any recurrence of the plush shape in unrelated
-product lines. Civil
+fragment, the instruction card text, and inspection records under restricted access. Intelligence tracks the half-moon
+stitch, the three-quiet-nights warranty line, and any recurrence of the plush shape in unrelated product lines. Civil
 Covert maintains the cover position for families and does not disclose A.C.T involvement.
 
 ---

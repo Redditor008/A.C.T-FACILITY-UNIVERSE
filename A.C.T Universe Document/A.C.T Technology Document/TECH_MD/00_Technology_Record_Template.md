@@ -41,14 +41,11 @@
 11. File Metadata — creation date, author desk, status, and review condition.
 
 Technology designations use two numbering rules. A.C.T-origin technology uses one sequential number only:
-TECH-ACT-001, TECH-ACT-002, and onward. GOI-linked technology uses the GOI registry number plus a dash-number
-for that
+TECH-ACT-001, TECH-ACT-002, and onward. GOI-linked technology uses the GOI registry number plus a dash-number for that
 group's technology sequence: TECH-GOI-071-1 means the first registered technology attached to GOI number 071.
 The
 dash-number is the technology count under that GOI, not a new GOI designation.
 
-Technology records should be written as working archive documents. They may include censors, redactions,
-partial
-diagrams described in text, test labels, status codes, and unresolved data. They must not
-claim total knowledge when
+Technology records should be written as working archive documents. They may include censors, redactions, partial
+diagrams described in text, test labels, status codes, and unresolved data. They must not claim total knowledge when
 the device is GOI-held, recovered incomplete, or still under field review.

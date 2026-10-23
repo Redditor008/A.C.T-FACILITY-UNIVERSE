@@ -33,11 +33,11 @@ by low candlelight and defeated by digital capture, and a procedural condition, 
 only during a custody hearing. A.C.T holds the lighting condition as confirmed by direct observation and the hearing
 condition as reported by the Office without independent verification.
 
-The handling consequence is that the ledger cannot be digitised into the A.C.T archive in any useful form. The record
-therefore requires transcription by hand under the lighting condition in which the text appears, with the
-transcription marked as a reading rather than as a copy. The inventory's own contents reinforce this: an unpaid
-apology is listed alongside physical objects, and an inventory that omits it is not a shorter inventory but a wrong
-one.
+The handling consequence is that the ledger cannot be digitised into the A.C.T archive in any
+useful form. The record therefore requires transcription by hand under the lighting condition
+in which the text appears, with the transcription marked as a reading rather than as a copy.
+The inventory's own contents reinforce this: an unpaid apology is listed alongside physical
+objects, and an inventory that omits it is not a shorter inventory but a wrong one.
 
 Controlled label: **BURNED-LOCK LEDGER READING RULE**.
 
@@ -79,9 +79,9 @@ unusable as a reference and authoritative as a witness.
 | Paper and ink | NOT MEASURED |
 | Custody status | Restricted holding; not catalogued for search |
 
-The operative row is the digital-capture row. A.C.T has already attempted to scan the fragment and obtained ash
-smears. That attempt is recorded so that no later archivist repeats it and files the blank result as evidence that
-the fragment is illegible.
+The operative row is the digital-capture row. A.C.T has already attempted to scan the
+fragment and obtained ash smears. That attempt is recorded so that no later archivist
+repeats it and files the blank result as evidence that the fragment is illegible.
 
 ---
 
@@ -180,9 +180,9 @@ Applies when A.C.T reads a burned-lock ledger fragment or attends a custody hear
 | Obligation line review | Annual, against A.C.T classification |
 | Legal review refresh | Before any custody acceptance |
 
-The blank-scan register entry is the row that prevents a repeat of the recorded failure. Each capture attempt is
-logged with its blank result, so the archive accumulates evidence that the fragment resists digitisation rather than
-evidence that it is empty.
+The blank-scan register entry is the row that prevents a repeat of the recorded failure.
+Each capture attempt is logged with its blank result, so the archive accumulates
+evidence that the fragment resists digitisation rather than evidence that it is empty.
 
 ---
 
@@ -197,9 +197,9 @@ evidence that it is empty.
 | Fragment read as metaphor | Interpretation breach | Re-read literally; report |
 | Ownership line misread | Assumption of an owner | Transcribe none as none |
 
-The fifth row is the breach the Central Archive addendum names directly: the Office's language is not to be dismissed
-as metaphor during active lock conditions. A reading that treats an unpaid apology as figurative has mis-transcribed
-the inventory.
+The fifth row is the breach the Central Archive addendum names directly: the Office's
+language is not to be dismissed as metaphor during active lock conditions. A reading
+that treats an unpaid apology as figurative has mis-transcribed the inventory.
 
 ---
 
@@ -229,9 +229,9 @@ ledger lists obligations alongside objects and both are inventory.
 
 ### HEARING-GATED TEXT — UNRESOLVED
 
-The dossier records partial inventories readable only during specific custody hearings. A.C.T has not verified this
-and has no method for testing it without attending a hearing it has not been authorised to attend. The condition
-is logged as reported.
+The dossier records partial inventories readable only during specific custody hearings.
+A.C.T has not verified this and has no method for testing it without attending a
+hearing it has not been authorised to attend. The condition is logged as reported.
 
 ---
 

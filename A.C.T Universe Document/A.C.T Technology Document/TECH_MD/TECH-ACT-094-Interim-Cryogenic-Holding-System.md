@@ -21,14 +21,11 @@
 | AUTHORITY | F-1 Holding Officer, Sub-Site Chief, White Grave Site Command, and Central Archive |
 
 #### Archive Note
-Interim Cryogenic Holding System is the ninety-fourth main A.C.T technology expanded into an individual
-record. The
+Interim Cryogenic Holding System is the ninety-fourth main A.C.T technology expanded into an individual record. The
 Frost Hollow Depot dossier defines the depot as White Grave Station's quarantine and staging
 extension: an interim
-cold-storage and quarantine facility built to absorb seasonal biological pressure. The F-1 floor dossier
-identifies
-the deepest level as interim cryogenic holding with intake and staging bay, cryogenic storage
-units, suppression
+cold-storage and quarantine facility built to absorb seasonal biological pressure. The F-1 floor dossier identifies
+the deepest level as interim cryogenic holding with intake and staging bay, cryogenic storage units, suppression
 monitoring stations, transfer preparation area, floor command post, documentation alcove, and F-1 closure procedure.
 
 ICHS exists because Frost Hollow is not the long sleep. It is the waiting
@@ -46,21 +43,16 @@ SUPPRESS BRIEFLY, WATCH CONSTANTLY, TRANSFER BEFORE COMFORT.
 
 ## FUNCTION SUMMARY
 
-The Interim Cryogenic Holding System is the F-1 cold-storage and biological suppression technology used
-by Frost
-Hollow Depot to hold hazardous organic material during staging before transfer to White Grave
-Station. It provides
+The Interim Cryogenic Holding System is the F-1 cold-storage and biological suppression technology used by Frost
+Hollow Depot to hold hazardous organic material during staging before transfer to White Grave Station. It provides
 controlled low-temperature custody for biological arrivals that require suppression, quarantine continuation, transfer
 scheduling, or temporary removal from ordinary movement.
 
-ICHS is not long-term cryogenic containment. It is deliberately narrower than the parent station's
-permanent deep-cold
-holding doctrine. Its purpose is to prevent seasonal transfer waves from over-concentrating at White
-Grave while still
+ICHS is not long-term cryogenic containment. It is deliberately narrower than the parent station's permanent deep-cold
+holding doctrine. Its purpose is to prevent seasonal transfer waves from over-concentrating at White Grave while still
 keeping the depot from becoming a second White Grave by accident. The system maintains
 material for days to weeks,
-documents its state, watches suppression stability, and prepares transfer or silent removal under parent
-authority.
+documents its state, watches suppression stability, and prepares transfer or silent removal under parent authority.
 
 Approved roles include interim cryogenic storage, biological suppression support, intake staging handoff, suppression
 monitoring, transfer preparation, F-1 closure, rolling custody documentation, and escalation to White Grave command.
@@ -69,18 +61,15 @@ monitoring, transfer preparation, F-1 closure, rolling custody documentation, an
 
 ## ORIGIN AND DEVELOPMENT
 
-Frost Hollow Depot was constructed to solve the seasonal pressure problem recorded in the
-sub-site dossier. Biological
-incidents arrive in waves. White Grave cannot receive every incoming case at once without
-crowding its holding levels,
+Frost Hollow Depot was constructed to solve the seasonal pressure problem recorded in the sub-site dossier. Biological
+incidents arrive in waves. White Grave cannot receive every incoming case at once without crowding its holding levels,
 quarantine capacity, and long-term isolation infrastructure. Frost Hollow therefore became the cold buffer: close
 enough to the transport corridors to receive pressure, but limited enough to remain a
 sub-site.
 
 The F-1 floor developed as the depot's secure bottom. It holds material only under
 interim doctrine. That doctrine is
-written into ICHS through custody clocks, transfer schedules, suppression monitors, closure authority, and White
-Grave
+written into ICHS through custody clocks, transfer schedules, suppression monitors, closure authority, and White Grave
 disposition control. A stable frozen case is still a transient case.
 
 ---
@@ -89,8 +78,7 @@ disposition control. A stable frozen case is still a transient case.
 
 An ICHS installation includes intake and staging bay, cryogenic storage units, suppression monitoring stations,
 transfer preparation area, environmental control trunks, documentation alcove, floor command post, emergency power,
-sealed access controls, and F-1 closure hardware. Storage units are arranged for observation and
-extraction rather
+sealed access controls, and F-1 closure hardware. Storage units are arranged for observation and extraction rather
 than resident comfort.
 
 Known components include:
@@ -106,8 +94,7 @@ Known components include:
 - F-1 closure control;
 - silent removal authorization file.
 
-The system is considered active even when empty, because seasonal pressure can return without
-warning.
+The system is considered active even when empty, because seasonal pressure can return without warning.
 
 ---
 
@@ -173,10 +160,8 @@ Unit count, buffer endurance, and failure rate are NOT MEASURED.
 
 ### Numbered Operating Sequence
 
-The sequence records the biological state before cooling. A state recorded only after suppression
-cannot be
-distinguished from the suppression's own effect, and that ambiguity is inherited by the assessment
-level
+The sequence records the biological state before cooling. A state recorded only after suppression cannot be
+distinguished from the suppression's own effect, and that ambiguity is inherited by the assessment level
 above.
 
 1. Receive material at the cold intake staging bay.
@@ -190,20 +175,16 @@ above.
 
 Step 6 is the one staff are most inclined to treat as background. During
 a closed transport season the
-buffer reserve is the only variable separating an interim hold from an unplanned long-term
-one, and it moves
+buffer reserve is the only variable separating an interim hold from an unplanned long-term one, and it moves
 slowly enough to be missed shift by shift.
 
 Before holding, staff confirm quarantine status, biological risk, suppression requirements, expected transfer window,
-White Grave authorization, and whether silent removal authority is attached. Incoming material enters through
-the
-intake and staging bay, receives a holding unit assignment, and is placed under monitored
-cold suppression.
+White Grave authorization, and whether silent removal authority is attached. Incoming material enters through the
+intake and staging bay, receives a holding unit assignment, and is placed under monitored cold suppression.
 
 During holding, Medical Quarantine staff read suppression indicators and biological condition. Security controls
 access and transfer movement. Limited Containment Support maintains the units and environmental systems. If
-suppression fails, the material is escalated to White Grave command. If breach risk appears,
-F-1 closure seals the
+suppression fails, the material is escalated to White Grave command. If breach risk appears, F-1 closure seals the
 level to the outside while records freeze with the occupied units.
 
 ---
@@ -218,8 +199,7 @@ level to the outside while records freeze with the occupied units.
 | Monthly | test emergency power under load |
 | Before winter | confirm buffer capacity for the closed season |
 
-Pre-winter confirmation is the servicing item that matters most. A depot entering the closed
-transport
+Pre-winter confirmation is the servicing item that matters most. A depot entering the closed transport
 season with a full unit row and a thin buffer has already converted an
 interim holding into a long-term one,
 whatever the custody clock says.
@@ -237,33 +217,28 @@ whatever the custody clock says.
 ## KNOWN LIMITS
 
 ICHS cannot replace permanent deep-cold holding, cannot study biological material independently, cannot perform
-transformation work, and cannot keep permanent residents. It is vulnerable to transfer delays, seasonal
-overload,
-biological adaptation to cold, sensor failure, environmental imbalance, and staff fatigue caused by isolation
-and
+transformation work, and cannot keep permanent residents. It is vulnerable to transfer delays, seasonal overload,
+biological adaptation to cold, sensor failure, environmental imbalance, and staff fatigue caused by isolation and
 long-duration cold exposure.
 
-Known failure modes include suppression collapse, thaw-cycle error, overstay, unit mismatch, silent removal dispute,
-parent-station scheduling failure, F-1 closure during transfer preparation, and staff treating interim stability as
-proof of containment success.
+Known failure modes include suppression collapse, thaw-cycle error, overstay, unit
+mismatch, silent removal dispute, parent-station scheduling failure, F-1 closure during
+transfer preparation, and staff treating interim stability as proof of containment success.
 
 ---
 
 ## FAILURE HISTORY
 
 ### ICHS-Seasonal Pressure Formation
-The Frost Hollow dossier records that the depot was built to reduce over-concentration pressure
-on White Grave during
+The Frost Hollow dossier records that the depot was built to reduce over-concentration pressure on White Grave during
 seasonal biological incidents. ICHS formalizes the cold-storage half of that relief.
 
 ### ICHS-Interim Doctrine Review
-A holding exercise showed that days-to-weeks language must be enforced by visible custody clocks
-and parent-station
+A holding exercise showed that days-to-weeks language must be enforced by visible custody clocks and parent-station
 transfer schedules. Current procedure rejects indefinite temporary status.
 
 ### ICHS-Suppression Failure Drill
-A simulated biological adaptation event forced transfer preparation to halt under closure. Current doctrine
-requires
+A simulated biological adaptation event forced transfer preparation to halt under closure. Current doctrine requires
 suppression failure to trigger White Grave review before local staff attempt adjustment.
 
 ---
@@ -271,8 +246,7 @@ suppression failure to trigger White Grave review before local staff attempt adj
 ## DIVISION USE
 
 Medical Quarantine operates biological suppression and condition assessment. Security controls access, closure, and
-movement. Limited Containment Support maintains the cryogenic units. White Grave Site Command owns final
-disposition
+movement. Limited Containment Support maintains the cryogenic units. White Grave Site Command owns final disposition
 and transfer authority.
 
 ICHS doctrine holds that cold delay is useful only while everyone remembers it is

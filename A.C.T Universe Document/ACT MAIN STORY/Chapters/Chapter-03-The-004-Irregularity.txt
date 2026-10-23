@@ -23,9 +23,9 @@ They were internal.
 
 And not low-level internal, either.
 
-They belonged to people whose work should have placed them above accidental sedation, above procedural confusion,
-above routine memory correction. High-clearance names stripped away, rank markers preserved, all of them tied to the
-same phrase:
+They belonged to people whose work should have placed them above accidental sedation,
+above procedural confusion, above routine memory correction. High-clearance names
+stripped away, rank markers preserved, all of them tied to the same phrase:
 
 ABYSS ACCESS RECOVERY.
 
@@ -35,8 +35,8 @@ Her official reconciliation file progressed exactly as expected. She corrected d
 indexing drift. She filed two harmless discrepancies through ordinary review. She let herself be seen doing work that
 looked administrative, because being seen doing the wrong kind of work was safer than being seen doing nothing at all.
 
-At the same time, inside a private notation shell hidden under the grammar of cross-format correction, she built a
-shadow record.
+At the same time, inside a private notation shell hidden under the
+grammar of cross-format correction, she built a shadow record.
 
 Dates. Dosages. Rank markers. Recovery windows. Repeated 004 classifications.
 
@@ -49,9 +49,9 @@ She should have stopped there.
 
 Instead she went looking for supply movement.
 
-Medical records could be argued with. Symptoms could be misfiled. Clearance markers could be buried under emergency
-authority. But supplies moved through the Facility like blood through a body. They left traces even when the people
-using them tried not to.
+Medical records could be argued with. Symptoms could be misfiled. Clearance markers
+could be buried under emergency authority. But supplies moved through the Facility like
+blood through a body. They left traces even when the people using them tried not to.
 
 The East Wing logistics net kept controlled pharmaceutical flow under split authority: Medical, Archive, and Internal
 Security all held pieces, but none held the whole. That was meant to prevent misuse. It also meant the truth of a
@@ -62,10 +62,10 @@ Sera lived in seams.
 By the fourth shift she had enough access fragments to track two years of lower-tier 004 movement without triggering
 escalation review. What she found made her go cold.
 
-The amount of 004-H issued under ordinary witness suppression channels was lower than projected. Not dramatically.
-Just enough to matter if someone was looking at totals rather than incidents. The missing volume had not vanished. It
-had been rerouted under a nested internal category with no direct narrative label, only a maintenance-style
-abbreviation.
+The amount of 004-H issued under ordinary witness suppression channels was lower than
+projected. Not dramatically. Just enough to matter if someone was looking at totals rather
+than incidents. The missing volume had not vanished. It had been rerouted under a nested
+internal category with no direct narrative label, only a maintenance-style abbreviation.
 
 A.R.R.
 
@@ -93,10 +93,10 @@ The Facility was maintaining itself with forgetting.
 
 That was the moment the theory became structure.
 
-Sera leaned back from the terminal and became abruptly aware of the room around her. Archive Administration was in
-full shift rhythm. Sleeves moved. Carts rolled. Someone argued softly over redaction priority near the east aisle.
-Ventilation whispered from the upper ducts. The ordinary life of the buried institution continued in the same steady
-pattern as always.
+Sera leaned back from the terminal and became abruptly aware of the room around her. Archive
+Administration was in full shift rhythm. Sleeves moved. Carts rolled. Someone argued softly
+over redaction priority near the east aisle. Ventilation whispered from the upper ducts. The
+ordinary life of the buried institution continued in the same steady pattern as always.
 
 How many of them, she wondered, were carrying holes they did not know existed?
 
@@ -124,15 +124,15 @@ That worried her more than if he had.
 
 “You didn’t say that one by accident.”
 
-Tavian slid a tray into the cabinet and closed it with unnecessary care. “Then maybe you shouldn’t have heard it on
-purpose.”
+Tavian slid a tray into the cabinet and closed it with unnecessary
+care. “Then maybe you shouldn’t have heard it on purpose.”
 
 Sera stepped into the corridor proper. “What is A.R.R.?”
 
 He went still.
 
-Not visibly enough for anyone walking by to notice. But Sera saw it. The tiny pause in the shoulder. The slight
-tightening of the jaw.
+Not visibly enough for anyone walking by to notice. But Sera saw it.
+The tiny pause in the shoulder. The slight tightening of the jaw.
 
 “You should not know that code.”
 
@@ -232,9 +232,9 @@ Sera said nothing.
 
 He continued before she could ask what that meant.
 
-“They remember things they shouldn’t know yet. They speak in sequence breaks. They recognize names attached to sealed
-records. They describe locations before the route logs are opened in front of them. Sometimes it burns off. Sometimes
-it doesn’t.”
+“They remember things they shouldn’t know yet. They speak in sequence breaks. They
+recognize names attached to sealed records. They describe locations before the route
+logs are opened in front of them. Sometimes it burns off. Sometimes it doesn’t.”
 
 The skin between her shoulders went tight.
 
@@ -253,9 +253,9 @@ He lifted the tray and turned toward the sterilization door.
 
 Sera caught his sleeve before he could leave.
 
-It was a stupid thing to do. Physical contact in the Facility always meant one of two things: urgency or a failure to
-control yourself. She released him immediately, but not before he looked down at her hand and then back at her face
-with something close to alarm.
+It was a stupid thing to do. Physical contact in the Facility always meant one of two
+things: urgency or a failure to control yourself. She released him immediately, but not
+before he looked down at her hand and then back at her face with something close to alarm.
 
 “Have you been reviewed?” she asked.
 
@@ -329,8 +329,8 @@ She stared at the line until it no longer looked like language.
 
 Then she encrypted it twice, buried it under correction syntax, and shut the terminal down.
 
-In the darkness that followed, she sat on the edge of the narrow bed and tried to remember whether she had always
-trusted the archive.
+In the darkness that followed, she sat on the edge of the narrow bed
+and tried to remember whether she had always trusted the archive.
 
 She could no longer tell.
 

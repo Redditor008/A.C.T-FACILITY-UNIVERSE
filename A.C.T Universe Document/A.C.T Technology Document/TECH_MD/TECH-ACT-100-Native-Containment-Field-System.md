@@ -21,17 +21,13 @@
 | AUTHORITY | Enclosure Supervisor, Verde Null Site Command, Environmental Containment Division, and Central Archive |
 
 #### Archive Note
-Native Containment Field System is the one-hundredth main A.C.T technology expanded into an individual
-record. The
-Hollow Canopy Enclosure dossier defines the sub-site as a concealed perimeter network for non-movable
-flora anomalies
-contained in place. It states that repeated relocation failures proved some flora anomalies safer,
-and only
+Native Containment Field System is the one-hundredth main A.C.T technology expanded into an individual record. The
+Hollow Canopy Enclosure dossier defines the sub-site as a concealed perimeter network for non-movable flora anomalies
+contained in place. It states that repeated relocation failures proved some flora anomalies safer, and only
 containable, where they grow. The dossier identifies native containment fields as perimeter-defined sectors where
 flora anomalies are managed in the environment they require.
 
-NCFS exists because for place-bound anomalous flora, the environment is not background. The environment
-is part of
+NCFS exists because for place-bound anomalous flora, the environment is not background. The environment is part of
 containment.
 
 Controlled label: **NCFS DO-NOT-UPROOT FIELD**.
@@ -46,19 +42,15 @@ CONTAIN THE ROOT BY KEEPING THE WORLD AROUND IT STABLE.
 
 ## FUNCTION SUMMARY
 
-The Native Containment Field System is the in-place environmental containment technology used by Hollow
-Canopy
-Enclosure to manage non-movable flora anomalies inside their native or required growth fields. It
-combines concealed
+The Native Containment Field System is the in-place environmental containment technology used by Hollow Canopy
+Enclosure to manage non-movable flora anomalies inside their native or required growth fields. It combines concealed
 perimeters, soil-state control, canopy conditions, root-zone preservation, moisture and nutrient regulation, distance
 observation, resident-specific ecological boundaries, and transport denial doctrine.
 
 NCFS is not a cage placed around a plant. It is the controlled maintenance
 of the living field that makes containment
-possible. Some flora residents degrade, escalate, die, bloom destructively, or become uncontainable when moved
-into
-built chambers. The field therefore becomes the containment unit: soil, shade, fungi, water, insects,
-air movement,
+possible. Some flora residents degrade, escalate, die, bloom destructively, or become uncontainable when moved into
+built chambers. The field therefore becomes the containment unit: soil, shade, fungi, water, insects, air movement,
 distance, and boundary discipline operating together.
 
 Approved roles include place-bound flora containment, native-field preservation, resident environmental management,
@@ -69,11 +61,9 @@ access, and parent-reserve sector reporting.
 
 ## ORIGIN AND DEVELOPMENT
 
-Hollow Canopy's doctrine comes from failure. The Verde Null Bio-Reserve attempted to relocate non-movable
-flora
+Hollow Canopy's doctrine comes from failure. The Verde Null Bio-Reserve attempted to relocate non-movable flora
 anomalies into interior containment, and the results were degradation, escalation, or death. Those failures
-established the relocation-failure records that later shaped the enclosure. Moving the resident was not
-an improvement
+established the relocation-failure records that later shaped the enclosure. Moving the resident was not an improvement
 to containment. For some residents, moving the resident was the breach.
 
 The native containment field developed as the answer. Rather than pull the anomaly into
@@ -86,11 +76,9 @@ monitoring, concealed staff access, research observation, perimeter discipline, 
 
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
-An NCFS sector includes a resident growth zone, root-protection boundary, soil and moisture monitoring
-points,
+An NCFS sector includes a resident growth zone, root-protection boundary, soil and moisture monitoring points,
 concealed perimeter markers, canopy condition controls, minimal-intrusion paths, environmental sampling posts, remote
-observation fixtures, incursion alarms, and sector condition ledgers. Built structures are secondary and minimized
-to
+observation fixtures, incursion alarms, and sector condition ledgers. Built structures are secondary and minimized to
 avoid disturbing the resident field.
 
 Known components include:
@@ -138,8 +126,7 @@ This is containment by geography rather than by structure. The resident cannot b
 without failure, so
 the field itself is the container and every intervention is judged against whether it
 changes the place the
-resident depends on. That inverts the usual priority: staff intrusion is a containment risk,
-not merely an
+resident depends on. That inverts the usual priority: staff intrusion is a containment risk, not merely an
 inconvenience.
 
 ## INTERFACE AND OPERATING ENVELOPE
@@ -173,8 +160,7 @@ Sector count, root extent, and relocation attempts are NOT MEASURED.
 
 ### Numbered Operating Sequence
 
-The sequence is built to be run without entering the growth zone. Observation, sampling,
-and alarm checks
+The sequence is built to be run without entering the growth zone. Observation, sampling, and alarm checks
 are all sited outside the root line for that reason.
 
 1. Read the soil and canopy markers from the observation path.
@@ -193,15 +179,12 @@ a comparison between
 dated entries.
 
 During routine operation, Environmental Containment staff inspect perimeter integrity, soil condition, canopy state,
-water flow, resident growth behavior, and any sign of external approach. Research Support performs
-observation under
-distance and minimal-intrusion limits. Limited Security enforces concealed boundaries and responds to incursion
-without damaging the field.
+water flow, resident growth behavior, and any sign of external approach. Research Support performs observation under
+distance and minimal-intrusion limits. Limited Security enforces concealed
+boundaries and responds to incursion without damaging the field.
 
-No resident-field alteration may occur without parent-reserve authorization. No resident under transport denial may
-be
-moved as a convenience, experiment, or emergency shortcut. If resident condition changes, staff first
-check the field
+No resident-field alteration may occur without parent-reserve authorization. No resident under transport denial may be
+moved as a convenience, experiment, or emergency shortcut. If resident condition changes, staff first check the field
 before touching the resident. If the field fails, containment has already entered emergency review.
 
 ---
@@ -216,8 +199,7 @@ before touching the resident. If the field fails, containment has already entere
 | Seasonally | review resident condition against the field record |
 | Annually | reconfirm the transport-denial determination |
 
-Annual reconfirmation of transport denial is a deliberate friction. The determination is easy to
-leave in
+Annual reconfirmation of transport denial is a deliberate friction. The determination is easy to leave in
 place by habit, and a denial that has not been reviewed cannot be distinguished
 from one that was decided
 and is still correct.
@@ -235,14 +217,11 @@ and is still correct.
 ## KNOWN LIMITS
 
 NCFS depends on environmental continuity. Weather, disease, fire, flood, soil contamination, animal movement, human
-incursion, fungal shift, seasonal stress, or anomaly-driven growth can all change containment conditions. The
-system
-also depends on staff patience. In-place containment can appear passive, but passive-looking containment may
-require
+incursion, fungal shift, seasonal stress, or anomaly-driven growth can all change containment conditions. The system
+also depends on staff patience. In-place containment can appear passive, but passive-looking containment may require
 constant ecological attention.
 
-Known failure modes include root-shock, field drift, perimeter erosion, canopy loss, water change, invasive
-species
+Known failure modes include root-shock, field drift, perimeter erosion, canopy loss, water change, invasive species
 introduction, unauthorized sampling, resident misread, research intrusion, and command pressure to relocate material
 that doctrine says must remain in place.
 
@@ -251,20 +230,16 @@ that doctrine says must remain in place.
 ## FAILURE HISTORY
 
 ### NCFS-Relocation-Failure Formation
-The Hollow Canopy dossier records repeated failed relocation attempts as the origin of the
-enclosure's doctrine. NCFS
-formalizes the lesson that some flora anomalies are contained by preserving location rather than
-by removing them from
+The Hollow Canopy dossier records repeated failed relocation attempts as the origin of the enclosure's doctrine. NCFS
+formalizes the lesson that some flora anomalies are contained by preserving location rather than by removing them from
 it.
 
 ### NCFS-Native Field Expansion Review
-Early native fields relied on simple boundaries. Later review added environmental monitoring because the
-resident's
+Early native fields relied on simple boundaries. Later review added environmental monitoring because the resident's
 field could drift before visible growth changed.
 
 ### NCFS-Transport Denial Enforcement Drill
-A simulated emergency transfer request tested staff willingness to refuse movement. Current procedure treats
-transport
+A simulated emergency transfer request tested staff willingness to refuse movement. Current procedure treats transport
 denial as a containment requirement, not a scheduling obstacle.
 
 ---

@@ -51,18 +51,14 @@ Core rule: never seize a prosthetic that is keeping a survivor functional.
 
 FUNCTION SUMMARY
 
-The Living Prosthetic Memory-Motion System restores movement, sensation, speech, and sight to survivors whose
-bodies
+The Living Prosthetic Memory-Motion System restores movement, sensation, speech, and sight to survivors whose bodies
 were damaged or altered by anomalous events. It is the most widely visible Saint-Vera
 technology, because its patients
 return to civilian life wearing it.
 
-The dossier lists four assessed capabilities that this record treats as one system: prosthetic
-limbs that restore
-sensation using memory-linked nerve media; voice grafts for patients whose original speech was consumed
-or forbidden
-by anomalous exposure; glass ocular implants that filter hostile visual residues without producing full
-blindness; and
+The dossier lists four assessed capabilities that this record treats as one system: prosthetic limbs that restore
+sensation using memory-linked nerve media; voice grafts for patients whose original speech was consumed or forbidden
+by anomalous exposure; glass ocular implants that filter hostile visual residues without producing full blindness; and
 organ support for patients whose internal anatomy has become partially nonstandard.
 
 The defining property is not that the parts work. It is that some of
@@ -71,55 +67,42 @@ learned.
 
 ORIGIN AND CUSTODY
 
-Saint-Vera prosthetic components do not match any registered manufacturer. The same is true of
-the Concern's surgical
+Saint-Vera prosthetic components do not match any registered manufacturer. The same is true of the Concern's surgical
 tool kits, which points to a shared procurement route rather than to a single
 factory. Living prosthetic molds are
-listed among the Concern's known assets, implying the parts are formed per patient rather
-than stocked in sizes.
+listed among the Concern's known assets, implying the parts are formed per patient rather than stocked in sizes.
 
 A.C.T holds no implant and has never held one. Custody is barred where the
 implant is life-sustaining or
-function-sustaining. This is the strictest appropriation limit in the Saint-Vera set, because the object
-is inside a
+function-sustaining. This is the strictest appropriation limit in the Saint-Vera set, because the object is inside a
 person.
 
-The Concern's secrecy classification is Leaking largely because of this technology. A person with
-a living
-prosthetic, an impossible scar, a replacement voice, or nonstandard organ support can expose anomaly
-reality through
-existence alone. The Concern uses cover diagnoses, charity paperwork, and rehabilitation language to reduce
-exposure,
+The Concern's secrecy classification is Leaking largely because of this technology. A person with a living
+prosthetic, an impossible scar, a replacement voice, or nonstandard organ support can expose anomaly reality through
+existence alone. The Concern uses cover diagnoses, charity paperwork, and rehabilitation language to reduce exposure,
 but it will not always erase a survivor's memory to protect normalcy.
 
 PHYSICAL OR SYSTEM DESCRIPTION
 
-Limb assemblies. Formed from a per-patient mold and connected through what the source record
-calls memory-linked
-nerve media. Sensation is restored, not simulated: patients report feeling through the limb. The
-medium itself has not
+Limb assemblies. Formed from a per-patient mold and connected through what the source record calls memory-linked
+nerve media. Sensation is restored, not simulated: patients report feeling through the limb. The medium itself has not
 been recovered or described.
 
-Voice grafts. Used where original speech was consumed or forbidden by anomalous exposure. The
-dossier does
+Voice grafts. Used where original speech was consumed or forbidden by anomalous exposure. The dossier does
 not describe the graft physically. What is recorded is the outcome — a patient
 who could not speak and then could
 — and the fact that the new voice is not always the old one.
 
-Glass ocular implants. These filter hostile visual residues without full blindness. The wording matters:
-the
+Glass ocular implants. These filter hostile visual residues without full blindness. The wording matters: the
 implant is a filter, not a replacement eye, and it preserves sight while removing
 something from what is seen. This is
-the same glass family reported in Saint-Vera theatre lighting, and the relationship between the
-two is unresolved.
+the same glass family reported in Saint-Vera theatre lighting, and the relationship between the two is unresolved.
 
 Organ support. For patients whose internal anatomy has become partially nonstandard. No component description
-exists. Medical Division notes that such support cannot be fully returned to pre-incident condition,
-which makes it
+exists. Medical Division notes that such support cannot be fully returned to pre-incident condition, which makes it
 permanent by design.
 
-Mould and fitting. Living prosthetic molds are prepared before fitting. Whether a mold is
-a negative cast, a
+Mould and fitting. Living prosthetic molds are prepared before fitting. Whether a mold is a negative cast, a
 growth substrate, or a record of the missing limb is not established.
 
 TECHNICAL SPECIFICATION
@@ -181,23 +164,18 @@ Handling Limits And Weaknesses
 - Weakest where a changed voice is filed as a fitting failure.
 
 Nerve-media composition, storage of unlearned motion, and mold behaviour are NOT MEASURED. Site 03 attaches where
-speech and identity continuity are affected; Site 04 where the tissue interface is non-natural.
-OPERATING PROCEDURE
+speech and identity continuity are affected; Site 04 where the tissue interface is non-natural. OPERATING PROCEDURE
 
 Fitting follows the consent read and is gated by it. A patient who refuses
 is not fitted; the refusal is recorded on a
 failure label and archived.
 
-After fitting, ordinary rehabilitation logic inverts. In standard practice the patient learns the prosthetic.
-In
-reported Saint-Vera cases the prosthetic also appears to remember — the patient, the missing
-limb, the incident, or a
-movement pattern that should not exist. Site 03 attaches when speech and identity continuity
-are affected; Site 04
+After fitting, ordinary rehabilitation logic inverts. In standard practice the patient learns the prosthetic. In
+reported Saint-Vera cases the prosthetic also appears to remember — the patient, the missing limb, the incident, or a
+movement pattern that should not exist. Site 03 attaches when speech and identity continuity are affected; Site 04
 attaches when the tissue interface is non-natural.
 
-Testing constraints are strict. A.C.T may not demand that a patient perform pre-injury identity
-for comparison. The
+Testing constraints are strict. A.C.T may not demand that a patient perform pre-injury identity for comparison. The
 purpose of that ban is to prevent assessment from becoming a demand that the
 survivor prove they are still the person
 they were.
@@ -256,29 +234,22 @@ FAULT ISOLATION
 +----------------------------+-------------------------------------------+-------------------------------------------+
 KNOWN LIMITS
 
-A.C.T does not know whether a living prosthetic is alive, semi-autonomous, memory-reactive, or simply
-responsive to
+A.C.T does not know whether a living prosthetic is alive, semi-autonomous, memory-reactive, or simply responsive to
 transformed tissue. All four remain open and none has evidence behind it.
 
-No implant has been recovered, so every physical statement above comes from the Concern's
-own capability descriptions
+No implant has been recovered, so every physical statement above comes from the Concern's own capability descriptions
 and from receiving-facility reports.
 
-Dual filing is mandatory for any prosthetic that acts independently, reproduces, alters memory, changes
-identity
-continuity, or remains active after separation from Saint-Vera personnel. A.C.T has not confirmed any
-of those
-conditions in a specific implant, but the requirement stands because the possibility is assessed
-as real.
+Dual filing is mandatory for any prosthetic that acts independently, reproduces, alters memory, changes identity
+continuity, or remains active after separation from Saint-Vera personnel. A.C.T has not confirmed any of those
+conditions in a specific implant, but the requirement stands because the possibility is assessed as real.
 
 FAILURE HISTORY
 
 Unlearned Motion Reports - DATE WITHHELD
 
-Across multiple cases, fitted survivors have demonstrated movement they did not possess before the
-incident. No case
-is individually filed because none was observed under A.C.T control. The pattern is recorded
-as the parent GOI file's
+Across multiple cases, fitted survivors have demonstrated movement they did not possess before the incident. No case
+is individually filed because none was observed under A.C.T control. The pattern is recorded as the parent GOI file's
 persistent question: why do some prosthetics remember movement the patient never learned before the
 incident?
 
@@ -292,19 +263,14 @@ further action.
 
 DIVISION USE
 
-Medical Division evaluates implant safety and any request for prosthetic review. Subject Care Division
-owns identity
-continuity and the ban on pre-injury comparison testing. Transformation Review Board participation is required
-where a
+Medical Division evaluates implant safety and any request for prosthetic review. Subject Care Division owns identity
+continuity and the ban on pre-injury comparison testing. Transformation Review Board participation is required where a
 prosthetic stabilizes or preserves an altered-body state. Intelligence Division tracks unmatched component signatures
-and donor channels supplying rare tissue substitutes. Civil Covert Division attaches where a fitted
-survivor returns
+and donor channels supplying rare tissue substitutes. Civil Covert Division attaches where a fitted survivor returns
 to work, insurance, or disability systems.
 
-A.C.T may not seize a life-sustaining prosthetic for research convenience. Where a prosthetic is
-keeping a survivor
-walking, breathing, seeing, speaking, or free from pain escalation, Medical and Subject Care authority
-overrides
+A.C.T may not seize a life-sustaining prosthetic for research convenience. Where a prosthetic is keeping a survivor
+walking, breathing, seeing, speaking, or free from pain escalation, Medical and Subject Care authority overrides
 evidence inventory unless an immediate containment hazard exists.
 
 CROSS-REFERENCES

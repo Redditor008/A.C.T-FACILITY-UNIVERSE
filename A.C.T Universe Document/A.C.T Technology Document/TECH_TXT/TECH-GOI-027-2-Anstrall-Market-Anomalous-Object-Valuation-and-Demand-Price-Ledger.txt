@@ -37,11 +37,10 @@ TECHNOLOGY RECORD - ANSTRALL MARKET ANOMALOUS OBJECT VALUATION AND DEMAND-PRICE 
 
 Archive Note
 The Market prices an anomalous object before any party is allowed to test it.
-Intelligence Division records the phase as Valuation: commercial worth is estimated through rarity, perceived
-utility, danger, transport difficulty, buyer demand, and secrecy cost. A.C.T classifies the method as
-acquired GOI technology because the ledger is what converts an uncontrolled object into a
-purchasable commodity, and because its entries reveal what outside actors believe an anomaly can
-do.
+Intelligence Division records the phase as Valuation: commercial worth is estimated through rarity,
+perceived utility, danger, transport difficulty, buyer demand, and secrecy cost. A.C.T classifies the
+method as acquired GOI technology because the ledger is what converts an uncontrolled object into a
+purchasable commodity, and because its entries reveal what outside actors believe an anomaly can do.
 
 The ledger does not price understanding; it prices demand. Recovered valuation notes show the
 same object carrying different figures depending on whether the buyer sought private possession, profit,
@@ -79,8 +78,7 @@ of doing to reality, people, information, and structural stability.
 
 Read correctly, the ledger is the closest thing the archive has to a demand
 forecast. A figure that climbs without any change in the object describes a buyer
-population that has learned something, and that change is worth more to interdiction than
-the object itself.
+population that has learned something, and that change is worth more to interdiction than the object itself.
 
 
 ORIGIN AND CUSTODY
@@ -255,14 +253,12 @@ The method fails wherever effect and consequence diverge. An object that produce
 repeatable effect may be priced highly even if its secondary effects are unknown, while
 an item that appears inert may be undervalued, discarded, or handled carelessly. A client
 may pay for a claimed weapon and receive a trigger condition that damages the
-client, the handler, or the surrounding environment, and the ledger records that transaction as
-a success.
+client, the handler, or the surrounding environment, and the ledger records that transaction as a success.
 
 It also cannot be completed. A.C.T has not recovered a full Market ledger and
-cannot determine which price factors are formal Anstrall policy and which are individual broker
-judgment. No surviving record establishes whether the Market has ever priced an object it
-later learned was already in Facility custody, and Intelligence Division treats that possibility as
-unresolved rather than absent.
+cannot determine which price factors are formal Anstrall policy and which are individual broker judgment.
+No surviving record establishes whether the Market has ever priced an object it later learned was already
+in Facility custody, and Intelligence Division treats that possibility as unresolved rather than absent.
 
 
 FAILURE HISTORY

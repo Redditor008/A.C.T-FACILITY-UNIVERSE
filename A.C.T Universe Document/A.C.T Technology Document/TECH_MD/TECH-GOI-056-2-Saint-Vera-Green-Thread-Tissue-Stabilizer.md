@@ -36,10 +36,8 @@ Core rule: do not cut the thread until the burn stops spelling.
 
 ## FUNCTION SUMMARY
 
-The Green-Thread Tissue Stabilizer is a surgical closure material that holds damaged tissue shut
-and, in at least one
-confirmed case, prevented a symbol-burn injury from spreading further across the body for roughly
-eighteen hours. It
+The Green-Thread Tissue Stabilizer is a surgical closure material that holds damaged tissue shut and, in at least one
+confirmed case, prevented a symbol-burn injury from spreading further across the body for roughly eighteen hours. It
 is assessed under the Concern's **Engineering** anomalous capability.
 
 It is not suture. Ordinary suture approximates wound edges and waits for biology. Green
@@ -48,12 +46,9 @@ boundary — a line past which an injury, a transformation, or a written symbol
 will not travel — and to hold that
 boundary for a measurable period before it must be re-evaluated.
 
-The dossier lists three related assessed capabilities that this record treats as one family:
-skin-thread stabilization
-for symbol burns that reopen under spoken triggers, and scar locks that prevent transformation
-spread past a chosen
-boundary. Whether these are the same material applied differently or three distinct products is
-unresolved.
+The dossier lists three related assessed capabilities that this record treats as one family: skin-thread stabilization
+for symbol burns that reopen under spoken triggers, and scar locks that prevent transformation spread past a chosen
+boundary. Whether these are the same material applied differently or three distinct products is unresolved.
 
 ## ORIGIN AND CUSTODY
 
@@ -63,8 +58,7 @@ compounds, and green thread is a candidate for that route. Nothing in the source
 record identifies a manufacturer, a
 synthesis method, or a biological origin.
 
-A.C.T custody is limited to loose fibers. Medical Division's written instruction on the green-thread
-transfer case was
+A.C.T custody is limited to loose fibers. Medical Division's written instruction on the green-thread transfer case was
 explicit: photograph, sample loose fibers only, and maintain patient temperature below fever threshold. Thread
 attached to a living patient is medical equipment first and evidence second.
 
@@ -74,8 +68,7 @@ preference, and it overrides evidence inventory.
 
 ## PHYSICAL AND MECHANICAL DESCRIPTION
 
-Recovered fibers are described as pale green, fine, and fibrous. No diameter, tensile figure,
-or composition is on
+Recovered fibers are described as pale green, fine, and fibrous. No diameter, tensile figure, or composition is on
 file. Fibers sampled from transfer cases have not degraded in storage, which is itself
 noted but unexplained.
 
@@ -87,15 +80,12 @@ lateral spread. In the confirmed case the injury was a symbol burn, and the
 spread being held was the burn's continued
 writing across the patient's body.
 
-**Time-limited action.** Eighteen hours is the only confirmed figure, from one case. Medical Division
-recorded it as
-an approximation. There is no evidence the thread works indefinitely, and no evidence about
-what happens at the end of
+**Time-limited action.** Eighteen hours is the only confirmed figure, from one case. Medical Division recorded it as
+an approximation. There is no evidence the thread works indefinitely, and no evidence about what happens at the end of
 the window other than the instruction not to cut it until the burn stops
 spelling.
 
-**Heat sensitivity.** The instruction to keep the patient below fever threshold ties thread performance
-to
+**Heat sensitivity.** The instruction to keep the patient below fever threshold ties thread performance to
 temperature. Whether heat degrades the fiber, accelerates the injury, or both is not established.
 
 ## TECHNICAL SPECIFICATION
@@ -116,9 +106,9 @@ from loose fibres in storage. No diameter, tensile figure, or composition is on 
 | Removal for study | prohibited while stabilising |
 | Seizure while life-saving | barred, overrides inventory |
 
-The confirmed-cases row is the one that limits every other claim. Eighteen hours comes from a single patient and was
-recorded by Medical Division as an approximation, so it is cited as a figure from one case and never as
-a service life.
+The confirmed-cases row is the one that limits every other claim. Eighteen hours
+comes from a single patient and was recorded by Medical Division as an
+approximation, so it is cited as a figure from one case and never as a service life.
 
 ## INTERFACE AND OPERATING ENVELOPE
 
@@ -151,14 +141,12 @@ comes from a Saint-Vera card and is the only direct evidence that the injury beh
 
 Field teams encountering green thread on a patient follow a fixed order. Photograph the
 closure in place before
-anything is moved. Record the patient's temperature. Record whether the patient answers to an
-old name, a new name,
+anything is moved. Record the patient's temperature. Record whether the patient answers to an old name, a new name,
 both, or neither. Keep the patient below fever threshold. Sample only fibers that have
 come loose. Do not cut, re-tie,
 sterilize, burn, or remove active thread.
 
-The transfer card language that accompanies green-thread cases is part of the procedure rather
-than decoration:
+The transfer card language that accompanies green-thread cases is part of the procedure rather than decoration:
 
 ```text
 Do not cut the thread until the burn stops spelling.
@@ -168,8 +156,7 @@ If the patient answers to the new name, record that too.
 Neither answer is proof of death.
 ```
 
-Subject Care treats those lines as clinical instructions with identity consequences. Both names are
-recorded because
+Subject Care treats those lines as clinical instructions with identity consequences. Both names are recorded because
 neither answer settles continuity, and forcing a choice would create a record that the
 patient did not give.
 
@@ -215,8 +202,7 @@ Nothing in the file supports that, and the review is the point at which the dist
 | Loose fibre inert | expected, not a device | record, do not infer |
 ## KNOWN LIMITS
 
-One confirmed case is not a performance specification. Eighteen hours against one injury type,
-in one patient, under
+One confirmed case is not a performance specification. Eighteen hours against one injury type, in one patient, under
 one set of transport conditions, is the entire measured basis for this record.
 
 A.C.T does not know whether the thread acts on tissue, on the injury, or
@@ -233,32 +219,25 @@ device.
 
 ### Domestic Mirror-Burn Case - DATE WITHHELD
 
-A survivor of a domestic mirror-burn incident was delivered breathing, febrile, recognizing a sibling,
-and refusing
+A survivor of a domestic mirror-burn incident was delivered breathing, febrile, recognizing a sibling, and refusing
 mirror exposure. Medical Division confirmed the green-thread closure prevented further symbol spread for approximately
 eighteen hours. The patient retained partial memory of the incident and asked that no
 amnestic decision be made before
-speaking with family. Subject Care granted delayed memory review under Level 4 restriction. This
-is the case the
+speaking with family. Subject Care granted delayed memory review under Level 4 restriction. This is the case the
 eighteen-hour figure comes from, and it is the only one.
 
 ### Airway Preservation Case - DATE WITHHELD
 
 In the transformation-care transfer case, Medical Division confirmed that Saint-Vera intervention prevented airway
-failure before ordinary transport could reach secure care. The addendum ordered that stabilizing thread
-not be removed
-for study. No failure occurred; the entry is filed because it establishes the precedence
-of stabilization over
+failure before ordinary transport could reach secure care. The addendum ordered that stabilizing thread not be removed
+for study. No failure occurred; the entry is filed because it establishes the precedence of stabilization over
 evidence collection.
 
 ## DIVISION USE
 
-Medical Division owns the material question and every removal decision. Containment attaches when the
-injury being
-held is contagious, memetic, or transformation-linked, and when the eighteen-hour window is approaching without
-a
-receiving facility. Subject Care Division owns the naming record and the delayed memory review.
-Intelligence Division
+Medical Division owns the material question and every removal decision. Containment attaches when the injury being
+held is contagious, memetic, or transformation-linked, and when the eighteen-hour window is approaching without a
+receiving facility. Subject Care Division owns the naming record and the delayed memory review. Intelligence Division
 tracks green-thread route sightings and donor channels that could supply the material.
 
 No A.C.T site may attempt to reproduce a green-thread closure from fiber samples. The

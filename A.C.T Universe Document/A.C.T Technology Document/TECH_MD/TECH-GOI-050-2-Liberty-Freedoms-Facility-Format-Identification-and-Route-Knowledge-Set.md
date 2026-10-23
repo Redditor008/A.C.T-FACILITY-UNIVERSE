@@ -242,8 +242,7 @@ was a defector-test verifying that former-insider knowledge of schedules and for
 
 The set fails as Facility formats rotate and as schedules change faster than recruitment
 can replace them. Staleness is the network's weakest condition, which is why it tests
-rather than assumes, and why an interception that takes nothing is still an intelligence
-event.
+rather than assumes, and why an interception that takes nothing is still an intelligence event.
 
 ### DEFECTOR ORIGIN — UNRESOLVED
 

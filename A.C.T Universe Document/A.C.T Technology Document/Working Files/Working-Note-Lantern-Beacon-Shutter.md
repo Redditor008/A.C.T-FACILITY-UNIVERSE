@@ -5,10 +5,9 @@
 
 Spent an hour with the beacon. Notes, not conclusions.
 
-Shutter drum has six positions and I can only free four. The two stuck ones sit opposite each
-other, which is either damage or design and I cannot tell which. If it is design then the drum was
-never meant to show those two colours, and the Accord's own list has six, so that would be
-interesting.
+Shutter drum has six positions and I can only free four. The two stuck ones sit opposite each other,
+which is either damage or design and I cannot tell which. If it is design then the drum was never
+meant to show those two colours, and the Accord's own list has six, so that would be interesting.
 
 Tried to photograph the inner face. The shutter blocks it from every angle I could reach without
 forcing anything, so no photograph.

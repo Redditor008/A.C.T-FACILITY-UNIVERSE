@@ -8,10 +8,8 @@
 | AUTHORITY | Civil Covert Division, Intelligence Division, and Central Archive |
 
 #### Archive Note
-This doctrine defines how A.C.T manufactures public explanations after anomalous incidents. It does not
-celebrate
-deception. It records the machinery that keeps civilian life from collapsing under truths it
-has not been allowed to
+This doctrine defines how A.C.T manufactures public explanations after anomalous incidents. It does not celebrate
+deception. It records the machinery that keeps civilian life from collapsing under truths it has not been allowed to
 survive.
 
 ---
@@ -28,16 +26,13 @@ A.C.T's public face is not a logo, law, flag, or ministry. Its public face
 is the ordinary explanation left behind
 after the impossible is removed.
 
-Normalcy management is the controlled construction of believable civilian reality after anomaly contact. It
-includes
+Normalcy management is the controlled construction of believable civilian reality after anomaly contact. It includes
 cover stories, witness handling, institutional liaison, document adjustment, medical misdirection, legal masking,
 media quieting, memory treatment, and the careful use of truth when a lie would
 create more damage.
 
-A.C.T does not preserve normalcy because normal life is naturally true. It preserves normalcy
-because mass exposure to
-the anomalous can create panic, imitation, worship, weaponization, political collapse, or a second anomaly
-made from
+A.C.T does not preserve normalcy because normal life is naturally true. It preserves normalcy because mass exposure to
+the anomalous can create panic, imitation, worship, weaponization, political collapse, or a second anomaly made from
 public belief.
 
 ---
@@ -53,25 +48,22 @@ Tracks leak probability, GOI interference, hostile documentation, online pattern
 whether a cover story will attract the wrong attention.
 
 #### Recovery Division
-Secures the physical scene, removes anomalous material, isolates witnesses, and preserves the first raw
-truth before
+Secures the physical scene, removes anomalous material, isolates witnesses, and preserves the first raw truth before
 Civil Covert replaces it.
 
 #### Medical Care Division
-Provides medical-compatible explanations, hospital redirection, exposure diagnosis, and post-amnestic health
-continuity.
+Provides medical-compatible explanations, hospital redirection,
+exposure diagnosis, and post-amnestic health continuity.
 
 #### Archiver Division
-Maintains the true record, controlled false record, redaction chain, and contradiction log. The archive
-must remember
+Maintains the true record, controlled false record, redaction chain, and contradiction log. The archive must remember
 what the public file is designed to forget.
 
 ---
 
 ### 3.3 Narrative Status Field
 
-Every anomaly file with civilian exposure should keep a **Narrative Status** field or equivalent
-note. The field
+Every anomaly file with civilian exposure should keep a **Narrative Status** field or equivalent note. The field
 records the public explanation currently in force.
 
 Common narrative status types:
@@ -91,8 +83,7 @@ Common narrative status types:
 - classified government exercise;
 - no public narrative required.
 
-The narrative status is not decorative. It tells future personnel what lie civilians are
-living inside.
+The narrative status is not decorative. It tells future personnel what lie civilians are living inside.
 
 ---
 
@@ -114,8 +105,7 @@ Multiple agencies, news items, social records, and witness clusters require coor
 State-level cooperation, major media control, large-scale amnestic logistics, and legal restructuring are required.
 
 #### N-5 — Structural Normalcy Operation
-The event threatens the public's model of reality. A.C.T must manage memory, institutions, archives,
-language, and
+The event threatens the public's model of reality. A.C.T must manage memory, institutions, archives, language, and
 future pattern recognition at once.
 
 ---
@@ -143,8 +133,7 @@ safety offices, and disaster-recovery consultants.
 
 ### 3.6 Witness Handling
 
-Witnesses are not obstacles. They are civilians who encountered something A.C.T failed to keep
-away from them.
+Witnesses are not obstacles. They are civilians who encountered something A.C.T failed to keep away from them.
 
 Witness handling must choose the least damaging effective response:
 
@@ -177,8 +166,7 @@ Amnestics are a normalcy tool, not a universal eraser. Their use must account fo
 - whether the witness needs a truth shard to remain psychologically stable.
 
 The NEMNOLIA 004-series remains the major institutional example of transformation becoming normalcy infrastructure.
-That origin must remain visible to authorized staff. If A.C.T forgets where its amnestics
-came from, the normalcy
+That origin must remain visible to authorized staff. If A.C.T forgets where its amnestics came from, the normalcy
 system begins lying to itself.
 
 ---
@@ -199,23 +187,19 @@ Civil Covert may influence:
 - archival catalogues;
 - search-engine surfaces.
 
-Archiver Division must retain the contradiction ledger: the real event, the public story, who
-approved the public
+Archiver Division must retain the contradiction ledger: the real event, the public story, who approved the public
 story, and what future harm the cover may cause.
 
 ---
 
 ### 3.9 Cultural and Folklore Covers
 
-A.C.T sometimes allows folklore to persist because folklore can contain truth safely. A village
-may remember a shrine
+A.C.T sometimes allows folklore to persist because folklore can contain truth safely. A village may remember a shrine
 spirit, a haunted road, a forbidden forest, a ghost light, or a monster rumor
 without producing mass exposure.
 
-Civil Covert must not automatically erase cultural memory. Some communities have built soft containment
-around
-anomalies before A.C.T arrived. If a public myth keeps civilians away, stabilizes a subject,
-or prevents harmful
+Civil Covert must not automatically erase cultural memory. Some communities have built soft containment around
+anomalies before A.C.T arrived. If a public myth keeps civilians away, stabilizes a subject, or prevents harmful
 curiosity, destruction of the myth may be worse than controlled tolerance.
 
 ---

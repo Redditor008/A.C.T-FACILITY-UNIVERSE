@@ -21,17 +21,13 @@
 | AUTHORITY | Security Division, Relay Administration, Site Director, and Central Archive |
 
 #### Archive Note
-Seismic Preparedness Shelter and Response System is the seventy-eighth main A.C.T technology expanded into
-an
-individual record. The F-5 Personnel and Command Level dossier identifies seismic preparedness as part
-of the floor's
+Seismic Preparedness Shelter and Response System is the seventy-eighth main A.C.T technology expanded into an
+individual record. The F-5 Personnel and Command Level dossier identifies seismic preparedness as part of the floor's
 security posture and states that personnel-level procedures include response doctrine for large-scale tectonic shifts.
-It also identifies personnel housing as engineered for an island installation in a seismically
-active region where the
+It also identifies personnel housing as engineered for an island installation in a seismically active region where the
 environment itself demands resilience.
 
-SPSRS exists because Nusantara does not treat earthquakes as background weather. The ground is
-both the site
+SPSRS exists because Nusantara does not treat earthquakes as background weather. The ground is both the site
 foundation and part of what the relay watches.
 
 Controlled label: **SPSRS ISLAND-RESILIENCE LIMIT**.
@@ -47,17 +43,14 @@ PROTECT THE WATCHERS BEFORE THE WATCH LOSES MEANING.
 ## FUNCTION SUMMARY
 
 The Seismic Preparedness Shelter and Response System is the personnel-protection and emergency response architecture
-built into Nusantara Deep Relay's F-5 level and connected floors. It combines shelter zones,
-route control, personnel
+built into Nusantara Deep Relay's F-5 level and connected floors. It combines shelter zones, route control, personnel
 accountability, emergency supplies, protected communications, medical staging, seismic alert integration, and drill
 doctrine for tectonic, volcanic, structural, and anomaly-adjacent ground events.
 
 SPSRS is not a simple earthquake alarm. It is a site survival system for
 a facility whose ordinary environment and
-anomalous mandate both involve movement below the ground. It keeps personnel alive, counted, routed,
-and commanded
-while the relay decides whether an event is ordinary tectonic motion, anomalous deep movement,
-facility damage, or a
+anomalous mandate both involve movement below the ground. It keeps personnel alive, counted, routed, and commanded
+while the relay decides whether an event is ordinary tectonic motion, anomalous deep movement, facility damage, or a
 combined incident.
 
 Approved roles include seismic alert response, personnel sheltering, emergency route selection, command continuity
@@ -67,21 +60,14 @@ support, medical staging, evacuation freeze, floor accountability, and post-even
 
 ## ORIGIN AND DEVELOPMENT
 
-Nusantara Deep Relay operates in a region of genuine tectonic and volcanic activity. This
-fact is not incidental. It
-justifies the relay's public cover, shapes its engineering, and complicates its anomaly work. Personnel
-live on-site,
-descend to deep floors, support maritime platforms, and work above sensitive monitoring infrastructure. A
-large tremor
-can therefore become a personnel emergency, command event, containment concern, and data problem at
-once.
+Nusantara Deep Relay operates in a region of genuine tectonic and volcanic activity. This fact is not incidental. It
+justifies the relay's public cover, shapes its engineering, and complicates its anomaly work. Personnel live on-site,
+descend to deep floors, support maritime platforms, and work above sensitive monitoring infrastructure. A large tremor
+can therefore become a personnel emergency, command event, containment concern, and data problem at once.
 
-F-5 became the center of seismic preparedness because it houses personnel, command, administration, logistics,
-and
-medical support. SPSRS developed to join those functions. Early plans that treated seismic response
-as ordinary
-evacuation were rejected because deep floors, sealed records, water-capable chambers, and F-1 closure doctrine
-can
+F-5 became the center of seismic preparedness because it houses personnel, command, administration, logistics, and
+medical support. SPSRS developed to join those functions. Early plans that treated seismic response as ordinary
+evacuation were rejected because deep floors, sealed records, water-capable chambers, and F-1 closure doctrine can
 make immediate upward movement unsafe or unauthorized.
 
 ---
@@ -90,8 +76,7 @@ make immediate upward movement unsafe or unauthorized.
 
 SPSRS includes reinforced shelter areas, personnel-accountability panels, seismic alert repeaters, emergency route
 boards, protected command links, medical staging cabinets, floor-status lights, evacuation lock controls, supply
-caches, and drill record stations. Shelter locations are distributed so staff do not have
-to cross sensitive command,
+caches, and drill record stations. Shelter locations are distributed so staff do not have to cross sensitive command,
 logistics, or access chokepoints during immediate ground motion.
 
 Known components include:
@@ -185,19 +170,15 @@ Step-down: accountability closes at the post-event status terminal and the drill
 Emergency: route priority is assigned by incident class before personnel leave shelter, because evacuation
 routes have intersected Security movement toward lower floors in exercise.
 
-When Seismic Analysis or local sensors issue an alert, SPSRS activates floor signals and
-route instructions according
+When Seismic Analysis or local sensors issue an alert, SPSRS activates floor signals and route instructions according
 to event severity. Personnel report to assigned shelter zones or remain in place if
 movement is more dangerous than
-sheltering. Security confirms access cores. Medical prepares triage stations. Command determines whether the event
-is
+sheltering. Security confirms access cores. Medical prepares triage stations. Command determines whether the event is
 ordinary geological, site-structural, maritime-linked, or anomaly candidate.
 
 During severe events, SPSRS may freeze nonessential movement while preserving priority paths for Containment,
-Security, Medical, and command response. After motion ceases, floor accountability is reconciled against duty
-rosters,
-access logs, and movement records. No all-clear is issued until Engineering, Security, and Seismic
-Analysis each clear
+Security, Medical, and command response. After motion ceases, floor accountability is reconciled against duty rosters,
+access logs, and movement records. No all-clear is issued until Engineering, Security, and Seismic Analysis each clear
 their part of the event.
 
 ---
@@ -215,8 +196,7 @@ their part of the event.
 
 No calendar interval is recorded; the system is exercised by drill rather than serviced
 on a schedule, so
-interval NOT MEASURED. Supply cache stock is the consumable. The false ordinary event review
-is why
+interval NOT MEASURED. Supply cache stock is the consumable. The false ordinary event review is why
 classification precedes release rather than following it.
 
 ## FAULT ISOLATION
@@ -232,18 +212,13 @@ classification precedes release rather than following it.
 
 ## KNOWN LIMITS
 
-SPSRS cannot prevent earthquakes, volcanic events, or anomalous ground behavior. It can preserve personnel
-discipline
-and response structure, but it depends on drills, current rosters, intact routes, and accurate
-floor status. It may
-conflict with containment routes if an incident strikes during resident transfer or restricted record
-movement.
+SPSRS cannot prevent earthquakes, volcanic events, or anomalous ground behavior. It can preserve personnel discipline
+and response structure, but it depends on drills, current rosters, intact routes, and accurate floor status. It may
+conflict with containment routes if an incident strikes during resident transfer or restricted record movement.
 
-Known failure modes include panic movement, wrong shelter assignment, outdated roster, blocked route, delayed
-medical
+Known failure modes include panic movement, wrong shelter assignment, outdated roster, blocked route, delayed medical
 staging, false all-clear, command communication loss, shelter overcrowding, and treating anomalous ground behavior as
-ordinary earthquake response. The system protects personnel best when staff understand that survival and
-containment
+ordinary earthquake response. The system protects personnel best when staff understand that survival and containment
 are not enemies, but must be sequenced.
 
 ---
@@ -251,22 +226,17 @@ are not enemies, but must be sequenced.
 ## FAILURE HISTORY
 
 ### SPSRS-F-5 Preparedness Formation
-The F-5 dossier identifies seismic preparedness as part of the personnel level's security posture.
-SPSRS was
-formalized to make that preparedness an integrated shelter and response system rather than a
-written drill only.
+The F-5 dossier identifies seismic preparedness as part of the personnel level's security posture. SPSRS was
+formalized to make that preparedness an integrated shelter and response system rather than a written drill only.
 
 ### SPSRS-Route Conflict Drill
-A tectonic-response exercise found that routine evacuation routes could intersect with Security movement toward
-lower
-floors. Current procedure assigns route priority by incident class before personnel are released from
-shelter.
+A tectonic-response exercise found that routine evacuation routes could intersect with Security movement toward lower
+floors. Current procedure assigns route priority by incident class before personnel are released from shelter.
 
 ### SPSRS-False Ordinary Event Review
-A ground-motion event first treated as ordinary tectonic activity later showed unusual signal alignment
-below F-1.
-Current procedure requires Seismic Analysis review before final all-clear when readings deviate from regional
-baseline.
+A ground-motion event first treated as ordinary tectonic activity later showed unusual signal alignment below F-1.
+Current procedure requires Seismic Analysis review before
+final all-clear when readings deviate from regional baseline.
 
 ---
 
@@ -276,8 +246,7 @@ Security operates shelter activation and route control. Administration maintains
 stages care and triage. Command decides site posture. Engineering clears structural safety. Seismic Analysis
 determines whether ground movement remains ordinary or requires restricted review.
 
-SPSRS doctrine holds that personnel safety is not separate from containment. A site that
-cannot protect its watchers
+SPSRS doctrine holds that personnel safety is not separate from containment. A site that cannot protect its watchers
 cannot keep watching.
 
 ---

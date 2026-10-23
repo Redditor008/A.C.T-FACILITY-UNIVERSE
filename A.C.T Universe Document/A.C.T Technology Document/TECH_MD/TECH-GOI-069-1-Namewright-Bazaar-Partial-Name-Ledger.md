@@ -24,9 +24,8 @@ the trade running through six kinds of recognition — paper, memory, family, le
 predatory — and a Mouth Factor assesses which of the six a buyer needs to lose before a Ledger
 Mother looks for a name. The ledger is where she finds one.
 
-This file is therefore written as a Subject Care document that happens to be filed under
-technology, and the ordering is deliberate: what the ledger does to a person comes before what it
-tells Intelligence.
+This file is therefore written as a Subject Care document that happens to be filed under technology, and
+the ordering is deliberate: what the ledger does to a person comes before what it tells Intelligence.
 
 **NAME LEDGER DISCLOSURE RULE**
 
@@ -43,8 +42,7 @@ evidence about the person it names.
 It indexes names available for substitution. A buyer presents a need, a Mouth Factor assesses which
 recognition must be lost, and the Ledger Mother consults the ledger for a source name that fits. The
 ledger names a target and does not itself effect anything; the binding is performed afterwards
-through documents, speech, signatures, hair, blood, school records, gravesoil and hospital
-bracelets.
+through documents, speech, signatures, hair, blood, school records, gravesoil and hospital bracelets.
 
 ## 1.2 What cannot be said about it
 
@@ -125,9 +123,8 @@ Recorded for recognition. It is not a Facility procedure and no personnel may fo
 - whether a person named in the ledger can be warned, and who decides that;
 - whether the full Bazaar books can be recovered under the dismantlement order.
 
-The fifth question is live and has no answer here. A person whose name was assessed as available may
-have a right to know, and warning them may also expose the seizure. Legal holds that decision and it
-has not been made.
+The fifth question is live and has no answer here. A person whose name was assessed as available may have a
+right to know, and warning them may also expose the seizure. Legal holds that decision and it has not been made.
 
 ---
 

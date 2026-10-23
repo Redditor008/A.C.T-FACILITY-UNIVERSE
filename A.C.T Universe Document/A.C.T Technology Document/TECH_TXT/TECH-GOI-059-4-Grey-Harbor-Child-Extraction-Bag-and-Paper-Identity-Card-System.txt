@@ -38,11 +38,11 @@ TECHNOLOGY RECORD - GREY HARBOR CHILD EXTRACTION BAG AND PAPER IDENTITY CARD SYS
 
 ARCHIVE NOTE
 
-This record covers the child extraction bag and paper identity card by which Grey Harbor Civil Rescue Directorate
-keeps a child identifiable and stable during extraction. The dossier names child extraction bags containing blankets,
-masks, paper identity cards, and comfort objects, the instruction that if a child gives two names both are written,
-and the Directorate's capacity to identify child witnesses who describe hazards before adults perceive them. A.C.T has
-used these bags and owns none.
+This record covers the child extraction bag and paper identity card by which Grey Harbor Civil Rescue
+Directorate keeps a child identifiable and stable during extraction. The dossier names child
+extraction bags containing blankets, masks, paper identity cards, and comfort objects, the instruction
+that if a child gives two names both are written, and the Directorate's capacity to identify child
+witnesses who describe hazards before adults perceive them. A.C.T has used these bags and owns none.
 
 The technical problem is that a child extracted from an anomaly-adjacent disaster is the population most likely to
 lose identity in the following hours: manifests change, families are separated, shelters drift in count, and an
@@ -65,9 +65,9 @@ A CHILD MAY DESCRIBE A HAZARD BEFORE AN ADULT PERCEIVES IT. RECORD IT AS REPORTE
 
 FUNCTION SUMMARY
 
-The bag supplies warmth, breathing protection, a paper identity record, and a comfort object at the moment of
-extraction. The card records the child's own statement of name, which later records are checked against rather than
-allowed to overwrite.
+The bag supplies warmth, breathing protection, a paper identity record, and a comfort
+object at the moment of extraction. The card records the child's own statement of
+name, which later records are checked against rather than allowed to overwrite.
 
 - keeps a child identifiable across shelter moves and count drift;
 - records both names where a child gives two;
@@ -99,9 +99,8 @@ ORIGIN AND CUSTODY
 | Hazard reports             | Recorded as reported by the child                                                     |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-The operative row is the card-format row. A paper card completed at the bag cannot be edited centrally, which is
-what allows it to contradict a later manifest. A database entry could be corrected into agreement and would prove
-nothing.
+The operative row is the card-format row. A paper card completed at the bag cannot be edited centrally, which is what
+allows it to contradict a later manifest. A database entry could be corrected into agreement and would prove nothing.
 
 
 PHYSICAL OR SYSTEM DESCRIPTION
@@ -270,9 +269,9 @@ card is not corrected to match the manifest.
 
 NAME CONSOLIDATION — STANDING PROHIBITION
 
-The Directorate's instruction is that both names are written when a child gives two. A.C.T adopts the prohibition on
-consolidation because choosing a name at the bag is a decision no responder can justify, and an unchosen name cannot
-be recovered later.
+The Directorate's instruction is that both names are written when a child gives two.
+A.C.T adopts the prohibition on consolidation because choosing a name at the bag is
+a decision no responder can justify, and an unchosen name cannot be recovered later.
 
 EARLY HAZARD REPORT — UNRESOLVED
 

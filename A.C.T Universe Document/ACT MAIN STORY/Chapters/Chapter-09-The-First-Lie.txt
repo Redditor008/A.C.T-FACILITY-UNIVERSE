@@ -2,16 +2,16 @@ Chapter 9 — The First Lie
 
 "Coincidence," the reviewer said, and turned the page. By the ninth day Sera could not
 
-Not inside the Facility. Not inside the archive. Not in any record that bent the same way too many times and expected
-to be called history.
+Not inside the Facility. Not inside the archive. Not in any record that
+bent the same way too many times and expected to be called history.
 
 The pieces were finally close enough to touch one another.
 
-ERE had not found the abyss by accident. The route had arrived first in dreams, in compulsions, in fractured
-pre-knowledge that preceded excavation as if memory itself were running ahead of stone. NEMNOLIA had not been
-discovered later in isolation. The bloom was already below, tied to the same lower state that made the first descent
-possible. And the founders had not merely hidden what they learned. They had used the earliest forms of forgetting
-against themselves.
+ERE had not found the abyss by accident. The route had arrived first in dreams, in compulsions,
+in fractured pre-knowledge that preceded excavation as if memory itself were running ahead of
+stone. NEMNOLIA had not been discovered later in isolation. The bloom was already below, tied
+to the same lower state that made the first descent possible. And the founders had not merely
+hidden what they learned. They had used the earliest forms of forgetting against themselves.
 
 The truth no longer looked like a question. It looked like a structure.
 
@@ -22,8 +22,8 @@ attempted so far, not because the records were sealed beyond access, but because
 ordinary. Administrative succession lists. seal approvals. authorization bridges. review phrases repeated until they
 looked like legal habit instead of personal syntax.
 
-Every buried institution learned the same trick eventually: make the extraordinary look procedural and no one would
-think to question it.
+Every buried institution learned the same trick eventually: make the
+extraordinary look procedural and no one would think to question it.
 
 But procedure still left fingerprints.
 
@@ -46,10 +46,10 @@ And the answer, each time she approached it, came back the same.
 
 The first lie.
 
-Sera found the clearest evidence in a dead annex most of Archive Administration no longer used because the system
-clock there drifted by a few seconds every day and the repair orders kept vanishing into the lower maintenance queue.
-Small faults like that lived forever in A.C.T. If they were not dangerous enough to matter immediately, they became
-part of the architecture.
+Sera found the clearest evidence in a dead annex most of Archive Administration no longer used
+because the system clock there drifted by a few seconds every day and the repair orders kept
+vanishing into the lower maintenance queue. Small faults like that lived forever in A.C.T. If
+they were not dangerous enough to matter immediately, they became part of the architecture.
 
 The annex terminals still read old transcription formats better than the modern consoles. That was why she went there.
 It was also why the room felt abandoned in a way the archive proper never did. The screens hummed before they
@@ -115,8 +115,8 @@ Sera had avoided the file until now because she knew the moment she opened it, t
 
 She opened it anyway.
 
-The first thing that struck her was how many times the survivor had been reclassified without ever leaving the same
-room.
+The first thing that struck her was how many times the survivor
+had been reclassified without ever leaving the same room.
 
 Review casualty. Recovered internal. Continuity failure subject. Restricted witness. Living contradiction.
 
@@ -233,19 +233,19 @@ After she left, Sera remained alone in the annex until the wall clock slipped fo
 time. She looked at the shadow file, at the survivor lines, at the rewritten founder signatures, at the
 pharmacological dependency chain, and felt the story converge at last.
 
-ERE was drawn downward. NEMNOLIA came with the abyss. The founders erased themselves. The O5 inherited a structure
-built over self-inflicted forgetting. And the institution that controlled memory did so because its own memory had
-become part of containment.
+ERE was drawn downward. NEMNOLIA came with the abyss. The founders erased themselves.
+The O5 inherited a structure built over self-inflicted forgetting. And the institution
+that controlled memory did so because its own memory had become part of containment.
 
 She opened a fresh page and wrote the line she had spent days circling.
 
-A.C.T was not built to make the world forget anomalies. It was built to make itself forget what really happened in the
-abyss.
+A.C.T was not built to make the world forget anomalies. It was
+built to make itself forget what really happened in the abyss.
 
 For a long time she looked at it without moving.
 
-Then she saved the page under three separate encryption shells, buried it beneath a false maintenance audit, and
-closed the terminal.
+Then she saved the page under three separate encryption shells,
+buried it beneath a false maintenance audit, and closed the terminal.
 
 The first lie finally had a shape.
 
@@ -268,5 +268,5 @@ archive had spent generations trying not to keep whole.
 
 The first lie was no longer hidden from her.
 
-The only question left was whether she would do what the founders had done when it was time to choose between truth
-and continuity.
+The only question left was whether she would do what the founders
+had done when it was time to choose between truth and continuity.

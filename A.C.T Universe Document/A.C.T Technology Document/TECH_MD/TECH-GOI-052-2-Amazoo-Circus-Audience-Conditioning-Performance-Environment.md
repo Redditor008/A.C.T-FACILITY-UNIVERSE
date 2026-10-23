@@ -38,8 +38,7 @@ It also explains the secrecy class. Amazoo was EXPOSURE-ACTIVE because it did no
 on invisibility; it relied on people seeing the wrong thing. The anomaly was hidden
 by being too visible to be believed, and the raid itself caused civilian exposure
 and fatalities before 004-D Grade amnestics and public erasure were applied. Every reconstruction A.C.T
-performs carries the same property, which is why no-audience testing is a standing condition
-in this file.
+performs carries the same property, which is why no-audience testing is a standing condition in this file.
 
 Controlled label: **AMAZOO NO-AUDIENCE RECONSTRUCTION RULE**.
 
@@ -167,8 +166,7 @@ design rather than through neglect.
 - Weakest where a reconstruction is enjoyable to the staff running it.
 - Weakest where public fascination acts as free advertising.
 
-Yield, phrase counts, and reconstruction requests are NOT MEASURED in this record and are
-tracked per scene.
+Yield, phrase counts, and reconstruction requests are NOT MEASURED in this record and are tracked per scene.
 
 
 ---

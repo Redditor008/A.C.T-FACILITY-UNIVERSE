@@ -14,10 +14,8 @@ A.C.T TECHNOLOGY DOCUMENT ARCHIVE
 
 This archive holds individual technology documents for A.C.T systems, GOI-derived systems, recovered equipment,
 containment tools, field instruments, medical devices, infrastructure components, memory-control systems, access
-devices, and abnormal materials that require more detail than the master technology index can
-carry. The existing
-A.C.T Technological Master Index remains the broad catalog. This folder is for per-technology working
-records.
+devices, and abnormal materials that require more detail than the master technology index can carry. The existing
+A.C.T Technological Master Index remains the broad catalog. This folder is for per-technology working records.
 
 Each technology file must identify what the technology is, who controls it, what it
 does, what it cannot do, what
@@ -25,8 +23,8 @@ materials or subsystems are known, where it is used, how A.C.T handles it, what
 failures are recorded, which divisions
 may request it, what censorship applies, and what remains unknown. A technology file is
 not a sales sheet and not an
-omniscient explanation. It should preserve working gaps, redactions, labels, test limits, and unresolved engineering
-questions.
+omniscient explanation. It should preserve working gaps, redactions,
+labels, test limits, and unresolved engineering questions.
 
 Current Individual Technology Records
 -------------------------------------

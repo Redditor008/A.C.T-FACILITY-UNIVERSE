@@ -81,9 +81,8 @@ a gathering should not be assumed to be a council member.
 
 Material was acquired during sounding material interdiction, moving through a non-cult commercial cover.
 Equipment and timing sheets are held; the full procedure is not reconstructed and no
-reconstruction has been authorized. The interception demonstrated that CoTD does not rely only on
-visible gatherings and can use ordinary transport and service relationships to keep preparation equipment
-moving.
+reconstruction has been authorized. The interception demonstrated that CoTD does not rely only on visible
+gatherings and can use ordinary transport and service relationships to keep preparation equipment moving.
 
 Custody is sealed at Level 5. The Cultic Networks Desk holds the record, Central
 Archive holds custody, and Central Command holds site jurisdiction with ACT-SITE-05 deep-sea liaison. Midwest
@@ -174,8 +173,7 @@ Effect on target, rig counts, and synchronized cell counts are NOT MEASURED.
 
 The sequence separates the emitter from the schedule before either is analysed. Read together
 they describe an attempt; read apart they describe a piece of hardware and a
-document, and only the separated reading lets Containment act on one without escalating on
-the other.
+document, and only the separated reading lets Containment act on one without escalating on the other.
 
 1. Seal the material at Level 5 on recovery.
 2. Separate hardware from timing documentation.
@@ -265,11 +263,10 @@ target still schedules the people who intend to.
 
 ## DIVISION USE
 
-Intelligence Division and the Cultic Networks Desk hold the record and read schedule convergence.
-Containment Division holds the sealed material and owns escalation on correlation. Recovery Division secured
-the interdiction. Security holds hardware under Level 5 seal. Archive intakes the transcription and
-refuses reproduction requests. Command authorises any operation touching target-anomaly material and holds the
-sleep-state override.
+Intelligence Division and the Cultic Networks Desk hold the record and read schedule convergence. Containment
+Division holds the sealed material and owns escalation on correlation. Recovery Division secured the interdiction.
+Security holds hardware under Level 5 seal. Archive intakes the transcription and refuses reproduction requests.
+Command authorises any operation touching target-anomaly material and holds the sleep-state override.
 
 ---
 

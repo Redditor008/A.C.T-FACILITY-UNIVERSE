@@ -24,8 +24,7 @@
 ---
 
 ## Purpose
-This file defines the official standard by which all A.C.T **SITE** and **SUB-SITE** records
-are to be written,
+This file defines the official standard by which all A.C.T **SITE** and **SUB-SITE** records are to be written,
 stored, reviewed, and cross-referenced.
 
 A site registry file is not merely a location note. It is the formal
@@ -141,8 +140,8 @@ A smaller or more specialized installation attached to a parent SITE or regional
 A support node used for transfer, archive routing, witness handling, or covert logistical continuity.
 
 ### Black Site
-A sealed or highly restricted installation associated with morally dangerous, politically dangerous, or deeply
-classified operations.
+A sealed or highly restricted installation associated with morally
+dangerous, politically dangerous, or deeply classified operations.
 
 ---
 
@@ -236,8 +235,6 @@ If a registry file fails to answer those questions, it is incomplete.
 ---
 
 ## 9. Final Site Registry Statement
-A.C.T Site Registry doctrine exists to ensure that every recognized installation—whether full SITE, SUB-SITE,
-relay,
-or blacksite—can be understood as part of the wider anomaly-management structure of the Facility.
-A site without a
+A.C.T Site Registry doctrine exists to ensure that every recognized installation—whether full SITE, SUB-SITE, relay,
+or blacksite—can be understood as part of the wider anomaly-management structure of the Facility. A site without a
 registry is a risk to archive continuity, command clarity, containment routing, and doctrinal memory.

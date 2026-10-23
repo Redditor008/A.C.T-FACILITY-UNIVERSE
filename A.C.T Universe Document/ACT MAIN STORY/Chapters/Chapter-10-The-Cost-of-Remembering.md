@@ -1,14 +1,12 @@
 # Chapter 10 — The Cost of Remembering
 
 Sera braced for the pain and it did not come. By then danger in the Facility usually
-announced itself through something measurable: elevated pulse, nausea, the small physical
-protests of a body asked to hold more than it was built for. What came instead was quiet,
-and it was precise.
+announced itself through something measurable: elevated pulse, nausea, the small physical protests
+of a body asked to hold more than it was built for. What came instead was quiet, and it was precise.
 
 Sera had expected pain.
 
-By then, danger inside the Facility usually announced itself through something measurable: elevated pulse,
-nausea,
+By then, danger inside the Facility usually announced itself through something measurable: elevated pulse, nausea,
 tremor, cold sweat, the pressure behind the eyes that meant a memetic screen had
 thinned somewhere nearby. Even fear
 came with known shapes. She knew the architecture of stress. The body told the
@@ -22,8 +20,7 @@ The morning after she wrote the sentence—**A.C.T was built to make itself forg
 really happened in the
 abyss**—she woke already certain that she had forgotten part of a dream. Not unusual.
 Everyone in the Facility lost
-pieces of sleep. Artificial cycles, underground air, stress chemistry, fluorescent hours—all of it made
-dreams
+pieces of sleep. Artificial cycles, underground air, stress chemistry, fluorescent hours—all of it made dreams
 brittle.
 
 What was unusual was the shape left behind.
@@ -57,8 +54,7 @@ preferable to the alternative.
 
 The alternative was that Tavian had been right.
 
-The truth was not simply dangerous to preserve institutionally. It was dangerous to hold
-in the mind.
+The truth was not simply dangerous to preserve institutionally. It was dangerous to hold in the mind.
 
 She lasted forty-two minutes before the second symptom arrived.
 
@@ -80,8 +76,7 @@ Not his voice. Not words exactly. More like a pressure beneath the sentence, a
 wrong familiarity with a route
 designation he had not spoken aloud. For one impossible second she had known the
 answer to a different question
-entirely—one involving an obsolete transfer line beneath Central and a sequence of turns no
-current archive map should
+entirely—one involving an obsolete transfer line beneath Central and a sequence of turns no current archive map should
 have been carrying in her head.
 
 It was gone before she could catch it.
@@ -117,8 +112,7 @@ much like fear masquerading as caution.
 
 By late shift she had enough data to stop lying to herself.
 
-Whatever the founders had judged too dangerous to remember was not dangerous only because
-of what it meant. It was
+Whatever the founders had judged too dangerous to remember was not dangerous only because of what it meant. It was
 dangerous because memory of it behaved differently once assembled past a certain threshold.
 
 Knowledge wanted movement.
@@ -193,10 +187,8 @@ precision yet.”
 
 Sera said nothing.
 
-Mila stepped closer, voice low. “The founders did not destroy themselves because the truth
-was shameful. They
-destroyed continuity because continuity became a route. That is what you are starting to
-feel. The more complete the
+Mila stepped closer, voice low. “The founders did not destroy themselves because the truth was shameful. They
+destroyed continuity because continuity became a route. That is what you are starting to feel. The more complete the
 shape becomes in your head, the less the knowledge stays passive.”
 
 Sera felt something inside her go cold and flat. “A route to where?”
@@ -211,8 +203,7 @@ Not as a location. As a direction.
 
 Sera slid down onto the dead machine housing and pressed the heels of her
 hands against her eyes. Behind the darkness,
-the half-remembered route stirred again—turn, descent, narrowing, a branch beyond mapped space. Not a
-picture. A pull.
+the half-remembered route stirred again—turn, descent, narrowing, a branch beyond mapped space. Not a picture. A pull.
 
 “Tavian said some people remember in the wrong direction,” she murmured.
 
@@ -278,17 +269,14 @@ Mila’s expression tightened. “No.”
 
 “They’re a warning.”
 
-This time the older archivist gave a humorless half-smile. “Now you’re beginning to sound
-like Archive.”
+This time the older archivist gave a humorless half-smile. “Now you’re beginning to sound like Archive.”
 
 Sera did not smile back.
 
 By the time she left the dead copy room, the Facility felt subtly altered.
 Not externally. The corridors were the same
-corridors. The lights remained the same sterile light. The personnel moved according to the
-same routines, the same
-checkpoint habits, the same buried clockwork. But Sera could no longer experience any of
-it as neutral.
+corridors. The lights remained the same sterile light. The personnel moved according to the same routines, the same
+checkpoint habits, the same buried clockwork. But Sera could no longer experience any of it as neutral.
 
 Every hall was part of a larger agreement. Every silence was a seal. Every
 administrative omission might be mercy in
@@ -296,8 +284,7 @@ procedural clothing.
 
 Halfway back to her station she stopped without meaning to.
 
-The Main Containment Elevator indicator had lit through two hidden transitions below F-1. It
-was ordinary movement,
+The Main Containment Elevator indicator had lit through two hidden transitions below F-1. It was ordinary movement,
 probably no more than a sealed transfer or a maintenance descent, but for one
 breathless second the lights above the
 shaft aligned with the route from her broken dream so precisely that her stomach
@@ -337,8 +324,7 @@ Then she thought of the founders.
 
 Not as names. Not even as people. As a line of exhausted minds standing
 at the edge of the first impossible truth,
-choosing to wound themselves because no cleaner option remained. The image should have frightened
-her into obedience.
+choosing to wound themselves because no cleaner option remained. The image should have frightened her into obedience.
 
 Instead it made her furious.
 
@@ -362,8 +348,7 @@ She divided the truth.
 
 One file became three. The route data separated from the founder continuity notes. The
 NEMNOLIA dependency records
-were stripped away from the survivor language. Each fragment was hidden under a different
-false shell in a different
+were stripped away from the survivor language. Each fragment was hidden under a different false shell in a different
 archive branch. No one part contained the full structure. No one seizure of data
 could preserve the whole route in one
 mind at one time.
@@ -382,14 +367,11 @@ The same compromise the archive itself had been making for decades.
 
 That realization left her colder than before.
 
-Outside her quarters that night, the Facility moved through its hidden routines as always.
-Aboveground, humanity slept
-under ordinary skies, never knowing the shape of the mercy holding their lives together.
-Below, beyond mapped floors
+Outside her quarters that night, the Facility moved through its hidden routines as always. Aboveground, humanity slept
+under ordinary skies, never knowing the shape of the mercy holding their lives together. Below, beyond mapped floors
 and beneath the doctrine built to survive them, the sleeping foundation remained asleep.
 
-And Sera Vey, who had once thought archives were where institutions preserved what mattered,
-finally understood the
+And Sera Vey, who had once thought archives were where institutions preserved what mattered, finally understood the
 deepest rule of the buried world:
 
 Sometimes memory is too dangerous to keep whole.

@@ -21,14 +21,10 @@
 | AUTHORITY | Engineering Division, Observation Safety Desk, and Central Archive |
 
 #### Archive Note
-Phase-Shifted Containment Glass is the thirty-fifth main A.C.T technology expanded into an individual record.
-The
-Master Catalog defines it as a transparent viewing medium that exists between standard and
-desynchronized frequencies,
-allowing direct observation of phased subjects. The visual guide describes standard-looking glass with a
-faint rainbow
-oil-slick sheen, a polarizing dial, and a digital phase-slider used to adjust visibility and
-tangibility of
+Phase-Shifted Containment Glass is the thirty-fifth main A.C.T technology expanded into an individual record. The
+Master Catalog defines it as a transparent viewing medium that exists between standard and desynchronized frequencies,
+allowing direct observation of phased subjects. The visual guide describes standard-looking glass with a faint rainbow
+oil-slick sheen, a polarizing dial, and a digital phase-slider used to adjust visibility and tangibility of
 desynchronized subjects. Terra's Pulse containment procedures list it beside Chrono-Stuttered Visors as an approved
 visual filter for monitoring AFD-SU-952 without unsafe direct viewing.
 
@@ -47,15 +43,12 @@ LET THE EYE RECEIVE DATA WITHOUT LETTING THE HAZARD RECEIVE THE EYE.
 
 ## FUNCTION SUMMARY
 
-Phase-Shifted Containment Glass permits controlled observation when ordinary glass is too physically honest. It
-can
-show a subject, room, or phased phenomenon while holding part of the viewing relationship
-out of direct alignment.
+Phase-Shifted Containment Glass permits controlled observation when ordinary glass is too physically honest. It can
+show a subject, room, or phased phenomenon while holding part of the viewing relationship out of direct alignment.
 This allows staff to monitor visual-trigger hazards, partially desynchronized entities, unstable spatial subjects, and
 biological-compulsion cases where ordinary eye contact or full-frequency viewing would create risk.
 
-The glass functions as both pane and filter. It can reduce dangerous perceptual fidelity,
-offset gaze contact, adjust
+The glass functions as both pane and filter. It can reduce dangerous perceptual fidelity, offset gaze contact, adjust
 tangibility across the panel, and let operators tune how much of a subject's actual
 phase reaches the observer. In
 some settings, PSCG is the room's first line of mercy: it lets staff see
@@ -76,23 +69,17 @@ Approved roles include:
 
 ## ORIGIN AND DEPLOYMENT
 
-A.C.T developed PSCG after repeated failures of ordinary transparent barriers. Standard glass can stop
-air, fingers,
+A.C.T developed PSCG after repeated failures of ordinary transparent barriers. Standard glass can stop air, fingers,
 insects, and thrown objects, but it cannot always stop a gaze relationship. It also
 assumes that both sides of the
-pane occupy the same physical frequency. Phased subjects and visual hazards make that assumption
-dangerous.
+pane occupy the same physical frequency. Phased subjects and visual hazards make that assumption dangerous.
 
-The early design used layered glass, polarized films, and static-field laminates. These reduced glare
-but failed
-against subjects that were not merely bright or memetic, but partly misaligned from normal
-space. The modern design
-places the pane itself between standard and desynchronized frequencies. The observer sees through a
-controlled offset
+The early design used layered glass, polarized films, and static-field laminates. These reduced glare but failed
+against subjects that were not merely bright or memetic, but partly misaligned from normal space. The modern design
+places the pane itself between standard and desynchronized frequencies. The observer sees through a controlled offset
 instead of a full contact line.
 
-Current deployment is common in Subject Care suites where dignity requires visibility but safety
-forbids directness.
+Current deployment is common in Subject Care suites where dignity requires visibility but safety forbids directness.
 Terra's Pulse containment uses PSCG because the subject's biological-compulsion field can act through high-fidelity
 viewing. PSCG does not make the view safe by itself, but it reduces fidelity
 and gaze-lock risk enough to support
@@ -104,12 +91,9 @@ monitored procedure.
 
 A PSCG panel appears almost ordinary from a distance. Close inspection shows a faint
 rainbow oil-slick sheen,
-especially along angled light. The pane is mounted inside a reinforced frame containing a
-polarizing dial, a digital
-phase-slider, power couplers, and safety locks. The slider adjusts observation phase. The dial adjusts
-polarization
-and visual fidelity. Some frames include operator presets for interview, medical check, visual hazard,
-spatial phase,
+especially along angled light. The pane is mounted inside a reinforced frame containing a polarizing dial, a digital
+phase-slider, power couplers, and safety locks. The slider adjusts observation phase. The dial adjusts polarization
+and visual fidelity. Some frames include operator presets for interview, medical check, visual hazard, spatial phase,
 and emergency opaque mode.
 
 Known components include:
@@ -210,8 +194,7 @@ interface override is Level 5.
 
 Before observation, staff identify the hazard type: visual trigger, direct gaze, phased contact, biological
 compulsion, spatial drift, or unknown. Engineering verifies panel calibration. Security confirms that emergency
-opacity is working. Subject Care confirms whether observation is medically or socially necessary. If
-Chrono-Stuttered
+opacity is working. Subject Care confirms whether observation is medically or socially necessary. If Chrono-Stuttered
 Visors are also required, the visor delay is tested through the panel rather than
 assumed compatible.
 
@@ -223,8 +206,7 @@ subject reacts to the observer before the observer has announced presence, the p
 be over-aligned. If the room
 appears flat, doubled, delayed, or wet-looking, observation stops until Engineering clears the panel.
 
-After use, the frame stores alignment state, duration, and any emergency opacity trigger. Maintenance
-reviews
+After use, the frame stores alignment state, duration, and any emergency opacity trigger. Maintenance reviews
 scratches, sheen uniformity, phase-slider lag, and seal temperature.
 
 ---
@@ -240,10 +222,8 @@ scratches, sheen uniformity, phase-slider lag, and seal temperature.
 | Desynchronized-subject override | Level 5 procedure | Level 5 |
 | Sheen or laminate damage | panel withdrawal | Engineering Division |
 
-No calendar interval is recorded; the panel is calibrated on installation and on relocation,
-so interval NOT
-MEASURED. There is no consumable. The 2014 over-clarity case is why clarity adjustment is
-never accepted in
+No calendar interval is recorded; the panel is calibrated on installation and on relocation, so interval NOT
+MEASURED. There is no consumable. The 2014 over-clarity case is why clarity adjustment is never accepted in
 place of an audio repair.
 
 ## FAULT ISOLATION
@@ -261,15 +241,12 @@ place of an audio repair.
 
 PSCG cannot neutralize all visual hazards. It can reduce, delay, offset, or reshape the
 viewing relationship, but it
-cannot promise safety against symbols that operate through any recognition, subjects that react to
-being known, or
-hazards that travel through written description after observation. It also cannot replace manners. Subjects
-aware of
+cannot promise safety against symbols that operate through any recognition, subjects that react to being known, or
+hazards that travel through written description after observation. It also cannot replace manners. Subjects aware of
 being watched may still respond negatively to silent observation.
 
 Known failure modes include phase over-alignment, under-alignment, polarizing dial drift, oil-sheen clouding,
-tangibility bleed, emergency opacity failure, delayed image echo, and false clarity. False clarity is
-especially
+tangibility bleed, emergency opacity failure, delayed image echo, and false clarity. False clarity is especially
 dangerous: a pane can show a clean image while the viewer is receiving too
 much of the subject's real frequency.
 
@@ -278,24 +255,18 @@ much of the subject's real frequency.
 ## FAILURE HISTORY
 
 ### PSCG-2014 Interview Over-Clarity
-An interview pane was tuned to improve lip-reading after audio failure. The subject recognized
-the observer's eye line
-and reacted as if direct contact had occurred. PSCG procedure now forbids clarity adjustment
-as a substitute for audio
+An interview pane was tuned to improve lip-reading after audio failure. The subject recognized the observer's eye line
+and reacted as if direct contact had occurred. PSCG procedure now forbids clarity adjustment as a substitute for audio
 repair.
 
 ### PSCG-2024 Terra Filter Confirmation
-During Terra's Pulse monitoring, PSCG reduced visual fidelity enough to support safe observation when
-paired with
-personnel restriction and Adrenaline Micro-Surge Detector monitoring. The event confirmed that PSCG is a
-filter layer,
+During Terra's Pulse monitoring, PSCG reduced visual fidelity enough to support safe observation when paired with
+personnel restriction and Adrenaline Micro-Surge Detector monitoring. The event confirmed that PSCG is a filter layer,
 not a standalone permission to stare.
 
 ### PSCG-2026 Visor Delay Conflict
-A Chrono-Stuttered Visor test through a high-offset PSCG panel produced doubled timing. The observer
-saw a delayed
-image of an already phase-delayed image. Current procedure requires combined calibration before pairing PSCG
-with
+A Chrono-Stuttered Visor test through a high-offset PSCG panel produced doubled timing. The observer saw a delayed
+image of an already phase-delayed image. Current procedure requires combined calibration before pairing PSCG with
 delayed-vision PPE.
 
 ---

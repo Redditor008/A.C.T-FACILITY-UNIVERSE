@@ -21,21 +21,16 @@
 | AUTHORITY | Engineering Division, Site Infrastructure Command, and Central Archive |
 
 #### Archive Note
-Cryo-Seismic Stabilizers are the nineteenth main A.C.T technology expanded into an individual record. The
-Master
-Catalog identifies them as sub-crustal tectonic dampeners using liquid nitrogen and RSA intervals to
-freeze localized
+Cryo-Seismic Stabilizers are the nineteenth main A.C.T technology expanded into an individual record. The Master
+Catalog identifies them as sub-crustal tectonic dampeners using liquid nitrogen and RSA intervals to freeze localized
 reality during world-scale events. The visual guide describes large tripod-mounted industrial canisters venting
-constant white nitrogen fog, with a screen for Crustal Temperature Index and Tectonic Stress
-indices, a rotating
-piston sensor synchronized with tremors, a vapor-release valve for causal heat, an internal redacted
-thermal-cell, and
+constant white nitrogen fog, with a screen for Crustal Temperature Index and Tectonic Stress indices, a rotating
+piston sensor synchronized with tremors, a vapor-release valve for causal heat, an internal redacted thermal-cell, and
 a wired remote with venting-intensity sliders.
 
 CSS units exist because some containment sites are not threatened only by a subject
 inside a room. They are threatened
-by the ground remembering that it should be elsewhere, deeper, older, warmer, or broken.
-A.C.T uses CSS where physical
+by the ground remembering that it should be elsewhere, deeper, older, warmer, or broken. A.C.T uses CSS where physical
 seismic pressure and reality instability overlap.
 
 Controlled label: **CSS RSA-INTERVAL TIMING LIMIT**.
@@ -55,14 +50,11 @@ and RSA interval timing. The machine does not freeze an entire region in ordinar
 ice. It creates short, timed windows
 where the local ground is less able to shift state, transmit stress, or answer
 a world-scale pressure event.
-Engineering describes the effect as making the crust hesitate long enough for containment systems
-to catch up.
+Engineering describes the effect as making the crust hesitate long enough for containment systems to catch up.
 
-CSS units are used around Abyss Floor structures, Massive Box enclosures, deep vaults, unstable
-sub-crustal rooms,
+CSS units are used around Abyss Floor structures, Massive Box enclosures, deep vaults, unstable sub-crustal rooms,
 high-mass biological containment zones, and emergency response sites where world-scale events threaten foundations.
-They are not ordinary earthquake machines. A normal tremor moves stone. A cryo-seismic event
-may move stone, history,
+They are not ordinary earthquake machines. A normal tremor moves stone. A cryo-seismic event may move stone, history,
 pressure, gravity, and the local permission for a wall to remain a wall.
 
 Approved roles include:
@@ -78,19 +70,14 @@ Approved roles include:
 
 ## ORIGIN AND CUSTODY
 
-CSS research came from the same lesson that produced modern A.C.T infrastructure doctrine: containment
-is not only a
+CSS research came from the same lesson that produced modern A.C.T infrastructure doctrine: containment is not only a
 box but the ground under the box. Early Abyss Floor facilities reported tremors that
 did not match geology. Some
-occurred before the force that caused them. Some froze sensors while cracking concrete. Engineering
-began pairing
-thermal shock, heavy tripods, and RSA timing to interrupt these events before they became
-site-wide displacement.
+occurred before the force that caused them. Some froze sensors while cracking concrete. Engineering began pairing
+thermal shock, heavy tripods, and RSA timing to interrupt these events before they became site-wide displacement.
 
-Custody belongs to Engineering Division and Site Infrastructure Command. Abyss Floor Operations may request
-permanent
-arrays. Containment may request temporary units for heavy entities or active Massive Box repairs.
-Logistics moves
+Custody belongs to Engineering Division and Site Infrastructure Command. Abyss Floor Operations may request permanent
+arrays. Containment may request temporary units for heavy entities or active Massive Box repairs. Logistics moves
 deployable canisters under cold-chain and pressure-chain procedures. Command authorizes world-scale event mode.
 
 RSA interval timing is restricted because a badly timed stabilizer may lock a fault,
@@ -103,10 +90,8 @@ the exact moment it should flex.
 
 A standard CSS is a tripod-mounted industrial canister roughly the size of a field
 generator. It vents white nitrogen
-fog when active. The side screen displays Crustal Temperature Index, Tectonic Stress indices, coolant
-pressure, RSA
-interval synchronization, and causal heat load. The base houses a rotating piston sensor that
-vibrates with tremors
+fog when active. The side screen displays Crustal Temperature Index, Tectonic Stress indices, coolant pressure, RSA
+interval synchronization, and causal heat load. The base houses a rotating piston sensor that vibrates with tremors
 and distinguishes ordinary movement from reality-seismic disagreement.
 
 Known components include:
@@ -151,8 +136,7 @@ unit, Nitrogen capacity and boil-off are not measured here. Those 3 gaps sit in 
 
 The visible fog is not the containment effect; it is the waste sign of
 a colder argument happening below the
-floor. Engineering describes the intended result as making the crust hesitate long enough for
-containment
+floor. Engineering describes the intended result as making the crust hesitate long enough for containment
 systems to catch up.
 
 ## INTERFACE AND OPERATING ENVELOPE
@@ -205,12 +189,9 @@ the thaw command is used where a floor is going brittle, and delayed rebound
 afterwards is expected rather
 than treated as a new event.
 
-Operators install CSS units on surveyed anchor points, never on visually convenient ground. Engineering
-verifies floor
-load, tremor baseline, RSA timing, coolant pressure, and release routes. During activation, the operator
-raises
-venting intensity slowly while watching for stress decrease. A sudden perfect calm is treated
-as suspicious because
+Operators install CSS units on surveyed anchor points, never on visually convenient ground. Engineering verifies floor
+load, tremor baseline, RSA timing, coolant pressure, and release routes. During activation, the operator raises
+venting intensity slowly while watching for stress decrease. A sudden perfect calm is treated as suspicious because
 real ground rarely becomes obedient all at once.
 
 CSS arrays must breathe. Overcooling can make a floor brittle, lock pressure in a
@@ -238,8 +219,7 @@ anomaly because the word stabilizer sounds comforting.
 | Sub-crustal deployment | full procedure | Level 5 |
 | Coolant line damage | line replacement and bay inspection | Engineering Division |
 
-No calendar interval is recorded; interval NOT MEASURED. Liquid nitrogen is the consumable and
-it is spent
+No calendar interval is recorded; interval NOT MEASURED. Liquid nitrogen is the consumable and it is spent
 per activation. The 2002 brittle floor is why coolant lines are inspected after a
 long dampening window
 rather than at the next scheduled visit.
@@ -257,18 +237,13 @@ rather than at the next scheduled visit.
 
 ## KNOWN LIMITS
 
-CSS cannot stop all earthquakes, world-scale movements, or foundation failures. It cannot stabilize a
-site whose RSA
-grid has collapsed, cannot cool conceptual pressure, and cannot replace structural repair. It may
-be ineffective
-against airborne, narrative, temporal, or biological threats unless those threats are coupled to ground
-motion.
+CSS cannot stop all earthquakes, world-scale movements, or foundation failures. It cannot stabilize a site whose RSA
+grid has collapsed, cannot cool conceptual pressure, and cannot replace structural repair. It may be ineffective
+against airborne, narrative, temporal, or biological threats unless those threats are coupled to ground motion.
 
 Known failure modes include overcooling, fog backflow, piston desynchronization, frozen sensor lies, delayed rebound,
-RSA interval conflict, brittle-floor cracking, and false quiet. Delayed rebound is especially dangerous: the
-machine
-suppresses stress, staff relax, and the ground releases stored motion after the emergency has
-been declared over.
+RSA interval conflict, brittle-floor cracking, and false quiet. Delayed rebound is especially dangerous: the machine
+suppresses stress, staff relax, and the ground releases stored motion after the emergency has been declared over.
 
 ---
 
@@ -277,13 +252,11 @@ been declared over.
 ### CSS-2002 Brittle Floor Event
 A test array held a sublevel tremor below report threshold for twelve minutes. The
 floor then cracked in a clean
-hexagonal pattern around the center tripod. No subject escaped, but two coolant lines sheared.
-Engineering added the
+hexagonal pattern around the center tripod. No subject escaped, but two coolant lines sheared. Engineering added the
 current warning that dampened motion still exists somewhere.
 
 ### CSS-2010 Fog Backflow Incident
-A blocked vent path pushed nitrogen fog into a maintenance corridor. Personnel interpreted the
-fog as ordinary waste
+A blocked vent path pushed nitrogen fog into a maintenance corridor. Personnel interpreted the fog as ordinary waste
 output and delayed evacuation. Three workers suffered cold exposure. Site Infrastructure now requires independent
 fog-route checks before every activation.
 

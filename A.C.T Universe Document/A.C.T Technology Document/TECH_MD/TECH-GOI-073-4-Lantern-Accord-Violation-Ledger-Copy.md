@@ -10,8 +10,7 @@
 
 ### Archive Note
 
-The archive holds one copied violation ledger. It is a copy and not a ledger, and the dossier says
-so plainly.
+The archive holds one copied violation ledger. It is a copy and not a ledger, and the dossier says so plainly.
 
 That single word governs everything here. A copy carries the content of a ledger and none of its
 authority, because the Accord keeps the original and only an Accord Clerk can attest to an entry.
@@ -40,18 +39,16 @@ other system. Its provenance is sensitive because the Facility made it.
 
 It closes the loop the beacon opens. A breach occurs along an active line, a red lantern is raised
 and the line is recorded as broken, witnesses take priority and are seated in protected witness
-chairs, and the Accord Clerk writes the violation into the ledger against the codebook then
-current.
+chairs, and the Accord Clerk writes the violation into the ledger against the codebook then current.
 
 The handover ledger records transfers and this ledger records breaches. They are separate assets in
 the dossier and they are not the same book.
 
 ## 1.2 What a copy cannot do
 
-A copy cannot be checked against its original, so any error introduced in copying is undetectable
-here. Its completeness is not recorded, so an absence of entries establishes nothing about the
-original. And no Accord Clerk can attest to it, which is the formal reason it carries no evidential
-weight.
+A copy cannot be checked against its original, so any error introduced in copying is undetectable here.
+Its completeness is not recorded, so an absence of entries establishes nothing about the original. And
+no Accord Clerk can attest to it, which is the formal reason it carries no evidential weight.
 
 ## 1.3 What the codebooks mean for it
 
@@ -78,9 +75,8 @@ is weighed by Legal rather than by the reader.
 Personnel must not extract an entry into any index, summary, spreadsheet or other system. A copy of
 a ledger is the same ledger, and a summary carrying entries is a copy.
 
-Personnel must not annotate, correct or complete the copy. An annotated copy cannot be told from a
-copy that was made that way, and the distinction is the only thing that makes it readable as a copy
-at all.
+Personnel must not annotate, correct or complete the copy. An annotated copy cannot be told from a copy
+that was made that way, and the distinction is the only thing that makes it readable as a copy at all.
 
 ## 2.3 Where a person is involved
 
@@ -125,9 +121,8 @@ Recorded for reference. It is not a Facility procedure and no personnel may foll
 - which codebook the copy decodes against, and whether that codebook still exists;
 - whether the Facility could request the original, and what such a request would concede.
 
-The first and last questions govern the handling rule. Provenance is sensitive because the Facility
-made the copy, and requesting the original would concede that a copy exists. Neither question has
-been put to Legal.
+The first and last questions govern the handling rule. Provenance is sensitive because the Facility made the
+copy, and requesting the original would concede that a copy exists. Neither question has been put to Legal.
 
 ---
 
@@ -139,9 +134,8 @@ been put to Legal.
 - `TECH-GOI-073-3` — Lantern Accord Yellow-Line Warrant Fragment, Technology Record
 
 The four records close one Accord practice. The beacon opens a line, the warrant records that it is
-open, the seal attests the writing, and this ledger records what was done along it. The archive
-holds one broken instrument, three expired seals, two fragments and one copy, and holds nothing
-valid.
+open, the seal attests the writing, and this ledger records what was done along it. The archive holds
+one broken instrument, three expired seals, two fragments and one copy, and holds nothing valid.
 
 ---
 

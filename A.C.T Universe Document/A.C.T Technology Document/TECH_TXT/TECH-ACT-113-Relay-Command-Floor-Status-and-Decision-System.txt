@@ -38,19 +38,15 @@ TECHNOLOGY RECORD - RELAY COMMAND FLOOR STATUS AND DECISION SYSTEM
 +----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
-Relay Command Floor Status and Decision System is the one-hundred-thirteenth main A.C.T technology expanded
-into an
-individual record. The F-5 Personnel and Command Level dossier identifies the Site Director's command
-floor as the
-level's architectural center, adjacent to operations spaces where the relay's status is watched and
-decisions are
+Relay Command Floor Status and Decision System is the one-hundred-thirteenth main A.C.T technology expanded into an
+individual record. The F-5 Personnel and Command Level dossier identifies the Site Director's command floor as the
+level's architectural center, adjacent to operations spaces where the relay's status is watched and decisions are
 made. It also identifies F-5 as the command communications nexus and the level from
 which the operational floors below
 are directed.
 
 RCFSD exists because Nusantara's command cannot treat maritime recovery, deep monitoring, personnel sustainment,
-laboratory restriction, seismic readiness, and holding events as separate worlds. The command floor is
-where those
+laboratory restriction, seismic readiness, and holding events as separate worlds. The command floor is where those
 worlds become one decision.
 
 Controlled label: RCFSD ONE-RELAY STATUS WATCH.
@@ -61,15 +57,12 @@ SEE THE WHOLE RELAY BEFORE COMMANDING ANY PART OF IT.
 
 FUNCTION OUTLINE
 
-Relay Command Floor Status and Decision System is Nusantara Deep Relay's F-5 command-floor technology
-for combining
+Relay Command Floor Status and Decision System is Nusantara Deep Relay's F-5 command-floor technology for combining
 site status, operational reports, personnel readiness, holding alerts, maritime activity, seismic preparedness,
 laboratory restrictions, internal logistics, and communications into a controlled decision environment. It provides
-the Site Director and duty command officers with the structured picture required to direct
-the relay's work.
+the Site Director and duty command officers with the structured picture required to direct the relay's work.
 
-RCFSD is not the same as the relay's communications nexus. Communications move orders and
-reports. RCFSD arranges the
+RCFSD is not the same as the relay's communications nexus. Communications move orders and reports. RCFSD arranges the
 operational meaning of those reports so command can decide. The system is built for
 an installation where events may
 begin in the sea, appear as a sensor anomaly below the earth, affect a
@@ -84,24 +77,19 @@ ORIGIN AND DEVELOPMENT
 
 The Nusantara Deep Relay became a major site because its work could not be
 reduced to one function. It watches,
-recovers, holds, studies, shelters, commands, and conceals. As the site expanded, the Site Director's
-floor required
-more than ordinary office space; it required a status architecture capable of presenting the
-relay as one operational
+recovers, holds, studies, shelters, commands, and conceals. As the site expanded, the Site Director's floor required
+more than ordinary office space; it required a status architecture capable of presenting the relay as one operational
 body.
 
 The F-5 floor dossier records that the command floor sits at the level's center
 and that the relay's decisions are
-made adjacent to operations spaces watching site status. RCFSD formalizes those spaces into a
-technology record
-because decision environment, status display, and authority routing are as important to command as
-communications
+made adjacent to operations spaces watching site status. RCFSD formalizes those spaces into a technology record
+because decision environment, status display, and authority routing are as important to command as communications
 hardware.
 
 PHYSICAL OR SYSTEM DESCRIPTION
 
-A RCFSD installation includes the Site Director's command station, duty command desk, status walls,
-division report
+A RCFSD installation includes the Site Director's command station, duty command desk, status walls, division report
 panels, emergency posture board, personnel-readiness overlay, holding-alert channel, seismic-preparedness indicator,
 maritime operation feed, logistics movement slate, and command record lock.
 
@@ -118,8 +106,7 @@ Known components include:
 - internal logistics movement slate;
 - command decision ledger.
 
-The system exists beside the people it commands because F-5 doctrine places command among
-the relay's on-site
+The system exists beside the people it commands because F-5 doctrine places command among the relay's on-site
 population.
 
 
@@ -163,12 +150,10 @@ Feed count, Mean decision latency, Handoff errors. Those 3 gaps are carried in O
 | Handoff errors             | NOT MEASURED                                                                          |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-A command floor's failure mode is not indecision but fragmentation: seven divisions each reporting
-correctly
+A command floor's failure mode is not indecision but fragmentation: seven divisions each reporting correctly
 and none of the reports agreeing. The reconciliation panel exists so that a decision
 is made from one
-reconciled picture, and the decision ledger records the picture that was actually used rather
-than the
+reconciled picture, and the decision ledger records the picture that was actually used rather than the
 picture available afterwards.
 
 INTERFACE AND OPERATING ENVELOPE
@@ -224,12 +209,10 @@ cannot lose one without the loss being visible.
 
 At command turnover, RCFSD reconciles reports from Recovery, Containment, Research, Security, Medical, Seismic
 Analysis Support, Administration, and Internal Logistics. The duty officer verifies active operations, holding risk,
-surface cover status, port activity, personnel readiness, seismic posture, and any restricted vault or
-review-chain
+surface cover status, port activity, personnel readiness, seismic posture, and any restricted vault or review-chain
 issues that require command awareness.
 
-When an event escalates, RCFSD marks the decision path: who holds authority, which division
-leads, which divisions
+When an event escalates, RCFSD marks the decision path: who holds authority, which division leads, which divisions
 support, what operational floors are affected, whether surface transition is restricted, whether personnel sustainment
 changes, and whether command records must be locked. A major decision is not treated
 as valid until the system records
@@ -275,10 +258,8 @@ FAULT ISOLATION
 
 KNOWN LIMITS
 
-RCFSD can organize command information, but it cannot guarantee command judgment. A clean status
-wall may still hide
-bad assumptions, underreported fatigue, delayed vessel reports, misread seismic correlations, or a holding event
-that
+RCFSD can organize command information, but it cannot guarantee command judgment. A clean status wall may still hide
+bad assumptions, underreported fatigue, delayed vessel reports, misread seismic correlations, or a holding event that
 has not yet reached alert threshold. The system can also create false confidence if
 personnel mistake displayed status
 for full reality.
@@ -290,32 +271,25 @@ seismic preparedness ignored during non-seismic events, and command decision rec
 FAILURE HISTORY
 
 RCFSD-Status Fragment Review
-A command review found that separate division updates could remain individually accurate while failing
-to show a
-combined site condition. Current RCFSD doctrine requires reports to be reconciled into a whole-relay
-status picture
+A command review found that separate division updates could remain individually accurate while failing to show a
+combined site condition. Current RCFSD doctrine requires reports to be reconciled into a whole-relay status picture
 before command turnover.
 
 RCFSD-Handoff Clock Correction
 A duty handoff drill showed that decisions made during turnover could become unclear if
 authority changed while an
-event clock was open. Current procedure records duty officer, decision time, and authority transfer
-inside the command
+event clock was open. Current procedure records duty officer, decision time, and authority transfer inside the command
 decision ledger.
 
 RCFSD-Personnel Overlay Finding
-A maritime incident review found that command made an operationally correct decision without seeing
-that the needed
-personnel group had just left a long shift. Current status display includes personnel-readiness overlay
-beside
+A maritime incident review found that command made an operationally correct decision without seeing that the needed
+personnel group had just left a long shift. Current status display includes personnel-readiness overlay beside
 operation and holding feeds.
 
 DIVISION USE
 
-Command uses RCFSD to direct the relay. Administration maintains report flow and decision ledgers.
-Security uses it to
-coordinate access restrictions and site posture. Recovery uses it to keep maritime operations visible.
-Containment
+Command uses RCFSD to direct the relay. Administration maintains report flow and decision ledgers. Security uses it to
+coordinate access restrictions and site posture. Recovery uses it to keep maritime operations visible. Containment
 uses it to escalate holding concerns. Research and Medical use it to bring study
 limits, exposure concerns, and care
 conflicts into the command picture.

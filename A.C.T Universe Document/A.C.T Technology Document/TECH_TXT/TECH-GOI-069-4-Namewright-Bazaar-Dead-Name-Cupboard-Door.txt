@@ -21,22 +21,19 @@ not a cupboard. The contents — whatever was in that cupboard — are unrecover
 possibly still in Bazaar hands. Every restriction below exists because of what the door implies
 rather than because of anything the door does.
 
-The dossier describes dead-name cupboards as containing discarded identity fragments, and puts them
-at the end of the trade sequence. A Ledger Mother identifies a source name, a Namewright cuts the
-carrier attachments with an alias knife, the binding is performed, court stamps make the substitution
-look official, and the severed carriers go into a dead-name cupboard. The cupboard is where a
-person's removed name goes.
+The dossier describes dead-name cupboards as containing discarded identity fragments, and puts them at the
+end of the trade sequence. A Ledger Mother identifies a source name, a Namewright cuts the carrier
+attachments with an alias knife, the binding is performed, court stamps make the substitution look official,
+and the severed carriers go into a dead-name cupboard. The cupboard is where a person's removed name goes.
 
-So the archive holds the entrance to a container of discarded identities, and not the container.
-This file is written as a Subject Care document filed under technology, because if cupboards store
-rather than destroy, their contents are recoverable identity material belonging to identifiable
-people.
+So the archive holds the entrance to a container of discarded identities, and not the container. This
+file is written as a Subject Care document filed under technology, because if cupboards store rather
+than destroy, their contents are recoverable identity material belonging to identifiable people.
 
 DEAD-NAME CUPBOARD RULE
 
-This is a door and not a cupboard. The contents are unrecovered and must be treated as people's
-names rather than inventory. Personnel must not reassemble it, must not seal it, and must not
-discard it.
+This is a door and not a cupboard. The contents are unrecovered and must be treated as people's names
+rather than inventory. Personnel must not reassemble it, must not seal it, and must not discard it.
 
 THE OBJECT
 ----------
@@ -48,8 +45,8 @@ Pine, painted twice, hinges replaced at some point with ones that do not match. 
 handle side is worn through to bare wood in a narrow band, which is what happens when a lot of hands
 use a door for a long time. Whatever was in the cupboard behind it, the cupboard was used.
 
-The aperture measures 61 by 44 centimetres. That is not a cupboard for storing much. It is a cupboard
-for storing paper.
+The aperture measures 61 by 44 centimetres. That is not a
+cupboard for storing much. It is a cupboard for storing paper.
 
 Two observations cannot be resolved and are recorded rather than concluded.
 
@@ -58,8 +55,7 @@ even spacing suggest somebody intended to organise what went in there. Organisat
 retrieval. You do not organise what you plan to burn.
 
 The inner face is bare wood and the outer face is painted, and bare wood in a damp room should be
-worse than painted wood. It is not. Either the room was dry or the door spent most of its life
-closed.
+worse than painted wood. It is not. Either the room was dry or the door spent most of its life closed.
 
 1.2 What cannot be said about it
 ================================
@@ -96,8 +92,7 @@ requires Level 5. The door has not been reassembled to anything and has not been
 2.2 What personnel must not do
 ==============================
 
-Personnel must not fit the door to any container, frame or enclosure. Reassembly is prohibited at
-any clearance.
+Personnel must not fit the door to any container, frame or enclosure. Reassembly is prohibited at any clearance.
 
 Personnel must not seal it and must not discard it. Sealing would imply the contents are accounted
 for when they are not, and discarding would destroy the only evidence of where they went.

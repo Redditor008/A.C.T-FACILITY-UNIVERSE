@@ -6,22 +6,19 @@ something small enough to route and forget.
 
 Nothing in the medical archive ever announced itself as a revelation. The Facility had
 too much practice burying
-danger inside routine language. Catastrophe lived in abbreviations. Horror passed through routing forms. A
-life could
+danger inside routine language. Catastrophe lived in abbreviations. Horror passed through routing forms. A life could
 be cut in half by a line item no longer than a thumb.
 
 The slips from the sealed drawer in Lower Stack C had looked ordinary enough
 the first time she handled them.
-Restricted handling. Partial black bars. Controlled clinical language. What had unsettled her was not
-the existence of
+Restricted handling. Partial black bars. Controlled clinical language. What had unsettled her was not the existence of
 amnestic use, but the direction of it.
 
 The 004-Series was for the world outside.
 
 That was the understanding everyone carried, even if no one said it aloud in
 such simple terms. Civilians saw too
-much. Witnesses survived the wrong thing. Contaminated externals had to be cleaned, softened, redirected,
-broken free
+much. Witnesses survived the wrong thing. Contaminated externals had to be cleaned, softened, redirected, broken free
 from knowledge they were never meant to keep. That was the purpose of the
 compounds derived from AFD-NB-004. The
 Forgetting Bloom made ordinary life possible by making inconvenient memory unstable.
@@ -32,10 +29,8 @@ They were internal.
 
 And not low-level internal, either.
 
-They belonged to people whose work should have placed them above accidental sedation, above
-procedural confusion,
-above routine memory correction. High-clearance names stripped away, rank markers preserved, all of them
-tied to the
+They belonged to people whose work should have placed them above accidental sedation, above procedural confusion,
+above routine memory correction. High-clearance names stripped away, rank markers preserved, all of them tied to the
 same phrase:
 
 **ABYSS ACCESS RECOVERY**.
@@ -43,10 +38,8 @@ same phrase:
 Sera spent the next three shifts pretending she was not building a second archive
 inside the first.
 
-Her official reconciliation file progressed exactly as expected. She corrected dead format codes. She
-flagged legacy
-indexing drift. She filed two harmless discrepancies through ordinary review. She let herself be
-seen doing work that
+Her official reconciliation file progressed exactly as expected. She corrected dead format codes. She flagged legacy
+indexing drift. She filed two harmless discrepancies through ordinary review. She let herself be seen doing work that
 looked administrative, because being seen doing the wrong kind of work was safer than
 being seen doing nothing at all.
 
@@ -66,14 +59,12 @@ She should have stopped there.
 
 Instead she went looking for supply movement.
 
-Medical records could be argued with. Symptoms could be misfiled. Clearance markers could be
-buried under emergency
+Medical records could be argued with. Symptoms could be misfiled. Clearance markers could be buried under emergency
 authority. But supplies moved through the Facility like blood through a body. They left
 traces even when the people
 using them tried not to.
 
-The East Wing logistics net kept controlled pharmaceutical flow under split authority: Medical, Archive,
-and Internal
+The East Wing logistics net kept controlled pharmaceutical flow under split authority: Medical, Archive, and Internal
 Security all held pieces, but none held the whole. That was meant to prevent
 misuse. It also meant the truth of a
 thing often existed only in the seams between departments.
@@ -84,8 +75,7 @@ By the fourth shift she had enough access fragments to track two years of
 lower-tier 004 movement without triggering
 escalation review. What she found made her go cold.
 
-The amount of 004-H issued under ordinary witness suppression channels was lower than projected.
-Not dramatically.
+The amount of 004-H issued under ordinary witness suppression channels was lower than projected. Not dramatically.
 Just enough to matter if someone was looking at totals rather than incidents. The
 missing volume had not vanished. It
 had been rerouted under a nested internal category with no direct narrative label, only
@@ -111,8 +101,7 @@ The routing code appeared again, tied to personnel access bands far above her ow
 
 004-H in clusters. Sometimes 004-G. Rarely 004-F. Enough to strip a day. A week.
 A month if pushed. Always followed by
-review holds, reassignment quiet periods, or sealed archive corrections. Some names were hidden entirely.
-Others had
+review holds, reassignment quiet periods, or sealed archive corrections. Some names were hidden entirely. Others had
 been reduced to initials that no longer matched any current personnel roster.
 
 It was not medical cleanup. It was maintenance.
@@ -123,10 +112,8 @@ That was the moment the theory became structure.
 
 Sera leaned back from the terminal and became abruptly aware of the room around
 her. Archive Administration was in
-full shift rhythm. Sleeves moved. Carts rolled. Someone argued softly over redaction priority near
-the east aisle.
-Ventilation whispered from the upper ducts. The ordinary life of the buried institution continued
-in the same steady
+full shift rhythm. Sleeves moved. Carts rolled. Someone argued softly over redaction priority near the east aisle.
+Ventilation whispered from the upper ducts. The ordinary life of the buried institution continued in the same steady
 pattern as always.
 
 How many of them, she wondered, were carrying holes they did not know existed?
@@ -200,8 +187,7 @@ keep talking.
 
 “Abyss Recovery Review is what happens after someone comes back from too near the
 wrong thing,” he said. “Not
-physically wrong. Cognitively wrong. They return functional. They talk. They walk. They sign. But
-something in them
+physically wrong. Cognitively wrong. They return functional. They talk. They walk. They sign. But something in them
 doesn’t sit right with the continuity checks.”
 
 “What continuity checks?”
@@ -228,8 +214,7 @@ Sera looked at the cartridge. “How many abyss reviews use this?”
 
 “Because?”
 
-“Because once you start counting, you start asking whether the problem is isolated incidents
-or the floor itself.”
+“Because once you start counting, you start asking whether the problem is isolated incidents or the floor itself.”
 
 She held his gaze. “And what answer did you get?”
 
@@ -277,8 +262,7 @@ Sera said nothing.
 
 He continued before she could ask what that meant.
 
-“They remember things they shouldn’t know yet. They speak in sequence breaks. They recognize
-names attached to sealed
+“They remember things they shouldn’t know yet. They speak in sequence breaks. They recognize names attached to sealed
 records. They describe locations before the route logs are opened in front of them.
 Sometimes it burns off. Sometimes
 it doesn’t.”
@@ -334,10 +318,8 @@ Not contradictions. Not route errors. Not bloom pre-echoes.
 
 Once she wrote the phrase, everything around it began to settle into place.
 
-The dead signatures wearing new names. The review gaps. The impossible chronology. The symptom
-language arriving
-before the anomaly’s official discovery. The small, repeated doses rather than massive erasures. The
-way the archive
+The dead signatures wearing new names. The review gaps. The impossible chronology. The symptom language arriving
+before the anomaly’s official discovery. The small, repeated doses rather than massive erasures. The way the archive
 seemed not shattered, but curated into stable damage.
 
 The Facility had not merely forgotten parts of itself. It had been taught how
@@ -355,10 +337,8 @@ through Central.
 
 The Main Containment Elevator stood in its armored shaft like a vertical law. Personnel
 passed through checkpoint
-lanes beneath camera domes and biometric bars. A sealed cart descended under armed escort.
-Somewhere far below, beyond
-mapped floors and procedural confidence, the route continued toward places most of the Facility
-would spend entire
+lanes beneath camera domes and biometric bars. A sealed cart descended under armed escort. Somewhere far below, beyond
+mapped floors and procedural confidence, the route continued toward places most of the Facility would spend entire
 careers pretending not to imagine.
 
 She stopped just long enough to watch the level indicators above the shaft.
@@ -405,7 +385,6 @@ That, more than anything else, was what finally frightened her.
 Not the possibility that the records were false. Not the possibility that the founders
 had lied.
 
-But the possibility that the Facility’s greatest success had never been making the world
-forget.
+But the possibility that the Facility’s greatest success had never been making the world forget.
 
 It had been teaching its own people how to live inside what was missing.

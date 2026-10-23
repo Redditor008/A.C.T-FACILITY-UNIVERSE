@@ -39,8 +39,7 @@ TECHNOLOGY RECORD - ASCENDING AUTHORIZATION TRANSFORMATION STAGING LOCK SYSTEM
 
 Archive Note
 Ascending Authorization Transformation Staging Lock System is the one-hundred-twenty-fifth main A.C.T technology
-expanded into an individual record. The Redwood Veil F-4 Transformation Staging dossier identifies F-4
-as the level
+expanded into an individual record. The Redwood Veil F-4 Transformation Staging dossier identifies F-4 as the level
 where contained objects are evaluated for stabilization, neutralization, repurposing, or integration. It records
 evaluation workshops, staging chambers, staging locks, secure transfer routes, authorization and review offices, and
 the doctrine that the weight of a transformation decision must match the authority that
@@ -66,30 +65,24 @@ documentation controls that make transformation doctrine physically enforceable.
 
 AATSL is not a simple access door. It is a decision barrier. It prevents
 a resident object from passing from study
-into active alteration until its proposed future has been named, reviewed, authorized, and matched
-to the correct
-command level. The technology supports the four recognized transformation outcomes: stabilization, neutralization,
-repurposing, and integration.
+into active alteration until its proposed future has been named, reviewed, authorized, and matched to the correct
+command level. The technology supports the four recognized transformation
+outcomes: stabilization, neutralization, repurposing, and integration.
 
-Approved roles include transformation evaluation custody, staging chamber control, ascending authorization
-enforcement, preparation-state separation, object future review, chain-of-custody transfer from F-3, Research-informed
-approval, staging-lock incident containment, transformation documentation, and refusal routing for residents that must
-remain unchanged.
+Approved roles include transformation evaluation custody, staging chamber control, ascending
+authorization enforcement, preparation-state separation, object future review, chain-of-custody
+transfer from F-3, Research-informed approval, staging-lock incident containment,
+transformation documentation, and refusal routing for residents that must remain unchanged.
 
 ORIGIN AND DEVELOPMENT
 
-Redwood Veil's doctrine recognized that permanent holding was not always the only answer. Some
-anomalies could be
-stabilized into safer form. Some could be neutralized into inertia. Some could be repurposed
-for controlled Facility
-use. Some could be integrated into understanding, procedure, or system design. That recognition created
-a new danger:
+Redwood Veil's doctrine recognized that permanent holding was not always the only answer. Some anomalies could be
+stabilized into safer form. Some could be neutralized into inertia. Some could be repurposed for controlled Facility
+use. Some could be integrated into understanding, procedure, or system design. That recognition created a new danger:
 the Facility needed to prevent ambition from outrunning authority.
 
-F-4 was established as the staging floor where transformation decisions become work only after
-ascending
-authorization. AATSL developed from the need to separate evaluation from preparation. It makes the
-boundary visible,
+F-4 was established as the staging floor where transformation decisions become work only after ascending
+authorization. AATSL developed from the need to separate evaluation from preparation. It makes the boundary visible,
 locked, recorded, and difficult to cross casually.
 
 PHYSICAL OR SYSTEM DESCRIPTION
@@ -211,22 +204,17 @@ refusal to mean something.
 
 Step 8 names both outcomes for a reason. A refusal is not a cancellation
 but a movement with its own route
-and its own record, because the resident returns to standard holding having been mounted,
-measured, and
+and its own record, because the resident returns to standard holding having been mounted, measured, and
 considered, and standard holding needs to know that.
 
 Before staging, AATSL requires the proposed transformation outcome, research basis, containment history, resident
 restriction set, reversibility estimate, hazard projection, personnel roster, command authority, and return route.
-Evaluation may occur under lower authority than preparation. Preparation cannot begin until the lock
-receives
+Evaluation may occur under lower authority than preparation. Preparation cannot begin until the lock receives
 authorization equal to the consequence of the proposed transformation.
 
-Once authorized, the resident moves through the secure route from F-3 or another holding
-floor into the staging lock.
-The lock confirms custody, seals the evaluation side, verifies approval, and opens only to
-the preparation chamber
-assigned to that operation. If the authorization is withdrawn, expires, mismatches the resident, or
-fails to cover an
+Once authorized, the resident moves through the secure route from F-3 or another holding floor into the staging lock.
+The lock confirms custody, seals the evaluation side, verifies approval, and opens only to the preparation chamber
+assigned to that operation. If the authorization is withdrawn, expires, mismatches the resident, or fails to cover an
 emerging hazard, the lock holds or returns the object rather than advancing it.
 
 SERVICING AND CALIBRATION
@@ -245,8 +233,7 @@ SERVICING AND CALIBRATION
 | Quarterly                  | exercise the Security override denial seal                                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-The monthly audit of approvals against consequence class is the control against drift. Each
-reversible
+The monthly audit of approvals against consequence class is the control against drift. Each reversible
 approval is correctly granted at a low level; the escalation appears only when a
 series of them is read
 together as a programme nobody authorised.
@@ -270,32 +257,26 @@ FAULT ISOLATION
 
 KNOWN LIMITS
 
-AATSL controls authorized transition, but it cannot guarantee that the proposed future is correct.
-Research may be
-incomplete. A resident may change because it is being considered for change. Personnel may
-confuse usefulness with
-safety or treat authorization as certainty. Staging chambers can also create pressure to proceed
-once an object has
+AATSL controls authorized transition, but it cannot guarantee that the proposed future is correct. Research may be
+incomplete. A resident may change because it is being considered for change. Personnel may confuse usefulness with
+safety or treat authorization as certainty. Staging chambers can also create pressure to proceed once an object has
 been moved out of ordinary holding.
 
 Known failure modes include authorization mismatch, underestimated irreversibility, staging lock bypass attempt,
 incomplete Research attachment, Containment custody gap, false neutralization assumption, preparation-state reaction,
-outcome drift, review-office delay, and unauthorized personnel treating the lock as a procedural obstacle
-rather than
+outcome drift, review-office delay, and unauthorized personnel treating the lock as a procedural obstacle rather than
 a containment device.
 
 FAILURE HISTORY
 
 AATSL-Evaluation Separation Finding
-An early staging review found that evaluation and preparation were sometimes discussed as one
-continuous act. Current
-AATSL doctrine separates assessment from committed preparation by physical lock, approval record, and transfer
-step.
+An early staging review found that evaluation and preparation were sometimes discussed as one continuous act. Current
+AATSL doctrine separates assessment from committed preparation by physical lock, approval record, and transfer step.
 
 AATSL-Authority Weight Correction
-Transformation proposals once used the same approval level despite very different consequences. Current ascending
-authorization requires higher command approval for irreversible, experimental, dangerous, or Facility-integrated
-outcomes.
+Transformation proposals once used the same approval level despite very different
+consequences. Current ascending authorization requires higher command approval
+for irreversible, experimental, dangerous, or Facility-integrated outcomes.
 
 AATSL-Refusal Route Doctrine
 A staging chamber incident showed that refusal must be treated as an active outcome,
@@ -306,8 +287,7 @@ DIVISION USE
 
 Transformation Division operates evaluation and staging. Research provides characterization and hazard basis.
 Containment maintains resident custody until authorized transfer. Security enforces lock integrity and personnel
-access. Archive preserves the authorization record so the object's future is never separated from
-the decision that
+access. Archive preserves the authorization record so the object's future is never separated from the decision that
 allowed it.
 
 AATSL doctrine holds that the Facility may change what it holds, but only when

@@ -53,9 +53,8 @@ positions establish is more useful than a dimension would be: a fitting designed
 door and an ambulance rail has to survive vibration, weather and medical handling, which is a
 specification in itself even though the dossier states none.
 
-The dossier also describes sleeper cars for passengers whose names cannot be spoken during transit,
-which implies sound matters on these routes. Whether the bell is part of that is not established and
-is not inferred.
+The dossier also describes sleeper cars for passengers whose names cannot be spoken during transit, which
+implies sound matters on these routes. Whether the bell is part of that is not established and is not inferred.
 
 HANDLING
 --------
@@ -71,15 +70,13 @@ outside storage requires Level 4. The bell is held unmounted in its own enclosur
 
 Personnel must not fit the bell to any vehicle, door or rail, and must not ring it in service.
 
-Personnel must not lubricate the clapper, because freeing it is the first step of mounting and
-mounting is prohibited.
+Personnel must not lubricate the clapper, because freeing it is the first step of mounting and mounting is prohibited.
 
 Striking the bell once to establish that it sounds is permitted at Level 3 and is recorded. That
 single strike is not service ringing, and the distinction needs recording.
 
 Where a Passage bell is encountered mounted during joint work, the response is to record its position
-and leave it. Personnel do not remove a mounted bell and do not treat its sounding as a Facility
-signal.
+and leave it. Personnel do not remove a mounted bell and do not treat its sounding as a Facility signal.
 
 2.3 The Passage's own sequence
 ==============================
@@ -113,10 +110,9 @@ not established. This file records the adjacency and does not build on it.
 ========================
 
 The bell is not a distress signal. The Passage carries its own distress vocabulary through the
-Lantern Accord's line statuses, and none of them is a bell. Reading the bell as an alarm would
-import a Facility assumption into a Passage instrument, and the resulting custody rule would be
-wrong in the direction that matters: it would permit ringing in an emergency when ringing may start
-something.
+Lantern Accord's line statuses, and none of them is a bell. Reading the bell as an alarm would import
+a Facility assumption into a Passage instrument, and the resulting custody rule would be wrong in the
+direction that matters: it would permit ringing in an emergency when ringing may start something.
 
 The bell is also not a fare device and not a departure signal. Nothing in the dossier ties it to
 ticketing or to the moment of leaving.
@@ -128,10 +124,9 @@ Held unmounted in its own enclosure, clapper restrained so the bell cannot sound
 The restraint is a custody measure and not a repair, and it is recorded on the enclosure so that a
 later examiner does not read it as damage.
 
-Whether the clapper was already restrained when the bell was recovered is not established. If the
-Passage ships its bells restrained, the restraint is original and tells the archive something about
-how the Passage itself handles the object. If the Facility applied it, the restraint is ours and
-tells the archive nothing.
+Whether the clapper was already restrained when the bell was recovered is not established. If the Passage
+ships its bells restrained, the restraint is original and tells the archive something about how the Passage
+itself handles the object. If the Facility applied it, the restraint is ours and tells the archive nothing.
 
 2.5 The single permitted test
 =============================
@@ -216,8 +211,8 @@ OPEN QUESTIONS
 - whether Passage bells are numbered against routes or vehicles;
 - whether the Passage expects appropriated fittings to be accounted for or returned.
 
-The second question governs the handling rule and has no answer here. Until it does, the bell stays
-unmounted and unrun.
+The second question governs the handling rule and has no answer
+here. Until it does, the bell stays unmounted and unrun.
 
 CROSS-REFERENCES
 ----------------

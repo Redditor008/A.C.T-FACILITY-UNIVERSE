@@ -23,10 +23,8 @@ numbered floor of
 
 Within the Facility's floor doctrine, F-1 is not a rank — it is an
 address. It is the floor where the complex places
-what it cannot place anywhere else: the high-inviolability residents whose containment is the site's
-recurring test.
-The floor's colloquial name, **The Hanging Vault**, is older than the current administration, and
-no record survives
+what it cannot place anywhere else: the high-inviolability residents whose containment is the site's recurring test.
+The floor's colloquial name, **The Hanging Vault**, is older than the current administration, and no record survives
 of the staff member who first used it.
 
 This dossier records the floor in full institutional language: what it is, what it
@@ -40,14 +38,12 @@ the site knows by reflex.
 
 **Site Designation:** ACT-SITE-01-US-W **Site Codename:** Redwood Veil Complex **Floor Designation:** F-1 **Floor
 Name:** The Hanging Vault **Floor Type:** High-Inviolability Object Vault **Vertical Position:** Deepest numbered
-floor of the complex **Floors Above:** F-2 (Deep Object and Memetic-Component Vaults) **Floors Below:**
-None numbered
+floor of the complex **Floors Above:** F-2 (Deep Object and Memetic-Component Vaults) **Floors Below:** None numbered
 — below F-1 lies only deep utility and emergency routing connecting the complex to
 regional transport corridors
 **Containment Character:** Maximum structural and procedural reinforcement **Primary Function:** Long-term secure
 housing of the site's signature and high-inviolability residents **Access Posture:** Restricted; observation governed
-by each resident's individual restriction set **Current Status:** Active **Doctrine Note:** Subject to the
-site's "F-1
+by each resident's individual restriction set **Current Status:** Active **Doctrine Note:** Subject to the site's "F-1
 closure" drills
 
 ---
@@ -75,23 +71,19 @@ treats it accordingly.
 
 F-1 occupies the lowest numbered stratum of the buried core below the Redwood Veil
 campus. It sits beneath F-2, the
-Deep Object and Memetic-Component Vaults, and is reached only by descending through every operational
-level of the
+Deep Object and Memetic-Component Vaults, and is reached only by descending through every operational level of the
 complex.
 
 ### 3.2 What Lies Below F-1
 
-Below the floor's vault structure lie only the deep utility and emergency routing corridors
-that connect the complex
-to regional transport infrastructure. There is no abyssal access beneath this site — F-1
-is the terminal floor of
+Below the floor's vault structure lie only the deep utility and emergency routing corridors that connect the complex
+to regional transport infrastructure. There is no abyssal access beneath this site — F-1 is the terminal floor of
 Redwood Veil, and the complex's deepest doctrine holds that it must remain the terminal
 floor.
 
 ### 3.3 Relationship to the Surface
 
-The distance between F-1 and the legitimate surface campus is the floor's first containment
-measure. Every meter of
+The distance between F-1 and the legitimate surface campus is the floor's first containment measure. Every meter of
 that distance is staffed, monitored, and gated. A resident would have to cross nine
 levels of hardened infrastructure
 and the full attention of the site before it could reach air.
@@ -108,15 +100,13 @@ today. In the complex's early decades, F-1 served as general deep storage — a
 catchall for material the site had not
 yet learned to classify.
 
-The floor's identity changed as the complex's holdings changed. As Redwood Veil became the
-western region's recovery
+The floor's identity changed as the complex's holdings changed. As Redwood Veil became the western region's recovery
 and containment authority, its deepest level was progressively reinforced, reorganized, and re-dedicated to the
 residents that demanded the most of the site.
 
 ### 4.2 The Elevation Period
 
-When the complex was elevated to regional status, its most difficult holdings were transferred
-into the deep core —
+When the complex was elevated to regional status, its most difficult holdings were transferred into the deep core —
 among them the residents now kept on F-1. The elevation period is recorded in
 the complex's history as the moment F-1
 became the Hanging Vault in practice, not only in name.
@@ -137,24 +127,20 @@ operational language.
 
 ### 5.1 Floor Command
 
-F-1 operates under the direct authority of the Site Director through the Containment Division's
-deep-hold command.
-Day-to-day floor operations are administered by a **Floor Vault Chief**, appointed for demonstrated performance
-in
+F-1 operates under the direct authority of the Site Director through the Containment Division's deep-hold command.
+Day-to-day floor operations are administered by a **Floor Vault Chief**, appointed for demonstrated performance in
 high-inviolability containment.
 
 ### 5.2 Authority over Access
 
-The Vault Chief does not hold independent authority to admit or release residents. Every
-entry to F-1's resident
+The Vault Chief does not hold independent authority to admit or release residents. Every entry to F-1's resident
 housing is governed by the individual restriction set of the resident in question, and
 every release is authorized at
 Site Director level or above.
 
 ### 5.3 Authority Limits
 
-F-1 holds no authority to transform its residents. Transformation decisions for high-inviolability material are
-made
+F-1 holds no authority to transform its residents. Transformation decisions for high-inviolability material are made
 above the floor, and the floor's role is to maintain the resident in an
 unchanged, unstudied-to-completion state for
 as long as doctrine requires.
@@ -170,22 +156,18 @@ and the execution of each resident's containment regimen.
 
 ### 6.2 Security Division
 
-Security personnel guard the floor's access points and patrol its perimeter architecture. F-1 security
-is drawn from
-the site's most experienced personnel and operates under standing rules that prioritize the floor's
-isolation over
+Security personnel guard the floor's access points and patrol its perimeter architecture. F-1 security is drawn from
+the site's most experienced personnel and operates under standing rules that prioritize the floor's isolation over
 every other consideration.
 
 ### 6.3 Medical Division (On-Call)
 
-Medical presence on F-1 is on-call rather than standing: the floor's personnel rotate to
-the Medical floor for
+Medical presence on F-1 is on-call rather than standing: the floor's personnel rotate to the Medical floor for
 evaluation, and medical response to F-1 is conducted under the floor's access restrictions.
 
 ### 6.4 Archive Liaison
 
-The floor maintains a minimal liaison presence for the documentation of resident condition and
-regimen execution.
+The floor maintains a minimal liaison presence for the documentation of resident condition and regimen execution.
 F-1's records are maintained under the same high-inviolability standard as its residents.
 
 ---
@@ -194,8 +176,7 @@ F-1's records are maintained under the same high-inviolability standard as its r
 
 ### 7.1 Vault Architecture
 
-F-1 is not a corridor floor. Its architecture is organized around **individual vault cells**,
-each engineered as an
+F-1 is not a corridor floor. Its architecture is organized around **individual vault cells**, each engineered as an
 independent containment problem. The floor's layout prioritizes separation: no two resident vaults share structure
 where it can be avoided, and the floor's service routes are arranged so that
 no single failure can open a path between
@@ -203,10 +184,8 @@ vaults.
 
 ### 7.2 The Hanging Arrangement
 
-The floor's colloquial name derives from its most distinctive architectural feature: the primary resident
-vaults are
-suspended within their structural shafts rather than seated on the floor slab — anchored
-from above and below by
+The floor's colloquial name derives from its most distinctive architectural feature: the primary resident vaults are
+suspended within their structural shafts rather than seated on the floor slab — anchored from above and below by
 dampened mountings. The arrangement isolates each vault from seismic transmission, structural vibration, and the
 physical fabric of the surrounding floor. To work on the floor is to work
 beneath objects that hang.
@@ -236,32 +215,26 @@ The floor's plan comprises:
 
 ### 8.1 Power
 
-F-1 draws primary power from the complex's main supply and maintains an independent emergency
-plant sized to carry the
-floor's full environmental and containment load. Power continuity on F-1 is treated as a
-containment parameter, not a
+F-1 draws primary power from the complex's main supply and maintains an independent emergency plant sized to carry the
+floor's full environmental and containment load. Power continuity on F-1 is treated as a containment parameter, not a
 convenience.
 
 ### 8.2 Environment
 
-Each vault maintains its own environmental envelope, set according to the resident's requirements. The
-surrounding
-gallery is maintained under general conditions that favor monitoring equipment and personnel safety. Air
-handling is
+Each vault maintains its own environmental envelope, set according to the resident's requirements. The surrounding
+gallery is maintained under general conditions that favor monitoring equipment and personnel safety. Air handling is
 compartmented so that the atmosphere of one vault cannot reach another.
 
 ### 8.3 Monitoring
 
-F-1 monitoring is continuous and layered: structural, environmental, behavioral, and — for residents whose
-restriction
+F-1 monitoring is continuous and layered: structural, environmental, behavioral, and — for residents whose restriction
 sets require it — observational protocols that govern how the resident may be perceived
 at all. Monitoring feeds the
 floor command post and the site's central watch.
 
 ### 8.4 Communication
 
-The floor maintains hardened communication with the site's command levels. Communications discipline on F-1
-follows
+The floor maintains hardened communication with the site's command levels. Communications discipline on F-1 follows
 each resident's restriction set: references to certain residents are governed by the same rules
 as references to them
 anywhere in the Facility.
@@ -279,19 +252,15 @@ visited, and a final controlled gate before the gallery.
 
 ### 9.2 Vault Access
 
-Individual vault access is governed by the resident's restriction set. Many vaults on F-1
-are entered only under
-paired personnel, specific authorization, and observation protocols that vary by resident. Some vaults on
-the floor
+Individual vault access is governed by the resident's restriction set. Many vaults on F-1 are entered only under
+paired personnel, specific authorization, and observation protocols that vary by resident. Some vaults on the floor
 are never entered at all except under conditions the site has not yet needed
 to invoke.
 
 ### 9.3 The F-1 Closure Procedure
 
-The floor's defining security procedure is the **F-1 closure**: sealing the floor to the
-outside entirely — cutting
-the access core, isolating the floor's service connections, and committing the floor to full
-self-containment until
+The floor's defining security procedure is the **F-1 closure**: sealing the floor to the outside entirely — cutting
+the access core, isolating the floor's service connections, and committing the floor to full self-containment until
 the condition that triggered the closure is resolved.
 
 The procedure is drilled across the site because the site's doctrine holds that a
@@ -302,10 +271,8 @@ share the sealed volume; the doctrine accepts that cost without reservation.
 
 ### 9.4 Peripheral Security
 
-The floor's perimeter architecture — the structure between the vault gallery and the surrounding
-earth — is monitored
-for intrusion, excavation, and structural anomaly. The deep utility routing below the floor is
-likewise monitored, as
+The floor's perimeter architecture — the structure between the vault gallery and the surrounding earth — is monitored
+for intrusion, excavation, and structural anomaly. The deep utility routing below the floor is likewise monitored, as
 the site treats the routes below F-1 as potential approach paths that must be
 watched even where they are not
 occupied.
@@ -316,27 +283,21 @@ occupied.
 
 ### 10.1 Filing Doctrine
 
-The full register of F-1 residents is preserved in the clearance-gated Redwood Veil Annex
-Register. This dossier does
-not enumerate the floor's holdings: knowledge of what the Hanging Vault contains is distributed
-across the Facility
+The full register of F-1 residents is preserved in the clearance-gated Redwood Veil Annex Register. This dossier does
+not enumerate the floor's holdings: knowledge of what the Hanging Vault contains is distributed across the Facility
 precisely so that no single document can reveal it all.
 
 ### 10.2 Holding Character
 
-F-1 holds the complex's high-inviolability residents — material whose containment failure would be unacceptable
-and
-whose transformation is not viable or not authorized. The floor is object-dominant in character,
-though the
+F-1 holds the complex's high-inviolability residents — material whose containment failure would be unacceptable and
+whose transformation is not viable or not authorized. The floor is object-dominant in character, though the
 restriction sets that govern its vaults are determined individually.
 
 ### 10.3 Signature Resident — AFD-OB-801, "Butcher Vanity"
 
 The complex's most storied holding, **AFD-OB-801** — **Butcher Vanity**, the **VESTIBULE OF SLAUGHTER**, the
-**HUNGERING EDGE** — is held on F-1 under the complex's deepest reinforcement. AFD-OB-801 is
-classified **REACTIVE**,
-**Threat Level 3**, **Transformation Viability: INVIOLABLE**, and its containment on this floor is a
-recurring test of
+**HUNGERING EDGE** — is held on F-1 under the complex's deepest reinforcement. AFD-OB-801 is classified **REACTIVE**,
+**Threat Level 3**, **Transformation Viability: INVIOLABLE**, and its containment on this floor is a recurring test of
 the site's memetic-object doctrine.
 
 The resident is contained in a vault whose design accounts for both components of
@@ -349,8 +310,7 @@ be used, and it is not to be understood quickly.**
 
 ### 10.4 Additional Holdings
 
-Other high-inviolability residents are held on F-1 under individual restriction sets preserved in the
-Annex Register.
+Other high-inviolability residents are held on F-1 under individual restriction sets preserved in the Annex Register.
 Personnel without specific assignment to those files do not require their names.
 
 ---
@@ -359,25 +319,20 @@ Personnel without specific assignment to those files do not require their names.
 
 ### 11.1 Rotation
 
-F-1 personnel serve on tightly controlled rotations drawn from the Containment and Security Divisions'
-most
+F-1 personnel serve on tightly controlled rotations drawn from the Containment and Security Divisions' most
 experienced staff. Rotation balances two requirements: continuity of knowledge about the floor's residents, and
 protection of personnel from the cumulative weight of deep-hold duty.
 
 ### 11.2 Duty Life
 
-Duty on F-1 is quiet by design. Workdays are governed by monitoring schedules, environmental
-rounds, regimen
-execution, and documentation. Personnel on the floor work in pairs where the restriction sets
-require it, and the
+Duty on F-1 is quiet by design. Workdays are governed by monitoring schedules, environmental rounds, regimen
+execution, and documentation. Personnel on the floor work in pairs where the restriction sets require it, and the
 floor's atmosphere is one of deliberate, watchful calm.
 
 ### 11.3 Psychological Support
 
-The floor's personnel are supported by the Medical Division's cognitive care programs, including routine
-evaluation
-for personnel assigned to residents with memetic or perceptual components. The site treats deep-hold
-duty as a
+The floor's personnel are supported by the Medical Division's cognitive care programs, including routine evaluation
+for personnel assigned to residents with memetic or perceptual components. The site treats deep-hold duty as a
 psychological as well as a technical assignment.
 
 ---
@@ -386,16 +341,13 @@ psychological as well as a technical assignment.
 
 ### 12.1 Isolation Doctrine
 
-F-1 doctrine holds that the floor's first responsibility is isolation: of residents from the
-surface, of residents
+F-1 doctrine holds that the floor's first responsibility is isolation: of residents from the surface, of residents
 from each other, and of the floor from every route that leads upward.
 
 ### 12.2 The Not-to-be-Understood Doctrine
 
-For the floor's most sensitive residents, doctrine does not demand understanding — it forbids
-completing it. F-1 holds
-material that the site keeps contained precisely because full understanding remains open. The floor
-maintains its
+For the floor's most sensitive residents, doctrine does not demand understanding — it forbids completing it. F-1 holds
+material that the site keeps contained precisely because full understanding remains open. The floor maintains its
 residents; it does not presume to finish them.
 
 ### 12.3 Closure Doctrine
@@ -410,8 +362,7 @@ without hesitation.
 ## 13. Incident Archive
 
 The floor's incident record is dominated by monitoring events, regimen execution incidents, and access-verification
-events. The incident that established the closure doctrine is preserved in the complex's history
-files; its
+events. The incident that established the closure doctrine is preserved in the complex's history files; its
 particulars are not repeated in this dossier. No resident of F-1 has breached the
 floor's containment perimeter since
 the closure doctrine was instituted.

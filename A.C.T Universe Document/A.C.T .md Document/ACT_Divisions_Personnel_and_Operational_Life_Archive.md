@@ -25,8 +25,7 @@
 | AUTHORITY | Administration, Archive, and Division Review |
 
 ### Archive Note
-This file is the complete internal archive version of the Facility's divisions, personnel systems,
-operational
+This file is the complete internal archive version of the Facility's divisions, personnel systems, operational
 culture, daily labor structure, and hidden institutional life.
 
 ---
@@ -34,12 +33,9 @@ culture, daily labor structure, and hidden institutional life.
 ## Introduction
 If Part Two defined the internal structure of A.C.T at the level of hierarchy
 and doctrine, then Part Six defines the
-Facility at the level of **function, labor, discipline, and lived operation**. A.C.T is not
-sustained by doctrine
-alone. It is sustained by thousands of daily actions carried out by researchers, guards,
-field operators, archivists,
-janitors, administrators, medics, containment engineers, and personnel whose work is rarely heroic, often secret,
-and
+Facility at the level of **function, labor, discipline, and lived operation**. A.C.T is not sustained by doctrine
+alone. It is sustained by thousands of daily actions carried out by researchers, guards, field operators, archivists,
+janitors, administrators, medics, containment engineers, and personnel whose work is rarely heroic, often secret, and
 constantly dangerous.
 
 To understand A.C.T fully, one must understand not only its command structure, but the
@@ -51,8 +47,7 @@ human systems that allow it to keep the impossible buried.
 ## 6.1 — The Facility as a Living System
 The A.C.T Facility is not merely a headquarters, a laboratory, or a prison. It
 is a **living operational system**
-built around the permanent management of anomalies. Every division, floor, and role exists to
-support one or more of
+built around the permanent management of anomalies. Every division, floor, and role exists to support one or more of
 the following functions:
 
 - detect the anomalous
@@ -71,8 +66,7 @@ fortress, and a secret civilization beneath civilization.
 ## 6.1.1 Site Network and Distributed Operation
 The labor structure described in this file does not exist only inside one central
 body. A.C.T functions through a
-distributed network of major SITES, SUB-SITES, relays, and sealed installations, each carrying different burdens
-of
+distributed network of major SITES, SUB-SITES, relays, and sealed installations, each carrying different burdens of
 containment, secrecy, archive continuity, and recovery. Divisions therefore operate both locally and across
 jurisdictional site boundaries. Detailed installation doctrine is preserved separately in the dedicated Site Doctrine,
 Site Registry, and Jurisdiction records.
@@ -96,8 +90,7 @@ Responsible for:
 - first-line breach response
 - lockdown implementation
 
-Security personnel are not normal guards. They are trained for environments where the threat
-may be physical, memetic,
+Security personnel are not normal guards. They are trained for environments where the threat may be physical, memetic,
 temporal, or informational.
 
 #### Recovery Division
@@ -132,8 +125,7 @@ Responsible for:
 - anti-GOI armed intervention
 - existential emergency deployment
 
-The Military Division is not used casually. Its activation usually means containment logic has
-entered failure
+The Military Division is not used casually. Its activation usually means containment logic has entered failure
 pressure.
 
 ---
@@ -277,8 +269,7 @@ It exists to connect:
 - emergency lockdown
 - abyssal routing
 
-The **Anomaly Containment Elevator** — called the Main Containment Elevator in operational shorthand —
-is not just
+The **Anomaly Containment Elevator** — called the Main Containment Elevator in operational shorthand — is not just
 transportation. It is the vertical artery of the entire underground complex.
 
 ---
@@ -288,23 +279,18 @@ Part Two defined the rank order. Part Six explains how those roles feel in
 operation.
 
 ### O5 Council
-Rarely seen, deeply insulated, and almost mythic to lower personnel. Most staff know the
-O5 more as an authority
+Rarely seen, deeply insulated, and almost mythic to lower personnel. Most staff know the O5 more as an authority
 pattern than as individuals.
 
 ### Facility Administrator
-The practical sovereign of a site. Responsible for balancing doctrine, discipline, output, secrecy, and
-survival.
+The practical sovereign of a site. Responsible for balancing doctrine, discipline, output, secrecy, and survival.
 
 ### High Threat Administrator
-The authority that appears when an anomaly, program, or transformation decision crosses into Threat
-Level 7+
-territory. Within that narrow mandate they outrank ordinary site governance and answer directly to
-the O5.
+The authority that appears when an anomaly, program, or transformation decision crosses into Threat Level 7+
+territory. Within that narrow mandate they outrank ordinary site governance and answer directly to the O5.
 
 ### Site Director
-The operational ruler of a specific branch or site zone. Where the Administrator governs
-broadly, the Site Director
+The operational ruler of a specific branch or site zone. Where the Administrator governs broadly, the Site Director
 governs directly.
 
 ### Head Transformation
@@ -339,8 +325,7 @@ Enforces the line between controlled and uncontrolled.
 Preserves knowledge without letting knowledge become a leak.
 
 ### Junior Archiver
-The entry-level hand of the Archiver Division — cataloging, controlled copying, and supervised redaction
-preparation.
+The entry-level hand of the Archiver Division — cataloging, controlled copying, and supervised redaction preparation.
 They touch the paper, not the poison.
 
 ### Facility Junior Employee
@@ -417,8 +402,7 @@ In A.C.T, routine is the disguise worn by constant danger.
 ---
 
 ## 6.6 — E-Class and Disposable Exposure
-E-Class personnel are used where risk cannot be ethically or operationally assigned to protected
-staff.
+E-Class personnel are used where risk cannot be ethically or operationally assigned to protected staff.
 
 Their uses include:
 - exposure testing
@@ -472,8 +456,7 @@ Even when they survive, they may suffer:
 
 Personnel do not merely risk death. They risk becoming incompatible with ordinary humanity.
 
-This is why the Facility must constantly rotate, isolate, evaluate, and medically stabilize its
-own staff.
+This is why the Facility must constantly rotate, isolate, evaluate, and medically stabilize its own staff.
 
 ---
 
@@ -496,8 +479,7 @@ This produces a culture that is:
 - darkly practical
 - and permanently shaped by hidden dread
 
-There are no truly ordinary employees in A.C.T. Only personnel at different distances from
-the truth.
+There are no truly ordinary employees in A.C.T. Only personnel at different distances from the truth.
 
 ---
 
@@ -505,18 +487,15 @@ the truth.
 Part Six defines A.C.T not just as a doctrine or structure, but as a
 functioning buried civilization of secrecy,
 containment, study, and compromise. The Facility survives because its divisions function together, its personnel
-accept unbearable routines, and its culture turns fear into procedure. In the end, A.C.T
-is held together not only by
-steel, doctrine, and classification—but by the continuous labor of people who spend their lives
-making sure the world
+accept unbearable routines, and its culture turns fear into procedure. In the end, A.C.T is held together not only by
+steel, doctrine, and classification—but by the continuous labor of people who spend their lives making sure the world
 above never learns how close it lives to the impossible.
 
 ## Series Position
 
-This record is Part Six of the A.C.T Universe reading order, Facility Divisions, Personnel Roles, and Operational
-Life. Part Six of the A.C.T Universe records the divisions of the Facility, the roles held inside them, and the
-operational life of the people who work there. The separate file of the A.C.T Universe series that carried the same
-content was
+This record is Part Six of the A.C.T Universe reading order, Facility Divisions, Personnel
+Roles, and Operational Life. Part Six of the A.C.T Universe records the divisions of the
+Facility, the roles held inside them, and the operational life of the people who work
+there. The separate file of the A.C.T Universe series that carried the same content was
 consolidated into this record
-on 2026-10-22; every sentence held only in that file is carried above or in the body of this
-document.
+on 2026-10-22; every sentence held only in that file is carried above or in the body of this document.

@@ -9,10 +9,9 @@
 
 ### Archive Note
 
-A.C.T seized one sample coffer from the Ninefold Ark after a custody dispute. It is the only Ark
-object the Facility holds. Everything else in the relationship is at a distance: one seed annex
-was inspected under cooperation, one mobile hold was photographed from outside, and full Ark
-inventories are unknown.
+A.C.T seized one sample coffer from the Ninefold Ark after a custody dispute. It is the only Ark object
+the Facility holds. Everything else in the relationship is at a distance: one seed annex was inspected
+under cooperation, one mobile hold was photographed from outside, and full Ark inventories are unknown.
 
 The archive therefore holds this as an assessment and not as a custody record. It does not operate
 the coffer and has no intention of issuing it. Neither is it a counter-operation record, because the Ark is
@@ -31,8 +30,8 @@ A preservation container. The dossier places sample coffers among Ark assets tha
 cold cradles for viable tissue, seed, eggs, blood, spores and unknown samples, which is as close
 as the source comes to saying what one is for.
 
-No dimensions, materials, internal temperature or medium are recorded anywhere in the dossier, and
-none is invented here.
+No dimensions, materials, internal temperature or medium are
+recorded anywhere in the dossier, and none is invented here.
 
 ## 1.2 What is inside
 
@@ -84,9 +83,8 @@ not ruled and this file does not decide for it.
 - whether the coffer should be returned, and what returning it would concede;
 - what the Ark's ninth preservation category is.
 
-The last question governs the seal rule. A network that stores things it has not classified is a
-network that may hand over something nobody knows how to hold, and until that category is named
-the coffer stays shut.
+The last question governs the seal rule. A network that stores things it has not classified is a network that
+may hand over something nobody knows how to hold, and until that category is named the coffer stays shut.
 
 ---
 

@@ -21,17 +21,13 @@
 | AUTHORITY | Archive |
 
 #### Archive Note
-Mercy Lock Quiet Room Low-Stimulation Care Architecture is the fourth registered technology record derived
-from Mercy
-Lock Institute. Mercy Lock dossiers identify quiet rooms with layered acoustic, emotional, radiant, or
-shadow
+Mercy Lock Quiet Room Low-Stimulation Care Architecture is the fourth registered technology record derived from Mercy
+Lock Institute. Mercy Lock dossiers identify quiet rooms with layered acoustic, emotional, radiant, or shadow
 baffling; low-stimulation rooms for auditory, radiant, shadow, and memory-sensitive residents; and soft-room designs
-that reduce panic escalation in altered persons. A.C.T has inspected ward rooms under agreement
-and has observed that
+that reduce panic escalation in altered persons. A.C.T has inspected ward rooms under agreement and has observed that
 room architecture, restraint culture, and patient advocacy cannot be separated in Mercy Lock practice.
 
-MLQRLCA is acquired by A.C.T through limited ward inspections, emergency transfers, consultation notes, and
-inactive
+MLQRLCA is acquired by A.C.T through limited ward inspections, emergency transfers, consultation notes, and inactive
 component review. Full ward maps, patient-specific tuning, and hidden clinic locations remain censored.
 
 Controlled label: **MLQRLCA QUIET-ENOUGH-TO-STAY-PERSON ROOM**.
@@ -46,18 +42,15 @@ LOWER THE ROOM'S VIOLENCE BEFORE YOU INCREASE THE PATIENT'S RESTRAINT.
 
 ## FUNCTION OUTLINE
 
-Mercy Lock Quiet Room Low-Stimulation Care Architecture is a ward-room technology for residents whose
-danger escalates
+Mercy Lock Quiet Room Low-Stimulation Care Architecture is a ward-room technology for residents whose danger escalates
 through panic, sensory overload, darkness, crowding, weapon visibility, hostile speech, wrong names, memory pressure,
-radiant output, shadow behavior, or emotional feedback. The room reduces stimuli and manifestation routes
-while
+radiant output, shadow behavior, or emotional feedback. The room reduces stimuli and manifestation routes while
 preserving patient communication, air, sightlines, staff response, and legal care status.
 
 MLQRLCA is not a padded cell. A padded cell assumes impact. A quiet room
 assumes the environment may be provoking the
 hazard. The technology adjusts sound, light, texture, airflow, corridor approach, door behavior, staff visibility,
-family contact, and patient-side signal access so that restraint does not create the event
-it is meant to prevent.
+family contact, and patient-side signal access so that restraint does not create the event it is meant to prevent.
 
 Approved A.C.T use includes altered-person medical holding, low-violence anomaly care, child or nonhuman dependent
 custody, heat or shadow episode reduction, auditory or radiant sensitivity management, witness stabilization,
@@ -67,19 +60,14 @@ temporary transfer rooms, and review of standard cells that repeatedly escalate 
 
 ## ORIGIN, CUSTODY, AND OWNERSHIP
 
-Mercy Lock quiet rooms appear to have developed from psychiatric de-escalation rooms, hospice comfort
-suites, sensory
+Mercy Lock quiet rooms appear to have developed from psychiatric de-escalation rooms, hospice comfort suites, sensory
 accessibility design, nonhuman etiquette chambers, and containment engineering. Quiet Engineers adapt rooms to
-patient-specific risks. A resident whose panic increases with darkness should not be placed behind
-an opaque plate. A
+patient-specific risks. A resident whose panic increases with darkness should not be placed behind an opaque plate. A
 child whose shadow opens doors may need light control more than heavier bolts.
 
-A.C.T custody is design-level and partial. Engineering may inspect surfaces, vents, baffling, light control,
-and alarm
-routing at approved wards. Medical and Subject Care may request quiet-room consultation. A.C.T does
-not possess the
-complete Mercy Lock ward design library and may not turn quiet-room principles into indefinite
-isolation without legal
+A.C.T custody is design-level and partial. Engineering may inspect surfaces, vents, baffling, light control, and alarm
+routing at approved wards. Medical and Subject Care may request quiet-room consultation. A.C.T does not possess the
+complete Mercy Lock ward design library and may not turn quiet-room principles into indefinite isolation without legal
 review.
 
 ---
@@ -88,8 +76,7 @@ review.
 
 Observed quiet rooms include soft-faced doors, damped walls, non-slam thresholds, covered hinges, adjustable low-glare
 lighting, safe window options, layered acoustic baffling, shadow-stable corners, radiant shielding, nonthreatening
-observation routes, patient bell access, gentle lock compatibility, and consent marker visibility. Some rooms
-include
+observation routes, patient bell access, gentle lock compatibility, and consent marker visibility. Some rooms include
 family-contact partitions or voice-safe intercoms.
 
 Known components include:
@@ -166,20 +153,14 @@ point at which quiet becomes sensory deprivation for a memory-sensitive resident
 ## OPERATING PROCEDURE
 
 Before A.C.T uses quiet-room doctrine, Medical records the resident's tolerated stimuli, escalation stimuli,
-communication method, airflow needs, safe light level, touch limits, name limits, family-contact limits, and
-whether a
-patient bell or advocate must remain present. Engineering reviews the room for acoustic, light,
-shadow, radiant, and
-door behavior. Subject Care reviews whether isolation will worsen distress. Legal confirms custody status
-and review
+communication method, airflow needs, safe light level, touch limits, name limits, family-contact limits, and whether a
+patient bell or advocate must remain present. Engineering reviews the room for acoustic, light, shadow, radiant, and
+door behavior. Subject Care reviews whether isolation will worsen distress. Legal confirms custody status and review
 schedule.
 
-During use, staff avoid visible weapons unless risk requires them, avoid shouting forbidden names,
-avoid slamming
-metal, and avoid crowding the threshold. Monitoring must document patient state without turning observation
-into
-intimidation. Quiet is maintained as care, not punishment. If the patient escalates, staff must
-ask whether the room
+During use, staff avoid visible weapons unless risk requires them, avoid shouting forbidden names, avoid slamming
+metal, and avoid crowding the threshold. Monitoring must document patient state without turning observation into
+intimidation. Quiet is maintained as care, not punishment. If the patient escalates, staff must ask whether the room
 failed before assuming the resident chose violence.
 
 ## SERVICING AND CALIBRATION
@@ -230,18 +211,14 @@ being needed, and nothing in the environment announces that.
 
 ## KNOWN LIMITS AND FAILURE CONDITIONS
 
-Quiet rooms can become cruel if staff confuse low stimulation with abandonment. A patient
-may need sound, light,
-family voice, or movement to remain oriented. Removing all stimulus may worsen memory instability,
-grief phenomena,
-nonhuman distress, or child panic. A hostile custodian could also use quiet-room design to
-isolate victims while
+Quiet rooms can become cruel if staff confuse low stimulation with abandonment. A patient may need sound, light,
+family voice, or movement to remain oriented. Removing all stimulus may worsen memory instability, grief phenomena,
+nonhuman distress, or child panic. A hostile custodian could also use quiet-room design to isolate victims while
 claiming mercy.
 
 Known failure modes include room-patient mismatch, bell unreachable, excessive darkness, airflow discomfort,
 shadow-control error, acoustic overdeadening, observation intimidation, advocate exclusion, cleaning chemical trigger,
-staff weapon visibility, family-contact severance, and quiet-room use continuing after the patient no longer
-requires
+staff weapon visibility, family-contact severance, and quiet-room use continuing after the patient no longer requires
 it.
 
 ---
@@ -249,38 +226,30 @@ it.
 ## FAILURE HISTORY AND RECORDED INCIDENTS
 
 ### MLQRLCA-Heat Transfer Room Correction
-A heat-manifestation patient remained below injury threshold after visible weapons were removed, the bell
-was
-retained, and open-window tolerance was respected. A.C.T Medical treats the event as evidence that
-room conditions can
+A heat-manifestation patient remained below injury threshold after visible weapons were removed, the bell was
+retained, and open-window tolerance was respected. A.C.T Medical treats the event as evidence that room conditions can
 control hazard output.
 
 ### MLQRLCA-Soft Room Design Finding
-Mercy Lock ward inspections showed that soft-room architecture reduces panic escalation only when staff
-behavior
+Mercy Lock ward inspections showed that soft-room architecture reduces panic escalation only when staff behavior
 matches the room. A soft wall cannot compensate for a guard who treats the
 patient as a defeated threat.
 
 ### MLQRLCA-Hostile Adaptation Concern
-A.C.T assesses that quiet-room elements could be inverted into private imprisonment: low stimulation becomes
-sensory
-deprivation, gentle locks become compliance locks, and advocacy markers become false legitimacy. This risk
-justifies
+A.C.T assesses that quiet-room elements could be inverted into private imprisonment: low stimulation becomes sensory
+deprivation, gentle locks become compliance locks, and advocacy markers become false legitimacy. This risk justifies
 restricted design circulation.
 
 ---
 
 ## DIVISION USE AND REQUEST RULES
 
-Medical Division requests quiet-room consultation for patients whose symptoms worsen under hard cells. Subject
-Care
-reviews communication, dependency, and dignity. Containment may use quiet-room principles only when they do
-not weaken
+Medical Division requests quiet-room consultation for patients whose symptoms worsen under hard cells. Subject Care
+reviews communication, dependency, and dignity. Containment may use quiet-room principles only when they do not weaken
 necessary containment. Engineering inspects rooms and builds temporary equivalents under supervision. Legal reviews
 duration, consent, guardianship, and documentation.
 
-MLQRLCA doctrine holds that containment can begin by changing the room instead of blaming
-the person inside it for
+MLQRLCA doctrine holds that containment can begin by changing the room instead of blaming the person inside it for
 reacting to harm.
 
 ---
@@ -290,8 +259,7 @@ reacting to harm.
 - GOI-HY-P-071 — Mercy Lock Institute, Group of Interest Registry
 - TECH-GOI-071-1 — Mercy Lock Gentle Lock System, Technology Record
 - TECH-GOI-071-2 — Mercy Lock Patient Bell Distress Signal System, Technology Record
- Mercy Lock ward inspection notes, quiet-room plans, transfer records, and Red Key files
- [restricted]
+ Mercy Lock ward inspection notes, quiet-room plans, transfer records, and Red Key files [restricted]
 
 ---
 
@@ -306,8 +274,7 @@ reacting to harm.
 
 ### Intelligence Confidence
 
-Moderate. A.C.T has inspected several rooms and benefited from Mercy Lock consultation during transfer.
-Confidence is
+Moderate. A.C.T has inspected several rooms and benefited from Mercy Lock consultation during transfer. Confidence is
 limited by regional variation, withheld ward maps, and patient-specific environmental tuning.
 
 ---

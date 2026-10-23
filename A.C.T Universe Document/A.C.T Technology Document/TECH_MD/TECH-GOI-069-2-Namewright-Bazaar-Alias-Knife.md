@@ -58,8 +58,7 @@ a trader rather than kept in a workshop.
 Three things follow, and they are marked as inference.
 
 The knife is carrier-specific. The binding media also include hair, blood, school records and
-gravesoil, which a knife does not cut. The tool is part of a set and cannot accomplish a binding
-alone.
+gravesoil, which a knife does not cut. The tool is part of a set and cannot accomplish a binding alone.
 
 The knife is trade-issued rather than personal. It appears in the dossier alongside stolen birth
 rolls, court stamp caches and registry mirrors, all of which are trade stock. Two seized units
@@ -110,8 +109,8 @@ Recorded for recognition. It is not a Facility procedure and no personnel may fo
 8. The severed carriers are discarded into a dead-name cupboard.
 ```
 
-Step 8 is why a dead-name cupboard door was recovered alongside these knives, and the two files
-should be read together.
+Step 8 is why a dead-name cupboard door was recovered alongside
+these knives, and the two files should be read together.
 
 ---
 
@@ -137,9 +136,8 @@ should be read together.
 - whether the knives are made by the Bazaar or acquired and marked;
 - how many are in circulation, given that two were seized from one market.
 
-The first and fourth questions are Subject Care questions before they are technical ones, and
-neither has an answer here. A person presenting with cut carriers is attended on that basis and is
-not held pending an answer.
+The first and fourth questions are Subject Care questions before they are technical ones, and neither has an
+answer here. A person presenting with cut carriers is attended on that basis and is not held pending an answer.
 
 ---
 
@@ -150,9 +148,8 @@ not held pending an answer.
 - `TECH-GOI-069-3` — Namewright Bazaar Counterfeit Court Stamp, Technology Record
 - `TECH-GOI-069-4` — Namewright Bazaar Dead-Name Cupboard Door, Technology Record
 
-The ledger identifies the source name, the knife cuts the carriers, the stamps make the substitution
-look official, and the cupboard holds what was cut away. The sequence runs in that order and the four
-files should be read in it.
+The ledger identifies the source name, the knife cuts the carriers, the stamps make the substitution look official,
+and the cupboard holds what was cut away. The sequence runs in that order and the four files should be read in it.
 
 ---
 

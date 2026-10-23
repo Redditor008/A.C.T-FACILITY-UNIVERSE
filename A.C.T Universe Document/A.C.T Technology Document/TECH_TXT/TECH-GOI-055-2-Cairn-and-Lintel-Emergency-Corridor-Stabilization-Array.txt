@@ -95,9 +95,8 @@ in the report was that everyone got out, and supplied a drawing showing only
 the gymnasium and two doors.
 
 Custody sits with Recovery Division and Engineering review under Central Archive oversight, with Containment
-attached where a route crosses an active boundary, Medical attached for hospital and patient
-routes, and Civil Covert attached for disclosure questions. Intelligence tracks unregistered stairwells and
-repeated builder marks.
+attached where a route crosses an active boundary, Medical attached for hospital and patient routes, and Civil
+Covert attached for disclosure questions. Intelligence tracks unregistered stairwells and repeated builder marks.
 
 A.C.T does not know whether Cairn & Lintel predicts failure points, builds latent routes
 in advance, or modifies buildings after abnormal pressure begins. All three are consistent with
@@ -305,16 +304,14 @@ Logging the interval at first passage is what makes the two distinguishable afte
 
 DIVISION USE
 
-Recovery Division holds the four-state ownership log, the interval record, and the refusal to
-force a closed corridor. Engineering review holds the settlement inspection and the authority over
-any reopening. Containment secures a boundary a route crosses without collapsing civilian egress unless
-a higher hazard is confirmed.
+Recovery Division holds the four-state ownership log, the interval record, and the refusal to force a closed
+corridor. Engineering review holds the settlement inspection and the authority over any reopening. Containment
+secures a boundary a route crosses without collapsing civilian egress unless a higher hazard is confirmed.
 
-Medical Division attaches for hospital corridor and patient-evacuation routes, where hallway continuity
-between operating rooms and exits is the operative question. Civil Covert handles withdrawal of
-any route mapped into public records and any disclosure to local authorities. Intelligence tracks
-unregistered stairwells. Command authorises escalation and holds no authority to order a forced reopening
-over Engineering review.
+Medical Division attaches for hospital corridor and patient-evacuation routes, where hallway continuity between
+operating rooms and exits is the operative question. Civil Covert handles withdrawal of any route mapped into
+public records and any disclosure to local authorities. Intelligence tracks unregistered stairwells. Command
+authorises escalation and holds no authority to order a forced reopening over Engineering review.
 
 
 

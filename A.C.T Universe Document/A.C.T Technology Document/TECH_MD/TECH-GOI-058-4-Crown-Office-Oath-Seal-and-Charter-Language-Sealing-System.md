@@ -197,9 +197,9 @@ being mistaken for a settled rule.
 | Custody accepted early | A.C.T handling breach | Report; obligation may attach |
 | Charter copy disposed | A.C.T handling breach | Report loss; notify Office |
 
-The fifth row is the exposure this record exists to prevent. Accepting custody before a written determination may
-attach an obligation A.C.T has not assessed and may not be able to sever, and the breach cannot be undone
-by returning the object.
+The fifth row is the exposure this record exists to prevent. Accepting custody
+before a written determination may attach an obligation A.C.T has not assessed and
+may not be able to sever, and the breach cannot be undone by returning the object.
 
 ---
 

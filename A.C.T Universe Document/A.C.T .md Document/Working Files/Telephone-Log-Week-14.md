@@ -12,5 +12,4 @@
 | Thu | 07:55 | Site 05 Command | Roster change | Actioned |
 | Fri | 16:20 | Saint Morrow Passage | Crossing ledger query | Passed to Intelligence |
 
-The Wednesday call is the only one worth keeping and it is not this file's business to keep it.
-Intelligence has it.
+The Wednesday call is the only one worth keeping and it is not this file's business to keep it. Intelligence has it.

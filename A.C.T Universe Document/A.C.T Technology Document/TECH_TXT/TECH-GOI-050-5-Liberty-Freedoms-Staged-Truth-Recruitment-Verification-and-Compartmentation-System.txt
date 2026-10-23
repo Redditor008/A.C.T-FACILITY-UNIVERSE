@@ -37,9 +37,8 @@ TECHNOLOGY RECORD - LIBERTY FREEDOMS STAGED-TRUTH RECRUITMENT VERIFICATION AND C
 
 Archive Note
 The system is catalogued because it is a designed process with repeatable stages rather
-than spontaneous radicalization. Gate cells recruit, protect, and vet former A.C.T personnel, contractors, and
-their families, managing what the dossier calls the highest-risk asset the network holds, which
-is inside knowledge.
+than spontaneous radicalization. Gate cells recruit, protect, and vet former A.C.T personnel, contractors, and their
+families, managing what the dossier calls the highest-risk asset the network holds, which is inside knowledge.
 
 Recruitment is staged. A prospect is first given a true fragment, a real but
 carefully chosen piece of concealed information, and invited to verify it. The fragment establishes
@@ -75,8 +74,8 @@ rather than released, because a released recruit is a reportable witness.
 
 The consequence for A.C.T is that the counter cannot be denial. A false denial
 confirms the fragment and hands the recruiter a second verifiable claim, so the only
-workable response is a narrow true statement that removes the fragment's isolation without confirming
-the implication built on it.
+workable response is a narrow true statement that removes the
+fragment's isolation without confirming the implication built on it.
 
 
 ORIGIN AND CUSTODY
@@ -92,9 +91,8 @@ held, and none may exist: the method is transmitted as practice between gate cel
 and seized documents suggest the network changes its own terminology deliberately.
 
 Defector identity material is restricted at Level 5 and held by the Hostile Networks
-Desk with Internal Security liaison. Central Archive holds the designation record, and gate-cell source
-material is kept separate from operational intelligence so that a compromised file cannot expose
-a screening process.
+Desk with Internal Security liaison. Central Archive holds the designation record, and gate-cell source material
+is kept separate from operational intelligence so that a compromised file cannot expose a screening process.
 
 
 PHYSICAL OR SYSTEM DESCRIPTION
@@ -258,8 +256,7 @@ It also cannot be countered by denial. Interviews must separate genuine operatio
 the network's doctrine, because the two are mixed even in the member's own account,
 and no amnesty or immunity may be offered that would permit a defector to
 retain access to containment knowledge. Recovered material is divided into immediate safety, intelligence, and
-exposure streams, and no L.F. material is repurposed by Transformation Division without Command-level
-exception.
+exposure streams, and no L.F. material is repurposed by Transformation Division without Command-level exception.
 
 
 FAILURE HISTORY

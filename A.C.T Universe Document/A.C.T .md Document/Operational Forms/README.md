@@ -14,8 +14,7 @@ complete, attach to an anomaly record, or route through the archive. It is not
 a report about repository maintenance
 and it is not a planning note.
 
-The forms in this folder exist to make operations repeatable without flattening the human
-or anomalous details that
+The forms in this folder exist to make operations repeatable without flattening the human or anomalous details that
 make each case dangerous.
 
 ---
@@ -35,8 +34,7 @@ Use this folder for blank or semi-blank operational forms connected to:
 - cross-containment request routing;
 - transformation review attachments.
 
-Full doctrine remains in the parent document folder. Filled case records belong with the
-relevant anomaly, GOI, site,
+Full doctrine remains in the parent document folder. Filled case records belong with the relevant anomaly, GOI, site,
 or operational dossier.
 
 ---

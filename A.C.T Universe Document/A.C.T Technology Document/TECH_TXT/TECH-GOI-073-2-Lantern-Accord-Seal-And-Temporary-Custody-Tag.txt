@@ -16,27 +16,24 @@ Archive Note
 
 The archive holds three Lantern Accord seals. All three are expired. No valid seal is held.
 
-These are Accord Clerk issue, drawn from stock the Accord keeps at depot level — the dossier
-records seal ink among the consumables held in depot cupboards alongside blankets, water and spare
-lantern glass, which places seal production inside the Accord's own logistics rather than with any
-single signatory.
+These are Accord Clerk issue, drawn from stock the Accord keeps at depot level — the dossier records seal
+ink among the consumables held in depot cupboards alongside blankets, water and spare lantern glass,
+which places seal production inside the Accord's own logistics rather than with any single signatory.
 
 A seal attests. An Accord Clerk writes immediate terms at activation, and the seal is what makes
 that writing binding on the parties. A temporary custody tag is its companion and marks a person or
 object held under an Accord handover rather than under any party's own authority.
 
-What the archive holds is inert and dangerous at the same time. An expired seal attests nothing, so
-the three units impose no obligation. Three genuine expired seals are also the best available
-reference for what a valid one looks like, which makes them a forgery reference whether anyone
-intends that or not. They are held restricted rather than merely stored, and that is the whole of
-the handling problem.
+What the archive holds is inert and dangerous at the same time. An expired seal attests nothing, so the
+three units impose no obligation. Three genuine expired seals are also the best available reference for
+what a valid one looks like, which makes them a forgery reference whether anyone intends that or not.
+They are held restricted rather than merely stored, and that is the whole of the handling problem.
 
 ACCORD SEAL AUTHORITY RULE
 
 The seals are expired and attest nothing. They are not A.C.T authority and must not be presented as
 any. They are also a forgery reference, so access is restricted and not open. No impression is
-taken, no ink sample is drawn, and no replication study proceeds without Level 4 and Legal
-approval.
+taken, no ink sample is drawn, and no replication study proceeds without Level 4 and Legal approval.
 
 THE INSTRUMENT
 --------------
@@ -49,16 +46,14 @@ handover ledger records it, and the seal is what makes the writing binding. The 
 handover ledgers and violation ledgers as separate assets, and the seal sits between them.
 
 A temporary custody tag attaches to a person or object held under a handover condition. Reading one
-correctly requires knowing which handover it belongs to, and that is in the handover ledgers. The
-archive holds a copied violation ledger and no handover ledger, so a tag recovered in isolation
-cannot be resolved.
+correctly requires knowing which handover it belongs to, and that is in the handover ledgers. The archive
+holds a copied violation ledger and no handover ledger, so a tag recovered in isolation cannot be resolved.
 
 1.2 What can be said about them
 ===============================
 
-Wet ink, inferred from the fact that ink is stocked as a consumable. Nothing else. Dimensions,
-materials, ink composition, expiry mechanism, serial marking and any countermeasure feature are all
-absent from the dossier.
+Wet ink, inferred from the fact that ink is stocked as a consumable. Nothing else. Dimensions, materials, ink
+composition, expiry mechanism, serial marking and any countermeasure feature are all absent from the dossier.
 
 The absence of a recorded countermeasure is itself worth holding. The dossier describes an Accord
 whose codebooks are updated after every broken line, which is a countermeasure practice applied to
@@ -95,9 +90,8 @@ Personnel must not take an impression, cast a seal face, draw an ink sample, or 
 An impression is the first step of replication. Cleaning alters the residue that establishes the
 units as genuine expired stock.
 
-Where an Accord document bearing a seal comes to A.C.T attention during joint work, the document is
-referred to Legal. Personnel do not accept custody under an Accord tag and do not treat a tag as
-authority to hold anything.
+Where an Accord document bearing a seal comes to A.C.T attention during joint work, the document is referred to
+Legal. Personnel do not accept custody under an Accord tag and do not treat a tag as authority to hold anything.
 
 2.3 The Accord's own sequence
 =============================

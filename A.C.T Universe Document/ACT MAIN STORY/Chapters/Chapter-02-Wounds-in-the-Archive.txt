@@ -22,8 +22,8 @@ overhead passage carrying a sealed case between them with the deliberate speed o
 must not be dropped and must not be discussed. Somewhere behind reinforced walls, a transport alarm chimed twice and
 stopped. Nothing unusual. Everything unusual.
 
-Sera signed out at the corridor checkpoint and felt the scanner linger half a second too long against the side of her
-wrist.
+Sera signed out at the corridor checkpoint and felt the scanner
+linger half a second too long against the side of her wrist.
 
 “Repeat contact,” said the guard behind the glass.
 
@@ -128,12 +128,12 @@ at content and started looking at signatures.
 
 People lied. Paper lied. But patterns of handwriting lied differently.
 
-She pulled up scanned ledger margins, transfer initials, review marks, seal notations. At first the result looked like
-noise. Different centuries of pen pressure. Different inks. Different levels of fatigue. Then one little inconsistency
-split open the whole field.
+She pulled up scanned ledger margins, transfer initials, review marks, seal notations. At
+first the result looked like noise. Different centuries of pen pressure. Different inks.
+Different levels of fatigue. Then one little inconsistency split open the whole field.
 
-A looping capital on a review note in an early abyss transfer record matched the hand on a later inventory correction
-twenty-one years apart.
+A looping capital on a review note in an early abyss transfer record
+matched the hand on a later inventory correction twenty-one years apart.
 
 That should not have been possible.
 
@@ -156,8 +156,8 @@ Not casual clerical substitution. Systemic renaming.
 
 As if the archive, at some point, had decided that certain people were safer under other identities.
 
-Or as if someone had wanted later readers to stop asking why the same hand appeared on both sides of events no single
-person should have survived.
+Or as if someone had wanted later readers to stop asking why the same hand
+appeared on both sides of events no single person should have survived.
 
 Her terminal chimed.
 
@@ -171,9 +171,9 @@ Submit reason for escalation?
 
 Sera sat very still.
 
-If she escalated, the request would log. If it logged, someone would notice the cluster. If someone noticed the
-cluster, one of two things would happen: they would either decide she had found nothing important, or decide she had
-found exactly the wrong thing.
+If she escalated, the request would log. If it logged, someone would notice the cluster.
+If someone noticed the cluster, one of two things would happen: they would either decide
+she had found nothing important, or decide she had found exactly the wrong thing.
 
 She closed the prompt without responding.
 
@@ -260,8 +260,8 @@ Tavian looked at her for a long moment.
 
 “Casually,” Sera lied.
 
-He sighed. “Then I’ll answer casually. Pre-standard medical language is garbage. Half of it got retrofitted after the
-fact.”
+He sighed. “Then I’ll answer casually. Pre-standard medical
+language is garbage. Half of it got retrofitted after the fact.”
 
 “Could 004-linked symptoms appear in records before official anomaly recovery?”
 

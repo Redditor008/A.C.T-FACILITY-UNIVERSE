@@ -31,14 +31,12 @@ Before reporting any number, any absence, or any discrepancy:
 Three real failures, all shipped as findings before the instrument was checked.
 
 **A chapter slice taken from the contents list.** `ACT_Complete_Designation_and_Class_Reference.md`
-carries a `## Contents` list repeating every chapter title. `s.find("PART I")` matched the
-contents entry and sliced 2,588 characters of front matter instead of the 63,966-character
-chapter. Every extraction against that slice returned nothing, and the emptiness was reported as
-a property of the doctrine.
+carries a `## Contents` list repeating every chapter title. `s.find("PART I")` matched the contents entry
+and sliced 2,588 characters of front matter instead of the 63,966-character chapter. Every extraction
+against that slice returned nothing, and the emptiness was reported as a property of the doctrine.
 
-**A format the chapter does not use.** PART I holds zero table rows; its 9,314 words are prose
-across 17 numbered sections. Table-shaped extractors returned nothing and the nothing was read as
-a gap in the doctrine.
+**A format the chapter does not use.** PART I holds zero table rows; its 9,314 words are prose across 17
+numbered sections. Table-shaped extractors returned nothing and the nothing was read as a gap in the doctrine.
 
 **A three-segment pattern against a four-segment designation.** `ANM` records use
 `ANM-XX-XX-0000`. The pattern looked for `XXX-XX-000`, matched the inner `QU-AS-0003` of
@@ -47,10 +45,9 @@ then reported `ANM` absent, and a true count of four was retracted on that evide
 
 ## The sharper lesson
 
-A retraction is a finding like any other and needs the same proof. Retracting a true number on a
-bad instrument leaves the reader holding two wrong statements instead of one. Withdraw the
-retraction in the same place it was recorded, say which statement was false, and give the
-corrected measurement.
+A retraction is a finding like any other and needs the same proof. Retracting a true number on a bad
+instrument leaves the reader holding two wrong statements instead of one. Withdraw the retraction in
+the same place it was recorded, say which statement was false, and give the corrected measurement.
 
 ## Splice anchors and clean exit codes
 
@@ -69,8 +66,8 @@ This happened for real. `**Reading examples.**` appears twice in
 unanchored search gave `old_start=70020, old_end=36574`, and the resulting splice inserted 863
 lines and a second copy of a chapter heading.
 
-**A clean exit code is not a pass.** That splice exited zero and wrote the file. What caught it
-was counting afterwards:
+**A clean exit code is not a pass.** That splice exited zero
+and wrote the file. What caught it was counting afterwards:
 
 ```
 git diff --numstat   ->  863  0     (863 insertions and no deletions is a duplication)
@@ -135,9 +132,8 @@ The rule that follows from it:
 
 ## No number in a commit message that has not been measured
 
-A commit message is a claim about the change. Every figure in it must come from the verification
-block that ran on the change, and a message drafted before the block must be reconciled against it
-before the push.
+A commit message is a claim about the change. Every figure in it must come from the verification block that
+ran on the change, and a message drafted before the block must be reconciled against it before the push.
 
 This failed. A rebuild commit message stated 1,177 words and that a repeated phrase had dropped
 from eleven occurrences to four. The verification block, which ran in the same command, reported

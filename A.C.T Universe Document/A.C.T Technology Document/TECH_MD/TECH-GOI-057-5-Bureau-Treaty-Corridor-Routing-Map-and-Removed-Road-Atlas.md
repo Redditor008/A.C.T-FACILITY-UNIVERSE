@@ -180,10 +180,10 @@ Applies when an A.C.T operation depends on a Bureau corridor or receives a Burea
 | Stability declaration | After every unstable-route operation |
 | Reproduction briefing | Before any new field team is briefed |
 
-The atlas comparison log is the row that keeps the record from drifting into assumption. Each year A.C.T records that
-the corridor names it holds still appear in no atlas it holds. That negative result is the only measurement this
-record can honestly make, and repeating it is what prevents a corridor name from becoming familiar enough to seem
-verified.
+The atlas comparison log is the row that keeps the record from drifting into assumption.
+Each year A.C.T records that the corridor names it holds still appear in no atlas it holds.
+That negative result is the only measurement this record can honestly make, and repeating
+it is what prevents a corridor name from becoming familiar enough to seem verified.
 
 ---
 

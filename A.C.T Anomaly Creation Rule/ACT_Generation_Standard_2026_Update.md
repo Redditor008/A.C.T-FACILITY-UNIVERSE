@@ -11,34 +11,29 @@ narrative isolation for all A.C.T content.
 The A.C.T Facility operates within the **Main A.C.T Reality**.
 
 #### **The "715" Separation Rule:**
-Anomalies designated under the **715-Series** (Realities A through G) are formally classified as **Exogenous
-Reality
+Anomalies designated under the **715-Series** (Realities A through G) are formally classified as **Exogenous Reality
 Nodes**.
 — **Independent:** They are external causal planes detected by the Facility.
-    **Disconnected:** Their histories, logic, and outcomes (like the "PLAYER" in Reality E) are
-    **not**
+    **Disconnected:** Their histories, logic, and outcomes (like the "PLAYER" in Reality E) are **not**
     connected to the
     Main A.C.T timeline.
-    **Scrubbing Rule:** In-universe anomaly files for these subjects must **not** contain the words
-    "Reality
+    **Scrubbing Rule:** In-universe anomaly files for these subjects must **not** contain the words "Reality
     A" or
-    "Reality-F." Site staff only see the AFD/OB-715 number. Only the O5-level `ACT-715-Unknown-ACT-Reality-List.txt`
-    tracks the mapping.
+    "Reality-F." Site staff only see the AFD/OB-715 number. Only the
+    O5-level `ACT-715-Unknown-ACT-Reality-List.txt` tracks the mapping.
 
 ---
 
 ## 2. ASSET & TECHNOLOGY INTEGRATION
 
-All future anomaly files and logs must utilize the **Master Catalog of Operational Assets
-(Index 50)**.
+All future anomaly files and logs must utilize the **Master Catalog of Operational Assets (Index 50)**.
 
 #### **Mandatory Technological Usage:**
 *   **RSA (Reality Stabilization Anchor):** The default tool for spatial/reality fractures.
 *   **ARM (Anti Reality Mesh):** The default tool for site-secrecy.
 *   **Banalist Static Generators:** Used to suppress narrative-based anomalies (e.g., Dramaturgy).
 *   **004-Series Amnestics:** Categorized by Grade (004-H to 004-A).
-    **Materials:** Utilize **Abyssal Basalt** for heavy boxes, **Pale Wood** for structural reinforcement (with
-    gold
+    **Materials:** Utilize **Abyssal Basalt** for heavy boxes, **Pale Wood** for structural reinforcement (with gold
     vulnerability), and **Steel-Dirt** for lightweight shielding.
 
 ---
@@ -48,8 +43,7 @@ All future anomaly files and logs must utilize the **Master Catalog of Operation
 #### **Dr. Aris Thorne (SR-412)**
 *   **Profile:** 110 years old, 26-year-old body. Lead of the Artifact Awakening Project.
 *   **Tone:** Distant, blunt, clinical, and analog. Dislikes modern digital shortcuts.
-    **Philosophy:** Sees anomalies as "Survivors" and manners as a way to keep researchers
-    human.
+    **Philosophy:** Sees anomalies as "Survivors" and manners as a way to keep researchers human.
 — **Usage:** Use him as a consultant for high-level artifact discoveries or site-wide memoranda.
 
 #### **Senior Researcher Maya Chen (Subject 612-A)**
@@ -60,8 +54,7 @@ All future anomaly files and logs must utilize the **Master Catalog of Operation
 #### **AFD-SU-005 (Anny)**
 *   **Linguistic Standard:** 80% normal speech mimicking 19th-century literature; 20% unique "mechanical/archive"
     metaphors.
-    **Social Hierarchy:** Addresses staff as "Dr. [Name]" or "Technician [Name]." Uses nicknames (e.g.,
-    "Dr.
+    **Social Hierarchy:** Addresses staff as "Dr. [Name]" or "Technician [Name]." Uses nicknames (e.g., "Dr.
     M") only for
     close bonds.
 
@@ -92,14 +85,10 @@ use the following site format:
 Every generated anomaly must now include the Path 1 foundation fields unless the owner
 asks for a short concept only:
 
-**REGISTRY BAND** — ENTITY Historical / 000 Foundational Reserve / LEGACY ACCEPTED 001–120 /
-Modern Registry 121–999 /
-ANM Fracture-State / Reserved / Obscured. **LIFECYCLE STATE** — PROVISIONAL / ACTIVE-CONTAINED / ACTIVE-UNCONTAINED
-/
-UNDER REVIEW / TRANSFORMATION-CANDIDATE / INTEGRATED / RETIRED / ARCHIVED / NEUTRALIZED / EXPLAINED
-/ LOST /
-MEMORIALIZED / PROHIBITED-FROM-TRANSFORMATION. **HAZARD TAGS** — evidenced tags only, using PHYS / BIO /
-COG / MEM /
+**REGISTRY BAND** — ENTITY Historical / 000 Foundational Reserve / LEGACY ACCEPTED 001–120 / Modern Registry 121–999 /
+ANM Fracture-State / Reserved / Obscured. **LIFECYCLE STATE** — PROVISIONAL / ACTIVE-CONTAINED / ACTIVE-UNCONTAINED /
+UNDER REVIEW / TRANSFORMATION-CANDIDATE / INTEGRATED / RETIRED / ARCHIVED / NEUTRALIZED / EXPLAINED / LOST /
+MEMORIALIZED / PROHIBITED-FROM-TRANSFORMATION. **HAZARD TAGS** — evidenced tags only, using PHYS / BIO / COG / MEM /
 INFO / TEMP / SPAT / STR / COS / SOC / OPR families.
 
 Do not use tags as decoration. If the hazard is not demonstrated in the
@@ -182,7 +171,6 @@ itself dangerous. It appears 74 times across the corpus.
 record and carries no classification meaning whatsoever. It appears 100 times across the corpus.
 
 A single record may legitimately carry both, and they will mean different things in the same
-sentence. Writing the containment class with spaces converts it into a redaction; writing a
-redaction without spaces converts it into a classification. Both errors destroy information
-rather than merely misformatting it, which is why the distinction is stated here rather than
-left to the root README.
+sentence. Writing the containment class with spaces converts it into a redaction; writing a redaction
+without spaces converts it into a classification. Both errors destroy information rather than merely
+misformatting it, which is why the distinction is stated here rather than left to the root README.

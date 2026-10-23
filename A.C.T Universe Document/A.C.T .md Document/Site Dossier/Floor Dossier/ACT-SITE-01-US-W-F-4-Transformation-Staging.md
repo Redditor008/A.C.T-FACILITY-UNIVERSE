@@ -17,16 +17,13 @@
 
 ## Archive Note
 
-This file is the complete individual record of **F-4, Transformation Staging**, the fourth-deepest numbered
-floor of
+This file is the complete individual record of **F-4, Transformation Staging**, the fourth-deepest numbered floor of
 **ACT-SITE-01-US-W, Redwood Veil Complex**.
 
 F-4 is the floor where the complex asks the question that holding alone never
 answers: what is this object for? The
-floor's workshops and staging chambers are where the Transformation Division evaluates whether contained objects
-can
-be stabilized, neutralized, repurposed, or integrated — and where objects approved for transformation study
-pass under
+floor's workshops and staging chambers are where the Transformation Division evaluates whether contained objects can
+be stabilized, neutralized, repurposed, or integrated — and where objects approved for transformation study pass under
 ascending authorization.
 
 This dossier records the floor in full institutional language: what it is, what it
@@ -41,28 +38,23 @@ may become.
 
 **Site Designation:** ACT-SITE-01-US-W **Site Codename:** Redwood Veil Complex **Floor Designation:** F-4 **Floor
 Name:** Transformation Staging **Floor Type:** Transformation Evaluation and Preparation Level **Vertical Position:**
-Fourth-deepest numbered floor of the complex **Floor Above:** F-5 (Research and Analysis) **Floor Below:**
-F-3
-(Standard Object Chambers) **Containment Character:** Controlled transformation-evaluation chambers **Primary
-Function:** Evaluation of contained objects for stabilization, neutralization, repurposing, or integration; staging of
-approved objects for transformation study **Access Posture:** Ascending-authorization controlled access **Current
-Status:** Active
+Fourth-deepest numbered floor of the complex **Floor Above:** F-5 (Research and Analysis) **Floor Below:** F-3
+(Standard Object Chambers) **Containment Character:** Controlled transformation-evaluation
+chambers **Primary Function:** Evaluation of contained objects for stabilization,
+neutralization, repurposing, or integration; staging of approved objects for transformation
+study **Access Posture:** Ascending-authorization controlled access **Current Status:** Active
 
 ---
 
 ## 2. Dossier Purpose
 
-A holding facility can keep an object forever. Redwood Veil's doctrine asks whether forever
-is the right answer —
-whether an object that the Facility holds might instead be stabilized into harmlessness, neutralized
-into inertia,
+A holding facility can keep an object forever. Redwood Veil's doctrine asks whether forever is the right answer —
+whether an object that the Facility holds might instead be stabilized into harmlessness, neutralized into inertia,
 repurposed into usefulness, or integrated into the Facility's understanding.
 
-F-4 exists for that question. Its workshops and staging chambers are where the Transformation
-Division works:
+F-4 exists for that question. Its workshops and staging chambers are where the Transformation Division works:
 evaluating contained objects against the four transformation outcomes, preparing approved objects for study, and
-conducting the controlled work that holding doctrine cannot conduct on the holding floors. The
-floor is the complex's
+conducting the controlled work that holding doctrine cannot conduct on the holding floors. The floor is the complex's
 instrument for changing what it holds — not by destroying, but by transforming under
 doctrine.
 
@@ -80,8 +72,7 @@ apparatus above, with F-4 as the working level where evaluation and preparation 
 
 ### 3.2 Relationship to F-3
 
-Objects approved for transformation study pass upward from F-3 to F-4 under ascending authorization.
-The transfer is
+Objects approved for transformation study pass upward from F-3 to F-4 under ascending authorization. The transfer is
 documented, assessed, and gated at each stage — no object moves from standard holding
 into transformation evaluation
 without authorization recorded above the floor.
@@ -104,16 +95,13 @@ controlled doctrine rather than merely preserving it.
 
 ### 4.2 Establishment of the Staging Floor
 
-As the Transformation Division's mandate grew, the complex dedicated F-4 to transformation work: staging
-chambers,
-evaluation workshops, and the authorization architecture that governs what may be transformed and under
-what
+As the Transformation Division's mandate grew, the complex dedicated F-4 to transformation work: staging chambers,
+evaluation workshops, and the authorization architecture that governs what may be transformed and under what
 conditions.
 
 ### 4.3 Modern Configuration
 
-In its modern configuration, F-4 is the complex's transformation instrument — the floor where
-the question of an
+In its modern configuration, F-4 is the complex's transformation instrument — the floor where the question of an
 object's future is asked with the full weight of the Facility's doctrine behind it.
 
 ---
@@ -128,16 +116,13 @@ The Chief administers the floor's evaluation and staging operations under the di
 ### 5.2 Ascending Authorization
 
 Transformation work on F-4 proceeds under **ascending authorization**: the more consequential the proposed
-transformation — the more irreversible, the more experimental, the more dangerous — the higher
-the authority required
-to approve it. The floor's architecture of evaluation chambers, staging locks, and approval gates
-gives that principle
+transformation — the more irreversible, the more experimental, the more dangerous — the higher the authority required
+to approve it. The floor's architecture of evaluation chambers, staging locks, and approval gates gives that principle
 physical form.
 
 ### 5.3 Authority Limits
 
-F-4 holds no authority to transform high-inviolability material from F-1. The complex's doctrine holds
-that certain
+F-4 holds no authority to transform high-inviolability material from F-1. The complex's doctrine holds that certain
 residents are not to be transformed at all; the floor's mandate extends only to
 material approved for transformation
 study under the Facility's standards.
@@ -153,19 +138,17 @@ transformation outcomes, preparation of approved objects, and conduct of control
 
 ### 6.2 Research Division Liaison
 
-Research personnel from F-5 coordinate with F-4 on the analysis that informs transformation evaluation:
-an object's
+Research personnel from F-5 coordinate with F-4 on the analysis that informs transformation evaluation: an object's
 history, behavior, and properties must be understood before its transformation can be responsibly assessed.
 
 ### 6.3 Containment Division Liaison
 
-Containment personnel support F-4's staging chambers, maintaining the controlled conditions under which objects are
-evaluated and prepared.
+Containment personnel support F-4's staging chambers, maintaining the
+controlled conditions under which objects are evaluated and prepared.
 
 ### 6.4 Security Division
 
-Security guards the floor's access architecture and the staging locks that separate evaluation chambers
-from the
+Security guards the floor's access architecture and the staging locks that separate evaluation chambers from the
 floor's operational spaces.
 
 ### 6.5 Archive Division Liaison
@@ -190,25 +173,20 @@ F-4's plan is organized around **evaluation suites and staging chambers**:
 
 ### 7.2 Evaluation Workshops
 
-The floor's evaluation workshops are controlled environments where objects are studied against the four
-transformation
-outcomes — stabilization, neutralization, repurposing, integration — under conditions that allow assessment without
-premature action.
+The floor's evaluation workshops are controlled environments where objects are studied against the four transformation
+outcomes — stabilization, neutralization, repurposing, integration
+— under conditions that allow assessment without premature action.
 
 ### 7.3 Staging Chambers
 
-The staging chambers are where approved objects are prepared: contained, stabilized, and configured for
-the
-transformation work that will follow. Staging is the floor's most security-sensitive operation, because it
-is the
+The staging chambers are where approved objects are prepared: contained, stabilized, and configured for the
+transformation work that will follow. Staging is the floor's most security-sensitive operation, because it is the
 moment at which an object's future is committed.
 
 ### 7.4 Authorization Architecture
 
-The floor's physical plan embeds its authorization doctrine: evaluation chambers open onto staging locks,
-staging
-locks open onto preparation spaces, and each boundary is gated by the authority required
-to cross it. The architecture
+The floor's physical plan embeds its authorization doctrine: evaluation chambers open onto staging locks, staging
+locks open onto preparation spaces, and each boundary is gated by the authority required to cross it. The architecture
 makes ascending authorization visible.
 
 ---
@@ -227,16 +205,13 @@ the staging areas maintain atmospheric separation from the floor's operational s
 
 ### 8.3 Monitoring
 
-Monitoring on F-4 is continuous across the evaluation and staging areas, with observation feeds
-routed to the floor
-command post and the Transformation Division's oversight. Monitoring records are preserved as part of
-the floor's
+Monitoring on F-4 is continuous across the evaluation and staging areas, with observation feeds routed to the floor
+command post and the Transformation Division's oversight. Monitoring records are preserved as part of the floor's
 transformation documentation.
 
 ### 8.4 Communication
 
-The floor maintains hardened communication with the division's command above and the holding floors
-below.
+The floor maintains hardened communication with the division's command above and the holding floors below.
 Authorization communications are recorded under the floor's documentation standard.
 
 ---
@@ -251,24 +226,21 @@ structure: personnel are cleared for the specific chambers and operations their 
 
 ### 9.2 Staging Locks
 
-The floor's staging chambers are separated from the evaluation areas by **staging locks** —
-controlled transition
-spaces that prevent any object from passing between evaluation and preparation states without documented,
-authorized
+The floor's staging chambers are separated from the evaluation areas by **staging locks** — controlled transition
+spaces that prevent any object from passing between evaluation and preparation states without documented, authorized
 handling.
 
 ### 9.3 Transfer Security
 
 The transfer route between F-4 and the holding floors is a secure, documented corridor.
 Objects moving to or from
-transformation evaluation are transported under the complex's chain-of-custody standard, with the authorization record
-traveling with the object.
+transformation evaluation are transported under the complex's chain-of-custody
+standard, with the authorization record traveling with the object.
 
 ### 9.4 Incident Response
 
 F-4 maintains incident response for evaluation and staging events: chamber alarms, handling incidents, and
-authorization violations are met with the division's response doctrine, with escalation to the deep-hold
-levels below
+authorization violations are met with the division's response doctrine, with escalation to the deep-hold levels below
 when an object in transformation demonstrates more than was assessed.
 
 ---
@@ -291,8 +263,7 @@ Objects on F-4 are present under one of the floor's operational states:
 
 ### 10.3 Holding Note
 
-No signature resident is held on F-4. High-inviolability material from F-1 is not subject
-to transformation evaluation
+No signature resident is held on F-4. High-inviolability material from F-1 is not subject to transformation evaluation
 under the complex's doctrine.
 
 ---
@@ -301,14 +272,12 @@ under the complex's doctrine.
 
 ### 11.1 Staffing
 
-F-4's personnel are drawn from the Transformation Division's assessment and preparation staff, supported by
-Research,
+F-4's personnel are drawn from the Transformation Division's assessment and preparation staff, supported by Research,
 Containment, Security, and Archive personnel.
 
 ### 11.2 Duty Life
 
-Duty on F-4 is evaluation work: assessing objects, preparing approved material, documenting outcomes, and
-coordinating
+Duty on F-4 is evaluation work: assessing objects, preparing approved material, documenting outcomes, and coordinating
 with the holding and research floors. The floor's rhythm is set by the flow
 of material approved for transformation
 study.
@@ -316,8 +285,7 @@ study.
 ### 11.3 Authorization Culture
 
 The floor's personnel work under the division's ascending-authorization culture: every assessment is documented, every
-approval is recorded, and every transformation outcome is reviewed. The floor treats authorization as
-a containment
+approval is recorded, and every transformation outcome is reviewed. The floor treats authorization as a containment
 parameter.
 
 ---
@@ -326,24 +294,19 @@ parameter.
 
 ### 12.1 Transformation Doctrine
 
-F-4 doctrine holds that contained objects may be changed under controlled conditions — that
-the Facility's
+F-4 doctrine holds that contained objects may be changed under controlled conditions — that the Facility's
 responsibility extends beyond keeping objects to deciding what they may become.
 
 ### 12.2 Ascending-Authorization Doctrine
 
-F-4 doctrine holds that the weight of a transformation decision must match the authority
-that approves it. The floor's
-architecture and culture give that principle force: nothing consequential happens without the documented authority
-it
+F-4 doctrine holds that the weight of a transformation decision must match the authority that approves it. The floor's
+architecture and culture give that principle force: nothing consequential happens without the documented authority it
 requires.
 
 ### 12.3 Limits Doctrine
 
-F-4 doctrine acknowledges the floor's limits: not everything may be transformed, and the floor's
-duty includes
-recognizing material that must remain unchanged — including the high-inviolability residents whose containment is
-the
+F-4 doctrine acknowledges the floor's limits: not everything may be transformed, and the floor's duty includes
+recognizing material that must remain unchanged — including the high-inviolability residents whose containment is the
 complex's deepest commitment.
 
 ---
@@ -352,8 +315,7 @@ complex's deepest commitment.
 
 The floor's incident record is dominated by evaluation and staging events: assessment incidents, authorization
 discrepancies, and staging-lock violations. Transformation outcomes that exceed assessment are recorded as the floor's
-doctrine lessons; the floor's history is the history of the Facility's careful, documented work
-on what it holds.
+doctrine lessons; the floor's history is the history of the Facility's careful, documented work on what it holds.
 
 ---
 
@@ -384,8 +346,7 @@ priorities include:
 
 F-4, Transformation Staging, is the floor where Redwood Veil asks what its holdings are
 for: where the Transformation
-Division evaluates whether an object can be stabilized, neutralized, repurposed, or integrated, and where
-approved
+Division evaluates whether an object can be stabilized, neutralized, repurposed, or integrated, and where approved
 material is staged under ascending authorization.
 
 It is the floor between keeping and changing — the level where the complex

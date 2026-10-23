@@ -38,22 +38,22 @@ TECHNOLOGY RECORD - IRON MERIDIAN SURVEY GUN AND LINE MARKER SYSTEM
 
 ARCHIVE NOTE
 
-This record covers the survey gun and line marker set carried by Iron Meridian survey lancers, and the perimeter fence
-the marked line supports. The dossier states that survey guns mark boundaries visible to some entities and invisible
-to most civilians, that perimeter fences resist some route-folding and spatial trespass, and that a survey lancer
-marking the affected area is the first step of a Meridian operation. The dossier names the survey gun as a
-priority candidate for individual technology documentation. A.C.T holds no device; it holds observations of marked
-lines and photographs.
+This record covers the survey gun and line marker set carried by Iron Meridian survey lancers, and the
+perimeter fence the marked line supports. The dossier states that survey guns mark boundaries visible
+to some entities and invisible to most civilians, that perimeter fences resist some route-folding and
+spatial trespass, and that a survey lancer marking the affected area is the first step of a Meridian
+operation. The dossier names the survey gun as a priority candidate for individual technology
+documentation. A.C.T holds no device; it holds observations of marked lines and photographs.
 
 The technical property that matters operationally is selective visibility. A boundary that entities see and civilians
 do not is not a cordon, because a cordon's function is to tell people where not to go. The marked
 line tells a different audience, and the field command note in the dossier is blunt about what it encloses: do
 not call the compound secure because the fence held, because the fence held around crimes.
 
-The second property is that the line is a claim rather than a protection. It asserts emergency custody over all
-persons, objects, roads, documents, and testimony exposed inside it. A.C.T therefore treats a marked line as the
-opening move of a custody seizure and responds accordingly, rather than treating it as a hazard boundary that can be
-worked alongside.
+The second property is that the line is a claim rather than a protection. It asserts emergency
+custody over all persons, objects, roads, documents, and testimony exposed inside it. A.C.T
+therefore treats a marked line as the opening move of a custody seizure and responds
+accordingly, rather than treating it as a hazard boundary that can be worked alongside.
 
 Controlled label: SURVEY GUN AND MERIDIAN LINE RULE.
 
@@ -123,9 +123,9 @@ PHYSICAL OR SYSTEM DESCRIPTION
 | Warrant reference          | Line cited as the custody boundary                                                    |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-The perimeter fence is the only component A.C.T can inspect, and only from outside. Its recorded property is
-resistance to route-folding and spatial trespass, which means it does something other than block a body, and A.C.T has
-not measured what.
+The perimeter fence is the only component A.C.T can inspect, and only from outside.
+Its recorded property is resistance to route-folding and spatial trespass, which
+means it does something other than block a body, and A.C.T has not measured what.
 
 
 TECHNICAL SPECIFICATION
@@ -246,9 +246,9 @@ FAULT ISOLATION
 | Compound called secure     | Field reporting error                     | Correct; name what it enclosed            |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 
-The last row is the error the dossier's field command note exists to correct. Calling a compound secure because the
-fence held describes the fence and not what it enclosed, and the note is retained specifically because the temptation
-recurs.
+The last row is the error the dossier's field command note exists to correct.
+Calling a compound secure because the fence held describes the fence and not what
+it enclosed, and the note is retained specifically because the temptation recurs.
 
 
 KNOWN LIMITS
@@ -265,15 +265,15 @@ FAILURE HISTORY
 
 FENCE HELD AROUND CRIMES — STANDING CORRECTION
 
-The dossier retains a field command note ordering that a compound not be called secure because the fence held, because
-the fence held around crimes. A.C.T files this as a standing correction to its own reporting language rather than as
-advice about the fence.
+The dossier retains a field command note ordering that a compound not be called secure
+because the fence held, because the fence held around crimes. A.C.T files this as a
+standing correction to its own reporting language rather than as advice about the fence.
 
 LINE-ENEMY CLASSIFICATION — RECORDED CONSEQUENCE
 
-The dossier records that A.C.T personnel are frequently classified LINE-ENEMY when operating without a negotiated
-exit. Crossing a marked line is therefore not a neutral act, and the operating sequence requires an exit arrangement
-before any crossing.
+The dossier records that A.C.T personnel are frequently classified LINE-ENEMY when
+operating without a negotiated exit. Crossing a marked line is therefore not a neutral
+act, and the operating sequence requires an exit arrangement before any crossing.
 
 TUNNEL MAP AND MOVING LINES — UNRESOLVED
 

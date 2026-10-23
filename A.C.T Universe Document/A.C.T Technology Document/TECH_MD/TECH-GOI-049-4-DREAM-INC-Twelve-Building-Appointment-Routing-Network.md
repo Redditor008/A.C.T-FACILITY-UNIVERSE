@@ -85,8 +85,7 @@ observation while Civil Covert prepared non-anomalous explanations for any later
 
 The location index is held by Intelligence Division and restricted at Level 5. Civil
 Covert Division and Intelligence jointly control any building action, and building evidence is cross-filed
-with product-batch custody, consumer-data control, and apparatus indicators rather than held as a site
-list.
+with product-batch custody, consumer-data control, and apparatus indicators rather than held as a site list.
 
 ---
 
@@ -200,8 +199,7 @@ to handoff is the one that reduces product reaching consumers.
 | Before action | consumer exposure assessment |
 
 The quarterly refresh is the maintenance that matters. The index is behavioural, and behaviour
-changes faster than leases; an index maintained annually describes a network that no longer
-exists.
+changes faster than leases; an index maintained annually describes a network that no longer exists.
 
 ---
 
@@ -261,9 +259,8 @@ the twelve-building minimum and Moderate for routing function; specific node pur
 
 Intelligence Division holds the location index and reads behavioural overlap. Civil Covert Division prepares
 surface explanations and controls consumer exposure. Recovery Division executes containment on a sequenced
-node. Security holds index material. Medical Care assesses consumer risk where a building is
-closed while clients are present. Command authorises any building action and holds the disclosure
-prohibition.
+node. Security holds index material. Medical Care assesses consumer risk where a building is closed while
+clients are present. Command authorises any building action and holds the disclosure prohibition.
 
 ---
 

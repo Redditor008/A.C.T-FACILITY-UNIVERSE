@@ -7,8 +7,7 @@ escort. Just a thin black folder laid exactly parallel to the edge of the workst
 
 It waited on the archiver’s desk when the shift lamps rose from their dim
 red sleep-cycle to a working white, its
-surface already stamped with clearance marks before the room had fully warmed. No messenger.
-No verbal handoff. No
+surface already stamped with clearance marks before the room had fully warmed. No messenger. No verbal handoff. No
 security escort. Just a thin black folder laid exactly parallel to the edge of
 the workstation, as though the desk
 itself had produced it during the night.
@@ -16,12 +15,9 @@ itself had produced it during the night.
 That, more than the restricted seal, made Sera Vey pause.
 
 Ordinary archive requests were never elegant. They came with routing errors, half-legible approvals, duplicate
-signatures, or some rushed note from Task Management demanding a file transfer that should
-have been requested three
-floors higher and two clearances lower. The machinery of the Facility was efficient only
-in the abstract. In practice
-it breathed through delay, silence, and the constant friction of buried systems grinding against
-one another.
+signatures, or some rushed note from Task Management demanding a file transfer that should have been requested three
+floors higher and two clearances lower. The machinery of the Facility was efficient only in the abstract. In practice
+it breathed through delay, silence, and the constant friction of buried systems grinding against one another.
 
 But this folder was clean.
 
@@ -48,12 +44,10 @@ became a medical problem.
 
 Sera opened the folder anyway.
 
-Inside was a list of archival discrepancies stretching across twelve pages. Old ENTITY files.
-Pre-standard records.
-Vault references that had never been fully brought into modern AFD indexing. Contradictory metadata.
-Mismatched dates.
-Duplicate designation histories. Cross-reference failures between sealed physical records and later digitized archive
-structure.
+Inside was a list of archival discrepancies stretching across twelve pages. Old ENTITY files. Pre-standard records.
+Vault references that had never been fully brought into modern AFD indexing. Contradictory metadata. Mismatched dates.
+Duplicate designation histories. Cross-reference failures between
+sealed physical records and later digitized archive structure.
 
 Boring, at first glance.
 
@@ -71,12 +65,10 @@ That was different.
 
 Not impossible, but different.
 
-Everyone in Archive Administration knew that the deepest sealed records were messy. The oldest
-files had been
+Everyone in Archive Administration knew that the deepest sealed records were messy. The oldest files had been
 rewritten and migrated so many times that some of them felt less like documents
 and more like archaeological sites.
-Formats changed. Classification systems evolved. Half the Facility’s earliest history had been written before
-the
+Formats changed. Classification systems evolved. Half the Facility’s earliest history had been written before the
 modern anomaly doctrine existed. The older the file, the more likely it had passed
 through frightened hands, exhausted
 hands, hands that had known something they were never supposed to know twice.
@@ -87,15 +79,13 @@ ENTITY-000 was not the kind of reference that drifted casually into a cleanup or
 
 Sera turned the page.
 
-A construction map fragment from an early underground phase referenced a descent corridor whose
-code did not match any
+A construction map fragment from an early underground phase referenced a descent corridor whose code did not match any
 known floor plan. A later modernization ledger cited the same route as having been
 sealed three years before the first
 blueprint in which it officially appeared. A pre-classification record mentioned restricted observation protocols that
-were not supposed to have existed until decades later. A transfer note cross-filed under
-obsolete medical shorthand
-referenced a witness symptom cluster later associated with 004-Series amnestic misuse—years before AFD-NB-004 had
-supposedly been recovered.
+were not supposed to have existed until decades later. A transfer note cross-filed under obsolete medical shorthand
+referenced a witness symptom cluster later associated with 004-Series
+amnestic misuse—years before AFD-NB-004 had supposedly been recovered.
 
 That made her stop.
 
@@ -107,8 +97,7 @@ Wrong in the way archive errors were rarely wrong.
 
 A typo was ordinary. A missing date was ordinary. Even a contradictory signature could
 be explained by panic, fatigue,
-or historical sloppiness. But a symptom profile appearing before the anomaly from which the
-symptom profile should
+or historical sloppiness. But a symptom profile appearing before the anomaly from which the symptom profile should
 have been derived? That was not clerical failure.
 
 That was structure failure.
@@ -117,10 +106,8 @@ Or revision.
 
 Sera closed the folder and looked across the room.
 
-The morning archive shift had settled into its usual low-motion rhythm. Three other archivists
-occupied the long rows
-of workstations beneath the hanging light bars. Someone was reviewing memetic redaction batches in
-the far corner
+The morning archive shift had settled into its usual low-motion rhythm. Three other archivists occupied the long rows
+of workstations beneath the hanging light bars. Someone was reviewing memetic redaction batches in the far corner
 isolation booth. A junior file clerk stood on a rolling ladder two aisles over,
 reshelving hard-copy incident binders
 with the blank concentration of someone still new enough to believe paper itself was
@@ -147,8 +134,7 @@ A second pause.
 
 Then a list unfolded in pale gold across the dark terminal glass.
 
-**APPROVED FOR SHIFT DURATION** **LOWER ARCHIVE STACK C** **SEALED INDEX LEDGER 9** **LEGACY DESIGNATION
-CORRIDOR**
+**APPROVED FOR SHIFT DURATION** **LOWER ARCHIVE STACK C** **SEALED INDEX LEDGER 9** **LEGACY DESIGNATION CORRIDOR**
 **ABYSSAL ASSOCIATION REDACTION SET — PARTIAL**
 
 Partial.
@@ -173,11 +159,9 @@ The descent path to the old archive sectors ran behind two biometric doors, a
 humidity lock, and a narrow corridor
 lined with dead transfer rails that had not carried physical records in years. The
 lower stacks were colder than the
-administrative floors above, not because the paper needed it—though some of it did—but because
-age itself had its own
+administrative floors above, not because the paper needed it—though some of it did—but because age itself had its own
 environmental requirements. Old records degraded differently. Ink went unstable. Certain preservation materials
-absorbed contaminants from the air. Some sealed documents carried residues that were not chemical
-enough to classify
+absorbed contaminants from the air. Some sealed documents carried residues that were not chemical enough to classify
 cleanly and not anomalous enough to justify relocation. So the lower archive remained a
 place of careful climate,
 careful touch, careful silence.
@@ -220,10 +204,8 @@ Sera pulled the first ledger from its tray.
 
 Bound black. Hand-labeled. No digital twin confirmed.
 
-Inside, the script changed every few pages. Different archivists. Different eras. Different pressure in
-the strokes.
-She passed obsolete clearance marks, migration notes, dead departmental names, and a page where
-half the indexing had
+Inside, the script changed every few pages. Different archivists. Different eras. Different pressure in the strokes.
+She passed obsolete clearance marks, migration notes, dead departmental names, and a page where half the indexing had
 been scraped away and overwritten in a later hand.
 
 Then she saw it.
@@ -266,21 +248,17 @@ Then the next.
 
 A route notation in one matched an erased elevator branch in another. A witness
 symptom list in an early medical
-transfer sheet described memory instability, delayed identity recognition, and “golden residue at mouth and
-nail bed.”
-A logistical summary referenced descent masks not approved until years later. One signature appeared
-under three
+transfer sheet described memory instability, delayed identity recognition, and “golden residue at mouth and nail bed.”
+A logistical summary referenced descent masks not approved until years later. One signature appeared under three
 different names. An intake note for a sealed sample jar listed its origin only
 as **lower than mapped**.
 
 Wrong. Wrong. Wrong in the same direction.
 
-By the time the shift alarm chimed first-quarter review, Sera had stopped making corrections
-and started making
+By the time the shift alarm chimed first-quarter review, Sera had stopped making corrections and started making
 copies.
 
-Not official copies. Not removable copies. Just private notes in her local reconciliation pad,
-disguised inside
+Not official copies. Not removable copies. Just private notes in her local reconciliation pad, disguised inside
 standard format notation so that anyone glancing at the screen would see only ordinary
 clerical shorthand.
 
@@ -339,11 +317,9 @@ up her spine.
 This was not witness cleanup. This was not surface secrecy. This was the Facility
 doing something to itself.
 
-Somewhere above her, deep in the structure of the buried institution, morning operations continued
-with their usual
+Somewhere above her, deep in the structure of the buried institution, morning operations continued with their usual
 machine-like calm. Guards rotated posts. Researchers logged findings. A containment lift moved something sealed
-through Central. Clerks stamped access routes they did not understand. The world remained ordinary
-because the
+through Central. Clerks stamped access routes they did not understand. The world remained ordinary because the
 Facility made it ordinary every hour of every day.
 
 But down in Stack C, surrounded by ledgers older than modern doctrine and medical

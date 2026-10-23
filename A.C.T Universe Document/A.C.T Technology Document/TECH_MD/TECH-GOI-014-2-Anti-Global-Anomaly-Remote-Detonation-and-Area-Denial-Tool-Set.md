@@ -70,9 +70,8 @@ Devices are recovered from interdicted cells and failed demolition sites, with t
 incomplete at recovery. An incomplete chain is not a safe chain; it is a
 chain whose missing part is unknown.
 
-Recovered devices enter the immediate safety stream and are cleared by Containment and Engineering
-jointly before movement, storage, or analysis. No component is retained near an active containment
-environment.
+Recovered devices enter the immediate safety stream and are cleared by Containment and Engineering jointly
+before movement, storage, or analysis. No component is retained near an active containment environment.
 
 Trigger chains are reconstructed for intelligence value only after the device is inert. The
 order is not procedural caution; reconstruction requires handling, and handling an uncleared device next
@@ -95,9 +94,8 @@ Known component classes include:
 - abandoned-position residue;
 - failed-detonation scene evidence.
 
-Stabilization-suppression components are the class that cannot be triaged by an explosives specialist alone.
-They are assessed against the target's containment profile, which is why clearance is joint
-rather than sequential.
+Stabilization-suppression components are the class that cannot be triaged by an explosives specialist alone. They
+are assessed against the target's containment profile, which is why clearance is joint rather than sequential.
 
 ---
 
@@ -209,13 +207,11 @@ maintained as one rather than as a contingency.
 
 The set cannot be argued with. No staff member is to confront a cell
 by arguing that the target anomaly is useful, because the network's premise is that
-anomalous existence is itself the offense and a usefulness argument confirms the premise rather
-than countering it.
+anomalous existence is itself the offense and a usefulness argument confirms the premise rather than countering it.
 
 It also cannot be predicted from threat level. A-GA may select a low-threat object
 because it is poorly guarded, easy to publicize, or important to a larger arrangement
-the cell does not understand, so guarding proportional to threat does not produce protection
-proportional to risk.
+the cell does not understand, so guarding proportional to threat does not produce protection proportional to risk.
 
 ---
 
@@ -238,9 +234,8 @@ rather than only what was destroyed.
 
 A-GA accepts none of these possibilities unless they can be used to justify a
 later elimination, which makes its actions a structural risk: it can destroy the wrong
-thing with complete conviction and leave A.C.T to contain what follows. Whether the network
-keeps an internal archive of failed eradication attempts, and where such an archive would
-be protected, is unresolved.
+thing with complete conviction and leave A.C.T to contain what follows. Whether the network keeps an internal
+archive of failed eradication attempts, and where such an archive would be protected, is unresolved.
 
 ---
 
@@ -264,9 +259,8 @@ record and the leak assessment.
 - Failed demolition scene record series [restricted].
 
 Neither the Master Catalog nor the Visual Reference Guide carries this set. The Catalog
-numbers assets A.C.T issues and this hardware is never issued. The Visual Reference Guide
-describes equipment personnel maintain; these devices are rendered inert, reconstructed for intelligence, and
-destroyed.
+numbers assets A.C.T issues and this hardware is never issued. The Visual Reference Guide describes equipment
+personnel maintain; these devices are rendered inert, reconstructed for intelligence, and destroyed.
 
 ---
 

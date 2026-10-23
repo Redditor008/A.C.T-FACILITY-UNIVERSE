@@ -95,9 +95,9 @@ photographs has to assume the layout may differ on the train actually boarded.
 | Escort provision | Armed; detail not determined |
 | Observation provision | Not determined from photographs |
 
-The door marking is the only component whose content is known rather than inferred, and it is recorded because it
-identifies a carriage as a custody train from outside. The rest of this table describes what a photograph can and
-cannot establish.
+The door marking is the only component whose content is known rather than inferred,
+and it is recorded because it identifies a carriage as a custody train from outside.
+The rest of this table describes what a photograph can and cannot establish.
 
 ---
 
@@ -197,9 +197,9 @@ against a carriage that may no longer exist.
 | Person filed by label | Authority classification used | Refile by A.C.T assessment |
 | Layout assumed from photo | Planning shortcut | Verify on boarding |
 
-Row three is the failure the field command note is written against. A train is the most seizable object in
-an interception and the least important one, and taking it first puts living captives behind a piece of equipment in
-the recovery order.
+Row three is the failure the field command note is written against. A train is the
+most seizable object in an interception and the least important one, and taking it
+first puts living captives behind a piece of equipment in the recovery order.
 
 ---
 
@@ -218,9 +218,9 @@ the recovery order.
 
 ### PRIORITY INVERSION — STANDING CORRECTION
 
-The dossier's field command note sets the recovery order as living captives, ledgers, devices, and charter chain.
-A.C.T adopts that order as procedure, because the alternative ordering treats a train as the prize and its occupants
-as contents.
+The dossier's field command note sets the recovery order as living captives,
+ledgers, devices, and charter chain. A.C.T adopts that order as procedure, because
+the alternative ordering treats a train as the prize and its occupants as contents.
 
 ### DOOR DOCTRINE — RECORDED MARKING
 
@@ -229,9 +229,9 @@ carriage from outside, and because the phrase states the doctrine the carriage i
 
 ### UNKNOWN DETENTION CORRIDORS — UNRESOLVED
 
-The dossier asks how many detention corridors remain unknown to A.C.T. A.C.T has not counted them and cannot, because
-an unmapped corridor is by definition absent from A.C.T records. The question is carried open rather than answered
-with a figure.
+The dossier asks how many detention corridors remain unknown to A.C.T. A.C.T has not
+counted them and cannot, because an unmapped corridor is by definition absent from
+A.C.T records. The question is carried open rather than answered with a figure.
 
 ---
 

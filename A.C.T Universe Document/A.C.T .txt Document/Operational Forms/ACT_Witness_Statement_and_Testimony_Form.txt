@@ -11,8 +11,7 @@ Archive Note
 ------------
 This form is used when a civilian, personnel member, contained subject, GOI contact, or
 other witness provides
-testimony connected to an anomalous event. The purpose is to preserve what was perceived
-before A.C.T normalcy work
+testimony connected to an anomalous event. The purpose is to preserve what was perceived before A.C.T normalcy work
 reshapes the public record.
 
 A witness statement is not automatically true. It is not automatically false. It is
@@ -43,8 +42,7 @@ Use this form when testimony may affect:
 
 Do not use this form as a casual interview transcript when no anomalous relevance
 exists. Do not replace therapy
-notes, medical diagnosis, interrogation logs, or subject-care records with this form unless the witness
-statement
+notes, medical diagnosis, interrogation logs, or subject-care records with this form unless the witness statement
 itself is the required evidence.
 
 ---
@@ -69,8 +67,7 @@ text
 [ ] DECEASED / RECONSTRUCTED TESTIMONY
 [ ] OTHER: ______________________________
 
-Witness category does not decide credibility by itself. A frightened civilian may be more
-accurate than a trained
+Witness category does not decide credibility by itself. A frightened civilian may be more accurate than a trained
 researcher exposed to a memetic field. A hostile witness may tell the truth for
 the wrong reason. An E-Class witness
 remains a person even when the institution has excommunicated them from ordinary protection.
@@ -143,13 +140,11 @@ text
 OPENING INSTRUCTION USED:
 "Tell me what happened in the order you remember it. Do not fix the
 order for me. If something happened twice,
-happened before itself, sounded wrong, looked staged, or feels impossible to place, say that
-directly."
+happened before itself, sounded wrong, looked staged, or feels impossible to place, say that directly."
 
 text
 FREE STATEMENT:
-[Write or attach the witness's account here. Preserve uncertain wording, pauses, repeated phrases, drawings,
-gestures,
+[Write or attach the witness's account here. Preserve uncertain wording, pauses, repeated phrases, drawings, gestures,
 emotional breaks, and refusal to answer where relevant.]
 
 Do not correct the witness into A.C.T terminology during the first account.
@@ -208,8 +203,7 @@ Objects and Environment
 -----------------------
 
 text
-What object, doorway, sound, symbol, document, machine, animal, body, weather, road, room, screen, or
-file seemed
+What object, doorway, sound, symbol, document, machine, animal, body, weather, road, room, screen, or file seemed
 central?
 Was anything too clean, too old, too new, too staged, or impossible to damage?
 Did the environment behave as if it had rules?
@@ -227,8 +221,7 @@ GOI Indicators
 --------------
 
 text
-Did you see a name, logo, badge, uniform, chant, ticket, catalogue, contract, ritual phrase,
-maintenance message,
+Did you see a name, logo, badge, uniform, chant, ticket, catalogue, contract, ritual phrase, maintenance message,
 company label, market price, or political slogan?
 Did anyone claim ownership, rescue, authority, payment, faith, liberation, or eradication?
 Did anyone try to remove evidence before emergency services arrived?
@@ -368,8 +361,7 @@ GOI THREATS MADE:
 GOI OFFERS MADE:
 GOI RECOVERED DOCUMENT RECORD REQUIRED:
 
-A GOI-affiliated witness may require both witness filing and recovered-document filing if they carry
-written, spoken,
+A GOI-affiliated witness may require both witness filing and recovered-document filing if they carry written, spoken,
 digital, ritual, or commercial material from the group.
 
 ---
@@ -379,8 +371,7 @@ digital, ritual, or commercial material from the group.
 
 text
 INTERVIEWER CERTIFICATION:
-I certify that this statement preserves the witness account, observed condition, and A.C.T handling
-decisions as
+I certify that this statement preserves the witness account, observed condition, and A.C.T handling decisions as
 accurately as current containment conditions allow.
 
 INTERVIEWER NAME / IDENTIFIER:

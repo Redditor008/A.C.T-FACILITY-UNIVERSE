@@ -21,16 +21,11 @@
 | AUTHORITY | Medical Division, White Grave Stasis Desk, Engineering Division, and Central Archive |
 
 #### Archive Note
-The Soul-Stasis Harness is the thirtieth main A.C.T technology expanded into an individual record.
-The Master Catalog
-defines it as a reinforced chest-cavity apparatus designed to maintain the required proximity lock
-between a host and
-a consciousness-anchor. The visual guide describes black leather and silver buckles, an integrated data-link,
-a
-reinforced sternum housing holding the Soul Pendant behind thick glass, and a wrist-mounted status
-tablet connected by
-shielded fiber-optic cable to display Resonance Stability. The Soul Pendant file requires AFD-OB-412 to
-remain within
+The Soul-Stasis Harness is the thirtieth main A.C.T technology expanded into an individual record. The Master Catalog
+defines it as a reinforced chest-cavity apparatus designed to maintain the required proximity lock between a host and
+a consciousness-anchor. The visual guide describes black leather and silver buckles, an integrated data-link, a
+reinforced sternum housing holding the Soul Pendant behind thick glass, and a wrist-mounted status tablet connected by
+shielded fiber-optic cable to display Resonance Stability. The Soul Pendant file requires AFD-OB-412 to remain within
 two meters of Senior Researcher Aris Thorne's host body and warns that if distance
 exceeds one hundred meters, Thorne
 experiences shattering while the body undergoes rapid redacted deterioration.
@@ -51,14 +46,10 @@ KEEP THE ANCHOR CLOSE WITHOUT LETTING THE ANCHOR BECOME THE PATIENT.
 
 ## FUNCTION SUMMARY
 
-A Soul-Stasis Harness maintains stable proximity and monitored resonance between a biological host body
-and a
-consciousness-anchor object. Its known primary use is the Soul Pendant case, where Thorne's displaced
-consciousness
-remains inside the pendant while his body persists in a stasis-like regenerative relationship. The
-harness keeps the
-pendant aligned with the chest, shielded behind thick glass, physically secured, and continuously monitored
-through a
+A Soul-Stasis Harness maintains stable proximity and monitored resonance between a biological host body and a
+consciousness-anchor object. Its known primary use is the Soul Pendant case, where Thorne's displaced consciousness
+remains inside the pendant while his body persists in a stasis-like regenerative relationship. The harness keeps the
+pendant aligned with the chest, shielded behind thick glass, physically secured, and continuously monitored through a
 wrist-mounted tablet.
 
 The harness does not return the soul. It prevents preventable drift. It keeps the
@@ -80,22 +71,18 @@ Approved roles include:
 
 ## ORIGIN AND CUSTODY
 
-SSH development followed the 1992 Thorne Incident. Before the event, AFD-OB-412 was treated as
-a low-threat luminous
+SSH development followed the 1992 Thorne Incident. Before the event, AFD-OB-412 was treated as a low-threat luminous
 artifact. After blood activation displaced Thorne's consciousness into the pendant, A.C.T discovered that simple
-storage rules were medically inadequate. Keeping the pendant near the body mattered, but ordinary
-cases, carts, and
+storage rules were medically inadequate. Keeping the pendant near the body mattered, but ordinary cases, carts, and
 lockers let staff treat proximity as convenience rather than survival.
 
-White Grave medical engineers built the harness to solve three problems: the pendant must
-remain close enough to the
+White Grave medical engineers built the harness to solve three problems: the pendant must remain close enough to the
 host body; the pendant must not touch blood; and staff must be able to
 monitor whether the relationship is stable
 without constantly handling the object. The current harness design is therefore medical equipment, containment
 housing, and spiritual caution all at once.
 
-Custody belongs to Medical Division and the White Grave Stasis Desk. Engineering maintains housing,
-glass, data-link,
+Custody belongs to Medical Division and the White Grave Stasis Desk. Engineering maintains housing, glass, data-link,
 buckles, and status tablets. Subject Care supports patient dignity and communication schedule. Narrative Analysis
 attaches during acoustic bridge sessions. Site Command approves any movement outside the suite.
 
@@ -103,14 +90,10 @@ attaches during acoustic bridge sessions. Site Command approves any movement out
 
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
-A standard SSH uses black leather structural straps, silver buckles, and a reinforced metal
-sternum housing. The Soul
-Pendant or equivalent anchor rests behind thick glass inside the housing. The housing does
-not press the object
-directly into tissue. It holds a fixed and monitored relationship above the chest cavity.
-A shielded fiber-optic cable
-connects the housing to a wrist-mounted status tablet showing Resonance Stability, distance confidence, housing
-seal,
+A standard SSH uses black leather structural straps, silver buckles, and a reinforced metal sternum housing. The Soul
+Pendant or equivalent anchor rests behind thick glass inside the housing. The housing does not press the object
+directly into tissue. It holds a fixed and monitored relationship above the chest cavity. A shielded fiber-optic cable
+connects the housing to a wrist-mounted status tablet showing Resonance Stability, distance confidence, housing seal,
 glass stress, and alarm state.
 
 Known components include:
@@ -133,9 +116,9 @@ refitting review.
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and proximity doctrine. The archive holds no figure for
-Approved separation distance, Resonance Stability scale, Glass thickness, and 1 more. Those 4 gaps are carried in OPEN
-QUESTIONS.
+Figures below are restated from this record's component list and proximity doctrine.
+The archive holds no figure for Approved separation distance, Resonance Stability
+scale, Glass thickness, and 1 more. Those 4 gaps are carried in OPEN QUESTIONS.
 
 | HARNESS PARAMETER | VALUE |
 |---|---|
@@ -156,8 +139,7 @@ QUESTIONS.
 
 The harness does not return a soul; it prevents preventable drift. The housing holds
 a fixed and monitored
-relationship above the chest cavity rather than pressing the anchor into tissue, and the
-tablet is not
+relationship above the chest cavity rather than pressing the anchor into tissue, and the tablet is not
 decorative.
 
 ## INTERFACE AND OPERATING ENVELOPE
@@ -212,21 +194,16 @@ they call the Stasis Desk.
 
 Before use, Medical confirms host identity, anchor identity, body condition, pendant distance, stasis pod
 compatibility, blood-exclusion state, and communication schedule. The harness is inspected for glass integrity, buckle
-tension, data-link health, and tablet response. The anchor housing is sealed before the harness
-is placed. Staff
-verify that no open wounds, blood-drawing tools, or sharp instruments are present in the
-suite.
+tension, data-link health, and tablet response. The anchor housing is sealed before the harness is placed. Staff
+verify that no open wounds, blood-drawing tools, or sharp instruments are present in the suite.
 
-During operation, Resonance Stability is checked continuously. The tablet is not decorative. If stability
-drops, staff
+During operation, Resonance Stability is checked continuously. The tablet is not decorative. If stability drops, staff
 do not tap the glass, open the housing, or move the pendant by hand.
 They call White Grave Stasis Desk and Narrative
-Analysis. During acoustic bridge contact, staff remember that Thorne has described touch on the
-case as scratching his
+Analysis. During acoustic bridge contact, staff remember that Thorne has described touch on the case as scratching his
 thoughts. Handling discipline is part of patient care.
 
-If transfer is necessary, CBI, SSH, and anchor-distance checks travel together. No cart, lift,
-or aircraft route may
+If transfer is necessary, CBI, SSH, and anchor-distance checks travel together. No cart, lift, or aircraft route may
 separate the host body and anchor into different chains of custody.
 
 ---
@@ -242,8 +219,7 @@ separate the host body and anchor into different chains of custody.
 | Blood-contact alarm | suite clear and Medical review | Level 4 |
 | Case override | Level 4 procedure | Level 4 |
 
-No calendar interval is recorded; servicing is continuous monitoring plus inspection on alarm, so
-interval
+No calendar interval is recorded; servicing is continuous monitoring plus inspection on alarm, so interval
 NOT MEASURED. There is no consumable. The 2019 tablet lag is why the data-link
 is verified against the
 display rather than trusted.
@@ -261,17 +237,13 @@ display rather than trusted.
 
 ## KNOWN LIMITS
 
-SSH cannot cure soul displacement, cannot make the pendant safe, cannot prevent all regenerative
-violence, and cannot
+SSH cannot cure soul displacement, cannot make the pendant safe, cannot prevent all regenerative violence, and cannot
 guarantee that the consciousness experiences proximity as comfort. It controls distance and shielding, not
-metaphysical justice. It may fail if glass cracks, buckles loosen, data-link lies, fiber cable
-breaks, host body
+metaphysical justice. It may fail if glass cracks, buckles loosen, data-link lies, fiber cable breaks, host body
 changes shape, or the anchor alters its own relationship to the body.
 
-Known failure modes include stability drift, housing pressure, tablet lag, buckle stretch, glass stress,
-blood-contact
-alarm failure, resonance echo, transfer misalignment, and staff treating the pendant as equipment rather
-than occupied
+Known failure modes include stability drift, housing pressure, tablet lag, buckle stretch, glass stress, blood-contact
+alarm failure, resonance echo, transfer misalignment, and staff treating the pendant as equipment rather than occupied
 space.
 
 ---
@@ -279,10 +251,8 @@ space.
 ## FAILURE HISTORY
 
 ### SSH-1992 Cart Separation Warning
-During early relocation planning after the Thorne Incident, staff attempted to move the host
-body and pendant on
-separate carts within the same corridor. Distress readings appeared before formal distance limits were
-crossed. SSH
+During early relocation planning after the Thorne Incident, staff attempted to move the host body and pendant on
+separate carts within the same corridor. Distress readings appeared before formal distance limits were crossed. SSH
 doctrine now treats chain separation as dangerous even when raw distance remains acceptable.
 
 ### SSH-2001 Glass Touch Complaint
@@ -293,17 +263,15 @@ anchor housings is now
 prohibited.
 
 ### SSH-2019 Tablet Lag Event
-A wrist tablet showed stable resonance while the housing data-link had already reported minor
-drift. Engineering found
-a fiber-optic connector delay. Current procedure requires direct housing indicator checks during maintenance, not
-tablet-only confidence.
+A wrist tablet showed stable resonance while the housing data-link had already reported minor drift. Engineering found
+a fiber-optic connector delay. Current procedure requires direct housing
+indicator checks during maintenance, not tablet-only confidence.
 
 ---
 
 ## DIVISION USE
 
-Medical maintains patient care and harness fit. White Grave Stasis Desk monitors proximity and
-Resonance Stability.
+Medical maintains patient care and harness fit. White Grave Stasis Desk monitors proximity and Resonance Stability.
 Engineering services housing, glass, buckles, cable, and tablet systems. Subject Care protects dignity, communication
 cadence, and non-objectifying treatment. Narrative Analysis manages acoustic bridge contact. Site Command authorizes
 movement. Archive stores stability logs under restricted patient record handling.

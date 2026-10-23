@@ -17,12 +17,10 @@
 
 ## Archive Note
 
-This file is the complete individual record of **F-5, Research and Analysis**, the fifth-deepest
-numbered floor of
+This file is the complete individual record of **F-5, Research and Analysis**, the fifth-deepest numbered floor of
 **ACT-SITE-01-US-W, Redwood Veil Complex**.
 
-F-5 is the complex's laboratory and analysis deck: the level where contained objects are
-studied under controlled
+F-5 is the complex's laboratory and analysis deck: the level where contained objects are studied under controlled
 conditions, where the site's understanding of what it holds is built, and where one
 of the Facility's most distinctive
 instruments — the **Digital Resonance Mapping suite** — is kept. The suite measures an
@@ -39,8 +37,7 @@ run, and how the knowledge it produces flows through the entire complex.
 
 **Site Designation:** ACT-SITE-01-US-W **Site Codename:** Redwood Veil Complex **Floor Designation:** F-5 **Floor
 Name:** Research and Analysis **Floor Type:** Laboratory and Analysis Level **Vertical Position:** Fifth-deepest
-numbered floor of the complex **Floor Above:** F-6 (Medical and Cognitive Care) **Floor Below:**
-F-4 (Transformation
+numbered floor of the complex **Floor Above:** F-6 (Medical and Cognitive Care) **Floor Below:** F-4 (Transformation
 Staging) **Containment Character:** Controlled laboratory study environments **Primary Function:** Controlled study of
 contained objects, artifact analysis, and measurement of anomalous properties under laboratory conditions
 **Distinctive Equipment:** Digital Resonance Mapping suite (2026 intake standard) **Access Posture:** Clearance-gated
@@ -56,12 +53,10 @@ what it holds, and it must learn what it holds — because containment decisions
 transformation decisions, and routing
 decisions all depend on knowledge.
 
-F-5 exists for that knowledge. Its laboratories and analysis decks are where contained objects
-are studied under
+F-5 exists for that knowledge. Its laboratories and analysis decks are where contained objects are studied under
 controlled conditions: where an artifact's behavior is measured, its properties are characterized, and its
 history is
-reconstructed. The floor is the complex's instrument for understanding — and understanding, at Redwood
-Veil, is itself
+reconstructed. The floor is the complex's instrument for understanding — and understanding, at Redwood Veil, is itself
 a containment measure.
 
 ---
@@ -72,8 +67,7 @@ a containment measure.
 
 F-5 lies between the Medical and Cognitive Care level of F-6 above and the
 Transformation Staging level of F-4 below.
-Its position reflects its function: the floor studies what the holding levels contain and
-informs what the
+Its position reflects its function: the floor studies what the holding levels contain and informs what the
 transformation level changes.
 
 ### 3.2 Relationship to F-4
@@ -84,8 +78,7 @@ Transformation outcomes, in turn, return data to F-5's understanding.
 
 ### 3.3 Relationship to the Holding Floors
 
-F-5 studies material drawn from the holding floors under controlled conditions — never in
-place, and never without the
+F-5 studies material drawn from the holding floors under controlled conditions — never in place, and never without the
 documentation and authorization that research access requires.
 
 ---
@@ -94,26 +87,22 @@ documentation and authorization that research access requires.
 
 ### 4.1 Development of the Research Mandate
 
-F-5's character follows the development of the complex's research mandate: the recognition that the
-Facility's
+F-5's character follows the development of the complex's research mandate: the recognition that the Facility's
 containment work depends on knowledge of what it contains. Study was not an indulgence
 — it was a containment
 requirement.
 
 ### 4.2 The Digital Resonance Mapping Suite
 
-The floor's most distinctive instrument, the **Digital Resonance Mapping suite**, was developed to measure
-an
-artifact's causal pulse before physical contact — allowing researchers to characterize an object's anomalous
-signature
+The floor's most distinctive instrument, the **Digital Resonance Mapping suite**, was developed to measure an
+artifact's causal pulse before physical contact — allowing researchers to characterize an object's anomalous signature
 without exposing personnel to its effects. Adoption of the suite as a standard intake
 measure is recorded in current
 (2026) intake standards.
 
 ### 4.3 Modern Configuration
 
-In its modern configuration, F-5 is the complex's analysis instrument: a controlled laboratory level
-where the site's
+In its modern configuration, F-5 is the complex's analysis instrument: a controlled laboratory level where the site's
 holdings are studied under standards that treat knowledge as part of containment.
 
 ---
@@ -122,16 +111,13 @@ holdings are studied under standards that treat knowledge as part of containment
 
 ### 5.1 Floor Command
 
-F-5 operates under the Research Division's command, administered day-to-day by a **Floor Research Chief**.
-The Chief
+F-5 operates under the Research Division's command, administered day-to-day by a **Floor Research Chief**. The Chief
 administers the floor's laboratory operations and analysis programs under the division's doctrine.
 
 ### 5.2 Authority over Study
 
-Research access to contained objects is governed by the complex's research authorization doctrine: each
-study is
-documented, each object's restriction set governs how it may be studied, and each program
-is authorized at the
+Research access to contained objects is governed by the complex's research authorization doctrine: each study is
+documented, each object's restriction set governs how it may be studied, and each program is authorized at the
 appropriate level.
 
 ### 5.3 Authority Limits
@@ -151,20 +137,17 @@ the operation of the floor's analysis instruments.
 
 ### 6.2 Transformation Division Liaison
 
-Transformation assessors from F-4 coordinate with F-5's research programs, drawing on the floor's findings
-for their
+Transformation assessors from F-4 coordinate with F-5's research programs, drawing on the floor's findings for their
 evaluations.
 
 ### 6.3 Containment Division Liaison
 
-Containment personnel support the controlled conditions under which F-5 studies material drawn from the
-holding
+Containment personnel support the controlled conditions under which F-5 studies material drawn from the holding
 floors.
 
 ### 6.4 Medical Division Liaison
 
-Medical personnel coordinate with F-5 on exposure monitoring for research staff handling anomalous material
-under
+Medical personnel coordinate with F-5 on exposure monitoring for research staff handling anomalous material under
 study.
 
 ### 6.5 Archive Division Liaison
@@ -190,8 +173,7 @@ F-5's plan is organized around **laboratory suites and analysis decks**:
 
 ### 7.2 The Digital Resonance Mapping Suite
 
-The suite is the floor's most carefully engineered space: instrumented chambers in which an
-artifact's causal pulse is
+The suite is the floor's most carefully engineered space: instrumented chambers in which an artifact's causal pulse is
 measured without physical contact. The suite's architecture isolates the measurement environment from the artifact's
 effects, allowing characterization before exposure.
 
@@ -204,8 +186,7 @@ work.
 
 ### 7.4 Construction Standard
 
-F-5 is built to the complex's laboratory standard: robust service infrastructure, precise environmental control,
-and
+F-5 is built to the complex's laboratory standard: robust service infrastructure, precise environmental control, and
 observation architecture that documents every study conducted on the floor.
 
 ---
@@ -214,8 +195,7 @@ observation architecture that documents every study conducted on the floor.
 
 ### 8.1 Power
 
-F-5 draws on the complex's main supply with dedicated conditioning for the analysis instruments.
-The Digital Resonance
+F-5 draws on the complex's main supply with dedicated conditioning for the analysis instruments. The Digital Resonance
 Mapping suite operates on isolated power with precision regulation.
 
 ### 8.2 Environment
@@ -230,8 +210,7 @@ study. Monitoring data is preserved with the floor's research records.
 
 ### 8.4 Data Systems
 
-F-5 maintains the complex's most demanding data infrastructure: analysis data is stored, backed up,
-and mirrored to
+F-5 maintains the complex's most demanding data infrastructure: analysis data is stored, backed up, and mirrored to
 the Archive Division under standards that treat research data as part of the Facility's
 knowledge estate.
 
@@ -247,16 +226,13 @@ suites are individually gated to the personnel cleared for each program.
 
 ### 9.2 Sample Control
 
-Material drawn from the holding floors for study is controlled at every step: documented
-transfer, controlled
-handling, and verified return. The floor's sample-control doctrine treats every object as the property
-of its
+Material drawn from the holding floors for study is controlled at every step: documented transfer, controlled
+handling, and verified return. The floor's sample-control doctrine treats every object as the property of its
 containment assignment.
 
 ### 9.3 Instrument Security
 
-The floor's analysis instruments — particularly the Digital Resonance Mapping suite — are protected
-as operational
+The floor's analysis instruments — particularly the Digital Resonance Mapping suite — are protected as operational
 assets: access is cleared, operation is documented, and maintenance is scheduled under the floor's
 instrument-security
 standard.
@@ -283,10 +259,8 @@ complex's containment, transformation, and routing decisions.
 
 ### 10.3 Study Note
 
-The complex's signature holdings are studied only under the restriction sets that govern them.
-Research on
-high-inviolability material from F-1 proceeds under the deepest research restrictions — or does not
-proceed at all.
+The complex's signature holdings are studied only under the restriction sets that govern them. Research on
+high-inviolability material from F-1 proceeds under the deepest research restrictions — or does not proceed at all.
 
 ---
 
@@ -294,21 +268,17 @@ proceed at all.
 
 ### 11.1 Staffing
 
-F-5's personnel are drawn from the Research Division's analysts and laboratory staff, supported by
-Containment,
+F-5's personnel are drawn from the Research Division's analysts and laboratory staff, supported by Containment,
 Medical, Archive, and Transformation liaison personnel.
 
 ### 11.2 Duty Life
 
-Duty on F-5 is analysis work: designing and conducting studies, operating instruments, documenting findings,
-and
-coordinating with the holding and transformation floors. The floor's rhythm follows the complex's research
-program.
+Duty on F-5 is analysis work: designing and conducting studies, operating instruments, documenting findings, and
+coordinating with the holding and transformation floors. The floor's rhythm follows the complex's research program.
 
 ### 11.3 Research Culture
 
-The floor's personnel work under the division's documentation culture: every study is designed before
-it runs,
+The floor's personnel work under the division's documentation culture: every study is designed before it runs,
 documented while it runs, and reviewed after it runs. The floor treats knowledge as
 a controlled substance.
 
@@ -318,14 +288,12 @@ a controlled substance.
 
 ### 12.1 Knowledge Doctrine
 
-F-5 doctrine holds that understanding is containment: the complex's ability to keep, route, and
-transform its holdings
+F-5 doctrine holds that understanding is containment: the complex's ability to keep, route, and transform its holdings
 depends on what the research floor learns about them.
 
 ### 12.2 Contact Doctrine
 
-F-5 doctrine holds that characterization should precede contact. The Digital Resonance Mapping suite embodies
-the
+F-5 doctrine holds that characterization should precede contact. The Digital Resonance Mapping suite embodies the
 principle — measure an artifact's causal pulse before physical handling — and the floor
 applies the principle across
 its study programs.
@@ -334,17 +302,14 @@ its study programs.
 
 F-5 doctrine holds that research that is not documented is research that did not
 happen. The floor's findings are
-preserved, mirrored, and made available to the Facility's analysis estate under the Archive Division's
-custody.
+preserved, mirrored, and made available to the Facility's analysis estate under the Archive Division's custody.
 
 ---
 
 ## 13. Incident Archive
 
-The floor's incident record is dominated by study events: exposure incidents, instrument failures, and
-sample-control
-discrepancies. The development of the Digital Resonance Mapping suite — and the incidents that
-motivated it — are
+The floor's incident record is dominated by study events: exposure incidents, instrument failures, and sample-control
+discrepancies. The development of the Digital Resonance Mapping suite — and the incidents that motivated it — are
 recorded in the complex's research history.
 
 ---
@@ -375,10 +340,8 @@ priorities include:
 
 F-5, Research and Analysis, is the floor where Redwood Veil learns what it holds:
 laboratory suites and analysis decks
-where contained objects are studied under controlled conditions, and where the Digital Resonance Mapping
-suite
+where contained objects are studied under controlled conditions, and where the Digital Resonance Mapping suite
 measures an artifact's causal pulse before anyone touches it.
 
-It is the complex's instrument for understanding — and at Redwood Veil, understanding is
-not separate from
+It is the complex's instrument for understanding — and at Redwood Veil, understanding is not separate from
 containment. It is containment's foundation.

@@ -22,22 +22,21 @@
 
 #### Archive Note
 
-This record covers the continuance writ and emergency custody stay by which the Office for Witness Continuance delays
-a transfer, an amnestic administration, or a record closure. The dossier names continuance writs, emergency custody
-stays, and emergency stays that force hospitals or police to delay transfer, and records one granted for twelve hours
-against a request for full amnestic administration. A.C.T holds copies of continuance forms and no master witness
-ledger.
+This record covers the continuance writ and emergency custody stay by which the Office for Witness
+Continuance delays a transfer, an amnestic administration, or a record closure. The dossier names
+continuance writs, emergency custody stays, and emergency stays that force hospitals or police to
+delay transfer, and records one granted for twelve hours against a request for full amnestic
+administration. A.C.T holds copies of continuance forms and no master witness ledger.
 
-The technical distinction that governs handling is that a writ delays rather than forbids. In the recorded case A.C.T
-was permitted to secure the room and prohibited from erasing it. A field team that reads a stay as a
-prohibition will stand down when it need not, and a team that reads it as an obstruction will act when
-it must not. Both errors come from the same misreading, so the core rule states the boundary in the Office's
-own terms.
+The technical distinction that governs handling is that a writ delays rather than forbids. In the recorded case
+A.C.T was permitted to secure the room and prohibited from erasing it. A field team that reads a stay as a
+prohibition will stand down when it need not, and a team that reads it as an obstruction will act when it must
+not. Both errors come from the same misreading, so the core rule states the boundary in the Office's own terms.
 
-The second hazard is seizure. The dossier records that seizing Office legal material can trigger public-court
-consequences if it is not routed through Legal Liaison. A writ is therefore not evidence to be collected at the
-scene; it is an instrument whose removal has effects outside the incident, and the operating sequence requires routing
-before any physical handling.
+The second hazard is seizure. The dossier records that seizing Office legal material can trigger
+public-court consequences if it is not routed through Legal Liaison. A writ is therefore not
+evidence to be collected at the scene; it is an instrument whose removal has effects outside the
+incident, and the operating sequence requires routing before any physical handling.
 
 Controlled label: **CONTINUANCE WRIT COMPLIANCE RULE**.
 
@@ -79,9 +78,9 @@ under protest rather than negotiation.
 | Seizure status | Prohibited without Legal Liaison routing |
 | Resistance to alteration | Unresolved; ink or procedure |
 
-The operative row is the seizure-status row. A writ found at a scene is not collected like other documents, because
-its removal has consequences in a court that A.C.T does not control. Routing first is what keeps an evidence question
-from becoming a public one.
+The operative row is the seizure-status row. A writ found at a scene is not collected
+like other documents, because its removal has consequences in a court that A.C.T does not
+control. Routing first is what keeps an evidence question from becoming a public one.
 
 ---
 
@@ -116,9 +115,9 @@ time of service, so an A.C.T team that takes custody after service inherits the 
 | A.C.T equivalent | Internal hold, liftable internally |
 | Writs in Office use | Unknown |
 
-The governing row is the effect row. Everything else follows from a writ being a delay with a stated end
-rather than a prohibition. The correct response is to complete every action the writ does not name, and to stop
-only at the one it does.
+The governing row is the effect row. Everything else follows from a writ being a
+delay with a stated end rather than a prohibition. The correct response is to
+complete every action the writ does not name, and to stop only at the one it does.
 
 ---
 
@@ -229,9 +228,9 @@ correction stands and is reviewed annually.
 
 ### SEIZURE EXPOSURE — STANDING CONDITION
 
-Seizing Office legal material can trigger public-court consequences. A.C.T records this as a standing condition on
-evidence handling rather than as a risk specific to one incident, because the exposure arises from the document type
-and not from the case.
+Seizing Office legal material can trigger public-court consequences. A.C.T records this
+as a standing condition on evidence handling rather than as a risk specific to one
+incident, because the exposure arises from the document type and not from the case.
 
 ---
 

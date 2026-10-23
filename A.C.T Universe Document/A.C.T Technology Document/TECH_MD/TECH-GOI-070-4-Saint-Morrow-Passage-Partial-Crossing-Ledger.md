@@ -10,8 +10,7 @@
 
 ### Archive Note
 
-The archive holds partial crossing ledgers. No count is recorded and the full route books remain
-unrecovered.
+The archive holds partial crossing ledgers. No count is recorded and the full route books remain unrecovered.
 
 The dossier describes these ledgers as divided by passenger, object, body and unpaid debt, and that
 four-way division is the most consequential sentence the dossier contains about the object. It is not
@@ -78,10 +77,9 @@ off any recorded debt. The debt question belongs to Legal and has not been decid
 
 ## 2.3 Where a person is involved
 
-Where a passenger entry identifies a person the Facility can reach, the referral is to Subject Care.
-Where a debt entry identifies a person, the referral is to Legal, because the debt may be enforceable
-and disclosing it could expose the person. Intelligence is notified that a referral was made and is
-not given the name.
+Where a passenger entry identifies a person the Facility can reach, the referral is to Subject Care. Where a
+debt entry identifies a person, the referral is to Legal, because the debt may be enforceable and disclosing
+it could expose the person. Intelligence is notified that a referral was made and is not given the name.
 
 ## 2.4 The Passage's own sequence
 
@@ -107,22 +105,19 @@ The divisions are passenger, object, body and unpaid debt. Read as a list they l
 scheme. Read as an ordering they are an account of what the Passage considers carryable, and a
 person sits in the same series as a parcel and a corpse.
 
-This is not a moral finding and the archive does not record it as one. It is a structural one. A
-ledger that carries all four in one book does not need to decide which of them is a person, and the
-Passage therefore never has to make that decision in the course of its ordinary work. The Facility
-does have to make it, which is why this file is written as a Subject Care document filed under
-technology.
+This is not a moral finding and the archive does not record it as one. It is a structural one. A ledger
+that carries all four in one book does not need to decide which of them is a person, and the Passage
+therefore never has to make that decision in the course of its ordinary work. The Facility does have to
+make it, which is why this file is written as a Subject Care document filed under technology.
 
 ## 1.5 What the ledger does not record
 
 The dossier describes the ledger and the route-audit notebooks as separate records, and the split is
-meaningful. The ledger records what was carried. The notebook records wrong arrivals and route
-injuries. The Passage therefore keeps a record of what went right and a record of what went wrong,
-and holds them apart.
+meaningful. The ledger records what was carried. The notebook records wrong arrivals and route injuries. The
+Passage therefore keeps a record of what went right and a record of what went wrong, and holds them apart.
 
-The archive holds ledgers and not notebooks. Everything this file says about what the Passage
-carried is therefore silent on what the Passage got wrong, and no inference about Passage safety may
-be drawn from a clean ledger.
+The archive holds ledgers and not notebooks. Everything this file says about what the Passage carried is therefore
+silent on what the Passage got wrong, and no inference about Passage safety may be drawn from a clean ledger.
 
 ## 2.5 Storage condition
 
@@ -142,9 +137,8 @@ and a summary carrying entries is a copy of the entries it carries.
 | A debt entry is cited as settled | A party has read the ledger | Do not correct it in writing without Legal; record the citation |
 | A body entry names a person the Facility can reach | A notification question has arisen | Refer to Subject Care and Legal together; do not notify alone |
 
-The second row is the hardest and the most likely. A person who believes the Facility holds a record
-of their crossing will ask, and the correct answer is neither yes nor no, because either answer is a
-disclosure.
+The second row is the hardest and the most likely. A person who believes the Facility holds a record of their
+crossing will ask, and the correct answer is neither yes nor no, because either answer is a disclosure.
 
 ## 2.7 Servicing and known limits
 
@@ -159,9 +153,8 @@ archive holds part of that record, and that the part held names people.
 
 ## 2.8 The ledgers in the set
 
-The four objects divide by who they name. A ticket names nobody. A map names a route. A bell names
-nothing at all. A ledger names people, and in its debt division it names people who owe the Passage
-something.
+The four objects divide by who they name. A ticket names nobody. A map names a route. A bell names nothing
+at all. A ledger names people, and in its debt division it names people who owe the Passage something.
 
 That is why this record carries a Level 4 reading restriction where the other three carry Level 3,
 and why its disclosure rule runs to Level 5. The difference is not the sensitivity of the material.
@@ -201,9 +194,8 @@ been decided. Until it is, no debt is treated as live and none is treated as set
 - `TECH-GOI-070-3` — Saint Morrow Passage Cold-Map Fragment, Technology Record
 - `TECH-GOI-073-4` — Lantern Accord Violation Ledger Copy, Technology Record
 
-The Lantern Accord reference is the nearest comparable record rather than part of this set: a copy of
-a ledger recording what was done along a line, held by an archive that did not write it and cannot
-attest to it.
+The Lantern Accord reference is the nearest comparable record rather than part of this set: a copy of a ledger
+recording what was done along a line, held by an archive that did not write it and cannot attest to it.
 
 ---
 

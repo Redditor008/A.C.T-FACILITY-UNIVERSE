@@ -21,19 +21,14 @@
 | AUTHORITY | Floor Holding Chief, Containment Division, Site Director, and Central Archive |
 
 #### Archive Note
-Standard Box Holding Chamber System is the one-hundred-twenty-fourth main A.C.T technology expanded into an
-individual
-record. The Redwood Veil F-3 Standard Object Chambers dossier identifies F-3 as the complex's
-largest containment
-level by volume and the main holding level for INERT, RESIDUAL, and SPORADIC object-class
-anomalies. It records
+Standard Box Holding Chamber System is the one-hundred-twenty-fourth main A.C.T technology expanded into an individual
+record. The Redwood Veil F-3 Standard Object Chambers dossier identifies F-3 as the complex's largest containment
+level by volume and the main holding level for INERT, RESIDUAL, and SPORADIC object-class anomalies. It records
 chamber rows of Small, Medium, and Large Boxes, independent monitoring connections, adjustable environment, handling
-corridors, observation routes, intake and triage bays, transfer routes to F-2 and F-4, and
-the doctrine that
+corridors, observation routes, intake and triage bays, transfer routes to F-2 and F-4, and the doctrine that
 documentation is containment.
 
-SBHCS exists because most anomalous objects do not require spectacle. They require a durable
-room, an honest record,
+SBHCS exists because most anomalous objects do not require spectacle. They require a durable room, an honest record,
 continuous watch, and a system that knows when an ordinary holding is no longer
 ordinary.
 
@@ -49,19 +44,15 @@ HOLD THE STANDARD RESIDENT WELL ENOUGH TO NOTICE WHEN IT STOPS BEING STANDARD.
 
 ## FUNCTION OUTLINE
 
-Standard Box Holding Chamber System is Redwood Veil's F-3 graduated chamber-row technology for stable
-object-class
-anomaly custody. It provides Small, Medium, and Large Box units with independent monitoring, environmental
-adjustment,
-documentation identity, observation architecture, controlled handling access, and chain-of-custody routing to the
-floors above and below.
+Standard Box Holding Chamber System is Redwood Veil's F-3 graduated chamber-row technology for stable object-class
+anomaly custody. It provides Small, Medium, and Large Box units with independent monitoring, environmental adjustment,
+documentation identity, observation architecture, controlled handling
+access, and chain-of-custody routing to the floors above and below.
 
 SBHCS is not a generic room. Every Box is a containment unit with a
 resident identity, monitoring history,
-environmental profile, handling rule, and floor routing logic. The system holds material that has
-been assessed as
-ordinary enough for standard containment but anomalous enough to remain under Facility custody. It
-is designed for
+environmental profile, handling rule, and floor routing logic. The system holds material that has been assessed as
+ordinary enough for standard containment but anomalous enough to remain under Facility custody. It is designed for
 throughput, continuity, and disciplined confidence rather than exotic reinforcement.
 
 Approved roles include INERT object holding, RESIDUAL trace-object custody, SPORADIC behavior monitoring, standard
@@ -72,27 +63,20 @@ documentation continuity, and operational sorting between transformation potenti
 
 ## ORIGIN AND DEVELOPMENT
 
-Redwood Veil's recovery work produced a constant flow of resident objects. Early doctrine could
-not treat every
-anomaly as a singular crisis without breaking the complex's ability to function. The site
-needed a repeatable chamber
-architecture that could hold large numbers of anomalous objects under reliable conditions while preserving
-enough
+Redwood Veil's recovery work produced a constant flow of resident objects. Early doctrine could not treat every
+anomaly as a singular crisis without breaking the complex's ability to function. The site needed a repeatable chamber
+architecture that could hold large numbers of anomalous objects under reliable conditions while preserving enough
 flexibility for unusual resident requirements.
 
-The Box system developed from early standardized containers into an entire floor logic. Small,
-Medium, and Large Boxes
-gave Containment a shared language of size, service, observation, and transfer. F-3 became the
-working heart of
-Redwood Veil because SBHCS made ordinary anomalous custody scalable without pretending the residents were
-harmless.
+The Box system developed from early standardized containers into an entire floor logic. Small, Medium, and Large Boxes
+gave Containment a shared language of size, service, observation, and transfer. F-3 became the working heart of
+Redwood Veil because SBHCS made ordinary anomalous custody scalable without pretending the residents were harmless.
 
 ---
 
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
-A SBHCS installation includes chamber-row galleries, Small Box units, Medium Box units, Large Box
-units, handling
+A SBHCS installation includes chamber-row galleries, Small Box units, Medium Box units, Large Box units, handling
 corridors, observation routes, intake and triage bays, documentation offices, floor command panels, environmental
 controls, monitoring circuits, and transfer gates connected to F-2 and F-4 routing.
 
@@ -138,10 +122,8 @@ count, Median hold time, Monitoring losses. Each is filed under OPEN QUESTIONS.
 | Median hold time | NOT MEASURED |
 | Monitoring losses | NOT MEASURED |
 
-Standard holding is the floor's default and therefore its largest surface. Each Box carries
-an independent
-monitoring connection rather than a shared bus, because a monitoring loss that affects one
-chamber is a
+Standard holding is the floor's default and therefore its largest surface. Each Box carries an independent
+monitoring connection rather than a shared bus, because a monitoring loss that affects one chamber is a
 maintenance problem while one that affects a row is a containment problem, and the
 two cannot be told apart
 if they share a circuit. The default is observation without entry: an entry is
@@ -199,16 +181,13 @@ in front of the operator cannot see it happen.
 
 Before assignment, the Floor Holding Chief or delegated containment staff confirm object classification, size,
 activity cadence, environmental requirement, handling rule, observation method, documentation identity, Recovery
-custody chain, and whether any restricted-hold or transformation indicators are present. The object is
-then assigned
+custody chain, and whether any restricted-hold or transformation indicators are present. The object is then assigned
 to the smallest Box class that can hold it safely without compressing monitoring or
 handling access.
 
 Routine operation consists of observation rounds, sensor checks, environmental review, documentation updates, and
-resident behavior comparison against the last known baseline. Physical entry is avoided unless handling
-is required.
-If the resident shows transformation potential, the F-4 route is opened only under ascending
-authorization. If it
+resident behavior comparison against the last known baseline. Physical entry is avoided unless handling is required.
+If the resident shows transformation potential, the F-4 route is opened only under ascending authorization. If it
 demonstrates REACTIVE, ENTROPIC, EXIGENT, memetic, or informational character, F-2 restricted-hold transfer begins.
 
 ---
@@ -244,14 +223,12 @@ SBHCS works because it trusts standard holding, but that trust is also its dange
 A resident may appear INERT while
 building a delayed effect. A SPORADIC object may act outside its previous cadence. A
 RESIDUAL object may carry more
-origin pressure than its record describes. Chamber-row scale can also make small documentation discrepancies
-harder to
+origin pressure than its record describes. Chamber-row scale can also make small documentation discrepancies harder to
 see until they become repeated floor behavior.
 
 Known failure modes include chamber misassignment, stale resident baseline, observation blind spot, environmental
 cross-contamination, handling shortcut, transfer delay, recovery intake overload, documentation drift, floor-wide
-monitoring interruption, and personnel assuming that a resident is safe because the Box is
-standard.
+monitoring interruption, and personnel assuming that a resident is safe because the Box is standard.
 
 ---
 
@@ -263,8 +240,7 @@ continuity during high turnover.
 Current Box identity combines chamber, resident, monitoring profile, and custody record.
 
 ### SBHCS-Sorting Delay Finding
-A transfer review found that standard-hold confidence can delay escalation when a resident begins
-acting like F-2
+A transfer review found that standard-hold confidence can delay escalation when a resident begins acting like F-2
 material. Current doctrine requires direct restricted-hold review once a standard resident demonstrates forbidden
 information, unstable reaction, or entropic growth.
 
@@ -276,14 +252,11 @@ emphasizes observation architecture first and physical access only when the resi
 
 ## DIVISION USE
 
-Containment Division operates the Box rows and resident assignment. Security guards access cores, handling
-corridors,
-and transfer gates. Recovery delivers material into intake and triage. Archive preserves the floor's
-continuous
+Containment Division operates the Box rows and resident assignment. Security guards access cores, handling corridors,
+and transfer gates. Recovery delivers material into intake and triage. Archive preserves the floor's continuous
 records. Transformation reviews objects that may move upward under ascending authorization.
 
-SBHCS doctrine holds that standard containment is not lesser containment. It is the discipline
-that lets a large
+SBHCS doctrine holds that standard containment is not lesser containment. It is the discipline that lets a large
 facility survive its daily work.
 
 ---

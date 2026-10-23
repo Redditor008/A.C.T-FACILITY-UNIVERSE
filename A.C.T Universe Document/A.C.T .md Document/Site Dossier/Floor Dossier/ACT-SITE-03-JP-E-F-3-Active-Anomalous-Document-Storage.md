@@ -17,16 +17,13 @@
 
 ## Archive Note
 
-This file is the complete individual record of **F-3, the Active Anomalous Document Storage**,
-the third-deepest
+This file is the complete individual record of **F-3, the Active Anomalous Document Storage**, the third-deepest
 numbered floor of **ACT-SITE-03-JP-E, Kurokawa Archive Node**.
 
 F-3 is the node's main holding level for confirmed anomalous documents and media: the
 material that has been assessed
-as anomalous and requires ongoing monitoring. The floor contains document quarantine cells and signal-isolated
-storage
-— the working infrastructure of an archive whose holding population is active, monitored, and
-never fully trusted.
+as anomalous and requires ongoing monitoring. The floor contains document quarantine cells and signal-isolated storage
+— the working infrastructure of an archive whose holding population is active, monitored, and never fully trusted.
 
 This dossier records the floor in full institutional language: what it is, what it
 holds, how it is built, how it is
@@ -38,31 +35,26 @@ run, and how the node holds the documents that behave like residents.
 
 **Site Designation:** ACT-SITE-03-JP-E **Site Codename:** Kurokawa Archive Node **Floor Designation:** F-3 **Floor
 Name:** Active Anomalous Document Storage **Floor Type:** Main Anomalous Document Holding Level **Vertical Position:**
-Third-deepest numbered floor of the node **Floor Above:** F-4 (Research and Analysis Level) **Floor
-Below:** F-2 (Deep
+Third-deepest numbered floor of the node **Floor Above:** F-4 (Research and Analysis Level) **Floor Below:** F-2 (Deep
 Memetic and Infohazard Vaulting) **Containment Character:** Confirmed anomalous document and media holding under
 ongoing monitoring **Primary Function:** Storage of confirmed anomalous documents and media requiring ongoing
 monitoring; document quarantine and signal-isolated storage **Access Posture:** Controlled operational access under
-standard anomalous document doctrine **Current Status:** Active **Scale Note:** The node's main holding level
-by
+standard anomalous document doctrine **Current Status:** Active **Scale Note:** The node's main holding level by
 population of anomalous documents
 
 ---
 
 ## 2. Dossier Purpose
 
-The Kurokawa Archive Node receives a constant flow of documents, media, and records suspected
-of anomalous content.
-Most are cleared and returned to ordinary archival processing. A smaller population is confirmed
-anomalous — documents
+The Kurokawa Archive Node receives a constant flow of documents, media, and records suspected of anomalous content.
+Most are cleared and returned to ordinary archival processing. A smaller population is confirmed anomalous — documents
 that behave, media that acts, records that are not merely about anomalies but are
 themselves anomalous — and that
 population requires ongoing, monitored storage.
 
 F-3 exists for that population. It is the node's main holding level for confirmed
 anomalous documents and media: the
-floor where assessed material is held in document quarantine cells and signal-isolated storage under
-continuous
+floor where assessed material is held in document quarantine cells and signal-isolated storage under continuous
 monitoring. The floor is where the node's holding doctrine meets its daily work.
 
 ---
@@ -86,8 +78,7 @@ F-3 as refined holding regimens.
 
 ### 3.3 Relationship to F-2
 
-Material held on F-3 that demonstrates memetic or infohazard properties — whose danger escalates
-with understanding or
+Material held on F-3 that demonstrates memetic or infohazard properties — whose danger escalates with understanding or
 whose visual component makes standard storage unsafe — is transferred down to F-2 under
 restricted-vault procedure.
 F-3 is the node's sorting level: most material remains, and the rest moves down
@@ -100,25 +91,20 @@ character.
 
 ### 4.1 Development of the Holding Floor
 
-F-3's character developed with the node's mission: as Kurokawa's role as the eastern region's
-archive authority came
-into focus, the node developed a dedicated holding level for the confirmed anomalous documents
-that its intake process
+F-3's character developed with the node's mission: as Kurokawa's role as the eastern region's archive authority came
+into focus, the node developed a dedicated holding level for the confirmed anomalous documents that its intake process
 delivered.
 
 ### 4.2 The Quarantine and Isolation Standard
 
-The floor's defining infrastructure — document quarantine cells and signal-isolated storage — was developed
-as the
-node's standard response to its typical holding: documents that behave anomalously under conditions that
-ordinary
+The floor's defining infrastructure — document quarantine cells and signal-isolated storage — was developed as the
+node's standard response to its typical holding: documents that behave anomalously under conditions that ordinary
 archives cannot provide. Quarantine cells hold material under investigation; signal-isolated storage holds material
 whose anomalous behavior includes transmission.
 
 ### 4.3 Modern Configuration
 
-In its modern configuration, F-3 is the node's main anomalous document holding level, holding
-the working population
+In its modern configuration, F-3 is the node's main anomalous document holding level, holding the working population
 of the node's archive under the standard doctrines that give the Kurokawa Archive Node
 its operational identity.
 
@@ -128,15 +114,14 @@ its operational identity.
 
 ### 5.1 Floor Command
 
-F-3 operates under the Archive Division's document-holding command, administered day-to-day by a **Floor Holding
-Archivist**. The Holding Archivist administers the floor's storage operations, intake assignment, and monitoring
-schedules.
+F-3 operates under the Archive Division's document-holding command, administered
+day-to-day by a **Floor Holding Archivist**. The Holding Archivist administers
+the floor's storage operations, intake assignment, and monitoring schedules.
 
 ### 5.2 Authority over Holdings
 
 The Holding Archivist holds standard custodial authority over the floor's holdings: storage assignment, monitoring
-schedules, and routine handling under the node's standard anomalous document doctrine. Disposition decisions are
-made
+schedules, and routine handling under the node's standard anomalous document doctrine. Disposition decisions are made
 above the floor.
 
 ### 5.3 Authority Limits
@@ -158,8 +143,7 @@ documentation that accompanies every holding in the node's care.
 
 ### 6.2 Intelligence Division Liaison
 
-Intelligence personnel coordinate with F-3 on the assessment of anomalous documents, informing the triage
-that assigns
+Intelligence personnel coordinate with F-3 on the assessment of anomalous documents, informing the triage that assigns
 material to the floor's holding system.
 
 ### 6.3 Research Division Liaison
@@ -170,8 +154,7 @@ drawing anomalous documents for analysis and returning them under documented sam
 
 ### 6.4 Security Division
 
-Security guards the floor's access architecture and the storage rows, and enforces the handling
-rules that govern
+Security guards the floor's access architecture and the storage rows, and enforces the handling rules that govern
 movement of material within the floor and between floors.
 
 ---
@@ -192,17 +175,13 @@ F-3's plan is organized around **storage rows and quarantine cells**:
 
 ### 7.2 The Storage Rows
 
-The floor's storage rows hold the node's assessed anomalous document population under continuous monitoring.
-Storage
-is organized by holding character, with each unit's environment and access governed by its
-holding's documentation.
+The floor's storage rows hold the node's assessed anomalous document population under continuous monitoring. Storage
+is organized by holding character, with each unit's environment and access governed by its holding's documentation.
 
 ### 7.3 The Document Quarantine Cells
 
-The floor's quarantine cells hold material under investigation: documents whose anomalous status is being
-assessed,
-whose behavior requires isolation, or whose handling is not yet governed by an established
-restriction set. Quarantine
+The floor's quarantine cells hold material under investigation: documents whose anomalous status is being assessed,
+whose behavior requires isolation, or whose handling is not yet governed by an established restriction set. Quarantine
 is the floor's holding state for material whose character is still being determined.
 
 ### 7.4 Signal-Isolated Storage
@@ -218,8 +197,7 @@ activity within the storage environment.
 
 ### 8.1 Power
 
-F-3 draws on the node's main supply with standard emergency backup. Individual storage and
-quarantine unit monitoring
+F-3 draws on the node's main supply with standard emergency backup. Individual storage and quarantine unit monitoring
 circuits are protected against interruption.
 
 ### 8.2 Environment
@@ -229,16 +207,13 @@ regulation per unit and atmospheric separation between storage areas.
 
 ### 8.3 Monitoring
 
-Every storage unit and quarantine cell on F-3 is under continuous monitoring: environmental, structural,
-and
+Every storage unit and quarantine cell on F-3 is under continuous monitoring: environmental, structural, and
 behavioral. Monitoring data flows to the floor command post and the node's central watch.
 
 ### 8.4 Documentation
 
-The floor's documentation is exact and continuous: every holding's record, quarantine history, and monitoring
-log is
-preserved under the Archive Division's custody. The floor treats documentation as the archive's containment
-layer.
+The floor's documentation is exact and continuous: every holding's record, quarantine history, and monitoring log is
+preserved under the Archive Division's custody. The floor treats documentation as the archive's containment layer.
 
 ---
 
@@ -253,14 +228,12 @@ within the floor is governed by the handling rules of the material being accesse
 ### 9.2 Storage Access
 
 Storage access follows standard holding procedure: authorized personnel, documented handling, and observation
-maintained throughout. Most routine work on F-3 is conducted through the monitoring architecture rather
-than through
+maintained throughout. Most routine work on F-3 is conducted through the monitoring architecture rather than through
 physical contact with the holdings.
 
 ### 9.3 Quarantine Administration
 
-The floor's quarantine cells are administered under the node's quarantine doctrine: material is held
-under
+The floor's quarantine cells are administered under the node's quarantine doctrine: material is held under
 investigation until its status is determined, and no material leaves quarantine without documented assessment.
 
 ### 9.4 Transfer Procedures
@@ -279,8 +252,7 @@ F-3 maintains standing transfer procedures:
 
 ### 10.1 Filing Doctrine
 
-F-3's holding manifest is preserved in the clearance-gated Kurokawa Annex Register. This dossier confirms
-the general
+F-3's holding manifest is preserved in the clearance-gated Kurokawa Annex Register. This dossier confirms the general
 character of the floor's holdings without enumerating them.
 
 ### 10.2 Holding Character
@@ -294,10 +266,9 @@ monitoring:
 
 ### 10.3 Holding Note
 
-The node's signature holding is maintained on F-2 under visual-denial containment. F-3 holds the
-node's active
-anomalous document population, whose designations are preserved in the Annex Register under standard holding
-procedure.
+The node's signature holding is maintained on F-2 under visual-denial containment. F-3 holds the node's active
+anomalous document population, whose designations are preserved
+in the Annex Register under standard holding procedure.
 
 ---
 
@@ -311,17 +282,14 @@ document-holding staff, supported by Intelligence, Research, and Security person
 
 ### 11.2 Duty Life
 
-Duty on F-3 is archival holding work: monitoring rounds, quarantine administration, documentation, and the
-careful
+Duty on F-3 is archival holding work: monitoring rounds, quarantine administration, documentation, and the careful
 management of documents that behave like residents. The floor's rhythm is set by the
 node's intake flow.
 
 ### 11.3 Documentation Culture
 
-The floor's personnel work under the Archive Division's exacting documentation culture: every holding is
-logged, every
-access is recorded, and every monitoring observation is preserved. The floor treats its records
-as the archive's
+The floor's personnel work under the Archive Division's exacting documentation culture: every holding is logged, every
+access is recorded, and every monitoring observation is preserved. The floor treats its records as the archive's
 memory.
 
 ---
@@ -330,32 +298,26 @@ memory.
 
 ### 12.1 Active Holding Doctrine
 
-F-3 doctrine holds that anomalous documents are active holdings: material on the floor is
-monitored, assessed, and
+F-3 doctrine holds that anomalous documents are active holdings: material on the floor is monitored, assessed, and
 documented under the same discipline the Facility applies to anomalous residents elsewhere.
 
 ### 12.2 Quarantine Doctrine
 
-F-3 doctrine holds that assessment precedes assignment: material whose character is not yet determined
-is held in
-quarantine until its status is established, and nothing moves through the node's holding system
-without documented
+F-3 doctrine holds that assessment precedes assignment: material whose character is not yet determined is held in
+quarantine until its status is established, and nothing moves through the node's holding system without documented
 assessment.
 
 ### 12.3 Sorting Doctrine
 
-F-3 doctrine holds that the floor is a sorting level: material that demonstrates memetic
-character moves down,
-material approved for research moves up, and material cleared of anomalous character returns to
-ordinary archival
+F-3 doctrine holds that the floor is a sorting level: material that demonstrates memetic character moves down,
+material approved for research moves up, and material cleared of anomalous character returns to ordinary archival
 processing.
 
 ---
 
 ## 13. Incident Archive
 
-The floor's incident record is dominated by routine holding events: quarantine incidents, monitoring alarms,
-and
+The floor's incident record is dominated by routine holding events: quarantine incidents, monitoring alarms, and
 documentation discrepancies. Because the floor's population is held under mature standard doctrine, major incidents
 are rare; when they occur, they are recorded as the node's holding lessons and
 reflected in doctrine.
@@ -386,8 +348,7 @@ priorities include:
 
 ## Archive Closing
 
-F-3, the Active Anomalous Document Storage, is the working floor of Kurokawa Archive Node:
-the main holding level for
+F-3, the Active Anomalous Document Storage, is the working floor of Kurokawa Archive Node: the main holding level for
 confirmed anomalous documents and media requiring ongoing monitoring, held in document quarantine cells and
 signal-isolated storage under the node's standard doctrines.
 

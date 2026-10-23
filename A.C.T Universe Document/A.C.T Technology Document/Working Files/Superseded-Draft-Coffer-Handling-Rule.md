@@ -14,8 +14,7 @@ First, it treats the contents as knowable in advance. They are not. The Ark's ni
 category is a category the Ark itself has not classified, so "required for an active containment
 matter" cannot be assessed without opening it, which is the thing the rule is supposed to control.
 
-Second, notifying Medical Care is not the same as having Medical Care present. The revised rule
-requires three divisions in the room and states that the decision is not taken because the
-contents are curious.
+Second, notifying Medical Care is not the same as having Medical Care present. The revised rule requires
+three divisions in the room and states that the decision is not taken because the contents are curious.
 
 Kept here so the reasoning survives. The draft itself has no authority and never had any.

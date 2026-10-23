@@ -24,8 +24,7 @@
 | AUTHORITY | Intelligence Division and Central Archive |
 
 ### Archive Note
-This file is the complete internal archive version of GOI classification, registry doctrine, posture
-logic, and
+This file is the complete internal archive version of GOI classification, registry doctrine, posture logic, and
 external threat interpretation used by the Facility.
 
 ---
@@ -33,29 +32,24 @@ external threat interpretation used by the Facility.
 ## Introduction
 If Part Three defines how A.C.T records anomalies, then Part Four defines how A.C.T
 records the organizations,
-factions, networks, and powers that operate around the anomalous world. Not every danger to
-structural reality is an
-object, entity, place, or phenomenon. Some dangers are organized. Some are ideological. Some are
-commercial. Some are
+factions, networks, and powers that operate around the anomalous world. Not every danger to structural reality is an
+object, entity, place, or phenomenon. Some dangers are organized. Some are ideological. Some are commercial. Some are
 state-backed. Some are cultic. Some are useful. Some are allies. Some are worse than
 anomalies because they
 intentionally weaponize them.
 
-For this reason, A.C.T maintains a separate archive system for **Groups of Interest**, or
-**GOIs**.
+For this reason, A.C.T maintains a separate archive system for **Groups of Interest**, or **GOIs**.
 
 A GOI is not necessarily an anomaly itself. It is a structured actor in
 the anomalous world. It may know of anomalies,
-hide them, worship them, study them, trade them, manufacture them, contain them, destroy them,
-or exploit them. What
+hide them, worship them, study them, trade them, manufacture them, contain them, destroy them, or exploit them. What
 makes a GOI dangerous—or valuable—is not merely what it is, but what it does
 with the impossible.
 
 ---
 
 ## 4.1 — What Qualifies as a GOI
-A **GOI / Group of Interest** is any organization, network, movement, institution, market, or
-collective that
+A **GOI / Group of Interest** is any organization, network, movement, institution, market, or collective that
 knowingly interacts with anomalies in a meaningful, repeatable, or operational way.
 
 A body qualifies as a GOI if it does one or more of the
@@ -71,8 +65,7 @@ following:
 - researches anomalies
 - has a negative, positive, neutral, business, trade, or unknown relationship with the Facility
 
-In A.C.T doctrine, awareness alone is not always enough. What matters is organized anomalous
-relevance. A random
+In A.C.T doctrine, awareness alone is not always enough. What matters is organized anomalous relevance. A random
 civilian witness is not a GOI. A hidden syndicate trading anomalous objects is.
 
 A GOI may be:
@@ -94,8 +87,7 @@ A.C.T identifies Groups of Interest under a dedicated registry system:
 
 ## **GOI-XX-X-XXX**
 
-This structure separates GOI records from anomaly records and ensures that external anomalous actors
-are archived
+This structure separates GOI records from anomaly records and ensures that external anomalous actors are archived
 under their own institutional logic.
 
 ### 4.2.1 Designation Segment Meaning
@@ -137,8 +129,8 @@ been issued. A recommended marker with no dossiers attached is not a defect.
 - `GOI-ML-X-014`
 - `GOI-BS-T-027`
 
-These identifiers are intended to make GOI records searchable, comparable, and operationally readable across
-divisions.
+These identifiers are intended to make GOI records searchable,
+comparable, and operationally readable across divisions.
 
 ---
 
@@ -250,13 +242,11 @@ Every GOI file should include the following sections:
 - Current Status
 - Cross-Referenced Anomalies
 
-This keeps GOI records consistent with A.C.T’s broader archive doctrine while preserving their distinct
-organizational
+This keeps GOI records consistent with A.C.T’s broader archive doctrine while preserving their distinct organizational
 focus.
 
 ## 4.4.1 Site Monitoring and Jurisdiction
-Where relevant, GOI records should note which A.C.T SITE, SUB-SITE, or regional command body
-maintains primary
+Where relevant, GOI records should note which A.C.T SITE, SUB-SITE, or regional command body maintains primary
 monitoring, infiltration, or response jurisdiction. External threat handling is therefore tied directly to the
 Facility's territorial site network rather than treated as abstract intelligence alone.
 
@@ -312,8 +302,7 @@ This prevents A.C.T from confusing:
 with
 — what the group **is as an anomalous condition**
 
-A cult may worship an anomaly without being anomalous itself. A collective intelligence may
-be both a GOI and an
+A cult may worship an anomaly without being anomalous itself. A collective intelligence may be both a GOI and an
 anomaly at once.
 
 ---
@@ -326,12 +315,9 @@ anomaly at once.
 **Nature Class:** Government **Alignment Class:** Positive **Reach Class:** National **Anomalous Capability:** Handler
 **Threat Level:** 2 **Secrecy Risk:** Veiled **A.C.T Posture:** Cooperated
 
-**Summary:** The **Government Anti Anomaly**, or **GAA**, is a limited government body aware of
-anomalous existence
-and partially cooperative with the A.C.T Facility. Internal estimates suggest that only around **10%
-of the wider
-government structure** possesses any meaningful awareness of anomalies at all. The GAA serves as
-one of the few
+**Summary:** The **Government Anti Anomaly**, or **GAA**, is a limited government body aware of anomalous existence
+and partially cooperative with the A.C.T Facility. Internal estimates suggest that only around **10% of the wider
+government structure** possesses any meaningful awareness of anomalies at all. The GAA serves as one of the few
 official bridges between ordinary state power and the hidden anomaly-management world.
 
 **Role in Doctrine:** The GAA is not treated as a direct threat. It is
@@ -347,16 +333,13 @@ lies in legal masking, quiet authorization, classified logistics, and selective 
 Engineering **Threat Level:** 4 **Secrecy Risk:** Leaking **A.C.T Posture:** Contain / Dismantle
 
 **Summary:** The **Anti-Global Anomaly**, or **A-GA**, is a large standalone militia-style organization whose sole
-ideological objective is the destruction of anomalies. It does not distinguish between harmful, useful,
-neutral, or
+ideological objective is the destruction of anomalies. It does not distinguish between harmful, useful, neutral, or
 beneficial anomalies. To A-GA, all anomalies are violations that must be eradicated.
 
 **Role in Doctrine:** A-GA is dangerous not because it loves anomalies, but because it
 refuses all nuance. Its
-willingness to destroy beneficial or stabilizing anomalies makes it a threat not only to
-A.C.T, but to structural
-reality itself. In multiple models, A-GA is more dangerous than certain hostile anomalies because
-it may remove the
+willingness to destroy beneficial or stabilizing anomalies makes it a threat not only to A.C.T, but to structural
+reality itself. In multiple models, A-GA is more dangerous than certain hostile anomalies because it may remove the
 very things keeping larger threats contained.
 
 ---
@@ -369,16 +352,14 @@ very things keeping larger threats contained.
 
 **Known Leadership:** A mysterious individual known only as **Anstrall**
 
-**Summary:** The **Anstrall Market** is a black-market anomaly trade structure specializing in the movement
-and sale
+**Summary:** The **Anstrall Market** is a black-market anomaly trade structure specializing in the movement and sale
 of anomalous objects to the highest bidder. It is governed by the enigmatic figure
 known as **Anstrall** and is
 considered one of the most commercially useful yet ethically unstable GOIs in A.C.T records.
 
 **Role in Doctrine:** The Market is not inherently aligned with the Facility, but it
 is not always best treated as an
-enemy. It can be more useful when controlled, tracked, infiltrated, or quietly exploited than
-when openly destroyed.
+enemy. It can be more useful when controlled, tracked, infiltrated, or quietly exploited than when openly destroyed.
 However, its trade in anomalous materials makes it a constant secrecy hazard and a
 source of escalation if left
 unmanaged.
@@ -392,23 +373,18 @@ Practitioner **Threat Level:** 5 **Secrecy Risk:** Leaking **A.C.T Posture:** In
 **Known Leadership:** The Sounding Council; individual identities restricted and compartmented **Primary Active
 Region:** Midwestern United States
 
-**Summary:** The **Children of the Deep**, or **CoTD**, is a cultic congregation network gathered
-around a single
+**Summary:** The **Children of the Deep**, or **CoTD**, is a cultic congregation network gathered around a single
 apocalyptic objective: the awakening of a separately sealed deep-sea sleeper whose release is believed
 to return the
-world to an older, submerged order. Its congregations operate through ritual preparation, coastal and
-inland
-recruitment, and the patient accumulation of the means to reach the sleeper; the network's
-own name for its work is
+world to an older, submerged order. Its congregations operate through ritual preparation, coastal and inland
+recruitment, and the patient accumulation of the means to reach the sleeper; the network's own name for its work is
 the Inland Tide.
 
 **Role in Doctrine:** CoTD is treated as a severe, patient threat rather than an
 immediate one. Because its objective
-is the awakening of a separately contained apocalyptic anomaly, A.C.T posture is infiltration to
-map the
+is the awakening of a separately contained apocalyptic anomaly, A.C.T posture is infiltration to map the
 congregations, containment to interrupt ritual and supply activity, and dismantling of awakening preparations that
-remain interrupted but not ended. The target anomaly is filed separately and kept distinct
-from the organization
+remain interrupted but not ended. The target anomaly is filed separately and kept distinct from the organization
 record.
 
 ---
@@ -416,27 +392,22 @@ record.
 ### GOI-CP-B-049
 **Common Name:** DREAM .INC **Short Name:** DREAM
 
-**Nature Class:** Corporate **Alignment Class:** Business **Reach Class:** National **Anomalous Capability:**
-Engineering **Threat Level:** 4 **Secrecy Risk:** Exposure-Active **A.C.T Posture:** Infiltrate / Contain /
-Appropriate
+**Nature Class:** Corporate **Alignment Class:** Business **Reach Class:**
+National **Anomalous Capability:** Engineering **Threat Level:** 4 **Secrecy
+Risk:** Exposure-Active **A.C.T Posture:** Infiltrate / Contain / Appropriate
 
 **Known Leadership:** Unresolved corporate executive structure; local directors compartmented **Primary Active
 Region:** National distributed corporate footprint
 
-**Summary:** **DREAM .INC** is a company that possesses a mysterious anomalous machine capable of
-extracting a
-substance called Dream Nectar from at least one Dream-Type Anomaly. The company sells the
-substance as underground
+**Summary:** **DREAM .INC** is a company that possesses a mysterious anomalous machine capable of extracting a
+substance called Dream Nectar from at least one Dream-Type Anomaly. The company sells the substance as underground
 medicine, advertising that a consumer's wish will come true in their dream after use.
 At least twelve open company
 buildings are confirmed to be operating.
 
-**Role in Doctrine:** DREAM .INC is a corrupt commercial mirror of Transformation: it converts
-an anomalous source
-into a saleable product before the risks are understood. A.C.T posture is infiltration to
-map the building network,
-containment of the product and the extraction apparatus, and appropriation of what can be
-safely taken into Facility
+**Role in Doctrine:** DREAM .INC is a corrupt commercial mirror of Transformation: it converts an anomalous source
+into a saleable product before the risks are understood. A.C.T posture is infiltration to map the building network,
+containment of the product and the extraction apparatus, and appropriation of what can be safely taken into Facility
 control. The Dream-Type Anomaly and the machine are filed separately under restricted anomaly records.
 
 ---
@@ -450,29 +421,22 @@ Handler **Threat Level:** 4 **Secrecy Risk:** Exposure-Active **A.C.T Posture:**
 **Known Leadership:** Assessed rotating council of founding defectors and regional commanders **Primary Active
 Region:** Transnational; defector-trace and route analysis held restricted
 
-**Summary:** **Liberty Freedoms**, or **L.F.**, is a dispersed militant insurgency of assessed defector origin
-whose
-stated enemy is A.C.T custody itself. It raids transport and recovery operations, publishes controlled
-document leaks
-through shifting mastheads, and transports anomalies that have left containment with it, presenting every
-act as
+**Summary:** **Liberty Freedoms**, or **L.F.**, is a dispersed militant insurgency of assessed defector origin whose
+stated enemy is A.C.T custody itself. It raids transport and recovery operations, publishes controlled document leaks
+through shifting mastheads, and transports anomalies that have left containment with it, presenting every act as
 liberation from institutional capture.
 
-**Role in Doctrine:** L.F. is dangerous because it weaponizes the Facility's own records, routes,
-and moral language
+**Role in Doctrine:** L.F. is dangerous because it weaponizes the Facility's own records, routes, and moral language
 against containment. It must not be confused with A-GA, which seeks the destruction of
 anomalies; L.F. claims to
-preserve them. A.C.T posture is containment of cells and carried subjects, dismantling of defector-recruitment
-and
+preserve them. A.C.T posture is containment of cells and carried subjects, dismantling of defector-recruitment and
 publication paths, and infiltration of a network whose doctrine outruns its members' knowledge.
 
 ---
 
 ## Closing Summary
-Part Four defines the hidden political world around the anomalous. Where Part Three explains
-how A.C.T archives the
-impossible, Part Four explains how it archives the people, powers, and organizations that seek
-to control that
+Part Four defines the hidden political world around the anomalous. Where Part Three explains how A.C.T archives the
+impossible, Part Four explains how it archives the people, powers, and organizations that seek to control that
 impossibility. Through GOI designation, classification, posture doctrine, and dual filing logic, A.C.T transforms the
 chaotic external anomaly world into something operationally readable.
 
@@ -481,10 +445,9 @@ flags, militias, clients, and beliefs.
 
 ## Series Position
 
-This record is Part Four of the A.C.T Universe reading order, GOI Registry, Rival Powers, and External Threat
-Doctrine. Part Four of the A.C.T Universe defines how the Facility records the organisations that act outside it and
-the doctrine that governs contact with them. The separate file of the A.C.T Universe series that carried the same
-content was
+This record is Part Four of the A.C.T Universe reading order, GOI Registry, Rival Powers,
+and External Threat Doctrine. Part Four of the A.C.T Universe defines how the Facility
+records the organisations that act outside it and the doctrine that governs contact with
+them. The separate file of the A.C.T Universe series that carried the same content was
 consolidated into this record
-on 2026-10-22; every sentence held only in that file is carried above or in the body of this
-document.
+on 2026-10-22; every sentence held only in that file is carried above or in the body of this document.

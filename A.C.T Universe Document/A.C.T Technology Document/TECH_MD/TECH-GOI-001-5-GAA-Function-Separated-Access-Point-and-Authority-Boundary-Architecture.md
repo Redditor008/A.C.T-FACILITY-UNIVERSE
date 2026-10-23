@@ -52,9 +52,8 @@ The architecture keeps a cooperative government interface from becoming a single
 single authority. Its two halves work together: physical separation prevents one place from being
 worth attacking, and the authority boundary prevents one place from being worth capturing.
 
-Neither half works alone. Diffuse locations holding universal authority are still a single authority.
-Concentrated locations holding narrow authority are still a single target. The architecture is the
-product of the two.
+Neither half works alone. Diffuse locations holding universal authority are still a single authority. Concentrated
+locations holding narrow authority are still a single target. The architecture is the product of the two.
 
 The design consequence is that compromise is expected to be local. A discovered access
 point is treated as the loss of one function rather than as the loss
@@ -68,9 +67,8 @@ The architecture is exercised under bounded task authorization with access point
 only. Access-point locations are sealed at Level 4 and are not released to liaison
 staff whose function does not require them.
 
-Custody of the boundary record is joint. Intelligence Division holds the location register. Civil
-Covert Division holds the authority boundary and the compromise assessment method. Neither may amend
-the other's record.
+Custody of the boundary record is joint. Intelligence Division holds the location register. Civil Covert Division
+holds the authority boundary and the compromise assessment method. Neither may amend the other's record.
 
 The boundary is not a restriction on the state as such. It is a
 statement of what has been authorized, kept separate from what has not, so that
@@ -118,9 +116,8 @@ QUESTIONS.
 | Confirmed exposures | NOT MEASURED |
 | Convergence alerts | NOT MEASURED |
 
-Access-point counts are deliberately not held in this record. The location register exists and
-is sealed; reproducing its contents in a technology record would defeat the architecture the
-record describes.
+Access-point counts are deliberately not held in this record. The location register exists and is sealed;
+reproducing its contents in a technology record would defeat the architecture the record describes.
 
 ---
 
@@ -171,10 +168,9 @@ step is what keeps a temporary space from becoming an address.
 
 Step 8 refers to the four conditions in the handling rule: whether the discovery
 exposes an A.C.T route or merely a government cover layer; whether the compromise is
-local or systemic; whether civilian staff possess knowledge requiring protection or restriction; and whether
-the point must be abandoned, resealed, or retained under observation. All four are answered
-before any decision is taken, because the first answer determines whether the other three
-matter.
+local or systemic; whether civilian staff possess knowledge requiring protection or restriction; and
+whether the point must be abandoned, resealed, or retained under observation. All four are answered
+before any decision is taken, because the first answer determines whether the other three matter.
 
 ---
 
@@ -244,10 +240,10 @@ interface, and an unexamined indicator costs nothing but attention.
 
 ## DIVISION USE
 
-Intelligence Division holds the location register and runs convergence assessment. Civil Covert Division holds
-the authority boundary and the compromise method. Security supports resealed or observed points. Containment
-reclaims anything retained at a compromised location. Command Liaison activates and deactivates. Archive holds
-the boundary record.
+Intelligence Division holds the location register and runs convergence assessment. Civil
+Covert Division holds the authority boundary and the compromise method. Security supports
+resealed or observed points. Containment reclaims anything retained at a compromised
+location. Command Liaison activates and deactivates. Archive holds the boundary record.
 
 ---
 

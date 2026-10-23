@@ -21,18 +21,14 @@
 | AUTHORITY | Medical Division, Chief Medical Officer, and Central Archive |
 
 #### Archive Note
-Artifact-Influence Isolation Suites are the sixtieth main A.C.T technology expanded into an individual record.
-Redwood
-Veil's F-6 floor dossier identifies Medical and Cognitive Care as the complex's primary ward
-level and states that it
+Artifact-Influence Isolation Suites are the sixtieth main A.C.T technology expanded into an individual record. Redwood
+Veil's F-6 floor dossier identifies Medical and Cognitive Care as the complex's primary ward level and states that it
 provides trauma care, memetic contamination treatment, cognitive recovery, and isolation suites for personnel
 undergoing artifact-influence evaluation. The dossier describes those suites as secure medical environments where
-personnel suspected of artifact influence are evaluated and treated away from the working population,
-with clinical
+personnel suspected of artifact influence are evaluated and treated away from the working population, with clinical
 observation, exact documentation, and care governed by medical doctrine.
 
-AIIS exists because personnel are part of the containment system, and sometimes the system
-has to protect itself
+AIIS exists because personnel are part of the containment system, and sometimes the system has to protect itself
 without abandoning the person inside it.
 
 Controlled label: **AIIS PATIENT-FIRST ISOLATION**.
@@ -47,19 +43,15 @@ ISOLATE THE INFLUENCE WITHOUT TURNING THE PATIENT INTO A RESIDENT.
 
 ## FUNCTION SUMMARY
 
-Artifact-Influence Isolation Suites are secure medical environments used to evaluate and treat A.C.T personnel
-who may
+Artifact-Influence Isolation Suites are secure medical environments used to evaluate and treat A.C.T personnel who may
 have been affected by anomalous artifacts, memetic contamination, deep-hold exposure, or cognition-altering
-containment contact. Their function is dual: protect the patient from further exposure and protect
-the working
+containment contact. Their function is dual: protect the patient from further exposure and protect the working
 population from influence that may be spreading through the patient.
 
 AIIS is not a punishment cell and not a resident vault. It is clinical
 containment. The patient remains a member of
-personnel under medical care unless assessment proves a different status is required. The suite
-gives Medical Division
-space to observe, treat, and document without allowing a possible artifact influence to move
-freely through staff
+personnel under medical care unless assessment proves a different status is required. The suite gives Medical Division
+space to observe, treat, and document without allowing a possible artifact influence to move freely through staff
 areas, command spaces, archive records, or recovery teams.
 
 Approved roles include artifact-influence evaluation, memetic contamination treatment support, cognitive recovery
@@ -70,8 +62,7 @@ patient's condition involves active anomalous influence.
 
 ## ORIGIN AND DEVELOPMENT
 
-F-6 developed from the complex's recognition that containment work has medical consequences. Redwood Veil
-personnel
+F-6 developed from the complex's recognition that containment work has medical consequences. Redwood Veil personnel
 handle, guard, study, and keep material that is unsafe by nature. As the complex's
 holdings expanded to include
 objects that act on the mind, the Medical Division needed secure clinical spaces for
@@ -93,11 +84,9 @@ system fails if they are not cared for.
 
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
-A standard AIIS unit is a secure patient room with medical-grade isolation, atmospheric separation,
-observation
+A standard AIIS unit is a secure patient room with medical-grade isolation, atmospheric separation, observation
 architecture, exposure-limited treatment controls, gated access, clinical monitoring, and a documentation channel that
-respects confidentiality while preserving operational knowledge. The suite can scale from routine isolation to
-full
+respects confidentiality while preserving operational knowledge. The suite can scale from routine isolation to full
 ward containment if the patient's condition becomes active or unpredictable.
 
 Known components include:
@@ -143,8 +132,7 @@ Isolation duration, Ward capacity, Atmospheric exchange rate. Each is filed unde
 
 The patient remains a member of personnel under medical care unless assessment proves a
 different status is
-required. The suite protects the patient from further exposure and the working population from
-influence
+required. The suite protects the patient from further exposure and the working population from influence
 that may be spreading through the patient.
 
 ## INTERFACE AND OPERATING ENVELOPE
@@ -195,24 +183,18 @@ Emergency: a containment escalation alarm moves the suite to ward containment, a
 decision
 stays with the Chief Medical Officer throughout.
 
-Before admission, Medical receives an exposure report from Containment, Research, Security, Recovery, or Archive.
-The
+Before admission, Medical receives an exposure report from Containment, Research, Security, Recovery, or Archive. The
 Chief Medical Officer or delegated clinician determines whether isolation is required. The patient's restriction
-status, known artifact contact, symptoms, and consent condition are recorded. Security supports entry only
-to protect
+status, known artifact contact, symptoms, and consent condition are recorded. Security supports entry only to protect
 care, not to control the clinical decision.
 
 During isolation, medical staff monitor physical condition, cognition, memory continuity, compulsion, speech patterns,
-emotional pressure, and any sign that the influence is interacting with the room. Treatment
-remains exposure-limited.
-The patient is not interrogated as a suspect unless separate authority exists. Research may
-receive clinical findings,
+emotional pressure, and any sign that the influence is interacting with the room. Treatment remains exposure-limited.
+The patient is not interrogated as a suspect unless separate authority exists. Research may receive clinical findings,
 but research questions do not override care.
 
-After evaluation, Medical determines whether the patient may return to duty, requires extended care,
-needs restricted
-assignment, or must be escalated to containment review. Records balance confidentiality with the operational
-knowledge
+After evaluation, Medical determines whether the patient may return to duty, requires extended care, needs restricted
+assignment, or must be escalated to containment review. Records balance confidentiality with the operational knowledge
 the Facility requires.
 
 ---
@@ -230,8 +212,7 @@ the Facility requires.
 
 No calendar interval is recorded; the suite is verified per admission, so interval NOT
 MEASURED. Treatment
-supplies are the consumables. The confidentiality balance review is why clinical detail is separated
-from
+supplies are the consumables. The confidentiality balance review is why clinical detail is separated from
 wider circulation rather than merged into one record.
 
 ## FAULT ISOLATION
@@ -247,8 +228,7 @@ wider circulation rather than merged into one record.
 
 ## KNOWN LIMITS
 
-AIIS cannot guarantee that an influence remains inside the patient. Some effects spread through
-speech, diagnosis,
+AIIS cannot guarantee that an influence remains inside the patient. Some effects spread through speech, diagnosis,
 written notes, medical instruments, sympathy, memory, or the act of trying to help. The
 suite also cannot remove moral
 responsibility from staff: isolation can be clinically necessary and still frightening to the person
@@ -256,8 +236,7 @@ inside it.
 
 Known failure modes include isolation breach, exposure through notes, false recovery, staff overidentification,
 patient distrust, security overreach, research pressure, confidentiality failure, delayed escalation, and treating the
-patient as an anomaly before the evaluation supports it. AIIS doctrine specifically warns against
-converting care into
+patient as an anomaly before the evaluation supports it. AIIS doctrine specifically warns against converting care into
 custody by habit.
 
 ---
@@ -267,18 +246,15 @@ custody by habit.
 ### AIIS-Early Ward Expansion
 F-6 grew from a small infirmary into a full ward level as site operations
 expanded. Isolation capability became
-necessary after cognitive and memetic effects joined physical trauma as routine consequences of Redwood
-Veil work.
+necessary after cognitive and memetic effects joined physical trauma as routine consequences of Redwood Veil work.
 
 ### AIIS-Security Boundary Review
-A clinical event required Security support inside the suite corridor. Medical review clarified that
-Security enforces
+A clinical event required Security support inside the suite corridor. Medical review clarified that Security enforces
 safe access but does not command treatment. The patient's care remains under the Chief
 Medical Officer.
 
 ### AIIS-Confidentiality Balance Review
-Archive and Medical revised record handling after an exposure case required operational knowledge without
-general
+Archive and Medical revised record handling after an exposure case required operational knowledge without general
 disclosure of the patient's condition. Current AIIS records separate care notes, duty-risk notes, and
 containment-relevant observations.
 
@@ -287,8 +263,7 @@ containment-relevant observations.
 ## DIVISION USE
 
 Medical Division owns admission, care, treatment, and discharge authority. Containment provides exposure history and
-restriction context. Research helps characterize unusual cognitive effects but does not direct care. Security
-supports
+restriction context. Research helps characterize unusual cognitive effects but does not direct care. Security supports
 controlled access and breach response. Archive preserves medical records under confidentiality doctrine while
 maintaining the operational evidence required by the Facility.
 

@@ -34,27 +34,20 @@
 | AUTHORITY | Intelligence Division, Recovery Division, and Central Archive |
 
 #### Archive Note
-Missing 404 Watch Tower is the active filing for an outside observation and recovery-support
-network that tracks
-persons, places, structures, addresses, records, and distress signals after ordinary systems return absence. The
-group
-is not filed as an A.C.T unit, search-and-rescue auxiliary, internet collective, or single watch
-station. It is a real
+Missing 404 Watch Tower is the active filing for an outside observation and recovery-support network that tracks
+persons, places, structures, addresses, records, and distress signals after ordinary systems return absence. The group
+is not filed as an A.C.T unit, search-and-rescue auxiliary, internet collective, or single watch station. It is a real
 external organization with repeated contact history, specialized personnel, physical holdings, record discipline, and
-an operating belief that disappearance remains a living condition until the missing subject is
-recovered, confirmed
+an operating belief that disappearance remains a living condition until the missing subject is recovered, confirmed
 dead, or given a durable name inside an archive that cannot be quietly erased.
 
 The phrase **Missing 404** is not treated as casual numerical styling. A.C.T uses it
 for cases where two kinds of
 disappearance overlap: a body, location, team, object, community, or signal is missing in the
 field, and the
-supporting record returns a not-found condition in civic, digital, legal, cartographic, or internal lookup
-systems.
-Missing 404 Watch Tower matters because it watches the gap between physical disappearance and
-record disappearance. In
-ordinary missing-person work, search crews lose time against terrain, weather, distance, panic, and bad
-reports. In
+supporting record returns a not-found condition in civic, digital, legal, cartographic, or internal lookup systems.
+Missing 404 Watch Tower matters because it watches the gap between physical disappearance and record disappearance. In
+ordinary missing-person work, search crews lose time against terrain, weather, distance, panic, and bad reports. In
 Missing 404 cases, the address, file, call log, route, photograph, or name may also
 begin to fail.
 
@@ -64,24 +57,19 @@ begin to fail.
 
 ### Group Function
 
-Missing 404 Watch Tower functions as a transnational disappearance-observation institution. Its core work is
-not
+Missing 404 Watch Tower functions as a transnational disappearance-observation institution. Its core work is not
 containment by force. It preserves bearings, last-known proofs, dead-address records, partial signals, witness
-fragments, route contradictions, and names at risk of being removed from active memory or
-formal databases. The group
+fragments, route contradictions, and names at risk of being removed from active memory or formal databases. The group
 becomes relevant when a missing person is still being called from a place that
 no longer exists on maps, when a
-vanished building continues to generate utility bills, when a rescue team sends delayed radio
-traffic after its
+vanished building continues to generate utility bills, when a rescue team sends delayed radio traffic after its
 deployment record has been deleted, or when an online archive shows that a page,
 photograph, obituary, case file, or
 emergency request never existed.
 
-The group does not claim that every disappearance is anomalous. Its field language separates
-ordinary loss, criminal
+The group does not claim that every disappearance is anomalous. Its field language separates ordinary loss, criminal
 disappearance, voluntary disappearance, environmental death, bureaucratic failure, and Missing 404 patterning. A.C.T
-values this restraint. Missing 404 Watch Tower has repeatedly refused to attach its mark
-to normal tragedies unless
+values this restraint. Missing 404 Watch Tower has repeatedly refused to attach its mark to normal tragedies unless
 the record-failure layer appears with the physical loss.
 
 ### Public Presence and Concealment
@@ -89,14 +77,11 @@ the record-failure layer appears with the physical loss.
 Missing 404 Watch Tower has no single public office. Its traces appear as weathered
 lookout structures, private
 missing-person hotlines, old radio clubs, search volunteer foundations, dead-link recovery notices, archive stamps,
-memorial bells, wilderness survey charities, and locked rooms inside libraries or municipal record stores.
-Civilians
-who encounter the group usually believe they have spoken with search volunteers, grief archivists,
-map historians,
+memorial bells, wilderness survey charities, and locked rooms inside libraries or municipal record stores. Civilians
+who encounter the group usually believe they have spoken with search volunteers, grief archivists, map historians,
 rural radio operators, or private investigators.
 
-A.C.T has confirmed that at least some public masks are deliberately harmless. The group
-prefers to be underestimated.
+A.C.T has confirmed that at least some public masks are deliberately harmless. The group prefers to be underestimated.
 A tower member will repair a trail marker, annotate a family map, preserve an
 answering-machine tape, or ring a town
 bell without explaining that the act has containment value. They hide by doing work
@@ -111,8 +96,7 @@ that looks human enough to ignore.
 Missing 404 Watch Tower uses rotating tower offices instead of a single known director.
 Recovered correspondence
 refers to Bell Captain, Dead-Address Warden, North Window Clerk, South Listening Sister, Null-Coordinate Cartographer,
-and Lantern Witness. A.C.T has not confirmed whether these are ranks, duties, aliases, inherited
-roles, or station
+and Lantern Witness. A.C.T has not confirmed whether these are ranks, duties, aliases, inherited roles, or station
 names assigned to whoever holds the post.
 
 No reliable central leadership identity is available. This is not assessed as proof of
@@ -126,8 +110,7 @@ A.C.T assessment divides the organization into several functional layers:
 
 - tower watchers who monitor visual, signal, and route anomalies;
 - dead-address clerks who preserve locations after public systems fail;
- absence cartographers who compare old maps, emergency routes, missing trail records, and impossible
- coordinates;
+ absence cartographers who compare old maps, emergency routes, missing trail records, and impossible coordinates;
 - signal keepers who preserve radio, phone, web, and emergency-call traces;
 - field relays who guide recovery crews without always entering the hazard area;
 - witness continuance officers who make sure missing persons remain legally and socially named;
@@ -143,8 +126,7 @@ specialized work, role continuity, training, and doctrine.
 
 Membership appears to draw from former search-and-rescue workers, archivists, grieving families, radio technicians,
 wilderness guides, cartographers, librarians, funeral record staff, municipal clerks, missing-person advocates, and
-anomaly survivors. Recruitment is usually quiet. A person who preserves a name when every
-official system forgets it
+anomaly survivors. Recruitment is usually quiet. A person who preserves a name when every official system forgets it
 may later receive a tower card, bell mark, or dead-address request.
 
 Missing 404 Watch Tower is not assessed as a cult. It has ritual behavior
@@ -165,20 +147,16 @@ The statement most often recovered from tower material is:
 Not found is not gone.
 ```
 
-A.C.T treats this as the group's central operating belief. Missing 404 Watch Tower rejects
-the idea that a failed
-address, missing file, deleted photograph, broken link, or unreturned search proves an end. Its
-members consider
+A.C.T treats this as the group's central operating belief. Missing 404 Watch Tower rejects the idea that a failed
+address, missing file, deleted photograph, broken link, or unreturned search proves an end. Its members consider
 absence a condition requiring watch, not a permission to forget.
 
 ### Assessed Objective
 
-A.C.T assesses that Missing 404 Watch Tower seeks to prevent double disappearance. The first
-disappearance is
+A.C.T assesses that Missing 404 Watch Tower seeks to prevent double disappearance. The first disappearance is
 physical: a person, place, or object is lost. The second disappearance is archival: records
 fail, names are removed,
-coordinates contradict, links die, evidence decays, and institutions stop looking. The Tower's work keeps
-the second
+coordinates contradict, links die, evidence decays, and institutions stop looking. The Tower's work keeps the second
 disappearance from completing itself.
 
 The group is not trying to replace A.C.T. It does not have a broad
@@ -187,11 +165,9 @@ every anomaly. It wants watch continuity over missing cases that ordinary system
 
 ### Anomalous Capability Assessment
 
-Missing 404 Watch Tower is assigned **Handler** capability. Confirmed evidence shows it handles anomalous
-information,
+Missing 404 Watch Tower is assigned **Handler** capability. Confirmed evidence shows it handles anomalous information,
 missing-location markers, dead-link archives, route signs that point toward nonstandard places, and distress signals
-that behave outside ordinary communication limits. A.C.T has not confirmed that the group creates
-these anomalies. It
+that behave outside ordinary communication limits. A.C.T has not confirmed that the group creates these anomalies. It
 handles, preserves, interprets, and sometimes stabilizes them.
 
 Potential capabilities under review include:
@@ -208,14 +184,11 @@ None of these are upgraded to Engineering or Structural capability without stron
 
 ### Secrecy and Civilian Exposure
 
-The group is **Leaking** because its work naturally touches families, volunteers, rescue workers, clerks,
-and local
+The group is **Leaking** because its work naturally touches families, volunteers, rescue workers, clerks, and local
 witnesses. Missing 404 Watch Tower cannot function if every human memory of a missing
 person is erased. It often
-preserves exactly the kind of marginal records A.C.T normalcy doctrine may try to close:
-old posters, family
-recordings, broken websites, unofficial trail maps, local songs, memorial plaques, and handwritten lists of
-the
+preserves exactly the kind of marginal records A.C.T normalcy doctrine may try to close: old posters, family
+recordings, broken websites, unofficial trail maps, local songs, memorial plaques, and handwritten lists of the
 unfound.
 
 This leakage is usually not malicious. The group does not broadly publish A.C.T files.
@@ -228,18 +201,15 @@ survival method keeps fragments alive.
 
 ### Operational Regions
 
-Missing 404 Watch Tower operates wherever physical and archival disappearance overlap. Confirmed or strongly
-assessed
+Missing 404 Watch Tower operates wherever physical and archival disappearance overlap. Confirmed or strongly assessed
 operating spaces include wilderness disappearance clusters, border roads, abandoned facilities, vanished towns, erased
 websites, dead digital archives, former disaster zones, closed hospitals, rural radio corridors, maritime distress
 routes, and old municipal record chains.
 
-The assigned Reach Class is **Transnational** because records connected to the group show repeated
-patterns across
+The assigned Reach Class is **Transnational** because records connected to the group show repeated patterns across
 national boundaries, but A.C.T has not confirmed a single global command. The Tower may
 be a federation of stations,
-an inherited network of watcher families, a compact between recovery groups, or a distributed
-archive that gives
+an inherited network of watcher families, a compact between recovery groups, or a distributed archive that gives
 orders through absence marks.
 
 ### Known Assets and Holdings
@@ -259,27 +229,20 @@ Known or assessed assets include:
 - locked emergency phones that receive calls from removed locations;
 - field observers trained to help without contaminating evidence.
 
-The group prefers analog redundancy. This is not nostalgia. A.C.T assessment indicates that paper,
-bells, fixed sight
-lines, carved signs, and spoken names survive some Missing 404 effects better than networked
-systems.
+The group prefers analog redundancy. This is not nostalgia. A.C.T assessment indicates that paper, bells, fixed sight
+lines, carved signs, and spoken names survive some Missing 404 effects better than networked systems.
 
 ### Operating Method
 
-A typical Tower intervention begins when a case shows double-loss indicators: a person goes
-missing and at least one
-record path fails unnaturally. The Tower preserves the name, copies the last route, marks
-the place where records
-disagree, confirms whether witnesses remember the same address, and assigns a watch interval. If
-a signal appears, the
-Tower records the exact time, weather, medium, and response attempt. If A.C.T is already
-involved, a liaison may
+A typical Tower intervention begins when a case shows double-loss indicators: a person goes missing and at least one
+record path fails unnaturally. The Tower preserves the name, copies the last route, marks the place where records
+disagree, confirms whether witnesses remember the same address, and assigns a watch interval. If a signal appears, the
+Tower records the exact time, weather, medium, and response attempt. If A.C.T is already involved, a liaison may
 deliver a dead-address notice rather than a full explanation.
 
 The group does not always enter the hazard. It often watches, guides, documents, and
 keeps the missing subject from
-becoming administratively nonexistent. When the Tower directly assists A.C.T, its most useful product is
-not manpower
+becoming administratively nonexistent. When the Tower directly assists A.C.T, its most useful product is not manpower
 but continuance: one more valid name, one more route that has not been overwritten,
 one more copy of a file that
 should not have survived, and one more witness who knows the missing person was
@@ -291,37 +254,28 @@ real.
 
 ### Contact History
 
-A.C.T contact with Missing 404 Watch Tower appears to have developed through recurring dead-address
-incidents rather
-than a single diplomatic introduction. Early notices were mistaken for civilian tips, hoaxes, private
-investigator
+A.C.T contact with Missing 404 Watch Tower appears to have developed through recurring dead-address incidents rather
+than a single diplomatic introduction. Early notices were mistaken for civilian tips, hoaxes, private investigator
 material, or grief-driven amateur research. Intelligence Division opened a consolidated pattern review after separate
 Sites received similarly formatted notices for unrelated missing-person and vanished-location cases.
 
-The current designation was assigned after Central Archive confirmed that the phrase **Missing 404
-Watch Tower**
-appeared across separate physical media, including a radio transcript, a printed dead-link notice, a
-route map, and a
-bell ledger extract. The shared name, stable formatting, role titles, and consistent response boundaries
-established
+The current designation was assigned after Central Archive confirmed that the phrase **Missing 404 Watch Tower**
+appeared across separate physical media, including a radio transcript, a printed dead-link notice, a route map, and a
+bell ledger extract. The shared name, stable formatting, role titles, and consistent response boundaries established
 the group as an outside organization.
 
 ### Current Relationship
 
-The current relationship is **WORK**. Missing 404 Watch Tower can cooperate with A.C.T and
-has provided useful records
-during disappearance cases. A.C.T does not classify the group as Positive because its first
-loyalty is not A.C.T or
+The current relationship is **WORK**. Missing 404 Watch Tower can cooperate with A.C.T and has provided useful records
+during disappearance cases. A.C.T does not classify the group as Positive because its first loyalty is not A.C.T or
 general rescue at any cost; it is continuance of the missing condition. The Tower
 may refuse to help recover a person
 if it believes the recovery team will erase the person's name, reclassify the survivor
 as property, or destroy the
 only record that kept the case alive.
 
-A.C.T does not classify the group as Neutral because repeated practical cooperation exists. A.C.T
-does not classify
-the group as Negative because the group does not normally attack containment or deliberately
-endanger civilians. The
+A.C.T does not classify the group as Neutral because repeated practical cooperation exists. A.C.T does not classify
+the group as Negative because the group does not normally attack containment or deliberately endanger civilians. The
 Tower occupies the **WORK** relationship: useful, separate, limited, and not owned.
 
 ---
@@ -332,10 +286,8 @@ Tower occupies the **WORK** relationship: useful, separate, limited, and not own
 
 Primary jurisdiction rests with Intelligence Division and Recovery Division under Central Archive oversight. Site
 jurisdiction transfers according to the active case's physical location, but record custody remains centrally
-monitored because Missing 404 cases can lose local filing continuity. Civil Covert Division is
-attached when families,
-public rescue agencies, municipal clerks, or media records require normalcy handling. Subject Care Division
-is
+monitored because Missing 404 cases can lose local filing continuity. Civil Covert Division is attached when families,
+public rescue agencies, municipal clerks, or media records require normalcy handling. Subject Care Division is
 attached when a recovered person has suffered identity loss, memory discontinuity, or legal nonexistence.
 
 ### Posture Implementation
@@ -343,13 +295,10 @@ attached when a recovered person has suffered identity loss, memory discontinuit
 A.C.T posture is **COOPERATED / MONITOR / HELP**. Cooperation is authorized for last-known-location verification,
 dead-link preservation, missing-person continuance, signal comparison, and route reconstruction. Monitoring is
 required because Tower archives may contain A.C.T-sensitive material, including vanished Site references, sealed
-witness names, and deleted incident fragments. Help is authorized when Tower personnel become trapped
-in a
-missing-location event or when their continuance ledgers are the only remaining proof that victims
-existed.
+witness names, and deleted incident fragments. Help is authorized when Tower personnel become trapped in a
+missing-location event or when their continuance ledgers are the only remaining proof that victims existed.
 
-A.C.T field teams may accept Tower notices as actionable leads only after division verification.
-A Tower bell mark is
+A.C.T field teams may accept Tower notices as actionable leads only after division verification. A Tower bell mark is
 not a substitute for hazard assessment, witness interview, or command authorization.
 
 ### Response Limits and Red Lines
@@ -357,14 +306,11 @@ not a substitute for hazard assessment, witness interview, or command authorizat
 A.C.T will not permit Missing 404 Watch Tower to remove contained subjects from custody
 under the claim that
 containment equals disappearance. A.C.T will not permit publication of active Site coordinates, protected witness
-identities, or sealed anomaly methods. A.C.T will not destroy Tower records solely because they
-are inconvenient to
+identities, or sealed anomaly methods. A.C.T will not destroy Tower records solely because they are inconvenient to
 normalcy if those records are the last proof of a missing civilian's existence.
 
-Escalation is required if Tower personnel knowingly guide civilians into hazardous absent locations, conceal
-a
-recovered subject from medical triage, sell dead-address data to market GOIs, or preserve an
-active cognitohazard in a
+Escalation is required if Tower personnel knowingly guide civilians into hazardous absent locations, conceal a
+recovered subject from medical triage, sell dead-address data to market GOIs, or preserve an active cognitohazard in a
 public memorial format.
 
 ---
@@ -395,12 +341,9 @@ dog refused the treeline.
 Not found is not gone.
 ```
 
-A.C.T logged the notice as actionable after independent confirmation that the demolished school telephone
-line
-received an inbound call with no active service account. Recovery Division recovered two surviving
-responders and one
-body. The fourth responder remains listed under continuance review. A.C.T's first digital recovery report
-corrupted
+A.C.T logged the notice as actionable after independent confirmation that the demolished school telephone line
+received an inbound call with no active service account. Recovery Division recovered two surviving responders and one
+body. The fourth responder remains listed under continuance review. A.C.T's first digital recovery report corrupted
 twice before Central Archive ordered analog duplication.
 
 ```text
@@ -419,31 +362,23 @@ verified death. Request granted with Level 4 restriction.
 
 ### Confirmed Operational Facts
 
-Missing 404 Watch Tower is an outside organization with repeated structured contact across separate
-missing-person,
-dead-address, and vanished-record cases. The group uses the phrase **Not found is not gone**
-as an operating rule
+Missing 404 Watch Tower is an outside organization with repeated structured contact across separate missing-person,
+dead-address, and vanished-record cases. The group uses the phrase **Not found is not gone** as an operating rule
 across multiple recovered materials. The group has provided actionable location, signal, or record-preservation
 assistance in more than one A.C.T recovery case. The group is not an A.C.T
 internal division and does not accept A.C.T
-command authority. The group preserves names and records that may otherwise disappear from civic,
-digital, or internal
+command authority. The group preserves names and records that may otherwise disappear from civic, digital, or internal
 lookup systems.
 
 ### Active Intelligence Assessment
 
-A.C.T assesses Missing 404 Watch Tower as a specialized WORK-relationship GOI created by the
-practical need to watch
-disappearance after ordinary systems stop seeing it. Its institutional strength is narrow but consequential.
-It does
-not compete with A.C.T across all containment work; it is strongest where missing persons,
-missing places, broken
+A.C.T assesses Missing 404 Watch Tower as a specialized WORK-relationship GOI created by the practical need to watch
+disappearance after ordinary systems stop seeing it. Its institutional strength is narrow but consequential. It does
+not compete with A.C.T across all containment work; it is strongest where missing persons, missing places, broken
 records, and failed coordinates intersect.
 
-The group should not be over-expanded into a general surveillance faction. Its identity depends
-on absence,
-continuance, dead addresses, missing names, and watched gaps. If used properly, it gives A.C.T
-a meaningful outside
+The group should not be over-expanded into a general surveillance faction. Its identity depends on absence,
+continuance, dead addresses, missing names, and watched gaps. If used properly, it gives A.C.T a meaningful outside
 partner for cases where normal search, archive, and map logic fail.
 
 ### Persistent Questions
@@ -472,10 +407,8 @@ partner for cases where normal search, archive, and map logic fail.
 ### Intelligence Confidence
 
 Moderate. The group has produced consistent, useful material and has demonstrated organization beyond isolated
-witnesses. Confidence is limited by the same condition that makes the group valuable: its
-strongest evidence often
-comes from cases where addresses, files, names, and locations partially fail. Confidence may rise
-if A.C.T gains
+witnesses. Confidence is limited by the same condition that makes the group valuable: its strongest evidence often
+comes from cases where addresses, files, names, and locations partially fail. Confidence may rise if A.C.T gains
 access to a full tower ledger, verifies a leadership office, or completes a joint
 recovery inside a currently absent
 site.
@@ -489,10 +422,8 @@ site.
 Missing 404 Watch Tower is not itself filed as an anomaly at this time.
 Dual filing remains under review because some
 tower assets may qualify as anomalous objects or locations, including dead-address ledgers, rescue bells,
-null-coordinate maps, and phones receiving calls from removed locations. Individual cases must receive their
-own
-anomaly, incident, missing-person, or site records as needed. The GOI record describes the outside
-organization, not
+null-coordinate maps, and phones receiving calls from removed locations. Individual cases must receive their own
+anomaly, incident, missing-person, or site records as needed. The GOI record describes the outside organization, not
 every disappearance it observes.
 
 ### Related A.C.T Records

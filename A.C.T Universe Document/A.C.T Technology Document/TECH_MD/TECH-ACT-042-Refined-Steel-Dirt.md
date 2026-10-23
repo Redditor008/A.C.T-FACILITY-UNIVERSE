@@ -21,16 +21,12 @@
 | AUTHORITY | Materials Custody, Hazardous Materials Desk, Engineering Division, and Central Archive |
 
 #### Archive Note
-Refined Steel-Dirt is the forty-second main A.C.T technology expanded into an individual record. The
-Master Catalog
+Refined Steel-Dirt is the forty-second main A.C.T technology expanded into an individual record. The Master Catalog
 defines it as a stabilized byproduct of Blue Dirt with the tensile strength of
 steel and the mass of topsoil. The
-visual guide describes vivid blue powder stored in pressurized hoppers with a hydration-trigger valve
-used to spray
-material for instantaneous steel-grade breach sealing. Dark World Door files identify raw Blue Dirt
-as vivid blue
-particulate matter that hardens into high-grade steel within four seconds after contact with water,
-then emits toxic
+visual guide describes vivid blue powder stored in pressurized hoppers with a hydration-trigger valve used to spray
+material for instantaneous steel-grade breach sealing. Dark World Door files identify raw Blue Dirt as vivid blue
+particulate matter that hardens into high-grade steel within four seconds after contact with water, then emits toxic
 fumes for more than twelve months. The Blue Dirt reactivity dossier names that event
 a Steel-Bloom and records the
 dangerous Blue Haze released afterward.
@@ -50,20 +46,14 @@ DO NOT ADD WATER UNTIL EVERYONE HAS AGREED WHERE THE NEW WALL WILL BE.
 
 ## FUNCTION SUMMARY
 
-Refined Steel-Dirt is an A.C.T-controlled derivative of Dark World Blue Dirt prepared for rapid
-breach sealing,
+Refined Steel-Dirt is an A.C.T-controlled derivative of Dark World Blue Dirt prepared for rapid breach sealing,
 emergency reinforcement, temporary barrier formation, and steel-grade patching. Raw Blue Dirt reacts violently with
-moisture, hardening into dense non-terrestrial steel while producing long-term toxic Blue Haze. RSD attempts
-to
-preserve the useful hardening behavior while reducing uncontrolled bloom, toxic exposure, and permanent site
-loss.
+moisture, hardening into dense non-terrestrial steel while producing long-term toxic Blue Haze. RSD attempts to
+preserve the useful hardening behavior while reducing uncontrolled bloom, toxic exposure, and permanent site loss.
 
-The material remains hazardous. It is stored dry in pressurized hoppers and activated through
-a hydration-trigger
-valve only under controlled deployment. Once triggered, the powder forms a steel-grade mass quickly
-enough to seal
-cracks, impact holes, claw breaches, and certain structural gaps before a subject or contaminant
-can pass through. The
+The material remains hazardous. It is stored dry in pressurized hoppers and activated through a hydration-trigger
+valve only under controlled deployment. Once triggered, the powder forms a steel-grade mass quickly enough to seal
+cracks, impact holes, claw breaches, and certain structural gaps before a subject or contaminant can pass through. The
 speed that makes RSD useful also makes it unforgiving.
 
 Approved roles include:
@@ -80,22 +70,16 @@ Approved roles include:
 
 ## ORIGIN AND REFINEMENT
 
-RSD originates from Blue Dirt collected through AFD-PL-932 Dark World operations. In the Dark
-World, Blue Dirt covers
-the ground as vivid particulate matter. Water contact causes immediate blue luminescence, rapid heat
-rise, steel-like
-solidification within four seconds, and venting of Blue Haze from micro-pores. One test subject's
-fingers adhered to
-the block during bloom. Thorne's analysis found the bloomed material carried density comparable to
-Abyssal Basalt
+RSD originates from Blue Dirt collected through AFD-PL-932 Dark World operations. In the Dark World, Blue Dirt covers
+the ground as vivid particulate matter. Water contact causes immediate blue luminescence, rapid heat rise, steel-like
+solidification within four seconds, and venting of Blue Haze from micro-pores. One test subject's fingers adhered to
+the block during bloom. Thorne's analysis found the bloomed material carried density comparable to Abyssal Basalt
 while remaining dramatically lighter.
 
 The original material was too dangerous for occupied facilities. A spill and a drop
 of sweat can begin a Steel-Bloom.
-The resulting haze can poison a zone for approximately twelve months. Refinement work therefore
-focuses on controlled
-grain size, delayed hydration acceptance, outgassing reduction, and hopper-based deployment. The goal is not
-to make
+The resulting haze can poison a zone for approximately twelve months. Refinement work therefore focuses on controlled
+grain size, delayed hydration acceptance, outgassing reduction, and hopper-based deployment. The goal is not to make
 Blue Dirt safe. The goal is to make a known danger obedient for the
 few seconds when a wall is needed more than a
 clean floor.
@@ -154,8 +138,7 @@ Hardening time refined, Hopper pressure range, Bloom density. Those 3 gaps are c
 | Hopper pressure range | NOT MEASURED |
 | Bloom density | NOT MEASURED |
 
-Refinement reduces uncontrolled bloom and toxic exposure; it does not erase them. The material
-can create a
+Refinement reduces uncontrolled bloom and toxic exposure; it does not erase them. The material can create a
 wall faster than a team can correct a mistake, so it is not used
 in uncertain rooms, crowded corridors, or
 patient-care areas.
@@ -211,12 +194,10 @@ than as a failed seal.
 
 Before deployment, Engineering defines the breach shape, direction of expected pressure, personnel evacuation route,
 and acceptable permanence. Hazardous Materials confirms humidity, ventilation, respiratory protection, and Blue Haze
-capture readiness. Site Command verifies that no living subject, patient, cooperative entity, or trapped
-personnel
+capture readiness. Site Command verifies that no living subject, patient, cooperative entity, or trapped personnel
 will be sealed behind the bloom without explicit rescue analysis.
 
-During deployment, the hopper is aimed, locked, and armed dry. Hydration trigger occurs only
-when all staff are
+During deployment, the hopper is aimed, locked, and armed dry. Hydration trigger occurs only when all staff are
 outside the spray path and command confirms the new barrier location. Operators do not
 adjust the stream after water
 enters the mix. If the material begins blooming early, the area is evacuated and
@@ -259,16 +240,13 @@ after a spray failure.
 
 RSD can create a wall faster than a team can correct a mistake. It
 is unsuitable for uncertain rooms, crowded
-corridors, living tissue contact, patient-care areas, or any breach where trapped people may still
-be moving.
+corridors, living tissue contact, patient-care areas, or any breach where trapped people may still be moving.
 Refinement reduces risk but does not erase Blue Haze danger. The material may still
 outgas, adhere to skin,
 incorporate tools, and turn a temporary patch into a long-term contaminated obstacle.
 
-Known failure modes include premature bloom, hopper humidity breach, nozzle clogging, toxic fume release,
-false dry
-reading, overwide spray pattern, edge adhesion to unintended surfaces, and staff forgetting that rapid
-sealing can
+Known failure modes include premature bloom, hopper humidity breach, nozzle clogging, toxic fume release, false dry
+reading, overwide spray pattern, edge adhesion to unintended surfaces, and staff forgetting that rapid sealing can
 become rapid entombment.
 
 ---
@@ -276,20 +254,17 @@ become rapid entombment.
 ## FAILURE HISTORY
 
 ### RSD-2024 Raw Steel-Bloom Baseline
-The Blue Dirt reactivity trial confirmed four-second hardening, heat spike, finger adhesion, and Blue
-Haze release.
+The Blue Dirt reactivity trial confirmed four-second hardening, heat spike, finger adhesion, and Blue Haze release.
 This trial remains the baseline warning for all RSD training: the source material does
 not wait for hesitation.
 
 ### RSD-2025 Hopper Humidity Drill
-A training hopper intentionally exposed to elevated humidity produced partial clumping near the valve.
-The powder did
+A training hopper intentionally exposed to elevated humidity produced partial clumping near the valve. The powder did
 not bloom, but the spray pattern failed. Hopper humidity alarms are now tested before
 every field load.
 
 ### RSD-2026 Over-Seal Simulation
-A breach simulation sealed the visible crack while blocking the only safe retrieval path
-for a maintenance drone
+A breach simulation sealed the visible crack while blocking the only safe retrieval path for a maintenance drone
 carrying evidence. The scenario led to a new rule: seal plans must preserve recovery
 routes unless site survival
 requires immediate closure.
@@ -300,8 +275,7 @@ requires immediate closure.
 
 Materials Custody tracks batch origin, hopper assignment, dust loss, and refinement history. Hazardous Materials
 controls storage, fume response, and Steel-Zone declaration. Engineering designs breach-seal plans. Dark World Survey
-interprets raw Blue Dirt behavior. Biological Containment may request RSD only when sealing non-living
-surfaces away
+interprets raw Blue Dirt behavior. Biological Containment may request RSD only when sealing non-living surfaces away
 from subject bodies. Site Command approves live deployment.
 
 Standing reminder: if the powder touches water, the decision has already been made.

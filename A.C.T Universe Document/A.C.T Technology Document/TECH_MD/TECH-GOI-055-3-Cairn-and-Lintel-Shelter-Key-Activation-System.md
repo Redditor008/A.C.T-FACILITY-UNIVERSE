@@ -286,10 +286,9 @@ carrier, holds the retained statement, and reviews any procedure that would reas
 Engineering rules on forensic value and on any duplicate request.
 
 Civil Covert handles disclosure where a carrier is a protected civilian and manages any
-local authority question arising from a shelter kit. Medical attaches where a key governs
-a hospital route or a patient evacuation door. Central Archive holds the bagged evidence
-with its documentation. Command authorises escalation and holds no authority to order carrier removal
-over Subject Care review.
+local authority question arising from a shelter kit. Medical attaches where a key governs a hospital
+route or a patient evacuation door. Central Archive holds the bagged evidence with its documentation.
+Command authorises escalation and holds no authority to order carrier removal over Subject Care review.
 
 
 ---

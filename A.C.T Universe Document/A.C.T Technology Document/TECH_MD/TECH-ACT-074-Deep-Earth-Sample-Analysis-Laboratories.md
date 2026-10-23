@@ -22,8 +22,7 @@
 
 #### Archive Note
 Deep-Earth Sample Analysis Laboratories are the seventy-fourth main A.C.T technology expanded into an individual
-record. The F-4 Laboratory and Research Level dossier identifies deep-earth sample analysis laboratories as
-a primary
+record. The F-4 Laboratory and Research Level dossier identifies deep-earth sample analysis laboratories as a primary
 research system for material from Nusantara's geological and volcanic operations: samples from the island's
 foundation, volcanic material, and deep-earth material characterized under the relay's research doctrine. F-4 also
 coordinates with F-2 and F-1 when deep-earth interpretation or material falls under restricted review.
@@ -44,40 +43,32 @@ DO NOT CONFUSE A ROCK WITH WHAT IT HAS BEEN TOUCHING.
 ## FUNCTION SUMMARY
 
 Deep-Earth Sample Analysis Laboratories are controlled research suites for geological, volcanic, foundation,
-abyss-adjacent, and deep-origin material recovered or extracted by Nusantara Deep Relay. They allow A.C.T
-personnel to
+abyss-adjacent, and deep-origin material recovered or extracted by Nusantara Deep Relay. They allow A.C.T personnel to
 characterize composition, density, resonance behavior, thermal response, pressure history, contamination risk, and
 possible correlation with the relay's deep-earth observations.
 
 DESAL does not treat all stone, ash, glass, sediment, or mineral residue as inert.
 At Nusantara, geological matter can
-be ordinary background, anomalous material, evidence of movement below the facility, or a carrier
-of restricted
-correlation. The laboratories provide a route for study without prematurely moving a sample into
-ordinary research or
+be ordinary background, anomalous material, evidence of movement below the facility, or a carrier of restricted
+correlation. The laboratories provide a route for study without prematurely moving a sample into ordinary research or
 maximum restricted custody.
 
-Approved roles include foundation sample testing, volcanic material analysis, trench sediment review,
-pressure-affected mineral study, resonance comparison, abyss-linked screening, and sample records support for Seismic
-Analysis.
+Approved roles include foundation sample testing, volcanic material analysis,
+trench sediment review, pressure-affected mineral study, resonance comparison,
+abyss-linked screening, and sample records support for Seismic Analysis.
 
 ---
 
 ## ORIGIN AND DEVELOPMENT
 
-Nusantara's mandate spans the sea above and the structure below. Maritime recovery often returns
-biological material,
+Nusantara's mandate spans the sea above and the structure below. Maritime recovery often returns biological material,
 but the relay's geological operations return stone, sediment, ash, heat-altered minerals, bore residue, and
-pressure-marked samples from the island's foundation. Early review showed that these samples could not
-be processed
-like ordinary construction or survey material. Some carried unusual resonance. Some matched signal events.
-Some were
+pressure-marked samples from the island's foundation. Early review showed that these samples could not be processed
+like ordinary construction or survey material. Some carried unusual resonance. Some matched signal events. Some were
 ordinary, but important because they proved a frightening reading was not anomalous.
 
-DESAL developed to give F-4 a dedicated deep-earth study standard. The laboratories sit close
-enough to F-3, F-2, and
-F-1 to support containment, records, and sensor interpretation, but remain under Research command so
-study does not
+DESAL developed to give F-4 a dedicated deep-earth study standard. The laboratories sit close enough to F-3, F-2, and
+F-1 to support containment, records, and sensor interpretation, but remain under Research command so study does not
 become uncontrolled engineering or alarm response.
 
 ---
@@ -102,8 +93,7 @@ Known components include:
 - restricted sample safe;
 - sample chain-of-custody ledger.
 
-No sample is ground, heated, hydrated, pressurized, or sonically stimulated without a written study
-purpose.
+No sample is ground, heated, hydrated, pressurized, or sonically stimulated without a written study purpose.
 
 ---
 
@@ -130,10 +120,8 @@ Resonance resolution are not measured here. Those 3 gaps sit in OPEN QUESTIONS.
 | Thermal range | NOT MEASURED |
 | Resonance resolution | NOT MEASURED |
 
-Geological matter at the relay can be ordinary background, anomalous material, evidence of movement
-below
-the facility, or a carrier. False resonance can distort both research and seismic interpretation,
-which is
+Geological matter at the relay can be ordinary background, anomalous material, evidence of movement below
+the facility, or a carrier. False resonance can distort both research and seismic interpretation, which is
 why the equipment is isolated.
 
 ## INTERFACE AND OPERATING ENVELOPE
@@ -180,25 +168,19 @@ Geological analysis, Level 3 ordinary with Level 4 abyss-linked.
 
 Step-down: the sample returns to its cabinet or safe and the ledger closes. Emergency:
 a sample showing
-activation is isolated in the restricted safe and the study stops, because stimulation is
-what turns
+activation is isolated in the restricted safe and the study stops, because stimulation is what turns
 evidence into an event.
 
 Before analysis, the sample's recovery point, depth, temperature, pressure condition, collection tool, nearby sensor
-event, and handling history are entered into the ledger. Research assigns the study track.
-Seismic Analysis identifies
-whether comparison against live or historical signal data is authorized. Containment reviews whether the
-sample is
+event, and handling history are entered into the ledger. Research assigns the study track. Seismic Analysis identifies
+whether comparison against live or historical signal data is authorized. Containment reviews whether the sample is
 capable of action, emission, transformation, or environmental change.
 
-During analysis, staff proceed from passive observation to limited measurement before destructive testing. If
-a sample
-changes temperature, emits sound, alters mass, attracts water, rejects light, resonates with F-1 readings,
-or causes
+During analysis, staff proceed from passive observation to limited measurement before destructive testing. If a sample
+changes temperature, emits sound, alters mass, attracts water, rejects light, resonates with F-1 readings, or causes
 data restriction flags, the study pauses and the sample moves to sealed review.
 
-After analysis, ordinary results enter the seismic and geological comparison base. Sensitive results enter
-restricted
+After analysis, ordinary results enter the seismic and geological comparison base. Sensitive results enter restricted
 routing.
 
 ---
@@ -214,8 +196,7 @@ routing.
 | Mass table drift | recalibration | Engineering Division |
 | Sample activation | restricted safe isolation | Containment Division |
 
-No calendar interval is recorded; the laboratory is verified per study track, so interval
-NOT MEASURED.
+No calendar interval is recorded; the laboratory is verified per study track, so interval NOT MEASURED.
 Drill bits and capture filters are the consumables. The resonance misread notice is why
 isolation is
 confirmed before escalation rather than after.
@@ -241,38 +222,32 @@ foundation chip may become anomalous only when placed beside related signal reco
 
 Known failure modes include dust contamination, heat-triggered activation, resonance feedback, tool contamination,
 false ordinary classification, over-restriction, sample mislabeling, pressure-history loss, and accidental destruction
-of context by destructive testing. The laboratory must preserve the sample's story as carefully
-as its substance.
+of context by destructive testing. The laboratory must preserve the sample's story as carefully as its substance.
 
 ---
 
 ## FAILURE HISTORY
 
 ### DESAL-F-4 Formation
-The F-4 dossier identifies deep-earth sample analysis as one of the relay's central research
-tracks. DESAL was
+The F-4 dossier identifies deep-earth sample analysis as one of the relay's central research tracks. DESAL was
 formalized to separate controlled geological anomaly study from ordinary site engineering.
 
 ### DESAL-Resonance Misread Notice
-A foundation sample once appeared to match an abyss-linked vibration family before tool vibration
-was identified as
+A foundation sample once appeared to match an abyss-linked vibration family before tool vibration was identified as
 the source. Current procedure requires equipment isolation confirmation before restricted escalation.
 
 ### DESAL-Volcanic Material Review
-A volcanic sample cooled into stable form before analysis and was nearly downgraded. Later
-thermal reactivation showed
-that inactive temperature state did not equal non-anomalous state. Thermal history is now preserved
-as part of the
+A volcanic sample cooled into stable form before analysis and was nearly downgraded. Later thermal reactivation showed
+that inactive temperature state did not equal non-anomalous state. Thermal history is now preserved as part of the
 sample record.
 
 ---
 
 ## DIVISION USE
 
-Research operates DESAL and writes study results. Seismic Analysis compares samples to deep observation
-patterns.
-Engineering assists with tools and foundation context. Containment defines handling limits. Archive maintains sample
-ledgers and routing records.
+Research operates DESAL and writes study results. Seismic Analysis compares samples to deep observation patterns.
+Engineering assists with tools and foundation context. Containment defines
+handling limits. Archive maintains sample ledgers and routing records.
 
 DESAL doctrine holds that the relay studies the earth without assuming the earth is
 passive.

@@ -12,23 +12,17 @@
 ---
 
 ## Initial Record
-A giant pale flowering organism was recovered and documented after repeated incidents involving memory
-loss,
+A giant pale flowering organism was recovered and documented after repeated incidents involving memory loss,
 disorientation, missing time, and contradictory witness testimony. The organism stands approximately **3 meters in
-height** and resembles an oversized ornamental plant, though no ordinary botanical classification has been
-found to
+height** and resembles an oversized ornamental plant, though no ordinary botanical classification has been found to
 match it.
 
-Its petals are pale white-blue and semi-translucent, while vein-like **golden structures** run through the
-stem, leaf
-system, and petal roots. During blooming cycles, the organism emits a faint **cold golden
-mist**. This mist produces
+Its petals are pale white-blue and semi-translucent, while vein-like **golden structures** run through the stem, leaf
+system, and petal roots. During blooming cycles, the organism emits a faint **cold golden mist**. This mist produces
 mild cognitive disturbance in prolonged exposure, including confusion, recent memory instability, and delayed recall.
 
-The organism secretes a glowing **translucent golden sap**. This sap is the anomaly’s most
-dangerous property. When
-consumed, introduced into the bloodstream, or improperly inhaled in concentrated form, it causes immediate
-and often
+The organism secretes a glowing **translucent golden sap**. This sap is the anomaly’s most dangerous property. When
+consumed, introduced into the bloodstream, or improperly inhaled in concentrated form, it causes immediate and often
 irreversible memory erasure.
 
 ---
@@ -43,8 +37,7 @@ irreversible memory erasure.
 ---
 
 ## Early Conclusion
-This organism cannot be treated as a simple plant, poison, or hallucinogenic species. It
-is a **non-natural biological
+This organism cannot be treated as a simple plant, poison, or hallucinogenic species. It is a **non-natural biological
 anomaly** whose sap affects memory itself as if memory were a removable physical structure.
 
 The discovery team concluded that the organism was too valuable to destroy and too
@@ -63,6 +56,5 @@ dangerous to leave unmanaged.
 ---
 
 ## Historical Note
-UFD-NB-004 is believed to be one of the earliest anomalies successfully transformed into a
-controlled strategic asset.
+UFD-NB-004 is believed to be one of the earliest anomalies successfully transformed into a controlled strategic asset.
 Its later derivatives became the foundation of A.C.T amnestic compounds.

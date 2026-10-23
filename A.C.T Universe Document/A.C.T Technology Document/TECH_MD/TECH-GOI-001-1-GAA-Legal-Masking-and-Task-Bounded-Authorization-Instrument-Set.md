@@ -182,9 +182,8 @@ narrowed after it has been acted on.
 8. File the review outcome and any reduction applied.
 
 Step 6 is the step most often skipped under time pressure, and it is
-the only step that produces evidence later. An instrument that was never recorded cannot
-be shown to have expired, and an unrecorded authority is indistinguishable from a standing
-one.
+the only step that produces evidence later. An instrument that was never recorded cannot be
+shown to have expired, and an unrecorded authority is indistinguishable from a standing one.
 
 ---
 
@@ -198,9 +197,8 @@ one.
 | Annually | re-read the authority boundary against current practice |
 | On request | review any standing-authority proposal at Level 4 |
 
-Servicing here is review rather than maintenance. The annual re-reading exists because the boundary
-erodes through repeated small agreements rather than through any single decision, and no single
-review catches that pattern.
+Servicing here is review rather than maintenance. The annual re-reading exists because the boundary erodes through
+repeated small agreements rather than through any single decision, and no single review catches that pattern.
 
 ---
 
@@ -219,9 +217,8 @@ review catches that pattern.
 ## KNOWN LIMITS
 
 The set cannot make an operation lawful in a jurisdiction where the state has
-no lawful mechanism to offer. It cannot protect an operation whose visible footprint exceeds
-any ordinary explanation, and it cannot prevent a determined oversight body from noticing that
-an exemption exists.
+no lawful mechanism to offer. It cannot protect an operation whose visible footprint exceeds any ordinary
+explanation, and it cannot prevent a determined oversight body from noticing that an exemption exists.
 
 It also cannot be compelled. Cooperation is bounded and case by case, and a
 request that the GAA declines is declined. A.C.T records refusals rather than escalating them,

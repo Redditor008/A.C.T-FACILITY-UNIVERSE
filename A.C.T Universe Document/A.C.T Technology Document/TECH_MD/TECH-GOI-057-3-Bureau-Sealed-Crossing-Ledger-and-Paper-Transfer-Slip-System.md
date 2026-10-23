@@ -22,11 +22,11 @@
 
 #### Archive Note
 
-This record covers the paper and microfilm record system by which the Bureau of Unquiet Borders preserves transfer
-slips, crossing ledgers, and customs tags when a national database refuses the case. The dossier names sealed crossing
-ledgers kept on paper and microfilm, preserved paper transfer slips, and a customs tag fragment held by A.C.T whose
-third manifest dissolved after photocopying while the original ink persisted. A.C.T holds that fragment and no ledger
-volume.
+This record covers the paper and microfilm record system by which the Bureau of Unquiet Borders
+preserves transfer slips, crossing ledgers, and customs tags when a national database refuses
+the case. The dossier names sealed crossing ledgers kept on paper and microfilm, preserved paper
+transfer slips, and a customs tag fragment held by A.C.T whose third manifest dissolved after
+photocopying while the original ink persisted. A.C.T holds that fragment and no ledger volume.
 
 The system's technical claim is narrow and testable in principle: the paper line persists where the electronic record
 does not. The dossier supports this directly, recording that Bureau officers preserve paper transfer slips when
@@ -79,9 +79,9 @@ difference, and it is why an A.C.T digitisation request against a Bureau ledger 
 | Copy condition | Third manifest dissolved after photocopying |
 | Custody status | Under review; not released to general archive |
 
-The operative row is the copy-condition row. A.C.T holds the fragment because the original survived and the copy did
-not. Had the copy been filed as the working record, A.C.T would hold nothing at all, and the case would
-have no documentary basis.
+The operative row is the copy-condition row. A.C.T holds the fragment because the
+original survived and the copy did not. Had the copy been filed as the working record,
+A.C.T would hold nothing at all, and the case would have no documentary basis.
 
 ---
 
@@ -117,9 +117,9 @@ about why the original survives, because the dossier does not say.
 | A.C.T equivalent | Central Archive paper backup, electronic primary |
 | Volumes in Bureau service | Unknown |
 
-The governing row is the duplication-policy row. Every other row describes what the ledger is; this row describes what
-an A.C.T archiver must not do with it. Copying to preserve is standard practice everywhere else in the archive and
-is forbidden here.
+The governing row is the duplication-policy row. Every other row describes what the
+ledger is; this row describes what an A.C.T archiver must not do with it. Copying to
+preserve is standard practice everywhere else in the archive and is forbidden here.
 
 ---
 
@@ -231,9 +231,9 @@ condition of the system rather than as an exception.
 
 ### UNKNOWN SCRIPT — UNRESOLVED
 
-The Bureau employs translators trained for languages spoken by no current state. A field written in such a language
-cannot be verified by A.C.T and cannot be transcribed with confidence. Any such field is filed untranslated with its
-script described.
+The Bureau employs translators trained for languages spoken by no current state. A
+field written in such a language cannot be verified by A.C.T and cannot be transcribed
+with confidence. Any such field is filed untranslated with its script described.
 
 ---
 

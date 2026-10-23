@@ -79,6 +79,5 @@ No recovered document stored here becomes a full GOI dossier by itself.
 
 ## Current Folder Condition
 
-No individual recovered GOI document records are stored here yet. The folder is prepared
-for later use after a
+No individual recovered GOI document records are stored here yet. The folder is prepared for later use after a
 specific recovered document is selected for transcription, quarantine, or archive reconstruction.

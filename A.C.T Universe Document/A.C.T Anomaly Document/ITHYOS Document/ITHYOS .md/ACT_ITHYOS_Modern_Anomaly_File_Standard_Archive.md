@@ -8,8 +8,7 @@
 | AUTHORITY | Classification Archive |
 
 ### Archive Note
-This file is the complete internal archive version of the modern standardized anomaly record
-for ITHYOS. It preserves
+This file is the complete internal archive version of the modern standardized anomaly record for ITHYOS. It preserves
 the current doctrinal status, classification logic, and containment framing of AFD-CH-000 in full.
 
 ---
@@ -68,21 +67,17 @@ NARRATIVE STATUS:    Controlled / Buried / Myth-fractured
 AFD-CH-000, designated ITHYOS, THE WORLD-SLEEPER, is a planetary-scale serpentiform entity estimated at approximately
 10 kilometers in length. The anomaly is believed to remain dormant within the Earth’s
 core region, though total body
-confirmation is incomplete due to extreme inaccessibility, structural interference, and abyss-level observation
-limits.
+confirmation is incomplete due to extreme inaccessibility,
+structural interference, and abyss-level observation limits.
 
 ITHYOS is classified as a Cosmic Hazard rather than a standard biological subject due
 to its scale, its interaction
-with planetary stability, and the fact that meaningful containment does not consist of physical
-enclosure of the full
-body. Modern A.C.T containment recognizes that the Facility does not contain the entity in
-the ordinary sense; rather,
+with planetary stability, and the fact that meaningful containment does not consist of physical enclosure of the full
+body. Modern A.C.T containment recognizes that the Facility does not contain the entity in the ordinary sense; rather,
 it contains access, observation, disturbance, and wake-state conditions surrounding the entity.
 
-The anomaly remains in a sleep-like state. Even so, minor involuntary movement during dormancy
-is sufficient to
-generate measurable seismic activity across the globe. No verified full waking event exists in
-surviving A.C.T
+The anomaly remains in a sleep-like state. Even so, minor involuntary movement during dormancy is sufficient to
+generate measurable seismic activity across the globe. No verified full waking event exists in surviving A.C.T
 records.
 
 ═══════════════════════════════════════════════════════════════════════ ANOMALOUS PROPERTIES
@@ -117,19 +112,15 @@ REALITY INTERACTION: Structural Weakening / Planetary Stress /
 ═══════════════════════════════════════════════════════════════════════ CONTAINMENT PROCEDURES
 ═══════════════════════════════════════════════════════════════════════
 
-ITHYOS is not contained through conventional enclosure. Containment is defined as the preservation of
-dormancy and the
-restriction of all access, observation, excavation, ritual interference, biological interaction, and wake-state
-destabilization.
+ITHYOS is not contained through conventional enclosure. Containment is defined as the preservation of dormancy and the
+restriction of all access, observation, excavation, ritual
+interference, biological interaction, and wake-state destabilization.
 
-The anomaly is managed through the ABYSS Floor, a non-standard terminal containment stratum beneath
-F-xxxx. The ABYSS
-Floor functions as the nearest stable human-operable interface to the anomaly’s reachable influence boundary.
-No
+The anomaly is managed through the ABYSS Floor, a non-standard terminal containment stratum beneath F-xxxx. The ABYSS
+Floor functions as the nearest stable human-operable interface to the anomaly’s reachable influence boundary. No
 personnel below O5 authority are permitted unrestricted file access or direct abyssal descent authorization.
 
-No unapproved descent is permitted. No serpent-type specimen is permitted within authorized lower routes.
-No direct
+No unapproved descent is permitted. No serpent-type specimen is permitted within authorized lower routes. No direct
 line-of-sight exposure is authorized outside shielded observation systems. No written transcription recovered from
 exposed victims may circulate without sealed archive review.
 
@@ -145,11 +136,9 @@ BREACH PROTOCOL:         ABYSS-SEAL / WORLD-SLEEPER DORMANCY FAILURE
 
 BREACH CONDITIONS — THIS ANOMALY IS CONSIDERED IN BREACH IF IT: [ ] Breaks
 formal containment [x] Endangers public
-normalcy [x] Causes distortion in reality, Earth, time, or cosmic law [x] Spreads memetic,
-informational, or
+normalcy [x] Causes distortion in reality, Earth, time, or cosmic law [x] Spreads memetic, informational, or
 biological contamination [x] Resists classification and escalates beyond predicted behavior [x] Transforms its
-environment into an anomalous zone [x] Other: Any sign of wake-state transition, large-scale tectonic
-irregularity,
+environment into an anomalous zone [x] Other: Any sign of wake-state transition, large-scale tectonic irregularity,
 abyss-seal degradation, or global serpent-class biological convergence event
 
 ═══════════════════════════════════════════════════════════════════════ RESEARCH LOG — SUMMARY
@@ -160,9 +149,9 @@ CURRENT RESEARCH PHASE:  Observation / Theoretical Modeling
 
 SUMMARY OF FINDINGS: ITHYOS remains dormant. Current consensus holds that A.C.T does not meaningfully
 imprison the
-anomaly in full physical terms, but instead maintains an engineered sleep-preservation environment around the
-reachable abyssal interface. Psychic exposure remains uniformly lethal without adequate mental resilience and
-protective protocol.
+anomaly in full physical terms, but instead maintains an engineered sleep-preservation
+environment around the reachable abyssal interface. Psychic exposure remains uniformly
+lethal without adequate mental resilience and protective protocol.
 
 Observed victim progression remains consistent:
 1. visual intrusion of apparent awakening
@@ -170,8 +159,7 @@ Observed victim progression remains consistent:
 3. compulsive transcription of unknown language
 4. sudden cardiac arrest near the 24-hour mark
 
-No successful interpretation of the recovered script has been authorized for general research circulation.
-Long-term
+No successful interpretation of the recovered script has been authorized for general research circulation. Long-term
 review suggests that ITHYOS may have served as the first living proof that structural
 reality can be held in balance
 only through deliberate suppression of impossible entities.
@@ -187,8 +175,7 @@ HISTORY:                 Number of attempts: 0
 
 TRANSFORMATION NOTES: Transformation is permanently prohibited. Any structural interference, wake-state manipulation,
 biological sampling, psychic extraction, or containment-conversion concept is judged existentially irresponsible.
-ITHYOS is not a candidate for stabilization beyond preserved dormancy, nor for repurposing, neutralization,
-or
+ITHYOS is not a candidate for stabilization beyond preserved dormancy, nor for repurposing, neutralization, or
 integration.
 
 ═══════════════════════════════════════════════════════════════════════ INCIDENT LOG — SUMMARY
@@ -240,8 +227,7 @@ OBSERVED:                Yes — the anomaly demonstrates non-local
 THEORY NOTES: ITHYOS is widely considered the first anomaly to force the Facility into
 formal containment doctrine.
 Later A.C.T philosophy concerning secrecy, sleep-preservation containment, abyssal access restriction, and structural
-reality balance all trace directly or indirectly to the continued dormant existence of this
-anomaly. Internal doctrine
+reality balance all trace directly or indirectly to the continued dormant existence of this anomaly. Internal doctrine
 holds that some entities do not need to wake to threaten the world. Their
 continued sleep is itself a containment
 condition.

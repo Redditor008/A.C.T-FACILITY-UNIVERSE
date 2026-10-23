@@ -50,20 +50,16 @@ NARRATIVE STATUS:    Controlled
 ═══════════════════════════════════════════════════════════════════════ DESCRIPTION
 ═══════════════════════════════════════════════════════════════════════
 
-AFD-NB-004 is a 3 meter tall giant pale white-blue flowering plant with translucent petals
-and vein-like golden
-structures running through the stem, leaves, and inner petal roots. During blooming cycles, the
-organism emits a faint
-cold golden mist. It continuously secretes a glowing translucent golden sap from fissures along
-its internal golden
+AFD-NB-004 is a 3 meter tall giant pale white-blue flowering plant with translucent petals and vein-like golden
+structures running through the stem, leaves, and inner petal roots. During blooming cycles, the organism emits a faint
+cold golden mist. It continuously secretes a glowing translucent golden sap from fissures along its internal golden
 vein lattice.
 
 The anomaly does not conform to ordinary botanical behavior. It shows no fully reliable
 dependence on conventional
 growth patterns and appears to respond to nearby thought, agitation, and active memory recall.
 
-Its golden sap possesses severe anomalous memory-erasing properties. In raw form or concentrated derivative
-form, the
+Its golden sap possesses severe anomalous memory-erasing properties. In raw form or concentrated derivative form, the
 sap can erase short-term recall, long-term autobiographical memory, emotional association, and identity-linked
 continuity depending on concentration, dose, and administration quality.
 
@@ -92,10 +88,8 @@ REALITY INTERACTION: Minor biological-law violation / direct cognitive
 ═══════════════════════════════════════════════════════════════════════ CONTAINMENT PROCEDURES
 ═══════════════════════════════════════════════════════════════════════
 
-AFD-NB-004 is to be cultivated only under sealed biological containment conditions in approved North
-Wing botanical
-chambers. Bloom cycles are to be monitored remotely whenever possible. Sap extraction must occur
-inside
+AFD-NB-004 is to be cultivated only under sealed biological containment conditions in approved North Wing botanical
+chambers. Bloom cycles are to be monitored remotely whenever possible. Sap extraction must occur inside
 negative-pressure harvest chambers with full protective equipment and post-handling cognitive assessment.
 
 Direct exposure is restricted to:
@@ -104,8 +98,7 @@ Direct exposure is restricted to:
 - Transformation Division personnel
 - designated archive pharmacology staff
 
-No solo work shift is authorized during active bloom. No exposed-skin handling is permitted.
-No raw sap transfer is
+No solo work shift is authorized during active bloom. No exposed-skin handling is permitted. No raw sap transfer is
 permitted without sealed containment vials. No unsanctioned derivative testing is allowed outside approved facilities.
 
 CONTAINMENT SITE:        Primary Facility / North Wings / Bio-Containment Cultivation Chamber
@@ -123,8 +116,7 @@ BREACH PROTOCOL:         NB-004 Memory Exposure Containment Response
 BREACH CONDITIONS — THIS ANOMALY IS CONSIDERED IN BREACH IF IT: [ ] Breaks
 formal containment [x] Endangers public
 normalcy [x] Spreads memetic, informational, or biological contamination [x] Resists classification and escalates
-beyond predicted behavior [ ] Transforms its environment into an anomalous zone [x] Other:
-Unauthorized sap release,
+beyond predicted behavior [ ] Transforms its environment into an anomalous zone [x] Other: Unauthorized sap release,
 unsanctioned derivative use, bloom-cycle mist spread outside approved containment
 
 ═══════════════════════════════════════════════════════════════════════ RESEARCH LOG — SUMMARY
@@ -135,10 +127,8 @@ CURRENT RESEARCH PHASE:  Integrated utility / controlled derivative review
 
 SUMMARY OF FINDINGS: AFD-NB-004 is the primary source anomaly used in the production of
 A.C.T amnestic compounds. Raw
-sap is dangerously unstable and biologically harmful, but refinement and dilution procedures have produced
-multiple
-graded memory- wipe compounds. The anomaly remains one of the most strategically important integrated
-biological
+sap is dangerously unstable and biologically harmful, but refinement and dilution procedures have produced multiple
+graded memory- wipe compounds. The anomaly remains one of the most strategically important integrated biological
 assets under Facility control.
 
 ═══════════════════════════════════════════════════════════════════════ TRANSFORMATION STATUS

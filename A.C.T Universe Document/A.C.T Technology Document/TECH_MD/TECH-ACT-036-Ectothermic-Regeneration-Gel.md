@@ -21,16 +21,12 @@
 | AUTHORITY | Medical Division, Biological Subject Care Desk, and Central Archive |
 
 #### Archive Note
-Ectothermic Regeneration Gel is the thirty-sixth main A.C.T technology expanded into an individual record.
-The Master
-Catalog identifies it as a specialized medical salve used to accelerate healing in NB-class
-transmutants, with
-Vivienne Argent and Grumblesail listed as references. The visual guide describes a thick translucent
-green slime
+Ectothermic Regeneration Gel is the thirty-sixth main A.C.T technology expanded into an individual record. The Master
+Catalog identifies it as a specialized medical salve used to accelerate healing in NB-class transmutants, with
+Vivienne Argent and Grumblesail listed as references. The visual guide describes a thick translucent green slime
 stored in refrigerated tubs, fitted with an automated agitator disc in the lid to
 prevent anomalous separation, and
-emitting a strong medicinal mint scent. Vivienne Argent's files establish the care environment ERG
-was designed to
+emitting a strong medicinal mint scent. Vivienne Argent's files establish the care environment ERG was designed to
 support: transmuted reptilian biology, scale tension, thermal sensitivity, humidity dependence, shed cycles, and the
 need to treat a subject as a person rather than a specimen.
 
@@ -57,8 +53,7 @@ moisture, stable temperature, and low-force repair stimulation.
 
 The gel does not overwrite anatomy and does not revert a subject. Its purpose
 is controlled healing within the current
-body plan. For Vivienne Argent, this means supporting scale comfort, thermal recovery, and tissue
-health without
+body plan. For Vivienne Argent, this means supporting scale comfort, thermal recovery, and tissue health without
 insulting her agency or treating her body as a failed human template. For Grumblesail,
 the listed reference remains
 mostly negative: the subject's indestructibility resists sampling and ordinary injury, making ERG unnecessary except
@@ -78,24 +73,19 @@ Approved roles include:
 
 ## ORIGIN AND DEVELOPMENT
 
-ERG emerged from A.C.T's shift away from treating transmuted subjects as damaged versions of
-their former anatomy.
-Early medical teams tried standard burn gel, reptile-care ointments, sterile petroleum layers, humidity tents,
-and
+ERG emerged from A.C.T's shift away from treating transmuted subjects as damaged versions of their former anatomy.
+Early medical teams tried standard burn gel, reptile-care ointments, sterile petroleum layers, humidity tents, and
 human dermatological creams. Some worked briefly. Others trapped heat, softened scales incorrectly, interfered with
 scent perception, or made subjects feel coated rather than cared for.
 
-Vivienne Argent's recovery pushed the technology into formal use. Her condition combines human cognition,
-anaconda
+Vivienne Argent's recovery pushed the technology into formal use. Her condition combines human cognition, anaconda
 lower anatomy, enhanced sensory taste, thermal-responsive somnolence, and psychological reliance on clear respectful
-procedure. Medical needed a salve that could support tissue health without forcing a generalized
-mammalian repair
+procedure. Medical needed a salve that could support tissue health without forcing a generalized mammalian repair
 model. It also needed to smell, feel, and apply in a way the subject
 could tolerate.
 
 Grumblesail remains a cautionary reference because indestructible tissue can make medicine meaningless. ERG records
-include the lizard not because it needs healing, but because any medicine claiming universal
-reptilian repair must
+include the lizard not because it needs healing, but because any medicine claiming universal reptilian repair must
 fail honestly when confronted with a body that cannot be injured, sampled, frozen, cut,
 burned, or convinced to move.
 
@@ -105,12 +95,10 @@ burned, or convinced to move.
 
 ERG is a thick translucent green gel with a medicinal mint scent. It is
 stored in refrigerated tubs. Each tub lid
-contains an automated agitator disc that slowly turns the compound to prevent anomalous separation.
-If the gel
+contains an automated agitator disc that slowly turns the compound to prevent anomalous separation. If the gel
 separates into clear fluid and opaque green strands, it is not used until Medical
 clears it. The gel warms under
-gloved hands but must not be heated aggressively, because uneven warming can create overactive
-repair streaks.
+gloved hands but must not be heated aggressively, because uneven warming can create overactive repair streaks.
 
 Known components include:
 
@@ -125,8 +113,7 @@ Known components include:
 - temperature-safe glove kit;
 - post-application residue swabs.
 
-ERG is logged by tub, subject, anatomical site, temperature, humidity, and application time. Shared
-tubs are
+ERG is logged by tub, subject, anatomical site, temperature, humidity, and application time. Shared tubs are
 prohibited except during declared emergency triage.
 
 ---
@@ -205,27 +192,21 @@ Topical application, Level 3 Medical with Biological Subject Care Desk.
 
 Step-down: the tub returns to refrigeration with its log closed and the site is
 re-checked rather than
-re-covered. Emergency: a separated tub is quarantined and referred to Medical, which is the
-standing outcome
+re-covered. Emergency: a separated tub is quarantined and referred to Medical, which is the standing outcome
 of the 2024 incident after a power fluctuation.
 
-Before application, Medical confirms subject identity, tissue type, thermal state, stress level, consent status,
-and
-whether the site is shed-related, trauma-related, biopsy-related, or unknown. Subject Care explains the procedure
-in
-ordinary language. For Vivienne-class care, staff avoid pity language and avoid calling the gel
-a cure. The subject is
+Before application, Medical confirms subject identity, tissue type, thermal state, stress level, consent status, and
+whether the site is shed-related, trauma-related, biopsy-related, or unknown. Subject Care explains the procedure in
+ordinary language. For Vivienne-class care, staff avoid pity language and avoid calling the gel a cure. The subject is
 offered a scent check before application when chemosensory ability is relevant.
 
 During application, the gel is spread thinly with low pressure. Staff do not scrape
 scales upward, force shed
-separation, or cover sensory organs unless medically required. The room remains within the subject's
-approved
-temperature and humidity band. Any sudden fatigue, accelerated shedding, discoloration, distress, or scent complaint
-stops the procedure.
+separation, or cover sensory organs unless medically required. The room remains within the subject's approved
+temperature and humidity band. Any sudden fatigue, accelerated shedding,
+discoloration, distress, or scent complaint stops the procedure.
 
-After application, the site is observed without crowding the subject. Residue is swabbed only
-if needed. Medical
+After application, the site is observed without crowding the subject. Residue is swabbed only if needed. Medical
 records whether the subject reports comfort, tightness, heat, itch, numbness, or altered scent perception.
 
 ---
@@ -260,10 +241,8 @@ of after application.
 
 ## KNOWN LIMITS
 
-ERG cannot reverse total transmutation, cannot repair all NB-class tissue, cannot heal indestructible bodies
-that do
-not register injury, and cannot replace correct habitat conditions. A cold Vivienne does not
-need more gel first; she
+ERG cannot reverse total transmutation, cannot repair all NB-class tissue, cannot heal indestructible bodies that do
+not register injury, and cannot replace correct habitat conditions. A cold Vivienne does not need more gel first; she
 needs warmth. A dehydrated shed cycle does not need forced peeling; it needs humidity
 and patience. ERG can become
 harmful if staff use it to compensate for poor care environments.
@@ -277,18 +256,13 @@ without agency. It may also obscure visual inspection if overused.
 ## FAILURE HISTORY
 
 ### ERG-2023 Vivienne Comfort Trial
-The first controlled Vivienne application reduced shed tightness but produced irritation when staff used
-clinical
-language that framed her scales as damaged. Subject Care revised procedure to separate physical
-treatment from
-identity judgment. The gel worked better once the room stopped making the patient defend
-her body.
+The first controlled Vivienne application reduced shed tightness but produced irritation when staff used clinical
+language that framed her scales as damaged. Subject Care revised procedure to separate physical treatment from
+identity judgment. The gel worked better once the room stopped making the patient defend her body.
 
 ### ERG-2024 Separation Tub Incident
-A refrigerated tub sat unused through a power fluctuation. The agitator restarted, but the
-gel had already separated
-into uneven repair strands. A test smear warmed at different rates. Separation indicator strips
-became mandatory after
+A refrigerated tub sat unused through a power fluctuation. The agitator restarted, but the gel had already separated
+into uneven repair strands. A test smear warmed at different rates. Separation indicator strips became mandatory after
 the incident.
 
 ### ERG-2025 Grumblesail Negative Utility Review
@@ -296,20 +270,16 @@ ERG was applied to a harmless surface scuff that later proved to be dirt
 on Grumblesail rather than injury. The
 subject attempted to lick the mint scent and then sat on the supply case.
 The review confirmed that ERG has no proven
-healing utility for AFD-SU-012 and should not be used as enrichment without Subject Care
-approval.
+healing utility for AFD-SU-012 and should not be used as enrichment without Subject Care approval.
 
 ---
 
 ## DIVISION USE
 
-Medical controls formulation, storage, and application. Verde Null uses ERG for reptilian and hybrid
-subject support.
-Herpetology Review advises on scales, shed cycles, humidity, and thermal state. Transformation Review studies
-quiet
+Medical controls formulation, storage, and application. Verde Null uses ERG for reptilian and hybrid subject support.
+Herpetology Review advises on scales, shed cycles, humidity, and thermal state. Transformation Review studies quiet
 transmutation tissue behavior without treating subjects as failed reversions. Subject Care ensures that treatment
-language respects the person receiving care. Archive stores application logs as medical records, not
-material harvest
+language respects the person receiving care. Archive stores application logs as medical records, not material harvest
 notes.
 
 Standing reminder: a salve can heal skin and still wound trust if the hand

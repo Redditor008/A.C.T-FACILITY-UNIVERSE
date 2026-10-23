@@ -34,10 +34,8 @@
 | AUTHORITY | [Responsible archive and operational authority] |
 
 #### Archive Note
-[State the filing condition, the limit of current certainty, and whether the record concerns
-an organization, an
-anomalous group requiring dual filing, or an unresolved structure. This field establishes scope; it
-is not a short
+[State the filing condition, the limit of current certainty, and whether the record concerns an organization, an
+anomalous group requiring dual filing, or an unresolved structure. This field establishes scope; it is not a short
 description.]
 
 ---
@@ -46,14 +44,12 @@ description.]
 
 ### Group Function
 
-[Record what makes the group an organized anomalous actor. Explain the repeated activity, its
-material effect, and why
+[Record what makes the group an organized anomalous actor. Explain the repeated activity, its material effect, and why
 it matters to containment, Structural Reality, secrecy, or ordinary life.]
 
 ### Public Presence and Concealment
 
-[Record public identities, cover structures, denial mechanisms, or the reason no public identity can
-be verified.]
+[Record public identities, cover structures, denial mechanisms, or the reason no public identity can be verified.]
 
 ---
 
@@ -61,8 +57,7 @@ be verified.]
 
 ### Leadership Condition
 
-[Identify confirmed leadership, explain why leadership is unknown, or distinguish an office from the
-people occupying
+[Identify confirmed leadership, explain why leadership is unknown, or distinguish an office from the people occupying
 it.]
 
 ### Internal Structure
@@ -72,8 +67,7 @@ material structure. Separate confirmed information from A.C.T assessment.]
 
 ### Membership and Recruitment
 
-[Record size, recruitment pattern, access layers, vulnerable participants, or the reason a total census
-cannot be
+[Record size, recruitment pattern, access layers, vulnerable participants, or the reason a total census cannot be
 established.]
 
 ---
@@ -82,24 +76,20 @@ established.]
 
 ### Stated Belief
 
-[Record what the group says it protects, opposes, seeks, sells, studies, worships, hides, changes,
-or destroys.]
+[Record what the group says it protects, opposes, seeks, sells, studies, worships, hides, changes, or destroys.]
 
 ### Assessed Objective
 
-[Record what A.C.T believes the group is trying to achieve, including uncertainty and material
-consequence.]
+[Record what A.C.T believes the group is trying to achieve, including uncertainty and material consequence.]
 
 ### Anomalous Capability Assessment
 
-[Explain why the assigned capability class fits. Describe how the group handles, studies, trades,
-creates, contains,
+[Explain why the assigned capability class fits. Describe how the group handles, studies, trades, creates, contains,
 weaponizes, avoids, or is affected by anomalies without assigning unproven capacity.]
 
 ### Secrecy and Civilian Exposure
 
-[Explain how the group preserves, damages, uses, or exploits normalcy. Connect the explanation to
-the assigned Secrecy
+[Explain how the group preserves, damages, uses, or exploits normalcy. Connect the explanation to the assigned Secrecy
 Risk.]
 
 ---
@@ -108,8 +98,8 @@ Risk.]
 
 ### Operational Regions
 
-[Explain the assigned Reach Class through geography, routes, jurisdictional limits, or non-geographic structural
-reach.]
+[Explain the assigned Reach Class through geography, routes,
+jurisdictional limits, or non-geographic structural reach.]
 
 ### Known Assets and Holdings
 
@@ -128,14 +118,12 @@ containment limits apply.]
 
 ### Contact History
 
-[Record known first contact, records limitation, prior posture, major break, treaty condition, or recurring
-pattern
+[Record known first contact, records limitation, prior posture, major break, treaty condition, or recurring pattern
 that established the relationship. Mark restricted or contested history without inventing a complete origin.]
 
 ### Current Relationship
 
-[Explain why the group is not simply ignored, erased, recruited, or destroyed. State the
-active tension, dependency,
+[Explain why the group is not simply ignored, erased, recruited, or destroyed. State the active tension, dependency,
 shared interest, or source of conflict.]
 
 ---
@@ -144,8 +132,7 @@ shared interest, or source of conflict.]
 
 ### Responsible Jurisdiction
 
-[Name the primary SITE, SUB-SITE, or Central review body. Explain why the jurisdiction follows
-established Site
+[Name the primary SITE, SUB-SITE, or Central review body. Explain why the jurisdiction follows established Site
 doctrine and include cross-site roles where required.]
 
 ### Posture Implementation
@@ -165,8 +152,7 @@ opportunity.]
 
 ### Restricted Operational Extract
 
-[Include one or more in-world record extracts that show the group operating, the division
-response, and the decision
+[Include one or more in-world record extracts that show the group operating, the division response, and the decision
 boundary. Do not use this section as a short synopsis.]
 
 ---
@@ -181,8 +167,7 @@ boundary. Do not use this section as a short synopsis.]
 
 ### Active Intelligence Assessment
 
-[Provide the current assessed pattern and why it matters. Keep assessment distinct from confirmed
-fact.]
+[Provide the current assessed pattern and why it matters. Keep assessment distinct from confirmed fact.]
 
 ### Persistent Questions
 
@@ -201,10 +186,9 @@ could change the rating.]
 
 ### Anomaly and Record Relationship
 
-[Identify approved-core anomaly records or state why a permanent group-wide list is restricted. If
-the group itself is
-anomalous, require a distinct AFD file and preserve separation between organizational behavior and anomalous
-condition.]
+[Identify approved-core anomaly records or state why a permanent group-wide list is restricted. If the group itself is
+anomalous, require a distinct AFD file and preserve separation
+between organizational behavior and anomalous condition.]
 
 ### Related A.C.T Records
 

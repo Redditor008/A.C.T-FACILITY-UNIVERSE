@@ -4,8 +4,7 @@
 **Class:** Transitory — working observation, not a finding  
 **Date:** not entered  
 
-The door is ordinary. That is the first thing to say about it and it is the thing I kept expecting
-to stop being true.
+The door is ordinary. That is the first thing to say about it and it is the thing I kept expecting to stop being true.
 
 Pine, painted twice, hinges replaced at some point with ones that do not match. The paint on the
 handle side is worn through to bare wood in a narrow band, which is what happens when a lot of

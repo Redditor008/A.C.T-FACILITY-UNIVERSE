@@ -138,10 +138,9 @@ compliance) [1](https://processnavigation.com/insights/how-to-write-an-instructi
 **The technical-manual anatomy model** lists ten required parts: introduction and equipment
 overview, safety instructions, technical specifications, equipment and component
 description, installation requirements, operating procedures, control system or HMI
-description, cleaning and maintenance, troubleshooting, spare parts and reference documents.
-It also fixes the troubleshooting form as a three-column table of Problem, Possible Cause,
-Recommended Action, and requires that instructions be written in the same sequence the user
-performs the activity
+description, cleaning and maintenance, troubleshooting, spare parts and reference documents. It also
+fixes the troubleshooting form as a three-column table of Problem, Possible Cause, Recommended
+Action, and requires that instructions be written in the same sequence the user performs the activity
 [6](https://www.amergingtech.com/post/the-anatomy-of-an-effective-technical-manual).
 
 **Construction O&M data requirements (Section 01730)** demand, for each unit of equipment:

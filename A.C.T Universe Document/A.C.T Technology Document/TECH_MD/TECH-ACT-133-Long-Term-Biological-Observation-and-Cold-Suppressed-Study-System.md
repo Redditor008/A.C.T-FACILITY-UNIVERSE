@@ -22,17 +22,14 @@
 
 #### Archive Note
 Long-Term Biological Observation and Cold-Suppressed Study System is the one-hundred-thirty-third main A.C.T
-technology expanded into an individual record. The White Grave F-4 Research and Biological Study
-dossier identifies
+technology expanded into an individual record. The White Grave F-4 Research and Biological Study dossier identifies
 F-4 as the station's primary laboratory level, containing biological study chambers, sample processing, long-term
 observation suites, and controlled research environments for cold-suppressed anomalies. It records research
 authorization, sample control, study restriction enforcement, environmental separation, observation streams, and the
 doctrine that slow behavior is data.
 
-LTBOCSS exists because White Grave studies biological residents on the timescale their containment demands.
-Some
-answers appear only after seasons of cold, years of suppression, and patient observation that
-faster facilities would
+LTBOCSS exists because White Grave studies biological residents on the timescale their containment demands. Some
+answers appear only after seasons of cold, years of suppression, and patient observation that faster facilities would
 mistake for inactivity.
 
 Controlled label: **LTBOCSS SLOW-BEHAVIOR-IS-DATA SUITE**.
@@ -47,36 +44,29 @@ OBSERVE LONG ENOUGH TO LEARN WITHOUT WARMING THE RESIDENT INTO A NEW PROBLEM.
 
 ## FUNCTION OUTLINE
 
-Long-Term Biological Observation and Cold-Suppressed Study System is White Grave's F-4 laboratory technology for
-studying cold-suppressed anomalies under controlled biological, environmental, and documentary conditions. It combines
-biological study chambers, sample processing laboratories, long-term observation suites, controlled research
-environments, data offices, Archive mirroring, Medical liaison channels, and Containment-linked sample return
-procedure.
+Long-Term Biological Observation and Cold-Suppressed Study System is White Grave's F-4 laboratory
+technology for studying cold-suppressed anomalies under controlled biological, environmental, and
+documentary conditions. It combines biological study chambers, sample processing laboratories,
+long-term observation suites, controlled research environments, data offices, Archive mirroring,
+Medical liaison channels, and Containment-linked sample return procedure.
 
-LTBOCSS is not ordinary laboratory infrastructure. It is a patient research machine for a
-station whose containment
-doctrine depends on cold, depth, and duration. The system allows researchers to characterize residents
-without
-breaking their suppression conditions, to process samples without losing custody, and to treat multi-year
-observation
+LTBOCSS is not ordinary laboratory infrastructure. It is a patient research machine for a station whose containment
+doctrine depends on cold, depth, and duration. The system allows researchers to characterize residents without
+breaking their suppression conditions, to process samples without losing custody, and to treat multi-year observation
 as an active study rather than storage with instruments attached.
 
 Approved roles include cold-suppressed anomaly study, biological sample processing, long-term resident observation,
 controlled research environment maintenance, study restriction enforcement, slow-behavior documentation, Medical
-exposure liaison, Containment regimen refinement, and research data preservation as part of the Facility
-knowledge
+exposure liaison, Containment regimen refinement, and research data preservation as part of the Facility knowledge
 estate.
 
 ---
 
 ## ORIGIN AND DEVELOPMENT
 
-White Grave was built around biological material that could not be understood through short
-contact. Suppression kept
-residents contained, but suppression alone did not explain what they were, what sustained them,
-or what might
-eventually neutralize them. The station needed a research floor able to work without violating
-the cold conditions
+White Grave was built around biological material that could not be understood through short contact. Suppression kept
+residents contained, but suppression alone did not explain what they were, what sustained them, or what might
+eventually neutralize them. The station needed a research floor able to work without violating the cold conditions
 that made containment possible.
 
 F-4 developed LTBOCSS from that need. Long-term observation suites became the station's distinctive research
@@ -105,8 +95,7 @@ Known components include:
 - Containment return verification gate;
 - Archive research mirror node.
 
-The observation suite is treated as active instrumentation even when nothing visible happens for
-months.
+The observation suite is treated as active instrumentation even when nothing visible happens for months.
 
 ---
 
@@ -136,8 +125,7 @@ no figure for Chamber count, Longest study, Condition-lock drifts. Those 3 gaps 
 This is the only floor where the primary output is the absence of change,
 which inverts the usual research
 expectation. Cold suppression slows a biological resident enough for observation across years, and the
-condition lock exists to guarantee that the environment is constant so that stillness can
-be attributed to
+condition lock exists to guarantee that the environment is constant so that stillness can be attributed to
 the resident rather than to the chamber drifting.
 
 ## INTERFACE AND OPERATING ENVELOPE
@@ -191,16 +179,13 @@ multi-year record with gaps
 aligned to shift patterns is not evidence of stillness at all.
 
 Before study begins, LTBOCSS verifies resident identity, source holding floor, restriction set, study authorization,
-sample-control path, environmental requirements, observation duration, Medical watch needs, Containment return route,
-and data restriction level. Material drawn from F-3 or deeper floors remains the property
-of its containment
+sample-control path, environmental requirements, observation duration, Medical watch needs, Containment return
+route, and data restriction level. Material drawn from F-3 or deeper floors remains the property of its containment
 assignment throughout the study.
 
 During operation, the system preserves temperature, atmosphere, observation settings, and custody records. Researchers
-may adjust conditions only within approved ranges. Long-term observation data is reviewed for slow
-behavioral change,
-not only immediate reaction. If a resident becomes more active, destabilizes, or shows restriction-set
-conflict, the
+may adjust conditions only within approved ranges. Long-term observation data is reviewed for slow behavioral change,
+not only immediate reaction. If a resident becomes more active, destabilizes, or shows restriction-set conflict, the
 study halts and the material returns to containment or escalates under station doctrine.
 
 ---
@@ -217,8 +202,7 @@ study halts and the material returns to containment or escalates under station d
 
 Drift review is monthly even though studies run for years, because a lock that
 has drifted for a season has
-already invalidated the interval it drifted through, and the correction is cheaper the sooner
-the affected
+already invalidated the interval it drifted through, and the correction is cheaper the sooner the affected
 period is identified.
 
 ## FAULT ISOLATION
@@ -233,12 +217,10 @@ period is identified.
 
 ## KNOWN LIMITS
 
-LTBOCSS can make long study possible, but it cannot guarantee that observation is neutral.
-Cold-suppressed anomalies
+LTBOCSS can make long study possible, but it cannot guarantee that observation is neutral. Cold-suppressed anomalies
 may respond to being watched, sampled, warmed by instruments, or held in a research
 schedule different from their
-normal chamber state. Multi-year studies also create personnel rotation problems: the people interpreting late
-data
+normal chamber state. Multi-year studies also create personnel rotation problems: the people interpreting late data
 may not be the people who designed the first conditions.
 
 Known failure modes include cold-condition drift, sample custody mismatch, observation fatigue, data continuity loss,
@@ -250,13 +232,11 @@ restriction error, researcher impatience, and treating long silence as proof tha
 ## FAILURE HISTORY
 
 ### LTBOCSS-Long Observation Standard
-A research review found that slow residents were being described as inactive when observation
-periods were too short.
+A research review found that slow residents were being described as inactive when observation periods were too short.
 Current LTBOCSS doctrine requires study cadence to match resident timescale rather than staff impatience.
 
 ### LTBOCSS-Cold Condition Correction
-A study chamber incident showed that small temperature changes during sampling could produce behavior
-absent in
+A study chamber incident showed that small temperature changes during sampling could produce behavior absent in
 holding. Current procedure binds sample processing to cold-condition locks and post-study return verification.
 
 ### LTBOCSS-Data Continuity Finding
@@ -271,8 +251,7 @@ Research Division operates LTBOCSS study programs. Medical advises on biological
 Containment controls resident custody and receives holding-regimen findings. Security enforces access and restriction
 compliance. Archive preserves long observation data under the station's knowledge standards.
 
-LTBOCSS doctrine holds that understanding is containment, but at White Grave, understanding often arrives
-slowly and
+LTBOCSS doctrine holds that understanding is containment, but at White Grave, understanding often arrives slowly and
 cold.
 
 ---
@@ -311,5 +290,4 @@ cold.
 - **Review Status:** Active long-term biological observation technology record; resident identities,
   sample lines, study rosters, and observation streams censored
 - **Next Review:** After any sample-control breach, cold-condition drift, long-observation anomaly,
-  study restriction dispute, Medical exposure incident, Archive mirror fault, or resident activation
-  during research
+  study restriction dispute, Medical exposure incident, Archive mirror fault, or resident activation during research

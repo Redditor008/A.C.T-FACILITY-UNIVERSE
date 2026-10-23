@@ -23,27 +23,21 @@
 #### Archive Note
 The Quantum Narrative Buffer System is the third main A.C.T technology expanded into an
 individual record under
-corrected A.C.T-owned technology numbering. It is already present in the Master Catalog of Operational
-Assets as Item
+corrected A.C.T-owned technology numbering. It is already present in the Master Catalog of Operational Assets as Item
 06, in the 1992 technology timeline as a causal-resistant data etching system, in the
 visual reference guide as a
-rack-mounted crystal-canister archive hub, and in site dossiers as the hardening layer that protects
-A.C.T records
-against causal rewrites and temporal resets. QNB is the technology that helps the Archive
-remain the Archive when
+rack-mounted crystal-canister archive hub, and in site dossiers as the hardening layer that protects A.C.T records
+against causal rewrites and temporal resets. QNB is the technology that helps the Archive remain the Archive when
 history, sequence, public memory, or narrative pressure attempts to change what the record says.
 
 QNB is not a normal backup server, not a general artificial intelligence, not an
 amnestic system, not a prophecy
-engine, and not a license to trust every preserved document without review. It preserves
-records against certain forms
-of external rewriting. It does not guarantee that the original record was true, complete,
-ethical, or safely readable.
+engine, and not a license to trust every preserved document without review. It preserves records against certain forms
+of external rewriting. It does not guarantee that the original record was true, complete, ethical, or safely readable.
 
-This file expands the short catalog entry into a working technical record. Crystal composition,
-etching wavelength,
-rollback voting, drift-threshold mathematics, and full restoration authority remain censored under **QNB ETCH
-DISCLOSURE LIMIT**.
+This file expands the short catalog entry into a working technical record. Crystal composition, etching wavelength,
+rollback voting, drift-threshold mathematics, and full restoration
+authority remain censored under **QNB ETCH DISCLOSURE LIMIT**.
 
 ---
 
@@ -65,23 +59,18 @@ and timeline
 resets.
 ```
 
-That description remains correct but incomplete. QNB does not merely store copies. It stores
-a record's claim to
-continuity. When a file is QNB-hardened, the system records content, metadata, access history, edit
-sequence, checksum
-pattern, observed contradiction, and a local narrative drift value. If the outside world changes,
-QNB can show the
+That description remains correct but incomplete. QNB does not merely store copies. It stores a record's claim to
+continuity. When a file is QNB-hardened, the system records content, metadata, access history, edit sequence, checksum
+pattern, observed contradiction, and a local narrative drift value. If the outside world changes, QNB can show the
 Archive that change occurred rather than silently accepting the new version.
 
 ### Operational Role
 
 QNB appears in five major roles:
 
- central archive hardening for anomaly files, GOI records, technology records, site logs, and
- command
+ central archive hardening for anomaly files, GOI records, technology records, site logs, and command
  minutes;
- floor and site structural hardening, especially F-7 Central Archive and Site 03 Kurokawa
- Archive
+ floor and site structural hardening, especially F-7 Central Archive and Site 03 Kurokawa Archive
  Node;
 — field evidence capture through portable or head-mounted buffers used in unstable locations;
 — recovered-document quarantine for texts that rewrite themselves or their readers' memory of them;
@@ -98,42 +87,33 @@ attacked.
 
 The technology timeline records QNB deployment in 1992, after RSA and ARM had already
 stabilized sites and hidden them
-from ordinary attention. By that era A.C.T understood that containment could fail through records,
-not just walls.
+from ordinary attention. By that era A.C.T understood that containment could fail through records, not just walls.
 Some anomalies did not escape their rooms; they changed the file proving they were
 there. Some incidents did not kill
-witnesses; they rewrote witness statements. Some temporal events did not destroy the Archive; they
-made the Archive
+witnesses; they rewrote witness statements. Some temporal events did not destroy the Archive; they made the Archive
 agree that nothing had happened.
 
 QNB emerged as A.C.T's answer to that archival weakness. Instead of storing data only
 as ordinary bits, the system
-uses crystal-canister etching to preserve content at a sub-atomic and causal-reference level. Early prototypes
-were
-unstable, but by 1992 A.C.T deployed central archive buffers sufficient to preserve selected records
-through
+uses crystal-canister etching to preserve content at a sub-atomic and causal-reference level. Early prototypes were
+unstable, but by 1992 A.C.T deployed central archive buffers sufficient to preserve selected records through
 controlled regression tests.
 
 ### Custody
 
-Primary custody belongs to Archive Division and Engineering Division. Archive decides what is buffered,
-how records
-are accessioned, which versions are considered legally active, and when a preserved contradiction becomes
-evidence.
-Engineering controls hardware, canister pressure, etching laser maintenance, rack isolation, manual override cranks,
-and drift-monitor calibration.
+Primary custody belongs to Archive Division and Engineering Division. Archive decides what is buffered, how records
+are accessioned, which versions are considered legally active, and when a preserved contradiction becomes evidence.
+Engineering controls hardware, canister pressure, etching laser maintenance,
+rack isolation, manual override cranks, and drift-monitor calibration.
 
-Memory Review attaches when QNB records conflict with staff memory, amnestic history, NEMNOLIA-derived treatment,
-or
-witness continuity. Intelligence attaches when hostile GOIs attempt record alteration. Containment attaches when a
-document is an active hazard. Site Command controls emergency restoration authority during breach or
-timeline
+Memory Review attaches when QNB records conflict with staff memory, amnestic history, NEMNOLIA-derived treatment, or
+witness continuity. Intelligence attaches when hostile GOIs attempt record alteration. Containment attaches when
+a document is an active hazard. Site Command controls emergency restoration authority during breach or timeline
 disturbance.
 
 No GOI owns QNB. Several GOIs may possess weaker continuity ledgers, memory banks, or
 ark records with similar goals.
-Ninefold Ark memory banks and Lantern Accord violation ledgers are priority comparison targets, but
-neither is
+Ninefold Ark memory banks and Lantern Accord violation ledgers are priority comparison targets, but neither is
 confirmed to match full QNB behavior.
 
 ---
@@ -142,16 +122,12 @@ confirmed to match full QNB behavior.
 
 ### Standard Rack Unit
 
-The visual reference guide describes QNB as a rack-mounted server hub containing pressurized crystal
-canisters instead
-of traditional drives. Each canister is fitted with a **[REDACTED]-Etching Laser** that writes data
-at the sub-atomic
-level. The rack features manual override cranks used to physically reset the data stream
-during a causal-wipe event. A
+The visual reference guide describes QNB as a rack-mounted server hub containing pressurized crystal canisters instead
+of traditional drives. Each canister is fitted with a **[REDACTED]-Etching Laser** that writes data at the sub-atomic
+level. The rack features manual override cranks used to physically reset the data stream during a causal-wipe event. A
 wide front monitor displays scrolling hex-code and **Narrative Drift** percentages.
 
-Those details are approved for recognition and maintenance orientation. They are not sufficient for
-manufacture or
+Those details are approved for recognition and maintenance orientation. They are not sufficient for manufacture or
 restoration. The canister material, etching method, and drift equations remain Level 5 restricted.
 
 ### Known Components
@@ -173,32 +149,25 @@ Known components include:
 - hardline link to Central Archive validation;
 - emergency dead-power crank path.
 
-QNB architecture is deliberately physical. Manual cranks and sealed canisters exist because purely digital
-restoration
-failed in early trials when the digital environment accepted the rewritten past before staff
-could detect it.
+QNB architecture is deliberately physical. Manual cranks and sealed canisters exist because purely digital restoration
+failed in early trials when the digital environment accepted the rewritten past before staff could detect it.
 
 ### Site and Field Variants
 
-Fixed QNB racks serve Central Archive, F-7 archive structures, Site 03 Kurokawa Archive Node,
-major command archives,
-and selected high-risk document vaults. Kurokawa records are hardened with QNB technology against causal
-rewrites and
-temporal resets. F-7's QNB-hardened structure is built around the principle that the complex's records
-must remain the
+Fixed QNB racks serve Central Archive, F-7 archive structures, Site 03 Kurokawa Archive Node, major command archives,
+and selected high-risk document vaults. Kurokawa records are hardened with QNB technology against causal rewrites and
+temporal resets. F-7's QNB-hardened structure is built around the principle that the complex's records must remain the
 records the complex wrote.
 
 Field variants include portable evidence buffers, head-mounted recording buffers, sealed testimony buffers, and
-temporary document-ingest units. Field QNB can preserve footage or testimony from unstable spaces, but
-it is weaker
+temporary document-ingest units. Field QNB can preserve footage or testimony from unstable spaces, but it is weaker
 than rack hardening and must be reconciled after recovery.
 
 ---
 
 ## TECHNICAL SPECIFICATION
 
-Canister material, etching method, and drift equations remain Level 5 and are deliberately not
-restated. Capacity and
+Canister material, etching method, and drift equations remain Level 5 and are deliberately not restated. Capacity and
 power figures have never been recorded.
 
 | PARAMETER | VALUE |
@@ -222,10 +191,8 @@ power figures have never been recorded.
 | Canister capacity | NOT MEASURED |
 | Rack power draw | NOT MEASURED |
 
-The architecture is deliberately physical. Manual cranks and sealed canisters exist because purely digital
-restoration
-failed in early trials, when the digital environment accepted the rewritten past before staff
-could detect it.
+The architecture is deliberately physical. Manual cranks and sealed canisters exist because purely digital restoration
+failed in early trials, when the digital environment accepted the rewritten past before staff could detect it.
 
 ## INTERFACE AND OPERATING ENVELOPE
 
@@ -281,18 +248,13 @@ reality is also Level 5.
 
 ### Authorized Use
 
-Level 4 Archive or Engineering personnel may buffer standard restricted records, ingest evidence, read
-drift states,
-and request canister review. Level 5 authorization is required for restoration override, canister replacement,
-manual
-crank reset during an active causal wipe, and acceptance of a QNB-preserved version over
-current public reality.
+Level 4 Archive or Engineering personnel may buffer standard restricted records, ingest evidence, read drift states,
+and request canister review. Level 5 authorization is required for restoration override, canister replacement, manual
+crank reset during an active causal wipe, and acceptance of a QNB-preserved version over current public reality.
 
 Standard operation begins with accession. The operator verifies document identity, custody chain, version count,
-reader restrictions, active hazard tags, drift baseline, and division authority. The record is then
-etched into the
-assigned canister sequence. The system logs content and metadata separately so that a content
-change and a custody
+reader restrictions, active hazard tags, drift baseline, and division authority. The record is then etched into the
+assigned canister sequence. The system logs content and metadata separately so that a content change and a custody
 change can be detected as different failures.
 
 Basic Archive rule:
@@ -321,8 +283,7 @@ contradiction.
 
 ### Handling Rules
 
-Do not overwrite a QNB-preserved contradiction because the current file looks cleaner. Do not
-read a hazardous
+Do not overwrite a QNB-preserved contradiction because the current file looks cleaner. Do not read a hazardous
 document aloud during buffer ingest. Do not restore a file to an earlier version
 without checking whether the earlier
 version contained hostile content. Do not use QNB as a substitute for witness care,
@@ -342,8 +303,7 @@ containment. Do not assume a record is true because it survived.
 | Manual crank reset during an active causal wipe | full procedure | Level 5 |
 | Recovered document offered for downgrade | compare against QNB title memory first | Level 4 Archive |
 
-No inspection or replacement interval is recorded. The one standing rule that does exist
-came out of a failure:
+No inspection or replacement interval is recorded. The one standing rule that does exist came out of a failure:
 recovered documents must be compared against QNB title memory before any downgrade.
 
 ## FAULT ISOLATION
@@ -363,10 +323,8 @@ recovered documents must be compared against QNB title memory before any downgra
 
 ### What QNB Cannot Do
 
-QNB cannot stop an event from happening, cannot prevent all memory loss, cannot identify
-moral truth, cannot protect a
-person whose name was never recorded, cannot recover evidence never ingested, and cannot guarantee
-safe reading of a
+QNB cannot stop an event from happening, cannot prevent all memory loss, cannot identify moral truth, cannot protect a
+person whose name was never recorded, cannot recover evidence never ingested, and cannot guarantee safe reading of a
 preserved document. It preserves available records. It does not replace investigation.
 
 QNB is weakest against:
@@ -383,8 +341,7 @@ QNB is weakest against:
 
 Misuse can make the Archive dangerous. Restoring an old file may restore an old
 hazard, old slur, old false
-assumption, old containment order, or old identity error. QNB can preserve wrongdoing as well
-as evidence against
+assumption, old containment order, or old identity error. QNB can preserve wrongdoing as well as evidence against
 wrongdoing. It can also tempt staff to value the preserved record over living witnesses
 whose memory no longer matches
 it.
@@ -402,41 +359,31 @@ witnesses can still be wrong.
 
 ### QNB-1992 FIRST RESTORATION DISPUTE
 
-The first full deployment test preserved an incident log through a controlled temporal reset.
-The restored log proved
-the event had occurred, but it also preserved an outdated containment assumption corrected during
-the erased interval.
-Two teams argued over whether the pre-reset instruction or the post-reset memory should control
-response. Command
+The first full deployment test preserved an incident log through a controlled temporal reset. The restored log proved
+the event had occurred, but it also preserved an outdated containment assumption corrected during the erased interval.
+Two teams argued over whether the pre-reset instruction or the post-reset memory should control response. Command
 delayed the next test until Archive introduced restoration review rather than automatic rollback.
 
-This incident established that QNB output is evidence requiring judgment, not an automatic command
-state.
+This incident established that QNB output is evidence requiring judgment, not an automatic command state.
 
 ### KUROKAWA NODE FALSE CLEAN FILE
 
-Site 03 Kurokawa Archive Node later reported QNB-YELLOW after a recovered digital file appeared
-clean in ordinary
-storage but produced drift when etched. The QNB register preserved three prior titles for
-the same document, each
-connected to a different reader injury. The current file contained none of those warnings.
-Archive quarantine
+Site 03 Kurokawa Archive Node later reported QNB-YELLOW after a recovered digital file appeared clean in ordinary
+storage but produced drift when etched. The QNB register preserved three prior titles for the same document, each
+connected to a different reader injury. The current file contained none of those warnings. Archive quarantine
 prevented general release.
 
 Corrective action required recovered documents to be compared against QNB title memory before downgrade.
 
 ### FIELD BUFFER HEADSET LAG
 
-During a spatial survey, a head-mounted QNB preserved footage that the E-Class subject could
-not remember recording.
-The footage remained stable, but timecode lagged four minutes behind the subject's distress report.
-Recovery initially
+During a spatial survey, a head-mounted QNB preserved footage that the E-Class subject could not remember recording.
+The footage remained stable, but timecode lagged four minutes behind the subject's distress report. Recovery initially
 treated the footage as safer than testimony. Subject Care later determined that both were
 partial: the headset
 recorded space sequence while the subject experienced personal sequence.
 
-The event remains training material for witness handling. QNB does not outrank lived sequence
-by default.
+The event remains training material for witness handling. QNB does not outrank lived sequence by default.
 
 ---
 
@@ -445,8 +392,7 @@ by default.
 ### Archive Division
 
 Archive owns accession policy, version status, restoration review, contradiction labeling, and record quarantine.
-Archive decides whether a QNB divergence becomes a correction, a preserved alternate, a hazard,
-or evidence of attack.
+Archive decides whether a QNB divergence becomes a correction, a preserved alternate, a hazard, or evidence of attack.
 
 ### Engineering Division
 
@@ -455,17 +401,14 @@ replacement parts. Engineering may refuse restoration if buffer integrity is unc
 
 ### Containment and Site Command
 
-Containment uses QNB records to identify altered procedures, missing warnings, changed object behavior, and
-rewritten
-containment histories. Site Command authorizes emergency restoration during breach, but must record why restored
-data
+Containment uses QNB records to identify altered procedures, missing warnings, changed object behavior, and rewritten
+containment histories. Site Command authorizes emergency restoration during breach, but must record why restored data
 was trusted over current observation.
 
 ### Intelligence, Memory Review, and Recovery
 
 Intelligence tracks hostile rewriting, GOI document alteration, and archive penetration. Memory Review compares QNB
-output to staff memory, amnestic administration, and witness continuity. Recovery uses field buffers in
-unstable
+output to staff memory, amnestic administration, and witness continuity. Recovery uses field buffers in unstable
 environments and must reconcile all field captures after return.
 
 ---
@@ -495,8 +438,7 @@ The QNB system interacts with, but is distinct from:
 - Causal Static Generators, which suppress narrative pressure rather than store evidence;
 - Digital Resonance Sensors, which detect causal pulse rather than preserve archival continuity.
 
-Each system requires its own individual technology record. This file covers only the Quantum
-Narrative Buffer System.
+Each system requires its own individual technology record. This file covers only the Quantum Narrative Buffer System.
 
 ---
 
@@ -517,8 +459,7 @@ Narrative Buffer System.
  and NEMNOLIA-derived
  amnestic treatment overlap?
 — Are [BLANK] crystal canisters finite in supply, reusable, or slowly accumulating narrative fatigue?
- What does QNB-BLACK mean if both current history and preserved history contain matching
- evidence
+What does QNB-BLACK mean if both current history and preserved history contain matching evidence
  of tampering?
 
 ---

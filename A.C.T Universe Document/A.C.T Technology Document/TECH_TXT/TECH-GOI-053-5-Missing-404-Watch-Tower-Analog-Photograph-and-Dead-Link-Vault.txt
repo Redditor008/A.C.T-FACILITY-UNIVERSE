@@ -53,10 +53,9 @@ disappearance began, which is often the only timestamp the case will ever have.
 
 A.C.T has its own confirmation that the practice is not nostalgia. During the North
 Window Relay case the Facility's first digital recovery report corrupted twice before Central Archive
-ordered analog duplication, and the Tower's notices had been the stable copies throughout. The
-handling consequence is a prohibition on tools that overwrite: no automatic cleanup, no enhancement
-pass, no public database matching, and no broad facial recognition over vault material without
-Central Archive approval.
+ordered analog duplication, and the Tower's notices had been the stable copies throughout. The handling
+consequence is a prohibition on tools that overwrite: no automatic cleanup, no enhancement pass, no public
+database matching, and no broad facial recognition over vault material without Central Archive approval.
 
 Controlled label: M404-WT LAST-PROOF CLEANUP PROHIBITION.
 
@@ -262,8 +261,8 @@ KNOWN LIMITS
 A.C.T has inspected storage practice rather than the vault, so this record describes a
 method and a set of prohibitions rather than a collection. The Facility cannot state
 how many items the Tower holds, how they are indexed, or whether a single
-vault exists. Confidence in practical value is high; confidence in any protective mechanism is
-low and is recorded as low.
+vault exists. Confidence in practical value is high; confidence
+in any protective mechanism is low and is recorded as low.
 
 The record also cannot separate ordinary decay from anomalous absence in every case, and
 it does not offer a rule that settles it in advance. A faded poster

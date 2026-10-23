@@ -26,11 +26,10 @@ for, and whether the remaining thirteen GOI dossiers without a technology set ea
 The answer is no. The dossiers already state their own filing requirements, and those statements
 were not consulted when the build order was set.
 
-The census below was taken directly from the dossiers. Capability class was read from the
-Anomalous Capability Assessment of each file. Dual Filing state was read from the Dual Filing
-section. The explicit demand for technology documents was searched for across all thirty-one
-files. Recovered-item statements were read from the Known Assets and Holdings section of each
-file.
+The census below was taken directly from the dossiers. Capability class was read from the Anomalous
+Capability Assessment of each file. Dual Filing state was read from the Dual Filing section. The
+explicit demand for technology documents was searched for across all thirty-one files.
+Recovered-item statements were read from the Known Assets and Holdings section of each file.
 
 ---
 
@@ -128,10 +127,9 @@ whose dual filing state is only "under review".
 
 **Finding two — seven dossiers should not receive a technology set.** `061`, `062`, `063`, `064`,
 `065`, `066`, `067` are Practitioner and Handler groups whose assets are rites, cloths, hymn
-sheets, ledgers, language cards, documents, and rooms. Six of the seven are explicitly not
-assessed as Engineering. Building five hardware-shaped records per group for them would produce
-exactly the uniform templated output the project prohibits, because there is no hardware to
-differentiate them.
+sheets, ledgers, language cards, documents, and rooms. Six of the seven are explicitly not assessed
+as Engineering. Building five hardware-shaped records per group for them would produce exactly the
+uniform templated output the project prohibits, because there is no hardware to differentiate them.
 
 **Finding three — sets `057` through `060` are over-built relative to their dossiers.** This is
 stated as a defect in the build practice, not as a claim that the records are false. Every claim
@@ -153,8 +151,7 @@ that warrant a technology set, seven that warrant a different record type, and o
 **Build as technology sets, in this order:**
 
 1. `GOI-HY-X-072` Iron Meridian Authority — Containment, MANDATORY, explicit demand, A.C.T holds
-   two damaged collars, one warrant book, one tribunal audio fragment, and custody train
-   photographs.
+   two damaged collars, one warrant book, one tribunal audio fragment, and custody train photographs.
 2. `GOI-HY-W-073` Lantern Accord — Containment, MANDATORY, explicit demand, A.C.T holds one
    broken lantern beacon, three expired seals, and yellow-line material.
 3. `GOI-HY-N-074` Ninefold Ark — Containment, MANDATORY, explicit demand.

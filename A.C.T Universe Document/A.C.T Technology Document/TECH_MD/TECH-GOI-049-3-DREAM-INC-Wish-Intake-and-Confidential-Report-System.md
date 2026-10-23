@@ -22,10 +22,9 @@
 
 #### Archive Note
 The system is catalogued because it may be a technical component rather than a
-records process. A.C.T has not determined whether consumer wishes guide the product, feed the
-machine, alter the source anomaly, or merely help DREAM .INC claim successful dream fulfillment.
-Until that question is answered, intake records are handled as possible technical components rather
-than ordinary customer files.
+records process. A.C.T has not determined whether consumer wishes guide the product, feed the machine, alter
+the source anomaly, or merely help DREAM .INC claim successful dream fulfillment. Until that question is
+answered, intake records are handled as possible technical components rather than ordinary customer files.
 
 The consultation is where the ambiguity is produced. A prospective customer enters through a
 normal building, speaks with a private consultant, completes an apparently confidential discussion, receives a
@@ -54,14 +53,12 @@ COLLECT WHAT CONTAINMENT REQUIRES AND NOTHING MORE.
 The system gathers, protects, and studies consumer wishes on both sides of the transaction.
 Intake collects the wish before use; the confidential report collects the dream after it.
 Between them the company holds a paired record of what a person wanted and
-what they experienced, which is more information about a stranger than most institutions ever
-lawfully obtain.
+what they experienced, which is more information about a stranger than most institutions ever lawfully obtain.
 
 The post-use report is the more dangerous half. It lets the company sort which
-dreams felt successful, which consumers became dependent, which wishes should be avoided, and which
-batch conditions produced unusual aftereffects. Internal communication ordering staff to reclassify client
-reports during a quiet machine condition demonstrates that report categories move when machine state
-moves.
+dreams felt successful, which consumers became dependent, which wishes should be avoided, and which batch
+conditions produced unusual aftereffects. Internal communication ordering staff to reclassify client
+reports during a quiet machine condition demonstrates that report categories move when machine state moves.
 
 The consequence for A.C.T is that this record is as much about Facility conduct
 as about the company's. The primary failure mode is not corporate misuse but secondary
@@ -228,10 +225,9 @@ containment. Analysts must separate consumer vulnerability from corporate culpab
 customer is not automatically GOI staff.
 
 It also cannot be read safely in bulk. Recovered databases, paper forms, call notes,
-appointment recordings, and report summaries must be quarantined from ordinary case-management systems, and
-some words, wish phrasings, or repeated dream descriptions may act as product triggers or
-dependency reinforcement. Whether consumer reports can contaminate other readers with desire for the product
-is unresolved.
+appointment recordings, and report summaries must be quarantined from ordinary case-management systems, and some
+words, wish phrasings, or repeated dream descriptions may act as product triggers or dependency reinforcement.
+Whether consumer reports can contaminate other readers with desire for the product is unresolved.
 
 ---
 

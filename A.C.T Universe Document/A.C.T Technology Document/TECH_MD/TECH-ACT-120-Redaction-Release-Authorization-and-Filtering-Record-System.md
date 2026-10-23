@@ -22,10 +22,8 @@
 
 #### Archive Note
 Redaction Release Authorization and Filtering Record System is the one-hundred-twentieth main A.C.T technology
-expanded into an individual record. The F-5 Redaction and Controlled-Reading Laboratory dossier identifies F-5
-as the
-floor where documents are made safe to release under Facility redaction doctrine. It records
-redaction workrooms,
+expanded into an individual record. The F-5 Redaction and Controlled-Reading Laboratory dossier identifies F-5 as the
+floor where documents are made safe to release under Facility redaction doctrine. It records redaction workrooms,
 controlled-reading cells, memetic filtering infrastructure, redaction records, filtering history, controlled-reading
 documentation, release authorization, safe-release doctrine, and minimum-release doctrine.
 
@@ -54,31 +52,26 @@ RRAFRS is not a black marker and not a censorship shortcut. It is the
 discipline that prevents Kurokawa from confusing
 hiding with making safe. Some documents must be partially released so the Facility can
 brief personnel, support
-operations, preserve history, warn other sites, or maintain legitimate records. RRAFRS ensures that every
-released
+operations, preserve history, warn other sites, or maintain legitimate records. RRAFRS ensures that every released
 fragment has a reason, every removed element has a record, and every authorized copy
 remains tied to the dangerous
 source it came from.
 
 Approved roles include redaction workflow control, minimum-release assessment, filtering record custody, release
 authorization, controlled-reading documentation, safe-copy verification, redaction dispute logging, Intelligence
-review, Medical exposure notation, and rollback or recall when a released form later proves
-unsafe.
+review, Medical exposure notation, and rollback or recall when a released form later proves unsafe.
 
 ---
 
 ## ORIGIN AND DEVELOPMENT
 
-Kurokawa's archive could not seal every dangerous document forever. Some knowledge must move: a
-containment warning,
-an incident lesson, a safe description, a command brief, or a public-compatible record. Early
-redaction practice
+Kurokawa's archive could not seal every dangerous document forever. Some knowledge must move: a containment warning,
+an incident lesson, a safe description, a command brief, or a public-compatible record. Early redaction practice
 showed that removing text was not enough. A gap can imply what was hidden;
 a title can carry hazard; a harmless phrase
 can become dangerous beside the wrong remaining sentence.
 
-F-5 developed as the node's redaction workshop and controlled-reading center. RRAFRS formalizes the record
-and
+F-5 developed as the node's redaction workshop and controlled-reading center. RRAFRS formalizes the record and
 authorization side of that work. It preserves how a document was filtered, who approved
 release, what risks remained,
 and why the final version was judged safe enough to leave the cell.
@@ -194,15 +187,12 @@ by somebody defending the release they made.
 
 Before redaction begins, RRAFRS verifies source custody, document restriction set, intended audience, operational
 need, known hazard type, controlled-reading status, filtering method, and reviewing authority. Redaction staff prepare
-a working copy under F-5 conditions. Every removal, rewrite, visual filter, formatting change, title
-alteration, image
+a working copy under F-5 conditions. Every removal, rewrite, visual filter, formatting change, title alteration, image
 crop, and note suppression is logged with reason.
 
-Release authorization requires confirmation that the remaining material satisfies minimum-release doctrine. Nothing is
-released because it is interesting, convenient, or nearly safe. If Intelligence, Researcher Division, Medical,
-or
-Security objects, the objection remains part of the release record. Approved copies receive a
-release identifier and
+Release authorization requires confirmation that the remaining material satisfies minimum-release doctrine. Nothing
+is released because it is interesting, convenient, or nearly safe. If Intelligence, Researcher Division, Medical, or
+Security objects, the objection remains part of the release record. Approved copies receive a release identifier and
 recall route. If later exposure indicates hazard, the release can be traced back to
 the exact filtering decision that
 failed.
@@ -219,10 +209,8 @@ failed.
 | Monthly | test the rollback route end to end |
 | Quarterly | review the filtering log for missing actions |
 
-The weekly audit against the minimum standard is the meaningful check. Overrelease is invisible
-at the
-decision terminal because every individual release looks defensible; it is visible only when a
-month of
+The weekly audit against the minimum standard is the meaningful check. Overrelease is invisible at the
+decision terminal because every individual release looks defensible; it is visible only when a month of
 releases is compared with the requests that prompted them.
 
 ## FAULT ISOLATION
@@ -239,16 +227,13 @@ releases is compared with the requests that prompted them.
 
 RRAFRS can document redaction and release, but it cannot guarantee that a safe copy
 remains safe in every future
-context. A document may become dangerous when quoted, translated, reformatted, read aloud, paired with
-another file,
-restored from memory, or placed inside a public narrative. Redaction also cannot remove every
-risk if the danger lies
+context. A document may become dangerous when quoted, translated, reformatted, read aloud, paired with another file,
+restored from memory, or placed inside a public narrative. Redaction also cannot remove every risk if the danger lies
 in the fact that something was withheld.
 
 Known failure modes include underredaction, overredaction that hides needed warning, dangerous implication through
 gaps, unsafe title retention, formatting-trigger survival, release audience drift, objection ignored, recall route
-failure, safe copy altered after export, and staff believing redaction has destroyed the source
-hazard rather than
+failure, safe copy altered after export, and staff believing redaction has destroyed the source hazard rather than
 controlled one form of it.
 
 ---
@@ -263,12 +248,10 @@ Current doctrine requires minimum necessary release, not maximum comfortable und
 ### RRAFRS-Filtering History Correction
 A release dispute showed that a document could appear safe while no one could
 reconstruct which filtering step removed
-the actual hazard. Current RRAFRS records preserve filtering history as part of the release
-authorization itself.
+the actual hazard. Current RRAFRS records preserve filtering history as part of the release authorization itself.
 
 ### RRAFRS-Recall Route Finding
-A released copy later required restriction after a related file changed its meaning. Current
-procedure gives every
+A released copy later required restriction after a related file changed its meaning. Current procedure gives every
 approved copy a recall route and treats safe release as maintained status, not a
 permanent blessing.
 
@@ -276,8 +259,7 @@ permanent blessing.
 
 ## DIVISION USE
 
-Archive Division operates the redaction workflow and preserves release records. Intelligence reviews wider secrecy
-and
+Archive Division operates the redaction workflow and preserves release records. Intelligence reviews wider secrecy and
 public-risk implications. Researcher Division supplies hazard mechanism findings from F-4. Medical records exposure
 concerns from controlled reading. Security enforces copy custody, release restriction, and recall action.
 

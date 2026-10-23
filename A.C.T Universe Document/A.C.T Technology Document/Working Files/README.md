@@ -13,9 +13,8 @@ This folder sits inside the Technology Document because the work it belongs to i
 A working file lives next to the activity that produced it, not in one central place, the way the
 Anomaly Document keeps its `Log/` subfolder inside itself.
 
-Nothing in here is cited by a technology record, and no technology record is cited by anything in
-here. Where a working file says something that matters, the record says it properly and this file
-says so.
+Nothing in here is cited by a technology record, and no technology record is cited by anything in here.
+Where a working file says something that matters, the record says it properly and this file says so.
 
 ## What is in here
 
@@ -40,11 +39,10 @@ says so.
 
 ## Six offices write here, and none of them is writing a record
 
-The junior hedges and records what they got wrong. The researcher observes without concluding and
-says so. Medical Care writes about the people and not the object. Legal writes advice in progress
-and marks it privileged and says plainly that it is not a ruling. Engineering gives three
-possibilities and does not choose between them. Site Command writes to everybody about a small
-thing that keeps happening.
+The junior hedges and records what they got wrong. The researcher observes without concluding and says
+so. Medical Care writes about the people and not the object. Legal writes advice in progress and marks
+it privileged and says plainly that it is not a ruling. Engineering gives three possibilities and does
+not choose between them. Site Command writes to everybody about a small thing that keeps happening.
 
 Six registers, and a reader should be able to tell them apart without being told who wrote which.
 None of them belongs in a technology record, and all of them belong in the folder beside it.

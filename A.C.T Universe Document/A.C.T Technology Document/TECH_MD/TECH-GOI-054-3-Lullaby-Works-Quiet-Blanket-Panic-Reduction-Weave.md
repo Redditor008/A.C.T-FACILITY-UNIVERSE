@@ -21,21 +21,18 @@
 | AUTHORITY | Subject Care Division, Medical Division, and Central Archive |
 
 #### Archive Note
-The Quiet Blanket is the third Lullaby Works product expanded into an individual technology
-record. It is catalogued
+The Quiet Blanket is the third Lullaby Works product expanded into an individual technology record. It is catalogued
 because it is the only item in the recovered range whose stated function is
 a partial effect, and because that
 partiality is the entire design.
 
 The Lullaby Works dossier records blankets that **reduce recurring post-incident panic without full memory
-suppression**. That single clause distinguishes the product from A.C.T amnestic practice, and it is
-the reason this
+suppression**. That single clause distinguishes the product from A.C.T amnestic practice, and it is the reason this
 record exists. A.C.T routinely removes memory to end panic. Lullaby Works deliberately does not.
 
 No complete unit has been recovered for destructive study. Cut samples exist; a full
 blanket has never been opened,
-and the dossier warns that several Lullaby Works items fail violently or lose protective
-value when opened by force.
+and the dossier warns that several Lullaby Works items fail violently or lose protective value when opened by force.
 
 Controlled label: **LULLABY WORKS CHILD-CARE DISCLOSURE LIMIT**.
 
@@ -55,8 +52,7 @@ witnessed an anomalous event.
 It does not sedate, does not suppress memory, and does not prevent the child
 from describing what happened.
 
-Confirmed behaviour is reduction in recurrence, not prevention. Witness and caregiver reports describe fewer
-night
+Confirmed behaviour is reduction in recurrence, not prevention. Witness and caregiver reports describe fewer night
 episodes over successive nights rather than an immediate effect on the first night. The
 dossier's phrasing — reduce
 recurring panic — indicates a cumulative rather than an instantaneous function, and A.C.T treats
@@ -79,16 +75,12 @@ not a sensor.
 
 Manufactured by Lullaby Works. No lot label has been recovered for the bedding line.
 The dossier records the same
-distribution routes as the rest of the range: purchase, donation, inheritance, misplaced delivery, school
-counsellor
+distribution routes as the rest of the range: purchase, donation, inheritance, misplaced delivery, school counsellor
 issue, hospital discharge bag, or shelter supply.
 
-Custody is joint between Subject Care Division and Medical Division, because the product's function
-overlaps with
-post-incident psychiatric care. Engineering Division holds cut samples only. No blanket in a child's
-possession may be
-removed without Subject Care authorization, and Medical Division must be consulted before any blanket
-is withdrawn
+Custody is joint between Subject Care Division and Medical Division, because the product's function overlaps with
+post-incident psychiatric care. Engineering Division holds cut samples only. No blanket in a child's possession may be
+removed without Subject Care authorization, and Medical Division must be consulted before any blanket is withdrawn
 from a child in active recovery.
 
 A.C.T holds no complete unit. The decision not to seek one deliberately was made
@@ -101,8 +93,7 @@ force-opening loss, recorded in TECH-GOI-054-2.
 
 The unit presents as an ordinary child's blanket of domestic size and weight. Nothing
 about the exterior indicates
-function, consistent with the Lullaby Works design preference for soft materials, low-threat shapes, and
-familiar
+function, consistent with the Lullaby Works design preference for soft materials, low-threat shapes, and familiar
 domestic objects.
 
 Known external features:
@@ -118,22 +109,18 @@ material samples taken from a unit **remain warm when separated from the item bo
 the same finding recorded for
 the plush and the strongest physical evidence that the textile is not inert; fibre
 comparison against commercial
-children's bedding has not produced a match, and Engineering has not identified the fibre
-type; the weave does not
+children's bedding has not produced a match, and Engineering has not identified the fibre type; the weave does not
 correspond to any pattern in the Engineering textile reference set.
 
 The blanket carries the **half-moon** mark and the **three quiet nights** line. It is
 the only recovered item whose
-instruction card sets out no handling rule whatsoever, and that absence is informative: the
-manufacturer told
+instruction card sets out no handling rule whatsoever, and that absence is informative: the manufacturer told
 caregivers nothing to do, which is what you write for a product whose function
 depends on being left exactly where it
 is.
 
-Laundering behaviour is unknown and is an active risk. A.C.T has not established whether
-washing degrades, resets, or
-destroys the weave, and no laundering trial has been authorized because it would consume
-a unit still in service.
+Laundering behaviour is unknown and is an active risk. A.C.T has not established whether washing degrades, resets, or
+destroys the weave, and no laundering trial has been authorized because it would consume a unit still in service.
 
 What separates the blanket from the rest of the range is its timescale. Everything
 else in the Lullaby Works set
@@ -200,8 +187,7 @@ carried as an open safety risk rather than as a theoretical concern.
 
 ## OPERATING PROCEDURE
 
-Blankets in a child's possession stay there. Field personnel do not confiscate, cut, weigh,
-wash, or test a service
+Blankets in a child's possession stay there. Field personnel do not confiscate, cut, weigh, wash, or test a service
 unit.
 
 Standing rules:
@@ -210,10 +196,8 @@ do not cut a service unit; A.C.T holds samples only, taken from units already
 out of service; do not wash, dry, or
 iron a service unit, and do not advise a family to do so until
 laundering behaviour is established; do not remove a
-blanket from a child in active recovery without Medical Division concurrence; assess effect over
-nights rather than
-immediately, and record night-by-night episode counts rather than a single observation; do not present
-the blanket to
+blanket from a child in active recovery without Medical Division concurrence; assess effect over nights rather than
+immediately, and record night-by-night episode counts rather than a single observation; do not present the blanket to
 a family as treatment for the event itself. It reduces recurrence of panic. It
 does not resolve the incident.
 
@@ -222,15 +206,13 @@ directly and does not deflect. The
 product is protective in every case A.C.T has observed, and refusal to say so
 damages trust without improving safety.
 
-Sample inspection proceeds fibre, weave, hem, tag, plate, warmth at rest. Warmth is recorded,
-not investigated in the
+Sample inspection proceeds fibre, weave, hem, tag, plate, warmth at rest. Warmth is recorded, not investigated in the
 field.
 
 ### Numbered Operating Sequence
 
-The sequence exists because this is the only product in the range whose effect can be watched accumulate, which makes
-it the easiest one to misread. A single calm night is not a result and a single bad night is
-not a failure.
+The sequence exists because this is the only product in the range whose effect can be watched accumulate, which
+makes it the easiest one to misread. A single calm night is not a result and a single bad night is not a failure.
 
 1. Confirm the blanket belongs to the child and is in daily use.
 2. Set an assessment window measured in nights, not hours.
@@ -288,14 +270,12 @@ adult effect.
 
 It cannot be tested, cannot be repaired, and cannot be replaced by A.C.T.
 
-Laundering behaviour is the largest unresolved operational risk. A family that washes the blanket
-may destroy the only
+Laundering behaviour is the largest unresolved operational risk. A family that washes the blanket may destroy the only
 protective item the child has, and A.C.T currently has no guidance to give them.
 This is recorded as an open safety
 gap rather than as a theoretical concern.
 
-The product does not replace care. Subject Care Division warns against allowing a blanket
-to become the reason a child
+The product does not replace care. Subject Care Division warns against allowing a blanket to become the reason a child
 is not referred for follow-up.
 
 ---
@@ -313,8 +293,7 @@ do not read it as an oversight and attempt destructive sampling on a service
 unit.
 
 ### UNIDENTIFIED FIBRE — SAMPLE SERIES
-Fibre comparison across all held samples failed to match any commercial children's bedding fibre
-in the Engineering
+Fibre comparison across all held samples failed to match any commercial children's bedding fibre in the Engineering
 reference set, and no fibre type has been identified. The series was closed as
 inconclusive. No escalation route
 exists that does not require consuming a sample still needed for warmth observation.
@@ -330,17 +309,12 @@ is visible rather than assumed.
 
 ## DIVISION USE
 
-Subject Care Division authorizes retention, transfer, and removal, and owns the family conversation. Medical
-Division
-advises on post-incident recovery, sets the night-by-night assessment window, and must concur before withdrawal
-from a
-child in active care. Engineering Division inspects samples, records weave and fibre findings, and
-holds the warmth
-observation. Containment Division treats the blanket as a care asset, not a containment asset,
-and does not handle it
+Subject Care Division authorizes retention, transfer, and removal, and owns the family conversation. Medical Division
+advises on post-incident recovery, sets the night-by-night assessment window, and must concur before withdrawal from a
+child in active care. Engineering Division inspects samples, records weave and fibre findings, and holds the warmth
+observation. Containment Division treats the blanket as a care asset, not a containment asset, and does not handle it
 during an incident. Archive holds inspection records and sample provenance under restricted access. Intelligence
-tracks the half-moon stitch, the three-quiet-nights line, and any appearance of the weave in
-unrelated textile
+tracks the half-moon stitch, the three-quiet-nights line, and any appearance of the weave in unrelated textile
 products. Civil Covert maintains the cover position for families.
 
 ---
@@ -356,8 +330,7 @@ products. Civil Covert maintains the cover position for families.
  tolerance;
 - Subject Care Division post-incident recovery guidance [restricted].
 
-A textile whose fibre Engineering cannot identify cannot be specified in the Visual Reference
-Guide, and a product
+A textile whose fibre Engineering cannot identify cannot be specified in the Visual Reference Guide, and a product
 with no recovered lot label cannot be numbered in the Master Catalog. The omission
 follows from what A.C.T failed to
 recover, not from a filing decision.

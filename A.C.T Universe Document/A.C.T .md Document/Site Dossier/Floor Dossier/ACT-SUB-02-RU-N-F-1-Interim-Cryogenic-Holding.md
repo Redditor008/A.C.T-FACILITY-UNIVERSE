@@ -17,12 +17,10 @@
 
 ## Archive Note
 
-This file is the complete individual record of **F-1, the Interim Cryogenic Holding**, the
-deepest numbered floor of
+This file is the complete individual record of **F-1, the Interim Cryogenic Holding**, the deepest numbered floor of
 **ACT-SUB-02-RU-N, the Frost Hollow Depot**.
 
-The Frost Hollow Depot exists to absorb the seasonal pressure that would otherwise over-concentrate
-biological
+The Frost Hollow Depot exists to absorb the seasonal pressure that would otherwise over-concentrate biological
 material at White Grave Station. Its deepest level, F-1, is where that absorption is
 stored: interim cryogenic storage
 for material awaiting transfer to the parent station. Holding here is measured in days
@@ -32,8 +30,7 @@ the level entirely.
 
 This dossier records the floor in full institutional language: what it is, what it
 holds, how it is built, how it is
-guarded, and how the depot's deepest cold serves an installation whose entire purpose is
-the staging of material for
+guarded, and how the depot's deepest cold serves an installation whose entire purpose is the staging of material for
 the long sleep at White Grave.
 
 ---
@@ -42,10 +39,8 @@ the long sleep at White Grave.
 
 **Site Designation:** ACT-SUB-02-RU-N **Site Codename:** Frost Hollow Depot **Parent Command:** ACT-SITE-02-RU-N —
 White Grave Station **Floor Designation:** F-1 **Floor Name:** Interim Cryogenic Holding **Floor Type:** Interim
-Cold-Storage Level **Vertical Position:** Deepest numbered floor of the depot's buried component **Floors Above:**
-F-2
-(Quarantine and Assessment Level) **Floors Below:** None numbered — below F-1 lies permafrost and
-the depot's deepest
+Cold-Storage Level **Vertical Position:** Deepest numbered floor of the depot's buried component **Floors Above:** F-2
+(Quarantine and Assessment Level) **Floors Below:** None numbered — below F-1 lies permafrost and the depot's deepest
 utility routing **Containment Character:** Interim cryogenic storage under temporary suppression **Primary Function:**
 Interim cryogenic storage for biological material awaiting transfer to White Grave Station **Access Posture:**
 Restricted; transfer-authorized access **Current Status:** Active **Doctrine Note:** Holding measured in days to weeks
@@ -57,14 +52,11 @@ the level
 
 ## 2. Dossier Purpose
 
-White Grave Station receives biological material on schedules dictated by the seasons and by
-its own containment
-capacity. Between recovery and the parent station's readiness stands the Frost Hollow Depot —
-and between the depot's
+White Grave Station receives biological material on schedules dictated by the seasons and by its own containment
+capacity. Between recovery and the parent station's readiness stands the Frost Hollow Depot — and between the depot's
 surface and its purpose stands F-1.
 
-F-1 is the depot's interim cryogenic holding level: the floor where incoming biological material
-is held in cold
+F-1 is the depot's interim cryogenic holding level: the floor where incoming biological material is held in cold
 storage while it awaits transfer to White Grave. The floor exists to buy the
 parent station time — holding material in
 a stable, suppressed, interim state for the days to weeks that the transfer schedule
@@ -76,22 +68,18 @@ requires, and never for longer.
 
 ### 3.1 Vertical Position
 
-F-1 occupies the lowest numbered level of the depot's buried component, sitting beneath F-2,
-the Quarantine and
+F-1 occupies the lowest numbered level of the depot's buried component, sitting beneath F-2, the Quarantine and
 Assessment Level. It is the deepest point of a compact installation built for cold.
 
 ### 3.2 What Lies Below F-1
 
-Below the holding structure lie permafrost and the depot's deepest utility routing. The depot
-is a staging
+Below the holding structure lie permafrost and the depot's deepest utility routing. The depot is a staging
 installation, and the cold ground beneath F-1 is the floor's final environmental ally.
 
 ### 3.3 Relationship to the Surface
 
-Between F-1 and the legitimate arctic cold-storage facility above stand the quarantine and assessment
-level and the
-surface cover. The floor's security depends on the depot's control architecture and on the
-arctic isolation that
+Between F-1 and the legitimate arctic cold-storage facility above stand the quarantine and assessment level and the
+surface cover. The floor's security depends on the depot's control architecture and on the arctic isolation that
 surrounds the entire installation.
 
 ---
@@ -100,10 +88,8 @@ surrounds the entire installation.
 
 ### 4.1 Development of the Interim Holding Level
 
-F-1's character developed as the depot's function was formalized: built to solve the seasonal
-pressure problem that
-over-concentrated material at White Grave, the depot required an interim cold-storage level where incoming
-material
+F-1's character developed as the depot's function was formalized: built to solve the seasonal pressure problem that
+over-concentrated material at White Grave, the depot required an interim cold-storage level where incoming material
 could wait for the parent station's capacity.
 
 ### 4.2 The Interim Doctrine
@@ -116,8 +102,7 @@ days to weeks, never the long-term commitment of the parent station's holding do
 
 ### 4.3 Modern Configuration
 
-In its modern configuration, F-1 is the depot's interim cryogenic holding level: the floor
-where incoming biological
+In its modern configuration, F-1 is the depot's interim cryogenic holding level: the floor where incoming biological
 material is held in the cold until the transfer schedule carries it to White
 Grave.
 
@@ -127,8 +112,7 @@ Grave.
 
 ### 5.1 Floor Command
 
-F-1 operates under the depot's Sub-Site Chief, through the depot's containment and medical quarantine
-staff.
+F-1 operates under the depot's Sub-Site Chief, through the depot's containment and medical quarantine staff.
 Day-to-day holding operations are administered by a **Holding Officer** appointed by the Chief.
 
 ### 5.2 Authority over Holdings
@@ -140,10 +124,8 @@ handling under the depot's interim doctrine. Transfer scheduling is coordinated 
 
 F-1 holds no authority to keep material beyond the depot's interim window, no authority
 over material requiring the
-parent station's long-term containment, and no authority to transfer material to any destination other
-than the parent
-station or the destinations it authorizes. Its role is to hold incoming biological material
-briefly and to prepare it
+parent station's long-term containment, and no authority to transfer material to any destination other than the parent
+station or the destinations it authorizes. Its role is to hold incoming biological material briefly and to prepare it
 for the long sleep.
 
 ---
@@ -157,8 +139,7 @@ staging of material for transfer.
 
 ### 6.2 Security Staff
 
-Security personnel guard the floor's access architecture and enforce the handling rules that govern
-the floor's
+Security personnel guard the floor's access architecture and enforce the handling rules that govern the floor's
 holdings.
 
 ### 6.3 Limited Containment Support
@@ -183,8 +164,7 @@ F-1 is organized around **interim cryogenic storage infrastructure**:
 
 ### 7.2 The Cryogenic Storage Units
 
-The floor's storage units hold incoming biological material in interim cold: units engineered to
-maintain material in
+The floor's storage units hold incoming biological material in interim cold: units engineered to maintain material in
 a stable, suppressed state for the days to weeks of the staging period. The
 units are simpler than the parent
 station's long-term vaults — the depot does not need permanent capacity because it does
@@ -193,17 +173,14 @@ to require it.
 
 ### 7.3 The Transfer Preparation Area
 
-The floor's transfer preparation area is where staged material is made ready for movement:
-verified, stabilized, and
-prepared for transport to White Grave under the depot's chain-of-custody standard. The area is
-the floor's most
+The floor's transfer preparation area is where staged material is made ready for movement: verified, stabilized, and
+prepared for transport to White Grave under the depot's chain-of-custody standard. The area is the floor's most
 important space — the point where the depot's purpose of passing material to the
 parent station is fulfilled.
 
 ### 7.4 Construction Standard
 
-F-1 is built to the depot's cold-capable standard: robust insulated structure, compartmented services, and
-the
+F-1 is built to the depot's cold-capable standard: robust insulated structure, compartmented services, and the
 cryogenic infrastructure that the arctic environment and the depot's purpose both demand.
 
 ---
@@ -218,23 +195,19 @@ continuity on the floor is treated as a containment parameter.
 
 ### 8.2 Environment
 
-The floor's environmental systems maintain the cold conditions that the depot's interim holding requires:
-cryogenic
-regulation per unit, compartmented air handling, and the thermal infrastructure that makes cold holding
-possible in
+The floor's environmental systems maintain the cold conditions that the depot's interim holding requires: cryogenic
+regulation per unit, compartmented air handling, and the thermal infrastructure that makes cold holding possible in
 the arctic.
 
 ### 8.3 Monitoring
 
-Every storage unit on F-1 is under continuous monitoring: cryogenic, environmental, and biological. Monitoring
-feeds
+Every storage unit on F-1 is under continuous monitoring: cryogenic, environmental, and biological. Monitoring feeds
 the floor command post and the depot's watch, and is designed to detect any
 drift in a holding's suppressed state.
 
 ### 8.4 Communication
 
-The floor maintains communication with the depot's levels and with White Grave Station's transfer
-coordination.
+The floor maintains communication with the depot's levels and with White Grave Station's transfer coordination.
 Documentation is exact and time-limited: every holding's record is tied to its transfer schedule.
 
 ---
@@ -249,25 +222,20 @@ holding authorization, with the floor's transient holdings governed by documente
 
 ### 9.2 The F-1 Closure Procedure
 
-The floor's defining security procedure is the **F-1 closure**: sealing the level to the
-outside during a breach
-response. Because the depot's holdings are interim and suppressed, the closure procedure is designed
-to contain the
-floor's material within the sealed level until the condition that triggered the closure is
-resolved.
+The floor's defining security procedure is the **F-1 closure**: sealing the level to the outside during a breach
+response. Because the depot's holdings are interim and suppressed, the closure procedure is designed to contain the
+floor's material within the sealed level until the condition that triggered the closure is resolved.
 
 ### 9.3 Escalation Handling
 
 The depot's doctrine is explicit: material that cannot be safely transferred, or whose disposition
 demands
-disappearance rather than delivery, is handled at the depot under the parent station's authority
-— through the silent
+disappearance rather than delivery, is handled at the depot under the parent station's authority — through the silent
 removal doctrine — without disturbing the cover or the transport schedule.
 
 ### 9.4 Transfer Security
 
-The floor's transfer operations move material to White Grave under documented chain-of-custody, on the
-parent
+The floor's transfer operations move material to White Grave under documented chain-of-custody, on the parent
 station's schedule, and never without the authorization the material's status requires.
 
 ---
@@ -278,8 +246,7 @@ station's schedule, and never without the authorization the material's status re
 
 F-1 does not maintain a resident register in the holding sense. Its manifest is
 a rolling record of staging material:
-incoming biological material held briefly and transferred. The floor's documentation is tied to the
-transfer schedule
+incoming biological material held briefly and transferred. The floor's documentation is tied to the transfer schedule
 that governs every holding.
 
 ### 10.2 Holding Character
@@ -293,8 +260,7 @@ F-1 holds biological material in interim cryogenic storage:
 
 Material on F-1 follows one of two dispositions: transfer to White Grave Station for
 long-term containment, or — where
-the parent station's authority determines it — silent removal from the transport chain. The
-floor holds both
+the parent station's authority determines it — silent removal from the transport chain. The floor holds both
 dispositions in the same interim cold, without disturbing the cover or the schedule.
 
 ---
@@ -303,21 +269,18 @@ dispositions in the same interim cold, without disturbing the cover or the sched
 
 ### 11.1 Rotation
 
-F-1 personnel serve on tightly controlled rotations from the depot's staff, drawn from the
-medical quarantine and
+F-1 personnel serve on tightly controlled rotations from the depot's staff, drawn from the medical quarantine and
 security personnel who also serve the depot's assessment functions.
 
 ### 11.2 Duty Life
 
 Duty on F-1 is cold-storage work: cryogenic monitoring, suppression verification, documentation, and transfer
-preparation. The floor's rhythm follows the seasonal transfer waves — periods of heavy staging,
-followed by
+preparation. The floor's rhythm follows the seasonal transfer waves — periods of heavy staging, followed by
 consolidation as material moves to White Grave.
 
 ### 11.3 The Interim Discipline
 
-The floor's personnel work under the depot's interim discipline: the understanding that everything on
-the floor is
+The floor's personnel work under the depot's interim discipline: the understanding that everything on the floor is
 waiting — and that the wait is always short. Personnel on F-1 learn to
 hold material in stable cold without
 attachment, preparing every holding for the transfer that defines its purpose.
@@ -335,10 +298,8 @@ Grave.
 
 ### 12.2 Suppression Doctrine
 
-F-1 doctrine holds that interim holding is maintained suppression: material on the floor is
-held in stable, suppressed
-states sufficient to carry it through the staging period, without the long-term environmental commitment
-of the parent
+F-1 doctrine holds that interim holding is maintained suppression: material on the floor is held in stable, suppressed
+states sufficient to carry it through the staging period, without the long-term environmental commitment of the parent
 station's doctrine.
 
 ### 12.3 Closure Doctrine
@@ -351,10 +312,8 @@ depot maintains the procedure so that closure is executed without hesitation.
 
 ## 13. Incident Archive
 
-The floor's incident record is dominated by staging events: cryogenic incidents, suppression system events,
-and
-transfer coordination issues. Material that exceeds the depot's capacity moves to the parent station,
-and the floor's
+The floor's incident record is dominated by staging events: cryogenic incidents, suppression system events, and
+transfer coordination issues. Material that exceeds the depot's capacity moves to the parent station, and the floor's
 history is largely the history of successful staging.
 
 ---

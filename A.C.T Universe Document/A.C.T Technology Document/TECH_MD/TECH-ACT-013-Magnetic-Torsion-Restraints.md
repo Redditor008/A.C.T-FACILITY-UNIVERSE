@@ -21,14 +21,11 @@
 | AUTHORITY | Containment Division, Engineering Division, Tactical Review Desk, and Central Archive |
 
 #### Archive Note
-Magnetic Torsion Restraints are the thirteenth main A.C.T technology expanded into an individual record.
-The Master
-Catalog defines them as superconducting magnetic arrays with capacity above twenty tons, calibrated for
-inhibition of
+Magnetic Torsion Restraints are the thirteenth main A.C.T technology expanded into an individual record. The Master
+Catalog defines them as superconducting magnetic arrays with capacity above twenty tons, calibrated for inhibition of
 self-organizing metallic mass. The visual reference guide describes massive wall-mounted brushed surgical-steel rings
 with liquid-helium circulation vents, gravity-compensation arms, a redacted frequency dial, manual lockdown levers,
-digital magnetic load gauge, and torso-thick power conduits pulsing with blue LED light. AFD-OB-221
-HIGENMARU-KORIN
+digital magnetic load gauge, and torso-thick power conduits pulsing with blue LED light. AFD-OB-221 HIGENMARU-KORIN
 also names MTR as the breach response for an unsheathed blade, with the direct
 warning not to parry the weapon with
 standard equipment.
@@ -51,8 +48,7 @@ LOCK THE TURN BEFORE THE EDGE FINDS A LINE.
 ## FUNCTION SUMMARY
 
 Magnetic Torsion Restraints use superconducting field arrays to inhibit rotation, self-assembly, bending, unsheathing,
-reorientation, and force-transfer in dangerous metallic or partly metallic anomalies. The system does not
-merely pull
+reorientation, and force-transfer in dangerous metallic or partly metallic anomalies. The system does not merely pull
 metal toward a wall. It controls the way mass is allowed to twist. This
 makes MTR useful against self-organizing
 metal, anomalous blades, unstable armored bodies, metallic limbs, shifting restraints, and objects that become
@@ -79,17 +75,14 @@ Approved uses include:
 
 ## ORIGIN AND CUSTODY
 
-MTR development began after ordinary magnetic clamps failed against anomalies that could reorganize their
-own load
-path. A.C.T needed restraint that could control torque, angle, and intent-linked motion rather than
-simple position.
+MTR development began after ordinary magnetic clamps failed against anomalies that could reorganize their own load
+path. A.C.T needed restraint that could control torque, angle, and intent-linked motion rather than simple position.
 Engineering adapted superconducting arrays into ring assemblies and added gravity-compensation arms when early systems
 tore mounts out of walls during mass-shift events.
 
 Custody belongs to Containment Division and Engineering Division. Object Containment requests rigs for metallic
 artifacts. Tactical Review controls special-response doctrine for weapon-class anomalies. Site Command authorizes
-emergency activation. Security trains on manual lockdown only where permanent installations exist. Mobile MTR
-rigs are
+emergency activation. Security trains on manual lockdown only where permanent installations exist. Mobile MTR rigs are
 rare and require route, floor, and power review before movement.
 
 Frequency dial data remains Level 4 because the wrong setting may teach a weapon
@@ -99,14 +92,10 @@ how the lock thinks.
 
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
-A fixed MTR station consists of wall-mounted rings of brushed surgical steel surrounding a
-target position, locker
-mouth, specimen cradle, or weapon arc. Liquid-helium circulation vents keep the superconducting array within
-safe
-operating range. Gravity-compensation arms adjust pitch when the subject changes mass or load direction.
-The control
-console holds manual lockdown levers, the redacted frequency dial, load gauge, field-balance indicators, and
-an
+A fixed MTR station consists of wall-mounted rings of brushed surgical steel surrounding a target position, locker
+mouth, specimen cradle, or weapon arc. Liquid-helium circulation vents keep the superconducting array within safe
+operating range. Gravity-compensation arms adjust pitch when the subject changes mass or load direction. The control
+console holds manual lockdown levers, the redacted frequency dial, load gauge, field-balance indicators, and an
 emergency dump cover.
 
 Known components include:
@@ -185,8 +174,7 @@ attack.
 - Weakest against nonmetallic anomalies and metal that changes identity.
 - Weakest against mass that splits into dust, or motion transferred through nonlocal intent.
 
-Helium capacity, boil-off rate, and ambient temperature limits are not recorded in this file.
-Cryogenic
+Helium capacity, boil-off rate, and ambient temperature limits are not recorded in this file. Cryogenic
 envelope: NOT MEASURED.
 
 ## OPERATING PROCEDURE
@@ -210,24 +198,19 @@ is still moving. Emergency: during HIGENMARU-KORIN breach response the restraint
 spatial line rather than the wielder's body, and standard equipment must not attempt a
 parry.
 
-Before activation, operators confirm subject composition, expected movement, floor load, RSA baseline, and escape
-arc.
-MTR is never activated as a surprise around unknown personnel unless breach conditions override
-injury risk. Once the
+Before activation, operators confirm subject composition, expected movement, floor load, RSA baseline, and escape arc.
+MTR is never activated as a surprise around unknown personnel unless breach conditions override injury risk. Once the
 subject is within the approved zone, the operator engages field balance, waits for the
 load gauge to settle, then
 applies torsion lock. Manual levers remain guarded until Site Command releases the rig.
 
-During HIGENMARU-KORIN breach response, the restraint target is the blade's spatial line, not the
-wielder's body.
-Standard equipment must not attempt a parry. DRS readings for crimson-frequency vibration and scabbard
-phase-lock
+During HIGENMARU-KORIN breach response, the restraint target is the blade's spatial line, not the wielder's body.
+Standard equipment must not attempt a parry. DRS readings for crimson-frequency vibration and scabbard phase-lock
 status remain attached to the response decision.
 
 Do not climb inside an inactive ring. Do not store ordinary tools within a
 restraint arc. Do not use MTR as a crane,
-weapon rack, or demonstration magnet. Do not adjust frequency while the subject is learning
-unless Tactical Review
+weapon rack, or demonstration magnet. Do not adjust frequency while the subject is learning unless Tactical Review
 gives the order.
 
 ---
@@ -243,8 +226,7 @@ gives the order.
 | Mobile rig authorization | authorization and rig check | Level 4 |
 | Load gauge lag suspected | gauge verification against a known load | Engineering Division |
 
-No calendar interval is recorded; servicing is triggered by lock events and cryogenic state,
-so interval NOT
+No calendar interval is recorded; servicing is triggered by lock events and cryogenic state, so interval NOT
 MEASURED. Liquid helium is the one true consumable in this record. The 2004 gravity
 arm kick is why anchor
 inspection follows every red-zone lock instead of every scheduled visit.
@@ -262,18 +244,15 @@ inspection follows every red-zone lock instead of every scheduled visit.
 
 ## KNOWN LIMITS
 
-MTR is weakest against nonmetallic anomalies, metal that changes identity, subjects that transfer motion
-through
+MTR is weakest against nonmetallic anomalies, metal that changes identity, subjects that transfer motion through
 nonlocal intent, mass that splits into dust, blades that cut only selected targets, and
 objects whose danger is
-conceptual rather than mechanical. It cannot replace containment judgment. A restrained sword may still
-make someone
+conceptual rather than mechanical. It cannot replace containment judgment. A restrained sword may still make someone
 want to draw it. A locked mass may still radiate heat, sound, memetic instruction,
 or biological contamination.
 
 Known failure modes include field heating, helium loss, load-gauge lag, mount shear, gravity-arm overcorrection,
-frequency sympathy, lock inversion, and false stillness. False stillness occurs when the visible object
-stops but the
+frequency sympathy, lock inversion, and false stillness. False stillness occurs when the visible object stops but the
 harmful edge, intent, or internal motion continues.
 
 ---
@@ -288,14 +267,11 @@ load. The event led to
 field-balance monitoring and surface-motion checks.
 
 ### MTR-2004 Gravity Arm Kick
-A mass-shift event caused a gravity-compensation arm to adjust faster than the wall anchors
-could absorb. The rig held
-the subject but cracked the supporting bay. Engineering now requires anchor inspection after every
-red-zone lock.
+A mass-shift event caused a gravity-compensation arm to adjust faster than the wall anchors could absorb. The rig held
+the subject but cracked the supporting bay. Engineering now requires anchor inspection after every red-zone lock.
 
 ### MTR-2017 Blade Arc Drill
-During a simulated unsheathed HIGENMARU-KORIN response, trainees attempted to target the hilt instead of
-the blade
+During a simulated unsheathed HIGENMARU-KORIN response, trainees attempted to target the hilt instead of the blade
 line. Tactical Review failed the drill and added the standing warning: lock the edge's
 future, not the hand's present.
 
@@ -304,8 +280,7 @@ future, not the hand's present.
 ## DIVISION USE
 
 Containment operates installed systems and logs every activation. Engineering maintains superconducting arrays, helium
-circulation, arms, anchors, and load gauges. Object Containment assigns rigs to heavy artifacts. Tactical
-Review
+circulation, arms, anchors, and load gauges. Object Containment assigns rigs to heavy artifacts. Tactical Review
 writes weapon-class response rules. Security guards manual controls during lockdown. Site Command approves emergency
 field changes. Archive stores frequency incidents under restricted access.
 

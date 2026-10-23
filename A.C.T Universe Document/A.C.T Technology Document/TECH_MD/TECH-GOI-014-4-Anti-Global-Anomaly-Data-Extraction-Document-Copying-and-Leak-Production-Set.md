@@ -186,8 +186,7 @@ recruiting on, so the countermeasure restores an ordinary explanation rather tha
 
 The annual review separates two problems that look identical from outside. An accidental leak
 is an archive-discipline failure and is fixed by handling rules; a prepared leak is
-an active narrative operation and is fixed by countermeasure. The responses do not substitute
-for each other.
+an active narrative operation and is fixed by countermeasure. The responses do not substitute for each other.
 
 ---
 
@@ -260,9 +259,8 @@ information-hazard exposure. Command Liaison approves any public statement.
 - ACT-SITE-03-JP-E — Kurokawa Archive Node, Site Record.
 
 Neither the Master Catalog nor the Visual Reference Guide carries this set. The Catalog
-numbers assets A.C.T issues and this is recovered hostile material under information quarantine. The
-Visual Reference Guide describes hardware personnel maintain; the operative component here is a document,
-not a device.
+numbers assets A.C.T issues and this is recovered hostile material under information quarantine. The Visual
+Reference Guide describes hardware personnel maintain; the operative component here is a document, not a device.
 
 ---
 

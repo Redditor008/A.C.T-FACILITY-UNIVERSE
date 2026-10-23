@@ -81,11 +81,10 @@ complete cult ledger is held. Departure interviews are the weakest and most usef
 interviews with individuals separated from peripheral activity indicate that a safe departure path can
 interrupt recruitment more effectively than immediate public confrontation.
 
-Procurement traces are treated as intelligence priorities, particularly where a Dredger seeks deep-water
-information or equipment inconsistent with declared work. ACT-SITE-01-US-W / Redwood Veil Complex supports
-recovery, urban-route tracing, artifact interdiction, and concealed logistics where a cell intersects
-commercial movement or black-market acquisition. The Cultic Networks Desk holds the record and live-source
-material is sealed at Level 5.
+Procurement traces are treated as intelligence priorities, particularly where a Dredger seeks deep-water information
+or equipment inconsistent with declared work. ACT-SITE-01-US-W / Redwood Veil Complex supports recovery, urban-route
+tracing, artifact interdiction, and concealed logistics where a cell intersects commercial movement or black-market
+acquisition. The Cultic Networks Desk holds the record and live-source material is sealed at Level 5.
 
 ---
 
@@ -202,8 +201,7 @@ procurement trace spends something durable on something replaceable.
 
 The annual review is the maintenance that matters. Procurement targets describe what the cult
 believes it still lacks, and a target that disappears from the profile is either
-satisfied or abandoned. Distinguishing the two is the only way to tell whether interdiction
-is working.
+satisfied or abandoned. Distinguishing the two is the only way to tell whether interdiction is working.
 
 ---
 

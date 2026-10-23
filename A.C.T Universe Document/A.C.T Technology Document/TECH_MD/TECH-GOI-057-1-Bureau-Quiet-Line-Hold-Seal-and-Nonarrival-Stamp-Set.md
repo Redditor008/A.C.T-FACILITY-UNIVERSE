@@ -166,8 +166,8 @@ record that A.C.T holds something, not that the object has not yet legally arriv
 
 ### Numbered Operating Sequence
 
-This sequence applies when A.C.T encounters a Bureau-sealed object during a border incident. It assumes no A.C.T
-authority to release the hold.
+This sequence applies when A.C.T encounters a Bureau-sealed object during
+a border incident. It assumes no A.C.T authority to release the hold.
 
 ```text
 1. Stop handling. Do not open, move, or re-tag the sealed object.

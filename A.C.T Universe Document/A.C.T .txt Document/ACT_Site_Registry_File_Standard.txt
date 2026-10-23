@@ -123,8 +123,8 @@ Relay Site
 A support node used for transfer, archive routing, witness handling, or covert logistical continuity.
 
 Black Site
-A sealed or highly restricted installation associated with morally dangerous, politically dangerous, or deeply
-classified operations.
+A sealed or highly restricted installation associated with morally
+dangerous, politically dangerous, or deeply classified operations.
 
 ============================================================
 
@@ -215,8 +215,6 @@ If a registry file fails to answer those questions, it is incomplete.
 ============================================================
 
 9. Final Site Registry Statement
-A.C.T Site Registry doctrine exists to ensure that every recognized installation—whether full SITE, SUB-SITE,
-relay,
-or blacksite—can be understood as part of the wider anomaly-management structure of the Facility.
-A site without a
+A.C.T Site Registry doctrine exists to ensure that every recognized installation—whether full SITE, SUB-SITE, relay,
+or blacksite—can be understood as part of the wider anomaly-management structure of the Facility. A site without a
 registry is a risk to archive continuity, command clarity, containment routing, and doctrinal memory.

@@ -17,22 +17,18 @@
 
 ## Archive Note
 
-This file is the complete individual record of **F-2, the Quarantine and Assessment Level**,
-the second-deepest
+This file is the complete individual record of **F-2, the Quarantine and Assessment Level**, the second-deepest
 numbered floor of **ACT-SUB-02-RU-N, the Frost Hollow Depot**.
 
-F-2 is the depot's operational heart: quarantine chambers, assessment laboratories, and the medical staging
-suites
-where incoming biological material is evaluated under suppression. It is the level where the
-depot does its defining
+F-2 is the depot's operational heart: quarantine chambers, assessment laboratories, and the medical staging suites
+where incoming biological material is evaluated under suppression. It is the level where the depot does its defining
 work — the quarantine and assessment that ensure nothing moves to White Grave Station
 unassessed, and nothing enters
 the transport chain that cannot be accounted for.
 
 This dossier records the floor in full institutional language: what it is, what it
 does, how it is built, how it is
-run, and how the depot's quarantine discipline protects the parent station and the transport
-chain alike.
+run, and how the depot's quarantine discipline protects the parent station and the transport chain alike.
 
 ---
 
@@ -41,30 +37,24 @@ chain alike.
 **Site Designation:** ACT-SUB-02-RU-N **Site Codename:** Frost Hollow Depot **Parent Command:** ACT-SITE-02-RU-N —
 White Grave Station **Floor Designation:** F-2 **Floor Name:** Quarantine and Assessment Level **Floor Type:**
 Operational Quarantine and Assessment Level **Vertical Position:** Second-deepest numbered floor of the depot's buried
-component **Floor Above:** F-3 (Surface Cover and Transition Level) **Floor Below:** F-1 (Interim Cryogenic
-Holding)
+component **Floor Above:** F-3 (Surface Cover and Transition Level) **Floor Below:** F-1 (Interim Cryogenic Holding)
 **Containment Character:** Quarantine and assessment infrastructure under suppression doctrine **Primary Function:**
 Quarantine chambers, assessment laboratories, and medical staging suites where incoming biological material is
 evaluated under suppression **Access Posture:** Controlled operational access under quarantine doctrine **Current
-Status:** Active **Doctrine Note:** The level where the depot's defining protocol — quarantine —
-is practiced
+Status:** Active **Doctrine Note:** The level where the depot's defining protocol — quarantine — is practiced
 
 ---
 
 ## 2. Dossier Purpose
 
-The Frost Hollow Depot receives biological material from the recovery corridors serving White Grave
-Station — and no
+The Frost Hollow Depot receives biological material from the recovery corridors serving White Grave Station — and no
 material may move from the depot to the parent station without first passing through
 assessment. That assessment
 happens on F-2.
 
-F-2 is the depot's operational heart: the level where incoming biological material is quarantined,
-evaluated, and
-staged for transfer. The floor's quarantine chambers hold material while its status is determined;
-its assessment
-laboratories determine what each holding is and what it requires; and its medical staging
-suites prepare assessed
+F-2 is the depot's operational heart: the level where incoming biological material is quarantined, evaluated, and
+staged for transfer. The floor's quarantine chambers hold material while its status is determined; its assessment
+laboratories determine what each holding is and what it requires; and its medical staging suites prepare assessed
 material for the interim cold of F-1 or for transfer to the parent station.
 Nothing moves through the depot
 unassessed.
@@ -77,22 +67,18 @@ unassessed.
 
 F-2 lies between the Surface Cover and Transition level of F-3 above and the
 Interim Cryogenic Holding of F-1 below.
-It is the depot's operational level, positioned directly beneath the legitimate arctic cold-storage facility
-through
+It is the depot's operational level, positioned directly beneath the legitimate arctic cold-storage facility through
 which incoming material arrives.
 
 ### 3.2 Relationship to F-3
 
-Material entering the depot from the transport corridors passes through the surface level above
-and descends to F-2
+Material entering the depot from the transport corridors passes through the surface level above and descends to F-2
 for quarantine and assessment. The floor is the depot's first operational destination.
 
 ### 3.3 Relationship to F-1
 
-Material whose quarantine assessment is complete descends to the interim cryogenic holding of F-1
-while awaiting
-transfer; material requiring further evaluation remains on F-2. The boundary between the floors is
-the boundary
+Material whose quarantine assessment is complete descends to the interim cryogenic holding of F-1 while awaiting
+transfer; material requiring further evaluation remains on F-2. The boundary between the floors is the boundary
 between assessment and storage.
 
 ---
@@ -101,26 +87,20 @@ between assessment and storage.
 
 ### 4.1 Development of the Quarantine Floor
 
-F-2's character developed with the depot's formalization: an installation built to absorb the seasonal
-pressure on
-White Grave required a quarantine and assessment capacity, so that nothing would move to
-the parent station without
+F-2's character developed with the depot's formalization: an installation built to absorb the seasonal pressure on
+White Grave required a quarantine and assessment capacity, so that nothing would move to the parent station without
 evaluation.
 
 ### 4.2 The Assessment Doctrine
 
-The floor's defining discipline — that every item of incoming biological material is held
-under assessment until its
-status is confirmed, its containment verified, and its transfer authorized — was established as
-the depot's doctrine
-matured. The doctrine protects the parent station from unassessed arrivals and protects the transport
-chain from
+The floor's defining discipline — that every item of incoming biological material is held under assessment until its
+status is confirmed, its containment verified, and its transfer authorized — was established as the depot's doctrine
+matured. The doctrine protects the parent station from unassessed arrivals and protects the transport chain from
 material that cannot be accounted for.
 
 ### 4.3 Modern Configuration
 
-In its modern configuration, F-2 is the depot's operational heart: quarantine chambers, assessment laboratories,
-and
+In its modern configuration, F-2 is the depot's operational heart: quarantine chambers, assessment laboratories, and
 medical staging suites operating under the depot's suppression and quarantine doctrine.
 
 ---
@@ -129,23 +109,20 @@ medical staging suites operating under the depot's suppression and quarantine do
 
 ### 5.1 Floor Command
 
-F-2 operates under the depot's Sub-Site Chief, administered day-to-day by a **Quarantine Chief** drawn
-from the
+F-2 operates under the depot's Sub-Site Chief, administered day-to-day by a **Quarantine Chief** drawn from the
 depot's medical quarantine staff. The Chief administers the floor's quarantine and assessment operations.
 
 ### 5.2 Authority over Assessment
 
 The Quarantine Chief holds authority over the floor's assessment functions: quarantine schedules, assessment
-protocols, and the medical staging of incoming material under the depot's doctrine. Authority over
-interim storage is
+protocols, and the medical staging of incoming material under the depot's doctrine. Authority over interim storage is
 shared with the Holding Officer of F-1.
 
 ### 5.3 Authority Limits
 
 F-2 holds no authority to release material from the depot on its own judgment,
 no authority over material whose
-disposition requires the parent station's decision, and no research mandate beyond assessment. Its role
-is quarantine
+disposition requires the parent station's decision, and no research mandate beyond assessment. Its role is quarantine
 and assessment — the determination of what each holding is before it moves on.
 
 ---
@@ -164,8 +141,7 @@ holding's status, its containment requirements, and its transfer authorization.
 
 ### 6.3 Security Staff
 
-Security personnel guard the floor's access architecture and the quarantine chambers, enforcing the handling
-rules
+Security personnel guard the floor's access architecture and the quarantine chambers, enforcing the handling rules
 that govern material under assessment.
 
 ### 6.4 Limited Containment Support
@@ -190,8 +166,7 @@ F-2's plan is organized around the depot's assessment functions:
 ### 7.2 The Quarantine Chambers
 
 The floor's quarantine chambers hold incoming biological material while its status is determined: isolated
-environments where material is held under suppression until its assessment is complete. Quarantine is
-the depot's
+environments where material is held under suppression until its assessment is complete. Quarantine is the depot's
 holding state for material whose character is still being established.
 
 ### 7.3 The Assessment Laboratories
@@ -202,8 +177,7 @@ further suppression, or demands the parent station's attention.
 
 ### 7.4 The Medical Staging Suites
 
-The floor's medical staging suites prepare assessed material for its next state: stabilization for
-the interim cold of
+The floor's medical staging suites prepare assessed material for its next state: stabilization for the interim cold of
 F-1, or preparation for transfer to White Grave. The suites are where the depot's
 assessment work becomes action.
 
@@ -222,16 +196,14 @@ suppression-capable environments, and the cold-capable infrastructure the depot'
 
 ### 8.3 Monitoring
 
-Monitoring on F-2 is continuous across the quarantine chambers and assessment spaces, documenting the
-condition of
+Monitoring on F-2 is continuous across the quarantine chambers and assessment spaces, documenting the condition of
 every holding under assessment.
 
 ### 8.4 Communication
 
-The floor maintains communication with the surface level above, the holding floor below, and
-the parent station's
-assessment coordination. Documentation is exact, because every transfer authorization depends on the floor's
-assessment record.
+The floor maintains communication with the surface level above, the holding floor below, and the parent station's
+assessment coordination. Documentation is exact, because every
+transfer authorization depends on the floor's assessment record.
 
 ---
 
@@ -246,27 +218,20 @@ material being assessed.
 
 ### 9.2 Quarantine Doctrine
 
-The floor's defining protocol is quarantine: every item of incoming biological material is held
-under assessment until
-its status is confirmed, its containment verified, and its transfer authorized. Nothing moves to
-the parent station
+The floor's defining protocol is quarantine: every item of incoming biological material is held under assessment until
+its status is confirmed, its containment verified, and its transfer authorized. Nothing moves to the parent station
 unassessed — and nothing leaves the depot without the documentation the quarantine process produces.
 
 ### 9.3 Suppression Administration
 
-Material under assessment is maintained under temporary biological suppression: sufficient to stabilize and contain
-it
-during the assessment period, without the long-term environmental commitment of the parent station's holding
-doctrine.
+Material under assessment is maintained under temporary biological suppression: sufficient to stabilize and contain it
+during the assessment period, without the long-term environmental commitment of the parent station's holding doctrine.
 
 ### 9.4 Escalation Handling
 
-Material that cannot be assessed at the depot, or whose assessment reveals a disposition
-requiring the parent
-station's authority, is handled under the depot's escalation procedures — including, where the parent
-station
-determines it, the silent removal doctrine that keeps hazardous material from the transport chain
-without disturbing
+Material that cannot be assessed at the depot, or whose assessment reveals a disposition requiring the parent
+station's authority, is handled under the depot's escalation procedures — including, where the parent station
+determines it, the silent removal doctrine that keeps hazardous material from the transport chain without disturbing
 the cover or the schedule.
 
 ---
@@ -299,24 +264,19 @@ the transport chain.
 
 ### 11.1 Staffing
 
-F-2 is the depot's most heavily staffed level. Its personnel include the medical quarantine
-staff, assessment
+F-2 is the depot's most heavily staffed level. Its personnel include the medical quarantine staff, assessment
 laboratory personnel, security staff, and containment support who operate the depot's assessment work.
 
 ### 11.2 Duty Life
 
-Duty on F-2 is assessment work: quarantine intake, laboratory analysis, suppression monitoring, and medical
-staging.
-The floor's rhythm follows the seasonal arrival of biological material — periods of heavy
-assessment during transfer
+Duty on F-2 is assessment work: quarantine intake, laboratory analysis, suppression monitoring, and medical staging.
+The floor's rhythm follows the seasonal arrival of biological material — periods of heavy assessment during transfer
 waves, followed by consolidation and documentation.
 
 ### 11.3 The Assessment Discipline
 
-The floor's personnel work under the depot's assessment discipline: every holding is assessed before
-it moves, every
-assessment is documented, and every transfer authorization rests on the floor's record. Personnel on
-F-2 learn the
+The floor's personnel work under the depot's assessment discipline: every holding is assessed before it moves, every
+assessment is documented, and every transfer authorization rests on the floor's record. Personnel on F-2 learn the
 exacting standard of an installation whose purpose is to ensure that nothing arrives at
 White Grave unexamined.
 
@@ -326,32 +286,27 @@ White Grave unexamined.
 
 ### 12.1 Quarantine Doctrine
 
-F-2 doctrine holds that assessment precedes transfer: every item of incoming biological material is
-quarantined and
+F-2 doctrine holds that assessment precedes transfer: every item of incoming biological material is quarantined and
 evaluated before it may move to the parent station or into the transport chain.
 
 ### 12.2 Verification Doctrine
 
-F-2 doctrine holds that containment is verified, not assumed: the floor's assessment laboratories confirm
-each
+F-2 doctrine holds that containment is verified, not assumed: the floor's assessment laboratories confirm each
 holding's status and containment requirements before any disposition is authorized.
 
 ### 12.3 Staging Doctrine
 
 F-2 doctrine holds that the depot stages material, it does not decide its future:
 the floor's assessments inform the
-dispositions that the parent station authorizes, and the floor's role ends where the parent
-station's authority
+dispositions that the parent station authorizes, and the floor's role ends where the parent station's authority
 begins.
 
 ---
 
 ## 13. Incident Archive
 
-The floor's incident record is dominated by quarantine and assessment events: assessment incidents, suppression
-system
-events, and quarantine handling issues. Material that exceeds the depot's capacity moves to the
-parent station, and
+The floor's incident record is dominated by quarantine and assessment events: assessment incidents, suppression system
+events, and quarantine handling issues. Material that exceeds the depot's capacity moves to the parent station, and
 the floor's history is largely the history of successful assessment and staging.
 
 ---
@@ -384,8 +339,7 @@ priorities include:
 
 F-2, the Quarantine and Assessment Level, is the operational heart of the Frost Hollow
 Depot: the level where incoming
-biological material is quarantined, assessed, and staged under suppression — the floor where the
-depot decides what
+biological material is quarantined, assessed, and staged under suppression — the floor where the depot decides what
 each holding is before it moves to the interim cold below or the long
 sleep at White Grave.
 

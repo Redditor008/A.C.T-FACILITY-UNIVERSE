@@ -21,10 +21,8 @@
 | AUTHORITY | Historical Engineering Archive, Temporal Review Desk, and Central Archive |
 
 #### Archive Note
-Clockwork Causal Anchors are the fifty-third main A.C.T technology expanded into an individual record.
-The
-Technological Evolution Timeline places CCA development in the 1810s and describes it as an
-early attempt to mechanize
+Clockwork Causal Anchors are the fifty-third main A.C.T technology expanded into an individual record. The
+Technological Evolution Timeline places CCA development in the 1810s and describes it as an early attempt to mechanize
 temporal stabilization using precision brass and iron systems. Later A.C.T technology produced Reality Stabilization
 Anchors, Causal Anchor Nails, Causal Static Generators, Causal-Reactive Mercury procedures, and other stronger
 methods, but CCA remains the first recorded mechanical effort to make time and cause
@@ -48,17 +46,13 @@ COMES NEXT.
 ## FUNCTION SUMMARY
 
 Clockwork Causal Anchors were mechanical stabilizers built to impose short-range temporal regularity on rooms,
-cabinets, documents, and artifacts that displayed small causal irregularities. Their function was not full
-reality
-stabilization. They attempted to keep sequence in order: before before after, cause before result,
-opening before
+cabinets, documents, and artifacts that displayed small causal irregularities. Their function was not full reality
+stabilization. They attempted to keep sequence in order: before before after, cause before result, opening before
 contents, strike before sound, and written record before revision.
 
 In surviving descriptions, the system used precision brass gearing, iron frames, weighted escapements, timekeeping
-faces, and anchor teeth that locked into a repeating mechanical cycle. The intended effect
-was to make an unstable
-event synchronize with a trusted clockwork pattern. When successful, a CCA reduced flicker, echo,
-loop behavior, or
+faces, and anchor teeth that locked into a repeating mechanical cycle. The intended effect was to make an unstable
+event synchronize with a trusted clockwork pattern. When successful, a CCA reduced flicker, echo, loop behavior, or
 minor order reversal long enough for operators to close a box, copy a ledger,
 move an artifact, or retreat.
 
@@ -70,17 +64,14 @@ containment.
 
 ## ORIGIN AND DEVELOPMENT
 
-The 1810s belonged to the Foundational Era's passive barrier logic, but A.C.T had already
-learned that not every
+The 1810s belonged to the Foundational Era's passive barrier logic, but A.C.T had already learned that not every
 hazard could be stopped by mass. Some early artifacts did not escape through walls.
 They escaped through order. A
 drawer opened before a hand reached it. A bell rang before it was struck.
 A page recorded an outcome before the test
-occurred. These incidents forced early engineers to ask whether cause could be braced like
-a door.
+occurred. These incidents forced early engineers to ask whether cause could be braced like a door.
 
-Clockwork Causal Anchors were the first known answer. Brass and iron were selected because
-they could be shaped with
+Clockwork Causal Anchors were the first known answer. Brass and iron were selected because they could be shaped with
 precision and trusted by the engineering culture of the time. Each tooth, spring, and
 weight represented a demand:
 time will move one click at a time here. The result was imperfect but
@@ -92,12 +83,9 @@ could not master it.
 
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
-Surviving CCAs resemble heavy clock regulators mounted inside iron anchor frames. Most are cabinet-sized
-or
-wall-mounted. Smaller desk units exist but are considered unstable because their light frames transmit
-vibration too
-easily. The face usually lacks ordinary hours and instead carries sequence marks, witness ticks,
-and a final locking
+Surviving CCAs resemble heavy clock regulators mounted inside iron anchor frames. Most are cabinet-sized or
+wall-mounted. Smaller desk units exist but are considered unstable because their light frames transmit vibration too
+easily. The face usually lacks ordinary hours and instead carries sequence marks, witness ticks, and a final locking
 notch.
 
 Known components include:
@@ -113,16 +101,14 @@ Known components include:
 - ledger synchronization clip;
 - red stop pin.
 
-Some units contain handwritten repair marks from before modern Archive designation rules. Those marks
-are preserved as
+Some units contain handwritten repair marks from before modern Archive designation rules. Those marks are preserved as
 evidence and are not to be polished away.
 
 ---
 
 ## TECHNICAL SPECIFICATION
 
-Figures below are restated from this record's component list and study doctrine. The anchors
-are legacy
+Figures below are restated from this record's component list and study doctrine. The anchors are legacy
 hardware, so live-operation values are marked NOT MEASURED and filed under OPEN QUESTIONS.
 
 | ANCHOR PARAMETER | VALUE |
@@ -143,8 +129,7 @@ hardware, so live-operation values are marked NOT MEASURED and filed under OPEN 
 | Tick tolerance | NOT MEASURED |
 | Winding turns per test | set per test order |
 
-The intended effect was sequence, not full reality stabilization: before before after, cause before
-result,
+The intended effect was sequence, not full reality stabilization: before before after, cause before result,
 opening before contents. Handwritten repair marks from before modern designation rules are preserved as
 evidence and are not polished away.
 
@@ -197,21 +182,16 @@ reverse tick stops the test immediately and the unit is retired, which is how
 the 1819 incident came to
 define reverse escapement risk.
 
-No live CCA operation is authorized for ordinary containment. Study begins with the unit
-unwound, pinned, and placed
-on an isolation bench. Archive confirms chain of custody. Engineering confirms that no gear
-is under stored tension.
+No live CCA operation is authorized for ordinary containment. Study begins with the unit unwound, pinned, and placed
+on an isolation bench. Archive confirms chain of custody. Engineering confirms that no gear is under stored tension.
 Temporal Review verifies that the unit is not synchronized to an active artifact, room,
 or file.
 
 If a Level 5 test is approved, the anchor is wound only to the
 minimum number of turns listed in the test order. Staff
-record the exact click count, room time, observed sequence marks, and any disagreement between
-sound and motion. No
-living subject is positioned inside the anchor radius. No self-editing document, causal mercury sample,
-or
-regression-prone object is brought near a wound CCA unless the test is specifically about
-interaction.
+record the exact click count, room time, observed sequence marks, and any disagreement between sound and motion. No
+living subject is positioned inside the anchor radius. No self-editing document, causal mercury sample, or
+regression-prone object is brought near a wound CCA unless the test is specifically about interaction.
 
 After any motion, the unit is pinned open and left under observation until the
 final tick has been accounted for.
@@ -231,8 +211,7 @@ final tick has been accounted for.
 
 The anchors are retired, so no operational service interval exists and interval is not
 applicable rather
-than NOT MEASURED. Conservation is limited to pinning, muting, and isolation. The 1965 replacement
-review is
+than NOT MEASURED. Conservation is limited to pinning, muting, and isolation. The 1965 replacement review is
 why RSA doctrine superseded mechanical anchoring instead of extending it.
 
 ## FAULT ISOLATION
@@ -248,15 +227,13 @@ why RSA doctrine superseded mechanical anchoring instead of extending it.
 
 ## KNOWN LIMITS
 
-CCA units cannot hold large spaces, living anomalies, modern temporal hazards, narrative pressure, or
-deliberate
+CCA units cannot hold large spaces, living anomalies, modern temporal hazards, narrative pressure, or deliberate
 causal attack. They also may create false stability by forcing a local sequence while
 the larger room remains
 unstable. A clock can keep time while the world around it is lying.
 
 Known failure modes include skipped tick, repeated tick, reverse escapement, latch bite, stored-spring release,
-sequence echo, document pre-entry, bell-before-motion, and anchor radius drift. Operators are warned not to
-treat an
+sequence echo, document pre-entry, bell-before-motion, and anchor radius drift. Operators are warned not to treat an
 old mechanism as harmless because it lacks electronics. Mechanical causality can still cut.
 
 ---
@@ -272,8 +249,7 @@ define reverse escapement risk.
 ### CCA-1922 Ledger Pre-Entry
 A ledger synchronization clip caused a blank line to show a transfer note before
 the transfer occurred. The event did
-not rewrite the ledger after completion. Archive classified the incident as early evidence that
-causal anchoring could
+not rewrite the ledger after completion. Archive classified the incident as early evidence that causal anchoring could
 affect records as well as rooms.
 
 ### CCA-1965 RSA Replacement Review
@@ -287,8 +263,7 @@ infrastructure.
 ## DIVISION USE
 
 Historical Engineering Archive preserves units, diagrams, and repair ledgers. Temporal Review controls all winding
-proposals and failure studies. Research compares CCA behavior to later causal technologies. Artifact Storage
-maintains
+proposals and failure studies. Research compares CCA behavior to later causal technologies. Artifact Storage maintains
 sealed display and storage cabinets. Archive uses the record to show how A.C.T moved
 from physical barrier logic into
 sequence control.

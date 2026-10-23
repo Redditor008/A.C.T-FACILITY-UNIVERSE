@@ -16,8 +16,7 @@ Containment Transformation ═════════════════�
 | STATUS | Active Internal Reference |
 
 This record tracks the development of specialized containment systems, structural materials, and operational hardware
-utilized by the organization. It documents the transition from early terrestrial restraints to current
-standardized
+utilized by the organization. It documents the transition from early terrestrial restraints to current standardized
 stabilization technologies.
 
 ---
@@ -25,8 +24,7 @@ stabilization technologies.
 ### **I. FOUNDATIONAL ERA (1598 – 1887)**
 *Focus: Physical Containment and Passive Barrier Logic.*
 
-Prior to the formalization of the ABYSS Floor protocols, containment relied on the modification
-of existing materials.
+Prior to the formalization of the ABYSS Floor protocols, containment relied on the modification of existing materials.
 This era was defined by trial, error, and the search for high-density solutions to
 unstable phenomena.
 
@@ -48,8 +46,7 @@ unstable phenomena.
 ### **II. INDUSTRIAL EXPANSION (1888 – 1949)**
 *Focus: Deep-Earth Engineering and Perceptual Masking.*
 
-The discovery of the World-Sleeper and the subsequent First Descent necessitated a rapid advancement
-in heavy
+The discovery of the World-Sleeper and the subsequent First Descent necessitated a rapid advancement in heavy
 structural engineering and secrecy maintenance.
 
 *   **1888:** **The Steam-Drill Excavator.** Custom sub-crustal boring
@@ -63,8 +60,8 @@ structural engineering and secrecy maintenance.
     Anti Reality Mesh was deployed. It used light-refraction
     interference to mask the Siena Estate — the ancestral seat of the Old Blood
     anomaly later filed as **AFD-SU-009**, Her
-    Ladyship of the Horned House — from surface detection. That custodial arrangement would remain
-    outside formal anomaly
+    Ladyship of the Horned House — from surface detection. That
+    custodial arrangement would remain outside formal anomaly
     archives until the subject's classification in 1976.
 
 ---
@@ -72,8 +69,7 @@ structural engineering and secrecy maintenance.
 ### **III. INTEGRATION ERA (1950 – 1999)**
 *Focus: Refined Stabilization and Causal Buffering.*
 
-This era saw the maturation of the organization’s most critical stabilization technologies and the
-widespread
+This era saw the maturation of the organization’s most critical stabilization technologies and the widespread
 deployment of proprietary amnestics.
 
 *   **1952:** **004-Series Refinement.** Industrial-scale production of
@@ -97,8 +93,8 @@ deployment of proprietary amnestics.
 ### **IV. MODERN SYNTHESIS (2000 – 2026)**
 *Focus: Advanced Cybernetics and High-Entropy Defense.*
 
-Current technological standards focus on the mitigation of narrative-tier fractures and high-velocity combat
-optimization.
+Current technological standards focus on the mitigation of
+narrative-tier fractures and high-velocity combat optimization.
 
 *   **2004:** **SSF (Synthetic Sanguine-Fuel).** Perfection of the
     blood-fuel substitute, standardized for all mechanical subjects

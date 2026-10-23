@@ -22,11 +22,11 @@
 
 #### Archive Note
 
-This record covers the key and lock instruments by which the Crown Office of Ash Keys holds rooms and relics
-under inherited custody conditions. The dossier names ash keys that remain cold or leave black residue on active
-locks, sealed chapel crypts, inherited lockboxes, and a broken key shaft recovered by A.C.T. Both recovered items lost
-measurable abnormality after removal from the door they served, which is the single most consequential fact in this
-record.
+This record covers the key and lock instruments by which the Crown Office of Ash Keys holds
+rooms and relics under inherited custody conditions. The dossier names ash keys that remain
+cold or leave black residue on active locks, sealed chapel crypts, inherited lockboxes, and a
+broken key shaft recovered by A.C.T. Both recovered items lost measurable abnormality after
+removal from the door they served, which is the single most consequential fact in this record.
 
 The technical problem is that the property A.C.T would need to measure is a property of the key-door pair, not
 of the key. A shaft on a bench is inert; the same shaft in its door is cold after fire
@@ -180,9 +180,9 @@ Applies when A.C.T attends a door under an active ash-key condition.
 | Legal review refresh | Before any acceptance of custody |
 | Custody route audit | After any transfer of held residue |
 
-The fragment condition check is the row that keeps the recovery honest. The annual entry records that the held shaft
-and residue remain uncharacterised. Repeating that negative result is what stops a fragment from being described as a
-specimen in later files.
+The fragment condition check is the row that keeps the recovery honest. The annual entry
+records that the held shaft and residue remain uncharacterised. Repeating that negative
+result is what stops a fragment from being described as a specimen in later files.
 
 ---
 
@@ -197,9 +197,8 @@ specimen in later files.
 | Identifier spoken | A.C.T handling breach | Withdraw team; report at once |
 | Lock burned, still bound | Duty persists past mechanism | Treat as active; do not clear |
 
-The fifth row is the only fault in this table that A.C.T can cause, and it is the one the
-Central Archive addendum was written to prevent. Every other entry describes the condition behaving as the Office says
-it does.
+The fifth row is the only fault in this table that A.C.T can cause, and it is the one the Central Archive
+addendum was written to prevent. Every other entry describes the condition behaving as the Office says it does.
 
 ---
 
@@ -218,9 +217,9 @@ it does.
 
 ### REMOVAL NULLIFICATION — RECORDED LOSS
 
-Both items A.C.T recovered lost measurable abnormality after removal from the door they served. This is filed as a
-loss of evidence caused by the recovery method itself, and it is the reason step 3 of the sequence requires
-measurement before contact.
+Both items A.C.T recovered lost measurable abnormality after removal from the door
+they served. This is filed as a loss of evidence caused by the recovery method itself,
+and it is the reason step 3 of the sequence requires measurement before contact.
 
 ### NAME FEEDING — PROHIBITION OF RECORD
 
@@ -230,9 +229,9 @@ prohibition stands because the mechanism is unconfirmed and unconfirmed is not t
 
 ### SOOT WEEPING — RESOLVED BY REFUSAL
 
-In the recorded case the nursery room ceased audible activity for six hours after the surviving heir refused it under
-Office witness. A.C.T records the six hours as a single observation tied to a refusal event, not as an interval
-that can be relied upon.
+In the recorded case the nursery room ceased audible activity for six hours after the
+surviving heir refused it under Office witness. A.C.T records the six hours as a single
+observation tied to a refusal event, not as an interval that can be relied upon.
 
 ---
 

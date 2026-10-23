@@ -21,8 +21,7 @@ This file is the complete individual record of **F-1, The Unread Archive**, the 
 numbered floor of
 **ACT-SITE-03-JP-E, Kurokawa Archive Node**.
 
-Kurokawa Archive Node exists to contain dangerous information. Its deepest level, F-1, holds the
-information that must
+Kurokawa Archive Node exists to contain dangerous information. Its deepest level, F-1, holds the information that must
 not merely be contained but must never be read: the archive of material whose
 danger is knowledge itself. The floor is
 called the Unread Archive because reading is the breach — the node's breach doctrine
@@ -39,16 +38,13 @@ guarded, and why the node's deepest archive is defined by the act it forbids.
 
 **Site Designation:** ACT-SITE-03-JP-E **Site Codename:** Kurokawa Archive Node **Floor Designation:** F-1 **Floor
 Name:** The Unread Archive **Floor Type:** Maximum-Security Unreadable Archive Level **Vertical Position:** Deepest
-numbered floor of the node **Floors Above:** F-2 (Deep Memetic and Infohazard Vaulting) **Floors
-Below:** None
+numbered floor of the node **Floors Above:** F-2 (Deep Memetic and Infohazard Vaulting) **Floors Below:** None
 numbered — below F-1 lies only the node's deep utility routing; there is no
 abyssal access beneath this site
 **Containment Character:** Maximum structural and procedural reinforcement against reading, viewing, and understanding
-**Primary Function:** Preservation of material that must never be read, viewed, or fully understood
-— only contained
+**Primary Function:** Preservation of material that must never be read, viewed, or fully understood — only contained
 under maximum security **Access Posture:** Restricted; governed by the node's anti-reading doctrine **Current
-Status:** Active **Doctrine Note:** The reason the node's breach doctrine treats uncontrolled reading as
-an escape
+Status:** Active **Doctrine Note:** The reason the node's breach doctrine treats uncontrolled reading as an escape
 
 ---
 
@@ -81,16 +77,14 @@ Infohazard Vaulting level, and is reached only by descending through the node's 
 
 ### 3.2 What Lies Below F-1
 
-Below the archive structure lie only the node's deep utility routing corridors. There is
-no abyssal access beneath
+Below the archive structure lie only the node's deep utility routing corridors. There is no abyssal access beneath
 this site — F-1 is the terminal floor of the Kurokawa Archive Node.
 
 ### 3.3 Relationship to the Surface
 
 The distance between F-1 and the legitimate foundation complex above is the floor's first
 containment measure: eight
-levels of archive infrastructure, each designed around the principle that material must not pass
-upward without the
+levels of archive infrastructure, each designed around the principle that material must not pass upward without the
 authorization its danger requires. For the material on F-1, that principle is absolute.
 
 ---
@@ -99,26 +93,21 @@ authorization its danger requires. For the material on F-1, that principle is ab
 
 ### 4.1 The Recognition of the Unreadable
 
-F-1's character developed from the node's earliest encounters with material whose danger increased with
-understanding:
-documents that harmed their readers, symbols that compelled their viewers, and information that could
-not be safely
-known. The node learned that such material required an archive where the primary containment
-measure was the
+F-1's character developed from the node's earliest encounters with material whose danger increased with understanding:
+documents that harmed their readers, symbols that compelled their viewers, and information that could not be safely
+known. The node learned that such material required an archive where the primary containment measure was the
 prohibition of reading itself.
 
 ### 4.2 Development of the Unread Archive
 
 The Unread Archive was developed as the node's response: a deep level engineered for
 material that must never be read,
-where preservation — not access — is the archive's function. The floor's doctrine treats
-the act of reading as the
+where preservation — not access — is the archive's function. The floor's doctrine treats the act of reading as the
 breach, and its architecture is built to make uncontrolled reading impossible.
 
 ### 4.3 Modern Configuration
 
-In its modern configuration, F-1 is the node's deepest commitment: the archive of material
-too dangerous to know,
+In its modern configuration, F-1 is the node's deepest commitment: the archive of material too dangerous to know,
 preserved under maximum containment in a floor defined by the act it forbids.
 
 ---
@@ -127,15 +116,13 @@ preserved under maximum containment in a floor defined by the act it forbids.
 
 ### 5.1 Floor Command
 
-F-1 operates under the direct authority of the Site Director through the Archive Division's
-deep-archive command.
+F-1 operates under the direct authority of the Site Director through the Archive Division's deep-archive command.
 Day-to-day operations are administered by an **Unread Archive Chief**, appointed for demonstrated performance in
 maximum-security informational containment.
 
 ### 5.2 Authority over Access
 
-The Unread Archive Chief does not hold independent authority to admit or release material.
-Every access to F-1's
+The Unread Archive Chief does not hold independent authority to admit or release material. Every access to F-1's
 holdings is governed by the individual restriction set of the material in question, and
 every release from the Unread
 Archive is authorized at Site Director level or above.
@@ -144,8 +131,7 @@ Archive is authorized at Site Director level or above.
 
 F-1 holds no authority to study its holdings, to release material to the node's
 reading levels, or to permit
-understanding of the material it preserves. The floor's role is preservation — of material
-that must not be read, held
+understanding of the material it preserves. The floor's role is preservation — of material that must not be read, held
 for as long as the Facility's doctrine requires.
 
 ---
@@ -154,8 +140,7 @@ for as long as the Facility's doctrine requires.
 
 ### 6.1 Archive Division (Deep-Archive Command)
 
-The Archive Division is F-1's principal operator: preservation systems, environmental control, and the execution
-of
+The Archive Division is F-1's principal operator: preservation systems, environmental control, and the execution of
 each holding's containment regimen.
 
 ### 6.2 Intelligence Division Liaison (Limited)
@@ -168,14 +153,12 @@ enforce those limits, not to exceed them.
 
 ### 6.3 Security Division
 
-Security guards the floor's access architecture and enforces the anti-reading protocols that govern the
-floor's
+Security guards the floor's access architecture and enforces the anti-reading protocols that govern the floor's
 operation.
 
 ### 6.4 Medical Division (On-Call)
 
-Medical presence on F-1 is on-call, with cognitive-care specialists available for personnel whose duties
-bring them
+Medical presence on F-1 is on-call, with cognitive-care specialists available for personnel whose duties bring them
 into contact with the floor's material under controlled conditions.
 
 ---
@@ -184,25 +167,21 @@ into contact with the floor's material under controlled conditions.
 
 ### 7.1 Vault Architecture
 
-F-1 is organized around **individual preservation vaults**, each engineered as an independent containment problem.
-The
-floor's layout prioritizes separation: no two vaults share structure where it can be avoided,
-and the floor's service
+F-1 is organized around **individual preservation vaults**, each engineered as an independent containment problem. The
+floor's layout prioritizes separation: no two vaults share structure where it can be avoided, and the floor's service
 routes are arranged so that no single failure can open a path between vaults.
 
 ### 7.2 The Unreadable Vaults
 
 The floor's vaults are designed for material that must never be read: each vault's
 structure, environmental systems,
-and access architecture are engineered to preserve its contents without ever presenting them to
-a reader. The vaults
+and access architecture are engineered to preserve its contents without ever presenting them to a reader. The vaults
 are the floor's answer to the question of how to keep knowledge that cannot
 be known.
 
 ### 7.3 Anti-Reading Architecture
 
-The floor's architecture is designed against reading: access routes that do not expose contents,
-observation systems
+The floor's architecture is designed against reading: access routes that do not expose contents, observation systems
 that monitor preservation without revealing content, and documentation systems that describe holdings without
 describing what they say. The floor is engineered so that the act of reading
 — uncontrolled or otherwise — is
@@ -223,29 +202,23 @@ The floor's plan comprises:
 
 ### 8.1 Power
 
-F-1 draws primary power from the node's main supply and maintains an independent emergency
-plant sized to carry the
-floor's full environmental and preservation load. Power continuity on F-1 is treated as a
-containment parameter.
+F-1 draws primary power from the node's main supply and maintains an independent emergency plant sized to carry the
+floor's full environmental and preservation load. Power continuity on F-1 is treated as a containment parameter.
 
 ### 8.2 Environment
 
 Each preservation vault maintains its own environmental envelope, configured to the long-term preservation
-requirements of its contents. Air handling is compartmented so that the environment of one
-vault cannot reach another.
+requirements of its contents. Air handling is compartmented so that the environment of one vault cannot reach another.
 
 ### 8.3 Monitoring
 
-F-1 monitoring is continuous and layered: environmental and structural monitoring for every vault, plus
-access
-monitoring designed to detect any attempt to read, view, or remove the floor's material.
-Monitoring is engineered to
+F-1 monitoring is continuous and layered: environmental and structural monitoring for every vault, plus access
+monitoring designed to detect any attempt to read, view, or remove the floor's material. Monitoring is engineered to
 observe the archive without reading it.
 
 ### 8.4 Communication
 
-The floor maintains hardened communication with the node's command levels. Communications discipline on F-1
-follows
+The floor maintains hardened communication with the node's command levels. Communications discipline on F-1 follows
 each holding's restriction set: references to certain material are governed by the same rules
 as references to it
 anywhere in the Facility.
@@ -263,18 +236,14 @@ controlled gate before the vault gallery.
 
 ### 9.2 Vault Access
 
-Individual vault access is governed by the material's restriction set. Many vaults on F-1
-are accessed only under
-paired personnel, specific authorization, and protocols designed to prevent exposure. Some vaults are never
-accessed
+Individual vault access is governed by the material's restriction set. Many vaults on F-1 are accessed only under
+paired personnel, specific authorization, and protocols designed to prevent exposure. Some vaults are never accessed
 at all except under conditions the node has not yet needed to invoke.
 
 ### 9.3 The F-1 Closure Procedure
 
-The floor's defining security procedure is the **F-1 closure**: sealing the floor to the
-outside entirely — cutting
-the access core, isolating the floor's service connections, and committing the floor to full
-self-containment until
+The floor's defining security procedure is the **F-1 closure**: sealing the floor to the outside entirely — cutting
+the access core, isolating the floor's service connections, and committing the floor to full self-containment until
 the condition that triggered the closure is resolved.
 
 The node's breach doctrine treats uncontrolled reading as an escape: a breach on F-1
@@ -286,8 +255,7 @@ without reservation.
 
 ### 9.4 Peripheral Security
 
-The floor's perimeter architecture is monitored for intrusion, excavation, and structural anomaly, and the
-deep
+The floor's perimeter architecture is monitored for intrusion, excavation, and structural anomaly, and the deep
 utility routing below the floor is monitored as a potential approach path.
 
 ---
@@ -296,8 +264,7 @@ utility routing below the floor is monitored as a potential approach path.
 
 ### 10.1 Filing Doctrine
 
-The full register of F-1 holdings is preserved in the clearance-gated Kurokawa Annex Register.
-This dossier does not
+The full register of F-1 holdings is preserved in the clearance-gated Kurokawa Annex Register. This dossier does not
 enumerate the floor's holdings: knowledge of what the Unread Archive preserves is distributed across
 the Facility
 precisely so that no single document can reveal it all.
@@ -313,10 +280,8 @@ F-1 holds the node's most dangerous informational material:
 
 ### 10.3 The Unreadable Register
 
-The floor's holdings are registered in a manner consistent with their nature: catalogued enough
-to be preserved,
-described enough to be contained, and never summarized enough to be understood. The Unread
-Archive's own records are
+The floor's holdings are registered in a manner consistent with their nature: catalogued enough to be preserved,
+described enough to be contained, and never summarized enough to be understood. The Unread Archive's own records are
 the floor's most carefully written documents — because they describe what must not be
 read.
 
@@ -326,24 +291,19 @@ read.
 
 ### 11.1 Rotation
 
-F-1 personnel serve on tightly controlled rotations drawn from the Archive and Security Divisions'
-most experienced
-staff. Rotation balances continuity of preservation knowledge with protection of personnel from exposure to
-the
+F-1 personnel serve on tightly controlled rotations drawn from the Archive and Security Divisions' most experienced
+staff. Rotation balances continuity of preservation knowledge with protection of personnel from exposure to the
 floor's material.
 
 ### 11.2 Duty Life
 
-Duty on F-1 is preservation work: environmental rounds, vault maintenance, monitoring review, and documentation
-— all
-conducted under protocols designed to prevent the personnel from reading what they preserve. The
-floor's personnel are
+Duty on F-1 is preservation work: environmental rounds, vault maintenance, monitoring review, and documentation — all
+conducted under protocols designed to prevent the personnel from reading what they preserve. The floor's personnel are
 the archive's guardians, trained to keep knowledge without knowing it.
 
 ### 11.3 Psychological Support
 
-The floor's personnel are supported by the node's cognitive care programs. The discipline of
-working with material one
+The floor's personnel are supported by the node's cognitive care programs. The discipline of working with material one
 must not understand carries a specific weight, and the node treats that weight as
 an operational matter.
 
@@ -360,26 +320,22 @@ principle.
 
 ### 12.2 Preservation Doctrine
 
-F-1 doctrine holds that preservation does not require understanding: the floor keeps its holdings
-safe without reading
+F-1 doctrine holds that preservation does not require understanding: the floor keeps its holdings safe without reading
 them, cataloguing them without comprehending them, and maintaining them without knowing them.
 
 ### 12.3 Closure Doctrine
 
 F-1 doctrine holds that a breach is not a door opened but a text
 read: the floor's closure procedure is designed to
-contain uncontrolled reading as a breach event, sealing the archive against the escape that
-knowledge itself
+contain uncontrolled reading as a breach event, sealing the archive against the escape that knowledge itself
 represents.
 
 ---
 
 ## 13. Incident Archive
 
-The floor's incident record is dominated by preservation events and access verification events. The
-incidents that
-established the Unread Archive doctrine — including the events that taught the node that
-reading is a breach — are
+The floor's incident record is dominated by preservation events and access verification events. The incidents that
+established the Unread Archive doctrine — including the events that taught the node that reading is a breach — are
 preserved in the node's history files. No holding of F-1 has escaped the floor's
 containment perimeter since the
 closure doctrine was instituted.

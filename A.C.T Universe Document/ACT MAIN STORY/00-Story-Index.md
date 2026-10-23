@@ -4,8 +4,8 @@ Generated from the contents of this folder, so it cannot drift from what is actu
 
 ## Read in this order
 
-A newcomer should not open this folder alphabetically. The order below is the order the material
-was written to be met in.
+A newcomer should not open this folder alphabetically. The
+order below is the order the material was written to be met in.
 
 | # | Read this | Why here |
 |---|---|---|
@@ -18,9 +18,8 @@ was written to be met in.
 | 7 | `Outlines/07-The-Facility-That-Forgot-Its-First-Lie-Chapter-Outline.md` | The plan behind the chapters. Spoils the shape. |
 | 8 | `08-The_Complete_Abyssal_Archive_Dossier.md` | A companion dossier, 24,219 words. It is not part of the manuscript and it is longer than the manuscript. Read it after the story or not at all. |
 
-The Abyssal Archive Dossier sits at the end deliberately. It is reference material built beside the
-story, not the story itself, and meeting it first gives a newcomer 24,219 words of apparatus before
-a single chapter.
+The Abyssal Archive Dossier sits at the end deliberately. It is reference material built beside the story, not
+the story itself, and meeting it first gives a newcomer 24,219 words of apparatus before a single chapter.
 
 ## What is in this folder
 

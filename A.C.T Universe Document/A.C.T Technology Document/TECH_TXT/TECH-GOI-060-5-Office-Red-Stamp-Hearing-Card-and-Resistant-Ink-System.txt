@@ -45,9 +45,8 @@ document-cleaning attempt, and the open question of whether continuance writs re
 procedure, anomalous ink, or witness memory attachment. A.C.T holds one fragment.
 
 The card's function is a restraint on classification rather than a warning. It does not describe a hazard; it forbids
-reducing a person to one before a hearing has occurred. A.C.T files it as an instruction that binds the reader,
-not as a property of the person it is attached to, and the operating sequence treats finding one as a
-hold on classification.
+reducing a person to one before a hearing has occurred. A.C.T files it as an instruction that binds the reader, not as
+a property of the person it is attached to, and the operating sequence treats finding one as a hold on classification.
 
 The ink is the unresolved half. It survived a standard cleaning attempt, and the dossier offers three candidate
 explanations without choosing: legal procedure, anomalous ink, or witness memory attachment. A.C.T has not tested the
@@ -64,9 +63,9 @@ INK THAT SURVIVES CLEANING IS A PROPERTY OF THE CARD, NOT OF THE CLEANING METHOD
 
 FUNCTION SUMMARY
 
-A red-stamped card attaches to a person, a file, or a document and forbids hazard classification before a hearing. Its
-text is an instruction to the reader, and its ink is recorded as surviving a cleaning attempt that would normally
-remove it.
+A red-stamped card attaches to a person, a file, or a document and forbids hazard
+classification before a hearing. Its text is an instruction to the reader, and its
+ink is recorded as surviving a cleaning attempt that would normally remove it.
 
 - restrains classification rather than describing a hazard;
 - survives standard document-cleaning attempts;
@@ -98,9 +97,9 @@ ORIGIN AND CUSTODY
 | Object review              | Not performed; test would repeat the act                                              |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-The operative row is the resistance-cause row. Three explanations are open and A.C.T has not chosen between them,
-because the only test available is another cleaning attempt, and repeating the act that produced the result is not a
-way of explaining it.
+The operative row is the resistance-cause row. Three explanations are open and A.C.T
+has not chosen between them, because the only test available is another cleaning
+attempt, and repeating the act that produced the result is not a way of explaining it.
 
 
 PHYSICAL OR SYSTEM DESCRIPTION
@@ -220,9 +219,9 @@ SERVICING AND CALIBRATION
 | Cleaning prohibition brief | Before any new archivist assignment                                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-The ink condition check is recorded annually without a test. That is deliberate: the only available test is a cleaning
-attempt, and the recorded result already came from one. The annual entry restates that the ink is visible and that
-no test has been run.
+The ink condition check is recorded annually without a test. That is deliberate: the
+only available test is a cleaning attempt, and the recorded result already came from
+one. The annual entry restates that the ink is visible and that no test has been run.
 
 
 FAULT ISOLATION
@@ -244,9 +243,8 @@ FAULT ISOLATION
 | Card filed as hazard       | Inverted function                         | Refile as restraint                       |
 +----------------------------+-------------------------------------------+-------------------------------------------+
 
-The last row is the misreading this record exists to prevent. Filing the card as a hazard label records the
-person as the thing the card forbids naming, and the error is invisible afterwards because the file looks correctly
-labelled.
+The last row is the misreading this record exists to prevent. Filing the card as a hazard label records the person as
+the thing the card forbids naming, and the error is invisible afterwards because the file looks correctly labelled.
 
 
 KNOWN LIMITS
@@ -269,9 +267,9 @@ observation and no explanation.
 
 PREMATURE CLASSIFICATION — PROHIBITION OF RECORD
 
-The stamp forbids reducing a person to a hazard before a hearing. A.C.T adopts the prohibition as binding on the
-reader, and treats a card found on a person as a hold on that person's classification rather than as information
-about them.
+The stamp forbids reducing a person to a hazard before a hearing. A.C.T adopts
+the prohibition as binding on the reader, and treats a card found on a person as
+a hold on that person's classification rather than as information about them.
 
 RESISTANCE MECHANISM — UNRESOLVED
 

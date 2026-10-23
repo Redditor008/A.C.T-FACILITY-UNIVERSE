@@ -331,8 +331,7 @@ DESIGNATION HISTORY:     [UFD-XX-### → AFD-XX-### — DD/MM/YYYY]
 
 ## FILE SAVING CONVENTION
 
-When an anomaly file is saved for distribution, archive transfer, or direct download, the
-file name should place the
+When an anomaly file is saved for distribution, archive transfer, or direct download, the file name should place the
 anomaly title first, followed by the designation.
 
 Approved structure:

@@ -39,10 +39,8 @@ TECHNOLOGY RECORD - SIGNAL-ISOLATED ANOMALOUS DOCUMENT STORAGE SYSTEM
 
 Archive Note
 Signal-Isolated Anomalous Document Storage System is the one-hundred-twenty-third main A.C.T technology expanded into
-an individual record. The F-3 Active Anomalous Document Storage dossier identifies F-3 as Kurokawa's
-main holding
-level for confirmed anomalous documents and media requiring ongoing monitoring. It records storage rows,
-document
+an individual record. The F-3 Active Anomalous Document Storage dossier identifies F-3 as Kurokawa's main holding
+level for confirmed anomalous documents and media requiring ongoing monitoring. It records storage rows, document
 quarantine cells, signal-isolated storage units, monitoring galleries, handling corridors, intake and assessment bays,
 transfer procedures to F-2 and F-4, and a doctrine that treats anomalous documents as
 active holdings.
@@ -67,31 +65,25 @@ need F-2 restricted vaulting or F-4 research study.
 
 SIADSS is not an ordinary archive cabinet. It is a holding environment for files
 that may be residents in all but
-body. A document may attempt to transmit through radio, image, sound, data trace, copied
-phrase, reader memory,
-damaged scanner, or another file. The system keeps the holding under continuous observation while
-preventing its
+body. A document may attempt to transmit through radio, image, sound, data trace, copied phrase, reader memory,
+damaged scanner, or another file. The system keeps the holding under continuous observation while preventing its
 signal behavior from leaving the storage environment.
 
-Approved roles include active anomalous document storage, signal-emitting media containment, transmission-behavior
-isolation, quarantine-to-storage assignment, storage-row monitoring, controlled access, F-4 research sample transfer,
-F-2 restricted-vault escalation, cleared-material return review, and custody documentation for documents that behave
-like living holdings.
+Approved roles include active anomalous document storage, signal-emitting media containment,
+transmission-behavior isolation, quarantine-to-storage assignment, storage-row monitoring,
+controlled access, F-4 research sample transfer, F-2 restricted-vault escalation, cleared-material
+return review, and custody documentation for documents that behave like living holdings.
 
 ORIGIN AND DEVELOPMENT
 
-Kurokawa's active document population required a middle holding floor. Not every anomalous file belongs
-in the Unread
+Kurokawa's active document population required a middle holding floor. Not every anomalous file belongs in the Unread
 Archive. Not every memetic or infohazard case requires Blind Box or Eye Box vaulting.
 Many confirmed anomalous
-documents can be held under standard doctrine if their behavior is watched, their environment
-is controlled, and their
+documents can be held under standard doctrine if their behavior is watched, their environment is controlled, and their
 routes of transmission are blocked.
 
-F-3 developed as that working floor. SIADSS formalizes the signal-isolated portion of its storage
-system, giving the
-node a way to hold transmitting or receiving documents without either overclassifying them into
-F-2 or underestimating
+F-3 developed as that working floor. SIADSS formalizes the signal-isolated portion of its storage system, giving the
+node a way to hold transmitting or receiving documents without either overclassifying them into F-2 or underestimating
 them as ordinary records.
 
 PHYSICAL OR SYSTEM DESCRIPTION
@@ -113,8 +105,7 @@ Known components include:
 - storage access ledger;
 - floor holding status display.
 
-The system treats each storage position as a containment chamber whose resident happens to
-be a document, recording,
+The system treats each storage position as a containment chamber whose resident happens to be a document, recording,
 file, image, or piece of media.
 
 
@@ -162,8 +153,7 @@ Documents on this floor are held because they emit. The hazard is not what
 a document says but what it does
 while it is stored, so isolation is a physical property of the drawer rather
 than a procedural rule. The
-dampening liner is verified before the drawer closes because a transmitting document inside an
-unverified
+dampening liner is verified before the drawer closes because a transmitting document inside an unverified
 drawer is a transmitting document inside the floor.
 
 INTERFACE AND OPERATING ENVELOPE
@@ -198,8 +188,7 @@ OPERATING PROCEDURE
 
 Numbered Operating Sequence
 
-The sequence verifies isolation before containment and records access at the moment it occurs.
-A ledger
+The sequence verifies isolation before containment and records access at the moment it occurs. A ledger
 written afterwards records who remembers being there.
 
 1. Classify the item as transmitting, latent, or carrier-suspect.
@@ -223,8 +212,7 @@ or suspected transmission behavior enters signal-isolated storage. Material whos
 remain in quarantine until assessment defines a storage route.
 
 Routine operation consists of monitoring rounds, environmental checks, behavior log review, access authorization, and
-custody confirmation. If material demonstrates memetic or infohazard escalation, it is routed down to
-F-2. If approved
+custody confirmation. If material demonstrates memetic or infohazard escalation, it is routed down to F-2. If approved
 for study, it moves up to F-4 under documented sample control. If cleared of
 anomalous character, it may return to
 general archival processing only after review.
@@ -245,8 +233,7 @@ SERVICING AND CALIBRATION
 | Quarterly                  | re-test the quarantine transfer port                                                  |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-Weekly liner inspection is the servicing item that matters. Isolation degrades silently and the
-sensor will
+Weekly liner inspection is the servicing item that matters. Isolation degrades silently and the sensor will
 not report a fault in a liner that was never effective, so the check
 has to be physical and scheduled rather
 than inferred from readings.
@@ -269,36 +256,29 @@ FAULT ISOLATION
 
 KNOWN LIMITS
 
-SIADSS can isolate many signal routes, but it cannot guarantee that all transmission behavior
-is known. A document may
+SIADSS can isolate many signal routes, but it cannot guarantee that all transmission behavior is known. A document may
 propagate through human description, clerical metadata, camera noise, damaged file headers, static patterns, inventory
-labels, or the expectations of personnel assigned to monitor it. Signal isolation can also
-create false confidence
+labels, or the expectations of personnel assigned to monitor it. Signal isolation can also create false confidence
 when a holding stops transmitting because it is waiting rather than contained.
 
 Known failure modes include signal leakage, metadata carrier formation, monitoring sensor contamination, quarantine
 misassignment, storage-row cross-talk, unauthorized sample removal, delayed F-2 escalation, F-4 return with altered
-behavior, shielded drawer degradation, behavior log manipulation, and staff treating quiet holdings as safe
-holdings.
+behavior, shielded drawer degradation, behavior log manipulation, and staff treating quiet holdings as safe holdings.
 
 FAILURE HISTORY
 
 SIADSS-Active Holding Standard
-A holding review found that anomalous documents were sometimes described as stored objects even
-when they behaved like
+A holding review found that anomalous documents were sometimes described as stored objects even when they behaved like
 contained residents. Current SIADSS doctrine records active behavior, monitoring cadence, and escalation thresholds as
 part of the storage assignment.
 
 SIADSS-Signal Isolation Correction
-A media item once stopped visible transmission while producing irregular behavior in nearby documentation
-fields.
-Current storage checks include metadata, logging surfaces, and adjacent record behavior, not only obvious
-signal
+A media item once stopped visible transmission while producing irregular behavior in nearby documentation fields.
+Current storage checks include metadata, logging surfaces, and adjacent record behavior, not only obvious signal
 output.
 
 SIADSS-Transfer Threshold Review
-A quarantine case remained on F-3 after repeated signs of understanding-linked escalation. Current procedure
-requires
+A quarantine case remained on F-3 after repeated signs of understanding-linked escalation. Current procedure requires
 faster F-2 review when a document's danger grows with reading, viewing, or explanation.
 
 DIVISION USE

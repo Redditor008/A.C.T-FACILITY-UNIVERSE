@@ -6,9 +6,9 @@ Sera had expected, by then, that the deepest truths in the Facility would be hid
 seals, and redacted command strings. She had expected secrets to look like denial. What she had not expected was how
 often they looked like repetition.
 
-The same signature under different names. The same review language across different decades. The same gaps in
-personnel continuity clustered around the same floors, the same support routes, the same sealed references to recovery
-from below.
+The same signature under different names. The same review language across different
+decades. The same gaps in personnel continuity clustered around the same floors,
+the same support routes, the same sealed references to recovery from below.
 
 By the seventh day the pattern had become too deliberate to dismiss as corruption.
 
@@ -17,9 +17,9 @@ written unless something impossible had happened to their identity records.
 
 It was Mila who handed her the first real key.
 
-No warning. No lecture. Just a sealed strip of copied notation left beside Sera’s terminal between shifts, tucked
-beneath an ordinary archive routing form so cleanly that anyone glancing at the desk would have mistaken it for
-bureaucratic debris.
+No warning. No lecture. Just a sealed strip of copied notation left beside Sera’s
+terminal between shifts, tucked beneath an ordinary archive routing form so cleanly
+that anyone glancing at the desk would have mistaken it for bureaucratic debris.
 
 Sera waited until the aisle cleared before unfolding it.
 
@@ -70,9 +70,9 @@ So instead she did what the archive had taught her.
 
 She built the truth sideways.
 
-A hidden comparison ledger. Cross-indexed stroke notes. Signature geometry stripped of names. Date-line overlays built
-from dead records and surviving maintenance references. No one proof by itself. Only a pattern too coherent to remain
-accidental once seen whole.
+A hidden comparison ledger. Cross-indexed stroke notes. Signature geometry stripped of
+names. Date-line overlays built from dead records and surviving maintenance references.
+No one proof by itself. Only a pattern too coherent to remain accidental once seen whole.
 
 The founders had not simply vanished into legend and title.
 
@@ -82,13 +82,13 @@ Or worse:
 
 They had rewritten themselves.
 
-That possibility sat with her all through shift until the phrase she had been refusing to think finally formed in
-full.
+That possibility sat with her all through shift until the
+phrase she had been refusing to think finally formed in full.
 
 The founders erased themselves.
 
-Not metaphorically. Not in the ordinary historical sense where institutions smooth out inconvenient people and leave
-behind only titles.
+Not metaphorically. Not in the ordinary historical sense where
+institutions smooth out inconvenient people and leave behind only titles.
 
 Literally.
 
@@ -159,9 +159,9 @@ A flicker. Small, involuntary, and devastating.
 
 She pushed forward before caution could stop her.
 
-“They reached the abyss, learned something intolerable, and used primitive forms of the 004 compounds to remove it.
-Maybe not all of it. Maybe not cleanly. But enough to destroy continuity. Enough that the archive had to rebuild them
-under safer names.”
+“They reached the abyss, learned something intolerable, and used primitive forms of
+the 004 compounds to remove it. Maybe not all of it. Maybe not cleanly. But enough to
+destroy continuity. Enough that the archive had to rebuild them under safer names.”
 
 “That is one way to describe it,” he said.
 
@@ -211,8 +211,8 @@ Sera laughed once, a hard little fracture of sound. “The problem?”
 He took the folded page and slid it into the disposal slot beside the sealed door. The slot flashed, accepted it, and
 burned the paper out of existence in the wall.
 
-“The more accurately you reconstruct them,” he said, “the closer you get to whatever they decided no one should
-remember whole.”
+“The more accurately you reconstruct them,” he said, “the closer
+you get to whatever they decided no one should remember whole.”
 
 “That doesn’t make the lie better.”
 
@@ -220,8 +220,8 @@ remember whole.”
 
 “It makes it more unforgivable.”
 
-“Maybe.” His eyes drifted toward the floor, toward depths no one in the corridor could see. “Or maybe it makes it
-mercy dressed as mutilation.”
+“Maybe.” His eyes drifted toward the floor, toward depths no one in the
+corridor could see. “Or maybe it makes it mercy dressed as mutilation.”
 
 Sera hated that she could not dismiss the possibility.
 
@@ -240,9 +240,9 @@ At her terminal, she opened the shadow file and created another heading.
 FOUNDER CONTINUITY FAILURE
 
 Under it she wrote: - repeated handwriting patterns under contradictory names - dead personnel signatures persisting
-beyond official life span - review chains implying reconstructed authority continuity - probable self-directed
-amnestic use among original founder group - archive likely repaired around identity loss rather than preserving
-identity truth
+beyond official life span - review chains implying reconstructed authority
+continuity - probable self-directed amnestic use among original founder group -
+archive likely repaired around identity loss rather than preserving identity truth
 
 She paused. Then added:
 
@@ -250,8 +250,8 @@ The O5 may not be a clean line of remembered people. It may be a structure grown
 
 For a long time she sat without moving.
 
-Then she wrote the sentence she had been trying not to know since the first dead signature matched the second living
-one.
+Then she wrote the sentence she had been trying not to know
+since the first dead signature matched the second living one.
 
 The founders did not only bury the truth. They made themselves unable to keep it whole.
 

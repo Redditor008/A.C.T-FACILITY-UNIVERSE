@@ -39,12 +39,12 @@ TECHNOLOGY RECORD - BUREAU QUIET-LINE STATION AND GREY HOLDING ROOM ARCHITECTURE
 
 ARCHIVE NOTE
 
-This record covers the built environment the Bureau of Unquiet Borders operates inside ordinary border facilities:
-quiet-line stations hidden within customs buildings, grey holding rooms that do not appear on public floor plans,
-checkpoint rooms sealed from public recognition during interviews, and border-health rooms used for wrong-place
-sickness. The dossier records that A.C.T recovered no room and holds no plan. Everything below is derived from
-observation during a single documented hold, from the station's visible behaviour, and from the Bureau's own operating
-instructions.
+This record covers the built environment the Bureau of Unquiet Borders operates inside ordinary
+border facilities: quiet-line stations hidden within customs buildings, grey holding rooms that do
+not appear on public floor plans, checkpoint rooms sealed from public recognition during interviews,
+and border-health rooms used for wrong-place sickness. The dossier records that A.C.T recovered no
+room and holds no plan. Everything below is derived from observation during a single documented
+hold, from the station's visible behaviour, and from the Bureau's own operating instructions.
 
 The technical property worth recording is that the concealment is representational before it is physical. A grey
 holding room is absent from the plan, and the dossier does not claim it is absent from the building. A.C.T
@@ -84,9 +84,9 @@ is the function A.C.T cannot replicate.
 
 ORIGIN AND CUSTODY
 
-Origin is the Bureau of Unquiet Borders. The dossier states that quiet-line stations are hidden inside ordinary
-customs facilities and that the number of active stations is an open intelligence question. A.C.T holds no plan, no
-key, and no room.
+Origin is the Bureau of Unquiet Borders. The dossier states that quiet-line stations
+are hidden inside ordinary customs facilities and that the number of active stations
+is an open intelligence question. A.C.T holds no plan, no key, and no room.
 
 
 +----------------------------+---------------------------------------------------------------------------------------+
@@ -105,9 +105,9 @@ key, and no room.
 | Physical samples held      | None                                                                                  |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-The operative row is the observation-basis row. Every structural claim in this record rests on one hold and on the
-Bureau's own instructions. A second observation at a different station should be treated as new evidence rather than
-as confirmation.
+The operative row is the observation-basis row. Every structural claim in this record
+rests on one hold and on the Bureau's own instructions. A second observation at a
+different station should be treated as new evidence rather than as confirmation.
 
 
 PHYSICAL OR SYSTEM DESCRIPTION
@@ -272,9 +272,9 @@ FAILURE HISTORY
 
 FLOOR-PLAN ABSENCE — STANDING CONDITION
 
-Every search A.C.T has run against public floor plans has failed to locate a grey holding room. This is recorded
-as a standing condition rather than a failure, because the absence is the design. It will not clear while the
-Bureau withholds plans.
+Every search A.C.T has run against public floor plans has failed to locate a grey
+holding room. This is recorded as a standing condition rather than a failure, because
+the absence is the design. It will not clear while the Bureau withholds plans.
 
 PREMATURE QUESTIONING — PROHIBITION OF RECORD
 
@@ -285,8 +285,7 @@ the observed case, and the prohibition stands.
 WRONG-PLACE SICKNESS — UNRESOLVED
 
 The border-health room exists for travelers sick from a place that cannot be named. The dossier does not record a
-diagnosis, a treatment, or an outcome. A.C.T has no equivalent room and no route to one, so this entry remains
-open.
+diagnosis, a treatment, or an outcome. A.C.T has no equivalent room and no route to one, so this entry remains open.
 
 
 DIVISION USE

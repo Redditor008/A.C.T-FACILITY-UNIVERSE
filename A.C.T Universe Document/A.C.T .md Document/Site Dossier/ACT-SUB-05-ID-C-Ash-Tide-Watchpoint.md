@@ -16,15 +16,12 @@
 
 ## Archive Note
 
-This file is the complete individual dossier for **ACT-SUB-05-ID-C**, the **Ash Tide Watchpoint**, a
-recognized
-SUB-SITE installation of the A.C.T Facility network operating under the command authority of **ACT-SITE-05-ID-C,
-Nusantara Deep Relay**.
+This file is the complete individual dossier for **ACT-SUB-05-ID-C**, the **Ash Tide Watchpoint**, a recognized
+SUB-SITE installation of the A.C.T Facility network operating under
+the command authority of **ACT-SITE-05-ID-C, Nusantara Deep Relay**.
 
-Ash Tide is the relay's coastal eye: a watchpoint combining maritime observation with hidden
-emergency intake
-capacity, serving the selected island and near-shore anomaly corridors under the Nusantara Deep Relay's
-authority. It
+Ash Tide is the relay's coastal eye: a watchpoint combining maritime observation with hidden emergency intake
+capacity, serving the selected island and near-shore anomaly corridors under the Nusantara Deep Relay's authority. It
 watches the water where the land meets the sea, and it watches the volcanoes
 that mark the region's restless geology.
 
@@ -50,8 +47,7 @@ of emergency lockdown and silent withdrawal during large-scale tectonic shifts.
 
 ## 2. Dossier Purpose
 
-The Nusantara Deep Relay's jurisdiction is an archipelago: thousands of islands, endless coastline, and
-a maritime
+The Nusantara Deep Relay's jurisdiction is an archipelago: thousands of islands, endless coastline, and a maritime
 environment where anomalies appear at the water's edge as often as in the deep.
 The parent relay cannot watch every
 coast from its island core — it needs distributed eyes where the water meets
@@ -59,8 +55,7 @@ the land.
 
 Ash Tide Watchpoint is one of those eyes. It watches the coastal corridors, relays
 sea-entry traffic, observes
-volcanic activity, and maintains the hidden capacity to receive material and personnel in an
-emergency — then withdraw
+volcanic activity, and maintains the hidden capacity to receive material and personnel in an emergency — then withdraw
 silently when the region's restless geology demands it.
 
 ---
@@ -69,26 +64,21 @@ silently when the region's restless geology demands it.
 
 ### 3.1 Geography
 
-The watchpoint occupies a coastal position within the relay's jurisdiction: an island or near-shore
-location selected
-for its view over maritime anomaly corridors and its proximity to volcanic observation targets.
-The position balances
+The watchpoint occupies a coastal position within the relay's jurisdiction: an island or near-shore location selected
+for its view over maritime anomaly corridors and its proximity to volcanic observation targets. The position balances
 observation value against the region's geological risk.
 
 ### 3.2 Cover Identity
 
-The watchpoint operates under cover as a **coastal research and monitoring station**: a small
-legitimate installation
-conducting oceanographic, volcanic, and wildlife observation. The cover is natural for the region —
-coastal research
+The watchpoint operates under cover as a **coastal research and monitoring station**: a small legitimate installation
+conducting oceanographic, volcanic, and wildlife observation. The cover is natural for the region — coastal research
 stations are ordinary features of the archipelago.
 
 ### 3.3 Why a Sub-Site
 
 The watchpoint exists as a sub-site because it is a narrow instrument: a watch
 and relay point rather than a
-containment installation. It has no standing mandate for long-term holding, no independent research authority,
-and no
+containment installation. It has no standing mandate for long-term holding, no independent research authority, and no
 role beyond supporting the parent relay's maritime and seismic mandate.
 
 ---
@@ -103,15 +93,12 @@ anomalies to the parent relay.
 
 ### 4.2 Permanent Staffing
 
-Repeated coastal anomaly appearances in the watchpoint's area required permanent staffing. The position was
-upgraded
-from a rotating watchpoint to a permanently staffed installation with standing observation and response
-capacity.
+Repeated coastal anomaly appearances in the watchpoint's area required permanent staffing. The position was upgraded
+from a rotating watchpoint to a permanently staffed installation with standing observation and response capacity.
 
 ### 4.3 Recognition as a Sub-Site
 
-The permanently staffed watchpoint was recognized as a formal sub-site under the Nusantara Deep
-Relay's authority,
+The permanently staffed watchpoint was recognized as a formal sub-site under the Nusantara Deep Relay's authority,
 with the institutional standing its permanent role required.
 
 ### 4.4 Modern Role
@@ -129,8 +116,7 @@ Today the watchpoint functions as:
 
 ### 5.1 Command Structure
 
-The watchpoint is commanded by a **Watch Chief** appointed by the Nusantara Deep Relay's
-Site Director, operating
+The watchpoint is commanded by a **Watch Chief** appointed by the Nusantara Deep Relay's Site Director, operating
 under the relay's seismic and maritime oversight structure.
 
 ### 5.2 Relationship to the Parent Relay
@@ -153,8 +139,7 @@ The watchpoint's command limits are explicit:
 
 ### 6.1 Recovery Support
 
-Recovery Support personnel at the watchpoint coordinate coastal recovery operations with the parent relay:
-sea-entry
+Recovery Support personnel at the watchpoint coordinate coastal recovery operations with the parent relay: sea-entry
 staging, vessel coordination, and emergency intake of recovered material.
 
 ### 6.2 Security
@@ -165,8 +150,7 @@ posture includes preparation for silent withdrawal during large-scale tectonic s
 ### 6.3 Seismic Monitoring
 
 Seismic Monitoring staff operate the watchpoint's volcanic and seismic observation equipment: watching the region's
-restless geology, reporting irregular activity to the parent relay, and supporting the relay's deep-earth
-observation
+restless geology, reporting irregular activity to the parent relay, and supporting the relay's deep-earth observation
 mandate.
 
 ### 6.4 Limited Medical Staff
@@ -179,8 +163,7 @@ personnel arriving through emergency intake.
 
 ## 7. Physical Plant and Internal Floor Register
 
-The watchpoint is a compact coastal installation with a small buried component registered on
-**three numbered
+The watchpoint is a compact coastal installation with a small buried component registered on **three numbered
 levels**, from **F-1** (deepest) to **F-3** (surface-adjacent), consistent with Facility floor doctrine.
 
 ### F-3 — Surface Cover Level
@@ -188,15 +171,13 @@ The legitimate coastal research station: observation decks, monitoring equipment
 dock used for legitimate research vessel operations.
 
 ### F-2 — Operations and Watch Level
-The watchpoint's operational heart: watch coordination, seismic monitoring suites, and the staging area for
-recovery
+The watchpoint's operational heart: watch coordination, seismic monitoring suites, and the staging area for recovery
 support and emergency intake.
 
 ### F-1 — Emergency Intake and Secure Storage (Deepest)
 The watchpoint's secure level: hidden emergency intake capacity for material and personnel, plus secure
 storage for
-time-sensitive recovered material awaiting transfer to the parent relay. During a breach response, **closing
-F-1 to
+time-sensitive recovered material awaiting transfer to the parent relay. During a breach response, **closing F-1 to
 the outside** seals this level.
 
 ---
@@ -205,40 +186,32 @@ the outside** seals this level.
 
 ### 8.1 Watch Doctrine
 
-The watchpoint's defining protocol is watch: continuous observation of its assigned coastal corridors for
-anomalous
-maritime activity, volcanic signature, and sea-entry traffic. The watchpoint sees what the parent relay
-cannot see
+The watchpoint's defining protocol is watch: continuous observation of its assigned coastal corridors for anomalous
+maritime activity, volcanic signature, and sea-entry traffic. The watchpoint sees what the parent relay cannot see
 from its core.
 
 ### 8.2 Sea-Entry Relay Doctrine
 
-When recovery operations require a coastal entry point, the watchpoint serves as the relay:
-staging vessel operations,
+When recovery operations require a coastal entry point, the watchpoint serves as the relay: staging vessel operations,
 coordinating with the parent relay, and receiving recovered material for transfer.
 
 ### 8.3 Emergency Intake Doctrine
 
-The watchpoint maintains hidden emergency intake capacity: the ability to receive material and personnel
-under
-operational pressure, stabilize them briefly, and move them to the parent relay. Emergency intake
-is temporary by
+The watchpoint maintains hidden emergency intake capacity: the ability to receive material and personnel under
+operational pressure, stabilize them briefly, and move them to the parent relay. Emergency intake is temporary by
 design.
 
 ### 8.4 Silent Withdrawal Doctrine
 
-Because the region's geology is genuinely restless, the watchpoint maintains a silent withdrawal doctrine:
-the
-capacity to lock down or evacuate quietly during large-scale tectonic shifts, preserving the watchpoint's
-cover and
+Because the region's geology is genuinely restless, the watchpoint maintains a silent withdrawal doctrine: the
+capacity to lock down or evacuate quietly during large-scale tectonic shifts, preserving the watchpoint's cover and
 personnel until the environment stabilizes.
 
 ---
 
 ## 9. Resident Holdings
 
-The watchpoint does not maintain permanent residents. Its secure level is occupied only by
-emergency intake material
+The watchpoint does not maintain permanent residents. Its secure level is occupied only by emergency intake material
 in transit to the parent relay. The watchpoint's manifest is a rolling record of
 transients.
 
@@ -257,8 +230,7 @@ genuine observation activity. Security procedures emphasize:
 
 ## 11. Personnel and Operational Life
 
-The watchpoint's personnel serve on rotation from the parent relay's apparatus. Their work is
-the coastal watch work
+The watchpoint's personnel serve on rotation from the parent relay's apparatus. Their work is the coastal watch work
 of the archipelago: watching the water, watching the volcanoes, relaying what they see, and
 standing ready to receive
 what the sea gives back.
@@ -274,10 +246,8 @@ A working day at the watchpoint may include:
 
 ## 12. Incident Archive
 
-The watchpoint's incident records are dominated by watch and relay events: coastal anomaly sightings,
-volcanic
-observation events, and emergency intake operations. Material that exceeds the watchpoint's capacity moves to
-the
+The watchpoint's incident records are dominated by watch and relay events: coastal anomaly sightings, volcanic
+observation events, and emergency intake operations. Material that exceeds the watchpoint's capacity moves to the
 parent relay.
 
 ---
@@ -303,10 +273,8 @@ Projected development priorities include:
 
 ## Archive Closing
 
-ACT-SUB-05-ID-C, the Ash Tide Watchpoint, is the coastal eye of the Nusantara Deep Relay:
-a small station where the
-water meets the land, watching the corridors where anomalies arrive, relaying what it sees,
-and standing ready to
+ACT-SUB-05-ID-C, the Ash Tide Watchpoint, is the coastal eye of the Nusantara Deep Relay: a small station where the
+water meets the land, watching the corridors where anomalies arrive, relaying what it sees, and standing ready to
 receive — or to withdraw silently when the ground itself demands it.
 
 It is called Ash Tide because that is its nature: the meeting of volcanic

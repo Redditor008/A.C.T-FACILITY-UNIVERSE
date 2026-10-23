@@ -24,27 +24,20 @@
 | AUTHORITY | Medical Division, Containment Division, Engineering Division, Legal Division, and Central Archive |
 
 #### Archive Note
-The Mercy Lock Gentle Lock System is a GOI-origin nonviolent containment technology used by
-Mercy Lock Institute in
-abnormal-care wards. It is not a single padlock. It is a room-and-door interface, restraint
-philosophy,
+The Mercy Lock Gentle Lock System is a GOI-origin nonviolent containment technology used by Mercy Lock Institute in
+abnormal-care wards. It is not a single padlock. It is a room-and-door interface, restraint philosophy,
 patient-specific tuning process, emergency release method, and staff behavior standard arranged around one technical
 principle: restrict the harmful manifestation before restricting the whole person. A.C.T uses the designation
-TECH-GOI-071-1 because the system recurs across multiple Mercy Lock wards and is now relevant
-to A.C.T transfer
+TECH-GOI-071-1 because the system recurs across multiple Mercy Lock wards and is now relevant to A.C.T transfer
 planning, medical containment design, patient-rights review, and future technology-document development.
 
-A.C.T does not possess a complete Mercy Lock schematic. A.C.T has inspected installed locks,
-recovered broken lock
-faces, observed two transfers where gentle locks prevented escalation, and reviewed partial training cards.
-Mercy Lock
-Institute has not surrendered full manufacturing notes. Current knowledge is enough for operational use
-and risk
+A.C.T does not possess a complete Mercy Lock schematic. A.C.T has inspected installed locks, recovered broken lock
+faces, observed two transfers where gentle locks prevented escalation, and reviewed partial training cards. Mercy Lock
+Institute has not surrendered full manufacturing notes. Current knowledge is enough for operational use and risk
 review, not enough for unsupervised reproduction.
 
 Exploit-prone tuning phrases, living patient names, ward coordinates, override procedures, and internal plate geometry
-are censored under **GENTLE LOCK DISCLOSURE LIMIT**. This protects residents from hostile groups and
-prevents Iron
+are censored under **GENTLE LOCK DISCLOSURE LIMIT**. This protects residents from hostile groups and prevents Iron
 Meridian-style modification into punitive restraint.
 
 ---
@@ -59,8 +52,7 @@ handles during panic, the lock restricts heat transfer at the handle and frame b
 restraining the patient's arms.
 If a resident opens doors through shadow rather than touch, the lock changes shadow
 acceptance at the threshold before
-isolating the resident in darkness. If a nonhuman dependent responds violently to being caged,
-the lock softens
+isolating the resident in darkness. If a nonhuman dependent responds violently to being caged, the lock softens
 visible custody cues while preserving a hard emergency seal inside the wall.
 
 The system is therefore both mechanical and behavioral. The device can fail if staff
@@ -74,22 +66,18 @@ The core operating rule is:
 LOCK THE HARM. DO NOT LOCK AWAY THE PERSON.
 ```
 
-In technical terms, the system attempts to separate manifestation vector, patient movement, staff access,
-observation,
-consent, and emergency release into different control layers instead of forcing one locked door
-to perform every
+In technical terms, the system attempts to separate manifestation vector, patient movement, staff access, observation,
+consent, and emergency release into different control layers instead of forcing one locked door to perform every
 function.
 
 ### Difference From Standard Containment Locks
 
-Standard A.C.T containment locks are built for denial: deny exit, deny breach, deny unauthorized
-access, deny
+Standard A.C.T containment locks are built for denial: deny exit, deny breach, deny unauthorized access, deny
 tampering. Gentle locks are built for selective permission. They may allow a patient to
 open a food hatch but not a
 corridor door, allow a nurse to enter but not a guard carrying a visible
 weapon, allow a window panel to vent heat but
-not permit full egress, or allow family voice contact without allowing the family member
-to cross the threshold.
+not permit full egress, or allow family voice contact without allowing the family member to cross the threshold.
 
 This does not make the lock weak. It makes the lock specific. A broad
 hard lock may provoke the exact behavior it is
@@ -102,10 +90,8 @@ meant to contain. A gentle lock tries to avoid becoming the trigger.
 ### Origin Assessment
 
 The system originates with Mercy Lock Institute, probably through collaboration between Lock Physicians, Quiet
-Engineers, patient advocates, and ward technicians. A.C.T has not confirmed whether the first gentle
-lock was
-engineered from ordinary restraint architecture, adapted from anomalous door behavior, copied from an older
-hospice
+Engineers, patient advocates, and ward technicians. A.C.T has not confirmed whether the first gentle lock was
+engineered from ordinary restraint architecture, adapted from anomalous door behavior, copied from an older hospice
 tradition, or derived from a recovered object. Mercy Lock staff describe the origin as
 clinical necessity rather than
 invention.
@@ -122,18 +108,15 @@ become more dangerous when restrained by fear, pain, isolation, or humiliation.
 
 ### Custody Status
 
-Primary custody remains with Mercy Lock Institute. A.C.T holds one broken exterior plate, two
-removed nonactive latch
-tongues, four training cards, one transfer-compatible patient bell interface, and a partial maintenance diagram
-with
+Primary custody remains with Mercy Lock Institute. A.C.T holds one broken exterior plate, two removed nonactive latch
+tongues, four training cards, one transfer-compatible patient bell interface, and a partial maintenance diagram with
 the tuning strip removed. These materials are stored under Medical-Engineering joint lock.
 
-A.C.T may request Mercy Lock installation or consultation during patient transfer, temporary ward creation,
-or
+A.C.T may request Mercy Lock installation or consultation during patient transfer, temporary ward creation, or
 redesign of low-violence holding rooms. A.C.T may not install a copied gentle lock in
 an A.C.T site without Command,
-Medical, Legal, and Engineering approval. Current file authority treats unauthorized reproduction as both technical
-risk and diplomatic breach.
+Medical, Legal, and Engineering approval. Current file authority treats
+unauthorized reproduction as both technical risk and diplomatic breach.
 
 ---
 
@@ -151,11 +134,9 @@ Observed gentle lock installations include the following repeated components:
  without opening the door;
  a staff-side keyway hidden behind a sliding medical label rather than a prison-style
  keyhole;
- a manifestation buffer strip along the hinge, threshold, handle, window, or vent, depending
- on
+ a manifestation buffer strip along the hinge, threshold, handle, window, or vent, depending on
  patient risk;
- a consent marker slot where voluntary, substitute, emergency, and disputed custody states can
- be
+ a consent marker slot where voluntary, substitute, emergency, and disputed custody states can be
  displayed;
  an emergency release path requiring two staff roles or one staff role plus
  patient-specific
@@ -169,16 +150,13 @@ Not every lock contains every component. Mercy Lock tunes each installation to t
 ### Materials and Signals
 
 Recovered materials include nonreactive polymer, soft ceramic, ordinary steel, braided copper thread, treated linen,
-acoustic-damping felt, thin silver-gray mesh, and an unidentified warm resin used behind one White
-Lock plate. No
+acoustic-damping felt, thin silver-gray mesh, and an unidentified warm resin used behind one White Lock plate. No
 harvested Pale Wood has been confirmed in gentle locks. Mercy Lock denies using pain
 feedback, shock grids, or
 sedative-trigger wiring as standard lock components.
 
-Signal behavior varies. Some locks respond to staff badge proximity. Some respond to spoken
-names that are not
-surnames. Some respond to bell vibration. Some respond only after a Consent Clerk changes
-the marker state. One Grey
+Signal behavior varies. Some locks respond to staff badge proximity. Some respond to spoken names that are not
+surnames. Some respond to bell vibration. Some respond only after a Consent Clerk changes the marker state. One Grey
 Lock installation reportedly refused to open for a doctor who used the patient's old
 legal name after being instructed
 not to.
@@ -198,8 +176,7 @@ BLACK LOCK: high-risk resident; dual-key and advocate review required.
 RED LOCK: failed lock or failed plan; ward closed until review.
 ```
 
-A.C.T must confirm local meaning before operational use. Regional Mercy Lock wards may adjust
-color terms.
+A.C.T must confirm local meaning before operational use. Regional Mercy Lock wards may adjust color terms.
 
 ## TECHNICAL SPECIFICATION
 
@@ -250,9 +227,9 @@ matters more than the strength of the seal.
 - Weakest where a patient profile is not updated after a name or body change.
 - Weakest where corridor lighting differs from the ward design.
 
-Component essentiality, bell interaction, and long-term outcome differences against hard containment are NOT MEASURED.
-A gentle lock does not make an unsafe resident harmless and cannot replace sedation where sedation is medically
-necessary.
+Component essentiality, bell interaction, and long-term outcome differences against
+hard containment are NOT MEASURED. A gentle lock does not make an unsafe resident
+harmless and cannot replace sedation where sedation is medically necessary.
 
 ---
 ---
@@ -261,16 +238,13 @@ necessary.
 
 ### Authorized Deployment Context
 
-A.C.T may interact with gentle locks in four approved contexts: cooperative Mercy Lock transfer,
-emergency ward
-support, inspected Mercy Lock site visit, and A.C.T temporary medical containment when a Mercy
-Lock consultant is
+A.C.T may interact with gentle locks in four approved contexts: cooperative Mercy Lock transfer, emergency ward
+support, inspected Mercy Lock site visit, and A.C.T temporary medical containment when a Mercy Lock consultant is
 present. Direct seizure of a functioning lock is prohibited unless the lock is causing
 immediate harm, shielding a
 mass-risk condition, or being modified for punitive or hostile use.
 
-Before using a gentle lock, staff must identify the manifestation vector. Locking the wrong
-boundary can worsen the
+Before using a gentle lock, staff must identify the manifestation vector. Locking the wrong boundary can worsen the
 event. A patient whose danger exits through speech should not be managed only by
 door reinforcement. A resident whose
 panic increases with darkness should not be placed behind an opaque plate. A child
@@ -282,8 +256,7 @@ light control more than heavier bolts.
 During transfer, Mercy Lock may request that a portable gentle lock plate be installed
 on an ambulance interior,
 temporary room, or A.C.T medical-wing door. A.C.T Medical must record tolerated conditions, escalation conditions,
-release language, bell status, visible weapon limits, family-contact limits, and whether the patient may
-use their own
+release language, bell status, visible weapon limits, family-contact limits, and whether the patient may use their own
 name safely.
 
 Minimum transfer notation:
@@ -303,10 +276,8 @@ This notation is not optional in joint transfer.
 
 A gentle lock should be inspected by two roles: technical and care. An engineer
 can verify latch travel, plate
-temperature, hinge behavior, battery or power isolation, frame movement, and signal input. A care
-reviewer verifies
-whether the lock still matches the resident's condition. A technically functional lock can be
-medically obsolete if
+temperature, hinge behavior, battery or power isolation, frame movement, and signal input. A care reviewer verifies
+whether the lock still matches the resident's condition. A technically functional lock can be medically obsolete if
 the patient's manifestation, memory, body, or trigger profile has changed.
 
 Never clean a lock plate with unknown solvents. Never remove cloth wrapping from a
@@ -364,12 +335,9 @@ the lock as custody, which is the failure mode the training names explicitly.
 
 ### Technical Limits
 
-Gentle locks do not make an unsafe resident harmless. They reduce specific interactions between
-resident, room, staff,
-and manifestation. They cannot replace sedation when sedation is medically necessary, cannot substitute for
-staff
-training, cannot guarantee that a nonhuman resident understands a threshold, cannot correct legal custody
-disputes,
+Gentle locks do not make an unsafe resident harmless. They reduce specific interactions between resident, room, staff,
+and manifestation. They cannot replace sedation when sedation is medically necessary, cannot substitute for staff
+training, cannot guarantee that a nonhuman resident understands a threshold, cannot correct legal custody disputes,
 and cannot repair a care plan built on punishment.
 
 Known technical limits include:
@@ -386,10 +354,8 @@ Known technical limits include:
 
 The system depends on restraint culture. A punitive team can turn a gentle lock
 into a cruel lock by ignoring the
-patient-side interface, refusing to answer bells, blocking windows, mocking trigger names, or adding chains
-and
-handcuffs outside the designed plan. Several Mercy Lock failures were not caused by broken
-devices. They were caused
+patient-side interface, refusing to answer bells, blocking windows, mocking trigger names, or adding chains and
+handcuffs outside the designed plan. Several Mercy Lock failures were not caused by broken devices. They were caused
 by staff using a care technology as a dominance tool.
 
 This limit is why A.C.T Legal insists that any copied or borrowed system include
@@ -416,8 +382,7 @@ Quiet Engineer suspended.
 Ward reopened after lock face replaced with soft plate.
 ```
 
-A.C.T Engineering initially treated the phrase door held as evidence of success. Medical Division
-rejected that
+A.C.T Engineering initially treated the phrase door held as evidence of success. Medical Division rejected that
 interpretation. The technology functioned mechanically, but the containment plan failed because staff response time,
 bell priority, and interior plate design did not preserve the patient. This incident is
 now mandatory reading for
@@ -425,31 +390,24 @@ A.C.T teams evaluating gentle locks.
 
 ### A.C.T Transfer Near Miss
 
-During a cooperative transfer to Site 02 medical wing, A.C.T Containment proposed handcuffs, visible
-armed escort, and
+During a cooperative transfer to Site 02 medical wing, A.C.T Containment proposed handcuffs, visible armed escort, and
 surname confirmation at every door. Mercy Lock objected. The patient had a history of
 heat manifestation when
-restrained by hands or addressed by surname. After Medical review, visible weapons were removed,
-the bell stayed with
+restrained by hands or addressed by surname. After Medical review, visible weapons were removed, the bell stayed with
 the patient, and the gentle lock plate was installed inside the transport bay.
 
-Heat output remained below injury threshold. The patient arrived conscious and later gave usable
-testimony. This is
-considered a successful near miss because the first A.C.T plan would likely have produced
-injury.
+Heat output remained below injury threshold. The patient arrived conscious and later gave usable testimony. This is
+considered a successful near miss because the first A.C.T plan would likely have produced injury.
 
 ### Hostile-Use Concern
 
-Iron Meridian Authority appears to have sought Mercy Lock technology or staff knowledge. A.C.T
-has no confirmed copied
+Iron Meridian Authority appears to have sought Mercy Lock technology or staff knowledge. A.C.T has no confirmed copied
 gentle lock in Iron Meridian custody, but a seized Meridian restraint door contained a
 soft interior plate attached to
-a punishment collar circuit. Mercy Lock denies any involvement. A.C.T assesses the device as
-imitation or theft rather
+a punishment collar circuit. Mercy Lock denies any involvement. A.C.T assesses the device as imitation or theft rather
 than cooperation.
 
-If confirmed, hostile adaptation would invert the gentle lock principle: use patient-specific tuning to
-produce
+If confirmed, hostile adaptation would invert the gentle lock principle: use patient-specific tuning to produce
 compliance rather than safety. This risk justifies Level 5 control of full schematics.
 
 ---
@@ -458,38 +416,32 @@ compliance rather than safety. This risk justifies Level 5 control of full schem
 
 ### Medical Division
 
-Medical Division may request gentle lock consultation for patients whose danger increases under ordinary
-restraint.
+Medical Division may request gentle lock consultation for patients whose danger increases under ordinary restraint.
 Medical must document clinical triggers, communication methods, consent status, emergency release, and what the
 patient must not be called. Medical owns the care-plan review, not the hardware alone.
 
 ### Containment Division
 
 Containment may request gentle lock assessment when a low-violence or episode-linked subject repeatedly escalates
-against standard cells. Containment must not use the system to weaken necessary containment for
-high-risk hostile
+against standard cells. Containment must not use the system to weaken necessary containment for high-risk hostile
 entities. The technology is for precise restraint, not wishful softness.
 
 ### Subject Care Division
 
-Subject Care must attach when the resident is a child, survivor, altered civilian, witness,
-nonhuman dependent, or
+Subject Care must attach when the resident is a child, survivor, altered civilian, witness, nonhuman dependent, or
 person whose legal status is unstable. Subject Care may block deployment if the lock
 plan erases communication or
 creates unnecessary isolation.
 
 ### Engineering Division
 
-Engineering may inspect, document, and test nonactive components. Engineering may not reproduce full systems
-without
-authorization. Any recovered material must be logged by plate, latch, buffer strip, signal input,
-and
+Engineering may inspect, document, and test nonactive components. Engineering may not reproduce full systems without
+authorization. Any recovered material must be logged by plate, latch, buffer strip, signal input, and
 patient-interface condition.
 
 ### Legal Division
 
-Legal must review custody, consent, guardianship, transfer authority, and responsibility for injury. A gentle
-lock
+Legal must review custody, consent, guardianship, transfer authority, and responsibility for injury. A gentle lock
 used without consent review may become unlawful detention even if it is technically humane.
 
 ---
@@ -504,8 +456,7 @@ used without consent review may become unlawful detention even if it is technica
 - ACT-MASTER-INDEX-50-SYSTEMS-AND-MATERIALS, Archive Record
 - Comprehensive Visual and Mechanical Specifications for Asset Index 50, Archive Record
 - Standing Field Units and Cross-Containment Interaction Protocol, Archive Record
- Restricted Mercy Lock transfer notes, Red Key incident fragments, patient care files, and
- Site
+ Restricted Mercy Lock transfer notes, Red Key incident fragments, patient care files, and Site
  02 medical-wing
  transfer records held under Central Archive routing.
 
@@ -513,24 +464,18 @@ used without consent review may become unlawful detention even if it is technica
 
 Mandatory when a gentle lock is attached to a living patient, a specific ward,
 a containment transfer, a failed
-restraint plan, a recovered GOI component, or suspected hostile-use modification. This technology record describes
-the
-system family. It does not replace patient files, ward inspection records, anomaly files, GOI
-files, medical reports,
+restraint plan, a recovered GOI component, or suspected hostile-use modification. This technology record describes the
+system family. It does not replace patient files, ward inspection records, anomaly files, GOI files, medical reports,
 or legal custody review.
 
 ---
 
 ## OPEN QUESTIONS
 
-Did the original gentle lock derive from ordinary clinical design, an anomalous door, an
-old hospice practice, or an
-unrecovered Mercy Lock predecessor device? Which components are essential: soft plate, hidden latch, consent
-marker,
-buffer strip, bell interface, or staff protocol? Can A.C.T build a noninfringing equivalent without
-stealing Mercy
-Lock technology or damaging cooperation? Do patient bells interact with gentle locks through vibration,
-proximity,
+Did the original gentle lock derive from ordinary clinical design, an anomalous door, an old hospice practice, or an
+unrecovered Mercy Lock predecessor device? Which components are essential: soft plate, hidden latch, consent marker,
+buffer strip, bell interface, or staff protocol? Can A.C.T build a noninfringing equivalent without stealing Mercy
+Lock technology or damaging cooperation? Do patient bells interact with gentle locks through vibration, proximity,
 name recognition, or a separate ward system? How often do gentle locks fail because
 patient profiles are not updated
 after memory, body, or name changes? Has Iron Meridian Authority copied any part of
@@ -544,8 +489,7 @@ lock rooms and standard hard containment?
 
 Moderate. A.C.T has observed working systems, handled inactive components, reviewed training material, and
 participated in successful transfer use. Confidence is limited by incomplete schematics, Mercy Lock withholding,
-patient-specific tuning, regional variation, and unknown anomalous contribution. The system should be treated as
-real
+patient-specific tuning, regional variation, and unknown anomalous contribution. The system should be treated as real
 and useful, but not fully understood.
 
 ---

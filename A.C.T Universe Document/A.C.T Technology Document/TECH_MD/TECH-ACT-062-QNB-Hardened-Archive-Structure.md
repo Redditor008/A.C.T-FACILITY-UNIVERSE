@@ -21,12 +21,9 @@
 | AUTHORITY | Archive Division, Engineering Division, and Central Archive |
 
 #### Archive Note
-QNB-Hardened Archive Structure is the sixty-second main A.C.T technology expanded into an individual record.
-Redwood
-Veil's F-7 floor dossier states that the Central Archive and Records level is QNB-hardened
-against external causal
-rewrites in accordance with central archival doctrine. It defines F-7 as the complex's documentary
-estate, where
+QNB-Hardened Archive Structure is the sixty-second main A.C.T technology expanded into an individual record. Redwood
+Veil's F-7 floor dossier states that the Central Archive and Records level is QNB-hardened against external causal
+rewrites in accordance with central archival doctrine. It defines F-7 as the complex's documentary estate, where
 recovery logs, object histories, witness records, cover paperwork, personnel files, and clinical records are
 preserved. TECH-ACT-003 establishes the Quantum Narrative Buffer System as the causal-safeguard that preserves records
 through rewrites, regressions, temporal resets, and narrative drift.
@@ -47,10 +44,8 @@ THE ROOM MUST REMEMBER WITH THE FILE, OR THE FILE WILL STAND ALONE.
 
 ## FUNCTION SUMMARY
 
-QNB-Hardened Archive Structure is an integrated architectural and documentary hardening method used to protect
-archive
-floors, quarantine cells, repository halls, access records, and retrieval systems against forces that attempt
-to
+QNB-Hardened Archive Structure is an integrated architectural and documentary hardening method used to protect archive
+floors, quarantine cells, repository halls, access records, and retrieval systems against forces that attempt to
 change what the record says. It extends QNB doctrine from equipment into the archive
 environment itself. The goal is
 not merely to preserve a copy. The goal is to preserve the continuity relationship
@@ -61,29 +56,25 @@ A normal backup can preserve text while the room around it accepts the new
 history. QHAS prevents that separation. If
 an anomalous force tries to make a document, ledger, witness record, or object history
 agree with an altered past, the
-hardened structure gives the archive a second body of resistance. The room, routing, gates,
-quarantine cells, and
+hardened structure gives the archive a second body of resistance. The room, routing, gates, quarantine cells, and
 record systems remain part of the comparison.
 
-Approved roles include central archive hardening, F-7 repository protection, quarantine-cell reinforcement, retrieval
-integrity, access-log continuity, witness-record preservation, and restoration review after temporal or causal
-disturbance.
+Approved roles include central archive hardening, F-7 repository protection,
+quarantine-cell reinforcement, retrieval integrity, access-log continuity, witness-record
+preservation, and restoration review after temporal or causal disturbance.
 
 ---
 
 ## ORIGIN AND DEVELOPMENT
 
-QNB emerged because A.C.T learned that containment can fail through records. Some anomalies do
-not escape rooms; they
+QNB emerged because A.C.T learned that containment can fail through records. Some anomalies do not escape rooms; they
 alter the proof that they were there. Some incidents make testimony agree that nothing
 happened. Some timeline
 disturbances invite an archive to accept the new version before staff can notice the
 old one is gone.
 
-F-7 applied that lesson to architecture. Its floor dossier states that the structure itself
-is hardened against
-external causal rewrites and that this hardening is integrated into the floor's design. The
-adoption followed central
+F-7 applied that lesson to architecture. Its floor dossier states that the structure itself is hardened against
+external causal rewrites and that this hardening is integrated into the floor's design. The adoption followed central
 archival doctrine: a record is not only words. It is accession, storage position, retrieval
 history, authorization,
 quarantine state, and relationship to every other file that proves it was not invented
@@ -98,8 +89,7 @@ system, not just as a shelf.
 
 A QHAS installation includes QNB-linked repository surfaces, hardened retrieval routes, access-core record locks,
 quarantine-cell continuity checks, preservation sensors, sequence logs, environmental state records, and comparison
-ledgers that monitor whether the archive's physical arrangement still agrees with its documentary memory.
-QNB racks
+ledgers that monitor whether the archive's physical arrangement still agrees with its documentary memory. QNB racks
 remain critical, but they do not carry the whole burden alone.
 
 Known components include:
@@ -192,25 +182,21 @@ Continuity maintenance, Level 4 audit with Level 5 redesign.
 
 Step-down: the register and accession log are reconciled and the restoration seal is left
 set. Emergency: a
-contradiction alert holds the affected shelf under the review seal until Archive decides whether
-the file,
+contradiction alert holds the affected shelf under the review seal until Archive decides whether the file,
 the room, or the record is the thing that moved.
 
 Before maintenance, Archive verifies active record state, retrieval schedule, quarantine status, and whether any
 document is under causal dispute. Engineering verifies power, QNB link integrity, environmental recorders, and
-structural witness marks. Digital Systems checks comparison logs without overwriting them. Site Command is
-notified
+structural witness marks. Digital Systems checks comparison logs without overwriting them. Site Command is notified
 before any work that could interrupt F-7 continuity.
 
 During operation, QHAS runs quietly. It records access, location, environmental state, document movement, retrieval,
-quarantine status, and mismatch. Archive staff do not dismiss small contradictions. A shelf that
-insists a file was
+quarantine status, and mismatch. Archive staff do not dismiss small contradictions. A shelf that insists a file was
 never there, a retrieval log that loses one entry, or a quarantine cell that
 reports a different title may be the
 first visible sign of a rewrite attempt.
 
-After any anomaly, Archive separates raw QHAS readings from staff interpretation. Restoration review compares
-QNB
+After any anomaly, Archive separates raw QHAS readings from staff interpretation. Restoration review compares QNB
 record identity, room state, and witness memory before declaring a version active.
 
 ---
@@ -226,8 +212,7 @@ record identity, room state, and witness memory before declaring a version activ
 | Comparison log check | read without overwrite | Digital Systems |
 | Continuity interruption planned | Site Command notification | Site Command |
 
-No calendar interval is recorded; the structure is audited per maintenance window, so interval
-NOT MEASURED.
+No calendar interval is recorded; the structure is audited per maintenance window, so interval NOT MEASURED.
 There is no consumable. The quarantine mismatch case is why identity and access state
 are checked separately
 rather than as one result.
@@ -247,15 +232,12 @@ rather than as one result.
 
 QHAS cannot prove that an original record was true. It can only help preserve
 what the archive wrote and reveal when
-continuity has been attacked. It also cannot safely harden every public or low-risk record;
-too much hardening can
-make old mistakes difficult to correct. The system must preserve record identity without turning
-clerical error into
+continuity has been attacked. It also cannot safely harden every public or low-risk record; too much hardening can
+make old mistakes difficult to correct. The system must preserve record identity without turning clerical error into
 sacred fact.
 
 Known failure modes include false continuity, overhardening, restoration bias, checksum echo, access-log freeze,
-quarantine mismatch, floor-state drift, and staff treating the hardened version as morally correct because
-it
+quarantine mismatch, floor-state drift, and staff treating the hardened version as morally correct because it
 survived. A preserved record may still be incomplete, unethical, or wrong.
 
 ---
@@ -263,24 +245,20 @@ survived. A preserved record may still be incomplete, unethical, or wrong.
 ## FAILURE HISTORY
 
 ### QHAS-F7 Adoption Record
-F-7 adopted QNB-hardened structure after A.C.T recognized that anomalous forces can reach into documents
-and change
+F-7 adopted QNB-hardened structure after A.C.T recognized that anomalous forces can reach into documents and change
 what they say. The floor was rebuilt around the principle that the complex's records
 are written once and kept as
 written.
 
 ### QHAS-Quarantine Cell Mismatch
-A document quarantine comparison plate once reported an intact file while the retrieval register
-reported no safe
-reader. Archive review found the file had retained identity while its access condition changed.
-Procedure now checks
+A document quarantine comparison plate once reported an intact file while the retrieval register reported no safe
+reader. Archive review found the file had retained identity while its access condition changed. Procedure now checks
 identity and access state separately.
 
 ### QHAS-Overhardening Review
-A clerical correction was delayed because staff feared altering a hardened record. Archive doctrine
-clarified that
-QHAS protects continuity, not error. Corrections remain possible through documented amendment rather than silent
-rewrite.
+A clerical correction was delayed because staff feared altering a hardened record. Archive doctrine clarified that
+QHAS protects continuity, not error. Corrections remain possible
+through documented amendment rather than silent rewrite.
 
 ---
 
@@ -288,8 +266,7 @@ rewrite.
 
 Archive owns record identity, accession state, retrieval authority, and restoration review. Engineering maintains the
 hardened structure and QNB-linked physical systems. Site Command approves interruptions. Containment advises when
-quarantined files behave as active hazards. Recovery supplies logs and witness records that must
-remain coherent.
+quarantined files behave as active hazards. Recovery supplies logs and witness records that must remain coherent.
 Medical protects clinical record confidentiality while preserving operationally necessary continuity.
 
 Standing reminder: QHAS does not make the archive infallible. It makes the archive harder

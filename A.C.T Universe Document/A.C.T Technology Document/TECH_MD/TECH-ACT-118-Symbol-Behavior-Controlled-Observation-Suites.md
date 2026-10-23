@@ -22,15 +22,12 @@
 
 #### Archive Note
 Symbol Behavior Controlled Observation Suites is the one-hundred-eighteenth main A.C.T technology expanded into an
-individual record. The F-4 Research and Analysis Level dossier identifies symbol behavior study suites
-as dedicated
-environments where memetic symbols are studied under visual-denial and controlled-observation doctrine. It states that
-symbols are observed through apparatus that disciplines sight, and that Dread EYE research is
-conducted under
+individual record. The F-4 Research and Analysis Level dossier identifies symbol behavior study suites as dedicated
+environments where memetic symbols are studied under visual-denial and controlled-observation doctrine. It states
+that symbols are observed through apparatus that disciplines sight, and that Dread EYE research is conducted under
 visual-denial protocols through the Eye Box apparatus on F-2 with analysis on F-4.
 
-SBCOS exists because Kurokawa must sometimes study a symbol without allowing the symbol to
-become fully seen.
+SBCOS exists because Kurokawa must sometimes study a symbol without allowing the symbol to become fully seen.
 
 Controlled label: **SBCOS LOOK-WITHOUT-LOOKING SUITE**.
 
@@ -45,15 +42,13 @@ OBSERVE THE BEHAVIOR, NOT THE FULL HARM.
 ## FUNCTION SUMMARY
 
 Symbol Behavior Controlled Observation Suites are Kurokawa's exposure-restricted research environments for studying
-anomalous marks, icons, glyphs, diagrams, character strings, visual triggers, and memetic symbols whose danger
-depends
+anomalous marks, icons, glyphs, diagrams, character strings, visual triggers, and memetic symbols whose danger depends
 on perception. The suites provide disciplined observation, limited display, partial occlusion, delayed image handling,
 reader-position control, exposure clocks, cognitive monitoring, and custody records for symbol-bearing material.
 
 SBCOS is not a magnification room. It is a refusal to treat sight as
 harmless. Its purpose is to understand how a
-symbol behaves while keeping the observer from receiving the full condition the symbol attempts
-to impose. The suite
+symbol behaves while keeping the observer from receiving the full condition the symbol attempts to impose. The suite
 may show a fragment, reflection, trace, low-resolution derivative, false-color contour, delayed capture, or
 apparatus-mediated behavior output instead of the original form.
 
@@ -67,14 +62,11 @@ tracking, and Intelligence assessment where a symbol's spread may threaten wider
 
 Kurokawa's early archive work proved that a dangerous symbol could not be studied under
 ordinary document-science
-assumptions. Looking could be activation; describing could be replication; drawing a replacement could be
-a second
+assumptions. Looking could be activation; describing could be replication; drawing a replacement could be a second
 exposure. The F-4 research mandate therefore required spaces where observation itself was engineered.
 
-The F-4 dossier places the symbol behavior suites inside the node's research heart, between
-active anomalous document
-storage and controlled reading. SBCOS developed to serve that position. It gives researchers a
-controlled middle
+The F-4 dossier places the symbol behavior suites inside the node's research heart, between active anomalous document
+storage and controlled reading. SBCOS developed to serve that position. It gives researchers a controlled middle
 method: more active than sealed storage, stricter than ordinary study, and connected to Medical
 monitoring so the act
 of analysis remains a tracked exposure event.
@@ -166,8 +158,7 @@ Cell count, exposure time, and incidents are NOT MEASURED.
 
 ### Numbered Operating Sequence
 
-The sequence sets the restriction before it permits the view. A restriction written after
-an observation
+The sequence sets the restriction before it permits the view. A restriction written after an observation
 records what the analyst chose to allow themselves, which is not a restriction at
 all.
 
@@ -186,19 +177,14 @@ timer limits how long it is seen for, and an observation extended past the
 timer is the most common way an
 analyst who was fine at the start stops being fine.
 
-Before study begins, the Symbol Behavior Study Lead confirms the symbol's restriction set, source
-custody, permitted
+Before study begins, the Symbol Behavior Study Lead confirms the symbol's restriction set, source custody, permitted
 observation method, staff exposure history, Medical standby, and emergency blind-close authority. Material is placed
-inside isolation frames or mediated display equipment before the observer enters active posture. No
-direct viewing
+inside isolation frames or mediated display equipment before the observer enters active posture. No direct viewing
 occurs unless the restriction set specifically authorizes it.
 
-During study, observers record behavior rather than attempt artistic reconstruction. Exposure clocks remain visible
-to
-support staff, and Medical personnel may terminate a session when cognition, speech, motor behavior,
-dread response,
-or fixation changes. After study, all notes, captures, derivatives, and failed observations enter Archive
-custody
+During study, observers record behavior rather than attempt artistic reconstruction. Exposure clocks remain visible to
+support staff, and Medical personnel may terminate a session when cognition, speech, motor behavior, dread response,
+or fixation changes. After study, all notes, captures, derivatives, and failed observations enter Archive custody
 under the same caution as source material.
 
 ---
@@ -213,10 +199,8 @@ under the same caution as source material.
 | Monthly | review exposure totals per analyst |
 | Quarterly | re-confirm restriction sets against doctrine |
 
-Monthly review of exposure totals per analyst exists because tolerance is assumed rather than
-measured. An
-analyst who volunteers for every session accumulates exposure that no single session would have
-permitted,
+Monthly review of exposure totals per analyst exists because tolerance is assumed rather than measured. An
+analyst who volunteers for every session accumulates exposure that no single session would have permitted,
 and only the total shows it.
 
 ## FAULT ISOLATION
@@ -231,12 +215,9 @@ and only the total shows it.
 
 ## KNOWN LIMITS
 
-SBCOS can reduce visual exposure, but it cannot promise that partial perception is safe.
-Some symbols may activate
-through fragments, negative space, memory reconstruction, repeated failed observation, or the act of knowing
-that a
-form is hidden. The suite also cannot prevent an experienced researcher from mentally completing
-a symbol faster than
+SBCOS can reduce visual exposure, but it cannot promise that partial perception is safe. Some symbols may activate
+through fragments, negative space, memory reconstruction, repeated failed observation, or the act of knowing that a
+form is hidden. The suite also cannot prevent an experienced researcher from mentally completing a symbol faster than
 the apparatus reveals it.
 
 Known failure modes include reflection leak, delayed-display failure, observer mental completion, unauthorized
@@ -248,33 +229,26 @@ fields, Intelligence copying for threat assessment, and false confidence after a
 ## FAILURE HISTORY
 
 ### SBCOS-Visual Denial Standard
-A research review found that blocking direct sight was insufficient when reflections and derivatives
-remained
-available. Current SBCOS doctrine controls source, reflection, capture, derivative, and note surface as part
-of one
+A research review found that blocking direct sight was insufficient when reflections and derivatives remained
+available. Current SBCOS doctrine controls source, reflection, capture, derivative, and note surface as part of one
 visual field.
 
 ### SBCOS-Dread EYE Restriction Alignment
-Dread EYE study demonstrated that analysis conducted away from the resident still inherits the
-resident's restriction
-set. Current procedure ties F-4 symbol study sessions to the source holding's live restriction
-authority.
+Dread EYE study demonstrated that analysis conducted away from the resident still inherits the resident's restriction
+set. Current procedure ties F-4 symbol study sessions to the source holding's live restriction authority.
 
 ### SBCOS-Mental Completion Warning
-Cognitive-care review found that trained analysts sometimes completed partial symbols from memory and pattern
-skill.
+Cognitive-care review found that trained analysts sometimes completed partial symbols from memory and pattern skill.
 Current sessions track fixation, prediction language, and compulsive reconstruction as exposure signs.
 
 ---
 
 ## DIVISION USE
 
-Researcher Division operates the suites and records symbol behavior. Archive Division controls source custody
-and
-derivative records. Intelligence reviews spread risk where the symbol may affect public media. Medical
-monitors
-cognitive response and terminates exposure. Security enforces visual-denial posture, access control, and emergency
-blind-close procedure.
+Researcher Division operates the suites and records symbol behavior. Archive Division controls source custody and
+derivative records. Intelligence reviews spread risk where the symbol may affect public media. Medical monitors
+cognitive response and terminates exposure. Security enforces visual-denial
+posture, access control, and emergency blind-close procedure.
 
 SBCOS doctrine holds that a symbol can be studied only when the room has
 learned to blink for the researcher.

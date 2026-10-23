@@ -21,23 +21,17 @@
 | AUTHORITY | Containment Division, Civil Covert Division, Engineering Division, and Central Archive |
 
 #### Archive Note
-Banalist White-Noise Broadcast is the twelfth main A.C.T technology expanded into an individual record.
-The Master
+Banalist White-Noise Broadcast is the twelfth main A.C.T technology expanded into an individual record. The Master
 Catalog defines it as a site-wide acoustic system playing randomized manifests to disrupt narrative-scripting
-anomalies. The visual guide describes wall-mounted digital speakers with a Banal-Status Monitor and an
-internal
-Pattern-Randomizer Disc that keeps the acoustic output in a high-entropy state of boredom. Earlier
-technology records
-connect BWB to ARM, 004-Series amnestic operations, and Causal Static Generator doctrine because all
-three deal with
+anomalies. The visual guide describes wall-mounted digital speakers with a Banal-Status Monitor and an internal
+Pattern-Randomizer Disc that keeps the acoustic output in a high-entropy state of boredom. Earlier technology records
+connect BWB to ARM, 004-Series amnestic operations, and Causal Static Generator doctrine because all three deal with
 secrecy, attention, memory, or story pressure. BWB is the acoustic cousin of that work:
 it makes the room too
 administratively ordinary for certain dramatic forces to find a clean rhythm.
 
-BWB is not music, propaganda, hypnosis, or morale audio. It is controlled dullness. When
-functioning correctly,
-personnel barely notice it except during checks. When functioning incorrectly, everyone notices it, and
-that is
+BWB is not music, propaganda, hypnosis, or morale audio. It is controlled dullness. When functioning correctly,
+personnel barely notice it except during checks. When functioning incorrectly, everyone notices it, and that is
 already a warning.
 
 Controlled label: **BWB MANIFEST LIBRARY LIMIT**.
@@ -53,20 +47,14 @@ MAKE THE STORY LISTEN TO PAPERWORK UNTIL IT LOSES INTEREST.
 ## FUNCTION SUMMARY
 
 Banalist White-Noise Broadcast disrupts narrative-scripting anomalies by filling a room, corridor, office, archive
-bay, waiting zone, or public cover site with randomized low-significance administrative audio. The output
-is built
-from harmless fragments of manifests, inventory tones, hallway air movement, copier hum, unimportant route
-codes,
+bay, waiting zone, or public cover site with randomized low-significance administrative audio. The output is built
+from harmless fragments of manifests, inventory tones, hallway air movement, copier hum, unimportant route codes,
 empty schedule language, synthetic footstep smear, dull weather reports, and other non-compelling fragments. The
-Pattern-Randomizer Disc prevents the system from becoming a chant, song, command, prayer, or recognizable
-message.
+Pattern-Randomizer Disc prevents the system from becoming a chant, song, command, prayer, or recognizable message.
 
-The system's purpose is not to hide sound. It denies shape. Narrative-scripting anomalies often
-need pacing, silence,
-repeated motifs, heightened attention, or clean dramatic timing. BWB makes the acoustic space inconvenient.
-It is
-harder for a script to declare an entrance, reveal, betrayal, chase, transformation, or ritual
-when the room keeps
+The system's purpose is not to hide sound. It denies shape. Narrative-scripting anomalies often need pacing, silence,
+repeated motifs, heightened attention, or clean dramatic timing. BWB makes the acoustic space inconvenient. It is
+harder for a script to declare an entrance, reveal, betrayal, chase, transformation, or ritual when the room keeps
 insisting that nothing narratively useful is happening.
 
 Approved roles include:
@@ -84,14 +72,12 @@ Approved roles include:
 
 BWB was developed after A.C.T noticed that some anomalies fed on attention while others
 fed on patterned silence.
-Standard white noise helped against ordinary eavesdropping but failed against narrative pressure because it
-became
+Standard white noise helped against ordinary eavesdropping but failed against narrative pressure because it became
 predictable. Music was worse. Announcements created hooks. Repeated safety messages became phrases that anomalies
 could quote back. Engineering and Containment eventually moved toward randomized administrative dullness: enough sound
 to break clean timing, not enough meaning to become a story.
 
-Custody is split between Containment Division and Civil Covert Division. Containment controls installed systems
-in
+Custody is split between Containment Division and Civil Covert Division. Containment controls installed systems in
 anomalous wings. Civil Covert controls public-facing and witness-management variants. Engineering maintains speakers,
 status monitors, randomizer discs, and acoustic balancing. Medical reviews personnel complaints when long exposure
 produces headaches, irritability, dissociation, or dullness fatigue. Archive controls manifest library records because
@@ -107,12 +93,9 @@ identify cover sites, or build counter-broadcasts that ride inside the dullness.
 
 A standard BWB node is a wall-mounted digital speaker with a Banal-Status Monitor. The
 monitor displays output health,
-entropy level, pattern risk, volume band, local override state, and library freshness. The internal
-Pattern-Randomizer
-Disc selects, cuts, overlaps, and de-emphasizes audio fragments so that the broadcast stays boring
-without becoming
-repetitive. Site-wide installations use chained nodes, ceiling speakers, corridor emitters, and control panels tied
-to
+entropy level, pattern risk, volume band, local override state, and library freshness. The internal Pattern-Randomizer
+Disc selects, cuts, overlaps, and de-emphasizes audio fragments so that the broadcast stays boring without becoming
+repetitive. Site-wide installations use chained nodes, ceiling speakers, corridor emitters, and control panels tied to
 Site Command.
 
 Known components include:
@@ -129,8 +112,7 @@ Known components include:
 - emergency mute and emergency flood settings.
 
 Civil Covert variants may disguise nodes as ordinary public-address speakers, ventilation rattle, elevator chime
-boxes, or waiting-room noise systems. Containment variants are more visible because staff need fast
-status checks
+boxes, or waiting-room noise systems. Containment variants are more visible because staff need fast status checks
 during breach response.
 
 ---
@@ -161,8 +143,7 @@ and 1 more. They are filed under OPEN QUESTIONS.
 
 The library is built from harmless administrative fragments: manifests, inventory tones, hallway air
 movement, copier hum, unimportant route codes, empty schedule language, synthetic footstep smear, and dull
-weather reports. The randomizer disc exists to stop that material becoming a chant, song,
-command, prayer,
+weather reports. The randomizer disc exists to stop that material becoming a chant, song, command, prayer,
 or recognizable message.
 
 ## INTERFACE AND OPERATING ENVELOPE
@@ -216,23 +197,17 @@ so.
 
 Step-down: flood volume returns to the normal band as soon as scripting pressure drops.
 Emergency: a
-contaminated zone is treated as contaminated rather than interpreted in place, and the affected
-library
+contaminated zone is treated as contaminated rather than interpreted in place, and the affected library
 block is frozen before anything further is broadcast from it.
 
-BWB should be active before narrative pressure arrives. It is less effective when started
-after an anomaly has already
-established a scene. Operators check the Banal-Status Monitor at shift start, confirm the entropy
-meter is green, and
-verify that no phrase has repeated beyond allowed frequency. Site Command may order zone
-flood during active scripting
-pressure, but flood volume must remain within Medical limits unless breach conditions justify harm
-reduction.
+BWB should be active before narrative pressure arrives. It is less effective when started after an anomaly has already
+established a scene. Operators check the Banal-Status Monitor at shift start, confirm the entropy meter is green, and
+verify that no phrase has repeated beyond allowed frequency. Site Command may order zone flood during active scripting
+pressure, but flood volume must remain within Medical limits unless breach conditions justify harm reduction.
 
 Personnel should not listen for hidden messages in BWB output. If a clear sentence,
 command, name, song, prayer, joke,
-threat, or repeated number emerges, the zone is treated as contaminated. The operator does
-not attempt to interpret it
+threat, or repeated number emerges, the zone is treated as contaminated. The operator does not attempt to interpret it
 in place. The node is isolated, the affected library block is frozen, and Archive
 receives the output log if safe.
 
@@ -255,8 +230,7 @@ room is easier to overlook than a silent suspicious room.
 | Node synchronization drift | chain timing check | Engineering Division |
 | Flood volume setting | order and Medical exposure review | Site Command with Medical |
 
-No calendar interval is recorded; interval NOT MEASURED. The consumable is library material, which
-ages
+No calendar interval is recorded; interval NOT MEASURED. The consumable is library material, which ages
 rather than runs out, and the monitor's freshness field is the only measure this
 file holds. The 2013
 repetition hook is why the randomizer disc is inspected on warning rather than on
@@ -275,18 +249,14 @@ schedule.
 
 ## KNOWN LIMITS
 
-Banalist White-Noise Broadcast cannot stop all narrative anomalies. It is weak against hazards that
-feed on
+Banalist White-Noise Broadcast cannot stop all narrative anomalies. It is weak against hazards that feed on
 bureaucracy, monotony, boredom, paperwork, radio hiss, public announcements, or repeated dullness. It cannot replace
-physical containment, 004 aftercare, QNB preservation, CSG response, or direct evacuation. It does not
-make personnel
+physical containment, 004 aftercare, QNB preservation, CSG response, or direct evacuation. It does not make personnel
 immune to memetic sound, and it may interfere with verbal communication if tuned poorly.
 
 Known failure modes include pattern collapse, dead-air pockets, phrase emergence, over-boring fatigue, volume creep,
-speaker synchronization, library contamination, and public suspicion when cover audio feels too artificial. The
-most
-dangerous failure is meaningful dullness: a broadcast that remains boring to staff but has
-become a structured
+speaker synchronization, library contamination, and public suspicion when cover audio feels too artificial. The most
+dangerous failure is meaningful dullness: a broadcast that remains boring to staff but has become a structured
 invitation to an anomaly.
 
 ---
@@ -294,26 +264,19 @@ invitation to an anomaly.
 ## FAILURE HISTORY
 
 ### BWB-2013 Repetition Hook
-A corridor installation repeated the same three inventory fragments every forty-seven seconds after a
-randomizer disc
-fault. Staff ignored the loop because it was dull. An adjacent script-reactive file began
-inserting the repeated
-manifest words into unrelated reports. The corridor was scrubbed, and phrase repetition warnings became
-mandatory.
+A corridor installation repeated the same three inventory fragments every forty-seven seconds after a randomizer disc
+fault. Staff ignored the loop because it was dull. An adjacent script-reactive file began inserting the repeated
+manifest words into unrelated reports. The corridor was scrubbed, and phrase repetition warnings became mandatory.
 
 ### BWB-2016 Witness Room Fatigue
-Civil Covert used a high dullness setting during extended witness processing after a public
-anomaly event. The
-witnesses became calmer, but two staff members developed severe irritability and one forgot the
-purpose of the
-interview twice. Medical established maximum exposure windows and required human breaks in long witness
-operations.
+Civil Covert used a high dullness setting during extended witness processing after a public anomaly event. The
+witnesses became calmer, but two staff members developed severe irritability and one forgot the purpose of the
+interview twice. Medical established maximum exposure windows and required human breaks in long witness operations.
 
 ### BWB-2022 Dead-Air Stage
 A speaker chain failed in one corner of a containment hallway, creating a silent
 pocket between two working nodes. A
-minor narrative anomaly repeatedly chose that corner as the place where personnel would notice
-it. The incident
+minor narrative anomaly repeatedly chose that corner as the place where personnel would notice it. The incident
 produced the current rule that silence inside a BWB zone is not neutral; it
 may be a stage.
 
@@ -321,13 +284,10 @@ may be a stage.
 
 ## DIVISION USE
 
-Containment Division operates BWB in rooms, corridors, and holding areas exposed to scripting pressure.
-Civil Covert
+Containment Division operates BWB in rooms, corridors, and holding areas exposed to scripting pressure. Civil Covert
 uses disguised variants for witness control, cover-site atmosphere, and public de-escalation. Engineering maintains
-physical nodes and randomizer discs. Site Command authorizes emergency flood or shutdown. Security treats
-repeated
-clear messages as possible intrusion. Medical sets exposure limits and reviews dullness fatigue. Archive
-stores
+physical nodes and randomizer discs. Site Command authorizes emergency flood or shutdown. Security treats repeated
+clear messages as possible intrusion. Medical sets exposure limits and reviews dullness fatigue. Archive stores
 retired manifest fragments and contaminated output logs.
 
 Standing reminder: boredom is a tool, not a religion. If staff begin trusting dullness

@@ -17,14 +17,11 @@
 
 ## Archive Note
 
-This file is the complete individual record of **F-7, the Personnel and Administrative Level**,
-the seventh-deepest
+This file is the complete individual record of **F-7, the Personnel and Administrative Level**, the seventh-deepest
 numbered floor of **ACT-SITE-03-JP-E, Kurokawa Archive Node**.
 
-F-7 is the node's administrative heart: staff offices, training spaces, clearance processing, and the
-Site Director's
-command floor. Personnel transition between the legitimate archive above and the operational archive below
-through
+F-7 is the node's administrative heart: staff offices, training spaces, clearance processing, and the Site Director's
+command floor. Personnel transition between the legitimate archive above and the operational archive below through
 this level — the floor where the node's people are received, governed, and prepared
 for work in the depths.
 
@@ -38,8 +35,7 @@ the node's administration manages the boundary between its public face and its b
 
 **Site Designation:** ACT-SITE-03-JP-E **Site Codename:** Kurokawa Archive Node **Floor Designation:** F-7 **Floor
 Name:** Personnel and Administrative Level **Floor Type:** Administrative and Personnel Level **Vertical Position:**
-Seventh-deepest numbered floor of the node **Floor Above:** F-8 (Surface Archive and Transition Level)
-**Floor
+Seventh-deepest numbered floor of the node **Floor Above:** F-8 (Surface Archive and Transition Level) **Floor
 Below:** F-6 (General Records and Anomalous Intake) **Containment Character:** Non-resident administrative and
 personnel infrastructure **Primary Function:** Staff offices, training spaces, clearance processing, and the Site
 Director's command floor **Access Posture:** Node-clearance-gated access **Current Status:** Active
@@ -54,10 +50,8 @@ ordinary preservation work. But the node's true work is done in the operational 
 beneath, and between the two
 lies F-7: the floor where the node's personnel are received, cleared, trained, and commanded.
 
-F-7 is the administrative heart of the node. Its staff offices, training spaces, clearance
-processing, and command
-floor govern the personnel who move between the legitimate archive above and the operational
-archive below. The floor
+F-7 is the administrative heart of the node. Its staff offices, training spaces, clearance processing, and command
+floor govern the personnel who move between the legitimate archive above and the operational archive below. The floor
 is where the node manages its people — and where its command decides how
 the archive's two identities are kept
 separate.
@@ -75,18 +69,14 @@ and its operational archive.
 
 ### 3.2 Relationship to F-8
 
-Personnel arriving from the legitimate surface archive descend through F-8 into F-7: clearance processing,
-assignment,
-and training occur here before personnel descend to the operational floors. The legitimate archive's
-personnel and the
+Personnel arriving from the legitimate surface archive descend through F-8 into F-7: clearance processing, assignment,
+and training occur here before personnel descend to the operational floors. The legitimate archive's personnel and the
 operational archive's personnel are distinguished on this floor.
 
 ### 3.3 Relationship to the Operational Floors
 
-F-7 commands the operational floors below: intake, redaction, research, holding, and the deep vaults.
-Its
-administrative authority reaches every level of the buried archive, while its position keeps the
-node's command at the
+F-7 commands the operational floors below: intake, redaction, research, holding, and the deep vaults. Its
+administrative authority reaches every level of the buried archive, while its position keeps the node's command at the
 boundary between the archive's public and operational identities.
 
 ---
@@ -95,10 +85,8 @@ boundary between the archive's public and operational identities.
 
 ### 4.1 Development of the Administrative Level
 
-F-7's character developed with the node's dual identity: as Kurokawa's legitimate foundation complex and
-operational
-archive grew together, the node required an administrative level where personnel were received, cleared,
-and governed
+F-7's character developed with the node's dual identity: as Kurokawa's legitimate foundation complex and operational
+archive grew together, the node required an administrative level where personnel were received, cleared, and governed
 — between the public archive and the buried work.
 
 ### 4.2 The Boundary Command
@@ -111,8 +99,7 @@ the legitimate and the operational.
 
 ### 4.3 Modern Configuration
 
-In its modern configuration, F-7 is the node's administrative heart: the floor where personnel
-transition between the
+In its modern configuration, F-7 is the node's administrative heart: the floor where personnel transition between the
 archive's identities, and where the node's command governs both.
 
 ---
@@ -121,20 +108,17 @@ archive's identities, and where the node's command governs both.
 
 ### 5.1 The Site Director
 
-The Site Director of Kurokawa Archive Node commands from F-7. The Director's command floor
-is the level's center of
+The Site Director of Kurokawa Archive Node commands from F-7. The Director's command floor is the level's center of
 authority, from which the node's operations, holdings, and personnel are governed.
 
 ### 5.2 Floor Administration
 
 F-7 houses the node administration that executes the Director's authority: operations coordination, personnel
-administration, clearance management, and the administrative support that every floor of the node depends
-on.
+administration, clearance management, and the administrative support that every floor of the node depends on.
 
 ### 5.3 Authority Structure
 
-F-7's authority structure follows the Facility's command doctrine: the Site Director commands through the
-division
+F-7's authority structure follows the Facility's command doctrine: the Site Director commands through the division
 chiefs, and the divisions command their floors. F-7 is where the node's chain of
 command lives.
 
@@ -149,21 +133,18 @@ administrative machinery of the archive.
 
 ### 6.2 Personnel and Clearance
 
-Personnel processing and clearance verification are conducted on F-7: personnel arriving at the node
-are processed
+Personnel processing and clearance verification are conducted on F-7: personnel arriving at the node are processed
 here, clearances are verified and administered here, and the distinction between legitimate-archive personnel and
 operational-archive personnel is managed from this floor.
 
 ### 6.3 Training
 
-Training spaces on F-7 serve the node's personnel development: doctrine training, procedure training, and
-the
+Training spaces on F-7 serve the node's personnel development: doctrine training, procedure training, and the
 preparation of personnel for work in the operational archive below.
 
 ### 6.4 Command Support
 
-The floor houses the command support functions that serve the Site Director: aides, operations
-staff, and the
+The floor houses the command support functions that serve the Site Director: aides, operations staff, and the
 administrative personnel who keep the node's command running.
 
 ---
@@ -184,8 +165,7 @@ facilities**:
 
 ### 7.2 The Command Floor
 
-The Site Director's command floor is the level's architectural center: the space from which
-the node is governed,
+The Site Director's command floor is the level's architectural center: the space from which the node is governed,
 adjacent to the operations spaces where the node's status is watched and its decisions
 are made.
 
@@ -196,8 +176,7 @@ administered, and the distinction between the archive's two personnel population
 
 ### 7.4 The Transition Architecture
 
-The floor's position as the boundary between the legitimate archive and the operational archive
-is expressed in its
+The floor's position as the boundary between the legitimate archive and the operational archive is expressed in its
 transition architecture: the controlled passage through which cleared personnel descend from the public archive
 into
 the buried work.
@@ -208,14 +187,12 @@ the buried work.
 
 ### 8.1 Power
 
-F-7 draws on the node's main supply with standard backup. The command floor's communications
-systems are on protected
+F-7 draws on the node's main supply with standard backup. The command floor's communications systems are on protected
 circuits.
 
 ### 8.2 Environment
 
-The floor's environmental systems maintain administrative conditions across the level, with the command and
-processing
+The floor's environmental systems maintain administrative conditions across the level, with the command and processing
 areas held to the node's operational standards.
 
 ### 8.3 Monitoring
@@ -225,8 +202,7 @@ areas, and command spaces are monitored under the node's security doctrine.
 
 ### 8.4 Communications
 
-F-7 is the node's communications nexus: the command floor maintains the links through which
-the Site Director commands
+F-7 is the node's communications nexus: the command floor maintains the links through which the Site Director commands
 the node and coordinates with the Facility network beyond.
 
 ---
@@ -235,25 +211,20 @@ the node and coordinates with the Facility network beyond.
 
 ### 9.1 Access Control
 
-Access to F-7 is controlled through the floor's access core, which connects the legitimate
-archive above to the
-operational archive below. The floor is the boundary of the buried archive: personnel passing
-between the public and
+Access to F-7 is controlled through the floor's access core, which connects the legitimate archive above to the
+operational archive below. The floor is the boundary of the buried archive: personnel passing between the public and
 operational identities move through F-7's control architecture.
 
 ### 9.2 The Identity Distinction
 
-The floor's most important security function is the management of the node's two personnel
-populations:
+The floor's most important security function is the management of the node's two personnel populations:
 legitimate-archive personnel, whose clearance extends only to the public archive, and operational-archive personnel,
 whose clearance extends into the depths. The distinction is administered on F-7.
 
 ### 9.3 Clearance Verification
 
-Clearance verification is conducted on F-7 as a standing function: the floor maintains the
-node's clearance
-architecture, verifying that personnel have the clearances their duties require and that those clearances
-remain
+Clearance verification is conducted on F-7 as a standing function: the floor maintains the node's clearance
+architecture, verifying that personnel have the clearances their duties require and that those clearances remain
 valid.
 
 ### 9.4 Incident Response
@@ -279,8 +250,7 @@ legitimate archive and the operational archive.
 
 ### 10.3 Holding Character
 
-F-7 holds no residents. Its population is administrative and command personnel, and its function
-is the governance of
+F-7 holds no residents. Its population is administrative and command personnel, and its function is the governance of
 the node's operational floors.
 
 ---
@@ -289,23 +259,18 @@ the node's operational floors.
 
 ### 11.1 Staffing
 
-F-7's population comprises the node's command and administrative staff: the Site Director and command
-personnel,
+F-7's population comprises the node's command and administrative staff: the Site Director and command personnel,
 division administration, personnel and clearance staff, and trainers.
 
 ### 11.2 Duty Life
 
-Duty on F-7 is administrative work: command, coordination, processing, training, and support. The floor's
-rhythm is
-set by the node's operational tempo — every operation in the depths generates administrative
-work above.
+Duty on F-7 is administrative work: command, coordination, processing, training, and support. The floor's rhythm is
+set by the node's operational tempo — every operation in the depths generates administrative work above.
 
 ### 11.3 The Boundary Life
 
-The floor's personnel live the node's dual identity daily: the boundary between the legitimate
-archive and the
-operational archive runs through their floor, and their work maintains the distinction that keeps
-the node's public
+The floor's personnel live the node's dual identity daily: the boundary between the legitimate archive and the
+operational archive runs through their floor, and their work maintains the distinction that keeps the node's public
 face separate from its buried purpose.
 
 ---
@@ -316,32 +281,26 @@ face separate from its buried purpose.
 
 F-7 doctrine holds that the node's command belongs at its boundary: the Site Director
 commands from the floor where
-the legitimate archive meets the operational archive, because the node's central task is the
-management of that
+the legitimate archive meets the operational archive, because the node's central task is the management of that
 boundary.
 
 ### 12.2 Personnel Doctrine
 
-F-7 doctrine holds that the node's personnel are its most controlled resource: processing, clearance,
-and the
-distinction between the archive's two personnel populations are administered on the floor under standards
-that treat
+F-7 doctrine holds that the node's personnel are its most controlled resource: processing, clearance, and the
+distinction between the archive's two personnel populations are administered on the floor under standards that treat
 personnel security as operational security.
 
 ### 12.3 Identity Doctrine
 
-F-7 doctrine holds that the archive's two identities must remain distinct: the legitimate foundation
-complex and the
-operational archive are governed from this floor as separate worlds, and the floor's duty
-is to keep them separate.
+F-7 doctrine holds that the archive's two identities must remain distinct: the legitimate foundation complex and the
+operational archive are governed from this floor as separate worlds, and the floor's duty is to keep them separate.
 
 ---
 
 ## 13. Incident Archive
 
 The floor's incident record is dominated by administrative and boundary events: personnel-processing incidents,
-clearance violations, and boundary incidents between the archive's identities. The floor's history is the
-history of
+clearance violations, and boundary incidents between the archive's identities. The floor's history is the history of
 the node's command, preserved in the administrative archives.
 
 ---
@@ -370,8 +329,7 @@ priorities include:
 
 ## Archive Closing
 
-F-7, the Personnel and Administrative Level, is the command heart of Kurokawa Archive Node:
-the floor where the node's
+F-7, the Personnel and Administrative Level, is the command heart of Kurokawa Archive Node: the floor where the node's
 people are received, cleared, and trained, and where the Site Director commands — at
 the boundary between the
 legitimate archive above and the operational archive below.

@@ -13,9 +13,8 @@ outside the institution rather than a record written from inside it.
 
 ## The test
 
-The writer of an A.C.T document is an archivist inside the Facility. Not a journalist describing it,
-not an assistant summarising it, not an intern filling in a form. Every rule below follows from
-that single fact.
+The writer of an A.C.T document is an archivist inside the Facility. Not a journalist describing it, not an
+assistant summarising it, not an intern filling in a form. Every rule below follows from that single fact.
 
 ## Measured markers
 

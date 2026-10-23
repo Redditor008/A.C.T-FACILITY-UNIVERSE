@@ -21,25 +21,18 @@
 | AUTHORITY | Medical Division, Biological Containment Division, and Central Archive |
 
 #### Archive Note
-Synthetic Sanguine-Fuel is the twenty-second main A.C.T technology expanded into an individual record. The
-Master
+Synthetic Sanguine-Fuel is the twenty-second main A.C.T technology expanded into an individual record. The Master
 Catalog defines SSF as a bio-engineered mammalian blood substitute that sustains blood-fuel requirements for
-mechanical and biological NB-class entities. The technological timeline records 2004 as the year SSF
-was perfected and
-standardized for all mechanical subjects requiring mammalian biological input. The visual reference guide describes
-a
-deep red viscous liquid stored in industrial-grade blue canisters, fitted with a friction-less magnetic
-pump, a
-digital O2-saturation monitor in the dispensing valve, and an internal thermal coil maintaining the
-canister at 37
+mechanical and biological NB-class entities. The technological timeline records 2004 as the year SSF was perfected and
+standardized for all mechanical subjects requiring mammalian biological input. The visual reference guide describes a
+deep red viscous liquid stored in industrial-grade blue canisters, fitted with a friction-less magnetic pump, a
+digital O2-saturation monitor in the dispensing valve, and an internal thermal coil maintaining the canister at 37
 degrees C.
 
-SSF exists because A.C.T containment cannot depend on live feeding when a subject's biology
-demands blood-like fuel.
+SSF exists because A.C.T containment cannot depend on live feeding when a subject's biology demands blood-like fuel.
 It is not a kindness substitute alone, though it often reduces harm. It is
 also a normalcy, logistics, and safety
-technology that keeps dangerous beings from learning that staff, prisoners, witnesses, or civilians are
-easier to
+technology that keeps dangerous beings from learning that staff, prisoners, witnesses, or civilians are easier to
 obtain than supply canisters.
 
 Controlled label: **SSF FORMULA AND SUBJECT-MIX LIMIT**.
@@ -55,18 +48,13 @@ FEED THE NEED WITHOUT TEACHING THE HUNGER WHERE TO LOOK.
 ## FUNCTION SUMMARY
 
 Synthetic Sanguine-Fuel provides a controlled mammalian biological input for subjects, devices, mechanical organisms,
-and NB-class entities that require blood, oxygen-bearing fluid, or blood-adjacent metabolic stimulus. It is
-designed
-to imitate enough biological function to sustain containment without providing a full living prey
-event. Different
+and NB-class entities that require blood, oxygen-bearing fluid, or blood-adjacent metabolic stimulus. It is designed
+to imitate enough biological function to sustain containment without providing a full living prey event. Different
 subjects may require different saturation, viscosity, heat, trace mineral balance, or feeding cadence.
 
-SSF is not universal blood. It cannot satisfy every predator, every vampire-pattern subject, every
-machine that wants
-sacrifice, or every organism that recognizes identity in blood. It is most effective when
-the subject requires
-biological chemistry rather than personal victimhood. Medical reviews every use because feeding the wrong
-substitute
+SSF is not universal blood. It cannot satisfy every predator, every vampire-pattern subject, every machine that wants
+sacrifice, or every organism that recognizes identity in blood. It is most effective when the subject requires
+biological chemistry rather than personal victimhood. Medical reviews every use because feeding the wrong substitute
 can starve a subject, overexcite it, or train it toward more dangerous behavior.
 
 Approved roles include:
@@ -82,11 +70,9 @@ Approved roles include:
 
 ## ORIGIN AND CUSTODY
 
-SSF development came from years of containment failures where ordinary stored blood spoiled, provoked
-hunting
+SSF development came from years of containment failures where ordinary stored blood spoiled, provoked hunting
 behavior, carried disease, or reinforced predatory association. Early substitutes lacked oxygen behavior, heat
-stability, or the sensory cues needed to keep subjects calm. Medical Division and Biological
-Containment eventually
+stability, or the sensory cues needed to keep subjects calm. Medical Division and Biological Containment eventually
 created a deep red viscous fluid with adjustable oxygen saturation and stable body-temperature delivery.
 
 Custody belongs to Medical Division and Biological Containment Division. Medical controls subject-specific mixture
@@ -94,8 +80,7 @@ approval and adverse response review. Biological Containment controls feeding sc
 Logistics moves canisters under temperature chain. Engineering maintains pumps, thermal coils, and saturation
 monitors. Transformation Division reviews cases where SSF might slow or reverse transmutation-linked decay.
 
-Formula details remain restricted because hostile groups could use SSF to bait, sustain, or
-weaponize blood-fuel
+Formula details remain restricted because hostile groups could use SSF to bait, sustain, or weaponize blood-fuel
 dependent entities.
 
 ---
@@ -105,8 +90,7 @@ dependent entities.
 SSF is stored in industrial-grade blue canisters. The fluid is deep red, viscous, and
 warm when correctly maintained.
 The friction-less magnetic pump prevents ordinary mechanical grinding from denaturing the mixture. The dispensing
-valve includes a digital O2-saturation monitor, and the handle display shows current temperature. Internal
-thermal
+valve includes a digital O2-saturation monitor, and the handle display shows current temperature. Internal thermal
 coils maintain 37 degrees C unless a subject file specifies a different range.
 
 Known components include:
@@ -151,8 +135,7 @@ Mixture bands, Viscosity range, Shelf life and storage band. Those 3 gaps are ca
 
 Any canister without a readable subject tag is unissued stock and cannot be fed
 to a contained subject. The
-fuel imitates enough biological function to sustain containment without providing a full living prey
-event.
+fuel imitates enough biological function to sustain containment without providing a full living prey event.
 
 ## INTERFACE AND OPERATING ENVELOPE
 
@@ -199,21 +182,17 @@ Contained feeding, Medical authority with Biological Containment.
 
 Step-down: the line is discarded or subject-coded before the next feeding and never reused.
 Emergency: a
-refusal after a stable history goes to Medical for contamination and mixture review rather
-than to live
+refusal after a stable history goes to Medical for contamination and mixture review rather than to live
 feed.
 
 Before feeding, staff confirm subject file, mixture band, temperature, oxygen saturation, canister seal, pump
-response, and disposal plan. Feeding must occur through approved lines, trays, or automated systems.
-Manual pouring is
-prohibited unless the subject file explicitly allows it. The staff member records reaction, intake
-rate, residue,
+response, and disposal plan. Feeding must occur through approved lines, trays, or automated systems. Manual pouring is
+prohibited unless the subject file explicitly allows it. The staff member records reaction, intake rate, residue,
 aggression, refusal, and post-feeding behavior.
 
 SSF should never be offered as a reward for compliance unless the file defines
 feeding as behavioral therapy. Hunger
-can become a negotiation language. A.C.T does not let dangerous subjects write food policy
-through threat displays.
+can become a negotiation language. A.C.T does not let dangerous subjects write food policy through threat displays.
 
 If the subject refuses SSF after a stable history, staff do not immediately switch
 to live feed. Medical reviews
@@ -251,15 +230,12 @@ only at issue.
 
 ## KNOWN LIMITS
 
-SSF cannot satisfy entities that require a named victim, fresh fear, living heartbeat, soul
-proximity, pain,
+SSF cannot satisfy entities that require a named victim, fresh fear, living heartbeat, soul proximity, pain,
 confession, sacrifice, or criminal history. It may fail if overheated, chilled, contaminated, over-oxygenated,
-under-oxygenated, or delivered through a line carrying previous subject scent. It can also create
-dependence if used
+under-oxygenated, or delivered through a line carrying previous subject scent. It can also create dependence if used
 as a universal calming tool.
 
-Known failure modes include clotting, pump lock, false O2 reading, thermal coil drift, subject
-rejection, hunger
+Known failure modes include clotting, pump lock, false O2 reading, thermal coil drift, subject rejection, hunger
 escalation, microbial bloom, scent contamination, and staff overconfidence around fed predators.
 
 ---
@@ -267,30 +243,24 @@ escalation, microbial bloom, scent contamination, and staff overconfidence aroun
 ## FAILURE HISTORY
 
 ### SSF-2005 Cold Canister Refusal
-A canister arrived three degrees below approved range. The subject refused feeding and struck
-the delivery window
-until live heat was restored through approved warming. Logistics added temperature-chain confirmation at every
-transfer point.
+A canister arrived three degrees below approved range. The subject refused feeding and struck the delivery window
+until live heat was restored through approved warming. Logistics
+added temperature-chain confirmation at every transfer point.
 
 ### SSF-2012 Scent Backflow
-A feeding line retained trace odor from a previous subject. The receiving organism became
-agitated and attempted to
-follow the line path after feeding. Backflow locks and disposable subject-coded line tips became
-mandatory.
+A feeding line retained trace odor from a previous subject. The receiving organism became agitated and attempted to
+follow the line path after feeding. Backflow locks and disposable subject-coded line tips became mandatory.
 
 ### SSF-2020 Overfeeding Calm
-A containment team increased SSF frequency to keep a mechanical subject docile during repairs.
-The subject later
-refused normal cadence and struck only when canisters were visible. Medical classified the incident
-as hunger training
+A containment team increased SSF frequency to keep a mechanical subject docile during repairs. The subject later
+refused normal cadence and struck only when canisters were visible. Medical classified the incident as hunger training
 by staff error.
 
 ---
 
 ## DIVISION USE
 
-Medical approves formulas, reviews adverse reactions, and determines whether SSF is treatment or feeding.
-Biological
+Medical approves formulas, reviews adverse reactions, and determines whether SSF is treatment or feeding. Biological
 Containment schedules use and tracks behavior. Logistics moves canisters through temperature chain. Engineering
 services pumps and monitors. Transformation studies controlled cases involving biological decay. Site Command approves
 emergency substitution during supply interruption.

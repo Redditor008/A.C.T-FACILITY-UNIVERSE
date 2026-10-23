@@ -12,32 +12,27 @@ Sera had expected the final bridge between ITHYOS and NEMNOLIA to be hidden in
 some sealed descent log, buried inside
 a mutilated founder journal, or trapped behind an O5 review wall dense enough to
 crush curiosity on contact. Instead
-it emerged where all successful lies eventually became vulnerable: in the place where one
-department had to explain to
+it emerged where all successful lies eventually became vulnerable: in the place where one department had to explain to
 another why a thing worked.
 
 The Medical and Transformation archives did not care about mythology. They cared about repeatability.
 
 If a compound erased memory, someone had to record why. If a refined dosage
 failed, someone had to document what
-condition destabilized it. If a source anomaly changed its behavior, someone had to note
-which environmental constants
+condition destabilized it. If a source anomaly changed its behavior, someone had to note which environmental constants
 made its derivatives viable or lethal.
 
 A lie could survive in history. It had a harder time surviving in production.
 
-Sera spent two days building a route into the restricted pharmacology layer without submitting
-a formal request. Not
+Sera spent two days building a route into the restricted pharmacology layer without submitting a formal request. Not
 because she was reckless, but because by now she understood the shape of the
 trap well enough to know what a request
-would become. Anything too direct would rise through the same internal channels that had
-already spent decades
+would become. Anything too direct would rise through the same internal channels that had already spent decades
 smoothing contradiction into doctrine. She did not need denial anymore.
 
 She needed residue.
 
-The route came through old transformation indexing—obsolete enough to be neglected, recent enough to
-still touch
+The route came through old transformation indexing—obsolete enough to be neglected, recent enough to still touch
 living systems. Tavian gave her the first breach in the wall without admitting he
 was doing so. A catalog number left
 on her desk. A dead file reference that should not have meant anything. A
@@ -46,19 +41,14 @@ compounds requiring active-state source maintenance.
 
 She followed it down into the archive and found a set of linked records
 that had been separated not by clearance, but
-by category. Cultivation reports in one division. Refinement logs in another. Clinical outcomes somewhere
-else. Theory
-notes sequestered under structural review. No one document said enough on its own. Together,
-they were unbearable.
+by category. Cultivation reports in one division. Refinement logs in another. Clinical outcomes somewhere else. Theory
+notes sequestered under structural review. No one document said enough on its own. Together, they were unbearable.
 
 The first file looked harmless.
 
-A cultivation report for AFD-NB-004. Growth density, mist cycle, root-lattice expansion, sap clarity under
-controlled
-harvest pressure. The sort of report that reduced wonder into inventory. But halfway down
-the second page, inside an
-old environmental correction note, she found the phrase that made her stop breathing for
-a second.
+A cultivation report for AFD-NB-004. Growth density, mist cycle, root-lattice expansion, sap clarity under controlled
+harvest pressure. The sort of report that reduced wonder into inventory. But halfway down the second page, inside an
+old environmental correction note, she found the phrase that made her stop breathing for a second.
 
 **yield instability follows dream-state irregularity**
 
@@ -70,8 +60,7 @@ Dream-state irregularity.
 
 The phrase should not have existed in a botanical cultivation report.
 
-Sera pulled the linked file immediately. Another cultivation cycle. Another revision note. Another attempt
-to
+Sera pulled the linked file immediately. Another cultivation cycle. Another revision note. Another attempt to
 normalize the language around the impossible.
 
 **gold-sap coherence degraded during low-stability abyss interval**
@@ -82,8 +71,7 @@ A third file.
 
 By the fourth record, whatever remained of plausible coincidence had died.
 
-NEMNOLIA was not merely associated with the abyss. Its most valuable property—its sap coherence,
-the very basis of the
+NEMNOLIA was not merely associated with the abyss. Its most valuable property—its sap coherence, the very basis of the
 004-Series—shifted according to conditions below.
 
 Below what?
@@ -94,8 +82,7 @@ ITHYOS.
 
 Sera sat in the dim archive booth with her hands clasped so tightly that
 the knuckles ached. The records spread across
-her terminal like a slow-motion confession. The Facility’s memory-erasing medicine, the single most useful
-and morally
+her terminal like a slow-motion confession. The Facility’s memory-erasing medicine, the single most useful and morally
 corrosive secrecy tool in A.C.T history, depended not just on an anomalous plant but
 on the sleep condition of the
 sleeping thing beneath the Earth.
@@ -106,14 +93,11 @@ She opened the transformation logs next.
 
 Those were uglier.
 
-Transformation Division wrote like surgeons arguing with poison. Their records were concise, technical, and
-full of
-controlled horror. Early 004-series trials read like a catalog of memory damage inflicted in
-the name of refining
+Transformation Division wrote like surgeons arguing with poison. Their records were concise, technical, and full of
+controlled horror. Early 004-series trials read like a catalog of memory damage inflicted in the name of refining
 mercy.
 
-004-H — survivable weakness 004-G — temporary blindness 004-F — liver contraction 004-E —
-neurological collapse 004-D
+004-H — survivable weakness 004-G — temporary blindness 004-F — liver contraction 004-E — neurological collapse 004-D
 — heart decay 004-C — violent blood rejection 004-B — coma 004-A — identity
 annihilation
 
@@ -122,8 +106,7 @@ The chart was bad enough on its own.
 Then she found the viability notes.
 
 Each grade carried environmental consistency remarks from source extraction cycles. Most were standard: temperature
-stability, contamination control, filtration sequence, sap purity. But some of the older records included
-a secondary
+stability, contamination control, filtration sequence, sap purity. But some of the older records included a secondary
 factor, later removed from summary versions.
 
 **dream-linked source response unstable** **extraction quality decreased during lower tremor event** **sap retained
@@ -137,8 +120,7 @@ Sera opened the oldest theory file in the cluster and encountered the sentence t
 finally broke the whole structure
 open.
 
-**Working assumption: AFD-NB-004 does not merely grow near abyssal influence. It may be an
-emergent biological
+**Working assumption: AFD-NB-004 does not merely grow near abyssal influence. It may be an emergent biological
 expression of the stable sleep condition itself.**
 
 She closed her eyes.
@@ -158,10 +140,8 @@ The source of forgetting bloomed from the state that kept the world alive.
 
 No wonder the founders had done what they did.
 
-If they had learned that clearly—if they had understood that the institution preserving humanity
-would depend on a
-memory-destroying flower born from the dream-state of the sleeping thing beneath the planet—then self-erasure
-would
+If they had learned that clearly—if they had understood that the institution preserving humanity would depend on a
+memory-destroying flower born from the dream-state of the sleeping thing beneath the planet—then self-erasure would
 not have looked like cowardice.
 
 It would have looked like quarantine.
@@ -216,8 +196,7 @@ were afraid of what they saw.”
 
 “Yes.”
 
-“They erased themselves because the truth connected every layer of the institution to the
-abyss at once.”
+“They erased themselves because the truth connected every layer of the institution to the abyss at once.”
 
 “Yes.”
 
@@ -286,10 +265,8 @@ thing it fears most.**
 She sat back and read it until the words stopped resembling thought and started
 resembling a verdict.
 
-Somewhere below every mapped floor, something slept. Somewhere above it, the bloom still secreted
-gold. And between
-them stretched the whole hidden body of A.C.T—archive, doctrine, amnestics, command, secrecy—all built on
-a
+Somewhere below every mapped floor, something slept. Somewhere above it, the bloom still secreted gold. And between
+them stretched the whole hidden body of A.C.T—archive, doctrine, amnestics, command, secrecy—all built on a
 relationship the founders had judged too dangerous to remember whole.
 
 Sera shut the file, killed the light, and lay awake in darkness with one

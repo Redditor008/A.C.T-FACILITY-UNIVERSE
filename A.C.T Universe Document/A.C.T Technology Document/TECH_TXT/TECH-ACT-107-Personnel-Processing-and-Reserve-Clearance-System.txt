@@ -39,10 +39,8 @@ TECHNOLOGY RECORD - PERSONNEL PROCESSING AND RESERVE CLEARANCE SYSTEM
 +----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
-Personnel Processing and Reserve Clearance System is the one-hundred-seventh main A.C.T technology expanded into
-an
-individual record. The F-4 Personnel and Operations Level dossier identifies personnel processing as one
-of the
+Personnel Processing and Reserve Clearance System is the one-hundred-seventh main A.C.T technology expanded into an
+individual record. The F-4 Personnel and Operations Level dossier identifies personnel processing as one of the
 floor's defining functions: arriving personnel are processed, clearances are administered, and personnel records are
 maintained from the buried operations level. The Verde Null site dossier adds the local
 personnel burden: personnel
@@ -63,35 +61,28 @@ FUNCTION OUTLINE
 
 Personnel Processing and Reserve Clearance System is Verde Null's personnel intake, clearance, documentation, and
 duty-compatibility architecture. It governs how personnel enter the reserve's operational population, how their access
-is assigned, how their biological and psychological suitability is reviewed, and how their records
-are connected to
+is assigned, how their biological and psychological suitability is reviewed, and how their records are connected to
 site command, Security, Medical, Environmental Containment, and legitimate campus cover requirements.
 
 PPRCS is not ordinary human resources software. It is a personnel-security system for a
 site where the wrong
-assignment can expose a concealed boundary, endanger a resident habitat, compromise a biological-care routine,
-or
+assignment can expose a concealed boundary, endanger a resident habitat, compromise a biological-care routine, or
 break the cover discipline of a legitimate ecological research campus.
 
-Approved roles include arrival processing, clearance administration, reserve-duty suitability review, personnel record
-custody, access-core enrollment, field-sector assignment screening, biological exposure flagging, cover-role
-separation, Medical monitoring integration, and denial or removal recommendation when a person cannot safely
-remain
+Approved roles include arrival processing, clearance administration, reserve-duty suitability review, personnel
+record custody, access-core enrollment, field-sector assignment screening, biological exposure flagging, cover-role
+separation, Medical monitoring integration, and denial or removal recommendation when a person cannot safely remain
 assigned to reserve work.
 
 ORIGIN AND DEVELOPMENT
 
-Verde Null's staffing problem emerged from its geography. Personnel assigned to the reserve are
-not merely working
-inside a secure building; they are living and operating inside protected wilderness that is
-also a containment system.
+Verde Null's staffing problem emerged from its geography. Personnel assigned to the reserve are not merely working
+inside a secure building; they are living and operating inside protected wilderness that is also a containment system.
 Early field-enclosure crews needed patience, ecological discipline, and the ability to follow hidden boundaries
-without drawing attention. As the reserve formalized, those requirements became too important to leave
-to informal
+without drawing attention. As the reserve formalized, those requirements became too important to leave to informal
 supervisor judgment.
 
-F-4's personnel processing center was developed to centralize the decision. PPRCS grew from that
-center into a full
+F-4's personnel processing center was developed to centralize the decision. PPRCS grew from that center into a full
 clearance technology: a combined record, access, screening, and duty-route system that treats personnel assignment
 as
 containment infrastructure.
@@ -115,8 +106,7 @@ Known components include:
 - field-sector assignment approval queue;
 - denial and removal review file.
 
-The system keeps personnel records close to command because staffing failures at Verde Null
-can become containment
+The system keeps personnel records close to command because staffing failures at Verde Null can become containment
 failures.
 
 
@@ -164,8 +154,7 @@ The reserve runs two personnel populations that must not blur: staff who work th
 concealed enclosure and
 staff who work the public campus in genuine roles. The cover-role ledger exists because
 a campus employee
-holding enclosure credentials is a cover breach waiting for a single misplaced badge, and
-a campus role that
+holding enclosure credentials is a cover breach waiting for a single misplaced badge, and a campus role that
 cannot be performed by its holder is a different kind of failure.
 
 INTERFACE AND OPERATING ENVELOPE
@@ -200,8 +189,7 @@ OPERATING PROCEDURE
 
 Numbered Operating Sequence
 
-The sequence verifies identity before clearance and clearance before duty. Reversing that order is
-how a
+The sequence verifies identity before clearance and clearance before duty. Reversing that order is how a
 person ends up credentialed for a role nobody has approved.
 
 1. Receive the arrival at the processing station.
@@ -224,10 +212,8 @@ division sponsorship, prior biological exposure history, field-duty capacity, me
 and required level of access. Personnel are then separated into campus-visible roles, buried-operation roles,
 field-sector roles, laboratory roles, Medical roles, Security roles, and restricted cultivation-support roles.
 
-Clearance is not permanent by assumption. PPRCS requires periodic review when a person changes
-division, crosses from
-campus-visible work into concealed sector work, receives a biological exposure flag, shows isolation stress,
-fails
+Clearance is not permanent by assumption. PPRCS requires periodic review when a person changes division, crosses from
+campus-visible work into concealed sector work, receives a biological exposure flag, shows isolation stress, fails
 boundary discipline, or enters repeated duty near sapient or semi-sapient residents. Denial override requires
 command-level review because a staffing need does not cancel reserve risk.
 
@@ -247,8 +233,7 @@ SERVICING AND CALIBRATION
 | Quarterly                  | rehearse a denial and removal review                                                  |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-The monthly cover-role audit is the check that keeps the two populations separate. Cover
-roles are written
+The monthly cover-role audit is the check that keeps the two populations separate. Cover roles are written
 by administration and read by campus staff, and drift between the two is visible
 only when the ledger is
 compared with the people actually holding the credentials.
@@ -275,43 +260,36 @@ KNOWN LIMITS
 PPRCS can document and control access, but it cannot perfectly predict how a person
 will respond to wilderness
 isolation, living containment, biological transformation material, or the pressure of performing real public science
-while knowing the reserve's concealed purpose. The system depends on honest supervisor reporting and
-Medical
+while knowing the reserve's concealed purpose. The system depends on honest supervisor reporting and Medical
 follow-through.
 
 Known failure modes include outdated clearance, informal escort abuse, public-campus role confusion, field-sector
 overassignment, unreported exposure, isolation fatigue, personnel bond with resident overriding procedure, credential
-retention after duty removal, command override for convenience, and research staff treating cover access
-as
+retention after duty removal, command override for convenience, and research staff treating cover access as
 containment access.
 
 FAILURE HISTORY
 
 PPRCS-Field Assignment Misfit
-A review of early enclosure staffing found that personnel with proper security clearance could
-still fail in
+A review of early enclosure staffing found that personnel with proper security clearance could still fail in
 wilderness duty because they lacked environmental patience and boundary discipline. Current PPRCS procedure separates
 general clearance from reserve-duty suitability.
 
 PPRCS-Campus Role Confusion
-A campus-visible researcher once assumed that legitimate research access permitted entry to concealed field
-sectors
+A campus-visible researcher once assumed that legitimate research access permitted entry to concealed field sectors
 supporting related ecological data. The current system marks public-program access and concealed-sector access as
 separate authorities even when the same discipline is involved.
 
 PPRCS-Medical Flag Delay
 Medical review found that exposure and isolation indicators sometimes reached supervisors before personnel records
-reflected them. Current doctrine requires Medical flags to connect directly to PPRCS review queues
-when duty
+reflected them. Current doctrine requires Medical flags to connect directly to PPRCS review queues when duty
 continuation could affect containment.
 
 DIVISION USE
 
 Administration maintains personnel records, duty cycles, and assignment paperwork. Security uses PPRCS to enforce
-access-core credentials and investigate clearance misuse. Medical uses it to attach exposure, fatigue, and
-care
-restrictions. Environmental Containment uses it to identify personnel suited for boundary and sector work.
-Research
+access-core credentials and investigate clearance misuse. Medical uses it to attach exposure, fatigue, and care
+restrictions. Environmental Containment uses it to identify personnel suited for boundary and sector work. Research
 uses it to separate legitimate campus participation from concealed reserve authority.
 
 PPRCS doctrine holds that the first containment gate in Verde Null is the person

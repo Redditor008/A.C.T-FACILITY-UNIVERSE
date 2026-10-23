@@ -32,8 +32,7 @@ jurisdiction, and inter-site support boundaries across its global installation n
 
 A.C.T does not treat geography in a civilian sense. Borders matter only where they
 affect secrecy, logistics,
-transport, political risk, anomaly density, or response timing. Site map doctrine exists to answer
-four practical
+transport, political risk, anomaly density, or response timing. Site map doctrine exists to answer four practical
 questions:
 
 - which SITE is responsible for an anomaly event
@@ -47,8 +46,7 @@ for hidden territorial control.
 ---
 
 ## 1. Jurisdiction Doctrine
-In A.C.T terminology, **jurisdiction** refers to the region, route, population zone, anomaly profile, or
-support
+In A.C.T terminology, **jurisdiction** refers to the region, route, population zone, anomaly profile, or support
 corridor assigned to a specific SITE or SUB-SITE.
 
 Jurisdiction may be determined by:
@@ -73,8 +71,7 @@ accountable.
 A.C.T recognizes multiple jurisdiction types.
 
 ### 2.1 Geographic Jurisdiction
-A normal regional responsibility area based on country, border, coast, island network, inland zone,
-or urban corridor.
+A normal regional responsibility area based on country, border, coast, island network, inland zone, or urban corridor.
 
 ### 2.2 Containment Jurisdiction
 The right and obligation to house, transfer, or reject an anomaly based on site
@@ -84,12 +81,12 @@ specialization.
 The authority to deploy first-response teams to locate, isolate, and retrieve anomalies.
 
 ### 2.4 Secrecy Jurisdiction
-The authority to control cover stories, witness suppression, narrative containment, and public-facing incident
-resolution in a region.
+The authority to control cover stories, witness suppression, narrative
+containment, and public-facing incident resolution in a region.
 
 ### 2.5 Support Jurisdiction
-The responsibility to provide overflow, archive relay, medical stabilization, transport, or tactical support to
-another site.
+The responsibility to provide overflow, archive relay, medical
+stabilization, transport, or tactical support to another site.
 
 ### 2.6 Overlap Jurisdiction
 A condition in which more than one site may claim involvement because the anomaly
@@ -99,16 +96,14 @@ operational consequences.
 ---
 
 ## 3. Jurisdiction Priority Rule
-When multiple sites could claim an event, A.C.T resolves control according to the following
-order:
+When multiple sites could claim an event, A.C.T resolves control according to the following order:
 
 1. **Containment viability** — which site can actually hold the anomaly safely
 2. **Immediate secrecy risk** — which site can conceal the event fastest
 3. **Recovery speed** — which site can physically reach it first
 4. **Anomaly specialization** — which site is best suited to the anomaly profile
 5. **Command proximity** — which command chain is already active in the region
-   **Cross-site review** — if conflict persists, Site Governance Review or higher authority resolves
-   final
+   **Cross-site review** — if conflict persists, Site Governance Review or higher authority resolves final
    assignment
 
 The nearest site is not always the correct site.
@@ -123,8 +118,7 @@ Current A.C.T site doctrine recognizes a layered distribution model:
 - **Relay Sites** maintain discreet transfer and secrecy continuity
 - **Black Sites** remain outside ordinary routing unless explicitly authorized
 
-The known current major registry model includes five major regional sites and five supporting
-sub-sites.
+The known current major registry model includes five major regional sites and five supporting sub-sites.
 
 ---
 
@@ -220,8 +214,7 @@ control**.
 ---
 
 ## 9. Central Jurisdiction and the Main Facility
-All regional site jurisdictions ultimately sit beneath the doctrinal gravity of the main buried
-Facility and its
+All regional site jurisdictions ultimately sit beneath the doctrinal gravity of the main buried Facility and its
 abyssal inheritance.
 
 Where lower sites manage:
@@ -277,10 +270,7 @@ Central review for document-borne hazard beyond local containment
 ---
 
 ## 12. Final Map Doctrine Statement
-A.C.T site-map doctrine exists to assign hidden territorial responsibility to the impossible. The global
-network of
-SITES and SUB-SITES is not a simple geographical spread, but a strategic containment lattice
-built around anomaly
-pressure, secrecy burden, recovery speed, and survivable control. A jurisdiction is not merely where
-the Facility
+A.C.T site-map doctrine exists to assign hidden territorial responsibility to the impossible. The global network of
+SITES and SUB-SITES is not a simple geographical spread, but a strategic containment lattice built around anomaly
+pressure, secrecy burden, recovery speed, and survivable control. A jurisdiction is not merely where the Facility
 stands. It is where the Facility is responsible when reality begins to fail.

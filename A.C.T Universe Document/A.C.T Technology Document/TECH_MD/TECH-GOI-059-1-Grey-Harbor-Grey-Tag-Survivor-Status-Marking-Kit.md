@@ -22,11 +22,11 @@
 
 #### Archive Note
 
-This record covers the grey-tag kit by which Grey Harbor Civil Rescue Directorate marks survivor status during
-anomaly-adjacent disasters. The dossier names grey-tag kits for survivor status marking and the Directorate's capacity
-to mark survivors for A.C.T review without provoking public panic. A.C.T has used these kits during joint operations
-and does not own them. The dossier raises directly whether the kits are anomalous, symbolic, or both, and A.C.T has
-not resolved it.
+This record covers the grey-tag kit by which Grey Harbor Civil Rescue Directorate marks survivor
+status during anomaly-adjacent disasters. The dossier names grey-tag kits for survivor status
+marking and the Directorate's capacity to mark survivors for A.C.T review without provoking public
+panic. A.C.T has used these kits during joint operations and does not own them. The dossier raises
+directly whether the kits are anomalous, symbolic, or both, and A.C.T has not resolved it.
 
 The technical problem the tag solves is triage under restricted truth. A responder cannot tell a waiting family why a
 survivor is being held for review, and cannot write the reason on a card that a civilian may read. The
@@ -52,9 +52,9 @@ DO NOT MERGE DUPLICATE ENTRIES UNTIL FACES ARE SEEN TWICE. TWO NAMES MEANS WRITE
 
 ## FUNCTION SUMMARY
 
-A grey tag records a survivor's status at the moment of extraction and carries it through shelter, triage, hospital
-transfer, and family notification. It lets a responder flag a survivor for later review without announcing the reason
-to anyone standing nearby.
+A grey tag records a survivor's status at the moment of extraction and carries it through
+shelter, triage, hospital transfer, and family notification. It lets a responder flag a
+survivor for later review without announcing the reason to anyone standing nearby.
 
 - marks survivor status without disclosing a restricted cause;
 - keeps a survivor identifiable across shelter moves and count changes;
@@ -79,9 +79,9 @@ must still be findable an hour later.
 | Issuing body | Grey Harbor shelter registrar corps |
 | Object review | Recommended by dossier; not completed |
 
-The operative row is the anomalous-status row. Because it is unresolved, A.C.T treats the kit as a rescue instrument
-rather than as an object, and does not attempt to reproduce it. The dossier recommends later object review, and that
-review has not been performed.
+The operative row is the anomalous-status row. Because it is unresolved, A.C.T treats the
+kit as a rescue instrument rather than as an object, and does not attempt to reproduce
+it. The dossier recommends later object review, and that review has not been performed.
 
 ---
 
@@ -198,9 +198,9 @@ exactly when it is most likely to be overridden by speed.
 | Status assessed by cause | Responder inference | Revert to observed status |
 | Tag reproduced by A.C.T | A.C.T handling breach | Destroy copy; report |
 
-The first row is the fault the recorded case turned on. Grey Harbor's refusal to merge duplicate entries prevented
-loss of civilian continuity, and Civil Covert recorded that the shelter registrar was not to be disciplined through
-GAA channels for it.
+The first row is the fault the recorded case turned on. Grey Harbor's refusal to merge
+duplicate entries prevented loss of civilian continuity, and Civil Covert recorded
+that the shelter registrar was not to be disciplined through GAA channels for it.
 
 ---
 
@@ -225,9 +225,9 @@ matched the people. This is filed as the reason a manifest cannot override a tag
 
 ### PREMATURE MERGING — PROHIBITION OF RECORD
 
-The evacuation sheet orders that families not be merged until faces are seen twice. A.C.T adopts the prohibition
-because merging on a matching name would have erased three present children from a count. The rule stands even where
-it slows reconciliation.
+The evacuation sheet orders that families not be merged until faces are seen twice.
+A.C.T adopts the prohibition because merging on a matching name would have erased three
+present children from a count. The rule stands even where it slows reconciliation.
 
 ### DUAL NAME — STANDING CONDITION
 

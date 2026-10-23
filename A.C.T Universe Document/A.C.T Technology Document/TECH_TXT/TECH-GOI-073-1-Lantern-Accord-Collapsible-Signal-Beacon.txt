@@ -14,22 +14,21 @@ Clearance: Level 3 for examination; Level 4 for any restoration request
 Archive Note
 ------------
 
-The archive holds one Lantern Accord signal beacon. It was recovered broken during work contact
-and it has not been restored.
+The archive holds one Lantern Accord signal beacon. It was
+recovered broken during work contact and it has not been restored.
 
 The Accord is not an enemy. Its posture toward the Facility is cooperated, monitor, misdirect and
-appropriate, and the Accord itself is under review. This beacon is therefore not a seized weapon
-and not a piece of appropriated equipment. It is a broken signalling instrument belonging to a
-party the Facility works with, and the reason it stays broken is a legal one recorded here as an
-engineering decision.
+appropriate, and the Accord itself is under review. This beacon is therefore not a seized weapon and not
+a piece of appropriated equipment. It is a broken signalling instrument belonging to a party the Facility
+works with, and the reason it stays broken is a legal one recorded here as an engineering decision.
 
 Lighting an Accord beacon opens a line. Under charter terms a Lantern Marshal then marks the line
 and an Accord Clerk writes its immediate terms — hazard description, protected persons, allowed
 forces, prohibited acts, handover conditions, time limit, and who may speak for absent parties.
 The delegates argue afterwards. The line is already active, and the party that lit it is bound.
 
-The Facility is not a signatory. It cannot honour terms it has not taken, and no personnel have
-been authorised to take them.
+The Facility is not a signatory. It cannot honour terms it has
+not taken, and no personnel have been authorised to take them.
 
 LANTERN BEACON CHARTER RULE
 
@@ -55,21 +54,18 @@ GREEN LANTERN: patient or altered-person custody attached; Mercy Lock or medical
 RED LANTERN: line broken; violation witness priority.
 BLACK LANTERN: dead, missing, or nonhuman persons present; identity and custody review required.
 
-The dossier warns directly against reading these as Facility hazard classes. They are Accord
-procedural states carrying Accord obligations. Any Facility file that maps a lantern colour onto
-an A.C.T class is in error.
+The dossier warns directly against reading these as Facility hazard classes. They are Accord procedural states
+carrying Accord obligations. Any Facility file that maps a lantern colour onto an A.C.T class is in error.
 
-The beacon has no containment function, no suppression effect and no hazard of its own while
-unlit. Its function is procedural: it changes what the parties owe one another, not what an
-anomaly does.
+The beacon has no containment function, no suppression effect and no hazard of its own while unlit.
+Its function is procedural: it changes what the parties owe one another, not what an anomaly does.
 
 1.2 What the archive does not know
 ==================================
 
-Dimensions, materials, light source, fuel type, shutter count, operating duration and any serial
-marking are all absent from the dossier. The shutter-to-status mapping is absent too, and that
-absence matters more than the rest, because it means a restored beacon could not be read even if
-restoration were authorised.
+Dimensions, materials, light source, fuel type, shutter count, operating duration and any serial marking
+are all absent from the dossier. The shutter-to-status mapping is absent too, and that absence matters more
+than the rest, because it means a restored beacon could not be read even if restoration were authorised.
 
 The mapping is presumably held in the signatory codebooks, which the Accord updates after every
 broken line and which remain unrecovered.
@@ -140,9 +136,8 @@ OPEN QUESTIONS
 - whether the Accord tracks issued beacons by serial, and whether this one is listed missing;
 - whether a non-signatory lighting the beacon produces any Accord obligation at all.
 
-The last question governs the handling rule. If a non-signatory lighting the beacon produces no
-obligation, the rule is caution rather than necessity. Legal has not ruled, and the archive holds
-the unit broken until it does.
+The last question governs the handling rule. If a non-signatory lighting the beacon produces no obligation, the
+rule is caution rather than necessity. Legal has not ruled, and the archive holds the unit broken until it does.
 
 CROSS-REFERENCES
 ----------------

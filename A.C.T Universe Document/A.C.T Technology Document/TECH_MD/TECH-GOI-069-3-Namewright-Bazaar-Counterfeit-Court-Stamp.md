@@ -14,20 +14,17 @@ The archive holds three counterfeit court stamps, seized under a dismantlement o
 hostile identity market assessed at threat level 4.
 
 The stamps are the step that makes a substitution hold. The Bazaar's trade runs through six kinds of
-recognition — paper, memory, family, legal, spiritual and predatory — and legal recognition is the
-one a court stamp attacks directly. A name can be cut from a bracelet and bound to a new one, but
-until an official document carries the new name the substitution is informal, and the stamp closes
-that gap.
+recognition — paper, memory, family, legal, spiritual and predatory — and legal recognition is the one
+a court stamp attacks directly. A name can be cut from a bracelet and bound to a new one, but until an
+official document carries the new name the substitution is informal, and the stamp closes that gap.
 
-This is a seizure record and not a custody record. The Facility does not hold the stamps as
-equipment and will not issue them. It holds them as forgery instruments from a market it is
-dismantling.
+This is a seizure record and not a custody record. The Facility does not hold the stamps as equipment
+and will not issue them. It holds them as forgery instruments from a market it is dismantling.
 
-They are counterfeit, which is the whole of the hazard and also the whole of the opportunity. A
-counterfeit leaves an impression a genuine one does not, and three genuine counterfeits are the best
-available reference for telling a Bazaar document from a real one. That makes them an authentication
-reference whether anyone intends it or not, and authentication requires an impression, and an
-impression requires Legal.
+They are counterfeit, which is the whole of the hazard and also the whole of the opportunity. A counterfeit
+leaves an impression a genuine one does not, and three genuine counterfeits are the best available reference
+for telling a Bazaar document from a real one. That makes them an authentication reference whether anyone
+intends it or not, and authentication requires an impression, and an impression requires Legal.
 
 **COUNTERFEIT STAMP RULE**
 
@@ -48,10 +45,9 @@ others rather than only using them itself.
 ## 1.2 What cannot be said about them
 
 Dimensions, die material, ink and any marking are absent from the dossier, and so is the jurisdiction
-imitated. That last absence is a finding rather than a gap: a counterfeit aimed at no particular
-court is harder to detect by comparison, because there is no single genuine impression to compare
-against. Detection depends on the stamps themselves, which depends on an impression, which depends on
-Legal.
+imitated. That last absence is a finding rather than a gap: a counterfeit aimed at no particular court
+is harder to detect by comparison, because there is no single genuine impression to compare against.
+Detection depends on the stamps themselves, which depends on an impression, which depends on Legal.
 
 Whether the three share one die is not established, and that comparison is the obvious next step.
 One die indicates a single workshop. Several indicate a supply network. The comparison has not been
@@ -67,8 +63,8 @@ seized stamp is evidence of the trade's finishing stage rather than of its centr
 The stamp attacks legal recognition specifically. Whether the Bazaar holds instruments aimed at the
 other five is not recorded and no inference is drawn here.
 
-Three units indicate stock rather than use. A trader carrying one stamp is equipping themselves.
-Three in a cache is inventory.
+Three units indicate stock rather than use. A trader carrying one
+stamp is equipping themselves. Three in a cache is inventory.
 
 ---
 
@@ -76,21 +72,20 @@ Three in a cache is inventory.
 
 ## 2.1 Custody
 
-Held by Legal, with Intelligence and Containment reviewing. Handling requires Level 5. No impression
-has been taken from any unit.
+Held by Legal, with Intelligence and Containment reviewing. Handling
+requires Level 5. No impression has been taken from any unit.
 
 ## 2.2 What personnel must not do
 
-Personnel must not impress any stamp on any material, including paper offered for testing. Testing
-on paper is still operation.
+Personnel must not impress any stamp on any material, including
+paper offered for testing. Testing on paper is still operation.
 
 Personnel must not clean, re-ink or repair a stamp. Altering a seized forgery instrument compromises
 it as evidence in any proceeding against the Bazaar, and Legal holds that interest.
 
 Where a document bears an impression matching a Bazaar stamp, the document goes to Legal and is not
-treated as genuine. Where a person holds such a document in good faith, the referral goes to Subject
-Care as well, because a person who believes their own identity is forged is a person who needs
-attending.
+treated as genuine. Where a person holds such a document in good faith, the referral goes to Subject Care
+as well, because a person who believes their own identity is forged is a person who needs attending.
 
 ## 2.3 The Bazaar's own sequence
 

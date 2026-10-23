@@ -21,12 +21,10 @@ This file is the complete individual record of **F-2, the Operations and Watch L
 the second-deepest numbered
 floor of **ACT-SUB-05-ID-C, the Ash Tide Watchpoint**.
 
-F-2 is the watchpoint's operational heart: watch coordination, seismic monitoring suites, and the staging
-area for
+F-2 is the watchpoint's operational heart: watch coordination, seismic monitoring suites, and the staging area for
 recovery support and emergency intake. It is the level where the Ash Tide Watchpoint
 does its defining work — watching
-the coastal corridors for anomalous maritime activity, watching the volcanoes that mark the region's
-restless geology,
+the coastal corridors for anomalous maritime activity, watching the volcanoes that mark the region's restless geology,
 and coordinating the operations that the watch produces.
 
 This dossier records the floor in full institutional language: what it is, what it
@@ -39,16 +37,12 @@ the water it observes.
 ## 1. Floor Registry Identity Summary
 
 **Site Designation:** ACT-SUB-05-ID-C **Site Codename:** Ash Tide Watchpoint **Parent Command:** ACT-SITE-05-ID-C —
-Nusantara Deep Relay **Floor Designation:** F-2 **Floor Name:** Operations and Watch Level **Floor Type:**
-Operational
+Nusantara Deep Relay **Floor Designation:** F-2 **Floor Name:** Operations and Watch Level **Floor Type:** Operational
 Watch and Coordination Level **Vertical Position:** Second-deepest numbered floor of the watchpoint's buried component
-**Floor Above:** F-3 (Surface Cover Level) **Floor Below:** F-1 (Emergency Intake and Secure Storage)
-**Containment
+**Floor Above:** F-3 (Surface Cover Level) **Floor Below:** F-1 (Emergency Intake and Secure Storage) **Containment
 Character:** Watch coordination and seismic monitoring infrastructure **Primary Function:** Watch coordination,
-seismic monitoring suites, and the staging area for recovery support and emergency intake **Access
-Posture:**
-Controlled operational access under watch doctrine **Current Status:** Active **Doctrine Note:** The level where
-the
+seismic monitoring suites, and the staging area for recovery support and emergency intake **Access Posture:**
+Controlled operational access under watch doctrine **Current Status:** Active **Doctrine Note:** The level where the
 watchpoint's defining protocol — watch — is practiced
 
 ---
@@ -61,12 +55,9 @@ corridors where anomalies appear at the water's edge, and the volcanic signature
 restless region. Seeing
 requires instruments, coordination, and people — and those are concentrated on F-2.
 
-F-2 is the watchpoint's operational heart: the level where watch coordination directs the continuous
-observation of
-the assigned coastal corridors, where seismic monitoring suites track the region's volcanic activity, and
-where
-recovery support and emergency intake operations are staged. The floor is the watchpoint's watch
-made physical — the
+F-2 is the watchpoint's operational heart: the level where watch coordination directs the continuous observation of
+the assigned coastal corridors, where seismic monitoring suites track the region's volcanic activity, and where
+recovery support and emergency intake operations are staged. The floor is the watchpoint's watch made physical — the
 buried level that sees what the water and the earth reveal.
 
 ---
@@ -82,14 +73,12 @@ the watchpoint presents itself to the world.
 
 ### 3.2 Relationship to F-3
 
-Observation equipment and personnel arrive through the surface level above and descend to F-2,
-where the watchpoint's
+Observation equipment and personnel arrive through the surface level above and descend to F-2, where the watchpoint's
 instruments and watch coordination operate. The floor is the watchpoint's operational destination.
 
 ### 3.3 Relationship to F-1
 
-Operations coordinated on F-2 route their results downward: recoveries and emergency arrivals are received
-on the
+Operations coordinated on F-2 route their results downward: recoveries and emergency arrivals are received on the
 Emergency Intake floor below, and the staging area on F-2 coordinates with the intake
 floor's operations.
 
@@ -99,23 +88,19 @@ floor's operations.
 
 ### 4.1 Development of the Watch Floor
 
-F-2's character developed from the watchpoint's origins as a simple relay watchpoint: as repeated
-coastal anomaly
-appearances required permanent staffing, the watchpoint's watch functions consolidated on an operational level beneath
-the surface station.
+F-2's character developed from the watchpoint's origins as a simple relay watchpoint: as repeated coastal anomaly
+appearances required permanent staffing, the watchpoint's watch functions
+consolidated on an operational level beneath the surface station.
 
 ### 4.2 The Permanent Watch Doctrine
 
-The floor's defining discipline — continuous watch of the assigned coastal corridors — developed
-as the watchpoint was
-elevated from a rotating watchpoint to a permanently staffed installation. F-2 became the permanent
-seat of the watch
+The floor's defining discipline — continuous watch of the assigned coastal corridors — developed as the watchpoint was
+elevated from a rotating watchpoint to a permanently staffed installation. F-2 became the permanent seat of the watch
 that the region's restless coast demands.
 
 ### 4.3 Modern Configuration
 
-In its modern configuration, F-2 is the watchpoint's operational heart: watch coordination, seismic monitoring,
-and
+In its modern configuration, F-2 is the watchpoint's operational heart: watch coordination, seismic monitoring, and
 staging operating under the watch doctrine that defines the watchpoint.
 
 ---
@@ -124,22 +109,18 @@ staging operating under the watch doctrine that defines the watchpoint.
 
 ### 5.1 Floor Command
 
-F-2 operates under the watchpoint's Watch Chief, administered day-to-day by a **Watch Officer**. The
-Watch Officer
+F-2 operates under the watchpoint's Watch Chief, administered day-to-day by a **Watch Officer**. The Watch Officer
 administers the floor's watch coordination, monitoring schedules, and staging operations.
 
 ### 5.2 Authority over Watch
 
-The Watch Officer holds authority over the floor's watch functions: observation schedules, coordination with
-the
-parent relay on watch assignments, and the routing of watch findings. Authority over emergency
-intake is shared with
+The Watch Officer holds authority over the floor's watch functions: observation schedules, coordination with the
+parent relay on watch assignments, and the routing of watch findings. Authority over emergency intake is shared with
 the Intake Officer of F-1.
 
 ### 5.3 Authority Limits
 
-F-2 holds no authority over recovered material beyond staging, no authority over volcanic-event response
-beyond
+F-2 holds no authority over recovered material beyond staging, no authority over volcanic-event response beyond
 observation and reporting, and no authority to act on watch findings beyond the parent
 relay's direction. Its role is
 watch and coordination — the observation of the coast and the organization of the
@@ -151,14 +132,12 @@ watchpoint's response.
 
 ### 6.1 Watch Coordination Staff
 
-The watchpoint's watch coordination staff operate F-2: continuous observation of the assigned coastal corridors,
-watch
+The watchpoint's watch coordination staff operate F-2: continuous observation of the assigned coastal corridors, watch
 scheduling, and the coordination of watch findings with the parent relay.
 
 ### 6.2 Seismic Monitoring Staff
 
-The watchpoint's seismic monitoring staff operate the floor's monitoring suites: volcanic and seismic observation
-of
+The watchpoint's seismic monitoring staff operate the floor's monitoring suites: volcanic and seismic observation of
 the region's restless geology, and the reporting of irregular activity to the parent relay.
 
 ### 6.3 Recovery Support Staff
@@ -168,8 +147,7 @@ coordination, and the staging of operations that route through the intake floor 
 
 ### 6.4 Security Staff
 
-Security personnel guard the floor's access architecture and the watch spaces, enforcing the access
-rules that govern
+Security personnel guard the floor's access architecture and the watch spaces, enforcing the access rules that govern
 the floor.
 
 ---
@@ -187,24 +165,19 @@ F-2's plan is organized around the watchpoint's operational functions:
 
 ### 7.2 The Watch Coordination Center
 
-The floor's watch center is where the watchpoint's defining activity is conducted: continuous observation
-of the
-assigned coastal corridors, instrument feeds, and the coordination that turns observation into reporting. The
-center
+The floor's watch center is where the watchpoint's defining activity is conducted: continuous observation of the
+assigned coastal corridors, instrument feeds, and the coordination that turns observation into reporting. The center
 is the watchpoint's eye — the space where the coast is watched without interruption.
 
 ### 7.3 The Seismic Monitoring Suites
 
-The floor's monitoring suites track the region's volcanic and seismic activity: instruments watching the
-restless
-geology that gives the watchpoint its name, and the reporting architecture that carries irregular
-activity to the
+The floor's monitoring suites track the region's volcanic and seismic activity: instruments watching the restless
+geology that gives the watchpoint its name, and the reporting architecture that carries irregular activity to the
 parent relay.
 
 ### 7.4 The Recovery Staging Area
 
-The floor's staging area coordinates recovery support: vessel operations, sea-entry coordination, and the staging
-of
+The floor's staging area coordinates recovery support: vessel operations, sea-entry coordination, and the staging of
 recovery operations that route their results through the intake floor below.
 
 ---
@@ -218,13 +191,12 @@ monitoring instruments.
 
 ### 8.2 Environment
 
-The floor's environmental systems support the watch and monitoring infrastructure, engineered for the watchpoint's
-tropical coastal setting.
+The floor's environmental systems support the watch and monitoring
+infrastructure, engineered for the watchpoint's tropical coastal setting.
 
 ### 8.3 Monitoring
 
-Monitoring on F-2 covers both the watchpoint's observation targets and its own operations: coastal
-feeds, seismic
+Monitoring on F-2 covers both the watchpoint's observation targets and its own operations: coastal feeds, seismic
 data, and the watch center's activity are documented under the floor's watch doctrine.
 
 ### 8.4 Communication
@@ -240,30 +212,24 @@ with recovery operations, and the watchpoint's internal networks.
 
 Access to F-2 is controlled through the floor's access core, which connects the surface
 level above to the intake
-floor below. Watch spaces are governed by the access rules that protect the watchpoint's
-operational information.
+floor below. Watch spaces are governed by the access rules that protect the watchpoint's operational information.
 
 ### 9.2 Watch Discipline
 
-The floor's watch operations follow the watchpoint's watch doctrine: continuous observation of the assigned
-coastal
-corridors for anomalous maritime activity, volcanic signature, and sea-entry traffic. The watchpoint sees what
-the
+The floor's watch operations follow the watchpoint's watch doctrine: continuous observation of the assigned coastal
+corridors for anomalous maritime activity, volcanic signature, and sea-entry traffic. The watchpoint sees what the
 parent relay cannot see from its core — and the floor's discipline ensures that
 the seeing never stops.
 
 ### 9.3 Reporting Discipline
 
-The floor's reporting follows the watchpoint's coordination doctrine: watch findings are routed to the
-parent relay
-under its watch assignments, seismic observations are reported under its volcanic observation priorities, and
-nothing
+The floor's reporting follows the watchpoint's coordination doctrine: watch findings are routed to the parent relay
+under its watch assignments, seismic observations are reported under its volcanic observation priorities, and nothing
 of operational significance goes unreported.
 
 ### 9.4 Emergency Coordination
 
-The floor's staging area coordinates with the intake floor below on emergency operations: recoveries
-and emergency
+The floor's staging area coordinates with the intake floor below on emergency operations: recoveries and emergency
 arrivals are received on F-1 under the coordination that F-2 provides.
 
 ---
@@ -272,20 +238,17 @@ arrivals are received on F-1 under the coordination that F-2 provides.
 
 ### 10.1 Watch Function
 
-F-2 is where the watchpoint watches: the coordination center and monitoring suites that observe
-the coastal corridors
+F-2 is where the watchpoint watches: the coordination center and monitoring suites that observe the coastal corridors
 and the region's restless geology.
 
 ### 10.2 Coordination Function
 
-F-2 is where the watchpoint coordinates: recovery support staging, emergency intake coordination, and the
-operational
+F-2 is where the watchpoint coordinates: recovery support staging, emergency intake coordination, and the operational
 reporting that ties the watchpoint to the parent relay.
 
 ### 10.3 Holding Character
 
-F-2 holds no anomalous material. Its population is the watchpoint's operational personnel, and its
-function is the
+F-2 holds no anomalous material. Its population is the watchpoint's operational personnel, and its function is the
 watch and coordination that define the watchpoint.
 
 ---
@@ -294,22 +257,18 @@ watch and coordination that define the watchpoint.
 
 ### 11.1 Staffing
 
-F-2 is the watchpoint's most heavily staffed level. Its personnel include the watch coordination
-staff, seismic
+F-2 is the watchpoint's most heavily staffed level. Its personnel include the watch coordination staff, seismic
 monitoring staff, recovery support personnel, and the security staff who guard the floor.
 
 ### 11.2 Duty Life
 
-Duty on F-2 is watch work: observing the coastal corridors, monitoring the volcanoes, coordinating
-operations, and
-reporting findings to the parent relay. The floor's rhythm follows the watch — continuous,
-attentive, and unbroken by
+Duty on F-2 is watch work: observing the coastal corridors, monitoring the volcanoes, coordinating operations, and
+reporting findings to the parent relay. The floor's rhythm follows the watch — continuous, attentive, and unbroken by
 schedule.
 
 ### 11.3 The Watch Discipline
 
-The floor's personnel work under the watchpoint's watch discipline: the understanding that the coast
-does not schedule
+The floor's personnel work under the watchpoint's watch discipline: the understanding that the coast does not schedule
 its anomalies and the earth does not schedule its movement. Personnel on F-2 learn
 to watch without interruption, to
 report without delay, and to remain ready for the arrivals their watch may reveal.
@@ -320,10 +279,8 @@ report without delay, and to remain ready for the arrivals their watch may revea
 
 ### 12.1 Watch Doctrine
 
-F-2 doctrine holds that the watchpoint's purpose is watch: the floor's continuous observation of
-the assigned coastal
-corridors and volcanic signatures is the watchpoint's defining function, and the watchpoint sees what
-the parent relay
+F-2 doctrine holds that the watchpoint's purpose is watch: the floor's continuous observation of the assigned coastal
+corridors and volcanic signatures is the watchpoint's defining function, and the watchpoint sees what the parent relay
 cannot see from its core.
 
 ### 12.2 Reporting Doctrine
@@ -336,17 +293,14 @@ relay under its assignments, and nothing of operational significance goes unrepo
 
 F-2 doctrine holds that the watchpoint must be ready for what its watch reveals:
 the floor's staging coordinates with
-the intake level below, so that recoveries and emergency arrivals are received the moment
-the watch produces them.
+the intake level below, so that recoveries and emergency arrivals are received the moment the watch produces them.
 
 ---
 
 ## 13. Incident Archive
 
-The floor's incident record is dominated by watch and coordination events: coastal anomaly sightings,
-volcanic
-observation events, and coordination incidents. Material that exceeds the watchpoint's capacity moves to the
-parent
+The floor's incident record is dominated by watch and coordination events: coastal anomaly sightings, volcanic
+observation events, and coordination incidents. Material that exceeds the watchpoint's capacity moves to the parent
 relay, and the floor's history is largely the history of the watch held.
 
 ---
@@ -377,8 +331,7 @@ priorities include:
 
 F-2, the Operations and Watch Level, is the operational heart of the Ash Tide
 Watchpoint: the watch coordination
-center, seismic monitoring suites, and recovery staging area where the watchpoint watches the coastal
-corridors and
+center, seismic monitoring suites, and recovery staging area where the watchpoint watches the coastal corridors and
 the region's restless volcanoes — and coordinates what its watch reveals.
 
 It is the floor of the unbroken watch: personnel watching the water and the

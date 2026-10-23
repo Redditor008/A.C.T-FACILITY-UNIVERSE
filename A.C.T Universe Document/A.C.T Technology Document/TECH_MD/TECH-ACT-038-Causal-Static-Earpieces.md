@@ -21,16 +21,12 @@
 | AUTHORITY | Narrative Hazard Desk, Field Containment Division, and Central Archive |
 
 #### Archive Note
-Causal Static Earpieces are the thirty-eighth main A.C.T technology expanded into an individual record.
-The Master
-Catalog defines them as individual-issue static generators for field agents to prevent cognitive recruitment
-during
-narrative-bleed events. The visual guide describes tactical earbuds with a rugged transceiver box and
-an internal
+Causal Static Earpieces are the thirty-eighth main A.C.T technology expanded into an individual record. The Master
+Catalog defines them as individual-issue static generators for field agents to prevent cognitive recruitment during
+narrative-bleed events. The visual guide describes tactical earbuds with a rugged transceiver box and an internal
 Logic-Anchor Chip that vibrates against the ear canal if the user's brainwaves begin to
 enter a scripted state. The
-Refracted One containment procedures require all chamber personnel to wear CSE units so they
-do not speculate on what
+Refracted One containment procedures require all chamber personnel to wear CSE units so they do not speculate on what
 the subject might be or looks like while its ontology responds to collective observer
 consensus. The Causal Static
 Generator record identifies CSE as the individual field form of broader static protection.
@@ -53,14 +49,11 @@ KEEP THE AGENT THINKING IN PROCEDURE WHEN THE ROOM OFFERS A ROLE.
 
 A Causal Static Earpiece protects an individual operator from early-stage narrative recruitment, scripted thought
 drift, consensus pressure, and role assignment caused by narrative-bleed environments. It produces controlled static,
-logic-anchor vibration, and procedural cueing through the ear canal. The system does not make
-a person immune to
-memetics or ontological force. It interrupts the first moment when thought begins arranging itself
-into the shape the
+logic-anchor vibration, and procedural cueing through the ear canal. The system does not make a person immune to
+memetics or ontological force. It interrupts the first moment when thought begins arranging itself into the shape the
 anomaly prefers.
 
-In a Refracted One chamber, this matters because speculation changes the subject. If three
-people wonder aloud whether
+In a Refracted One chamber, this matters because speculation changes the subject. If three people wonder aloud whether
 AFD-?.H-404 is a creature, object, place, or signal, the anomaly can move toward that
 consensus. CSE makes speculation
 uncomfortable, noisy, and easier to notice before it becomes a vote reality can count.
@@ -79,20 +72,16 @@ Approved roles include:
 
 ## ORIGIN AND DEPLOYMENT
 
-CSE development followed the recognition that site-wide Causal Static Generator coverage could not protect
-every
-corridor, field team, vehicle, or small chamber. Large static systems can dull a building,
-starve a dramatic anomaly,
+CSE development followed the recognition that site-wide Causal Static Generator coverage could not protect every
+corridor, field team, vehicle, or small chamber. Large static systems can dull a building, starve a dramatic anomaly,
 or cover a wing. They cannot always follow a recovery agent into a basement,
 a fairground, a temple threshold, or an
 archive room where one sentence can become contagious.
 
 The earpiece format was created to give each operator a private baseline. The device
 does not silence the environment.
-Instead, it gives the operator a constant non-narrative texture: static, vibration, and procedural reminders
-that are
-intentionally plain. When brainwave patterning begins to match a scripted state, the Logic-Anchor Chip
-vibrates
+Instead, it gives the operator a constant non-narrative texture: static, vibration, and procedural reminders that are
+intentionally plain. When brainwave patterning begins to match a scripted state, the Logic-Anchor Chip vibrates
 against the ear canal. The warning is unpleasant enough to interrupt but not so
 strong that the operator removes the
 device during stress.
@@ -105,14 +94,10 @@ meant to play.
 
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
-A standard CSE kit contains paired tactical earbuds, a rugged transceiver box, insulated cable
-or short-range secure
-link depending on issue model, charging cradle, hygiene seals, and calibration tabs. Each earpiece
-contains a
-miniature static emitter and Logic-Anchor Chip. The transceiver box stores mission baselines, static profiles,
-and
-operator brainwave warning thresholds. Field units are intentionally sturdy and unglamorous; bright or dramatic
-design
+A standard CSE kit contains paired tactical earbuds, a rugged transceiver box, insulated cable or short-range secure
+link depending on issue model, charging cradle, hygiene seals, and calibration tabs. Each earpiece contains a
+miniature static emitter and Logic-Anchor Chip. The transceiver box stores mission baselines, static profiles, and
+operator brainwave warning thresholds. Field units are intentionally sturdy and unglamorous; bright or dramatic design
 elements are forbidden in narrative-hazard gear.
 
 Known components include:
@@ -210,22 +195,17 @@ a battery separation alarm ends the entry, because in the 2022 event static cont
 for six minutes after
 logic-anchor monitoring had stopped.
 
-Before entry, the operator calibrates CSE against their resting thought rhythm. Medical or Narrative
-Hazard staff note
-sleep deprivation, amnestic exposure, panic, stimulant use, and prior contact with narrative hazards. The
-transceiver
-is set to the mission's approved static profile. Operators repeat the local procedural phrase,
-not as superstition,
+Before entry, the operator calibrates CSE against their resting thought rhythm. Medical or Narrative Hazard staff note
+sleep deprivation, amnestic exposure, panic, stimulant use, and prior contact with narrative hazards. The transceiver
+is set to the mission's approved static profile. Operators repeat the local procedural phrase, not as superstition,
 but to verify that their speech remains plain and intentional.
 
-During operation, the wearer treats vibration as an order to pause and simplify thought.
-They do not speculate,
+During operation, the wearer treats vibration as an order to pause and simplify thought. They do not speculate,
 improvise titles, describe beauty, assign moral roles, or ask what the room wants them
 to become. If two or more
 operators receive vibration at once, the team withdraws unless mission command confirms continuation.
 
-After operation, CSE logs are reviewed for drift spikes. Operators with repeated warnings are
-removed from
+After operation, CSE logs are reviewed for drift spikes. Operators with repeated warnings are removed from
 narrative-hazard duty until debrief is complete.
 
 ---
@@ -260,15 +240,12 @@ when speculative nouns cluster.
 
 ## KNOWN LIMITS
 
-CSE cannot block all memetic attack, cannot replace 004-Series response, and cannot make unsafe
-curiosity harmless. It
+CSE cannot block all memetic attack, cannot replace 004-Series response, and cannot make unsafe curiosity harmless. It
 is weak against overwhelming acoustic force, direct neurological control, high-fidelity visual compulsion, and hazards
-that operate through silence rather than signal. Overreliance can also make operators careless, assuming
-that if the
+that operate through silence rather than signal. Overreliance can also make operators careless, assuming that if the
 earpiece is quiet their thoughts are clean.
 
-Known failure modes include battery drop, poor fit, vibration fatigue, static profile mismatch, false
-calm,
+Known failure modes include battery drop, poor fit, vibration fatigue, static profile mismatch, false calm,
 transceiver desynchronization, scripted-state mimicry, and operators removing the device because the warning feels
 irritating. Irritation is often the point.
 
@@ -277,35 +254,29 @@ irritating. Irritation is often the point.
 ## FAILURE HISTORY
 
 ### CSE-2014 Refracted Quorum Event
-During a Refracted One shift review, one observer described the anomaly as possibly divine
-before their warning
-vibration resolved. The subject's file began drifting toward religious language. Current CSE profiles trigger
-earlier
+During a Refracted One shift review, one observer described the anomaly as possibly divine before their warning
+vibration resolved. The subject's file began drifting toward religious language. Current CSE profiles trigger earlier
 when speculative nouns cluster around identity.
 
 ### CSE-2022 Field Battery Drop
-A recovery agent entered a narrative-bleed apartment with one earbud at low charge. Static
-continued for six minutes
-after logic-anchor monitoring stopped. The agent later described the room as feeling like a
-stage. Battery separation
+A recovery agent entered a narrative-bleed apartment with one earbud at low charge. Static continued for six minutes
+after logic-anchor monitoring stopped. The agent later described the room as feeling like a stage. Battery separation
 alarms are now mandatory.
 
 ### CSE-2026 Overconfidence Drill
 A trained team wearing functioning CSE units failed a simulation by discussing what the
 hazard probably wanted. No
-vibration occurred because the discussion was procedural in rhythm but speculative in content. Training
-now emphasizes
+vibration occurred because the discussion was procedural in rhythm but speculative in content. Training now emphasizes
 that CSE assists discipline; it does not supply it.
 
 ---
 
 ## DIVISION USE
 
-Narrative Hazard Desk controls deployment rules and static profiles. Field Containment issues CSE kits
-for mobile
-operations. Security uses them during consensus-hazard perimeter work. Banalist Operators use them while sustaining
-boring scripts. Engineering services transceivers and logic chips. Site-03 Command authorizes use around Refracted
-One-class chambers.
+Narrative Hazard Desk controls deployment rules and static profiles. Field Containment issues CSE kits for mobile
+operations. Security uses them during consensus-hazard perimeter work. Banalist
+Operators use them while sustaining boring scripts. Engineering services transceivers
+and logic chips. Site-03 Command authorizes use around Refracted One-class chambers.
 
 Standing reminder: if the earpiece vibrates, do not ask what story you are in.
 Leave the sentence unfinished and step

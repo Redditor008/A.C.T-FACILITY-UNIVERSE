@@ -9,10 +9,8 @@ It arrived as arithmetic.
 
 By the time Sera understood that fully remembering the truth might itself become a
 route, she had already lost the
-luxury of dramatic choices. There would be no clean exposure, no righteous confrontation in
-a command chamber, no
-singular moment where truth, once spoken aloud, would free anyone from what the Facility
-had done to survive. The
+luxury of dramatic choices. There would be no clean exposure, no righteous confrontation in a command chamber, no
+singular moment where truth, once spoken aloud, would free anyone from what the Facility had done to survive. The
 structure she was inside had been built by people who had already reached the
 end of that path and chosen mutilation
 over clarity.
@@ -40,13 +38,10 @@ The first thing she did was stop thinking of her notes as notes.
 
 They became pieces.
 
-She returned to Archive Administration before lower-cycle and began the most delicate work of
-her life. Every fragment
-she had gathered over the past ten days—the signatures, the route anomalies, the maintenance
-patterns, the early bloom
+She returned to Archive Administration before lower-cycle and began the most delicate work of her life. Every fragment
+she had gathered over the past ten days—the signatures, the route anomalies, the maintenance patterns, the early bloom
 references, the 004-Series medical drift, the dependency chain, the survivor transcripts, the founder continuity
-breaks—had to be separated along fault lines that would preserve meaning without preserving total
-shape.
+breaks—had to be separated along fault lines that would preserve meaning without preserving total shape.
 
 No one part could know enough. That was the rule now.
 
@@ -65,20 +60,16 @@ format correction.
 
 The second fragment she built around route memory.
 
-Dream geometry. Descent maps known before excavation. The remembered route descending faster than the
-surveyed route.
-Again, no direct abyssal entity link. No explanation. Only the pattern of impossible navigation,
-buried in old
+Dream geometry. Descent maps known before excavation. The remembered route descending faster than the surveyed route.
+Again, no direct abyssal entity link. No explanation. Only the pattern of impossible navigation, buried in old
 geostructural support scans where no normal archivist would look twice.
 
 The third fragment was the hardest.
 
 Founder continuity.
 
-She could not preserve the handwriting comparisons intact. Too dangerous. Too clear. Too personal.
-But she could leave
-behind the idea of repeated identity instability in command succession. She disguised it as
-a notation anomaly in
+She could not preserve the handwriting comparisons intact. Too dangerous. Too clear. Too personal. But she could leave
+behind the idea of repeated identity instability in command succession. She disguised it as a notation anomaly in
 review-chain records—an unresolved personnel continuity artifact associated with early sealed authority transitions.
 Boring enough to survive. Sharp enough, perhaps, to wound the right future reader.
 
@@ -156,21 +147,18 @@ more like a surgical theater.
 Sera kept working.
 
 She used every archive habit she trusted. False-facing admin language. dead classification shells. transposed
-metadata. cross-disciplinary burial in places no single clearance lane would think to unify. To
-one future reader, a
+metadata. cross-disciplinary burial in places no single clearance lane would think to unify. To one future reader, a
 single fragment might look like nonsense. To the wrong future mind, perhaps all of
 them would remain buried forever.
 
-But to the right person—someone patient enough, suspicious enough, or wounded enough to follow
-contradiction instead
+But to the right person—someone patient enough, suspicious enough, or wounded enough to follow contradiction instead
 of fearing it—there would still be a path.
 
 Not a route. A path.
 
 That distinction mattered to her now more than she could explain.
 
-Routes implied certainty. Routes implied arrival. Routes implied the terrible abyssal pull that ERE
-had once mistaken
+Routes implied certainty. Routes implied arrival. Routes implied the terrible abyssal pull that ERE had once mistaken
 for discovery.
 
 A path could still allow refusal. A path could still leave choice alive.
@@ -208,8 +196,7 @@ dangerous because it was whole.
 
 She opened it anyway.
 
-The text glowed pale against the dark screen: chronology suppression, route memory, founder erasure,
-dream-state
+The text glowed pale against the dark screen: chronology suppression, route memory, founder erasure, dream-state
 dependency, the first lie. Ten days of slow reconstruction. Ten days of learning how
 the buried institution beneath
 the world had chosen to stay alive.
@@ -224,14 +211,12 @@ She did something worse. And perhaps better.
 
 She disassembled it.
 
-Paragraphs broken into separated ciphers. Claims detached from proof. Proof detached from source. Source
-detached from
+Paragraphs broken into separated ciphers. Claims detached from proof. Proof detached from source. Source detached from
 implication. By the end, the file no longer held a structure anyone could read
 in sequence. It held only debris.
 Intelligible pieces, but no architecture.
 
-She exported those pieces into the twelve false shells, verified the transfers twice, and
-then burned the master file
+She exported those pieces into the twelve false shells, verified the transfers twice, and then burned the master file
 from local memory, buffer, and recovery cache.
 
 When it was done, the screen looked empty.
@@ -252,8 +237,7 @@ week. She braced one hand against the dead machine rack until the moment passed.
 
 On the corridor back to her quarters, the Facility looked ordinary again in the
 cruelest possible way. Guards at
-stations. clerks pushing carts. muted lights. sealed doors. a medic yawning behind a records
-hatch. The whole buried
+stations. clerks pushing carts. muted lights. sealed doors. a medic yawning behind a records hatch. The whole buried
 machine functioning because its deepest truths remained divided below the level of speech.
 
 At her door she stopped, not because someone called her name, but because for
@@ -277,10 +261,8 @@ The truth would survive. But not as revelation.
 
 Only as fragments.
 
-And somewhere beneath all mapped floors, beneath doctrine, beneath archive, beneath every lie that
-had ever been
-polished into institutional necessity, the sleeping foundation remained asleep while the flower born of
-its dreaming
+And somewhere beneath all mapped floors, beneath doctrine, beneath archive, beneath every lie that had ever been
+polished into institutional necessity, the sleeping foundation remained asleep while the flower born of its dreaming
 continued to feed the medicine that kept the world forgetful.
 
 Sera lowered her head and closed her eyes.

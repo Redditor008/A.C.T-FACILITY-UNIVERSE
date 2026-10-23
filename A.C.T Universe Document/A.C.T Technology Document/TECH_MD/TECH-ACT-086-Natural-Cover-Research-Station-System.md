@@ -21,13 +21,11 @@
 | AUTHORITY | Station Manager, Watch Chief, Nusantara Site Command, and Central Archive |
 
 #### Archive Note
-Natural Cover Research Station System is the eighty-sixth main A.C.T technology expanded into an
-individual record.
+Natural Cover Research Station System is the eighty-sixth main A.C.T technology expanded into an individual record.
 The F-3 Surface Cover Level dossier identifies the surface structures of Ash Tide as
 a legitimate coastal research
 station: observation decks, monitoring equipment, administrative spaces, and a small dock for legitimate research
-vessel operations. The dossier states that such stations are ordinary throughout the archipelago and
-that the cover is
+vessel operations. The dossier states that such stations are ordinary throughout the archipelago and that the cover is
 strongest because the station's visible work is genuine.
 
 NCRSS is the technology of being ordinary without becoming fake. It lets Ash Tide
@@ -46,11 +44,9 @@ LET THE COVER BE REAL, OR IT WILL NOT HOLD.
 
 ## FUNCTION SUMMARY
 
-The Natural Cover Research Station System is Ash Tide's F-3 cover architecture: the combined
-surface facilities,
+The Natural Cover Research Station System is Ash Tide's F-3 cover architecture: the combined surface facilities,
 administrative practices, legitimate research routines, staffing disciplines, communications posture, dock activity,
-visitor handling, and boundary controls that present the watchpoint as an ordinary coastal research
-station.
+visitor handling, and boundary controls that present the watchpoint as an ordinary coastal research station.
 
 NCRSS is not a painted sign placed over a bunker. It is a functioning
 station whose oceanographic, volcanic, and
@@ -68,20 +64,16 @@ between visible station work and buried watchpoint operations.
 
 ## ORIGIN AND DEVELOPMENT
 
-Ash Tide's expansion from relay watchpoint to permanently staffed sub-site required a visible reason
-for personnel,
-instruments, power, communications, and vessel presence on the coast. The answer chosen was not
-an exotic front. It
+Ash Tide's expansion from relay watchpoint to permanently staffed sub-site required a visible reason for personnel,
+instruments, power, communications, and vessel presence on the coast. The answer chosen was not an exotic front. It
 was the natural thing for the region: a coastal research station in an archipelago
 where oceanographic, volcanic, and
 wildlife monitoring are ordinary.
 
-The system developed around the Natural Cover Doctrine recorded in the F-3 dossier. Concealment
-is strongest when it
+The system developed around the Natural Cover Doctrine recorded in the F-3 dossier. Concealment is strongest when it
 is ordinary. A station doing plausible work in the right place attracts less attention
 than an empty restricted
-property, a false business, or an over-secured installation. NCRSS therefore makes normal work part
-of security.
+property, a false business, or an over-secured installation. NCRSS therefore makes normal work part of security.
 
 ---
 
@@ -89,8 +81,7 @@ of security.
 
 An NCRSS installation includes visible observation decks, instrument housings, administrative rooms, legitimate
 communications, public station signage, staff work schedules, dock routines, maintenance logs, weather and salt
-protection, visitor-facing paperwork, and concealed boundary links to the buried levels. Its surface components
-must
+protection, visitor-facing paperwork, and concealed boundary links to the buried levels. Its surface components must
 be clean enough for genuine professional use and ordinary enough to avoid becoming remarkable.
 
 Known components include:
@@ -136,8 +127,7 @@ throughput, Boundary watch coverage are not measured here. Those 3 gaps sit in O
 
 A cover station does not fail loudly. It fails because it produces nothing a
 real station would produce, and
-the visitor who notices is usually a regular. The archive therefore treats research output,
-visitor records,
+the visitor who notices is usually a regular. The archive therefore treats research output, visitor records,
 and maintenance rhythm as load-bearing components rather than as decoration around the concealed work.
 
 ## INTERFACE AND OPERATING ENVELOPE
@@ -190,14 +180,11 @@ later question about that particular day without reconstructing it.
 
 During routine operation, NCRSS maintains visible station work. Staff observe, log, communicate, maintain equipment,
 receive legitimate supplies, and operate research-vessel access within the cover's normal rhythm. Administrative staff
-keep the station's paperwork consistent with its visible mission. Security staff protect boundary points
-without
+keep the station's paperwork consistent with its visible mission. Security staff protect boundary points without
 making the station look guarded.
 
-Operational traffic is separated from public-facing station activity. When watchpoint movement must pass through
-F-3,
-the Station Manager and boundary security ensure that the movement appears as ordinary station
-logistics or remains
+Operational traffic is separated from public-facing station activity. When watchpoint movement must pass through F-3,
+the Station Manager and boundary security ensure that the movement appears as ordinary station logistics or remains
 unseen. If cover is threatened, the buried component can be sealed behind the surface
 level while F-3 handles the
 visible incident as a station matter.
@@ -214,8 +201,7 @@ visible incident as a station matter.
 | Quarterly | rehearse a visitor challenge at the watch point |
 | Annually | reconfirm legal identity, permits, and staffing |
 
-Servicing here is inseparable from cover health. A maintenance log with gaps reads worse
-than a log showing
+Servicing here is inseparable from cover health. A maintenance log with gaps reads worse than a log showing
 ordinary failures, so faults are recorded and closed in the same register a member
 of the public could
 reasonably ask to see.
@@ -232,48 +218,39 @@ reasonably ask to see.
 
 ## KNOWN LIMITS
 
-NCRSS cannot hide careless behavior. It cannot make an impossible delivery ordinary, cannot explain
-repeated
-emergencies without consequence, cannot survive staff treating the cover as a costume, and cannot
-protect the buried
-watch if boundary traffic becomes predictable. A real station also produces real obligations: maintenance,
-outside
+NCRSS cannot hide careless behavior. It cannot make an impossible delivery ordinary, cannot explain repeated
+emergencies without consequence, cannot survive staff treating the cover as a costume, and cannot protect the buried
+watch if boundary traffic becomes predictable. A real station also produces real obligations: maintenance, outside
 questions, weather damage, research expectations, staff fatigue, and record continuity.
 
-Known failure modes include cover fatigue, paperwork mismatch, visitor curiosity, unusual vessel pattern, over-visible
-security, under-trained station staff, boundary penetration attempt, transition exposure, and ordinary disaster
-forcing abnormal response.
+Known failure modes include cover fatigue, paperwork mismatch, visitor curiosity, unusual
+vessel pattern, over-visible security, under-trained station staff, boundary penetration
+attempt, transition exposure, and ordinary disaster forcing abnormal response.
 
 ---
 
 ## FAILURE HISTORY
 
 ### NCRSS-Cover Station Formation
-The F-3 dossier records that the coastal research station identity was chosen because such
-stations are ordinary
-throughout the archipelago. NCRSS was formalized when the watchpoint's permanent staffing required durable surface
-identity.
+The F-3 dossier records that the coastal research station identity was chosen because such stations are ordinary
+throughout the archipelago. NCRSS was formalized when the
+watchpoint's permanent staffing required durable surface identity.
 
 ### NCRSS-Paperwork Continuity Review
-A station administration audit found that legitimate work must remain internally consistent even when
-the buried watch
+A station administration audit found that legitimate work must remain internally consistent even when the buried watch
 is quiet. Current doctrine requires routine logs to remain meaningful, not decorative.
 
 ### NCRSS-Boundary Incident Drill
-A simulated visitor approach toward concealed transition infrastructure showed that visible staff behavior matters
-as
-much as locks. Current response places station calm before security display unless immediate breach
-risk exists.
+A simulated visitor approach toward concealed transition infrastructure showed that visible staff behavior matters as
+much as locks. Current response places station calm before security display unless immediate breach risk exists.
 
 ---
 
 ## DIVISION USE
 
 Administration maintains NCRSS paperwork and station rhythm. Legitimate station staff conduct visible observation
-work. Security manages boundary risk. Watch Coordination uses the surface station's ordinary work without
-compromising
-it. The Watch Chief preserves the separation between public station authority and buried operational
-command.
+work. Security manages boundary risk. Watch Coordination uses the surface station's ordinary work without compromising
+it. The Watch Chief preserves the separation between public station authority and buried operational command.
 
 NCRSS doctrine holds that a true cover must be true enough to stand in
 daylight.

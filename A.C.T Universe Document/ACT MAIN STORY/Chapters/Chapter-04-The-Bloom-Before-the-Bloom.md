@@ -7,10 +7,8 @@ residue clung to her gloves when she pulled them back.
 
 It should not have been possible for paper to remember scent after that many
 years, not through filtered air, sealed
-sleeves, preservation resin, and the layered indifference of time. Yet when Sera opened the
-first evidence envelope
-from the pre-classification botanical shelves, a faint trace escaped into the cold archive air—something
-dry, floral,
+sleeves, preservation resin, and the layered indifference of time. Yet when Sera opened the first evidence envelope
+from the pre-classification botanical shelves, a faint trace escaped into the cold archive air—something dry, floral,
 and metallic, as though frost had been steeped in gold and left to rot
 beneath glass.
 
@@ -22,10 +20,8 @@ Because she knew it.
 
 She had never stood in the live cultivation chambers where AFD-NB-004 was housed; her
 clearance stopped far above
-active biological handling. But she had passed enough sealed transfer carts between Archive and
-Medical to know the
-warning markers. She had reviewed enough post-handling reports to recognize the descriptive language. Cold.
-Floral.
+active biological handling. But she had passed enough sealed transfer carts between Archive and Medical to know the
+warning markers. She had reviewed enough post-handling reports to recognize the descriptive language. Cold. Floral.
 Metallic. A brightness in the air before the mind began slipping.
 
 The bloom.
@@ -34,14 +30,11 @@ Except this envelope was older than the bloom was supposed to be.
 
 Sera set the sleeve under the reading lamp and forced herself into procedure.
 
-The file was catalogued as a provisional environmental contaminant sample recovered during a lower
-descent support
-operation. No field designation. No anomaly code. No attached biological class. The date marked
-it seventeen years
+The file was catalogued as a provisional environmental contaminant sample recovered during a lower descent support
+operation. No field designation. No anomaly code. No attached biological class. The date marked it seventeen years
 before the official discovery of AFD-NB-004.
 
-The preservation sheet inside contained only three surviving fragments of the original note. Most
-of the page had been
+The preservation sheet inside contained only three surviving fragments of the original note. Most of the page had been
 eaten by later overstrike and archive correction, but the lines that remained were enough.
 
 **pale tissue sample** **non-decaying gold residue** **subject lost previous day in under seven minutes**
@@ -90,18 +83,15 @@ The bloom was below.
 
 Sera sat back slowly.
 
-The official record for AFD-NB-004 placed its discovery years later, in a localized civilian
-memory-collapse zone
-whose witnesses emerged confused, missing time, and unable to reconstruct their route through a
-white-blue flowering
+The official record for AFD-NB-004 placed its discovery years later, in a localized civilian memory-collapse zone
+whose witnesses emerged confused, missing time, and unable to reconstruct their route through a white-blue flowering
 field. That version had shape. It had documentation logic. It had a useful beginning.
 Recovery. Study. Refinement.
 Integration.
 
 This file had none of that.
 
-This file suggested the Facility had touched the bloom—or something like it—before the world
-ever officially knew it
+This file suggested the Facility had touched the bloom—or something like it—before the world ever officially knew it
 existed.
 
 And if that was true, then every modern narrative about AFD-NB-004 had been built
@@ -111,14 +101,11 @@ Sera pulled the next folder.
 
 Then the next.
 
-Once she stopped treating the official discovery date as real, the evidence began surfacing
-everywhere.
+Once she stopped treating the official discovery date as real, the evidence began surfacing everywhere.
 
 A breathing-mask requisition for deep-route handlers with notation referencing “gold particulate and recall collapse.”
-A medical sheet describing hand tremor and name-displacement after contact with a “cool luminous
-excretion.” A dead
-inventory ledger listing six sealed ampoules under no recognized biological designation, transferred upward from
-an
+A medical sheet describing hand tremor and name-displacement after contact with a “cool luminous excretion.” A dead
+inventory ledger listing six sealed ampoules under no recognized biological designation, transferred upward from an
 abyss-route checkpoint and immediately reassigned to restricted pharmacological review.
 
 The bloom was not after the abyss.
@@ -135,8 +122,7 @@ Then she hesitated and changed the heading.
 
 That felt more honest.
 
-By mid-shift her desk had become a controlled disaster of opened sleeves, approved cross-tags,
-and false-facing admin
+By mid-shift her desk had become a controlled disaster of opened sleeves, approved cross-tags, and false-facing admin
 windows meant to disguise the fact that she had stopped reconciling records and started
 dissecting a lie.
 
@@ -161,8 +147,7 @@ That did not matter.
 
 What mattered was what happened to the room around her.
 
-People straightened before she looked at them. Conversations stopped before her attention shifted in
-their direction.
+People straightened before she looked at them. Conversations stopped before her attention shifted in their direction.
 A junior clerk halfway up a ladder froze, eyes wide, as though he had
 just realized that hiding inside routine was no
 protection at all. Even the ambient rhythm of the archive seemed to pull tight.
@@ -267,10 +252,8 @@ The thought sharpened everything.
 
 Sera reopened the chronology file and continued.
 
-The more she gathered, the less the official discovery story survived. The so-called first
-civilian event now looked
-less like discovery and more like controlled release into the archive. A clean narrative.
-A manageable starting point.
+The more she gathered, the less the official discovery story survived. The so-called first civilian event now looked
+less like discovery and more like controlled release into the archive. A clean narrative. A manageable starting point.
 A safer official history than the truth.
 
 Meaning the truth was this:
@@ -284,8 +267,7 @@ very hard to make sure it never would.
 Near the end of shift she found the piece that made the whole structure
 buckle.
 
-It was hidden inside a pharmacological trial index, cross-filed under obsolete transformation language. Most
-of the
+It was hidden inside a pharmacological trial index, cross-filed under obsolete transformation language. Most of the
 record was gone, but one line remained intact because someone had misjudged what later
 readers would understand.
 

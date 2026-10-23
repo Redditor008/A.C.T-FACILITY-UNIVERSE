@@ -18,8 +18,8 @@
 ## IN-WORLD EXPLANATION — ANOMALY LOG CATEGORIES
 
 Document Authority: Central Archive Administration Applicable Divisions: Archiver Division, Field Containment
-Division, Research Review, Site Command Use Case: Organization of supplementary anomaly documentation Status: Active
-Archive Standard
+Division, Research Review, Site Command Use Case: Organization of
+supplementary anomaly documentation Status: Active Archive Standard
 
 ---
 
@@ -33,50 +33,42 @@ An A.C.T anomaly file is designed to answer the minimum operational questions:
 - How is it contained?
 - Who is responsible for it?
 
-However, many anomalies produce more information than the main anomaly file can safely or
-clearly hold. Recovery
-reports, interviews, tests, field transcripts, breach records, and research notes can quickly make the
-primary file
+However, many anomalies produce more information than the main anomaly file can safely or clearly hold. Recovery
+reports, interviews, tests, field transcripts, breach records, and research notes can quickly make the primary file
 too long or too difficult to use during containment operations.
 
 For this reason, A.C.T maintains separate **Anomaly Log Category Documents**.
 
-An Anomaly Log Category Document is a supplementary archive document that groups multiple related
-logs under one
+An Anomaly Log Category Document is a supplementary archive document that groups multiple related logs under one
 category. It does not replace the main anomaly file. It supports it.
 
-The main anomaly file remains the official containment reference. The log category document preserves
-the evidence,
+The main anomaly file remains the official containment reference. The log category document preserves the evidence,
 history, dialogue, and procedural development behind that reference.
 
 ---
 
 ### 2. Why Logs Are Grouped Into Categories
 
-Early A.C.T archive practice stored every log as an independent document. This created several
-problems:
+Early A.C.T archive practice stored every log as an independent document. This created several problems:
 
 1. **Over-fragmentation** — one anomaly could generate dozens of small files.
 2. **Loss of sequence** — related events became separated across archive branches.
 3. **Command delay** — containment staff had to search multiple files during active incidents.
-   **Contradictory review chains** — research, security, and archive divisions sometimes updated different logs
-   without
+   **Contradictory review chains** — research, security, and
+   archive divisions sometimes updated different logs without
    seeing each other's conclusions.
 5. **Narrative contamination risk** — memory, archive, and record-sensitive anomalies could exploit scattered
    documentation.
 
 Modern A.C.T practice therefore groups logs by function.
 
-A single **Recovery & Discovery Dossier** may contain discovery logs, recovery logs, witness intake,
-evidence
+A single **Recovery & Discovery Dossier** may contain discovery logs, recovery logs, witness intake, evidence
 collection, transport records, and after-action review.
 
-A single **Experiment & Testing Dossier** may contain many individual tests instead of creating
-one separate file per
+A single **Experiment & Testing Dossier** may contain many individual tests instead of creating one separate file per
 test.
 
-A single **Incident & Breach Dossier** may contain the incident summary, security transcript, response
-timeline,
+A single **Incident & Breach Dossier** may contain the incident summary, security transcript, response timeline,
 post-incident interview, and procedure revision.
 
 This keeps archive structure readable, operationally useful, and harder for record-sensitive anomalies to fracture.
@@ -144,8 +136,7 @@ These categories are not containment classes. They are archive organization type
 
 ### Function
 
-A Recovery & Discovery Dossier records how A.C.T first detected, verified, approached, recovered, transported,
-or
+A Recovery & Discovery Dossier records how A.C.T first detected, verified, approached, recovered, transported, or
 stabilized an anomaly.
 
 It is used to preserve the first chain of custody.
@@ -174,8 +165,7 @@ It is used to preserve the first chain of custody.
 
 ### Archive Use
 
-Recovery & Discovery Dossiers are often the first supplementary documents attached to a new
-anomaly file.
+Recovery & Discovery Dossiers are often the first supplementary documents attached to a new anomaly file.
 
 They are especially important when the anomaly's original context matters.
 
@@ -231,8 +221,7 @@ Example:
 Helping-Hand-Testimony-Dossier-AFD-SU-019.txt
 ```
 
-This file would preserve first-hour survivor accounts before the memory-softening effect reduces the rescuer
-into a
+This file would preserve first-hour survivor accounts before the memory-softening effect reduces the rescuer into a
 “miracle” narrative.
 
 ---
@@ -243,8 +232,7 @@ into a
 
 An Experiment & Testing Dossier records controlled interaction with an anomaly.
 
-It is used to determine triggers, limits, safe handling rules, exposure thresholds, and containment
-weaknesses.
+It is used to determine triggers, limits, safe handling rules, exposure thresholds, and containment weaknesses.
 
 ### Common Contents
 
@@ -271,8 +259,7 @@ weaknesses.
 
 ### Archive Use
 
-Testing Dossiers should be written carefully. Failed tests are often more important than successful
-ones.
+Testing Dossiers should be written carefully. Failed tests are often more important than successful ones.
 
 Example:
 
@@ -280,8 +267,7 @@ Example:
 I-AM-A-Test-Testing-Dossier-AFD-OB-001.txt
 ```
 
-This file records baseline intake, digital revision attempts, erasure tests, copy tests, and archive
-training use for
+This file records baseline intake, digital revision attempts, erasure tests, copy tests, and archive training use for
 AFD-OB-001.
 
 ---
@@ -320,8 +306,7 @@ It is used to prevent repeat failures.
 
 ### Archive Use
 
-Incident & Breach Dossiers must include enough detail for future staff to understand what
-failed.
+Incident & Breach Dossiers must include enough detail for future staff to understand what failed.
 
 They are not written to assign blame first. They are written to preserve survival
 knowledge.
@@ -332,8 +317,7 @@ Example:
 MACHINE-Heart-Stage-Two-Incident-Dossier-AFD-OB-017.txt
 ```
 
-This file would record a Stage Two activation, security response, exclusion-zone behavior, and resulting
-procedure
+This file would record a Stage Two activation, security response, exclusion-zone behavior, and resulting procedure
 changes.
 
 ---
@@ -342,8 +326,7 @@ changes.
 
 ### Function
 
-An Exploration & Survey Dossier records movement through anomalous spaces, structures, zones, routes, or
-environments.
+An Exploration & Survey Dossier records movement through anomalous spaces, structures, zones, routes, or environments.
 
 It is used when the anomaly is a place, creates a place, changes routes,
 or affects navigation.
@@ -390,8 +373,8 @@ This file would collect route surveys, drone mapping, corridor contradictions, a
 
 ### Function
 
-A Research & Analysis Dossier records scientific review, classification debate, theory development, and long-term
-study.
+A Research & Analysis Dossier records scientific review,
+classification debate, theory development, and long-term study.
 
 It is used when the anomaly's meaning or mechanics remain uncertain.
 
@@ -430,8 +413,8 @@ Example:
 Maid-Of-Gear-VESPER-Research-Dossier-AFD-SU-020.txt
 ```
 
-This file would analyze future-origin evidence, cybernetic systems, non-combatant recognition, and contradictions in
-the recovered database.
+This file would analyze future-origin evidence, cybernetic systems,
+non-combatant recognition, and contradictions in the recovered database.
 
 ---
 
@@ -439,8 +422,7 @@ the recovered database.
 
 ### Function
 
-A Recovered Document & Archive Dossier preserves documents, files, notes, images, recordings, manuals, or
-data
+A Recovered Document & Archive Dossier preserves documents, files, notes, images, recordings, manuals, or data
 recovered with or because of an anomaly.
 
 It is used when the evidence itself matters.
@@ -497,12 +479,10 @@ designation, cybernetic systems, weapon records, and future context.
 
 ### Function
 
-A Behavioral & Observation Dossier records repeated behavior, care notes, habits, routines, responses, and
-long-term
+A Behavioral & Observation Dossier records repeated behavior, care notes, habits, routines, responses, and long-term
 monitoring.
 
-It is used for subjects whose containment depends on understanding behavior rather than simply
-locking them away.
+It is used for subjects whose containment depends on understanding behavior rather than simply locking them away.
 
 ### Common Contents
 
@@ -547,8 +527,8 @@ This file would document feeding response, nuisance escalation, staff interactio
 
 ### Function
 
-A Transformation & Utilization Dossier records A.C.T attempts to stabilize, neutralize, repurpose, integrate, or
-reject use of an anomaly.
+A Transformation & Utilization Dossier records A.C.T attempts to
+stabilize, neutralize, repurpose, integrate, or reject use of an anomaly.
 
 It is used when the question is not only “how do we contain it?”
 but “can it become useful or safer?”
@@ -625,8 +605,8 @@ It is used when bureaucracy is part of the containment story.
 
 ### Archive Use
 
-Internal Correspondence Dossiers are often restricted because they reveal A.C.T decision-making rather than anomaly
-behavior alone.
+Internal Correspondence Dossiers are often restricted because they
+reveal A.C.T decision-making rather than anomaly behavior alone.
 
 Example:
 
@@ -634,8 +614,7 @@ Example:
 OBSERVING-BIRD-Internal-Correspondence-Dossier-AFD-CH-014.txt
 ```
 
-This file would preserve command arguments over whether A.C.T should interfere with a cosmic
-entity that judges
+This file would preserve command arguments over whether A.C.T should interfere with a cosmic entity that judges
 apocalyptic anomalies.
 
 ---
@@ -644,8 +623,7 @@ apocalyptic anomalies.
 
 ### Function
 
-An Audio / Video / Sensor Dossier preserves recorded evidence where timing, image, sound,
-or instrument readings are
+An Audio / Video / Sensor Dossier preserves recorded evidence where timing, image, sound, or instrument readings are
 central.
 
 It is used when the record is more important than a written summary.
@@ -675,8 +653,7 @@ It is used when the record is more important than a written summary.
 
 ### Archive Use
 
-Sensor Dossiers should include analyst notes explaining what the recording does and does not
-prove.
+Sensor Dossiers should include analyst notes explaining what the recording does and does not prove.
 
 Example:
 
@@ -692,8 +669,7 @@ This file would preserve feeding footage, shadow mapping, CCTV timestamps, and v
 
 ### Function
 
-A Personal & Recovered Journal Dossier preserves subjective writing, personal logs, diaries, field notebooks,
-and
+A Personal & Recovered Journal Dossier preserves subjective writing, personal logs, diaries, field notebooks, and
 anomaly-authored or affected journal entries.
 
 ### Common Contents
@@ -720,8 +696,7 @@ anomaly-authored or affected journal entries.
 
 ### Archive Use
 
-Personal Dossiers are not automatically less reliable than formal reports. In some anomalies, subjective
-records are
+Personal Dossiers are not automatically less reliable than formal reports. In some anomalies, subjective records are
 the only evidence that survives alteration.
 
 Example:

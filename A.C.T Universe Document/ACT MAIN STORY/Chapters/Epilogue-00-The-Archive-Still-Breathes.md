@@ -6,8 +6,7 @@ It was not the same desk. The lamps were newer. The archive floor had
 been reconfigured twice since the lower memetic
 filtration incident that no one now spoke about directly. Several of the old shelf
 codes had been retired and
-reassigned. One of the dead copy rooms had finally been cleared, stripped, and converted
-into secure redaction
+reassigned. One of the dead copy rooms had finally been cleared, stripped, and converted into secure redaction
 storage. Lower Stack C still existed, but access ran through a different corridor and
 an extra humidity lock no one
 bothered to explain.
@@ -16,8 +15,7 @@ The Facility moved on. That was what it did.
 
 It did not heal. It continued.
 
-The new archiver—young enough to still believe that work assigned cleanly had probably been
-authorized honestly—picked
+The new archiver—young enough to still believe that work assigned cleanly had probably been authorized honestly—picked
 up the black folder and read the stamped lines on the surface.
 
 AUTHORIZED FOR REVIEW. ARCHIVE RECONCILIATION TASK. ENTITY ERA / MODERN DESIGNATION ALIGNMENT.
@@ -40,10 +38,8 @@ emergencies.
 
 They announced themselves as paperwork.
 
-The first hour passed uneventfully. Two route mismatches. One designation drift. A dead external
-reference to a field
-office dissolved thirty years earlier. Ordinary archive ugliness. The kind that made senior staff
-sigh and junior
+The first hour passed uneventfully. Two route mismatches. One designation drift. A dead external reference to a field
+office dissolved thirty years earlier. Ordinary archive ugliness. The kind that made senior staff sigh and junior
 staff wish history would stay still long enough to be shelved properly.
 
 Then she reached a checksum maintenance stub in an obsolete branch no one used
@@ -81,8 +77,7 @@ That was when the second inconsistency surfaced.
 
 A notation anomaly in a founder review-chain file. Not enough to raise concern on
 its own, except that the attached
-handwriting geometry failed to align with the personnel identity assigned to it. She checked
-the migration notes. The
+handwriting geometry failed to align with the personnel identity assigned to it. She checked the migration notes. The
 name had changed during digitization. The archived sign-stroke had not.
 
 A clerical correction, perhaps. Or a wound.
@@ -92,8 +87,7 @@ She did not yet have the language for the difference.
 By the end of shift she had three flagged irregularities:
 - a hidden checksum fragment carrying a direct warning
 - a founder signature that did not belong to the person named beneath it
-  an old biological site note mentioning memory-loss symptoms before the official discovery date
-  of
+  an old biological site note mentioning memory-loss symptoms before the official discovery date of
   AFD-NB-004
 
 Nothing enough to report upward dramatically. Everything enough to make her keep reading.
@@ -119,12 +113,10 @@ A place of quiet shelves, dead paper, filtered dust, sealed systems, old lies, a
 the impossible labor of preserving
 truth by never letting it live in one place for too long.
 
-Far below the mapped floors, ITHYOS remained asleep. In cultivated chambers, the bloom still
-secreted its gold. In
+Far below the mapped floors, ITHYOS remained asleep. In cultivated chambers, the bloom still secreted its gold. In
 hidden shells, broken fragments of the first lie remained waiting.
 
-And the Facility, wounded and functional and hungry for its own continuity, kept breathing
-through all of it.
+And the Facility, wounded and functional and hungry for its own continuity, kept breathing through all of it.
 
 Because archives do not die when truth is buried.
 

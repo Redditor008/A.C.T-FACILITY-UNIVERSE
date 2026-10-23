@@ -9,18 +9,16 @@ Transitory material. None of this is a record.
 | Disposal authority | Transitory — no schedule applies |
 | Custodian | The office that created the file |
 
-A working file is created to get something done and is not kept afterwards. It supports an
-activity temporarily, it is superseded the moment the activity concludes, and it carries no
-evidential weight. If a decision was made, the decision is in a record elsewhere and this folder
-is not where you look for it.
+A working file is created to get something done and is not kept afterwards. It supports an activity
+temporarily, it is superseded the moment the activity concludes, and it carries no evidential weight. If
+a decision was made, the decision is in a record elsewhere and this folder is not where you look for it.
 
 The archive keeps this folder because an archive that holds only official records does not look
 like an archive. Real holdings are mostly material of this kind with a small official core, and a
 reader who finds nothing here would reasonably doubt the rest.
 
-Files in this folder may be incomplete, contradictory, undated or wrong. That is what transitory
-material is. Nothing in here should be cited, and no record in `A.C.T Universe Document/` cites
-anything filed here.
+Files in this folder may be incomplete, contradictory, undated or wrong. That is what transitory material
+is. Nothing in here should be cited, and no record in `A.C.T Universe Document/` cites anything filed here.
 
 ## What is in here
 
@@ -52,6 +50,5 @@ where the paperwork of getting the work done ends up.
 
 `Duty-Rota-Containment-Site-01.csv` and `Coffer-Temperature-Log.csv` are data, not writing. They
 exist because an office that keeps a rota keeps it in a rota and not in prose, and because a
-temperature log that somebody reads off a thermometer at three in the morning is a table of
-numbers. A repository holding only prose is missing the half of institutional life that is
-bookkeeping.
+temperature log that somebody reads off a thermometer at three in the morning is a table of numbers.
+A repository holding only prose is missing the half of institutional life that is bookkeeping.

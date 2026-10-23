@@ -27,11 +27,11 @@ preserves original statements. The dossier names protected testimony vaults hold
 recordings, sealed transcript stores, the Office's capacity to preserve original testimony when later copies change,
 and its capacity to protect recordings from ordinary legal destruction schedules. A.C.T has no vault access.
 
-The technical problem is that testimony changes. Later copies differ from the first recording, and the dossier records
-the Office preserving the original specifically in that condition. A.C.T cannot determine whether the change
-originates with the witness, with the copying process, or with the event the testimony describes, and the record does
-not choose between them. What it does establish is that the first recording is the only artefact that cannot be
-a copy of a copy.
+The technical problem is that testimony changes. Later copies differ from the first recording,
+and the dossier records the Office preserving the original specifically in that condition. A.C.T
+cannot determine whether the change originates with the witness, with the copying process, or
+with the event the testimony describes, and the record does not choose between them. What it
+does establish is that the first recording is the only artefact that cannot be a copy of a copy.
 
 The second property is the destruction exemption. Ordinary legal schedules would destroy a recording after a set
 period; the Office removes testimony from those schedules. A.C.T records this as a reason its own retention rules
@@ -95,9 +95,9 @@ its version status stated, not assumed.
 | Version marker | Distinguishes original from copy |
 | Comparison practice | Office-held; not available to A.C.T |
 
-The version marker is the component A.C.T most needs and least has. Without it, a transcript arriving in an A.C.T
-file cannot say whether it is the first version, and a statement that has changed twice is indistinguishable from one
-that has not changed at all.
+The version marker is the component A.C.T most needs and least has. Without it, a
+transcript arriving in an A.C.T file cannot say whether it is the first version, and a
+statement that has changed twice is indistinguishable from one that has not changed at all.
 
 ---
 
@@ -116,9 +116,9 @@ that has not changed at all.
 | A.C.T equivalent | Central Archive retention, scheduled |
 | Vaults in Office use | Unknown |
 
-The governing row is the held-artefact row. Everything the vault does follows from holding the original separately. A
-collection that holds only copies cannot detect change, and a collection that holds originals and copies together
-cannot prove which was first.
+The governing row is the held-artefact row. Everything the vault does follows from holding
+the original separately. A collection that holds only copies cannot detect change, and a
+collection that holds originals and copies together cannot prove which was first.
 
 ---
 
@@ -180,9 +180,9 @@ Applies when A.C.T receives or requests testimony connected to a continuance mat
 | Sole-copy check | Before any A.C.T copy is destroyed |
 | Vault access log | On every request, with the need stated |
 
-The difference register review keeps unresolved entries unresolved on purpose. A version difference that A.C.T cannot
-explain is evidence about the testimony, and closing the entry by choosing a version would destroy the only record
-that a change occurred.
+The difference register review keeps unresolved entries unresolved on purpose. A version
+difference that A.C.T cannot explain is evidence about the testimony, and closing the
+entry by choosing a version would destroy the only record that a change occurred.
 
 ---
 
@@ -197,9 +197,9 @@ that a change occurred.
 | Vault requested routinely | No stated need | Withdraw; state the need |
 | Difference resolved | A.C.T handling breach | Reopen; restore both versions |
 
-The last row is the breach this record exists to prevent. Resolving a version difference by picking a version looks
-like tidying a file and removes the only evidence that testimony changed, which is the thing the Office's vault exists
-to preserve.
+The last row is the breach this record exists to prevent. Resolving a version
+difference by picking a version looks like tidying a file and removes the only evidence
+that testimony changed, which is the thing the Office's vault exists to preserve.
 
 ---
 
@@ -224,9 +224,9 @@ reason a first recording has evidentiary value that no copy can carry.
 
 ### DESTRUCTION SCHEDULE — EXEMPTION ADOPTED
 
-Office-held testimony is exempt from ordinary legal destruction schedules. A.C.T adopts the exemption for its own
-copies of such material, because destroying the only copy A.C.T holds would leave the record dependent entirely on a
-vault A.C.T cannot enter.
+Office-held testimony is exempt from ordinary legal destruction schedules. A.C.T adopts
+the exemption for its own copies of such material, because destroying the only copy
+A.C.T holds would leave the record dependent entirely on a vault A.C.T cannot enter.
 
 ### VERSION MARKING — ABSENT IN A.C.T FILES
 

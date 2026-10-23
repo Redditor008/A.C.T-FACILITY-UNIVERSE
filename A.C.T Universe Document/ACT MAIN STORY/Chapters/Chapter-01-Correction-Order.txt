@@ -2,10 +2,10 @@ Chapter 1 — Correction Order
 
 "Pull the 014 request again," Sera said, and heard her own voice go flat the way it did
 
-It waited on the archiver’s desk when the shift lamps rose from their dim red sleep-cycle to a working white, its
-surface already stamped with clearance marks before the room had fully warmed. No messenger. No verbal handoff. Just a
-thin black folder laid exactly parallel to the edge of the workstation, as though the desk itself had produced it
-during the night.
+It waited on the archiver’s desk when the shift lamps rose from their dim red sleep-cycle to
+a working white, its surface already stamped with clearance marks before the room had fully
+warmed. No messenger. No verbal handoff. Just a thin black folder laid exactly parallel to
+the edge of the workstation, as though the desk itself had produced it during the night.
 
 That, more than the restricted seal, made Sera Vey pause.
 
@@ -28,21 +28,21 @@ Lower Archive Access Expanded for Shift Duration
 
 She read it twice. Then a third time.
 
-Most people in the Facility spent their lives learning how not to react when permissions changed around them. Surprise
-was a surface-world habit. Down here, curiosity had a shape, a route, a form to be signed, and a limit beyond which it
-became a medical problem.
+Most people in the Facility spent their lives learning how not to react when permissions
+changed around them. Surprise was a surface-world habit. Down here, curiosity had a shape,
+a route, a form to be signed, and a limit beyond which it became a medical problem.
 
 Sera opened the folder anyway.
 
-Inside was a list of archival discrepancies stretching across twelve pages. Old ENTITY files. Pre-standard records.
-Vault references that had never been fully brought into modern AFD indexing. Contradictory metadata. Mismatched dates.
-Duplicate designation histories. Cross-reference failures between sealed physical records and later digitized archive
-structure.
+Inside was a list of archival discrepancies stretching across twelve pages. Old ENTITY files.
+Pre-standard records. Vault references that had never been fully brought into modern AFD
+indexing. Contradictory metadata. Mismatched dates. Duplicate designation histories.
+Cross-reference failures between sealed physical records and later digitized archive structure.
 
 Boring, at first glance.
 
-Exactly the kind of job they gave to an archiver with patience, clean notation habits, and no reputation for asking
-theatrical questions.
+Exactly the kind of job they gave to an archiver with patience, clean
+notation habits, and no reputation for asking theatrical questions.
 
 At the bottom of the first page was the line that mattered.
 
@@ -66,12 +66,12 @@ ENTITY-000 was not the kind of reference that drifted casually into a cleanup or
 
 Sera turned the page.
 
-A construction map fragment from an early underground phase referenced a descent corridor whose code did not match any
-known floor plan. A later modernization ledger cited the same route as having been sealed three years before the first
-blueprint in which it officially appeared. A pre-classification record mentioned restricted observation protocols that
-were not supposed to have existed until decades later. A transfer note cross-filed under obsolete medical shorthand
-referenced a witness symptom cluster later associated with 004-Series amnestic misuse—years before AFD-NB-004 had
-supposedly been recovered.
+A construction map fragment from an early underground phase referenced a descent corridor whose code did
+not match any known floor plan. A later modernization ledger cited the same route as having been sealed
+three years before the first blueprint in which it officially appeared. A pre-classification record
+mentioned restricted observation protocols that were not supposed to have existed until decades later. A
+transfer note cross-filed under obsolete medical shorthand referenced a witness symptom cluster later
+associated with 004-Series amnestic misuse—years before AFD-NB-004 had supposedly been recovered.
 
 That made her stop.
 
@@ -101,8 +101,8 @@ Everything looked normal.
 
 Everything in the Facility always looked normal until it didn’t.
 
-She stood, collected the folder, and crossed to the nearest terminal pillar. Her access card slid into the slot with a
-soft magnetic click.
+She stood, collected the folder, and crossed to the nearest terminal
+pillar. Her access card slid into the slot with a soft magnetic click.
 
 “Archive inquiry,” she said.
 
@@ -168,8 +168,8 @@ Abyssal Association.
 
 That phrasing bothered her more each time she read it. The modern archive did not like words with too much shape. It
 preferred clarity: incident, correlation, designation, transfer, containment, redaction. “Association” was vague.
-Soft. Old. It sounded like the kind of term used before doctrine had finished hardening the language of fear into the
-language of systems.
+Soft. Old. It sounded like the kind of term used before doctrine had
+finished hardening the language of fear into the language of systems.
 
 Sera pulled the first ledger from its tray.
 
@@ -216,8 +216,8 @@ different names. An intake note for a sealed sample jar listed its origin only a
 
 Wrong. Wrong. Wrong in the same direction.
 
-By the time the shift alarm chimed first-quarter review, Sera had stopped making corrections and started making
-copies.
+By the time the shift alarm chimed first-quarter review, Sera
+had stopped making corrections and started making copies.
 
 Not official copies. Not removable copies. Just private notes in her local reconciliation pad, disguised inside
 standard format notation so that anyone glancing at the screen would see only ordinary clerical shorthand.
@@ -286,8 +286,8 @@ The archive was wounded.
 
 And someone had taught it how to heal badly.
 
-She closed the drawer, slid the packet back into place, and stood alone between the shelves, listening to the low
-filtered hum in the walls.
+She closed the drawer, slid the packet back into place, and stood alone
+between the shelves, listening to the low filtered hum in the walls.
 
 There were rules for what to do when a record failed. There were rules for contamination, contradiction, redaction,
 corruption, and structural inconsistency.
@@ -296,5 +296,5 @@ There were no rules for realizing that the oldest lies in the Facility might not
 
 On the walk back to her desk, she did not feel like an archivist anymore.
 
-She felt like a trespasser inside the memory of something that had been trying, for a very long time, not to remember
-itself.
+She felt like a trespasser inside the memory of something that
+had been trying, for a very long time, not to remember itself.

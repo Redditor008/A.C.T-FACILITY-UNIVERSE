@@ -13,8 +13,7 @@ The pieces were finally close enough to touch one another.
 
 ERE had not found the abyss by accident. The route had arrived first in
 dreams, in compulsions, in fractured
-pre-knowledge that preceded excavation as if memory itself were running ahead of stone. NEMNOLIA
-had not been
+pre-knowledge that preceded excavation as if memory itself were running ahead of stone. NEMNOLIA had not been
 discovered later in isolation. The bloom was already below, tied to the same lower
 state that made the first descent
 possible. And the founders had not merely hidden what they learned. They had used
@@ -25,23 +24,19 @@ The truth no longer looked like a question. It looked like a structure.
 
 And if it was a structure, then it had an architect.
 
-Sera spent the morning reconstructing command continuity rather than anomaly history. It was the
-hardest route she had
+Sera spent the morning reconstructing command continuity rather than anomaly history. It was the hardest route she had
 attempted so far, not because the records were sealed beyond access, but because they
 had been made to appear
 ordinary. Administrative succession lists. seal approvals. authorization bridges. oversight handoffs. review phrases
 repeated until they looked like legal habit instead of personal syntax.
 
-Every buried institution learned the same trick eventually: make the extraordinary look procedural and
-no one would
+Every buried institution learned the same trick eventually: make the extraordinary look procedural and no one would
 think to question it.
 
 But procedure still left fingerprints.
 
-She overlaid old founder review notes with later O5 transitional authorizations and found the
-same problem repeating
-at every layer. Terminology shifted. Titles expanded. signatures moved under new identity shells. Yet
-the internal
+She overlaid old founder review notes with later O5 transitional authorizations and found the same problem repeating
+at every layer. Terminology shifted. Titles expanded. signatures moved under new identity shells. Yet the internal
 logic—where emphasis fell, how orders were phrased, where hesitation showed in handwritten correction margins—remained
 too consistent across too many impossible spans.
 
@@ -51,8 +46,7 @@ The O5 had inherited themselves from damaged originals.
 
 She nearly stopped there.
 
-Not because the conclusion frightened her—though it did—but because she could feel the story
-hardening around it, and
+Not because the conclusion frightened her—though it did—but because she could feel the story hardening around it, and
 with every hardening step the danger changed shape. It was no longer enough to
 say the archive had been wounded. Now
 she had to ask what the wound protected.
@@ -69,12 +63,10 @@ Small faults like that lived forever in A.C.T. If they were not dangerous enough
 to matter immediately, they became
 part of the architecture.
 
-The annex terminals still read old transcription formats better than the modern consoles. That
-was why she went there.
+The annex terminals still read old transcription formats better than the modern consoles. That was why she went there.
 It was also why the room felt abandoned in a way the archive proper
 never did. The screens hummed before they
-brightened. The wall vents clicked irregularly. The overhead lights carried a faint delay between
-switch and glow, as
+brightened. The wall vents clicked irregularly. The overhead lights carried a faint delay between switch and glow, as
 though even electricity had to remember the room before entering it.
 
 Perfect.
@@ -84,8 +76,7 @@ She loaded the oldest surviving post-descent founder memorandum and read it line
 Most of it had already been gutted by later redaction, but enough remained to
 show panic trying very hard to look like
 command. There were repeated references to survivability through silence, controlled account limitation, restricted
-descent replication, and one phrase that appeared three times in separate wording but with
-identical intent:
+descent replication, and one phrase that appeared three times in separate wording but with identical intent:
 
 **truth retention risk**
 
@@ -93,8 +84,7 @@ Not truth exposure. Not public panic. Not secrecy compromise.
 
 Truth retention.
 
-Sera stared at the words until they stopped being administrative language and became what
-they had always been.
+Sera stared at the words until they stopped being administrative language and became what they had always been.
 
 A warning.
 
@@ -104,8 +94,7 @@ The first lie was beginning to show its skeleton.
 
 The founders had not erased themselves merely because the world was not ready. They
 had not even erased themselves
-merely because the truth was politically or socially catastrophic. They had done it because
-remembering the full
+merely because the truth was politically or socially catastrophic. They had done it because remembering the full
 reality of the abyss was judged unsafe to the rememberer.
 
 Memory was not passive in this story. Memory was participation.
@@ -114,8 +103,7 @@ That made the rest inevitable.
 
 If ERE had been drawn downward through dreams, if the bloom depended on the
 sleep-state below, if the source of
-forgetting itself grew from abyssal conditions, then the founders had reached a conclusion more
-terrible than any
+forgetting itself grew from abyssal conditions, then the founders had reached a conclusion more terrible than any
 external cover-up could explain:
 
 To preserve the world, the institution guarding it could not be allowed to remember
@@ -142,8 +130,7 @@ The file on the survivor was one of those archive bodies that never stabilized
 into one document because no single
 record system could agree on what category of person it described. Medical saw residual
 damage. Security saw
-containment liability. Intelligence saw compromised memory transport. Archive saw human evidence that did not
-sort
+containment liability. Intelligence saw compromised memory transport. Archive saw human evidence that did not sort
 cleanly into any existing historical box.
 
 Sera had avoided the file until now because she knew the moment she opened
@@ -165,8 +152,7 @@ Living contradiction.
 
 The interview transcripts were worse.
 
-Half the lines were fragmented, interrupted, or filtered through damage notes. But in the
-surviving pieces the
+Half the lines were fragmented, interrupted, or filtered through damage notes. But in the surviving pieces the
 survivor repeatedly insisted on the same impossible structure:
 
 - they had been below before they ever went below
@@ -202,8 +188,7 @@ It was almost beautiful. That made it obscene.
 
 The flower is what rises when the sleep holds.
 
-NEMNOLIA as consequence. NEMNOLIA as symptom. NEMNOLIA as proof that the sleeping state below
-was not stillness, but
+NEMNOLIA as consequence. NEMNOLIA as symptom. NEMNOLIA as proof that the sleeping state below was not stillness, but
 active pressure leaking upward into biological form.
 
 The source of amnestics. The blossom of forgetfulness. The mechanism of mercy.
@@ -288,10 +273,8 @@ time. She looked at the shadow file, at the survivor lines, at the rewritten
 founder signatures, at the
 pharmacological dependency chain, and felt the story converge at last.
 
-ERE was drawn downward. NEMNOLIA came with the abyss. The founders erased themselves. The
-O5 inherited a structure
-built over self-inflicted forgetting. And the institution that controlled memory did so because its
-own memory had
+ERE was drawn downward. NEMNOLIA came with the abyss. The founders erased themselves. The O5 inherited a structure
+built over self-inflicted forgetting. And the institution that controlled memory did so because its own memory had
 become part of containment.
 
 She opened a fresh page and wrote the line she had spent days circling.

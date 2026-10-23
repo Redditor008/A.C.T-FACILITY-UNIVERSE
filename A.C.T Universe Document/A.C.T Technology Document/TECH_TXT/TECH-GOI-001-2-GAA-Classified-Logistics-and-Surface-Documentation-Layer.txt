@@ -41,10 +41,10 @@ anomalous happening to it. A convoy stopped at an ordinary checkpoint, a crate h
 for routine inspection, or a vehicle questioned at a border produces a public record
 and a witness, and neither is contained by any Facility asset aboard.
 
-The dossier assigns the logistics interface support for quiet movement of personnel, sealed materials,
-vehicles, evidence, and non-public equipment, including controlled aviation routing, records-safe border passage,
-unlisted storage windows, medical transfer cover, and irregular procurement scheduling. Those are the technical
-basis of this file.
+The dossier assigns the logistics interface support for quiet movement of personnel,
+sealed materials, vehicles, evidence, and non-public equipment, including controlled
+aviation routing, records-safe border passage, unlisted storage windows, medical transfer
+cover, and irregular procurement scheduling. Those are the technical basis of this file.
 
 The layer supplies surface permission and mundane route protection around a movement. It does
 not manage the anomalous load. Where an anomaly requires reality-stabilization support, a protected route,
@@ -112,9 +112,9 @@ of favours, and favours accumulate.
 
 TECHNICAL SPECIFICATION
 
-Figures are restated from the GOI-GV-P-001 dossier and from post-action reconciliation records. The archive holds no
-figure for Transfers covered, Channels in rotation, Median route reuse, and 1 more. Those 4 gaps are carried in OPEN
-QUESTIONS.
+Figures are restated from the GOI-GV-P-001 dossier and from post-action reconciliation
+records. The archive holds no figure for Transfers covered, Channels in rotation,
+Median route reuse, and 1 more. Those 4 gaps are carried in OPEN QUESTIONS.
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | LOGISTICS PARAMETER        | VALUE                                                                                 |

@@ -21,12 +21,9 @@
 | AUTHORITY | Medical Division, Surgical Materials Custody, and Central Archive |
 
 #### Archive Note
-The Pale Wood Scalpel is the twenty-fourth main A.C.T technology expanded into an individual
-record. The Master
-Catalog defines it as an indestructible surgical cutting edge vulnerable only to 24k gold
-and standard for
-high-security biological sampling. The visual guide describes a surgical knife with a blade made
-from a razor-sharp
+The Pale Wood Scalpel is the twenty-fourth main A.C.T technology expanded into an individual record. The Master
+Catalog defines it as an indestructible surgical cutting edge vulnerable only to 24k gold and standard for
+high-security biological sampling. The visual guide describes a surgical knife with a blade made from a razor-sharp
 shard of white bark-less wood, a laser-tracking rail along the spine of the blade
 to keep cuts aligned with a redacted
 subject signature, and a heavy surgical-steel handle with vibration-dampening padding. AFD-SU-902 Hang Snake breach
@@ -51,21 +48,17 @@ CUT ONLY WHAT THE FILE AUTHORIZES THE BLADE TO KNOW.
 
 ## FUNCTION SUMMARY
 
-A Pale Wood Scalpel provides a high-security cutting edge for anomalous biological sampling, transmutant
-tissue work,
+A Pale Wood Scalpel provides a high-security cutting edge for anomalous biological sampling, transmutant tissue work,
 material disarticulation, and emergency breach response where ordinary blades fail. Pale Wood is exceptionally
 resistant to damage, yet vulnerable to 24k gold. In scalpel form, that paradox is
 controlled through a surgical-steel
-handle, vibration-dampening padding, and a laser-tracking rail that helps the operator follow the approved
-subject
+handle, vibration-dampening padding, and a laser-tracking rail that helps the operator follow the approved subject
 signature rather than simply cutting wherever the hand points.
 
 The scalpel is used when the target tissue, fiber, growth, shell, or anomalous material
 resists steel, ceramic, laser,
-heat, or chemical separation. It can take samples from high-security biological subjects, sever material
-that behaves
-like living tissue, and disarticulate rope-like or plant-like hazards when containment orders allow. It
-does not make
+heat, or chemical separation. It can take samples from high-security biological subjects, sever material that behaves
+like living tissue, and disarticulate rope-like or plant-like hazards when containment orders allow. It does not make
 surgery safe. It makes a cut possible.
 
 Approved roles include:
@@ -81,25 +74,19 @@ Approved roles include:
 
 ## ORIGIN AND CUSTODY
 
-PWS originates from Harvested Pale Wood taken from Dark World material chains and shaped
-into surgical edges under
-A.C.T control. Pale Wood's resistance to ordinary damage made it valuable for containment and
-medicine, while its
-vulnerability to 24k gold allowed limited machining, shaping, and emergency neutralization. The scalpel program
-began
-after Medical Division required a tool that could cut anomalous tissue without bringing a
-full industrial cutting rig
+PWS originates from Harvested Pale Wood taken from Dark World material chains and shaped into surgical edges under
+A.C.T control. Pale Wood's resistance to ordinary damage made it valuable for containment and medicine, while its
+vulnerability to 24k gold allowed limited machining, shaping, and emergency neutralization. The scalpel program began
+after Medical Division required a tool that could cut anomalous tissue without bringing a full industrial cutting rig
 into a patient room.
 
-Custody belongs to Medical Division and Surgical Materials Custody. Engineering prepares blade blanks and
-verifies
+Custody belongs to Medical Division and Surgical Materials Custody. Engineering prepares blade blanks and verifies
 laser-tracking rail behavior. Biological Containment authorizes use on contained subjects. Recovery may request
 breach-use kits only when a subject file names PWS as approved. Site Command reviews
 any use outside a surgical room.
 Gold disposal tools and sheaths are tracked separately.
 
-Dark World source chains remain restricted because untracked Pale Wood can become structural, surgical,
-or weapon
+Dark World source chains remain restricted because untracked Pale Wood can become structural, surgical, or weapon
 material with very different consequences.
 
 ---
@@ -108,8 +95,7 @@ material with very different consequences.
 
 A standard PWS resembles a heavy surgical knife. The blade is a razor-sharp shard
 of white bark-less wood with a
-smooth bone-like finish and faint pearlescent sheen. The spine contains a laser-tracking rail that
-projects or reads
+smooth bone-like finish and faint pearlescent sheen. The spine contains a laser-tracking rail that projects or reads
 an approved cut path tied to the subject's signature. The handle is heavy surgical
 steel with vibration-dampening
 padding so that the operator's tremor does not become a jagged instruction.
@@ -210,20 +196,15 @@ during a rope-analog breach the target must already be pinned by Causal Anchor N
 or equivalent
 restraints, because an unpinned cut whips.
 
-Before use, Medical confirms authority, patient or subject file, cut purpose, sedation status, containment
-posture,
-gold emergency tool availability, and signature-tracking calibration. The operator does not begin until the
-laser rail
-confirms the approved path. Biological Containment remains attached when the target can move, graft,
-absorb, or
+Before use, Medical confirms authority, patient or subject file, cut purpose, sedation status, containment posture,
+gold emergency tool availability, and signature-tracking calibration. The operator does not begin until the laser rail
+confirms the approved path. Biological Containment remains attached when the target can move, graft, absorb, or
 reinterpret the cut.
 
 During Hang Snake breach response, PWS may be used only if Causal Anchor Nails
 or other restraints have pinned enough
-of the subject to prevent counter-coiling. Standard blades are prohibited because they may catch,
-fray, or become
-graft points. The scalpel cut must be decisive and logged as disarticulation, not ordinary
-damage.
+of the subject to prevent counter-coiling. Standard blades are prohibited because they may catch, fray, or become
+graft points. The scalpel cut must be decisive and logged as disarticulation, not ordinary damage.
 
 Do not use PWS for routine surgery where normal instruments are sufficient. Do not
 test sharpness on paper, gloves,
@@ -247,8 +228,7 @@ is nonliving.
 
 No calendar interval is recorded; the blade does not dull, so servicing is inspection
 rather than sharpening
-and interval NOT MEASURED. The consumables are inspection strips and log chips. The 2014
-nick is why custody
+and interval NOT MEASURED. The consumables are inspection strips and log chips. The 2014 nick is why custody
 added a post-use strip to every return.
 
 ## FAULT ISOLATION
@@ -264,8 +244,7 @@ added a post-use strip to every return.
 
 ## KNOWN LIMITS
 
-PWS cannot identify what should be cut, cannot prevent pain or trauma, cannot neutralize
-all regenerative subjects,
+PWS cannot identify what should be cut, cannot prevent pain or trauma, cannot neutralize all regenerative subjects,
 and cannot replace surgical judgment. It may fail if the subject signature is wrong,
 if the target changes identity
 during the cut, if Pale Wood reacts to related Dark World material, or if
@@ -273,8 +252,7 @@ gold exposure compromises the edge. Some
 anomalies may interpret being cut by Pale Wood as kinship, challenge, or invitation.
 
 Known failure modes include signature drift, laser rail misalignment, handle vibration transfer, gold contamination,
-post-cut grafting, blade overconfidence, and chain-of-custody anxiety. Staff overuse is a real risk because
-an
+post-cut grafting, blade overconfidence, and chain-of-custody anxiety. Staff overuse is a real risk because an
 indestructible scalpel makes difficult surgery look easy to people reading only the equipment list.
 
 ---
@@ -282,15 +260,12 @@ indestructible scalpel makes difficult surgery look easy to people reading only 
 ## FAILURE HISTORY
 
 ### PWS-1999 Signature Drift Biopsy
-A transmutant tissue sample shifted signature during a biopsy. The laser rail continued following
-the old path for two
-seconds before the operator stopped. The patient survived, but the sample contained mixed tissue
-history. PWS
+A transmutant tissue sample shifted signature during a biopsy. The laser rail continued following the old path for two
+seconds before the operator stopped. The patient survived, but the sample contained mixed tissue history. PWS
 procedure now requires live signature confirmation for unstable subjects.
 
 ### PWS-2014 Gold Sheath Nick
-A scalpel returned from cleaning with a shallow edge defect traced to improper gold-lined
-sheath contact. The blade
+A scalpel returned from cleaning with a shallow edge defect traced to improper gold-lined sheath contact. The blade
 remained sharp but was retired from surgery and moved to materials study. Custody added
 post-use fiber inspection
 strips.
@@ -298,18 +273,15 @@ strips.
 ### PWS-2022 Hang Snake Drill
 A breach drill against rope analogs showed that a PWS cut without prior pinning
 caused the target line to whip around
-the operator's wrist. Current Hang Snake response requires Causal Anchor Nails or equivalent restraint
-before
+the operator's wrist. Current Hang Snake response requires Causal Anchor Nails or equivalent restraint before
 disarticulation attempt.
 
 ---
 
 ## DIVISION USE
 
-Medical operates PWS in surgery and sampling. Surgical Materials Custody tracks blades, sheaths, gold
-tools, and
-inspection results. Biological Containment approves subject use. Recovery holds sealed breach kits only where
-files
+Medical operates PWS in surgery and sampling. Surgical Materials Custody tracks blades, sheaths, gold tools, and
+inspection results. Biological Containment approves subject use. Recovery holds sealed breach kits only where files
 authorize them. Engineering maintains laser rails and prepares blade blanks. Site Command approves non-medical
 deployment. Archive stores cut-path logs with medical or breach records.
 

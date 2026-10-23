@@ -77,9 +77,9 @@ the reason some A.C.T covers have been reversed.
 | Detention reviews | Demanded by the Office |
 | Ledger format | NOT MEASURED |
 
-The operative row is the reversals-counted row. A.C.T does not know how many of its own public-cover deaths have been
-reversed, and the record says so rather than estimating. An estimate here would enter the archive as a fact about
-A.C.T's own conduct.
+The operative row is the reversals-counted row. A.C.T does not know how many of its own
+public-cover deaths have been reversed, and the record says so rather than estimating.
+An estimate here would enter the archive as a fact about A.C.T's own conduct.
 
 ---
 
@@ -94,9 +94,9 @@ A.C.T's own conduct.
 | Name continuity entry | Records the unchanged name |
 | Hazard distinction | Separates hazard from personhood |
 
-The name continuity entry is the structural core. It asserts that the person named is the person recorded,
-independently of physical state, and it is entered before any classification. A.C.T has no equivalent field in its own
-status records.
+The name continuity entry is the structural core. It asserts that the person named
+is the person recorded, independently of physical state, and it is entered before
+any classification. A.C.T has no equivalent field in its own status records.
 
 ---
 
@@ -179,9 +179,8 @@ Applies when A.C.T handles a person whose civil status an event has altered.
 | Hazard separation review | Annual, against status records |
 | Reversal query log | On any query, recorded without estimate |
 
-The reversal query log is the row that keeps an unknown number unknown. Each query is recorded with the answer
-that A.C.T has not counted. Entering an estimate would create a figure about A.C.T's own covers that nobody has
-verified.
+The reversal query log is the row that keeps an unknown number unknown. Each query is recorded with the answer that
+A.C.T has not counted. Entering an estimate would create a figure about A.C.T's own covers that nobody has verified.
 
 ---
 
@@ -196,9 +195,9 @@ verified.
 | Reversal count estimated | A.C.T handling breach | Remove; record as not counted |
 | Ledger entry summarised | A.C.T handling breach | Restore the entry verbatim |
 
-The first row is the fault the Office's instruction exists to prevent. Certifying death because survival cannot be
-explained turns an unexplained condition into a closed record, and closing it is what makes the person unreachable
-afterwards.
+The first row is the fault the Office's instruction exists to prevent. Certifying
+death because survival cannot be explained turns an unexplained condition into a
+closed record, and closing it is what makes the person unreachable afterwards.
 
 ---
 
@@ -228,9 +227,9 @@ exists, because a label applied first becomes the record that later review has t
 
 ### HAZARD VERSUS PERSONHOOD — UNMERGED
 
-The Office distinguishes witness hazard from witness personhood in tribunal language. A.C.T records the two
-separately, and does not merge them into a single field, because a merged field cannot express a person who is
-hazardous and continues.
+The Office distinguishes witness hazard from witness personhood in tribunal language.
+A.C.T records the two separately, and does not merge them into a single field,
+because a merged field cannot express a person who is hazardous and continues.
 
 ---
 

@@ -17,14 +17,11 @@
 
 ## Archive Note
 
-This file is the complete individual record of **F-5, Personnel Habitation and Support**, the
-fifth-deepest numbered
+This file is the complete individual record of **F-5, Personnel Habitation and Support**, the fifth-deepest numbered
 floor of **ACT-SITE-02-RU-N, White Grave Station**.
 
-F-5 is where the station's population lives: living quarters, mess facilities, medical clinics for
-routine care,
-recreation spaces, and the station's internal command offices. The level is deliberately separated from
-the holding
+F-5 is where the station's population lives: living quarters, mess facilities, medical clinics for routine care,
+recreation spaces, and the station's internal command offices. The level is deliberately separated from the holding
 levels below by the station's main security checkpoint — a separation that gives the
 station's human population a
 boundary between their lives and their work.
@@ -39,30 +36,25 @@ how the station sustains the people who perform its cold, deep, long work.
 
 **Site Designation:** ACT-SITE-02-RU-N **Site Codename:** White Grave Station **Floor Designation:** F-5 **Floor
 Name:** Personnel Habitation and Support **Floor Type:** Habitation and Personnel Support Level **Vertical Position:**
-Fifth-deepest numbered floor of the station **Floor Above:** F-6 (Surface Research and Transition Level)
-**Floor
-Below:** F-4 (Research and Biological Study) **Containment Character:** Non-resident personnel habitation and command
-infrastructure **Primary Function:** Living quarters, mess facilities, routine medical clinics, recreation, and
-internal command offices for the station's population **Distinctive Feature:** Deliberately separated from the holding
-levels below by the station's main security checkpoint **Access Posture:** Personnel-access controlled **Current
-Status:** Active
+Fifth-deepest numbered floor of the station **Floor Above:** F-6 (Surface Research and Transition Level) **Floor
+Below:** F-4 (Research and Biological Study) **Containment Character:** Non-resident personnel
+habitation and command infrastructure **Primary Function:** Living quarters, mess facilities,
+routine medical clinics, recreation, and internal command offices for the station's population
+**Distinctive Feature:** Deliberately separated from the holding levels below by the station's main
+security checkpoint **Access Posture:** Personnel-access controlled **Current Status:** Active
 
 ---
 
 ## 2. Dossier Purpose
 
-White Grave Station operates in one of the most isolated environments the Facility maintains:
-an arctic installation
-reached by seasonal transport, where personnel remain for long rotations in conditions that would
-break staff at other
+White Grave Station operates in one of the most isolated environments the Facility maintains: an arctic installation
+reached by seasonal transport, where personnel remain for long rotations in conditions that would break staff at other
 facilities. The station's people do not commute home at night. They live where they
 work — and the Facility has a
 responsibility to make that life sustainable.
 
-F-5 exists for that responsibility. It is where the station's population lives: quarters, mess,
-medical clinics,
-recreation, and command offices, arranged on a level deliberately separated from the holding depths
-below. The floor
+F-5 exists for that responsibility. It is where the station's population lives: quarters, mess, medical clinics,
+recreation, and command offices, arranged on a level deliberately separated from the holding depths below. The floor
 is the station's human habitat — engineered for the long rotation, and bounded by
 the checkpoint that lets its people
 leave their work behind when their duty day ends.
@@ -81,17 +73,14 @@ where they work and the holding depths where the station's residents sleep.
 
 ### 3.2 Relationship to F-6
 
-Personnel arriving at the station descend from the surface transition through F-5 on their
-way to their duty floors,
+Personnel arriving at the station descend from the surface transition through F-5 on their way to their duty floors,
 and ascend through F-5 on their way back to the surface. The habitation level
 is the station's domestic gateway.
 
 ### 3.3 Relationship to the Operational Floors
 
-F-5's relationship to the floors below is defined by the station's main security checkpoint:
-the deliberate boundary
-between the station's living level and its operational levels. The checkpoint gives the station's
-personnel a physical
+F-5's relationship to the floors below is defined by the station's main security checkpoint: the deliberate boundary
+between the station's living level and its operational levels. The checkpoint gives the station's personnel a physical
 passage between their lives and their work — a separation the station treats as
 essential to sustaining its people.
 
@@ -108,10 +97,8 @@ recreation that temporary facilities cannot provide.
 
 ### 4.2 The Main Security Checkpoint
 
-The floor's defining feature — the main security checkpoint separating habitation from the operational
-levels — was
-established as the station's population grew. The station learned that personnel who could not
-leave their work behind
+The floor's defining feature — the main security checkpoint separating habitation from the operational levels — was
+established as the station's population grew. The station learned that personnel who could not leave their work behind
 could not sustain their duty, and the checkpoint was built to make the separation
 physical.
 
@@ -119,8 +106,7 @@ physical.
 
 In its modern configuration, F-5 is the station's human habitat: the level where the
 station's population lives,
-supported by the facilities that make long rotations sustainable in one of the Facility's
-most isolated installations.
+supported by the facilities that make long rotations sustainable in one of the Facility's most isolated installations.
 
 ---
 
@@ -138,8 +124,7 @@ scheduling, and the maintenance of the living environment.
 
 ### 5.3 Authority Limits
 
-F-5 holds no authority over the station's operational or containment functions. Its authority is
-over the station's
+F-5 holds no authority over the station's operational or containment functions. Its authority is over the station's
 domestic life — and over the boundary checkpoint that separates that life from the
 work below.
 
@@ -149,8 +134,8 @@ work below.
 
 ### 6.1 Station Administration
 
-Station administration operates F-5's support functions: quarters, mess, recreation, and the domestic administration
-of the station's population.
+Station administration operates F-5's support functions: quarters, mess,
+recreation, and the domestic administration of the station's population.
 
 ### 6.2 Medical Division (Routine Care)
 
@@ -160,15 +145,13 @@ receives its ordinary medical attention, in the domestic context of the habitati
 
 ### 6.3 Command Offices
 
-The station's internal command offices are located on F-5, placing the station's day-to-day command
-in the level where
+The station's internal command offices are located on F-5, placing the station's day-to-day command in the level where
 the station's population lives — command at White Grave is domestic as well as
 operational.
 
 ### 6.4 Security Division
 
-Security operates the floor's checkpoint function: the main security checkpoint that separates habitation from
-the
+Security operates the floor's checkpoint function: the main security checkpoint that separates habitation from the
 operational levels below.
 
 ---
@@ -189,22 +172,18 @@ F-5's plan is organized around **habitation and support functions**:
 ### 7.2 The Living Quarters
 
 The station's quarters are engineered for long-rotation habitation: private and shared accommodations designed to
-sustain personnel through extended arctic duty. The quarters are the station's most personal space
-— the place where
+sustain personnel through extended arctic duty. The quarters are the station's most personal space — the place where
 the Facility's people live between shifts of work that would weigh heavily on anyone.
 
 ### 7.3 The Mess and Recreation Facilities
 
-The floor's mess and recreation facilities sustain the station's social life: dining, gathering, and
-the ordinary
-human activities that keep a long-rotation population functional. The station treats recreation as an
-operational
+The floor's mess and recreation facilities sustain the station's social life: dining, gathering, and the ordinary
+human activities that keep a long-rotation population functional. The station treats recreation as an operational
 requirement.
 
 ### 7.4 The Main Security Checkpoint
 
-The floor's defining architecture is the checkpoint separating habitation from the operational levels: the
-controlled
+The floor's defining architecture is the checkpoint separating habitation from the operational levels: the controlled
 boundary through which personnel pass when they descend to work and when they ascend
 from it. The checkpoint is the
 station's deliberate division between life and duty.
@@ -215,8 +194,7 @@ station's deliberate division between life and duty.
 
 ### 8.1 Power
 
-F-5 draws on the station's main supply with standard backup, with the habitation systems
-treated as critical
+F-5 draws on the station's main supply with standard backup, with the habitation systems treated as critical
 infrastructure for the station's population.
 
 ### 8.2 Environment
@@ -226,14 +204,12 @@ environment held at bay by the same thermal infrastructure that protects the ope
 
 ### 8.3 Monitoring
 
-Monitoring on F-5 is domestic and security-oriented: the floor's access architecture, checkpoint, and common
-spaces
+Monitoring on F-5 is domestic and security-oriented: the floor's access architecture, checkpoint, and common spaces
 are monitored under the station's personnel security doctrine.
 
 ### 8.4 Communication
 
-The floor maintains station communications, with the command offices serving as the station's internal
-command nexus.
+The floor maintains station communications, with the command offices serving as the station's internal command nexus.
 
 ---
 
@@ -241,27 +217,20 @@ command nexus.
 
 ### 9.1 The Main Security Checkpoint
 
-The floor's defining security feature is the main security checkpoint: the controlled boundary between
-the station's
-habitation level and its operational levels. Personnel descending to duty pass through the checkpoint
-into the
-operational core; personnel ascending from duty pass through it back into the living level.
-The checkpoint is the
+The floor's defining security feature is the main security checkpoint: the controlled boundary between the station's
+habitation level and its operational levels. Personnel descending to duty pass through the checkpoint into the
+operational core; personnel ascending from duty pass through it back into the living level. The checkpoint is the
 station's deliberate separation between the domestic and the operational.
 
 ### 9.2 Access Control
 
-Access to F-5 is controlled under the station's personnel security doctrine: the habitation level
-is restricted to the
-station's population and authorized visitors, with the checkpoint governing passage to the operational floors
-below.
+Access to F-5 is controlled under the station's personnel security doctrine: the habitation level is restricted to the
+station's population and authorized visitors, with the checkpoint governing passage to the operational floors below.
 
 ### 9.3 Boundary Doctrine
 
-The checkpoint embodies the station's boundary doctrine: the belief that personnel who cannot leave
-their work behind
-cannot sustain their duty. The boundary between F-5 and the operational levels is maintained
-as deliberately as the
+The checkpoint embodies the station's boundary doctrine: the belief that personnel who cannot leave their work behind
+cannot sustain their duty. The boundary between F-5 and the operational levels is maintained as deliberately as the
 boundary between the surface and the station itself.
 
 ---
@@ -270,14 +239,12 @@ boundary between the surface and the station itself.
 
 ### 10.1 Habitation Function
 
-F-5 is where the station's population lives: quarters, mess, medical clinics, and recreation for
-personnel serving
+F-5 is where the station's population lives: quarters, mess, medical clinics, and recreation for personnel serving
 long rotations in arctic isolation.
 
 ### 10.2 Command Function
 
-F-5 houses the station's internal command offices, placing the station's day-to-day command in the
-domestic level.
+F-5 houses the station's internal command offices, placing the station's day-to-day command in the domestic level.
 
 ### 10.3 Holding Character
 
@@ -304,10 +271,8 @@ routines that sustain a long-rotation population.
 
 ### 11.3 The Checkpoint Rhythm
 
-The station's personnel live the checkpoint rhythm daily: descent into duty through the main
-security checkpoint,
-ascent out of duty through it. The rhythm is the station's psychology made architectural
-— the deliberate boundary
+The station's personnel live the checkpoint rhythm daily: descent into duty through the main security checkpoint,
+ascent out of duty through it. The rhythm is the station's psychology made architectural — the deliberate boundary
 between the work of containment and the life that makes the work sustainable.
 
 ---
@@ -316,24 +281,20 @@ between the work of containment and the life that makes the work sustainable.
 
 ### 12.1 Sustainment Doctrine
 
-F-5 doctrine holds that the station's personnel are its most critical containment resource: the
-people who perform the
-station's work must be sustained through long rotations in arctic isolation, and the habitation
-level exists for that
+F-5 doctrine holds that the station's personnel are its most critical containment resource: the people who perform the
+station's work must be sustained through long rotations in arctic isolation, and the habitation level exists for that
 purpose.
 
 ### 12.2 Separation Doctrine
 
 F-5 doctrine holds that life and duty must be separated: the main security checkpoint
 embodies the principle that
-personnel who cannot leave their work behind cannot sustain their duty. The station treats
-the boundary between
+personnel who cannot leave their work behind cannot sustain their duty. The station treats the boundary between
 habitation and operations as essential to both.
 
 ### 12.3 Domestic Doctrine
 
-F-5 doctrine holds that the ordinary matters: mess, recreation, quarters, and routine medical care
-are not luxuries at
+F-5 doctrine holds that the ordinary matters: mess, recreation, quarters, and routine medical care are not luxuries at
 an arctic station — they are the infrastructure of a functional population, and the
 station maintains them with the
 same seriousness as its containment systems.
@@ -342,10 +303,8 @@ same seriousness as its containment systems.
 
 ## 13. Incident Archive
 
-The floor's incident record is dominated by domestic and boundary events: personnel incidents, checkpoint
-events, and
-the medical events that any long-rotation population produces. The station's history records the lessons
-of sustaining
+The floor's incident record is dominated by domestic and boundary events: personnel incidents, checkpoint events, and
+the medical events that any long-rotation population produces. The station's history records the lessons of sustaining
 personnel in isolation, reflected in the floor's design and doctrine.
 
 ---
@@ -376,8 +335,7 @@ priorities include:
 
 F-5, Personnel Habitation and Support, is the human floor of White Grave Station: the
 level where the station's
-population lives — quarters, mess, routine medical care, recreation, and command offices — deliberately
-separated from
+population lives — quarters, mess, routine medical care, recreation, and command offices — deliberately separated from
 the holding depths below by the station's main security checkpoint.
 
 It is the floor that makes the station possible: a place of ordinary life

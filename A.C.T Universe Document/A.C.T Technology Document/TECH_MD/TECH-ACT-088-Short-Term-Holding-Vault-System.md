@@ -21,14 +21,12 @@
 | AUTHORITY | Sub-Site Chief, F-1 Vault Officer, Redwood Veil Site Command, and Central Archive |
 
 #### Archive Note
-Short-Term Holding Vault System is the eighty-eighth main A.C.T technology expanded into an individual
-record. The
-Glass Orchard Relay dossier identifies F-1 as the relay's secure holding level: short-term containment
-for low-threat
+Short-Term Holding Vault System is the eighty-eighth main A.C.T technology expanded into an individual record. The
+Glass Orchard Relay dossier identifies F-1 as the relay's secure holding level: short-term containment for low-threat
 anomalies awaiting transfer to the parent site. The F-1 floor dossier defines the level
 by intake bay, holding unit
-rows, monitoring gallery, transfer preparation area, floor command post, documentation alcove, and F-1 closure
-procedure.
+rows, monitoring gallery, transfer preparation area, floor
+command post, documentation alcove, and F-1 closure procedure.
 
 STHVS exists because Glass Orchard does not contain as a sovereign site. It holds
 material briefly so Redwood Veil can
@@ -46,19 +44,15 @@ HOLD ONLY WHAT CAN WAIT, AND ONLY UNTIL TRANSFER.
 
 ## FUNCTION SUMMARY
 
-The Short-Term Holding Vault System is the F-1 provisional holding architecture of Glass Orchard
-Relay. It receives
+The Short-Term Holding Vault System is the F-1 provisional holding architecture of Glass Orchard Relay. It receives
 low-threat recovered anomalies, staged material, transient subjects, and other parent-authorized holdings that require
-secure waiting before movement to Redwood Veil Complex. It combines intake logging, holding units,
-environmental
+secure waiting before movement to Redwood Veil Complex. It combines intake logging, holding units, environmental
 support, monitoring gallery observation, transfer preparation, documentation custody, and closure authority.
 
 STHVS is not a smaller version of full containment. It is a limit technology.
 Its value comes from what it refuses: no
-long-term residency, no high-threat holding, no independent study program, no transformation work, and no
-permanent
-archival claim. The system keeps overflow from choking the parent site while preventing the
-relay from becoming a
+long-term residency, no high-threat holding, no independent study program, no transformation work, and no permanent
+archival claim. The system keeps overflow from choking the parent site while preventing the relay from becoming a
 hidden second site by accident.
 
 Approved roles include low-threat transient holding, recovery overflow custody, transfer preparation, holding-unit
@@ -70,27 +64,22 @@ monitoring, documentation of custody, F-1 closure, escalation rejection, and par
 
 Glass Orchard Relay began as a covert witness routing point. As Redwood Veil's regional
 operations grew, the relay's
-function expanded into temporary holding, archive relay, and overflow intake. F-1 developed as the
-secure bottom of
+function expanded into temporary holding, archive relay, and overflow intake. F-1 developed as the secure bottom of
 that narrow mission: a vault capable of receiving material that can safely wait, but
 designed against the temptation
 to keep it.
 
-The F-1 dossier records the Limit Doctrine as a defining principle. Days-to-weeks holding is
-permitted. Permanent
-residency is not. This doctrine became necessary because short-term infrastructure can look stable enough
-to misuse.
+The F-1 dossier records the Limit Doctrine as a defining principle. Days-to-weeks holding is permitted. Permanent
+residency is not. This doctrine became necessary because short-term infrastructure can look stable enough to misuse.
 STHVS therefore makes time, transfer destination, and parent authority part of every holding record.
 
 ---
 
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
-A standard STHVS installation includes an intake bay, holding unit rows, a monitoring gallery,
-transfer preparation
+A standard STHVS installation includes an intake bay, holding unit rows, a monitoring gallery, transfer preparation
 area, command post, documentation alcove, access controls, environmental service lines, communication panels, and an
-F-1 closure system. The holding units are sized for low-threat object and subject material,
-not heavy residents or
+F-1 closure system. The holding units are sized for low-threat object and subject material, not heavy residents or
 high-instability anomalies.
 
 Known components include:
@@ -138,8 +127,7 @@ The vault exists to hold, briefly, things that are not yet classified. Its contr
 parameter is time
 rather than capacity: every unit carries a custody clock so that an unclassified item
 cannot drift into
-permanent local custody through inertia. Overstay is recorded as a custody failure, not as
-an administrative
+permanent local custody through inertia. Overstay is recorded as a custody failure, not as an administrative
 delay.
 
 ## INTERFACE AND OPERATING ENVELOPE
@@ -173,8 +161,7 @@ Unit count, median hold time, and overstay rate are NOT MEASURED.
 
 ### Numbered Operating Sequence
 
-The sequence assumes a single arrival. Simultaneous arrivals are sequenced through the receipt bay
-rather
+The sequence assumes a single arrival. Simultaneous arrivals are sequenced through the receipt bay rather
 than admitted together, because the threat-class check cannot be done properly under load.
 
 1. Receive the item at the intake receipt bay and open a custody
@@ -198,12 +185,9 @@ required environment, handler identity, medical or archive liaison needs, and re
 exceeds local authority is not adapted into the vault; it is escalated to Redwood
 Veil.
 
-During holding, Security and containment staff maintain observation and access control. The Medical liaison
-monitors
-living subjects or affected personnel where needed. Archive Relay records custody and prepares any
-accompanying files
-for transfer. Recovery Support coordinates movement out of the relay. If breach or exposure
-risk develops, F-1 closure
+During holding, Security and containment staff maintain observation and access control. The Medical liaison monitors
+living subjects or affected personnel where needed. Archive Relay records custody and prepares any accompanying files
+for transfer. Recovery Support coordinates movement out of the relay. If breach or exposure risk develops, F-1 closure
 seals the level to the outside while command resolves the event.
 
 ---
@@ -218,8 +202,7 @@ seals the level to the outside while command resolves the event.
 | Monthly | audit custody records against transfer confirmations |
 | Quarterly | rehearse F-1 closure with occupied units |
 
-Servicing here is mostly reconciliation. A custody record that does not match a transfer
-confirmation means
+Servicing here is mostly reconciliation. A custody record that does not match a transfer confirmation means
 an item moved without paperwork, and that mismatch is repaired before the next intake
 rather than waiting
 for an audit to find it.
@@ -237,13 +220,11 @@ for an audit to find it.
 ## KNOWN LIMITS
 
 STHVS cannot hold high-threat anomalies, unstable residents, transformation cases, long-term biological containment,
-or material requiring full Redwood Veil infrastructure. It can be defeated by misclassification, overstay,
-staff
+or material requiring full Redwood Veil infrastructure. It can be defeated by misclassification, overstay, staff
 familiarity, incomplete transfer scheduling, false low-threat behavior, or parent-site congestion.
 
 Known failure modes include holding-unit mismatch, environmental insufficiency, delayed transfer, incomplete custody
-record, unauthorized study, closure during occupied transfer preparation, staff treating a transient as a
-resident,
+record, unauthorized study, closure during occupied transfer preparation, staff treating a transient as a resident,
 and command pressure to make a temporary solution permanent.
 
 ---
@@ -251,8 +232,7 @@ and command pressure to make a temporary solution permanent.
 ## FAILURE HISTORY
 
 ### STHVS-Sub-Site Upgrade Formation
-The Glass Orchard dossier records that the original witness routing point expanded into temporary
-holding and overflow
+The Glass Orchard dossier records that the original witness routing point expanded into temporary holding and overflow
 intake. STHVS was formalized when the relay received sub-site classification.
 
 ### STHVS-Limit Doctrine Review
@@ -260,16 +240,14 @@ A transfer-delay drill showed that stable short-term holding conditions can prod
 doctrine requires custody clocks, transfer destination, and rejection criteria for every holding.
 
 ### STHVS-F-1 Closure Drill
-A breach-response exercise confirmed that closing F-1 to the outside protects the buried relay
-only if custody records
+A breach-response exercise confirmed that closing F-1 to the outside protects the buried relay only if custody records
 freeze with the closure. Current procedure pairs closure with immediate parent-site notice.
 
 ---
 
 ## DIVISION USE
 
-Security and containment staff operate the holding vault. Recovery Support coordinates movement to and
-from the level.
+Security and containment staff operate the holding vault. Recovery Support coordinates movement to and from the level.
 Medical liaison handles living arrivals and affected personnel. Archive Relay maintains custody documentation. Redwood
 Veil Site Command owns final transfer and disposition authority.
 

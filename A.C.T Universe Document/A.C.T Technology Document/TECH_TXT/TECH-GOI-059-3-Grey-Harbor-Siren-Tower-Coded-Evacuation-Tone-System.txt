@@ -63,9 +63,9 @@ SOME TONES REDUCE PANIC AND INCREASE MEMORY RETENTION. DO NOT USE ONE AS A COVER
 
 FUNCTION SUMMARY
 
-A coded tone carries an evacuation instruction to responders and to the public without stating a cause. Different
-tones carry different orders, which allows a district to be moved in stages while the public hears only an ordinary
-disaster alert.
+A coded tone carries an evacuation instruction to responders and to the public without
+stating a cause. Different tones carry different orders, which allows a district to be
+moved in stages while the public hears only an ordinary disaster alert.
 
 - orders staged evacuation without disclosing a restricted cause;
 - reaches a district where ordinary communication is unavailable;
@@ -73,9 +73,9 @@ disaster alert.
 - increases witness memory retention, by an unconfirmed mechanism;
 - coordinates boats and buses through temporarily misdirected routes.
 
-A.C.T issues alerts through public cover channels, which state a cause and are worded to be forgotten. A coded tone
-states nothing and is remembered. Those two properties make it useful for rescue and hazardous for narrative control
-at the same time.
+A.C.T issues alerts through public cover channels, which state a cause and are worded
+to be forgotten. A coded tone states nothing and is remembered. Those two properties
+make it useful for rescue and hazardous for narrative control at the same time.
 
 
 ORIGIN AND CUSTODY
@@ -121,9 +121,8 @@ PHYSICAL OR SYSTEM DESCRIPTION
 | Responder reception        | Heard as a specific order                                                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 
-The split reception is the system's design. The same sound functions as an alert to the public and as an
-instruction to responders, which is what allows a staged evacuation to proceed without an explanation that cannot be
-given.
+The split reception is the system's design. The same sound functions as an alert to the public and as an instruction
+to responders, which is what allows a staged evacuation to proceed without an explanation that cannot be given.
 
 
 TECHNICAL SPECIFICATION
@@ -274,9 +273,9 @@ narrative rather than as a Directorate problem, and prohibits requesting a tone 
 
 TONE AS COVER — PROHIBITION OF RECORD
 
-Using a coded tone as a cover sound would combine an unmeasured memory effect with a narrative A.C.T controls. The
-prohibition stands because the two effects cannot be separated, and because the resulting witnesses would contradict
-the cover they were calmed by.
+Using a coded tone as a cover sound would combine an unmeasured memory effect with a
+narrative A.C.T controls. The prohibition stands because the two effects cannot be separated,
+and because the resulting witnesses would contradict the cover they were calmed by.
 
 
 DIVISION USE

@@ -35,19 +35,15 @@ Core rule: an entry is a person, not a case number.
 
 ## FUNCTION SUMMARY
 
-The Cold Ledger and Sealed Patient Continuity Archive is the restricted record system the
-Concern uses to preserve
+The Cold Ledger and Sealed Patient Continuity Archive is the restricted record system the Concern uses to preserve
 survival, death, transformation, restoration refusal, and identity continuity after anomalous injury. It is the
-administrative counterpart to everything else in this set: the theater produces the state, the
-thread holds it, the
+administrative counterpart to everything else in this set: the theater produces the state, the thread holds it, the
 consent system authorizes it, the prosthetic carries it forward, and the ledger records it.
 
 Its function is to keep a durable account where three other accounts disagree —
 civic death records, A.C.T custody
-files, and family memory. Saint-Vera doctrine holds that survival should include dignity and that
-a changed body is
-not automatically failed, contaminated, or disposable. The ledger is where that doctrine is applied
-case by case.
+files, and family memory. Saint-Vera doctrine holds that survival should include dignity and that a changed body is
+not automatically failed, contaminated, or disposable. The ledger is where that doctrine is applied case by case.
 
 A.C.T classifies this as acquired GOI technology because the ledgers may hold the only
 surviving account of patients
@@ -57,58 +53,46 @@ who are officially dead, legally altered, transformed, or hidden from hostile cu
 
 Sealed patient ledgers are the Concern's only entry under known assets and holdings in
 its own registry line, which
-suggests they are treated internally as the primary holding. Named physicians operate under sealed
-restoration
+suggests they are treated internally as the primary holding. Named physicians operate under sealed restoration
 licenses, and the charitable board and surgical directorate remain unresolved.
 
 A.C.T has not secured a complete cold ledger. Access is limited to fragments and
 cross-case inference. Patient names,
-mobile clinic routes, and restoration failures are censored under the disclosure limit, and the
-source record states
-plainly that several omissions are not for A.C.T reputation control — they protect survivors
-from becoming research
+mobile clinic routes, and restoration failures are censored under the disclosure limit, and the source record states
+plainly that several omissions are not for A.C.T reputation control — they protect survivors from becoming research
 targets, public curiosities, or bargaining assets between containment authorities.
 
-Intelligence Division assesses that securing a full cold ledger would raise confidence on the
-parent GOI file from
+Intelligence Division assesses that securing a full cold ledger would raise confidence on the parent GOI file from
 Moderate to something stronger. No operation to obtain one is authorized.
 
 ## PHYSICAL OR SYSTEM DESCRIPTION
 
-A.C.T has recovered incomplete patient cards and no ledger volume. What follows is assembled
-from card language,
+A.C.T has recovered incomplete patient cards and no ledger volume. What follows is assembled from card language,
 failure labels, and the Concern's own asset list.
 
-**Cold ledgers.** Listed as recording patients declared dead elsewhere. The word cold is the
-Concern's own and is not
+**Cold ledgers.** Listed as recording patients declared dead elsewhere. The word cold is the Concern's own and is not
 explained in any recovered document.
 
-**Sealed failure archive.** Marked `DO NOT CALL THIS MERCY`. It holds refusal labels, including
-the three reasons
-preserved under `TECH-GOI-056-3`. Its existence proves the Concern records its own refusals rather than
-discarding
+**Sealed failure archive.** Marked `DO NOT CALL THIS MERCY`. It holds refusal labels, including the three reasons
+preserved under `TECH-GOI-056-3`. Its existence proves the Concern records its own refusals rather than discarding
 them.
 
-**Sealed restoration licenses.** The credential under which named physicians practise. Whether the seal is
-a physical
+**Sealed restoration licenses.** The credential under which named physicians practise. Whether the seal is a physical
 document, a registry entry, or something the Concern issues to itself is unresolved.
 
 **Patient cards.** The transfer instrument. Recovered cards carry patient designation, source incident, delivery
-condition, and instruction lines addressed to whoever receives the patient next. Cards are the
-only part of the system
+condition, and instruction lines addressed to whoever receives the patient next. Cards are the only part of the system
 A.C.T has physically held.
 
-**Charitable funds and rehabilitation houses.** Not records, but structurally part of the archive: houses
-hold
-patients unable to return home immediately, and funds pay ordinary hospitals for silence or
-transfer. Both create
+**Charitable funds and rehabilitation houses.** Not records, but structurally part of the archive: houses hold
+patients unable to return home immediately, and funds pay ordinary hospitals for silence or transfer. Both create
 paper trails that contradict civic death records.
 
 ## TECHNICAL SPECIFICATION
 
-Values are restated from incomplete patient cards, failure labels, and the Concern's own asset list. A.C.T has not
-secured a ledger volume and no operation to obtain one is authorised, so every value below describes fragments rather
-than the archive.
+Values are restated from incomplete patient cards, failure labels, and the Concern's
+own asset list. A.C.T has not secured a ledger volume and no operation to obtain one
+is authorised, so every value below describes fragments rather than the archive.
 
 | SPECIFICATION FIELD | RECORDED VALUE |
 |---|---|
@@ -123,9 +107,9 @@ than the archive.
 | Censored content | names, routes, refusals |
 | Full-ledger operation | none authorised |
 
-The dual-name rule is a ledger-writing instruction rather than a bedside courtesy, and it is the clearest statement of
-the archive's purpose. Neither answer is proof of death, which is precisely the inference a civic record invites and
-this one refuses to make.
+The dual-name rule is a ledger-writing instruction rather than a bedside courtesy, and
+it is the clearest statement of the archive's purpose. Neither answer is proof of death,
+which is precisely the inference a civic record invites and this one refuses to make.
 
 ## INTERFACE AND OPERATING ENVELOPE
 
@@ -152,15 +136,14 @@ this one refuses to make.
 - Weakest where an official death is read as the end of the case.
 - Weakest where a fragment is cited as the archive's content.
 
-Ledger volume count, patients officially dead elsewhere, and Excommunicated Class overlap are NOT MEASURED.
-Intelligence Division assesses that a full ledger would raise confidence on the parent file, and no operation to
-obtain one is authorised.
+Ledger volume count, patients officially dead elsewhere, and Excommunicated Class
+overlap are NOT MEASURED. Intelligence Division assesses that a full ledger would
+raise confidence on the parent file, and no operation to obtain one is authorised.
 ## OPERATING PROCEDURE
 
 An entry is opened when the Concern takes a case. Fields A.C.T has observed
 or inferred on cards and in fragments
-include patient name, old name, new name, incident source, body status, restoration attempt, refusal
-reason,
+include patient name, old name, new name, incident source, body status, restoration attempt, refusal reason,
 prosthetic attachment, stabilizer use, donor route, aftercare hostel, fever threshold, memory decision, and whether
 the patient is legally dead in civic systems.
 
@@ -170,17 +153,15 @@ record it; if the patient answers to the new name, record that too; neither
 answer is proof of death* is a
 ledger-writing rule, not a bedside courtesy.
 
-Entries are updated at each transfer. Where a patient moves between a rehabilitation house,
-a mobile clinic, and an
-ordinary hospital, the ledger is the only continuous thread. A.C.T field teams encountering a
-Saint-Vera card should
+Entries are updated at each transfer. Where a patient moves between a rehabilitation house, a mobile clinic, and an
+ordinary hospital, the ledger is the only continuous thread. A.C.T field teams encountering a Saint-Vera card should
 treat it as a pointer into a record they will never see in full.
 
 ### Numbered Operating Sequence
 
-The sequence applies to the only part of this system A.C.T ever touches. Cataloguing comes before interpretation
-because a card is written for whoever receives the patient next, and reading it as an intelligence document loses the
-instruction it is carrying.
+The sequence applies to the only part of this system A.C.T ever touches. Cataloguing
+comes before interpretation because a card is written for whoever receives the patient
+next, and reading it as an intelligence document loses the instruction it is carrying.
 
 1. Treat a recovered card as a pointer, not as the record.
 2. Catalogue the card before interpreting its instruction lines.
@@ -222,46 +203,37 @@ No complete ledger exists in A.C.T custody. Every field name above is inferred f
 fragments, and inferred fields
 must not be cited as confirmed structure.
 
-The ledger's evidentiary status is complicated. It is a private corporate record about people
-who may be legally dead.
+The ledger's evidentiary status is complicated. It is a private corporate record about people who may be legally dead.
 Civil Covert Division notes that using it in any civic process would expose the
 Concern's concealment methods and,
 through them, the survivors.
 
-Excommunicated Class review intersects the ledger where a patient's relationship to duty, memory, body
-status, or
-public identity has become unstable. No Saint-Vera file may redefine Excommunicated Class as an
-exposure
+Excommunicated Class review intersects the ledger where a patient's relationship to duty, memory, body status, or
+public identity has become unstable. No Saint-Vera file may redefine Excommunicated Class as an exposure
 classification.
 
 ## FAILURE HISTORY
 
 ### Ledger Fragment Recovery - DATE WITHHELD
 
-Incomplete patient cards were recovered during transfer cases. No ledger volume, licence document, or
-failure archive
+Incomplete patient cards were recovered during transfer cases. No ledger volume, licence document, or failure archive
 page has been obtained. Intelligence Division records this as the standing gap in the
 parent file's confidence
 assessment.
 
 ### Refusal Label Retention - DATE WITHHELD
 
-A failure label reading *Restoration denied* with three stated reasons was retained by Medical
-Division. The label is
-filed under `TECH-GOI-056-3` and cross-filed here because the sealed failure archive is a ledger
-subdivision.
+A failure label reading *Restoration denied* with three stated reasons was retained by Medical Division. The label is
+filed under `TECH-GOI-056-3` and cross-filed here because the sealed failure archive is a ledger subdivision.
 
 ## DIVISION USE
 
-Intelligence Division holds the file and tracks donor routes, sealed licences, and ledger-adjacent sightings.
-Subject
-Care Division reviews any entry touching identity continuity. Civil Covert Division handles the civic
-paperwork
+Intelligence Division holds the file and tracks donor routes, sealed licences, and ledger-adjacent sightings. Subject
+Care Division reviews any entry touching identity continuity. Civil Covert Division handles the civic paperwork
 contradiction — death certificates, insurance claims, disability systems, family records. Medical Division attaches
 where an entry records a clinical decision A.C.T may need to evaluate.
 
-A.C.T may not compel disclosure of patient names. Appropriation of records is limited to
-material not required for
+A.C.T may not compel disclosure of patient names. Appropriation of records is limited to material not required for
 ongoing patient care, and a ledger entry about a living patient is by definition
 required for their care.
 

@@ -15,8 +15,8 @@ The rulings here override anything implied by an existing record.
 | [`readme.txt`](readme.txt) | The folder's original note, kept as it was written. |
 
 The AI-facing generation guides live beside this folder, in
-[`AI OPERATIONS RULES/`](../AI%20OPERATIONS%20RULES/), and are the operational counterpart to the
-standard recorded here.
+[`AI OPERATIONS RULES/`](../AI%20OPERATIONS%20RULES/), and are
+the operational counterpart to the standard recorded here.
 
 ---
 
@@ -32,9 +32,8 @@ the corpus.** Each carries its own section in `ACT_Generation_Standard_2026_Upda
 | **memetic** | Canon. Defined under *Canonical Term: Memetic*. |
 | **`[BLANK]` and `[ BLANK ]`** | Two different things. The unspaced form is a **containment class**; the spaced form is a **redaction marker**. They are not interchangeable and must not be normalised onto each other. |
 
-Corpus counts at the time of the ruling: 100 spaced redaction markers, 74 unspaced containment
-classes, 586 occurrences of `O5` across 139 files, 638 of `amnestics`, 707 of `memetic`. None were
-rewritten.
+Corpus counts at the time of the ruling: 100 spaced redaction markers, 74 unspaced containment classes,
+586 occurrences of `O5` across 139 files, 638 of `amnestics`, 707 of `memetic`. None were rewritten.
 
 ---
 

@@ -37,11 +37,9 @@ run, and how the relay holds material that arrived from the water.
 
 **Site Designation:** ACT-SITE-05-ID-C **Site Codename:** Nusantara Deep Relay **Floor Designation:** F-3 **Floor
 Name:** Maritime and Island Holding Level **Floor Type:** Main Holding Level **Vertical Position:** Third-deepest
-numbered floor of the relay's built installation **Floor Above:** F-4 (Laboratory and Research Level)
-**Floor Below:**
-F-2 (Deep Monitoring and Restricted Records) **Containment Character:** Water-capable and pressure-rated holding under
-maritime doctrine **Primary Function:** Holding of anomalies recovered from the region's waters and islands,
-in
+numbered floor of the relay's built installation **Floor Above:** F-4 (Laboratory and Research Level) **Floor Below:**
+F-2 (Deep Monitoring and Restricted Records) **Containment Character:** Water-capable and pressure-rated holding
+under maritime doctrine **Primary Function:** Holding of anomalies recovered from the region's waters and islands, in
 water-capable containment chambers, pressure-rated environments, and climate-controlled holding **Access Posture:**
 Controlled operational access under maritime holding doctrine **Current Status:** Active **Scale Note:** The relay's
 main holding level for sea-and-island-recovered material within the built installation
@@ -52,10 +50,8 @@ main holding level for sea-and-island-recovered material within the built instal
 
 The Nusantara Deep Relay recovers anomalies from one of the most demanding environments the
 Facility operates: the
-sea. Maritime recovery returns material that is water-dependent, pressure-adapted, and shaped by an environment
-that
-built containment must replicate. The relay's holding doctrine exists to keep such material —
-and F-3 is where that
+sea. Maritime recovery returns material that is water-dependent, pressure-adapted, and shaped by an environment that
+built containment must replicate. The relay's holding doctrine exists to keep such material — and F-3 is where that
 keeping happens within the island's built installation.
 
 F-3 is the relay's main holding level for anomalies recovered from the region's waters
@@ -77,18 +73,15 @@ below. It is the relay's main holding level, positioned within the island's buil
 
 ### 3.2 Relationship to the Maritime Register
 
-The relay's maritime holdings are registered separately from its floor register: water-capable containment exists
-in
+The relay's maritime holdings are registered separately from its floor register: water-capable containment exists in
 the port facility and aboard specialized vessels as well as in the island's built
 levels. F-3 is the built
 installation's component of that wider maritime holding system.
 
 ### 3.3 Relationship to F-4
 
-F-3 coordinates with the Laboratory and Research level above: material held on the floor
-is studied in the
-laboratories above under controlled conditions, and research findings inform the holding regimens administered on
-F-3.
+F-3 coordinates with the Laboratory and Research level above: material held on the floor is studied in the
+laboratories above under controlled conditions, and research findings inform the holding regimens administered on F-3.
 
 ---
 
@@ -102,14 +95,12 @@ water-dependent material, the relay required a built holding level capable of co
 ### 4.2 The Water-Capable Standard
 
 The floor's defining infrastructure — water-capable containment chambers and pressure-rated environments — was
-developed as the relay's standard response to its typical resident: material shaped by the
-sea, requiring containment
+developed as the relay's standard response to its typical resident: material shaped by the sea, requiring containment
 that replicates the water and pressure it came from.
 
 ### 4.3 Modern Configuration
 
-In its modern configuration, F-3 is the relay's main holding level for sea-and-island-recovered material
-within the
+In its modern configuration, F-3 is the relay's main holding level for sea-and-island-recovered material within the
 built installation, holding the working population of the relay's maritime containment system.
 
 ---
@@ -124,8 +115,7 @@ Chief** appointed by the Site Director.
 ### 5.2 Authority over Residents
 
 The Holding Chief holds standard custodial authority over the floor's residents: chamber assignment, environmental
-management, and routine handling under the relay's maritime holding doctrine. Disposition decisions are made
-above the
+management, and routine handling under the relay's maritime holding doctrine. Disposition decisions are made above the
 floor.
 
 ### 5.3 Authority Limits
@@ -147,10 +137,8 @@ chamber maintenance, and the documentation of the floor's residents.
 
 ### 6.2 Recovery Division Liaison
 
-Recovery personnel coordinate with F-3 on the intake of maritime-recovered material: recoveries arriving from
-the
-relay's vessels and port operations are received on the floor under the maritime holding
-doctrine.
+Recovery personnel coordinate with F-3 on the intake of maritime-recovered material: recoveries arriving from the
+relay's vessels and port operations are received on the floor under the maritime holding doctrine.
 
 ### 6.3 Research Division Liaison
 
@@ -164,8 +152,7 @@ medical oversight and for personnel working with the floor's material.
 
 ### 6.5 Security Division
 
-Security guards the floor's access architecture and the holding units, and enforces the handling
-rules governing
+Security guards the floor's access architecture and the holding units, and enforces the handling rules governing
 movement of material within the floor.
 
 ---
@@ -191,8 +178,7 @@ marine-compatible construction, and environments engineered for residents shaped
 
 ### 7.3 The Pressure-Rated Environments
 
-The floor's pressure-rated environments hold material recovered from depth: containment rated for the pressures
-its
+The floor's pressure-rated environments hold material recovered from depth: containment rated for the pressures its
 residents came from, engineered to maintain marine-dependent material under conditions it can survive.
 
 ### 7.4 Climate-Controlled Holding
@@ -216,8 +202,7 @@ water and air systems, and the engineered environments that maritime holding req
 
 ### 8.3 Monitoring
 
-Every chamber and unit on F-3 is under continuous monitoring: environmental, biological, and behavioral.
-Monitoring
+Every chamber and unit on F-3 is under continuous monitoring: environmental, biological, and behavioral. Monitoring
 data flows to the floor command post and the relay's central watch.
 
 ### 8.4 Communication
@@ -238,8 +223,7 @@ within the floor is governed by the handling rules of the material being accesse
 ### 9.2 Chamber Access
 
 Chamber access follows standard holding procedure: authorized personnel, documented handling, and observation
-maintained throughout. Most routine work is conducted through the monitoring architecture rather than through
-physical
+maintained throughout. Most routine work is conducted through the monitoring architecture rather than through physical
 entry.
 
 ### 9.3 Transfer Procedures
@@ -255,8 +239,7 @@ F-3 maintains standing transfer procedures:
 
 ### 9.4 Incident Response
 
-F-3 maintains incident response for holding events: chamber alarms, handling incidents, and environmental failures
-are
+F-3 maintains incident response for holding events: chamber alarms, handling incidents, and environmental failures are
 met with the relay's maritime response doctrine, with the sea treated as an extension
 of the containment environment
 where a maritime breach occurs.
@@ -267,8 +250,7 @@ where a maritime breach occurs.
 
 ### 10.1 Filing Doctrine
 
-F-3's resident manifest is preserved in the clearance-gated Nusantara Annex Register. This dossier confirms
-the
+F-3's resident manifest is preserved in the clearance-gated Nusantara Annex Register. This dossier confirms the
 general character of the floor's holdings without enumerating them.
 
 ### 10.2 Holding Character
@@ -282,33 +264,24 @@ F-3 holds anomalies recovered from the region's waters and islands:
 
 ### 10.3 Signature Resident — AFD-NB-964, "Death Angler"
 
-The relay's signature resident, **AFD-NB-964** — the **Death Angler**, the **ABYSSAL PREDATOR OF THE
-GATED LURE** — is
+The relay's signature resident, **AFD-NB-964** — the **Death Angler**, the **ABYSSAL PREDATOR OF THE GATED LURE** — is
 held in the relay's water-capable, pressure-rated deep holding environment under continuous monitoring. AFD-NB-964 is
-a 10.4-meter aquatic organism resembling a hybrid of a deep-sea anglerfish and the armored
-prehistoric *Dunkleosteus*,
-first detected through investigation of intermittent **Sonar Voids** — regions of ocean where sound
-returned nothing.
+a 10.4-meter aquatic organism resembling a hybrid of a deep-sea anglerfish and the armored prehistoric *Dunkleosteus*,
+first detected through investigation of intermittent **Sonar Voids** — regions of ocean where sound returned nothing.
 
 The resident is classified **REACTIVE**, at **Threat Level 4 (High Lethality)**, with **Transformation Viability:
-NEUTRAL** — a resident whose containment is the achievement, not a candidate for transformation.
-Its recovery required
-one of the Facility's most significant maritime containment operations, and its holding environment —
-water-capable,
-pressure-rated, and continuously monitored — is maintained under the relay's maritime doctrine as the
-physical
-counterpart of that achievement. The relay's study of AFD-NB-964 contributes to the Facility's understanding
-of
-deep-sea anomalous biology and the relationship between deep-ocean anomalies and the deeper structures the
-relay
+NEUTRAL** — a resident whose containment is the achievement, not a candidate for transformation. Its recovery required
+one of the Facility's most significant maritime containment operations, and its holding environment — water-capable,
+pressure-rated, and continuously monitored — is maintained under the relay's maritime doctrine as the physical
+counterpart of that achievement. The relay's study of AFD-NB-964 contributes to the Facility's understanding of
+deep-sea anomalous biology and the relationship between deep-ocean anomalies and the deeper structures the relay
 exists to watch.
 
 ### 10.4 Additional Holdings
 
 Other maritime and island holdings are held on F-3 and across the relay's maritime
 platforms under standard doctrine,
-with designations preserved in the Annex Register. Personnel without specific assignment to those files
-do not require
+with designations preserved in the Annex Register. Personnel without specific assignment to those files do not require
 their names.
 
 ---
@@ -324,14 +297,12 @@ maritime-hold staff, supported by Recovery, Research, Medical, and Security pers
 ### 11.2 Duty Life
 
 Duty on F-3 is maritime holding work: environmental rounds, chamber maintenance, biological monitoring, and
-documentation. The floor's rhythm follows the relay's recovery flow — the arrivals of the
-sea's material and the
+documentation. The floor's rhythm follows the relay's recovery flow — the arrivals of the sea's material and the
 patient holding that follows.
 
 ### 11.3 The Maritime Discipline
 
-The floor's personnel work under the relay's maritime discipline: the understanding that the sea
-is both the recovery
+The floor's personnel work under the relay's maritime discipline: the understanding that the sea is both the recovery
 environment and a containment system in its own right. Personnel on F-3 hold what
 the sea gave up, under environments
 engineered to stand in for the water and pressure their residents came from.
@@ -349,25 +320,20 @@ containment the sea cannot provide.
 
 ### 12.2 Environmental Doctrine
 
-F-3 doctrine holds that environment is containment: the floor's engineered environments are its primary
-holding
+F-3 doctrine holds that environment is containment: the floor's engineered environments are its primary holding
 system, and their maintenance is the floor's central duty.
 
 ### 12.3 Recovery Doctrine
 
-F-3 doctrine holds that the relay's recoveries are its responsibility: the floor receives what
-the relay's maritime
-operations bring back, and the containment of recovered material is the completion of the
-recovery.
+F-3 doctrine holds that the relay's recoveries are its responsibility: the floor receives what the relay's maritime
+operations bring back, and the containment of recovered material is the completion of the recovery.
 
 ---
 
 ## 13. Incident Archive
 
-The floor's incident record is dominated by holding events: environmental incidents, chamber alarms, and
-handling
-events. The relay's history records the maritime holding lessons that have shaped the floor's
-doctrine — and the
+The floor's incident record is dominated by holding events: environmental incidents, chamber alarms, and handling
+events. The relay's history records the maritime holding lessons that have shaped the floor's doctrine — and the
 containment of the relay's most significant recoveries stands as the floor's record.
 
 ---
