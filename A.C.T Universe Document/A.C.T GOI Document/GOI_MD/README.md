@@ -500,4 +500,4 @@ approve that specific asset or a
 small bounded set. The wider SVG-first, no-generation, external-art
 prohibition, and phased-review rules remain binding under:
 
-[RESEARCH FOLDER/2026-09-06_A](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/_ARCHIVE-OPS/RESEARCH%2520FOLDER/2026-09-06_A.C.T._Wiki_Scope_and_Visual_Asset_Policy.md)
+[RESEARCH FOLDER/2026-09-06_A](https://github.com/Redditor008/A.C.T-FACILITY-UNIVERSE/blob/main/_ARCHIVE-OPS/RESEARCH%20FOLDER/2026-09-06_A.C.T._Wiki_Scope_and_Visual_Asset_Policy.md)
