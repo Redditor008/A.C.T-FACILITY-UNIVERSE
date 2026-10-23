@@ -7580,3 +7580,54 @@ and failed. The target is always the folder plus README, never the path itself.
 | `BOXDRAW_CHARACTERS` / `DOUBLED_RULE_LINES` | 0 / 0 |
 | `PATCH_SAVER_ENTRIES` | 110 |
 
+## Prompt End Update — 2026-10-24, Section-Headings For The Last Two READMEs; README Quality Gated
+
+Owner ruling: fix the 4 pre-existing README defects that were left alone, and hold README quality
+with a gate.
+
+### What was fixed
+
+`_ARCHIVE-OPS/RESEARCH FOLDER/README.md` and `docs/README.md` had prose and no sections, so GitHub
+rendered both as one undifferentiated block. Both now carry sections: the research folder explains
+what a memo is, why the memos are kept and how to read them; the docs folder states what belongs
+there and records that `index.html` is intentionally empty by standing ruling.
+
+### What was left, and why
+
+The remaining wide rows are table cells and link targets. A link row cannot be wrapped without
+breaking the target, and a wide table cell is a pipe row rather than prose, so `MD_WIDE_PROSE_LINES`
+does not count it and neither should a reader object to it.
+
+### The gate, and a mistake made adding it
+
+`THIN_READMES` and `READMES_WITHOUT_SECTIONS` now hold the two defects no gate tested: a README
+under 40 words, and a README with no sections. Both read **0**.
+
+The first attempt at the injection test crashed the audit with `ValueError: too many values to
+unpack`. The new entry had been appended to the deletion-test list, which unpacks pairs, while the
+entry itself was a four-field text test. Moved to the text-test list. **A harness with more than one
+test shape must be checked for which list an entry went into.**
+
+The suite is **22 gates tested, 22 fired, 0 blind**.
+
+### Gates after the fix
+
+| GATE | RESULT |
+|---|---|
+| `THIN_READMES` | 0 |
+| `READMES_WITHOUT_SECTIONS` | 0 |
+| `FOLDERS_WITHOUT_README` / `ROOT_FOLDERS_WITHOUT_README` | 0 / 0 |
+| `DOCUMENT_COUNT` | 1026 |
+| `STORY_MANUSCRIPT_LOCKSTEP_FAILURES` | 0 |
+| `STORY_CHAPTERS_TOTAL` | 12 |
+| `MD_WIDE_PROSE_LINES` / `TXT_WIDE_PROSE_LINES` | 0 / 0 |
+| `TITLE_STACK_DOCUMENTS` / `MD_BOLD_IN_HEADING_LINES` | 0 / 0 |
+| `BOXDRAW_CHARACTERS` / `DOUBLED_RULE_LINES` | 0 / 0 |
+| `RECORDS_NOT_ONE_H1` / `BAD_EOF` / `ODD_FENCE` | 0 / 0 / 0 |
+| `HISTORY_PARENT_IS_SESSION_BASE` | 0 |
+| `PATCH_SAVER_ENTRIES` | 111 |
+
+### Open
+
+The story craft pass against the house narrative rules' banned-tic list and craft sections.
+

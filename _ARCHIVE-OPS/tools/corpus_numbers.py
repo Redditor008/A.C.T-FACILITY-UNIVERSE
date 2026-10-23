@@ -180,6 +180,19 @@ def main() -> int:
     # so every folder needs one. ROOT_FOLDERS_WITHOUT_README only ever tested the
     # top level and read 0 while 24 nested folders had nothing.
     _skip = {".git", ".arena", "Logo", "docs", "node_modules"}
+    # Owner ruling 2026-10-24: a README that renders is not the same as a README
+    # worth reading. The first 24 were generated with a correct shape and nothing to
+    # say, and no gate complained because none tested quality.
+    r["THIN_READMES"] = 0
+    r["READMES_WITHOUT_SECTIONS"] = 0
+    for p in ROOT.rglob("README.md"):
+        if any(part in {".git", ".arena"} for part in p.parts):
+            continue
+        body = read(p)
+        if len(body.split()) < 40:
+            r["THIN_READMES"] += 1
+        if not re.search(r"^## ", body, re.M):
+            r["READMES_WITHOUT_SECTIONS"] += 1
     r["FOLDERS_WITHOUT_README"] = 0
     for d in ROOT.rglob("*"):
         if not d.is_dir() or any(part in _skip for part in d.parts):
