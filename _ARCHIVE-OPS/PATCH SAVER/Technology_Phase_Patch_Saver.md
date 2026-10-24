@@ -8753,3 +8753,67 @@ extract-and-replay procedure has worked. It is now proven rather than theoretica
 `TECH-GOI-069-4` at 1,324 words — the last of set 069. Then sets 070 and 073. The 16 registry-variance
 records. The 13 chapter files to judge by hand.
 
+## Prompt End Update — 2026-10-24, Set 069 Closed: All Four Namewright Bazaar Records At House Shape
+
+Owner ruling: finish set 069, then the 16 registry-variance records.
+
+### The set is complete
+
+| RECORD | WORDS BEFORE | WORDS AFTER | `.txt` | SECTIONS |
+|---|---|---|---|---|
+| `TECH-GOI-069-1` | 1,148 | 2,204 | 2,260 | 14 of 14 |
+| `TECH-GOI-069-2` | 1,260 | 2,304 | 2,366 | 14 of 14 |
+| `TECH-GOI-069-3` | 1,121 | 2,223 | 2,280 | 14 of 14 |
+| `TECH-GOI-069-4` | 1,324 | 2,406 | 2,468 | 14 of 14 |
+| **set total** | **4,853** | **9,137** | — | — |
+
+`TECH_RECORDS_OFF_SHAPE` 12 → **8**. `TECH_RECORDS_UNDER_1800` 8 → **4**. All four of the remaining
+under-floor records are in sets 070 and 073.
+
+### 069-4 is the record with a real physical description
+
+The other three in the set had nothing to describe, and their physical sections are tables of absence.
+`069-4` is different: pine, painted twice, mismatched replaced hinges, a worn band on the handle side,
+an aperture of 61 by 44 centimetres, three shelf pin holes at even spacing, bare wood inside and paint
+outside. Every one of those came from the existing record and none was added.
+
+The two unresolved observations were kept as unresolved rather than tidied into conclusions. Organisation
+implies retrieval, and you do not organise what you plan to burn. Bare wood inside should be worse than
+painted wood in a damp room, and it is not.
+
+### The record's central asymmetry drives every section
+
+The archive holds a door and not a cupboard. That single fact generates the whole prohibition envelope,
+which is wider here than for any other object in the set: reassembly, sealing, discarding and cleaning
+are all prohibited outright rather than restricted.
+
+`SERVICING AND CALIBRATION` leaves the mismatched hinges mismatched on purpose. They are evidence that
+the door was repaired during its service life by somebody who did not care what it matched, and replacing
+them would remove a fact about the cupboard's use for no gain.
+
+`FAILURE HISTORY` carries a second meaning here that the other three do not. An empty failure history
+usually means nothing broke. On this record it means **nothing was done**, because a door held unaltered
+is the only evidence of where the contents went.
+
+### One cross-reference between records in the set
+
+`KNOWN LIMITS` on `069-4` records that the door's condition was not tested at the moment of seizure, so
+what it establishes is limited to what has happened since. That is the same limit recorded for the seized
+Ark coffer in `TECH-GOI-074-1`, closed earlier this session. The observation is now made in two places
+rather than invented in one, which is the pattern the archive is supposed to follow.
+
+### Validation
+
+`corpus_numbers.py`: `TECH_RECORDS_OFF_SHAPE` 8, `TECH_RECORDS_UNDER_1800` 4, `TECH_RECORDS` 242,
+`TECH_UNPAIRED_TWINS` 0, `TXT_LINES_OVER_118` 0, `TXT_WIDE_PROSE_LINES` 0, `MD_WIDE_PROSE_LINES` 0,
+`TXT_BOLD_FILES` 0, `BOXDRAW_CHARACTERS` 0, `RECORDS_NOT_ONE_H1` 0, `TITLE_STACK_DOCUMENTS` 0,
+`BAD_EOF` 0, `ODD_FENCE` 0.
+
+`gate_audit.py`: gates tested 26, fired 26, blind 0.
+
+`PATCH_SAVER_ENTRIES` 130.
+
+### Open
+
+The 16 registry-variance records. Then sets 070 and 073. The 13 chapter files to judge by hand.
+

@@ -1,107 +1,176 @@
-# A.C.T FACILITY ARCHIVE FILE
-## Namewright Bazaar Dead-Name Cupboard Door
+# A.C.T FACILITY ARCHIVE FILE — NAMEWRIGHT BAZAAR DEAD-NAME CUPBOARD DOOR
+### TECHNOLOGY RECORD - NAMEWRIGHT BAZAAR DEAD-NAME CUPBOARD DOOR
 
-**Archive Status:** Active Restricted Recovered Adversary Device Record  
-**Distribution:** Containment / Subject Care / Legal / Intelligence / Command  
-**Authority:** Containment Division, with Subject Care and Legal review  
-**Designation:** TECH-GOI-069-4  
-**Origin:** Namewright Bazaar (GOI-BS-X-069), Bazaar premises fitting  
-**Clearance:** Level 4 for custody; Level 5 for any handling  
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| TECHNOLOGY DESIGNATION | TECH-GOI-069-4 |
+| TECHNOLOGY NAME | Namewright Bazaar Dead-Name Cupboard Door |
+| SHORT NAME | NBDCD |
+| TECHNOLOGY FAMILY | RECOVERED ADVERSARY DEVICE / IDENTITY STORAGE STRUCTURE / DUAL FILING MANDATORY |
+| ORIGIN | NAMEWRIGHT BAZAAR (GOI-BS-X-069) / BAZAAR PREMISES FITTING / DOOR ONLY, CUPBOARD NOT HELD |
+| PRIMARY CONTROLLER | Containment Division |
+| ATTACHED DIVISIONS | Containment, Subject Care, Legal, Intelligence, Medical Care, Command |
+| OPERATIONAL STATUS | ONE DOOR HELD INTACT / NOT REASSEMBLED / NOT SEALED / NOT RETURNED |
+| RISK STATUS | ACTIVE SUBJECT-CARE RISK / CONTENTS UNRECOVERED / TREATED AS PEOPLE'S NAMES NOT INVENTORY |
+| CLEARANCE REQUIRED | Level 4 for custody; Level 5 for any handling |
 
-### Archive Note
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| ARCHIVE STATUS | Active Restricted Recovered Adversary Device Record |
+| DISTRIBUTION | Containment, Subject Care, Legal, Intelligence, Command |
+| AUTHORITY | Containment Division, with Subject Care and Legal review |
+
+#### Archive Note
 
 The archive holds one dead-name cupboard door. It does not hold the cupboard.
 
-That asymmetry is the whole of this file and it is stated at the top rather than buried. A door is
-not a cupboard. The contents — whatever was in that cupboard — are unrecovered, unaccounted for, and
-possibly still in Bazaar hands. Every restriction below exists because of what the door implies
-rather than because of anything the door does.
+That asymmetry is the whole of this file and it is stated at the top rather than buried. A door is not a
+cupboard. The contents — whatever was in that cupboard — are unrecovered, unaccounted for, and possibly
+still in Bazaar hands. Every restriction below exists because of what the door implies rather than
+because of anything the door does.
 
-The dossier describes dead-name cupboards as containing discarded identity fragments, and puts them at the
-end of the trade sequence. A Ledger Mother identifies a source name, a Namewright cuts the carrier
-attachments with an alias knife, the binding is performed, court stamps make the substitution look official,
-and the severed carriers go into a dead-name cupboard. The cupboard is where a person's removed name goes.
+The dossier describes dead-name cupboards as containing discarded identity fragments, and puts them at
+the end of the trade sequence. A Ledger Mother identifies a source name, a Namewright cuts the carrier
+attachments with an alias knife, the binding is performed, court stamps make the substitution look
+official, and the severed carriers go into a dead-name cupboard. The cupboard is where a person's
+removed name goes.
 
 So the archive holds the entrance to a container of discarded identities, and not the container. This
 file is written as a Subject Care document filed under technology, because if cupboards store rather
 than destroy, their contents are recoverable identity material belonging to identifiable people.
 
-**DEAD-NAME CUPBOARD RULE**
+Controlled label: **DEAD-NAME CUPBOARD RULE**.
 
-This is a door and not a cupboard. The contents are unrecovered and must be treated as people's names
-rather than inventory. Personnel must not reassemble it, must not seal it, and must not discard it.
+Core handling rule:
+
+```text
+THIS IS A DOOR AND NOT A CUPBOARD. THE CONTENTS ARE UNRECOVERED AND ARE TREATED AS
+PEOPLE'S NAMES RATHER THAN INVENTORY. DO NOT REASSEMBLE IT, DO NOT SEAL IT, AND DO
+NOT DISCARD IT. DO NOT CLEAN THE INNER SURFACE OR THE FRAME.
+```
 
 ---
 
-## THE OBJECT
+## FUNCTION SUMMARY
 
-## 1.1 What the door is
+The door closed a dead-name cupboard, which is the disposal point at the end of the Bazaar trade
+sequence. The severed carriers — signatures, labels, bracelets, name tags — went in there.
 
-Pine, painted twice, hinges replaced at some point with ones that do not match. The paint on the
-handle side is worn through to bare wood in a narrow band, which is what happens when a lot of hands
-use a door for a long time. Whatever was in the cupboard behind it, the cupboard was used.
+- closed a fixed storage structure on Bazaar premises;
+- received identity material removed from identifiable people;
+- sits at the end of the sequence rather than inside it, which makes it a disposal point.
 
-The aperture measures 61 by 44 centimetres. That is not a
-cupboard for storing much. It is a cupboard for storing paper.
+Whether disposal means storage or destruction is not established, and the difference decides whether the
+contents still exist. That single unknown governs every restriction in this file, because storage means
+the contents are recoverable identity material belonging to identifiable people, and destruction means
+they are not.
+
+The door itself does nothing. It is held for what it implies and for the residue it may still carry.
+
+---
+
+## ORIGIN AND CUSTODY
+
+Origin is the Namewright Bazaar, designated `GOI-BS-X-069`. The door is a Bazaar premises fitting, and
+it came away without the cupboard. Whether the cupboard was removed, destroyed, left in place or never
+located is not recorded.
+
+Custody sits with Containment, with Subject Care, Legal, Intelligence and Medical Care reviewing.
+Custody is Level 4 and handling is Level 5. The door has not been reassembled to anything and has not
+been returned.
+
+Unlike the knives and stamps, which are portable trade stock, a cupboard is fixed to a location. A
+seized door therefore implies a specific Bazaar site, and Intelligence treats it as a lead toward that
+site under Legal review rather than as an object in its own right.
+
+---
+
+## PHYSICAL OR SYSTEM DESCRIPTION
+
+This record has a physical description, which is unusual in the set and worth using carefully.
+
+| PROPERTY | RECORD |
+|---|---|
+| Material | Pine |
+| Finish | Painted twice |
+| Hinges | Replaced at some point with ones that do not match |
+| Handle-side paint | Worn through to bare wood in a narrow band |
+| Aperture | 61 by 44 centimetres |
+| Inner face | Bare wood |
+| Outer face | Painted |
+| Shelf pin holes | Three, on the inside, at even spacing |
 
 Two observations cannot be resolved and are recorded rather than concluded.
 
-There are three shelf pin holes on the inside at even spacing, so there were shelves, and shelves at
-even spacing suggest somebody intended to organise what went in there. Organisation implies
-retrieval. You do not organise what you plan to burn.
+There are three shelf pin holes on the inside at even spacing, so there were shelves, and shelves at even
+spacing suggest somebody intended to organise what went in there. Organisation implies retrieval. You do
+not organise what you plan to burn.
 
-The inner face is bare wood and the outer face is painted, and bare wood in a damp room should be
-worse than painted wood. It is not. Either the room was dry or the door spent most of its life closed.
+The inner face is bare wood and the outer face is painted, and bare wood in a damp room should be worse
+than painted wood. It is not. Either the room was dry or the door spent most of its life closed.
 
-## 1.2 What cannot be said about it
+The worn band on the handle side is what happens when a lot of hands use a door for a long time. The
+aperture measures 61 by 44 centimetres, which is not a cupboard for storing much. It is a cupboard for
+storing paper.
 
-Whether the cupboard was locked, and who held the key, are absent from the dossier. So is why the
-door came away without the cupboard — whether the cupboard was removed, destroyed, left in place or
-never located. The seal on the door's integrity, so to speak, was not tested at the moment of
-seizure, so what the door's condition establishes is limited to what has happened since.
+---
 
-## 1.3 Three things that follow
+## TECHNICAL SPECIFICATION
 
-Marked as inference.
+| SPECIFICATION | VALUE | SOURCE |
+|---|---|---|
+| Designation | TECH-GOI-069-4 | A.C.T assignment |
+| Origin organisation | Namewright Bazaar | `GOI-BS-X-069` dossier |
+| Asset class | Dead-name cupboard door, premises fitting | Dossier, Known Assets and Holdings |
+| Units held | One door; no cupboard; no contents | Seizure record |
+| Aperture | 61 by 44 centimetres | Examination |
+| Material and finish | Pine, painted twice | Examination |
+| Whether the cupboard was locked | Not specified | Dossier silent |
+| Who held the key | Not specified | Dossier silent |
+| Fate of the cupboard | Not specified | Dossier silent |
 
-The cupboard is terminal. It sits at the end of the sequence rather than inside it, which makes it a
-disposal point rather than a working station. Whether disposal means storage or destruction is not
-established, and the difference decides whether the contents still exist.
-
-The cupboard is premises-bound. Unlike the knives and stamps, which are portable trade stock, a
-cupboard is fixed to a location, so a seized door implies a specific Bazaar site.
-
-The door may carry residue. A cupboard that held cut name carriers may hold fragments on its inner
+Three inferences follow and are marked as inferences. The cupboard is terminal, sitting at the end of the
+sequence rather than inside it. The cupboard is premises-bound, unlike the portable knives and stamps.
+And the door may carry residue: a cupboard that held cut name carriers may hold fragments on its inner
 surface or in its frame, and the frame is held intact so that an examination remains possible.
 
 ---
 
-## HANDLING
+## INTERFACE AND OPERATING ENVELOPE
 
-## 2.1 Custody
+The door has no interface and no operating envelope of its own. What it has is a prohibition envelope,
+and that envelope is wider than for any other object in the set.
 
-Held by Containment, with Subject Care, Legal, Intelligence and Medical Care reviewing. Handling
-requires Level 5. The door has not been reassembled to anything and has not been returned.
+Custody is Level 4 and handling is Level 5. Reassembly is prohibited at any clearance. Sealing is
+prohibited. Discarding is prohibited. Cleaning the inner surface or the frame is prohibited. A residue
+sample requires Legal approval.
 
-## 2.2 What personnel must not do
+The reason the envelope is wider here is that the object is not the risk. The risk is what the object
+implies, and every prohibited action would either destroy evidence of where the contents went or falsely
+imply that they are accounted for.
 
-Personnel must not fit the door to any container, frame or enclosure. Reassembly is prohibited at any clearance.
+---
 
-Personnel must not seal it and must not discard it. Sealing would imply the contents are accounted
-for when they are not, and discarding would destroy the only evidence of where they went.
+## OPERATING PROCEDURE
 
-Personnel must not clean the inner surface or the frame, and must not take a residue sample without
-Legal approval. Cleaning would destroy the residue that makes a later examination possible, and
-residue from a cupboard that held identity carriers is itself identity material and falls under the
-same restrictions as the name ledgers.
+There is no A.C.T operating procedure, because the door is not operated. What follows is the custody
+procedure, the response if the cupboard is located, and the Bazaar sequence recorded for recognition.
 
-## 2.3 If the cupboard is found
+1. Custody is Level 4 and handling is Level 5.
+2. The door is not fitted to any container, frame or enclosure.
+3. The door is not sealed and is not discarded.
+4. The inner surface and the frame are not cleaned.
+5. No residue sample is taken without Legal approval.
+6. If the cupboard is located, Subject Care attends before any examination of contents.
 
-Where the cupboard itself is located during the dismantlement operation, Subject Care attends before
-any examination of contents, because the contents may be recoverable identity material belonging to
-identifiable people. Intelligence follows and does not lead.
+Step 3 is the one that reads strangely and it is deliberate. Sealing would imply the contents are
+accounted for when they are not, and discarding would destroy the only evidence of where they went. Both
+actions would resolve an open question by pretending it was closed.
 
-## 2.4 The Bazaar's own sequence
+Step 6 places Subject Care ahead of Intelligence, because the contents may be recoverable identity
+material belonging to identifiable people. Intelligence follows and does not lead.
+
+### The Bazaar's own sequence
 
 Recorded for recognition. It is not a Facility procedure and no personnel may follow it.
 
@@ -116,8 +185,65 @@ Recorded for recognition. It is not a Facility procedure and no personnel may fo
 8. The buyer leaves under the source name.
 ```
 
-Step 6 is the only place in the whole trade where the removed material is accounted for, and the
-archive holds the door of one such cupboard and none of its contents.
+Step 6 is the only place in the whole trade where the removed material is accounted for, and the archive
+holds the door of one such cupboard and none of its contents.
+
+---
+
+## SERVICING AND CALIBRATION
+
+No servicing is performed. The door is not cleaned, repaired, re-hinged or refinished.
+
+The mismatched hinges are left mismatched. They are evidence that the door was repaired during its
+service life by somebody who did not care what it matched, and replacing them would remove a fact about
+the cupboard's use for no gain.
+
+Cleaning is prohibited outright rather than restricted. Residue from a cupboard that held identity
+carriers is itself identity material and falls under the same restrictions as the name ledgers, so
+cleaning the inner surface would destroy evidence and would handle identity material without the
+authority that handling requires.
+
+There is nothing to calibrate.
+
+---
+
+## FAULT ISOLATION
+
+| SYMPTOM | POSSIBLE CAUSE | RECOMMENDED ACTION |
+|---|---|---|
+| A request to fit the door to a container | Reconstruction pressure | Refuse; reassembly is prohibited at any clearance |
+| A request to seal or discard the door | Housekeeping instinct | Refuse; both would falsely close an open question |
+| A request to clean the inner surface | Preservation instinct | Refuse; cleaning destroys residue and handles identity material |
+| Residue visible on the inner face or frame | Prior contents | Record; Legal approval required before any sample |
+| The cupboard located during dismantlement | Operational discovery | Subject Care attends first; Intelligence follows |
+
+The last row is the one the whole file is written for. It is recorded here rather than only in the open
+questions because it is an operational event and not a speculation.
+
+---
+
+## KNOWN LIMITS
+
+- the cupboard itself is not held and its fate is not recorded;
+- whether dead-name cupboards store their contents or destroy them is not established;
+- whether the cupboard was locked, and who held the key, are absent from the dossier;
+- why the door came away without the cupboard is not established;
+- how many cupboards the Bazaar operated is unknown, given that one door was seized;
+- the door's condition was not tested at the moment of seizure, so what it establishes is limited to
+  what has happened since.
+
+The last limit is the same one recorded for the seized Ark coffer: an object examined only after
+custody can speak to its handling since, and to nothing before.
+
+---
+
+## FAILURE HISTORY
+
+There is no failure history. The door has not been reassembled, sealed, discarded, cleaned or sampled.
+
+The absence is recorded rather than left blank, and in this case it carries a second meaning. A door
+held unaltered is the only evidence of where the contents went, so the empty failure history is not
+merely a statement that nothing broke. It is a statement that nothing was done.
 
 ---
 
@@ -130,6 +256,23 @@ archive holds the door of one such cupboard and none of its contents.
 | Legal | Rules on any residue sample; holds the evidential interest |
 | Intelligence | Uses the door as a lead toward the Bazaar site, with Legal review |
 | Medical Care | Advises if contents include biological carriers |
+| Command | Receives the record; takes no handling role |
+
+Subject Care attends before Intelligence examines, and that ordering is not discretionary. A person
+whose identity fragments are recovered is a person who needs attending before they are a source.
+
+---
+
+## CROSS-REFERENCES
+
+- `GOI-BS-X-069` — Namewright Bazaar, Group of Interest Dossier
+- `TECH-GOI-069-1` — Namewright Bazaar Partial Name Ledger, Technology Record
+- `TECH-GOI-069-2` — Namewright Bazaar Alias Knife, Technology Record
+- `TECH-GOI-069-3` — Namewright Bazaar Counterfeit Court Stamp, Technology Record
+
+The ledger identifies the source name, the knife cuts the carriers, the stamps make the substitution look
+official, and the cupboard holds what was cut away. The archive holds one partial ledger set, two knives,
+three stamps and one door, and holds no cupboard and no contents.
 
 ---
 
@@ -142,31 +285,20 @@ archive holds the door of one such cupboard and none of its contents.
 - how many cupboards the Bazaar operated, given that one door was seized;
 - whether recovered identity fragments can be returned to the people they came from.
 
-The last question is the one this file exists to keep open. If cupboards store rather than destroy,
-then somewhere in Bazaar premises there are name carriers belonging to identifiable people, and
-returning them is a Subject Care obligation rather than an intelligence opportunity. Nothing here
-closes that question and nothing should.
-
----
-
-## CROSS-REFERENCES
-
-- `GOI-BS-X-069` — Namewright Bazaar, Group of Interest Dossier
-- `TECH-GOI-069-1` — Namewright Bazaar Partial Name Ledger, Technology Record
-- `TECH-GOI-069-2` — Namewright Bazaar Alias Knife, Technology Record
-- `TECH-GOI-069-3` — Namewright Bazaar Counterfeit Court Stamp, Technology Record
-
-The ledger identifies the source name, the knife cuts the carriers, the stamps make the substitution
-look official, and the cupboard holds what was cut away. The archive holds one partial ledger set,
-two knives, three stamps and one door, and holds no cupboard and no contents.
+The last question is the one this file exists to keep open. If cupboards store rather than destroy, then
+somewhere in Bazaar premises there are name carriers belonging to identifiable people, and returning them
+is a Subject Care obligation rather than an intelligence opportunity. Nothing here closes that question
+and nothing should.
 
 ---
 
 ## FILE METADATA
 
-**Record Type:** Technology Record — Recovered Adversary Device  
-**Created:** 16/03/2022  
-**Last Updated:** 02/12/2025  
-**Review Cycle:** On any change in the dismantlement order or if the cupboard is located  
-**Source:** `GOI-BS-X-069` Namewright Bazaar dossier, Known Assets and Holdings and Operating Method  
-**Dual Filing:** Mandatory — GOI seizure, and identity storage structures
+| REGISTRY FIELD | CURRENT VALUE |
+|---|---|
+| RECORD TYPE | Technology Record — Recovered Adversary Device |
+| CREATED | 16/03/2022 |
+| LAST UPDATED | 02/12/2025 |
+| REVIEW CYCLE | On any change in the dismantlement order or if the cupboard is located |
+| SOURCE | `GOI-BS-X-069` Namewright Bazaar dossier, Known Assets and Holdings and Operating Method |
+| DUAL FILING | Mandatory — GOI seizure, and identity storage structures |
