@@ -9034,3 +9034,59 @@ not being introduced against a backlog.
 Corpus figures unchanged by this batch: `TECH_RECORDS` 242, `TECH_RECORDS_OFF_SHAPE` 6,
 `TECH_RECORDS_REGISTRY_OFF_SHAPE` 6, `TECH_RECORDS_UNDER_1800` 4, `TECH_UNPAIRED_TWINS` 0,
 `PATCH_SAVER_WORDS` 77531 before this entry, `HISTORY_PARENT_IS_SESSION_BASE` 0.
+
+---
+
+## Prompt End Update — 2026-10-24, Set 070 Closed: 070-3 and 070-4 Restructured
+
+### What was changed
+
+`TECH-GOI-070-3` Saint Morrow Passage Cold-Map Fragment and `TECH-GOI-070-4` Saint Morrow Passage Partial
+Crossing Ledger were both off-shape. Each carried two headings of its own — THE DOCUMENT and HANDLING for
+the map fragments, THE RECORD and HANDLING for the ledgers — with subsections interleaved out of order, so
+1.4 and 1.5 sat after 2.3 in both files. Both were retired and every subsection folded into the fourteen
+house sections in house order. Nothing was written that the dossier does not support.
+
+For 070-3 the 1.1 and 2.8 passages became FUNCTION SUMMARY, the 2.1 custody passage ORIGIN AND CUSTODY, the
+1.4 passage on what an insulated tube implies PHYSICAL OR SYSTEM DESCRIPTION, the 1.3 silence TECHNICAL
+SPECIFICATION, the 2.2 prohibitions INTERFACE AND OPERATING ENVELOPE, the 2.3 sequence an H3 under
+OPERATING PROCEDURE, the 1.2 and 2.4 storage passages SERVICING AND CALIBRATION, the 2.5 table FAULT
+ISOLATION, the 1.5 and 2.6 limits KNOWN LIMITS, and the 2.7 comparison CROSS-REFERENCES.
+
+For 070-4 the same mapping applied, with the 1.4 passage on the four divisions becoming PHYSICAL OR SYSTEM
+DESCRIPTION and the 2.3 referral passage becoming steps 5 to 7 of OPERATING PROCEDURE.
+
+Both records gained a FAILURE HISTORY whose first entry is the absence of one, each carrying one
+unresolved condition: for the fragments, whether warmth has already altered them and cannot be established
+without a cold-stored control; for the ledgers, whether a person named in an entry is reachable, which has
+been deferred to Subject Care and Legal jointly and is recorded as a decision rather than an oversight.
+
+Set 070 is now closed at 4 of 4.
+
+### What went wrong and was corrected
+
+`md_to_txt.py` was first run from inside `TECH_MD` with a bare filename. The tool decides where the twin
+goes by testing `md.parent.name == "TECH_MD"`, and a bare relative path has an empty parent name, so the
+test failed and both twins were written beside their sources as stray `.txt` files in `TECH_MD` while the
+real twins in `TECH_TXT` kept the old title-stack content. The tool printed its normal success line, so the
+failure was silent. The strays were removed and the tool re-run from the repository root with full paths.
+
+An earlier attempt in the same turn failed outright on an unquoted glob, which word-split on `A.C.T` and
+raised `FileNotFoundError: 'A.C.T'`. That error was visible; the wrong-directory error was not.
+
+### What was verified
+
+`TECH_RECORDS_OFF_SHAPE` and `TECH_RECORDS_REGISTRY_OFF_SHAPE` both read 6 before and both read 4 after.
+`gate_audit.py` reads `gates tested 27 | fired 27 | blind 0`.
+
+070-3 reads 2605 words with fourteen house H2s and its twin 2673 words across 348 lines. 070-4 reads 2619
+words with fourteen house H2s and its twin 2704 words across 351 lines. Both twins render at widest 118 with
+zero markup lines.
+
+`TECH_MD_FILES` and `TECH_TXT_FILES` both read 244, confirming no stray twin survived. `TECH_RECORDS_UNDER_1800`
+still reads 4, which is the Lantern Accord set 073 and not this set.
+
+Corpus-wide: `TECH_RECORDS` 242, `TECH_UNPAIRED_TWINS` 0, `TXT_BOLD_FILES` 0, `TXT_BACKTICK_FILES` 0,
+`TXT_MD_HEADING_FILES` 0, `BOXDRAW_CHARACTERS` 0, `TITLE_STACK_DOCUMENTS` 0, `TXT_LINES_OVER_118` 0,
+`TXT_WIDE_PROSE_LINES` 0, `MD_WIDE_PROSE_LINES` 0, `RECORDS_NOT_ONE_H1` 0, `BAD_EOF` 0, `ODD_FENCE` 0,
+`PATCH_SAVER_ENTRIES_OFF_SHAPE` 0, `HISTORY_PARENT_IS_SESSION_BASE` 0.
