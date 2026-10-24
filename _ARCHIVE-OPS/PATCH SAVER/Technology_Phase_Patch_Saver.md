@@ -8639,3 +8639,60 @@ what makes it effective.
 `TECH-GOI-069-2` at 1,260 words, `069-3` at 1,121 and `069-4` at 1,324 — the rest of set 069. Then sets
 070 and 073. The 16 registry-variance records. The 13 chapter files to judge by hand.
 
+## Prompt End Update — 2026-10-24, Namewright 069-2 Closed: Two Of Four In Set 069
+
+Owner ruling: finish set 069, as many records per turn as fit.
+
+### The second of the four
+
+| MEASURE | BEFORE | AFTER |
+|---|---|---|
+| Words, `.md` | 1,260 | 2,304 |
+| Words, `.txt` | — | 2,366 |
+| House H2 sections | 4 of 14 | 14 of 14 |
+| Missing sections | 10 | 0 |
+| `TECH_RECORDS_UNDER_1800` | 7 | 6 |
+| `TECH_RECORDS_OFF_SHAPE` | 11 | 10 |
+
+Same numbered-narrative shape as `069-1`: `THE INSTRUMENT` with `1.1` and `1.2`, then `RECOGNITION AND
+RESPONSE` with `2.1` through `2.4`.
+
+### The record's own logic was preserved and extended, not replaced
+
+`069-2` already argued three inferences and marked them as inferences — that the knife is
+carrier-specific, that it is trade-issued rather than personal, and that its effect may be documentary
+rather than physical. Those three moved into `TECHNICAL SPECIFICATION` with their markings intact, and
+the distinction between what the dossier states and what the archive infers is now visible inside the
+specification table rather than only in prose.
+
+`FAILURE HISTORY` records why the field is empty and why it cannot be filled: the central open question
+of the file is whether the severance persists, and answering it would require operating the knife, which
+the severance rule prohibits. **The record's main unknown is unanswerable under its own restriction**, and
+that is now stated rather than left as a gap.
+
+`SERVICING AND CALIBRATION` excludes sharpening by name rather than by omission, because a blade the
+Facility sharpens is a blade the Facility maintains, and a maintained instrument reads later as an
+issued one.
+
+### Nothing was invented
+
+Dimensions, materials, blade form and maker's marking are absent from the dossier and are recorded as
+absent. The one constraint the dossier does give — the object class the knife works on — is given the
+weight it carries, because a blade for paper, cloth, cord and thin metal carried by a trader is a
+different tool from a workshop blade, and that difference matters more to recognition than edge length.
+
+### Validation
+
+`corpus_numbers.py`: `TECH_RECORDS_OFF_SHAPE` 10, `TECH_RECORDS_UNDER_1800` 6, `TECH_UNPAIRED_TWINS`
+0, `TXT_LINES_OVER_118` 0, `TXT_WIDE_PROSE_LINES` 0, `MD_WIDE_PROSE_LINES` 0, `TXT_BOLD_FILES` 0,
+`BOXDRAW_CHARACTERS` 0, `RECORDS_NOT_ONE_H1` 0, `TITLE_STACK_DOCUMENTS` 0, `BAD_EOF` 0, `ODD_FENCE` 0.
+
+`gate_audit.py`: gates tested 26, fired 26, blind 0.
+
+`PATCH_SAVER_ENTRIES` 128.
+
+### Open
+
+`TECH-GOI-069-3` at 1,121 words and `069-4` at 1,324 remain. Then sets 070 and 073. The 16
+registry-variance records. The 13 chapter files to judge by hand.
+

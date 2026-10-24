@@ -1,108 +1,190 @@
-A.C.T FACILITY ARCHIVE FILE
-+--------------------------------------------------------------------------------------------------------------------+
+A.C.T FACILITY ARCHIVE FILE — NAMEWRIGHT BAZAAR ALIAS KNIFE
 
-Namewright Bazaar Alias Knife
-=============================
+TECHNOLOGY RECORD - NAMEWRIGHT BAZAAR ALIAS KNIFE
 
-Archive Status: Active Restricted Recovered Adversary Device Record
-Distribution: Containment / Subject Care / Legal / Intelligence / Medical Care / Command
-Authority: Containment Division, with Subject Care and Legal review
-Designation: TECH-GOI-069-2
-Origin: Namewright Bazaar (GOI-BS-X-069), Namewright trade issue
-Clearance: Level 4 for custody; Level 5 for any handling
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| TECHNOLOGY DESIGNATION     | TECH-GOI-069-2                                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| TECHNOLOGY NAME            | Namewright Bazaar Alias Knife                                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+| SHORT NAME                 | NBAK                                                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| TECHNOLOGY FAMILY          | RECOVERED ADVERSARY DEVICE / IDENTITY SEVERANCE INSTRUMENT / DUAL FILING MANDATORY    |
++----------------------------+---------------------------------------------------------------------------------------+
+| ORIGIN                     | NAMEWRIGHT BAZAAR (GOI-BS-X-069) / NAMEWRIGHT TRADE ISSUE / SEIZED UNDER              |
+|                            | DISMANTLEMENT ORDER                                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Containment Division                                                                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Containment, Subject Care, Legal, Intelligence, Medical Care, Engineering, Command    |
++----------------------------+---------------------------------------------------------------------------------------+
+| OPERATIONAL STATUS         | TWO UNITS HELD / NEVER OPERATED BY A.C.T / TRADE SEQUENCE NOT BROKEN                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| RISK STATUS                | ACTIVE IDENTITY HAZARD / SUBJECT CARE FIRST / HOSPITAL BRACELET CARRIES CLINICAL RISK |
++----------------------------+---------------------------------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4 for custody; Level 5 for any handling                                         |
++----------------------------+---------------------------------------------------------------------------------------+
+
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| ARCHIVE STATUS             | Active Restricted Recovered Adversary Device Record                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| DISTRIBUTION               | Containment, Subject Care, Legal, Intelligence, Medical Care, Command                 |
++----------------------------+---------------------------------------------------------------------------------------+
+| AUTHORITY                  | Containment Division, with Subject Care and Legal review                              |
++----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
-+--------------------------------------------------------------------------------------------------------------------+
 
-The archive holds two alias knives, seized under a dismantlement order against a hostile identity
-market assessed at threat level 4.
+The archive holds two alias knives, seized under a dismantlement order against a hostile identity market
+assessed at threat level 4.
 
-The dossier describes what they are for in one clause, and the clause is the whole of the hazard:
-they are used to cut signatures, labels, bracelets and name tags. They do not cut people. They cut
-the specific objects by which a name attaches to a body or to a record.
+The dossier describes what they are for in one clause, and the clause is the whole of the hazard: they
+are used to cut signatures, labels, bracelets and name tags. They do not cut people. They cut the
+specific objects by which a name attaches to a body or to a record.
 
-This is not a custody record. The Facility does not hold the knives as equipment and has no
-intention of issuing them. It holds them as seized instruments from a market it is dismantling, and
-this file is written for three purposes: what the instrument does to a person, how to recognise that
-it has been used, and what follows for someone it was used on.
+This is not a custody record. The Facility does not hold the knives as equipment and has no intention of
+issuing them. It holds them as seized instruments from a market it is dismantling, and this file is
+written for three purposes: what the instrument does to a person, how to recognise that it has been
+used, and what follows for someone it was used on.
 
-The knives sit inside a trade sequence rather than alone. A sale begins with a need — to flee a
-charge, escape a pursuing entity, inherit a protected object, cross a border, silence a witness or
-disappear a victim. A Mouth Factor assesses which recognition the buyer needs to lose. A Ledger
-Mother identifies a source name. A Namewright then performs the binding through documents, speech,
-signatures, hair, blood, school records, gravesoil and hospital bracelets. Four of those eight media
-are cut by this instrument, which is why one tool serves the whole trade.
+The knives sit inside a trade sequence rather than alone. A sale begins with a need — to flee a charge,
+escape a pursuing entity, inherit a protected object, cross a border, silence a witness or disappear a
+victim. A Mouth Factor assesses which recognition the buyer needs to lose. A Ledger Mother identifies a
+source name. A Namewright then performs the binding through documents, speech, signatures, hair, blood,
+school records, gravesoil and hospital bracelets. Four of those eight media are cut by this instrument,
+which is why one tool serves the whole trade.
 
-ALIAS KNIFE SEVERANCE RULE
+Controlled label: ALIAS KNIFE SEVERANCE RULE.
 
-The alias knife severs identity attachments and must never be operated by the Facility. Any person
-found with a cut signature, label, bracelet or name tag is a Subject Care case first and an
-intelligence subject second, and that ordering is not discretionary.
+Core handling rule:
 
-THE INSTRUMENT
-+--------------------------------------------------------------------------------------------------------------------+
+NEVER OPERATE EITHER KNIFE ON ANY MATERIAL, INCLUDING DOCUMENTS OFFERED FOR TESTING.
+A PERSON PRESENTING WITH A CUT SIGNATURE, LABEL, BRACELET OR NAME TAG IS A SUBJECT
+CARE CASE FIRST AND AN INTELLIGENCE SUBJECT SECOND. THAT ORDER IS NOT DISCRETIONARY.
 
-1.1 What it cuts
-================
+FUNCTION SUMMARY
 
-Signatures from documents. Labels from clothing and property. Bracelets from wrists, including
-hospital bracelets. Name tags from garments and belongings.
+The alias knife severs identity attachments. It cuts the carriers by which a name attaches to a body or
+to a record, and it cuts nothing else.
+
+- cuts signatures from documents;
+- cuts labels from clothing and property;
+- cuts bracelets from wrists, including hospital bracelets;
+- cuts name tags from garments and belongings.
+
+The instrument is the severance step in a longer sequence. It does not perform the binding, and it
+cannot accomplish one alone: the trade also runs through hair, blood, school records and gravesoil, none
+of which a knife cuts. The tool is part of a set.
 
 What the knife does beyond cutting is not established. Whether a cut signature behaves as an ordinary
 cut signature, or whether the severance persists, is the central open question of this file and it is
 not answered here by inference.
 
-1.2 What can be said about it
-=============================
+ORIGIN AND CUSTODY
 
-Dimensions, materials, blade form and any maker's marking are all absent from the dossier. What the
-dossier does establish is the object class the knife works on, which constrains the instrument more
-usefully than a dimension would: a blade intended for paper, cloth, cord and thin metal, carried by
-a trader rather than kept in a workshop.
+Origin is the Namewright Bazaar, designated GOI-BS-X-069. The knives are Namewright trade issue, and
+two units were seized under a dismantlement order against a hostile identity market assessed at threat
+level 4.
 
-Three things follow, and they are marked as inference.
+Custody sits with Containment. Reading and custody are Level 4; any handling is Level 5.
 
-The knife is carrier-specific. The binding media also include hair, blood, school records and
-gravesoil, which a knife does not cut. The tool is part of a set and cannot accomplish a binding alone.
+The knife appears in the dossier alongside stolen birth rolls, court stamp caches and registry mirrors,
+all of which are trade stock rather than personal property. Two seized units therefore indicate a stall
+rather than an individual, and that inference is marked as an inference rather than recorded as a fact
+about a person.
 
-The knife is trade-issued rather than personal. It appears in the dossier alongside stolen birth
-rolls, court stamp caches and registry mirrors, all of which are trade stock. Two seized units
-therefore indicate a stall rather than an individual.
+PHYSICAL OR SYSTEM DESCRIPTION
 
-The knife's effect may be documentary rather than physical. Cutting a signature changes what a
-document attests without changing the person, and the Bazaar's stated trade is in recognition rather
-than in flesh. Whether that reading is complete is not established.
+No physical description is available, and none is supplied here.
 
-RECOGNITION AND RESPONSE
-+--------------------------------------------------------------------------------------------------------------------+
++----------------------------+---------------------------------------------------------------------------------------+
+| PROPERTY                   | RECORD                                                                                |
++============================+=======================================================================================+
+| Dimensions                 | Not recorded                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Materials                  | Not recorded                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Blade form                 | Not recorded                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Maker's marking            | Not recorded                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Units held                 | Two                                                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| Condition on seizure       | Not recorded                                                                          |
++----------------------------+---------------------------------------------------------------------------------------+
+| Object class it works on   | Paper, cloth, cord, thin metal — per the dossier                                      |
++----------------------------+---------------------------------------------------------------------------------------+
 
-2.1 How to recognise that it has been used
-==========================================
+The one constraint the dossier does establish is the object class, and it constrains the instrument more
+usefully than a dimension would. A blade intended for paper, cloth, cord and thin metal, carried by a
+trader rather than kept in a workshop, is a different tool from a workshop blade, and the difference
+matters more to recognition than the length of the edge.
 
-A signature absent from a document that carries one elsewhere. A label or name tag cut rather than
-removed, with the cut edge clean. A bracelet cut at the clasp or through the band, including a
-hospital bracelet, which is also a clinical record and brings Medical Care into it.
+TECHNICAL SPECIFICATION
 
-2.2 What follows for the person
-===============================
+The specification records what the dossier establishes and what it does not. Filling the absent rows
+would mean inventing an adversary instrument.
 
-Subject Care first. Where a hospital bracelet has been cut, Medical Care attends as well, because
-the carrier is clinical. Intelligence is notified after the person is attended and not before.
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SPECIFICATION              | VALUE                                     | SOURCE                                    |
++============================+===========================================+===========================================+
+| Designation                | TECH-GOI-069-2                            | A.C.T assignment                          |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Origin organisation        | Namewright Bazaar                         | GOI-BS-X-069 dossier                      |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Asset class                | Alias knife, trade issue                  | Dossier, Known Assets and Holdings        |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Units seized               | Two                                       | Dossier                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Threat level of the market | 4                                         | Dossier                                   |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Carriers cut               | Signatures, labels, bracelets, name tags  | Dossier, Operating Method                 |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Binding media not cut      | Hair, blood, school records, gravesoil    | Dossier, Operating Method                 |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Blade dimensions and       | Not specified                             | Dossier silent                            |
+| material                   |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Maker                      | Not specified                             | Dossier silent                            |
++----------------------------+-------------------------------------------+-------------------------------------------+
 
-Nothing is cut from the person and nothing is cut from their property during examination.
+Three inferences follow from the dossier and are marked as inferences. The knife is carrier-specific.
+The knife is trade-issued rather than personal. And the knife's effect may be documentary rather than
+physical: cutting a signature changes what a document attests without changing the person, and the
+Bazaar's stated trade is in recognition rather than in flesh. Whether that reading is complete is not
+established.
 
-2.3 What personnel must not do
-==============================
+INTERFACE AND OPERATING ENVELOPE
 
-Personnel must not operate either knife on any material, including documents offered for testing.
-Testing on a document is still operation and the restriction covers it.
+The knife has no Facility interface, because it is never operated. Its operating envelope is a custody
+envelope.
 
-Personnel must not remove a mounted or held knife from a Bazaar site during joint work without
-Containment authority, and must not treat a knife as evidence of anything about the person it was
-used on. The knife is evidence about the Bazaar.
+Custody is Level 4. Handling is Level 5. Operation on any material, at any clearance, by any division,
+is prohibited without exception. Engineering examines the blades and performs no sharpening or repair,
+because sharpening is maintenance of an instrument the Facility does not operate.
 
-2.4 The Bazaar's own sequence
-=============================
+The Bazaar's own operating envelope is recorded for recognition only, and no personnel may follow it.
+
+OPERATING PROCEDURE
+
+There is no A.C.T operating procedure, because the instrument is never operated. What follows is the
+custody procedure and the response sequence, with the Bazaar sequence recorded beneath for recognition.
+
+1. Custody is Level 4 and handling is Level 5.
+2. Neither knife is operated on any material, including documents offered for testing.
+3. No mounted or held knife is removed from a Bazaar site during joint work without Containment authority.
+4. A person presenting with a cut carrier is referred to Subject Care before Intelligence is notified.
+5. Where a hospital bracelet has been cut, Medical Care attends as well.
+6. Nothing is cut from the person, and nothing is cut from their property, during examination.
+
+Step 2 covers testing explicitly because testing on a document is still operation, and the restriction
+would otherwise be read around.
+
+The Bazaar's own sequence
 
 Recorded for recognition. It is not a Facility procedure and no personnel may follow it.
 
@@ -115,11 +197,70 @@ Recorded for recognition. It is not a Facility procedure and no personnel may fo
 7. The buyer is recognised under the source name instead.
 8. The severed carriers are discarded into a dead-name cupboard.
 
-Step 8 is why a dead-name cupboard door was recovered alongside
-these knives, and the two files should be read together.
+Step 8 is why a dead-name cupboard door was recovered alongside these knives, and the two files should
+be read together.
+
+SERVICING AND CALIBRATION
+
+No servicing is performed. The blades are not sharpened, oiled, repaired or re-handled.
+
+Sharpening is excluded specifically rather than by omission. A blade the Facility sharpens is a blade the
+Facility maintains, and a maintained instrument reads later as an issued one. Engineering examines the
+blades under Level 5 and records what it finds, and that is the whole of its role.
+
+There is nothing to calibrate. The dossier specifies no parameter, and the instrument has never been
+exercised by A.C.T to establish one.
+
+FAULT ISOLATION
+
+Fault isolation on this record is recognition of use on a person or a document, not diagnosis of the
+instrument.
+
++----------------------------+-------------------------------------------+-------------------------------------------+
+| SYMPTOM                    | POSSIBLE CAUSE                            | RECOMMENDED ACTION                        |
++============================+===========================================+===========================================+
+| Signature absent from a    | Alias knife severance                     | Subject Care referral; do not treat as a  |
+| document that carries one  |                                           | forgery case                              |
+| elsewhere                  |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Label or name tag cut      | Alias knife severance                     | Subject Care referral; preserve the       |
+| rather than removed, cut   |                                           | carrier unaltered                         |
+| edge clean                 |                                           |                                           |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| Bracelet cut at the clasp  | Alias knife severance                     | Subject Care and Medical Care; a hospital |
+| or through the band        |                                           | bracelet is a clinical record             |
++----------------------------+-------------------------------------------+-------------------------------------------+
+| A request to test the      | Testing pressure from an open case        | Refuse; testing is operation and is       |
+| knife on a document        |                                           | prohibited                                |
++----------------------------+-------------------------------------------+-------------------------------------------+
+
+Nothing is cut from the person and nothing is cut from their property during examination. A carrier
+already severed stays severed until Subject Care and Legal rule otherwise, because cutting further
+destroys the evidence of the first cut.
+
+KNOWN LIMITS
+
+- dimensions, materials, blade form and any maker's marking are absent from the dossier;
+- whether a cut signature behaves as an ordinary cut signature is not established;
+- whether the severance persists after the binding is broken is not established;
+- whether the knives are ordinary blades and the trade lies wholly in the binding is not established;
+- how many are in circulation is unknown, given that two were seized from one market;
+- whether blade residue would identify the carriers previously cut is not established.
+
+The knife is evidence about the Bazaar and is not evidence of anything about the person it was used on.
+That limit is stated here because the instinct in an open case runs the other way.
+
+FAILURE HISTORY
+
+There is no failure history. Neither knife has been operated by A.C.T, on any material, for any purpose,
+including testing.
+
+The absence is recorded rather than left blank because a blank field in a seized instrument record is
+routinely misread later as evidence that the instrument was exercised and found inert. It was not
+exercised. The central question of this file — whether the severance persists — remains open precisely
+because answering it would require operating the knife, and operating the knife is prohibited.
 
 DIVISION USE
-+--------------------------------------------------------------------------------------------------------------------+
 
 +----------------------------+---------------------------------------------------------------------------------------+
 | DIVISION                   | USE                                                                                   |
@@ -136,9 +277,24 @@ DIVISION USE
 +----------------------------+---------------------------------------------------------------------------------------+
 | Engineering                | Examines the blades; performs no sharpening or repair                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
+| Command                    | Receives the record; takes no handling role                                           |
++----------------------------+---------------------------------------------------------------------------------------+
+
+Subject Care comes first and Intelligence second, and that ordering is not discretionary. Intelligence
+is notified after the person is attended and not before.
+
+CROSS-REFERENCES
+
+- GOI-BS-X-069 — Namewright Bazaar, Group of Interest Dossier
+- TECH-GOI-069-1 — Namewright Bazaar Partial Name Ledger, Technology Record
+- TECH-GOI-069-3 — Namewright Bazaar Counterfeit Court Stamp, Technology Record
+- TECH-GOI-069-4 — Namewright Bazaar Dead-Name Cupboard Door, Technology Record
+
+The ledger identifies the source name, the knife cuts the carriers, the stamps make the substitution look
+official, and the cupboard holds what was cut away. The sequence runs in that order and the four files
+should be read in it.
 
 OPEN QUESTIONS
-+--------------------------------------------------------------------------------------------------------------------+
 
 - whether a cut persists after the Bazaar binding is broken, and how that would be tested safely;
 - whether the knives are ordinary blades and the trade lies wholly in the binding;
@@ -147,26 +303,25 @@ OPEN QUESTIONS
 - whether the knives are made by the Bazaar or acquired and marked;
 - how many are in circulation, given that two were seized from one market.
 
-The first and fourth questions are Subject Care questions before they are technical ones, and neither has an
-answer here. A person presenting with cut carriers is attended on that basis and is not held pending an answer.
-
-CROSS-REFERENCES
-+--------------------------------------------------------------------------------------------------------------------+
-
-- GOI-BS-X-069 — Namewright Bazaar, Group of Interest Dossier
-- TECH-GOI-069-1 — Namewright Bazaar Partial Name Ledger, Technology Record
-- TECH-GOI-069-3 — Namewright Bazaar Counterfeit Court Stamp, Technology Record
-- TECH-GOI-069-4 — Namewright Bazaar Dead-Name Cupboard Door, Technology Record
-
-The ledger identifies the source name, the knife cuts the carriers, the stamps make the substitution look official,
-and the cupboard holds what was cut away. The sequence runs in that order and the four files should be read in it.
+The first and fourth questions are Subject Care questions before they are technical ones, and neither has
+an answer here. A person presenting with cut carriers is attended on that basis and is not held pending
+an answer.
 
 FILE METADATA
-+--------------------------------------------------------------------------------------------------------------------+
 
-Record Type: Technology Record — Recovered Adversary Device
-Created: 11/09/2021
-Last Updated: 26/05/2025
-Review Cycle: On any change in the dismantlement order or any Subject Care case
-Source: GOI-BS-X-069 Namewright Bazaar dossier, Known Assets and Holdings and Operating Method
-Dual Filing: Mandatory — GOI seizure, and identity severance instruments
++----------------------------+---------------------------------------------------------------------------------------+
+| REGISTRY FIELD             | CURRENT VALUE                                                                         |
++============================+=======================================================================================+
+| RECORD TYPE                | Technology Record — Recovered Adversary Device                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| CREATED                    | 11/09/2021                                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| LAST UPDATED               | 26/05/2025                                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| REVIEW CYCLE               | On any change in the dismantlement order or any Subject Care case                     |
++----------------------------+---------------------------------------------------------------------------------------+
+| SOURCE                     | GOI-BS-X-069 Namewright Bazaar dossier, Known Assets and Holdings and Operating       |
+|                            | Method                                                                                |
++----------------------------+---------------------------------------------------------------------------------------+
+| DUAL FILING                | Mandatory — GOI seizure, and identity severance instruments                           |
++----------------------------+---------------------------------------------------------------------------------------+
