@@ -9350,3 +9350,68 @@ No passage flagged.
 
 Six of thirteen chapters judged. Seven remain. No story file has been changed. The two Chapter 06 defects
 are recorded and not fixed, because a narrative edit touches four files and the owner has not authorised it.
+
+---
+
+## Prompt End Update — 2026-10-24, Chapter Hand Judge: Chapters 07 and 08
+
+Owner direction: judge every remaining chapter first, then do one large batch of fixes at the end. Both
+chapters below were read end to end.
+
+### Chapter 07, The Founders Silence, 1852 words
+
+RULE 3.5 pass on all four vectors. She learns that seven documents carry one hand under contradictory names,
+that one signer's recorded age makes the signature impossible unless they began signing restricted files as a
+child, that the founders used 004 compounds on themselves, and Tavian's abyss reading, that remembering the
+truth may have been a way of carrying it upward. She decides to build the truth sideways rather than submit
+a formal finding, because the channels would erase the report or erase the part of her that understood it.
+She loses her own steadiness, and the loss frightens her more than the discovery. Mila changes the situation
+by leaving the key with no warning and no lecture.
+
+RULE 4.3 pass and strong. Literally stands alone. A flicker. Small, involuntary, and devastating is a stacked
+short beat. Memory as vector. Memory as contamination. Memory as transport is a triple fragment run at the
+peak of the scene, and the chapter ends on a two-beat that lands as implication rather than explanation.
+
+RULE 3.3 pass. The handwriting analysis is written in a handwriting analyst's vocabulary, down to fatigue
+showing as a slight downward drag at the ends of repeated notation words. Tavian's tell is read rather than
+stated, and Sera's reading of his face is explicitly grounded in her own prior experience of archive wounds
+and sealed dose records. The late-cycle room survey is compliant because she is present, the looking is
+motivated, and the passage closes on her own question.
+
+DEFECT, sentence case, same class as Chapter 06. The line reads Dead personnel. wrong timelines. review
+chains built on false identity continuity. Two sentences begin lowercase after a full stop.
+
+### Chapter 08, NEMNOLIA and the Dream-State, 1623 words, TWO DEFECTS
+
+DEFECT ONE, duplicated opening, same class as Chapter 06 and closer to verbatim. The first paragraph ends
+with That was what made it devastating. The next two paragraphs are It came from pharmacology. and That was
+what made it so devastating. The same sentence appears twice with one word inserted.
+
+DEFECT TWO, sentence case. The line reads Yield instability. dream-state irregularity. source coherence loss
+during lower-state disturbance. Two sentences begin lowercase after a full stop.
+
+RULE 3.5 pass on all four vectors. She learns that yield instability follows dream-state irregularity and
+finds the theory line that the bloom may be an emergent biological expression of the stable sleep condition
+itself. She decides to reach restricted pharmacology without a formal request and to double-encrypt. She
+loses the comfort of irrationality, since the thought sickens her not because it was irrational but because
+it was rational enough to work. Mila changes the situation by naming the choice as between memory and
+continuity.
+
+RULE 4.3 pass and strong. It came from pharmacology stands alone. Not metaphorically. Operationally is a
+two-beat. Those were uglier is a single short line. Consequence stands alone. The Mila exchange builds
+tension on a repeated Yes, and the chapter ends on a two-beat pointed arrow.
+
+RULE 3.3 pass. Her reasoning is in her own terms throughout, including the observation that a lie could
+survive in history but had a harder time surviving in production, and that Transformation Division wrote like
+surgeons arguing with poison. Mila's face is read rather than narrated, as grief worn so long it had become
+discipline. No passage flagged.
+
+### Pattern now visible across eight chapters
+
+Sentence case broken after a full stop appears in Chapters 06, 07 and 08. Duplicated or near-duplicated
+openings appear in Chapters 06 and 08. A closing cutaway to somewhere below the Facility appears in Chapters
+04, 05, 06, 07 and 08. Each closing is individually defensible as rhetoric rather than as a perception
+claim, but five in a row is a structural tic and belongs in the fix batch as a judgement call rather than a
+defect.
+
+Eight of thirteen judged. Five remain. No story file has been changed.
