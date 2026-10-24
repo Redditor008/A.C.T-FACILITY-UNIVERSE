@@ -9090,3 +9090,49 @@ Corpus-wide: `TECH_RECORDS` 242, `TECH_UNPAIRED_TWINS` 0, `TXT_BOLD_FILES` 0, `T
 `TXT_MD_HEADING_FILES` 0, `BOXDRAW_CHARACTERS` 0, `TITLE_STACK_DOCUMENTS` 0, `TXT_LINES_OVER_118` 0,
 `TXT_WIDE_PROSE_LINES` 0, `MD_WIDE_PROSE_LINES` 0, `RECORDS_NOT_ONE_H1` 0, `BAD_EOF` 0, `ODD_FENCE` 0,
 `PATCH_SAVER_ENTRIES_OFF_SHAPE` 0, `HISTORY_PARENT_IS_SESSION_BASE` 0.
+
+---
+
+## Prompt End Update — 2026-10-24, TECH-GOI-073-1 Restructured And Expanded
+
+### What was changed
+
+`TECH-GOI-073-1` Lantern Accord Collapsible Signal Beacon was the first of the four Lantern Accord records
+below the word floor. It carried thirteen H2s under two headings of its own, THE INSTRUMENT and HANDLING,
+with subsections interleaved out of order, and none of the eight registry fields. Both headings were
+retired and every subsection folded into the fourteen house sections in house order. Every line of the
+original was preserved and relocated.
+
+The expansion is sourced entirely from `GOI-HY-W-073` and adds material the record did not carry. The
+dossier assesses these beacons as signalling safe-line status across radio disruption and some perception
+interference, which is the single most consequential fact about the object and was absent from the record.
+It records relay vans with roof lamps that synchronise beacon colours across fractured evacuation routes,
+which establishes the beacon as one node in a network rather than a standalone instrument. It lists spare
+lantern glass among Accord depot holdings, which bears on whether this unit's broken condition is ordinary
+or exceptional, and the inference is marked as an inference. It classifies the Accord as Leaking and names
+lit depots among the visible traces, which makes a lit beacon a leakage event as well as a charter event.
+It assesses the Accord as holding Containment capability and is precise that the Accord creates shared
+behaviour around containment rather than containment itself, which is why a signalling device with no
+containment function of its own is filed as containment-relevant.
+
+The activation region list, the four-object comparison, the relay-van dependency and the moving-target
+problem of a codebook updated after every broken line all come from the dossier.
+
+### What went wrong and was corrected
+
+`md_to_txt.py` exited one on the first attempt with two markup lines left, caused by a bold span crossing a
+line break. The per-line stripper cannot see emphasis that opens on one line and closes on the next. The
+emphasis was removed rather than the prose reflowed around it, and the second run exited zero.
+
+### What was verified
+
+`TECH_RECORDS_OFF_SHAPE`, `TECH_RECORDS_REGISTRY_OFF_SHAPE` and `TECH_RECORDS_UNDER_1800` all read 4 before
+and all read 3 after. `gate_audit.py` reads `gates tested 27 | fired 27 | blind 0`.
+
+The record reads 3108 words with fourteen house H2s and the twin renders at 3187 words across 400 lines,
+widest 118, zero markup lines.
+
+Corpus-wide: `TECH_RECORDS` 242, `TECH_MD_FILES` 244, `TECH_TXT_FILES` 244, `TECH_UNPAIRED_TWINS` 0,
+`TXT_BOLD_FILES` 0, `BOXDRAW_CHARACTERS` 0, `TITLE_STACK_DOCUMENTS` 0, `TXT_LINES_OVER_118` 0,
+`TXT_WIDE_PROSE_LINES` 0, `MD_WIDE_PROSE_LINES` 0, `RECORDS_NOT_ONE_H1` 0, `BAD_EOF` 0, `ODD_FENCE` 0,
+`PATCH_SAVER_ENTRIES_OFF_SHAPE` 0, `HISTORY_PARENT_IS_SESSION_BASE` 0.
