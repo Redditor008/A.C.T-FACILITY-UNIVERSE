@@ -9505,3 +9505,94 @@ variation. It is consistent with an automated processing pass that lower-cased l
 single largest item in the fix batch.
 
 Ten of thirteen judged. Three remain: Chapter 10, Chapter 12 and the Epilogue. No story file has been changed.
+
+---
+
+## Prompt End Update — 2026-10-24, Chapter Hand Judge COMPLETE: All Thirteen Read
+
+`Chapter-10-The-Cost-of-Remembering.md` at 2097 words, `Chapter-12-The-Second-Self-Erasure.md` at 2466 words
+across 448 lines, and `Epilogue-00-The-Archive-Still-Breathes.md` at 1525 words were each read end to end.
+The judge is now complete: all thirteen chapter files have been read against RULE 3.3, RULE 3.5 and RULE 4.3.
+
+### Chapter 10, The Cost of Remembering
+
+Passes all three rules and is clean of every defect class found elsewhere. Its pacing is strong, with She
+lasted forty-two minutes before the second symptom arriving used as a precise beat and Turn. Descent.
+Narrowing. as stacked fragments. Its description rule is exemplary in places, particularly Sera leaning
+against the dead machine bay and counting her symptoms out because naming them made them feel less like
+madness. Its change rule passes on all four vectors, and its central decision is a refusal: she considers
+deleting the shadow file and does not.
+
+### Chapter 12, The Second Self-Erasure
+
+Passes all three rules and is clean of every defect class. It is the climax and it carries the single best
+execution of RULE 4.3 in the book: Turn. Lift. East stairwell. Dead maintenance rail. Somewhere. Anywhere. is
+the rule's own fast-scene example reproduced almost exactly. Continuation. stands alone as the chapter's
+central horror. The dose negotiation runs on clipped two-word exchanges, and the dissociation passage goes
+loose and drifting, which is the correct confusion register. RULE 3.3 is handled well throughout, down to
+what a person strapped into a chair would actually notice: an ordinary ceiling, smooth white paneling, soft
+seams, light without character. It also breaks the run of closing cutaways by ending on the folded slip in
+her pocket, which is interior and close.
+
+### Epilogue, The Archive Still Breathes
+
+Passes all three rules. RULE 3.3 is its strongest feature, because the new archiver notices in a junior
+register rather than Sera's: three keys worn smooth, thought nothing of, the way anyone thinks nothing of a
+stair worn in the middle. Her limits are marked explicitly, she did not yet have the language for the
+difference, and her reasoning is practical rather than doctrinal: there was a form for a signature dispute
+and no form for a signature that had outlived the person assigned to it, so she reached for the first
+because the second did not exist. RULE 3.5 passes because the state demonstrably differs from the end of
+Chapter 12 and the reader learns the fragmentation worked. RULE 4.3 passes, with Just the folder. Just the
+task. Just the beginning again. as a triple run and the ending landing on the title payoff.
+
+DEFECT, malformed bullet, identical to the one in Chapter 09. In the three-flagged-irregularities list the
+third item has lost its leading dash and begins with two spaces instead, so the list renders as two bullets
+plus a stranded fragment.
+
+OBSERVATION, not a defect. The Epilogue is written from a wider narrative position than the chapters. It
+states things the new archiver cannot know, that two reconfigurations were logged as efficiency measures and
+neither had been. This is licensed by the epilogue's deliberate omniscient frame and it is the only place in
+the book that uses one, so it is recorded as a register shift for the owner to rule on rather than as a
+breach.
+
+---
+
+### THE COMPLETE DEFECT LIST, ready for one fix batch
+
+CLASS ONE, sentence case broken after a full stop. Chapters 06, 07, 08, 09 and 11. Eight separate lines,
+fourteen lowercase sentence starts counted. This is systemic and looks like an automated pass that
+lower-cased list-like runs, not authorial variation. It is the largest item in the batch.
+
+CLASS TWO, duplicated or near-duplicated openings. Chapters 06 and 08. Both are invisible to
+`STORY_OPENING_REPEATS`, which reads 0, because the gate matches an exact repeated opening rather than a
+paraphrase. The gate needs teaching before the fix can be verified.
+
+CLASS THREE, a bullet that lost its leading dash. Chapters 09 and the Epilogue. Same defect twice, same
+shape: two leading spaces where a dash belongs, and the item wraps so a single word sits alone on its line.
+
+CLASS FOUR, RULE 3.3 risk, a cutaway to somewhere the viewpoint character cannot see. Chapter 01 only.
+
+CLASS FIVE, RULE 3.3 risk, a hedged impression that drops its hedge and becomes narrator omniscience.
+Chapter 04 only, in the paragraph describing the unnamed woman's anomalous sense.
+
+CLASS SIX, judgement call. A closing cutaway to somewhere below the Facility appears in Chapters 04, 05, 06,
+07, 08, 09, 10 and the Epilogue. Eight instances. Each is individually defensible as rhetoric rather than as
+a perception claim, and Chapter 12 breaks the pattern by ending interior, but eight in a row is a structural
+tic.
+
+CLASS SEVEN, judgement call. The Epilogue's omniscient register shift.
+
+### Chapters clean of every defect class
+
+Chapters 02, 03, 05, 10 and 12. Five of thirteen carry no defect at all, and they include the two strongest
+pacing executions in the book, Chapter 11 and Chapter 12.
+
+### Verdict summary
+
+All thirteen chapters pass RULE 3.3, RULE 3.5 and RULE 4.3. No chapter is static. No chapter fails the
+pacing rule. The two RULE 3.3 risks are single passages, not patterns of description. The story is in good
+shape, and the real work in the fix batch is mechanical rather than craft: sentence case, two duplicated
+openings, and two malformed bullets.
+
+Thirteen of thirteen judged. No story file has been changed. The fix batch is authorised to proceed as one
+large batch.
