@@ -9287,3 +9287,66 @@ something slept is a perception Sera cannot have, but it functions as the chapte
 as a perception claim, so it is recorded and not flagged as a defect.
 
 Four of thirteen judged. Nine remain. No story file changed.
+
+---
+
+## Prompt End Update — 2026-10-24, Chapter Hand Judge: Chapters 05 and 06, Two Defects Found
+
+Owner direction: batch the judge, and one chapter may span more than one bash call. Both chapters below were
+read end to end in two passes each.
+
+### Chapter 05, Entity Research Exploration, 1928 words, 328 lines
+
+RULE 3.5 pass on all four vectors. She learns that ERE was assembled by converging impossibilities rather
+than by one anomaly, that dream logs were filed as field guidance and not as hallucinations, that personnel
+sketched routes later found to match real formations, and the line if we continue to dream the route we must
+assume the route is dreaming us also. She decides to stop filing ERE records and to build the compulsion
+model. She loses ordinary certainty. And Mila crosses a line herself by naming what taught the Facility that
+forgetting could be useful.
+
+RULE 4.3 pass. Dream geometry stands alone. below stands alone. The route is dreaming us also recurs as a
+standalone beat, and Not a metaphor. Not anymore. carries the shock register exactly.
+
+RULE 3.3 pass, and it handles the hardest case in the whole judge so far. For one irrational second she
+thought the shelves had moved closer, then she realized she was gripping the table hard enough to hurt her
+palms. An irrational perception is immediately corrected by physical self-awareness, which is the rule's
+positive case written almost literally. The archive vocabulary is hers throughout, down to judging the amber
+lighting by whether the material was dangerous enough to justify a black seal. No passage flagged.
+
+### Chapter 06, The Sleeping Foundation, 1674 words, 302 lines, TWO DEFECTS
+
+DEFECT ONE, a duplicated opening that no gate catches. The first paragraph ends: Not the version in the
+historical summaries. Not the clean doctrine line repeated in every orientation deck since. The second
+paragraph opens: Not the version preserved in the historical summaries. Not the clean doctrine-line later
+repeated in archive overviews and training references. The same two negations appear twice, reworded.
+
+`STORY_OPENING_REPEATS` reads 0 against this file, so the gate is blind to it. It was the gate installed
+after the seven duplicated openings were removed by hand, and it evidently matches an exact repeated opening
+rather than a paraphrase. That is the recurring failure class of this session: a gate testing an exact
+string tests wording and not structure. Seven earlier duplicates were caught and fixed. This one is the
+same defect in paraphrase form and it survived the gate.
+
+DEFECT TWO, sentence case broken mid-list. The maintenance passage reads: Filters changed. seal grids
+recalibrated. pressure lines held. observation systems cycled. Four sentences begin lowercase after a full
+stop.
+
+RULE 3.5 pass on all four vectors. She learns that this is state maintenance and not chamber maintenance,
+that magnitude three seismic events correlate with deep-route support surges, and that the oldest recovery
+language calls the first descent a return rather than a contact. She decides to bury the extracts in a false
+revision shell and route herself back through ordinary halls so cameras see only a woman returning from
+technical support. She loses the ordinary shape of her thinking. Tavian changes the situation by volunteering
+the word return.
+
+RULE 4.3 pass. Movement stands alone and is repeated three times as a beat. Return stands alone. The Tavian
+exchange goes clipped, which is correct for the scene, and the closing runs long for the slow register.
+
+RULE 3.3 pass. Her method is stated in her own terms, that anything too dangerous to name still had to be
+serviced, so traces exist wherever the mechanical body of the Facility touched the truth. Tavian is read in
+her register, tension-thin, like every sound in the room had already arrived in his body before he heard it.
+The closing turns the cutaway into interiority properly: Not because the walls had changed. Because she had.
+No passage flagged.
+
+### Judge state
+
+Six of thirteen chapters judged. Seven remain. No story file has been changed. The two Chapter 06 defects
+are recorded and not fixed, because a narrative edit touches four files and the owner has not authorised it.
