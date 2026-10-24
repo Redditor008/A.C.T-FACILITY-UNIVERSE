@@ -358,10 +358,6 @@ The same compromise the archive itself had been making for decades.
 
 That realization left her colder than before.
 
-Outside her quarters that night, the Facility moved through its hidden routines as always. Aboveground, humanity slept
-under ordinary skies, never knowing the shape of the mercy holding their lives together. Below, beyond mapped floors
-and beneath the doctrine built to survive them, the sleeping foundation remained asleep.
-
 And Sera Vey, who had once thought archives were where institutions preserved what mattered, finally understood the
 deepest rule of the buried world:
 

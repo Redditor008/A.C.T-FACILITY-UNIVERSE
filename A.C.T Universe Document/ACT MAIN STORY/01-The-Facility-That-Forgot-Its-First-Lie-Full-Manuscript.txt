@@ -624,8 +624,8 @@ The archive is shaped like damage.
 
 She encrypted it under a standard notation shell and buried it in her task file.
 
-Then she closed the terminal, signed out, and walked back through the ordinary-seeming corridors of the Facility
-while, far below, something slept beneath the Earth and a flower bloomed in memory of it.
+Then she closed the terminal, signed out, and walked back through the ordinary-seeming corridors of the Facility. of
+it.
 
 By the time she reached her quarters, Sera understood one thing clearly.
 
@@ -836,8 +836,8 @@ The archive is shaped like damage.
 
 She encrypted it under a standard notation shell and buried it in her task file.
 
-Then she closed the terminal, signed out, and walked back through the ordinary-seeming corridors of the Facility
-while, far below, something slept beneath the Earth and a flower bloomed in memory of it.
+Then she closed the terminal, signed out, and walked back through the ordinary-seeming corridors of the Facility. of
+it.
 
 By the time she reached her quarters, Sera understood one thing clearly.
 
@@ -1415,8 +1415,6 @@ ERE may have been built by the abyss before A.C.T was built by ERE.
 
 She encrypted the file, closed it, and sat alone in the dark while the Facility around her continued its hidden labor.
 
-Somewhere below, beyond mapped floors and corrected history, a sleeping thing remained asleep beneath the world.
-
 And now, for the first time, Sera understood that the first descent had not been an accident of human curiosity.
 
 It had been an answer to a call no one remembered receiving.
@@ -1680,9 +1678,6 @@ The Facility may not sit above the abyss. It may sit inside an agreement with it
 When she finally closed the file, the room felt smaller than it had the night before.
 
 Not because the walls had changed. Because she had.
-
-Somewhere below every mapped floor, beyond the point where architecture became maintenance and maintenance became
-ritualized mercy, a sleeping foundation shifted under the world.
 
 And the institution built to keep it dreaming had taught itself to forget the cost.
 
@@ -1955,10 +1950,6 @@ become part of the machinery that hid them.
 Before sleep, she stood at the narrow window slit in her quarters. It showed nothing except a black reinforced shaft
 wall and the reflected outline of her own face in the glass. Yet tonight even that felt untrustworthy.
 
-Somewhere below, the sleeping foundation remained asleep. Somewhere in sealed chambers, the bloom still fed the
-compounds that let the Facility shape memory. And somewhere in the oldest wounded layers of the archive, the first
-architects of A.C.T had already decided that self-amputation was preferable to carrying the abyss upward in thought.
-
 Sera touched the cold glass once, as if testing whether reflection itself could still be trusted.
 
 Then she turned out the light and lay awake in darkness, thinking not of the world above, but of the founders
@@ -2192,10 +2183,6 @@ Then, after a very long time, she added the sentence she could no longer avoid.
 The Facility preserves the world with a medicine born from the sleep of the thing it fears most.
 
 She sat back and read it until the words stopped resembling thought and started resembling a verdict.
-
-Somewhere below every mapped floor, something slept. Somewhere above it, the bloom still secreted gold. And between
-them stretched the whole hidden body of A.C.T—archive, doctrine, amnestics, command, secrecy—all built on a
-relationship the founders had judged too dangerous to remember whole.
 
 Sera shut the file, killed the light, and lay awake in darkness
 with one unbearable understanding settling into permanence.
@@ -2788,10 +2775,6 @@ The same compromise the archive itself had been making for decades.
 
 That realization left her colder than before.
 
-Outside her quarters that night, the Facility moved through its hidden routines as always. Aboveground, humanity slept
-under ordinary skies, never knowing the shape of the mercy holding their lives together. Below, beyond mapped floors
-and beneath the doctrine built to survive them, the sleeping foundation remained asleep.
-
 And Sera Vey, who had once thought archives were where institutions preserved what mattered, finally understood the
 deepest rule of the buried world:
 
@@ -3018,10 +3001,6 @@ The choice was made now.
 The truth would survive. But not as revelation.
 
 Only as fragments.
-
-And somewhere beneath all mapped floors, beneath doctrine, beneath archive, beneath every lie that had ever been
-polished into institutional necessity, the sleeping foundation remained asleep while the flower born of its dreaming
-continued to feed the medicine that kept the world forgetful.
 
 Sera lowered her head and closed her eyes.
 

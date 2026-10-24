@@ -263,10 +263,6 @@ thing it fears most.**
 She sat back and read it until the words stopped resembling thought and started
 resembling a verdict.
 
-Somewhere below every mapped floor, something slept. Somewhere above it, the bloom still secreted gold. And between
-them stretched the whole hidden body of A.C.T—archive, doctrine, amnestics, command, secrecy—all built on a
-relationship the founders had judged too dangerous to remember whole.
-
 Sera shut the file, killed the light, and lay awake in darkness with one
 unbearable understanding settling into
 permanence.

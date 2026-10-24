@@ -307,10 +307,6 @@ nothing except a black reinforced shaft
 wall and the reflected outline of her own face in the glass. Yet tonight
 even that felt untrustworthy.
 
-Somewhere below, the sleeping foundation remained asleep. Somewhere in sealed chambers, the bloom still fed the
-compounds that let the Facility shape memory. And somewhere in the oldest wounded layers of the archive, the first
-architects of A.C.T had already decided that self-amputation was preferable to carrying the abyss upward in thought.
-
 Sera touched the cold glass once, as if testing whether reflection itself could still
 be trusted.
 

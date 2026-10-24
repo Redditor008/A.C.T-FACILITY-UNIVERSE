@@ -375,8 +375,7 @@ Just a sentence.
 She encrypted it under a standard notation shell and buried it in her task
 file.
 
-Then she closed the terminal, signed out, and walked back through the ordinary-seeming corridors of the Facility
-while, far below, something slept beneath the Earth and a flower bloomed in memory
+Then she closed the terminal, signed out, and walked back through the ordinary-seeming corridors of the Facility.
 of it.
 
 By the time she reached her quarters, Sera understood one thing clearly.

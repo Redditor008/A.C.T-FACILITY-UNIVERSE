@@ -320,8 +320,6 @@ the maps:
 She encrypted the file, closed it, and sat alone in the dark while the
 Facility around her continued its hidden labor.
 
-Somewhere below, beyond mapped floors and corrected history, a sleeping thing remained asleep beneath the world.
-
 And now, for the first time, Sera understood that the first descent had not
 been an accident of human curiosity.
 

@@ -9813,3 +9813,56 @@ Corpus-wide, every measured figure reads 0: `TECH_UNPAIRED_TWINS`, `TXT_BOLD_FIL
 `STORY_PARTS_UNDER_1500`, `STORY_TWIN_WORD_DRIFT`, `STORY_MANUSCRIPT_LOCKSTEP_FAILURES`,
 `PATCH_SAVER_ENTRIES_OFF_SHAPE`, `HISTORY_PARENT_IS_SESSION_BASE`. `TECH_RECORDS` 242, `TECH_MD_FILES` 244,
 `TECH_TXT_FILES` 244, `STORY_CHAPTERS_TOTAL` 12, `STORY_CHAPTER_MD_FILES` 14.
+
+---
+
+## Prompt End Update — 2026-10-24, Class 6 Applied: Seven Penultimate Cutaways Thinned
+
+### The correction that came first
+
+The finding was originally recorded as a closing cutaway in eight chapters. Reading each ending directly
+showed two errors in that. The refrain also appears in Chapters 02 and 11, which were missed, and in every
+one of the affected chapters the cutaway is penultimate rather than final. All seven already ended on an
+interior beat, with the cutaway sitting before it as a thematic bridge.
+
+A single-line grep also failed to find the Chapter 04 instance because the phrase breaks across a line as
+far, newline, below the Facility. The count was therefore established by reading each closing rather than by
+searching for it.
+
+Corrected position: the refrain appears in ten chapters, 02, 04, 05, 06, 07, 08, 09, 10, 11 and the
+Epilogue. Chapters 01, 03 and 12 have none.
+
+### What was done
+
+Owner ruling: keep the strongest instances and thin the rest. Chapters 04, 09 and the Epilogue keep theirs.
+The penultimate cutaway was removed from Chapters 02, 05, 06, 07, 08, 10 and 11 so that the interior line
+now closes each chapter directly.
+
+Chapter 02 needed a different cut from the other six. Its refrain was not a paragraph but a subordinate
+clause appended to a sentence about walking back through the corridors, so the clause was removed and the
+sentence closed with a full stop rather than the whole paragraph being deleted.
+
+Every removal was applied to all four story files, the chapter, its twin, the manuscript and the manuscript
+twin. Twenty-eight edits in total, seven chapters by four files, and each confirmed present.
+
+### The seven new endings
+
+Chapter 02 now ends on whether the truth had ever been safe enough for the Facility to keep intact. Chapter
+05 on an answer to a call no one remembered receiving. Chapter 06 on the institution teaching itself to
+forget the cost. Chapter 07 on their silence being not an absence but an act. Chapter 08 on the first lie
+being the operating condition of the present. Chapter 10 on what learning threatened to turn you into.
+Chapter 11 on having given the future a chance.
+
+### What was verified
+
+Every measured figure reads 0, including `STORY_OPENING_REPEATS`, `STORY_PARTS_UNDER_1500`,
+`STORY_TWIN_WORD_DRIFT`, `STORY_MANUSCRIPT_LOCKSTEP_FAILURES`, `TXT_WIDE_PROSE_LINES`, `MD_WIDE_PROSE_LINES`,
+`TXT_LINES_OVER_118`, `TXT_BOLD_FILES`, `BOXDRAW_CHARACTERS`, `TITLE_STACK_DOCUMENTS`,
+`RECORDS_NOT_ONE_H1`, `BAD_EOF`, `ODD_FENCE`, `TECH_RECORDS_OFF_SHAPE`,
+`TECH_RECORDS_REGISTRY_OFF_SHAPE`, `TECH_RECORDS_UNDER_1800`, `HISTORY_PARENT_IS_SESSION_BASE`.
+`STORY_CHAPTERS_TOTAL` 12, `STORY_CHAPTER_MD_FILES` 14.
+
+`gate_audit.py` reads `gates tested 27 | fired 27 | blind 0`.
+
+Class 7, the Epilogue's shift to an omniscient register, was not touched. The owner's ruling covered class 6
+only.

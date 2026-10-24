@@ -293,8 +293,5 @@ night before.
 
 Not because the walls had changed. Because she had.
 
-Somewhere below every mapped floor, beyond the point where architecture became maintenance and maintenance became
-ritualized mercy, a sleeping foundation shifted under the world.
-
 And the institution built to keep it dreaming had taught itself to forget the
 cost.
