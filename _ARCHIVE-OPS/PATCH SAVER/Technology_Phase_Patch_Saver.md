@@ -9936,3 +9936,40 @@ fix made. Quoted material in this story is lowercase by design and is not distin
 defect by pattern alone, so the gate needs either a curated exemption list or a marker convention around
 quoted artefacts. Building it without that would add a ninth false-positive gate to a session that already
 produced eight.
+
+---
+
+## Prompt End Update — 2026-10-24, Sentence Case Gated At 28, And A Dangling Fragment Found And Fixed
+
+### The gate
+
+`STORY_LOWERCASE_SENTENCE_STARTS` now measures the sentence-case defect. It reads 0 against the corpus and
+the injection takes it to 1. The suite reads `gates tested 28 | fired 28 | blind 0`.
+
+The pattern is restricted to a single line, and that restriction is the whole design. Quoted artefacts in
+this story are deliberately lowercase and sit on their own line after a sentence-ending full stop, so a
+pattern whose whitespace class matched line breaks would flag them. That is precisely what the earlier fix
+did, and it capitalised five quoted lines including a one-word pacing beat. Matching within a line only keeps
+the defect class and excludes the artefact class, which is why no exemption list was needed after all. The
+line-boundary restriction is the exemption strategy.
+
+The full stop must also follow a lowercase letter or a closing quote, which excludes abbreviations such as
+A.R.R. and A.C.T where it follows a capital. The injection targets Chapter 12, hand-verified clean.
+
+### A second defect the measurement exposed
+
+Measuring the pattern before installing the gate returned four instances that should not have existed. They
+were not pre-existing. The class 6 removal of the Chapter 02 clause cut the text while, far below, something
+slept beneath the Earth and a flower bloomed in memory, but the original sentence continued with of it. The
+removal left a dangling fragment reading corridors of the Facility. of it.
+
+All four instances were removed across the chapter, its twin, the manuscript and the manuscript twin. This is
+the second time the class 6 edit damaged text, the first being the quoted artefact reversions, and both were
+found by measurement rather than by reading. A deletion that does not check what followed the deleted span
+will leave a fragment.
+
+### What was verified
+
+`STORY_LOWERCASE_SENTENCE_STARTS` 0, `STORY_OPENING_REPEATS` 0, `STORY_TWIN_WORD_DRIFT` 0,
+`STORY_MANUSCRIPT_LOCKSTEP_FAILURES` 0, `TXT_LINES_OVER_118` 0, `TXT_WIDE_PROSE_LINES` 0,
+`MD_WIDE_PROSE_LINES` 0. `gate_audit.py` reads `gates tested 28 | fired 28 | blind 0`, up from 27.

@@ -196,6 +196,24 @@ def main() -> int:
             for j in range(i + 1, len(opens))
         ):
             r["STORY_OPENING_REPEATS"] += 1
+    # Owner ruling: gate the sentence-case defect. The pattern is restricted to a
+    # single line on purpose. Quoted artefacts in this story are deliberately
+    # lowercase and sit on their own line after a sentence-ending full stop, so a
+    # pattern whose whitespace class matched line breaks would flag them. It did
+    # exactly that once, in the fix that introduced this gate, and it capitalised
+    # five quoted lines including a one-word pacing beat. Matching within a line
+    # only keeps the defect class and excludes the artefact class, so no exemption
+    # list is needed.
+    #
+    # The full stop must also follow a lowercase letter or a closing quote, which
+    # excludes abbreviations such as A.R.R. and A.C.T where it follows a capital.
+    r["STORY_LOWERCASE_SENTENCE_STARTS"] = 0
+    _lowstart = re.compile(r"(?<=[a-z\u201d)\u2019])\.[ \t]+[a-z]")
+    for p in sorted(STORY.glob("Chapters/*.md")):
+        if p.name == "README.md":
+            continue
+        if any(_lowstart.search(ln) for ln in read(p).split("\n")):
+            r["STORY_LOWERCASE_SENTENCE_STARTS"] += 1
     r["TITLE_STACK_DOCUMENTS"] = 0
     for p in md:
         ls = read(p).split("\n")

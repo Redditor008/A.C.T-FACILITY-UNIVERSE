@@ -86,6 +86,11 @@ TEXT_TESTS = [
     # Target must be a chapter the gate currently passes. Chapter 02 was
     # hand-verified clean with a highest shared word run of two, well under the
     # threshold of five, so an injected reworded duplicate has to be what fires it.
+    # Target must be a chapter the gate currently passes. Chapter 12 was
+    # hand-verified clean, so the injected line is what has to fire it.
+    ("STORY_LOWERCASE_SENTENCE_STARTS",
+     "A.C.T Universe Document/ACT MAIN STORY/Chapters/Chapter-12-The-Second-Self-Erasure.md",
+     "append", "Filters changed. seal grids recalibrated. pressure lines held."),
     ("STORY_OPENING_REPEATS",
      "A.C.T Universe Document/ACT MAIN STORY/Chapters/Chapter-02-Wounds-in-the-Archive.md",
      "reword_dup", None),
