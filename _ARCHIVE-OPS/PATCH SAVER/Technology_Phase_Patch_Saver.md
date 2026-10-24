@@ -9188,3 +9188,61 @@ Corpus-wide: `TECH_RECORDS` 242, `TECH_MD_FILES` 244, `TECH_TXT_FILES` 244, `TEC
 `TXT_BOLD_FILES` 0, `BOXDRAW_CHARACTERS` 0, `TITLE_STACK_DOCUMENTS` 0, `TXT_LINES_OVER_118` 0,
 `TXT_WIDE_PROSE_LINES` 0, `MD_WIDE_PROSE_LINES` 0, `RECORDS_NOT_ONE_H1` 0, `BAD_EOF` 0, `ODD_FENCE` 0,
 `PATCH_SAVER_ENTRIES_OFF_SHAPE` 0, `HISTORY_PARENT_IS_SESSION_BASE` 0.
+
+---
+
+## Prompt End Update — 2026-10-24, Chapter Hand Judge Started: Three Of Thirteen Read
+
+### The task
+
+The long-deferred hand judge of all thirteen chapter files against three craft rules from
+`_ARCHIVE-OPS/STORY WRITING RULE/Unified-Narrative-Writing-Rules-for-AI-updated.md`. These are not
+greppable. Judging means reading, so the full judge is 24961 words across thirteen files.
+
+The three rules and their line numbers:
+
+- RULE 3.3 at line 607, DESCRIPTIONS SERVE THE CHARACTER NOT THE AUTHOR. Describe only what the character
+  would notice, in the order they would notice it, in their vocabulary. Nobody notices everything. No
+  floating camera.
+- RULE 3.5 at line 630, EVERY CHAPTER MUST CHANGE SOMETHING. A character learned, lost or decided
+  something, or something outside changed the situation. No static chapters.
+- RULE 4.3 at line 672, NARRATIVE PACING MATCHES EMOTIONAL PACING. Fast is short sentences and fragments.
+  Slow is long sentences. Confusion is run-ons. Shock is one short sentence alone.
+
+### Verdicts so far
+
+`Chapter-01-Correction-Order.md`, 1889 words, read in full. RULE 3.5 pass on all four vectors. RULE 4.3
+pass. RULE 3.3 pass with one flagged passage: the late cutaway listing guards rotating posts, researchers
+logging findings, a containment lift moving through Central and clerks stamping routes. Sera is in Stack C
+and cannot perceive any of the four. It partly rescues itself by framing the list as her inference, but the
+images are still perceptions she does not have. Not edited. Owner rules that a pattern match is a lead and
+not a finding, and that pre-existing content is not deleted unilaterally.
+
+`Chapter-02-Wounds-in-the-Archive.md`, 2206 words, lines 1 to 180 of 388 read. All three rules pass,
+provisional on the second half.
+
+`Chapter-03-The-004-Irregularity.md`, 2169 words, lines 1 to 175 of 390 read. All three rules pass,
+provisional on the second half.
+
+### The one real finding
+
+The room-survey device appears in all three chapters and is handled correctly in two. Chapter 02 places
+Sera physically in the upper corridors and closes on her own inference. Chapter 03 motivates the look
+explicitly, with Sera becoming abruptly aware of the room, and closes on her own question about how many
+colleagues carry holes they do not know exist. Only Chapter 01 puts the survey somewhere the viewpoint
+character cannot see.
+
+That makes the Chapter 01 cutaway an outlier in a story that otherwise handles the device properly, and it
+leaves two in-house models to follow if the owner wants it reworked. Any fix has to touch all four story
+files: the chapter, its twin, the manuscript and the manuscript twin.
+
+### Owner direction on pace
+
+Full-file reads from here on, one chapter per turn, so every verdict is complete rather than provisional.
+Ten chapters remain.
+
+### What was verified
+
+No story file was changed. The workspace was re-cloned six times during this session and recovered each
+time by fetching origin and resetting hard to the branch. HEAD at the end of this turn is the pushed
+commit for the 073-2 and 073-3 batch, and the tree is clean apart from this entry.
