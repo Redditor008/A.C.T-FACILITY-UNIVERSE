@@ -9462,3 +9462,46 @@ stands and the line is not flagged again here.
 
 Nine of thirteen judged. Four remain: Chapter 10, Chapter 11, Chapter 12 and the Epilogue. No story file has
 been changed.
+
+---
+
+## Prompt End Update — 2026-10-24, Chapter Hand Judge: Chapter 11
+
+`Chapter-11-Fragments-Not-Revelation.md`, 1600 words, read end to end. Ten of thirteen judged.
+
+RULE 3.5 pass, and the most decision-dense chapter in the book. She decides to break the truth into twelve
+fragments, decides to disassemble the shadow file rather than delete it because deletion was too obedient to
+the same logic that wounded the archive, and burns the master from local memory, buffer and recovery cache.
+She loses the one place the whole shape still existed, and the loss is named as subtraction rather than as
+peace. Mila changes the situation by calling the alternative surrender pretending to be prudence, and the
+directional pull at her door arrives from outside entirely.
+
+RULE 4.3 pass, and the strongest pacing found so far. By mid-shift she had five fragments. By second quarter,
+nine. By cycle end, twelve is an accelerating rhythm doing exactly what the rule asks of a mounting scene.
+Each one incomplete. Each one survivable. None of them innocent is a clean triple run. She did something
+worse. And perhaps better. then She disassembled it. is a two-beat into a reveal. Lower stands alone as a
+single word. The ending, She had not given the future the truth. She had given it a chance, is implication
+rather than explanation and is the cleanest pointed arrow in the chapters read.
+
+RULE 3.3 pass. Her method is stated in her own professional vocabulary, including cross-disciplinary burial
+in places no single clearance lane would think to unify. The corridor survey is compliant because she is on
+the corridor and the looking is motivated. The physical detail is interior and well judged, with the room
+tilting and her bracing one hand against a dead machine rack until the moment passed. The dream-pull is
+hedged correctly as sensation rather than narrated as fact.
+
+### DEFECT, sentence case on two separate lines, the worst instance found
+
+The corridor line reads Guards at stations. clerks pushing carts. muted lights. sealed doors. a medic
+yawning behind a records hatch. Five sentences begin lowercase after a full stop.
+
+The tradecraft line reads False-facing admin language. dead classification shells. transposed metadata.
+cross-disciplinary burial. Three sentences begin lowercase after a full stop.
+
+### Pattern is now systemic, not incidental
+
+Sentence case broken after a full stop appears in Chapters 06, 07, 08, 09 and 11, on eight separate lines
+between them, with fourteen lowercase sentence starts counted across those lines. That is not authorial
+variation. It is consistent with an automated processing pass that lower-cased list-like runs, and it is the
+single largest item in the fix batch.
+
+Ten of thirteen judged. Three remain: Chapter 10, Chapter 12 and the Epilogue. No story file has been changed.
