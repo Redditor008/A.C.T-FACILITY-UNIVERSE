@@ -9893,3 +9893,46 @@ read 0 after the change. `gate_audit.py` reads `gates tested 27 | fired 27 | bli
 This is the eighth instance of one failure class in this session: a gate that measures a literal thing rather
 than the thing it was written to mean. Here the gate measured every directory on disk, including one that
 only exists because a program ran.
+
+---
+
+## Prompt End Update — 2026-10-24, Reverting Damage The Class 1 Fix Did To Quoted Artefact Text
+
+The class 1 sentence-case fix was applied with a pattern whose whitespace class matched line breaks as well
+as spaces. In the .txt twins that collapsed deliberate line breaks and capitalised text that was lowercase on
+purpose. Ten instances across two file sets.
+
+Five passages were affected, all quoted artefacts rather than prose. A document fragment reading the bloom
+was below. An archive line reading pale tissue sample non-decaying gold residue subject lost previous day in
+under seven minutes. A dossier line reading sap viability contingent on dream-state stability. A corner note
+reading the remembered route descends faster than the surveyed route. And the single word below, standing
+alone.
+
+That last one is the most consequential. The chapter judge recorded below standing alone as an execution of
+RULE 4.3, the shock register where a short sentence carries the moment by itself. Capitalising it and joining
+it to the preceding line removed the beat the judge had specifically praised. The fix intended to correct
+sentence case destroyed a pacing device.
+
+No gate caught it. `STORY_TWIN_WORD_DRIFT` read 0 before, during and after, because that gate measures word
+count and none of these changes altered one. `STORY_MANUSCRIPT_LOCKSTEP_FAILURES` also read 0, because the
+manuscript twin carried the same change as the chapter twin and a lockstep check cannot see a defect both
+sides share. This is the fourth time in the session that a gate reading 0 proved nothing.
+
+The .md twins were not affected, because their line wrapping put these passages in different positions, so
+the same pattern matched nothing there. That left the two formats disagreeing about the case of five quoted
+lines, which is exactly the drift the twin gates exist to catch and neither caught.
+
+All ten instances were reverted to their original case and their original line breaks, across the chapter
+twins and the manuscript twin. A workspace re-clone wiped the first application mid-turn, and the
+session-base guard in `check_message.py` caught the resulting bad HEAD before it could be committed, so the
+reversions were re-applied after recovery. All story, technology and formatting figures read 0 after, and
+`gate_audit.py` reads `gates tested 27 | fired 27 | blind 0`.
+
+### Why the sentence-case gate was not built
+
+It was requested and it cannot be built as the simple version. A gate matching a lowercase letter after a
+full stop would flag precisely the five quoted artefact lines that are correct, which is the same error the
+fix made. Quoted material in this story is lowercase by design and is not distinguishable from a sentence-case
+defect by pattern alone, so the gate needs either a curated exemption list or a marker convention around
+quoted artefacts. Building it without that would add a ninth false-positive gate to a session that already
+produced eight.
