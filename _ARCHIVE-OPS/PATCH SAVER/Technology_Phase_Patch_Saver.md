@@ -8294,3 +8294,72 @@ known to be correct, not only against a defect injected into one.**
 Namewright Bazaar set 069, four records, next. Then sets 070 and 073. The 16 registry-variance
 records. Whether the epilogue is exempt from the chapter floor. The 13 chapter files to judge by hand.
 
+## Prompt End Update — 2026-10-24, The Epilogue Expanded To 1,526 Words: The Gate Now Reads Zero
+
+Owner ruling: expand the epilogue itself rather than exempt it, and take Namewright Bazaar set 069 as the
+next content batch.
+
+### The epilogue clears the floor on its own terms
+
+| MEASURE | BEFORE | AFTER |
+|---|---|---|
+| Words, `.md` | 812 | 1,526 |
+| Words, `.txt` | 812 | 1,526 |
+| `STORY_PARTS_UNDER_1500` | 1 | **0** |
+| Banned-list patterns | 0 | 0 |
+| Widest line | 118 | 118 |
+
+Twelve passages were added, all of them concrete detail in the existing voice: what the two
+"efficiency" reconfigurations actually did, the forty centimetres somebody measured and never explained,
+the eleven names on the reference sheet and what became of them, three worn keys on a replaced keyboard,
+why the drift was corrected twice, what closing a branch in a migration really leaves behind, the
+absence of a form for a signature that outlived its owner, the shift note nobody reads, the pause she
+would later misplace, nine boxes with no contents list and four hundred days of unbroken humidity log,
+and a corridor seal that worked better in the evening than in the morning.
+
+Nothing was invented that contradicts the story. Every addition is the archive being tedious in a
+specific way, which is what the epilogue was already about.
+
+### The banned list was read before writing, and the result is clean
+
+Section 2 of the writing rules lists twelve banned patterns. All twelve were grepped against the
+finished file: **0 hits.** The nearest approach is the existing line *"without any particular sense that
+her life had shifted"*, which negates the pattern rather than using it, and which was already in the
+file and was left alone.
+
+### A narrative edit touches four files, and one of them I broke
+
+The epilogue lives in `Chapters/Epilogue-00-...md`, in its `.txt` twin, and inside the full manuscript
+in both formats. The two `.md` files took the insertions cleanly.
+
+**The two `.txt` twins did not.** I regenerated them with an inline converter instead of the tracked
+`md_to_txt.py`, and that converter did not strip bold spanning a line break. The manuscript twin went
+from **0 markup lines to 10**, with `**` left standing on ten lines including the amnestics sentence and
+the AFD-NB-004 working assumption. `TXT_BOLD_FILES` would have caught it.
+
+The fix was to restore both twins from `HEAD` with `git show` and apply the twelve passages directly
+using whitespace-flexible anchors, so the twins carry the expansion as plain prose and nothing else was
+reformatted. The manuscript twin is back to **0 markup lines** and the diff is the expansion only.
+
+Two lessons recorded. **Use the tracked converter, not an inline copy of it** — the whole reason
+`md_to_txt.py` was tracked this session was to stop exactly this. **And never regenerate a file that is
+already correct**; patch it. Regenerating 22,947 words to change 700 of them risked the other 22,247
+for no reason.
+
+### Validation
+
+`corpus_numbers.py`: `STORY_PARTS_UNDER_1500` 0, `STORY_MANUSCRIPT_LOCKSTEP_FAILURES` 0,
+`STORY_OPENING_REPEATS` 0, `STORY_CHAPTERS_TOTAL` 12, `STORY_CHAPTERS_ACTION_OPEN` 12,
+`TXT_BOLD_FILES` 0, `TXT_LINK_FILES` 0, `TXT_BACKTICK_FILES` 0, `TXT_MD_HEADING_FILES` 0,
+`TXT_WIDE_PROSE_LINES` 0, `MD_WIDE_PROSE_LINES` 0, `RECORDS_NOT_ONE_H1` 0, `BAD_EOF` 0, `ODD_FENCE` 0,
+`TECH_RECORDS_OFF_SHAPE` 12, `TECH_RECORDS_UNDER_1800` 8, `DOCUMENT_COUNT` 1026.
+
+`gate_audit.py`: gates tested 24, fired 24, blind 0.
+
+`PATCH_SAVER_ENTRIES` 122.
+
+### Open
+
+Namewright Bazaar set 069, four records, next. Then sets 070 and 073. The 16 registry-variance records.
+The 13 chapter files still to be judged by hand against RULE 3.3, RULE 3.5 and RULE 4.3.
+
