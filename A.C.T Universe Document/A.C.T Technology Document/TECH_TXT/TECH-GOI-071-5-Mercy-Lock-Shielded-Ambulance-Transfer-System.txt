@@ -23,6 +23,16 @@ TECHNOLOGY RECORD - MERCY LOCK SHIELDED AMBULANCE TRANSFER SYSTEM
 +----------------------------+---------------------------------------------------------------------------------------+
 | ARCHIVE HANDLING           | MERCY LOCK DISCLOSURE LIMIT / MEDICAL-CUSTODY RESTRICTED                              |
 +----------------------------+---------------------------------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Medical Division                                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Medical, Containment, Legal, Civil Covert, Engineering, Subject Care                  |
++----------------------------+---------------------------------------------------------------------------------------+
+| OPERATIONAL STATUS         | COOPERATIVE ACCESS / TWO VEHICLES INSPECTED / NO COMPLETE BAY HELD                    |
++----------------------------+---------------------------------------------------------------------------------------+
+| RISK STATUS                | MERCY LOCK DISCLOSURE LIMIT / MEDICAL-CUSTODY RESTRICTED                              |
++----------------------------+---------------------------------------------------------------------------------------+
+| CLEARANCE REQUIRED         | Level 4; Level 5 for fitment, transfer notation and recovered components              |
++----------------------------+---------------------------------------------------------------------------------------+
 
 FUNCTION SUMMARY
 

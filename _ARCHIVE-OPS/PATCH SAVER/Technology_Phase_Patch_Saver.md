@@ -8817,3 +8817,73 @@ rather than invented in one, which is the pattern the archive is supposed to fol
 
 The 16 registry-variance records. Then sets 070 and 073. The 13 chapter files to judge by hand.
 
+## Prompt End Update — 2026-10-24, Registry Gate Had The Same Exact-Match Flaw: Four Mercy Lock Records Fixed
+
+Owner ruling: the 16 registry-variance records.
+
+### The 16 had already become 12 before this batch began
+
+Closing set 069 gave four records a proper house registry table, and those four dropped off the list as
+a side effect. The figure quoted for several batches was stale, and it only moved because unrelated work
+happened to touch the same field.
+
+### The registry gate repeats the heading gate's mistake
+
+`TECH-GOI-071-2`, `071-3` and `071-4` were reported missing `ORIGIN`, `PRIMARY CONTROLLER` and
+`ATTACHED DIVISIONS`. Opening them showed the information present under variant names:
+
+| HOUSE FIELD | THE NAME THE RECORD USES |
+|---|---|
+| `ORIGIN` | `GOI SOURCE` |
+| `PRIMARY CONTROLLER` | `PRIMARY A.C.T REVIEW`, first division |
+| `ATTACHED DIVISIONS` | `PRIMARY A.C.T REVIEW`, full list |
+
+This is the sixth instance of the same error class this session: **a gate matching an exact field name is
+testing wording, not structure.** Five were heading names and this is the sixth, in a gate written after
+the lesson was supposedly learned.
+
+### What was done
+
+House rows were **added**, derived from values the registry already carries. Nothing was invented and
+nothing was deleted, so `GOI SOURCE` and `PRIMARY A.C.T REVIEW` remain beside the rows they were read
+from. A reader can see the derivation rather than take it on trust.
+
+`TECH-GOI-071-5` genuinely lacked five fields. Its `PRIMARY CONTROLLER`, `ATTACHED DIVISIONS`,
+`OPERATIONAL STATUS`, `RISK STATUS` and `CLEARANCE REQUIRED` rows restate what the record's own
+`DIVISION USE` and fitment sections already state.
+
+| MEASURE | BEFORE | AFTER |
+|---|---|---|
+| `TECH_RECORDS_REGISTRY_OFF_SHAPE` | 12, quoted as 16 | **8** |
+| Records fixed | — | 4 |
+| All four twins | — | widest 118, 0 markup |
+
+### The remaining 8 are not a separate job
+
+They are sets 070 and 073, four records each, which have no house registry table because they have no
+house structure at all. Their registries will arrive with their restructuring, exactly as set 069's did.
+**Normalising them now would mean writing a registry twice.**
+
+### The lesson, restated for the seventh time
+
+Every gate this session that matched a name needed the same fix, and the fix was always the same: match
+the leading word or an accepted synonym, then validate against a record known to be correct. The
+registry gate was written after five heading corrections and still shipped with an exact-match test.
+**Recording a lesson in prose does not install it in code.**
+
+### Validation
+
+`corpus_numbers.py`: `TECH_RECORDS_REGISTRY_OFF_SHAPE` 8, `TECH_RECORDS_OFF_SHAPE` 8,
+`TECH_UNPAIRED_TWINS` 0, `TXT_LINES_OVER_118` 0, `TXT_WIDE_PROSE_LINES` 0, `MD_WIDE_PROSE_LINES` 0,
+`TXT_BOLD_FILES` 0, `TXT_BACKTICK_FILES` 0, `BOXDRAW_CHARACTERS` 0, `RECORDS_NOT_ONE_H1` 0,
+`TITLE_STACK_DOCUMENTS` 0, `TECH_RECORDS` 242.
+
+`gate_audit.py`: gates tested 26, fired 26, blind 0.
+
+`PATCH_SAVER_ENTRIES` 131.
+
+### Open
+
+Sets 070 and 073, which carry the remaining 8 off-shape and 8 registry-variance records together. The 13
+chapter files to judge by hand.
+

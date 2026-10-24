@@ -13,6 +13,9 @@
 | OPERATIONAL STATUS | RESTRICTED CONSULTATION USE / PARTIAL TECHNICAL ACCESS |
 | RISK STATUS | SIGNAL NEGLECT / BELL REMOVAL / HOSTILE REPURPOSING |
 | CLEARANCE REQUIRED | Level 4; Level 5 for patient-linked tuning, living names, ward locations, and failed-bell incident files |
+| ORIGIN | GOI-HY-P-071 - Mercy Lock Institute |
+| PRIMARY CONTROLLER | Medical Division |
+| ATTACHED DIVISIONS | Medical, Subject Care, Containment, Legal |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

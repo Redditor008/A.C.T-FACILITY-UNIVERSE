@@ -11,6 +11,11 @@
 | CONTROLLING FILES | GOI-HY-P-071, Mercy Lock transfer records, Medical Division custody logs, Site 02 transfer notes |
 | PRIMARY A.C.T INTEREST | Nonviolent patient transport, medical containment transfer, public-cover movement, low-escalation custody |
 | ARCHIVE HANDLING | MERCY LOCK DISCLOSURE LIMIT / MEDICAL-CUSTODY RESTRICTED |
+| PRIMARY CONTROLLER | Medical Division |
+| ATTACHED DIVISIONS | Medical, Containment, Legal, Civil Covert, Engineering, Subject Care |
+| OPERATIONAL STATUS | COOPERATIVE ACCESS / TWO VEHICLES INSPECTED / NO COMPLETE BAY HELD |
+| RISK STATUS | MERCY LOCK DISCLOSURE LIMIT / MEDICAL-CUSTODY RESTRICTED |
+| CLEARANCE REQUIRED | Level 4; Level 5 for fitment, transfer notation and recovered components |
 
 ## FUNCTION SUMMARY
 

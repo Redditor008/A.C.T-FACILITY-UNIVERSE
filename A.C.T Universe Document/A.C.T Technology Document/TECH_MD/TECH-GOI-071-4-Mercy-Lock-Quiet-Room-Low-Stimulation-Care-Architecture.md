@@ -13,6 +13,9 @@
 | OPERATIONAL STATUS | RESTRICTED DESIGN REVIEW / CONSULTATION USE |
 | RISK STATUS | ROOM-PATIENT MISMATCH / ISOLATION HARM / HOSTILE ADAPTATION |
 | CLEARANCE REQUIRED | Level 4; Level 5 for ward layouts, patient-linked tuning, failed room incidents, and hidden clinic addresses |
+| ORIGIN | GOI-HY-P-071 - Mercy Lock Institute |
+| PRIMARY CONTROLLER | Medical Division |
+| ATTACHED DIVISIONS | Medical, Subject Care, Containment, Engineering, Legal |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

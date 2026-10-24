@@ -13,6 +13,9 @@
 | OPERATIONAL STATUS | RESTRICTED JOINT-TRANSFER USE / PARTIAL ACCESS |
 | RISK STATUS | CONSENT MISREAD / IDENTITY DRIFT / UNLAWFUL DETENTION |
 | CLEARANCE REQUIRED | Level 4; Level 5 for living patient identities, disputed guardianship, ledger anomaly, and ward location links |
+| ORIGIN | GOI-HY-P-071 - Mercy Lock Institute |
+| PRIMARY CONTROLLER | Legal Division |
+| ATTACHED DIVISIONS | Legal, Medical, Subject Care, Intelligence |
 
 | REGISTRY FIELD | CURRENT VALUE |
 |---|---|

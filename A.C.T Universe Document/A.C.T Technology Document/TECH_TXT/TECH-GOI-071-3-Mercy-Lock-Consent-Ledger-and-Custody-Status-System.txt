@@ -1,4 +1,5 @@
 A.C.T FACILITY ARCHIVE FILE — MERCY LOCK CONSENT LEDGER AND CUSTODY STATUS SYSTEM
+
 TECHNOLOGY RECORD - MERCY LOCK CONSENT LEDGER AND CUSTODY STATUS SYSTEM
 
 +----------------------------+---------------------------------------------------------------------------------------+
@@ -23,8 +24,13 @@ TECHNOLOGY RECORD - MERCY LOCK CONSENT LEDGER AND CUSTODY STATUS SYSTEM
 | RISK STATUS                | CONSENT MISREAD / IDENTITY DRIFT / UNLAWFUL DETENTION                                 |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4; Level 5 for living patient identities, disputed guardianship, ledger         |
-+----------------------------+---------------------------------------------------------------------------------------+
 |                            | anomaly, and ward location links                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| ORIGIN                     | GOI-HY-P-071 - Mercy Lock Institute                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Legal Division                                                                        |
++----------------------------+---------------------------------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Legal, Medical, Subject Care, Intelligence                                            |
 +----------------------------+---------------------------------------------------------------------------------------+
 
 +----------------------------+---------------------------------------------------------------------------------------+
@@ -35,11 +41,11 @@ TECHNOLOGY RECORD - MERCY LOCK CONSENT LEDGER AND CUSTODY STATUS SYSTEM
 | DISTRIBUTION               | Legal / Medical / Subject Care / Containment / Intelligence / Archive                 |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Legal Division, Medical Division, Subject Care Division, Intelligence Division, and   |
-+----------------------------+---------------------------------------------------------------------------------------+
 |                            | Central Archive                                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
+
 Mercy Lock Consent Ledger and Custody Status System is the third registered technology record derived from Mercy Lock
 Institute. Mercy Lock dossiers identify consent ledgers with voluntary, substitute, disputed, and emergency custody
 markings, and A.C.T has observed transfer agreements where patient safety requirements overrode faster containment
@@ -167,7 +173,9 @@ Handling Limits And Weaknesses
 - Weakest where consent is filed as completed history.
 
 Whether the ledger resists anomalous memory alteration or only ordinary bureaucratic loss is NOT MEASURED. A ledger
-can be accurate and still ignored, and A.C.T has no instrument that detects the second condition. OPERATING PROCEDURE
+can be accurate and still ignored, and A.C.T has no instrument that detects the second condition.
+
+OPERATING PROCEDURE
 
 Before A.C.T accepts a Mercy Lock transfer, MLCLCSS fields must record patient condition, lawful custody basis, who
 may authorize care, what the patient objects to, what the patient must not be
@@ -216,6 +224,7 @@ FAULT ISOLATION
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Ledger split from patient  | paperwork separation                      | reunite, Legal                            |
 +----------------------------+-------------------------------------------+-------------------------------------------+
+
 Numbered Operating Sequence
 
 The sequence is the pre-transfer field set A.C.T must have before accepting a Mercy
@@ -250,17 +259,20 @@ drift, and staff treating consent as completed history rather than active condit
 FAILURE HISTORY AND RECORDED INCIDENTS
 
 MLCLCSS-White Lock Transfer Correction
+
 A cooperative heat-manifestation transfer succeeded after Mercy Lock ledger fields preserved no handcuffs, no surname,
 bell retained, open window, and advocate present. A.C.T's initial plan conflicted with those entries and would likely
 have injured staff and patient.
 
 MLCLCSS-Grey Lock Name Instability Review
+
 A.C.T reviewed a report of a Grey Lock installation refusing to open for a
 doctor who used a patient's old legal name
 after instruction not to. Whether electronic, anomalous, or staff-controlled, the event confirms that ledger name
 fields may be containment-relevant.
 
 MLCLCSS-Red Key Attachment Standard
+
 Failed mercy protocols require Red Key attachment so the ledger records not only the
 restraint plan but why that plan
 failed. A.C.T Legal requires such attachments before any copied system is used in temporary custody.
@@ -279,20 +291,19 @@ CROSS-REFERENCE STATUS
 
 - GOI-HY-P-071 — Mercy Lock Institute, Group of Interest Registry
 - TECH-GOI-071-1 — Mercy Lock Gentle Lock System, Technology Record
-- A.C.T Universe Document/A.C.T Technology
-Document/Technology Record collection, Central ArchiveTECH-GOI-071-2-Mercy-Lock-Patient-Bell-Distress-Signal-System.md
+- TECH-GOI-071-2 — Mercy Lock Patient Bell Distress Signal System, Technology Record
 - Mercy Lock transfer agreements, consent ledgers, Red Key attachments, and guardianship files [restricted]
 
 OPEN QUESTIONS
 
-- Do Mercy Lock consent ledgers resist anomalous memory alteration or only ordinary bureaucratic
-loss?
-- Does the First Key Table approve disputed custody, or only review it after
-harm occurs?
+ Do Mercy Lock consent ledgers resist anomalous memory alteration or only ordinary bureaucratic loss?
+ Does the First Key Table approve disputed custody, or only review it after
+ harm
+ occurs?
 - Can A.C.T use ledger status markers without importing Mercy Lock legal doctrine wholesale?
 - How often do forbidden names become containment triggers?
-- Which ledger fields are safe to copy into A.C.T files without exposing ward
-locations?
+ Which ledger fields are safe to copy into A.C.T files without exposing ward
+ locations?
 - Can hostile GOIs forge a consent ledger convincingly enough to hide private imprisonment?
 
 Intelligence Confidence
@@ -303,11 +314,11 @@ identity-resistance behavior, and regional legal variation.
 
 FILE METADATA
 
-FILE CREATED:            28/06/1901
-FILE LAST UPDATED:       05/05/1920
-FILE AUTHOR:             Legal Division / Medical / Subject Care / Intelligence Joint Desk
-REVIEWED BY:             Central Archive
-FILE STATUS:             ACTIVE / RESTRICTED
+FILE CREATED: 28/06/1901
+FILE LAST UPDATED: 05/05/1920
+FILE AUTHOR: Legal Division / Medical / Subject Care / Intelligence Joint Desk
+REVIEWED BY: Central Archive
+FILE STATUS: ACTIVE / RESTRICTED
 DESIGNATION HISTORY: TECH-GOI-071-3 assigned for Mercy Lock Institute third registered technology under GOI-linked
 technology numbering
-RECORD CONDITION:        OPERATIONAL / PARTIAL LEDGER ACCESS
+RECORD CONDITION: OPERATIONAL / PARTIAL LEDGER ACCESS

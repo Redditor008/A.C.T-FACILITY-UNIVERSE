@@ -1,4 +1,5 @@
 A.C.T FACILITY ARCHIVE FILE — MERCY LOCK PATIENT BELL DISTRESS SIGNAL SYSTEM
+
 TECHNOLOGY RECORD - MERCY LOCK PATIENT BELL DISTRESS SIGNAL SYSTEM
 
 +----------------------------+---------------------------------------------------------------------------------------+
@@ -23,8 +24,13 @@ TECHNOLOGY RECORD - MERCY LOCK PATIENT BELL DISTRESS SIGNAL SYSTEM
 | RISK STATUS                | SIGNAL NEGLECT / BELL REMOVAL / HOSTILE REPURPOSING                                   |
 +----------------------------+---------------------------------------------------------------------------------------+
 | CLEARANCE REQUIRED         | Level 4; Level 5 for patient-linked tuning, living names, ward locations, and         |
-+----------------------------+---------------------------------------------------------------------------------------+
 |                            | failed-bell incident files                                                            |
++----------------------------+---------------------------------------------------------------------------------------+
+| ORIGIN                     | GOI-HY-P-071 - Mercy Lock Institute                                                   |
++----------------------------+---------------------------------------------------------------------------------------+
+| PRIMARY CONTROLLER         | Medical Division                                                                      |
++----------------------------+---------------------------------------------------------------------------------------+
+| ATTACHED DIVISIONS         | Medical, Subject Care, Containment, Legal                                             |
 +----------------------------+---------------------------------------------------------------------------------------+
 
 +----------------------------+---------------------------------------------------------------------------------------+
@@ -35,11 +41,11 @@ TECHNOLOGY RECORD - MERCY LOCK PATIENT BELL DISTRESS SIGNAL SYSTEM
 | DISTRIBUTION               | Medical / Subject Care / Containment / Legal / Intelligence / Engineering             |
 +----------------------------+---------------------------------------------------------------------------------------+
 | AUTHORITY                  | Medical Division, Subject Care Division, Legal Division, Intelligence Division, and   |
-+----------------------------+---------------------------------------------------------------------------------------+
 |                            | Central Archive                                                                       |
 +----------------------------+---------------------------------------------------------------------------------------+
 
 Archive Note
+
 Mercy Lock Patient Bell Distress Signal System is the second registered technology record derived from Mercy Lock
 Institute. A.C.T has observed patient bells wrapped in white cloth, bells retained during cooperative transfer, bells
 connected to gentle lock interfaces, and ward doctrine that treats an unanswered bell as a restraint failure rather
@@ -172,7 +178,9 @@ Handling Limits And Weaknesses
 - Weakest where a name change breaks the bell's link.
 
 Which bells use anomalous ward routing, and whether vibration reaches a gentle lock directly or only alerts staff, are
-NOT MEASURED. Maximum safe response time before neglect becomes containment failure is unresolved. OPERATING PROCEDURE
+NOT MEASURED. Maximum safe response time before neglect becomes containment failure is unresolved.
+
+OPERATING PROCEDURE
 
 Before accepting a Mercy Lock patient bell into A.C.T custody, Medical records patient identity limits, safe name,
 permitted contact, escalation triggers, bell location, staff response time, whether the bell may be removed during
@@ -219,6 +227,7 @@ FAULT ISOLATION
 +----------------------------+-------------------------------------------+-------------------------------------------+
 | Bell wired to punishment   | hostile repurposing                       | seize, Containment                        |
 +----------------------------+-------------------------------------------+-------------------------------------------+
+
 Numbered Operating Sequence
 
 The sequence is the intake order Medical Division uses before accepting a bell
@@ -253,17 +262,20 @@ treating bell status as comfort preference rather than containment condition.
 FAILURE HISTORY AND RECORDED INCIDENTS
 
 MLPBDSS-Red Key Bell Delay
+
 A recovered Red Key fragment states that the door held while the bell went
 unanswered for four minutes. Mercy Lock
 sustained an advocate complaint and suspended a Quiet Engineer. A.C.T Medical uses the fragment to teach that
 mechanical containment success can coexist with care failure.
 
 MLPBDSS-Transfer Retention Finding
+
 During a cooperative heat-manifestation transfer, A.C.T's first plan would have removed
 the patient's bell and added hand restraints. Mercy Lock objected. The bell remained
 with the patient inside a shielded pouch; heat output stayed below injury threshold.
 
 MLPBDSS-Cleaning Restriction Note
+
 Inactive component inspection found residue damage on a cloth-wrapped bell interface. Current handling prohibits
 unknown solvents and requires Medical review before wrapping removal.
 
@@ -282,17 +294,17 @@ CROSS-REFERENCE STATUS
 
 - GOI-HY-P-071 — Mercy Lock Institute, Group of Interest Registry
 - TECH-GOI-071-1 — Mercy Lock Gentle Lock System, Technology Record
-- Mercy Lock transfer cards, Red Key fragments, patient care files, and Site 02
-medical-wing transfer notes
-[restricted]
+ Mercy Lock transfer cards, Red Key fragments, patient care files, and Site 02
+ medical-wing
+ transfer notes [restricted]
 
 OPEN QUESTIONS
 
 - Which bells are mundane, and which use anomalous routing through ward distortion?
 - Does bell vibration communicate with gentle locks directly or only alert staff?
 - Can a bell remain patient-linked after memory, legal name, or body changes?
-- What is the maximum safe staff response time before bell neglect becomes containment
-failure?
+ What is the maximum safe staff response time before bell neglect becomes containment
+ failure?
 - Has Iron Meridian Authority copied patient bells into punitive restraint systems?
 - Can A.C.T build an equivalent without breaking Mercy Lock trust?
 
@@ -303,11 +315,11 @@ limited by patient-specific tuning, withheld ward schematics, and uncertainty ar
 
 FILE METADATA
 
-FILE CREATED:            12/12/2015
-FILE LAST UPDATED:       27/11/2022
-FILE AUTHOR:             Medical Division / Subject Care / Legal / Intelligence Joint Desk
-REVIEWED BY:             Central Archive
-FILE STATUS:             ACTIVE / RESTRICTED
+FILE CREATED: 12/12/2015
+FILE LAST UPDATED: 27/11/2022
+FILE AUTHOR: Medical Division / Subject Care / Legal / Intelligence Joint Desk
+REVIEWED BY: Central Archive
+FILE STATUS: ACTIVE / RESTRICTED
 DESIGNATION HISTORY: TECH-GOI-071-2 assigned for Mercy Lock Institute second registered technology under
 GOI-linked technology numbering
-RECORD CONDITION:        OPERATIONAL / PARTIAL TECHNICAL ACCESS
+RECORD CONDITION: OPERATIONAL / PARTIAL TECHNICAL ACCESS
