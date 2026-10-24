@@ -8887,3 +8887,57 @@ registry gate was written after five heading corrections and still shipped with 
 Sets 070 and 073, which carry the remaining 8 off-shape and 8 registry-variance records together. The 13
 chapter files to judge by hand.
 
+## Prompt End Update — 2026-10-24, Saint Morrow 070-1 Restructured: Both Gates Drop Together
+
+Owner ruling: sets 070 and 073, one after the other, to close both remaining gates.
+
+### The first of the eight
+
+| MEASURE | BEFORE | AFTER |
+|---|---|---|
+| Words, `.md` | 1,800 | 2,391 |
+| Words, `.txt` | — | 2,450 |
+| House H2 sections | 4 of 14 | 14 of 14 |
+| `TECH_RECORDS_OFF_SHAPE` | 8 | 7 |
+| `TECH_RECORDS_REGISTRY_OFF_SHAPE` | 8 | 7 |
+
+The word floor was already met at 1,800, so this was a structure job. It confirmed what was predicted
+last batch: **a record with no house structure has no house registry either, and restructuring supplies
+both at once.** Normalising the registry separately would have meant writing it twice.
+
+### The original had sections out of order
+
+`070-1` had been appended to over time. Sections `1.3`, `1.4` and `2.4` through `2.8` sat **after** the
+`2.3` code block, so the numbered sequence ran `1.1, 1.2, 2.1, 2.2, 2.3, 1.3, 1.4, 2.4, 2.5, 2.6, 2.7,
+2.8`. Nothing was lost; everything was placed in house order.
+
+That mis-ordering is why the record read as off-shape on structure while carrying more substance than
+most records in the corpus. It was a filing fault, not a thin record.
+
+### The record's best argument was kept and relocated
+
+`2.8 What the tickets are worth to the archive` argued that the tickets matter not as documents but as a
+boundary, and that the presentation rule exists for a well-meaning employee rather than for anyone acting
+in bad faith. That argument moved into `FUNCTION SUMMARY`, where it now explains what the ticket *is for*
+instead of sitting at the end as an afterthought.
+
+The unresolved recovery condition moved into `FAILURE HISTORY`: whether the tickets were recovered loose
+or still bound is not established, and if they came bound the binding should have been recorded before
+the pages were separated further. That has not been done, and saying so is the only use the field has.
+
+### Validation
+
+`corpus_numbers.py`: `TECH_RECORDS_OFF_SHAPE` 7, `TECH_RECORDS_REGISTRY_OFF_SHAPE` 7,
+`TECH_RECORDS_UNDER_1800` 4, `TECH_RECORDS` 242, `TECH_UNPAIRED_TWINS` 0, `TXT_LINES_OVER_118` 0,
+`TXT_WIDE_PROSE_LINES` 0, `MD_WIDE_PROSE_LINES` 0, `TXT_BOLD_FILES` 0, `BOXDRAW_CHARACTERS` 0,
+`RECORDS_NOT_ONE_H1` 0, `TITLE_STACK_DOCUMENTS` 0, `BAD_EOF` 0, `ODD_FENCE` 0.
+
+`gate_audit.py`: gates tested 26, fired 26, blind 0.
+
+`PATCH_SAVER_ENTRIES` 132.
+
+### Open
+
+`TECH-GOI-070-2`, `070-3`, `070-4`, then `073-1` through `073-4`. Seven records remain, and the four
+Lantern Accord records are the last four under the word floor. The 13 chapter files to judge by hand.
+
