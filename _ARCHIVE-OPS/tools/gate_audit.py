@@ -83,7 +83,12 @@ TEXT_TESTS = [
     ("TECH_RECORDS_UNDER_1800", "A.C.T Universe Document/A.C.T Technology Document/TECH_MD/TECH-ACT-001-Reality-Stabilization-Anchor-System.md", "truncate", None),
     ("MD_BOLD_IN_HEADING_LINES", MD, "append", "\n\n## **Bold Heading**\n"),
     ("TITLE_STACK_DOCUMENTS", MD, "stack", None),
-    ("STORY_OPENING_REPEATS", "A.C.T Universe Document/ACT MAIN STORY/Chapters/Chapter-01-Correction-Order.md", "repeat", None),
+    # Target must be a chapter the gate currently passes. Chapter 02 was
+    # hand-verified clean with a highest shared word run of two, well under the
+    # threshold of five, so an injected reworded duplicate has to be what fires it.
+    ("STORY_OPENING_REPEATS",
+     "A.C.T Universe Document/ACT MAIN STORY/Chapters/Chapter-02-Wounds-in-the-Archive.md",
+     "reword_dup", None),
     ("TXT_WIDE_PROSE_LINES", TX, "append", "\n" + WIDE + "\n"),
     ("MD_WIDE_PROSE_LINES", MD, "append", "\n" + WIDE + "\n"),
 ]
@@ -116,6 +121,18 @@ def main() -> int:
                     body = orig.split("\n\n")
                     tgt.write_text(
                         "\n\n".join(body[:2] + [body[1]] + body[2:]), encoding="utf-8"
+                    )
+                elif kind == "reword_dup":
+                    # Insert a near-identical copy of the second paragraph with one
+                    # word altered. An exact repeat would prove the gate fires; only
+                    # a reworded copy proves it fires on paraphrase, which is the
+                    # failure the previous exact-fragment version was blind to.
+                    paras = orig.split("\n\n")
+                    words = paras[1].split(" ")
+                    words[len(words) // 2] = words[len(words) // 2] + "s"
+                    tgt.write_text(
+                        "\n\n".join(paras[:2] + [" ".join(words)] + paras[2:]),
+                        encoding="utf-8",
                     )
                 elif kind == "stack":
                     body = orig.split("\n")

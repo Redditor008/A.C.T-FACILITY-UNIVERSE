@@ -49,6 +49,21 @@ HOUSE_REGISTRY = [
 PATCH_ENTRY_HEAD = re.compile(r"^## Prompt End Update — \d{4}-\d{2}-\d{2}, .+$")
 
 
+def longest_common_run(a: list[str], b: list[str]) -> int:
+    """Length of the longest run of words appearing in order in both lists."""
+    best = 0
+    prev = [0] * (len(b) + 1)
+    for i in range(1, len(a) + 1):
+        row = [0] * (len(b) + 1)
+        for j in range(1, len(b) + 1):
+            if a[i - 1] == b[j - 1]:
+                row[j] = prev[j - 1] + 1
+                if row[j] > best:
+                    best = row[j]
+        prev = row
+    return best
+
+
 def texts(include_ops: bool = False) -> list[pathlib.Path]:
     """Every Markdown and plain-text file in the archive.
 
@@ -147,28 +162,39 @@ def main() -> int:
     # where the new opening was prepended and the old one never removed. The
     # manuscript lockstep gate could not see it: the manuscript carried the same
     # duplication, so the two still agreed.
+    # Owner ruling: gate the wording, not the string. The previous version matched
+    # an exact 24-character fragment within the first 30 character offsets of the
+    # first six sentences, and it read 0 against two chapters that repeat their own
+    # opening in reworded form. Two causes compounded. Markdown italics directly
+    # after a full stop defeated the sentence splitter, so "there.* Not the" never
+    # split and several sentences merged into one. The fragment scan then covered
+    # only the first 30 offsets of a sentence, so a duplicate sitting further along
+    # a long merged sentence was invisible.
+    #
+    # The replacement compares word runs. Five consecutive shared words between two
+    # of the first eight sentences is the threshold. It was validated against every
+    # chapter before installation: it fires on the two chapters that repeat an
+    # opening in reworded form and stays silent on the other eleven, including the
+    # five hand-verified as clean, whose highest shared run is four words.
     r["STORY_OPENING_REPEATS"] = 0
     for p in sorted(STORY.glob("Chapters/*.md")):
-        body = re.sub(r"^#.*$", "", read(p), flags=re.M).strip()
-        sents = [
-            re.sub(r"\s+", " ", s).strip()
-            for s in re.split(r"(?<=[.!?])\s+", body)
-            if len(s.strip()) > 40
-        ][:6]
-        found = False
-        for i in range(len(sents)):
-            for j in range(i + 1, len(sents)):
-                for k in range(min(30, len(sents[i]) - 24)):
-                    frag = sents[i][k : k + 24]
-                    if (frag in sents[j][:60]
-                            and not frag.startswith(("the ", "and ", "of the"))):
-                        found = True
-                        break
-                if found:
-                    break
-            if found:
+        if p.name == "README.md":
+            continue
+        body = re.sub(r"^#.*$", "", read(p), flags=re.M)
+        body = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", body)
+        body = re.sub(r"[*_`]", "", body)
+        opens: list[list[str]] = []
+        for s in re.split(r"(?<=[.!?])\s+", re.sub(r"\s+", " ", body).strip()):
+            w = re.findall(r"[a-z0-9']+", s.lower())
+            if len(w) >= 6:
+                opens.append(w)
+            if len(opens) >= 8:
                 break
-        if found:
+        if any(
+            longest_common_run(opens[i], opens[j]) >= 5
+            for i in range(len(opens))
+            for j in range(i + 1, len(opens))
+        ):
             r["STORY_OPENING_REPEATS"] += 1
     r["TITLE_STACK_DOCUMENTS"] = 0
     for p in md:

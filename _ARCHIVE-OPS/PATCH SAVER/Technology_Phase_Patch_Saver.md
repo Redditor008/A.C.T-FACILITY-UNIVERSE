@@ -9596,3 +9596,58 @@ openings, and two malformed bullets.
 
 Thirteen of thirteen judged. No story file has been changed. The fix batch is authorised to proceed as one
 large batch.
+
+---
+
+## Prompt End Update — 2026-10-24, STORY_OPENING_REPEATS Taught To Catch Reworded Duplicates
+
+### What was wrong
+
+The chapter hand judge found duplicated or near-duplicated openings in Chapters 06 and 08. The gate built to
+catch exactly that read 0. It was installed after seven exact duplicates were removed by hand, and it was
+blind to both.
+
+Two causes compounded. First, markdown italics directly after a full stop defeated the sentence splitter:
+the pattern splits on whitespace following a period, but in the text there is an asterisk between the period
+and the space, so several sentences merged into one. Second, the fragment scan ran
+`range(min(30, len - 24))`, covering only the first 30 character offsets of a sentence. Once sentences
+merged into a long one, a duplicate sitting further along it was never scanned.
+
+So the gate failed for the same reason six earlier technology gates failed: it tested an exact string and
+therefore tested wording rather than structure.
+
+### What was changed
+
+The gate now compares word runs. Inline markup is stripped first, links are reduced to their text, headings
+are dropped, and the first eight sentences of at least six words are taken. For every pair, the longest run
+of consecutive shared words is computed, and a run of five or more flags the chapter. A module-level
+`longest_common_run` helper carries the comparison.
+
+The navigation README is now excluded from the Chapters glob, which the previous version did not do.
+
+### How the threshold was chosen
+
+Five was not picked by preference. The longest shared run was measured across all thirteen chapters before
+installation. Chapters 06 and 08 both reach five. Every other chapter reaches four or fewer, and the five
+chapters hand-verified as clean reach two, four, two, two and two. So the threshold fires on exactly the two
+known defects and on nothing else, with the nearest clean chapter one word below the line.
+
+This follows the standing rule that a gate is validated against a known-good case and not only against an
+injected defect.
+
+### What was verified
+
+`STORY_OPENING_REPEATS` read 0 before and reads 2 after, naming exactly the two chapters the hand judge
+flagged. The gate was silent on the defect it existed to catch, and it now sees it.
+
+`gate_audit.py` gained an injection kind `reword_dup`, which inserts a near-identical copy of the second
+paragraph with one word altered. An exact repeat would prove the gate fires; only a reworded copy proves it
+fires on paraphrase, which is the specific blindness being fixed. The injection targets Chapter 02, which was
+hand-verified clean with a highest shared run of two. The audit reports BASE 2 to AFTER 3 for this gate,
+FIRES, and reads `gates tested 27 | fired 27 | blind 0`.
+
+Other story figures unchanged: `STORY_PARTS_UNDER_1500` 0, `STORY_TWIN_WORD_DRIFT` 0,
+`STORY_CHAPTERS_TOTAL` 12, `STORY_MANUSCRIPT_LOCKSTEP_FAILURES` 0.
+
+No story file was changed. The two duplicated openings are still present in Chapters 06 and 08 and are now
+correctly counted, which is the precondition for fixing them and proving the fix.
