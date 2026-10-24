@@ -8136,3 +8136,85 @@ widest 118, 0 markup lines.
 18 records remain off-shape: the 6 single-heading records, and sets 069, 070 and 073 at 10 sections
 each. The registry-field variance above. The 13 chapter files remain to be judged by hand.
 
+## Prompt End Update — 2026-10-24, The Six Single-Heading Records Were All False Positives: 12 Off-Shape
+
+Owner ruling: close the 6 single-heading records, and gate the registry shape.
+
+### The 6 did not exist
+
+Opening the four `TECH-GOI-071` records found them carrying `CROSS-REFERENCE STATUS` with real
+in-world citations — `GOI-HY-P-071` and the sibling records listed properly. The house heading is the
+plural `CROSS-REFERENCES`, and because that token is hyphenated a first-word match never accepted the
+singular. The section was there all along, four times over.
+
+`TECH-ACT-004` heads its physical section **`GRADE STRUCTURE AND SYSTEM DESCRIPTION`** and
+`TECH-ACT-137` heads its division section **`OPERATOR QUALIFICATION AND DIVISION USE`**. Both carry the
+house phrase, just not first. First-word matching cannot see a phrase that appears later in a heading.
+
+**Not one of the 6 was a real defect.** The work item the owner picked dissolved on inspection.
+
+### The fifth correction: phrase anywhere
+
+The match now asks whether any accepted phrase for a section occurs **anywhere** in a heading, against
+a curated list rather than a derived rule. Derived rules are what produced the four earlier false
+readings, so every phrase in the table is cited to a real record.
+
+Validated against records known to be correct before the figure was trusted:
+
+| RECORD | MISSING |
+|---|---|
+| `TECH-GOI-072-1`, the house reference | 0 |
+| `TECH-GOI-074-1`, closed this session | 0 |
+| `TECH-GOI-071-5`, closed this session | 0 |
+| `TECH-ACT-004` | 0 |
+| `TECH-ACT-137` | 0 |
+
+`TECH-ACT-137` initially still flagged `OPERATING PROCEDURE`, because `DEPLOYMENT ENVELOPE` had been
+moved to the interface row. Reading the section showed it contains `### Numbered Operating Sequence`
+and genuinely is the procedure, so the phrase is accepted for both in the one record that uses it for
+both.
+
+### The figure, ninth reading
+
+131, then 42, then 21, then 20, then 19 after `TECH-GOI-074-1`, then 18 after `TECH-GOI-071-5`, then
+14 when the `CROSS-REFERENCE` plural was accepted, then 13, then **12**.
+
+The remaining 12 are the three sets with a numbered-narrative structure — 069, 070 and 073 — and they
+are real. `TECH-GOI-070` dropped from 10 missing to 7 under the phrase match but is still off-shape.
+
+### The registry gate, as ruled
+
+`TECH_RECORDS_REGISTRY_OFF_SHAPE` reads **16**. Sixteen records carry a first registry table without
+house fields; `PRIMARY CONTROLLER` and `ATTACHED DIVISIONS` are missing from all 16, `ORIGIN` from 15.
+The variance was invisible for the entire technology pass because no gate covered it.
+
+Getting it to fire took three attempts, and each failure was the audit being right:
+
+| ATTEMPT | RESULT | WHY |
+|---|---|---|
+| constant placed inside the function | `IndentationError` | `HOUSE_H2` is function-local; the block landed at zero indent |
+| target `MD` | blind | `MD` is `ACT_Facility_Archive_Overview.md` — not a technology record at all |
+| target `TECH-GOI-072-1`, wrong filename | `FileNotFoundError` | the file is `Collar-and-Restraint`, lowercase |
+| correct path | **fires** | a record the gate passes, with a field deleted |
+
+The blindness lesson repeats: **an injection target must be something the gate currently passes.**
+Deleting a field from an already-off-shape registry changes nothing, and the audit correctly refused to
+certify it.
+
+A new injection kind `drop_line` was added to `gate_audit.py` for this.
+
+### Validation
+
+`corpus_numbers.py`: `TECH_RECORDS_OFF_SHAPE` 12, `TECH_RECORDS_REGISTRY_OFF_SHAPE` 16,
+`TECH_RECORDS_UNDER_1800` 8, `TECH_RECORDS` 242, `TECH_MD_FILES` / `TECH_TXT_FILES` 244 / 244,
+`TECH_UNPAIRED_TWINS` 0, `DOCUMENT_COUNT` 1026.
+
+`gate_audit.py`: **gates tested 24, fired 24, blind 0**.
+
+`PATCH_SAVER_ENTRIES` 120.
+
+### Open
+
+The 12 off-shape records in sets 069, 070 and 073. The 16 registry-variance records. The 13 chapter
+files remain to be judged by hand.
+

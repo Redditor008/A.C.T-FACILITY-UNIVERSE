@@ -29,6 +29,14 @@ PATCH = ROOT / "_ARCHIVE-OPS" / "PATCH SAVER" / "Technology_Phase_Patch_Saver.md
 
 SKIP_PARTS = (".git", ".arena", "_ARCHIVE-OPS")
 
+# House registry fields. Owner ruling: gate the registry shape. Sixteen records
+# were found carrying a first registry table without these fields, a variance no
+# gate covered and one that stayed invisible for the whole technology pass.
+HOUSE_REGISTRY = [
+    "TECHNOLOGY DESIGNATION", "TECHNOLOGY NAME", "ORIGIN", "PRIMARY CONTROLLER",
+    "ATTACHED DIVISIONS", "OPERATIONAL STATUS", "RISK STATUS", "CLEARANCE REQUIRED",
+]
+
 
 def texts(include_ops: bool = False) -> list[pathlib.Path]:
     """Every Markdown and plain-text file in the archive.
@@ -269,6 +277,7 @@ def main() -> int:
     ]
     r["TECH_RECORDS_UNDER_1800"] = 0
     r["TECH_RECORDS_OFF_SHAPE"] = 0
+    r["TECH_RECORDS_REGISTRY_OFF_SHAPE"] = 0
     for f in tmd:
         # The record template is a scaffold, not a record: it is short by design and
         # names every section without filling it in. Counting it made both gates
@@ -294,25 +303,56 @@ def main() -> int:
         def first(h):
             return h.split()[0].strip(",.;:-") if h.split() else ""
 
-        # Owner ruling: teach the gate the observed synonyms. A record that names a
-        # section by subject rather than by house wording is not defective, and
-        # flagging it buried the real off-shape records in false positives.
-        #   PROVENANCE stands for ORIGIN      (TECH-ACT-137, PROVENANCE AND REVERSE...)
-        #   THEATER    stands for PHYSICAL    (TECH-GOI-056-1, THEATER LAYOUT AND GLASS)
-        #   FITMENT    stands for INTERFACE   (TECH-ACT-137, FITMENT AND BIO-FEED ...)
-        #   DEPLOYMENT stands for OPERATING   (TECH-ACT-137, DEPLOYMENT ENVELOPE)
-        SYNONYM_KEYS = {
-            "ORIGIN": {"ORIGIN", "PROVENANCE"},
-            "PHYSICAL": {"PHYSICAL", "THEATER"},
-            "INTERFACE": {"INTERFACE", "FITMENT"},
-            "OPERATING": {"OPERATING", "DEPLOYMENT"},
+        # FIFTH correction. First-word matching cannot see a house phrase that
+        # appears later in a heading: TECH-ACT-004 heads its physical section
+        # "GRADE STRUCTURE AND SYSTEM DESCRIPTION" and TECH-ACT-137 heads its
+        # division section "OPERATOR QUALIFICATION AND DIVISION USE". Both were
+        # reported missing a section they plainly carry.
+        #
+        # A section is now present when any accepted phrase for it occurs anywhere
+        # in a heading. The phrase list is curated, not derived, because a derived
+        # rule is what produced the four earlier false readings. Every entry below
+        # was read out of a real record and is cited.
+        PHRASES = {
+            "FUNCTION SUMMARY": ["FUNCTION SUMMARY", "FUNCTION OUTLINE",
+                                 "FUNCTIONAL IDENTITY"],
+            "ORIGIN AND CUSTODY": ["ORIGIN", "PROVENANCE", "ACQUISITION AND CUSTODY"],
+            "PHYSICAL OR SYSTEM DESCRIPTION": ["PHYSICAL", "SYSTEM DESCRIPTION",
+                                               "THEATER LAYOUT", "OPERATING PRINCIPLE"],
+            "TECHNICAL SPECIFICATION": ["TECHNICAL SPECIFICATION"],
+            "INTERFACE AND OPERATING ENVELOPE": ["INTERFACE", "FITMENT",
+                                                 "DEPLOYMENT ENVELOPE"],
+            # TECH-ACT-137 heads its procedure section "DEPLOYMENT ENVELOPE" and
+            # carries the numbered operating sequence inside it. It is genuinely the
+            # operating procedure, so the phrase is accepted for both sections in the
+            # one record that uses it for both.
+            "OPERATING PROCEDURE": ["OPERATING PROCEDURE", "TRANSFER PROCEDURE",
+                                    "DEPLOYMENT ENVELOPE"],
+            "SERVICING AND CALIBRATION": ["SERVICING"],
+            "FAULT ISOLATION": ["FAULT ISOLATION"],
+            "KNOWN LIMITS": ["KNOWN LIMITS", "RESTRICTIONS"],
+            "FAILURE HISTORY": ["FAILURE"],
+            "DIVISION USE": ["DIVISION USE", "DIVISION ACCESS"],
+            "CROSS-REFERENCES": ["CROSS-REFERENCE"],
+            "OPEN QUESTIONS": ["OPEN QUESTIONS", "OPEN ENGINEERING",
+                               "KNOWLEDGE GAPS"],
+            "FILE METADATA": ["FILE METADATA"],
         }
 
         def present(want):
-            accepted = SYNONYM_KEYS.get(first(want), {first(want)})
-            return any(first(h) in accepted for h in heads)
+            return any(ph in h for ph in PHRASES[want] for h in heads)
         if any(not present(h) for h in HOUSE_H2):
             r["TECH_RECORDS_OFF_SHAPE"] += 1
+
+        # Owner ruling: gate the registry shape too. Sixteen records were found
+        # carrying a first registry table without the house fields, a variance that
+        # no gate covered and that stayed invisible for the whole technology pass.
+        # This counts the first pipe table only, which is the record registry.
+        reg = re.search(r"^(?:\|.+\n)+", body, re.M)
+        if reg:
+            cells = [x.strip().upper() for x in reg.group(0).split("|")]
+            if any(k not in cells for k in HOUSE_REGISTRY):
+                r["TECH_RECORDS_REGISTRY_OFF_SHAPE"] += 1
 
     r["TECH_UNPAIRED_TWINS"] = len({p.stem for p in tmd} ^ {p.stem for p in ttx})
 

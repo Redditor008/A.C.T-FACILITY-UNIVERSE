@@ -53,6 +53,13 @@ TEXT_TESTS = [
     ("TXT_MD_HEADING_FILES", TX, "append", "\n## Heading\n"),
     ("TXT_MD_RULE_LINES", TX, "append", "\n---\n"),
     ("TXT_MD_ITALIC_SPANS", TX, "append", "\n*emphasised*\n"),
+    # Target must be a record the gate currently passes. Pointing this at a record
+    # already counted made the audit call it blind: deleting a field from an
+    # already-off-shape registry changes nothing.
+    ("TECH_RECORDS_REGISTRY_OFF_SHAPE",
+     "A.C.T Universe Document/A.C.T Technology Document/TECH_MD/"
+     "TECH-GOI-072-1-Iron-Meridian-Suppression-Collar-and-Restraint-Harness.md",
+     "drop_line", "TECHNOLOGY DESIGNATION"),
     ("BOXDRAW_CHARACTERS", TX, "append", "\n\u2550" * 3 + "\n"),
     # A narrow rule must sit alone to count: flanked by pipe rows it belongs to a
     # box and has to match those cells instead.
@@ -104,6 +111,13 @@ def main() -> int:
                     )
                 elif kind == "append":
                     tgt.write_text(orig.rstrip("\n") + "\n" + payload, encoding="utf-8")
+                elif kind == "drop_line":
+                    # Remove every line containing the payload. Used to delete a
+                    # registry field so the registry-shape gate has something to catch.
+                    tgt.write_text(
+                        "\n".join(l for l in orig.split("\n") if payload not in l),
+                        encoding="utf-8",
+                    )
                 elif kind == "strip_h1":
                     tgt.write_text(
                         "\n".join(l for l in orig.split("\n") if not l.startswith("# ")),
