@@ -1,64 +1,83 @@
 Main Story Index
-+----------------------------------------------------------------------------------------+
 
 Generated from the contents of this folder, so it cannot drift from what is actually here.
 
-The Facility That Forgot Its First Lie
-+----------------------------------------------------------------------------------------+
+READ IN THIS ORDER
 
-Continuity Policy
-+----------------------------------------------------------------------------------------+
+A newcomer should not open this folder alphabetically. The order below is the order the
+material was written to be met in.
 
-05-ACT_Continuity_Policy.md
-05-ACT_Continuity_Policy.txt
++------+------------------------------------------------+--------------------------------------------------------+
+| #    | READ THIS                                      | WHY HERE                                               |
++======+================================================+========================================================+
+| 1    | 01-The-Facility-That-Forgot-Its-First-Lie-     | The whole story, 24,546 words, start to finish.        |
+|      | Full-Manuscript.md                             |                                                        |
++------+------------------------------------------------+--------------------------------------------------------+
+| 2    | Chapters/ in numeric order, ending with the    | The same story in 12 chapters and one epilogue, for    |
+|      | Epilogue                                       | reading a piece at a time.                             |
++------+------------------------------------------------+--------------------------------------------------------+
+| 3    | Characters/03-...-Character-Archive-           | Who the people are, once you have met them.            |
+|      | Profiles.md                                    |                                                        |
++------+------------------------------------------------+--------------------------------------------------------+
+| 4    | Narrative/04-...-Narrative.md                  | How the story is built, for a reader who wants the     |
+|      |                                                | scaffolding.                                           |
++------+------------------------------------------------+--------------------------------------------------------+
+| 5    | 05-ACT_Continuity_Policy.md                    | The rules the story holds itself to. Read it last, not |
+|      |                                                | first.                                                 |
++------+------------------------------------------------+--------------------------------------------------------+
+| 6    | Archives/06-...-Archive.md                     | Material cut from or surviving the manuscript.         |
++------+------------------------------------------------+--------------------------------------------------------+
+| 7    | Outlines/07-...-Chapter-Outline.md             | The plan behind the chapters. Spoils the shape.        |
++------+------------------------------------------------+--------------------------------------------------------+
+| 8    | 08-The_Complete_Abyssal_Archive_Dossier.md     | A companion dossier, 24,275 words. Not part of the     |
+|      |                                                | manuscript and longer than it. Read it after the story |
+|      |                                                | or not at all.                                         |
++------+------------------------------------------------+--------------------------------------------------------+
 
-Complete Files
-+----------------------------------------------------------------------------------------+
+The Abyssal Archive Dossier sits at the end deliberately. It is reference material built beside
+the story, not the story itself, and meeting it first gives a newcomer 24,275 words of apparatus
+before a single chapter.
 
-01-The-Facility-That-Forgot-Its-First-Lie-Full-Manuscript.md
-01-The-Facility-That-Forgot-Its-First-Lie-Full-Manuscript.txt
+WHAT IS IN THIS FOLDER
 
-Archives
-+----------------------------------------------------------------------------------------+
+CONTINUITY POLICY
+- 05-ACT_Continuity_Policy.md
+- 05-ACT_Continuity_Policy.txt
 
-06-The-Facility-That-Forgot-Its-First-Lie-Archive.md
+COMPLETE FILES
+- 01-The-Facility-That-Forgot-Its-First-Lie-Full-Manuscript.md
+- 01-The-Facility-That-Forgot-Its-First-Lie-Full-Manuscript.txt
 
-Narrative
-+----------------------------------------------------------------------------------------+
+CHAPTERS
 
-04-The-Facility-That-Forgot-Its-First-Lie-Narrative.md
+12 numbered chapters and one epilogue, each in Markdown and plain text.
 
-Characters
-+----------------------------------------------------------------------------------------+
+- Chapter-01-Correction-Order.md
+- Chapter-02-Wounds-in-the-Archive.md
+- Chapter-03-The-004-Irregularity.md
+- Chapter-04-The-Bloom-Before-the-Bloom.md
+- Chapter-05-Entity-Research-Exploration.md
+- Chapter-06-The-Sleeping-Foundation.md
+- Chapter-07-The-Founders-Silence.md
+- Chapter-08-NEMNOLIA-and-the-Dream-State.md
+- Chapter-09-The-First-Lie.md
+- Chapter-10-The-Cost-of-Remembering.md
+- Chapter-11-Fragments-Not-Revelation.md
+- Chapter-12-The-Second-Self-Erasure.md
+- Epilogue-00-The-Archive-Still-Breathes.md
 
-03-The-Facility-That-Forgot-Its-First-Lie-Character-Archive-Profiles.md
+CHARACTERS
+- 03-The-Facility-That-Forgot-Its-First-Lie-Character-Archive-Profiles.md
 
-Outlines
-+----------------------------------------------------------------------------------------+
+NARRATIVE
+- 04-The-Facility-That-Forgot-Its-First-Lie-Narrative.md
 
-07-The-Facility-That-Forgot-Its-First-Lie-Chapter-Outline.md
+OUTLINES
+- 07-The-Facility-That-Forgot-Its-First-Lie-Chapter-Outline.md
 
-Related Dossiers
-+----------------------------------------------------------------------------------------+
+ARCHIVES
+- 06-The-Facility-That-Forgot-Its-First-Lie-Archive.md
 
-08-The_Complete_Abyssal_Archive_Dossier.md
-08-The_Complete_Abyssal_Archive_Dossier.txt
-
-Chapters
-+----------------------------------------------------------------------------------------+
-
-13 chapters, each in Markdown and plain text.
-
-Chapter-01-Correction-Order.md
-Chapter-02-Wounds-in-the-Archive.md
-Chapter-03-The-004-Irregularity.md
-Chapter-04-The-Bloom-Before-the-Bloom.md
-Chapter-05-Entity-Research-Exploration.md
-Chapter-06-The-Sleeping-Foundation.md
-Chapter-07-The-Founders-Silence.md
-Chapter-08-NEMNOLIA-and-the-Dream-State.md
-Chapter-09-The-First-Lie.md
-Chapter-10-The-Cost-of-Remembering.md
-Chapter-11-Fragments-Not-Revelation.md
-Chapter-12-The-Second-Self-Erasure.md
-Epilogue-00-The-Archive-Still-Breathes.md
+RELATED DOSSIERS
+- 08-The_Complete_Abyssal_Archive_Dossier.md
+- 08-The_Complete_Abyssal_Archive_Dossier.txt

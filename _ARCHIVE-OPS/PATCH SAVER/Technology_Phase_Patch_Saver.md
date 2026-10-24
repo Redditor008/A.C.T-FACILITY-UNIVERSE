@@ -8434,3 +8434,55 @@ produced by this converter, so running it over them is a rewrite, not a refresh.
 Namewright Bazaar set 069. Then sets 070 and 073. The 16 registry-variance records. The story index
 `.txt` stub. The 13 chapter files to judge by hand.
 
+## Prompt End Update — 2026-10-24, The Story Index Twin Filled In: Drift Gate Now Reads Zero
+
+Owner ruling: fill in the story index `.txt` rather than exempt it, and take Namewright Bazaar set 069
+as the next content batch.
+
+### The index had already drifted, and not only in word count
+
+`00-Story-Index.md` claimed the manuscript was 24,062 words and the dossier 24,219. Measured this turn
+they are **24,546** and **24,275**. The manuscript figure went stale when the epilogue was expanded two
+batches ago, and the index says of itself that it *"cannot drift from what is actually here."* It had.
+
+Both figures corrected in the `.md`, and the same corrected figures carried into the new `.txt`.
+
+| MEASURE | BEFORE | AFTER |
+|---|---|---|
+| `00-Story-Index.md` words | 331 | 331 |
+| `00-Story-Index.txt` words | 78 | 354 |
+| Manuscript figure quoted | 24,062 | 24,546 |
+| Dossier figure quoted | 24,219 | 24,275 |
+| `STORY_TWIN_WORD_DRIFT` | 1 | **0** |
+| Widest line in the twin | 186 | 114 |
+
+### The first rebuild overflowed the house limit
+
+The twin was rebuilt by hand with a three-column reading-order box. The first attempt set the widths to
+4, 52 and 58 and used `ljust` to pad, which pads but does not wrap. Long cell text ran straight past
+its column and the file came out with a **widest line of 186** against a 118 house limit.
+
+`TXT_WIDE_PROSE_LINES` read 0 anyway, because box rows are exempt from that gate the way table rows are
+exempt in the `.md`. **So the gate that should have caught it did not look at it**, and the overflow was
+found by measuring line lengths directly rather than by trusting the suite. That is the same shape of
+miss as a blind gate, in a different place.
+
+The rebuild wraps every cell with `textwrap` to its column width and pads each fragment line, at widths
+4, 46 and 54 for a box of 114. The twin now reports 0 lines over 118.
+
+### Validation
+
+`corpus_numbers.py`: `STORY_TWIN_WORD_DRIFT` 0, `TXT_WIDE_PROSE_LINES` 0, `MD_WIDE_PROSE_LINES` 0,
+`TXT_BOLD_FILES` 0, `TXT_BACKTICK_FILES` 0, `TXT_MD_HEADING_FILES` 0, `BOXDRAW_CHARACTERS` 0,
+`STORY_PARTS_UNDER_1500` 0, `STORY_MANUSCRIPT_LOCKSTEP_FAILURES` 0, `DOCUMENT_COUNT` 1026.
+
+`gate_audit.py`: gates tested 25, fired 25, blind 0.
+
+`PATCH_SAVER_ENTRIES` 124.
+
+### Open
+
+Namewright Bazaar set 069, four records, next. Then sets 070 and 073. The 16 registry-variance records.
+The 13 chapter files to judge by hand. Box rows are exempt from the wide-line gates, which is worth
+revisiting.
+
