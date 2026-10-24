@@ -8593,3 +8593,49 @@ every later inference would be about the construction.
 
 `TECH-GOI-069-2`, `069-3` and `069-4` remain, then sets 070 and 073. The 16 registry-variance records.
 The 13 chapter files to judge by hand.
+
+## Prompt End Update — 2026-10-24, Session-Base Guard Added To check_message.py
+
+Owner ruling: add a pre-commit guard rather than only recording the recovery procedure.
+
+### What went wrong
+
+The workspace is re-cloned, not reset, and a re-clone branches the arena ref from local main at
+`a17dfd0` rather than from `origin`. A commit made in that state is parented on the session base, so it
+carries the **entire session diff** — 1,665 files in the case that occurred — and cannot fast-forward
+against the remote branch. The push was rejected.
+
+Recovery was to extract only the intended files, reset to the remote tip, replay them and push. **No
+force-push was used at any point.**
+
+### Why the guard went into check_message.py and not sync.sh
+
+`sync.sh` already refuses when HEAD is the session base. It refused correctly in the turn this happened.
+The commit went through anyway, because `sync.sh` is a batch bootstrap and is not run before every
+commit, while `check_message.py` is: every commit in this workflow passes a message through it.
+
+The guard resolves `git rev-parse HEAD` and refuses with the recovery command when it equals
+`a17dfd048c8666ce55c1dc2363bc40a0cfa0bf80`.
+
+Verified wired: `SESSION_BASE` at line 29, `subprocess` imported at line 32, the refusal at line 116.
+Against the session base the condition is true; against the current HEAD it is false and the commit is
+allowed. `check_message.py` was then run normally on a real message and passed with 22 numbers.
+
+### The general lesson
+
+**A guard belongs on the path every instance takes, not on the path most instances take.** `sync.sh`
+was correct and was not in the way. Putting the same check on the tool that every commit touches is
+what makes it effective.
+
+### Validation
+
+`corpus_numbers.py`: `TECH_RECORDS_OFF_SHAPE` 11, `TECH_RECORDS_UNDER_1800` 7, `DOCUMENT_COUNT` 1026,
+`PATCH_SAVER_ENTRIES` 127.
+
+`gate_audit.py`: gates tested 26, fired 26, blind 0.
+
+### Open
+
+`TECH-GOI-069-2` at 1,260 words, `069-3` at 1,121 and `069-4` at 1,324 — the rest of set 069. Then sets
+070 and 073. The 16 registry-variance records. The 13 chapter files to judge by hand.
+

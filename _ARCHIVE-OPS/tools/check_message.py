@@ -26,7 +26,10 @@ figures belong in the working log, which is not checked, and the commit message 
 claims only. This was found by running the tool against the message written to commit it.
 """
 
+SESSION_BASE = "a17dfd048c8666ce55c1dc2363bc40a0cfa0bf80"
+
 import re
+import subprocess
 import sys
 
 # A measured quantity is a run of digits, optionally with thousands separators.
@@ -101,6 +104,22 @@ def main(argv):
     if len(argv) != 3:
         print(__doc__)
         return 2
+    # Owner ruling: refuse to commit while HEAD sits at the session base.
+    # The workspace is re-cloned rather than reset, and a re-clone branches from
+    # local main at a17dfd0 instead of from origin. A commit made in that state is
+    # parented on the session base and therefore carries the ENTIRE session diff,
+    # which cannot fast-forward and produced a rejected push. sync.sh refuses in
+    # this state, but sync.sh is not run before every commit, so the check belongs
+    # here as well, on the one tool every commit does pass through.
+    head = subprocess.run(["git", "rev-parse", "HEAD"], capture_output=True, text=True)
+    if head.returncode == 0 and head.stdout.strip() == SESSION_BASE:
+        print("REFUSED: HEAD is the session base %s." % SESSION_BASE)
+        print("A commit made now would be parented on the session base and carry the whole")
+        print("session diff, which cannot fast-forward against the remote branch.")
+        print("Recover first:")
+        print("  git fetch origin && git reset --hard origin/<this-branch>")
+        return 1
+
     verification = open(argv[1], encoding="utf-8").read()
     message = open(argv[2], encoding="utf-8").read()
     produced, claimed, missing = check(verification, message)
