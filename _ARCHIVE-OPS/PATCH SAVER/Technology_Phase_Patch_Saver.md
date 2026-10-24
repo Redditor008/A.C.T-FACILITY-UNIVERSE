@@ -8535,3 +8535,61 @@ That mistake was not repeated.
 Namewright Bazaar set 069, four records, next. Then sets 070 and 073. The 16 registry-variance records.
 The 13 chapter files to judge by hand.
 
+## Prompt End Update — 2026-10-24, Namewright Bazaar 069-1 Restructured: First Record Of The Set Closed
+
+Owner ruling: set 069, nothing else first.
+
+### The first of the four is done
+
+| MEASURE | BEFORE | AFTER |
+|---|---|---|
+| Words, `.md` | 1,148 | 2,204 |
+| Words, `.txt` | — | 2,260 |
+| House H2 sections | 4 of 14 | 14 of 14 |
+| Missing sections | 10 | 0 |
+| `TECH_RECORDS_UNDER_1800` | 8 | 7 |
+| `TECH_RECORDS_OFF_SHAPE` | 12 | 11 |
+
+The `.md` figure was first written here as 2,255, which was the `.txt` word count taken for the `.md`.
+The measured `.md` figure is 2,204 and that is what is recorded. The error was caught by `wc -w` before
+the commit, not by a gate.
+
+The record carried a numbered-narrative structure — `THE RECORD` with `1.1` through `1.3`, then
+`HANDLING` with `2.1` through `2.4` — which is why it read as missing ten sections at once.
+
+### Nothing was invented
+
+The dossier records no format, no pagination, no entry numbering and no dating for these ledgers, and
+says the ledgers are partial with the missing proportion unknown. `PHYSICAL OR SYSTEM DESCRIPTION` and
+`TECHNICAL SPECIFICATION` therefore render as tables of what is not recorded, each row sourced either to
+the dossier or to dossier silence.
+
+The one physical fact the dossier does give — multiple hands — is given the weight it carries. Succession
+or division of labour, or both, is visible in the writing and in nothing else the archive holds.
+
+### Every line of the original survived
+
+The Archive Note, the disclosure rule, the Bazaar's eight-step sequence, the Subject Care referral
+logic, the division table, the six open questions and all four cross-references are all still present.
+The Bazaar sequence moved under `OPERATING PROCEDURE` as an H3, because it is recorded for recognition
+and no personnel may follow it, and placing it beside the A.C.T custody steps makes that distinction
+visible rather than implied.
+
+`SERVICING AND CALIBRATION` records that completing the ledgers is out of bounds: a ledger A.C.T filled
+in from other sources would stop being a seized Bazaar record and become a Facility construction, and
+every later inference would be about the construction.
+
+### Validation
+
+`corpus_numbers.py`: `TECH_RECORDS_OFF_SHAPE` 11, `TECH_RECORDS_UNDER_1800` 7, `TECH_UNPAIRED_TWINS`
+0, `TXT_LINES_OVER_118` 0, `TXT_WIDE_PROSE_LINES` 0, `MD_WIDE_PROSE_LINES` 0, `TXT_BOLD_FILES` 0,
+`BOXDRAW_CHARACTERS` 0, `RECORDS_NOT_ONE_H1` 0, `TITLE_STACK_DOCUMENTS` 0, `BAD_EOF` 0, `ODD_FENCE` 0.
+
+`gate_audit.py`: gates tested 26, fired 26, blind 0.
+
+`PATCH_SAVER_ENTRIES` 126.
+
+### Open
+
+`TECH-GOI-069-2`, `069-3` and `069-4` remain, then sets 070 and 073. The 16 registry-variance records.
+The 13 chapter files to judge by hand.
