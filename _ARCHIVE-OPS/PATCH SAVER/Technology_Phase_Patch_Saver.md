@@ -9765,3 +9765,51 @@ All story and formatting figures read 0: `STORY_OPENING_REPEATS`, `STORY_PARTS_U
 
 Classes 6 and 7 remain untouched and are the owner's call: the closing cutaway that recurs across eight
 chapters, and the Epilogue's shift to an omniscient register. Neither is a breach on its own.
+
+---
+
+## Prompt End Update — 2026-10-24, TECH-GOI-073-4 Closed: All Three Record Figures At Zero
+
+### What was changed
+
+`TECH-GOI-073-4` Lantern Accord Violation Ledger Copy was the last off-shape record in the corpus and the
+last one under the word floor. It carried fourteen H2s but under two headings of its own, THE RECORD and
+HANDLING, with subsections interleaved out of order, and none of the eight registry fields. Both headings
+were retired and every subsection folded into the fourteen house sections in house order. Every line of the
+original was preserved and relocated.
+
+The expansion is sourced entirely from `GOI-HY-W-073` and adds material the record did not carry. The
+dossier assesses violation ledgers as preserving broken-term evidence after memory alteration or cover-story
+edits. That was the most consequential fact about the asset and it was absent. It says the ledger is not a
+diary and not a complaint file but a record designed to survive the specific countermeasures this Facility
+and its peers routinely apply to memory and to official accounts, which makes it the one Accord object built
+to outlast the others.
+
+That assessment also sharpens the record's own central observation. The Facility holds a broken beacon, three
+expired seals, two warrant fragments and this copy, and holds nothing valid. Every Accord instrument in
+Facility custody has been defeated by time or process except the one whose stated purpose is to survive
+exactly that, and the Facility holds it only as a copy it cannot attest to.
+
+Also added from the dossier: the protected witness chairs and crisis-room tents with two-door entry rules,
+which place the writing of an entry inside a room designed so that neither party controls the door; the
+Assessed property row and the Accord capability assessment; the Facility leakage position naming witnesses who
+saw rival groups stop fighting under a lamp; and a fourth fault row covering the case in which the Accord
+asks about Facility holdings, which is not hypothetical since the Facility made the copy.
+
+### What was verified
+
+`TECH_RECORDS_OFF_SHAPE`, `TECH_RECORDS_REGISTRY_OFF_SHAPE` and `TECH_RECORDS_UNDER_1800` all read 1 before
+and all read 0 after. The technology record pass is complete: every record in the corpus is in house shape,
+carries the house registry, and clears the word floor.
+
+`gate_audit.py` reads `gates tested 27 | fired 27 | blind 0`.
+
+The record reads 3005 words with fourteen house H2s, up from 1129. The twin renders at 3072 words across 373
+lines, widest 118, markup lines 0, and the converter exited zero on the first attempt.
+
+Corpus-wide, every measured figure reads 0: `TECH_UNPAIRED_TWINS`, `TXT_BOLD_FILES`, `TXT_BACKTICK_FILES`,
+`BOXDRAW_CHARACTERS`, `TITLE_STACK_DOCUMENTS`, `TXT_LINES_OVER_118`, `TXT_WIDE_PROSE_LINES`,
+`MD_WIDE_PROSE_LINES`, `RECORDS_NOT_ONE_H1`, `BAD_EOF`, `ODD_FENCE`, `STORY_OPENING_REPEATS`,
+`STORY_PARTS_UNDER_1500`, `STORY_TWIN_WORD_DRIFT`, `STORY_MANUSCRIPT_LOCKSTEP_FAILURES`,
+`PATCH_SAVER_ENTRIES_OFF_SHAPE`, `HISTORY_PARENT_IS_SESSION_BASE`. `TECH_RECORDS` 242, `TECH_MD_FILES` 244,
+`TECH_TXT_FILES` 244, `STORY_CHAPTERS_TOTAL` 12, `STORY_CHAPTER_MD_FILES` 14.
