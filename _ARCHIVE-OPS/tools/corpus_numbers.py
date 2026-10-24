@@ -37,6 +37,17 @@ HOUSE_REGISTRY = [
     "ATTACHED DIVISIONS", "OPERATIONAL STATUS", "RISK STATUS", "CLEARANCE REQUIRED",
 ]
 
+# Owner ruling: what counts as one Patch Saver entry. The file carries four
+# heading families that all read as an update, so a hand count silently picks
+# whichever family the counter happened to match. This figure was quoted as 132
+# from session memory and measured at 103, and nothing in the archive could say
+# which was wrong. Only `## Prompt End Update — <date>, <title>` is an entry: it
+# is the batch-closing record the Standing Update Rule requires, and it is the
+# only family that carries both a date and a title. A Prompt Log records a prompt
+# exchange, a Prompt Start Update opens a batch rather than closing one, and a
+# Post-Push Verification Update annotates a push already logged elsewhere.
+PATCH_ENTRY_HEAD = re.compile(r"^## Prompt End Update — \d{4}-\d{2}-\d{2}, .+$")
+
 
 def texts(include_ops: bool = False) -> list[pathlib.Path]:
     """Every Markdown and plain-text file in the archive.
@@ -517,6 +528,20 @@ def main() -> int:
             f.is_file() and f.suffix in (".md", ".txt") for f in d.rglob("*")
         )
     )
+
+    # Counted here so the figure cannot be quoted from memory. The off-shape
+    # count exists because an entry heading without a date and a title can be
+    # counted but not ordered or cited, which is the same failure the record
+    # registry gate covers for technology records.
+    entries = 0
+    entries_off_shape = 0
+    for line in read(PATCH).split("\n"):
+        if line.startswith("## Prompt End Update"):
+            entries += 1
+            if not PATCH_ENTRY_HEAD.match(line):
+                entries_off_shape += 1
+    r["PATCH_SAVER_ENTRIES"] = entries
+    r["PATCH_SAVER_ENTRIES_OFF_SHAPE"] = entries_off_shape
 
     r["HISTORY_PARENT_IS_SESSION_BASE"] = history_reset()
 

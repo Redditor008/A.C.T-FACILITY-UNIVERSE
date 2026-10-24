@@ -11,6 +11,18 @@ At the start of every new user prompt from this point forward, update this
 file before continuing work. At the end of
 each completed batch, update it again with the new commit, pushed hash, validation results, and next action.
 
+## What Counts As One Entry
+
+One entry is one `## Prompt End Update — <date>, <title>` heading. No other heading in this file is an
+entry. A `## Prompt Log` records a prompt exchange, a `## Prompt Start Update` opens a batch rather than
+closing one, and a `## Post-Push Verification Update` annotates a push already logged elsewhere, so
+counting any of them as an entry counts a different thing.
+
+`corpus_numbers.py` reports the figure as `PATCH_SAVER_ENTRIES` and refuses to let it be quoted from
+memory. It also reports `PATCH_SAVER_ENTRIES_OFF_SHAPE`, which counts an entry heading carrying neither a
+date nor a title. Such a heading can be counted but cannot be ordered or cited, and the gate exists for
+the same reason the record registry gate does.
+
 ## Working Style Rule
 The user has stated this twice, in the same words, because the first version
 of this rule was not strict enough. Treat
@@ -8984,3 +8996,41 @@ The record reads 2,482 words with fourteen house H2s, and `md_to_txt.py` rendere
 Corpus-wide checks: `TECH_RECORDS` 242, `TECH_UNPAIRED_TWINS` 0, `TXT_BOLD_FILES` 0,
 `BOXDRAW_CHARACTERS` 0, `TITLE_STACK_DOCUMENTS` 0, `TXT_LINES_OVER_118` 0, `TXT_WIDE_PROSE_LINES` 0,
 `MD_WIDE_PROSE_LINES` 0, `RECORDS_NOT_ONE_H1` 0, `BAD_EOF` 0, `ODD_FENCE` 0.
+
+---
+
+## Prompt End Update — 2026-10-24, Patch Saver Entry Count Made Measurable
+
+### What was wrong
+
+The entry count for this file was carried in session memory as 132 and quoted from memory in reports.
+Measured against the file, `## Prompt End Update` headings number 103. Nothing in the archive could say
+which figure was correct, because no tool produced either one.
+
+The cause is that this file carries four heading families that all read as an update: 103 `Prompt End
+Update`, 45 `Prompt Log`, 30 `Prompt Start Update` and 17 `Post-Push Verification Update`. A hand count
+silently picks whichever family the counter happened to match, so 132 was not a careless number. It was a
+number from an undefined definition.
+
+### What was changed
+
+`corpus_numbers.py` gained `PATCH_ENTRY_HEAD` as a module-level pattern and now reports `PATCH_SAVER_ENTRIES`
+and `PATCH_SAVER_ENTRIES_OFF_SHAPE`. The definition is recorded beside the pattern: one entry is one
+`## Prompt End Update — <date>, <title>` heading, and the reason the other three families do not count is
+stated there rather than left implied.
+
+The same definition was written into this file under a new `What Counts As One Entry` heading, so the rule
+sits with the file it governs and not only in the tool that enforces it.
+
+All 103 existing entry headings conform to the pattern, so the shape gate reads 0 at introduction and is
+not being introduced against a backlog.
+
+### What was verified
+
+`PATCH_SAVER_ENTRIES` reads 104 after this entry was added, and `PATCH_SAVER_ENTRIES_OFF_SHAPE` reads 0.
+`gate_audit.py` gained an injection that appends an undated entry heading to this file, and now reads
+`gates tested 27 | fired 27 | blind 0`, up from 26.
+
+Corpus figures unchanged by this batch: `TECH_RECORDS` 242, `TECH_RECORDS_OFF_SHAPE` 6,
+`TECH_RECORDS_REGISTRY_OFF_SHAPE` 6, `TECH_RECORDS_UNDER_1800` 4, `TECH_UNPAIRED_TWINS` 0,
+`PATCH_SAVER_WORDS` 77531 before this entry, `HISTORY_PARENT_IS_SESSION_BASE` 0.

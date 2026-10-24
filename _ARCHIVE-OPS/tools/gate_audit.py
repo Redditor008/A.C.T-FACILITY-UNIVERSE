@@ -68,6 +68,12 @@ TEXT_TESTS = [
      "A.C.T Universe Document/A.C.T Technology Document/TECH_MD/"
      "TECH-GOI-072-1-Iron-Meridian-Suppression-Collar-and-Restraint-Harness.md",
      "drop_line", "TECHNOLOGY DESIGNATION"),
+    # An entry heading that carries no date and no title still counts as an entry
+    # but cannot be ordered or cited. Appended to the Patch Saver itself, which
+    # lives under _ARCHIVE-OPS and so is skipped by the document-shape gates.
+    ("PATCH_SAVER_ENTRIES_OFF_SHAPE",
+     "_ARCHIVE-OPS/PATCH SAVER/Technology_Phase_Patch_Saver.md",
+     "append", "\n## Prompt End Update, no date and no title\n"),
     ("BOXDRAW_CHARACTERS", TX, "append", "\n\u2550" * 3 + "\n"),
     # A narrow rule must sit alone to count: flanked by pipe rows it belongs to a
     # box and has to match those cells instead.
