@@ -53,6 +53,9 @@ TEXT_TESTS = [
     ("TXT_MD_HEADING_FILES", TX, "append", "\n## Heading\n"),
     ("TXT_MD_RULE_LINES", TX, "append", "\n---\n"),
     ("TXT_MD_ITALIC_SPANS", TX, "append", "\n*emphasised*\n"),
+    # Any .txt line over 118, box rows included. The payload must exceed the limit
+    # itself, which is the mistake an earlier wide-line injection made at 80 chars.
+    ("TXT_LINES_OVER_118", TX, "append", "\n" + ("x" * 140) + "\n"),
     # A story twin that drifts from its .md. Target must be a twin whose .md
     # exists, or the gate has nothing to compare against.
     ("STORY_TWIN_WORD_DRIFT",

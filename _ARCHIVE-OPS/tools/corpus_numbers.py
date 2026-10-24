@@ -276,6 +276,20 @@ def main() -> int:
         "DIVISION USE", "CROSS-REFERENCES", "OPEN QUESTIONS", "FILE METADATA",
     ]
     r["TECH_RECORDS_UNDER_1800"] = 0
+    # Owner ruling: audit first, then decide. The audit found ZERO .txt lines over
+    # 118 characters across the whole corpus, so this gate reads 0 today and is a
+    # pure regression guard. It exists because a hand-built box once came out 186
+    # characters wide and every existing wide-line gate exempted box rows, so
+    # nothing saw it. TXT_WIDE_PROSE_LINES measures prose and skips box geometry;
+    # this one measures every line.
+    r["TXT_LINES_OVER_118"] = 0
+    for f in texts():
+        if f.suffix != ".txt":
+            continue
+        for line in read(f).split("\n"):
+            if len(line) > 118:
+                r["TXT_LINES_OVER_118"] += 1
+
     r["STORY_TWIN_WORD_DRIFT"] = 0
     r["TECH_RECORDS_OFF_SHAPE"] = 0
     r["TECH_RECORDS_REGISTRY_OFF_SHAPE"] = 0

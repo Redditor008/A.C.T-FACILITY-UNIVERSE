@@ -8486,3 +8486,52 @@ Namewright Bazaar set 069, four records, next. Then sets 070 and 073. The 16 reg
 The 13 chapter files to judge by hand. Box rows are exempt from the wide-line gates, which is worth
 revisiting.
 
+## Prompt End Update — 2026-10-24, Over-Wide Line Audit: Zero In The Corpus, Gate Added Anyway
+
+Owner ruling: audit how many over-wide `.txt` lines exist before deciding whether a gate is needed.
+Namewright Bazaar set 069 remains the next content batch.
+
+### The audit
+
+Every `.txt` in the reader-facing corpus was scanned line by line for length over 118 characters.
+
+| MEASURE | RESULT |
+|---|---|
+| `.txt` lines over 118 characters | **0** |
+| Files affected | 0 |
+| Of those, box rows | 0 |
+
+The 186-character line from the story index rebuild, fixed last batch, was the only instance the corpus
+has produced. There is no backlog to clear.
+
+### Why the gate was added regardless
+
+`TXT_LINES_OVER_118` reads 0 and will read 0 until something overflows. It was added because the one
+time an overflow happened, **every existing wide-line gate exempted it**. `TXT_WIDE_PROSE_LINES`
+measures prose and skips box geometry on the theory that the engine sets house widths, so an over-wide
+box should be impossible. It is impossible for engine-rendered boxes. A hand-built box is not
+engine-rendered, and that is exactly what overflowed.
+
+A gate that reads 0 is not evidence of anything on its own — a blind gate also reads 0 — so this one
+carries an injection test with a 140-character payload, which is over the limit. An earlier wide-line
+injection in this suite used 80 characters against a 118 limit and the audit correctly called it blind.
+That mistake was not repeated.
+
+`gates tested 26 | fired 26 | blind 0`.
+
+### Validation
+
+`corpus_numbers.py`: `TXT_LINES_OVER_118` 0, `TXT_WIDE_PROSE_LINES` 0, `MD_WIDE_PROSE_LINES` 0,
+`STORY_TWIN_WORD_DRIFT` 0, `STORY_PARTS_UNDER_1500` 0, `STORY_MANUSCRIPT_LOCKSTEP_FAILURES` 0,
+`TXT_BOLD_FILES` 0, `TXT_BACKTICK_FILES` 0, `TXT_MD_HEADING_FILES` 0, `BOXDRAW_CHARACTERS` 0,
+`TECH_RECORDS_OFF_SHAPE` 12, `TECH_RECORDS_UNDER_1800` 8, `DOCUMENT_COUNT` 1026.
+
+`gate_audit.py`: **gates tested 26, fired 26, blind 0**.
+
+`PATCH_SAVER_ENTRIES` 125.
+
+### Open
+
+Namewright Bazaar set 069, four records, next. Then sets 070 and 073. The 16 registry-variance records.
+The 13 chapter files to judge by hand.
+
