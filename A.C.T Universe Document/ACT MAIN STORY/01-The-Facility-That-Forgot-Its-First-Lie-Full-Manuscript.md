@@ -282,9 +282,10 @@ For the first time that morning, she felt something colder than archive air craw
 
 This was not witness cleanup. This was not surface secrecy. This was the Facility doing something to itself.
 
-Somewhere above her, deep in the structure of the buried institution, morning operations continued with their usual
-machine-like calm. Guards rotated posts. Researchers logged findings. A containment lift moved something sealed
-through Central. Clerks stamped access routes they did not understand. The world remained ordinary because the
+She did not need to see the floors above her to know what they were doing. Somewhere in the structure of the buried
+institution, morning operations would be continuing with their usual machine-like calm. Guards would be rotating
+posts. Researchers would be logging findings. A containment lift would be moving something sealed through Central.
+Clerks would be stamping access routes they did not understand. The world remained ordinary because the
 Facility made it ordinary every hour of every day.
 
 But down in Stack C, surrounded by ledgers older than modern doctrine and medical slips that should not have existed
@@ -1131,8 +1132,9 @@ have concealed itself from her if it tried.
 It was not vigilance. It was worse.
 
 It felt like an anomalous sense of surrounding, as though the very shape of occupied
-space announced itself to her whether it wished to or not. No person, no hidden
-movement, perhaps no living thing at all could remain fully concealed in her presence.
+space announced itself to her whether it wished to or not, and as though nothing hidden, no person and no movement and
+perhaps no living thing, could stay hidden while she stood
+in the room.
 
 When her eyes passed over Sera’s aisle, Sera felt the reflexive urge to look down—not out of submissiveness, but out
 of the terrible sensation of being located with absolute precision.

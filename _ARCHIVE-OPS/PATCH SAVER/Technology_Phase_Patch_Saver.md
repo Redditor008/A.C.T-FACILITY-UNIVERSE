@@ -9713,3 +9713,55 @@ the accepted atomic-link figure and is unchanged, confirming no link line was wr
 Eighteen files carry changes. Classes 4 and 5, the two single-passage description risks in Chapters 01 and
 04, and classes 6 and 7, the closing-cutaway pattern and the Epilogue register shift, were not touched. The
 owner selected classes 1 to 3 only.
+
+---
+
+## Prompt End Update — 2026-10-24, Story Fix Batch: Classes 4 and 5 Applied
+
+### Class 4, the Chapter 01 cutaway
+
+Sera is in Stack C. The passage asserted that guards rotated posts, researchers logged findings, a
+containment lift moved something sealed through Central, and clerks stamped access routes they did not
+understand. She cannot perceive any of the four from where she is standing, which made it the one clear
+breach of the description rule in the thirteen chapters judged.
+
+The fix follows the model Chapters 02 and 03 already use. The passage now opens by saying outright that she
+cannot see, and the four images become her projection in the conditional: she did not need to see the floors
+above her to know what they were doing, guards would be rotating posts, researchers would be logging
+findings. The claim about the Facility making the world ordinary is kept unchanged, because that was always
+her reasoning and not a perception.
+
+### Class 5, the Chapter 04 hedge drop
+
+The paragraph describing the unnamed woman opened as Sera's hedged impression and then dropped the hedge in
+its final sentence, asserting that no living thing at all could remain fully concealed in her presence. That
+claim is not observable from where Sera stands, so the paragraph started inside her head and ended in
+narrator omniscience.
+
+The fix keeps the hedge to the end of the sentence. The final claim now reads as a continuation of the same
+impression, and as though nothing hidden could stay hidden while she stood in the room, rather than as a
+statement of fact about the woman's capability.
+
+### What went wrong and was corrected
+
+The first application of the class 5 replacement left the sentence reading whether it wished to or not. and
+as though nothing hidden, with a lowercase and after a full stop. That is the class 1 defect this batch had
+just finished removing, reintroduced by the fix itself. The period was changed to a comma and the affected
+lines re-wrapped in all four story files. It was caught by reading the result rather than by a gate, since no
+gate checks sentence case.
+
+### What was verified
+
+Both fixes were applied to all four story files, the chapter, its twin, the manuscript and the manuscript
+twin, eight applications in total, and confirmed present in each.
+
+All story and formatting figures read 0: `STORY_OPENING_REPEATS`, `STORY_PARTS_UNDER_1500`,
+`STORY_TWIN_WORD_DRIFT`, `STORY_MANUSCRIPT_LOCKSTEP_FAILURES`, `TXT_WIDE_PROSE_LINES`, `MD_WIDE_PROSE_LINES`,
+`TXT_LINES_OVER_118`, `TXT_BOLD_FILES`, `TXT_BACKTICK_FILES`, `TXT_MD_HEADING_FILES`, `BOXDRAW_CHARACTERS`,
+`TITLE_STACK_DOCUMENTS`, `RECORDS_NOT_ONE_H1`, `BAD_EOF`, `ODD_FENCE`,
+`HISTORY_PARENT_IS_SESSION_BASE`. `MD_WIDE_LINK_LINES` remains 352, unchanged.
+
+`gate_audit.py` reads `gates tested 27 | fired 27 | blind 0`.
+
+Classes 6 and 7 remain untouched and are the owner's call: the closing cutaway that recurs across eight
+chapters, and the Epilogue's shift to an omniscient register. Neither is a breach on its own.
