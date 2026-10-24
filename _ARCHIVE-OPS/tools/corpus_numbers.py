@@ -224,7 +224,10 @@ def main() -> int:
     # Owner ruling 2026-10-24: GitHub renders a folder's README as its landing page,
     # so every folder needs one. ROOT_FOLDERS_WITHOUT_README only ever tested the
     # top level and read 0 while 24 nested folders had nothing.
-    _skip = {".git", ".arena", "Logo", "docs", "node_modules"}
+    # `__pycache__` is Python bytecode written by running the tools in this folder.
+    # It is a build artifact and can never need a README, but it appeared the moment
+    # the tools were executed and took the figure from 0 to 1.
+    _skip = {".git", ".arena", "Logo", "docs", "node_modules", "__pycache__"}
     # Owner ruling 2026-10-24: a README that renders is not the same as a README
     # worth reading. The first 24 were generated with a correct shape and nothing to
     # say, and no gate complained because none tested quality.

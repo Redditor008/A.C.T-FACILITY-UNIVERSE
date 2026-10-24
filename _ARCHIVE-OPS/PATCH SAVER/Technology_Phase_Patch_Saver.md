@@ -9866,3 +9866,30 @@ Every measured figure reads 0, including `STORY_OPENING_REPEATS`, `STORY_PARTS_U
 
 Class 7, the Epilogue's shift to an omniscient register, was not touched. The owner's ruling covered class 6
 only.
+
+---
+
+## Prompt End Update — 2026-10-24, FOLDERS_WITHOUT_README Resolved: Build Artifact, Not A Content Folder
+
+The corpus re-audit reported `FOLDERS_WITHOUT_README` at 1, against a figure of 0 recorded earlier in the
+session. The folder was identified by running the gate's own logic rather than a naive scan.
+
+It is `_ARCHIVE-OPS/tools/__pycache__`, the Python bytecode cache written by executing the tools that live in
+that folder. It is a build artifact and can never need a README. It appeared the moment the tools were run,
+which is why the figure moved from 0 to 1 between measurements without any content change.
+
+A naive scan for folders holding no `README.md` returns four results and is the wrong instrument. It does not
+apply the gate's own skip list, and it does not test the three other accepted names the gate accepts, which
+are `readme.md`, `README.txt` and bare `README`. The three extra results are the `.txt` mirror folders, and
+they hold `README.txt`.
+
+The fix is to add `__pycache__` to the gate's skip set, alongside the existing entries for `.git`, `.arena`,
+`Logo`, `docs` and `node_modules`. The directory is already gitignored at `.gitignore` line 3 and holds no
+tracked files, so it was never going to be committed and no README would ever have been correct for it.
+
+`FOLDERS_WITHOUT_README`, `ROOT_FOLDERS_WITHOUT_README`, `THIN_READMES` and `READMES_WITHOUT_SECTIONS` all
+read 0 after the change. `gate_audit.py` reads `gates tested 27 | fired 27 | blind 0`.
+
+This is the eighth instance of one failure class in this session: a gate that measures a literal thing rather
+than the thing it was written to mean. Here the gate measured every directory on disk, including one that
+only exists because a program ran.
