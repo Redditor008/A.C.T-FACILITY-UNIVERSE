@@ -9415,3 +9415,50 @@ claim, but five in a row is a structural tic and belongs in the fix batch as a j
 defect.
 
 Eight of thirteen judged. Five remain. No story file has been changed.
+
+---
+
+## Prompt End Update — 2026-10-24, Chapter Hand Judge: Chapter 09
+
+`Chapter-09-The-First-Lie.md`, 1864 words, read end to end. Nine of thirteen judged.
+
+RULE 3.5 pass on all four vectors. She learns that the O5 inherited themselves from damaged originals, that
+the founder memorandum repeats truth retention risk three times in separate wording with identical intent,
+and what the survivor transcript says. She decides to use the dead annex deliberately, to open the survivor
+file she had been avoiding, and to triple-encrypt. She loses the framing of a merely wounded archive, since
+she now has to ask what the wound protected. Mila changes the situation by answering Yes with no softening.
+
+RULE 4.3 pass and strong. A warning stands alone. Just yes stands alone. Perfect is a single word at the
+moment she judges the room. Not truth exposure. Not public panic. Not secrecy compromise. then Truth
+retention. is the rule's shock pattern executed exactly, and It was almost beautiful. That made it obscene.
+is a clean two-beat.
+
+RULE 3.3 pass. The dead annex is described in maintenance vocabulary rather than atmosphere, down to the
+system clock drifting a few seconds a day and the repair orders vanishing into the lower maintenance queue.
+The sensory passage is motivated by her being in the room, and the closing listen is motivated too, since
+she sits in the dark and listens. Mila's silence is read rather than narrated.
+
+### DEFECT ONE, sentence case, two separate lines
+
+The succession line reads Administrative succession lists. seal approvals. authorization bridges. oversight
+handoffs. Four sentences begin lowercase after a full stop.
+
+The overlay line reads Terminology shifted. Titles expanded. signatures moved under new identity shells. One
+sentence begins lowercase after a full stop.
+
+### DEFECT TWO, a bullet that lost its marker
+
+In the survivor transcript list, four items carry a leading dash and one does not. The third item begins with
+two leading spaces instead of a dash and is wrapped so that the single word was sits alone on its own line.
+The list therefore renders as four bullets plus a stranded fragment. This is a structural defect and not a
+styling choice, and it is the first one found in the judge that a markdown structure gate ought to have
+caught.
+
+### Not re-opened
+
+The line Memory was not passive in this story was examined earlier in the session against the banned list
+and judged a false positive, being a character's reasoning rather than a fourth-wall break. That verdict
+stands and the line is not flagged again here.
+
+Nine of thirteen judged. Four remain: Chapter 10, Chapter 11, Chapter 12 and the Epilogue. No story file has
+been changed.
