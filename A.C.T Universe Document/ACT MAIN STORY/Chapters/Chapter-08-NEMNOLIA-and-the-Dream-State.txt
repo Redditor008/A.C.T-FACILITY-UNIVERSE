@@ -4,8 +4,6 @@ Sera read the pharmacology annex standing up, and sat down in somebody else's ch
 
 It came from pharmacology.
 
-That was what made it so devastating.
-
 Sera had expected the final bridge between ITHYOS and NEMNOLIA to be hidden in some sealed descent
 log, buried inside a mutilated founder journal, or trapped behind an O5 review wall dense enough
 to crush curiosity on contact. Instead it emerged where all successful lies eventually became
@@ -39,9 +37,8 @@ The first file looked harmless.
 
 A cultivation report for AFD-NB-004. Growth density, mist cycle, root-lattice expansion, sap clarity under controlled
 harvest pressure. The sort of report that reduced wonder into inventory. But halfway down the second page, inside an
-old environmental correction note, she found the phrase that made her stop breathing for a second.
-
-yield instability follows dream-state irregularity
+old environmental correction note, she found the phrase that made her stop breathing for a second. Yield instability
+follows dream-state irregularity
 
 She read it again. Then again.
 
@@ -52,13 +49,9 @@ Dream-state irregularity.
 The phrase should not have existed in a botanical cultivation report.
 
 Sera pulled the linked file immediately. Another cultivation cycle. Another revision note. Another attempt to
-normalize the language around the impossible.
+normalize the language around the impossible. Gold-sap coherence degraded during low-stability abyss interval
 
-gold-sap coherence degraded during low-stability abyss interval
-
-A third file.
-
-source bloom entered non-productive dormancy during seismic variance linked to lower-state disturbance
+A third file. Source bloom entered non-productive dormancy during seismic variance linked to lower-state disturbance
 
 By the fourth record, whatever remained of plausible coincidence had died.
 
@@ -95,9 +88,8 @@ Then she found the viability notes.
 
 Each grade carried environmental consistency remarks from source extraction cycles. Most were standard: temperature
 stability, contamination control, filtration sequence, sap purity. But some of the older records included a secondary
-factor, later removed from summary versions.
-
-dream-linked source response unstable extraction quality decreased during lower tremor event sap retained partial
+factor, later removed from summary versions. Dream-linked source response unstable extraction quality decreased during
+lower tremor event sap retained partial
 luminous coherence only after deep-state normalization
 
 Deep-state normalization.
@@ -157,7 +149,7 @@ Sera almost laughed from the strain of it. “You knew?”
 “In this Facility?” Mila’s mouth twitched. “You may have noticed.”
 
 Sera turned the screen toward her. “It’s not correlation. Not the way they phrased it later. This is dependency. Yield
-instability. dream-state irregularity. source coherence loss during lower-state disturbance.” Her voice dropped. “The
+instability. Dream-state irregularity. Source coherence loss during lower-state disturbance.” Her voice dropped. “The
 004-Series exists because ITHYOS sleeps.”
 
 Mila did not deny it.

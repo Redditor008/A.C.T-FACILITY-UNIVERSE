@@ -9651,3 +9651,65 @@ Other story figures unchanged: `STORY_PARTS_UNDER_1500` 0, `STORY_TWIN_WORD_DRIF
 
 No story file was changed. The two duplicated openings are still present in Chapters 06 and 08 and are now
 correctly counted, which is the precondition for fixing them and proving the fix.
+
+---
+
+## Prompt End Update — 2026-10-24, Story Fix Batch: Classes 1, 2 and 3 Applied
+
+### What was fixed
+
+CLASS ONE, sentence case after a full stop. Capitalisation restored across the chapter files and the
+manuscript. The detector requires the period to follow a lowercase letter or a closing quote, which excludes
+abbreviations such as A.R.R. and A.C.T where the period follows a capital. One match in Chapter 03 was
+correctly rejected as the abbreviation A.R.R.
+
+CLASS TWO, duplicated openings. In Chapter 06 the first paragraph restated two negations that the second
+paragraph carries in fuller form, so the shorter restatement was removed and the fuller wording kept. In
+Chapter 08 the sentence That was what made it devastating recurred two paragraphs later as That was what
+made it so devastating, and the standalone echo was removed.
+
+CLASS THREE, a bullet that lost its leading dash. Restored in Chapter 09 and in the Epilogue, with the
+stranded fragment reflowed onto its own list item.
+
+### Two corrections to the judge's own findings
+
+The judge recorded five chapters as clean of every defect: 02, 03, 05, 10 and 12. Chapter 02 carries one
+sentence-case defect at line 246, which the judge missed because that chapter was read only to line 180 of
+388 and the verdict was marked provisional. The correct clean list is four chapters: 03, 05, 10 and 12.
+Chapter 03 still counts as clean because its only match is the abbreviation A.R.R.
+
+The bullet defects were .md only. Both .txt twins already carried the correct list with every dash present,
+which is pre-existing drift between the formats rather than a shared defect.
+
+### What went wrong and was corrected
+
+Three failures in this batch, all caught before the commit.
+
+The first detector run was scoped too widely and capitalised inside the Abyssal Archive Dossier, which is
+not a chapter file and was out of scope. Both dossier files were restored from HEAD.
+
+Removing text left over-long lines. Fourteen lines exceeded the 118-character limit after the deletions,
+which TXT_LINES_OVER_118 and TXT_WIDE_PROSE_LINES both reported. They were wrapped at word boundaries.
+
+The wrapper was then applied too widely and wrapped pipe-table rows inside the Story Index, breaking the
+table across lines. That file was never part of the fix batch and was restored from HEAD, and the table was
+verified intact afterwards.
+
+### What was verified
+
+`STORY_OPENING_REPEATS` read 2 before this batch and reads 0 after, which is the gate that was blind until
+the previous commit. It now confirms the two duplicated openings are gone.
+
+All story and formatting figures read 0: `STORY_PARTS_UNDER_1500`, `STORY_TWIN_WORD_DRIFT`,
+`STORY_MANUSCRIPT_LOCKSTEP_FAILURES`, `TXT_WIDE_PROSE_LINES`, `MD_WIDE_PROSE_LINES`, `TXT_LINES_OVER_118`,
+`TXT_BOLD_FILES`, `TXT_BACKTICK_FILES`, `TXT_MD_HEADING_FILES`, `TXT_MD_RULE_LINES`, `TXT_MD_ITALIC_SPANS`,
+`BOXDRAW_CHARACTERS`, `TITLE_STACK_DOCUMENTS`, `RECORDS_NOT_ONE_H1`, `BAD_EOF`, `ODD_FENCE`,
+`PATCH_SAVER_ENTRIES_OFF_SHAPE`, `HISTORY_PARENT_IS_SESSION_BASE`. `MD_WIDE_LINK_LINES` remains 352, which is
+the accepted atomic-link figure and is unchanged, confirming no link line was wrapped.
+
+`gate_audit.py` reads `gates tested 27 | fired 27 | blind 0`. `STORY_CHAPTERS_TOTAL` 12,
+`STORY_CHAPTER_MD_FILES` 14, `DOCUMENT_COUNT` 1026.
+
+Eighteen files carry changes. Classes 4 and 5, the two single-passage description risks in Chapters 01 and
+04, and classes 6 and 7, the closing-cutaway pattern and the Epilogue register shift, were not touched. The
+owner selected classes 1 to 3 only.

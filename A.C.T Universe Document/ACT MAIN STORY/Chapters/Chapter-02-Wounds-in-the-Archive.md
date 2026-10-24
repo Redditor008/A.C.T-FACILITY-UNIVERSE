@@ -243,7 +243,7 @@ Meaning whoever wrote it had expected something—or someone—to come back up.
 She ran the branch through later structural overlays. The route vanished from every official model after a certain
 date, but support systems kept referencing a dead load-bearing line in that region for
 decades. Coolant diversion.
-Lift stress. reinforced cabling. Nothing dramatic by itself.
+Lift stress. Reinforced cabling. Nothing dramatic by itself.
 
 Together, it looked like an erased road still being quietly maintained underground.
 

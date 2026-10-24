@@ -1,10 +1,8 @@
 # Chapter 6 — The Sleeping Foundation
 
 Sera wrote the question on the back of a routing slip before she had decided to ask it:
-*what did they actually find when they got down there.* Not the version in the historical
-summaries. Not the clean doctrine line repeated in every orientation deck since.
-
-Not the version preserved in the historical summaries. Not the clean doctrine-line later repeated in archive overviews
+*what did they actually find when they got down there.* Not the version preserved in the historical summaries. Not the
+clean doctrine-line later repeated in archive overviews
 and training references. Not the polished truth that said the founders discovered an uncapturable entity below the
 Earth and built the first doctrine around the necessity of keeping it asleep.
 
@@ -21,8 +19,8 @@ of silence: she followed maintenance.
 
 If something was too dangerous to name, too old to classify cleanly, or too
 structurally central to leave visible in
-ordinary archives, it still had to be serviced. Filters changed. seal grids recalibrated.
-pressure lines held. observation systems cycled. There were always traces where the
+ordinary archives, it still had to be serviced. Filters changed. Seal grids recalibrated. Pressure lines held.
+Observation systems cycled. There were always traces where the
 mechanical body of the Facility touched the truth its archive tried not to describe.
 
 The abyss branch of maintenance history was scattered across unrelated systems—Central lift

@@ -521,7 +521,7 @@ Meaning whoever wrote it had expected something—or someone—to come back up.
 
 She ran the branch through later structural overlays. The route vanished from every official model after a certain
 date, but support systems kept referencing a dead load-bearing line in that region for decades. Coolant diversion.
-Lift stress. reinforced cabling. Nothing dramatic by itself.
+Lift stress. Reinforced cabling. Nothing dramatic by itself.
 
 Together, it looked like an erased road still being quietly maintained underground.
 
@@ -1595,8 +1595,8 @@ Direct requests were how people got noticed.
 Instead she used the oldest trick left to anyone buried beneath too many layers of silence: she followed maintenance.
 
 If something was too dangerous to name, too old to classify cleanly, or too structurally central
-to leave visible in ordinary archives, it still had to be serviced. Filters changed. seal grids
-recalibrated. pressure lines held. observation systems cycled. There were always traces where
+to leave visible in ordinary archives, it still had to be serviced. Filters changed. Seal grids
+recalibrated. Pressure lines held. Observation systems cycled. There were always traces where
 the mechanical body of the Facility touched the truth its archive tried not to describe.
 
 The abyss branch of maintenance history was scattered across unrelated systems—Central lift
@@ -1976,8 +1976,8 @@ Sera stopped in front of him. “How long have you known?”
 
 He folded the unread page in half. “Long enough to know better than to say it out loud.”
 
-She lowered her voice. “The same hand appears under names that should not exist together. Dead personnel. wrong
-timelines. review chains built on false identity continuity. That doesn’t happen by drift.”
+She lowered her voice. “The same hand appears under names that should not exist together. Dead personnel. Wrong
+timelines. Review chains built on false identity continuity. That doesn’t happen by drift.”
 
 “No.”
 
@@ -2134,8 +2134,6 @@ Sera read the pharmacology annex standing up, and sat down in somebody else's ch
 
 It came from pharmacology.
 
-That was what made it so devastating.
-
 Sera had expected the final bridge between ITHYOS and NEMNOLIA to be hidden in some sealed descent
 log, buried inside a mutilated founder journal, or trapped behind an O5 review wall dense enough
 to crush curiosity on contact. Instead it emerged where all successful lies eventually became
@@ -2288,7 +2286,7 @@ Sera almost laughed from the strain of it. “You knew?”
 “In this Facility?” Mila’s mouth twitched. “You may have noticed.”
 
 Sera turned the screen toward her. “It’s not correlation. Not the way they phrased it later. This is dependency. Yield
-instability. dream-state irregularity. source coherence loss during lower-state disturbance.” Her voice dropped. “The
+instability. Dream-state irregularity. Source coherence loss during lower-state disturbance.” Her voice dropped. “The
 004-Series exists because ITHYOS sleeps.”
 
 Mila did not deny it.
@@ -2390,7 +2388,7 @@ And if it was a structure, then it had an architect.
 
 Sera spent the morning reconstructing command continuity rather than anomaly history. It was the hardest route she had
 attempted so far, not because the records were sealed beyond access, but because they had been made to appear
-ordinary. Administrative succession lists. seal approvals. authorization bridges. oversight handoffs. review phrases
+ordinary. Administrative succession lists. Seal approvals. Authorization bridges. Oversight handoffs. Review phrases
 repeated until they looked like legal habit instead of personal syntax.
 
 Every buried institution learned the same trick eventually: make the
@@ -2399,7 +2397,7 @@ extraordinary look procedural and no one would think to question it.
 But procedure still left fingerprints.
 
 She overlaid old founder review notes with later O5 transitional authorizations and found the same problem repeating
-at every layer. Terminology shifted. Titles expanded. signatures moved under new identity shells. Yet the internal
+at every layer. Terminology shifted. Titles expanded. Signatures moved under new identity shells. Yet the internal
 logic—where emphasis fell, how orders were phrased, where hesitation showed in handwritten correction margins—remained
 too consistent across too many impossible spans.
 
@@ -3096,8 +3094,8 @@ By the time Mila left, the room felt less like a hiding place and more like a su
 
 Sera kept working.
 
-She used every archive habit she trusted. False-facing admin language. dead classification shells. transposed
-metadata. cross-disciplinary burial in places no single clearance lane would think to unify. To one future reader, a
+She used every archive habit she trusted. False-facing admin language. Dead classification shells. Transposed
+metadata. Cross-disciplinary burial in places no single clearance lane would think to unify. To one future reader, a
 single fragment might look like nonsense. To the wrong future mind, perhaps all of them would remain buried forever.
 
 But to the right person—someone patient enough, suspicious enough, or wounded enough to follow contradiction instead
@@ -3176,7 +3174,7 @@ When she finally stood, the room tilted just enough to remind her how little sle
 week. She braced one hand against the dead machine rack until the moment passed.
 
 On the corridor back to her quarters, the Facility looked ordinary again in the cruelest possible way. Guards at
-stations. clerks pushing carts. muted lights. sealed doors. a medic yawning behind a records hatch. The whole buried
+stations. Clerks pushing carts. Muted lights. Sealed doors. A medic yawning behind a records hatch. The whole buried
 machine functioning because its deepest truths remained divided below the level of speech.
 
 At her door she stopped, not because someone called her name, but because for a brief, impossible instant she felt the

@@ -149,8 +149,8 @@ He folded the unread page in half. “Long enough to know better than to
 say it out loud.”
 
 She lowered her voice. “The same hand appears under names that should not exist
-together. Dead personnel. wrong
-timelines. review chains built on false identity continuity. That doesn’t happen by drift.”
+together. Dead personnel. Wrong
+timelines. Review chains built on false identity continuity. That doesn’t happen by drift.”
 
 “No.”
 

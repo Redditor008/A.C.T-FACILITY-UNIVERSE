@@ -141,8 +141,8 @@ more like a surgical theater.
 
 Sera kept working.
 
-She used every archive habit she trusted. False-facing admin language. dead classification shells. transposed
-metadata. cross-disciplinary burial in places no single clearance lane would think to unify. To one future reader, a
+She used every archive habit she trusted. False-facing admin language. Dead classification shells. Transposed
+metadata. Cross-disciplinary burial in places no single clearance lane would think to unify. To one future reader, a
 single fragment might look like nonsense. To the wrong future mind, perhaps all of
 them would remain buried forever.
 
@@ -231,7 +231,7 @@ week. She braced one hand against the dead machine rack until the moment passed.
 
 On the corridor back to her quarters, the Facility looked ordinary again in the
 cruelest possible way. Guards at
-stations. clerks pushing carts. muted lights. sealed doors. a medic yawning behind a records hatch. The whole buried
+stations. Clerks pushing carts. Muted lights. Sealed doors. A medic yawning behind a records hatch. The whole buried
 machine functioning because its deepest truths remained divided below the level of speech.
 
 At her door she stopped, not because someone called her name, but because for

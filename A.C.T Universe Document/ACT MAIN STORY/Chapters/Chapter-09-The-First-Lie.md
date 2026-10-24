@@ -23,7 +23,7 @@ And if it was a structure, then it had an architect.
 Sera spent the morning reconstructing command continuity rather than anomaly history. It was the hardest route she had
 attempted so far, not because the records were sealed beyond access, but because they
 had been made to appear
-ordinary. Administrative succession lists. seal approvals. authorization bridges. oversight handoffs. review phrases
+ordinary. Administrative succession lists. Seal approvals. Authorization bridges. Oversight handoffs. Review phrases
 repeated until they looked like legal habit instead of personal syntax.
 
 Every buried institution learned the same trick eventually: make the
@@ -32,7 +32,7 @@ extraordinary look procedural and no one would think to question it.
 But procedure still left fingerprints.
 
 She overlaid old founder review notes with later O5 transitional authorizations and found the same problem repeating
-at every layer. Terminology shifted. Titles expanded. signatures moved under new identity shells. Yet the internal
+at every layer. Terminology shifted. Titles expanded. Signatures moved under new identity shells. Yet the internal
 logic—where emphasis fell, how orders were phrased, where hesitation showed in handwritten correction margins—remained
 too consistent across too many impossible spans.
 
@@ -153,9 +153,7 @@ survivor repeatedly insisted on the same impossible structure:
 
 - they had been below before they ever went below
 - the route downward felt remembered rather than discovered
-  the thing beneath the Earth was already known in the body before it
-  was
-  understood in the mind
+- the thing beneath the Earth was already known in the body before it was understood in the mind
 - forgetting did not begin after contact
 - forgetting was part of contact
 

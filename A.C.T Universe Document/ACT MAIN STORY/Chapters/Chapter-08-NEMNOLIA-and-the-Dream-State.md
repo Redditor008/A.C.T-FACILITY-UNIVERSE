@@ -6,8 +6,6 @@ and a supply chain that had never once been interrupted. That was what made it d
 
 It came from pharmacology.
 
-That was what made it so devastating.
-
 Sera had expected the final bridge between ITHYOS and NEMNOLIA to be hidden in
 some sealed descent log, buried inside
 a mutilated founder journal, or trapped behind an O5 review wall dense enough to
@@ -178,7 +176,7 @@ Sera almost laughed from the strain of it. “You knew?”
 
 Sera turned the screen toward her. “It’s not correlation. Not the way they phrased
 it later. This is dependency. Yield
-instability. dream-state irregularity. source coherence loss during lower-state disturbance.” Her voice dropped. “The
+instability. Dream-state irregularity. Source coherence loss during lower-state disturbance.” Her voice dropped. “The
 004-Series exists because ITHYOS sleeps.”
 
 Mila did not deny it.

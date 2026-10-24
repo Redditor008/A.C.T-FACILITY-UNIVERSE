@@ -194,9 +194,7 @@ Not rumored. Not maybe. Not if the archive migration dates were even half-correc
 
 Seventeen years.
 
-She read the line again.
-
-the bloom was below
+She read the line again. The bloom was below
 
 There was no designation attached. No explanatory note. No cross-reference.
 
@@ -497,8 +495,7 @@ arrow and an obsolete hazard seal.
 The branch had no official destination.
 
 But a handwritten notation—later scraped, not fully removed—still survived in the scan when viewed at low contrast.
-
-keep line clear for return
+Keep line clear for return
 
 Return from where?
 
@@ -875,9 +872,8 @@ during a lower descent support operation. No field designation. No anomaly code.
 before the official discovery of AFD-NB-004.
 
 The preservation sheet inside contained only three surviving fragments of the original note. Most of the page had been
-eaten by later overstrike and archive correction, but the lines that remained were enough.
-
-pale tissue sample non-decaying gold residue subject lost previous day in under seven minutes
+eaten by later overstrike and archive correction, but the lines that remained were enough. Pale tissue sample
+non-decaying gold residue subject lost previous day in under seven minutes
 
 Sera read the last line three times.
 
@@ -1076,9 +1072,8 @@ And if that sentence made no sense, it was only because someone had worked very 
 Near the end of shift she found the piece that made the whole structure buckle.
 
 It was hidden inside a pharmacological trial index, cross-filed under obsolete transformation language. Most of the
-record was gone, but one line remained intact because someone had misjudged what later readers would understand.
-
-sap viability contingent on dream-state stability
+record was gone, but one line remained intact because someone had misjudged what later readers would understand. Sap
+viability contingent on dream-state stability
 
 Sera stared at the line until the letters blurred.
 
@@ -1221,9 +1216,7 @@ That last pattern appeared too often to ignore.
 The same shape. The same downward line split by curved chambers. The same notation at the base in different hands,
 different regions, different decades.
 
-No one labeled it the same way twice. But all of them meant the same thing.
-
-below
+No one labeled it the same way twice. But all of them meant the same thing. Below
 
 Sera’s pulse climbed as she turned pages.
 
@@ -1256,9 +1249,8 @@ Facility archives. Measurements sprawled into margins. Tunnel lines crossed out 
 corrected by hand. And through all of it, in gold pencil now faded almost to
 nothing, the same descent path appeared over and over—tightening, correcting, refusing to vanish.
 
-One corner note had been underlined so heavily it had torn the paper fibers.
-
-the remembered route descends faster than the surveyed route
+One corner note had been underlined so heavily it had torn the paper fibers. The remembered route descends faster than
+the surveyed route
 
 Sera closed her eyes.
 
@@ -1825,8 +1817,8 @@ Sera stopped in front of him. “How long have you known?”
 
 He folded the unread page in half. “Long enough to know better than to say it out loud.”
 
-She lowered her voice. “The same hand appears under names that should not exist together. Dead personnel. wrong
-timelines. review chains built on false identity continuity. That doesn’t happen by drift.”
+She lowered her voice. “The same hand appears under names that should not exist together. Dead personnel. Wrong
+timelines. Review chains built on false identity continuity. That doesn’t happen by drift.”
 
 “No.”
 
@@ -1983,8 +1975,6 @@ Sera read the pharmacology annex standing up, and sat down in somebody else's ch
 
 It came from pharmacology.
 
-That was what made it so devastating.
-
 Sera had expected the final bridge between ITHYOS and NEMNOLIA to be hidden in some sealed descent
 log, buried inside a mutilated founder journal, or trapped behind an O5 review wall dense enough
 to crush curiosity on contact. Instead it emerged where all successful lies eventually became
@@ -2018,9 +2008,8 @@ The first file looked harmless.
 
 A cultivation report for AFD-NB-004. Growth density, mist cycle, root-lattice expansion, sap clarity under controlled
 harvest pressure. The sort of report that reduced wonder into inventory. But halfway down the second page, inside an
-old environmental correction note, she found the phrase that made her stop breathing for a second.
-
-yield instability follows dream-state irregularity
+old environmental correction note, she found the phrase that made her stop breathing for a second. Yield instability
+follows dream-state irregularity
 
 She read it again. Then again.
 
@@ -2031,13 +2020,9 @@ Dream-state irregularity.
 The phrase should not have existed in a botanical cultivation report.
 
 Sera pulled the linked file immediately. Another cultivation cycle. Another revision note. Another attempt to
-normalize the language around the impossible.
+normalize the language around the impossible. Gold-sap coherence degraded during low-stability abyss interval
 
-gold-sap coherence degraded during low-stability abyss interval
-
-A third file.
-
-source bloom entered non-productive dormancy during seismic variance linked to lower-state disturbance
+A third file. Source bloom entered non-productive dormancy during seismic variance linked to lower-state disturbance
 
 By the fourth record, whatever remained of plausible coincidence had died.
 
@@ -2074,9 +2059,8 @@ Then she found the viability notes.
 
 Each grade carried environmental consistency remarks from source extraction cycles. Most were standard: temperature
 stability, contamination control, filtration sequence, sap purity. But some of the older records included a secondary
-factor, later removed from summary versions.
-
-dream-linked source response unstable extraction quality decreased during lower tremor event sap retained partial
+factor, later removed from summary versions. Dream-linked source response unstable extraction quality decreased during
+lower tremor event sap retained partial
 luminous coherence only after deep-state normalization
 
 Deep-state normalization.
@@ -2136,7 +2120,7 @@ Sera almost laughed from the strain of it. “You knew?”
 “In this Facility?” Mila’s mouth twitched. “You may have noticed.”
 
 Sera turned the screen toward her. “It’s not correlation. Not the way they phrased it later. This is dependency. Yield
-instability. dream-state irregularity. source coherence loss during lower-state disturbance.” Her voice dropped. “The
+instability. Dream-state irregularity. Source coherence loss during lower-state disturbance.” Her voice dropped. “The
 004-Series exists because ITHYOS sleeps.”
 
 Mila did not deny it.
@@ -2238,7 +2222,7 @@ And if it was a structure, then it had an architect.
 
 Sera spent the morning reconstructing command continuity rather than anomaly history. It was the hardest route she had
 attempted so far, not because the records were sealed beyond access, but because they had been made to appear
-ordinary. Administrative succession lists. seal approvals. authorization bridges. review phrases repeated until they
+ordinary. Administrative succession lists. Seal approvals. Authorization bridges. Review phrases repeated until they
 looked like legal habit instead of personal syntax.
 
 Every buried institution learned the same trick eventually: make the
@@ -2247,7 +2231,7 @@ extraordinary look procedural and no one would think to question it.
 But procedure still left fingerprints.
 
 She overlaid old founder review notes with later O5 transitional authorizations and found the same problem repeating
-at every layer. Terminology shifted. Titles expanded. signatures moved under new identity shells. Yet the internal
+at every layer. Terminology shifted. Titles expanded. Signatures moved under new identity shells. Yet the internal
 logic—where emphasis fell, how orders were phrased, where hesitation showed in handwritten correction margins—remained
 too consistent across too many impossible spans.
 
@@ -2353,9 +2337,8 @@ survivor repeatedly insisted on the same impossible structure:
 thing beneath the Earth was already known in the body before it was understood in the mind - forgetting did not begin
 after contact - forgetting was part of contact
 
-Sera read one line, then had to stand up and walk the length of the annex before she could return to it.
-
-we came back wrong because we arrived wrong first
+Sera read one line, then had to stand up and walk the length of the annex before she could return to it. We came back
+wrong because we arrived wrong first
 
 Not polished. Not doctrinal. Not easy.
 
@@ -2937,8 +2920,8 @@ By the time Mila left, the room felt less like a hiding place and more like a su
 
 Sera kept working.
 
-She used every archive habit she trusted. False-facing admin language. dead classification shells. transposed
-metadata. cross-disciplinary burial in places no single clearance lane would think to unify. To one future reader, a
+She used every archive habit she trusted. False-facing admin language. Dead classification shells. Transposed
+metadata. Cross-disciplinary burial in places no single clearance lane would think to unify. To one future reader, a
 single fragment might look like nonsense. To the wrong future mind, perhaps all of them would remain buried forever.
 
 But to the right person—someone patient enough, suspicious enough, or wounded enough to follow contradiction instead
@@ -3012,7 +2995,7 @@ When she finally stood, the room tilted just enough to remind her how little sle
 week. She braced one hand against the dead machine rack until the moment passed.
 
 On the corridor back to her quarters, the Facility looked ordinary again in the cruelest possible way. Guards at
-stations. clerks pushing carts. muted lights. sealed doors. a medic yawning behind a records hatch. The whole buried
+stations. Clerks pushing carts. Muted lights. Sealed doors. A medic yawning behind a records hatch. The whole buried
 machine functioning because its deepest truths remained divided below the level of speech.
 
 At her door she stopped, not because someone called her name, but because for a brief, impossible instant she felt the

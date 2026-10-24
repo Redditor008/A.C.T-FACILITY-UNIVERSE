@@ -6,7 +6,8 @@
 | ARCHIVE STATUS | Active |
 | DISTRIBUTION | Internal / Repository Guidance |
 | AUTHORITY | Central Archive Administration / Narrative Continuity Review |
-| PURPOSE | Define how A.C.T. files should be read when doctrine, archive copies, anomaly records, story material, research notes, and crossover material exist in the same repository. |
+| PURPOSE | Define how A.C.T. files should be read when doctrine, archive copies, anomaly records, story material,
+research notes, and crossover material exist in the same repository. |
 
 ---
 
