@@ -9246,3 +9246,44 @@ Ten chapters remain.
 No story file was changed. The workspace was re-cloned six times during this session and recovered each
 time by fetching origin and resetting hard to the branch. HEAD at the end of this turn is the pushed
 commit for the 073-2 and 073-3 batch, and the tree is clean apart from this entry.
+
+---
+
+## Prompt End Update — 2026-10-24, Chapter Hand Judge: Chapter 04 Read In Full
+
+`Chapter-04-The-Bloom-Before-the-Bloom.md`, 1982 words, read end to end. The first full-file verdict since
+the owner directed full reads.
+
+RULE 3.5 pass on all four vectors. She learns that the envelope predates the official discovery by
+seventeen years, that the route origin reads below mapped access, and the pivotal line sap viability
+contingent on dream-state stability. She decides to change her own shadow-file heading from chronology
+failure to chronology suppression because it felt more honest, and encrypts the dream-state line under a
+false revision header. She loses the official discovery narrative. And something outside changes her
+situation when the unnamed authority figure walks the floor.
+
+RULE 4.3 pass, and the strongest execution of the four chapters read so far. The shock register is exact:
+Not because the smell was strong, then Because she knew it, split across lines the way the rule's example
+splits them. Dream-state stands alone and is repeated three times as a beat. ITHYOS stands alone. Her pulse
+thudded once, hard enough to hurt is a single short sentence at the moment of impact. Recovery, Study,
+Refinement, Integration is a stacked-fragment run, and the closing passage goes long and comma-heavy for
+the slow register.
+
+RULE 3.3 pass with one flagged passage, and it is a subtler failure than the Chapter 01 cutaway. The
+paragraph describing the unnamed woman begins as Sera's hedged impression, It felt like an anomalous sense
+of surrounding, as though the very shape of occupied space announced itself to her, and then drops the hedge
+in its final sentence: No person, no hidden movement, perhaps no living thing at all could remain fully
+concealed in her presence. That last claim is not observable from where Sera stands. The paragraph starts
+inside her head and ends in narrator omniscience, which also brushes against RULE 4.2 even though that rule
+is not in scope for this judge.
+
+Elsewhere the chapter handles the same problem correctly and the contrast is instructive. The woman
+arriving unescorted is explicitly framed as Sera's inference, accompanied by no one, which was how Sera
+understood immediately that she belonged to a level of authority requiring no escort. The claim that she
+signed without reading is hedged with probably. So the file demonstrates the correct technique twice and
+breaks it once, in the same scene.
+
+Also noted, low risk: the closing cutaway beneath floors, beneath doctrine, beneath corrected history,
+something slept is a perception Sera cannot have, but it functions as the chapter's ending image rather than
+as a perception claim, so it is recorded and not flagged as a defect.
+
+Four of thirteen judged. Nine remain. No story file changed.
