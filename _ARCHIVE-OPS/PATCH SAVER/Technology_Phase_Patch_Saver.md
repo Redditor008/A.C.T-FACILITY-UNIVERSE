@@ -9136,3 +9136,55 @@ Corpus-wide: `TECH_RECORDS` 242, `TECH_MD_FILES` 244, `TECH_TXT_FILES` 244, `TEC
 `TXT_BOLD_FILES` 0, `BOXDRAW_CHARACTERS` 0, `TITLE_STACK_DOCUMENTS` 0, `TXT_LINES_OVER_118` 0,
 `TXT_WIDE_PROSE_LINES` 0, `MD_WIDE_PROSE_LINES` 0, `RECORDS_NOT_ONE_H1` 0, `BAD_EOF` 0, `ODD_FENCE` 0,
 `PATCH_SAVER_ENTRIES_OFF_SHAPE` 0, `HISTORY_PARENT_IS_SESSION_BASE` 0.
+
+---
+
+## Prompt End Update — 2026-10-24, TECH-GOI-073-2 and 073-3 Restructured And Expanded
+
+### What was changed
+
+`TECH-GOI-073-2` Lantern Accord Seal And Temporary Custody Tag and `TECH-GOI-073-3` Lantern Accord
+Yellow-Line Warrant Fragment were both off-shape and below the word floor. 073-2 carried thirteen H2s
+under two headings of its own and no registry fields. 073-3 carried twelve H2s and had no physical
+description, no technical specification, no interface section, no operating procedure, no servicing
+section, no fault isolation and no failure history at all. Both were rebuilt to the fourteen house
+sections in house order with every original line preserved and relocated.
+
+The expansion for both is sourced entirely from `GOI-HY-W-073` and adds material neither record carried.
+
+For 073-2 the dossier assesses accord seals as marking temporary custody freeze on objects, patients, or
+witnesses. Two of those three are people, and that list was absent from a record whose own Archive Note
+already described the tag as attaching to a person. Added alongside it: the dossier's crisis-room tents
+with two-door entry rules and neutral keys carried in paired lockboxes, assessed as opening designated
+handover rooms when carried by two rival signatories, which places the Clerk's attestation inside a room
+designed so that neither party controls it. The countermeasure asymmetry is expanded, since the dossier
+records codebooks updated after every broken line and no equivalent practice for seals, and the
+consequence is stated: a reproduction made from genuine stock would be indistinguishable by any method the
+archive holds.
+
+For 073-3 the dossier assesses yellow-line warrants as documents that hostile groups sometimes hesitate to
+cross, with the reason unconfirmed. That was the most consequential fact about the asset and it was
+absent. It says the warrant changes the behaviour of parties who never signed anything, and the dossier is
+explicit that the reason is unconfirmed, so the record states the effect and does not explain it. Also
+added: the dossier lists the asset as yellow-line warrant rolls while the custody line describes issue from
+warrant book stock, and both are recorded with the difference flagged rather than silently reconciled; the
+safe-line maps that remain readable during route confusion and are stored in waxed tubes, recorded as the
+contrast case to a fragment whose language cannot be read; and the Facility's own leakage position, that
+limited leakage may be tolerated where the alternative is mass casualty, public breach or hostile capture
+of evacuees.
+
+### What was verified
+
+`TECH_RECORDS_OFF_SHAPE`, `TECH_RECORDS_REGISTRY_OFF_SHAPE` and `TECH_RECORDS_UNDER_1800` all read 3 before
+and all read 1 after. `gate_audit.py` reads `gates tested 27 | fired 27 | blind 0`.
+
+073-2 reads 2886 words with fourteen house H2s, twin 2947 words across 368 lines. 073-3 reads 2885 words
+with fourteen house H2s, twin 2957 words across 371 lines. Both twins render at widest 118 with zero markup
+lines, and both converter runs exited zero on the first attempt.
+
+The single remaining off-shape record is `TECH-GOI-073-4`.
+
+Corpus-wide: `TECH_RECORDS` 242, `TECH_MD_FILES` 244, `TECH_TXT_FILES` 244, `TECH_UNPAIRED_TWINS` 0,
+`TXT_BOLD_FILES` 0, `BOXDRAW_CHARACTERS` 0, `TITLE_STACK_DOCUMENTS` 0, `TXT_LINES_OVER_118` 0,
+`TXT_WIDE_PROSE_LINES` 0, `MD_WIDE_PROSE_LINES` 0, `RECORDS_NOT_ONE_H1` 0, `BAD_EOF` 0, `ODD_FENCE` 0,
+`PATCH_SAVER_ENTRIES_OFF_SHAPE` 0, `HISTORY_PARENT_IS_SESSION_BASE` 0.
