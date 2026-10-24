@@ -8696,3 +8696,60 @@ different tool from a workshop blade, and that difference matters more to recogn
 `TECH-GOI-069-3` at 1,121 words and `069-4` at 1,324 remain. Then sets 070 and 073. The 16
 registry-variance records. The 13 chapter files to judge by hand.
 
+## Prompt End Update — 2026-10-24, Namewright 069-3 Closed: Three Of Four, And The Guard Earned Its Place
+
+Owner ruling: finish set 069, the last two.
+
+### The third of the four
+
+| MEASURE | BEFORE | AFTER |
+|---|---|---|
+| Words, `.md` | 1,121 | 2,223 |
+| Words, `.txt` | — | 2,280 |
+| House H2 sections | 4 of 14 | 14 of 14 |
+| Missing sections | 10 | 0 |
+| `TECH_RECORDS_UNDER_1800` | 6 | 5 |
+| `TECH_RECORDS_OFF_SHAPE` | 10 | 9 |
+
+### The record's sharpest point was kept and given a home
+
+`069-3` already argued that the absent jurisdiction is **a finding rather than a gap**: a counterfeit
+aimed at no particular court is harder to detect by comparison, because there is no single genuine
+impression to compare against. That sentence moved into `PHYSICAL OR SYSTEM DESCRIPTION` unchanged, where
+a reader looking for the physical description will actually meet it.
+
+`SERVICING AND CALIBRATION` records a genuine tension the original only implied. Ordinary
+evidence-handling instinct says preserve a seized instrument in the condition it was found, which for a
+stamp would mean cleaning dried ink from the die. Cleaning it here would alter the very surface that
+makes it useful as an authentication reference. **The two interests point the same way, and neither
+permits maintenance.**
+
+`KNOWN LIMITS` names the die comparison as the first thing a future reader should ask for, rather than
+listing it as one gap among six. One die indicates a single workshop; several indicate a supply network.
+It has not been made because it requires handling at Level 5.
+
+### The session-base guard fired in practice
+
+The workspace was re-cloned mid-record and HEAD came back at `a17dfd0` — the exact condition the guard
+added two batches ago exists to catch. Recovery followed the recorded procedure: the `069-3` pair was
+copied out, the tree was reset to `origin`, the pair was written back, and only two files showed as
+modified. **No force-push.** The guard itself was confirmed present in the recovered `check_message.py`.
+
+This is the second time the re-clone has interrupted a record mid-write, and the second time the
+extract-and-replay procedure has worked. It is now proven rather than theoretical.
+
+### Validation
+
+`corpus_numbers.py`: `TECH_RECORDS_OFF_SHAPE` 9, `TECH_RECORDS_UNDER_1800` 5, `TECH_UNPAIRED_TWINS`
+0, `TXT_LINES_OVER_118` 0, `TXT_WIDE_PROSE_LINES` 0, `MD_WIDE_PROSE_LINES` 0, `TXT_BOLD_FILES` 0,
+`BOXDRAW_CHARACTERS` 0, `RECORDS_NOT_ONE_H1` 0, `TITLE_STACK_DOCUMENTS` 0, `BAD_EOF` 0, `ODD_FENCE` 0.
+
+`gate_audit.py`: gates tested 26, fired 26, blind 0.
+
+`PATCH_SAVER_ENTRIES` 129.
+
+### Open
+
+`TECH-GOI-069-4` at 1,324 words — the last of set 069. Then sets 070 and 073. The 16 registry-variance
+records. The 13 chapter files to judge by hand.
+
