@@ -91,7 +91,14 @@ def main(argv):
     failed = False
     for arg in argv:
         md = pathlib.Path(arg)
-        txt = md.parent.parent / "TECH_TXT" / (md.stem + ".txt")
+        # Technology records live in TECH_MD with twins in a sibling TECH_TXT.
+        # Story files keep their twin beside them. Generalised this session after
+        # an inline copy of this converter was used on story files and left bold
+        # markup in the manuscript twin.
+        if md.parent.name == "TECH_MD":
+            txt = md.parent.parent / "TECH_TXT" / (md.stem + ".txt")
+        else:
+            txt = md.with_suffix(".txt")
         txt.parent.mkdir(parents=True, exist_ok=True)
         body = convert(md)
         txt.write_text(body, encoding="utf-8")

@@ -53,6 +53,11 @@ TEXT_TESTS = [
     ("TXT_MD_HEADING_FILES", TX, "append", "\n## Heading\n"),
     ("TXT_MD_RULE_LINES", TX, "append", "\n---\n"),
     ("TXT_MD_ITALIC_SPANS", TX, "append", "\n*emphasised*\n"),
+    # A story twin that drifts from its .md. Target must be a twin whose .md
+    # exists, or the gate has nothing to compare against.
+    ("STORY_TWIN_WORD_DRIFT",
+     f"{DOC}/ACT MAIN STORY/Chapters/Epilogue-00-The-Archive-Still-Breathes.txt",
+     "append", "\n" + ("drift padding words " * 90) + "\n"),
     # Target must be a record the gate currently passes. Pointing this at a record
     # already counted made the audit call it blind: deleting a field from an
     # already-off-shape registry changes nothing.

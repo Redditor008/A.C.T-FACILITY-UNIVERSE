@@ -276,6 +276,7 @@ def main() -> int:
         "DIVISION USE", "CROSS-REFERENCES", "OPEN QUESTIONS", "FILE METADATA",
     ]
     r["TECH_RECORDS_UNDER_1800"] = 0
+    r["STORY_TWIN_WORD_DRIFT"] = 0
     r["TECH_RECORDS_OFF_SHAPE"] = 0
     r["TECH_RECORDS_REGISTRY_OFF_SHAPE"] = 0
     for f in tmd:
@@ -411,6 +412,30 @@ def main() -> int:
         # report a failure that was not there.
         if f.is_file() and f.name != "README.md"
     ) if (STORY / "Chapters").is_dir() else []
+    # Owner ruling: gate the story twins. An inline converter once regenerated the
+    # manuscript twin and left bold markup on ten lines; nothing caught it at the
+    # time. A word-count drift between a story .md and its .txt catches a bad
+    # regeneration immediately, whether the cause is markup, dropped prose or a
+    # partial patch.
+    # A FIXED word tolerance is wrong here and was measured to be wrong: at 25
+    # words this flagged 16 of 21 story pairs, and at a stripped-markup count it
+    # still flagged 16. The story corpus carries systematic prose drift of 40 to
+    # 90 words per chapter, pre-existing and not a defect. A relative tolerance
+    # reads 0 on that baseline and still fires when a regeneration drops a whole
+    # section. NOTE RECORDED FOR THE OWNER: this gate would NOT have caught the
+    # markup leak it was commissioned after, because leaving ** in a line adds no
+    # words. TXT_BOLD_FILES and TXT_BACKTICK_FILES caught that, and read 0.
+    r["STORY_TWIN_WORD_DRIFT"] = 0
+    for f in sorted(STORY.rglob("*.md")):
+        if not f.is_file():
+            continue
+        twin = f.with_suffix(".txt")
+        if not twin.is_file():
+            continue
+        a, b = len(read(f).split()), len(read(twin).split())
+        if max(a, b) and abs(a - b) > 0.10 * max(a, b):
+            r["STORY_TWIN_WORD_DRIFT"] += 1
+
     r["STORY_PARTS_UNDER_1500"] = sum(
         1 for f in chap_files if len(read(f).split()) < 1500
     )

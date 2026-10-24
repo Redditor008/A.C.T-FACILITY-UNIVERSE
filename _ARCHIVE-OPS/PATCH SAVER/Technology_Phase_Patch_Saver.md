@@ -8363,3 +8363,74 @@ for no reason.
 Namewright Bazaar set 069, four records, next. Then sets 070 and 073. The 16 registry-variance records.
 The 13 chapter files still to be judged by hand against RULE 3.3, RULE 3.5 and RULE 4.3.
 
+## Prompt End Update — 2026-10-24, The Converter Generalised And A Twin-Drift Gate Added: 25 Gates
+
+Owner ruling: do both — generalise `md_to_txt.py` to story paths, and add a story-twin lockstep gate.
+
+### The converter now covers story files
+
+`md_to_txt.py` wrote twins into a sibling `TECH_TXT` folder by hard-coded path, which is why an inline
+copy was reached for on the story files last batch. It now branches: technology records still go to
+`TECH_TXT`, everything else gets its twin beside it. The technology behaviour is unchanged — re-running
+it on `TECH-GOI-074-1` still returns 2,322 words, 301 lines, widest 118, 0 markup lines, with an empty
+`git diff --stat`.
+
+### The drift gate, and why its first design was wrong
+
+`STORY_TWIN_WORD_DRIFT` compares each story `.md` against its `.txt` twin. The first version used a
+fixed 25-word tolerance and flagged **16 of 21 pairs**. Stripping markdown from the `.md` before
+counting barely moved it, to 16, which proved the drift is real prose difference and not markup
+tokens. The story corpus carries 40 to 90 words of pre-existing drift per chapter.
+
+The tolerance is now **10 per cent relative**, which reads 1 against that baseline.
+
+### The one it flags is genuine
+
+`00-Story-Index.md` is 331 words and `00-Story-Index.txt` is 78. The `.txt` is a title-only stub; the
+`.md` carries the descriptions. That is a real content difference, not a measurement artefact, and the
+gate is right to name it. Recorded as a finding rather than quietly absorbed into the tolerance.
+
+### What this gate would not have caught
+
+**Recording this plainly, because it is the reason the gate exists.** The defect that prompted it was
+bold markup left standing on ten lines of the manuscript twin. Leaving `**` in a line adds no words.
+A word-count comparison would have read the same number before and after and reported nothing.
+
+`TXT_BOLD_FILES` and `TXT_BACKTICK_FILES` are what actually catch that class of failure, and both read
+0. The drift gate is still worth having — it catches a regeneration that drops a section — but it is
+not the guard that was asked for, and the commission was based on my own misdiagnosis of what went
+wrong.
+
+### Injection payload corrected
+
+The first test appended 120 words to a 1,525-word epilogue. That is 8 per cent, under the tolerance,
+and the audit correctly called the gate **blind**. Raised to 270 words. `gates tested 25 | fired 25 |
+blind 0`.
+
+### The workspace was re-cloned again
+
+`sync.sh` refused with the session base as HEAD, with three tool files modified and uncommitted. They
+were copied to `/tmp`, the tree was reset to `origin`, and the three files were written back before
+anything else ran. Recovered HEAD `db80010`, epilogue confirmed at 1,525 words.
+
+A generalised converter was then run on a story file and it **reformatted the committed outline twin**,
+adding 14 lines. That twin was restored with `git checkout --`. The existing story twins were not
+produced by this converter, so running it over them is a rewrite, not a refresh. **Recorded as a rule:
+`md_to_txt.py` may generate a twin that does not exist, and must not be run over one that does.**
+
+### Validation
+
+`corpus_numbers.py`: `STORY_TWIN_WORD_DRIFT` 1, `STORY_PARTS_UNDER_1500` 0,
+`STORY_MANUSCRIPT_LOCKSTEP_FAILURES` 0, `TXT_BOLD_FILES` 0, `TXT_BACKTICK_FILES` 0,
+`TXT_LINK_FILES` 0, `TXT_MD_HEADING_FILES` 0, `TXT_WIDE_PROSE_LINES` 0, `MD_WIDE_PROSE_LINES` 0,
+`TECH_RECORDS_OFF_SHAPE` 12, `TECH_RECORDS_UNDER_1800` 8, `DOCUMENT_COUNT` 1026.
+
+`gate_audit.py`: **gates tested 25, fired 25, blind 0**.
+
+`PATCH_SAVER_ENTRIES` 123.
+
+### Open
+
+Namewright Bazaar set 069. Then sets 070 and 073. The 16 registry-variance records. The story index
+`.txt` stub. The 13 chapter files to judge by hand.
+
