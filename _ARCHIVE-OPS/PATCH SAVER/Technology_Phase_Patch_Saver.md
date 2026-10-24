@@ -8941,3 +8941,46 @@ the pages were separated further. That has not been done, and saying so is the o
 `TECH-GOI-070-2`, `070-3`, `070-4`, then `073-1` through `073-4`. Seven records remain, and the four
 Lantern Accord records are the last four under the word floor. The 13 chapter files to judge by hand.
 
+
+---
+
+## Prompt End Update — 2026-10-24, TECH-GOI-070-2 Restructured To House Shape
+
+### What was changed
+
+`TECH-GOI-070-2` Saint Morrow Passage Route Bell was off-shape: it had four of the fourteen house H2s and
+none of the eight registry fields, and its content sat under two headings of its own — THE FITTING with
+subsections 1.1 through 1.4, and HANDLING with 2.1 through 2.9. Nothing was written that the dossier does
+not support.
+
+The two headings were retired and every subsection folded into the house shape. The 1.1 and 2.8 passages
+became FUNCTION SUMMARY, the 2.1 custody passage ORIGIN AND CUSTODY, the 1.2 construction passage PHYSICAL
+OR SYSTEM DESCRIPTION, the inference from mounting position to construction TECHNICAL SPECIFICATION, the
+custody prohibitions and the permitted strike INTERFACE AND OPERATING ENVELOPE, the 2.2 and 2.3 passages
+OPERATING PROCEDURE, the 2.4 and 2.7 passages SERVICING AND CALIBRATION, the 2.6 fault table FAULT
+ISOLATION, the 1.4 negative definitions and the unresolved questions KNOWN LIMITS, and the 2.9 comparison
+CROSS-REFERENCES.
+
+The Passage's own eight-step sequence, marked as not a Facility procedure, moved under OPERATING PROCEDURE
+as an H3 so the prohibition and the sequence are no longer separated by six sections.
+
+The physical specification table was extended with a functional row and a condition-on-recovery row, both
+recorded as not established and both sourced to Dossier silent. FAILURE HISTORY gained its first real
+entry, which is the absence of one, together with the unresolved question of whether the bell was mounted
+when recovered.
+
+### What was verified
+
+`TECH_RECORDS_OFF_SHAPE` and `TECH_RECORDS_REGISTRY_OFF_SHAPE` both read 7 before this change and both read
+6 after, from `corpus_numbers.py`, which is the figure that governs record structure. The gate suite reads
+`gates tested 26 | fired 26 | blind 0`.
+
+`TECH_RECORDS_UNDER_1800` still reads 4. This record was already above the floor at 1,855 words, so the
+change is structural only.
+
+The record reads 2,482 words with fourteen house H2s, and `md_to_txt.py` rendered the twin at 2,533 words,
+328 lines, widest line 118, zero markup lines.
+
+Corpus-wide checks: `TECH_RECORDS` 242, `TECH_UNPAIRED_TWINS` 0, `TXT_BOLD_FILES` 0,
+`BOXDRAW_CHARACTERS` 0, `TITLE_STACK_DOCUMENTS` 0, `TXT_LINES_OVER_118` 0, `TXT_WIDE_PROSE_LINES` 0,
+`MD_WIDE_PROSE_LINES` 0, `RECORDS_NOT_ONE_H1` 0, `BAD_EOF` 0, `ODD_FENCE` 0.
