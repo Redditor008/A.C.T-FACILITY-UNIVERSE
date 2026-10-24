@@ -8218,3 +8218,79 @@ A new injection kind `drop_line` was added to `gate_audit.py` for this.
 The 12 off-shape records in sets 069, 070 and 073. The 16 registry-variance records. The 13 chapter
 files remain to be judged by hand.
 
+## Prompt End Update — 2026-10-24, Full Validation Sweep Of All 24 Gates: One Further False Positive
+
+Owner ruling: re-validate all 24 gates against known-good records, the way the off-shape gate was
+validated, in case others over-report too. Namewright Bazaar set 069 is the next content batch.
+
+### What the sweep covered
+
+`gate_audit.py` proves a gate **fires**. It cannot prove a gate measures the **right thing** — that was
+the lesson the off-shape gate taught across five corrections. So the sweep took every gate with a
+non-zero reading and opened the records behind it.
+
+Five gates read non-zero:
+
+| GATE | VALUE | VERDICT |
+|---|---|---|
+| `MD_WIDE_LINK_LINES` | 352 | **real and accepted** — atomic rows carrying a link target, by owner ruling |
+| `TECH_RECORDS_UNDER_1800` | 8 | **real** — hand-listed earlier this session |
+| `TECH_RECORDS_OFF_SHAPE` | 12 | **real** — sets 069, 070 and 073 |
+| `TECH_RECORDS_REGISTRY_OFF_SHAPE` | 16 | **real** — field tally confirmed, `PRIMARY CONTROLLER` and `ATTACHED DIVISIONS` missing from all 16 |
+| `STORY_PARTS_UNDER_1500` | 1 | **false positive** |
+
+### The sixth false positive of the session
+
+`STORY_PARTS_UNDER_1500` reads 1, and the one file it counts is
+`Epilogue-00-The-Archive-Still-Breathes.md` at **812 words**.
+
+An epilogue is not a chapter. Applying a 1,500-word chapter floor to it is the same category of error
+as the heading gate: a rule written for one kind of document, applied to a different kind that
+satisfies its own requirements. The epilogue is short because it is an epilogue.
+
+Widening the scan to the whole story folder finds 6 files under 1,500 words — `00-Story-Index.md` at
+331, the chapter outline at 668, the epilogue at 812, the archive at 1,000, the narrative at 1,248 and
+the character profiles at 1,288. **Five of those six are navigation and reference files that were never
+chapters.** The gate correctly restricts itself to `Chapters/`, so it counts only the epilogue — but
+counting the epilogue at all is the defect.
+
+Recorded, not changed. Whether the epilogue should be exempt from the chapter floor is an owner
+decision, not a measurement, and this entry does not make it.
+
+### The other 19 gates
+
+All read 0, and all are covered by an injection test that fires. Reading 0 is weaker evidence than
+firing — a blind gate also reads 0 — which is exactly why the audit exists. None of the 19 is
+suspected of over-reporting, because an over-reporting gate reads high, not zero.
+
+### The session's tally of false positives
+
+Six in one session, five of them from the heading gate and one from the story floor:
+
+| # | GATE | DEFECT |
+|---|---|---|
+| 1 | off-shape | exact heading name |
+| 2 | off-shape | phrase-before-`AND` key |
+| 3 | off-shape | punctuation kept on the first word |
+| 4 | off-shape | hyphenated singular `CROSS-REFERENCE` |
+| 5 | off-shape | house phrase appearing later in the heading |
+| 6 | story floor | chapter word floor applied to an epilogue |
+
+**The standing standard holds: a gate that matches a name or a shape must be tested against a record
+known to be correct, not only against a defect injected into one.**
+
+### Validation
+
+`corpus_numbers.py`: `TECH_RECORDS_OFF_SHAPE` 12, `TECH_RECORDS_REGISTRY_OFF_SHAPE` 16,
+`TECH_RECORDS_UNDER_1800` 8, `STORY_PARTS_UNDER_1500` 1, `MD_WIDE_LINK_LINES` 352,
+`STORY_CHAPTER_MD_FILES` 14, `TECH_RECORDS` 242, `DOCUMENT_COUNT` 1026.
+
+`gate_audit.py`: gates tested 24, fired 24, blind 0.
+
+`PATCH_SAVER_ENTRIES` 121.
+
+### Open
+
+Namewright Bazaar set 069, four records, next. Then sets 070 and 073. The 16 registry-variance
+records. Whether the epilogue is exempt from the chapter floor. The 13 chapter files to judge by hand.
+
