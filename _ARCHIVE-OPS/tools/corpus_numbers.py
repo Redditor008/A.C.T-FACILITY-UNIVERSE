@@ -269,7 +269,11 @@ def main() -> int:
     # `__pycache__` is Python bytecode written by running the tools in this folder.
     # It is a build artifact and can never need a README, but it appeared the moment
     # the tools were executed and took the figure from 0 to 1.
-    _skip = {".git", ".arena", "Logo", "docs", "node_modules", "__pycache__"}
+    # `.github` holds workflow definitions rather than archive content, so it is
+    # exempt for the same reason `Logo` and `docs` are: there is nothing in it for
+    # a reader to be orientated inside. Found when CI ran on a fresh checkout and
+    # reported two folders the local workspace had not yet grown.
+    _skip = {".git", ".arena", ".github", "Logo", "docs", "node_modules", "__pycache__"}
     # Owner ruling 2026-10-24: a README that renders is not the same as a README
     # worth reading. The first 24 were generated with a correct shape and nothing to
     # say, and no gate complained because none tested quality.

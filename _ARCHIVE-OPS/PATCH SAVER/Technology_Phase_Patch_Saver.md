@@ -10287,3 +10287,28 @@ actually produces: 35 listed, 35 present, 0 listed but absent.
 `ci_check.py` reads `defect keys checked: 35` and `all defect keys read 0`. `gate_audit.py` reads
 `gates tested 30 | fired 30 | blind 0`. The workflow parses as valid YAML with two jobs, `gates` and `figures`,
 triggered on push and pull request.
+
+---
+
+## Prompt End Update — 2026-10-24, CI Ran, One Job Failed, Cause Found And Fixed
+
+The workflow ran on its first push. Run 40174504581 completed with the Gate injection suite passing in 50
+seconds and the Corpus defect figures job failing with exit code 1.
+
+The job log could not be read from here because the log host sits outside the sandbox network allowlist, so
+the CI condition was reproduced instead by cloning the branch and running the check in the clone. It failed the
+same way, reporting `FOLDERS_WITHOUT_README 2`.
+
+The two folders were `.github` and `.github/workflows`, created in the previous commit, and the folder README
+gate did not exempt them.
+
+The reason the local check had passed is the actual lesson. `ci_check.py` was run before `.github` existed and
+was not run again afterwards, so the measurement described the tree as it had been rather than as it was about
+to be shipped. A check run before the change it is meant to cover is not a check on that change.
+
+`.github` was added to the gate's skip list beside `Logo` and `docs`, for the same reason: it holds workflow
+definitions rather than archive content, so there is nothing in it for a reader to be orientated inside. The
+comment in the tool records that it was found by CI on a fresh checkout.
+
+After the fix, `ci_check.py` reads `defect keys checked: 35` and `all defect keys read 0` both in the working
+tree and in a clean clone that contains `.github`. `gate_audit.py` reads `gates tested 30 | fired 30 | blind 0`.
