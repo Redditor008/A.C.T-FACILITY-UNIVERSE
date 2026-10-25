@@ -10312,3 +10312,52 @@ comment in the tool records that it was found by CI on a fresh checkout.
 
 After the fix, `ci_check.py` reads `defect keys checked: 35` and `all defect keys read 0` both in the working
 tree and in a clean clone that contains `.github`. `gate_audit.py` reads `gates tested 30 | fired 30 | blind 0`.
+
+---
+
+## Prompt End Update — 2026-10-25, Category IX Anomaly Log Added: MACHINE Heart Transformation Dossier
+
+Owner asked for an anomaly log in one of the log categories.
+
+### Why Category IX
+
+The doctrine `ACT_Anomaly_Log_Categories_In_World_Explanation.md` defines twelve categories. Counting existing
+logs against them, Category IX Transformation and Utilization held the fewest files of any category, one
+against ten and eleven in the two largest. It is also the category closest to the premise of the setting, since
+containment becoming transformation is the question the whole archive is built around. Filling the thinnest
+category was worth more than adding to a thick one.
+
+### The subject
+
+`MACHINE-Heart-AFD-OB-017` was chosen because its primary file records `TRANSFORMATION VIABILITY: INVIOLABLE`.
+That makes it the correct Category IX subject rather than a poor one. The doctrine states that Transformation
+Dossiers must preserve failed attempts and rejected proposals, and that the category is used when use is
+prohibited but repeatedly proposed. A dossier for this object records the prohibition and the reasoning behind
+it, which is exactly what the category is for.
+
+### What was written and what it rests on
+
+1,136 words, five proposal entries spanning 2002 to 2021, a standing prohibited use notice, an assessment, and
+a section naming what the dossier does not know. Every factual claim about the anomaly is drawn from the primary
+file: the 18 cm by 31 cm torso slot, the rejection of ordinary fuel and batteries, selection at up to 42 m by
+visual perception, the 1 m activation zone, the 3 m radius exclusion field, the 24 to 96 hour rest-state and the
+reported aftereffects, and the longest confirmed activation at 11 days, 6 hours and 14 minutes. Nothing was
+invented. Where a proposal assumed something the primary file does not carry, the assumption is named inside the
+entry rather than adopted as fact.
+
+Dates fall inside 1598 to 2026 and after the 2001 detection date. No entry records a live trial, because none
+was run.
+
+### Pre-existing defect found, not fixed
+
+The sibling log `MACHINE-Heart-Experiment-Testing-Dossier-AFD-OB-017.txt` labels itself `CATEGORY IV —
+Experiment & Testing Dossier`. The doctrine assigns Experiment and Testing to Category III; Category IV is
+Incident and Breach. This is pre-existing content and was left alone under the standing rule against unilateral
+changes to owner content. Flagged for a decision.
+
+### Verification
+
+`ANOMALY_FILES` 183 to 184. Category IX holds 2 files. `ci_check.py` reads defect keys checked 35 and all defect
+keys read 0. `gate_audit.py` reads tested 30 fired 30 blind 0. `TXT_LINES_OVER_118` 0, `TXT_WIDE_PROSE_LINES` 0,
+`BOXDRAW_CHARACTERS` 0, `TXT_BOLD_FILES` 0, `TXT_LINK_FILES` 0, `TXT_NARROW_BAR_LINES` 0. Widest line in the new
+file is 81 characters.

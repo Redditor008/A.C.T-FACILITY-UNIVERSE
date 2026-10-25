@@ -1,0 +1,169 @@
+A.C.T FACILITY — TRANSFORMATION & UTILIZATION DOSSIER
+MACHINE-Heart-Transformation-Utilization-Dossier-AFD-OB-017
+
++----------------------------------------------------------------------------+
+|           A.C.T FACILITY — TRANSFORMATION & UTILIZATION DOSSIER            |
+|                     Anomaly Containment Transformation                     |
++----------------------------------------------------------------------------+
+
+DESIGNATION:         AFD-OB-017
+TITLE I:             MACHINE Heart
+TITLE II:            THE GUARDIAN THAT MAKES ITS OWN TRESPASSERS
+FIELD TYPE:          OB — Object / animated machine-golem / Heart-Signal
+                     activation artifact
+PRIMARY FILE:        MACHINE-Heart-AFD-OB-017
+DOCUMENT CATEGORY:   CATEGORY IX — Transformation & Utilization Dossier
+CATEGORY FUNCTION:   Record of proposals to stabilize, repurpose, integrate, or
+                     utilize the anomaly, and of the standing prohibition against
+                     doing so.
+TRANSFORMATION       INVIOLABLE — as recorded in the primary file. No
+VIABILITY:           utilization pathway is open at this clearance.
+CLEARANCE REQUIRED:  Level 4
+CONTAINMENT SITE:    ACT-SITE-01-US-W — Redwood Veil Complex / vertical
+                     machine chamber
+JURISDICTIONAL       Anomalous Machinery Review / Transformation Review
+AUTHORITY:           Board / Central Archive Administration
+ARCHIVE STATUS:      Active / machinery-hazard restricted
+DOSSIER STATUS:      Closed to new proposals — prohibition standing
+
++----------------------------------------------------------------------------+
+|                             CATEGORY CONTENTS                              |
++----------------------------------------------------------------------------+
+
+This dossier does not describe a successful transformation. It exists
+because
+Category IX requires that rejected proposals be preserved rather than
+discarded. A rejected proposal is the record of a question a later officer
+will ask again, and the reasoning that answered it the first time is worth
+more than the answer alone.
+
+The primary file records AFD-OB-017 with a transformation viability of
+INVIOLABLE. Every entry below was closed against that finding. None of them
+was closed because the proposal was judged uninteresting.
+
++----------------------------------------------------------------------------+
+|                           PROHIBITED USE NOTICE                            |
++----------------------------------------------------------------------------+
+
+No Heart-Signal medium of any kind is to be introduced into the containment
+chamber, for testing, for demonstration, for calibration, or for study. The
+primary file states this as an absolute and this dossier does not soften it.
+
+The prohibition does not rest on the hazard alone. It rests on the fact that
+activation requires a person. AFD-OB-017 cannot be fueled, started, or
+trialed by any means that does not begin with a chosen subject walking
+toward it. Every utilization question about this object is therefore also a
+question about who is going to be handed to it, and that is the question the
+Transformation Review Board has declined to answer in the affirmative.
+
++----------------------------------------------------------------------------+
+|                                PROPOSAL LOG                                |
++----------------------------------------------------------------------------+
+
+LOG ID:              AFD-OB-017/TRN-001
+DATE:                2002-03-14
+LOCATION:            Anomalous Machinery Review
+AUTHOR:              Field Containment Division
+STATUS:              Rejected
+
+Proposed that the inert Stage One frame be studied as a structural material
+source, on the grounds that an unpowered machine cannot act. Rejected. The
+primary file records that the anomaly produces no heat, sound, exhaust, or
+measurable electrical activity while the slot is empty, which makes it
+appear inert, but the same file records that selection occurs at up to 42 m
+through visual perception alone. Sampling the frame means putting personnel
+in line of sight of an object that chooses people by looking at them. The
+proposal was closed without a physical trial.
+
+LOG ID:              AFD-OB-017/TRN-002
+DATE:                2004-11-02
+LOCATION:            Transformation Review Board
+AUTHOR:              Object Containment Division
+STATUS:              Rejected
+
+Proposed that a synthetic Heart-Signal analogue be manufactured so that the
+anomaly could be activated without a human subject. Rejected on two grounds.
+The primary file records that the torso slot rejects ordinary fuel,
+batteries, keys, tools, coins, and data storage devices, and accepts only a
+Heart-Signal produced during the activation sequence, which is to say
+produced from a person. No synthetic substitute has been demonstrated. The
+proposal also assumed that the compulsion phrase could be separated from the
+subject who speaks it, and the selection method is recorded as unknown.
+
+LOG ID:              AFD-OB-017/TRN-003
+DATE:                2009-06-27
+LOCATION:            Transformation Review Board
+AUTHOR:              Containment Engineering
+STATUS:              Rejected
+
+Proposed that the Stage Two exclusion field be redirected outward and used
+as a perimeter denial asset. Rejected. The field is recorded as a 3 m radius
+NO Sentient Heart Signature zone in which the anomaly attempts to extinguish
+or remove signatures from the area, and the anomaly does not distinguish
+between security staff, care personnel, rescuers, observers, or accidental
+entrants. A perimeter asset that cannot tell a guard from an intruder is not
+a perimeter asset. The longest confirmed Stage Two activation ran 11 days, 6
+hours, and 14 minutes, so a fielded unit would also have been an asset that
+could not be stood down on demand.
+
+LOG ID:              AFD-OB-017/TRN-004
+DATE:                2015-02-19
+LOCATION:            Transformation Review Board / Medical
+AUTHOR:              Medical Division
+STATUS:              Rejected
+
+Proposed that the post-activation rest-state be studied as a reversible
+sedation pathway. Rejected. Subjects have awakened after 24 to 96 hours
+under controlled care and have reported feeling hollow, quiet, or watched
+from inside a machine for several days afterward. The primary file records
+the rest-state as deep but stable, not as harmless. A sedation pathway whose
+recovery is measured in days and whose aftereffect is a persistent sense of
+being inhabited is not a sedation pathway. Medical closed the proposal and
+requested that it not be reopened at a lower clearance.
+
+LOG ID:              AFD-OB-017/TRN-005
+DATE:                2021-08-30
+LOCATION:            Anomalous Machinery Review
+AUTHOR:              Archiver Division
+STATUS:              Closed — no action
+
+Raised on the twentieth anniversary of verification, asking whether the
+INVIOLABLE finding should be re-examined given advances in remote
+manipulation. Closed without reopening. The finding does not rest on a
+limitation of remote equipment. It rests on the fact that the activation
+medium is a person, which no improvement in remote handling changes. The
+question was answered by reference to the primary file rather than by a new
+review, and the answer was recorded here so that the next officer asking it
+finds the reasoning already written down.
+
++----------------------------------------------------------------------------+
+|                                 ASSESSMENT                                 |
++----------------------------------------------------------------------------+
+
+Every proposal in this dossier asked a reasonable question. The frame is
+inert without a Heart-Signal. The field is powerful. The rest-state is
+reversible. Taken one at a time, each of those facts looks like an
+opportunity, and that is why the proposals kept arriving across nineteen
+years.
+
+They all fail at the same place. The machine does not run on anything that
+is not a person, and it will not stop defending the person it took. A.C.T
+has no use for an asset whose fuel is a subject and whose first act on
+being switched on is to build a zone nobody can be alive inside. The
+correct transformation of AFD-OB-017 is the one already performed: it was
+recovered, its slot was left empty, and it was left that way.
+
+This dossier is preserved so that the nineteenth year is not followed by a
+twentieth.
+
++----------------------------------------------------------------------------+
+|                             DOSSIER SILENT ON                              |
++----------------------------------------------------------------------------+
+
+The selection method is recorded as unknown in the primary file and remains
+unknown here. No proposal in this log was tested against a live anomaly, so
+this dossier records no experimental results, only reasoning applied to the
+primary file. Where a proposal assumed a fact the primary file does not
+carry, the assumption is named in the entry rather than adopted.
+
+END OF FILE
