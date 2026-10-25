@@ -238,6 +238,40 @@ def main() -> int:
             if not (p.parent / urllib.parse.unquote(tgt.split("#")[0])).resolve().exists():
                 r["README_BROKEN_LINKS"] += 1
                 break
+    # Owner finding: six Experiment & Testing dossiers claimed CATEGORY IV, which
+    # the doctrine reserves for Incident & Breach. The correct number is III. The
+    # gate parses the canonical list out of the doctrine rather than hardcoding it,
+    # so it stays correct if a category is ever renamed. Files with no DOCUMENT
+    # CATEGORY line are deliberately not counted: the Log folders also hold
+    # recovered in-world artefacts, memoranda, personnel dossiers and side tales,
+    # which are not Anomaly Log Category documents and correctly carry no such line.
+    _cat_doc = ROOT / ("A.C.T Universe Document/A.C.T .md Document/"
+                       "ACT_Anomaly_Log_Categories_In_World_Explanation.md")
+    r["LOG_CATEGORY_MISMATCHES"] = 0
+    if _cat_doc.is_file():
+        _canon = {m.group(1): re.sub(r"[^a-z]", "", m.group(2).lower())
+                  for m in re.finditer(r"^## CATEGORY (\w+) \u2014 (.+?)\s*$",
+                                       read(_cat_doc), re.M)}
+        _norm = lambda x: re.sub(r"[^a-z]", "", x.lower())
+        _anom = ROOT / "A.C.T Universe Document/A.C.T Anomaly Document"
+        for p in sorted(_anom.rglob("*.txt")):
+            if not p.is_file() or "Log" not in p.parent.name:
+                continue
+            text = read(p)
+            m = re.search(r"DOCUMENT CATEGORY:\s*(.*?)(?:\n(?!\s{20})|\Z)", text, re.S)
+            if not m:
+                continue
+            line = re.sub(r"\s+", " ", m.group(1)).strip()
+            mm = re.match(r"CATEGORY\s+(\w+)\s*[\u2014-]\s*(.+)", line)
+            if not mm:
+                r["LOG_CATEGORY_MISMATCHES"] += 1
+                continue
+            num, name = mm.group(1), _norm(mm.group(2))
+            exp = _canon.get(num)
+            if exp is None:
+                r["LOG_CATEGORY_MISMATCHES"] += 1
+            elif not (name == exp or exp in name or name in exp):
+                r["LOG_CATEGORY_MISMATCHES"] += 1
     r["TITLE_STACK_DOCUMENTS"] = 0
     for p in md:
         ls = read(p).split("\n")

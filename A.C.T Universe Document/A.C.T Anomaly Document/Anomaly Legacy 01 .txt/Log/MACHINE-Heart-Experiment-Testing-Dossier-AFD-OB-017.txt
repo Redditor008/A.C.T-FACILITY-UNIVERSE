@@ -12,7 +12,7 @@ TITLE II:            THE GUARDIAN THAT MAKES ITS OWN TRESPASSERS
 FIELD TYPE:          OB — Object / animated machine-golem / Heart-Signal
                      activation artifact
 PRIMARY FILE:        MACHINE-Heart-AFD-OB-017
-DOCUMENT CATEGORY:   CATEGORY IV — Experiment & Testing Dossier
+DOCUMENT CATEGORY:   CATEGORY III — Experiment & Testing Dossier
 CATEGORY FUNCTION:   Inert-state verification, slot-rejection testing,
                      activation-sequence records, and Stage Two guardian-state
                      observation.

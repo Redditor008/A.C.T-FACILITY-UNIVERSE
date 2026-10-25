@@ -94,6 +94,12 @@ TEXT_TESTS = [
      "append", "Filters changed. seal grids recalibrated. pressure lines held."),
     # A README the link gates currently pass. The payload points at a file that
     # does not exist, which is the exact defect a reader hits first.
+    # An Experiment and Testing dossier that currently reads CATEGORY III, which
+    # is correct. Flipping it to IV is the defect the gate exists to catch.
+    ("LOG_CATEGORY_MISMATCHES",
+     "A.C.T Universe Document/A.C.T Anomaly Document/Anomaly Legacy 01 .txt/Log/"
+     "MACHINE-Heart-Experiment-Testing-Dossier-AFD-OB-017.txt",
+     "recat", None),
     ("README_BROKEN_LINKS",
      "A.C.T Universe Document/Junior Handbook/README.md",
      "append", "[Missing](This-File-Does-Not-Exist.md)"),
@@ -146,6 +152,16 @@ def main() -> int:
                     words[len(words) // 2] = words[len(words) // 2] + "s"
                     tgt.write_text(
                         "\n\n".join(paras[:2] + [" ".join(words)] + paras[2:]),
+                        encoding="utf-8",
+                    )
+                elif kind == "recat":
+                    # Swap the category number on the DOCUMENT CATEGORY line only.
+                    # This is the exact defect the owner found by hand: an
+                    # Experiment and Testing dossier claiming CATEGORY IV, which
+                    # the doctrine reserves for Incident and Breach.
+                    tgt.write_text(
+                        re.sub(r"(DOCUMENT CATEGORY:\s*)CATEGORY\s+III",
+                               r"\1CATEGORY IV", orig),
                         encoding="utf-8",
                     )
                 elif kind == "strip_links":

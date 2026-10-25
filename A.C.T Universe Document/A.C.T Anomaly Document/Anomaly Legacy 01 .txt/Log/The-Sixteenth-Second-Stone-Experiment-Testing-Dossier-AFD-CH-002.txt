@@ -12,7 +12,7 @@ TITLE II:            THE SMALL STAR THAT THINS TIME
 FIELD TYPE:          CH — Cosmic Hazard / object-presenting anomaly /
                      localized temporal dilution
 PRIMARY FILE:        The-Sixteenth-Second-Stone-AFD-CH-002
-DOCUMENT CATEGORY:   CATEGORY IV — Experiment & Testing Dossier
+DOCUMENT CATEGORY:   CATEGORY III — Experiment & Testing Dossier
 CATEGORY FUNCTION:   Temporal-dilution threshold mapping,
                      reflected-observation testing, media-capture records, and
                      continuity-injury review.

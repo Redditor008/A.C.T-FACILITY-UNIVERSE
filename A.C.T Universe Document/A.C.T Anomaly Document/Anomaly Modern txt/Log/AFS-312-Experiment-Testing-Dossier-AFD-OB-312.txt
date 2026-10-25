@@ -11,7 +11,7 @@ TITLE I:             AFS-312 (Anti Force Shock-312)
 TITLE II:            THE SOLAR RAILGUN / THE LIGHTNING STRIKE FROM TOMORROW
 FIELD TYPE:          OB — Object (unknown temporal origin)
 PRIMARY FILE:        AFS-312-Anti-Force-Shock-AFD-OB-312
-DOCUMENT CATEGORY:   CATEGORY IV — Experiment & Testing Dossier
+DOCUMENT CATEGORY:   CATEGORY III — Experiment & Testing Dossier
 CATEGORY FUNCTION:   Charge-cycle calibration, firing-mode discharge tests,
                      and calibration-anomaly records for the solar railgun.
 CLEARANCE REQUIRED:  Level 3 / Tactical Review Desk

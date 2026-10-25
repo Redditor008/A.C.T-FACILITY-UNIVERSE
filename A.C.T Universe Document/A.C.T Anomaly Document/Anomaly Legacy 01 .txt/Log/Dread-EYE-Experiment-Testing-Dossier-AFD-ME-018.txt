@@ -11,7 +11,7 @@ TITLE I:             Dread EYE
 TITLE II:            THE PUPIL THAT TEACHES FEAR TO LOOK BACK
 FIELD TYPE:          ME — Memetic / visual-symbolic fear induction anomaly
 PRIMARY FILE:        Dread-EYE-AFD-ME-018
-DOCUMENT CATEGORY:   CATEGORY IV — Experiment & Testing Dossier
+DOCUMENT CATEGORY:   CATEGORY III — Experiment & Testing Dossier
 CATEGORY FUNCTION:   Exposure-stage mapping, medium-persistence and
                      fragmentation testing, origin-trace review, and
                      recovery-protocol trials for the Dread EYE symbol.

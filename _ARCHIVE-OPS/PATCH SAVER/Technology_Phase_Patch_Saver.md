@@ -10541,3 +10541,60 @@ gate_audit.py reads tested 30 fired 30 blind 0. TXT_LINES_OVER_118 0, TXT_WIDE_P
 BOXDRAW_CHARACTERS 0, TXT_BOLD_FILES 0, TXT_LINK_FILES 0, TXT_NARROW_BAR_LINES 0. Widest line in the new file is
 80 characters. The file carries no markdown heading lines, ends with END OF FILE, and has a clean trailing
 newline.
+
+---
+
+## Prompt End Update — 2026-10-25, Six Category Mislabels Fixed And Gated
+
+### The measurement
+
+The owner asked for the scope of the mislabel found in the previous session. The twelve canonical categories
+were parsed out of `ACT_Anomaly_Log_Categories_In_World_Explanation.md` rather than hardcoded, and the
+`DOCUMENT CATEGORY` line of every log in all three Log folders was checked against them.
+
+91 log files scanned, 14 flagged, 6 genuine mislabels. All six were Experiment and Testing dossiers claiming
+CATEGORY IV, which the doctrine reserves for Incident and Breach. The doctrine assigns Experiment and Testing to
+CATEGORY III. One occurrence each.
+
+Dread-EYE-AFD-ME-018, MACHINE-Heart-AFD-OB-017, Shadow-Shark-AFD-SU-010, The-Sixteenth-Second-Stone-AFD-CH-002,
+AFS-312-AFD-OB-312, DONT-DENIED-AFD-IH-721. Four in the legacy Log folder, two in the modern Log folder. No
+markdown twins, so six files and nothing else.
+
+### The other 8 flags were not defects
+
+They carry no DOCUMENT CATEGORY line because they are not Anomaly Log Category documents. Two are recovered
+in-world artefacts, a lyric manuscript and a diary. Two are internal memoranda. One is a personnel dossier. One
+is a side tale. Each carries its own correct document header. Counting them would have been the scan being
+naive rather than the archive being wrong, and the new gate excludes them on that basis.
+
+### The fix
+
+CATEGORY IV became CATEGORY III on the DOCUMENT CATEGORY line only, in six files. No other occurrence of the
+string exists in any of them, which was measured before editing rather than assumed. Remaining mismatches after
+the edit: 0.
+
+### The gate
+
+`LOG_CATEGORY_MISMATCHES` parses the canonical twelve out of the doctrine at run time and checks every log's
+category number and name against it. Parsing rather than hardcoding means the gate stays correct if a category
+is ever renamed. It counts a roman numeral absent from the doctrine and a name that does not match the number
+carrying it. Files with no category line are not counted.
+
+A new injection kind `recat` swaps III for IV on the category line, which is the exact defect the owner found.
+The gate reads 0 and fires to 1 under injection.
+
+### A defect in the gate installation, caught
+
+The first attempt to add the new key to the enforced list in `ci_check.py` used a replacement anchor with four
+leading spaces that did not match the file, because that entry sits at the end of a line rather than at its
+start. The script printed that it had inserted the key and had changed nothing. The check still reported 35 keys
+rather than 36, which is how the failed edit was caught. Redone with a pattern that matches the token wherever
+it sits. Enforced keys are now 36.
+
+The lesson is that a replace which reports success without counting its replacements is not verified. The second
+attempt asserts on the replacement count.
+
+### Verification
+
+ANOMALY_FILES 187. ci_check.py reads defect keys checked 36 and all read 0, exit 0. gate_audit.py reads
+tested 31 fired 31 blind 0, up from 30. TXT_LINES_OVER_118 0, TXT_WIDE_PROSE_LINES 0.

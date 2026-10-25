@@ -11,7 +11,7 @@ TITLE I:             DONT DENIED
 TITLE II:            THE OBJECTIVE CUBE / THE UNDENIABLE TRUTH
 FIELD TYPE:          IH — Info Hazard / ME — Memetic (Cognitive Constraint)
 PRIMARY FILE:        DONT-DENIED-AFD-IH-721
-DOCUMENT CATEGORY:   CATEGORY IV — Experiment & Testing Dossier
+DOCUMENT CATEGORY:   CATEGORY III — Experiment & Testing Dossier
 CATEGORY FUNCTION:   Veracity-constraint trials, descriptive-limit mapping,
                      post-exposure persistence review, and training-tool
                      feasibility study.
