@@ -10434,3 +10434,59 @@ internal-only sealed narrative status. Nothing was invented. Dates fall after th
 ANOMALY_FILES 186. Category X holds 3 files. ci_check.py reads defect keys checked 35 and all read 0.
 TXT_LINES_OVER_118 0, TXT_WIDE_PROSE_LINES 0, BOXDRAW_CHARACTERS 0, TXT_BOLD_FILES 0, TXT_LINK_FILES 0. Widest
 line in the new file is 81 characters.
+
+---
+
+## Prompt End Update — 2026-10-25, Session Handoff: State Clean, One Open Item
+
+Owner stopped the session deliberately to continue in a new prompt. This entry is the handoff.
+
+### State at stop
+
+Branch is in sync with its remote, working tree clean, nothing unpushed. CI ran on the final commit and both
+jobs completed successfully. All 30 gates fire on injected defects, none blind. All 35 tracked defect keys read
+0. ANOMALY_FILES 186.
+
+### What this session shipped
+
+Three new anomaly logs were written, in two different categories, each grounded only in its own primary file with
+nothing invented and each carrying a closing section naming what the file does not know.
+
+`MACHINE-Heart-Transformation-Utilization-Dossier-AFD-OB-017.txt`, Category IX, 1136 words. Its subject carries
+a transformation viability of INVIOLABLE, so the log records a standing prohibition and five rejected proposals
+across 2002 to 2021.
+
+`ISs-Anny-Transformation-Utilization-Dossier-AFD-SU-005.txt`, Category IX, 976 words. Its subject carries
+STABILIZED, so the log records a subject made safe to keep rather than made into a tool, with two proposals to
+copy or query her archive core rejected.
+
+`OBSERVING-BIRD-Internal-Correspondence-Dossier-AFD-CH-014.txt`, Category X, 882 words. The doctrine names this
+exact filename as its worked example for the category and the file did not exist, so writing it filled the
+doctrine's own example. It records the argument over whether the entity is an instrument or a hazard.
+
+Earlier the same session: 200 README paths became clickable links, five dead-end READMEs were closed, the
+Chapters README chapter count was corrected, a navigational head was added to the technology index, CI was added
+with two jobs and a new tool `ci_check.py` enforcing 35 defect keys, and the folder README gate learned to exempt
+`.github`.
+
+### The one open item
+
+`MACHINE-Heart-Experiment-Testing-Dossier-AFD-OB-017.txt` labels itself `CATEGORY IV — Experiment & Testing
+Dossier`. The doctrine `ACT_Anomaly_Log_Categories_In_World_Explanation.md` assigns Experiment and Testing to
+CATEGORY III, and reserves CATEGORY IV for Incident and Breach.
+
+Only that one file was checked. The scope of the mislabel across the other 60-plus logs in the three Log folders
+is unknown and should be measured before anything is corrected. This is pre-existing owner content and was left
+untouched under the standing rule against unilateral changes.
+
+### Category fill state after this session
+
+Counted against the doctrine's twelve categories, the thinnest are now Category XII Personal and Recovered
+Journal and Category X, both recently at 2 and 3 files. Category I and Category V sit at 3 each. The fullest are
+Category VIII at 11 and Category III at 10.
+
+### For the next session
+
+The mandatory first step is unchanged: fetch and hard reset to the remote branch before editing, because the
+workspace re-clones and leaves the tree at the session base. Then run `ci_check.py` and `gate_audit.py`. Both
+are dependency-free.
