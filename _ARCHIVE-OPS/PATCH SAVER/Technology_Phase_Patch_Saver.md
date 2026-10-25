@@ -10071,3 +10071,44 @@ link markup and leaves the words.
 `MD_WIDE_PROSE_LINES` 0 after wrapping one 160-character line the fix had introduced, `TITLE_STACK_DOCUMENTS`
 0, `THIN_READMES` 0, `READMES_WITHOUT_SECTIONS` 0, `FOLDERS_WITHOUT_README` 0, `TXT_LINES_OVER_118` 0, and
 every story and technology figure 0.
+
+---
+
+## Prompt End Update — 2026-10-24, Ruling: README Navigation Links Stay Relative
+
+### The question
+
+The standing rule says links are written as a short name in brackets and a GitHub blob URL in parentheses.
+The reader review had just converted 200 backtick paths into relative links, so the question was whether the
+READMEs should be converted again to blob URLs.
+
+### What was measured before deciding
+
+All 243 README links were converted to blob URLs against `main` and then tested over the network rather than
+assumed. `blob/main/README.md` returned 200. `blob/main/` for a chapter file, for the technology folder and
+for a technology record all returned 404. The same paths against the session branch returned 200.
+
+The reason is that `main` still carries the pre-rename structure. Querying the repository contents at `main`
+returns the old folder names, including `A.C.T_UNIVERSE_DOCUMENT`, `LOGO`, `PATCH SAVER` and `RESEARCH
+FOLDER`. The renames to `A.C.T Universe Document/`, `A.C.T Technology Document/` and `_ARCHIVE-OPS/` were
+never merged to `main`, so every path a README points at exists only on the working branch.
+
+### The ruling
+
+README navigation links stay relative. Relative links resolve on every branch, in every renderer, and they
+survive the branch being merged or deleted. Blob URLs against `main` would be dead on arrival, and blob URLs
+against the session branch would pin every README to a branch that is meant to be temporary, which is the
+same failure the standing rule against naming a session branch was written to prevent.
+
+The blob-URL rule continues to apply where it was written: in-world record cross-references. Those already
+use blob URLs and were not touched.
+
+If blob URLs are ever wanted in the READMEs, the order is fixed: merge to `main` first, then convert. Doing
+it the other way round ships dead links.
+
+### State
+
+The conversion was reverted in Python rather than with a shell glob, because an unquoted command
+substitution word-splits on the A.C.T in these folder names. 243 relative links, 0 broken, 352 blob-URL
+cross-references unchanged, `README_BROKEN_LINKS` 0, `README_DEAD_ENDS` 0, `MD_WIDE_PROSE_LINES` 0,
+`gates tested 30 | fired 30 | blind 0`.
