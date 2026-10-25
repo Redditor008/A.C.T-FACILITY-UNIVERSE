@@ -10361,3 +10361,36 @@ changes to owner content. Flagged for a decision.
 keys read 0. `gate_audit.py` reads tested 30 fired 30 blind 0. `TXT_LINES_OVER_118` 0, `TXT_WIDE_PROSE_LINES` 0,
 `BOXDRAW_CHARACTERS` 0, `TXT_BOLD_FILES` 0, `TXT_LINK_FILES` 0, `TXT_NARROW_BAR_LINES` 0. Widest line in the new
 file is 81 characters.
+
+---
+
+## Prompt End Update — 2026-10-25, Second Category IX Log: AFD-SU-005 Stabilization Dossier
+
+Owner asked for another anomaly log in Category IX.
+
+### Why this subject
+
+The first Category IX log added this session recorded a prohibition, because its subject carries a
+transformation viability of INVIOLABLE. Measuring the viability tally across the anomaly archive gave
+NEUTRAL 17, INVIOLABLE 14, CONTAINED-STUDY 18, STABILIZED 10, INTEGRATED 1, REPURPOSED 2. Adding a second
+prohibition record would have made the category say one thing only. AFD-SU-005 carries STABILIZED, so its
+dossier records a transformation that succeeded in the sense the category actually covers: the subject was made
+safe to keep rather than made into a tool.
+
+### What was written
+
+976 words, five entries spanning 2016 to 2025, of which two were completed, two were rejected, and one stands
+open as a contained-study progress review. Every factual claim comes from the primary file: the 143 cm height
+and 61 kg mass, the 78 and 22 percent skin and exposed-machinery split, the single green optical sensor and the
+unfinished left system behind a blank panel, the archive core holding roughly forty-nine years of the deceased
+creator's material, the awakening after his death with no power surge, ritual, contact, signal, or boot event
+identified, and the functional emotional age of nine to twelve against that archive capacity.
+
+Nothing was invented. The dossier records no experimental attempt to reproduce the awakening, and the closing
+section names what the file does not know. Dates fall after the 2016 detection date and inside 1598 to 2026.
+
+### Verification
+
+ANOMALY_FILES 185. Category IX holds 3 files. ci_check.py reads defect keys checked 35 and all read 0.
+TXT_LINES_OVER_118 0, TXT_WIDE_PROSE_LINES 0, BOXDRAW_CHARACTERS 0. Widest line in the new file is 79
+characters.
