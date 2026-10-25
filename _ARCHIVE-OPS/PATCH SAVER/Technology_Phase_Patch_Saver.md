@@ -10136,3 +10136,109 @@ a house technology record and was left alone.
 
 `README_BROKEN_LINKS` 0, `README_DEAD_ENDS` 0, `MD_WIDE_PROSE_LINES` 0, `THIN_READMES` 0,
 `READMES_WITHOUT_SECTIONS` 0, `FOLDERS_WITHOUT_README` 0, and `gates tested 30 | fired 30 | blind 0`.
+
+---
+
+## Prompt End Update — 2026-10-24, Session Summary: Consolidated Record
+
+This entry consolidates the session so a future continuation does not have to reconstruct it from 126 prior
+entries. Everything below was measured, not recalled.
+
+### Final state
+
+1,026 documents. 452 markdown files and 549 plain-text files. 242 technology records across 244 files in each
+format. 30 GOI dossiers. 29 doctrine records. 183 anomaly files. 12 story chapters plus an epilogue, 14 story
+markdown files. Gate suite reads `gates tested 30 | fired 30 | blind 0`. Every defect figure reads 0.
+
+### Technology records
+
+Fourteen records were restructured to the fourteen-section house shape and expanded past the word floor:
+TECH-GOI-074-1, 071-5, 069-1 through 069-4, 070-1 through 070-4, 073-1 through 073-4. Sets 069, 070 and 073
+are closed at four of four each. `TECH_RECORDS_OFF_SHAPE` went from 131 at the start of the correction chain
+to 0, through 42, 21, 20, 19, 18, 14, 13, 12 and then down one at a time.
+
+Six of those readings were false positives from one error class: a gate matching an exact heading name rather
+than a heading's function. The durable fix was a curated phrase table validated against a record known to be
+correct.
+
+### Story
+
+All thirteen chapter files were read end to end against RULE 3.3, RULE 3.5 and RULE 4.3. All thirteen pass all
+three. Seven defect classes were found and all seven were resolved: sentence case broken after a full stop,
+duplicated openings, bullets that lost their leading dash, a cutaway the viewpoint character could not
+perceive, a hedged impression that dropped its hedge into omniscience, a penultimate cutaway refrain repeated
+across ten chapters, and the Epilogue's shift to an omniscient register.
+
+Two gates came out of it. `STORY_OPENING_REPEATS` was blind to reworded duplicates because it matched an exact
+fragment; it now compares word runs with a threshold of five, chosen by measuring every chapter first.
+`STORY_LOWERCASE_SENTENCE_STARTS` matches within a single line only, which is what keeps it from flagging the
+quoted artefacts that are deliberately lowercase.
+
+### Navigation
+
+A fresh-eyes reader review found that 33 folder READMEs pointed at files with backtick paths, which are not
+clickable on GitHub. 200 became real links and five dead ends were closed. Two gates were added,
+`README_BROKEN_LINKS` and `README_DEAD_ENDS`. The repo went from well-documented but hard to traverse to
+well-documented and traversable.
+
+### Errors made and corrected
+
+The "five clean chapters" claim was wrong; Chapter 02 carried a defect the judge missed because that chapter
+was only read to line 180 of 388 and its verdict was marked provisional. The correct count is four.
+
+The "eight closing cutaways" claim was wrong twice. The refrain appears in ten chapters, and in every affected
+chapter it is penultimate rather than final, so all seven already ended interior.
+
+The sentence-case fix used a whitespace class that matched line breaks, which capitalised five quoted artefact
+lines including the single word `below` standing alone as a pacing beat the judge had specifically praised.
+Ten instances were reverted.
+
+The class 6 removal of a Chapter 02 clause did not check what followed the deleted span and left a dangling
+fragment reading `of it.` Four instances were removed.
+
+A line wrapper applied too widely wrapped pipe-table rows inside the Story Index and broke the table. The file
+was restored.
+
+The README link conversion wrote repo-root-relative targets into READMEs that live in subfolders, so all 200
+links were broken on arrival. Caught by checking every link after writing.
+
+Two hand-written links were wrong. A technology record filename was guessed rather than looked up, and a
+relative path was one level short.
+
+A gate was installed without `import re` in the audit harness, and the suite crashed rather than reporting.
+
+Two flags were raised that the archive had already answered in writing: the doctrine contents figure, and the
+transitory destroy markings. In both cases the answer was documented and had not been read far enough to find.
+
+### Two instructions tested rather than obeyed
+
+Gating `DOCTRINE_WITH_CONTENTS` would have manufactured five false positives, because the five documents
+without contents blocks are forms and fragments where a contents block would be wrong. Recommended against,
+and the owner agreed.
+
+Converting README links to GitHub blob URLs was attempted and tested over the network before being kept.
+`main` still carries the pre-rename structure, so blob URLs against `main` return 404 for everything except
+the root README. The conversion was reverted and the ruling recorded: README navigation links stay relative,
+and the blob-URL rule continues to apply to in-world record cross-references.
+
+### Recurring failure classes, for the next session
+
+A gate that tests an exact string tests wording rather than structure. This fired eight times.
+
+A gate reading 0 proves nothing until it has been shown to fire on the defect it exists to catch. This fired
+four times.
+
+A figure quoted from memory is not a figure. `PATCH_SAVER_ENTRIES` was carried as 132 and measured at 103.
+
+A deletion that does not check what followed the deleted span leaves a fragment.
+
+An unquoted shell glob word-splits on the `A.C.T` in these folder names and fails silently. Restore files in
+Python instead.
+
+A link is not correct because it was written carefully. It is correct because it was checked.
+
+### Open
+
+`main` shows the pre-rename structure. None of this session's work is on the default branch, so a reader
+landing on the repository today does not see any of it. Opening a pull request is the one remaining action
+that affects a real reader.
