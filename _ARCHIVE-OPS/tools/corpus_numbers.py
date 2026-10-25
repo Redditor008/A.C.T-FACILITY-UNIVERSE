@@ -83,6 +83,19 @@ def texts(include_ops: bool = False) -> list[pathlib.Path]:
     return out
 
 
+def _in_log_tree(p):
+    """True when p sits somewhere under an anomaly Log folder.
+
+    Owner ruling 2026-10-25: the Log folders were divided into per-category
+    subfolders, so a log's immediate parent is now a folder named after its
+    category rather than one named Log. Testing only p.parent.name would have made
+    LOG_CATEGORY_MISMATCHES and LOG_HOUSE_FORM_DEFECTS read 0 over an empty set the
+    moment the move landed, which is the silent-zero failure the suite exists to
+    prevent. Any ancestor named Log, or ending in " Log" as ITHYOS Log does, counts.
+    """
+    return any(q == "Log" or q.endswith(" Log") for q in p.parts)
+
+
 def read(p: pathlib.Path) -> str:
     return p.read_text(encoding="utf-8", errors="replace")
 
@@ -255,7 +268,7 @@ def main() -> int:
         _norm = lambda x: re.sub(r"[^a-z]", "", x.lower())
         _anom = ROOT / "A.C.T Universe Document/A.C.T Anomaly Document"
         for p in sorted(_anom.rglob("*.txt")):
-            if not p.is_file() or "Log" not in p.parent.name:
+            if not p.is_file() or not _in_log_tree(p):
                 continue
             text = read(p)
             m = re.search(r"DOCUMENT CATEGORY:\s*(.*?)(?:\n(?!\s{20})|\Z)", text, re.S)
@@ -270,7 +283,15 @@ def main() -> int:
             exp = _canon.get(num)
             if exp is None:
                 r["LOG_CATEGORY_MISMATCHES"] += 1
-            elif not (name == exp or exp in name or name in exp):
+            # Owner finding 2026-10-25. The comparison used to allow a substring
+            # either way, which made the gate blind to a truncated category title:
+            # 5 dossiers read "CATEGORY XII — Personal & Recovered Journal" and
+            # "CATEGORY X — Communication & Internal Correspondence", both dropping
+            # the trailing word Dossier. Because the stripped form of the short title
+            # is a prefix of the stripped canonical title, `name in exp` was true and
+            # the gate read 0 while 5 files disagreed with the doctrine. Exact
+            # equality is now required, and the 5 titles were corrected to match.
+            elif name != exp:
                 r["LOG_CATEGORY_MISMATCHES"] += 1
     # Owner ruling after a correction that logs had drifted into a flat generic
     # shape. The house form was read out of the richest existing dossiers and
@@ -290,10 +311,32 @@ def main() -> int:
     # not Anomaly Log Category documents: three are recovered in-world artefacts,
     # two are internal memoranda, one is a personnel dossier, one is a recovered
     # diary, and one is a side tale.
+    # Owner ruling 2026-10-25: the three anomaly Log folders were divided into
+    # per-category shelves, so a reader looking for testing records or sensor
+    # records goes to one shelf instead of scanning a flat list of 92. Every
+    # dossier must therefore sit in the shelf its DOCUMENT CATEGORY names, and a
+    # file dropped back into the Log root or filed on the wrong shelf is a
+    # defect. Shelves are numbered 01 to 12 after the doctrine's own category
+    # numbers so they sort in doctrine order rather than alphabetically, and
+    # files carrying no DOCUMENT CATEGORY line go to 00-Non-Category-Records.
+    # The gate tests the numeric prefix rather than the whole folder name so a
+    # shelf may be renamed without the gate going stale.
+    r["LOG_SHELF_MISMATCHES"] = 0
+    _arabic = {"I": 1, "II": 2, "III": 3, "IV": 4, "V": 5, "VI": 6, "VII": 7,
+               "VIII": 8, "IX": 9, "X": 10, "XI": 11, "XII": 12}
+    _anom3 = ROOT / "A.C.T Universe Document/A.C.T Anomaly Document"
+    for p in sorted(_anom3.rglob("*.txt")):
+        if not _in_log_tree(p):
+            continue
+        m = re.search(r"DOCUMENT CATEGORY:\s*CATEGORY\s+([IVX]+)", read(p))
+        want = (f"{_arabic[m.group(1)]:02d}-"
+                if m and m.group(1) in _arabic else "00-")
+        if not p.parent.name.startswith(want):
+            r["LOG_SHELF_MISMATCHES"] += 1
     r["LOG_HOUSE_FORM_DEFECTS"] = 0
     _anom2 = ROOT / "A.C.T Universe Document/A.C.T Anomaly Document"
     for p in sorted(_anom2.rglob("*.txt")):
-        if not p.is_file() or "Log" not in p.parent.name:
+        if not p.is_file() or not _in_log_tree(p):
             continue
         text = read(p)
         if "DOCUMENT CATEGORY:" not in text:

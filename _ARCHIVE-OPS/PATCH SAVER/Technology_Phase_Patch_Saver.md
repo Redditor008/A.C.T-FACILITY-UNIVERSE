@@ -10795,3 +10795,70 @@ The gate would have caught all five of the original flat logs, none of which car
 
 ci_check.py reads defect keys checked 37 and all read 0, exit 0. gate_audit.py reads tested 32 fired 32 blind 0,
 up from 31. ANOMALY_FILES 188.
+
+---
+
+## Prompt End Update — 2026-10-26, Full Log Review, And The Log Folders Divided Into Category Shelves
+
+### The review, measured across all 92 logs
+
+Category fill against the doctrine's 12: III 18, VIII 16, IV 8, VI 7, II 6, XI 5, V 5, I 5, VII 4, XII 4, IX 3,
+X 3, totalling 84 dossiers. The remaining 8 files carry no DOCUMENT CATEGORY line and are not category
+documents: 3 recovered in-world artefacts, 2 internal memoranda, 1 personnel dossier, 1 recovered diary,
+1 side tale.
+
+Findings acted on: 5 dossiers carried a truncated category title, reading "CATEGORY XII — Personal & Recovered
+Journal" and "CATEGORY X — Communication & Internal Correspondence" with the trailing word Dossier dropped. All
+5 were corrected.
+
+Findings recorded but not acted on, because acting on them means rewriting pre-existing owner content: 6
+dossiers have no INCLUDED LOG TYPES list, 44 have no CATEGORY PURPOSE, 21 have no DOSSIER CLOSING, and 55 carry
+no per-entry LOG TYPE field, using the older LOG ID shape instead, which 83 files carry. By length, 12 dossiers
+sit under 500 words and 16 more under 700, against a median of 949. One PRIMARY FILE still dangles: AFD-715
+points at ACT-715-Unknown-ACT-Reality-List, which matches no file anywhere in the repository.
+
+### The gate that was blind
+
+LOG_CATEGORY_MISMATCHES compared normalised titles with `name == exp or exp in name or name in exp`. The
+substring clauses made it blind to truncation, because the stripped short title is a prefix of the stripped
+canonical one. It read 0 while 5 files disagreed with the doctrine. The comparison is now exact equality, and a
+trunclabel injection drops the trailing word from a dossier that currently matches. It fires.
+
+### The division
+
+All 3 Log folders are now divided into numbered category shelves, 01 to 12 after the doctrine's own category
+numbers so they sort in doctrine order, plus 00-Non-Category-Records. 25 shelves hold 92 logs, and no log is
+left flat in a Log root. Each shelf has a README carrying the doctrine's Function and Used When text for that
+category and a link to every file it holds. Both parent Log READMEs were rewritten as shelf indexes, and the
+ITHYOS Log README kept its original prose with a shelf index added.
+
+Only 3 markdown links anywhere resolve into a Log folder, and all 3 point at the folder itself rather than a
+file, so the move broke no links.
+
+### Two defects this change introduced, and both corrections
+
+Appending the word Dossier widened one line in 2 files from 73 characters to 81, which made every 73-character
+box border in those files narrower than the widest text line and fired TXT_NARROW_BAR_LINES 22 times. All 22
+borders were widened to 81. The failure was invisible at first because the ci_check output was filtered through
+a grep that showed only the two keys being added, hiding the FAIL line.
+
+The generated shelf READMEs also arrived with two faults: 2 ITHYOS shelf READMEs had no H1 marker, and 2 prose
+lines in the ITHYOS Log README ran past 118 characters. Both corrected.
+
+### Two tools made resilient rather than patched
+
+`_in_log_tree(p)` replaces the `"Log" in p.parent.name` test at both call sites. Had it been left alone,
+LOG_CATEGORY_MISMATCHES and LOG_HOUSE_FORM_DEFECTS would have read 0 over an empty set the moment the move
+landed, which is the silent zero the suite exists to prevent.
+
+gate_audit gained `resolve_target`, which falls back to a unique basename search when a target path is missing,
+and raises rather than skipping when the basename is ambiguous or absent. The suite's injection targets were
+written as flat Log paths and every one of them broke with FileNotFoundError, which aborted the whole run
+instead of reporting one stale path. It also gained MOVE_TESTS, because a dossier standing on the wrong shelf
+is a relocation and no text injection can express it.
+
+### Verification
+
+ci_check.py reads defect keys checked 38 and all read 0, exit 0. gate_audit.py reads tested 34 fired 34 blind 0,
+up from 33. LOG_SHELF_MISMATCHES reads 0 and fires 0 to 1 when a dossier is lifted back into the Log root. 87
+files moved as pure renames with no content change and 5 as renames carrying the title correction.
