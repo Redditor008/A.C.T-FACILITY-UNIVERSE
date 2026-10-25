@@ -49,6 +49,7 @@ INCLUDED LOG TYPES:
 +--------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-855/SOC-001
+LOG TYPE:            Interaction: Agent Ren Kobayashi
 DATE:                2024-03-12
 LOCATION:            Site-03 / Social Sandbox Suite
 
@@ -112,6 +113,7 @@ ARGON:               "He said the protagonist had brown eyes, Ren.
 +--------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-855/SOC-002
+LOG TYPE:            Interaction: Technician Pavel Hrubý
 DATE:                2024-04-05
 SUBJECT:             Hardware Maintenance
 
@@ -165,6 +167,7 @@ ARGON:               "Everything is hardware to you people. To me, it’s
 +--------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-855/SOC-003
+LOG TYPE:            Interaction: Dr. Aris Thorne
 DATE:                2024-05-18
 LOCATION:            Site-03 / Social Sandbox
 
@@ -231,6 +234,7 @@ ARGON:               "Yeah, yeah. Go check your seals, old man."
 +--------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-855/SOC-004
+LOG TYPE:            Interaction: Afd-su-005 (anny)
 DATE:                2024-06-20
 PARTICIPANTS:        Anny (SU-005), Argon (SU-855)
 
@@ -291,6 +295,7 @@ sign of Anny's Electronic Sympathy reacting to the AI's content-state.]
 +--------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-855/SOC-005
+LOG TYPE:            Interaction: Junior Researcher [redacted]
 DATE:                2024-07-01
 SUBJECT:             Social Friction / "Trolling" Incident
 

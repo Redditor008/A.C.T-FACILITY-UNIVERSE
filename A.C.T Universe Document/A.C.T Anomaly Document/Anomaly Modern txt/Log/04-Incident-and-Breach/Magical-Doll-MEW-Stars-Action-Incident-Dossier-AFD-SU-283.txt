@@ -16,10 +16,15 @@ CATEGORY FUNCTION:   Unauthorized field manifestation logging; Analysis
 CLEARANCE REQUIRED:  Level 4 / Field Command
 
 +-----------------------------------------------------------------------------+
+INCLUDED LOG TYPES:
+   - The Revolution Bomb
+   - Field Consequence
+
                  SECTION 001 — THE REVOLUTION BOMB
 +-----------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-283/INC-042
+LOG TYPE:            The Revolution Bomb
 LOCATION:            Public riverfront / [ REDACTED ], Florida, USA.
 TARGET ANOMALY:      UFD-NB-990 (5-meter, 3-Headed Crocodilian)
 
@@ -44,6 +49,8 @@ unauthorized "Narrative Jump" to the scene.
                    SECTION 002 — FIELD CONSEQUENCE
 +-----------------------------------------------------------------------------+
 
+
+LOG TYPE:            Field Consequence
 The unauthorized manifestation ended the immediate threat before Recovery
 Team Delta-4 could complete the planned containment maneuver. Field Command
 therefore records the action as beneficial in outcome and unacceptable in

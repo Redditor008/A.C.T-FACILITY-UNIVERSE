@@ -46,6 +46,7 @@ INCLUDED LOG TYPES:
 +-----------------------------------------------------------------------+
 
 LOG ID:              AFD-PL-932/EXP-01
+LOG TYPE:            Threshold Entry
 DATE:                1985-02-14
 LEAD OPERATOR:       Handler Pavel Sokolov
 TEAM:                Gamma-9 (Sokolov, Veyr, Novak)
@@ -75,6 +76,8 @@ SOKOLOV (Comms):     "The air feels... heavy. My suit's pressure-alarm is
                 SECTION 002 — THE PALE WOOD SURVEY
 +-----------------------------------------------------------------------+
 
+
+LOG TYPE:            The Pale Wood Survey
 [00:45:00] — Team reaches the forest edge. The trees are 12-15m tall,
               lacking bark. The trunks are smooth, pale, and cold.
 
@@ -93,6 +96,8 @@ NOVAK (Field Note):  "I struck a branch with my tactical knife. No
                  SECTION 003 — THE RED RIVER BANK
 +-----------------------------------------------------------------------+
 
+
+LOG TYPE:            The Red River Bank
 [02:30:00] — Team arrives at the bank of the "Red River." The liquid is
               viscous and deep crimson. It emits a constant, low-
               frequency hum.
@@ -111,6 +116,8 @@ VEYR (Analysis):     "Acid sensors are pegged. It's roughly 20% HCl-
                 SECTION 004 — BIOLOGICAL ENCOUNTER
 +-----------------------------------------------------------------------+
 
+
+LOG TYPE:            Biological Encounter
 [03:12:00] — ALERT. Acoustic sensors record a high-pitched, rattling
               vibration from the tree-line.
 
@@ -140,6 +147,8 @@ SOKOLOV (Comms):     "They're pack-hunting. They're trying to circle
                SECTION 005 — EXTRACTION & AUDIT
 +-----------------------------------------------------------------------+
 
+
+LOG TYPE:            Extraction & Audit
 [04:00:00] — Team returns to the threshold. Sokolov initiates the
               "Dry-Cleaning" protocol to ensure zero Blue Dirt residue.
 

@@ -13,7 +13,7 @@ where timing, image, sound, or instrument readings are central.
 
 It is used when the record is more important than a written summary.
 
-## Files in this shelf
+## Files in this folder (1)
 
 - [ITHYOS-Seismic-History-Sensor-Dossier-ENTITY-000](ITHYOS-Seismic-History-Sensor-Dossier-ENTITY-000.txt)
 

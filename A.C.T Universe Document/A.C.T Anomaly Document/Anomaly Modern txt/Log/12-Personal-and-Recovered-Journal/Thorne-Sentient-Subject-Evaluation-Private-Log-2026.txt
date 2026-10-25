@@ -31,10 +31,14 @@ subjects. It documents his personal assessment of their stability,
 growth, and the "human cost" of their containment.
 
 +-----------------------------------------------------------------------+
+INCLUDED LOG TYPES:
+   - The Dialogue of Survival
+
                  SECTION 001 — THE DIALOGUE OF SURVIVAL
 +-----------------------------------------------------------------------+
 
 LOG ID:              SR-T/JNL-2026-08
+LOG TYPE:            The Dialogue of Survival
 DATE:                2026-07-02 (Post-Shift)
 
 I spent the better part of the day moving between Sites. The harness is

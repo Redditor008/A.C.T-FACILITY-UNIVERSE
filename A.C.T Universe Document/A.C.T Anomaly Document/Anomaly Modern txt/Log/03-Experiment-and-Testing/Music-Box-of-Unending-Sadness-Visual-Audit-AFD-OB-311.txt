@@ -42,6 +42,7 @@ INCLUDED LOG TYPES:
 +----------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-311/TST-E14
+LOG TYPE:            The Monochrome Trial
 DATE:                2024-05-10
 SUBJECT:             E-Class E-311-14 (PR Score: 61)
 
@@ -72,6 +73,7 @@ recorded grief.
 +----------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-311/THORNE-02
+LOG TYPE:            Archivist's Note
 AUTHOR:              Aris Thorne (SR-412)
 
 "I checked the spectrum-analyzer after the test. The colors were

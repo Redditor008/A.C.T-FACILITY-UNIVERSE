@@ -13,7 +13,7 @@ classification debate, theory development, and long-term study.
 
 It is used when the anomaly's meaning or mechanics remain uncertain.
 
-## Files in this shelf
+## Files in this folder (1)
 
 - [ITHYOS-Legacy-Research-Analysis-Dossier-ENTITY-000](ITHYOS-Legacy-Research-Analysis-Dossier-ENTITY-000.txt)
 

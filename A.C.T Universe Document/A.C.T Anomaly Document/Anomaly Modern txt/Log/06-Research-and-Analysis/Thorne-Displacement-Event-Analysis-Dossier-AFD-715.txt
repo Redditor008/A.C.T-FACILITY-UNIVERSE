@@ -43,6 +43,7 @@ INCLUDED LOG TYPES:
 +--------------------------------------------------------------------------+
 
 LOG ID:              AFD-715/THORNE-NULL-LOG
+LOG TYPE:            The Absence of Resonance
 AUTHOR:              Aris Thorne (SR-412)
 DATE:                2024-06-12
 
@@ -64,6 +65,8 @@ multiverse that has run out of space.
                SECTION 002 — MEDIA INVENTORY
 +--------------------------------------------------------------------------+
 
+
+LOG TYPE:            Media Inventory
 [RECORD A] - COLORFUL ARRAY:
 A generic 8GB USB drive. Contains one 14MB video file (.mp4).
 

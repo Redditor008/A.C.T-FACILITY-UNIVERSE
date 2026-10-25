@@ -56,6 +56,7 @@ that its only physical function is exercised in a direction A.C.T controls.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-010/EXP-001
+LOG TYPE:            Visual-silhouette Observation and Tracking Protocol
 DATE:                2021-05-14 (detection) — ongoing
 LOCATION:            ACT-SITE-01-US-W — light-managed observation chamber
 TEST SUPERVISOR:     Optical monitoring officer
@@ -85,6 +86,7 @@ TRACKING DISCIPLINE:
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-010/EXP-002
+LOG TYPE:            Feed-response Testing — Approved Matter
 DATE:                Feeding records — every 10 days
 LOCATION:            ACT-SITE-01-US-W — floor-level feed aperture
 TEST SUPERVISOR:     Remote containment technician
@@ -115,6 +117,7 @@ KNOWN FEEDING RESPONSES:
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-010/EXP-003
+LOG TYPE:            Consumption-boundary Mapping
 DATE:                Test series including Test 010-C
 LOCATION:            ACT-SITE-01-US-W — feed aperture / robotic arm tests
 TEST SUPERVISOR:     Remote containment technician
@@ -141,6 +144,7 @@ for loss of paint on the portion shadowed by the mouth.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-010/EXP-004
+LOG TYPE:            Conditioning Observation
 DATE:                Ongoing — behavioral records
 LOCATION:            ACT-SITE-01-US-W — light-managed chamber
 TEST SUPERVISOR:     Intangible Hazard Review
@@ -163,6 +167,7 @@ enrichment. The window-circling behavior is likewise not to be rewarded.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-010/EXP-005
+LOG TYPE:            Recovery and Narrative Review
 DATE:                2021 — Operation Black Fin Intake review
 LOCATION:            Busan indoor aquarium loading bay / Site-01 records
 TEST SUPERVISOR:     Field Containment Division
@@ -191,6 +196,7 @@ NARRATIVE AND RECOVERY NOTES:
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-010/EXP-CLS-001
+LOG TYPE:            Closing Testing Note
 DATE:                2026-09-08
 LOCATION:            Intangible Hazard Review
 AUTHOR:              Subject Containment Division

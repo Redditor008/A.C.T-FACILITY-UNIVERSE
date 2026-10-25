@@ -1,10 +1,10 @@
 A.C.T FACILITY — INTERVIEW & TESTIMONY DOSSIER
 Jormungandr-Heat-Resonance-Interview-Dossier-AFD-CH-647
 
-+----------------------------------------------------------------------------+
++---------------------------------------------------------------------------------+
             A.C.T FACILITY — INTERVIEW & TESTIMONY DOSSIER
                      Anomaly Containment Transformation
-+----------------------------------------------------------------------------+
++---------------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-CH-647
 TITLE I:             Jormungandr
@@ -23,9 +23,9 @@ JURISDICTIONAL AUTHORITY:  Cosmic Hazard Review / Primary Facility Command /
 ARCHIVE STATUS:      Active / Serpent-class contact restricted
 DOSSIER STATUS:      Open — approved resonance interviews on file
 
-+----------------------------------------------------------------------------+
++---------------------------------------------------------------------------------+
                            CATEGORY CONTENTS
-+----------------------------------------------------------------------------+
++---------------------------------------------------------------------------------+
 
 This dossier belongs to A.C.T Log Category II — Interview & Testimony Dossier.
 AFD-CH-647 is sentient, sapient, and capable of sustained speech through
@@ -51,11 +51,12 @@ To preserve the subject's own testimony about what it is, what it eats, and
 what it will not tolerate, as a containment-critical record rather than
 folklore.
 
-+----------------------------------------------------------------------------+
++---------------------------------------------------------------------------------+
 SECTION 001 — FIRST STABLE COMMUNICATION — BLACK CALDERAN VIGIL (1974)
-+----------------------------------------------------------------------------+
++---------------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-647/INT-001
+LOG TYPE:            First Stable Communication — Black Calderan Vigil (1974)
 DATE:                1974 — Black Calderan Vigil period (session date on file)
 LOCATION:            Mount [ REDACTED ], North Atlantic volcanic island chain
                      — sub-volcanic chamber, resonance relay
@@ -78,11 +79,12 @@ INTERVIEWER NOTE: The subject displayed no hostility, no demand for worship,
 and no interest in surface emergence during the exchange. Its tone was
 corrective rather than threatening.
 
-+----------------------------------------------------------------------------+
++---------------------------------------------------------------------------------+
 SECTION 002 — THE DIGESTION CLARIFICATION — COOPERATIVE CONTAINMENT DOCTRINE
-+----------------------------------------------------------------------------+
++---------------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-647/INT-002
+LOG TYPE:            The Digestion Clarification — Cooperative Containment Doctrine
 DATE:                1974 — follow-up analysis on file
 LOCATION:            Cosmic Hazard Review / Heat-Resonance Desk
 INTERVIEWER:         Researcher commentary on INT-001 testimony
@@ -106,11 +108,12 @@ language but acknowledged in reality: the subject is already stabilizing its
 own home environment. A.C.T's role is to avoid turning that stability into a
 project.
 
-+----------------------------------------------------------------------------+
++---------------------------------------------------------------------------------+
     SECTION 003 — ITHYOS RELATIONSHIP REVIEW — SHIELDED AUDIO TEST
-+----------------------------------------------------------------------------+
++---------------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-647/INT-003
+LOG TYPE:            Ithyos Relationship Review — Shielded Audio Test
 DATE:                Shielded test — date on file
 LOCATION:            Mount [ REDACTED ] — shielded audio test configuration
 INTERVIEWER:         Cosmic Hazard Review personnel
@@ -135,11 +138,12 @@ closer to lineage reverence or cosmological acknowledgment. Official files are
 not to refer to AFD-CH-647 as a child of ITHYOS; the approved phrasings are
 "possible ITHYOS-lineage claim" or "serpent-class cosmological claim."
 
-+----------------------------------------------------------------------------+
++---------------------------------------------------------------------------------+
                SECTION 004 — DIET AND AVERSION INTERVIEW
-+----------------------------------------------------------------------------+
++---------------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-647/INT-004
+LOG TYPE:            Diet and Aversion Interview
 DATE:                Multiple sessions — dates on file
 LOCATION:            Mount [ REDACTED ] — resonance relay
 INTERVIEWER:         Approved heat-resonance linguist
@@ -171,11 +175,12 @@ volcanic rock formation drops below safe availability thresholds; emergency
 feed may be introduced only through cooled basaltic-glass chute systems from
 the upper monitoring station.
 
-+----------------------------------------------------------------------------+
++---------------------------------------------------------------------------------+
           SECTION 005 — LAVA, LANGUAGE, AND STANDING RULINGS
-+----------------------------------------------------------------------------+
++---------------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-647/INT-005
+LOG TYPE:            Lava, Language, and Standing Rulings
 DATE:                Multiple sessions, 1974 – present
 LOCATION:            Mount [ REDACTED ] — resonance relay
 INTERVIEWER:         Various approved linguists
@@ -200,11 +205,12 @@ Do not describe the subject as a child of ITHYOS in official files. Use
 treat its cooperation as consent for exploitation; the friendly disposition is
 not an asset to be spent.
 
-+----------------------------------------------------------------------------+
++---------------------------------------------------------------------------------+
                     SECTION 006 — CLOSING STATEMENT
-+----------------------------------------------------------------------------+
++---------------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-647/INT-CLS-001
+LOG TYPE:            Closing Statement
 DATE:                2026-09-08
 LOCATION:            Cosmic Hazard Review / Heat-Resonance Desk
 AUTHOR:              Heat-Resonance Desk

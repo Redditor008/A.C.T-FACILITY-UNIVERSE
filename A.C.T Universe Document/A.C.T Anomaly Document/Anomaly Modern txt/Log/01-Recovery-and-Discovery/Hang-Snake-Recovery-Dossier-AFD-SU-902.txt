@@ -39,6 +39,7 @@ INCLUDED LOG TYPES:
 +---------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-902/REC-01
+LOG TYPE:            The Empty Noose
 DATE:                1992-10-31
 LOCATION:            [ REDACTED ] Historical Prison
 
@@ -60,6 +61,7 @@ crimson-streaked brown.
 +---------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-902/REC-02
+LOG TYPE:            The Medical Bay Event
 DATE:                1992-10-31 (T+45 Minutes)
 
 Recovery Team Alpha arrived at the prison under the cover of a
@@ -82,6 +84,7 @@ following the event.
 +---------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-902/LOG-01
+LOG TYPE:            Field Agent Notes
 AUTHOR:              Agent [ REDACTED ]
 
 "It’s not just a snake. It’s a tool that realized it could do its

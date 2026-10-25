@@ -44,6 +44,7 @@ INCLUDED LOG TYPES:
 +---------------------------------------------------------------------+
 
 LOG ID:              AFD-PL-932/TST-E04
+LOG TYPE:            The Steel-bloom Trial
 DATE:                2024-06-02
 SUBJECT:             E-Class E-932-22 (Fitted with bio-monitors)
 
@@ -72,6 +73,7 @@ indestructible once bloomed.
 +---------------------------------------------------------------------+
 
 LOG ID:              AFD-PL-932/THORNE-REF
+LOG TYPE:            Archivist's Note
 AUTHOR:              Aris Thorne (SR-412)
 
 "I analyzed the steel block after the subject was removed. It has

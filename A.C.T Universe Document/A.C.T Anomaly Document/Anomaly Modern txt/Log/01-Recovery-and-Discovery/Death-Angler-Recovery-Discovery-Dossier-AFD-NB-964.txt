@@ -41,6 +41,7 @@ INCLUDED LOG TYPES:
 +--------------------------------------------------------------------------+
 
 LOG ID:              AFD-NB-964/REC-01
+LOG TYPE:            The Sonar Voids
 DATE:                2023-11-04
 
 Operation DEEP HOOK began after Site-05 detected a series of
@@ -56,6 +57,7 @@ fracture.
 +--------------------------------------------------------------------------+
 
 LOG ID:              AFD-NB-964/REC-02
+LOG TYPE:            The Lure Incident
 DATE:                2023-12-14
 
 During the first visual contact, the subject activated its lure at a
@@ -79,6 +81,7 @@ subject remained invisible for the next 22 days.
 +--------------------------------------------------------------------------+
 
 LOG ID:              AFD-NB-964/REC-03
+LOG TYPE:            Extraction and Capture
 DATE:                2024-02-12
 
 Following the integration of Sub-Abyssal Sonar (Item 37), the

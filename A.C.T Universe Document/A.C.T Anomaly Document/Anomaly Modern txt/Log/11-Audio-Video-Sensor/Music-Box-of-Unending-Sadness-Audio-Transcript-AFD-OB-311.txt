@@ -35,6 +35,7 @@ INCLUDED LOG TYPES:
 +--------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-311/TRN-001
+LOG TYPE:            The Lullaby Transcript
 DATE:                2018-04-12
 SOURCE:              Microphone-Line 1 (Internal Chamber)
 
@@ -84,6 +85,7 @@ If I opened up my eyes there'd be no more going back
 +--------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-311/EMO-001
+LOG TYPE:            Listener Response Log
 SUBJECT:             Researcher Elise Moreau (PR Score: 84)
 
 Observation:

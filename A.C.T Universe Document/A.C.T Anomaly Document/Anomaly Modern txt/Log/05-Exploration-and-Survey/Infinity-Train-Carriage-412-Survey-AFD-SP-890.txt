@@ -46,6 +46,7 @@ INCLUDED LOG TYPES:
 +----------------------------------------------------------------------+
 
 LOG ID:              AFD-SP-890/SRV-042
+LOG TYPE:            The Infinite Storage
 DATE:                2024-03-20
 SUBJECT:             E-Class E-890-14 (Fitted with head-mounted QNB)
 
@@ -69,6 +70,8 @@ E-890-14 (Audio):    "This one isn't just a car. It's a hallway. I’ve
                  SECTION 002 — CARRIAGE 412
 +----------------------------------------------------------------------+
 
+
+LOG TYPE:            Carriage 412
 [12:12:00] — THE RARE EVENT: Subject enters a carriage designated
               internally as Carriage 412.
 
@@ -89,6 +92,7 @@ E-890-14 (Audio):    "I found a desk. There's a coat hanging on the
 +----------------------------------------------------------------------+
 
 LOG ID:              AFD-SP-890/THORNE-ANALYSIS
+LOG TYPE:            Narrative Resonance
 AUTHOR:              Aris Thorne (SR-412)
 
 "I reviewed the footage from E-890-14. The replica of my office was
@@ -106,6 +110,8 @@ currently watching it. It is a mirror that moves."
                SECTION 004 — EXTRACTION (STATION D-0)
 +----------------------------------------------------------------------+
 
+
+LOG TYPE:            Extraction (station D-0)
 [24:00:00] — The train halts. The door in Carriage 412 opens.
 
 VISUAL:

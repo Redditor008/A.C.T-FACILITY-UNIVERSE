@@ -43,6 +43,7 @@ INCLUDED LOG TYPES:
 +------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-913/TST-E04
+LOG TYPE:            Sanguine Absorption Test
 DATE:                2024-05-18
 SUBJECT:             E-Class E-913-02 (Armed with standard tactical knife)
 
@@ -69,6 +70,7 @@ is dependent on the volume and freshness of the biological input.
 +------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-913/TST-E05
+LOG TYPE:            The Feedbacker Parry Trial
 DATE:                2024-06-02
 LEAD ANALYST:        Field Operator Bagus Wirawan
 
@@ -96,6 +98,7 @@ uses the force of the attacker against the source.
 +------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-913/THORNE-REF
+LOG TYPE:            Archivist's Note
 AUTHOR:              Aris Thorne (SR-412)
 
 "Engaging with Subject 913 is like fighting a mirror that is trying to

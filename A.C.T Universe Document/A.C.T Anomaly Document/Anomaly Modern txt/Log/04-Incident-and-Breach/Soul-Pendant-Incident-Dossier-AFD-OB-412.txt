@@ -40,6 +40,7 @@ INCLUDED LOG TYPES:
 +-----------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-412/INC-92
+LOG TYPE:            Incident Timeline
 DATE:                1992-05-14
 LOCATION:            Site-01 / Minor Artifact Lab 4
 SUBJECT:             Senior Researcher Aris Thorne
@@ -63,6 +64,7 @@ SUBJECT:             Senior Researcher Aris Thorne
 +-----------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-412/INT-001
+LOG TYPE:            First-wake Communication
 DATE:                1992-06-01
 METHOD:              [ REDACTED ] Acoustic Bridge
 

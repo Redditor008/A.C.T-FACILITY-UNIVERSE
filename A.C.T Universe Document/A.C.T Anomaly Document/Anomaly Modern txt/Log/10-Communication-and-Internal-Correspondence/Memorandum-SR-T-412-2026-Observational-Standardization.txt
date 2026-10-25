@@ -13,6 +13,8 @@ SUBJECT:             Regarding the Loss of Practical Observation
 DATE:                2026-07-02
 CLEARANCE:           Level 3 or Higher
 
+DOCUMENT CATEGORY:   CATEGORY X — Communication & Internal Correspondence Dossier
+
 +-------------------------------------------------------------------------------------------------------------+
                          AUTHOR'S PREFACE
 +-------------------------------------------------------------------------------------------------------------+
@@ -33,9 +35,17 @@ because I have had a century to notice these errors, and you only have
 a few decades to fix them.
 
 +-------------------------------------------------------------------------------------------------------------+
+INCLUDED LOG TYPES:
+   - The Speed of Data
+   - On the Use of Names
+   - The Myth of Technology
+   - The First Lie
+
                  SECTION 001 — THE SPEED OF DATA
 +-------------------------------------------------------------------------------------------------------------+
 
+
+LOG TYPE:            The Speed of Data
 I have spent the morning reviewing the UFD logs for the last quarter. You
 are all moving too fast. You want to
 classify a discovery within the first hour. You want a name, a number, and
@@ -64,6 +74,8 @@ you haven't seen it at all.
                  SECTION 002 — ON THE USE OF NAMES
 +-------------------------------------------------------------------------------------------------------------+
 
+
+LOG TYPE:            On the Use of Names
 I have noticed a trend where junior staff refer to subjects by nicknames they
 find "cute" or "relatable." While I
 understand the human urge to find comfort in this work, it is a dangerous
@@ -94,6 +106,8 @@ a death sentence.
                  SECTION 003 — THE MYTH OF TECHNOLOGY
 +-------------------------------------------------------------------------------------------------------------+
 
+
+LOG TYPE:            The Myth of Technology
 To the Senior staff who rely too heavily on our Reality Stabilization Anchors (RSAs):
 
 The RSAs are a tool, not a solution. They provide a localized "Pause" in
@@ -121,6 +135,8 @@ to know when it isn't.
                  SECTION 004 — THE FIRST LIE
 +-------------------------------------------------------------------------------------------------------------+
 
+
+LOG TYPE:            The First Lie
 We use amnestics like they are aspirin. We use the 004-Series to make the
 world forget, and then we use them to make
 ourselves forget.

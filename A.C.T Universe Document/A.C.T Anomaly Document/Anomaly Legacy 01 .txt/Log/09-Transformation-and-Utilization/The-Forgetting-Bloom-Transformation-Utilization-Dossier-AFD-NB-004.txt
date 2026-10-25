@@ -58,6 +58,7 @@ strategically important integrated biological asset.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-NB-004/TRF-001
+LOG TYPE:            Cultivation and Bloom-cycle Observation
 DATE:                Ongoing — continuous during bloom
 LOCATION:            Primary Facility / North Wings — Bio-Containment
                      Cultivation Chamber
@@ -91,6 +92,7 @@ CULTIVATION RULES:
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-NB-004/TRF-002
+LOG TYPE:            Sap-exposure and Incident Record
 DATE:                Incident log — summary level
 LOCATION:            Primary Facility — bio-containment wing
 OBSERVER:            Medical Care Division
@@ -120,6 +122,7 @@ INCIDENT LOG SUMMARY:
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-NB-004/TRF-003
+LOG TYPE:            Derivative Refinement — Amnestic Compound Production
 DATE:                Transformation history — multiple successful stages
 LOCATION:            Approved pharmacology facilities
 OBSERVER:            Transformation Division / archive pharmacology staff
@@ -141,6 +144,7 @@ significantly less reliable.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-NB-004/TRF-004
+LOG TYPE:            Intake-type Clarification — Ufd-nb-004 and Afd-nb-004
 DATE:                Standing — intake-type doctrine
 LOCATION:            Primary Facility — Central Archive Administration
 OBSERVER:            Archive reviewer / Transformation Division
@@ -173,6 +177,7 @@ AFD-NB-004 remains the active record of record.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-NB-004/TRF-005
+LOG TYPE:            Memory-as-structure Theory Review
 DATE:                Restricted theoretical review
 LOCATION:            Primary Facility — reality-theory desk
 OBSERVER:            Researcher Division
@@ -195,6 +200,7 @@ This remains under restricted theoretical review.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-NB-004/TRF-CLS-001
+LOG TYPE:            Closing Utilization Statement
 DATE:                2026-09-08
 LOCATION:            Science and Medical Command
 AUTHOR:              Transformation Division

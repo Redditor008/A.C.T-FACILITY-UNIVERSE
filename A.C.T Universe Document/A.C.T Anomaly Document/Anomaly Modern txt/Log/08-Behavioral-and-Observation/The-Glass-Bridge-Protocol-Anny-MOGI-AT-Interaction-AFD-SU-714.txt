@@ -43,6 +43,7 @@ INCLUDED LOG TYPES:
 +-------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-714/SOC-002
+LOG TYPE:            The First Handshake
 DATE:                2026-05-12
 LOCATION:            Site-03 / Secure Social Sandbox
 PARTICIPANTS:        Anny (AFD-SU-005), MOGI-AT (AFD-SU-714)
@@ -94,6 +95,7 @@ ANNY:                "I have lived in a box for ten years. I find them
 +-------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-714/SOC-003
+LOG TYPE:            The Reading Session
 DATE:                2026-05-14
 
 Anny requested a copy of The Secret Garden to read to Subject 714. During
@@ -121,6 +123,7 @@ just words."
 +-------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-714/HND-002
+LOG TYPE:            Subject-care Recommendation
 AUTHOR:              Dr. Mireya Valcárcel
 
 Finding:

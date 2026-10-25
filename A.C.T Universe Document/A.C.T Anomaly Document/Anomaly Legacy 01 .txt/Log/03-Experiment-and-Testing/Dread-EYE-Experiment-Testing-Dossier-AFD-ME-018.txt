@@ -55,6 +55,7 @@ follows every accidental exposure.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-ME-018/EXP-001
+LOG TYPE:            Exposure-stage Mapping Trial
 DATE:                2017-02-02 (verification) — ongoing
 LOCATION:            ACT-SITE-03-JP-E — segmented-format testing chamber
 TEST SUPERVISOR:     Memetic Hazard Review / Archiver Division
@@ -84,6 +85,7 @@ EXPOSURE STAGES:
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-ME-018/EXP-002
+LOG TYPE:            Medium-persistence and Fragmentation Testing
 DATE:                Multiple sessions
 LOCATION:            ACT-SITE-03-JP-E — controlled displays
 TEST SUPERVISOR:     Memetic Hazard Review
@@ -110,6 +112,7 @@ STORAGE DISCIPLINE CONFIRMED:
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-ME-018/EXP-003
+LOG TYPE:            Pupil-anchor Testing
 DATE:                Research-series records
 LOCATION:            ACT-SITE-03-JP-E — controlled displays
 TEST SUPERVISOR:     Memetic Hazard Review
@@ -130,6 +133,7 @@ the pupil from its frame in every stored instance.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-ME-018/EXP-004
+LOG TYPE:            Origin-trace Archive Review
 DATE:                Standing review
 LOCATION:            Kurokawa Archive Node — origin files
 TEST SUPERVISOR:     Archiver Division
@@ -151,6 +155,7 @@ documentation margins may also install itself in memory's margins.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-ME-018/EXP-005
+LOG TYPE:            Response and Recovery Protocol Review
 DATE:                Standing — reviewed after each exposure
 LOCATION:            ACT-SITE-03-JP-E — care rooms
 TEST SUPERVISOR:     Memetic handler / care responder
@@ -171,6 +176,7 @@ was looking past me, and then I understood why it was scared."
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-ME-018/EXP-CLS-001
+LOG TYPE:            Documentation-safety Incident and Closing Note
 DATE:                2026-09-08
 LOCATION:            Memetic Hazard Review
 AUTHOR:              Archiver Division

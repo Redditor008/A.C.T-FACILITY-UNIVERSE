@@ -56,6 +56,7 @@ reduce it, and to record how that account changes across the follow-up window.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-019/INT-001
+LOG TYPE:            First Post-rescue Interview — Within 12 Hours
 DATE:                Event-based — 1999-12-31 first verified case, Manila
 LOCATION:            Field interview / medical-safe setting
 INTERVIEWER:         Field interviewer (Memory Effects Review)
@@ -88,6 +89,7 @@ becoming a coincidence.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-019/INT-002
+LOG TYPE:            Familiar-face Presentation Testimony
 DATE:                Multiple cases, 2000 – present
 LOCATION:            Field interview records
 INTERVIEWER:         Field interviewer
@@ -118,6 +120,7 @@ COMMON SUBJECT STATEMENTS (BEFORE MEMORY SOFTENING):
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-019/INT-003
+LOG TYPE:            Follow-up Interviews — the Memory-softening Curve
 DATE:                7 / 30 / 90 days post-event
 LOCATION:            Follow-up interview sites
 INTERVIEWER:         Field interviewer / memory-effects analyst
@@ -142,6 +145,7 @@ has produced distress without recovery.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-019/INT-004
+LOG TYPE:            Case Study 019-6 — the Collapsed Stairwell
 DATE:                Case 019-6 — on file
 LOCATION:            Collapsed-stairwell event site
 INTERVIEWER:         Field interviewer
@@ -165,6 +169,7 @@ figure, and a final memory with the rescuer removed entirely.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-019/INT-005
+LOG TYPE:            Mnestic-trial Review — Two Preserved-memory Cases
 DATE:                Trials suspended
 LOCATION:            Memory Effects Review facilities
 INTERVIEWER:         Memory-effects analyst
@@ -186,6 +191,7 @@ familiar face smiles, but no audio recording has captured a reply.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-019/INT-CLS-001
+LOG TYPE:            Closing Interview Statement
 DATE:                2026-09-08
 LOCATION:            Beneficial Anomaly Review
 AUTHOR:              Memory Effects Review

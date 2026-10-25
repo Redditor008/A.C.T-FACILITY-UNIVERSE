@@ -8,7 +8,7 @@ journals goes straight to the one shelf that holds them.
 
 ## Category shelves
 
-- [Non-category records](00-Non-Category-Records/) — 8 files
+- [Non-category records](00-Non-Category-Records/) — 6 files
 - [Category 1 — Recovery and Discovery](01-Recovery-and-Discovery/) — 4 files
 - [Category 2 — Interview and Testimony](02-Interview-and-Testimony/) — 4 files
 - [Category 3 — Experiment and Testing](03-Experiment-and-Testing/) — 11 files
@@ -17,7 +17,7 @@ journals goes straight to the one shelf that holds them.
 - [Category 6 — Research and Analysis](06-Research-and-Analysis/) — 4 files
 - [Category 7 — Recovered Document and Archive](07-Recovered-Document-and-Archive/) — 2 files
 - [Category 8 — Behavioral and Observation](08-Behavioral-and-Observation/) — 11 files
-- [Category 10 — Communication and Internal Correspondence](10-Communication-and-Internal-Correspondence/) — 2 files
+- [Category 10 — Communication and Internal Correspondence](10-Communication-and-Internal-Correspondence/) — 4 files
 - [Category 11 — Audio Video Sensor](11-Audio-Video-Sensor/) — 3 files
 - [Category 12 — Personal and Recovered Journal](12-Personal-and-Recovered-Journal/) — 3 files
 

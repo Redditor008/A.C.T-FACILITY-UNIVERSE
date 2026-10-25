@@ -54,6 +54,7 @@ researcher authorized to carry it.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-TI-560/ARC-001
+LOG TYPE:            Access and Handling Archive
 DATE:                1958-03-12 (verification) — ongoing
 LOCATION:            ACT-SITE-03-JP-E — Time-Shielded Vault
 ARCHIVIST:           Temporal Analysis Desk
@@ -83,6 +84,7 @@ HANDLING DISCIPLINE:
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-TI-560/ARC-002
+LOG TYPE:            Activation Record — 1999 Site-01 Breach Prevention
 DATE:                1999
 LOCATION:            Site-01 (activation site) / Site-03 (archive)
 ARCHIVIST:           Temporal Analysis Desk
@@ -106,6 +108,7 @@ CONSEQUENCE RECORD:
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-TI-560/ARC-003
+LOG TYPE:            Activation Record — Ball of Knife Recovery Operation
 DATE:                Recovery operation (on file)
 LOCATION:            Site-01 / Redwood Veil Complex
 ARCHIVIST:           Temporal Analysis Desk
@@ -125,6 +128,7 @@ option, not an instrument of convenience.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-TI-560/ARC-004
+LOG TYPE:            Recovered Inscription — Back-case Engraving
 DATE:                2021 (partial translation)
 LOCATION:            ACT-SITE-03-JP-E — translation desk
 ARCHIVIST:           Kurokawa translation unit
@@ -147,6 +151,7 @@ translation without assigning a story to it.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-TI-560/ARC-005
+LOG TYPE:            Operator Testimony — Dr. Aris Thorne
 DATE:                On file
 LOCATION:            Senior Researcher Thorne — archived note
 ARCHIVIST:           Temporal Analysis Desk
@@ -171,6 +176,7 @@ authorized to carry it.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-TI-560/ARC-CLS-001
+LOG TYPE:            Archive Closing Note
 DATE:                2026-09-08
 LOCATION:            Kurokawa Site Command / O5 Oversight
 AUTHOR:              Temporal Analysis Desk

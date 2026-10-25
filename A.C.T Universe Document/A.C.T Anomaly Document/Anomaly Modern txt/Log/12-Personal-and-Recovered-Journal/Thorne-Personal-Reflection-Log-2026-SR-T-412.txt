@@ -33,10 +33,14 @@ The entry provides a rare perspective on the internal state of a
 researcher who has maintained operational discipline for nearly a century.
 
 +------------------------------------------------------------------------+
+INCLUDED LOG TYPES:
+   - The Burden of the Watcher
+
                  SECTION 001 — THE BURDEN OF THE WATCHER
 +------------------------------------------------------------------------+
 
 LOG ID:              SR-T/JNL-2026-07
+LOG TYPE:            The Burden of the Watcher
 DATE:                2026-07-02 (Late Evening)
 
 [TEXT DRAFTED ON 1930s-ERA LINEN PAPER. THE INK IS STEADY, BUT LIGHTER

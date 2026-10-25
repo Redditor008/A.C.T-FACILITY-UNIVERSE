@@ -47,6 +47,7 @@ INCLUDED LOG TYPES:
 +--------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-412/PER-2001
+LOG TYPE:            The Re-interface Phase
 DATE RANGE:          2001-01-01 → 2001-12-31
 
 M01-M02:             Subject achieved full motor-control re-sync. Dr. Thorne
@@ -74,6 +75,7 @@ M11-M12:             First field-test. Thorne was tasked with identifying
 +--------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-412/PER-2005
+LOG TYPE:            Friction & Social Correction
 DATE RANGE:          2005-01-01 → 2005-12-31
 
 M01-M02:             Social friction log. New junior researchers are
@@ -98,6 +100,7 @@ M09-M10:             Stability Review: Thorne remains 100% focused on his
 +--------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-412/PER-2012
+LOG TYPE:            High-intensity Research Deployment
 DATE RANGE:          2012-01-01 → 2012-12-31
 
 M01-M02:             Thorne assigned to the Gems of Change (AFD-OB-612)
@@ -121,6 +124,7 @@ M11-M12:             Internal medical scan. Biological age remains 26.
 +--------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-412/PER-2020
+LOG TYPE:            The 110-year Biological Review
 DATE RANGE:          2020-01-01 → 2020-12-31
 
 M01-M02:             Dr. Thorne reached the chronological age of 110.

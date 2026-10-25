@@ -46,6 +46,7 @@ INCLUDED LOG TYPES:
 +---------------------------------------------------------------------+
 
 LOG ID:              AFD-NB-125/SRV-01
+LOG TYPE:            The Stretched Descent
 DATE:                2012-04-12
 ROV:                 Nusantara-4 (Heavy-Pressure Variant)
 
@@ -68,6 +69,8 @@ SURVEYOR (Comms):    "The spatial distortion is stabilizing. We're
                  SECTION 002 — THE ABYSSAL GARDEN
 +---------------------------------------------------------------------+
 
+
+LOG TYPE:            The Abyssal Garden
 [04:30:00] — ROV moves onto the dorsal shell. The surface is covered in
               "Proto-Kel"—long, bioluminescent strands of silicon-based
               flora.
@@ -88,6 +91,8 @@ ROV OPERATOR:        "I'm seeing a forest of white tentacles. They're
                SECTION 003 — THE CLAW CALCIFICATION
 +---------------------------------------------------------------------+
 
+
+LOG TYPE:            The Claw Calcification
 [08:14:00] — ROV travels toward the front-left quadrant to inspect the
               3 km "Resting" claw.
 
@@ -100,6 +105,8 @@ SURVEYOR (Comms):    "The left claw is anchored. It’s fused with the
                 SECTION 004 — THE SUCTION INCIDENT
 +---------------------------------------------------------------------+
 
+
+LOG TYPE:            The Suction Incident
 [10:45:00] — SUBJECT AGITATION: Acoustic sensors record a low-
               frequency resonance (4 Hz).
 

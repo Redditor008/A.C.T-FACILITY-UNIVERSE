@@ -43,6 +43,7 @@ INCLUDED LOG TYPES:
 +---------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-612/TST-E09
+LOG TYPE:            Trial 612-e-09 Chronology
 DATE:                2024-04-12
 SUBJECT:             E-Class E-612-09 (Male, age 44, History of [ REDACTED ])
 
@@ -67,6 +68,7 @@ OBSERVATION:
 +---------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-612/THORNE-05
+LOG TYPE:            Archivist's Analysis
 AUTHOR:              Aris Thorne (SR-412)
 
 "The 'Nudge' is the most dangerous part of this artifact. It doesn't

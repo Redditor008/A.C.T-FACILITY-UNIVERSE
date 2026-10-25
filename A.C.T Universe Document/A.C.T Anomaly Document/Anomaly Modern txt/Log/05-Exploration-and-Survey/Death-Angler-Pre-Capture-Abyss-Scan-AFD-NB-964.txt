@@ -45,6 +45,7 @@ INCLUDED LOG TYPES:
 +---------------------------------------------------------------------+
 
 LOG ID:              AFD-NB-964/SRV-09
+LOG TYPE:            The Optical Void
 DATE:                2024-01-20
 
 [00:00:00] — Nusantara-9 enters the trench.
@@ -63,6 +64,8 @@ OPERATOR (Comms):    "We have a massive sonar-return. But the camera is
                  SECTION 002 — THE FLOATING LURE
 +---------------------------------------------------------------------+
 
+
+LOG TYPE:            The Floating Lure
 [04:12:00] — THE ACTIVATION: The subject activates its lure.
 
 VISUAL:
@@ -85,6 +88,8 @@ body remains invisible; only the light exists.
                  SECTION 003 — THE PRE-HUNT SILENCE
 +---------------------------------------------------------------------+
 
+
+LOG TYPE:            The Pre-hunt Silence
 [04:22:00] — Subject initiates Stage II (The Dread Hunt).
 
 ACOUSTIC LOG:
@@ -99,6 +104,8 @@ THORNE NOTE:         "The subject was measuring the drone. It realized
                SECTION 004 — THE SINISTER HUNT
 +---------------------------------------------------------------------+
 
+
+LOG TYPE:            The Sinister Hunt
 [04:25:00] — Subject emits the "Jagged Screech." (182 dB recorded).
 
 THE EVENT:

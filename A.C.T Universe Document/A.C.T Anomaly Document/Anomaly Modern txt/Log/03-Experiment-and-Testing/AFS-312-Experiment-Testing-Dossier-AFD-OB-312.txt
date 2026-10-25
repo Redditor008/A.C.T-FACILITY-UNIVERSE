@@ -52,6 +52,7 @@ fact rather than manufacturer legend.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-312/EXP-001
+LOG TYPE:            Charge-cycle and Solar-absorption Calibration
 DATE:                2021-06-02 (verification) — ongoing
 LOCATION:            ACT-SITE-01-US-W — Total Light-Absorb vault
 TEST SUPERVISOR:     Weapons Technician / Tactical Review Desk
@@ -79,6 +80,7 @@ CALIBRATION RECORD:
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-312/EXP-002
+LOG TYPE:            Discharge Protocol — 50% Weak Scatter Shot
 DATE:                2021-2024 test series
 LOCATION:            Ballistic-vacuum range / Site-01
 TEST SUPERVISOR:     Weapons Technician
@@ -103,6 +105,7 @@ OBSERVED CHARACTERISTICS:
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-312/EXP-003
+LOG TYPE:            Discharge Protocol — 100% Focused Charge Shot
 DATE:                2021-2024 test series
 LOCATION:            Ballistic-vacuum range / Site-01
 TEST SUPERVISOR:     Weapons Technician / Tactical Review Desk
@@ -129,6 +132,7 @@ RESTRICTIONS:
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-312/EXP-004
+LOG TYPE:            Discharge Protocol — 10% Multi-shot
 DATE:                2021-2024 test series
 LOCATION:            Ballistic-vacuum range / Site-01
 TEST SUPERVISOR:     Weapons Technician
@@ -152,6 +156,7 @@ OBSERVED CHARACTERISTICS:
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-312/EXP-005
+LOG TYPE:            2023 Calibration Anomaly — Guild Registry Message
 DATE:                2023 (calibration cycle)
 LOCATION:            ACT-SITE-01-US-W — Total Light-Absorb vault
 TEST SUPERVISOR:     Weapons Technician / Tactical Review Desk
@@ -178,6 +183,7 @@ ANALYSIS:
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-312/EXP-CLS-001
+LOG TYPE:            Closing Testing Note
 DATE:                2026-09-08
 LOCATION:            Tactical Review Desk
 AUTHOR:              Weapons Technician, Site-01

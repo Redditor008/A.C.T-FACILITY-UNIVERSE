@@ -6,13 +6,11 @@ memoranda, a personnel dossier and side tales rather than dossiers filed under o
 the twelve categories. Classifying any of them is an archivist decision that has not
 been taken.
 
-## Files in this folder (8)
+## Files in this folder (6)
 
 - [MAGICAL MEW [Battle Style] ](MAGICAL%20MEW%20%5BBattle%20Style%5D%20.txt)
 - [MAGICAL MEW [Lyric]](MAGICAL%20MEW%20%5BLyric%5D.txt)
 - [MAGICAL-MEW-Official-Lyric-Manuscript](MAGICAL-MEW-Official-Lyric-Manuscript.txt)
-- [Memorandum-SR-T-412-2026-Observational-Standardization](Memorandum-SR-T-412-2026-Observational-Standardization.txt)
-- [Memorandum-SR-T-412-2026-Protocol-for-Causal-Integrity](Memorandum-SR-T-412-2026-Protocol-for-Causal-Integrity.txt)
 - [Personnel-Biography-Senior-Researcher-Aris-Thorne](Personnel-Biography-Senior-Researcher-Aris-Thorne.txt)
 - [The-Diary-of-a-Circus-Monster](The-Diary-of-a-Circus-Monster.txt)
 - [The-Long-Commute-to-Nowhere-Tale](The-Long-Commute-to-Nowhere-Tale.txt)

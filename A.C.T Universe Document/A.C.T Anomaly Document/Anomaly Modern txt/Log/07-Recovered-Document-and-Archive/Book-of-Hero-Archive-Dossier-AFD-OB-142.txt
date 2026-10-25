@@ -39,6 +39,7 @@ INCLUDED LOG TYPES:
 +-----------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-142/REC-01
+LOG TYPE:            The Cottage Recovery
 DATE:                2001-11-12
 LOCATION:            [ REDACTED ], UK.
 
@@ -58,6 +59,8 @@ occurred in a neighboring town three weeks after the story appeared.
                  SECTION 002 — SAMPLE STORY SUMMARIES
 +-----------------------------------------------------------------------+
 
+
+LOG TYPE:            Sample Story Summaries
 ENTRY 0442:          "The Iron Lantern"
 TONE:                Happy Ending
 SUMMARY:             A knight in a world of endless fog finds a way to
@@ -82,6 +85,8 @@ SUMMARY:             A hero stands before a closed door, waiting for a
              SECTION 003 — MANIFESTATION LEDGER (RECENT)
 +-----------------------------------------------------------------------+
 
+
+LOG TYPE:            Manifestation Ledger (recent)
 2005-2015:           114 new stories recorded. Tones balanced (60%
                      Happy, 40% Dark).
 2016-2024:           9 new stories recorded. All categorized as

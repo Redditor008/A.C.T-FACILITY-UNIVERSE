@@ -48,6 +48,7 @@ INCLUDED LOG TYPES:
 +---------------------------------------------------------------------+
 
 LOG ID:              AFD-SP-890/VID-01-EXP
+LOG TYPE:            The 730-day Timeline
 STATUS:              Verified / QNB-Hardened Footage
 
 [T+00:00:14] — Threshold Entry:
@@ -99,6 +100,7 @@ Subject collapses onto the concrete.
 +---------------------------------------------------------------------+
 
 LOG ID:              AFD-SP-890/PROB-01-EXP
+LOG TYPE:            Carriage Frequency Audit
 TYPE:                Causal Probability Analysis
 
 Based on the transit of 17,520 hours and approximately 1,200 carriage
@@ -120,6 +122,7 @@ Open-Top "Any"      | 30         | Manifests wheat, snow, or rubble.
 +---------------------------------------------------------------------+
 
 LOG ID:              AFD-SP-890/STA-01-EXP
+LOG TYPE:            Abyssal Architecture (stations)
 The train made 17,520 stops during the session. The following "Broken
 Stations" were identified as having significant narrative weight.
 
@@ -138,6 +141,7 @@ Stations" were identified as having significant narrative weight.
 +---------------------------------------------------------------------+
 
 LOG ID:              AFD-SP-890/MED-01
+LOG TYPE:            Biological & Psychological Attrition
 REVIEWER:            Medical Liaison Made Ayu Pradnya
 
 The subject, E-890-04, demonstrated physical aging consistent with a
@@ -156,6 +160,7 @@ Diagnosis: Chronic Causal Displacement Syndrome.
 +---------------------------------------------------------------------+
 
 LOG ID:              AFD-SP-890/THORNE-NOTE
+LOG TYPE:            The Thorne Consultation
 AUTHOR:              Aris Thorne (SR-412)
 
 "I was at the spur when they pulled 04 out. The man looked at

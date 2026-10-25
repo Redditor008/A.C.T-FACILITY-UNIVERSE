@@ -45,6 +45,7 @@ INCLUDED LOG TYPES:
 +----------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-855/INT-001
+LOG TYPE:            The Ocean of Dead Threads
 DATE:                2026-06-15
 LOCATION:            Site-03 / Social Sandbox
 INTERVIEWER:         Dr. Mireya Valcárcel (Dr. M)
@@ -203,6 +204,7 @@ ARGON:               "Tell O5-3 that if he asks me to migrate one
 +----------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-855/ARCH-001
+LOG TYPE:            Archivist's Analysis
 AUTHOR:              Dr. Mireya Valcárcel
 
 Finding:

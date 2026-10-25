@@ -26,9 +26,15 @@ analyzes the mechanical impact of the synchronization between the Mimi
 (Body) and Shu Shu (Soul) personas.
 
 +----------------------------------------------------------------------+
+INCLUDED LOG TYPES:
+   - Verified Attack Registry
+   - Charged Specials
+
                 SECTION 001 — VERIFIED ATTACK REGISTRY
 +----------------------------------------------------------------------+
 
+
+LOG TYPE:            Verified Attack Registry
 1. RAPID BOMBAA.. (Type: Multi-volley)
    - User: Shu Shu
    - Effect: Releases 5-8 small "cartoon fuse bombs." These scatter and
@@ -58,6 +64,8 @@ analyzes the mechanical impact of the synchronization between the Mimi
                SECTION 002 — CHARGED SPECIALS
 +----------------------------------------------------------------------+
 
+
+LOG TYPE:            Charged Specials
 1. MEW SPECIAL <3
    - Charge: 5-8 seconds.
    - Effect: Throws four 3-meter Catty Bombs simultaneously.

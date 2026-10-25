@@ -44,6 +44,7 @@ INCLUDED LOG TYPES:
 +------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-827/PERS-01
+LOG TYPE:            Personality & Framework
 AUTHOR:              Dr. Camila Rocha
 
 Vivienne Argent is an introverted, genre-literate NEET/otaku. Her
@@ -70,6 +71,7 @@ height). When cold, her cognition slows, an effect she describes as
 +------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-827/HIST-PRE
+LOG TYPE:            The Seclusion Log (pre-recovery)
 RANGE:               Transformation Day 01 → Day 31
 
 The following is a reconstruction of the subject’s time in her Seattle
@@ -105,6 +107,7 @@ DAY 31: A neighbor reports seeing a "massive python" through the window.
 +------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-827/OBS-30D
+LOG TYPE:            The Integration Log (post-recovery)
 AUTHOR:              Dr. Camila Rocha
 RANGE:               Integration Day 01 → Day 30
 

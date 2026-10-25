@@ -43,6 +43,7 @@ INCLUDED LOG TYPES:
 +---------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-283/SIM-001
+LOG TYPE:            The Opening Act
 DATE:                2026-07-10
 LOCATION:            Site-03 / High-Ceiling Training Bay 4
 TARGET:              Class-4 Synthetic Flesh Analog (Dummy-9)
@@ -69,6 +70,8 @@ SHU SHU:             "Ahuhuhu... alright, dearies! This is gonna be a
                  SECTION 002 — OFFENSIVE VOLLEYS
 +---------------------------------------------------------------------+
 
+
+LOG TYPE:            Offensive Volleys
 [00:00:32] — ATTACK 01: RAPID BOMBAA..
               Shu Shu takes control. The music shifts to [Frantic &
               Chaotic]. Eight small cartoon-style fuse bombs
@@ -95,6 +98,8 @@ The dummy's surface-temperature drops by 20°C instantly.
                  SECTION 003 — THE BACKLASH INCIDENT
 +---------------------------------------------------------------------+
 
+
+LOG TYPE:            The Backlash Incident
 [00:01:44] — ATTACK 03: SHU SHU BOMB
               The music becomes [Sudden Violent Aggression]. Shu
               Shu attempts to manifest an 8-meter giant bomb.
@@ -118,6 +123,8 @@ SHU SHU (Screaming): "SHUT UP! IT WAS YOUR FAULT!"
                  SECTION 004 — FINAL BEAM DISCHARGE
 +---------------------------------------------------------------------+
 
+
+LOG TYPE:            Final Beam Discharge
 [00:02:45] — SPECIAL: MEW LIGHT BEAAAAAM
               The personas reach a state of temporary
               Synchronization. The music reaches an [Explosive
@@ -142,6 +149,7 @@ a surge of 'Doki-Doki' harmonics).
 +---------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-283/THORNE-01
+LOG TYPE:            Archivist's Summary
 AUTHOR:              Aris Thorne (SR-412)
 
 "I monitored the simulation from the secondary booth. The subject is a

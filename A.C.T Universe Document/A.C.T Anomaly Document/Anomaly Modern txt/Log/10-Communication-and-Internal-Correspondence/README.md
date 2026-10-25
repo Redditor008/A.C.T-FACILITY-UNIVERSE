@@ -20,9 +20,11 @@ It is used when bureaucracy is part of the containment story.
 - ethics review affects containment
 - archive politics hide or reveal important information
 
-## Files in this folder (2)
+## Files in this folder (4)
 
 - [HIGENMARU-KŌRIN-Relocation-Log-AFD-OB-221](HIGENMARU-K%C5%8CRIN-Relocation-Log-AFD-OB-221.txt)
+- [Memorandum-SR-T-412-2026-Observational-Standardization](Memorandum-SR-T-412-2026-Observational-Standardization.txt)
+- [Memorandum-SR-T-412-2026-Protocol-for-Causal-Integrity](Memorandum-SR-T-412-2026-Protocol-for-Causal-Integrity.txt)
 - [[BLANK]-Communication-Internal-Correspondence-ANM-BL-BL-XXXX](%5BBLANK%5D-Communication-Internal-Correspondence-ANM-BL-BL-XXXX.txt)
 
 ## Where this folder sits

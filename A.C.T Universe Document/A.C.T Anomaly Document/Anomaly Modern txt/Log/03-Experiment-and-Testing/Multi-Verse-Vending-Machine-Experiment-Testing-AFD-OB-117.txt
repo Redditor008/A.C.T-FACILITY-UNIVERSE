@@ -43,6 +43,7 @@ INCLUDED LOG TYPES:
 +-----------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-117/ACQ-001
+LOG TYPE:            Acquisition Logs
 DATE:                2023-04-12
 ITEM NAME:           "Nether Rack"
 PRICE:               $45.00

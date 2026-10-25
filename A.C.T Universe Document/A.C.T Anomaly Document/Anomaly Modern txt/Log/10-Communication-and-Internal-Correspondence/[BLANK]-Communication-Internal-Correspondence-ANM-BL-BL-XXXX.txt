@@ -23,6 +23,9 @@ This dossier contains the corrected instructional note from O5-1
 concerning the specific breach conditions of ANM-BL-BL-XXXX.
 
 +-------------------------------------------------------------------------------+
+INCLUDED LOG TYPES:
+   - The Handwritten Note
+
                     SECTION 001 — THE HANDWRITTEN NOTE
 +-------------------------------------------------------------------------------+
 

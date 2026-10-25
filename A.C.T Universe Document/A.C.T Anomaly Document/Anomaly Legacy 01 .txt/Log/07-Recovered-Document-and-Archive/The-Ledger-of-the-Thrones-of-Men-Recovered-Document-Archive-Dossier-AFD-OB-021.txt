@@ -59,6 +59,7 @@ only surviving sovereign-chain continuity connected to AFD-SU-009.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-021/ARC-001
+LOG TYPE:            Recovery Record — Horned Ledger Retrieval (1976)
 DATE:                1976-11-02 (detection) / 1976-11-13 (verification)
 LOCATION:            Sealed vault beneath estate ruin / Siena, Italy
 RECOVERING OPERATOR:  Agent Sofia Bellandi / Archiver Division
@@ -83,6 +84,7 @@ Passed Hand to Hand From Sovereign to Sovereign, in Silence."
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-021/ARC-002
+LOG TYPE:            Sovereign-chain Mechanism — the Chapter-duty Response
 DATE:                Standing — mechanism study
 LOCATION:            Primary Facility — sealed document chamber
 RECOVERING OPERATOR:  Historical reviewer
@@ -115,6 +117,7 @@ are all insufficient by themselves.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-021/ARC-003
+LOG TYPE:            Recovered Text Register — Entry Summaries
 DATE:                Transcription review
 LOCATION:            Archiver Division — sealed document chamber
 RECOVERING OPERATOR:  Historical reviewer
@@ -146,6 +149,7 @@ UNAWARE OF IT. (She is aware. She pretends not to be.)"
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-021/ARC-004
+LOG TYPE:            Corrective Title Pressure — Marginalia Record
 DATE:                Standing — same-cabinet effect
 LOCATION:            Primary Facility — noble-lineage document chamber
 RECOVERING OPERATOR:  Historical reviewer
@@ -167,6 +171,7 @@ effect becomes more active when disrespectful phrasing is written nearby.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-021/ARC-005
+LOG TYPE:            Custodial Doctrine and Non-interference
 DATE:                Standing
 LOCATION:            Central Archive Administration
 RECOVERING OPERATOR:  Archive handler
@@ -198,6 +203,7 @@ CUSTODIAL NOTES:
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-021/ARC-CLS-001
+LOG TYPE:            Closing Archive Statement
 DATE:                2026-09-08
 LOCATION:            Historical Anomaly Review
 AUTHOR:              Archiver Division

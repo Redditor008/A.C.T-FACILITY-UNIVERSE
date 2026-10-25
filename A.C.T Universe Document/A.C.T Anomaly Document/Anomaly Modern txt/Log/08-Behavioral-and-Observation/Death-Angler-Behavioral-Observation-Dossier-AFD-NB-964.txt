@@ -44,6 +44,7 @@ INCLUDED LOG TYPES:
 +-----------------------------------------------------------------------+
 
 LOG ID:              AFD-NB-964/FED-01
+LOG TYPE:            The Dread Hunt Sequence
 DATE:                2024-03-12
 SUBJECT:             Controlled Feeding (Non-Sentient Biological Mass)
 
@@ -73,6 +74,7 @@ OBSERVATION LOG:
 +-----------------------------------------------------------------------+
 
 LOG ID:              AFD-NB-964/INT-01
+LOG TYPE:            Predatory Intelligence
 AUTHOR:              Care Specialist Made Ayu Pradnya
 
 "The subject is not an animal. It is an auditor.
@@ -94,6 +96,7 @@ trance. It is grading us."
 +-----------------------------------------------------------------------+
 
 LOG ID:              AFD-NB-964/ACU-01
+LOG TYPE:            The Jagged Screech
 REVIEWER:            Dr. Aris Thorne (SR-412)
 
 ANALYSIS:
@@ -114,6 +117,7 @@ is a performance for an audience of one: the prey."
 +-----------------------------------------------------------------------+
 
 LOG ID:              AFD-NB-964/VIS-01
+LOG TYPE:            Invisibility Cycles
 TYPE:                Optical Stability Audit
 
 The subject’s invisibility is absolute. When the lure is inactive, the

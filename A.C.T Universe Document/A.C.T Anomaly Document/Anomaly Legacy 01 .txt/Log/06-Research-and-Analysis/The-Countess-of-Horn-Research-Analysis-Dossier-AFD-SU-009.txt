@@ -46,6 +46,7 @@ INCLUDED LOG TYPES:
 +---------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-009/HIS-100
+LOG TYPE:            The Era of Mutual Recognition
 RANGE:               1926 → 1950
 
 Contact was formally established in 1926 by the Five Founders. At the
@@ -75,6 +76,8 @@ the terrain.
                  SECTION 002 — DOCTRINAL SYNTHESIS
 +---------------------------------------------------------------------+
 
+
+LOG TYPE:            Doctrinal Synthesis
 The following institutional standards were codified through the
 synthesis of O5 field data and the subject's historical accounts.
 
@@ -102,6 +105,7 @@ III. THE ARCHITECTURE OF THE LATTICE
 +---------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-009/ACT-RVW
+LOG TYPE:            Archivist's Review
 AUTHOR:              ACT Lead Alejandra Ibarra
 
 "We treat AFD-SU-009 as a living treasury of institutional context. The
@@ -118,6 +122,7 @@ both."
 +---------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-009/THORNE-01
+LOG TYPE:            The Thorne Perspective
 AUTHOR:              Aris Thorne (SR-412)
 
 "I have attended three Audiences in the last twenty years. There is an

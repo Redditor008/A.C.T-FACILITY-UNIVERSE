@@ -13,6 +13,8 @@ SUBJECT:             Standardization of Tactile Input, Observational
 DATE:                2026-07-02
 CLEARANCE:           Level 3 or Higher
 
+DOCUMENT CATEGORY:   CATEGORY X — Communication & Internal Correspondence Dossier
+
 +--------------------------------------------------------------------------------------------------------------------+
                          AUTHOR'S PREFACE
 +--------------------------------------------------------------------------------------------------------------------+
@@ -34,9 +36,19 @@ century of watching reality break
 when it is handled without manners.
 
 +--------------------------------------------------------------------------------------------------------------------+
+INCLUDED LOG TYPES:
+   - The Weight of the Pen
+   - The Manners of the Lab
+   - Classification and Coarse Language
+   - The Chronological Vantage
+   - The Sensory Discipline
+   - The First Lie Revisited
+
                  SECTION 001 — THE WEIGHT OF THE PEN
 +--------------------------------------------------------------------------------------------------------------------+
 
+
+LOG TYPE:            The Weight of the Pen
 The first correction involves the digitalization of primary logs. I have reviewed
 the recent UFD intake files from Site-03 and Site-05. The entries are clean, the
 timestamps are precise to the millisecond, and the data is utterly hollow.
@@ -67,6 +79,8 @@ too lazy to be a researcher.
                  SECTION 002 — THE MANNERS OF THE LAB
 +--------------------------------------------------------------------------------------------------------------------+
 
+
+LOG TYPE:            The Manners of the Lab
 Junior researchers frequently ask me why I insist on "Announcement Protocols" (Reference: AFD-SU-005, The
 Anny/Politeness Protocol). They believe that because they are the "scientists," they have the right to enter a
 containment suite without pause.
@@ -97,6 +111,8 @@ the only "Anti Reality Mesh" that doesn't require a power supply.
                  SECTION 003 — CLASSIFICATION AND COARSE LANGUAGE
 +--------------------------------------------------------------------------------------------------------------------+
 
+
+LOG TYPE:            Classification and Coarse Language
 I am weary of seeing the word "Keter" or "Thaumiel" scribbled in the margins
 of unofficial notes by transfers from
 mirror-reality projects. A.C.T does not use those terms. Those terms imply a religious or mystical hierarchy that
@@ -127,6 +143,8 @@ result: "Hostile to biological tissue," "Corrosive to linear time," or "Resonant
                  SECTION 004 — THE CHRONOLOGICAL VANTAGE
 +--------------------------------------------------------------------------------------------------------------------+
 
+
+LOG TYPE:            The Chronological Vantage
 To my fellow Senior Researchers:
 
 We are the only ones who remember what the Facility was before the Site
@@ -157,6 +175,8 @@ breach.
                  SECTION 005 — THE SENSORY DISCIPLINE
 +--------------------------------------------------------------------------------------------------------------------+
 
+
+LOG TYPE:            The Sensory Discipline
 For the Junior staff:
 
 Many of you find me "blunt." You find my refusal to use nicknames—with one
@@ -182,6 +202,8 @@ building "Breathing," then you are ready to start real research.
                  SECTION 006 — THE FIRST LIE REVISITED
 +--------------------------------------------------------------------------------------------------------------------+
 
+
+LOG TYPE:            The First Lie Revisited
 We are an organization built on forgetting. The 004-Series compounds are the only reason society hasn't burned itself
 down. But there is a danger in forgetting your own work.
 

@@ -44,6 +44,7 @@ INCLUDED LOG TYPES:
 +--------------------------------------------------------------------------+
 
 LOG ID:              AFD-NB-204/ORG-001
+LOG TYPE:            The Creator Profile
 DATE:                2019-07-10 (Retrospective)
 
 The original creator of the anomaly has been identified as Leo [ REDACTED ],
@@ -62,6 +63,7 @@ when working on botanical shapes.
 +--------------------------------------------------------------------------+
 
 LOG ID:              AFD-NB-204/ORG-002
+LOG TYPE:            The Act of Folding
 DATE:                2019-05-12 (Date of Completion)
 
 Three days prior to his final scheduled treatment—which the medical
@@ -83,6 +85,7 @@ Leo [ REDACTED ] expired during the treatment 14 hours later.
 +--------------------------------------------------------------------------+
 
 LOG ID:              AFD-NB-204/ORG-003
+LOG TYPE:            The Mother’s Gift
 
 Following the death of her son, Leo’s mother observed the flower’s first
 "Rainbow Bloom" one month later. Noticing that the flower seemed to
@@ -105,6 +108,7 @@ undercover A.C.T observers.
 +--------------------------------------------------------------------------+
 
 LOG ID:              AFD-NB-204/REC-001
+LOG TYPE:            A.c.t Recovery
 RESPONDING FIELD OPERATOR: Agent Elise Moreau
 
 Agent Moreau conducted the retrieval of the object on 2019-06-25. To

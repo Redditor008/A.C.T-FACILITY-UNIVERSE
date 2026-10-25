@@ -59,6 +59,7 @@ three annual 100% visibility windows require of the containment network.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-703/RES-001
+LOG TYPE:            Visibility Window Correlation — the Nyxara Calendar
 DATE:                1959-10-07 (Lunik 3 Correlation) — reviewed annually
 LOCATION:            Earth Orbital Relay / Site-03 (Kurokawa) signal station
 AUTHOR:              Celestial Analysis Desk / Cosmic Hazard Review
@@ -95,6 +96,7 @@ maritime-link operators, with an annual visibility-window calibration cycle.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-703/RES-002
+LOG TYPE:            Tidal-linkage and Hydrological Anchor Review
 DATE:                Ongoing / updated quarterly
 LOCATION:            Nusantara Deep Relay — Maritime Correlation Desk
 AUTHOR:              Cosmic Hazard Review with maritime-link operators
@@ -122,6 +124,7 @@ with subject movement must have its data intercepted.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-703/RES-003
+LOG TYPE:            Proximity-invisibility Hypothesis File
 DATE:                Ongoing — updated with each lunar mission
 LOCATION:            Earth Orbital Relay / Cosmic Hazard Review
 AUTHOR:              Celestial Analysis Desk
@@ -149,6 +152,7 @@ be altered to test the property, and no attempt to defeat it is authorized.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-703/RES-004
+LOG TYPE:            Acoustic Anomaly — the 1,000 Km Sleep Hum
 DATE:                On file — continuous correlation
 LOCATION:            Lunar surface acoustic array / Earth-orbital relay
 AUTHOR:              Sensor Analysis Group
@@ -169,6 +173,7 @@ direct physiological reading A.C.T possesses of AFD-CH-703.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-703/RES-005
+LOG TYPE:            Age, Origin, and Dormancy-protection Assessment
 DATE:                Standing assessment
 LOCATION:            Cosmic Hazard Review
 AUTHOR:              Origin Studies Desk / Cosmic Hazard Review
@@ -192,6 +197,7 @@ the lunar surface.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-703/CON-001
+LOG TYPE:            Consultation Record — the Countess of Horn (1968)
 DATE:                1968
 LOCATION:            Transformation-review consult — restricted
 AUTHOR:              [ REDACTED ] / External consult: The Countess of Horn
@@ -215,6 +221,7 @@ approached, woken, moved, or altered in any way.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-703/CLS-001
+LOG TYPE:            Closing Archive Statement
 DATE:                2026-09-08
 LOCATION:            Cosmic Hazard Review
 AUTHOR:              Celestial Analysis Desk

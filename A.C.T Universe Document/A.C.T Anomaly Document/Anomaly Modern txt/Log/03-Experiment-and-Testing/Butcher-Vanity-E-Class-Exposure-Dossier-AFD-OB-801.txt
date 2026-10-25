@@ -44,6 +44,7 @@ INCLUDED LOG TYPES:
 +---------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-801/TST-E01
+LOG TYPE:            The Wood-to-flesh Trial
 DATE:                2024-02-14
 SUBJECT:             E-Class E-801-09 (PR Score: 42)
 
@@ -77,6 +78,7 @@ composition.
 +---------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-801/TST-E02
+LOG TYPE:            The Whisper Progression
 DATE:                2024-03-01
 SUBJECT:             E-Class E-801-12 (PR Score: 89 - High Resilience)
 
@@ -104,6 +106,7 @@ immediate termination of the test.
 +---------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-801/THORNE-04
+LOG TYPE:            Archivist's Analysis
 AUTHOR:              Aris Thorne (SR-412)
 
 "I sat in the observation booth for the E-801-12 trial. The subject was

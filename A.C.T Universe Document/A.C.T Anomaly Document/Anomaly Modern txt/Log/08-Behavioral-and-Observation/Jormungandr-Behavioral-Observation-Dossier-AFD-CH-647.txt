@@ -52,6 +52,7 @@ dangerous, or otherwise — can be recognized the moment it begins.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-647/OBS-001
+LOG TYPE:            Feeding-cycle and Pressure-regulation Log
 DATE:                1974-09-18 (detection) — ongoing
 LOCATION:            Mount [ REDACTED ] — lower-chamber seismic imaging
 OBSERVER:            Seismic Analysis Desk / Volcanic Monitoring Desk
@@ -85,6 +86,7 @@ feeding.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-647/OBS-002
+LOG TYPE:            Temperament and Cooperation Review
 DATE:                Reviewed annually
 LOCATION:            Mount [ REDACTED ] / Cosmic Hazard Review
 OBSERVER:            Behavioral Review Desk
@@ -115,6 +117,7 @@ treating it as a weapon, and neither justifies treating it as a pet.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-647/OBS-003
+LOG TYPE:            Aversion and Provocation Watch
 DATE:                Standing
 LOCATION:            Mount [ REDACTED ] — rim station and relay
 OBSERVER:            Remote Security Officer / Volcanic Monitoring Desk
@@ -142,6 +145,7 @@ distress, or a more severe response.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-647/OBS-004
+LOG TYPE:            Silence Protocol — When Quiet Means Trouble
 DATE:                2026-09-08 (codified from Additional Notes)
 LOCATION:            Mount [ REDACTED ] / Cosmic Hazard Review
 OBSERVER:            Seismic Analysis Desk
@@ -167,6 +171,7 @@ ACTION ON QUIET:
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-647/OBS-CLS-001
+LOG TYPE:            Closing Observation Statement
 DATE:                2026-09-08
 LOCATION:            Cosmic Hazard Review
 AUTHOR:              Behavioral Review Desk

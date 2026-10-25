@@ -54,6 +54,7 @@ of an ending for an actual one.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-016/OBS-001
+LOG TYPE:            Manifestation and Shape-state Observation
 DATE:                2010-04-09 (detection) — ongoing
 LOCATION:            Event-responsive network / multiple confirmed sites
 OBSERVER:            Cosmic Hazard Review — indirect observation teams
@@ -87,6 +88,7 @@ corresponding distance change.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-016/OBS-002
+LOG TYPE:            World-end Scenario Exposure Profile
 DATE:                WES-016 profile — standing
 LOCATION:            Post-exposure care facilities / field sites
 OBSERVER:            Psychic-resistance medic / WES treatment team
@@ -119,6 +121,7 @@ world-ending image. This distinction is mandatory in all briefings.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-016/OBS-003
+LOG TYPE:            Anti-apocalyptic Interference Record
 DATE:                Event-correlated record
 LOCATION:            Apocalyptic-escalation sites
 OBSERVER:            Apocalyptic-target specialist during active events
@@ -152,6 +155,7 @@ or competition — is unknown.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-016/OBS-004
+LOG TYPE:            Visual-exposure Control and Filtered Observation
 DATE:                Standing protocol
 LOCATION:            Field deployments / observation posts
 OBSERVER:            Indirect observer (3 assigned during active events)
@@ -174,6 +178,7 @@ is prohibited unless the entity directly threatens a populated area.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-016/OBS-005
+LOG TYPE:            Wes Treatment and Correction Protocol
 DATE:                Standing — monthly WES training review
 LOCATION:            Post-exposure care facilities
 OBSERVER:            Psychic-resistance medic
@@ -194,6 +199,7 @@ safe. Both statements are inaccurate in ways that can get personnel killed.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-016/OBS-CLS-001
+LOG TYPE:            Cross-anomaly Note and Closing Statement
 DATE:                2026-09-08
 LOCATION:            Apocalyptic Continuity Desk
 AUTHOR:              Cosmic Hazard Review

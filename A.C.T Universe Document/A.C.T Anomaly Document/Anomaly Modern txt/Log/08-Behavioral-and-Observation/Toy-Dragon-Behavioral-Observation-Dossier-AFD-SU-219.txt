@@ -56,6 +56,7 @@ are never given a reason to begin.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-219/OBS-001
+LOG TYPE:            Habitat Welfare Observation
 DATE:                1950-12-12 (verification) — ongoing
 LOCATION:            ACT-SITE-04-BR-C — Juvenile Habitat, Subject Care Wing
 OBSERVER:            Subject Care Handler / Bio-Maintenance Tech
@@ -80,6 +81,7 @@ child's needs and a child's dignity.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-219/OBS-002
+LOG TYPE:            Feeding Behavior and Zero-waste Metabolism Log
 DATE:                Ongoing — twice-daily feeding
 LOCATION:            ACT-SITE-04-BR-C — feeding station
 OBSERVER:            Subject Care Handler
@@ -108,6 +110,7 @@ conversion of matter into structure.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-219/OBS-003
+LOG TYPE:            Shedding Cycle and Scale Collection Log
 DATE:                Cycle record — every 1 to 3 months
 LOCATION:            ACT-SITE-04-BR-C — habitat floor
 OBSERVER:            Bio-Maintenance Tech
@@ -131,6 +134,7 @@ COLLECTION RECORD:
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-219/OBS-004
+LOG TYPE:            Thermal Mist Respiration Record
 DATE:                Standing observation
 LOCATION:            ACT-SITE-04-BR-C — habitat
 OBSERVER:            Bio-Maintenance Tech
@@ -155,6 +159,7 @@ ANALYSIS:
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-219/OBS-005
+LOG TYPE:            Enrichment and Reading Sessions
 DATE:                Ongoing — monitored sessions
 LOCATION:            ACT-SITE-04-BR-C — observation pane
 OBSERVER:            Subject Care Handler
@@ -182,6 +187,7 @@ still be read one.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-219/OBS-CLS-001
+LOG TYPE:            Closing Observation Statement
 DATE:                2026-09-08
 LOCATION:            Subject Care Desk / Verde Null Command
 AUTHOR:              Subject Care Division

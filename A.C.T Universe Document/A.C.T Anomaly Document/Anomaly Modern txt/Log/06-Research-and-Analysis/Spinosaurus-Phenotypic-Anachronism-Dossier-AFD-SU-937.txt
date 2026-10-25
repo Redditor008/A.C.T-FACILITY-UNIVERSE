@@ -44,6 +44,7 @@ INCLUDED LOG TYPES:
 +-----------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-937/MOR-01
+LOG TYPE:            Comparative Morphology
 DATE:                2024-06-25
 
 The A.C.T Paleontological Desk has performed a side-by-side comparison
@@ -75,6 +76,7 @@ film Jurassic Park III. The divergence is too precise to be random.
 +-----------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-937/LOG-01
+LOG TYPE:            Researcher Note: Dr. Brooks
 AUTHOR:              Dr. Nathan Brooks
 
 "I have spent my life digging up the real Spinosaurus. I know its bones.
@@ -97,6 +99,7 @@ if reality saw our movies and decided to make them true."
 +-----------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-937/THORNE-CONSULT
+LOG TYPE:            Consultative Note: Dr. Thorne
 AUTHOR:              Aris Thorne (SR-412)
 
 "Dr. Brooks is looking at the bones. I am looking at the 'Script.'

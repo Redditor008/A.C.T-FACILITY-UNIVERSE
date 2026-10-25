@@ -25,10 +25,14 @@ broadcast initiated by AFD-SU-283. It captures the competitive duet
 between Mimi and Shu Shu and the anomalous background chanting.
 
 +--------------------------------------------------------------------------------------------------------------+
+INCLUDED LOG TYPES:
+   - Full Transcript
+
                SECTION 001 — FULL TRANSCRIPT
 +--------------------------------------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-283/TRN-CONCERT-MASTER
+LOG TYPE:            Full Transcript
 STATUS:              Verified / Absolute Sync
 
 [00:00-00:08][DIALOGUE] "Ahuhuhu... alright, dearies! This is gonna be

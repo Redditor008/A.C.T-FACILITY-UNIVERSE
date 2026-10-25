@@ -54,6 +54,7 @@ recognized the moment they begin.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-502/OBS-001
+LOG TYPE:            Magnetic-restraint and Vibration Watch
 DATE:                1994-12-05 (verification) — ongoing
 LOCATION:            ACT-SITE-01-US-W — magnetic vault
 OBSERVER:            Magnetic-Field Technician / Remote Operator
@@ -79,6 +80,7 @@ OBSERVER NOTE: The clicking is not noise. It is the subject thinking in tools.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-502/OBS-002
+LOG TYPE:            Aggression and Life-seeking Behavior Log
 DATE:                1994-2024 review series
 LOCATION:            ACT-SITE-01-US-W — observation records
 OBSERVER:            Combat-Anomaly Desk
@@ -107,6 +109,7 @@ was already complete.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-502/OBS-003
+LOG TYPE:            Hate-signal Monitoring — Psychological Note
 DATE:                Standing
 LOCATION:            ACT-SITE-01-US-W — observation wing
 OBSERVER:            Psychological Review Desk
@@ -132,6 +135,7 @@ vault long enough to mistake its contempt for a message.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-502/OBS-004
+LOG TYPE:            Wire-lattice Activity — the 'quit' Observation
 DATE:                On file
 LOCATION:            ACT-SITE-01-US-W — magnetic vault
 OBSERVER:            Remote Operator
@@ -153,6 +157,7 @@ treated as threat language, not negotiation.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-502/OBS-005
+LOG TYPE:            2011 Breach Review — Door Vibrational Bypass
 DATE:                2011 (breach review)
 LOCATION:            ACT-SITE-01-US-W — containment wing
 OBSERVER:            Combat-Anomaly Desk / Incident review
@@ -179,6 +184,7 @@ CONTAINMENT UPDATES AFTER REVIEW:
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-502/OBS-CLS-001
+LOG TYPE:            Closing Observation Statement
 DATE:                2026-09-08
 LOCATION:            Combat-Anomaly Desk
 AUTHOR:              Behavioral Review Desk

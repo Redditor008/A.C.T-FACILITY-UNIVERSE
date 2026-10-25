@@ -56,6 +56,7 @@ from a distance.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-017/EXP-001
+LOG TYPE:            Inert-state Verification and Slot-rejection Testing
 DATE:                2001-09-04 (verification) — ongoing
 LOCATION:            ACT-SITE-01-US-W — vertical machine chamber
 TEST SUPERVISOR:     Remote machinery technician
@@ -85,6 +86,7 @@ increased sympathy toward the object's incompleteness.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-017/EXP-002
+LOG TYPE:            Chosen-subject Compulsion Records
 DATE:                Standing — incident-correlated
 LOCATION:            ACT-SITE-01-US-W — observation records
 TEST SUPERVISOR:     Compulsion response officer
@@ -110,6 +112,7 @@ within 5 m of the anomaly under any condition.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-017/EXP-003
+LOG TYPE:            Heart-signal Transfer Analysis — Stage One
 DATE:                Incident-correlated footage review
 LOCATION:            High-speed footage analysis / Incident 017-B frames
 TEST SUPERVISOR:     Anomalous Machinery Review
@@ -137,6 +140,7 @@ time
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-017/EXP-004
+LOG TYPE:            Stage Two Guardian-state Observation
 DATE:                Stage Two activations on file
 LOCATION:            ACT-SITE-01-US-W — Stage Two observation
 TEST SUPERVISOR:     Remote containment units only
@@ -166,6 +170,7 @@ OBSERVED CONSTRAINTS:
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-017/EXP-005
+LOG TYPE:            Incident Review 017-a
 DATE:                Incident 017-A — on file
 LOCATION:            ACT-SITE-01-US-W — Stage Two zone
 TEST SUPERVISOR:     Anomalous Machinery Review
@@ -188,6 +193,7 @@ the anomaly is pinned by magnetic floor braces and overhead cable restraints.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-OB-017/EXP-CLS-001
+LOG TYPE:            Closing Testing Note
 DATE:                2026-09-08
 LOCATION:            Anomalous Machinery Review
 AUTHOR:              Object Containment Division

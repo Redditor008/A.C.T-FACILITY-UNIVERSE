@@ -60,6 +60,7 @@ intake document it is, separate from the AFD record of the same subject.
 +----------------------------------------------------------------------------+
 
 LOG ID:              UFD-NB-004/ARC-001
+LOG TYPE:            Sealed-record Register — Authority and Distribution
 DATE:                Intake era — sealed since formal filing
 LOCATION:            Early Biohazard Containment Record
 OBSERVER:            Archive reviewer / Central Archive Administration
@@ -82,6 +83,7 @@ remain on file, separate.
 +----------------------------------------------------------------------------+
 
 LOG ID:              UFD-NB-004/ARC-002
+LOG TYPE:            Initial Record — Intake Documentation
 DATE:                Intake documentation
 LOCATION:            Initial recovery site (undisclosed)
 OBSERVER:            Discovery team — early biohazard record
@@ -111,6 +113,7 @@ irreversible memory erasure.
 +----------------------------------------------------------------------------+
 
 LOG ID:              UFD-NB-004/ARC-003
+LOG TYPE:            Observed Properties Register
 DATE:                Observed at intake
 LOCATION:            Early containment observation
 OBSERVER:            Discovery team
@@ -130,6 +133,7 @@ OBSERVED PROPERTIES (as recorded in the UFD intake):
 +----------------------------------------------------------------------------+
 
 LOG ID:              UFD-NB-004/ARC-004
+LOG TYPE:            Early Conclusion and Intake Judgment
 DATE:                Intake judgment
 LOCATION:            Early Biohazard Containment Record
 OBSERVER:            Discovery team
@@ -151,6 +155,7 @@ completed under the AFD-NB-004 filing.
 +----------------------------------------------------------------------------+
 
 LOG ID:              UFD-NB-004/ARC-005
+LOG TYPE:            Initial Directive — the Six Standing Rules
 DATE:                Intake directive — standing
 LOCATION:            Early Biohazard Containment Record
 OBSERVER:            Containment command (early era)
@@ -173,6 +178,7 @@ doctrine now standing under AFD-NB-004.
 +----------------------------------------------------------------------------+
 
 LOG ID:              UFD-NB-004/ARC-CLS-001
+LOG TYPE:            Historical Note and Closing Archive Statement
 DATE:                2026-09-08
 LOCATION:            Early Biohazard Containment Record
 AUTHOR:              Central Archive Administration

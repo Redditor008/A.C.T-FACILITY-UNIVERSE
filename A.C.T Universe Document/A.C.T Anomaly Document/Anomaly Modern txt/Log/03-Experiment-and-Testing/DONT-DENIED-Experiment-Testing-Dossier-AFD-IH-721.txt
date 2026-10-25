@@ -53,6 +53,7 @@ against hostile deceptions in the 715-Series.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-IH-721/EXP-001
+LOG TYPE:            Visual-exposure Protocol and Constraint Trial
 DATE:                1994-03-15 (verification) — ongoing
 LOCATION:            ACT-SITE-03-JP-E — Kurokawa Archive Node
 TEST SUPERVISOR:     Archivist Nora Ashfield / Info-Hazard Desk
@@ -78,6 +79,7 @@ OBSERVED CONSTRAINTS:
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-IH-721/EXP-002
+LOG TYPE:            The One-million-dollar Misdescription Trial
 DATE:                On file
 LOCATION:            ACT-SITE-03-JP-E — controlled chamber
 TEST SUPERVISOR:     Info-Hazard Desk
@@ -99,6 +101,7 @@ it is a hardware limit on the reporting of a specific data-set.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-IH-721/EXP-003
+LOG TYPE:            Descriptive-limit Mapping
 DATE:                Multiple sessions
 LOCATION:            ACT-SITE-03-JP-E — controlled chamber
 TEST SUPERVISOR:     Info-Hazard Desk
@@ -122,6 +125,7 @@ available description.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-IH-721/EXP-004
+LOG TYPE:            Post-exposure Persistence Review
 DATE:                Standing review
 LOCATION:            ACT-SITE-03-JP-E — follow-up assessments
 TEST SUPERVISOR:     Info-Hazard Desk
@@ -147,6 +151,7 @@ OPERATIONAL CONSEQUENCE:
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-IH-721/EXP-005
+LOG TYPE:            Training-tool Feasibility Study
 DATE:                Open investigation
 LOCATION:            ACT-SITE-03-JP-E / Recruit Training Coordination
 TEST SUPERVISOR:     Info-Hazard Desk
@@ -171,6 +176,7 @@ learned one fact very hard.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-IH-721/EXP-CLS-001
+LOG TYPE:            Closing Testing Statement
 DATE:                2026-09-08
 LOCATION:            Info-Hazard Desk
 AUTHOR:              Archiver Division

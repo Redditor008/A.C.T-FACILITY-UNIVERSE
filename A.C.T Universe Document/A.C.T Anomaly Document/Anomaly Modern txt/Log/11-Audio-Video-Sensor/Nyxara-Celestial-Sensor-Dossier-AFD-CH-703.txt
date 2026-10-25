@@ -54,6 +54,7 @@ reinterpretation.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-703/SEN-001
+LOG TYPE:            Lunar Far-side Acoustic Array — Sleep Hum Capture
 DATE-TIME:           Continuous capture — reference recording on file
 LOCATION:            Lunar far-side passive acoustic array / Earth-orbital
                      relay downlink
@@ -81,6 +82,7 @@ subject remains asleep.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-703/SEN-002
+LOG TYPE:            Orbital Relay — Visibility-window Protocol Run
 DATE-TIME:           Annual — last run [ REDACTED ]
 LOCATION:            Earth-orbital relay constellation / ground stations
 RECORDING METHOD:    Telemetry and command log
@@ -113,6 +115,7 @@ Cloud-Seeding Masking.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-703/SEN-003
+LOG TYPE:            Site-03 Signal Burst — Atmospheric Distortion Override
 DATE-TIME:           Recorded during annual visibility windows
 LOCATION:            Site-03 (Kurokawa) Archive Node — signal station
 RECORDING METHOD:    Transmitter command and effect telemetry
@@ -136,6 +139,7 @@ suppression frames are narrated as "Lunar Phenomena" or "Camera Artifacts."
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-703/SEN-004
+LOG TYPE:            Nusantara Hydrophone — Hydrological Pulse Correlate
 DATE-TIME:           Event-window correlation, ongoing
 LOCATION:            Nusantara Deep Relay — deep hydrophone network
 RECORDING METHOD:    Hydrophone array / pressure and current telemetry
@@ -165,6 +169,7 @@ name.
 +----------------------------------------------------------------------------+
 
 LOG ID:              AFD-CH-703/SEN-005
+LOG TYPE:            Analyst Notes — What the Record Does and Does Not Show
 DATE:                2026-09-08
 LOCATION:            Cosmic Hazard Review
 AUTHOR:              Senior Analyst — Celestial Desk
