@@ -10,6 +10,7 @@ import collections
 import pathlib
 import re
 import subprocess
+import urllib.parse
 import sys
 
 # A silent workspace reset takes local history back to this commit and wipes
@@ -214,6 +215,29 @@ def main() -> int:
             continue
         if any(_lowstart.search(ln) for ln in read(p).split("\n")):
             r["STORY_LOWERCASE_SENTENCE_STARTS"] += 1
+    # Owner ruling, from a fresh-eyes reader review: a README that describes the
+    # folder and then stops is a dead end, and a link that does not resolve is
+    # worse than no link. Both were found by hand walking the repository as a new
+    # reader, so both are gated here. Presentation folders are excluded because
+    # they hold assets and reserved space rather than documents to open.
+    _rd_skip = {".git", ".arena", "Logo", "docs", "__pycache__"}
+    _readmes = [p for p in ROOT.rglob("README.md")
+                if p.is_file() and not any(x in p.parts for x in _rd_skip)]
+    r["README_BROKEN_LINKS"] = 0
+    r["README_DEAD_ENDS"] = 0
+    _lk = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
+    for p in _readmes:
+        text = read(p)
+        if not _lk.search(text):
+            r["README_DEAD_ENDS"] += 1
+            continue
+        for m in _lk.finditer(text):
+            tgt = m.group(2)
+            if tgt.startswith("http"):
+                continue
+            if not (p.parent / urllib.parse.unquote(tgt.split("#")[0])).resolve().exists():
+                r["README_BROKEN_LINKS"] += 1
+                break
     r["TITLE_STACK_DOCUMENTS"] = 0
     for p in md:
         ls = read(p).split("\n")

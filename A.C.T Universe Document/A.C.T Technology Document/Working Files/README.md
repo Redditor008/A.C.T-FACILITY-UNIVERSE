@@ -20,22 +20,22 @@ Where a working file says something that matters, the record says it properly an
 
 | File | Kind |
 |---|---|
-| `Interoffice-Memo-Site-04-Cold-Chain.md` | Routine correspondence |
-| `Working-Note-Lantern-Beacon-Shutter.md` | Working note, superseded |
-| `Junior-Researcher-Note-Beacon-Colours.md` | Junior researcher's first pass, including what they got wrong |
-| `Researcher-Observation-Dead-Name-Cupboard.md` | Researcher's observation, not a finding |
-| `Superseded-Draft-Coffer-Handling-Rule.md` | Superseded draft, with the reasons it was rejected |
-| `Rota-Change-Containment-Week-15.md` | Duty officer's rota change notice |
-| `Incident-Callout-Log-Entry-14.md` | One night's callout, logged minute by minute |
-| `Duty-Rota-Containment-Site-01.csv` | Duty rota, machine-readable |
-| `Coffer-Temperature-Log.csv` | Temperature readings, machine-readable |
-| `Seized-Asset-Inventory.csv` | Seized asset manifest, machine-readable |
-| `Restoration-Request-Form.md` | Blank form, not a record until completed |
-| `Medical-Care-Note-Coffer-Exposure.md` | Medical Care on the people, not the coffer |
-| `Legal-Note-Charter-Obligation-Beacon.md` | Legal advice in progress, privileged, not a ruling |
-| `Engineering-Note-Beacon-Shutter-Drum.md` | Engineering examination note, three possibilities unresolved |
-| `Site-Command-Directive-Working-Files.md` | Site Command on two things going wrong with working files |
-| `File-Plan-Technology-Working.csv` | File plan: class, retention, disposal authority |
+| [Interoffice-Memo-Site-04-Cold-Chain.md](Interoffice-Memo-Site-04-Cold-Chain.md) | Routine correspondence |
+| [Working-Note-Lantern-Beacon-Shutter.md](Working-Note-Lantern-Beacon-Shutter.md) | Working note, superseded |
+| [Junior-Researcher-Note-Beacon-Colours.md](Junior-Researcher-Note-Beacon-Colours.md) | Junior researcher's first pass, including what they got wrong |
+| [Researcher-Observation-Dead-Name-Cupboard.md](Researcher-Observation-Dead-Name-Cupboard.md) | Researcher's observation, not a finding |
+| [Superseded-Draft-Coffer-Handling-Rule.md](Superseded-Draft-Coffer-Handling-Rule.md) | Superseded draft, with the reasons it was rejected |
+| [Rota-Change-Containment-Week-15.md](Rota-Change-Containment-Week-15.md) | Duty officer's rota change notice |
+| [Incident-Callout-Log-Entry-14.md](Incident-Callout-Log-Entry-14.md) | One night's callout, logged minute by minute |
+| [Duty-Rota-Containment-Site-01.csv](Duty-Rota-Containment-Site-01.csv) | Duty rota, machine-readable |
+| [Coffer-Temperature-Log.csv](Coffer-Temperature-Log.csv) | Temperature readings, machine-readable |
+| [Seized-Asset-Inventory.csv](Seized-Asset-Inventory.csv) | Seized asset manifest, machine-readable |
+| [Restoration-Request-Form.md](Restoration-Request-Form.md) | Blank form, not a record until completed |
+| [Medical-Care-Note-Coffer-Exposure.md](Medical-Care-Note-Coffer-Exposure.md) | Medical Care on the people, not the coffer |
+| [Legal-Note-Charter-Obligation-Beacon.md](Legal-Note-Charter-Obligation-Beacon.md) | Legal advice in progress, privileged, not a ruling |
+| [Engineering-Note-Beacon-Shutter-Drum.md](Engineering-Note-Beacon-Shutter-Drum.md) | Engineering examination note, three possibilities unresolved |
+| [Site-Command-Directive-Working-Files.md](Site-Command-Directive-Working-Files.md) | Site Command on two things going wrong with working files |
+| [File-Plan-Technology-Working.csv](File-Plan-Technology-Working.csv) | File plan: class, retention, disposal authority |
 
 ## Six offices write here, and none of them is writing a record
 

@@ -4,7 +4,7 @@ The batch ledger. Four files, and the markdown one is the record that matters.
 
 ## What gets written here
 
-Every batch appends an entry at the end of `Technology_Phase_Patch_Saver.md`: what was measured,
+Every batch appends an entry at the end of [Technology_Phase_Patch_Saver.md](Technology_Phase_Patch_Saver.md): what was measured,
 what changed, what was tried and abandoned, and what a previous report claimed that turned out to be
 false. Withdrawals stay in the ledger rather than being quietly corrected.
 

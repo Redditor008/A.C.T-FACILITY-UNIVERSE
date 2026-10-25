@@ -1,6 +1,6 @@
 # ITHYOS .txt
 
-The plain-text half of the ITHYOS set. Same records, same order, same wording as `../ITHYOS .md`,
+The plain-text half of the ITHYOS set. Same records, same order, same wording as [ITHYOS .md/](../ITHYOS%20.md/),
 with the markdown stripped and the tables drawn as ASCII boxes.
 
 ## Why two copies
@@ -11,4 +11,4 @@ change to one belongs in the other, and the validation suite fails a batch that 
 
 ## Start with
 
-`ACT_First_Vault_Document_ENTITY_000_ITHYOS_Archive.txt` — the first preserved document, ENTITY-000.
+[ACT_First_Vault_Document_ENTITY_000_ITHYOS_Archive.txt](ACT_First_Vault_Document_ENTITY_000_ITHYOS_Archive.txt) — the first preserved document, ENTITY-000.

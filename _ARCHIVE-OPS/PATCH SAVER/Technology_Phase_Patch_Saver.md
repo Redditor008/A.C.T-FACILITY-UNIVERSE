@@ -10009,3 +10009,65 @@ A workspace re-clone had left the tree at the session base before the edit. The 
 remote head first and the edit applied after, so the session-base guard was never in a position to fire.
 
 All seven story defect classes are now resolved or ruled on.
+
+---
+
+## Prompt End Update — 2026-10-24, Reader Review Fixes: 200 Links, Five Dead Ends, Two Gates
+
+Owner direction after a fresh-eyes reader review: fix all four findings.
+
+### Finding 1, 200 backtick paths became links
+
+Thirty-three folder READMEs pointed at files with backtick paths, which are not clickable on GitHub. A
+reader landing one click below the front door had to copy-paste paths by hand, through folder names
+containing spaces and a literal .md. Every backtick span that resolved to a real path was converted to a
+proper link, 200 in total. Fifty-seven spans that do not resolve to paths, such as F-1 and the redaction
+markers, were left alone. Code fences were skipped so the repository map stayed plain text.
+
+### Finding 2, five dead ends
+
+Five READMEs described their folder and then stopped. Four now point at real files. The fifth, the recovered
+GOI document records holding folder, holds no files at all, so it says so plainly and points at where such
+records actually live rather than inventing a link.
+
+### Finding 3, the Chapters README was wrong
+
+It claimed the folder holds 26 chapters. It holds 26 files, being 13 story parts in two formats each, which
+contradicted the root README's 12 chapters and an epilogue. Its second sentence had no verb. Both fixed, the
+full file list is now linked, and Chapter 1 and the manuscript are both named as places to start.
+
+### Finding 4, the technology index had no head
+
+TECH_MD's README is 5,369 words of archive reference with no way in. A short navigational head was added
+above the registry table, naming one A.C.T-built record, one recovered-device record and the template.
+
+### What went wrong and was corrected
+
+The first attempt wrote repo-root-relative link targets into READMEs that live in subfolders. A link in a
+folder README resolves against that folder, not against the repository root, so all 200 links were broken on
+arrival. Caught by checking every link after writing rather than by assuming the conversion was right,
+reverted, and redone with paths relative to each README's own directory.
+
+The revert itself then failed silently, because an unquoted command substitution word-split on the A.C.T in
+the folder names and git checkout received fragments instead of paths. The files were restored in Python
+instead.
+
+Two hand-written links were also wrong. A technology record filename was guessed rather than looked up, and
+the real file is TECH-ACT-001-Reality-Stabilization-Anchor-System. A relative path to the technology folder
+was one level short. Both were caught by the same link check.
+
+### The two new gates
+
+`README_BROKEN_LINKS` counts a README holding any local link that does not resolve. `README_DEAD_ENDS` counts
+a README with no link at all. Presentation folders are excluded from both. Both read 0 and both fire under
+injection, one by appending a link to a file that does not exist and one by a new injection kind that strips
+link markup and leaves the words.
+
+`gate_audit.py` reads `gates tested 30 | fired 30 | blind 0`, up from 28.
+
+### What was verified
+
+243 local links across all READMEs, 0 broken. `README_BROKEN_LINKS` 0, `README_DEAD_ENDS` 0,
+`MD_WIDE_PROSE_LINES` 0 after wrapping one 160-character line the fix had introduced, `TITLE_STACK_DOCUMENTS`
+0, `THIN_READMES` 0, `READMES_WITHOUT_SECTIONS` 0, `FOLDERS_WITHOUT_README` 0, `TXT_LINES_OVER_118` 0, and
+every story and technology figure 0.

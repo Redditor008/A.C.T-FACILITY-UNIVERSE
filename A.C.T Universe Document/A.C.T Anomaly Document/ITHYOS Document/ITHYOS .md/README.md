@@ -6,7 +6,7 @@ describe.
 
 ## Read this first
 
-`ACT_First_Vault_Document_ENTITY_000_ITHYOS.md` is the record the rest of the archive is built on
+[ACT_First_Vault_Document_ENTITY_000_ITHYOS.md](ACT_First_Vault_Document_ENTITY_000_ITHYOS.md) is the record the rest of the archive is built on
 top of. If you read one file in this folder, read that one.
 
 ## What else is here
@@ -17,4 +17,4 @@ to sealed first vault to a record with a number attached.
 
 ## Plain-text twin
 
-`../ITHYOS .txt` carries the same records in plain text, one file per markdown file.
+[ITHYOS .txt/](../ITHYOS%20.txt/) carries the same records in plain text, one file per markdown file.

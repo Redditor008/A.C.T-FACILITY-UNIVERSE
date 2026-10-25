@@ -6,6 +6,20 @@
 | DISTRIBUTION | Engineering / Containment / Medical / Recovery / Intelligence / Command |
 | AUTHORITY | Central Archive, Engineering Division, Containment Division, Medical Division, and file-specific attached desks |
 
+## If you only want to read one record
+
+This folder holds 242 per-system records and the rest of this page is archive reference material.
+If you are looking for a place to start rather than a catalogue, open one of these:
+
+| If you want | Open |
+|---|---|
+| A.C.T-built technology, a worked example | [TECH-ACT-001 — Reality Stabilization Anchor System](TECH-ACT-001-Reality-Stabilization-Anchor-System.md) |
+| A recovered rival device, hazard-reviewed | [TECH-GOI-073-1 — Lantern Accord Signal Beacon](TECH-GOI-073-1-Lantern-Accord-Collapsible-Signal-Beacon.md) |
+| The record template, to see the house shape | [00_Technology_Record_Template](00_Technology_Record_Template.md) |
+
+Everything below this point is the full archive index.
+
+
 This archive holds individual technology documents for A.C.T systems, GOI-derived systems, recovered equipment,
 containment tools, field instruments, medical devices, infrastructure components, memory-control systems, access
 devices, and abnormal materials that require more detail than the master technology index can carry. The existing
@@ -1091,6 +1105,6 @@ Distributed Recording, and Synchronized Calendar Set / Sounding Texts
 ## Current Status
 
 Moved out of this index on 2026-10-21. The status report is maintained separately as
-`_ARCHIVE-OPS/PATCH SAVER/Technology_Phase_Current_Status.md`, which carries the full current-status text
+[Technology_Phase_Current_Status.md](../../../_ARCHIVE-OPS/PATCH%20SAVER/Technology_Phase_Current_Status.md), which carries the full current-status text
 that used to occupy the bottom of this file. This index now holds the record list, the
 numbering rule, and the active format rules, and nothing else.

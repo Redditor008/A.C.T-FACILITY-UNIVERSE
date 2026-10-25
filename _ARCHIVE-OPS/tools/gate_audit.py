@@ -18,6 +18,7 @@ Exit code is the number of blind gates, so a batch can fail on it.
 from __future__ import annotations
 
 import pathlib
+import re
 import shutil
 import subprocess
 import sys
@@ -91,6 +92,14 @@ TEXT_TESTS = [
     ("STORY_LOWERCASE_SENTENCE_STARTS",
      "A.C.T Universe Document/ACT MAIN STORY/Chapters/Chapter-12-The-Second-Self-Erasure.md",
      "append", "Filters changed. seal grids recalibrated. pressure lines held."),
+    # A README the link gates currently pass. The payload points at a file that
+    # does not exist, which is the exact defect a reader hits first.
+    ("README_BROKEN_LINKS",
+     "A.C.T Universe Document/Junior Handbook/README.md",
+     "append", "[Missing](This-File-Does-Not-Exist.md)"),
+    ("README_DEAD_ENDS",
+     "A.C.T Universe Document/ACT MAIN STORY/Outlines/README.md",
+     "strip_links", None),
     ("STORY_OPENING_REPEATS",
      "A.C.T Universe Document/ACT MAIN STORY/Chapters/Chapter-02-Wounds-in-the-Archive.md",
      "reword_dup", None),
@@ -138,6 +147,12 @@ def main() -> int:
                     tgt.write_text(
                         "\n\n".join(paras[:2] + [" ".join(words)] + paras[2:]),
                         encoding="utf-8",
+                    )
+                elif kind == "strip_links":
+                    # Remove every link and leave the words, which turns a README
+                    # that points somewhere into one that describes and then stops.
+                    tgt.write_text(
+                        re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", orig), encoding="utf-8"
                     )
                 elif kind == "stack":
                     body = orig.split("\n")

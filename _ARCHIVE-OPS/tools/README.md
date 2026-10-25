@@ -4,7 +4,7 @@ Working tools for the A.C.T archive. Not fiction, not canon.
 
 | File | What it is |
 |---|---|
-| `engine.py` | The archive rendering engine: per-column word wrapping, the ASCII box renderer, the Markdown table renderer, the 118-character width gate, and the markdown-to-box converter |
+| [engine.py](engine.py) | The archive rendering engine: per-column word wrapping, the ASCII box renderer, the Markdown table renderer, the 118-character width gate, and the markdown-to-box converter |
 
 ## Why this folder is tracked
 

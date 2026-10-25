@@ -11,11 +11,11 @@ The rulings here override anything implied by an existing record.
 
 | Read this | Why |
 |---|---|
-| [`ACT_Generation_Standard_2026_Update.md`](ACT_Generation_Standard_2026_Update.md) | The current generation standard: reality isolation, asset and technology integration, recurring personnel, site protocols, and the 2026 workflow. |
-| [`readme.txt`](readme.txt) | The folder's original note, kept as it was written. |
+| [[ACT_Generation_Standard_2026_Update.md](ACT_Generation_Standard_2026_Update.md)](ACT_Generation_Standard_2026_Update.md) | The current generation standard: reality isolation, asset and technology integration, recurring personnel, site protocols, and the 2026 workflow. |
+| [[readme.txt](readme.txt)](readme.txt) | The folder's original note, kept as it was written. |
 
 The AI-facing generation guides live beside this folder, in
-[`AI OPERATIONS RULES/`](../AI%20OPERATIONS%20RULES/), and are
+[[AI OPERATIONS RULES/](../AI%20OPERATIONS%20RULES/)](../AI%20OPERATIONS%20RULES/), and are
 the operational counterpart to the standard recorded here.
 
 ---
@@ -23,7 +23,7 @@ the operational counterpart to the standard recorded here.
 ## Canonical terms — settled, not open
 
 Four terms were disputed during earlier audits and are settled. **Do not rewrite them anywhere in
-the corpus.** Each carries its own section in `ACT_Generation_Standard_2026_Update.md`.
+the corpus.** Each carries its own section in [ACT_Generation_Standard_2026_Update.md](ACT_Generation_Standard_2026_Update.md).
 
 | Term | Ruling |
 |---|---|
@@ -40,7 +40,7 @@ Corpus counts at the time of the ruling: 100 spaced redaction markers, 74 unspac
 ## What this folder does not contain
 
 It does not hold the anomaly records themselves. Those live in
-[`../A.C.T Universe Document/A.C.T Anomaly Document/`](../A.C.T%20Universe%20Document/A.C.T%20Anomaly%20Document/),
+[[A.C.T Anomaly Document/](../A.C.T%20Universe%20Document/A.C.T%20Anomaly%20Document/)](../A.C.T%20Universe%20Document/A.C.T%20Anomaly%20Document/),
 indexed at `ANOMALY_RECORD_INDEX.md`. It does not hold the generation guides, which moved to
-`AI OPERATIONS RULES/`. It holds the standard, and the terminology rulings that the standard rests
+[AI OPERATIONS RULES/](../AI%20OPERATIONS%20RULES/). It holds the standard, and the terminology rulings that the standard rests
 on.

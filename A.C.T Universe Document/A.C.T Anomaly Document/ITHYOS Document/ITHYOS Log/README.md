@@ -10,4 +10,4 @@ the record is the ruling and the log is the evidence behind it.
 
 ## Parent record
 
-The file these logs support is in `../ITHYOS .md`.
+The file these logs support is in [ITHYOS .md/](../ITHYOS%20.md/).

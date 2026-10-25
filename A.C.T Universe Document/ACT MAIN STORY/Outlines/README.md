@@ -12,3 +12,8 @@ everything. Read it after the story, not before.
 ## The finished text
 
 The full manuscript sits one level up, prefixed `01-`.
+
+## Read this
+
+- [07-The-Facility-That-Forgot-Its-First-Lie-Chapter-Outline.md](07-The-Facility-That-Forgot-Its-First-Lie-Chapter-Outline.md) — the outline
+- [The finished text](../01-The-Facility-That-Forgot-Its-First-Lie-Full-Manuscript.md) — read the story first; this spoils it

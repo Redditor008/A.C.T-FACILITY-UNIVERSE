@@ -6,16 +6,16 @@ schedule, failure history and open questions.
 
 ## Start Here
 
-Any record stands alone. A good first read is `TECH_MD/TECH-ACT-007-Static-Pulse-Crystal.md`
+Any record stands alone. A good first read is [TECH-ACT-007-Static-Pulse-Crystal.md](TECH_MD/TECH-ACT-007-Static-Pulse-Crystal.md)
 — a material record, which is the clearest shape in the set.
 
 ## What is in here
 
 | Path | What it is |
 |---|---|
-| `TECH_MD/` | 242 technology records in Markdown |
-| `TECH_TXT/` | Plain-text mirrors of the same records |
-| `TECH_MD/00_Technology_Record_Template.md` | The blank template every record follows |
+| [TECH_MD/](TECH_MD/) | 242 technology records in Markdown |
+| [TECH_TXT/](TECH_TXT/) | Plain-text mirrors of the same records |
+| [00_Technology_Record_Template.md](TECH_MD/00_Technology_Record_Template.md) | The blank template every record follows |
 
 ## Two designation families
 
@@ -38,5 +38,5 @@ records what it does not know rather than filling the gap.
 
 ## Markdown and plain-text twins
 
-`TECH_MD/` and `TECH_TXT/` carry the same 242 records. The Markdown editions use pipe
+[TECH_MD/](TECH_MD/) and [TECH_TXT/](TECH_TXT/) carry the same 242 records. The Markdown editions use pipe
 tables; the plain-text editions draw the same tables as ASCII boxes. Neither is a summary of the other.

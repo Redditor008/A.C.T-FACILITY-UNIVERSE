@@ -2,7 +2,7 @@
 
 Rules that govern how an artificial intelligence works on this archive. They are not canon and
 they are not in-world. Nothing in this folder is part of the A.C.T fiction, and no record in
-`A.C.T Universe Document/` may cite anything filed here.
+[A.C.T Universe Document/](../A.C.T%20Universe%20Document/) may cite anything filed here.
 
 | FIELD | VALUE |
 |---|---|
@@ -18,21 +18,21 @@ reporting rules, measurement discipline, recovery procedure after a workspace re
 
 ## What does not belong here
 
-In-world doctrine belongs in `A.C.T Universe Document/A.C.T .md Document/`. Rules for generating
-anomalies belong in `A.C.T Anomaly Creation Rule/`. Session logs and patch ledgers belong in
-`_ARCHIVE-OPS/`. This folder holds rules only.
+In-world doctrine belongs in [A.C.T .md Document/](../A.C.T%20Universe%20Document/A.C.T%20.md%20Document/). Rules for generating
+anomalies belong in [A.C.T Anomaly Creation Rule/](../A.C.T%20Anomaly%20Creation%20Rule/). Session logs and patch ledgers belong in
+[_ARCHIVE-OPS/](../_ARCHIVE-OPS/). This folder holds rules only.
 
 ## Contents
 
 | File | Subject |
 |---|---|
-| `Proof_Before_Finding.md` | No finding ships until the instrument that produced it is proven |
-| `Document_Type_Range.md` | The range of document classes an institution keeps, and the register each uses |
-| `Archivist_Voice.md` | Vocabulary and stance for in-world documents; measured against the owner's doctrine |
-| `ACT_Anomaly_Generation_AI_Guide.md` | How an AI writes an A.C.T anomaly record |
-| `ACT_Updated_Anomaly_Generator.md` | Generation procedure and prompt scaffolding |
+| [Proof_Before_Finding.md](Proof_Before_Finding.md) | No finding ships until the instrument that produced it is proven |
+| [Document_Type_Range.md](Document_Type_Range.md) | The range of document classes an institution keeps, and the register each uses |
+| [Archivist_Voice.md](Archivist_Voice.md) | Vocabulary and stance for in-world documents; measured against the owner's doctrine |
+| [ACT_Anomaly_Generation_AI_Guide.md](ACT_Anomaly_Generation_AI_Guide.md) | How an AI writes an A.C.T anomaly record |
+| [ACT_Updated_Anomaly_Generator.md](ACT_Updated_Anomaly_Generator.md) | Generation procedure and prompt scaffolding |
 
-The two generation guides moved here from `A.C.T Anomaly Creation Rule/` because they are
+The two generation guides moved here from [A.C.T Anomaly Creation Rule/](../A.C.T%20Anomaly%20Creation%20Rule/) because they are
 instructions to an AI rather than in-world standards. The canonical terms they define — O5,
 amnestics, memetic, and the `[BLANK]` / `[ BLANK ]` distinction — remain canon and remain
 defined in `ACT_Generation_Standard_2026_Update.md`, which stayed behind.

@@ -10,10 +10,10 @@ and is not cleared to touch — in that order, and without assuming any prior re
 
 ## Start here
 
-`ACT_Orientation_Handbook.md`. It runs from the basic premise through to containment practice across
+[ACT_Orientation_Handbook.md](ACT_Orientation_Handbook.md). It runs from the basic premise through to containment practice across
 six chapters, and the root README lists it as the gently written entry point for a new reader.
 
 ## What it is not
 
 It is not a classification reference. For class definitions and designation formats, see the
-doctrine set in `../A.C.T .md Document`.
+doctrine set in [A.C.T .md Document/](../A.C.T%20.md%20Document/).

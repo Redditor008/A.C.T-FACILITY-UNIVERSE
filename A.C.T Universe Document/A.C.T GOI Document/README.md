@@ -15,9 +15,9 @@ Open any dossier cold — each one stands alone. The designation is the filename
 
 | Path | What it is |
 |---|---|
-| `GOI_MD/` | 30 GOI dossiers in Markdown |
-| `GOI_TXT/` | Plain-text mirrors of the same dossiers |
-| `GOI_MD/Recovered_Document_Records/` | Documents recovered from a GOI rather than written about it |
+| [GOI_MD/](GOI_MD/) | 30 GOI dossiers in Markdown |
+| [GOI_TXT/](GOI_TXT/) | Plain-text mirrors of the same dossiers |
+| [Recovered_Document_Records/](GOI_MD/Recovered_Document_Records/) | Documents recovered from a GOI rather than written about it |
 
 ## Designation
 

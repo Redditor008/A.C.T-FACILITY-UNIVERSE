@@ -10,5 +10,5 @@ built rather than a work in progress.
 
 ## Read in this order
 
-`../Outlines` for structure, then here for voice, then the full manuscript one level up for the
+[Outlines/](../Outlines/) for structure, then here for voice, then the full manuscript one level up for the
 story.

@@ -9,24 +9,24 @@ Pick the door that suits you. None of them require you to have read anything fir
 
 | If you want... | Open this |
 |---|---|
-| A story, read straight through | `ACT MAIN STORY/01-The-Facility-That-Forgot-Its-First-Lie-Full-Manuscript.md` |
-| The same story one chapter at a time | `ACT MAIN STORY/Chapters/Chapter-01-Correction-Order.md` |
-| A guided orientation, gently written | `Junior Handbook/ACT_Orientation_Handbook.md` |
-| The history of the institution | `A History of Anomaly Containment Transformation BOOK.md` |
-| To browse the anomalies directly | `A.C.T Anomaly Document/` |
-| To see what the Facility builds | `A.C.T Technology Document/` |
+| A story, read straight through | [01-The-Facility-That-Forgot-Its-First-Lie-Full-Manuscript.md](ACT%20MAIN%20STORY/01-The-Facility-That-Forgot-Its-First-Lie-Full-Manuscript.md) |
+| The same story one chapter at a time | [Chapter-01-Correction-Order.md](ACT%20MAIN%20STORY/Chapters/Chapter-01-Correction-Order.md) |
+| A guided orientation, gently written | [ACT_Orientation_Handbook.md](Junior%20Handbook/ACT_Orientation_Handbook.md) |
+| The history of the institution | [A History of Anomaly Containment Transformation BOOK.md](A%20History%20of%20Anomaly%20Containment%20Transformation%20BOOK.md) |
+| To browse the anomalies directly | [A.C.T Anomaly Document/](A.C.T%20Anomaly%20Document/) |
+| To see what the Facility builds | [A.C.T Technology Document/](A.C.T%20Technology%20Document/) |
 
 ## What lives here
 
 | Folder or file | What it is |
 |---|---|
-| `ACT MAIN STORY/` | The narrative layer: chapters, character profiles, outline, continuity policy |
-| `A.C.T Anomaly Document/` | The anomaly files themselves, legacy era and modern era, plus ITHYOS |
-| `A.C.T Technology Document/` | 242 per-system technology records with custody, limits and failure history |
-| `A.C.T GOI Document/` | Groups of Interest — the governments, markets, cults and companies outside A.C.T |
-| `A.C.T .md Document/` | Core doctrine in Markdown: site dossiers, floor dossiers, operational forms |
-| `A.C.T .txt Document/` | The plain-text twin of the above, plus two legacy-only records |
-| `Junior Handbook/` | Orientation written for new junior staff; deliberately simplified |
+| [ACT MAIN STORY/](ACT%20MAIN%20STORY/) | The narrative layer: chapters, character profiles, outline, continuity policy |
+| [A.C.T Anomaly Document/](A.C.T%20Anomaly%20Document/) | The anomaly files themselves, legacy era and modern era, plus ITHYOS |
+| [A.C.T Technology Document/](A.C.T%20Technology%20Document/) | 242 per-system technology records with custody, limits and failure history |
+| [A.C.T GOI Document/](A.C.T%20GOI%20Document/) | Groups of Interest — the governments, markets, cults and companies outside A.C.T |
+| [A.C.T .md Document/](A.C.T%20.md%20Document/) | Core doctrine in Markdown: site dossiers, floor dossiers, operational forms |
+| [A.C.T .txt Document/](A.C.T%20.txt%20Document/) | The plain-text twin of the above, plus two legacy-only records |
+| [Junior Handbook/](Junior%20Handbook/) | Orientation written for new junior staff; deliberately simplified |
 | `'A History of …' BOOK.md` | The in-universe history of A.C.T, Markdown only |
 
 ## One convention worth knowing before you browse
@@ -46,4 +46,4 @@ floor — only the ABYSS access route.
 ## Where the backstage work lives
 
 Maintenance memos, audit records and the working patch log are not in this folder. They are
-under `_ARCHIVE-OPS/` at the repository root, kept apart from the fiction deliberately.
+under [_ARCHIVE-OPS/](../_ARCHIVE-OPS/) at the repository root, kept apart from the fiction deliberately.

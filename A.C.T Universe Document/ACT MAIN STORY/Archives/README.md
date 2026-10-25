@@ -11,3 +11,8 @@ the working files move. Nothing in this folder is a draft and nothing here is be
 
 The current manuscript sits one level up, prefixed `01-`. Read that one unless you specifically want
 the archived snapshot.
+
+## Read this
+
+- [06-The-Facility-That-Forgot-Its-First-Lie-Archive.md](06-The-Facility-That-Forgot-Its-First-Lie-Archive.md) — the archived snapshot
+- [The live manuscript](../01-The-Facility-That-Forgot-Its-First-Lie-Full-Manuscript.md) — read this one unless you want the snapshot

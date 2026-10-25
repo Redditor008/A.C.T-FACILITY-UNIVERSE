@@ -18,14 +18,14 @@ like an archive. Real holdings are mostly material of this kind with a small off
 reader who finds nothing here would reasonably doubt the rest.
 
 Files in this folder may be incomplete, contradictory, undated or wrong. That is what transitory material
-is. Nothing in here should be cited, and no record in `A.C.T Universe Document/` cites anything filed here.
+is. Nothing in here should be cited, and no record in [A.C.T Universe Document/](../../) cites anything filed here.
 
 ## What is in here
 
 | File | Kind |
 |---|---|
-| `Procurement-Query-Site-01-Quarter.md` | Quartermaster's query on three wrong deliveries |
-| `Telephone-Log-Week-14.md` | Switchboard call log, one week |
+| [Procurement-Query-Site-01-Quarter.md](Procurement-Query-Site-01-Quarter.md) | Quartermaster's query on three wrong deliveries |
+| [Telephone-Log-Week-14.md](Telephone-Log-Week-14.md) | Switchboard call log, one week |
 
 ## Working files live beside the work
 

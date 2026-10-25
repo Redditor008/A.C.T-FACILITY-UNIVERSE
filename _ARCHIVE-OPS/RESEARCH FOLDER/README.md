@@ -37,7 +37,7 @@ Use this folder for:
 - provenance notes for future editors;
 - planning material that is not yet in-world canon.
 Do not place active anomaly files, GOI dossiers, site dossiers, story chapters, or official A.C.T archive forms here.
-Those belong under `A.C.T Universe Document/` in the correct family folder. If research later becomes canon, it must
+Those belong under [A.C.T Universe Document/](../../A.C.T%20Universe%20Document/) in the correct family folder. If research later becomes canon, it must
 be rewritten into the proper in-world document format instead of copied as a summary.
 All research should be detailed enough to function as a working document, not just
 a record that something was

@@ -20,3 +20,10 @@ record governs history. The anomaly record index one level up lists both and say
 
 The folder beside this one, `Anomaly Legacy 01 .txt`, holds the same records in plain text. The two
 sets are kept in lockstep, so a change to one belongs in the other.
+
+## The four records
+
+- [I-AM-A-Test-AFD-OB-001.md](I-AM-A-Test-AFD-OB-001.md)
+- [The-Forgetting-Bloom-AFD-NB-004.md](The-Forgetting-Bloom-AFD-NB-004.md)
+- [The-Forgetting-Bloom-UFD-NB-004.md](The-Forgetting-Bloom-UFD-NB-004.md)
+- [The-Unwritten-Return-ANM-UA-AS-0001.md](The-Unwritten-Return-ANM-UA-AS-0001.md)

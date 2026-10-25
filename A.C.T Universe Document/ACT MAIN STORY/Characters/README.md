@@ -11,4 +11,4 @@ read as story, and none of it should be lifted into a chapter verbatim.
 
 ## The story itself
 
-The full manuscript sits one level up, prefixed `01-`, or read `../Chapters` one chapter at a time.
+The full manuscript sits one level up, prefixed `01-`, or read [Chapters/](../Chapters/) one chapter at a time.

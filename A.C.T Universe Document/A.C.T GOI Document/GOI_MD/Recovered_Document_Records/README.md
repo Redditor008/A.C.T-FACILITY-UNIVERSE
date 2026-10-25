@@ -81,3 +81,9 @@ No recovered document stored here becomes a full GOI dossier by itself.
 
 No individual recovered GOI document records are stored here yet. The folder is prepared for later use after a
 specific recovered document is selected for transcription, quarantine, or archive reconstruction.
+
+## Current holdings
+
+None. This folder is reserved and holds no records yet, so there is nothing here to open. Recovered GOI documents that
+A.C.T physically holds are recorded under
+[TECH-GOI](../../../A.C.T%20Technology%20Document/TECH_MD/) instead.
