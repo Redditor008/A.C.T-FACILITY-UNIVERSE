@@ -9973,3 +9973,39 @@ will leave a fragment.
 `STORY_LOWERCASE_SENTENCE_STARTS` 0, `STORY_OPENING_REPEATS` 0, `STORY_TWIN_WORD_DRIFT` 0,
 `STORY_MANUSCRIPT_LOCKSTEP_FAILURES` 0, `TXT_LINES_OVER_118` 0, `TXT_WIDE_PROSE_LINES` 0,
 `MD_WIDE_PROSE_LINES` 0. `gate_audit.py` reads `gates tested 28 | fired 28 | blind 0`, up from 27.
+
+---
+
+## Prompt End Update — 2026-10-24, Class 7 Applied: Epilogue Register Pulled Back To The Archiver
+
+Owner ruling: pull the motive assertions back to the new archiver's reading, and keep line 27, line 173 and
+the closing cutaway.
+
+The four assertions at Epilogue lines 18 to 21 stated motive as fact. The reconfigurations had been logged as
+efficiency measures and neither had been. The index moved three shelves east so that a retired series could be
+sealed without walking past it. Someone had measured forty centimetres for a reason. The reason had been
+shelved. None of that is knowable to a junior archiver reading a reference sheet on her first day, and none of
+it was hedged.
+
+The rewrite keeps every fact and removes every claim of motive. The entries still logged as efficiency
+measures, and the observation is now that neither entry used the language efficiency measures usually use,
+which is something a reader can see. The index still moved three shelves east, and the effect is now stated
+rather than the intent, putting a retired series out of the walking route rather than out of the building.
+The forty centimetres are still measured and still unexplained by any drawing, and the inference is now that
+the measurement survived while its reason did not. The closing observation about shelving is kept, because
+that was always her judgement about the archive rather than a claim about a person.
+
+Line 27, line 173 and the closing cutaway were left alone under the same ruling.
+
+Applied to all four story files, the chapter, its twin, the manuscript and the manuscript twin.
+
+### What was verified
+
+`STORY_TWIN_WORD_DRIFT` 0, `STORY_MANUSCRIPT_LOCKSTEP_FAILURES` 0, `TXT_LINES_OVER_118` 0,
+`TXT_WIDE_PROSE_LINES` 0, `MD_WIDE_PROSE_LINES` 0, `STORY_OPENING_REPEATS` 0,
+`STORY_LOWERCASE_SENTENCE_STARTS` 0, `STORY_PARTS_UNDER_1500` 0.
+
+A workspace re-clone had left the tree at the session base before the edit. The tree was recovered to the
+remote head first and the edit applied after, so the session-base guard was never in a position to fire.
+
+All seven story defect classes are now resolved or ruled on.

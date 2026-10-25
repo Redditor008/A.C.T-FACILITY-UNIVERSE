@@ -3407,11 +3407,12 @@ The Facility moved on. That was what it did.
 
 It did not heal. It continued.
 
-Two of the reconfigurations had been logged as efficiency measures and neither had been. The first moved the
-designation index three shelves east so that a retired series could be sealed without walking past it. The second
-widened the corridor to Lower Stack C by forty centimetres, which no drawing explained and which the humidity lock
-then had to be rebuilt around. Someone had measured that forty centimetres for a reason. The reason had been
-shelved, and shelving was the one thing the archive did well.
+Two of the reconfigurations had been logged as efficiency measures. Neither entry used the language efficiency
+measures usually use. The first had moved the designation index three shelves east, which put a retired series out of
+the walking route rather than out of the building. The second had widened the corridor to Lower Stack C by forty
+centimetres, which no drawing explained and which the humidity lock then had to be rebuilt around. Someone had
+measured that forty centimetres, and the measurement had survived while its reason had not. Shelving a reason was one
+thing the archive did well.
 
 Of the eleven names on the reconciliation task's reference sheet, four had retired, two had transferred to sites
 that no longer published a roster, and one had died in a transport incident recorded in a file with no witness
