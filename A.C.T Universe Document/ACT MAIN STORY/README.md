@@ -14,7 +14,7 @@ contradictions — memory, origin, ABYSS history, and the cost of official truth
 |---|---|
 | [00-Story-Index.md](00-Story-Index.md) | Index of the story layer; read this first |
 | [01-The-Facility-That-Forgot-Its-First-Lie-Full-Manuscript.md](01-The-Facility-That-Forgot-Its-First-Lie-Full-Manuscript.md) | The complete manuscript in one file |
-| [Chapters/](Chapters/) | The same story split into 13 numbered chapters |
+| [Chapters/](Chapters/) | The same story as 12 chapters and an epilogue, in two formats |
 | [Characters/](Characters/) | Character archive profiles |
 | [Narrative/](Narrative/) | The narrative treatment |
 | [Outlines/](Outlines/) | The chapter outline the manuscript was built from |

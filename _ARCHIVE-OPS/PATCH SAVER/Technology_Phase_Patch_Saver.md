@@ -10112,3 +10112,27 @@ The conversion was reverted in Python rather than with a shell glob, because an 
 substitution word-splits on the A.C.T in these folder names. 243 relative links, 0 broken, 352 blob-URL
 cross-references unchanged, `README_BROKEN_LINKS` 0, `README_DEAD_ENDS` 0, `MD_WIDE_PROSE_LINES` 0,
 `gates tested 30 | fired 30 | blind 0`.
+
+---
+
+## Prompt End Update — 2026-10-24, Second Reader Review: Journey Works, One Count Disagreement Fixed
+
+The repository was walked a second time from the root as a new reader, after the link pass.
+
+The journey now hands off cleanly at every step. The root README opens with a seven-door Start Here table and
+all eight of its links resolve. `A.C.T Universe Document/README.md` repeats the doors for the universe folder
+and they are clickable. `ACT MAIN STORY/README.md` names the story index and the manuscript directly. The
+Chapters README states the correct composition, names Chapter 1 as the place to start, offers the manuscript
+as the alternative, and links all 26 files. The Technology README names a first read rather than only a
+catalogue.
+
+One disagreement remained and was fixed. `ACT MAIN STORY/README.md` described the Chapters folder as holding
+13 numbered chapters, while the root README said 12 chapters twice and the Chapters README said 12 chapters
+and an epilogue. The story folder README was the outlier and now reads 12 chapters and an epilogue, in two
+formats. Every chapter-count claim in the repository now agrees.
+
+The count of 14 chapters in the Technology README is not a story claim. It refers to the fourteen sections of
+a house technology record and was left alone.
+
+`README_BROKEN_LINKS` 0, `README_DEAD_ENDS` 0, `MD_WIDE_PROSE_LINES` 0, `THIN_READMES` 0,
+`READMES_WITHOUT_SECTIONS` 0, `FOLDERS_WITHOUT_README` 0, and `gates tested 30 | fired 30 | blind 0`.
