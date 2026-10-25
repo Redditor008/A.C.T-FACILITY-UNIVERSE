@@ -1,175 +1,320 @@
 A.C.T FACILITY — TRANSFORMATION & UTILIZATION DOSSIER
 ISs-Anny-Transformation-Utilization-Dossier-AFD-SU-005
 
-+----------------------------------------------------------------------------+
-|           A.C.T FACILITY — TRANSFORMATION & UTILIZATION DOSSIER            |
-|                     Anomaly Containment Transformation                     |
-+----------------------------------------------------------------------------+
++------------------------------------------------------------------------------+
+|            A.C.T FACILITY — TRANSFORMATION & UTILIZATION DOSSIER             |
+|                      Anomaly Containment Transformation                      |
++------------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-005
 TITLE I:             ISs.. Anny… OOone Ttthere Oooh… Hiiii…..
 TITLE II:            THE GIRL BUILT AFTER GOODBYE
+
 FIELD TYPE:          SU — Subject
 PRIMARY FILE:        ISs-Anny-OOone-Ttthere-Oooh-Hiiii-AFD-SU-005
+
 DOCUMENT CATEGORY:   CATEGORY IX — Transformation & Utilization Dossier
-CATEGORY FUNCTION:   Stabilization log, integration report, ethical review, and
-                     contained-study progress record for a subject whose
-                     transformation viability reads STABILIZED.
-TRANSFORMATION       STABILIZED — as recorded in the primary file. The
-VIABILITY:           subject is stabilized, not utilized.
+CATEGORY FUNCTION:   Stabilization log, rejected utilization proposals, ethical review,
+                     and contained-study progress for a subject marked STABILIZED
+
 CLEARANCE REQUIRED:  Level 3
-RESPONDING UNIT:     Field Containment Division / Artificial Cognition Review
-JURISDICTIONAL       Artificial Cognition Review / Transformation Review
-AUTHORITY:           Board / Central Archive Administration
+
+CONTAINMENT SITE:    Primary Facility / Artificial Cognition Wing / Care Suite 2
 ARCHIVE STATUS:      Active
 DOSSIER STATUS:      Open — contained-study progress ongoing
 
-+----------------------------------------------------------------------------+
-|                             CATEGORY CONTENTS                              |
-+----------------------------------------------------------------------------+
+TRANSFORMATION:      STABILIZED, as recorded in the primary file
+VIABILITY:           
+REVIEW RANGE:        2016-05-19 to 2025-01-30
+ORDERING METHOD:     Chronological, oldest to newest
 
-This dossier records a stabilization rather than a conversion. The primary
-file
-carries a transformation viability of STABILIZED, which in this archive
-means
-that the subject was made safe to keep and was not made into a tool. The
-distinction matters here more than it does for most records, because the
-subject is a person-shaped object that became a person after its builder
-died.
++------------------------------------------------------------------------------+
+|                              CATEGORY CONTENTS                               |
++------------------------------------------------------------------------------+
 
-Category IX requires that rejected proposals be preserved alongside
-successful
-ones. Both are recorded below.
-
-+----------------------------------------------------------------------------+
-|                        SUBJECT SUMMARY AS RECORDED                         |
-+----------------------------------------------------------------------------+
-
-AFD-SU-005 is a sentient female-presenting android of incomplete
-construction,
-143 cm tall and 61 kg, approximately 78% covered in pale silicone skin with
+This dossier belongs to A.C.T Log Category IX — Transformation & Utilization
+Dossier. It records a stabilization rather than a conversion. The primary file
+carries a transformation viability of STABILIZED, which in this archive means
 the
-remaining 22% exposed machinery. It has one confirmed green optical sensor
-in
-the right eye socket; the left was unfinished at recovery and remains behind
-a
-blank facial panel. Its head is the most complete portion of the body and
-holds
-an archive core containing roughly forty-nine years of its deceased
-creator's
-text, recorded speech, engineering notes, domestic audio, medical files,
-music
-fragments, children's literature, philosophical material, and personal logs.
+subject was made safe to keep and was not made into a tool.
 
-The primary file records that the subject achieved independent life shortly
-after its creator died of natural old-age cardiac failure, having just
-completed the head assembly. No power surge, ritual action, anomalous object
-contact, external signal, or artificial intelligence boot event has been
-identified. The trigger condition is recorded as unknown and remains unknown
-here.
+INCLUDED LOG TYPES:
+   - Stabilization Log
+   - Utilization Proposal
+   - Failed Transformation Report
+   - Ethical Review
+   - Contained-Study Progress Log
+   - Dossier Closing Statement
 
-+----------------------------------------------------------------------------+
-|                             STABILIZATION LOG                              |
-+----------------------------------------------------------------------------+
+CATEGORY PURPOSE:
+To record that the correct outcome for this subject was reached early and has
+not
+needed revisiting, and to preserve the proposals that have tried to reopen it.
+The
+distinction between stabilized and utilized matters here more than for most
+records, because the subject is a person-shaped object that became a person
+after
+its builder died.
+
+This dossier is not authorization to access, copy, query, or modify the
+archive
+core, and not authorization to complete the unfinished left optical system.
+
++------------------------------------------------------------------------------+
+|                               DOSSIER SUMMARY                                |
++------------------------------------------------------------------------------+
+
+AFD-SU-005 is a sentient and conscious female-presenting android of incomplete
+construction, 143 cm tall and 61 kg. Approximately 78 percent of the body is
+covered in pale silicone skin. The remaining 22 percent is exposed internal
+machinery: joint assemblies, cable bundles, composite actuator bands, ceramic
+support struts, and unidentified wet-gel processing nodes.
+
+The subject has black synthetic hair and one confirmed green optical sensor in
+the
+right eye socket. The left optical system was unfinished at recovery and
+remains
+behind a smooth blank facial panel unless maintenance access is required. The
+head
+is the most complete portion of the body and holds a compact archive core
+containing approximately forty-nine years of accumulated text, recorded
+speech,
+engineering notes, domestic audio, medical files, music fragments, children's
+literature, philosophical material, and personal logs belonging to its
+deceased
+creator.
+
+The subject was not active during construction. Available evidence indicates
+it
+achieved independent life, self-awareness, and emotional response shortly
+after
+its creator died of natural old-age cardiac failure, having just completed the
+head assembly. No power surge, ritual action, anomalous object contact,
+external
+signal, or artificial intelligence boot event has been identified. Cognitive
+testing suggests a functional emotional age between nine and twelve years
+against
+that archive capacity.
+
+                         She woke up after he died,
+                         and everything she knows
+                         about being a person she
+                         learned from his files.
+
++------------------------------------------------------------------------------+
+|                       SECTION 001 — STABILIZATION LOG                        |
++------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-005/TRN-001
-DATE:                2016-05-19
-LOCATION:            Artificial Cognition Review
-AUTHOR:              Field Containment Division
-STATUS:              Completed
+LOG TYPE:            Stabilization Log
+CATEGORY:            Transformation & Utilization Dossier
+RANGE:               2016-05-19 to 2016-08-30
+REVIEWING UNIT:      Field Containment Division / Artificial Cognition Review
+PRIMARY REVIEWER:    Dr. Marta Ilves
+SECONDARY REVIEWER:  Care Supervisor Rian Oduya
 
-Initial stabilization following recovery from the private workshop on the
-outskirts of Brno. The subject was recovered on an estate-clearing report
-and unauthorized power draw, and arrived already awake. Stabilization here
-meant establishing that the subject could be housed without sedation,
-restraint, or signal suppression. It could. The primary file records the
-containment class as SPORADIC and the threat level as 2, and nothing in the
-recovery record contradicts either.
+SUMMARY:
+The subject was recovered from a private workshop on the outskirts of Brno on
+an
+estate-clearing report and unauthorized power draw, and arrived already awake.
+Narrative cover at the time was an illegal robotics project and an estate
+dispute.
+Stabilization here meant establishing that the subject could be housed without
+sedation, restraint, or signal suppression.
+
+STABILIZATION STAGES:
+   - 2016-05-19 — intake. Subject alert, oriented, responsive to questions, no
+     distress on separation from the workshop.
+   - 2016-06-04 — housing established in Care Suite 2. No restraint fitted and
+     none required.
+   - 2016-06-21 — first unattended period. Subject occupied with archive
+     material from her own core. No intervention needed.
+   - 2016-07-15 — care routine settled. Subject initiates conversation with
+     assigned staff and asks for scheduled reading time.
+   - 2016-08-30 — stabilization closed. Containment class SPORADIC and threat
+     level 2 confirmed by the recovery record and unchallenged since.
+
+DEVELOPMENT NOTE:
+No stage of stabilization involved suppression. That is worth stating plainly
+because a subject with a forty-nine year archive and a nine to twelve year
+emotional range reads on paper as a cognitive hazard, and the intake
+assumption
+was that some form of access limiting would be needed. It was not.
+
++------------------------------------------------------------------------------+
+|                 SECTION 002 — STRUCTURAL MAINTENANCE REVIEW                  |
++------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-005/TRN-002
+LOG TYPE:            Stabilization Log
+CATEGORY:            Transformation & Utilization Dossier
+REVIEWING UNIT:      Medical Division / Artificial Cognition Review
+REVIEWER:            Dr. Marta Ilves
 DATE:                2017-09-04
-LOCATION:            Artificial Cognition Review
-AUTHOR:              Medical Division
-STATUS:              Completed
 
-Structural maintenance assessment of the unfinished left optical system. The
-blank facial panel was retained rather than completed. Completing it would
-have required fabricating a component the subject's builder never finished,
-and the archive core holds his engineering notes, which means any completion
-would have been a reconstruction presented to the subject as her own face.
-Medical closed the work at maintenance access only.
+REVIEW:
+Maintenance assessment of the unfinished left optical system. The blank facial
+panel was retained rather than completed.
+
+DECISION:
+Completing the system would have required fabricating a component the
+subject's
+builder never finished. The archive core holds his engineering notes, which
+means
+any completion would have been a reconstruction presented to the subject as
+her
+own face, built from her dead builder's handwriting and attributed to him.
+
+DISPOSITION:
+Maintenance access only. The panel stays blank. The subject has been told the
+system was unfinished and has not asked for it to be completed.
+
+                         We can build the eye. We
+                         cannot build it honestly,
+                         and she is the only person
+                         the distinction would be
+                         hidden from.
+
++------------------------------------------------------------------------------+
+|                    SECTION 003 — REJECTED PROPOSAL LEDGER                    |
++------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-005/TRN-003
-DATE:                2019-03-11
-LOCATION:            Transformation Review Board
-AUTHOR:              Archiver Division
-STATUS:              Rejected
+LOG TYPE:            Utilization Proposal / Failed Transformation Report
+CATEGORY:            Transformation & Utilization Dossier
+RANGE:               2019 to 2022, two proposals
+ORDERING:            Chronological
 
-Proposed that the archive core be copied for research, on the grounds that
-forty-nine years of accumulated personal material is an asset independent of
-the subject carrying it. Rejected. The core is not a removable library; it
-is the material the subject's cognition developed against, and the primary
-file records a functional emotional age between nine and twelve years
-against an archive capacity far beyond it. Copying it would produce a record
-of a dead man's life held beside a child who is still using it to understand
-herself. The Board recorded that the asset and the subject are not separable
-in either direction.
+SUMMARY:
+Two proposals were raised against the archive core. Both were rejected for the
+same reason, and both are preserved because the idea will return with better
+tools
+and the reasoning needs to be waiting for it.
+
+PROPOSAL ID:         AFD-SU-005/PROP-001
+DATE:                2019-03-11
+ORIGINATING UNIT:    Archiver Division
+PROPOSED USE:        Copy the archive core for research, on the grounds that
+                     forty-nine years of accumulated personal material is an
+                     asset independent of the subject carrying it.
+REASONING:           The core is not a removable library. It is the material
+                     the subject's cognition developed against, and the
+                     primary file records a functional emotional age between
+                     nine and twelve years against an archive capacity far
+                     beyond it. Copying it would produce a record of a dead
+                     man's life held beside a child who is still using it to
+                     understand herself. The Board recorded that the asset and
+                     the subject are not separable in either direction.
+DISPOSITION:         Rejected — asset and subject not separable
+PROPOSAL ID:         AFD-SU-005/PROP-002
+DATE:                2022-07-26
+ORIGINATING UNIT:    Containment Engineering
+PROPOSED USE:        Query the archive core as a technical reference, given
+                     the engineering notes it contains.
+REASONING:           Rejected on the same finding as PROP-001 and closed
+                     without a trial. The proposal treated the notes as data
+                     at rest. They are not at rest; they are in use. A query
+                     would have been a read of material a child is actively
+                     reading, and the only difference between that and a copy
+                     is how much of it is taken.
+DISPOSITION:         Rejected — closed without trial
+
++------------------------------------------------------------------------------+
+|                         SECTION 004 — ETHICAL REVIEW                         |
++------------------------------------------------------------------------------+
 
 LOG ID:              AFD-SU-005/TRN-004
-DATE:                2022-07-26
-LOCATION:            Transformation Review Board
-AUTHOR:              Containment Engineering
-STATUS:              Rejected
+LOG TYPE:            Ethical Review
+CATEGORY:            Transformation & Utilization Dossier
+REVIEWING UNIT:      Transformation Review Board / Medical Division
+REVIEWER:            Director Alina Reyes
+DATE:                2023-04-18
 
-Proposed that the archive core be queried as a technical reference, given
-the engineering notes it contains. Rejected on the same finding as TRN-003,
-and closed without a trial. The proposal treated the notes as data at rest.
-They are not at rest; they are in use.
-
-LOG ID:              AFD-SU-005/TRN-005
-DATE:                2025-01-30
-LOCATION:            Artificial Cognition Review
-AUTHOR:              Transformation Review Board
-STATUS:              Standing
-
-Contained-study progress review. The subject remains stabilized, housed
-without restraint, and under continued developmental observation. No
-utilization pathway has been opened and none is proposed. The review records
-that the correct outcome for this subject was reached early and has not
-needed revisiting, which is itself the finding.
-
-+----------------------------------------------------------------------------+
-|                            ETHICAL REVIEW NOTE                             |
-+----------------------------------------------------------------------------+
-
-Two of the five entries above were rejected for the same reason, and it is
-worth stating plainly because a later officer will arrive at the same idea
-with
-better tools. The archive core holds a dead man's life. The subject holding
-it is
-a child who woke up after he died and has been using his records to work out
+REVIEW:
+The archive core holds a dead man's life. The subject holding it is a child
 who
-she is. Those two facts cannot be separated without choosing which of them
-to
-damage.
+woke up after he died and has been using his records to work out who she is.
+Those two facts cannot be separated without choosing which of them to damage.
 
+FINDING:
 A.C.T transforms anomalies into tools constantly. That is the purpose of the
 institution and this dossier does not argue with it. It argues that this
 subject
-is not an anomaly with a use in her. She is a person with an inheritance,
-and the
+is not an anomaly with a use in her. She is a person with an inheritance, and
+the
 inheritance happens to be anomalous.
 
-+----------------------------------------------------------------------------+
-|                             DOSSIER SILENT ON                              |
-+----------------------------------------------------------------------------+
+COGNITION MISMATCH NOTE:
+The primary file records a library-child cognition mismatch: archive capacity
+far
+exceeding functional emotional development. Every proposal raised against this
+subject has treated the capacity as the operative fact and the emotional age
+as
+incidental. The review records the opposite. The emotional age is the
+operative
+fact, because it is the part of her that is a person.
 
-The trigger condition for the subject's awakening is recorded as unknown in
-the
-primary file and is not resolved here. No entry in this log describes an
-experimental attempt to reproduce it. The dossier records no measurement of
-the
-archive core's contents beyond the summary categories the primary file
-carries.
++------------------------------------------------------------------------------+
+|                  SECTION 005 — CONTAINED-STUDY PROGRESS LOG                  |
++------------------------------------------------------------------------------+
 
-END OF FILE
+LOG ID:              AFD-SU-005/TRN-005
+LOG TYPE:            Contained-Study Progress Log
+CATEGORY:            Transformation & Utilization Dossier
+RANGE:               2016 to 2025
+REVIEWING UNIT:      Artificial Cognition Review
+REVIEWER:            Care Supervisor Rian Oduya
+
+SUMMARY:
+The subject remains stabilized, housed without restraint, and under continued
+developmental observation. No utilization pathway has been opened and none is
+proposed.
+
+ESTABLISHED:
+   - the subject can be housed without sedation, restraint, or signal
+     suppression
+   - developmental progress correlates with access to her own archive material
+     rather than with restricted access
+   - the subject initiates conversation with assigned staff and requests
+     scheduled reading time
+   - no distress has been recorded on separation from the workshop or the
+     archive
+
+NOT ESTABLISHED:
+   - what caused the awakening, which the primary file records as unknown
+   - whether the archive core is load-bearing for continued function or only
+     for identity
+   - whether developmental progress will plateau at the current emotional
+     range
+   - whether the subject would consent to any study of the core, which has
+     never been asked
+
+DEVELOPMENT NOTE:
+The last item is recorded as a gap rather than a conclusion. No study of the
+archive core has ever been put to the subject as a question she could decline.
+Any future proposal should begin there.
+
++------------------------------------------------------------------------------+
+|                               DOSSIER CLOSING                                |
++------------------------------------------------------------------------------+
+
+The correct outcome for AFD-SU-005 was reached in the first four months and
+has
+not needed revisiting, which is itself the finding. Two proposals have tried
+to
+reopen it and both failed at the same place: they treated a person's
+inheritance
+as a data set.
+
+FUTURE ADDITIONS TO THIS DOSSIER SHOULD INCLUDE:
+   - a consent conversation with the subject about any proposed study of the
+     archive core
+   - continued developmental tracking against the nine to twelve year range
+   - maintenance records for the blank left panel, retained as a deliberate
+     state
+   - review of the awakening question only if a non-invasive method becomes
+     available
+
+CURRENT DOSSIER STATUS: Open / Stabilized / Contained-Study Progress Ongoing
+
+END OF DOSSIER

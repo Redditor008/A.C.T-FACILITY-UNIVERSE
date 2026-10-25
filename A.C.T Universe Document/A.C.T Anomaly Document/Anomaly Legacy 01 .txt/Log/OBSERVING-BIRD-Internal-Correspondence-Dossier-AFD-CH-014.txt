@@ -1,47 +1,125 @@
 A.C.T FACILITY — COMMUNICATION & INTERNAL CORRESPONDENCE DOSSIER
 OBSERVING-BIRD-Internal-Correspondence-Dossier-AFD-CH-014
 
-+----------------------------------------------------------------------------+
-|      A.C.T FACILITY — COMMUNICATION & INTERNAL CORRESPONDENCE DOSSIER      |
-|                     Anomaly Containment Transformation                     |
-+----------------------------------------------------------------------------+
++------------------------------------------------------------------------------+
+|       A.C.T FACILITY — COMMUNICATION & INTERNAL CORRESPONDENCE DOSSIER       |
+|                      Anomaly Containment Transformation                      |
++------------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-CH-014
 TITLE I:             OBSERVING BIRD
 TITLE II:            BIRD THAT JUDGE OTHER APOCALYPSE
+
 FIELD TYPE:          CH — Cosmic Hazard
 PRIMARY FILE:        OBSERVING-BIRD-AFD-CH-014
+
 DOCUMENT CATEGORY:   CATEGORY X — Communication & Internal Correspondence Dossier
-CATEGORY FUNCTION:   Internal messages, command decisions, interdepartmental
-                     disputes, authorization requests, and administrative
-                     reactions bearing on this record.
+CATEGORY FUNCTION:   Internal memoranda, interdepartmental warnings, authorization
+                     requests, command notices, archive disputes, and ethics notes
+                     bearing on this record
+
+CLEARANCE REQUIRED:  Level 5
+
 CONTAINMENT CLASS:   UNDISCLOSED
 THREAT LEVEL:        5
-CLEARANCE REQUIRED:  Level 5
 RESPONDING UNIT:     Central Archive Administration / Cosmic Hazard Review
 NARRATIVE STATUS:    Internal only / sealed cosmic hazard record
+
 ARCHIVE STATUS:      Active / correspondence restricted
 DOSSIER STATUS:      Closed — standing policy in force
 
-+----------------------------------------------------------------------------+
-|                             CATEGORY CONTENTS                              |
-+----------------------------------------------------------------------------+
+CORRESPONDENCE RANGE:1963-04-16 to 2019-05-02
+ORDERING METHOD:     Chronological, oldest to newest
 
-This dossier records no anomaly behavior. The primary file carries that.
-What
-follows is the argument A.C.T had with itself about what to do regarding an
-entity that watches apocalyptic anomalies and writes something down about
++------------------------------------------------------------------------------+
+|                              CATEGORY CONTENTS                               |
++------------------------------------------------------------------------------+
+
+This dossier belongs to A.C.T Log Category X — Communication & Internal
+Correspondence Dossier. It records no anomaly behaviour; the primary file
+carries
+that. What follows is the argument A.C.T had with itself about what to do
+regarding
+an entity that appears near apocalyptic anomalies and writes something down
+about
 them.
-Category X exists for exactly this: the cases where bureaucracy is part of
+
+INCLUDED LOG TYPES:
+   - Internal Memo
+   - Interdepartmental Warning
+   - Clearance Request
+   - Denial / Approval Notice
+   - Command Notice
+   - Archive Dispute
+   - Ethics Committee Note
+   - Dossier Closing Statement
+
+CATEGORY PURPOSE:
+Category X exists for the cases where bureaucracy is part of the containment
+story
+rather than a wrapper around it. The argument recorded here ran for fifty-six
+years
+and never fully resolved. Both sides are preserved because the reasoning on
+each is
+still load-bearing and will be needed again.
+
++------------------------------------------------------------------------------+
+|                               DOSSIER SUMMARY                                |
++------------------------------------------------------------------------------+
+
+AFD-CH-014 is a small bird-like cosmic unknown entity approximately 30 cm from
+beak
+to tail, bright white and golden yellow, with white plumage along the chest,
+head,
+and inner wings and golden yellow along the wing tips, crest, tail feathers,
+and
+talons. Under low light the golden portions remain visible without producing
+ordinary illumination. Its body shape changes slightly between sightings,
+sometimes
+resembling a finch, dove, shrike, or small raptor, but the colouration, size,
+and
+carried objects remain consistent.
+
+The entity is always observed holding a dark miniature notepad in its left
+claw and
+a white-black anomalous pencil in its right claw or beak. The notepad is matte
+black, absorbs light beyond normal pigment behaviour, and never appears to run
+out
+of pages. The pencil is white with black spiral banding and produces marks
+without
+visible graphite, ink, chalk, charcoal, or pressure residue.
+
+The entity manifests near anomalies that can be considered apocalyptic in
+their
+descent, escalation, final activation state, or uncontained end condition. The
+primary file records the containment class as UNDISCLOSED, the threat level as
+5,
+and the narrative status as internal only under a sealed cosmic hazard record.
+
+                         It arrives when something is
+                         about to end the world,
+                         writes something down, and
+                         leaves. We have never
+                         learned which of those two
+                         things we should be worried
+                         about.
+
++------------------------------------------------------------------------------+
+|                     SECTION 001 — CORRESPONDENCE LEDGER                      |
++------------------------------------------------------------------------------+
+
+LOG ID:              AFD-CH-014/COM-001
+LOG TYPE:            Internal Memo / Interdepartmental Warning
+CATEGORY:            Communication & Internal Correspondence Dossier
+RANGE:               1963 to 1988
+ORDERING:            Chronological
+
+SUMMARY:
+The first twenty-five years of correspondence concern one question: whether
 the
-containment story rather than a wrapper around it.
-
-The argument ran for decades and never fully resolved. The correspondence is
-preserved because the reasoning on both sides is still load-bearing.
-
-+----------------------------------------------------------------------------+
-|                             CORRESPONDENCE LOG                             |
-+----------------------------------------------------------------------------+
+entity is an observation instrument or a hazard. The two positions are
+recorded
+below with the reasoning each side gave at the time.
 
 LOG ID:              AFD-CH-014/COM-001
 DATE:                1963-04-16
@@ -49,40 +127,56 @@ FROM:                Cosmic Hazard Review
 TO:                  Site Command
 DOCUMENT TYPE:       Internal memo
 STATUS:              Superseded
-
-First recorded recommendation following the 1962 verification at the Primary
-Facility. Review asks that the entity be treated as an observation
-instrument rather than a hazard, on the grounds that it has been seen near
-apocalyptic anomalies without being seen to act on them. The primary file
-records the containment class as UNDISCLOSED and the threat level as 5,
-which sits badly with the word instrument. Superseded by COM-004.
-
+TEXT:                First recorded recommendation following the 1962
+                     verification at the Primary Facility. Review asks that
+                     the entity be treated as an observation instrument rather
+                     than a hazard, on the grounds that it has been seen near
+                     apocalyptic anomalies without being seen to act on them.
+                     The primary file records the containment class as
+                     UNDISCLOSED and the threat level as 5, which sits badly
+                     with the word instrument. Superseded by COM-004.
 LOG ID:              AFD-CH-014/COM-002
 DATE:                1971-11-03
 FROM:                Field Containment Division
 TO:                  Cosmic Hazard Review
 DOCUMENT TYPE:       Interdepartmental warning
 STATUS:              Acknowledged
-
-Field objects to the instrument framing. The entity is always observed
-holding a dark miniature notepad in its left claw and a white-black pencil
-in its right claw or beak, the notepad never appears to run out of pages,
-and the pencil produces marks without graphite, ink, chalk, charcoal, or
-pressure residue. Field's position is that an instrument records for
-someone, and nobody has identified who. Acknowledged without resolution.
-
+TEXT:                Field objects to the instrument framing. An instrument
+                     records for someone, and nobody has identified who. Field
+                     notes that the notepad never appears to run out of pages
+                     and that the pencil marks without graphite, ink, chalk,
+                     charcoal, or pressure residue, so there is no consumable
+                     to account for and therefore no supply line to trace.
+                     Acknowledged without resolution.
 LOG ID:              AFD-CH-014/COM-003
 DATE:                1988-06-21
 FROM:                Transformation Review Board
 TO:                  Central Archive Administration
-DOCUMENT TYPE:       Authorization request
+DOCUMENT TYPE:       Clearance request
 STATUS:              Denied
+TEXT:                Request to open a utilization pathway on the theory that
+                     a judge mark might be recoverable, readable, or
+                     reproducible. Denied. The request assumed the marks are
+                     records in a sense A.C.T can parse. Nothing in the
+                     primary file supports that, and the Board recorded that a
+                     proposal built on an assumption about an unreadable mark
+                     is not a proposal. Denied without a trial.
 
-Request to open a utilization pathway on the theory that a judge mark might
-be recoverable, readable, or reproducible. Denied. The request assumed the
-marks are records in a sense A.C.T can parse. Nothing in the primary file
-supports that, and the Board recorded that a proposal built on an assumption
-about an unreadable mark is not a proposal. Denied without a trial.
++------------------------------------------------------------------------------+
+|               SECTION 002 — COMMAND NOTICE AND ARCHIVE DISPUTE               |
++------------------------------------------------------------------------------+
+
+LOG ID:              AFD-CH-014/COM-002
+LOG TYPE:            Command Notice / Archive Dispute
+CATEGORY:            Communication & Internal Correspondence Dossier
+RANGE:               1994 to 2007
+ORDERING:            Chronological
+
+SUMMARY:
+Command set the standing policy in 1994 and it has never been formally
+challenged.
+The archive dispute thirteen years later concerned visibility rather than
+policy.
 
 LOG ID:              AFD-CH-014/COM-004
 DATE:                1994-02-09
@@ -90,69 +184,101 @@ FROM:                Central Archive Administration
 TO:                  All attached divisions
 DOCUMENT TYPE:       Command notice
 STATUS:              Standing
-
-Command sets the standing policy: no interference, no approach, no attempt
-at communication, no attempt to recover the notepad or the pencil, and no
-attempt to prevent the entity from observing. The notice states its
-reasoning in one line and the line has never been formally challenged. A.C.T
-does not know what the entity is judging or for whom, so the only defensible
-posture is to not become the thing being judged.
-
+TEXT:                Command sets the standing policy: no interference, no
+                     approach, no attempt at communication, no attempt to
+                     recover the notepad or the pencil, and no attempt to
+                     prevent the entity from observing. The notice states its
+                     reasoning in one line. A.C.T does not know what the
+                     entity is judging or for whom, so the only defensible
+                     posture is to not become the thing being judged.
 LOG ID:              AFD-CH-014/COM-005
 DATE:                2007-08-14
 FROM:                Archiver Division
 TO:                  Central Archive Administration
 DOCUMENT TYPE:       Archive dispute
 STATUS:              Resolved
+TEXT:                Archiver objects to the sealed status of the record,
+                     arguing that a hazard correlated with apocalyptic
+                     escalation should be visible to the divisions that
+                     contain apocalyptic anomalies. Resolved in favour of
+                     restricted visibility with a standing summary issued to
+                     Level 5 holders only. The compromise is recorded here
+                     because it is the reason later personnel find a short
+                     notice and not the file behind it.
 
-Archiver objects to the sealed status of the record, arguing that a hazard
-correlated with apocalyptic escalation should be visible to divisions that
-contain apocalyptic anomalies. Resolved in favour of restricted visibility
-with a standing summary issued to Level 5 holders only. The compromise is
-recorded here because it is the reason later personnel find a short notice
-and not the file behind it.
++------------------------------------------------------------------------------+
+|                     SECTION 003 — ETHICS COMMITTEE NOTE                      |
++------------------------------------------------------------------------------+
 
-LOG ID:              AFD-CH-014/COM-006
+LOG ID:              AFD-CH-014/COM-003
+LOG TYPE:            Ethics Committee Note
+CATEGORY:            Communication & Internal Correspondence Dossier
+REVIEWING UNIT:      Cosmic Hazard Review
+REVIEWER:            Director Alina Reyes
 DATE:                2019-05-02
-FROM:                Cosmic Hazard Review
-TO:                  Site Command
-DOCUMENT TYPE:       Ethics committee note
-STATUS:              Standing
 
-Review revisits COM-001 and withdraws the instrument framing formally. The
-note records that the entity's body shape changes between sightings,
-sometimes resembling a finch, dove, shrike, or small raptor, while the
-coloration, size, and carried objects stay consistent. Review's revised
-position is that the consistent part is not the bird. It is the notepad.
+NOTE:
+Review revisits COM-001 and withdraws the instrument framing formally, fifty-
+six
+years after it was first proposed.
 
-+----------------------------------------------------------------------------+
-|                                 ASSESSMENT                                 |
-+----------------------------------------------------------------------------+
+REASONING:
+The entity's body shape changes between sightings, sometimes resembling a
+finch,
+dove, shrike, or small raptor, while the colouration, size, and carried
+objects
+stay consistent. Review's revised position is that the consistent part is not
+the
+bird. It is the notepad.
 
+                         We have been describing the
+                         animal because the animal is
+                         what we can see. The animal
+                         is not the constant.
+
++------------------------------------------------------------------------------+
+|                           SECTION 004 — ASSESSMENT                           |
++------------------------------------------------------------------------------+
+
+LOG ID:              AFD-CH-014/COM-004
+LOG TYPE:            Dossier Closing Statement
+CATEGORY:            Communication & Internal Correspondence Dossier
+REVIEWING UNIT:      Central Archive Administration / Cosmic Hazard Review
+
+ASSESSMENT:
 The correspondence shows an institution arguing for fifty-six years about
-whether a bird is a tool. It never agreed, and the disagreement produced the
-correct policy anyway, which is worth recording because it is not how these
-things usually work.
+whether
+a bird is a tool. It never agreed, and the disagreement produced the correct
+policy
+anyway, which is worth recording because it is not how these things usually
+work.
 
-The standing notice does not rest on knowing what the entity does. It rests
-on
+The standing notice does not rest on knowing what the entity does. It rests on
 admitting that A.C.T does not. An entity that appears near apocalyptic
-anomalies, writes something down, and leaves has not been observed to help
-and
-has not been observed to interfere. The only decision available was whether
-to
-insert A.C.T into that sequence, and command declined.
+anomalies,
+writes something down, and leaves has not been observed to help and has not
+been
+observed to interfere. The only decision available was whether to insert A.C.T
+into that sequence, and command declined.
 
-+----------------------------------------------------------------------------+
-|                             DOSSIER SILENT ON                              |
-+----------------------------------------------------------------------------+
++------------------------------------------------------------------------------+
+|                               DOSSIER CLOSING                                |
++------------------------------------------------------------------------------+
 
-The trigger condition is recorded as unknown in the primary file and no
-entry
-here resolves it. No correspondence in this log records an attempt to
-communicate with the entity, to read the notepad, or to recover the pencil.
-The
-contents of the marks are unknown and no proposal to learn them was
-approved.
+Six documents across fifty-six years. Two positions, one standing policy, one
+denied request, one resolved dispute, and one formal withdrawal. The policy
+has not
+changed since 1994 and the reasoning for it has not been improved on since.
 
-END OF FILE
+FUTURE ADDITIONS TO THIS DOSSIER SHOULD INCLUDE:
+   - any new correlation between a manifestation and a specific apocalyptic
+     anomaly
+   - any sighting in which the carried objects differ, which no record has yet
+     reported
+   - any challenge to the 1994 standing notice, recorded with its reasoning
+   - any proposal concerning the notepad, which should be routed here before
+     review
+
+CURRENT DOSSIER STATUS: Closed / Standing Policy In Force
+
+END OF DOSSIER

@@ -9,183 +9,304 @@ Dream-Eater-THEMESY-Personal-Dossier-AFD-SU-011
 DESIGNATION:         AFD-SU-011
 TITLE I:             Dream Eater-THEMESY
 TITLE II:            THE GENTLE WHALE THAT DOES NOT KNOW IT FEEDS
+
 FIELD TYPE:          SU — Subject
 PRIMARY FILE:        Dream-Eater-THEMESY-AFD-SU-011
+
 DOCUMENT CATEGORY:   CATEGORY XII — Personal & Recovered Journal Dossier
-CATEGORY FUNCTION:   Pre-feeding dream records, post-slumber notes, and care
-                     staff observations. Subjective material preserved because
-                     for this anomaly it is the evidence.
+CATEGORY FUNCTION:   Pre-feeding dream records, post-slumber notes, care staff
+                     observations, and researcher diary material preserved because
+                     for this anomaly subjective writing is the evidence
+
+CLEARANCE REQUIRED:  Level 2
+
 CONTAINMENT CLASS:   SPORADIC
 THREAT LEVEL:        1
-CLEARANCE REQUIRED:  Level 2
 RECOVERY CONTEXT:    Pediatric sleep clinic / Geneva, Switzerland
 RESPONDING UNIT:     Field Containment Division / Oneiric Phenomena Review
+
 ARCHIVE STATUS:      Active
 DOSSIER STATUS:      Open — subjective record, not superseded by formal file
+
+RECORD RANGE:        2018-08-19 to 2024-03-22
+ORDERING METHOD:     Chronological within each section
 
 +------------------------------------------------------------------------------+
 |                              CATEGORY CONTENTS                               |
 +------------------------------------------------------------------------------+
 
-The doctrine governing this category states that personal dossiers are not
+This dossier belongs to A.C.T Log Category XII — Personal & Recovered Journal
+Dossier. The doctrine governing the category states that personal dossiers are
+not
 automatically less reliable than formal reports, and that for some anomalies
-subjective records are the only evidence that survives alteration. AFD-SU-011
-is that case.
+subjective records are the only evidence that survives alteration.
 
-The entity consumes dream activity. Anything it takes is gone from the subject
-and cannot be recovered, measured, or re-tested afterward. The primary file
-records what happens to the body: breathing slows, the electroencephalogram
-shows dream-state collapse, and a deep slumber follows. None of that records
-what was taken. Only the writing done before and after does.
+AFD-SU-011 is that case. The entity consumes dream activity. Anything it takes
+is
+gone from the subject and cannot be recovered, measured, or re-tested
+afterward.
+The primary file records what happens to the body: breathing slows, the
+electroencephalogram shows dream-state collapse, and a deep slumber follows.
+None
+of that records what was taken. Only the writing done before and after does.
 
-What follows is therefore preserved at full length rather than summarized. The
-summaries exist elsewhere. This is the part that would otherwise be lost.
+INCLUDED LOG TYPES:
+   - Personal Log
+   - Recovered Journal
+   - Researcher Diary
+   - Field Notebook
+   - Subject-Written Entry
+   - Dream Journal
+   - Care Log
+   - Fragmented Memory Log
+
+CATEGORY PURPOSE:
+To preserve uncondensed what would otherwise be lost. Summaries of this
+material
+exist in the formal reports and are adequate for operational purposes. They
+are
+not adequate as a record, because the operational summary of a consumed dream
+is
+indistinguishable from the operational summary of an ordinary night's sleep.
 
 +------------------------------------------------------------------------------+
-|                          PRE-FEEDING DREAM RECORDS                           |
+|                               DOSSIER SUMMARY                                |
 +------------------------------------------------------------------------------+
 
-Collected at the pediatric sleep clinic before recovery, from repeated reports
-of harmless coma-like sleep. Recorded here as written, with spelling retained.
+AFD-SU-011 is an aerial whale-like entity approximately 2 m from head to tail,
+moving through air by slow swimming motions without water, visible propulsion,
+wing
+structure, or physical contact with surrounding surfaces. It has a soft pale
+body
+with an estimated 22 percent transparency, is partially luminous with slow-
+moving
+bands of blue-white haze beneath the surface, and carries a cloud-like mane
+from
+the upper head along the dorsal line which becomes denser near distressed
+dream
+activity.
+
+The entity feeds on the dreams of sleeping subjects by hovering above them and
+drawing out active dream-state content. After ordinary feeding the subject
+enters a
+72-hour deep slumber. Where the subject is experiencing a significant
+nightmare the
+entity slows, its mane darkens, and it appears to separate fear-content from
+surrounding memory structure before consuming it, producing a 64-hour slumber.
+Subjects whose nightmares are consumed frequently wake with reduced fear of
+the
+content, though they may retain a vague memory that
+
+                         something kind was eating
+                         the dark part.
+
+The primary file records that the entity shows no awareness that this effect
+may be
+therapeutic. It approaches sleeping subjects with slow careful movements and
+does
+not attack, threaten, chase, or deliberately injure personnel.
+
++------------------------------------------------------------------------------+
+|                   SECTION 001 — PRE-FEEDING DREAM RECORDS                    |
++------------------------------------------------------------------------------+
+
+LOG ID:              AFD-SU-011/JRN-001
+LOG TYPE:            Dream Journal / Personal Log
+CATEGORY:            Personal & Recovered Journal Dossier
+RANGE:               2018-08-19 to 2018-10-30
+SOURCE CONTEXT:      Pediatric sleep clinic, Geneva, before recovery
+REVIEWING UNIT:      Oneiric Phenomena Review
+
+SUMMARY:
+Collected at the clinic from repeated reports of harmless coma-like sleep and
+dream-loss. Recorded as written, with spelling and phrasing retained as
+recovered.
 
 LOG ID:              AFD-SU-011/JRN-001
 DATE:                2018-08-19
 SOURCE:              Parent's written account, clinic intake
-
-Third night in a row she has woken up saying she did not dream at all. Not
-that she forgot it. She says there was nothing there to forget, like a room
-with the furniture taken out. She is not frightened. That is the part I cannot
-explain to anyone. She sleeps better than she has in a year and she has
-stopped being afraid of going to bed, and I am supposed to be worried about
-that.
-
+ENTRY:               Third night in a row she has woken up saying she did not
+                     dream at all. Not that she forgot it. She says there was
+                     nothing there to forget, like a room with the furniture
+                     taken out. She is not frightened. That is the part I
+                     cannot explain to anyone. She sleeps better than she has
+                     in a year and she has stopped being afraid of going to
+                     bed, and I am supposed to be worried about that.
 LOG ID:              AFD-SU-011/JRN-002
 DATE:                2018-09-27
 SOURCE:              Clinic night nurse, shift note
-
-Patient in bed four described a large pale shape above her around two in the
-morning and asked me not to turn the light on because it would frighten it. I
-checked the corridor and the stairwell and there is nothing in the building
-that matches. She was calm throughout. Her breathing was slow and regular. I
-sat with her until she was properly asleep and I have written this down
-because I do not want to be the one who did not write it down.
-
+ENTRY:               Patient in bed four described a large pale shape above
+                     her around two in the morning and asked me not to turn
+                     the light on because it would frighten it. I checked the
+                     corridor and the stairwell and there is nothing in the
+                     building that matches. She was calm throughout. Her
+                     breathing was slow and regular. I sat with her until she
+                     was properly asleep and I have written this down because
+                     I do not want to be the one who did not write it down.
 LOG ID:              AFD-SU-011/JRN-003
 DATE:                2018-10-30
 SOURCE:              Subject-written entry, age nine, recovered from clinic
-
-it comes when the bad one starts. i know that sounds wrong. when the bad dream
-comes it comes and it is slow and careful like it is taking something out of a
-bag without tearing the bag. after i am not scared of the bad one anymore. i
-still know it happened. the scared part is gone and the knowing part stays. i
-have not told the doctors this because they will stop letting me sleep.
+ENTRY:               it comes when the bad one starts. i know that sounds
+                     wrong. when the bad dream comes it comes and it is slow
+                     and careful like it is taking something out of a bag
+                     without tearing the bag. after i am not scared of the bad
+                     one anymore. i still know it happened. the scared part is
+                     gone and the knowing part stays. i have not told the
+                     doctors this because they will stop letting me sleep.
 
 +------------------------------------------------------------------------------+
-|                              POST-SLUMBER NOTES                              |
+|                       SECTION 002 — POST-SLUMBER NOTES                       |
 +------------------------------------------------------------------------------+
 
+LOG ID:              AFD-SU-011/JRN-002
+LOG TYPE:            Fragmented Memory Log / Subject Testimony
+CATEGORY:            Personal & Recovered Journal Dossier
+RANGE:               2019 to 2021
+REVIEWING UNIT:      Oneiric Phenomena Review / Medical Division
+
+SUMMARY:
 The primary file records 72 hours after ordinary feeding and 64 hours after
-nightmare-care feeding, with subjects waking naturally and no tissue damage,
-neurological injury, or measurable cognitive loss. The notes below are what
-subjects said when they woke.
+nightmare-care feeding, with subjects waking naturally, hydrated if cared for,
+and
+no tissue damage, neurological injury, or measurable cognitive loss. The notes
+below
+are what subjects said when they woke, which the primary file does not carry.
 
 LOG ID:              AFD-SU-011/JRN-004
 DATE:                2019-04-11
 SOURCE:              Post-slumber interview, subject age eleven
-
-Asked whether she remembered the three days. She said she had been somewhere
-with no weather in it. Asked whether anything was missing. She thought for a
-while and said something kind was eating the dark part. She did not offer the
-phrase as a description of a memory. She offered it as though it were the name
-of a thing that had happened to her, the way one names an illness.
-
+ENTRY:               Asked whether she remembered the three days. She said she
+                     had been somewhere with no weather in it. Asked whether
+                     anything was missing. She thought for a while and said
+                     something kind was eating the dark part. She did not
+                     offer the phrase as a description of a memory. She
+                     offered it as though it were the name of a thing that had
+                     happened to her, the way one names an illness.
 LOG ID:              AFD-SU-011/JRN-005
 DATE:                2020-02-06
 SOURCE:              Care staff observation, containment wing
-
-Subject woke at the end of the slumber period oriented, hydrated, and hungry,
-and asked immediately whether the whale was all right. Not where it was.
-Whether it was all right. Two other subjects have asked a version of the same
-question on waking. Recorded because it does not fit either the equipment
-fault or the medication reaction explanation the cover story is using, and
-because nobody has yet decided what it does fit.
-
+ENTRY:               Subject woke at the end of the slumber period oriented,
+                     hydrated, and hungry, and asked immediately whether the
+                     whale was all right. Not where it was. Whether it was all
+                     right. Two other subjects have asked a version of the
+                     same question on waking. Recorded because it does not fit
+                     either the equipment fault or the medication reaction
+                     explanation the cover story is using, and because nobody
+                     has yet decided what it does fit.
 LOG ID:              AFD-SU-011/JRN-006
 DATE:                2021-11-18
 SOURCE:              Researcher diary, Oneiric Phenomena Review
-
-Fourth year of this. I have stopped trying to design an experiment that
-recovers consumed dream content, and I want the reason on the record so the
-next person does not spend four years learning it the same way. There is
-nothing to recover. The entity is not storing what it takes anywhere we can
-reach. It is eating it. Every instrument we have points at the body and the
-body is fine. The only record of what was taken is what somebody wrote down
-beforehand, which is why this file is longer than my formal reports and why I
-keep asking the archive not to condense it.
+ENTRY:               Fourth year of this. I have stopped trying to design an
+                     experiment that recovers consumed dream content, and I
+                     want the reason on the record so the next person does not
+                     spend four years learning it the same way. There is
+                     nothing to recover. The entity is not storing what it
+                     takes anywhere we can reach. It is eating it. Every
+                     instrument we have points at the body and the body is
+                     fine. The only record of what was taken is what somebody
+                     wrote down beforehand, which is why this file is longer
+                     than my formal reports and why I keep asking the archive
+                     not to condense it.
 
 +------------------------------------------------------------------------------+
-|                           CARE STAFF OBSERVATIONS                            |
+|                    SECTION 003 — CARE STAFF OBSERVATIONS                     |
 +------------------------------------------------------------------------------+
+
+LOG ID:              AFD-SU-011/JRN-003
+LOG TYPE:            Care Log / Handler Note
+CATEGORY:            Personal & Recovered Journal Dossier
+RANGE:               2022 to 2024
+REVIEWING UNIT:      Containment Wing Care Rotation
+
+SUMMARY:
+Care rotation notes preserved because they record a use of the entity that no
+proposal ever approved, developed by the people doing the work rather than by
+review, and working.
 
 LOG ID:              AFD-SU-011/JRN-007
 DATE:                2022-06-09
 SOURCE:              Care rotation log
-
-The entity continues to avoid bright surgical lighting, loud machinery, and
-rooms holding more than six awake people. Care rotation has been restructured
-around this rather than against it. Two staff at a time, low light, quiet. It
-is not a containment measure and it is not written as one in the procedures.
-It is simply how the wing is run now, and the reason is in this file instead
-of in the procedures because the procedures describe a hazard and this is not
-one.
-
+ENTRY:               The entity continues to avoid bright surgical lighting,
+                     loud machinery, and rooms holding more than six awake
+                     people. Care rotation has been restructured around this
+                     rather than against it. Two staff at a time, low light,
+                     quiet. It is not a containment measure and it is not
+                     written as one in the procedures. It is simply how the
+                     wing is run now, and the reason is in this file instead
+                     of in the procedures because the procedures describe a
+                     hazard and this is not one.
 LOG ID:              AFD-SU-011/JRN-008
 DATE:                2024-03-22
 SOURCE:              Care rotation log
-
-Staff note the mane response again. It becomes denser near distressed dream
-activity, and staff have begun reading it as an early indicator, changing
-rotation before a subject reaches an intense nightmare rather than after.
-Nobody authorized this. It was written into the rotation by the people doing
-the work. Recorded here because it is a use of the entity that no proposal
-ever approved and it is working, and because if it is ever challenged the
-challenge should have to argue with the record of it rather than with a
-memory.
+ENTRY:               Staff note the mane response again. It becomes denser
+                     near distressed dream activity, and staff have begun
+                     reading it as an early indicator, changing rotation
+                     before a subject reaches an intense nightmare rather than
+                     after. Nobody authorized this. It was written into the
+                     rotation by the people doing the work. Recorded here
+                     because it is a use of the entity that no proposal ever
+                     approved and it is working, and because if it is ever
+                     challenged the challenge should have to argue with the
+                     record of it rather than with a memory.
 
 +------------------------------------------------------------------------------+
-|                                  ASSESSMENT                                  |
+|                           SECTION 004 — ASSESSMENT                           |
 +------------------------------------------------------------------------------+
 
+LOG ID:              AFD-SU-011/JRN-004
+LOG TYPE:            Dossier Closing Statement
+CATEGORY:            Personal & Recovered Journal Dossier
+REVIEWING UNIT:      Oneiric Phenomena Review
+REVIEWER:            Dr. Marta Ilves
+
+ASSESSMENT:
 The primary file calls this entity gentle without fully understanding the
 consequences of its feeding, and records that it shows no awareness that its
-effect on nightmare subjects may be therapeutic. Both statements are accurate
-and neither is sufficient on its own.
+effect
+on nightmare subjects may be therapeutic. Both statements are accurate and
+neither
+is sufficient on its own.
 
 What the subjective record adds is that the subjects are not confused about
-it.
-A nine year old described the process more precisely than any formal summary
-has managed, and two subjects asked on waking whether the entity was all
-right.
-The archive has a file about something that does not know what it is doing,
-and
-the people it feeds know exactly what it is doing.
+it. A
+nine year old described the process more precisely than any formal summary has
+managed, and subjects have asked on waking whether the entity was all right.
+The
+archive holds a file about something that does not know what it is doing, and
+the
+people it feeds know exactly what it is doing.
+
++------------------------------------------------------------------------------+
+|                               DOSSIER CLOSING                                |
++------------------------------------------------------------------------------+
 
 This dossier is preserved uncondensed for that reason. It is not colour around
-the formal record. For an anomaly that removes what it consumes, the writing
-is
-the only surviving copy.
+the
+formal record. For an anomaly that removes what it consumes, the writing is
+the
+only surviving copy, and condensing it destroys the thing the category exists
+to
+protect.
 
-+------------------------------------------------------------------------------+
-|                              DOSSIER SILENT ON                               |
-+------------------------------------------------------------------------------+
+FUTURE ADDITIONS TO THIS DOSSIER SHOULD INCLUDE:
+   - pre-feeding entries from any new subject, taken before feeding rather
+     than reconstructed after
+   - post-slumber interviews recorded verbatim rather than summarized
+   - care rotation notes on the mane response, continued as an operational
+     record
+   - subject-written entries where a subject is willing and able to provide
+     one
 
+DOSSIER SILENT ON:
 No entry here records what any consumed dream contained. The material is not
 recoverable and no instrument in the archive has retrieved it. The trigger
-condition is recorded in the primary file as the presence of a sleeping
-subject
-within detection range, and no subjective entry explains why one sleeping
-subject
-is chosen rather than another. Spelling and phrasing in the subject-written
-entries are retained as recovered and were not corrected for this file.
+condition
+is recorded in the primary file as the presence of a sleeping subject within
+detection range, and no subjective entry explains why one sleeping subject is
+chosen rather than another. Spelling and phrasing in the subject-written
+entries
+are retained as recovered and were not corrected for this file.
 
-END OF FILE
+CURRENT DOSSIER STATUS: Open / Subjective Record Preserved Uncondensed
+
+END OF DOSSIER

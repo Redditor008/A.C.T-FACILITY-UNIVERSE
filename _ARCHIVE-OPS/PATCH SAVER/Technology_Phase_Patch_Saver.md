@@ -10703,3 +10703,56 @@ Widest line 82 characters. The file ends with END OF DOSSIER and carries all six
 
 The other four logs written in recent sessions still use the old flat form and need the same treatment:
 MACHINE-Heart-AFD-OB-017, ISs-Anny-AFD-SU-005, OBSERVING-BIRD-AFD-CH-014, and Dream-Eater-THEMESY-AFD-SU-011.
+
+---
+
+## Prompt End Update — 2026-10-25, Remaining Four Logs Rebuilt To House Form
+
+Owner direction after the Shadow Shark rebuild: apply the same treatment to the other four.
+
+### Result
+
+| Log | Category | Before | After |
+|---|---|---|---|
+| MACHINE-Heart-AFD-OB-017 | IX | 1136 | 2154 |
+| ISs-Anny-AFD-SU-005 | IX | 976 | 1715 |
+| OBSERVING-BIRD-AFD-CH-014 | X | 882 | 1400 |
+| Dream-Eater-THEMESY-AFD-SU-011 | XII | 1314 | 1855 |
+| Shadow-Shark-AFD-SU-010 | XI | 1104 | 2469 |
+
+All five now carry all six house-form markers: INCLUDED LOG TYPES, CATEGORY PURPOSE, DOSSIER SUMMARY, LOG TYPE on
+every section, DOSSIER CLOSING, and a FUTURE ADDITIONS list. Section counts run four to six. Against the 87
+pre-existing logs at a median of 907 words, all five are now above the median and three are above 1800.
+
+### How each was specialized rather than lengthened
+
+MACHINE-Heart carries a Prohibited Use Notice with a five-point scope, a Transformation Viability Review stating
+three separate grounds so that a proposal addressing one cannot appear to answer the finding, a five-proposal
+ledger with reasoning and disposition on each, an ethical review listing recovered-subject aftereffects
+separately from the absence of tissue damage, and a contained-study log splitting what two decades established
+from what it did not.
+
+ISs-Anny carries a five-stage stabilization log with dates, a structural maintenance review explaining why the
+blank left optical panel stays blank, a two-proposal ledger about the archive core, an ethical review naming the
+cognition mismatch as the operative fact rather than the archive capacity, and a progress log whose final gap is
+that no study of the core has ever been put to the subject as a question she could decline.
+
+OBSERVING-BIRD carries a six-document correspondence ledger across fifty-six years, grouped into three sections
+by period, with the 1994 command notice quoted in full and the 2019 withdrawal of the instrument framing
+reasoned from the fact that the body shape changes while the carried objects do not.
+
+Dream-Eater carries three pre-feeding dream records retained verbatim with spelling uncorrected, three
+post-slumber notes, two care rotation logs recording an unauthorized but working use of the mane response, and a
+closing that states why the file must not be condensed.
+
+### Method
+
+A scratch builder was written carrying the house form as functions and deleted before commit, so the form is
+recorded in this log rather than left as an untracked file. Each log was built from its own primary file with no
+anomalous fact invented, and each carries a closing section naming what the record does not know.
+
+### Verification
+
+All 36 tracked defect keys read 0 and ci_check.py exits 0. gate_audit.py reads tested 31 fired 31 blind 0.
+TXT_LINES_OVER_118 0, TXT_WIDE_PROSE_LINES 0, BOXDRAW_CHARACTERS 0. ANOMALY_FILES 188. Widest line across the
+five rebuilt files is 92 characters.
