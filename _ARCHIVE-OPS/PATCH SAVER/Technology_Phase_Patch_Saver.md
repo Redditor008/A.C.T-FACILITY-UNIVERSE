@@ -10598,3 +10598,53 @@ attempt asserts on the replacement count.
 
 ANOMALY_FILES 187. ci_check.py reads defect keys checked 36 and all read 0, exit 0. gate_audit.py reads
 tested 31 fired 31 blind 0, up from 30. TXT_LINES_OVER_118 0, TXT_WIDE_PROSE_LINES 0.
+
+---
+
+## Prompt End Update — 2026-10-25, Owner Correction On Log Variety, And A Structurally Different Log
+
+### The correction
+
+The owner said the request to create a new log document meant any log, and that I had become stuck following one
+type out of the many the guide shows. That is correct and it was measurable.
+
+The guide `ACT_Anomaly_Log_Categories_In_World_Explanation.md` lists Common Contents under each of its twelve
+categories. Counting them gives 140 distinct content types across the twelve: Discovery Log, Transport Log,
+Bodycam Transcript, Black Box Log, Timecode Transcript, Drone Feed, Automatic Writing Sample, Meeting Transcript,
+Environmental Reading Log, Fragmented Memory Log, and so on.
+
+Four files had been written across the recent sessions. All four used the same structure: a dated entry list
+under LOG ID, DATE, SOURCE and STATUS fields, followed by an assessment. Two of the four were the same category.
+None of the four was a transcript, a timecoded record, a sensor readout, a drone log, or a piece of automatic
+writing, all of which the guide lists. Four files drawn from a space of 140 content types, in one shape.
+
+### What was built instead
+
+`Shadow-Shark-CCTV-Timecode-Transcript-AFD-SU-010.txt`, Category XI Audio / Video / Sensor Dossier, content type
+CCTV Transcript and Timecode Transcript. 1,105 words, 20 timecoded lines across two reel sets, an inline sensor
+readout table, a visual analysis note, and a closing section naming what the reels do not contain.
+
+The shape is deliberately unlike the previous four. There is no LOG ID entry list and no assessment section. The
+body of the document is timecode, camera identifier, illumination figure, and observation, on every line, because
+the primary file records that the subject is visible only as a moving shadow and that high uniform illumination
+weakens its outline, so a footage record without the lux figure beside each line would not be usable.
+
+Every claim about the anomaly comes from the primary file: the 2.7 m resting length, the dorsal, pectoral and
+caudal fins, deformation over uneven surfaces and restoration over flat planes, swimming motion through open air
+without water, invisibility in complete darkness, the feeding sequence in which the target is covered in dense
+black shadow, loses surface detail, compresses inward and is swallowed, and the absence of confirmed body, mass,
+heat signature, odour, respiration or tissue. The two illumination findings are presented as observations of a
+specific reel at a specific timecode, which is the reason a transcript holds them rather than a summary.
+
+### A defect the file introduced, caught by the gates
+
+The first draft carried a dashed separator line above the sensor readout. `TXT_MD_RULE_LINES` and
+`TXT_NARROW_BAR_LINES` both fired on it, because a line of dashes in a plain-text file reads as a markdown rule.
+The separator was removed and the table left column-aligned, which reads correctly without it. Both keys returned
+to 0. This is the second time a decorative line has broken a plain-text gate.
+
+### Verification
+
+ANOMALY_FILES 188. ci_check.py reads defect keys checked 36 and all read 0, exit 0. gate_audit.py reads
+tested 31 fired 31 blind 0. TXT_LINES_OVER_118 0, TXT_WIDE_PROSE_LINES 0, BOXDRAW_CHARACTERS 0, TXT_BOLD_FILES 0,
+TXT_LINK_FILES 0, TXT_NARROW_BAR_LINES 0. Widest line in the new file is 86 characters.
