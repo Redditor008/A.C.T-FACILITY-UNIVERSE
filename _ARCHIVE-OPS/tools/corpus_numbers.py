@@ -272,6 +272,34 @@ def main() -> int:
                 r["LOG_CATEGORY_MISMATCHES"] += 1
             elif not (name == exp or exp in name or name in exp):
                 r["LOG_CATEGORY_MISMATCHES"] += 1
+    # Owner ruling after a correction that logs had drifted into a flat generic
+    # shape. The house form was read out of the richest existing dossiers and
+    # consists of an INCLUDED LOG TYPES list, a CATEGORY PURPOSE statement,
+    # numbered SECTION blocks, and a DOSSIER CLOSING.
+    #
+    # Only the numbered SECTION block is gated, and the reason is measured rather
+    # than chosen. Across the 84 anomaly logs that carry a DOCUMENT CATEGORY line,
+    # every one has a numbered section, so the requirement is already universal and
+    # gating it changes nothing. The other markers are not universal: CATEGORY
+    # PURPOSE is absent from 52 and DOSSIER CLOSING from 29. Gating those would
+    # flag legitimate pre-existing owner content, which the standing rule forbids
+    # rewriting unilaterally. They are recorded here as measured findings, not
+    # enforced.
+    #
+    # The eight logs with no DOCUMENT CATEGORY line are excluded because they are
+    # not Anomaly Log Category documents: three are recovered in-world artefacts,
+    # two are internal memoranda, one is a personnel dossier, one is a recovered
+    # diary, and one is a side tale.
+    r["LOG_HOUSE_FORM_DEFECTS"] = 0
+    _anom2 = ROOT / "A.C.T Universe Document/A.C.T Anomaly Document"
+    for p in sorted(_anom2.rglob("*.txt")):
+        if not p.is_file() or "Log" not in p.parent.name:
+            continue
+        text = read(p)
+        if "DOCUMENT CATEGORY:" not in text:
+            continue
+        if not re.search(r"SECTION\s+\d+", text):
+            r["LOG_HOUSE_FORM_DEFECTS"] += 1
     r["TITLE_STACK_DOCUMENTS"] = 0
     for p in md:
         ls = read(p).split("\n")

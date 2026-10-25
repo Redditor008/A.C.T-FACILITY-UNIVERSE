@@ -96,6 +96,12 @@ TEXT_TESTS = [
     # does not exist, which is the exact defect a reader hits first.
     # An Experiment and Testing dossier that currently reads CATEGORY III, which
     # is correct. Flipping it to IV is the defect the gate exists to catch.
+    # A house-form dossier that currently passes. Stripping the numbered section
+    # headers is the flat shape the owner corrected, so this must fire.
+    ("LOG_HOUSE_FORM_DEFECTS",
+     "A.C.T Universe Document/A.C.T Anomaly Document/Anomaly Legacy 01 .txt/Log/"
+     "MACHINE-Heart-Transformation-Utilization-Dossier-AFD-OB-017.txt",
+     "desect", None),
     ("LOG_CATEGORY_MISMATCHES",
      "A.C.T Universe Document/A.C.T Anomaly Document/Anomaly Legacy 01 .txt/Log/"
      "MACHINE-Heart-Experiment-Testing-Dossier-AFD-OB-017.txt",
@@ -152,6 +158,14 @@ def main() -> int:
                     words[len(words) // 2] = words[len(words) // 2] + "s"
                     tgt.write_text(
                         "\n\n".join(paras[:2] + [" ".join(words)] + paras[2:]),
+                        encoding="utf-8",
+                    )
+                elif kind == "desect":
+                    # Remove the numbered SECTION headers, which is what turns a
+                    # house-form dossier back into the flat generic shape the owner
+                    # corrected. The body is left intact so only the structure goes.
+                    tgt.write_text(
+                        re.sub(r"SECTION\s+\d+\s*\u2014\s*", "SECTION \u2014 ", orig),
                         encoding="utf-8",
                     )
                 elif kind == "recat":

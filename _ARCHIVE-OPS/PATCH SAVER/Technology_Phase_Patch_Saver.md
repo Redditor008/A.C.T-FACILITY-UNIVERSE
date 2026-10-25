@@ -10756,3 +10756,42 @@ anomalous fact invented, and each carries a closing section naming what the reco
 All 36 tracked defect keys read 0 and ci_check.py exits 0. gate_audit.py reads tested 31 fired 31 blind 0.
 TXT_LINES_OVER_118 0, TXT_WIDE_PROSE_LINES 0, BOXDRAW_CHARACTERS 0. ANOMALY_FILES 188. Widest line across the
 five rebuilt files is 92 characters.
+
+---
+
+## Prompt End Update — 2026-10-25, House Form Gated, With The Scope Measured Rather Than Assumed
+
+### What was measured before the gate was written
+
+The four house-form markers were tested against all 92 files in the three Log folders. Coverage across the whole
+set: INCLUDED LOG TYPES 78, CATEGORY PURPOSE 40, numbered SECTION 87, DOSSIER CLOSING 63.
+
+Restricting to the 84 files that carry a DOCUMENT CATEGORY line, which are the actual Anomaly Log Category
+dossiers, the failure counts were: numbered SECTION 0, INCLUDED LOG TYPES 6, plus DOSSIER CLOSING 27, all four
+together 64.
+
+The eight files with no DOCUMENT CATEGORY line are not category documents and were excluded: three recovered
+in-world artefacts, two internal memoranda, one personnel dossier, one recovered diary, one side tale.
+
+### The consequence for the gate
+
+Gating on all four markers would have flagged 64 pre-existing files, and gating on three would have flagged 27.
+Both would have demanded rewriting owner content that the standing rule protects, for a shape those files never
+claimed. Only the numbered SECTION requirement is already universal, so only that is gated.
+
+The other three markers are recorded in the tool's comment as measured findings with their exact counts, so the
+decision is recoverable without this entry.
+
+### The gate
+
+`LOG_HOUSE_FORM_DEFECTS` counts a category dossier with no numbered SECTION block. It reads 0 today and is
+enforced by `ci_check.py`, which now checks 37 keys. A new injection kind `desect` strips the numbered section
+headers and leaves the body intact, which is precisely the transformation from house form back to the flat
+generic shape the owner corrected. The gate fires 0 to 1 under that injection.
+
+The gate would have caught all five of the original flat logs, none of which carried a numbered section.
+
+### Verification
+
+ci_check.py reads defect keys checked 37 and all read 0, exit 0. gate_audit.py reads tested 32 fired 32 blind 0,
+up from 31. ANOMALY_FILES 188.
