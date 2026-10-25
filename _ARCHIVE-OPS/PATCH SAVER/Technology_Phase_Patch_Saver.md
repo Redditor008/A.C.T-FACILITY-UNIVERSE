@@ -10490,3 +10490,54 @@ Category VIII at 11 and Category III at 10.
 The mandatory first step is unchanged: fetch and hard reset to the remote branch before editing, because the
 workspace re-clones and leaves the tree at the session base. Then run `ci_check.py` and `gate_audit.py`. Both
 are dependency-free.
+
+---
+
+## Prompt End Update — 2026-10-25, Category XII Log Added: Dream Eater-THEMESY Personal Dossier
+
+Owner asked for a new log document for any anomaly in the modern or legacy folders.
+
+### Why this subject
+
+Category XII Personal and Recovered Journal was the thinnest category. The doctrine names
+`Dream-Eater-THEMESY-Personal-Dossier-AFD-SU-011.txt` as its worked example and describes it as preserving
+pre-feeding dream records, post-slumber notes, and care staff observations. That file did not exist, so writing
+it fills the doctrine's own example rather than choosing a subject beside it. This is the second time this
+session chain that the doctrine's named example was missing; the Category X example was also absent.
+
+The fit is unusually exact. The doctrine's archive note for this category states that personal dossiers are not
+automatically less reliable than formal reports, and that for some anomalies subjective records are the only
+evidence that survives alteration. AFD-SU-011 consumes dream activity, so whatever it takes is unrecoverable
+afterward. The subjective writing genuinely is the only surviving copy.
+
+### Correction to a figure carried from the previous session
+
+The handoff recorded Category XII as holding 2 files. That count came from a pattern matching only Diary and
+Journal. The category is named Personal and Recovered Journal, and `Thorne-Personal-Reflection-Log-2026-SR-T-412`
+was already present and was not matched. Under a correct pattern the category held 3 files and now holds 4. The
+category was still the thinnest either way, so the choice of subject is unaffected, but the figure was wrong.
+
+### What was written
+
+1,314 words across eight entries in three sections: three pre-feeding dream records from the pediatric sleep
+clinic before recovery, three post-slumber notes, and two care staff observations. Dates run 2018 to 2024, after
+the 2018-12-03 detection date and inside the 1598 to 2026 range.
+
+Every claim about the anomaly comes from the primary file: the 2 m aerial whale-like body, the roughly 22 percent
+transparency, the cloud-like mane that becomes denser near distressed dream activity, the avoidance of bright
+surgical lighting and loud machinery and rooms holding more than six awake people, the 72 hour slumber after
+ordinary feeding and 64 hours after nightmare-care feeding, waking naturally with no tissue damage or cognitive
+loss, feeding contact within 1 m and detection up to 80 m through walls, and the recovered phrase something kind
+was eating the dark part.
+
+The dream content itself is subjective record, which is what the category exists to hold. No new anomalous
+capability was invented and no entry claims a measurement the archive does not carry. Spelling in the
+subject-written entry is retained as recovered, and the closing section says so.
+
+### Verification
+
+ANOMALY_FILES 187. Category XII holds 4 files. ci_check.py reads defect keys checked 35 and all read 0.
+gate_audit.py reads tested 30 fired 30 blind 0. TXT_LINES_OVER_118 0, TXT_WIDE_PROSE_LINES 0,
+BOXDRAW_CHARACTERS 0, TXT_BOLD_FILES 0, TXT_LINK_FILES 0, TXT_NARROW_BAR_LINES 0. Widest line in the new file is
+80 characters. The file carries no markdown heading lines, ends with END OF FILE, and has a clean trailing
+newline.
