@@ -1,166 +1,471 @@
-A.C.T FACILITY — CCTV & TIMECODE TRANSCRIPT
+A.C.T FACILITY — AUDIO / VIDEO / SENSOR DOSSIER
 Shadow-Shark-CCTV-Timecode-Transcript-AFD-SU-010
 
 +------------------------------------------------------------------------------+
-|                 A.C.T FACILITY — CCTV & TIMECODE TRANSCRIPT                  |
+|               A.C.T FACILITY — AUDIO / VIDEO / SENSOR DOSSIER                |
 |                      Anomaly Containment Transformation                      |
 +------------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-010
 TITLE I:             Shadow Shark
 TITLE II:            THE HUNGER WITHOUT A BODY
+
 FIELD TYPE:          SU — Subject
 PRIMARY FILE:        Shadow-Shark-AFD-SU-010
+
 DOCUMENT CATEGORY:   CATEGORY XI — Audio / Video / Sensor Dossier
-CONTENT TYPE:        CCTV Transcript / Timecode Transcript
-CATEGORY FUNCTION:   Preserved surveillance feed with illumination readings,
-                     transcribed from the recovery operation and the first containment
-                     weeks. Timecode retained as recorded.
-CONTAINMENT CLASS:   INTANGIBLE
-THREAT LEVEL:        3
+CATEGORY FUNCTION:   Preserved CCTV and timecode record, illumination response
+                     correlation, feeding-event visual analysis, and sensor
+                     cross-reference for an intangible subject
+
 CLEARANCE REQUIRED:  Level 3
-RESPONDING UNIT:     Field Containment Division / Intangible Hazard Review
+
+CONTAINMENT SITE:    Primary Facility / Intangible Containment Wing / Bay 3
 ARCHIVE STATUS:      Active / footage retained
-TRANSCRIPT STATUS:   Complete for the retained reels
+DOSSIER STATUS:      Open / recovery and first-cycle reels archived
+
+TIME RANGE:          2021-05-14 recovery operation to 2021-08-02 first-cycle close
+ORDERING METHOD:     Chronological, oldest to newest, by reel
 
 +------------------------------------------------------------------------------+
-|                               FEED CONDITIONS                                |
+|                              CATEGORY CONTENTS                               |
 +------------------------------------------------------------------------------+
 
-Four fixed cameras and one handheld. Illumination is logged because the
-primary file records that the subject is visible only as a moving shadow and
-that high uniform illumination weakens its outline and reduces movement
-speed. Every line below is therefore meaningless without the lux figure
-beside it, which is why the figure is on every line.
+This dossier belongs to A.C.T Log Category XI — Audio / Video / Sensor
+Dossier.
+It preserves the retained surveillance record for AFD-SU-010 from the Busan
+recovery operation through the close of the first containment cycle.
 
-Camera identifiers are as installed, not reassigned for this transcript.
+INCLUDED LOG TYPES:
+   - Recovery Feed Summary
+   - Timecoded CCTV Ledger
+   - Containment Wing Feed Ledger
+   - Sensor Correlation Review
+   - Illumination Response Assessment
+   - Feeding Event Visual Analysis
+   - Archive Warning Notice
+   - Closing Sensor Statement
 
-+------------------------------------------------------------------------------+
-|                 TRANSCRIPT — RECOVERY OPERATION, LOADING BAY                 |
-+------------------------------------------------------------------------------+
-
-Indoor aquarium loading bay, Busan. Original report was missing feed
-inventory and shadow-motion footage. Narrative cover at the time was
-electrical malfunction and animal stress event.
-
-02:11:04  CAM-01   [180 lx] Bay lights on maintenance cycle. Floor clear. No
-                   shadow present that is not accounted for by fixed
-                   structure.
-02:14:47  CAM-01   [180 lx] Shadow enters frame from the north door aperture.
-                   Approximately 2.7 m snout to tail. Dorsal, pectoral and
-                   caudal fins all resolved. Movement is swimming, not
-                   projection.
-02:14:52  CAM-03   [180 lx] Crosses the loading ramp. Shape deforms over the
-                   ramp corrugation and restores on the flat apron beyond,
-                   consistent with the primary file.
-02:15:30  CAM-01   [180 lx] Passes within one metre of the feed pallet. No
-                   contact recorded. Shadow crosses the pallet without
-                   disturbing it.
-02:19:12  HANDHELD [410 lx] Operator raises the handheld lamp. Outline weakens
-                   immediately and forward speed drops. Subject does not
-                   retreat.
-02:19:40  HANDHELD [410 lx] Operator lowers the lamp. Outline recovers within
-                   about four seconds and speed returns to prior rate.
-02:22:03  CAM-02   [180 lx] Subject passes across the body of a staff member
-                   standing in the aisle. Shadow visible on the individual for
-                   approximately two seconds. Individual reports no contact.
-02:26:51  CAM-01   [180 lx] Feed bag placed in the aisle by field staff as a
-                   trial. Subject reverses course within three seconds of the
-                   bag being set down.
-02:27:09  CAM-01   [180 lx] Feeding. Bag becomes covered in dense black
-                   shadow, loses visible surface detail, compresses inward,
-                   and is drawn into the silhouette. No residue on the floor.
-                   Duration eleven seconds.
-02:27:31  CAM-03   [180 lx] Post-feeding. Floor beneath the trial position is
-                   empty and undisturbed. Weighed afterward against the intake
-                   manifest. Consistent with the primary file: the consumed
-                   matter does not fall through.
-02:31:00  CAM-01   [0 lx] Bay lights cut on field order. Subject no longer
-                   trackable on any camera. Thermal shows nothing. Audio shows
-                   nothing.
-02:31:00  CAM-02   [0 lx] Same. Confirmed across three cameras simultaneously.
-                   Absence of track is not absence of subject and is recorded
-                   here so that nobody later reads the dark reels as an empty
-                   room.
-02:38:20  CAM-01   [60 lx] Lights restored at reduced level. Subject reappears
-                   at the north wall, sluggish in movement compared with the
-                   180 lx entries above.
+CATEGORY PURPOSE:
+To preserve the observational record behind the primary file's statement that
+AFD-SU-010 has no confirmed physical body, mass, heat signature, odour,
+measurable respiration, or biological tissue. That statement rests on footage
+and sensors rather than on specimen examination, so the footage and the sensor
+record are the evidence and are kept here rather than summarized into the main
+file. This dossier is not authorization to alter chamber illumination, to
+place
+matter near the subject, or to attempt physical sampling.
 
 +------------------------------------------------------------------------------+
-|                  TRANSCRIPT — CONTAINMENT WING, FIRST WEEKS                  |
+|                               DOSSIER SUMMARY                                |
 +------------------------------------------------------------------------------+
 
-Recorded after transfer. The wing runs controlled illumination rather than
-uniform high illumination, which is the practical consequence of the finding
-at 02:19:12 above.
+AFD-SU-010 is an airborne shark-shaped shadow approximately 2.7 m from snout
+to
+tail in its resting state, moving with continuous swimming motion through open
+air without water, propulsion, or contact with surrounding surfaces. It is
+visible only as a moving shadow cast across surfaces, airborne dust, smoke,
+fog,
+reflective haze, or the bodies of observers in its path.
 
-19:04:11  CAM-07   [120 lx] Subject circulates the chamber perimeter. Outline
-                   firm. Movement continuous and fluid.
-19:41:55  CAM-07   [120 lx] Crosses the seam between floor panels. Deforms at
-                   the seam, restores immediately after. Counted forty-one
-                   seam crossings in this reel; restored on every one.
-20:02:38  CAM-08   [120 lx] Passes over the observation floor hatch. Shadow
-                   falls across the hatch and the operator's boots
-                   simultaneously. Operator withdraws the feet. No contact.
-21:15:07  CAM-07   [900 lx] Uniform illumination trial begins. Outline weakens
-                   markedly within seconds and forward speed falls to roughly
-                   a third of the rate logged at 120 lx.
-21:15:52  CAM-07   [900 lx] Subject does not stop and does not leave the
-                   chamber. It slows. Recorded explicitly because the trial
-                   was designed on the assumption that uniform light would be
-                   suppressive, and it is not.
-21:33:10  CAM-07   [120 lx] Illumination returned to nominal. Speed recovers
-                   within nine seconds. No residual effect observed across the
-                   following four hours of reel.
-23:58:44  CAM-08   [0 lx] Scheduled dark period. Subject untrackable. This is
-                   the expected state and is logged as expected rather than as
-                   a loss.
+The retained reels confirm two operational findings that the primary file
+states
+but does not evidence in detail. The first is that the subject's outline and
+speed respond to illumination within seconds and recover within seconds of the
+illumination being reduced. The second is that uniform high illumination slows
+the subject without stopping, repelling, or displacing it.
 
-+------------------------------------------------------------------------------+
-|                                SENSOR READOUT                                |
-+------------------------------------------------------------------------------+
+Across every reel the cameras confirm the shape and no sensor confirms a body.
+That asymmetry is the reason this record is preserved at length.
 
-Fixed sensors, same intervals. Recorded because the primary file states the
-subject has no confirmed physical body, mass, heat signature, odour,
-measurable respiration, or biological tissue, and the sensors are the reason
-that statement is written that way.
-
-  SENSOR            READING DURING FEEDING      READING AT REST
-  Mass plate        no deflection             no deflection
-  Thermal           ambient                   ambient
-  Airflow           no displacement           no displacement
-  Acoustic          below noise floor         below noise floor
-  Feed intake       one bag unaccounted       nominal
-  Illumination      logged per line above     logged per line above
+                         Everything we can see of it
+                         is a shadow. Everything we
+                         can measure says there is
+                         nothing there. Both are
+                         correct, and the file has to
+                         hold both.
 
 +------------------------------------------------------------------------------+
-|                             VISUAL ANALYSIS NOTE                             |
+|                     SECTION 001 — RECOVERY FEED SUMMARY                      |
 +------------------------------------------------------------------------------+
 
-The footage does not show an animal. It shows a shadow behaving like one,
-and the distinction is the whole difficulty of this record. Every camera
-confirms the shape. No sensor confirms the body.
+LOG ID:              AFD-SU-010/CCTV-001
+LOG TYPE:            Recovery Feed Summary
+CATEGORY:            Audio / Video / Sensor Dossier
+RANGE:               2021-05-14 02:11 to 02:38 local
+REVIEWING UNIT:      Field Containment Division / Intangible Hazard Review
+PRIMARY REVIEWER:    Agent Seo-jun Paik
+SECONDARY REVIEWER:  Archivist Lena Voss
 
-Two findings in this transcript are worth separating from the rest because
-they came from the footage rather than from theory. The first is the
-handheld lamp result at 02:19:12: raising illumination weakens the outline
-and slows the subject, and lowering it restores both within seconds. The
-second is the uniform illumination trial at 21:15:07, which was designed to
-be suppressive and was not. High uniform light slows the subject. It does
-not stop it, does not repel it, and does not drive it from the chamber.
+SUMMARY:
+The subject was recovered from an indoor aquarium loading bay in Busan
+following
+reports of missing feed inventory and shadow-motion footage. Narrative cover
+at
+the time was electrical malfunction and animal stress event. Four fixed
+cameras
+and one handheld recorded the operation. Bay lighting ran a maintenance cycle
+at
+180 lux for most of the interval.
 
-Both are recorded here rather than in the primary file because both are
-observations of a specific reel at a specific timecode, and a summary of
-them loses the part that makes them usable.
+RECOVERY CONDITIONS:
+   - fixed cameras CAM-01 through CAM-04, 180 lx maintenance cycle
+   - one handheld unit, operator-variable between 90 and 410 lx
+   - no thermal, mass, or airflow instrumentation staged at the bay
+   - feed pallet and one sealed feed bag present in frame
+
+DEVELOPMENT NOTE:
+The recovery feed is the only record of the subject in an uncontrolled space
+with
+variable light. Every later reel is chamber-bound and cannot reproduce the
+handheld illumination variation recorded at 02:19.
 
 +------------------------------------------------------------------------------+
-|                             TRANSCRIPT SILENT ON                             |
+|                     SECTION 002 — TIMECODED CCTV LEDGER                      |
 +------------------------------------------------------------------------------+
 
-No audio track on any reel contains speech attributable to the subject; the
-primary file records no communication and none was captured. The dark reels
-contain no data of any kind and are retained only to establish that the
-subject was present and untrackable during those intervals. No frame in
-either set shows the interior of the silhouette during feeding.
+LOG ID:              AFD-SU-010/CCTV-002
+LOG TYPE:            Timecoded CCTV Ledger
+CATEGORY:            Audio / Video / Sensor Dossier
+RANGE:               Recovery operation, 02:11 to 02:38
+ORDERING:            Chronological
 
-END OF TRANSCRIPT
+SUMMARY:
+Illumination is recorded on every line because the primary file states the
+subject is visible only as a shadow and that high uniform illumination weakens
+its outline. A timecode without its lux figure is not usable for this subject.
+
+RECORDED ENTRIES:
+TIMECODE:            02:11:04
+CAMERA:              CAM-01
+ILLUMINATION:        180 lx
+OBSERVED:            Bay clear on maintenance lighting. No shadow present that
+                     fixed structure does not account for.
+INTERPRETATION:      Baseline frame. Retained as the reference for shadow
+                     accounting in later lines.
+TIMECODE:            02:14:47
+CAMERA:              CAM-01
+ILLUMINATION:        180 lx
+OBSERVED:            Shadow enters frame from the north door aperture,
+                     approximately 2.7 m snout to tail. Dorsal, pectoral and
+                     caudal fins resolved.
+INTERPRETATION:      First confirmed visual. Movement is swimming, not
+                     projection; the shadow does not track any object in the
+                     bay.
+TIMECODE:            02:14:52
+CAMERA:              CAM-03
+ILLUMINATION:        180 lx
+OBSERVED:            Subject crosses the loading ramp. Shape deforms across
+                     the corrugation and restores on the flat apron beyond.
+INTERPRETATION:      Confirms the primary file: deformation follows surface
+                     geometry and restoration follows flat planes.
+TIMECODE:            02:15:30
+CAMERA:              CAM-01
+ILLUMINATION:        180 lx
+OBSERVED:            Subject passes within one metre of the feed pallet.
+                     Pallet undisturbed, wrap intact.
+INTERPRETATION:      Establishes that proximity to feed-like matter does not
+                     itself trigger feeding.
+TIMECODE:            02:19:12
+CAMERA:              HANDHELD
+ILLUMINATION:        410 lx
+OBSERVED:            Operator raises the lamp. Outline weakens immediately and
+                     forward speed drops. Subject does not retreat.
+INTERPRETATION:      First illumination response on record. The response is to
+                     outline and speed, not to presence.
+TIMECODE:            02:19:40
+CAMERA:              HANDHELD
+ILLUMINATION:        410 lx
+OBSERVED:            Operator lowers the lamp. Outline recovers within about
+                     four seconds and speed returns to the prior rate.
+INTERPRETATION:      Recovery is prompt and complete. No residual effect
+                     across the following seven minutes of reel.
+TIMECODE:            02:22:03
+CAMERA:              CAM-02
+ILLUMINATION:        180 lx
+OBSERVED:            Subject passes across a staff member standing in the
+                     aisle. Shadow visible on the individual for roughly two
+                     seconds.
+INTERPRETATION:      Individual reports no contact, no temperature change, and
+                     no pressure. Consistent with the subject having no
+                     confirmed body.
+TIMECODE:            02:26:51
+CAMERA:              CAM-01
+ILLUMINATION:        180 lx
+OBSERVED:            Feed bag placed in the aisle by field staff as a trial.
+                     Subject reverses course within three seconds of the bag
+                     being set down.
+INTERPRETATION:      Trigger confirmed as the primary file records it: feed or
+                     feed-like matter near the mouth shadow.
+TIMECODE:            02:27:09
+CAMERA:              CAM-01
+ILLUMINATION:        180 lx
+OBSERVED:            Feeding. Bag covered in dense black shadow, loses visible
+                     surface detail, compresses inward, drawn into the
+                     silhouette. Eleven seconds, no residue.
+INTERPRETATION:      Complete feeding sequence captured in one continuous
+                     frame range. No frame shows the interior of the
+                     silhouette.
+TIMECODE:            02:27:31
+CAMERA:              CAM-03
+ILLUMINATION:        180 lx
+OBSERVED:            Floor beneath the trial position empty and undisturbed.
+                     Mass checked afterward against the intake manifest.
+INTERPRETATION:      Confirms the consumed matter does not fall through.
+                     Manifest shortfall equals one bag.
+TIMECODE:            02:31:00
+CAMERA:              CAM-01
+ILLUMINATION:        0 lx
+OBSERVED:            Bay lights cut on field order. Subject no longer
+                     trackable on any camera.
+INTERPRETATION:      Thermal and audio both silent. Absence of track is not
+                     absence of subject.
+TIMECODE:            02:31:00
+CAMERA:              CAM-02
+ILLUMINATION:        0 lx
+OBSERVED:            Same result confirmed across three cameras
+                     simultaneously.
+INTERPRETATION:      Recorded so that the dark reels are never later read as
+                     an empty room.
+TIMECODE:            02:38:20
+CAMERA:              CAM-01
+ILLUMINATION:        60 lx
+OBSERVED:            Lights restored at reduced level. Subject reappears at
+                     the north wall, movement sluggish against the 180 lx
+                     entries.
+INTERPRETATION:      Low illumination is not equivalent to darkness. The
+                     subject remains active and trackable at 60 lx.
+
++------------------------------------------------------------------------------+
+|                  SECTION 003 — CONTAINMENT WING FEED LEDGER                  |
++------------------------------------------------------------------------------+
+
+LOG ID:              AFD-SU-010/CCTV-003
+LOG TYPE:            Containment Wing Feed Ledger
+CATEGORY:            Audio / Video / Sensor Dossier
+RANGE:               2021-06-01 to 2021-08-02
+REVIEWING UNIT:      Intangible Hazard Review / Chamber Operations
+REVIEWER:            Archivist Lena Voss
+
+SUMMARY:
+The wing runs controlled nominal illumination rather than uniform high
+illumination, which is the operational consequence of the 02:19:12 finding.
+The
+ledger below is drawn from the first-cycle reels.
+
+TIMECODE:            19:04:11
+CAMERA:              CAM-07
+ILLUMINATION:        120 lx
+OBSERVED:            Subject circulates the chamber perimeter. Outline firm,
+                     movement continuous and fluid.
+INTERPRETATION:      Nominal state. Used as the comparison baseline for the
+                     trial at 21:15.
+TIMECODE:            19:41:55
+CAMERA:              CAM-07
+ILLUMINATION:        120 lx
+OBSERVED:            Crosses the floor panel seam, deforms at the seam,
+                     restores immediately after. Forty-one seam crossings
+                     counted in this reel.
+INTERPRETATION:      Restoration occurred on all forty-one. No cumulative
+                     deformation observed across the cycle.
+TIMECODE:            20:02:38
+CAMERA:              CAM-08
+ILLUMINATION:        120 lx
+OBSERVED:            Passes over the observation floor hatch. Shadow falls
+                     across the hatch and the operator's boots simultaneously.
+                     Operator withdraws the feet.
+INTERPRETATION:      No contact reported. Chamber protocol subsequently
+                     requires feet clear of the hatch plane during
+                     observation.
+TIMECODE:            21:15:07
+CAMERA:              CAM-07
+ILLUMINATION:        900 lx
+OBSERVED:            Uniform illumination trial begins. Outline weakens
+                     markedly within seconds. Forward speed falls to roughly
+                     one third of the 120 lx rate.
+INTERPRETATION:      The trial was designed on the assumption that uniform
+                     light is suppressive. The footage does not support that
+                     assumption.
+TIMECODE:            21:15:52
+CAMERA:              CAM-07
+ILLUMINATION:        900 lx
+OBSERVED:            Subject does not stop and does not leave the chamber. It
+                     slows.
+INTERPRETATION:      Recorded explicitly. Slow is not stopped, and the
+                     distinction is operationally significant.
+TIMECODE:            21:33:10
+CAMERA:              CAM-07
+ILLUMINATION:        120 lx
+OBSERVED:            Illumination returned to nominal. Speed recovers within
+                     nine seconds.
+INTERPRETATION:      No residual effect across the following four hours of
+                     reel.
+TIMECODE:            23:58:44
+CAMERA:              CAM-08
+ILLUMINATION:        0 lx
+OBSERVED:            Scheduled dark period. Subject untrackable.
+INTERPRETATION:      Expected state, logged as expected rather than as a loss
+                     of record.
+
++------------------------------------------------------------------------------+
+|                   SECTION 004 — SENSOR CORRELATION REVIEW                    |
++------------------------------------------------------------------------------+
+
+LOG ID:              AFD-SU-010/SEN-001
+LOG TYPE:            Sensor Correlation Review
+CATEGORY:            Audio / Video / Sensor Dossier
+RANGE:               First containment cycle, fixed sensors
+REVIEWING UNIT:      Intangible Hazard Review
+
+SUMMARY:
+Fixed sensors ran continuously through the first cycle and are correlated here
+against the feeding event at 02:27:09 and against nominal rest states. The
+purpose is to evidence the primary file's statement that the subject has no
+confirmed physical body, mass, heat signature, odour, measurable respiration,
+or
+biological tissue.
+
+SENSOR RECORD:
+   Mass plate        no deflection             no deflection
+   Thermal array     ambient                   ambient
+   Airflow           no displacement           no displacement
+   Acoustic          below noise floor         below noise floor
+   Odour sampler     no reading                no reading
+   Feed intake       one bag unaccounted       nominal
+   Illumination      logged per entry          logged per entry
+
+INTERPRETATION:
+Every physical sensor reads as though the chamber contains nothing. The only
+instrument that registers the subject at all is the feed intake record, and it
+registers it as an absence rather than a presence. One bag goes into the
+chamber
+and does not come out, and nothing else in the room notices.
+
+                         The shadow eats. The
+                         instruments do not. That is
+                         the whole of what we have.
+
++------------------------------------------------------------------------------+
+|                SECTION 005 — ILLUMINATION RESPONSE ASSESSMENT                |
++------------------------------------------------------------------------------+
+
+LOG ID:              AFD-SU-010/SEN-002
+LOG TYPE:            Illumination Response Assessment
+CATEGORY:            Audio / Video / Sensor Dossier
+REVIEWER:            Agent Seo-jun Paik
+DATE:                2021-08-02
+
+ASSESSMENT:
+AFD-SU-010's visible outline and movement speed both scale with illumination.
+Neither its presence nor its activity does. Three response bands are supported
+by
+the retained reels.
+
+RESPONSE BANDS:
+   - 0 lx: untrackable on every camera and every sensor. Activity neither
+     confirmed nor excluded.
+   - 60 to 180 lx: full outline, full speed, normal deformation and
+     restoration behaviour.
+   - 410 lx and above: outline weakened, speed reduced to roughly one third.
+     Subject remains present, oriented, and unwilling to leave.
+   - 900 lx uniform: same as above with no additional effect. No suppression
+     threshold was reached in any recorded trial.
+
+REMAINING LIMITS:
+   - no trial exceeded 900 lx, so no upper bound on the response is
+     established
+   - the recovery feed recorded only one handheld variation, so ramp rate is
+     estimated from a single pair of frames
+   - darkness was never held long enough to test whether the subject remains
+     active while untrackable
+   - no trial tested patterned or directional lighting, only uniform levels
+
+CONCLUSION:
+Illumination is a visibility control for this subject and not a containment
+control. Chamber operations should treat nominal illumination as the working
+condition and should not raise lighting on the expectation of suppression.
+
+                         Bright light makes it easier
+                         to lose and harder to stop.
+
++------------------------------------------------------------------------------+
+|                 SECTION 006 — FEEDING EVENT VISUAL ANALYSIS                  |
++------------------------------------------------------------------------------+
+
+LOG ID:              AFD-SU-010/CCTV-004
+LOG TYPE:            Feeding Event Visual Analysis
+CATEGORY:            Audio / Video / Sensor Dossier
+RANGE:               02:26:51 to 02:27:31, continuous
+REVIEWING UNIT:      Intangible Hazard Review / Visual Analysis
+
+SUMMARY:
+The single complete feeding event in the retained record is analysed frame-
+range
+by frame-range below. The sequence matches the primary file exactly and adds
+one
+detail the primary file does not carry: the interval between trigger and
+reversal
+of course.
+
+FRAME-RANGE SEQUENCE:
+   - 02:26:51 — bag set down. Subject is moving away from the position.
+   - 02:26:54 — course reversal complete, three seconds after the bag lands.
+     No intermediate hesitation frames.
+   - 02:27:02 — subject arrives at the bag and holds position above it for
+     approximately seven seconds without contact.
+   - 02:27:09 — shadow density increases across the bag surface. Surface
+     detail lost progressively from the centre outward.
+   - 02:27:14 — inward compression begins. Bag silhouette reduces without
+     folding or tearing.
+   - 02:27:20 — fully drawn into the silhouette. Eleven seconds from first
+     shadow contact to completion.
+   - 02:27:31 — floor confirmed clear. No residue, no displaced air, no shadow
+     residue on the apron.
+
+DEVELOPMENT NOTE:
+The seven-second hold before contact is the detail worth keeping. The subject
+does
+not feed reflexively on arrival. It positions and waits, which is behaviour
+rather
+than mechanism, and it is the strongest argument in this record against
+treating
+AFD-SU-010 as a simple intake phenomenon.
+
++------------------------------------------------------------------------------+
+|                            ARCHIVE WARNING NOTICE                            |
++------------------------------------------------------------------------------+
+
+The dark reels in this dossier contain no data of any kind. They are retained
+to
+establish that the subject was present and untrackable during those intervals,
+and for no other purpose. They must not be cited as evidence that a space was
+empty.
+
+No frame in any retained reel shows the interior of the silhouette during
+feeding.
+No audio track contains any sound attributable to the subject. Requests for
+further footage of either should be refused at this clearance.
+
++------------------------------------------------------------------------------+
+|                               DOSSIER CLOSING                                |
++------------------------------------------------------------------------------+
+
+The retained record supports the primary file in every particular and adds
+three
+things to it: a measured response band for illumination, a timed frame-range
+sequence for the feeding event, and a sensor correlation showing that the only
+instrument which registers the subject registers it as a shortfall.
+
+FUTURE ADDITIONS TO THIS DOSSIER SHOULD INCLUDE:
+   - controlled ramp-rate trials between 180 and 410 lx, with at least three
+     repetitions
+   - patterned and directional lighting trials, which no retained reel covers
+   - extended darkness monitoring with independent non-visual instrumentation
+   - a second complete feeding event on record, since the current analysis
+     rests on one
+   - surface-geometry trials beyond floor seams, given the deformation
+     behaviour at 02:14:52
+
+CURRENT DOSSIER STATUS: Open / Recovery and First-Cycle Reels Archived
+
+END OF DOSSIER

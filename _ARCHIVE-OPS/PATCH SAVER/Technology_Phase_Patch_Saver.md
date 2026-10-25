@@ -10648,3 +10648,58 @@ to 0. This is the second time a decorative line has broken a plain-text gate.
 ANOMALY_FILES 188. ci_check.py reads defect keys checked 36 and all read 0, exit 0. gate_audit.py reads
 tested 31 fired 31 blind 0. TXT_LINES_OVER_118 0, TXT_WIDE_PROSE_LINES 0, BOXDRAW_CHARACTERS 0, TXT_BOLD_FILES 0,
 TXT_LINK_FILES 0, TXT_NARROW_BAR_LINES 0. Widest line in the new file is 86 characters.
+
+---
+
+## Prompt End Update — 2026-10-25, Owner Correction On Log Structure, Shadow Shark Rebuilt To House Form
+
+### The correction
+
+The owner said to re-learn from the already existing logs how to structure and specialize them, because what I
+had been producing was short and looked generic.
+
+The length part of that was not accurate and is recorded here so the next session does not over-correct. The 87
+pre-existing logs have a median of 907 words and a mean of 1011. My five logs ran 882 to 1314 with a median of
+1104, so they were already above the house median. The real defect was structural: they did not follow the house
+form, so they read as generic regardless of length.
+
+### What the house form actually is
+
+Read from `KITSUNE-Fox-Girl-Behavioral-Observation-Dossier-AFD-SU-572` at 2463 words and
+`ITHYOS-Seismic-History-Sensor-Dossier-ENTITY-000` at 2204 words, the form carries parts my logs omitted
+entirely:
+
+An `INCLUDED LOG TYPES` list declaring which of the category's content types the dossier actually contains. A
+`CATEGORY PURPOSE` statement specific to the anomaly, including what the dossier does not authorize. A `DOSSIER
+SUMMARY` giving the subject's arc with an indented interpretive line. Numbered `SECTION 001` through `SECTION
+00N` blocks rather than a flat list. A `LOG TYPE` field on every section. Named `PRIMARY REVIEWER` and
+`SECONDARY REVIEWER`. `TIME RANGE` and `ORDERING METHOD` in the metadata. Repeated structured record blocks,
+which is where the real length comes from: the ITHYOS dossier repeats YEAR, EVENT CODE, EVENT CATEGORY, MAGNITUDE
+PROFILE, OBSERVED EFFECTS, SUMMARY and INTERPRETATION across ten events, and the KITSUNE dossier repeats SUBJECT
+AGE, YEAR, STAGE, OBSERVATION and SOCIAL STATE across eleven stages. A `DOSSIER CLOSING` with a future additions
+list and a `CURRENT DOSSIER STATUS` line. Field labels carry a colon and align to column 21.
+
+### The rebuild
+
+`Shadow-Shark-CCTV-Timecode-Transcript-AFD-SU-010` was rebuilt from 1104 words to 2469 words across six numbered
+sections. Every element of the house form above is now present, and the transcript character is preserved by
+making the repeated record block a timecode entry: TIMECODE, CAMERA, ILLUMINATION, OBSERVED, INTERPRETATION,
+repeated across twenty entries in two ledgers.
+
+The specialization is what carries the length. The illumination assessment now has four named response bands and
+four named remaining limits rather than a sentence. The feeding analysis is a seven-step frame-range sequence
+with timestamps, and it keeps the seven-second hold before contact as the analytically interesting detail. The
+sensor review states that the only instrument registering the subject registers it as a shortfall.
+
+133 field labels were given the house colon and column alignment in a second pass, because the first pass
+produced them without.
+
+### Verification
+
+All 36 tracked defect keys read 0 and ci_check.py exits 0. gate_audit.py reads tested 31 fired 31 blind 0.
+Widest line 82 characters. The file ends with END OF DOSSIER and carries all six numbered sections.
+
+### Remaining
+
+The other four logs written in recent sessions still use the old flat form and need the same treatment:
+MACHINE-Heart-AFD-OB-017, ISs-Anny-AFD-SU-005, OBSERVING-BIRD-AFD-CH-014, and Dream-Eater-THEMESY-AFD-SU-011.
