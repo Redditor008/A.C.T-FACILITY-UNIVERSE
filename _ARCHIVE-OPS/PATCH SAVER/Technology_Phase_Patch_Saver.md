@@ -10394,3 +10394,43 @@ section names what the file does not know. Dates fall after the 2016 detection d
 ANOMALY_FILES 185. Category IX holds 3 files. ci_check.py reads defect keys checked 35 and all read 0.
 TXT_LINES_OVER_118 0, TXT_WIDE_PROSE_LINES 0, BOXDRAW_CHARACTERS 0. Widest line in the new file is 79
 characters.
+
+---
+
+## Prompt End Update — 2026-10-25, Category X Log Added: OBSERVING BIRD Internal Correspondence
+
+Owner asked for another anomaly log in any category.
+
+### Why Category X
+
+The two Category IX logs added earlier this session both sit in the same category. Measuring the existing logs
+against the doctrine's twelve categories, Category X Communication and Internal Correspondence and Category XII
+Personal and Recovered Journal were tied as the thinnest at 2 files each. Category X was chosen because its
+function is unlike the others: it records the argument inside A.C.T rather than the behavior of the anomaly, so
+it widens what the Log folders contain instead of adding a fourth variation on the same shape.
+
+### The subject
+
+`OBSERVING-BIRD-AFD-CH-014`. The doctrine names this exact file as its worked example for Category X and the
+file did not exist. Writing it fills the doctrine's own named example rather than choosing a subject beside it.
+
+### What was written
+
+882 words, six correspondence entries spanning 1963 to 2019, covering an internal memo, an interdepartmental
+warning, a denied authorization request, a standing command notice, a resolved archive dispute, and an ethics
+committee note. The argument recorded is whether the entity is an observation instrument or a hazard, which is
+the argument the doctrine says this category exists to preserve.
+
+Every factual claim comes from the primary file: the 30 cm measurement, the white and golden yellow coloration,
+the body shape shifting between finch, dove, shrike, and small raptor while coloration, size, and carried
+objects stay consistent, the dark miniature notepad held in the left claw that never runs out of pages, the
+white-black pencil with spiral banding that marks without graphite, ink, chalk, charcoal, or pressure residue,
+the UNDISCLOSED containment class, the threat level of 5, the 1962 verification at the Primary Facility, and the
+internal-only sealed narrative status. Nothing was invented. Dates fall after the 1962 detection date and inside
+1598 to 2026.
+
+### Verification
+
+ANOMALY_FILES 186. Category X holds 3 files. ci_check.py reads defect keys checked 35 and all read 0.
+TXT_LINES_OVER_118 0, TXT_WIDE_PROSE_LINES 0, BOXDRAW_CHARACTERS 0, TXT_BOLD_FILES 0, TXT_LINK_FILES 0. Widest
+line in the new file is 81 characters.
