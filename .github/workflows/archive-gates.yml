@@ -1,0 +1,46 @@
+# Archive integrity gates.
+#
+# Two jobs, both dependency-free: they need only the Python 3 standard library,
+# because the tools were written that way deliberately so that a CI runner never
+# has to install anything to check this repository.
+#
+# gates  runs gate_audit.py, which injects a defect into a real record and checks
+#        that the gate meant to catch it actually fires. Its exit status is the
+#        number of gates that stayed blind, so zero means every gate fired.
+# figures runs ci_check.py, which fails if any of the 35 tracked defect keys reads
+#        anything other than zero.
+#
+# Scale figures such as DOCUMENT_COUNT are printed but never fail the build. Three
+# figures are excluded by owner ruling and the reason is recorded in ci_check.py:
+# MD_WIDE_LINK_LINES counts atomic link targets, WIDEST_LINE_ANY_FILE tracks with
+# those, and DOCTRINE_WITH_CONTENTS reads 24 of 29 because five documents are forms
+# and fragments where a contents block would be wrong.
+
+name: Archive gates
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  gates:
+    name: Gate injection suite
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Inject a defect per gate and confirm each gate fires
+        run: python3 _ARCHIVE-OPS/tools/gate_audit.py
+
+  figures:
+    name: Corpus defect figures
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Assert every tracked defect key reads zero
+        run: python3 _ARCHIVE-OPS/tools/ci_check.py

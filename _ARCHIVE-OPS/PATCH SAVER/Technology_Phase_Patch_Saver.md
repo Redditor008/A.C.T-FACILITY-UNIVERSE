@@ -10242,3 +10242,48 @@ A link is not correct because it was written carefully. It is correct because it
 `main` shows the pre-rename structure. None of this session's work is on the default branch, so a reader
 landing on the repository today does not see any of it. Opening a pull request is the one remaining action
 that affects a real reader.
+
+---
+
+## Prompt End Update — 2026-10-24, CI Added: Gates Now Run On Every Push
+
+### What was added
+
+`.github/workflows/archive-gates.yml` runs two jobs on push and on pull request. The first runs
+`gate_audit.py`, whose exit status is the number of gates that stayed blind. The second runs a new tool,
+`ci_check.py`, which fails if any of 35 tracked defect keys reads anything other than zero.
+
+Both jobs need only the Python standard library. The tools were written that way deliberately, so a CI runner
+never has to install anything to check this repository.
+
+### Why the ordering worry was wrong
+
+I flagged before building that a workflow would fail on `main`, because `main` still carries the pre-rename
+structure. That concern does not survive checking. A workflow file only runs on a branch that contains it, and
+`main` has no `.github` directory at all. Nothing runs there today. When a pull request merges, `main` receives
+the workflow and the renamed folders in the same commit, so the gates arrive together with the structure they
+measure. The ordering problem was overstated and is retracted.
+
+### What ci_check.py enforces and what it does not
+
+35 defect keys are enforced. 20 keys are printed but never fail the build. Those 20 are scale figures such as
+DOCUMENT_COUNT, plus the three figures excluded by owner ruling: MD_WIDE_LINK_LINES counts atomic link
+targets, WIDEST_LINE_ANY_FILE tracks with those, and DOCTRINE_WITH_CONTENTS reads 24 of 29 because five
+documents are forms and fragments where a contents block would be wrong. The reasons are recorded in the tool
+rather than in this log alone, so the exclusions survive without this entry.
+
+### Two defects the tool caught in itself
+
+The first draft of `ci_check.py` parsed the audit output as `r[KEY] = value`. The real format is `KEY value`,
+one pair per line, and the tool reported every key as missing rather than silently passing. That is the guard
+doing its job: a check that finds nothing should say so loudly.
+
+The second draft listed `ANOMALY_CODE_FORMAT` among the enforced keys. That name exists as a tested gate but
+not as a key the audit emits, so the same guard refused it. The list now cross-checks against what the tool
+actually produces: 35 listed, 35 present, 0 listed but absent.
+
+### Verification
+
+`ci_check.py` reads `defect keys checked: 35` and `all defect keys read 0`. `gate_audit.py` reads
+`gates tested 30 | fired 30 | blind 0`. The workflow parses as valid YAML with two jobs, `gates` and `figures`,
+triggered on push and pull request.
