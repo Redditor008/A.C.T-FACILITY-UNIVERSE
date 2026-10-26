@@ -30,6 +30,14 @@ INCLUDED LOG TYPES:
    - Visual Anomaly Record (The Fade-to-Black Effect)
    - Dossier Closing Statement
 
+CATEGORY PURPOSE:
+This dossier transcribes the lullaby's vocal track and logs how
+listeners respond, so that empathic effect can be mapped against a
+fixed text rather than against memory. Its use is to make the audio
+legible without replaying it. It does not authorize playback, and it
+does not settle the fade-to-black effect beyond what the transcript
+itself captures; that question is left open in the primary file.
+
 +--------------------------------------------------------------------+
                  SECTION 001 — THE LULLABY TRANSCRIPT
 +--------------------------------------------------------------------+

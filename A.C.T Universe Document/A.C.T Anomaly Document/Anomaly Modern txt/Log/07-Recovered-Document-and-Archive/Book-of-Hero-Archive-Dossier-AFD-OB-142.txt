@@ -34,6 +34,15 @@ INCLUDED LOG TYPES:
    - Chronological Manifestation Ledger (2005-2026)
    - Dossier Closing Statement
 
+CATEGORY PURPOSE:
+This dossier treats the Book of Hero as a recovered artefact rather than
+as an active subject. It fixes where the object came from, samples the
+two story registers it produces, and carries the manifestation ledger
+from 2005 to 2026. Its use is provenance and pattern. It does not
+authorize handling of the book, and it does not classify anything its
+stories bring into being; classification stays with the primary file, and
+the ledger records dates, not causes.
+
 +-----------------------------------------------------------------------+
                  SECTION 001 — THE COTTAGE RECOVERY
 +-----------------------------------------------------------------------+
@@ -59,7 +68,6 @@ occurred in a neighboring town three weeks after the story appeared.
                  SECTION 002 — SAMPLE STORY SUMMARIES
 +-----------------------------------------------------------------------+
 
-
 LOG TYPE:            Sample Story Summaries
 ENTRY 0442:          "The Iron Lantern"
 TONE:                Happy Ending
@@ -84,7 +92,6 @@ SUMMARY:             A hero stands before a closed door, waiting for a
 +-----------------------------------------------------------------------+
              SECTION 003 — MANIFESTATION LEDGER (RECENT)
 +-----------------------------------------------------------------------+
-
 
 LOG TYPE:            Manifestation Ledger (recent)
 2005-2015:           114 new stories recorded. Tones balanced (60%

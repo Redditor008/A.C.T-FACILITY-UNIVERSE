@@ -39,6 +39,15 @@ INCLUDED LOG TYPES:
    - A.C.T Recovery Log
    - Dossier Closing Statement
 
+CATEGORY PURPOSE:
+This dossier reconstructs where the Paper Flower came from: the creator
+profile, the chronology of its folding, the hospital migration that carried
+it, and the circumstances of A.C.T recovery. Its use is provenance, and
+specifically the humanitarian circumstances of an anomaly that was made
+rather than found. It does not authorize contact with its creator, and it
+does not set the anomaly's present hazard class, which the primary file
+holds.
+
 +--------------------------------------------------------------------------+
                  SECTION 001 — THE CREATOR PROFILE
 +--------------------------------------------------------------------------+

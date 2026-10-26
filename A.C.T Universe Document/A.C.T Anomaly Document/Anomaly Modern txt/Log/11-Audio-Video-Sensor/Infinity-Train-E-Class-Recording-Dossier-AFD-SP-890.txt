@@ -43,6 +43,16 @@ INCLUDED LOG TYPES:
    - Biological and Psychological Attrition Summary
    - The Thorne Consultation: Recovery Hour Note
 
+CATEGORY PURPOSE:
+This dossier holds what the recovered E-Class footage shows and when it
+shows it: the 730-day timeline, the carriage frequency audit behind the
+infinite lottery, the station inventory, and the biological and
+psychological attrition recorded across the sequence. Its use is
+preservation of a record that cannot be re-taken. It does not authorize
+boarding, and it does not convert the footage into procedure. The
+Thorne consultation is held here as one reading of the material, not as
+a containment ruling.
+
 +---------------------------------------------------------------------+
                  SECTION 001 — THE 730-DAY TIMELINE
 +---------------------------------------------------------------------+

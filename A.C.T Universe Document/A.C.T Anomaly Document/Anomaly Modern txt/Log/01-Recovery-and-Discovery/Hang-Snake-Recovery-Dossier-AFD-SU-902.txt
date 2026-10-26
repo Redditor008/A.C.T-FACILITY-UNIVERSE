@@ -34,6 +34,15 @@ INCLUDED LOG TYPES:
    - Field Agent Notes: Material Resilience
    - Dossier Closing Statement
 
+CATEGORY PURPOSE:
+This dossier carries the chronology of the 1992 prison event: the empty
+noose that disclosed the anomaly, the medical bay siphoning that
+established its first-contact behaviour, and the field notes on
+material resilience. Its use is to fix the sequence of discovery and
+the limits observed during it. It does not authorize handling outside
+those recorded limits, and it does not judge the anomaly's
+transformation potential.
+
 +---------------------------------------------------------------------+
                  SECTION 001 — THE EMPTY NOOSE
 +---------------------------------------------------------------------+

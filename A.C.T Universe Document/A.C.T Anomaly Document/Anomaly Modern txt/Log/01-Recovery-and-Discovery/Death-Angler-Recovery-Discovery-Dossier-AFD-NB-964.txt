@@ -36,6 +36,14 @@ INCLUDED LOG TYPES:
    - Month 3: The Final Engagement and Extraction
    - Dossier Closing Statement
 
+CATEGORY PURPOSE:
+This dossier reconstructs Operation DEEP HOOK: the sonar voids that first
+indicated the anomaly, the lure incident and the personnel loss it cost, and
+the extraction that ended the three-month hunt. Its use is to record how the
+Death Angler was found and taken, including the method that failed. It does
+not authorize a repeat of lure-based recovery, and it does not assess the
+anomaly's present containment, which the primary file holds.
+
 +--------------------------------------------------------------------------+
                  SECTION 001 — THE SONAR VOIDS
 +--------------------------------------------------------------------------+
