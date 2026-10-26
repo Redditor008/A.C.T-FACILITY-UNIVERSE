@@ -206,3 +206,30 @@ rescuer never stays to be thanked, and the rescued are allowed their miracle.
 A.C.T does not need to correct every saved life into a containment report.
 
 END OF FILE
+
++----------------------------------------------------------------------------+
+|                              DOSSIER CLOSING                               |
++----------------------------------------------------------------------------+
+
+The retained record carries the first post-rescue interview taken within
+twelve hours, the familiar-face presentation testimony, the follow-up
+interviews that establish the memory-softening curve, and case study 019-6
+on the collapsed stairwell. Its value is the curve: testimony degrades in
+a measurable way over time, and this file dates that degradation. What it
+cannot settle is whether the softening is the anomaly acting or ordinary
+recall failing, because no control group was interviewed alongside the
+subjects.
+
+FUTURE ADDITIONS TO THIS DOSSIER SHOULD INCLUDE:
+   - interviews taken beyond the current curve window, which the record
+     stops short of
+   - a control group interviewed on the same schedule but never presented
+     with the familiar face
+   - a comparison against amnestic administration, since the mnesic-trial
+     material is incomplete
+   - a second subject for case study 019-6, which rests on one stairwell
+     event
+
+CURRENT DOSSIER STATUS: Open / Curve Established, Control Group Absent
+
+END OF DOSSIER

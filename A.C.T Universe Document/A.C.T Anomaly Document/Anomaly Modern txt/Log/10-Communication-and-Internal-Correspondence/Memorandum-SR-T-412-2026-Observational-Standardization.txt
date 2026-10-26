@@ -41,6 +41,14 @@ INCLUDED LOG TYPES:
    - The Myth of Technology
    - The First Lie
 
+CATEGORY PURPOSE:
+This memorandum is filed as internal correspondence because it sets method rather than
+recording an anomaly. It argues for slower observation against the speed of data, for
+the use of proper names, and against treating instrumentation as a substitute for
+watching. Its use is to fix a standard of practice. It does not classify anything, and
+it does not carry the authority of a containment ruling; it is one senior researcher's
+position, circulated for adoption.
+
                  SECTION 001 — THE SPEED OF DATA
 +-------------------------------------------------------------------------------------------------------------+
 

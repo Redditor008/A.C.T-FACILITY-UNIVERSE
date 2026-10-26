@@ -207,3 +207,28 @@ the empty slot must stay sealed. The machine makes its own trespassers. A.C.T
 testing's only task is to make sure it never gets the heart to defend.
 
 END OF FILE
+
++----------------------------------------------------------------------------+
+|                              DOSSIER CLOSING                               |
++----------------------------------------------------------------------------+
+
+The retained record verifies the inert state and the slot-rejection
+behaviour, carries the chosen-subject compulsion records, analyses heart-
+signal transfer across stage one and stage two guardian-state observation,
+and holds incident review 017-A. Inert state and slot rejection are
+settled. What the file does not settle is the mechanism of selection: the
+compulsion records show who was chosen and not why, and incident 017-A is
+reviewed without a root cause assigned to it.
+
+FUTURE ADDITIONS TO THIS DOSSIER SHOULD INCLUDE:
+   - a stage three observation, since the transfer analysis stops at stage
+     two
+   - slot-rejection trials on alternate matter, which the current set does
+     not cover
+   - a root-cause finding for incident review 017-A
+   - compulsion trials with subjects outside the chosen profile, to test
+     whether selection is narrow or merely appears so
+
+CURRENT DOSSIER STATUS: Open / Inert State Verified, Selection Unknown
+
+END OF DOSSIER

@@ -211,3 +211,28 @@ the food
 goes.
 
 END OF FILE
+
++----------------------------------------------------------------------------+
+|                              DOSSIER CLOSING                               |
++----------------------------------------------------------------------------+
+
+The retained record carries visual-silhouette observation and the tracking
+protocol, feed-response testing on approved matter, consumption-boundary
+mapping, conditioning observation, and the recovery and narrative review.
+The consumption boundary is established for the matter approved for
+testing. What the file does not settle is behaviour outside that list,
+since no trial was run on unapproved matter, and conditioning retention
+was observed only across the interval the file covers.
+
+FUTURE ADDITIONS TO THIS DOSSIER SHOULD INCLUDE:
+   - feed-response trials on matter outside the approved list, which is
+     the boundary the record stops at
+   - conditioning retention observed across a longer interval than the
+     current one
+   - silhouette capture from a second independent vantage
+   - a trial separating illumination from surface geometry, which the
+     current mapping holds together
+
+CURRENT DOSSIER STATUS: Open / Consumption Boundary Mapped for Approved Matter
+
+END OF DOSSIER

@@ -191,3 +191,27 @@ it was
 kind enough to leave.
 
 END OF FILE
+
++-----------------------------------------------------------------------------+
+|                               DOSSIER CLOSING                               |
++-----------------------------------------------------------------------------+
+
+The retained record maps the exposure threshold, tests secondary influence
+through reflected observation, carries the media-capture anomaly record and
+the retrieval-witness continuity case, and reviews recovery and continuity
+injury. The threshold is mapped. What the file does not settle is the
+secondary influence vector, because the instruments used to record it are
+themselves within the effect they measure, and continuity injury is
+reviewed as an outcome without a stated mechanism.
+
+FUTURE ADDITIONS TO THIS DOSSIER SHOULD INCLUDE:
+   - threshold refinement between the mapped bounds, which the current
+     mapping brackets rather than fixes
+   - media capture using instrumentation not itself subject to the anomaly
+   - a mechanism finding for continuity injury
+   - a second retrieval-witness case, since the continuity case rests on
+     one
+
+CURRENT DOSSIER STATUS: Open / Threshold Mapped, Secondary Vector Unresolved
+
+END OF DOSSIER

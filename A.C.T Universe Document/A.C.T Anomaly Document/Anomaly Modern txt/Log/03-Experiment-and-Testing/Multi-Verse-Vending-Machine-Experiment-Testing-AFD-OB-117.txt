@@ -38,6 +38,14 @@ INCLUDED LOG TYPES:
    - [STRUCTURAL DATA OMITTED]
    - Dossier Closing Statement
 
+CATEGORY PURPOSE:
+This dossier holds the acquisition logs for the vending machine and the
+cross-dimensional analysis of what came out of it. Its use is to record
+what was taken, when, and what the item proved to be once it was here. It
+does not authorize further acquisitions, and it does not establish what
+the machine selects on; the logs record outcomes and not the rule behind
+them.
+
 +-----------------------------------------------------------------------+
                  SECTION 001 — ACQUISITION LOGS
 +-----------------------------------------------------------------------+
@@ -156,5 +164,29 @@ Researcher Price has been banned from procurement after attempting to
 wish for "A date with the Countess" on the Un-Monkey Paw while
 standing near the Vending Machine. The machine dispensed a 30 cm
 cardboard cutout of a goat for $500.00.
+
+END OF DOSSIER
+
++-----------------------------------------------------------------------+
+|                            DOSSIER CLOSING                            |
++-----------------------------------------------------------------------+
+
+The retained record consists of acquisition logs and the cross-
+dimensional analysis carried out on what was acquired. It establishes
+what has come out of the machine and what those items proved to be.
+It does not establish the rule by which the machine selects, and no
+acquisition in the log was repeated under controlled conditions, so
+cause and coincidence cannot yet be separated here.
+
+FUTURE ADDITIONS TO THIS DOSSIER SHOULD INCLUDE:
+   - a repeated acquisition trial under controlled conditions, since
+     every logged acquisition is a single uncontrolled event
+   - provenance analysis for each acquired item, which the current
+     log records only as description
+   - a record of refusals, since what the machine declines to
+     dispense is not logged anywhere in this file
+   - an instrumented observation of the dispensing moment itself
+
+CURRENT DOSSIER STATUS: Open / Acquisition Logs Only
 
 END OF DOSSIER

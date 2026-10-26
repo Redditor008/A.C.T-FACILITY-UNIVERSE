@@ -193,3 +193,27 @@ compliance training is prohibited. The pupil is contained so that the frame
 never finds it again.
 
 END OF FILE
+
++----------------------------------------------------------------------------+
+|                              DOSSIER CLOSING                               |
++----------------------------------------------------------------------------+
+
+The retained record maps exposure stages, tests medium persistence and
+fragmentation, records the pupil-anchor trials, reviews the origin trace,
+and carries the response and recovery protocol review alongside the
+documentation-safety incident. Exposure stages are confirmed. What the
+file does not settle is origin: the archive review narrows the trace
+without closing it, and the documentation-safety incident is recorded as
+an event whose cause has not been assigned.
+
+FUTURE ADDITIONS TO THIS DOSSIER SHOULD INCLUDE:
+   - repeat pupil-anchor trials with instrumentation independent of the
+     observer, since the current set shares a vantage with the effect it
+     measures
+   - an origin trace carried beyond the archive material
+   - a cause finding for the documentation-safety incident
+   - medium-persistence trials on substrates not yet tested
+
+CURRENT DOSSIER STATUS: Open / Exposure Stages Confirmed, Origin Unresolved
+
+END OF DOSSIER
