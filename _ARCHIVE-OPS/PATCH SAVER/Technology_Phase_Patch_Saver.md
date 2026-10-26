@@ -10862,3 +10862,47 @@ is a relocation and no text injection can express it.
 ci_check.py reads defect keys checked 38 and all read 0, exit 0. gate_audit.py reads tested 34 fired 34 blind 0,
 up from 33. LOG_SHELF_MISMATCHES reads 0 and fires 0 to 1 when a dossier is lifted back into the Log root. 87
 files moved as pure renames with no content change and 5 as renames carrying the title correction.
+
+---
+
+## Prompt End Update — 2026-10-26, Non-Log Records Relocated, And The Workspace Reset Behaviour Confirmed Twice
+
+### The relocation
+
+Six records left the Log tree and now sit in Anomaly Modern txt beside the anomaly files they concern: three
+recovered MAGICAL MEW lyric artefacts, the recovered Circus Monster diary, the Aris Thorne personnel biography,
+and The Long Commute to Nowhere side tale. The destination follows an existing precedent rather than inventing
+structure, because The-Custodians-of-the-Second-Chance-Tale.txt has always been filed in that folder rather than
+in a Log folder.
+
+They were not classified. Three are the subject a Category VII dossier would be written about rather than one,
+one is a recovered diary, one is a personnel record and one is prose fiction, and none of the twelve categories
+describes them. Forcing a category onto them would have invented a classification the doctrine does not offer.
+
+The empty 00-Non-Category-Records shelf was removed with its README. The Log index now reads 55 files across 11
+shelves, and the parent index reads 46 records, a figure it had carried as 43 since before this change.
+
+### The workspace resets its git state at turn boundaries, and this was observed twice
+
+Twice in one session HEAD was found at the session base a17dfd0 rather than at the pushed commit, with the index
+holding the corpus under A.C.T_UNIVERSE_DOCUMENT with underscores, 849 tracked files in a directory absent from
+disk, and git reporting 869 deletions while the working tree carried the shelved corpus as untracked. The second
+time the remote-tracking ref was gone as well, so `git rev-parse origin/arena/...` failed outright.
+
+The symptom is always the same: `git mv` fails with "not under version control" on a file that is plainly on disk
+and plainly committed.
+
+Recovery, and it must be the first action of every turn rather than a reaction to a failure:
+
+    git fetch origin
+    git reset --hard origin/arena/01a0ab57-a-c-t-facility-universe
+
+Verify origin's ref before discarding anything. Both times the pushed commit was intact on origin and nothing was
+lost, but that was checked rather than assumed.
+
+The practical consequence for any script that edits and moves files: make it idempotent, because it may need to be
+re-run after a recovery. Both backfill scripts now guard on whether the work is already present.
+
+### Verification
+
+ci_check.py reads defect keys checked 38 and all read 0, exit 0.

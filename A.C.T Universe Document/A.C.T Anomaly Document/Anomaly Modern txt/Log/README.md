@@ -8,7 +8,6 @@ journals goes straight to the one shelf that holds them.
 
 ## Category shelves
 
-- [Non-category records](00-Non-Category-Records/) — 6 files
 - [Category 1 — Recovery and Discovery](01-Recovery-and-Discovery/) — 4 files
 - [Category 2 — Interview and Testimony](02-Interview-and-Testimony/) — 4 files
 - [Category 3 — Experiment and Testing](03-Experiment-and-Testing/) — 11 files
@@ -21,7 +20,7 @@ journals goes straight to the one shelf that holds them.
 - [Category 11 — Audio Video Sensor](11-Audio-Video-Sensor/) — 3 files
 - [Category 12 — Personal and Recovered Journal](12-Personal-and-Recovered-Journal/) — 3 files
 
-61 log files across 12 shelves.
+55 log files across 11 shelves.
 
 ## Category doctrine
 
