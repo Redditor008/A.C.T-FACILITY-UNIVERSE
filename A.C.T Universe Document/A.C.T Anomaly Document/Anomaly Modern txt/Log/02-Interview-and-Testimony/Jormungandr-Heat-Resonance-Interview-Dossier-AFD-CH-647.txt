@@ -226,3 +226,23 @@ answer
 without having to wake the mountain to get it.
 
 END OF FILE
+
++---------------------------------------------------------------------------------+
+|                                 DOSSIER CLOSING                                 |
++---------------------------------------------------------------------------------+
+
+This dossier records the first stable communication at the Black Calderan vigil
+in 1974, the digestion clarification behind the cooperative containment
+doctrine, the ITHYOS relationship review conducted under shielded audio, and
+the diet and aversion interview. Testimony is recorded. What the file cannot
+settle is corroboration: the subject is the only source for what it says, and
+the relationship review rests on a single shielded test.
+
+FUTURE ADDITIONS TO THIS DOSSIER SHOULD INCLUDE:
+   - repeated shielded audio tests, since the relationship review rests on one
+   - corroboration of the testimony against sensor records held elsewhere
+   - aversion trials beyond the diet covered in the interview
+
+CURRENT DOSSIER STATUS: Open / Testimony Recorded, Uncorroborated
+
+END OF DOSSIER

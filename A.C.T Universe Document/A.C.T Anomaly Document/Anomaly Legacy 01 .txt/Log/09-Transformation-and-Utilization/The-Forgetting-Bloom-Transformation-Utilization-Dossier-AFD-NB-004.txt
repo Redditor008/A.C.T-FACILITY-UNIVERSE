@@ -215,3 +215,25 @@ Facility's silence. The cost of that silence is kept in the same restricted
 file as the incidents.
 
 END OF FILE
+
++----------------------------------------------------------------------------+
+|                              DOSSIER CLOSING                               |
++----------------------------------------------------------------------------+
+
+This dossier carries the cultivation and bloom-cycle observation, the sap-
+exposure and incident record, the derivative refinement that produces the
+amnestic compound, and the intake-type clarification between UFD-NB-004
+and AFD-NB-004. Refinement is recorded. What the file does not settle is
+yield consistency across bloom cycles, and the sap-exposure incident is
+summarised without a cause finding attached to it.
+
+FUTURE ADDITIONS TO THIS DOSSIER SHOULD INCLUDE:
+   - a yield comparison across bloom cycles, which the cultivation record
+     does not currently support
+   - a cause finding for the sap-exposure incident
+   - a refinement run under controlled sap composition, since the present
+     runs used material as harvested
+
+CURRENT DOSSIER STATUS: Open / Refinement Recorded, Yield Not Established
+
+END OF DOSSIER

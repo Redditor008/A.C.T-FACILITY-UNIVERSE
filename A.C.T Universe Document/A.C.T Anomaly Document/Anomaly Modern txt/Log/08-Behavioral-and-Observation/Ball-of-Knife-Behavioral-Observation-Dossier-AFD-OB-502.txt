@@ -199,3 +199,27 @@ hold a blade. The field holds. The watch keeps. The clicking is the only
 debate it is permitted to have.
 
 END OF FILE
+
++----------------------------------------------------------------------------+
+|                              DOSSIER CLOSING                               |
++----------------------------------------------------------------------------+
+
+This dossier carries the magnetic-restraint and vibration watch, the
+aggression and life-seeking behaviour log, hate-signal monitoring with its
+psychological note, the wire-lattice activity behind the quit observation,
+and the 2011 breach review. Behaviour is logged. What the file does not
+settle is whether the hate signal is directed or ambient, a question the
+psychological note raises without resolving, and the breach review records
+the event without reproducing its conditions.
+
+FUTURE ADDITIONS TO THIS DOSSIER SHOULD INCLUDE:
+   - directed-signal trials, to settle whether the hate signal has a
+     target
+   - a restraint trial varying magnetic field strength, which the watch
+     holds constant
+   - a follow-up on the 2011 breach conditions, recorded but not
+     reproduced
+
+CURRENT DOSSIER STATUS: Open / Behaviour Logged, Signal Direction Unknown
+
+END OF DOSSIER

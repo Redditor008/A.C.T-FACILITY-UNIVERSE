@@ -197,3 +197,26 @@ kept honest by the vault: at 0% light, tomorrow's weapon is today's
 paperweight.
 
 END OF FILE
+
++----------------------------------------------------------------------------+
+|                              DOSSIER CLOSING                               |
++----------------------------------------------------------------------------+
+
+This dossier calibrates the charge cycle and solar absorption and
+characterises three discharge protocols: the fifty percent weak scatter
+shot, the one hundred percent focused charge shot and the ten percent
+multi-shot, together with the 2023 recalibration. The three modes are
+characterised. What the file does not settle is behaviour between the
+tested percentages, and the recalibration is recorded without a stated
+cause for the drift it corrected.
+
+FUTURE ADDITIONS TO THIS DOSSIER SHOULD INCLUDE:
+   - discharge trials at intermediate percentages, which the three
+     protocols leave untested between them
+   - a drift study between recalibrations, to explain the 2023 correction
+     rather than only record it
+   - solar-absorption trials under varied illumination
+
+CURRENT DOSSIER STATUS: Open / Three Modes Characterised
+
+END OF DOSSIER

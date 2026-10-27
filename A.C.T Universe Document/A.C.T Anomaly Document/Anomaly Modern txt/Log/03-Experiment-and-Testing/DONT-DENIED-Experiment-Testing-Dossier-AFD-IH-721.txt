@@ -191,3 +191,25 @@ to
 carry its truth without wanting to use it.
 
 END OF FILE
+
++----------------------------------------------------------------------------+
+|                              DOSSIER CLOSING                               |
++----------------------------------------------------------------------------+
+
+This dossier carries the visual-exposure protocol and constraint trial,
+the one-million-dollar misdescription trial, the descriptive-limit
+mapping, the post-exposure persistence review and the training-tool
+feasibility study. The descriptive limit is mapped. What the file does not
+settle is whether the constraint holds under deliberate circumvention, and
+the feasibility study is a study rather than an adoption of the tool.
+
+FUTURE ADDITIONS TO THIS DOSSIER SHOULD INCLUDE:
+   - circumvention trials, since the constraint has been tested against
+     honest description only
+   - persistence review at longer intervals than the current record covers
+   - an adoption decision on the training tool, which the feasibility
+     study stops short of
+
+CURRENT DOSSIER STATUS: Open / Limit Mapped, Circumvention Untested
+
+END OF DOSSIER

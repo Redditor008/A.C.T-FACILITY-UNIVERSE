@@ -195,3 +195,28 @@ the transition itself — the moment NEMNOLIA stopped being an unexplained bloom
 and became the golden veil A.C.T forgets through.
 
 END OF FILE
+
++----------------------------------------------------------------------------+
+|                              DOSSIER CLOSING                               |
++----------------------------------------------------------------------------+
+
+This archive holds the sealed unfiled-intake oversight and the raw
+transition history behind the Bloom's earliest classification: the sealed-
+record register and its authority, the intake documentation, the observed
+properties, the early conclusion and the initial directive. Its use is to
+preserve what was decided at intake and on whose authority it was decided.
+It does not revise that judgment, and it does not carry the later
+cultivation work, which the transformation and utilisation dossier holds
+separately.
+
+FUTURE ADDITIONS TO THIS DOSSIER SHOULD INCLUDE:
+   - a cross-check against the intake-type clarification now carried in
+     the transformation dossier
+   - the later compliance record for the initial directive, which this
+     file states but does not follow up
+   - a review of the sealing authority itself, since the register records
+     it without testing whether it still applies
+
+CURRENT DOSSIER STATUS: Sealed / Intake Record Archived
+
+END OF DOSSIER

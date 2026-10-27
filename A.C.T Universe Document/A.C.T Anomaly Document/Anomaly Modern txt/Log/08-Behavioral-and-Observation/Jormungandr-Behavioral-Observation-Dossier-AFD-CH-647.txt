@@ -184,3 +184,26 @@ log stops
 matching the baseline is the day this file becomes an alarm.
 
 END OF FILE
+
++----------------------------------------------------------------------------+
+|                              DOSSIER CLOSING                               |
++----------------------------------------------------------------------------+
+
+This dossier logs the feeding cycle and pressure regulation, reviews
+temperament and cooperation, watches aversion and provocation, and states
+the silence protocol by which quiet is read as trouble. Cycles are logged.
+What the file does not settle is the predictive value of silence, which
+the protocol infers from a limited record, and provocation responses were
+observed rather than deliberately provoked.
+
+FUTURE ADDITIONS TO THIS DOSSIER SHOULD INCLUDE:
+   - a longer silence-to-event series, to test the protocol rather than
+     infer it
+   - provocation trials under controlled conditions, since the watch is
+     passive
+   - pressure-regulation logging across seasons, which the current log
+     does not span
+
+CURRENT DOSSIER STATUS: Open / Cycles Logged, Silence Protocol Inferred
+
+END OF DOSSIER

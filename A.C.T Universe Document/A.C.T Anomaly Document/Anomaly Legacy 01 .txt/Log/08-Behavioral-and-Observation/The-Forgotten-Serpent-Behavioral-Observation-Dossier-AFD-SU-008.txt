@@ -219,3 +219,26 @@ only what the world has already abandoned, and never to let it discover that
 the Facility itself keeps anything worth taking.
 
 END OF FILE
+
++----------------------------------------------------------------------------+
+|                              DOSSIER CLOSING                               |
++----------------------------------------------------------------------------+
+
+This dossier logs the accumulation cycle, maps material acceptance and
+rejection, records the plasma organ and breakdown state, tracks baseline
+stability and self-correction, and carries the feeding discipline and
+chamber record. Acceptance and rejection are mapped. What the file does
+not settle is the cause of the breakdown states, which are logged as
+events rather than explained, and self-correction is tracked without a
+mechanism attached to it.
+
+FUTURE ADDITIONS TO THIS DOSSIER SHOULD INCLUDE:
+   - breakdown-state trigger trials, since the record logs the states and
+     not what produces them
+   - acceptance trials on materials outside the mapped set
+   - a longer self-correction series than the baseline tracking currently
+     covers
+
+CURRENT DOSSIER STATUS: Open / Acceptance Mapped, Breakdown Cause Unknown
+
+END OF DOSSIER

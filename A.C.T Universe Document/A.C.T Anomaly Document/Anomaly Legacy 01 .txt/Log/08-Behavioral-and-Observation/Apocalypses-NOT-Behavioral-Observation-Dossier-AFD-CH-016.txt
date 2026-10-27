@@ -218,3 +218,27 @@ record the difference between what the entity is and what every vulnerable
 mind insists it must be.
 
 END OF FILE
+
++----------------------------------------------------------------------------+
+|                              DOSSIER CLOSING                               |
++----------------------------------------------------------------------------+
+
+This dossier records manifestation and shape-state observation, the world-
+end scenario exposure profile, the anti-apocalyptic interference record,
+and the visual-exposure control under which filtered observation was
+conducted. Shape states are catalogued. What the file cannot settle is
+whether the interference is a response or a byproduct, because observation
+was filtered throughout and unfiltered behaviour is therefore not on
+record at all.
+
+FUTURE ADDITIONS TO THIS DOSSIER SHOULD INCLUDE:
+   - unfiltered observation under controlled exposure, which the filter
+     protocol has so far excluded
+   - interference trials with the filter removed, to separate response
+     from byproduct
+   - a correlation between shape state and the exposure profile, which the
+     two records are kept in separately
+
+CURRENT DOSSIER STATUS: Open / Shape States Catalogued, Interference Open
+
+END OF DOSSIER

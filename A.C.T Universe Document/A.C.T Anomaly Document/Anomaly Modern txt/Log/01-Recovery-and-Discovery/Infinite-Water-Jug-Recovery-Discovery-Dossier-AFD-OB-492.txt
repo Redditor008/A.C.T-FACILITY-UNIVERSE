@@ -226,3 +226,26 @@ allowed
 to keep working.
 
 END OF FILE
+
++-----------------------------------------------------------------------------+
+|                               DOSSIER CLOSING                               |
++-----------------------------------------------------------------------------+
+
+This dossier carries the 1924 excavation context from the Valley of the
+Kings, the cataloguing identification of the self-filling vessel, the
+origin correlation to the Gift of the Hidden Nile, and post-recovery
+verification of output and cooldown. Output is verified. What the file does
+not settle is the source of the water, which the origin correlation
+proposes rather than demonstrates, and cooldown is recorded only for the
+conditions tested.
+
+FUTURE ADDITIONS TO THIS DOSSIER SHOULD INCLUDE:
+   - output trials under varied ambient conditions, since the verification
+     used one set
+   - a compositional analysis of the water, which would test the origin
+     correlation rather than assert it
+   - a longer cooldown series than the post-recovery record holds
+
+CURRENT DOSSIER STATUS: Open / Output Verified, Source Not Demonstrated
+
+END OF DOSSIER

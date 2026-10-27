@@ -192,3 +192,26 @@ needed
 often enough to fill these pages.
 
 END OF FILE
+
++----------------------------------------------------------------------------+
+|                              DOSSIER CLOSING                               |
++----------------------------------------------------------------------------+
+
+This archive carries the access and handling record, the activation at the
+1999 Site-01 breach prevention, the activation during the Ball of Knife
+recovery operation, the recovered inscription from the back-case
+engraving, and operator testimony. Both activations are documented. What
+the file does not settle is the inscription, which is recorded verbatim
+and never translated, and neither activation was repeated under controlled
+conditions.
+
+FUTURE ADDITIONS TO THIS DOSSIER SHOULD INCLUDE:
+   - a translation attempt on the back-case engraving, held here verbatim
+     only
+   - a controlled activation trial, since both records are of operational
+     events
+   - corroboration of operator testimony against the handling archive
+
+CURRENT DOSSIER STATUS: Open / Activations Logged, Inscription Raw
+
+END OF DOSSIER

@@ -204,3 +204,25 @@ to
 be a hatchling.
 
 END OF FILE
+
++----------------------------------------------------------------------------+
+|                              DOSSIER CLOSING                               |
++----------------------------------------------------------------------------+
+
+This dossier observes habitat welfare, logs feeding behaviour and the
+zero-waste metabolism, records the shedding cycle and scale collection,
+carries the thermal mist respiration record, and holds the enrichment and
+reading sessions. Welfare is documented. What the file does not settle is
+growth trajectory, because the record covers a juvenile and does not
+project maturity, and collected scales are held without compositional
+analysis.
+
+FUTURE ADDITIONS TO THIS DOSSIER SHOULD INCLUDE:
+   - a growth series carried to maturity, which the juvenile record cannot
+     project
+   - compositional analysis of the collected scales, held but not tested
+   - respiration recording at varied ambient temperature
+
+CURRENT DOSSIER STATUS: Open / Welfare Documented, Growth Not Projected
+
+END OF DOSSIER

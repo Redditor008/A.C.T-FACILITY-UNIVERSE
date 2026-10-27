@@ -219,3 +219,27 @@ anyone of manners. The chain holds because the book is kept closed and kept
 whole.
 
 END OF FILE
+
++----------------------------------------------------------------------------+
+|                              DOSSIER CLOSING                               |
++----------------------------------------------------------------------------+
+
+This archive carries the 1976 retrieval of the horned ledger, the chapter-
+duty response that the sovereign-chain mechanism provokes, a register of
+the recovered text by entry summary, and the marginalia record showing
+corrective title pressure. Its use is to catalogue what the ledger
+contains and how it acts on a reader who owes a duty. It does not
+transcribe the text in full, only by summary, and it records the
+marginalia without establishing who wrote them.
+
+FUTURE ADDITIONS TO THIS DOSSIER SHOULD INCLUDE:
+   - a full transcription of the recovered text register, which is held
+     here only as summaries
+   - attribution of the marginalia, since the corrective pressure is
+     recorded but its hand is not
+   - correlation of the chapter-duty response with any other sovereign-
+     chain record held elsewhere in the archive
+
+CURRENT DOSSIER STATUS: Open / Register Summarised, Text Not Transcribed
+
+END OF DOSSIER

@@ -189,3 +189,25 @@ it later discovered it did not understand. The hum is evidence. The rest is
 containment discipline.
 
 END OF FILE
+
++----------------------------------------------------------------------------+
+|                              DOSSIER CLOSING                               |
++----------------------------------------------------------------------------+
+
+This dossier holds the lunar far-side acoustic array capture of the sleep
+hum, the orbital relay visibility-window protocol run, the Site-03 signal
+burst captured under atmospheric distortion override, and the Nusantara
+hydrophone record of the hydrological pulse. Capture is recorded. What the
+file does not settle is whether the Site-03 burst and the hum are one
+phenomenon, since the burst came through correction rather than cleanly,
+and the pulse is on record once.
+
+FUTURE ADDITIONS TO THIS DOSSIER SHOULD INCLUDE:
+   - a clean burst capture without the distortion override
+   - simultaneous multi-site capture, to test whether burst and hum share
+     an origin
+   - a repeat hydrophone pulse, since the record holds one
+
+CURRENT DOSSIER STATUS: Open / Capture Recorded, Common Origin Untested
+
+END OF DOSSIER

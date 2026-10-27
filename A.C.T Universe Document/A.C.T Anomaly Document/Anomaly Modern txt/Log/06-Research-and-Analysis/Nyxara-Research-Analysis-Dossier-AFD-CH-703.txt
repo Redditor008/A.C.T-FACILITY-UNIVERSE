@@ -235,3 +235,25 @@ to stay asleep. The archive's duty is to make sure nothing asks her to
 wake.
 
 END OF FILE
+
++----------------------------------------------------------------------------+
+|                              DOSSIER CLOSING                               |
++----------------------------------------------------------------------------+
+
+This dossier correlates the visibility window into what is called the
+Nyxara calendar, reviews tidal linkage and the hydrological anchor, files
+the proximity-invisibility hypothesis, records the acoustic anomaly of the
+thousand kilometre sleep hum, and holds the age and origin material. The
+calendar correlation is established. What the file does not settle is the
+proximity-invisibility hypothesis, which is filed as a hypothesis and
+never tested, and the mechanism behind the hum.
+
+FUTURE ADDITIONS TO THIS DOSSIER SHOULD INCLUDE:
+   - a test of the proximity-invisibility hypothesis, which the file holds
+     open
+   - source localisation for the sleep hum
+   - origin dating beyond the current estimate
+
+CURRENT DOSSIER STATUS: Open / Calendar Established, Hypothesis Untested
+
+END OF DOSSIER
