@@ -39,6 +39,14 @@ INCLUDED LOG TYPES:
    - Section 003: The Integration Log (30 Days Post-Recovery)
    - Dossier Closing Statement
 
+CATEGORY PURPOSE:
+Longitudinal behavioural tracking, split into personality and framework,
+the seclusion log taken before recovery and the integration log taken
+after it. Its use is to compare a subject against herself across a
+recovery. It does not establish that the change is permanent, and the two
+logs differ in conditions as well as in time, so they are not strictly
+comparable.
+
 +------------------------------------------------------------------------+
              SECTION 001 — PERSONALITY & FRAMEWORK
 +------------------------------------------------------------------------+

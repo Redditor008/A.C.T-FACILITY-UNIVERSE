@@ -39,6 +39,14 @@ INCLUDED LOG TYPES:
    - Consultative Note: Dr. Aris Thorne (SR-412)
    - Dossier Closing Statement
 
+CATEGORY PURPOSE:
+Phenotypic comparison and anachronistic biology, carried in comparative
+morphology with a researcher note from Dr. Brooks and a consultative note
+from Dr. Thorne. Its use is to set a living form against the record it
+should not match. It does not settle how the anachronism arose, and the
+two notes stand side by side as opinions rather than as a finding agreed
+between them.
+
 +-----------------------------------------------------------------------+
                SECTION 001 — COMPARATIVE MORPHOLOGY
 +-----------------------------------------------------------------------+

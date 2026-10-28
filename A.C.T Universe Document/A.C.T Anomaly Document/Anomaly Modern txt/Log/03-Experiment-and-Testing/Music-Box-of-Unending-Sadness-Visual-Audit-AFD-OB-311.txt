@@ -37,6 +37,13 @@ INCLUDED LOG TYPES:
    - Senior Researcher Aris Thorne: Clinical Observation
    - Dossier Closing Statement
 
+CATEGORY PURPOSE:
+Verification of the visual-fading threshold through the monochrome
+trial, with an archivist's note. Its use is to fix the point at which
+observation of the object itself begins to fail. It does not cover long-
+term fading beyond the trial window, and the note records the limit
+without explaining it.
+
 +----------------------------------------------------------------------+
                SECTION 001 — THE MONOCHROME TRIAL
 +----------------------------------------------------------------------+

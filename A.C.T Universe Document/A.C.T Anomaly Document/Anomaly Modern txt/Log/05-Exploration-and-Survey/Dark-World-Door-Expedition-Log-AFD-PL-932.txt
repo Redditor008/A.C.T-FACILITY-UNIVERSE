@@ -41,6 +41,14 @@ INCLUDED LOG TYPES:
    - Biological Encounter: Bones Hound Pack Alpha
    - After-Action Report: The "Blue Haze" Extraction
 
+CATEGORY PURPOSE:
+A first-contact topographical survey: threshold entry, the pale wood
+survey, the red river bank, a biological encounter, and the extraction
+and audit. Its use is to map what lies past the door on the strength of a
+single crossing. It does not establish that the terrain holds between
+crossings, and the biological encounter is recorded without follow-up of
+any kind.
+
 +-----------------------------------------------------------------------+
                 SECTION 001 — THRESHOLD ENTRY
 +-----------------------------------------------------------------------+

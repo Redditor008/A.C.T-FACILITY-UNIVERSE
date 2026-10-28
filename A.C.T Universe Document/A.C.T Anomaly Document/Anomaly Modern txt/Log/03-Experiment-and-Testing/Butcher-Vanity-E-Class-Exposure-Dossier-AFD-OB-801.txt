@@ -39,6 +39,14 @@ INCLUDED LOG TYPES:
    - Incident Report: E-801-14 Post-Test Recovery
    - Senior Researcher Aris Thorne: Clinical Observation Note
 
+CATEGORY PURPOSE:
+This dossier maps the compulsion threshold through the wood-to-flesh
+trial and tracks the whisper progression, closed by the archivist's
+analysis. Its use is to fix where compulsion begins and what
+transmutation it carries out. It does not authorize exposure beyond the
+mapped threshold, and it does not explain the whisper progression,
+which is recorded as a sequence rather than a mechanism.
+
 +---------------------------------------------------------------------+
               SECTION 001 — THE WOOD-TO-FLESH TRIAL
 +---------------------------------------------------------------------+

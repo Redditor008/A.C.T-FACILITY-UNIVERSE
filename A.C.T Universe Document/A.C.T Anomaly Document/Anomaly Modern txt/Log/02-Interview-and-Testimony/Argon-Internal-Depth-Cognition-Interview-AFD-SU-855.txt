@@ -40,6 +40,14 @@ INCLUDED LOG TYPES:
    - Narrative Analysis: The "Trolling" Defense Mechanism
    - Dossier Closing Statement
 
+CATEGORY PURPOSE:
+A high-fidelity sentience audit held as an interview, this dossier
+records the ocean of dead threads and the archivist's analysis of it.
+Its use is to put a philosophical claim on the record in the subject's
+own terms. It does not establish sentience as a finding. The analysis
+interprets testimony, and testimony taken from a single subject cannot
+corroborate itself.
+
 +----------------------------------------------------------------------+
                  SECTION 001 — THE OCEAN OF DEAD THREADS
 +----------------------------------------------------------------------+

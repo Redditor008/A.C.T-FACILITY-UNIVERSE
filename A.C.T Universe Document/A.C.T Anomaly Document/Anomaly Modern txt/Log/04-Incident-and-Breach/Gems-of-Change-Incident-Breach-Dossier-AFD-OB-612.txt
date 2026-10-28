@@ -37,6 +37,14 @@ INCLUDED LOG TYPES:
    - Medical & Genetic Stability Review
    - Dossier Closing Statement
 
+CATEGORY PURPOSE:
+Recording of an accidental exposure and the transmutation that followed,
+held as an incident summary, a transmutation timeline and the personal
+responsibility logs. Its use is to fix what happened and who was
+answerable for it. It does not assign fault, because the responsibility
+logs record statements rather than findings, and the timeline is
+reconstructed rather than directly observed.
+
 +----------------------------------------------------------------------+
                     SECTION 001 — INCIDENT SUMMARY
 +----------------------------------------------------------------------+

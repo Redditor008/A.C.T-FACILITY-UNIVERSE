@@ -36,6 +36,13 @@ INCLUDED LOG TYPES:
    - The Honey Obsidian Harvest Trial
    - Dossier Closing Statement
 
+CATEGORY PURPOSE:
+Analysis of hive construction and seasonal aggression, carried in the hive
+architecture record, the seasonal aggression log and the diamond incident.
+Its use is to establish the structure the colony builds and the season in
+which it becomes dangerous. It does not predict aggression outside the
+observed season, and the diamond incident stands as one event.
+
 +------------------------------------------------------------------------+
                  SECTION 001 — HIVE ARCHITECTURE
 +------------------------------------------------------------------------+

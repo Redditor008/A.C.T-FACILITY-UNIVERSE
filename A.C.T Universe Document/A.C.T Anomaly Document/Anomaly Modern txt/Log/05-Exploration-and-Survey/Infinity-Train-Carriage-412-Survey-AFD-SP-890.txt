@@ -41,6 +41,14 @@ INCLUDED LOG TYPES:
    - Extraction Data: Station Delta-Zero
    - Dossier Closing Statement
 
+CATEGORY PURPOSE:
+In-depth reconnaissance of one rare carriage: the infinite storage,
+carriage 412 itself, the narrative resonance observed inside it, and the
+extraction at station D-0. Its use is to fix what a single carriage
+contains and how it behaves. It does not generalise to the other
+carriages, and the narrative resonance is recorded as observed rather
+than explained.
+
 +----------------------------------------------------------------------+
                  SECTION 001 — THE INFINITE STORAGE
 +----------------------------------------------------------------------+

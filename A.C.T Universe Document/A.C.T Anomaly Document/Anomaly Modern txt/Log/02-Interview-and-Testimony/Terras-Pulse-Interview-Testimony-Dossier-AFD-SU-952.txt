@@ -39,6 +39,14 @@ INCLUDED LOG TYPES:
    - Statistical Log: The 120% Productivity Shift
    - Dossier Closing Statement
 
+CATEGORY PURPOSE:
+This dossier carries linguistic decryption and historical lineage: the
+declaration, the gratitude event and the archivist's analysis. Its use is
+to render what was said intelligible and to place the speaker in a
+lineage. It does not verify the lineage claimed, and it does not explain
+the gratitude event, which the analysis records as an occurrence and
+leaves open.
+
 +------------------------------------------------------------------------+
                  SECTION 001 — THE DECLARATION
 +------------------------------------------------------------------------+

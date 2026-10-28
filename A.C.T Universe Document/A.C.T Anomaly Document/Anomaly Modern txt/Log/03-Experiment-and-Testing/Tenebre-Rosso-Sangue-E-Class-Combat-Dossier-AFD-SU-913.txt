@@ -38,6 +38,14 @@ INCLUDED LOG TYPES:
    - Post-Combat Debris Analysis: Synthetic vs. Organic Fuel
    - Dossier Closing Statement
 
+CATEGORY PURPOSE:
+Absorption-efficiency verification and combat-velocity testing, held as
+the sanguine absorption test and the Feedbacker parry trial with an
+archivist's note. Its use is to measure what the subject absorbs and how
+fast it moves when opposed. It does not authorize combat testing outside
+controlled conditions, and efficiency here is measured against one medium
+only.
+
 +------------------------------------------------------------------------+
               SECTION 001 — SANGUINE ABSORPTION TEST
 +------------------------------------------------------------------------+

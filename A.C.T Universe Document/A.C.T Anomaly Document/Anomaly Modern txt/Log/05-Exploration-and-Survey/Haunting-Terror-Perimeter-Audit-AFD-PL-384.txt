@@ -39,6 +39,14 @@ INCLUDED LOG TYPES:
    - After-Action Report: The 19-Attempt Limit
    - Dossier Closing Statement
 
+CATEGORY PURPOSE:
+This audit maps the boundary geometry of the unround through the folded
+outline, the recursive trial, the visual evidence of the eyes and an
+after-action summary. Its use is to describe a perimeter that will not
+hold an ordinary shape. It does not establish a containment line, since
+the recursive trial shows the geometry reasserting itself, and the eyes
+are recorded as evidence without explanation.
+
 +-----------------------------------------------------------------------+
                  SECTION 001 — THE FOLDED OUTLINE
 +-----------------------------------------------------------------------+

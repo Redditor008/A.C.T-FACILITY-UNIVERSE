@@ -39,6 +39,14 @@ INCLUDED LOG TYPES:
    - Post-Recovery Subjective Entries
    - Dossier Closing Statement
 
+CATEGORY PURPOSE:
+Preservation of a recovered diary and reconstruction of the timeline inside
+it: the performance journal, the tyrant's plea, the lion incident, the
+empty realization and the creative output after stabilization. Its use is
+to hold a first-person record intact and to date what it describes. It does
+not verify that account against any external record, and the reconstruction
+orders the entries rather than confirming them.
+
 +-------------------------------------------------------------------------+
                  SECTION 001 — THE PERFORMANCE JOURNAL
 +-------------------------------------------------------------------------+

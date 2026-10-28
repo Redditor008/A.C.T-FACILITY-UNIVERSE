@@ -38,6 +38,13 @@ INCLUDED LOG TYPES:
    - Senior Researcher Aris Thorne: Resonance Commentary
    - Dossier Closing Statement
 
+CATEGORY PURPOSE:
+Controlled biological transmutation mapping, held as the chronology of trial
+612-E-09 with the archivist's analysis. Its use is to fix what the
+transmutation does to living matter and in what order it does it. It does not
+establish reversibility, and the chronology is one trial rather than a range
+of them.
+
 +---------------------------------------------------------------------------+
               SECTION 001 — TRIAL 612-E-09 CHRONOLOGY
 +---------------------------------------------------------------------------+

@@ -40,6 +40,13 @@ INCLUDED LOG TYPES:
    - Incident Report: The "Sinister Hunt" Data Loss
    - Dossier Closing Statement
 
+CATEGORY PURPOSE:
+Tactical mapping of the Sunda Trench kill zone before capture: the
+optical void, the floating lure, the pre-hunt silence and the sinister
+hunt. Its use is to record how the anomaly behaves where it cannot be
+reached. It does not support approach, since the mapping was done at a
+distance, and the hunt it captures is observed once.
+
 +---------------------------------------------------------------------+
                  SECTION 001 — THE OPTICAL VOID
 +---------------------------------------------------------------------+

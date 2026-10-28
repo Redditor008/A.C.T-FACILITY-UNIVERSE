@@ -38,6 +38,13 @@ INCLUDED LOG TYPES:
    - The O5-1 Directive on Passive Storage
    - Dossier Closing Statement
 
+CATEGORY PURPOSE:
+Analysis of physical media manifestations classified as non-anomalous, held
+as the absence of resonance and a media inventory. Its use is to record what
+appeared and to establish that nothing anomalous was detected in it. It does
+not explain the manifestations, and an absence of resonance cannot exclude
+an effect sitting below the threshold of the instruments used.
+
 +--------------------------------------------------------------------------+
                SECTION 001 — THE ABSENCE OF RESONANCE
 +--------------------------------------------------------------------------+

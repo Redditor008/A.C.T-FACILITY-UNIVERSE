@@ -124,6 +124,12 @@ TEXT_TESTS = [
     # headers is the flat shape the owner corrected, so this must fire.
     # A dossier whose category title currently matches the doctrine exactly.
     # Truncating it is the defect the substring clause used to miss, so it must fire.
+    # A dossier carrying all four house-form markers. Stripping the purpose block
+    # is the regression, so this must fire.
+    ("LOG_MARKER_GAPS",
+     "A.C.T Universe Document/A.C.T Anomaly Document/Anomaly Modern txt/Log/"
+     "02-Interview-and-Testimony/Helping-Hand-Interview-Testimony-Dossier-AFD-SU-019.txt",
+     "stripmarker", None),
     ("LOG_CATEGORY_MISMATCHES",
      "A.C.T Universe Document/A.C.T Anomaly Document/Anomaly Modern txt/Log/"
      "Circus-Monster-Recovered-Diary-Dossier-AFD-SU-507.txt",
@@ -202,6 +208,12 @@ def main() -> int:
                         "\n\n".join(paras[:2] + [" ".join(words)] + paras[2:]),
                         encoding="utf-8",
                     )
+                elif kind == "stripmarker":
+                    # Remove a CATEGORY PURPOSE block. This is the regression the
+                    # marker gate exists to catch: a dossier that has silently lost
+                    # the statement of what it is for.
+                    m = re.search(r"\n\nCATEGORY PURPOSE:\n(?:[^\n]+\n)+", orig)
+                    tgt.write_text(orig.replace(m.group(0), "\n", 1), encoding="utf-8")
                 elif kind == "trunclabel":
                     # Drop the trailing word Dossier from a DOCUMENT CATEGORY title.
                     # This is the exact defect 5 files carried by hand, which the

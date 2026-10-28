@@ -38,6 +38,14 @@ INCLUDED LOG TYPES:
    - Final Beam Discharge: Causal Accuracy Mapping
    - Senior Researcher Aris Thorne: Clinical Summary
 
+CATEGORY PURPOSE:
+Tactical capability verification, carried through the opening act, the
+offensive volleys, the backlash incident and the final beam discharge,
+and closed by an archivist's summary. Its use is to establish what the
+subject can do inside a simulated engagement. It does not authorize
+field deployment on the strength of a simulation, and the backlash
+incident is recorded without an assigned cause.
+
 +---------------------------------------------------------------------+
                  SECTION 001 — THE OPENING ACT
 +---------------------------------------------------------------------+

@@ -35,6 +35,13 @@ INCLUDED LOG TYPES:
    - Placement Protocol: The Katana Stand Anchor
    - Senior Researcher Aris Thorne: Final Authorization Note
 
+CATEGORY PURPOSE:
+Documentation of a strategic relocation to the Kazumi Temple: the resonance leak
+that prompted it, the temple alternative, the placement protocol and the
+archivist's final note. Its use is to record the institutional reasoning for
+moving an anomaly rather than holding it in place. It does not authorize further
+relocations, and the final note is an archivist's reading rather than a ruling.
+
 +-------------------------------------------------------------------------------+
                     SECTION 001 — THE RESONANCE LEAK
 +-------------------------------------------------------------------------------+

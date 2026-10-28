@@ -38,6 +38,13 @@ INCLUDED LOG TYPES:
    - Subject-Care Recommendation
    - Dossier Closing Statement
 
+CATEGORY PURPOSE:
+A cross-anomaly social interaction log, held as the first handshake, the
+reading session and a subject-care recommendation. Its use is to record
+what happens when two subjects are permitted contact. It does not authorize
+repeat contact, since the recommendation is attached precisely because the
+outcome was uncertain, and the record covers two sessions.
+
 +-------------------------------------------------------------------------+
                  SECTION 001 — THE FIRST HANDSHAKE
 +-------------------------------------------------------------------------+

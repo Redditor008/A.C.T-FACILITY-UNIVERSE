@@ -20,6 +20,13 @@ INCLUDED LOG TYPES:
    - The Revolution Bomb
    - Field Consequence
 
+CATEGORY PURPOSE:
+Logging of an unauthorized field manifestation: the revolution bomb and its
+field consequence. Its use is to record an event that happened outside
+authorization and what it cost. It does not assess the subject's capability in
+general, since one manifestation is not a profile, and the consequence is
+recorded as observed rather than attributed.
+
                  SECTION 001 — THE REVOLUTION BOMB
 +-----------------------------------------------------------------------------+
 

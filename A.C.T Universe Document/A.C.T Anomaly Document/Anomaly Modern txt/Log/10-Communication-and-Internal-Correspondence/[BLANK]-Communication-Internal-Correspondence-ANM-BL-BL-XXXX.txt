@@ -26,6 +26,13 @@ concerning the specific breach conditions of ANM-BL-BL-XXXX.
 INCLUDED LOG TYPES:
    - The Handwritten Note
 
+CATEGORY PURPOSE:
+A private note from O5-1 held as a warning to the Council, carried in full as the
+handwritten note. Its use is to preserve a communication never intended for the
+archive it now sits in. It does not establish the warning's subject, which the
+redactions remove, and the note is recorded as written without any verification
+of what it claims.
+
                     SECTION 001 — THE HANDWRITTEN NOTE
 +-------------------------------------------------------------------------------+
 

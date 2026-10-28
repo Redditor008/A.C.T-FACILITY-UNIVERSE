@@ -39,6 +39,13 @@ INCLUDED LOG TYPES:
    - Subject Questions and Metadata
    - Dossier Closing Statement
 
+CATEGORY PURPOSE:
+First-contact testimony and transformation trauma, held as an interview
+transcript with the physiological findings and a subject-care note. Its
+use is to record an account alongside the body that gave it. It does not
+authorize further interview without the care note being honoured, and it
+does not treat the testimony as verified against any external record.
+
 +----------------------------------------------------------------------+
                  SECTION 001 — INTERVIEW TRANSCRIPT
 +----------------------------------------------------------------------+

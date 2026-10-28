@@ -321,6 +321,36 @@ def main() -> int:
     # files carrying no DOCUMENT CATEGORY line go to 00-Non-Category-Records.
     # The gate tests the numeric prefix rather than the whole folder name so a
     # shelf may be renamed without the gate going stale.
+    # Owner ruling 2026-10-26. The four house-form markers were backfilled across
+    # the whole corpus, so coverage is now 86 of 86 for LOG TYPE, INCLUDED LOG
+    # TYPES and CATEGORY PURPOSE. That is the condition that makes gating safe:
+    # earlier in this work CATEGORY PURPOSE was missing from 52 dossiers and
+    # DOSSIER CLOSING from 29, and gating then would have flagged legitimate
+    # pre-existing owner content. Gating now costs nothing and stops the markers
+    # being dropped again.
+    #
+    # DOSSIER CLOSING carries one exception and it is structural rather than a list
+    # of filenames. The owner ruled that the two Thorne memoranda should not have a
+    # closing block because they are internal correspondence rather than dossiers.
+    # Those files are detected by the INTERNAL MEMORANDUM line in their own title
+    # block, so a new memorandum is exempted by the same rule without anyone
+    # editing this gate.
+    r["LOG_MARKER_GAPS"] = 0
+    _anom4 = ROOT / "A.C.T Universe Document/A.C.T Anomaly Document"
+    for p in sorted(_anom4.rglob("*.txt")):
+        if not _in_log_tree(p):
+            continue
+        text = read(p)
+        if "DOCUMENT CATEGORY:" not in text:
+            continue
+        memo = "INTERNAL MEMORANDUM" in text
+        for marker in ("LOG TYPE:", "INCLUDED LOG TYPES:",
+                       "CATEGORY PURPOSE", "DOSSIER CLOSING"):
+            if marker in text:
+                continue
+            if marker == "DOSSIER CLOSING" and memo:
+                continue
+            r["LOG_MARKER_GAPS"] += 1
     r["LOG_SHELF_MISMATCHES"] = 0
     _arabic = {"I": 1, "II": 2, "III": 3, "IV": 4, "V": 5, "VI": 6, "VII": 7,
                "VIII": 8, "IX": 9, "X": 10, "XI": 11, "XII": 12}

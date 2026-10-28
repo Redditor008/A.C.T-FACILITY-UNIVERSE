@@ -44,6 +44,13 @@ INCLUDED LOG TYPES:
    - Interaction 05: Junior Researcher [REDACTED] (Social Friction/Trolling)
    - Dossier Closing Statement
 
+CATEGORY PURPOSE:
+A long-form record of social interaction, held interaction by interaction
+across named personnel and one other anomaly. Its use is to show how the
+subject behaves differently with different people. It does not generalise
+past those recorded, and one interaction apiece is too thin to call a
+pattern in any of them.
+
 +--------------------------------------------------------------------------+
            SECTION 001 — INTERACTION: AGENT REN KOBAYASHI
 +--------------------------------------------------------------------------+

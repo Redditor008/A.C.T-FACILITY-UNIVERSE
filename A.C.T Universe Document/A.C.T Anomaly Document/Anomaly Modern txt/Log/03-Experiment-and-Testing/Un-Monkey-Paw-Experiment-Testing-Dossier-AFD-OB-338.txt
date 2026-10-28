@@ -37,6 +37,14 @@ INCLUDED LOG TYPES:
    - Uncurling Cycle Observation
    - Dossier Closing Statement
 
+CATEGORY PURPOSE:
+Wish-irony mapping and the limits of matter transmutation, carried in
+the wish trial logs, the lunch incident and observation of the uncurling
+cycle. Its use is to establish how a wish is distorted and where
+transmutation stops. It does not authorize further wish trials, since
+the irony is the hazard, and the lunch incident is recorded as an event
+with no stated cause.
+
 +----------------------------------------------------------------------+
                  SECTION 001 — WISH TRIAL LOGS
 +----------------------------------------------------------------------+

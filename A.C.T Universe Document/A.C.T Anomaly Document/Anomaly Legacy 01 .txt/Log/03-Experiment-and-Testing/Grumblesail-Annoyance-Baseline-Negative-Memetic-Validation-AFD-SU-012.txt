@@ -48,6 +48,14 @@ INCLUDED LOG TYPES:
    - Personnel Interaction Log: Cross-Departmental Impact (Logs 001-004)
    - Final High-Researcher Analytic Summary
 
+CATEGORY PURPOSE:
+This dossier audits a nuisance across departments: the phenomenon as
+described, the search log kept while looking for it, the personnel
+interactions it provokes and the final analytic review. Its use is to
+establish whether the annoyance is anomalous at all. It does not classify
+the subject and it does not recommend containment, because the review finds
+a baseline rather than a threat.
+
 +--------------------------------------------------------------------------+
              SECTION 001 — PHENOMENON DESCRIPTION
 +--------------------------------------------------------------------------+

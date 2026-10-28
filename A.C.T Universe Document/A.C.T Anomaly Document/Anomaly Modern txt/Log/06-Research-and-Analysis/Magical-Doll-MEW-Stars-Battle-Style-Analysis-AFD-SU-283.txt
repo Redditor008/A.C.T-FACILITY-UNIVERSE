@@ -30,6 +30,13 @@ INCLUDED LOG TYPES:
    - Verified Attack Registry
    - Charged Specials
 
+CATEGORY PURPOSE:
+A tactical capability assessment held as an inventory: the verified
+attack registry and the charged specials. Its use is to list what the
+subject has been seen to do. It does not rank and it does not predict,
+because a registry records use and not capability, and an attack never
+observed may still exist.
+
                 SECTION 001 — VERIFIED ATTACK REGISTRY
 +----------------------------------------------------------------------+
 

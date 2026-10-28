@@ -35,6 +35,13 @@ INCLUDED LOG TYPES:
    - First-Wake Communication (Thorne-1)
    - Dossier Closing Statement
 
+CATEGORY PURPOSE:
+Reconstruction of the 1992 Thorne exposure event through an incident
+timeline and the first-wake communication. Its use is to fix the sequence
+of an event that personnel survived rather than observed. It does not
+establish the mechanism of exposure, and the first-wake communication is
+recorded as received, with no independent confirmation of it.
+
 +-----------------------------------------------------------------------+
                     SECTION 001 — INCIDENT TIMELINE
 +-----------------------------------------------------------------------+

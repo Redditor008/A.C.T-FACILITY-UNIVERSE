@@ -42,6 +42,14 @@ INCLUDED LOG TYPES:
    - The 110-Year Biological Review (2020)
    - Dossier Closing Statement
 
+CATEGORY PURPOSE:
+A longitudinal study of personnel after awakening: the re-interface phase,
+friction and social correction, high-intensity research deployment and the
+110-year biological review. Its use is to track a person across a long
+interval rather than at a point. It does not authorize deployment on the
+strength of the record, and the biological review states a condition without
+projecting it forward.
+
 +--------------------------------------------------------------------------+
                  SECTION 001 — THE RE-INTERFACE PHASE
 +--------------------------------------------------------------------------+

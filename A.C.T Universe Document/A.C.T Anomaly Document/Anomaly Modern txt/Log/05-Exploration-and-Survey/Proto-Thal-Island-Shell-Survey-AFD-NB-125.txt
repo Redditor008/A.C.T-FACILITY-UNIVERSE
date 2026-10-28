@@ -41,6 +41,14 @@ INCLUDED LOG TYPES:
    - Suction Event Analysis: The 2012 Drone Loss
    - Dossier Closing Statement
 
+CATEGORY PURPOSE:
+A biological survey of the shell-based ecosystem: the stretched
+descent, the abyssal garden, the claw calcification and the suction
+incident. Its use is to describe an ecosystem that was found rather
+than to contain one. It does not establish whether that ecosystem is
+stable, and the suction incident is recorded as a hazard encountered
+rather than a property measured.
+
 +---------------------------------------------------------------------+
                  SECTION 001 — THE STRETCHED DESCENT
 +---------------------------------------------------------------------+

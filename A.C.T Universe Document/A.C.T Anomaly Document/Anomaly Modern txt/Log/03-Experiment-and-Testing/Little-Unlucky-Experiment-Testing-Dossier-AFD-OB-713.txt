@@ -38,6 +38,14 @@ INCLUDED LOG TYPES:
    - The "Triple-Twenty" Incident Log
    - Dossier Closing Statement
 
+CATEGORY PURPOSE:
+Probability distribution verification, with a telepathic lexicon log,
+an observation of emotional bleed and the triple-twenty incident. Its
+use is to test whether the distribution is genuinely anomalous and to
+record the vocabulary the subject works in. It does not settle whether
+the bleed is transmission or suggestion, and the triple-twenty incident
+stands as a single event.
+
 +---------------------------------------------------------------------+
                  SECTION 001 — TELEPATHIC LEXICON LOG
 +---------------------------------------------------------------------+

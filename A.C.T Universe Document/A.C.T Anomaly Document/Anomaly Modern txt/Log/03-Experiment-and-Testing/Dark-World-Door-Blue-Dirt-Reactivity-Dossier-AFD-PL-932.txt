@@ -39,6 +39,13 @@ INCLUDED LOG TYPES:
    - Senior Researcher Aris Thorne: Material Integrity Note
    - Dossier Closing Statement
 
+CATEGORY PURPOSE:
+Verification of the hardening rate of the soil called Blue Dirt,
+carried out through the steel-bloom trial with an archivist's note. Its
+use is to confirm a rate that other work depends upon. It does not
+extend the finding past the conditions of the trial, and a single trial
+cannot establish how that rate varies with anything.
+
 +---------------------------------------------------------------------+
               SECTION 001 — THE STEEL-BLOOM TRIAL
 +---------------------------------------------------------------------+
