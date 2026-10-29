@@ -11,7 +11,9 @@ TITLE I:             The 715 Displacement Event
 TITLE II:            THE ARCHIVE OF MUNDANE ECHOES
 
 FIELD TYPE:          N/A — Non-Anomalous Information Artifacts
-PRIMARY FILE:        ACT-715-Unknown-ACT-Reality-List
+PRIMARY FILE:        ACT-715-Unknown-ACT-Reality-List [ ERASED ]
+                     Withdrawn from the archive by ruling. The list is
+                     not held here and is not to be reconstructed.
 
 DOCUMENT CATEGORY:   CATEGORY VI — Research & Analysis Dossier
 CATEGORY FUNCTION:   Analysis of non-anomalous physical media manifestations

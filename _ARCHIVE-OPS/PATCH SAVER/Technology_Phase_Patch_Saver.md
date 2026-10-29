@@ -10906,3 +10906,30 @@ re-run after a recovery. Both backfill scripts now guard on whether the work is 
 ### Verification
 
 ci_check.py reads defect keys checked 38 and all read 0, exit 0.
+
+---
+
+## Prompt End Update — 2026-10-26, AFD-715 Marked As Erased, And Why That List Must Not Be Rebuilt
+
+### The ruling
+
+`ACT-715-Unknown-ACT-Reality-List` does not exist in this repository and must not be created. The owner's
+ruling: it was erased because another assistant objected to copyright in a fandom setting. The absence is
+therefore deliberate and correct, not a gap in the archive.
+
+Until now the reference read as a dangling pointer, which invited exactly the wrong fix: writing the missing
+list. `AFD-715` now carries `PRIMARY FILE: ACT-715-Unknown-ACT-Reality-List [ ERASED ]` with a note stating
+that it was withdrawn by ruling and is not to be reconstructed. The wording stays in-world, so the dossier
+reads as an archive record rather than as a licence note, while the actual reason lives here in the Patch
+Saver where it belongs.
+
+### The consequence for tooling
+
+`LOG_PRIMARY_FILE_GAPS` tests presence and not resolution for this reason. A gate that resolved primary-file
+references would fail CI on AFD-715 permanently, and the correct fix for that failure would be to create a
+file that must never exist. Presence-only testing keeps the corpus honest without encoding a demand that
+contradicts the ruling.
+
+### Verification
+
+ci_check.py reads defect keys checked 40 and all read 0, exit 0.
