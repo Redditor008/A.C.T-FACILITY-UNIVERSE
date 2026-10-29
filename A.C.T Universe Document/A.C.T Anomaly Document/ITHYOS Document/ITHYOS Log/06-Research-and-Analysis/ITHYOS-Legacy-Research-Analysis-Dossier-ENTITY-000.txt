@@ -6,6 +6,7 @@ ITHYOS-Legacy-Research-Analysis-Dossier-ENTITY-000
                      Anomaly Containment Transformation
 +-------------------------------------------------------------------------------+
 
+PRIMARY FILE:        ACT_ITHYOS_Modern_Anomaly_File_Standard
 DESIGNATION:         ENTITY-000 / UFD-CH-000 / AFD-CH-000
 COMMON ARCHIVE NAME: ITHYOS, THE WORLD-SLEEPER
 LEGACY TITLE:        THE SLUMBERING SERPENT GOD

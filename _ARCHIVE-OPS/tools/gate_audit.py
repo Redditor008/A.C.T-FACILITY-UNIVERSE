@@ -126,6 +126,12 @@ TEXT_TESTS = [
     # Truncating it is the defect the substring clause used to miss, so it must fire.
     # A dossier carrying all four house-form markers. Stripping the purpose block
     # is the regression, so this must fire.
+    # A dossier that currently names its primary file. Dropping the line is the
+    # defect, so this must fire.
+    ("LOG_PRIMARY_FILE_GAPS",
+     "A.C.T Universe Document/A.C.T Anomaly Document/Anomaly Modern txt/Log/"
+     "04-Incident-and-Breach/Magical-Doll-MEW-Stars-Action-Incident-Dossier-AFD-SU-283.txt",
+     "dropprimary", None),
     ("LOG_MARKER_GAPS",
      "A.C.T Universe Document/A.C.T Anomaly Document/Anomaly Modern txt/Log/"
      "02-Interview-and-Testimony/Helping-Hand-Interview-Testimony-Dossier-AFD-SU-019.txt",
@@ -206,6 +212,14 @@ def main() -> int:
                     words[len(words) // 2] = words[len(words) // 2] + "s"
                     tgt.write_text(
                         "\n\n".join(paras[:2] + [" ".join(words)] + paras[2:]),
+                        encoding="utf-8",
+                    )
+                elif kind == "dropprimary":
+                    # Remove the PRIMARY FILE line. This is the defect one dossier
+                    # carried by hand: a supplementary dossier that names no anomaly
+                    # to be filed against.
+                    tgt.write_text(
+                        re.sub(r"^PRIMARY FILE:.*\n", "", orig, flags=re.M),
                         encoding="utf-8",
                     )
                 elif kind == "stripmarker":

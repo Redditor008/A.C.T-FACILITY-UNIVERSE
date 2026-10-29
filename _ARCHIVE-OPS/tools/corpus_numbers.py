@@ -335,6 +335,34 @@ def main() -> int:
     # Those files are detected by the INTERNAL MEMORANDUM line in their own title
     # block, so a new memorandum is exempted by the same rule without anyone
     # editing this gate.
+    # Owner finding 2026-10-26. One dossier of the 86 carried no PRIMARY FILE line
+    # at all, while both its sibling dossiers named theirs. A supplementary dossier
+    # that does not say which anomaly it supports cannot be filed against anything,
+    # so every one must name its primary file.
+    #
+    # This gate tests presence and not resolution, deliberately. AFD-715 names
+    # ACT-715-Unknown-ACT-Reality-List and no file in the repository matches it, but
+    # whether that list should exist here is an open owner decision, and a gate that
+    # tested resolution would fail CI on a question nobody has answered yet.
+    r["LOG_PRIMARY_FILE_GAPS"] = 0
+    _anom5 = ROOT / "A.C.T Universe Document/A.C.T Anomaly Document"
+    for p in sorted(_anom5.rglob("*.txt")):
+        if not _in_log_tree(p):
+            continue
+        text = read(p)
+        if "DOCUMENT CATEGORY:" not in text or "PRIMARY FILE:" in text:
+            continue
+        # Two record types are not about an anomaly and so have no primary file
+        # to name. Both are detected from their own text rather than from a list
+        # of filenames: an internal memorandum says so in its title block, and a
+        # personnel record carries "(Personnel Record)" in its DESIGNATION. Four
+        # files are exempted by these rules today, two of each kind.
+        if "INTERNAL MEMORANDUM" in text:
+            continue
+        desig = re.search(r"^DESIGNATION:\s*(.+)$", text, re.M)
+        if desig and "Personnel Record" in desig.group(1):
+            continue
+        r["LOG_PRIMARY_FILE_GAPS"] += 1
     r["LOG_MARKER_GAPS"] = 0
     _anom4 = ROOT / "A.C.T Universe Document/A.C.T Anomaly Document"
     for p in sorted(_anom4.rglob("*.txt")):

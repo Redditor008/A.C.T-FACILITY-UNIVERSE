@@ -7,6 +7,7 @@ The-Glass-Bridge-Protocol-Anny-MOGI-AT-Interaction-AFD-SU-714
 +-------------------------------------------------------------------------+
 
 DESIGNATION:         AFD-SU-714 (Primary) / AFD-SU-005 (Participant)
+PRIMARY FILE:        MOGI-AT-AFD-SU-714
 TITLE I:             MOGI-AT (Monster Girls-Artificial Friends)
 TITLE II:            THE GLASS BRIDGE PROTOCOL / THE TWO STORIES
 
