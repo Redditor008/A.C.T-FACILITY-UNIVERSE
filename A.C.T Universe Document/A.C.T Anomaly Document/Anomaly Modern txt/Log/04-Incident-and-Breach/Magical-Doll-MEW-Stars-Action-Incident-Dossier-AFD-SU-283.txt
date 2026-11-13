@@ -20,6 +20,7 @@ CLEARANCE REQUIRED:  Level 4 / Field Command
 INCLUDED LOG TYPES:
    - The Revolution Bomb
    - Field Consequence
+   - After-Action Report: Entry, outcome, and evidence limits
 
 CATEGORY PURPOSE:
 Logging of an unauthorized field manifestation: the revolution bomb and its
@@ -27,6 +28,16 @@ field consequence. Its use is to record an event that happened outside
 authorization and what it cost. It does not assess the subject's capability in
 general, since one manifestation is not a profile, and the consequence is
 recorded as observed rather than attributed.
+
++-----------------------------------------------------------------------------+
+                               DOSSIER SUMMARY
++-----------------------------------------------------------------------------+
+
+AFD-SU-283 entered Delta-4's public engagement without authorization.
+The Revolution Bomb neutralized the recorded target; nearby agents and
+civilians were exposed to healing light. The recorded benefit does not
+convert the intervention into an approved response method.
++-----------------------------------------------------------------------------+
 
                  SECTION 001 — THE REVOLUTION BOMB
 +-----------------------------------------------------------------------------+
@@ -75,9 +86,59 @@ control, consent procedure, contamination screening, or post-exposure baseline.
 Civil Covert personnel retained the public explanation as a confused animal
 attack, emergency-light reflection, and shock response among witnesses.
 
+SECTION 003 — AFTER-ACTION REPORT
++-----------------------------------------------------------------------------+
+
+LOG ID:              AFD-SU-283/INC-042-AAR
+LOG TYPE:            After-Action Report
+CATEGORY:            Incident & Breach Dossier
+RANGE:               14:22:15–14:22:27; recorded event sequence
+REVIEWING UNIT:      Field Command
+PRIMARY REVIEWER:    Not named in source record
+SECONDARY REVIEWER:  Not named in source record
+DATE:                Not recorded in source record
+
+SUMMARY:
+At 14:22:15 AFD-SU-283 appeared behind the lead agent. Mimi addressed the
+team three seconds later; Shu Shu interrupted. At 14:22:25 the subject threw
+the five-meter Revolution Bomb. It struck the target's central head at
+14:22:26, bypassing the reported 20% universal resistance and neutralizing
+the target. The record logs the healing light at 14:22:27.
+
+Delta-4 did not complete its planned containment maneuver before the
+immediate threat ended. The field-consequence account records closed minor
+wounds among exposed agents and civilians.
+
+ASSESSMENT:
+The event establishes an unauthorized arrival and a favorable immediate
+outcome in this scene. It does not identify which general trigger condition
+prompted the Narrative Jump. AFD-SU-283 — Magical Doll MEW Stars, Anomaly
+File lists social interaction, threat detection, and dialogue as triggers,
+but this incident does not isolate one.
+
+AFD-SU-283 — Magical Doll MEW Stars, Anomaly File gives a subject-bound
+30-meter effect radius; the incident contains no distance measurement
+for the scene. No range value is inferred here.
+
+The field-consequence entry states that the healing light has no approval as
+a medical asset. It also records no dosage control, consent procedure,
+contamination screening, or post-exposure baseline. A beneficial result is
+not a treatment protocol, and this report does not authorize repetition.
+
++-----------------------------------------------------------------------------+
 +-----------------------------------------------------------------------------+
                          DOSSIER CLOSING
 +-----------------------------------------------------------------------------+
+
+The record does not establish how the subject selected this scene,
+what prompted arrival, or whether a later medical review changed the
+exposure assessment. The observed entry is not a general deployment
+procedure.
+
+FUTURE ADDITIONS TO THIS DOSSIER SHOULD INCLUDE:
+   - any recorded account of the arrival trigger
+   - post-exposure findings, if a follow-up was recorded
+   - Field Command disposition of the unauthorized entry
 
 AFD-SU-283 is not to be encouraged to repeat the manifestation. Praise given to
 Mimi or Shu Shu after the event must distinguish civilian survival from

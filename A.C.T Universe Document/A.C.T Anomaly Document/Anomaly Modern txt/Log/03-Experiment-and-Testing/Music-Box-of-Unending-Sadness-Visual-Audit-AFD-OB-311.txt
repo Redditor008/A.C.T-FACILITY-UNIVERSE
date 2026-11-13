@@ -36,6 +36,7 @@ INCLUDED LOG TYPES:
    - Subject Descriptive Log: The "Fading to White" Event
    - Senior Researcher Aris Thorne: Clinical Observation
    - Dossier Closing Statement
+   - Exposure Log: Visual Threshold Cross-Check
 
 CATEGORY PURPOSE:
 Verification of the visual-fading threshold through the monochrome
@@ -43,6 +44,19 @@ trial, with an archivist's note. Its use is to fix the point at which
 observation of the object itself begins to fail. It does not cover long-
 term fading beyond the trial window, and the note records the limit
 without explaining it.
+
++----------------------------------------------------------------------+
+                           DOSSIER SUMMARY
++----------------------------------------------------------------------+
+
+Trial 311-E-14 records successive loss of color perception during
+playback, while the spectrum-analyzer check found the chart colors
+still physically present. AFD-OB-311 — Music Box of Unending
+Sadness, Anomaly File describes a general exposure threshold and
+recovery interval. The trial records a different recovery time and a
+song-end later than the stated maximum capacity; neither difference is
+explained in the record.
++----------------------------------------------------------------------+
 
 +----------------------------------------------------------------------+
                SECTION 001 — THE MONOCHROME TRIAL
@@ -91,9 +105,60 @@ The box forces the mind into a state of 'Nihilistic Sight.' If you are
 sad enough, the world simply stops being bright. It is a very
 polite, very patient form of destruction."
 
+SECTION 003 — VISUAL THRESHOLD CROSS-CHECK
++----------------------------------------------------------------------+
+
+LOG ID:              AFD-OB-311/EXP-CHK-001
+LOG TYPE:            Exposure Log
+CATEGORY:            Experiment & Testing Dossier
+RANGE:               Trial 311-E-14; AFD-OB-311 — Music Box of Unending
+                     Sadness, Anomaly File visual-fading limits
+REVIEWING UNIT:      Site-03 Archive Desk
+PRIMARY REVIEWER:    Not named in source record
+SECONDARY REVIEWER:  Not named in source record
+DATE:                2024-05-10
+SUBJECT:             E-Class E-311-14
+
+SUMMARY:
+This is a cross-check of the exposure already recorded above, not a
+new exposure. At 01:15 the subject described yellow as dirty white; at
+02:40 red and blue were indistinguishable from gray. At 03:50 the room
+was described as black and white. The song ended at 04:12, and the
+trial reports color perception returned after 32 minutes.
+
+AFD-OB-311 — Music Box of Unending Sadness, Anomaly File describes
+visual fading after more than four minutes within a five-meter radius,
+with resolution thirty minutes after playback stops. The dossier
+reports one subject and one recorded exposure window.
+
+ASSESSMENT:
+Two timing differences remain open: the procedure calls the playback
+maximum four minutes but logs its end at 04:12; the trial reports
+recovery after 32 minutes, while AFD-OB-311 — Music Box of Unending
+Sadness, Anomaly File gives 30 minutes as the general interval. The
+archive does not state whether the clocks, endpoints, or observations
+use different definitions. These values should remain distinct.
+
+The analyzer found the chart colors physically present during the
+test. That supports a perceptual change in the subject; it does not
+establish that the object altered the light or the charts. This single
+exposure does not establish a dose-response curve, long-term empathic
+residue, or a recovery interval for other subjects.
+
++----------------------------------------------------------------------+
 +----------------------------------------------------------------------+
                          DOSSIER CLOSING
 +----------------------------------------------------------------------+
+
+The present record cannot reconcile the stated playback capacity with
+the logged song-end time, or the trial recovery time with the general
+interval in AFD-OB-311 — Music Box of Unending Sadness, Anomaly File.
+It also contains no repeated-subject series or long-term follow-up.
+
+FUTURE ADDITIONS TO THIS DOSSIER SHOULD INCLUDE:
+   - playback and stop-time records for any later exposure
+   - visual checks at their recorded post-exposure intervals
+   - any later record of empathic residue after playback
 
 MANDATORY BRIEFING PHRASE:
                      "The music doesn't end when the lid closes."

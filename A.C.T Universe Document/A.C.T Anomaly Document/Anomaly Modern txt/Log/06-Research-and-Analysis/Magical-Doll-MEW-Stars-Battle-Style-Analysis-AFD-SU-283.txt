@@ -29,6 +29,7 @@ analyzes the mechanical impact of the synchronization between the Mimi
 INCLUDED LOG TYPES:
    - Verified Attack Registry
    - Charged Specials
+   - Analysis Report: Persona / Discharge Cross-Index
 
 CATEGORY PURPOSE:
 A tactical capability assessment held as an inventory: the verified
@@ -36,6 +37,19 @@ attack registry and the charged specials. Its use is to list what the
 subject has been seen to do. It does not rank and it does not predict,
 because a registry records use and not capability, and an attack never
 observed may still exist.
+
++----------------------------------------------------------------------+
+                           DOSSIER SUMMARY
++----------------------------------------------------------------------+
+
+AFD-SU-283's verified registry separates restorative output, explosive
+discharge, and one beam attributed to both personas. AFD-SU-283 —
+Magical Doll MEW Stars, Anomaly File describes Mimi and Shu Shu as a
+body-soul composite whose dominant personality changes the vessel's
+appearance and motion. The registry records observed attacks; AFD-SU-283
+— Magical Doll MEW Stars, Anomaly File also describes narrative
+materialization, so this inventory is not a complete combat model.
++----------------------------------------------------------------------+
 
                 SECTION 001 — VERIFIED ATTACK REGISTRY
 +----------------------------------------------------------------------+
@@ -87,9 +101,63 @@ LOG TYPE:            Charged Specials
    - Effect: A temporary 3x boost to all stats and a 45% reduction in
      physical clumsiness.
 
+SECTION 003 — PERSONA / DISCHARGE CROSS-INDEX
++----------------------------------------------------------------------+
+
+LOG ID:              AFD-SU-283/ANL-001
+LOG TYPE:            Analysis Report
+CATEGORY:            Research & Analysis Dossier
+RANGE:               Verified attack registry and charged specials
+REVIEWING UNIT:      Combat-Anomaly Review
+PRIMARY REVIEWER:    Not named in source record
+SECONDARY REVIEWER:  Not named in source record
+DATE:                Not recorded in source record
+
+SUMMARY:
+The registry attributes HEART BURST to Mimi; RAPID BOMBAA.., SHU SHU
+BOMB, and CATTY BOMB are attributed to Shu Shu. BURST SHAAAAW is
+assigned to both. MEW LIGHT BEAAAAAM selectively heals allies
+while damaging enemies, so the listed output does not divide into a
+simple healing persona and a simple attacking persona.
+
+MEWTASTICAL TRANSFORM is recorded as a temporary threefold increase to
+all statistics and a 45% reduction in physical clumsiness. The entry
+gives no measurement method or separate value for each statistic;
+those limits remain attached to the special as recorded.
+
+ASSESSMENT:
+AFD-SU-283 — Magical Doll MEW Stars, Anomaly File identifies Mimi as
+the body and Shu Shu as the soul, and states that neither functions
+fully alone. Persona attribution is useful for the registry, but it is
+not a complete mechanism for every discharge. AFD-SU-283 — Magical Doll
+MEW Stars, Anomaly File describes desynchronization as spinning
+or falling while the eye and outfit states flicker; no listed attack is
+tied to a measured failure during that state.
+
+AFD-SU-283 — Magical Doll MEW Stars, Anomaly File identifies the
+star-staff as the exit-aperture for all high-energy discharges. This
+registry names the staff for BURST SHAAAAW but does not repeat the
+aperture on every attack line.
+
+AFD-SU-283 — Magical Doll MEW Stars, Anomaly File describes narrative
+materialization, while this dossier lists verified attacks. No
+additional attack is inferred from that property alone. The present
+analysis is an index of recorded output, not a prediction of unobserved
+capability.
+
++----------------------------------------------------------------------+
 +----------------------------------------------------------------------+
                          DOSSIER CLOSING
 +----------------------------------------------------------------------+
+
+The registry cannot settle whether synchronization changes attack
+accuracy, range, or failure rate; no section here measures those
+outcomes.
+
+FUTURE ADDITIONS TO THIS DOSSIER SHOULD INCLUDE:
+   - persona state at each named attack, when observed
+   - star-staff use for listed attacks not tied to it
+   - measured attack range or failure outcomes, if recorded
 
 MANDATORY PERSONNEL NOTICE:
                      The "Mew Mew Girl" is not a
