@@ -1,10 +1,10 @@
 A.C.T FACILITY — COMMUNICATION & INTERNAL CORRESPONDENCE DOSSIER
 OBSERVING-BIRD-Internal-Correspondence-Dossier-AFD-CH-014
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |       A.C.T FACILITY — COMMUNICATION & INTERNAL CORRESPONDENCE DOSSIER       |
 |                      Anomaly Containment Transformation                      |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 DESIGNATION:         AFD-CH-014
 TITLE I:             OBSERVING BIRD
@@ -31,9 +31,9 @@ DOSSIER STATUS:      Closed — standing policy in force
 CORRESPONDENCE RANGE:1963-04-16 to 2019-05-02
 ORDERING METHOD:     Chronological, oldest to newest
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |                              CATEGORY CONTENTS                               |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 This dossier belongs to A.C.T Log Category X — Communication & Internal
 Correspondence Dossier. It records no anomaly behaviour; the primary file
@@ -63,9 +63,9 @@ and never fully resolved. Both sides are preserved because the reasoning on
 each is
 still load-bearing and will be needed again.
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |                               DOSSIER SUMMARY                                |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 AFD-CH-014 is a small bird-like cosmic unknown entity approximately 30 cm from
 beak
@@ -104,9 +104,9 @@ and the narrative status as internal only under a sealed cosmic hazard record.
                          things we should be worried
                          about.
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |                     SECTION 001 — CORRESPONDENCE LEDGER                      |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 LOG ID:              AFD-CH-014/COM-001
 LOG TYPE:            Internal Memo / Interdepartmental Warning
@@ -162,9 +162,9 @@ TEXT:                Request to open a utilization pathway on the theory that
                      proposal built on an assumption about an unreadable mark
                      is not a proposal. Denied without a trial.
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |               SECTION 002 — COMMAND NOTICE AND ARCHIVE DISPUTE               |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 LOG ID:              AFD-CH-014/COM-002
 LOG TYPE:            Command Notice / Archive Dispute
@@ -206,9 +206,9 @@ TEXT:                Archiver objects to the sealed status of the record,
                      because it is the reason later personnel find a short
                      notice and not the file behind it.
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |                     SECTION 003 — ETHICS COMMITTEE NOTE                      |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 LOG ID:              AFD-CH-014/COM-003
 LOG TYPE:            Ethics Committee Note
@@ -236,9 +236,9 @@ bird. It is the notepad.
                          what we can see. The animal
                          is not the constant.
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |                           SECTION 004 — ASSESSMENT                           |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 LOG ID:              AFD-CH-014/COM-004
 LOG TYPE:            Dossier Closing Statement
@@ -261,9 +261,9 @@ been
 observed to interfere. The only decision available was whether to insert A.C.T
 into that sequence, and command declined.
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |                               DOSSIER CLOSING                                |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 Six documents across fifty-six years. Two positions, one standing policy, one
 denied request, one resolved dispute, and one formal withdrawal. The policy

@@ -1,0 +1,376 @@
+# A.C.T FACILITY — TRANSFORMATION & UTILIZATION DOSSIER
+
+MACHINE-Heart-Transformation-Utilization-Dossier-AFD-OB-017
+
+## A.C.T FACILITY — TRANSFORMATION & UTILIZATION DOSSIER
+
+## Anomaly Containment Transformation
+
+DESIGNATION: AFD-OB-017
+TITLE I: MACHINE Heart
+TITLE II: THE GUARDIAN THAT MAKES ITS OWN TRESPASSERS
+
+FIELD TYPE: OB — Object / animated machine-golem / Heart-Signal activation artifact
+PRIMARY FILE: MACHINE-Heart-AFD-OB-017
+
+DOCUMENT CATEGORY: CATEGORY IX — Transformation & Utilization Dossier
+CATEGORY FUNCTION: Prohibited use notice, transformation viability review, rejected
+utilization proposals, ethical review, and contained-study
+progress for an object marked INVIOLABLE
+
+CLEARANCE REQUIRED: Level 4
+
+CONTAINMENT SITE: ACT-SITE-01-US-W — Redwood Veil Complex / vertical machine chamber
+ARCHIVE STATUS: Active / machinery-hazard restricted
+DOSSIER STATUS: Open — prohibition standing, proposals closed
+
+TRANSFORMATION: INVIOLABLE, as recorded in the primary file
+VIABILITY:
+REVIEW RANGE: 2002-03-14 to 2021-08-30
+ORDERING METHOD: Chronological by proposal, oldest to newest
+
+## CATEGORY CONTENTS
+
+This dossier belongs to A.C.T Log Category IX — Transformation & Utilization
+Dossier. The doctrine governing the category states that Transformation
+Dossiers
+must preserve failed attempts and rejected proposals, and that a rejected
+proposal
+often explains why later personnel must not repeat it. This dossier exists for
+that reason and records no successful transformation.
+
+INCLUDED LOG TYPES:
+- Prohibited Use Notice
+- Transformation Viability Review
+- Utilization Proposal
+- Failed Transformation Report
+- Ethical Review
+- Contained-Study Progress Log
+- Dossier Closing Statement
+
+CATEGORY PURPOSE:
+To record why AFD-OB-017 carries a transformation viability of INVIOLABLE and
+to
+preserve every proposal that has asked for that finding to be revisited. The
+object is inert, structurally impressive, and produces a powerful exclusion
+field,
+so it will keep attracting proposals. This dossier is the answer that has
+already
+been given, written down so it does not have to be derived again.
+
+This dossier is not authorization to introduce any Heart-Signal medium into
+the
+containment chamber, to approach the torso slot, or to conduct any activation
+trial at any clearance.
+
+## DOSSIER SUMMARY
+
+AFD-OB-017 is an 8 m tall metal golem-like machine of dark iron alloy, brass-
+coloured hydraulic structures, black ceramic plates, and unknown pressure
+systems.
+Its torso carries a vertical slot 18 cm wide and 31 cm long which
+rejects
+ordinary
+fuel, batteries, keys, tools, coins, and data storage devices. It accepts only
+a
+Heart-Signal: a red-gold heart-shaped energy imprint taken from a living
+subject.
+
+Without a Heart-Signal the object produces no heat, sound, exhaust, measurable
+electrical activity, or internal motion, and can be approached by most
+personnel.
+That inert state is the reason it looks like an engineering opportunity. It is
+not
+one, because the medium that ends the inert state is a person.
+
+Selection occurs through visual perception at up to 42 m by a method the
+primary
+file records as unknown. A chosen subject states the phrase
+
+The Machine need a Heart.
+
+and approaches. Within the 1 m activation zone the claw hand removes the
+subject's
+Heart-Signal and seals it in the slot. The object then enters Stage Two and
+holds a
+3 m radius exclusion zone in which it acts against any sentient heart
+signature
+without distinguishing staff, care personnel, rescuers, observers, or
+accidental
+entrants. The longest confirmed Stage Two activation ran 11 days, 6 hours, and
+14
+minutes.
+
+Every question about using
+this object is also a
+question about who is going
+to be handed to it.
+
+## SECTION 001 — PROHIBITED USE NOTICE
+
+LOG ID: AFD-OB-017/TRN-000
+LOG TYPE: Prohibited Use Notice
+CATEGORY: Transformation & Utilization Dossier
+ISSUING UNIT: Transformation Review Board / Anomalous Machinery Review
+STATUS: Standing, no expiry
+
+NOTICE:
+No Heart-Signal medium of any kind is to be introduced into the containment
+chamber. This includes biological subjects, excised tissue, synthetic
+analogues,
+recorded imprints, and any medium proposed as equivalent. The prohibition
+applies
+to testing, demonstration, calibration, maintenance verification, and study.
+
+SCOPE OF THE PROHIBITION:
+- no personnel entry to the 1 m activation zone under any circumstance
+- no direct visual exposure outside delayed feed, silhouette mapping, or
+non-continuous still review
+- no introduction of fuel, power, or activation media of any kind into the
+chamber
+- no attempt to seat, retrieve, examine, or replicate a Heart-Signal
+- no trial that requires a subject to perceive the object at any distance
+
+DEVELOPMENT NOTE:
+The prohibition does not rest on the hazard alone. A hazard can be engineered
+around. This one cannot, because the activation medium is not a material. It
+is a
+person who walks toward the object of their own accord while remaining aware
+and
+able to answer questions.
+
+## SECTION 002 — TRANSFORMATION VIABILITY REVIEW
+
+LOG ID: AFD-OB-017/TRN-001
+LOG TYPE: Transformation Viability Review
+CATEGORY: Transformation & Utilization Dossier
+REVIEWING UNIT: Transformation Review Board
+PRIMARY REVIEWER: Director Alina Reyes
+SECONDARY REVIEWER: Archivist Tomas Berger
+DATE: 2002-03-14
+
+REVIEW:
+The INVIOLABLE finding is recorded against three separate grounds. Any one of
+them is sufficient, and they are listed separately because proposals tend to
+address one at a time.
+
+GROUND ONE — MEDIUM IS A PERSON:
+The torso slot accepts only a Heart-Signal produced during the activation
+sequence. No synthetic substitute has been demonstrated, and the slot's
+rejection
+of ordinary fuel, batteries, keys, tools, coins, and data storage devices was
+established during intake. There is no pathway to activation that does not
+begin
+with a subject.
+
+GROUND TWO — ACTIVATION IS NOT REVERSIBLE ON DEMAND:
+Stage Two persists until the seated Heart-Signal fades, is separated by remote
+equipment, or becomes invalid as a core anchor. The longest confirmed
+activation
+ran 11 days, 6 hours, and 14 minutes. An asset that cannot be stood
+down
+within
+minutes is not an asset.
+
+GROUND THREE — THE FIELD DOES NOT DISCRIMINATE:
+The 3 m exclusion zone acts against any sentient heart signature. The primary
+file records that the object does not communicate, negotiate, retreat, or
+distinguish between security staff, care personnel, rescuers, observers,
+animals
+with complex cognition, or accidental entrants.
+
+CONCLUSION:
+Transformation viability remains INVIOLABLE. The finding is not a judgement
+about
+the object's engineering. It is a judgement about the cost of switching it on.
+
+## SECTION 003 — REJECTED PROPOSAL LEDGER
+
+LOG ID: AFD-OB-017/TRN-002
+LOG TYPE: Utilization Proposal / Failed Transformation Report
+CATEGORY: Transformation & Utilization Dossier
+RANGE: 2004 to 2021, five proposals
+ORDERING: Chronological
+
+SUMMARY:
+Five proposals were raised against this object across nineteen years. All five
+were closed against the INVIOLABLE finding. None was closed because it was
+judged
+uninteresting, and the reasoning in each case is preserved because the ideas
+will
+return.
+
+PROPOSAL ID: AFD-OB-017/PROP-001
+DATE: 2004-11-02
+ORIGINATING UNIT: Object Containment Division
+PROPOSED USE: Manufacture a synthetic Heart-Signal analogue so the
+object could be activated without a human subject.
+REASONING: Two failures. The slot accepts only a Heart-Signal
+produced during the activation sequence, which is to say
+produced from a person, and no synthetic substitute has
+been demonstrated. The proposal also assumed the
+compulsion phrase could be separated from the subject who
+speaks it, and the selection method is recorded as
+unknown. Neither assumption survived review.
+DISPOSITION: Rejected — no trial authorized
+PROPOSAL ID: AFD-OB-017/PROP-002
+DATE: 2009-06-27
+ORIGINATING UNIT: Containment Engineering
+PROPOSED USE: Redirect the Stage Two exclusion field outward and deploy
+it as a perimeter denial asset.
+REASONING: The field acts against any sentient heart signature and
+the object does not distinguish a guard from an intruder.
+A perimeter asset that cannot tell them apart is not a
+perimeter asset. The proposal also had no answer for the
+activation duration: at 11 days, 6 hours, and 14 minutes
+confirmed, a fielded unit could not be stood down on
+demand.
+DISPOSITION: Rejected — no trial authorized
+PROPOSAL ID: AFD-OB-017/PROP-003
+DATE: 2015-02-19
+ORIGINATING UNIT: Medical Division
+PROPOSED USE: Study the post-activation rest-state as a reversible
+sedation pathway.
+REASONING: Subjects have awakened after 24 to 96 hours under
+controlled care and have reported feeling hollow, quiet,
+or watched from inside a machine for several days
+afterward. The primary file records the rest-state as
+deep but stable, which is not the same as harmless. A
+sedation pathway whose recovery is measured in days and
+whose aftereffect is a persistent sense of being
+inhabited is not a sedation pathway. Medical requested
+that the proposal not be reopened at a lower clearance.
+DISPOSITION: Rejected — closure requested at all clearances
+PROPOSAL ID: AFD-OB-017/PROP-004
+DATE: 2018-09-05
+ORIGINATING UNIT: Materials Assessment
+PROPOSED USE: Sample the inert frame as a structural material source,
+on the grounds that an unpowered machine cannot act.
+REASONING: The premise is true and irrelevant. The object produces
+no heat, sound, exhaust, or measurable electrical
+activity while the slot is empty, which makes it appear
+inert, but selection occurs at up to 42 m through visual
+perception alone. Sampling the frame requires putting
+personnel in line of sight of an object that chooses
+people by looking at them. Closed without a physical
+trial.
+DISPOSITION: Rejected — line-of-sight exposure unacceptable
+PROPOSAL ID: AFD-OB-017/PROP-005
+DATE: 2021-08-30
+ORIGINATING UNIT: Archiver Division
+PROPOSED USE: Re-examine the INVIOLABLE finding on the twentieth
+anniversary of verification, given advances in remote
+manipulation.
+REASONING: Closed without reopening. The finding does not rest on a
+limitation of remote equipment. It rests on the fact that
+the activation medium is a person, which no improvement
+in remote handling changes. The question was answered by
+reference to the primary file rather than by a new
+review, and the answer was recorded here so that the next
+officer asking it finds the reasoning already written
+down.
+DISPOSITION: Closed — no action, reasoning recorded
+
+## SECTION 004 — ETHICAL REVIEW
+
+LOG ID: AFD-OB-017/TRN-003
+LOG TYPE: Ethical Review
+CATEGORY: Transformation & Utilization Dossier
+REVIEWING UNIT: Transformation Review Board / Medical Division
+REVIEWER: Director Alina Reyes
+DATE: 2021-09-12
+
+REVIEW:
+Every proposal in the ledger above asked a reasonable question. The frame is
+inert without a Heart-Signal. The field is powerful. The rest-state is
+reversible.
+Taken one at a time, each of those facts looks like an opportunity, and
+that
+is
+why the proposals kept arriving across nineteen years.
+
+FINDING:
+They all fail at the same place. The object does not run on anything
+that is
+not
+a person, and once switched on it will not stop defending the person it
+took.
+The
+primary file records that it defends the seated Heart-Signal rather than
+itself,
+positioning frame, claw, and hammer to prevent access to the slot. A.C.T would
+be
+fielding an object whose first act is to take someone and whose second act
+is
+to
+make sure nobody can get them back.
+
+RECOVERED SUBJECT AFTEREFFECTS:
+- deep but stable rest-state, awakening confirmed between 24 and 96 hours
+under controlled care
+- reported feeling hollow for several days after waking
+- reported feeling quiet for several days after waking
+- reported feeling watched from inside a machine for several days after
+waking
+- no tissue damage or neurological injury recorded, which is not the same
+as no effect
+
+The object is not cruel. It
+does not know what it took.
+That is worse for the
+argument, not better.
+
+## SECTION 005 — CONTAINED-STUDY PROGRESS LOG
+
+LOG ID: AFD-OB-017/TRN-004
+LOG TYPE: Contained-Study Progress Log
+CATEGORY: Transformation & Utilization Dossier
+RANGE: 2001 to 2021
+REVIEWING UNIT: Anomalous Machinery Review
+REVIEWER: Archivist Tomas Berger
+
+SUMMARY:
+Study has proceeded entirely in the inert state and entirely at distance. No
+activation has been performed and none is proposed. The record below is what
+two
+decades of inert-state observation have established.
+
+ESTABLISHED:
+- inert state produces no heat, sound, exhaust, measurable electrical
+activity, or internal motion
+- the object can be approached by most personnel in the inert state, though
+close-range contact remains prohibited
+- the head carries three inactive circular recesses whose function has not
+been determined
+- the legs are dual-jointed in an avian or reverse-knee configuration,
+giving a forward-leaning posture when active
+- selection range is confirmed to 42 m and the selection method remains
+unknown
+
+NOT ESTABLISHED:
+- what the three cranial recesses are for
+- why one perceiving subject is chosen rather than another
+- whether a seated Heart-Signal can be recovered intact
+- whether the object retains anything of a subject after the signal fades
+
+## DOSSIER CLOSING
+
+The correct transformation of AFD-OB-017 is the one already performed. It was
+recovered from an abandoned hydroelectric service cavern in Asturias under
+Operation Empty Slot Retrieval, its slot was left empty, and it was left that
+way.
+Five civilian exposures occurred before containment, two of them severe, and
+amnestics were deployed. Nothing since has changed the assessment.
+
+FUTURE ADDITIONS TO THIS DOSSIER SHOULD INCLUDE:
+- any new proposal, recorded here with its reasoning whether or not it is
+approved
+- inert-state structural study that does not require line-of-sight exposure
+- further work on the three cranial recesses, if a non-visual method
+becomes available
+- review of the selection mechanism, which no proposal has yet addressed
+directly
+
+CURRENT DOSSIER STATUS: Open / Prohibition Standing / Five Proposals Closed
+
+END OF DOSSIER

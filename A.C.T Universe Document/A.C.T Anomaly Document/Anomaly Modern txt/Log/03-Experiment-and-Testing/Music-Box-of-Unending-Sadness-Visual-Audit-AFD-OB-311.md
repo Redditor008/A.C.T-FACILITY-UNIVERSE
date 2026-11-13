@@ -1,0 +1,155 @@
+# A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
+
+Music-Box-of-Unending-Sadness-Visual-Audit-AFD-OB-311
+
+## A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
+
+Anomaly Containment Transformation
+
+DESIGNATION: AFD-OB-311
+TITLE I: Music Box of Unending Sadness
+TITLE II: THE PALE LULLABY
+
+FIELD TYPE: OB — Object
+PRIMARY FILE: Music-Box-of-Unending-Sadness-AFD-OB-311
+
+DOCUMENT CATEGORY: CATEGORY III — Experiment & Testing Dossier
+CATEGORY FUNCTION: Visual-fading threshold verification and long-term
+empathic-residue mapping using E-Class subjects.
+
+CLEARANCE REQUIRED: Level 3 / Site-03 Archive Desk
+
+CONTAINMENT SITE: ACT-SITE-03-JP-E — Kurokawa Archive Node
+ARCHIVE STATUS: Active / Memetic Empathic
+DOSSIER STATUS: Open / Visual Threshold Logged
+
+## CATEGORY CONTENTS
+
+This dossier contains the results of Trial 311-E-14, which aimed to
+measure the rate of "Visual Fading" (the loss of color perception) in
+relation to the subject's playback duration.
+
+INCLUDED LOG TYPES:
+- Trial 311-E-14: The Monochrome Threshold
+- Subject Descriptive Log: The "Fading to White" Event
+- Senior Researcher Aris Thorne: Clinical Observation
+- Dossier Closing Statement
+- Exposure Log: Visual Threshold Cross-Check
+
+CATEGORY PURPOSE:
+Verification of the visual-fading threshold through the monochrome
+trial, with an archivist's note. Its use is to fix the point at which
+observation of the object itself begins to fail. It does not cover long-
+term fading beyond the trial window, and the note records the limit
+without explaining it.
+
+## DOSSIER SUMMARY
+
+Trial 311-E-14 records successive loss of color perception during
+playback, while the spectrum-analyzer check found the chart colors
+still physically present. AFD-OB-311 — Music Box of Unending
+Sadness, Anomaly File describes a general exposure threshold and
+recovery interval. The trial records a different recovery time and a
+song-end later than the stated maximum capacity; neither difference is
+explained in the record.
+
+## SECTION 001 — THE MONOCHROME TRIAL
+
+LOG ID: AFD-OB-311/TST-E14
+LOG TYPE: The Monochrome Trial
+DATE: 2024-05-10
+SUBJECT: E-Class E-311-14 (PR Score: 61)
+
+PROCEDURE:
+Subject was seated in a room containing a spectrum of high-contrast
+color charts. AFD-OB-311 was wound to its maximum capacity (4 min
+playback). Subject was instructed to describe the colors as the song
+progressed.
+
+OBSERVATIONS:
+[T+00:30] — Song Start. Subject reports a "heavy chill" in the chest.
+[T+01:15] — FIRST FADE: Subject reports that the "Yellow" chart has
+become a "dirty white."
+[T+02:40] — CHORUS: Subject states that the "Red" and "Blue" charts
+are indistinguishable from gray.
+[T+03:50] — TERMINAL FADE: Subject reports the entire room is now
+"only black and white, like an old movie." Subject is
+visibly weeping, matching the posture of the box's figurine.
+[T+04:12] — SONG END: Subject remains motionless for 18 minutes.
+
+RESULT:
+Color perception returned to the subject after 32 minutes. The
+desaturation is a temporary optical hijack caused by the creator's
+recorded grief.
+
+## SECTION 002 — ARCHIVIST'S NOTE
+
+LOG ID: AFD-OB-311/THORNE-02
+LOG TYPE: Archivist's Note
+AUTHOR: Aris Thorne (SR-412)
+
+"I checked the spectrum-analyzer after the test. The colors were
+still physically there on the wall. The anomaly didn't change the
+light-waves; it changed the subject's right to see them.
+
+The box forces the mind into a state of 'Nihilistic Sight.' If you are
+sad enough, the world simply stops being bright. It is a very
+polite, very patient form of destruction."
+
+SECTION 003 — VISUAL THRESHOLD CROSS-CHECK
+
+LOG ID: AFD-OB-311/EXP-CHK-001
+LOG TYPE: Exposure Log
+CATEGORY: Experiment & Testing Dossier
+RANGE: Trial 311-E-14; AFD-OB-311 — Music Box of Unending
+Sadness, Anomaly File visual-fading limits
+REVIEWING UNIT: Not recorded
+PRIMARY REVIEWER: Not listed
+SECONDARY REVIEWER: Not listed
+DATE: Not recorded
+SUBJECT: E-Class E-311-14
+
+SUMMARY:
+This is a cross-check of the exposure already recorded above, not a
+new exposure. At 01:15 the subject described yellow as dirty white; at
+02:40 red and blue were indistinguishable from gray. At 03:50 the room
+was described as black and white. The song ended at 04:12, and the
+trial reports color perception returned after 32 minutes.
+
+AFD-OB-311 — Music Box of Unending Sadness, Anomaly File describes
+visual fading after more than four minutes within a five-meter radius,
+with resolution thirty minutes after playback stops. The dossier
+reports one subject and one recorded exposure window.
+
+ASSESSMENT:
+Two timing differences remain open: the procedure calls the playback
+maximum four minutes but logs its end at 04:12; the trial reports
+recovery after 32 minutes, while AFD-OB-311 — Music Box of Unending
+Sadness, Anomaly File gives 30 minutes as the general interval. The
+archive does not state whether the clocks, endpoints, or observations
+use different definitions. These values should remain distinct.
+
+The analyzer found the chart colors physically present during the
+test. That supports a perceptual change in the subject; it does not
+establish that the object altered the light or the charts. This single
+exposure does not establish a dose-response curve, long-term empathic
+residue, or a recovery interval for other subjects.
+
+## DOSSIER CLOSING
+
+The present record cannot reconcile the stated playback capacity with
+the logged song-end time, or the trial recovery time with the general
+interval in AFD-OB-311 — Music Box of Unending Sadness, Anomaly File.
+It also contains no repeated-subject series or long-term follow-up.
+
+FUTURE ADDITIONS TO THIS DOSSIER SHOULD INCLUDE:
+- playback and stop-time records for any later exposure
+- visual checks at their recorded post-exposure intervals
+- any later record of empathic residue after playback
+
+MANDATORY BRIEFING PHRASE:
+"The music doesn't end when the lid closes."
+
+CURRENT DOSSIER STATUS: Open / Ongoing Empathic Audit
+
+END OF DOSSIER

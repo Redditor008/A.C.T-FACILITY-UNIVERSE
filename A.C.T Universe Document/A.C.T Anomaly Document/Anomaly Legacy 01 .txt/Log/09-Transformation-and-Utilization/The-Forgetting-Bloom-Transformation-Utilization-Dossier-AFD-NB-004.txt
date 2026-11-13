@@ -1,10 +1,10 @@
 A.C.T FACILITY — TRANSFORMATION & UTILIZATION DOSSIER
 The-Forgetting-Bloom-Transformation-Utilization-Dossier-AFD-NB-004
 
-+----------------------------------------------------------------------------+
++============================================================================+
          A.C.T FACILITY — TRANSFORMATION & UTILIZATION DOSSIER
                      Anomaly Containment Transformation
-+----------------------------------------------------------------------------+
++============================================================================+
 
 DESIGNATION:         AFD-NB-004 (verified archive designation)
 TITLE I:             The Forgetting Bloom
@@ -25,9 +25,9 @@ JURISDICTIONAL AUTHORITY:  Primary Facility Science and Medical Command
 ARCHIVE STATUS:      Active / Integrated Asset
 DOSSIER STATUS:      Open — integrated derivative review
 
-+----------------------------------------------------------------------------+
++============================================================================+
                            CATEGORY CONTENTS
-+----------------------------------------------------------------------------+
++============================================================================+
 
 This dossier belongs to A.C.T Log Category IX — Transformation & Utilization
 Dossier. AFD-NB-004 is the 3 meter tall giant pale white-blue flowering plant
@@ -53,9 +53,9 @@ To document how a memory-erasing organism became the foundation of modern
 A.C.T amnestic medicine — the transformation history of the Facility's most
 strategically important integrated biological asset.
 
-+----------------------------------------------------------------------------+
++============================================================================+
          SECTION 001 — CULTIVATION AND BLOOM-CYCLE OBSERVATION
-+----------------------------------------------------------------------------+
++============================================================================+
 
 LOG ID:              AFD-NB-004/TRF-001
 LOG TYPE:            Cultivation and Bloom-cycle Observation
@@ -87,9 +87,9 @@ CULTIVATION RULES:
      containment vials
    - No unsanctioned derivative testing outside approved facilities
 
-+----------------------------------------------------------------------------+
++============================================================================+
             SECTION 002 — SAP-EXPOSURE AND INCIDENT RECORD
-+----------------------------------------------------------------------------+
++============================================================================+
 
 LOG ID:              AFD-NB-004/TRF-002
 LOG TYPE:            Sap-exposure and Incident Record
@@ -117,9 +117,9 @@ INCIDENT LOG SUMMARY:
    - Casualties and amnestic administrations: [ RESTRICTED ]
    - E-Class assigned: Yes — controlled dosage testing history
 
-+----------------------------------------------------------------------------+
++============================================================================+
   SECTION 003 — DERIVATIVE REFINEMENT — AMNESTIC COMPOUND PRODUCTION
-+----------------------------------------------------------------------------+
++============================================================================+
 
 LOG ID:              AFD-NB-004/TRF-003
 LOG TYPE:            Derivative Refinement — Amnestic Compound Production
@@ -139,9 +139,9 @@ CURRENT VIABILITY: INTEGRATED. Result of most recent attempt: stable
 derivative use. Without AFD-NB-004, mass witness sanitation would be
 significantly less reliable.
 
-+----------------------------------------------------------------------------+
++============================================================================+
   SECTION 004 — INTAKE-TYPE CLARIFICATION — UFD-NB-004 AND AFD-NB-004
-+----------------------------------------------------------------------------+
++============================================================================+
 
 LOG ID:              AFD-NB-004/TRF-004
 LOG TYPE:            Intake-type Clarification — Ufd-nb-004 and Afd-nb-004
@@ -172,9 +172,9 @@ in favor of the other. Where the two records differ in detail, the difference
 is intake history, not error. UFD-NB-004 remains sealed historical intake;
 AFD-NB-004 remains the active record of record.
 
-+----------------------------------------------------------------------------+
++============================================================================+
             SECTION 005 — MEMORY-AS-STRUCTURE THEORY REVIEW
-+----------------------------------------------------------------------------+
++============================================================================+
 
 LOG ID:              AFD-NB-004/TRF-005
 LOG TYPE:            Memory-as-structure Theory Review
@@ -195,9 +195,9 @@ REVIEW NOTE: The harvest theory, if confirmed, would recast every amnestic
 administration A.C.T has ever performed — not as deletion, but as harvest.
 This remains under restricted theoretical review.
 
-+----------------------------------------------------------------------------+
++============================================================================+
               SECTION 006 — CLOSING UTILIZATION STATEMENT
-+----------------------------------------------------------------------------+
++============================================================================+
 
 LOG ID:              AFD-NB-004/TRF-CLS-001
 LOG TYPE:            Closing Utilization Statement
@@ -216,9 +216,9 @@ file as the incidents.
 
 END OF FILE
 
-+----------------------------------------------------------------------------+
++============================================================================+
 |                              DOSSIER CLOSING                               |
-+----------------------------------------------------------------------------+
++============================================================================+
 
 This dossier carries the cultivation and bloom-cycle observation, the sap-
 exposure and incident record, the derivative refinement that produces the

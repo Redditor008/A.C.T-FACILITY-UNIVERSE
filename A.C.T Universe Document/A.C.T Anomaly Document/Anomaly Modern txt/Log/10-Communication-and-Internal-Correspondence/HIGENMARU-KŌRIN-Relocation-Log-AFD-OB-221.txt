@@ -1,10 +1,10 @@
 A.C.T FACILITY — COMMUNICATION & INTERNAL CORRESPONDENCE DOSSIER
 HIGENMARU-KŌRIN-Relocation-Strategic-Dossier-AFD-OB-221
 
-+-------------------------------------------------------------------------------+
++===============================================================================+
         A.C.T FACILITY — COMMUNICATION & INTERNAL CORRESPONDENCE
                      Anomaly Containment Transformation
-+-------------------------------------------------------------------------------+
++===============================================================================+
 
 DESIGNATION:         AFD-OB-221
 TITLE I:             HIGENMARU-KŌRIN
@@ -21,9 +21,9 @@ CONTAINMENT SITE:    Site-Sub-[REDACTED]-C-Temple (Kazumi Temple)
 ARCHIVE STATUS:      Active / Relocated
 DOSSIER STATUS:      Open / Strategic Alignment Verified
 
-+-------------------------------------------------------------------------------+
++===============================================================================+
                          CATEGORY CONTENTS
-+-------------------------------------------------------------------------------+
++===============================================================================+
 
 This dossier provides the institutional reasoning for the removal of
 AFD-OB-221 from standard artifact vaulting at Site-01 and its
@@ -42,9 +42,9 @@ archivist's final note. Its use is to record the institutional reasoning for
 moving an anomaly rather than holding it in place. It does not authorize further
 relocations, and the final note is an archivist's reading rather than a ruling.
 
-+-------------------------------------------------------------------------------+
++===============================================================================+
                     SECTION 001 — THE RESONANCE LEAK
-+-------------------------------------------------------------------------------+
++===============================================================================+
 
 LOG ID:              AFD-OB-221/COR-01
 LOG TYPE:            The Resonance Leak
@@ -62,9 +62,9 @@ an immediate resonance scan. The blade isn't just hungry; it is
 searching for a pulse it recognizes. Storing it in a room full of
 standard humans is like keeping a wolf in a nursery.
 
-+-------------------------------------------------------------------------------+
++===============================================================================+
                 SECTION 002 — THE "TEMPLE" ALTERNATIVE
-+-------------------------------------------------------------------------------+
++===============================================================================+
 
 LOG ID:              AFD-OB-221/REL-01
 LOG TYPE:            The "temple" Alternative
@@ -86,9 +86,9 @@ predatory frequency.
 KAZUMI has agreed to act as the "Living Anchor" for the blade, provided
 the Facility respects the boundaries of her threshold.
 
-+-------------------------------------------------------------------------------+
++===============================================================================+
                  SECTION 003 — THE PLACEMENT PROTOCOL
-+-------------------------------------------------------------------------------+
++===============================================================================+
 
 LOG ID:              AFD-OB-221/PLC-01
 LOG TYPE:            The Placement Protocol
@@ -110,9 +110,9 @@ REASONING:
    for "Dignity." The sword is no longer "Paperwork" in a box; it is
    a "Sovereign Asset" in a place of honor.
 
-+-------------------------------------------------------------------------------+
++===============================================================================+
                  SECTION 004 — ARCHIVIST'S FINAL NOTE
-+-------------------------------------------------------------------------------+
++===============================================================================+
 
 LOG ID:              AFD-OB-221/THORNE-FIN
 LOG TYPE:            Archivist's Final Note
@@ -131,9 +131,9 @@ is
 merely a 'Guest.' Maintain the silence. Do not send anyone to that
 Temple who doesn't know how to bow."
 
-+-------------------------------------------------------------------------------+
++===============================================================================+
                          DOSSIER CLOSING
-+-------------------------------------------------------------------------------+
++===============================================================================+
 
 MANDATORY PERSONNEL NOTICE:
                      Access to the Kazumi Temple is restricted.

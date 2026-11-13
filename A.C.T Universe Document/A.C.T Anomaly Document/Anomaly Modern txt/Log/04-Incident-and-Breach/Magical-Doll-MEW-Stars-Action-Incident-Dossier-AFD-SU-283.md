@@ -1,0 +1,138 @@
+# A.C.T FACILITY — INCIDENT & BREACH DOSSIER
+
+Magical-Doll-MEW-Stars-Action-Incident-Dossier-AFD-SU-283
+
+## A.C.T FACILITY — INCIDENT & BREACH DOSSIER
+
+Anomaly Containment Transformation
+
+DESIGNATION: AFD-SU-283
+TITLE I: Magical Doll MEW Stars
+PRIMARY FILE: Magical-Doll-MEW-Stars-AFD-SU-283
+
+DOCUMENT CATEGORY: CATEGORY IV — Incident & Breach Dossier
+CATEGORY FUNCTION: Unauthorized field manifestation logging; Analysis
+of offensive/beneficial energy discharge.
+
+CLEARANCE REQUIRED: Level 4 / Field Command
+
+INCLUDED LOG TYPES:
+- The Revolution Bomb
+- Field Consequence
+- After-Action Report: Entry, outcome, and evidence limits
+
+CATEGORY PURPOSE:
+Logging of an unauthorized field manifestation: the revolution bomb and its
+field consequence. Its use is to record an event that happened outside
+authorization and what it cost. It does not assess the subject's capability in
+general, since one manifestation is not a profile, and the consequence is
+recorded as observed rather than attributed.
+
+## DOSSIER SUMMARY
+
+AFD-SU-283 manifested during Recovery Team Delta-4's engagement.
+The intervention was unauthorized; the Revolution Bomb neutralized the
+recorded target, and nearby agents and civilians were exposed to Pretty
+Revolution light. A favorable result did not approve the method.
+
+## SECTION 001 — THE REVOLUTION BOMB
+
+LOG ID: AFD-SU-283/INC-042
+LOG TYPE: The Revolution Bomb
+LOCATION: Public riverfront / [ REDACTED ], Florida, USA.
+TARGET ANOMALY: UFD-NB-990 (5-meter, 3-Headed Crocodilian)
+
+EVENT CONTEXT:
+A.C.T. Recovery Team Delta-4 was engaged with a 5-meter, 3-headed
+crocodile possessing 20% universal resistance. AFD-SU-283 performed an
+unauthorized "Narrative Jump" to the scene.
+
+[14:22:15] — MANIFESTATION: Subject appears behind the lead Agent.
+[14:22:18] — AUDIO (MIMI): "Don't fear, brave protagonists!"
+[14:22:19] — AUDIO (SHU SHU): "—SHUT UP! I'M TAKING THE SHOT!"
+
+[14:22:25] — THE ATTACK: Subject hurls a 5-meter "Revolution Bomb."
+[14:22:26] — IMPACT: The bomb strikes the central head. The target's
+20% resistance was bypassed entirely, leading to
+immediate neutralization.
+[14:22:27] — BENEFICIAL SIDE-EFFECT: Nearby agents and civilians were
+exposed to pink "Pretty Revolution" light. Lacerations
+closed in 0.4 seconds.
+
+## SECTION 002 — FIELD CONSEQUENCE
+
+LOG TYPE: Field Consequence
+The unauthorized manifestation ended the immediate threat before Recovery
+Team Delta-4 could complete the planned containment maneuver. Field Command
+therefore records the action as beneficial in outcome and unacceptable in
+method. AFD-SU-283 demonstrated the ability to enter an active public recovery
+scene without standard transport, escort, clearance, or tactical authorization.
+The event proves that the subject's narrative mobility can bypass ordinary
+site-to-field movement controls when the subject identifies a scene as needing
+heroic intervention.
+
+Medical review confirmed that the Pretty Revolution light closed minor wounds
+on exposed civilians and agents, but no approval has been issued to treat the
+light as a field medical asset. The healing effect occurred without dosage
+control, consent procedure, contamination screening, or post-exposure baseline.
+Civil Covert personnel retained the public explanation as a confused animal
+attack, emergency-light reflection, and shock response among witnesses.
+
+SECTION 003 — AFTER-ACTION REPORT
+
+LOG ID: AFD-SU-283/INC-042-AAR
+LOG TYPE: After-Action Report
+CATEGORY: Incident & Breach Dossier
+RANGE: 14:22:15–14:22:27; recorded event sequence
+REVIEWING UNIT: Field Command
+PRIMARY REVIEWER: Not listed
+SECONDARY REVIEWER: Not listed
+DATE: Not recorded
+
+SUMMARY:
+At 14:22:15 AFD-SU-283 appeared behind the lead agent. Mimi addressed the
+team three seconds later; Shu Shu interrupted. At 14:22:25 the subject threw
+the five-meter Revolution Bomb. It struck the target's central head at
+14:22:26, bypassing the reported 20% universal resistance and neutralizing
+the target. The record logs the healing light at 14:22:27.
+
+Delta-4 did not complete its planned containment maneuver before the
+immediate threat ended. The field-consequence account records closed minor
+wounds among exposed agents and civilians.
+
+ASSESSMENT:
+The event establishes an unauthorized arrival and a favorable immediate
+outcome in this scene. It does not identify which general trigger condition
+prompted the Narrative Jump. AFD-SU-283 — Magical Doll MEW Stars, Anomaly
+File lists social interaction, threat detection, and dialogue as triggers,
+but this incident does not isolate one.
+
+AFD-SU-283 — Magical Doll MEW Stars, Anomaly File gives a subject-bound
+30-meter effect radius; the incident contains no distance measurement
+for the scene. No range value is inferred here.
+
+The field-consequence entry states that the healing light has no approval as
+a medical asset. It also records no dosage control, consent procedure,
+contamination screening, or post-exposure baseline. A beneficial result is
+not a treatment protocol, and this report does not authorize repetition.
+
+## DOSSIER CLOSING
+
+The record does not establish how the subject selected this scene,
+what prompted arrival, or whether a later medical review changed the
+exposure assessment. The observed entry is not a general deployment
+procedure.
+
+FUTURE ADDITIONS TO THIS DOSSIER SHOULD INCLUDE:
+- any recorded account of the arrival trigger
+- post-exposure findings, if a follow-up was recorded
+- Field Command disposition of the unauthorized entry
+
+AFD-SU-283 is not to be encouraged to repeat the manifestation. Praise given to
+Mimi or Shu Shu after the event must distinguish civilian survival from
+procedural approval. The phrase "brave protagonists" is to be monitored in
+future interviews, as the subject may use it to assign heroic roles to A.C.T
+personnel, civilians, or hostile entities before those parties understand they
+have entered the subject's narrative frame.
+
+END OF DOSSIER

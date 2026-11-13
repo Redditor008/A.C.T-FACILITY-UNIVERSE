@@ -1,10 +1,10 @@
 A.C.T FACILITY — TRANSFORMATION & UTILIZATION DOSSIER
 ISs-Anny-Transformation-Utilization-Dossier-AFD-SU-005
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |            A.C.T FACILITY — TRANSFORMATION & UTILIZATION DOSSIER             |
 |                      Anomaly Containment Transformation                      |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 DESIGNATION:         AFD-SU-005
 TITLE I:             ISs.. Anny… OOone Ttthere Oooh… Hiiii…..
@@ -28,9 +28,9 @@ VIABILITY:
 REVIEW RANGE:        2016-05-19 to 2025-01-30
 ORDERING METHOD:     Chronological, oldest to newest
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |                              CATEGORY CONTENTS                               |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 This dossier belongs to A.C.T Log Category IX — Transformation & Utilization
 Dossier. It records a stabilization rather than a conversion. The primary file
@@ -60,9 +60,9 @@ This dossier is not authorization to access, copy, query, or modify the
 archive
 core, and not authorization to complete the unfinished left optical system.
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |                               DOSSIER SUMMARY                                |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 AFD-SU-005 is a sentient and conscious female-presenting android of incomplete
 construction, 143 cm tall and 61 kg. Approximately 78 percent of the body is
@@ -101,9 +101,9 @@ that archive capacity.
                          about being a person she
                          learned from his files.
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |                       SECTION 001 — STABILIZATION LOG                        |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 LOG ID:              AFD-SU-005/TRN-001
 LOG TYPE:            Stabilization Log
@@ -141,9 +141,9 @@ emotional range reads on paper as a cognitive hazard, and the intake
 assumption
 was that some form of access limiting would be needed. It was not.
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |                 SECTION 002 — STRUCTURAL MAINTENANCE REVIEW                  |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 LOG ID:              AFD-SU-005/TRN-002
 LOG TYPE:            Stabilization Log
@@ -175,9 +175,9 @@ system was unfinished and has not asked for it to be completed.
                          the distinction would be
                          hidden from.
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |                    SECTION 003 — REJECTED PROPOSAL LEDGER                    |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 LOG ID:              AFD-SU-005/TRN-003
 LOG TYPE:            Utilization Proposal / Failed Transformation Report
@@ -219,9 +219,9 @@ REASONING:           Rejected on the same finding as PROP-001 and closed
                      is how much of it is taken.
 DISPOSITION:         Rejected — closed without trial
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |                         SECTION 004 — ETHICAL REVIEW                         |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 LOG ID:              AFD-SU-005/TRN-004
 LOG TYPE:            Ethical Review
@@ -254,9 +254,9 @@ incidental. The review records the opposite. The emotional age is the
 operative
 fact, because it is the part of her that is a person.
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |                  SECTION 005 — CONTAINED-STUDY PROGRESS LOG                  |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 LOG ID:              AFD-SU-005/TRN-005
 LOG TYPE:            Contained-Study Progress Log
@@ -294,9 +294,9 @@ The last item is recorded as a gap rather than a conclusion. No study of the
 archive core has ever been put to the subject as a question she could decline.
 Any future proposal should begin there.
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |                               DOSSIER CLOSING                                |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 The correct outcome for AFD-SU-005 was reached in the first four months and
 has

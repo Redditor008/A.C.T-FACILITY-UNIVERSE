@@ -1,10 +1,10 @@
 A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
 Gems-of-Change-E-Class-Transmutation-Dossier-AFD-OB-612
 
-+---------------------------------------------------------------------------+
++===========================================================================+
               A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
                      Anomaly Containment Transformation
-+---------------------------------------------------------------------------+
++===========================================================================+
 
 DESIGNATION:         AFD-OB-612
 TITLE I:             Gems of Change
@@ -23,9 +23,9 @@ CONTAINMENT SITE:    ACT-SITE-01-US-W — Redwood Veil Complex
 ARCHIVE STATUS:      Active / Transmutation Data
 DOSSIER STATUS:      Open / E-Class Transformation Logged
 
-+---------------------------------------------------------------------------+
++===========================================================================+
                          CATEGORY CONTENTS
-+---------------------------------------------------------------------------+
++===========================================================================+
 
 This dossier contains the results of Trial 612-E-09, a controlled
 exposure of an E-Class subject to verify the "Perfected DNA" hypothesis
@@ -46,10 +46,11 @@ transmutation does to living matter and in what order it does it. It
 does not establish reversibility, and the chronology is one trial
 rather than a range of them.
 
-+---------------------------------------------------------------------------+
-+---------------------------------------------------------------------------+
++===========================================================================+
+
++===========================================================================+
                               DOSSIER SUMMARY
-+---------------------------------------------------------------------------+
++===========================================================================+
 
 Trial 612-E-09 records direct contact by E-612-09, a rapid calming
 response, structural change, and completion of the recorded transmutation
@@ -57,10 +58,10 @@ at five minutes. Aris Thorne's separate analysis reports a post-trial lung
 finding. AFD-OB-612 — Gems of Change, Anomaly File describes a five-minute
 transformation sequence and labels the change permanent; this chronology
 does not include a follow-up schedule.
-+---------------------------------------------------------------------------+
++===========================================================================+
 
               SECTION 001 — TRIAL 612-E-09 CHRONOLOGY
-+---------------------------------------------------------------------------+
++===========================================================================+
 
 LOG ID:              AFD-OB-612/TST-E09
 LOG TYPE:            Trial 612-e-09 Chronology
@@ -83,9 +84,9 @@ OBSERVATION:
 [T+05:00] — TRANSFORMATION COMPLETE: Subject has successfully
             transitioned to the functional intersex state.
 
-+---------------------------------------------------------------------------+
++===========================================================================+
                  SECTION 002 — ARCHIVIST'S ANALYSIS
-+---------------------------------------------------------------------------+
++===========================================================================+
 
 LOG ID:              AFD-OB-612/THORNE-05
 LOG TYPE:            Archivist's Analysis
@@ -104,7 +105,7 @@ a
 cure is just another way to edit a person."
 
 SECTION 003 — EXPOSURE PHASE CORRELATION
-+---------------------------------------------------------------------------+
++===========================================================================+
 
 LOG ID:              AFD-OB-612/TST-E09-COR
 LOG TYPE:            Exposure Log
@@ -145,11 +146,11 @@ The subject record describes one E-Class exposure. No repeated trial or
 comparison group is present here, so the chronology cannot establish that
 every contact produces the same emotional or biological response.
 
-+---------------------------------------------------------------------------+
++===========================================================================+
 
-+---------------------------------------------------------------------------+
++===========================================================================+
                          DOSSIER CLOSING
-+---------------------------------------------------------------------------+
++===========================================================================+
 
 Trial 612-E-09 confirms that the "Perfected DNA" effect is a consistent
 secondary outcome of the transmutation.

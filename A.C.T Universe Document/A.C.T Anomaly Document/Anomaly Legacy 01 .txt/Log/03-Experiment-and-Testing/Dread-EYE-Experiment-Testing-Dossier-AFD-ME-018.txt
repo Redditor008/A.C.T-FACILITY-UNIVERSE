@@ -1,10 +1,10 @@
 A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
 Dread-EYE-Experiment-Testing-Dossier-AFD-ME-018
 
-+----------------------------------------------------------------------------+
++============================================================================+
              A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
                      Anomaly Containment Transformation
-+----------------------------------------------------------------------------+
++============================================================================+
 
 DESIGNATION:         AFD-ME-018
 TITLE I:             Dread EYE
@@ -22,9 +22,9 @@ JURISDICTIONAL AUTHORITY:  Memetic Hazard Review / Central Archive
 ARCHIVE STATUS:      Active / memetic hazard restricted
 DOSSIER STATUS:      Open — segmented-format testing only
 
-+----------------------------------------------------------------------------+
++============================================================================+
                            CATEGORY CONTENTS
-+----------------------------------------------------------------------------+
++============================================================================+
 
 This dossier belongs to A.C.T Log Category IV — Experiment & Testing Dossier.
 AFD-ME-018 is a memetic visual anomaly presenting as a simplified eye-like
@@ -50,9 +50,9 @@ To map the exact exposure thresholds of the dread-induction effect, confirm
 which visual degradations weaken it, and improve the recovery protocol that
 follows every accidental exposure.
 
-+----------------------------------------------------------------------------+
++============================================================================+
               SECTION 001 — EXPOSURE-STAGE MAPPING TRIAL
-+----------------------------------------------------------------------------+
++============================================================================+
 
 LOG ID:              AFD-ME-018/EXP-001
 LOG TYPE:            Exposure-stage Mapping Trial
@@ -80,9 +80,9 @@ EXPOSURE STAGES:
    - Over 90 seconds: acute breakdown risk, persistent fear of eye-like
      shapes, dream recurrence
 
-+----------------------------------------------------------------------------+
++============================================================================+
       SECTION 002 — MEDIUM-PERSISTENCE AND FRAGMENTATION TESTING
-+----------------------------------------------------------------------------+
++============================================================================+
 
 LOG ID:              AFD-ME-018/EXP-002
 LOG TYPE:            Medium-persistence and Fragmentation Testing
@@ -107,9 +107,9 @@ STORAGE DISCIPLINE CONFIRMED:
    - Accidental reproductions: covered first, photographed for archive
      confirmation, then destroyed or segmented
 
-+----------------------------------------------------------------------------+
++============================================================================+
                   SECTION 003 — PUPIL-ANCHOR TESTING
-+----------------------------------------------------------------------------+
++============================================================================+
 
 LOG ID:              AFD-ME-018/EXP-003
 LOG TYPE:            Pupil-anchor Testing
@@ -128,9 +128,9 @@ INTERPRETATION: The pupil is the active memetic anchor; the eye shape is the
 recognition frame. Containment segmentation therefore prioritizes separating
 the pupil from its frame in every stored instance.
 
-+----------------------------------------------------------------------------+
++============================================================================+
                SECTION 004 — ORIGIN-TRACE ARCHIVE REVIEW
-+----------------------------------------------------------------------------+
++============================================================================+
 
 LOG ID:              AFD-ME-018/EXP-004
 LOG TYPE:            Origin-trace Archive Review
@@ -150,9 +150,9 @@ RESEARCH NOTE: The absence of a remembered creator is consistent with the
 anomaly's nature — a symbol that installs itself in peripheral vision and
 documentation margins may also install itself in memory's margins.
 
-+----------------------------------------------------------------------------+
++============================================================================+
           SECTION 005 — RESPONSE AND RECOVERY PROTOCOL REVIEW
-+----------------------------------------------------------------------------+
++============================================================================+
 
 LOG ID:              AFD-ME-018/EXP-005
 LOG TYPE:            Response and Recovery Protocol Review
@@ -171,9 +171,9 @@ is watching them until panic response has declined.
 One affected subject described the exposure as: "It was not looking at me. It
 was looking past me, and then I understood why it was scared."
 
-+----------------------------------------------------------------------------+
++============================================================================+
      SECTION 006 — DOCUMENTATION-SAFETY INCIDENT AND CLOSING NOTE
-+----------------------------------------------------------------------------+
++============================================================================+
 
 LOG ID:              AFD-ME-018/EXP-CLS-001
 LOG TYPE:            Documentation-safety Incident and Closing Note
@@ -194,9 +194,9 @@ never finds it again.
 
 END OF FILE
 
-+----------------------------------------------------------------------------+
++============================================================================+
 |                              DOSSIER CLOSING                               |
-+----------------------------------------------------------------------------+
++============================================================================+
 
 The retained record maps exposure stages, tests medium persistence and
 fragmentation, records the pupil-anchor trials, reviews the origin trace,

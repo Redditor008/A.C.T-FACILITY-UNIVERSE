@@ -1,10 +1,10 @@
 A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
 Dark-World-Door-Blue-Dirt-Reactivity-Dossier-AFD-PL-932
 
-+---------------------------------------------------------------------+
++=====================================================================+
               A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
                      Anomaly Containment Transformation
-+---------------------------------------------------------------------+
++=====================================================================+
 
 DESIGNATION:         AFD-PL-932
 TITLE I:             Dark World Door
@@ -24,9 +24,9 @@ CONTAINMENT SITE:    ACT-SITE-02-RU-N — White Grave Station
 ARCHIVE STATUS:      Active / High-Risk Environment
 DOSSIER STATUS:      Open / Soil-Hardening Profile Compiled
 
-+---------------------------------------------------------------------+
++=====================================================================+
                          CATEGORY CONTENTS
-+---------------------------------------------------------------------+
++=====================================================================+
 
 This dossier contains the results of the "Hydration Reactivity" tests
 conducted on soil samples (Blue Dirt) harvested from AFD-PL-932. The
@@ -48,9 +48,9 @@ use is to confirm a rate that other work depends upon. It does not
 extend the finding past the conditions of the trial, and a single trial
 cannot establish how that rate varies with anything.
 
-+---------------------------------------------------------------------+
++=====================================================================+
               SECTION 001 — THE STEEL-BLOOM TRIAL
-+---------------------------------------------------------------------+
++=====================================================================+
 
 LOG ID:              AFD-PL-932/TST-E04
 LOG TYPE:            The Steel-bloom Trial
@@ -77,9 +77,9 @@ RESULT:
 Hardening rate is confirmed at 4 seconds. The material is functionally
 indestructible once bloomed.
 
-+---------------------------------------------------------------------+
++=====================================================================+
                  SECTION 002 — ARCHIVIST'S NOTE
-+---------------------------------------------------------------------+
++=====================================================================+
 
 LOG ID:              AFD-PL-932/THORNE-REF
 LOG TYPE:            Archivist's Note
@@ -94,10 +94,11 @@ slowly erodes the user's capacity for [ REDACTED ] over twelve months.
 We can build the Facility out of this stuff, but we’ll have to
 learn to breathe something else if we do."
 
-+---------------------------------------------------------------------+
-+---------------------------------------------------------------------+
++=====================================================================+
+
++=====================================================================+
           SECTION 003 — OUTGASSING ANALYSIS — THE BLUE HAZE          
-+---------------------------------------------------------------------+
++=====================================================================+
 
 LOG ID:              AFD-PL-932/TST-E04-B
 LOG TYPE:            Outgassing Analysis
@@ -135,9 +136,9 @@ that follows runs past a year and cannot be sampled to completion.
 Every duration in this section is corroborated by a second record,
 and none of them is precise to a day.
 
-+---------------------------------------------------------------------+
++=====================================================================+
      SECTION 004 — CONTAINMENT IMPLICATION — THE STEEL-ZONE RULE     
-+---------------------------------------------------------------------+
++=====================================================================+
 
 LOG ID:              AFD-PL-932/PLT-932-B
 LOG TYPE:            Containment Implication
@@ -166,7 +167,7 @@ than against error, which is why it excludes equipment as well as
 personnel.
 
                          DOSSIER CLOSING
-+---------------------------------------------------------------------+
++=====================================================================+
 
 MANDATORY PERSONNEL NOTICE:
                      Do not track the dirt.

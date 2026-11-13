@@ -1,10 +1,10 @@
 A.C.T FACILITY — EXPLORATION & SURVEY DOSSIER
 Haunting-Terror-Perimeter-Audit-AFD-PL-384
 
-+-----------------------------------------------------------------------+
++=======================================================================+
                 A.C.T FACILITY — EXPLORATION & SURVEY
                      Anomaly Containment Transformation
-+-----------------------------------------------------------------------+
++=======================================================================+
 
 DESIGNATION:         AFD-PL-384
 TITLE I:             Haunting Terror
@@ -23,9 +23,9 @@ CONTAINMENT SITE:    Site-Sub-01-US-W — Glass Orchard Relay
 ARCHIVE STATUS:      Active / Seasonal Manifestation
 DOSSIER STATUS:      Open / Boundary Geometry Logged
 
-+-----------------------------------------------------------------------+
++=======================================================================+
                          CATEGORY CONTENTS
-+-----------------------------------------------------------------------+
++=======================================================================+
 
 This dossier documents the Boundary Audit of October 2024. The goal
 was to determine if the "Unround" fog perimeter can be predicted using
@@ -47,9 +47,9 @@ hold an ordinary shape. It does not establish a containment line, since
 the recursive trial shows the geometry reasserting itself, and the eyes
 are recorded as evidence without explanation.
 
-+-----------------------------------------------------------------------+
++=======================================================================+
                  SECTION 001 — THE FOLDED OUTLINE
-+-----------------------------------------------------------------------+
++=======================================================================+
 
 LOG ID:              AFD-PL-384/SRV-001
 LOG TYPE:            The Folded Outline
@@ -69,9 +69,9 @@ SURVEYOR (Field Log): "The fog isn't expanding. It's invading the
                       space. I’m standing 5 meters from the edge, but
                       my rangefinder says the distance is zero."
 
-+-----------------------------------------------------------------------+
++=======================================================================+
                SECTION 002 — THE RECURSIVE TRIAL
-+-----------------------------------------------------------------------+
++=======================================================================+
 
 LOG ID:              AFD-PL-384/TST-E01
 LOG TYPE:            The Recursive Trial
@@ -90,9 +90,9 @@ LOGGED ATTEMPTS:
   one hour. He reports: "The tree is getting closer every time I
   leave it."
 
-+-----------------------------------------------------------------------+
++=======================================================================+
                SECTION 003 — VISUAL EVIDENCE: THE EYES
-+-----------------------------------------------------------------------+
++=======================================================================+
 
 
 LOG TYPE:            Visual Evidence: the Eyes
@@ -112,9 +112,9 @@ RESEARCHER NOTE:
 The apparition appears to be "Tracking" the subject's displacement points
 rather than the subject himself.
 
-+-----------------------------------------------------------------------+
++=======================================================================+
                SECTION 004 — AFTER-ACTION SUMMARY
-+-----------------------------------------------------------------------+
++=======================================================================+
 
 
 LOG TYPE:            After-action Summary
@@ -127,9 +127,9 @@ After the 19th attempt, the apparition’s pursuit becomes 300% faster.
 We recommend that any future trapped subjects remain stationary
 after their 5th attempt to exit.
 
-+-----------------------------------------------------------------------+
++=======================================================================+
                          DOSSIER CLOSING
-+-----------------------------------------------------------------------+
++=======================================================================+
 
 MANDATORY PERSONNEL NOTICE:
                      The fog has no edge.

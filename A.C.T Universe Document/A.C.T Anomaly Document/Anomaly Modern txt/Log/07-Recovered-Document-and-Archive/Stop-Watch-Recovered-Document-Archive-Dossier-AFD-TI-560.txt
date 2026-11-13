@@ -1,10 +1,10 @@
 A.C.T FACILITY — RECOVERED DOCUMENT & ARCHIVE DOSSIER
 Stop-Watch-Recovered-Document-Archive-Dossier-AFD-TI-560
 
-+----------------------------------------------------------------------------+
++============================================================================+
          A.C.T FACILITY — RECOVERED DOCUMENT & ARCHIVE DOSSIER
                      Anomaly Containment Transformation
-+----------------------------------------------------------------------------+
++============================================================================+
 
 DESIGNATION:         AFD-TI-560
 TITLE I:             Stop-Watch
@@ -22,9 +22,9 @@ JURISDICTIONAL AUTHORITY:  Kurokawa Site Command / O5 Oversight
 ARCHIVE STATUS:      Active / O5-restricted
 DOSSIER STATUS:      Open — activation record retained
 
-+----------------------------------------------------------------------------+
++============================================================================+
                            CATEGORY CONTENTS
-+----------------------------------------------------------------------------+
++============================================================================+
 
 This dossier belongs to A.C.T Log Category VII — Recovered Document & Archive
 Dossier. AFD-TI-560 is an ornate golden pocket-watch, 5 cm in diameter, filled
@@ -49,9 +49,9 @@ To preserve the watch's restricted operational history — every documented
 activation, the recovered engraving, and the testimony of the senior
 researcher authorized to carry it.
 
-+----------------------------------------------------------------------------+
++============================================================================+
                SECTION 001 — ACCESS AND HANDLING ARCHIVE
-+----------------------------------------------------------------------------+
++============================================================================+
 
 LOG ID:              AFD-TI-560/ARC-001
 LOG TYPE:            Access and Handling Archive
@@ -79,9 +79,9 @@ HANDLING DISCIPLINE:
    - Required watch: 1 temporal analyst, 1 high-PR guard
    - Cadence: daily position check
 
-+----------------------------------------------------------------------------+
++============================================================================+
    SECTION 002 — ACTIVATION RECORD — 1999 SITE-01 BREACH PREVENTION
-+----------------------------------------------------------------------------+
++============================================================================+
 
 LOG ID:              AFD-TI-560/ARC-002
 LOG TYPE:            Activation Record — 1999 Site-01 Breach Prevention
@@ -103,9 +103,9 @@ CONSEQUENCE RECORD:
    - Post-activation state: mandatory 7-day recovery phase, second hand
      regressing counter-clockwise from the 12-mark back to the 12-mark
 
-+----------------------------------------------------------------------------+
++============================================================================+
   SECTION 003 — ACTIVATION RECORD — BALL OF KNIFE RECOVERY OPERATION
-+----------------------------------------------------------------------------+
++============================================================================+
 
 LOG ID:              AFD-TI-560/ARC-003
 LOG TYPE:            Activation Record — Ball of Knife Recovery Operation
@@ -123,9 +123,9 @@ account of the event, archived in full in this dossier.
 Note: no activation is recorded as trivial. The watch is carried as a terminal
 option, not an instrument of convenience.
 
-+----------------------------------------------------------------------------+
++============================================================================+
        SECTION 004 — RECOVERED INSCRIPTION — BACK-CASE ENGRAVING
-+----------------------------------------------------------------------------+
++============================================================================+
 
 LOG ID:              AFD-TI-560/ARC-004
 LOG TYPE:            Recovered Inscription — Back-case Engraving
@@ -146,9 +146,9 @@ cannot bear the ordinary passage of time. Whether the original owner was its
 maker, its victim, or its keeper is not established. The archive retains the
 translation without assigning a story to it.
 
-+----------------------------------------------------------------------------+
++============================================================================+
           SECTION 005 — OPERATOR TESTIMONY — DR. ARIS THORNE
-+----------------------------------------------------------------------------+
++============================================================================+
 
 LOG ID:              AFD-TI-560/ARC-005
 LOG TYPE:            Operator Testimony — Dr. Aris Thorne
@@ -171,9 +171,9 @@ It is preserved because it is the clearest warning the archive holds about the
 cost of the watch — and because the warning comes from the one person
 authorized to carry it.
 
-+----------------------------------------------------------------------------+
++============================================================================+
                   SECTION 006 — ARCHIVE CLOSING NOTE
-+----------------------------------------------------------------------------+
++============================================================================+
 
 LOG ID:              AFD-TI-560/ARC-CLS-001
 LOG TYPE:            Archive Closing Note
@@ -193,9 +193,9 @@ often enough to fill these pages.
 
 END OF FILE
 
-+----------------------------------------------------------------------------+
++============================================================================+
 |                              DOSSIER CLOSING                               |
-+----------------------------------------------------------------------------+
++============================================================================+
 
 This archive carries the access and handling record, the activation at the
 1999 Site-01 breach prevention, the activation during the Ball of Knife

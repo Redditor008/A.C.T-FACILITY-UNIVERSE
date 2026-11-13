@@ -1,10 +1,10 @@
 A.C.T FACILITY — EXPLORATION & SURVEY DOSSIER
 Proto-Thal-Island-Shell-Survey-AFD-NB-125
 
-+---------------------------------------------------------------------+
++=====================================================================+
                 A.C.T FACILITY — EXPLORATION & SURVEY
                      Anomaly Containment Transformation
-+---------------------------------------------------------------------+
++=====================================================================+
 
 DESIGNATION:         AFD-NB-125
 TITLE I:             Proto-Thal
@@ -24,9 +24,9 @@ CONTAINMENT SITE:    ACT-SITE-05-ID-C — Nusantara Deep Relay
 ARCHIVE STATUS:      Active / Deep-Sea Survey
 DOSSIER STATUS:      Open / Biological Census Archived
 
-+---------------------------------------------------------------------+
++=====================================================================+
                          CATEGORY CONTENTS
-+---------------------------------------------------------------------+
++=====================================================================+
 
 This dossier contains the logs from Operation Shell-Gazer, an
 unmanned ROV (Remotely Operated Vehicle) survey of the "Submerged
@@ -49,9 +49,9 @@ than to contain one. It does not establish whether that ecosystem is
 stable, and the suction incident is recorded as a hazard encountered
 rather than a property measured.
 
-+---------------------------------------------------------------------+
++=====================================================================+
                  SECTION 001 — THE STRETCHED DESCENT
-+---------------------------------------------------------------------+
++=====================================================================+
 
 LOG ID:              AFD-NB-125/SRV-01
 LOG TYPE:            The Stretched Descent
@@ -73,9 +73,9 @@ SURVEYOR (Comms):    "The spatial distortion is stabilizing. We're
                       claim we are currently inside solid rock. The
                       subject is literally pushing the crust aside."
 
-+---------------------------------------------------------------------+
++=====================================================================+
                  SECTION 002 — THE ABYSSAL GARDEN
-+---------------------------------------------------------------------+
++=====================================================================+
 
 
 LOG TYPE:            The Abyssal Garden
@@ -95,9 +95,9 @@ ROV OPERATOR:        "I'm seeing a forest of white tentacles. They're
                       waving in the subject's breathing-current. It
                       looks like a garden made of bone."
 
-+---------------------------------------------------------------------+
++=====================================================================+
                SECTION 003 — THE CLAW CALCIFICATION
-+---------------------------------------------------------------------+
++=====================================================================+
 
 
 LOG TYPE:            The Claw Calcification
@@ -109,9 +109,9 @@ SURVEYOR (Comms):    "The left claw is anchored. It’s fused with the
                       volcanic sediment. It hasn't moved in decades.
                       It's effectively a mountain range now."
 
-+---------------------------------------------------------------------+
++=====================================================================+
                 SECTION 004 — THE SUCTION INCIDENT
-+---------------------------------------------------------------------+
++=====================================================================+
 
 
 LOG TYPE:            The Suction Incident
@@ -136,9 +136,9 @@ ROV OPERATOR:        "We're seeing a current shift. The ROV is losing
 [NOTE: The ROV remains were recovered 3 km away. It was found coated in
 a non-anomalous but highly concentrated plankton-paste.]
 
-+---------------------------------------------------------------------+
++=====================================================================+
                          DOSSIER CLOSING
-+---------------------------------------------------------------------+
++=====================================================================+
 
 MANDATORY PERSONNEL NOTICE:
                      The island is a body.

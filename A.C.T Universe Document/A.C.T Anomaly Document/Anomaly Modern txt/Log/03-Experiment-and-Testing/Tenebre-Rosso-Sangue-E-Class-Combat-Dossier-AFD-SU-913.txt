@@ -1,10 +1,10 @@
 A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
 Tenebre-Rosso-Sangue-E-Class-Combat-Dossier-AFD-SU-913
 
-+------------------------------------------------------------------------+
++========================================================================+
               A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
                      Anomaly Containment Transformation
-+------------------------------------------------------------------------+
++========================================================================+
 
 DESIGNATION:         AFD-SU-913
 TITLE I:             Tenebre Rosso Sangue
@@ -23,9 +23,9 @@ CONTAINMENT SITE:    Black Site [ REDACTED ]
 ARCHIVE STATUS:      Active / High-Lethality Combat Data
 DOSSIER STATUS:      Open / Tactical Profile Compiled
 
-+------------------------------------------------------------------------+
++========================================================================+
                          CATEGORY CONTENTS
-+------------------------------------------------------------------------+
++========================================================================+
 
 This dossier contains the results of controlled combat engagement tests
 between AFD-SU-913 and E-Class subjects. The goal was to measure the
@@ -46,9 +46,9 @@ fast it moves when opposed. It does not authorize combat testing outside
 controlled conditions, and efficiency here is measured against one medium
 only.
 
-+------------------------------------------------------------------------+
++========================================================================+
               SECTION 001 — SANGUINE ABSORPTION TEST
-+------------------------------------------------------------------------+
++========================================================================+
 
 LOG ID:              AFD-SU-913/TST-E04
 LOG TYPE:            Sanguine Absorption Test
@@ -73,9 +73,9 @@ RESULT:
 Verification of the "Blood is Fuel" logic. The subject's repair speed
 is dependent on the volume and freshness of the biological input.
 
-+------------------------------------------------------------------------+
++========================================================================+
               SECTION 002 — THE FEEDBACKER PARRY TRIAL
-+------------------------------------------------------------------------+
++========================================================================+
 
 LOG ID:              AFD-SU-913/TST-E05
 LOG TYPE:            The Feedbacker Parry Trial
@@ -101,9 +101,9 @@ ANALYSIS:
 The subject's parry is not mechanical; it is a "Causal Reversal." It
 uses the force of the attacker against the source.
 
-+------------------------------------------------------------------------+
++========================================================================+
                  SECTION 003 — ARCHIVIST'S NOTE
-+------------------------------------------------------------------------+
++========================================================================+
 
 LOG ID:              AFD-SU-913/THORNE-REF
 LOG TYPE:            Archivist's Note
@@ -119,9 +119,9 @@ to stop it is to stop being violent. And since we are a Facility
 built on 'Containment by Force,' we are effectively providing the
 subject with an infinite supply of ammunition."
 
-+------------------------------------------------------------------------+
++========================================================================+
                          DOSSIER CLOSING
-+------------------------------------------------------------------------+
++========================================================================+
 
 MANDATORY PERSONNEL NOTICE:
                      Mankind is dead.

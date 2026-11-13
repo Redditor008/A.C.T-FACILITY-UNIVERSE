@@ -1,10 +1,10 @@
 A.C.T FACILITY — AUDIO / VIDEO / SENSOR DOSSIER
 Shadow-Shark-CCTV-Timecode-Transcript-AFD-SU-010
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |               A.C.T FACILITY — AUDIO / VIDEO / SENSOR DOSSIER                |
 |                      Anomaly Containment Transformation                      |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 DESIGNATION:         AFD-SU-010
 TITLE I:             Shadow Shark
@@ -27,9 +27,9 @@ DOSSIER STATUS:      Open / recovery and first-cycle reels archived
 TIME RANGE:          2021-05-14 recovery operation to 2021-08-02 first-cycle close
 ORDERING METHOD:     Chronological, oldest to newest, by reel
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |                              CATEGORY CONTENTS                               |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 This dossier belongs to A.C.T Log Category XI — Audio / Video / Sensor
 Dossier.
@@ -56,9 +56,9 @@ file. This dossier is not authorization to alter chamber illumination, to
 place
 matter near the subject, or to attempt physical sampling.
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |                               DOSSIER SUMMARY                                |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 AFD-SU-010 is an airborne shark-shaped shadow approximately 2.7 m from snout
 to
@@ -85,9 +85,9 @@ That asymmetry is the reason this record is preserved at length.
                          correct, and the file has to
                          hold both.
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |                     SECTION 001 — RECOVERY FEED SUMMARY                      |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 LOG ID:              AFD-SU-010/CCTV-001
 LOG TYPE:            Recovery Feed Summary
@@ -120,9 +120,9 @@ with
 variable light. Every later reel is chamber-bound and cannot reproduce the
 handheld illumination variation recorded at 02:19.
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |                     SECTION 002 — TIMECODED CCTV LEDGER                      |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 LOG ID:              AFD-SU-010/CCTV-002
 LOG TYPE:            Timecoded CCTV Ledger
@@ -236,9 +236,9 @@ OBSERVED:            Lights restored at reduced level. Subject reappears at
 INTERPRETATION:      Low illumination is not equivalent to darkness. The
                      subject remains active and trackable at 60 lx.
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |                  SECTION 003 — CONTAINMENT WING FEED LEDGER                  |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 LOG ID:              AFD-SU-010/CCTV-003
 LOG TYPE:            Containment Wing Feed Ledger
@@ -307,9 +307,9 @@ OBSERVED:            Scheduled dark period. Subject untrackable.
 INTERPRETATION:      Expected state, logged as expected rather than as a loss
                      of record.
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |                   SECTION 004 — SENSOR CORRELATION REVIEW                    |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 LOG ID:              AFD-SU-010/SEN-001
 LOG TYPE:            Sensor Correlation Review
@@ -345,9 +345,9 @@ and does not come out, and nothing else in the room notices.
                          instruments do not. That is
                          the whole of what we have.
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |                SECTION 005 — ILLUMINATION RESPONSE ASSESSMENT                |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 LOG ID:              AFD-SU-010/SEN-002
 LOG TYPE:            Illumination Response Assessment
@@ -388,9 +388,9 @@ condition and should not raise lighting on the expectation of suppression.
                          Bright light makes it easier
                          to lose and harder to stop.
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |                 SECTION 006 — FEEDING EVENT VISUAL ANALYSIS                  |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 LOG ID:              AFD-SU-010/CCTV-004
 LOG TYPE:            Feeding Event Visual Analysis
@@ -431,9 +431,9 @@ than mechanism, and it is the strongest argument in this record against
 treating
 AFD-SU-010 as a simple intake phenomenon.
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |                            ARCHIVE WARNING NOTICE                            |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 The dark reels in this dossier contain no data of any kind. They are retained
 to
@@ -446,9 +446,9 @@ feeding.
 No audio track contains any sound attributable to the subject. Requests for
 further footage of either should be refused at this clearance.
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |                               DOSSIER CLOSING                                |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 The retained record supports the primary file in every particular and adds
 three

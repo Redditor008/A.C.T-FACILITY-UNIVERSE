@@ -1,0 +1,71 @@
+# LMD/Legacy of Known ANOMALY of A.C.T Facility
+
+Access Clearance : Level 3 - 5 / O5
+
+NOTE : This List Was Created By O5 Permistion to catalog all current ANOMALY
+under Low Numerical Designation
+or LMD/Legacy.
+Written By : Archivist. Demeno Astergy
+Date Written : 20XX-03-XX
+
+## List Of LMD/Legacy 01 ANOMALY
+
+1. Annoyingly-Indestructible-Lizard-GRUMBLESAIL-AFD-SU-012
+2. Apocalypses-NOT-AFD-CH-016
+3. At-the-end-of-the-day-ANM-QU-AS-0003
+4. Dread-EYE-AFD-ME-018
+5. Dream-Eater-THEMESY-AFD-SU-011
+6. Helping-Hand-AFD-SU-019
+7. Hunting-Deer-AFD-SU-015
+8. I-AM-A-Test-AFD-OB-001
+9. ISs-Anny-OOone-Ttthere-Oooh-Hiiii-AFD-SU-005
+10. MACHINE-Heart-AFD-OB-017
+11. Maid-Of-Gear-VESPER-AFD-SU-020
+12. OBSERVING-BIRD-AFD-CH-014
+13. RED-HOUND-AFD-NB-007
+14. Shadow-Shark-AFD-SU-010
+15. THE-CLOCK-SAYS-DAWN-AFD-TI-003
+16. The-Forgetting-Bloom-AFD-NB-004
+17. The-Forgetting-Bloom-UFD-NB-004
+18. The-Forgotten-Serpent-AFD-SU-008
+19. The-Goat-Man-NOO-IAM-A-WOMAN-AFD-SU-009
+20. The-Key-That-Refuses-The-Lock-ANM-AB-HM-0002
+21. The-Ledger-of-the-Thrones-of-Men-AFD-OB-021
+22. The-Sixteenth-Second-Stone-AFD-CH-002
+23. The-Tooth-Fed-Handgun-AFD-OB-006
+24. The-Unwritten-Return-ANM-UA-AS-0001
+25. UnWeeping-Mannequin-AFD-SU-013
+26. ENTITY_000_ITHYOS
+27. ITHYOS-AFD-CH-000
+
+ARCHIVE FUNCTION:
+This list is a working index for the Legacy 01 low-numbered anomaly group. It
+is not a containment procedure, not a
+founding-era truth record, and not a complete explanation of why each anomaly received its
+designation. Its purpose is
+to let authorized archivists confirm which files belong to the LMD/Legacy 01 shelf before
+pulling individual dossiers,
+observation logs, recovery documents, or later archive copies.
+
+The list preserves rough legacy naming because the old record shelf was not clean.
+Several entries use early-file
+spelling, emotional titles, unstable punctuation, or older designation habits. These names should not be
+corrected
+inside this list unless the corresponding primary anomaly file and archive reference are also
+being reconciled. A
+mismatch between a legacy title and a later standardized title may indicate file drift,
+renaming, reclassification, or
+a historical archive scar.
+
+ENTITY_000_ITHYOS and ITHYOS-AFD-CH-000 are retained in the list because the archive shelf historically pointed
+toward
+them during low-number catalog work. Their presence does not make this a founding anomaly
+list. It means the legacy
+drawer carried references that later archivists were not allowed to separate casually.
+
+Noted : Don't insult how i wrote down this list, because i only care
+to finish this as fast as possible.
+
+Extra Noted : No Administrator this is not a Founding Anomaly List, just our
+current list of LMD in the system for
+refrance.

@@ -1,10 +1,10 @@
 A.C.T FACILITY — PERSONAL & RECOVERED JOURNAL DOSSIER
 Dream-Eater-THEMESY-Personal-Dossier-AFD-SU-011
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |            A.C.T FACILITY — PERSONAL & RECOVERED JOURNAL DOSSIER             |
 |                      Anomaly Containment Transformation                      |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 DESIGNATION:         AFD-SU-011
 TITLE I:             Dream Eater-THEMESY
@@ -31,9 +31,9 @@ DOSSIER STATUS:      Open — subjective record, not superseded by formal file
 RECORD RANGE:        2018-08-19 to 2024-03-22
 ORDERING METHOD:     Chronological within each section
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |                              CATEGORY CONTENTS                               |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 This dossier belongs to A.C.T Log Category XII — Personal & Recovered Journal
 Dossier. The doctrine governing the category states that personal dossiers are
@@ -69,9 +69,9 @@ not adequate as a record, because the operational summary of a consumed dream
 is
 indistinguishable from the operational summary of an ordinary night's sleep.
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |                               DOSSIER SUMMARY                                |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 AFD-SU-011 is an aerial whale-like entity approximately 2 m from head to tail,
 moving through air by slow swimming motions without water, visible propulsion,
@@ -106,9 +106,9 @@ therapeutic. It approaches sleeping subjects with slow careful movements and
 does
 not attack, threaten, chase, or deliberately injure personnel.
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |                   SECTION 001 — PRE-FEEDING DREAM RECORDS                    |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 LOG ID:              AFD-SU-011/JRN-001
 LOG TYPE:            Dream Journal / Personal Log
@@ -154,9 +154,9 @@ ENTRY:               it comes when the bad one starts. i know that sounds
                      gone and the knowing part stays. i have not told the
                      doctors this because they will stop letting me sleep.
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |                       SECTION 002 — POST-SLUMBER NOTES                       |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 LOG ID:              AFD-SU-011/JRN-002
 LOG TYPE:            Fragmented Memory Log / Subject Testimony
@@ -208,9 +208,9 @@ ENTRY:               Fourth year of this. I have stopped trying to design an
                      than my formal reports and why I keep asking the archive
                      not to condense it.
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |                    SECTION 003 — CARE STAFF OBSERVATIONS                     |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 LOG ID:              AFD-SU-011/JRN-003
 LOG TYPE:            Care Log / Handler Note
@@ -249,9 +249,9 @@ ENTRY:               Staff note the mane response again. It becomes denser
                      challenged the challenge should have to argue with the
                      record of it rather than with a memory.
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |                           SECTION 004 — ASSESSMENT                           |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 LOG ID:              AFD-SU-011/JRN-004
 LOG TYPE:            Dossier Closing Statement
@@ -276,9 +276,9 @@ archive holds a file about something that does not know what it is doing, and
 the
 people it feeds know exactly what it is doing.
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |                               DOSSIER CLOSING                                |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 This dossier is preserved uncondensed for that reason. It is not colour around
 the

@@ -1,10 +1,10 @@
 A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
 Magical-Doll-MEW-Stars-Tactical-Simulation-Audit-AFD-SU-283
 
-+---------------------------------------------------------------------+
++=====================================================================+
               A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
                      Anomaly Containment Transformation
-+---------------------------------------------------------------------+
++=====================================================================+
 
 DESIGNATION:         AFD-SU-283
 TITLE I:             Magical Doll MEW Stars
@@ -21,9 +21,9 @@ CONTAINMENT SITE:    ACT-SITE-03-JP-E — Kurokawa Archive Node
 ARCHIVE STATUS:      Active / High-Energy Testing
 DOSSIER STATUS:      Open / Simulation Cycle 01 Compiled
 
-+---------------------------------------------------------------------+
++=====================================================================+
                          CATEGORY CONTENTS
-+---------------------------------------------------------------------+
++=====================================================================+
 
 This dossier contains the reconstructed logs from Simulation
 Mew-Alpha, the first authorized tactical audit of AFD-SU-283. The
@@ -46,9 +46,9 @@ subject can do inside a simulated engagement. It does not authorize
 field deployment on the strength of a simulation, and the backlash
 incident is recorded without an assigned cause.
 
-+---------------------------------------------------------------------+
++=====================================================================+
                  SECTION 001 — THE OPENING ACT
-+---------------------------------------------------------------------+
++=====================================================================+
 
 LOG ID:              AFD-SU-283/SIM-001
 LOG TYPE:            The Opening Act
@@ -74,9 +74,9 @@ SHU SHU:             "Ahuhuhu... alright, dearies! This is gonna be a
               the subject. Sound pressure is recorded at 95 dB.
               The rhythm is [Energetic & Upbeat].
 
-+---------------------------------------------------------------------+
++=====================================================================+
                  SECTION 002 — OFFENSIVE VOLLEYS
-+---------------------------------------------------------------------+
++=====================================================================+
 
 
 LOG TYPE:            Offensive Volleys
@@ -102,9 +102,9 @@ The subject fires a 3-meter flat heart. Instead of damaging the dummy,
 the projectile "Heals" the scorch-marks left by the previous bombs.
 The dummy's surface-temperature drops by 20°C instantly.
 
-+---------------------------------------------------------------------+
++=====================================================================+
                  SECTION 003 — THE BACKLASH INCIDENT
-+---------------------------------------------------------------------+
++=====================================================================+
 
 
 LOG TYPE:            The Backlash Incident
@@ -127,9 +127,9 @@ wobbling in place.
 MIMI (Muffled):      "Oops! I fur-got how to hold that one!"
 SHU SHU (Screaming): "SHUT UP! IT WAS YOUR FAULT!"
 
-+---------------------------------------------------------------------+
++=====================================================================+
                  SECTION 004 — FINAL BEAM DISCHARGE
-+---------------------------------------------------------------------+
++=====================================================================+
 
 
 LOG TYPE:            Final Beam Discharge
@@ -152,9 +152,9 @@ a surge of 'Doki-Doki' harmonics).
               Heartbeat End]. The subject returns to her 2-meter
               dormant state.
 
-+---------------------------------------------------------------------+
++=====================================================================+
                  SECTION 005 — ARCHIVIST'S SUMMARY
-+---------------------------------------------------------------------+
++=====================================================================+
 
 LOG ID:              AFD-SU-283/THORNE-01
 LOG TYPE:            Archivist's Summary
@@ -173,9 +173,9 @@ Singularity that uses our training bays as its stage. Increase the
 acoustic dampening. I don't want to hear that song in the hallway
 tomorrow."
 
-+---------------------------------------------------------------------+
++=====================================================================+
                          DOSSIER CLOSING
-+---------------------------------------------------------------------+
++=====================================================================+
 
 MANDATORY PERSONNEL NOTICE:
                      The simulation is over.

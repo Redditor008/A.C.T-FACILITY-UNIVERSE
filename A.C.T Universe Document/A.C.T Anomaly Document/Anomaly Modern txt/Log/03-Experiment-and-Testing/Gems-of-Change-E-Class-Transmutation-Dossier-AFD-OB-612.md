@@ -1,0 +1,156 @@
+# A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
+
+Gems-of-Change-E-Class-Transmutation-Dossier-AFD-OB-612
+
+## A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
+
+Anomaly Containment Transformation
+
+DESIGNATION: AFD-OB-612
+TITLE I: Gems of Change
+TITLE II: THE SCARLET CHIMERA
+
+FIELD TYPE: OB — Object
+PRIMARY FILE: Gems-of-Change-AFD-OB-612
+
+DOCUMENT CATEGORY: CATEGORY III — Experiment & Testing Dossier
+CATEGORY FUNCTION: Controlled biological transmutation mapping;
+Verification of "Calming Nudge" memetic efficacy.
+
+CLEARANCE REQUIRED: Level 4 / Bio-Hazard Desk
+
+CONTAINMENT SITE: ACT-SITE-01-US-W — Redwood Veil Complex
+ARCHIVE STATUS: Active / Transmutation Data
+DOSSIER STATUS: Open / E-Class Transformation Logged
+
+## CATEGORY CONTENTS
+
+This dossier contains the results of Trial 612-E-09, a controlled
+exposure of an E-Class subject to verify the "Perfected DNA" hypothesis
+and to measure the intensity of the emotional "Nudge" during structural
+bone and tissue rewrite.
+
+INCLUDED LOG TYPES:
+- Trial 612-E-09: Biological & Psychological Chronology
+- Post-Transmutation Biometric Audit
+- Senior Researcher Aris Thorne: Resonance Commentary
+- Dossier Closing Statement
+- Exposure Log: Trial-phase correlation and scope review
+
+CATEGORY PURPOSE:
+Controlled biological transmutation mapping, held as the chronology of trial
+612-E-09 with the archivist's analysis. Its use is to fix what the
+transmutation does to living matter and in what order it does it. It
+does not establish reversibility, and the chronology is one trial
+rather than a range of them.
+
+## DOSSIER SUMMARY
+
+Trial 612-E-09 records direct contact by E-612-09, a rapid calming
+response, structural change, and completion of the recorded transmutation
+at five minutes. Aris Thorne's separate analysis reports a post-trial lung
+finding. AFD-OB-612 — Gems of Change, Anomaly File describes a five-minute
+transformation sequence and labels the change permanent; this chronology
+does not include a follow-up schedule.
+
+## SECTION 001 — TRIAL 612-E-09 CHRONOLOGY
+
+LOG ID: AFD-OB-612/TST-E09
+LOG TYPE: Trial 612-e-09 Chronology
+DATE: 2024-04-12
+SUBJECT: E-Class E-612-09 (Male, age 44, History of [ REDACTED ])
+
+PROCEDURE:
+Subject was instructed to make direct dermal contact with the core of
+AFD-OB-612. Subject was fitted with internal biometric sensors to
+monitor the "Nudge" effect in real-time.
+
+OBSERVATION:
+[T+00:00] — Contact established. Gem illuminates (Crimson).
+[T+00:15] — Subject's cortisol levels drop by 74%. Subject ceases
+verbal resistance and smiles. He describes the sensation
+as "the first time I've felt clean."
+[T+02:40] — SKELETAL RECONSTRUCTION: Subject's height decreases by 4cm.
+Pelvic structure expands; facial features soften. Subject
+remains calm, ignoring the sound of his own bones shifting.
+[T+05:00] — TRANSFORMATION COMPLETE: Subject has successfully
+transitioned to the functional intersex state.
+
+## SECTION 002 — ARCHIVIST'S ANALYSIS
+
+LOG ID: AFD-OB-612/THORNE-05
+LOG TYPE: Archivist's Analysis
+AUTHOR: Aris Thorne (SR-412)
+
+"The 'Nudge' is the most dangerous part of this artifact. It doesn't
+just calm the subject; it makes them grateful for the rewrite. It
+replaces their history with a state of biological satisfaction.
+
+I checked the subject's DNA after the trial. He had early-stage
+[ REDACTED ] in his lungs from his previous life in the mines. After
+five minutes with the gem, his lungs were pristine. The anomaly
+didn't just change his sex; it 'corrected' his entire biological
+narrative. We are looking at a tool that believes it is a cure, but
+a
+cure is just another way to edit a person."
+
+SECTION 003 — EXPOSURE PHASE CORRELATION
+
+LOG ID: AFD-OB-612/TST-E09-COR
+LOG TYPE: Exposure Log
+CATEGORY: Experiment & Testing Dossier
+RANGE: Trial T+00:00 to T+05:00; AFD-OB-612 — Gems of
+Change, Anomaly File phase sequence
+REVIEWING UNIT: Not recorded
+PRIMARY REVIEWER: Not listed
+SECONDARY REVIEWER: Not listed
+DATE: Not recorded
+SUBJECT: E-Class E-612-09
+
+SUMMARY:
+This entry cross-references the exposure already recorded above; it does
+not describe another contact. AFD-OB-612 — Gems of Change, Anomaly File
+places luminous onset in the first two minutes and active transmutation
+from minutes two through five. The chronology records contact at
+00:00, a 74% cortisol decrease at 00:15, skeletal and facial changes
+at 02:40, and completion at 05:00.
+
+The chronology therefore documents one five-minute transformation sequence.
+It records a four-centimeter decrease in height and expansion of pelvic
+structure, but gives no post-change measurement series.
+
+ASSESSMENT:
+AFD-OB-612 — Gems of Change, Anomaly File describes the change as
+permanent and irreversible. The chronology does not follow the
+subject beyond the five-minute transition, so it does not independently
+test permanence or reversibility.
+
+AFD-OB-612 — Gems of Change, Archivist's Analysis reports a DNA check
+and a lung finding, but no assay table or scan appears in that section.
+AFD-OB-612 — Gems of Change, Anomaly File, Research Summary separately
+calls the resulting DNA "Perfected." Those claims remain attributed; this
+correlation adds no measurement and establishes no rate across subjects.
+
+The subject record describes one E-Class exposure. No repeated trial or
+comparison group is present here, so the chronology cannot establish that
+every contact produces the same emotional or biological response.
+
+## DOSSIER CLOSING
+
+Trial 612-E-09 confirms that the "Perfected DNA" effect is a consistent
+secondary outcome of the transmutation.
+
+SCOPE QUALIFICATION: The chronology records one subject. The claim
+above that the Perfected DNA outcome is consistent is not measured
+across cases in this dossier. AFD-OB-612 — Gems of Change, Anomaly File
+carries a broader research claim; this trial alone cannot establish its
+range.
+
+FUTURE ADDITIONS TO THIS DOSSIER SHOULD INCLUDE:
+- assay records supporting the reported lung finding
+- the interval and method for any post-change follow-up
+- later fertility analysis, if conducted and recorded
+
+CURRENT DOSSIER STATUS: Open / Fertility Analysis Pending
+
+END OF DOSSIER

@@ -1,10 +1,10 @@
 A.C.T FACILITY — TRANSFORMATION & UTILIZATION DOSSIER
 MACHINE-Heart-Transformation-Utilization-Dossier-AFD-OB-017
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |            A.C.T FACILITY — TRANSFORMATION & UTILIZATION DOSSIER             |
 |                      Anomaly Containment Transformation                      |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 DESIGNATION:         AFD-OB-017
 TITLE I:             MACHINE Heart
@@ -29,9 +29,9 @@ VIABILITY:
 REVIEW RANGE:        2002-03-14 to 2021-08-30
 ORDERING METHOD:     Chronological by proposal, oldest to newest
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |                              CATEGORY CONTENTS                               |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 This dossier belongs to A.C.T Log Category IX — Transformation & Utilization
 Dossier. The doctrine governing the category states that Transformation
@@ -65,9 +65,9 @@ the
 containment chamber, to approach the torso slot, or to conduct any activation
 trial at any clearance.
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |                               DOSSIER SUMMARY                                |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 AFD-OB-017 is an 8 m tall metal golem-like machine of dark iron alloy, brass-
 coloured hydraulic structures, black ceramic plates, and unknown pressure
@@ -109,9 +109,9 @@ minutes.
                          question about who is going
                          to be handed to it.
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |                     SECTION 001 — PROHIBITED USE NOTICE                      |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 LOG ID:              AFD-OB-017/TRN-000
 LOG TYPE:            Prohibited Use Notice
@@ -144,9 +144,9 @@ person who walks toward the object of their own accord while remaining aware
 and
 able to answer questions.
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |                SECTION 002 — TRANSFORMATION VIABILITY REVIEW                 |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 LOG ID:              AFD-OB-017/TRN-001
 LOG TYPE:            Transformation Viability Review
@@ -190,9 +190,9 @@ Transformation viability remains INVIOLABLE. The finding is not a judgement
 about
 the object's engineering. It is a judgement about the cost of switching it on.
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |                    SECTION 003 — REJECTED PROPOSAL LEDGER                    |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 LOG ID:              AFD-OB-017/TRN-002
 LOG TYPE:            Utilization Proposal / Failed Transformation Report
@@ -279,9 +279,9 @@ REASONING:           Closed without reopening. The finding does not rest on a
                      down.
 DISPOSITION:         Closed — no action, reasoning recorded
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |                         SECTION 004 — ETHICAL REVIEW                         |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 LOG ID:              AFD-OB-017/TRN-003
 LOG TYPE:            Ethical Review
@@ -326,9 +326,9 @@ RECOVERED SUBJECT AFTEREFFECTS:
                          That is worse for the
                          argument, not better.
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |                  SECTION 005 — CONTAINED-STUDY PROGRESS LOG                  |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 LOG ID:              AFD-OB-017/TRN-004
 LOG TYPE:            Contained-Study Progress Log
@@ -361,9 +361,9 @@ NOT ESTABLISHED:
    - whether a seated Heart-Signal can be recovered intact
    - whether the object retains anything of a subject after the signal fades
 
-+------------------------------------------------------------------------------+
++==============================================================================+
 |                               DOSSIER CLOSING                                |
-+------------------------------------------------------------------------------+
++==============================================================================+
 
 The correct transformation of AFD-OB-017 is the one already performed. It was
 recovered from an abandoned hydroelectric service cavern in Asturias under

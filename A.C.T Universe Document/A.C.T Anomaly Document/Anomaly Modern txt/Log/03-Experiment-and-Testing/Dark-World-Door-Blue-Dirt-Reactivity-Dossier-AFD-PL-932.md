@@ -1,0 +1,166 @@
+# A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
+
+Dark-World-Door-Blue-Dirt-Reactivity-Dossier-AFD-PL-932
+
+## A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
+
+Anomaly Containment Transformation
+
+DESIGNATION: AFD-PL-932
+TITLE I: Dark World Door
+TITLE II: THE NIGHT-CYCLE DIMENSION
+
+FIELD TYPE: PL — Place
+PRIMARY FILE: Dark-World-Door-AFD-PL-932
+
+DOCUMENT CATEGORY: CATEGORY III — Experiment & Testing Dossier
+CATEGORY FUNCTION: Verification of "Blue Dirt" (Soil) hardening-rate,
+toxicity of outgassing, and biological impact
+using E-Class subjects.
+
+CLEARANCE REQUIRED: Level 4 / White Grave Station
+
+CONTAINMENT SITE: ACT-SITE-02-RU-N — White Grave Station
+ARCHIVE STATUS: Active / High-Risk Environment
+DOSSIER STATUS: Open / Soil-Hardening Profile Compiled
+
+## CATEGORY CONTENTS
+
+This dossier contains the results of the "Hydration Reactivity" tests
+conducted on soil samples (Blue Dirt) harvested from AFD-PL-932. The
+goal was to measure the exact exothermic spike and the duration of
+toxic outgassing following a "Steel-Bloom" event.
+
+INCLUDED LOG TYPES:
+- Trial 932-E-04: The Steel-Bloom Reaction
+- Outgassing Analysis: The "Blue Haze" Toxicity
+- Senior Researcher Aris Thorne: Material Integrity Note
+- Outgassing Analysis: The Blue Haze Toxicity
+- Containment Implication: The Steel-Zone Rule
+- Dossier Closing Statement
+
+CATEGORY PURPOSE:
+Verification of the hardening rate of the soil called Blue Dirt,
+carried out through the steel-bloom trial with an archivist's note. Its
+use is to confirm a rate that other work depends upon. It does not
+extend the finding past the conditions of the trial, and a single trial
+cannot establish how that rate varies with anything.
+
+## SECTION 001 — THE STEEL-BLOOM TRIAL
+
+LOG ID: AFD-PL-932/TST-E04
+LOG TYPE: The Steel-bloom Trial
+DATE: 2024-06-02
+SUBJECT: E-Class E-932-22 (Fitted with bio-monitors)
+
+PROCEDURE:
+Subject was instructed to pour 100ml of distilled water onto a 1kg
+mound of raw "Blue Dirt."
+
+OBSERVATION:
+[T+00:00] — Water contact. Immediate blue luminescence recorded.
+[T+00:01] — EXOTHERMIC SPIKE: Temperature of the soil rises to 82°C.
+Subject reports a "sharp, metallic scent."
+[T+00:04] — SOLIDIFICATION: The soil mound instantaneously hardens into
+a seamless block of non-terrestrial steel. The subject
+attempted to touch the surface; his fingers were adhered to
+the block by the rapid binding process.
+[T+00:10] — THE BLOOM: A light purple gas (The Blue Haze) begins to
+vent from micro-pores in the metal. Subject begins
+coughing uncontrollably.
+
+RESULT:
+Hardening rate is confirmed at 4 seconds. The material is functionally
+indestructible once bloomed.
+
+## SECTION 002 — ARCHIVIST'S NOTE
+
+LOG ID: AFD-PL-932/THORNE-REF
+LOG TYPE: Archivist's Note
+AUTHOR: Aris Thorne (SR-412)
+
+"I analyzed the steel block after the subject was removed. It has
+the same density as Abyssal Basalt (Item 50), but it’s 90% lighter.
+
+The 'Blue Haze' is the real problem. It isn't just toxic; it’s a
+biological reminder that we don't belong in the Dark World. The gas
+slowly erodes the user's capacity for [ REDACTED ] over twelve months.
+We can build the Facility out of this stuff, but we’ll have to
+learn to breathe something else if we do."
+
+## SECTION 003 — OUTGASSING ANALYSIS — THE BLUE HAZE
+
+LOG ID: AFD-PL-932/TST-E04-B
+LOG TYPE: Outgassing Analysis
+DATE: 2024-06-02 (onset) — monitoring continues
+SOURCE: Micro-pores opening across the surface of the
+solidified block
+ONSET: T+00:10 from water contact, per the trial at
+Section 001
+APPEARANCE: Light purple gas, catalogued in this file as the
+Blue Haze
+DURATION: Exceeding twelve months. The primary file states
+a period exceeding twelve months and the breach
+protocol allows approximately twelve months
+before recovery, so the two records agree on the
+order and not on the day
+OBSERVED EFFECT: Uncontrollable coughing in E-932-22 at onset,
+taken from the bio-monitors the subject was
+fitted with
+STATED EFFECT: Erosion of the exposed subject's capacity for
+[ REDACTED ] across twelve months, per the note
+at Section 002
+COMPOSITION: Unresolved. No sample has been held long enough
+to characterise, because the outgassing does not
+stop inside any sampling window the Facility can
+hold open
+EXCLUSION: Twenty metres, matching the moisture exclusion
+already imposed on the portal room
+RECOVERY: Steel-Zone declaration, evacuation, and no
+recovery attempt until outgassing concludes
+
+ASSESSMENT: The Blue Haze is the reason a Steel-Bloom event is
+treated as a loss of the area rather than a contamination of it. The
+hardening finishes in four seconds and can be watched; the outgassing
+that follows runs past a year and cannot be sampled to completion.
+Every duration in this section is corroborated by a second record,
+and none of them is precise to a day.
+
+## SECTION 004 — CONTAINMENT IMPLICATION — THE STEEL-ZONE RULE
+
+LOG ID: AFD-PL-932/PLT-932-B
+LOG TYPE: Containment Implication
+EXCLUSION: No water, liquids or moisture-bearing equipment
+within twenty metres of the door
+EQUIPMENT: Redundant industrial dehumidifiers, fitted to the
+containment vault
+AIRLOCK: Triple-seal
+SUIT PROTOCOL: Sealed acid-resistant suits with integrated air
+supply, dry-cleaned before exit so that no Blue
+Dirt residue leaves the dimension
+BREACH: Steel-Zone declaration, evacuation, and no
+recovery attempt until outgassing concludes
+RECOVERY WINDOW: Approximately twelve months
+TOOL EXCEPTION: Pale Wood is worked with 24-karat gold
+instruments alone. That protocol does not reach
+Blue Dirt, which the trial at Section 001 found
+functionally indestructible once bloomed, so no
+tool in the protocol can work it afterwards
+
+ASSESSMENT: The twenty-metre rule exists because the trigger is
+moisture and not intent. Nothing in the protocol has to go wrong for
+a Steel-Bloom event to begin; a tracked residue and ordinary humidity
+are enough. The rule is therefore written against accidents rather
+than against error, which is why it excludes equipment as well as
+personnel.
+
+DOSSIER CLOSING
+
+MANDATORY PERSONNEL NOTICE:
+Do not track the dirt.
+Do not spill the water.
+The Haze never leaves.
+
+CURRENT DOSSIER STATUS: Open / Material Refinement Ongoing
+
+END OF DOSSIER

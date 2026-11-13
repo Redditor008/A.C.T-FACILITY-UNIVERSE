@@ -1,10 +1,10 @@
 A.C.T FACILITY — INCIDENT & BREACH DOSSIER
 Magical-Doll-MEW-Stars-Action-Incident-Dossier-AFD-SU-283
 
-+-----------------------------------------------------------------------------+
++=============================================================================+
                 A.C.T FACILITY — INCIDENT & BREACH DOSSIER
                      Anomaly Containment Transformation
-+-----------------------------------------------------------------------------+
++=============================================================================+
 
 DESIGNATION:         AFD-SU-283
 TITLE I:             Magical Doll MEW Stars
@@ -16,7 +16,7 @@ CATEGORY FUNCTION:   Unauthorized field manifestation logging; Analysis
 
 CLEARANCE REQUIRED:  Level 4 / Field Command
 
-+-----------------------------------------------------------------------------+
++=============================================================================+
 INCLUDED LOG TYPES:
    - The Revolution Bomb
    - Field Consequence
@@ -29,18 +29,18 @@ authorization and what it cost. It does not assess the subject's capability in
 general, since one manifestation is not a profile, and the consequence is
 recorded as observed rather than attributed.
 
-+-----------------------------------------------------------------------------+
++=============================================================================+
                                DOSSIER SUMMARY
-+-----------------------------------------------------------------------------+
++=============================================================================+
 
 AFD-SU-283 manifested during Recovery Team Delta-4's engagement.
 The intervention was unauthorized; the Revolution Bomb neutralized the
 recorded target, and nearby agents and civilians were exposed to Pretty
 Revolution light. A favorable result did not approve the method.
-+-----------------------------------------------------------------------------+
++=============================================================================+
 
                  SECTION 001 — THE REVOLUTION BOMB
-+-----------------------------------------------------------------------------+
++=============================================================================+
 
 LOG ID:              AFD-SU-283/INC-042
 LOG TYPE:            The Revolution Bomb
@@ -64,9 +64,9 @@ unauthorized "Narrative Jump" to the scene.
               exposed to pink "Pretty Revolution" light. Lacerations
               closed in 0.4 seconds.
 
-+-----------------------------------------------------------------------------+
++=============================================================================+
                    SECTION 002 — FIELD CONSEQUENCE
-+-----------------------------------------------------------------------------+
++=============================================================================+
 
 
 LOG TYPE:            Field Consequence
@@ -87,7 +87,7 @@ Civil Covert personnel retained the public explanation as a confused animal
 attack, emergency-light reflection, and shock response among witnesses.
 
 SECTION 003 — AFTER-ACTION REPORT
-+-----------------------------------------------------------------------------+
++=============================================================================+
 
 LOG ID:              AFD-SU-283/INC-042-AAR
 LOG TYPE:            After-Action Report
@@ -125,11 +125,11 @@ a medical asset. It also records no dosage control, consent procedure,
 contamination screening, or post-exposure baseline. A beneficial result is
 not a treatment protocol, and this report does not authorize repetition.
 
-+-----------------------------------------------------------------------------+
++=============================================================================+
 
-+-----------------------------------------------------------------------------+
++=============================================================================+
                          DOSSIER CLOSING
-+-----------------------------------------------------------------------------+
++=============================================================================+
 
 The record does not establish how the subject selected this scene,
 what prompted arrival, or whether a later medical review changed the

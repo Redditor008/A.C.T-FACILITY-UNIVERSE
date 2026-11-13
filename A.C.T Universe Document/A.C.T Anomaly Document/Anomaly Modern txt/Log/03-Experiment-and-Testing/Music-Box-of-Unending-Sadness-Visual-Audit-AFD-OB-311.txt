@@ -1,10 +1,10 @@
 A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
 Music-Box-of-Unending-Sadness-Visual-Audit-AFD-OB-311
 
-+----------------------------------------------------------------------+
++======================================================================+
               A.C.T FACILITY — EXPERIMENT & TESTING DOSSIER
                      Anomaly Containment Transformation
-+----------------------------------------------------------------------+
++======================================================================+
 
 DESIGNATION:         AFD-OB-311
 TITLE I:             Music Box of Unending Sadness
@@ -23,9 +23,9 @@ CONTAINMENT SITE:    ACT-SITE-03-JP-E — Kurokawa Archive Node
 ARCHIVE STATUS:      Active / Memetic Empathic
 DOSSIER STATUS:      Open / Visual Threshold Logged
 
-+----------------------------------------------------------------------+
++======================================================================+
                          CATEGORY CONTENTS
-+----------------------------------------------------------------------+
++======================================================================+
 
 This dossier contains the results of Trial 311-E-14, which aimed to
 measure the rate of "Visual Fading" (the loss of color perception) in
@@ -45,9 +45,9 @@ observation of the object itself begins to fail. It does not cover long-
 term fading beyond the trial window, and the note records the limit
 without explaining it.
 
-+----------------------------------------------------------------------+
++======================================================================+
                            DOSSIER SUMMARY
-+----------------------------------------------------------------------+
++======================================================================+
 
 Trial 311-E-14 records successive loss of color perception during
 playback, while the spectrum-analyzer check found the chart colors
@@ -56,11 +56,11 @@ Sadness, Anomaly File describes a general exposure threshold and
 recovery interval. The trial records a different recovery time and a
 song-end later than the stated maximum capacity; neither difference is
 explained in the record.
-+----------------------------------------------------------------------+
++======================================================================+
 
-+----------------------------------------------------------------------+
++======================================================================+
                SECTION 001 — THE MONOCHROME TRIAL
-+----------------------------------------------------------------------+
++======================================================================+
 
 LOG ID:              AFD-OB-311/TST-E14
 LOG TYPE:            The Monochrome Trial
@@ -89,9 +89,9 @@ Color perception returned to the subject after 32 minutes. The
 desaturation is a temporary optical hijack caused by the creator's
 recorded grief.
 
-+----------------------------------------------------------------------+
++======================================================================+
                  SECTION 002 — ARCHIVIST'S NOTE
-+----------------------------------------------------------------------+
++======================================================================+
 
 LOG ID:              AFD-OB-311/THORNE-02
 LOG TYPE:            Archivist's Note
@@ -106,7 +106,7 @@ sad enough, the world simply stops being bright. It is a very
 polite, very patient form of destruction."
 
 SECTION 003 — VISUAL THRESHOLD CROSS-CHECK
-+----------------------------------------------------------------------+
++======================================================================+
 
 LOG ID:              AFD-OB-311/EXP-CHK-001
 LOG TYPE:            Exposure Log
@@ -145,11 +145,11 @@ establish that the object altered the light or the charts. This single
 exposure does not establish a dose-response curve, long-term empathic
 residue, or a recovery interval for other subjects.
 
-+----------------------------------------------------------------------+
++======================================================================+
 
-+----------------------------------------------------------------------+
++======================================================================+
                          DOSSIER CLOSING
-+----------------------------------------------------------------------+
++======================================================================+
 
 The present record cannot reconcile the stated playback capacity with
 the logged song-end time, or the trial recovery time with the general

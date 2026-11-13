@@ -1,90 +1,97 @@
 # A.C.T FACILITY — ANOMALY FILE
-## The-Forgetting-Bloom-AFD-NB-004
 
-### A.C.T FACILITY — ANOMALY FILE
+The-Forgetting-Bloom-AFD-NB-004
 
-DESIGNATION:         AFD-NB-004
-                     Verified archive designation
-TITLE I:             The Forgetting Bloom
-TITLE II:            NEMNOLIA, THE GOLDEN VEIL
+## A.C.T FACILITY — ANOMALY FILE
 
-FIELD TYPE:          NB — Non-Natural Bio Hazard
+Anomaly Containment Transformation
 
-CLEARANCE REQUIRED:  Level 3
+DESIGNATION: AFD-NB-004
+Verified archive designation
+TITLE I: The Forgetting Bloom
+TITLE II: NEMNOLIA, THE GOLDEN VEIL
 
-### CLASSIFICATION
+FIELD TYPE: NB — Non-Natural Bio Hazard
 
-CONTAINMENT CLASS:   RESIDUAL
+CLEARANCE REQUIRED: Level 3
 
-FRACTURE INDEX —
-CONTAINMENT:         NONE
+## CLASSIFICATION
 
-THREAT LEVEL:        3
+CONTAINMENT CLASS: RESIDUAL
 
 FRACTURE INDEX —
-SUB-THREAT:          NONE
+CONTAINMENT: NONE
+
+THREAT LEVEL: 3
+
+FRACTURE INDEX —
+SUB-THREAT: NONE
 
 TRANSFORMATION
-VIABILITY:           INTEGRATED
+VIABILITY: INTEGRATED
 
-### DISCOVERY
+## DISCOVERY
 
-DATE OF DETECTION:   [ RESTRICTED ]
-VERIFICATION DATE:   [ RESTRICTED ]
-LOCATION:            [ REDACTED BIOLOGICAL SITE ]
-DISCOVERY METHOD:    Repeated witness memory loss / contradictory recall /
-                     field recovery after localized cognitive incident
+DATE OF DETECTION: [ RESTRICTED ]
+VERIFICATION DATE: [ RESTRICTED ]
+LOCATION: [ REDACTED BIOLOGICAL SITE ]
+DISCOVERY METHOD: Repeated witness memory loss / contradictory recall /
+field recovery after localized cognitive incident
 
 INITIAL RESPONSE
-OPERATION:           [ REDACTED ]
-RESPONDING UNIT:     Recovery Division / Medical Care Division
+OPERATION: [ REDACTED ]
+RESPONDING UNIT: Recovery Division / Medical Care Division
 RESPONDING FIELD
-OPERATOR:            [ RESTRICTED ]
-CIVILIAN EXPOSURE:   Moderate
-AMNESTIC DEPLOYED:   No — pre-refinement stage
-NARRATIVE STATUS:    Controlled
+OPERATOR: [ RESTRICTED ]
+CIVILIAN EXPOSURE: Moderate
+AMNESTIC DEPLOYED: No — pre-refinement stage
+NARRATIVE STATUS: Controlled
 
-### DESCRIPTION
+## DESCRIPTION
 
-AFD-NB-004 is a 3 meter tall giant pale white-blue flowering plant with translucent petals
-and vein-like golden structures running through the stem, leaves, and inner petal roots.
-During blooming cycles, the organism emits a faint cold golden mist. It continuously secretes
-a glowing translucent golden sap from fissures along its internal golden vein lattice.
+AFD-NB-004 is a 3 meter tall giant pale white-blue flowering plant with
+translucent petals and vein-like golden structures running through the stem,
+leaves, and inner petal roots. During blooming cycles, the organism emits a
+faint cold golden mist. It continuously secretes a glowing translucent golden
+sap from fissures along its internal golden vein lattice.
 
-The anomaly does not conform to ordinary botanical behavior. It shows no fully reliable
-dependence on conventional
-growth patterns and appears to respond to nearby thought, agitation, and active memory recall.
+The anomaly does not conform to ordinary botanical behavior. It shows no
+fully reliable dependence on conventional growth patterns and appears to
+respond to nearby thought, agitation, and active memory recall.
 
-Its golden sap possesses severe anomalous memory-erasing properties. In raw form or concentrated derivative form, the
-sap can erase short-term recall, long-term autobiographical memory, emotional association, and identity-linked
+Its golden sap possesses severe anomalous memory-erasing properties. In raw
+form or concentrated derivative form, the sap can erase short-term recall,
+long-term autobiographical memory, emotional association, and identity-linked
 continuity depending on concentration, dose, and administration quality.
 
-### ANOMALOUS PROPERTIES
+## ANOMALOUS PROPERTIES
 
-PRIMARY EFFECT:      Direct memory erasure through anomaly-derived sap
-                     exposure. Effects range from short-term memory loss
-                     to catastrophic identity collapse.
+PRIMARY EFFECT: Direct memory erasure through anomaly-derived sap
+exposure. Effects range from short-term memory loss
+to catastrophic identity collapse.
 
-SECONDARY EFFECT:    Bloom-cycle mist causes confusion, delayed recall,
-                     disorientation, and instability in recent memory
-                     formation during prolonged unprotected exposure.
+SECONDARY EFFECT: Bloom-cycle mist causes confusion, delayed recall,
+disorientation, and instability in recent memory
+formation during prolonged unprotected exposure.
 
-TRIGGER CONDITION:   Consumption, injection, bloodstream contact, or
-                     concentrated inhalation of extracted sap
+TRIGGER CONDITION: Consumption, injection, bloodstream contact, or
+concentrated inhalation of extracted sap
 
 RANGE / AREA OF
-INFLUENCE:           Object-bound / local mist field during bloom
+INFLUENCE: Object-bound / local mist field during bloom
 
-TEMPORAL BEHAVIOR:   Constant / bloom-enhanced
+TEMPORAL BEHAVIOR: Constant / bloom-enhanced
 
 REALITY INTERACTION: Minor biological-law violation / direct cognitive
-                     continuity disruption
+continuity disruption
 
-### CONTAINMENT PROCEDURES
+## CONTAINMENT PROCEDURES
 
-AFD-NB-004 is to be cultivated only under sealed biological containment conditions in approved North Wing botanical
-chambers. Bloom cycles are to be monitored remotely whenever possible. Sap extraction must occur inside
-negative-pressure harvest chambers with full protective equipment and post-handling cognitive assessment.
+AFD-NB-004 is to be cultivated only under sealed biological containment
+conditions in approved North Wing botanical chambers. Bloom cycles are to be
+monitored remotely whenever possible. Sap extraction must occur inside
+negative-pressure harvest chambers with full protective equipment and
+post-handling cognitive assessment.
 
 Direct exposure is restricted to:
 - Medical Care Division personnel
@@ -92,103 +99,114 @@ Direct exposure is restricted to:
 - Transformation Division personnel
 - designated archive pharmacology staff
 
-No solo work shift is authorized during active bloom. No exposed-skin handling is permitted. No raw sap transfer is
-permitted without sealed containment vials. No unsanctioned derivative testing is allowed outside approved facilities.
+No solo work shift is authorized during active bloom.
+No exposed-skin handling is permitted.
+No raw sap transfer is permitted without sealed containment vials.
+No unsanctioned derivative testing is allowed outside approved facilities.
 
-CONTAINMENT SITE:        Primary Facility / North Wings / Bio-Containment Cultivation Chamber
-SITE TYPE:               Primary Facility / Integrated Cultivation Chamber
+CONTAINMENT SITE: Primary Facility / North Wings / Bio-Containment Cultivation Chamber
+SITE TYPE: Primary Facility / Integrated Cultivation Chamber
 JURISDICTIONAL
-AUTHORITY:               Primary Facility Science and Medical Command
-CONTAINING DIVISION:     Researcher Division / Medical Care Division /
-                         Transformation Division
-REQUIRED PERSONNEL:      Biohazard-qualified staff
-MONITORING FREQUENCY:    Continuous during bloom / daily otherwise
-MAINTENANCE CYCLE:       Daily environmental review
+AUTHORITY: Primary Facility Science and Medical Command
+CONTAINING DIVISION: Researcher Division / Medical Care Division /
+Transformation Division
+REQUIRED PERSONNEL: Biohazard-qualified staff
+MONITORING FREQUENCY: Continuous during bloom / daily otherwise
+MAINTENANCE CYCLE: Daily environmental review
 
-BREACH PROTOCOL:         NB-004 Memory Exposure Containment Response
+BREACH PROTOCOL: NB-004 Memory Exposure Containment Response
 
-BREACH CONDITIONS — THIS ANOMALY IS CONSIDERED IN BREACH IF IT: [ ] Breaks
-formal containment [x] Endangers public
-normalcy [x] Spreads memetic, informational, or biological contamination [x] Resists classification and escalates
-beyond predicted behavior [ ] Transforms its environment into an anomalous zone [x] Other: Unauthorized sap release,
-unsanctioned derivative use, bloom-cycle mist spread outside approved containment
+BREACH CONDITIONS —
+THIS ANOMALY IS CONSIDERED
+IN BREACH IF IT:
+[ ] Breaks formal containment
+[x] Endangers public normalcy
+[x] Spreads memetic, informational, or biological contamination
+[x] Resists classification and escalates beyond predicted behavior
+[ ] Transforms its environment into an anomalous zone
+[x] Other: Unauthorized sap release, unsanctioned derivative use,
+bloom-cycle mist spread outside approved containment
 
-### RESEARCH LOG — SUMMARY
+## RESEARCH LOG — SUMMARY
 
-LEAD RESEARCHER:         [ RESTRICTED ]
-CURRENT RESEARCH PHASE:  Integrated utility / controlled derivative review
+LEAD RESEARCHER: [ RESTRICTED ]
+CURRENT RESEARCH PHASE: Integrated utility / controlled derivative review
 
-SUMMARY OF FINDINGS: AFD-NB-004 is the primary source anomaly used in the production of
-A.C.T amnestic compounds. Raw
-sap is dangerously unstable and biologically harmful, but refinement and dilution
-procedures have produced multiple graded memory- wipe compounds. The anomaly remains one
-of the most strategically important integrated biological assets under Facility control.
+SUMMARY OF FINDINGS:
+AFD-NB-004 is the primary source anomaly used in the production of A.C.T
+amnestic compounds. Raw sap is dangerously unstable and biologically harmful,
+but refinement and dilution procedures have produced multiple graded memory-
+wipe compounds. The anomaly remains one of the most strategically important
+integrated biological assets under Facility control.
 
-### TRANSFORMATION STATUS
+## TRANSFORMATION STATUS
 
-CURRENT VIABILITY:       INTEGRATED
+CURRENT VIABILITY: INTEGRATED
 
 TRANSFORMATION ATTEMPT
-HISTORY:                 Multiple successful refinement stages
-                         Result of most recent attempt: Stable derivative use
+HISTORY: Multiple successful refinement stages
+Result of most recent attempt: Stable derivative use
 
-TRANSFORMATION NOTES: AFD-NB-004 is among the earliest biological anomalies fully integrated into Facility operational
-infrastructure. Its derivative compounds form the basis of modern A.C.T amnestic medicine.
+TRANSFORMATION NOTES:
+AFD-NB-004 is among the earliest biological anomalies fully integrated into
+Facility operational infrastructure. Its derivative compounds form the basis
+of modern A.C.T amnestic medicine.
 
-### INCIDENT LOG — SUMMARY
+## INCIDENT LOG — SUMMARY
 
-TOTAL INCIDENTS:         [ RESTRICTED ]
-LAST INCIDENT DATE:      [ RESTRICTED ]
-HIGHEST SEVERITY:        Major
+TOTAL INCIDENTS: [ RESTRICTED ]
+LAST INCIDENT DATE: [ RESTRICTED ]
+HIGHEST SEVERITY: Major
 
 NOTABLE INCIDENTS:
 - early exposure subjects lost complete recent autobiographical continuity
 - multiple unsafe refinement attempts caused catastrophic biological side
-  effects
+effects
 — one archive spill event required immediate witness suppression
 
-### PERSONNEL RECORD
+## PERSONNEL RECORD
 
-ASSIGNED PERSONNEL:      [ RESTRICTED ]
-PREVIOUSLY ASSIGNED:     [ RESTRICTED ]
-CASUALTIES:              [ RESTRICTED ]
-AMNESTIC-ADMINISTERED:   [ RESTRICTED ]
-E-CLASS ASSIGNED:        Yes — controlled dosage testing history
+ASSIGNED PERSONNEL: [ RESTRICTED ]
+PREVIOUSLY ASSIGNED: [ RESTRICTED ]
+CASUALTIES: [ RESTRICTED ]
+AMNESTIC-ADMINISTERED: [ RESTRICTED ]
+E-CLASS ASSIGNED: Yes — controlled dosage testing history
 
-### REALITY THEORY NOTES
+## REALITY THEORY NOTES
 
-STRUCTURAL REALITY
-IMPACT:                  Minor Stress
+## STRUCTURAL REALITY
+
+IMPACT: Minor Stress
 
 MINOR PAUSE
-CORRELATION:             Unknown
+CORRELATION: Unknown
 
 COSMIC TIMER
-ITERATION LINK:          N/A
+ITERATION LINK: N/A
 
 REALITY BENDING
-OBSERVED:                Yes — memory appears to be altered as if it were
-                         removable biological material rather than only
-                         neurological pattern.
+OBSERVED: Yes — memory appears to be altered as if it were
+removable biological material rather than only
+neurological pattern.
 
-THEORY NOTES: Some researchers suspect AFD-NB-004 does not merely destroy memory, but interacts with
-memory as a
-harvestable structure. This remains under restricted theoretical review.
+THEORY NOTES:
+Some researchers suspect AFD-NB-004 does not merely destroy memory, but
+interacts with memory as a harvestable structure. This remains under
+restricted theoretical review.
 
-### ADDITIONAL NOTES
+## ADDITIONAL NOTES
 
-AFD-NB-004 is one of the pillars of Facility secrecy doctrine. Without it, mass witness
-sanitation would be
-significantly less reliable.
+AFD-NB-004 is one of the pillars of Facility secrecy doctrine.
+Without it, mass witness sanitation would be significantly less reliable.
 
-### FILE METADATA
+## FILE METADATA
 
-FILE CREATED:            [ RESTRICTED ]
-FILE LAST UPDATED:       [ RESTRICTED ]
-FILE AUTHOR:             [ RESTRICTED ]
-REVIEWED BY:             [ RESTRICTED ]
-FILE STATUS:             Active / Integrated Asset
+FILE CREATED: [ RESTRICTED ]
+FILE LAST UPDATED: [ RESTRICTED ]
+FILE AUTHOR: [ RESTRICTED ]
+REVIEWED BY: [ RESTRICTED ]
+FILE STATUS: Active / Integrated Asset
 
-DESIGNATION HISTORY:     AFD-NB-004
+DESIGNATION HISTORY: AFD-NB-004
 
-### UNAUTHORIZED ACCESS WILL BE MET WITH IMMEDIATE AMNESTIC ADMINISTRATION
+## UNAUTHORIZED ACCESS WILL BE MET WITH IMMEDIATE AMNESTIC ADMINISTRATION
