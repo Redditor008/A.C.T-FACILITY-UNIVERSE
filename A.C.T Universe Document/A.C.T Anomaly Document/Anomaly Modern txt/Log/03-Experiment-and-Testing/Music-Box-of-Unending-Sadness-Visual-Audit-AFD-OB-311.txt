@@ -113,10 +113,10 @@ LOG TYPE:            Exposure Log
 CATEGORY:            Experiment & Testing Dossier
 RANGE:               Trial 311-E-14; AFD-OB-311 — Music Box of Unending
                      Sadness, Anomaly File visual-fading limits
-REVIEWING UNIT:      Site-03 Archive Desk
-PRIMARY REVIEWER:    Not named in source record
-SECONDARY REVIEWER:  Not named in source record
-DATE:                2024-05-10
+REVIEWING UNIT:      Not recorded
+PRIMARY REVIEWER:    Not listed
+SECONDARY REVIEWER:  Not listed
+DATE:                Not recorded
 SUBJECT:             E-Class E-311-14
 
 SUMMARY:
@@ -146,6 +146,7 @@ exposure does not establish a dose-response curve, long-term empathic
 residue, or a recovery interval for other subjects.
 
 +----------------------------------------------------------------------+
+
 +----------------------------------------------------------------------+
                          DOSSIER CLOSING
 +----------------------------------------------------------------------+

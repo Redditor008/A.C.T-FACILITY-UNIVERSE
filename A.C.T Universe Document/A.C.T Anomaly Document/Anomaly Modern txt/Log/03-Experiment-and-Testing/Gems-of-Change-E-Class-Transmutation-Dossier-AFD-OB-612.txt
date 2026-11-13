@@ -42,10 +42,9 @@ INCLUDED LOG TYPES:
 CATEGORY PURPOSE:
 Controlled biological transmutation mapping, held as the chronology of trial
 612-E-09 with the archivist's analysis. Its use is to fix what the
-transmutation does to living matter and in what order it does it.
-It does not
-establish reversibility, and the chronology is one trial rather than a range
-of them.
+transmutation does to living matter and in what order it does it. It
+does not establish reversibility, and the chronology is one trial
+rather than a range of them.
 
 +---------------------------------------------------------------------------+
 +---------------------------------------------------------------------------+
@@ -112,10 +111,10 @@ LOG TYPE:            Exposure Log
 CATEGORY:            Experiment & Testing Dossier
 RANGE:               Trial T+00:00 to T+05:00; AFD-OB-612 — Gems of
                      Change, Anomaly File phase sequence
-REVIEWING UNIT:      Bio-Hazard Desk
-PRIMARY REVIEWER:    Not named in source record
-SECONDARY REVIEWER:  Not named in source record
-DATE:                2024-04-12
+REVIEWING UNIT:      Not recorded
+PRIMARY REVIEWER:    Not listed
+SECONDARY REVIEWER:  Not listed
+DATE:                Not recorded
 SUBJECT:             E-Class E-612-09
 
 SUMMARY:
@@ -147,6 +146,7 @@ comparison group is present here, so the chronology cannot establish that
 every contact produces the same emotional or biological response.
 
 +---------------------------------------------------------------------------+
+
 +---------------------------------------------------------------------------+
                          DOSSIER CLOSING
 +---------------------------------------------------------------------------+

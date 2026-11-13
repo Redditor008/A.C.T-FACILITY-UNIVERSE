@@ -33,10 +33,10 @@ recorded as observed rather than attributed.
                                DOSSIER SUMMARY
 +-----------------------------------------------------------------------------+
 
-AFD-SU-283 entered Delta-4's public engagement without authorization.
-The Revolution Bomb neutralized the recorded target; nearby agents and
-civilians were exposed to healing light. The recorded benefit does not
-convert the intervention into an approved response method.
+AFD-SU-283 manifested during Recovery Team Delta-4's engagement.
+The intervention was unauthorized; the Revolution Bomb neutralized the
+recorded target, and nearby agents and civilians were exposed to Pretty
+Revolution light. A favorable result did not approve the method.
 +-----------------------------------------------------------------------------+
 
                  SECTION 001 — THE REVOLUTION BOMB
@@ -94,9 +94,9 @@ LOG TYPE:            After-Action Report
 CATEGORY:            Incident & Breach Dossier
 RANGE:               14:22:15–14:22:27; recorded event sequence
 REVIEWING UNIT:      Field Command
-PRIMARY REVIEWER:    Not named in source record
-SECONDARY REVIEWER:  Not named in source record
-DATE:                Not recorded in source record
+PRIMARY REVIEWER:    Not listed
+SECONDARY REVIEWER:  Not listed
+DATE:                Not recorded
 
 SUMMARY:
 At 14:22:15 AFD-SU-283 appeared behind the lead agent. Mimi addressed the
@@ -126,6 +126,7 @@ contamination screening, or post-exposure baseline. A beneficial result is
 not a treatment protocol, and this report does not authorize repetition.
 
 +-----------------------------------------------------------------------------+
+
 +-----------------------------------------------------------------------------+
                          DOSSIER CLOSING
 +-----------------------------------------------------------------------------+
