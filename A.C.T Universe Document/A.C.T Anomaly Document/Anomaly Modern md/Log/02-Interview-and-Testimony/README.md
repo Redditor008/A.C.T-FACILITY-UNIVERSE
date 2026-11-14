@@ -20,12 +20,12 @@ It preserves how individuals describe an anomaly from inside the event.
 - the anomaly appears as a familiar figure
 - personnel interpretation affects containment
 
-## Files in this folder (4)
+## Records in this category (4)
 
-- [Argon-Internal-Depth-Cognition-Interview-AFD-SU-855](Argon-Internal-Depth-Cognition-Interview-AFD-SU-855.txt)
-- [Jormungandr-Heat-Resonance-Interview-Dossier-AFD-CH-647](Jormungandr-Heat-Resonance-Interview-Dossier-AFD-CH-647.txt)
-- [Terras-Pulse-Interview-Testimony-Dossier-AFD-SU-952](Terras-Pulse-Interview-Testimony-Dossier-AFD-SU-952.txt)
-- [Vivienne-Argent-Interview-Testimony-Dossier-AFD-SU-827](Vivienne-Argent-Interview-Testimony-Dossier-AFD-SU-827.txt)
+- [Argon-Internal-Depth-Cognition-Interview-AFD-SU-855](Argon-Internal-Depth-Cognition-Interview-AFD-SU-855.md)
+- [Jormungandr-Heat-Resonance-Interview-Dossier-AFD-CH-647](Jormungandr-Heat-Resonance-Interview-Dossier-AFD-CH-647.md)
+- [Terras-Pulse-Interview-Testimony-Dossier-AFD-SU-952](Terras-Pulse-Interview-Testimony-Dossier-AFD-SU-952.md)
+- [Vivienne-Argent-Interview-Testimony-Dossier-AFD-SU-827](Vivienne-Argent-Interview-Testimony-Dossier-AFD-SU-827.md)
 
 ## Where this folder sits
 

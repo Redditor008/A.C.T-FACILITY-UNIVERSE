@@ -176,6 +176,15 @@ DELETE_TESTS = [
     ("TECH_UNPAIRED_TWINS", TWIN),
     ("ROOT_FOLDERS_WITHOUT_README", README),
     ("FOLDERS_WITHOUT_README", "A.C.T Universe Document/ACT MAIN STORY/Characters/README.md"),
+    # Modern anomaly navigation is paired by relative path across the TXT and MD
+    # trees. Removing an MD landing page must flag its shelf and matching TXT shelf.
+    ("FOLDERS_WITHOUT_README",
+     "A.C.T Universe Document/A.C.T Anomaly Document/Anomaly Modern md/README.md"),
+    ("FOLDERS_WITHOUT_README",
+     "A.C.T Universe Document/A.C.T Anomaly Document/Anomaly Modern md/Log/README.md"),
+    ("FOLDERS_WITHOUT_README",
+     "A.C.T Universe Document/A.C.T Anomaly Document/Anomaly Modern md/Log/"
+     "01-Recovery-and-Discovery/README.md"),
 ]
 
 

@@ -21,10 +21,10 @@ It is used when the evidence itself matters.
 - old records contradict current history
 - the archive object must be separated from interpretation
 
-## Files in this folder (2)
+## Records in this category (2)
 
-- [Book-of-Hero-Archive-Dossier-AFD-OB-142](Book-of-Hero-Archive-Dossier-AFD-OB-142.txt)
-- [Stop-Watch-Recovered-Document-Archive-Dossier-AFD-TI-560](Stop-Watch-Recovered-Document-Archive-Dossier-AFD-TI-560.txt)
+- [Book-of-Hero-Archive-Dossier-AFD-OB-142](Book-of-Hero-Archive-Dossier-AFD-OB-142.md)
+- [Stop-Watch-Recovered-Document-Archive-Dossier-AFD-TI-560](Stop-Watch-Recovered-Document-Archive-Dossier-AFD-TI-560.md)
 
 ## Where this folder sits
 

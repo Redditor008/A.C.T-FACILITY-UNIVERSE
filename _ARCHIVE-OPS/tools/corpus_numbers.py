@@ -450,11 +450,30 @@ def main() -> int:
             r["THIN_READMES"] += 1
         if not re.search(r"^## ", body, re.M):
             r["READMES_WITHOUT_SECTIONS"] += 1
+    # TXT records remain in Anomaly Modern txt/, while their hand-written
+    # Markdown navigation lives in the structurally parallel Anomaly Modern md/.
+    # Accept the README at the matching relative path for those TXT shelves; this
+    # covers the root, Log and category directories without per-folder exceptions.
+    _readme_names = ("README.md", "readme.md", "README.txt", "README")
+    _anomaly_doc = ROOT / "A.C.T Universe Document" / "A.C.T Anomaly Document"
+    _modern_txt = _anomaly_doc / "Anomaly Modern txt"
+    _modern_md = _anomaly_doc / "Anomaly Modern md"
+
+    def _has_navigation_readme(folder: pathlib.Path) -> bool:
+        if any((folder / name).exists() for name in _readme_names):
+            return True
+        try:
+            relative = folder.relative_to(_modern_txt)
+        except ValueError:
+            return False
+        parallel = _modern_md / relative
+        return any((parallel / name).exists() for name in _readme_names)
+
     r["FOLDERS_WITHOUT_README"] = 0
     for d in ROOT.rglob("*"):
         if not d.is_dir() or any(part in _skip for part in d.parts):
             continue
-        if not any((d / n).exists() for n in ("README.md", "readme.md", "README.txt", "README")):
+        if not _has_navigation_readme(d):
             r["FOLDERS_WITHOUT_README"] += 1
     r["DOUBLED_RULE_LINES"] = 0
     for p in files:

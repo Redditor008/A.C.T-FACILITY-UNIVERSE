@@ -9,15 +9,17 @@ not survive, and the records A.C.T keeps on them.
 Vault; the rest of the archive is built on top of the pressure it describes. If you read one
 file in this folder, read that one.
 
-For something shorter and stranger, [Anomaly Modern txt/](Anomaly%20Modern%20txt/)
-holds the modern-era files and you can open any of them cold.
+For something shorter and stranger, the Markdown editions are in
+[Anomaly Modern md/](Anomaly%20Modern%20md/). Canonical plain-text records
+remain in [Anomaly Modern txt/](Anomaly%20Modern%20txt/).
 
 ## What is in here
 
 | Path | What it is |
 |---|---|
 | [ITHYOS Document/](ITHYOS%20Document/) | ENTITY-000 ITHYOS: first-vault records, modern file standard, log |
-| [Anomaly Modern txt/](Anomaly%20Modern%20txt/) | Modern-era anomaly files and dossiers |
+| [Anomaly Modern txt/](Anomaly%20Modern%20txt/) | Canonical modern-era plain-text records and dossiers |
+| [Anomaly Modern md/](Anomaly%20Modern%20md/) | Markdown editions and log navigation |
 | [Anomaly Legacy 01 .txt/](Anomaly%20Legacy%2001%20.txt/) | Legacy-era files, with an observation `Log/` |
 | [Anomaly Legacy 01.md/](Anomaly%20Legacy%2001.md/) | A small number of legacy-era files in Markdown |
 | [ANOMALY_RECORD_INDEX.md](ANOMALY_RECORD_INDEX.md) | Index of every file in this folder, grouped by code family and type code |

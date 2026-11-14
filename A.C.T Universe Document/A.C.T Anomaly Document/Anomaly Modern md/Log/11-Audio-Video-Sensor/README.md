@@ -19,11 +19,11 @@ It is used when the record is more important than a written summary.
 - sensor readings reveal hidden behavior
 - personnel perception cannot be trusted
 
-## Files in this folder (3)
+## Records in this category (3)
 
-- [Infinity-Train-E-Class-Recording-Dossier-AFD-SP-890](Infinity-Train-E-Class-Recording-Dossier-AFD-SP-890.txt)
-- [Music-Box-of-Unending-Sadness-Audio-Transcript-AFD-OB-311](Music-Box-of-Unending-Sadness-Audio-Transcript-AFD-OB-311.txt)
-- [Nyxara-Celestial-Sensor-Dossier-AFD-CH-703](Nyxara-Celestial-Sensor-Dossier-AFD-CH-703.txt)
+- [Infinity-Train-E-Class-Recording-Dossier-AFD-SP-890](Infinity-Train-E-Class-Recording-Dossier-AFD-SP-890.md)
+- [Music-Box-of-Unending-Sadness-Audio-Transcript-AFD-OB-311](Music-Box-of-Unending-Sadness-Audio-Transcript-AFD-OB-311.md)
+- [Nyxara-Celestial-Sensor-Dossier-AFD-CH-703](Nyxara-Celestial-Sensor-Dossier-AFD-CH-703.md)
 
 ## Where this folder sits
 

@@ -20,12 +20,12 @@ It is used to prevent repeat failures.
 - procedure is changed because of an event
 - an anomaly enters a dangerous state
 
-## Files in this folder (4)
+## Records in this category (4)
 
-- [Gems-of-Change-Incident-Breach-Dossier-AFD-OB-612](Gems-of-Change-Incident-Breach-Dossier-AFD-OB-612.txt)
-- [KITSUNE-Fox-Girl-Incident-Breach-Dossier-AFD-SU-572](KITSUNE-Fox-Girl-Incident-Breach-Dossier-AFD-SU-572.txt)
-- [Magical-Doll-MEW-Stars-Action-Incident-Dossier-AFD-SU-283](Magical-Doll-MEW-Stars-Action-Incident-Dossier-AFD-SU-283.txt)
-- [Soul-Pendant-Incident-Dossier-AFD-OB-412](Soul-Pendant-Incident-Dossier-AFD-OB-412.txt)
+- [Gems-of-Change-Incident-Breach-Dossier-AFD-OB-612](Gems-of-Change-Incident-Breach-Dossier-AFD-OB-612.md)
+- [KITSUNE-Fox-Girl-Incident-Breach-Dossier-AFD-SU-572](KITSUNE-Fox-Girl-Incident-Breach-Dossier-AFD-SU-572.md)
+- [Magical-Doll-MEW-Stars-Action-Incident-Dossier-AFD-SU-283](Magical-Doll-MEW-Stars-Action-Incident-Dossier-AFD-SU-283.md)
+- [Soul-Pendant-Incident-Dossier-AFD-OB-412](Soul-Pendant-Incident-Dossier-AFD-OB-412.md)
 
 ## Where this folder sits
 

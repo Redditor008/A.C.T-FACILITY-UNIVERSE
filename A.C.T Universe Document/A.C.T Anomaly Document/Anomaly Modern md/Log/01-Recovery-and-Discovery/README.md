@@ -19,12 +19,12 @@ It is used to preserve the first chain of custody.
 - the anomaly was unstable during intake
 - future review may need to know exactly how A.C.T first encountered it
 
-## Files in this folder (4)
+## Records in this category (4)
 
-- [Death-Angler-Recovery-Discovery-Dossier-AFD-NB-964](Death-Angler-Recovery-Discovery-Dossier-AFD-NB-964.txt)
-- [Hang-Snake-Recovery-Dossier-AFD-SU-902](Hang-Snake-Recovery-Dossier-AFD-SU-902.txt)
-- [Infinite-Water-Jug-Recovery-Discovery-Dossier-AFD-OB-492](Infinite-Water-Jug-Recovery-Discovery-Dossier-AFD-OB-492.txt)
-- [Paper-Flower-Legacy-Origin-Dossier-AFD-NB-204](Paper-Flower-Legacy-Origin-Dossier-AFD-NB-204.txt)
+- [Death-Angler-Recovery-Discovery-Dossier-AFD-NB-964](Death-Angler-Recovery-Discovery-Dossier-AFD-NB-964.md)
+- [Hang-Snake-Recovery-Dossier-AFD-SU-902](Hang-Snake-Recovery-Dossier-AFD-SU-902.md)
+- [Infinite-Water-Jug-Recovery-Discovery-Dossier-AFD-OB-492](Infinite-Water-Jug-Recovery-Discovery-Dossier-AFD-OB-492.md)
+- [Paper-Flower-Legacy-Origin-Dossier-AFD-NB-204](Paper-Flower-Legacy-Origin-Dossier-AFD-NB-204.md)
 
 ## Where this folder sits
 

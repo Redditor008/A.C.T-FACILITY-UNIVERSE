@@ -103,7 +103,8 @@ A.C.T-FACILITY-UNIVERSE/
 │   │   └── …Full-Manuscript.md     the complete story in one file
 │   ├── A.C.T Anomaly Document/     the anomalies themselves
 │   │   ├── ITHYOS Document/        ENTITY-000, the First Vault
-│   │   ├── Anomaly Modern txt/     modern-era files + Log/
+│   │   ├── Anomaly Modern txt/     modern-era TXT records + Log/
+│   │   ├── Anomaly Modern md/      Markdown editions + Log navigation
 │   │   ├── Anomaly Legacy 01 .txt/ legacy-era files + Log/
 │   │   └── Anomaly Legacy 01.md/   a few legacy files in Markdown
 │   ├── A.C.T Technology Document/  what the Facility builds
@@ -141,7 +142,8 @@ A.C.T-FACILITY-UNIVERSE/
 | Site dossiers | `…/Site Dossier/` (both trees) | 5 `SITE` and 5 `SUB` comprehensive dossiers |
 | Floor dossiers | `…/Site Dossier/Floor Dossier/` (both trees) | 46 individual floor dossiers (`SUB-04` has no floors by canon) |
 | Legacy anomalies | `…/Anomaly Legacy 01 .txt/` and `Anomaly Legacy 01.md/` | Legacy-era files and observation logs |
-| Modern anomalies | `…/Anomaly Modern txt/` | Modern-era anomaly files, dossiers, character and capability profiles |
+| Modern anomalies (TXT) | `…/Anomaly Modern txt/` | Modern-era TXT records, dossiers, character and capability profiles |
+| Modern anomalies (Markdown) | `…/Anomaly Modern md/` | Markdown editions and parallel log navigation |
 | ITHYOS | `…/ITHYOS Document/` | ENTITY-000 first-vault records, modern file standard, log |
 | GOI | `…/A.C.T GOI Document/GOI_MD` ↔ `GOI_TXT` | 30 Group of Interest dossiers, plus recovered-document records |
 | Technology | `…/A.C.T Technology Document/TECH_MD` ↔ `TECH_TXT` | 242 per-system records: `TECH-ACT` (A.C.T developed) and `TECH-GOI` (recovered from or assessed against a GOI) |
@@ -165,6 +167,7 @@ A.C.T-FACILITY-UNIVERSE/
 - **The Junior Handbook** is deliberately simplified for junior orientation. Do not force
   the full mid-level role ladder into it.
 - **Anomaly records** live in `Anomaly Modern txt/` and the two `Anomaly Legacy 01` folders.
+  Available modern Markdown editions live separately in `Anomaly Modern md/`.
   Code families are `AFD` (anomaly, filed), `UFD` (unfiled) and `ANM` (anomaly, modern),
   with type codes `OB`, `SU`, `CH`, `NB`, `ME`, `IH`, `PL`, `SP`, `TI` and `.H`.
 - **GOI designation** is `GOI-XX-X-XXX`. The two-letter segment is the **nature class** —

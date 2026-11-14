@@ -19,12 +19,12 @@ It is used when the anomaly's meaning or mechanics remain uncertain.
 - A.C.T divisions disagree
 - the anomaly connects to larger doctrine
 
-## Files in this folder (4)
+## Records in this category (4)
 
-- [Magical-Doll-MEW-Stars-Battle-Style-Analysis-AFD-SU-283](Magical-Doll-MEW-Stars-Battle-Style-Analysis-AFD-SU-283.txt)
-- [Nyxara-Research-Analysis-Dossier-AFD-CH-703](Nyxara-Research-Analysis-Dossier-AFD-CH-703.txt)
-- [Spinosaurus-Phenotypic-Anachronism-Dossier-AFD-SU-937](Spinosaurus-Phenotypic-Anachronism-Dossier-AFD-SU-937.txt)
-- [Thorne-Displacement-Event-Analysis-Dossier-AFD-715](Thorne-Displacement-Event-Analysis-Dossier-AFD-715.txt)
+- [Magical-Doll-MEW-Stars-Battle-Style-Analysis-AFD-SU-283](Magical-Doll-MEW-Stars-Battle-Style-Analysis-AFD-SU-283.md)
+- [Nyxara-Research-Analysis-Dossier-AFD-CH-703](Nyxara-Research-Analysis-Dossier-AFD-CH-703.md)
+- [Spinosaurus-Phenotypic-Anachronism-Dossier-AFD-SU-937](Spinosaurus-Phenotypic-Anachronism-Dossier-AFD-SU-937.md)
+- [Thorne-Displacement-Event-Analysis-Dossier-AFD-715](Thorne-Displacement-Event-Analysis-Dossier-AFD-715.md)
 
 ## Where this folder sits
 

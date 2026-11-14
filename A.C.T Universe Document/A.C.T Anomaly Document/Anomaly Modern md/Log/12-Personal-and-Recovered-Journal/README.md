@@ -19,11 +19,11 @@ anomaly-authored or affected journal entries.
 - the anomaly writes or causes writing
 - official summaries cannot capture subjective progression
 
-## Files in this folder (3)
+## Records in this category (3)
 
-- [Circus-Monster-Recovered-Diary-Dossier-AFD-SU-507](Circus-Monster-Recovered-Diary-Dossier-AFD-SU-507.txt)
-- [Thorne-Personal-Reflection-Log-2026-SR-T-412](Thorne-Personal-Reflection-Log-2026-SR-T-412.txt)
-- [Thorne-Sentient-Subject-Evaluation-Private-Log-2026](Thorne-Sentient-Subject-Evaluation-Private-Log-2026.txt)
+- [Circus-Monster-Recovered-Diary-Dossier-AFD-SU-507](Circus-Monster-Recovered-Diary-Dossier-AFD-SU-507.md)
+- [Thorne-Personal-Reflection-Log-2026-SR-T-412](Thorne-Personal-Reflection-Log-2026-SR-T-412.md)
+- [Thorne-Sentient-Subject-Evaluation-Private-Log-2026](Thorne-Sentient-Subject-Evaluation-Private-Log-2026.md)
 
 ## Where this folder sits
 
