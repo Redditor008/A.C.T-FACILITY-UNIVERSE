@@ -25,8 +25,7 @@ DOSSIER STATUS: Open / Cooperative Log Archived
 
 ## CATEGORY CONTENTS
 
-## This dossier documents the first controlled interaction between
-
+This dossier documents the first controlled interaction between
 AFD-SU-714 (MOGI-AT) and AFD-SU-005 (Anny). The objective was to
 determine if a "Sovereign Anomaly" could stabilize the digital-biological
 distress reported by the MOGI-AT subject.

@@ -96,8 +96,7 @@ Consistency.
 
 ## CONTAINMENT PROCEDURES
 
-## AFD-OB-142 is housed in the Low-Threat Archive at
-
+AFD-OB-142 is housed in the Low-Threat Archive at
 ACT-SITE-03-JP-E (Kurokawa Archive Node).
 
 1. DOCUMENT PROTECTION: The cover and existing pages have been

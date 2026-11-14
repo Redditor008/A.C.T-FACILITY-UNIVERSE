@@ -24,8 +24,7 @@ DOSSIER STATUS: Open / Complete Two-Year Log Compiled
 
 ## CATEGORY CONTENTS
 
-## This dossier contains the exhaustive data-reconstruction of Research
-
+This dossier contains the exhaustive data-reconstruction of Research
 Incident 890-Alpha (2000-2001). It documents the total 730-day
 subjective journey of E-Class Subject E-890-04.
 

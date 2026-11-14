@@ -111,8 +111,7 @@ Overdrive.
 
 ## CONTAINMENT PROCEDURES
 
-## AFD-SU-952 is housed in a "Sylvan-Simulation Suite" at
-
+AFD-SU-952 is housed in a "Sylvan-Simulation Suite" at
 ACT-SITE-04-BR-C.
 
 1. PERSONNEL EXCLUSION: Only female personnel or male staff with a

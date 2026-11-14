@@ -52,8 +52,7 @@ unlabeled alcove. (Archive Modernization 1960)
 
 ## DESCRIPTION
 
-## AFD-OB-117 is a high-resistance vending machine of pseudo-futuristic
-
+AFD-OB-117 is a high-resistance vending machine of pseudo-futuristic
 design. The exterior appears to be a standard industrial-grade vending
 chassis that has been modified with roughly-cut plastic panels,
 exposed neon LED strips, and hand-soldered circuit boards. The

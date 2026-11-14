@@ -118,8 +118,7 @@ REALITY INTERACTION: Biological-Law Violation / Spontaneous Speciation.
 
 ## CONTAINMENT PROCEDURES
 
-## AFD-SU-827 is housed in a "Humidity-Controlled Suite" at
-
+AFD-SU-827 is housed in a "Humidity-Controlled Suite" at
 ACT-SITE-04-BR-C.
 
 1. HABITAT REQUIREMENTS: The containment chamber must maintain a
@@ -157,8 +156,7 @@ Avoid "Death Flags"—unnecessary escalations.
 
 ## RESEARCH SUMMARY
 
-## Vivienne’s "Protagonist Thinking" serves as an intuitive risk-analysis
-
+Vivienne’s "Protagonist Thinking" serves as an intuitive risk-analysis
 tool. Research focuses on her enhanced sensory inference and the
 molecular mechanics of her "Quiet Transformation" from human to
 reptilian-hybrid state.

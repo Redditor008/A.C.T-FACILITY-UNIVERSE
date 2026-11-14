@@ -65,8 +65,7 @@ caretaker tradition
 
 ## DESCRIPTION
 
-## AFD-SU-572 is a 232-year-old female-presenting kitsune-class humanoid subject
-
+AFD-SU-572 is a 232-year-old female-presenting kitsune-class humanoid subject
 who identifies as Kazumi Mori. The subject explains that the name was given by
 a
 former temple caretaker. The surname Mori is retained in archive translation as

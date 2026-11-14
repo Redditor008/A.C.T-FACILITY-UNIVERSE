@@ -22,8 +22,7 @@ DOSSIER STATUS: Open / Historical Mission Log Archived
 
 ## CATEGORY CONTENTS
 
-## This dossier chronicles the exceptionally difficult three-month recovery
-
+This dossier chronicles the exceptionally difficult three-month recovery
 of AFD-NB-964. The operation was plagued by the subject's ability to
 vanish from all light-based sensors and its capacity to hypnotize
 tactical dive teams.

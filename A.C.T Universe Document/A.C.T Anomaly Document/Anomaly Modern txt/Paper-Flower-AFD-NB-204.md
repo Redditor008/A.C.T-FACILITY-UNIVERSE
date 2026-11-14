@@ -145,8 +145,7 @@ simply relocate the pot.
 
 ## RESEARCH SUMMARY
 
-## AFD-NB-204 represents a successful "Transformation" of a
-
+AFD-NB-204 represents a successful "Transformation" of a
 potentially dangerous memetic concept into a stable, beneficial
 asset. While the mechanism for how paper processes nutrients is
 unknown, the result is a highly effective, non-chemical

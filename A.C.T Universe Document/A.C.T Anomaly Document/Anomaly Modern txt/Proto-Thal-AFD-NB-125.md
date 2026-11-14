@@ -50,8 +50,7 @@ scrubbed via ACT-SITE-03 (Kurokawa).
 
 ## DESCRIPTION
 
-## AFD-NB-125, designated Proto-Thal, is an ancient crustacean organism
-
+AFD-NB-125, designated Proto-Thal, is an ancient crustacean organism
 of impossible scale. Shell-surface scans indicate the subject is
 approximately 12,500 years old. The subject measures 43 km in total
 diameter and resides within an anomalously "Stretched" section of the
@@ -110,8 +109,7 @@ Tectonic Entanglement.
 
 ## CONTAINMENT PROCEDURES
 
-## AFD-NB-125 is contained in-place via ACT-SITE-05-ID-C — Nusantara Deep
-
+AFD-NB-125 is contained in-place via ACT-SITE-05-ID-C — Nusantara Deep
 Relay. Containment is focused on "Routine Preservation" and the
 prevention of subject agitation.
 

@@ -25,8 +25,7 @@ DOSSIER STATUS: Open / Divergence Cataloged
 
 ## CATEGORY CONTENTS
 
-## This dossier explores the profound morphological discrepancy between
-
+This dossier explores the profound morphological discrepancy between
 AFD-SU-937 and the established fossil record for *Spinosaurus
 aegyptiacus*. While the subject is a "Time-Frozen" entity, its physical
 form aligns with a specific piece of 21st-century cinema rather than the

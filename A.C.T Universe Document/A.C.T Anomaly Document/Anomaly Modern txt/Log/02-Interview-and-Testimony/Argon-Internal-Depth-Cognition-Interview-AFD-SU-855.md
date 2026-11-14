@@ -26,8 +26,7 @@ DOSSIER STATUS: Open / Master Interview Compiled
 
 ## CATEGORY CONTENTS
 
-## This dossier contains the "Centennial Audit" (Internal Reference)
-
+This dossier contains the "Centennial Audit" (Internal Reference)
 conducted in mid-2026. The goal of this interview was to explore Argon's
 internal perception of "Truth" versus "Data," her refusal to leave
 20-year-old hardware, and her observations regarding the other subjects

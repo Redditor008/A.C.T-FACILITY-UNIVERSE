@@ -38,8 +38,7 @@ observed may still exist.
 
 ## DOSSIER SUMMARY
 
-## AFD-SU-283's verified registry separates restorative output, explosive
-
+AFD-SU-283's verified registry separates restorative output, explosive
 discharge, and one beam attributed to both personas. AFD-SU-283 —
 Magical Doll MEW Stars, Anomaly File describes Mimi and Shu Shu as a
 body-soul composite whose dominant personality changes the vessel's
@@ -137,8 +136,7 @@ capability.
 
 ## DOSSIER CLOSING
 
-## The registry cannot settle whether synchronization changes attack
-
+The registry cannot settle whether synchronization changes attack
 accuracy, range, or failure rate; no section here measures those
 outcomes.
 

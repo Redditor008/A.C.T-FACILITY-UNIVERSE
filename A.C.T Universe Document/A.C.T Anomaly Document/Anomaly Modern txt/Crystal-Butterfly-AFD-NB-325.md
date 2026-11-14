@@ -113,8 +113,7 @@ Transmutation.
 
 ## CONTAINMENT PROCEDURES
 
-## AFD-NB-325 is housed in a "Shatter-Proof Biosphere" at
-
+AFD-NB-325 is housed in a "Shatter-Proof Biosphere" at
 ACT-SITE-04-BR-C.
 
 1. PROXIMITY ZONE: A strict exclusion zone is enforced around the hive.

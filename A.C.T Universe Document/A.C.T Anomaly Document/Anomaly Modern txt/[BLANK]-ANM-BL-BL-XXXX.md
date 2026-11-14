@@ -51,8 +51,7 @@ NARRATIVE STATUS: Redacted from all standard archives.
 
 ## DESCRIPTION
 
-## ANM-BL-BL-XXXX is a sentient [ INFO-HAZARD ] that expresses extreme
-
+ANM-BL-BL-XXXX is a sentient [ INFO-HAZARD ] that expresses extreme
 hostility toward being perceived, documented, or read by non-anomalous
 beings. The anomaly considers the gaze of "Normalcy" to be a
 foundational insult.

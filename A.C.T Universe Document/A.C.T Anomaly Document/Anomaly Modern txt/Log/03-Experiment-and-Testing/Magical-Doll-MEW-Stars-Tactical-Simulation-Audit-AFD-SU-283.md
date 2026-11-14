@@ -23,8 +23,7 @@ DOSSIER STATUS: Open / Simulation Cycle 01 Compiled
 
 ## CATEGORY CONTENTS
 
-## This dossier contains the reconstructed logs from Simulation
-
+This dossier contains the reconstructed logs from Simulation
 Mew-Alpha, the first authorized tactical audit of AFD-SU-283. The
 goal was to observe the subject's transition from "Dormant State" to
 "Battle State" and to measure the physical impact of her

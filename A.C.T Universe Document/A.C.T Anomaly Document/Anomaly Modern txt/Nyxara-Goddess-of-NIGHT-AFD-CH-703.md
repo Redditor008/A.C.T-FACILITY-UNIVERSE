@@ -118,8 +118,7 @@ Hydrological Entanglement.
 
 ## CONTAINMENT PROCEDURES
 
-## AFD-CH-703 is "Contained" via information suppression and scientific
-
+AFD-CH-703 is "Contained" via information suppression and scientific
 misdirection. No physical containment of a 1,000 km lunar entity is
 possible.
 

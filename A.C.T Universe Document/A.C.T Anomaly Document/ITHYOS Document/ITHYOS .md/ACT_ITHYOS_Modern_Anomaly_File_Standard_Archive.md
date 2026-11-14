@@ -60,8 +60,7 @@ NARRATIVE STATUS: Controlled / Buried / Myth-fractured
 
 ## DESCRIPTION
 
-## AFD-CH-000, designated ITHYOS, THE WORLD-SLEEPER, is a planetary-scale
-
+AFD-CH-000, designated ITHYOS, THE WORLD-SLEEPER, is a planetary-scale
 serpentiform entity estimated at approximately 10 kilometers in length.
 The anomaly is believed to remain dormant within the Earth’s core region,
 though total body confirmation is incomplete due to extreme inaccessibility,

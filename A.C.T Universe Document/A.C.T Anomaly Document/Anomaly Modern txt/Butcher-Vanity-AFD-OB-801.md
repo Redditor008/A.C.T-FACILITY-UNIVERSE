@@ -51,8 +51,7 @@ the removal of the subject. (Converted to AFD 1976)
 
 ## DESCRIPTION
 
-## AFD-OB-801, designated Butcher Vanity, consists of two interconnected
-
+AFD-OB-801, designated Butcher Vanity, consists of two interconnected
 components:
 
 1. AFD-OB-801-A (The Cleaver): A standard industrial-style meat
